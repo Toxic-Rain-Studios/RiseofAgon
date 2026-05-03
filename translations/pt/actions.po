@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "Action"
+msgstr ""
+
+msgid "a_Add_fixed_modifier"
+msgstr ""
+
+msgid "a_Add_random_modifier"
+msgstr ""
+
+msgid "a_Alternative_Use"
+msgstr ""
+
+msgid "a_Camp"
+msgstr ""
+
+msgid "a_CoordinatorActions"
+msgstr ""
+
+msgid "a_Crouch"
+msgstr ""
+
+msgid "a_Do_Camera_Back_View"
+msgstr ""
+
+msgid "a_Do_Camera_Front_View"
+msgstr ""
+
+msgid "a_Do_Camera_Left_View"
+msgstr ""
+
+msgid "a_Do_Camera_Right_View"
+msgstr ""
+
+msgid "a_Gank"
+msgstr ""
+
+msgid "a_Jump"
+msgstr ""
+
+msgid "a_Lean_Left"
+msgstr ""
+
+msgid "a_Lean_Right"
+msgstr ""
+
+msgid "a_Move_Backward"
+msgstr ""
+
+msgid "a_Move_Down"
+msgstr ""
+
+msgid "a_Move_Faster"
+msgstr ""
+
+msgid "a_Move_Forward"
+msgstr ""
+
+msgid "a_Move_Left"
+msgstr ""
+
+msgid "a_Move_Right"
+msgstr ""
+
+msgid "a_Move_Slower"
+msgstr ""
+
+msgid "a_Move_Up"
+msgstr ""
+
+msgid "a_MovementActions"
+msgstr ""
+
+msgid "a_Parry"
+msgstr ""
+
+msgid "a_Ping_Waypoint"
+msgstr ""
+
+msgid "a_Request_EngineData"
+msgstr ""
+
+msgid "a_Rest"
+msgstr ""
+
+msgid "a_Revive"
+msgstr ""
+
+msgid "a_Rotate_Along_X_Axis"
+msgstr ""
+
+msgid "a_Rotate_Along_Y_Axis"
+msgstr ""
+
+msgid "a_Rotate_Along_Z_Axis"
+msgstr ""
+
+msgid "a_Rotate_Down"
+msgstr ""
+
+msgid "a_Rotate_Left"
+msgstr ""
+
+msgid "a_Rotate_Right"
+msgstr ""
+
+msgid "a_Rotate_Up"
+msgstr ""
+
+msgid "a_RotationActions"
+msgstr ""
+
+msgid "a_Run_Backward"
+msgstr ""
+
+msgid "a_Run_Forward"
+msgstr ""
+
+msgid "a_Run_Left"
+msgstr ""
+
+msgid "a_Run_Right"
+msgstr ""
+
+msgid "a_Screenshot"
+msgstr ""
+
+msgid "a_Select_Default_Skill"
+msgstr ""
+
+msgid "a_Select_Gank_Skill"
+msgstr ""
+
+msgid "a_Select_Previous_Skill"
+msgstr ""
+
+msgid "a_Select_Revive_Skill"
+msgstr ""
+
+msgid "a_SkillActions"
+msgstr ""
+
+msgid "a_Sprint"
+msgstr ""
+
+msgid "a_TestAction1"
+msgstr ""
+
+msgid "a_TestAction2"
+msgstr ""
+
+msgid "a_TestAction3"
+msgstr ""
+
+msgid "a_TestAction4"
+msgstr ""
+
+msgid "a_TestActions"
+msgstr ""
+
+msgid "a_Toggle_AutoCrouch"
+msgstr ""
+
+msgid "a_Toggle_AutoRun"
+msgstr ""
+
+msgid "a_Toggle_AutoSprint"
+msgstr ""
+
+msgid "a_Toggle_Camera_Relation"
+msgstr ""
+
+msgid "a_Toggle_Camera_View"
+msgstr ""
+
+msgid "a_Toggle_Enable_Alternative_Attack"
+msgstr ""
+
+msgid "a_Toggle_First_Person_Hands"
+msgstr ""
+
+msgid "a_Toggle_Invert_Mouse"
+msgstr ""
+
+msgid "a_Toggle_MouseSmoothing"
+msgstr ""
+
+msgid "a_Toggle_Move_Camera"
+msgstr ""
+
+msgid "a_Toggle_Third_Person_View"
+msgstr ""
+
+msgid "a_Toggle_Unsheathe_Object"
+msgstr ""
+
+msgid "a_Trigger_Current_Item"
+msgstr ""
+
+msgid "a_Unsheathe_Object"
+msgstr ""
+
+msgid "a_Use"
+msgstr ""
+
+msgid "a_Walk"
+msgstr ""
+
+msgid "a_Zoom_In"
+msgstr ""
+
+msgid "a_Zoom_Out"
+msgstr ""
+
+msgid "desc_Action"
+msgstr ""
+
+msgid "desc_a_Add_fixed_modifier"
+msgstr ""
+
+msgid "desc_a_Add_random_modifier"
+msgstr ""
+
+msgid "desc_a_Alternative_Use"
+msgstr ""
+
+msgid "desc_a_Camp"
+msgstr ""
+
+msgid "desc_a_CoordinatorActions"
+msgstr ""
+
+msgid "desc_a_Crouch"
+msgstr ""
+
+msgid "desc_a_Do_Camera_Back_View"
+msgstr ""
+
+msgid "desc_a_Do_Camera_Front_View"
+msgstr ""
+
+msgid "desc_a_Do_Camera_Left_View"
+msgstr ""
+
+msgid "desc_a_Do_Camera_Right_View"
+msgstr ""
+
+msgid "desc_a_Gank"
+msgstr ""
+
+msgid "desc_a_Jump"
+msgstr ""
+
+msgid "desc_a_Lean_Left"
+msgstr ""
+
+msgid "desc_a_Lean_Right"
+msgstr ""
+
+msgid "desc_a_Move_Backward"
+msgstr ""
+
+msgid "desc_a_Move_Down"
+msgstr ""
+
+msgid "desc_a_Move_Faster"
+msgstr ""
+
+msgid "desc_a_Move_Forward"
+msgstr ""
+
+msgid "desc_a_Move_Left"
+msgstr ""
+
+msgid "desc_a_Move_Right"
+msgstr ""
+
+msgid "desc_a_Move_Slower"
+msgstr ""
+
+msgid "desc_a_Move_Up"
+msgstr ""
+
+msgid "desc_a_MovementActions"
+msgstr ""
+
+msgid "desc_a_Parry"
+msgstr ""
+
+msgid "desc_a_Ping_Waypoint"
+msgstr ""
+
+msgid "desc_a_Request_EngineData"
+msgstr ""
+
+msgid "desc_a_Rest"
+msgstr ""
+
+msgid "desc_a_Revive"
+msgstr ""
+
+msgid "desc_a_Rotate_Along_X_Axis"
+msgstr ""
+
+msgid "desc_a_Rotate_Along_Y_Axis"
+msgstr ""
+
+msgid "desc_a_Rotate_Along_Z_Axis"
+msgstr ""
+
+msgid "desc_a_Rotate_Down"
+msgstr ""
+
+msgid "desc_a_Rotate_Left"
+msgstr ""
+
+msgid "desc_a_Rotate_Right"
+msgstr ""
+
+msgid "desc_a_Rotate_Up"
+msgstr ""
+
+msgid "desc_a_RotationActions"
+msgstr ""
+
+msgid "desc_a_Run_Backward"
+msgstr ""
+
+msgid "desc_a_Run_Forward"
+msgstr ""
+
+msgid "desc_a_Run_Left"
+msgstr ""
+
+msgid "desc_a_Run_Right"
+msgstr ""
+
+msgid "desc_a_Screenshot"
+msgstr ""
+
+msgid "desc_a_Select_Default_Skill"
+msgstr ""
+
+msgid "desc_a_Select_Gank_Skill"
+msgstr ""
+
+msgid "desc_a_Select_Previous_Skill"
+msgstr ""
+
+msgid "desc_a_Select_Revive_Skill"
+msgstr ""
+
+msgid "desc_a_SkillActions"
+msgstr ""
+
+msgid "desc_a_Sprint"
+msgstr ""
+
+msgid "desc_a_TestAction1"
+msgstr ""
+
+msgid "desc_a_TestAction2"
+msgstr ""
+
+msgid "desc_a_TestAction3"
+msgstr ""
+
+msgid "desc_a_TestAction4"
+msgstr ""
+
+msgid "desc_a_TestActions"
+msgstr ""
+
+msgid "desc_a_Toggle_AutoCrouch"
+msgstr ""
+
+msgid "desc_a_Toggle_AutoRun"
+msgstr ""
+
+msgid "desc_a_Toggle_AutoSprint"
+msgstr ""
+
+msgid "desc_a_Toggle_Camera_Relation"
+msgstr ""
+
+msgid "desc_a_Toggle_Camera_View"
+msgstr ""
+
+msgid "desc_a_Toggle_Enable_Alternative_Attack"
+msgstr ""
+
+msgid "desc_a_Toggle_First_Person_Hands"
+msgstr ""
+
+msgid "desc_a_Toggle_Invert_Mouse"
+msgstr ""
+
+msgid "desc_a_Toggle_MouseSmoothing"
+msgstr ""
+
+msgid "desc_a_Toggle_Move_Camera"
+msgstr ""
+
+msgid "desc_a_Toggle_Third_Person_View"
+msgstr ""
+
+msgid "desc_a_Toggle_Unsheathe_Object"
+msgstr ""
+
+msgid "desc_a_Trigger_Current_Item"
+msgstr ""
+
+msgid "desc_a_Unsheathe_Object"
+msgstr ""
+
+msgid "desc_a_Use"
+msgstr ""
+
+msgid "desc_a_Walk"
+msgstr ""
+
+msgid "desc_a_Zoom_In"
+msgstr ""
+
+msgid "desc_a_Zoom_Out"
+msgstr ""
