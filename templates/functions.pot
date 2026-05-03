@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Empty Function"
+msgstr "Empty Function"
+
+msgid "desc_Empty Function"
+msgstr "Description of Empty Function"
+
+msgid "desc_f_Apply Boolean Modifier"
+msgstr " "
+
+msgid "desc_f_Change Visual Feature"
+msgstr ""
+
+msgid "desc_f_CombatFunction"
+msgstr "Description of f_CombatFunction"
+
+msgid "desc_f_Consume Drink"
+msgstr " "
+
+msgid "desc_f_Consume Food"
+msgstr " "
+
+msgid "desc_f_Craft Object"
+msgstr "Description of f_Craft Object"
+
+msgid "desc_f_CraftingFunction"
+msgstr "Description of f_CraftingFunction"
+
+msgid "desc_f_Create Construct"
+msgstr " "
+
+msgid "desc_f_Create Corpse"
+msgstr " "
+
+msgid "desc_f_Create Equipment"
+msgstr " "
+
+msgid "desc_f_Create Resource"
+msgstr " "
+
+msgid "desc_f_Create Skill"
+msgstr " "
+
+msgid "desc_f_Enchant Object"
+msgstr "Description of f_Enchant Object"
+
+msgid "desc_f_Gank Creature"
+msgstr ""
+
+msgid "desc_f_InventoryFunction"
+msgstr "Description of f_InventoryFunction"
+
+msgid "desc_f_ManipulateFunction"
+msgstr "Description of f_ManipulateFunction"
+
+msgid "desc_f_Mug Creature"
+msgstr ""
+
+msgid "desc_f_Open Package"
+msgstr " "
+
+msgid "desc_f_Perform Advanced Effect"
+msgstr " "
+
+msgid "desc_f_Perform Camping Effect"
+msgstr " "
+
+msgid "desc_f_Perform Feather Fall Effect"
+msgstr " "
+
+msgid "desc_f_Perform Leech Effect"
+msgstr " "
+
+msgid "desc_f_Perform Marking Effect"
+msgstr " "
+
+msgid "desc_f_Perform Reflect Effect"
+msgstr " "
+
+msgid "desc_f_Perform Resting Effect"
+msgstr " "
+
+msgid "desc_f_Perform Simple Effect"
+msgstr " "
+
+msgid "desc_f_Ping Clan Waypoint"
+msgstr "Ping Clan Waypoint"
+
+msgid "desc_f_Ping Waypoint"
+msgstr " "
+
+msgid "desc_f_Play Monster"
+msgstr " "
+
+msgid "desc_f_Read Manual"
+msgstr " "
+
+msgid "desc_f_Recall of Player"
+msgstr " "
+
+msgid "desc_f_Remove InventoryItem"
+msgstr "Description of f_Remove InventoryItem"
+
+msgid "desc_f_Research"
+msgstr " "
+
+msgid "desc_f_Resource Functions"
+msgstr "Description of f_Resource Functions"
+
+msgid "desc_f_Revive Creature"
+msgstr ""
+
+msgid "desc_f_Schematic"
+msgstr " "
+
+msgid "desc_f_Session Functions"
+msgstr " "
+
+msgid "desc_f_Set GodMode of Player"
+msgstr " "
+
+msgid "desc_f_Set Player Access Level"
+msgstr " "
+
+msgid "desc_f_Sheathe InventoryItem"
+msgstr "Description of f_Sheathe InventoryItem"
+
+msgid "desc_f_Skin Object"
+msgstr " "
+
+msgid "desc_f_Slot Gem Object"
+msgstr "Description of f_Slot Gem Object"
+
+msgid "desc_f_Spawn Ammunition"
+msgstr "Description of f_Spawn Ammunition"
+
+msgid "desc_f_Spawn Resource"
+msgstr "Description of f_Spawn Resource"
+
+msgid "desc_f_Spawn Resource Mesh"
+msgstr " "
+
+msgid "desc_f_Spawn Weapon"
+msgstr "Description of f_Spawn Weapon"
+
+msgid "desc_f_Start Area Infinite Effect"
+msgstr " "
+
+msgid "desc_f_Start Area Pickup Spawner"
+msgstr " "
+
+msgid "desc_f_Start Area Timed Effect"
+msgstr " "
+
+msgid "desc_f_Start AreaDurationEffect"
+msgstr "Description of f_Start AreaEffect"
+
+msgid "desc_f_Start AreaInstantEffect"
+msgstr " "
+
+msgid "desc_f_Start FlameThrower Effect"
+msgstr " "
+
+msgid "desc_f_Start LineInstantEffect"
+msgstr " "
+
+msgid "desc_f_Start Monster Session"
+msgstr " "
+
+msgid "desc_f_Start Player Session"
+msgstr " "
+
+msgid "desc_f_Start Wildlife Session"
+msgstr " "
+
+msgid "desc_f_Summon Object"
+msgstr " "
+
+msgid "desc_f_Summon Player"
+msgstr " "
+
+msgid "desc_f_System Functions"
+msgstr " "
+
+msgid "desc_f_Teleport to Player"
+msgstr " "
+
+msgid "desc_f_Teleport to Position"
+msgstr " "
+
+msgid "desc_f_Trigger GuardTower"
+msgstr " "
+
+msgid "desc_f_Unsheathe InventoryItem"
+msgstr "Description of f_Unsheathe InventoryItem"
+
+msgid "desc_f_Unspawn Object"
+msgstr " "
+
+msgid "desc_f_Use Item"
+msgstr " "
+
+msgid "desc_f_Use Object"
+msgstr "Description of f_Use Object"
+
+msgid "f_Apply Boolean Modifier"
+msgstr "Apply Boolean Modifier"
+
+msgid "f_Change Visual Feature"
+msgstr "Change Visual Feature"
+
+msgid "f_CombatFunction"
+msgstr "CombatFunction"
+
+msgid "f_Consume Drink"
+msgstr "Consume Drink"
+
+msgid "f_Consume Food"
+msgstr "Consume Food"
+
+msgid "f_Craft Object"
+msgstr "Craft Object"
+
+msgid "f_CraftingFunction"
+msgstr "CraftingFunction"
+
+msgid "f_Create Construct"
+msgstr "Create Construct"
+
+msgid "f_Create Corpse"
+msgstr "Create Corpse"
+
+msgid "f_Create Equipment"
+msgstr "Create Equipment"
+
+msgid "f_Create Resource"
+msgstr "Create Resource"
+
+msgid "f_Create Skill"
+msgstr "Create Skill"
+
+msgid "f_Enchant Object"
+msgstr "Enchant Object"
+
+msgid "f_Gank Creature"
+msgstr "Gank Creature"
+
+msgid "f_InventoryFunction"
+msgstr "InventoryFunction"
+
+msgid "f_ManipulateFunction"
+msgstr "ManipulateFunction"
+
+msgid "f_Mug Creature"
+msgstr "Mug Creature"
+
+msgid "f_Open Package"
+msgstr "Open Package"
+
+msgid "f_Perform Advanced Effect"
+msgstr "Perform Advanced Effect"
+
+msgid "f_Perform Camping Effect"
+msgstr "Perform Camping Effect"
+
+msgid "f_Perform Feather Fall Effect"
+msgstr "Perform Feather Fall Effect"
+
+msgid "f_Perform Leech Effect"
+msgstr "Perform Leech Effect"
+
+msgid "f_Perform Marking Effect"
+msgstr "Perform Marking Effect"
+
+msgid "f_Perform Reflect Effect"
+msgstr "Perform Reflect Effect"
+
+msgid "f_Perform Resting Effect"
+msgstr "Perform Resting Effect"
+
+msgid "f_Perform Simple Effect"
+msgstr "Perform Simple Effect"
+
+msgid "f_Ping Waypoint"
+msgstr "Ping Waypoint"
+
+msgid "f_Play Monster"
+msgstr "Play Monster"
+
+msgid "f_Read Manual"
+msgstr "Read Manual"
+
+msgid "f_Recall of Player"
+msgstr "Recall of Player"
+
+msgid "f_Remove InventoryItem"
+msgstr "Remove InventoryItem"
+
+msgid "f_Research"
+msgstr "Research"
+
+msgid "f_Resource Functions"
+msgstr "Resource Functions"
+
+msgid "f_Revive Creature"
+msgstr "Revive Creature"
+
+msgid "f_Schematic"
+msgstr "Schematic"
+
+msgid "f_Session Functions"
+msgstr "Session Functions"
+
+msgid "f_Set GodMode of Player"
+msgstr "Set GodMode of Player"
+
+msgid "f_Set Player Access Level"
+msgstr "Set Player Access Level"
+
+msgid "f_Sheathe InventoryItem"
+msgstr "Sheathe InventoryItem"
+
+msgid "f_Skin Object"
+msgstr "Skin Object"
+
+msgid "f_Slot Gem Object"
+msgstr "Slot Gem Object"
+
+msgid "f_Spawn Ammunition"
+msgstr "Spawn Ammunition"
+
+msgid "f_Spawn Resource"
+msgstr "Spawn Resource"
+
+msgid "f_Spawn Resource Mesh"
+msgstr "Spawn Resource Mesh"
+
+msgid "f_Spawn Weapon"
+msgstr "Spawn Weapon"
+
+msgid "f_Start Area Infinite Effect"
+msgstr "Start Area Infinite Effect"
+
+msgid "f_Start Area Pickup Spawner"
+msgstr "Start Area Pickup Spawner"
+
+msgid "f_Start Area Timed Effect"
+msgstr "Start Area Timed Effect"
+
+msgid "f_Start AreaDurationEffect"
+msgstr "Start AreaDurationEffect"
+
+msgid "f_Start AreaInstantEffect"
+msgstr "Start AreaInstantEffect"
+
+msgid "f_Start FlameThrower Effect"
+msgstr "Start FlameThrower Effect"
+
+msgid "f_Start LineInstantEffect"
+msgstr "Start LineInstantEffect"
+
+msgid "f_Start Monster Session"
+msgstr "Start Monster Session"
+
+msgid "f_Start Player Session"
+msgstr "Start Player Session"
+
+msgid "f_Start Wildlife Session"
+msgstr "Start Wildlife Session"
+
+msgid "f_Summon Object"
+msgstr "Summon Object"
+
+msgid "f_Summon Player"
+msgstr "Summon Player"
+
+msgid "f_System Functions"
+msgstr "System Functions"
+
+msgid "f_Teleport to Player"
+msgstr "Teleport to Player"
+
+msgid "f_Teleport to Position"
+msgstr "Teleport to Position"
+
+msgid "f_Trigger GuardTower"
+msgstr "Trigger GuardTower"
+
+msgid "f_Unsheathe InventoryItem"
+msgstr "Unsheathe InventoryItem"
+
+msgid "f_Unspawn Object"
+msgstr "Unspawn Object"
+
+msgid "f_Use Item"
+msgstr "Use Item"
+
+msgid "f_Use Object"
+msgstr "Use Object"
