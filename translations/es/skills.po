@@ -1,0 +1,5907 @@
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "AttachObjectSkill"
+msgstr ""
+
+msgid "DEBUG_TESTING"
+msgstr ""
+
+msgid "DetachObjectSkill"
+msgstr ""
+
+msgid "DropObjectSkill"
+msgstr ""
+
+msgid "PickupObjectSkill"
+msgstr ""
+
+msgid "RunSkill"
+msgstr ""
+
+msgid "Skill"
+msgstr ""
+
+msgid "SlashingCombatSkill"
+msgstr ""
+
+msgid "SprintSkill"
+msgstr ""
+
+msgid "WalkSkill"
+msgstr ""
+
+msgid "desc_AttachObjectSkill"
+msgstr ""
+
+msgid "desc_DEBUG_TESTING"
+msgstr ""
+
+msgid "desc_DetachObjectSkill"
+msgstr ""
+
+msgid "desc_DropObjectSkill"
+msgstr ""
+
+msgid "desc_PickupObjectSkill"
+msgstr ""
+
+msgid "desc_RunSkill"
+msgstr ""
+
+msgid "desc_Skill"
+msgstr ""
+
+msgid "desc_SlashingCombatSkill"
+msgstr ""
+
+msgid "desc_SprintSkill"
+msgstr ""
+
+msgid "desc_WalkSkill"
+msgstr ""
+
+msgid "desc_jumpskill"
+msgstr ""
+
+msgid "desc_s_Acid Arrow"
+msgstr ""
+
+msgid "desc_s_Acid Arrow_1"
+msgstr ""
+
+msgid "desc_s_Acid Explosion"
+msgstr ""
+
+msgid "desc_s_Acid Explosion_1"
+msgstr ""
+
+msgid "desc_s_Acid Rain"
+msgstr ""
+
+msgid "desc_s_Acid Rain_1"
+msgstr ""
+
+msgid "desc_s_Acid Shield"
+msgstr ""
+
+msgid "desc_s_Acid Shield_1"
+msgstr ""
+
+msgid "desc_s_Acid Ward"
+msgstr ""
+
+msgid "desc_s_Acid Ward_1"
+msgstr ""
+
+msgid "desc_s_Acrobatics"
+msgstr ""
+
+msgid "desc_s_Add Effect DOT"
+msgstr ""
+
+msgid "desc_s_Add Effect Duration"
+msgstr ""
+
+msgid "desc_s_Add Effect Main"
+msgstr ""
+
+msgid "desc_s_Adept"
+msgstr ""
+
+msgid "desc_s_Adept Shot"
+msgstr ""
+
+msgid "desc_s_Adept_1"
+msgstr ""
+
+msgid "desc_s_Agility"
+msgstr ""
+
+msgid "desc_s_Agility_1"
+msgstr ""
+
+msgid "desc_s_Air Magic"
+msgstr ""
+
+msgid "desc_s_Air Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Alchemy"
+msgstr ""
+
+msgid "desc_s_Alchemy Mastery"
+msgstr ""
+
+msgid "desc_s_Alfar Cunning"
+msgstr ""
+
+msgid "desc_s_Alfar Intellect"
+msgstr ""
+
+msgid "desc_s_Alfar Resilience"
+msgstr ""
+
+msgid "desc_s_Antitank Archery"
+msgstr ""
+
+msgid "desc_s_Antitank Archery_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Axes"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Club"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Club_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greataxes"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greataxes_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greatclubs"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greatclubs_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greatswords"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Greatswords_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Knives"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Knives_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Polearms"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Polearms_1"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Swords"
+msgstr ""
+
+msgid "desc_s_Antitank Attack_Swords_1"
+msgstr ""
+
+msgid "desc_s_Antitank Spell"
+msgstr ""
+
+msgid "desc_s_Antitank Spell_1"
+msgstr ""
+
+msgid "desc_s_Antitank_Attack_Axes_1"
+msgstr ""
+
+msgid "desc_s_Anvil Skills"
+msgstr ""
+
+msgid "desc_s_Arcane Magic"
+msgstr ""
+
+msgid "desc_s_Arcane Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Archery"
+msgstr ""
+
+msgid "desc_s_Archery Attacks"
+msgstr ""
+
+msgid "desc_s_Archery Skills"
+msgstr ""
+
+msgid "desc_s_Archery_1"
+msgstr ""
+
+msgid "desc_s_Archmage"
+msgstr ""
+
+msgid "desc_s_Armor Proficiency"
+msgstr ""
+
+msgid "desc_s_Armored Archery"
+msgstr ""
+
+msgid "desc_s_Armored Casting"
+msgstr ""
+
+msgid "desc_s_Armorsmithing"
+msgstr ""
+
+msgid "desc_s_Armorsmithing Mastery"
+msgstr ""
+
+msgid "desc_s_Armour and Shield Skills"
+msgstr ""
+
+msgid "desc_s_Arrow Shield"
+msgstr ""
+
+msgid "desc_s_Arrow Shield_1"
+msgstr ""
+
+msgid "desc_s_Arrow Ward"
+msgstr ""
+
+msgid "desc_s_Arrow Ward_1"
+msgstr ""
+
+msgid "desc_s_Artillery Construction"
+msgstr ""
+
+msgid "desc_s_Athletic Skills"
+msgstr ""
+
+msgid "desc_s_Attack_Archery"
+msgstr ""
+
+msgid "desc_s_AttributeModification"
+msgstr ""
+
+msgid "desc_s_Axe Attacks"
+msgstr ""
+
+msgid "desc_s_Axe Mastery"
+msgstr ""
+
+msgid "desc_s_Axe Skills"
+msgstr ""
+
+msgid "desc_s_Axes"
+msgstr ""
+
+msgid "desc_s_Axes_1"
+msgstr ""
+
+msgid "desc_s_Backstab"
+msgstr ""
+
+msgid "desc_s_Ball Lightning"
+msgstr ""
+
+msgid "desc_s_Ball Lightning_1"
+msgstr ""
+
+msgid "desc_s_Basic Movement Skills"
+msgstr ""
+
+msgid "desc_s_Beacon"
+msgstr ""
+
+msgid "desc_s_Beacon_1"
+msgstr ""
+
+msgid "desc_s_Begone"
+msgstr ""
+
+msgid "desc_s_Begone_1"
+msgstr ""
+
+msgid "desc_s_Bindstone Recall"
+msgstr ""
+
+msgid "desc_s_Blast"
+msgstr ""
+
+msgid "desc_s_Blast_1"
+msgstr ""
+
+msgid "desc_s_Blast_2"
+msgstr ""
+
+msgid "desc_s_Blast_3"
+msgstr ""
+
+msgid "desc_s_Bleeding Hit"
+msgstr ""
+
+msgid "desc_s_Bleeding Hit_1"
+msgstr ""
+
+msgid "desc_s_Bless Other"
+msgstr ""
+
+msgid "desc_s_Bless Other_1"
+msgstr ""
+
+msgid "desc_s_Blessing"
+msgstr ""
+
+msgid "desc_s_Blessing_1"
+msgstr ""
+
+msgid "desc_s_Blizzard"
+msgstr ""
+
+msgid "desc_s_Blizzard_1"
+msgstr ""
+
+msgid "desc_s_Bloodcraft"
+msgstr ""
+
+msgid "desc_s_Bludgeoning Weakness"
+msgstr ""
+
+msgid "desc_s_Bludgeoning Weakness_1"
+msgstr ""
+
+msgid "desc_s_Boon of Agony"
+msgstr ""
+
+msgid "desc_s_Boon of Agony_1"
+msgstr ""
+
+msgid "desc_s_Boon of Blight"
+msgstr ""
+
+msgid "desc_s_Boon of Blight_1"
+msgstr ""
+
+msgid "desc_s_Boon of Domination"
+msgstr ""
+
+msgid "desc_s_Boon of Domination_1"
+msgstr ""
+
+msgid "desc_s_Boon of Mutilation"
+msgstr ""
+
+msgid "desc_s_Boon of Mutilation_1"
+msgstr ""
+
+msgid "desc_s_Boon of Storms"
+msgstr ""
+
+msgid "desc_s_Boon of Storms_1"
+msgstr ""
+
+msgid "desc_s_Boon of Storms_2"
+msgstr ""
+
+msgid "desc_s_Boon of Waves"
+msgstr ""
+
+msgid "desc_s_Boon of Waves_1"
+msgstr ""
+
+msgid "desc_s_Bowyer"
+msgstr ""
+
+msgid "desc_s_Bowyer Mastery"
+msgstr ""
+
+msgid "desc_s_Brawn"
+msgstr ""
+
+msgid "desc_s_Brawn_1"
+msgstr ""
+
+msgid "desc_s_Burden"
+msgstr ""
+
+msgid "desc_s_Burden_1"
+msgstr ""
+
+msgid "desc_s_Cake and Fine Wine"
+msgstr ""
+
+msgid "desc_s_Cake and Fine Wine_1"
+msgstr ""
+
+msgid "desc_s_Camp"
+msgstr ""
+
+msgid "desc_s_Camp_1"
+msgstr ""
+
+msgid "desc_s_Capital Recall"
+msgstr ""
+
+msgid "desc_s_Clear Thoughts"
+msgstr ""
+
+msgid "desc_s_Clear Thoughts_1"
+msgstr ""
+
+msgid "desc_s_Clever"
+msgstr ""
+
+msgid "desc_s_Climb"
+msgstr ""
+
+msgid "desc_s_Club Attacks"
+msgstr ""
+
+msgid "desc_s_Club Mastery"
+msgstr ""
+
+msgid "desc_s_Club and Mace Skills"
+msgstr ""
+
+msgid "desc_s_Clubs and Maces"
+msgstr ""
+
+msgid "desc_s_Clubs and Maces_1"
+msgstr ""
+
+msgid "desc_s_Cold Shield"
+msgstr ""
+
+msgid "desc_s_Cold Shield_prot"
+msgstr ""
+
+msgid "desc_s_Cold Ward"
+msgstr ""
+
+msgid "desc_s_Cold Ward_1"
+msgstr ""
+
+msgid "desc_s_Combat Enhancements"
+msgstr ""
+
+msgid "desc_s_Combat Skills"
+msgstr ""
+
+msgid "desc_s_Come Hither"
+msgstr ""
+
+msgid "desc_s_Come Hither_1"
+msgstr ""
+
+msgid "desc_s_Come Hither_2"
+msgstr ""
+
+msgid "desc_s_Confusion"
+msgstr ""
+
+msgid "desc_s_Confusion_1"
+msgstr ""
+
+msgid "desc_s_Constitution"
+msgstr ""
+
+msgid "desc_s_Construction"
+msgstr ""
+
+msgid "desc_s_Cooking"
+msgstr ""
+
+msgid "desc_s_Cooking Mastery"
+msgstr ""
+
+msgid "desc_s_Corrosive Blast"
+msgstr ""
+
+msgid "desc_s_Corrosive Blast_1"
+msgstr ""
+
+msgid "desc_s_Corrosive Blast_2"
+msgstr ""
+
+msgid "desc_s_Crafting Skills"
+msgstr ""
+
+msgid "desc_s_Critical Shot"
+msgstr ""
+
+msgid "desc_s_Crouch"
+msgstr ""
+
+msgid "desc_s_Crouch walk"
+msgstr ""
+
+msgid "desc_s_Cursed Bolt"
+msgstr ""
+
+msgid "desc_s_Cursed Bolt_1"
+msgstr ""
+
+msgid "desc_s_Damaging Blow"
+msgstr ""
+
+msgid "desc_s_Damaging Blow_1"
+msgstr ""
+
+msgid "desc_s_Death Fog"
+msgstr ""
+
+msgid "desc_s_Death Fog_1"
+msgstr ""
+
+msgid "desc_s_Defense"
+msgstr ""
+
+msgid "desc_s_Defensive Stance"
+msgstr ""
+
+msgid "desc_s_Delayed Shot"
+msgstr ""
+
+msgid "desc_s_Delayed Shot_1"
+msgstr ""
+
+msgid "desc_s_Desecration"
+msgstr ""
+
+msgid "desc_s_Desecration_1"
+msgstr ""
+
+msgid "desc_s_Digging"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Axe"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Axe_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Axe_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Club"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Club_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Club_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greataxe"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greataxe_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greataxe_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatclub"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatclub_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatclub_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatsword"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatsword_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Greatsword_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Knives"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Knives_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Knives_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Polearm"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Polearm_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Polearm_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sithra"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sithra_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sithra_2"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sword"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sword_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_Sword_2"
+msgstr ""
+
+msgid "desc_s_Disabling Bolt"
+msgstr ""
+
+msgid "desc_s_Disabling Bolt_1"
+msgstr ""
+
+msgid "desc_s_Disabling Bolt_2"
+msgstr ""
+
+msgid "desc_s_Disabling Shot"
+msgstr ""
+
+msgid "desc_s_Disabling Shot_1"
+msgstr ""
+
+msgid "desc_s_Disabling Shot_2"
+msgstr ""
+
+msgid "desc_s_Disease"
+msgstr ""
+
+msgid "desc_s_Disease_1"
+msgstr ""
+
+msgid "desc_s_Disintegrate"
+msgstr ""
+
+msgid "desc_s_Disintegrate_1"
+msgstr ""
+
+msgid "desc_s_Divine Magic"
+msgstr ""
+
+msgid "desc_s_Divine Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Diving"
+msgstr ""
+
+msgid "desc_s_Dragon Acid Blast"
+msgstr ""
+
+msgid "desc_s_Dragon Acid Blast_acid"
+msgstr ""
+
+msgid "desc_s_Dragon Acid Blast_impact"
+msgstr ""
+
+msgid "desc_s_Dragon Acid Breath"
+msgstr ""
+
+msgid "desc_s_Dragon Acid Breath_1"
+msgstr ""
+
+msgid "desc_s_Dragon Cold Blast"
+msgstr ""
+
+msgid "desc_s_Dragon Cold Blast_cold"
+msgstr ""
+
+msgid "desc_s_Dragon Cold Blast_impact"
+msgstr ""
+
+msgid "desc_s_Dragon Cold Breath"
+msgstr ""
+
+msgid "desc_s_Dragon Cold Breath_1"
+msgstr ""
+
+msgid "desc_s_Dragon Fire Blast"
+msgstr ""
+
+msgid "desc_s_Dragon Fire Blast_fire"
+msgstr ""
+
+msgid "desc_s_Dragon Fire Blast_impact"
+msgstr ""
+
+msgid "desc_s_Dragon Fire Breath"
+msgstr ""
+
+msgid "desc_s_Dragon Fire Breath_1"
+msgstr ""
+
+msgid "desc_s_Dragon Lightning Blast"
+msgstr ""
+
+msgid "desc_s_Dragon Lightning Blast_impact"
+msgstr ""
+
+msgid "desc_s_Dragon Lightning Blast_lightning"
+msgstr ""
+
+msgid "desc_s_Dragon Lightning Breath"
+msgstr ""
+
+msgid "desc_s_Dragon Lightning Breath_1"
+msgstr ""
+
+msgid "desc_s_Dragonbreath"
+msgstr ""
+
+msgid "desc_s_Dragonbreath_1"
+msgstr ""
+
+msgid "desc_s_Drink"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Air Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Arcane Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Earth Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Fire Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Greater Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Lesser Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Necromancy"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Ritual Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Spell Chanting"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Water Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Wild Magic"
+msgstr ""
+
+msgid "desc_s_Durable Spells_Witchcraft"
+msgstr ""
+
+msgid "desc_s_Dwarven Durability"
+msgstr ""
+
+msgid "desc_s_Dwarven Perseverance"
+msgstr ""
+
+msgid "desc_s_Dwarven Perseverance_1"
+msgstr ""
+
+msgid "desc_s_Dwarven Steelmaster"
+msgstr ""
+
+msgid "desc_s_Dye Crafting"
+msgstr ""
+
+msgid "desc_s_Dyeing"
+msgstr ""
+
+msgid "desc_s_Dyeing Skills"
+msgstr ""
+
+msgid "desc_s_Earth Magic"
+msgstr ""
+
+msgid "desc_s_Earth Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Earthquake"
+msgstr ""
+
+msgid "desc_s_Earthquake_1"
+msgstr ""
+
+msgid "desc_s_Eat"
+msgstr ""
+
+msgid "desc_s_Eldritch Sphere"
+msgstr ""
+
+msgid "desc_s_Eldritch Sphere_1"
+msgstr ""
+
+msgid "desc_s_Enchantment"
+msgstr ""
+
+msgid "desc_s_Enchantment Add Effects"
+msgstr ""
+
+msgid "desc_s_Enchantment Skills"
+msgstr ""
+
+msgid "desc_s_Endurance"
+msgstr ""
+
+msgid "desc_s_Engineering"
+msgstr ""
+
+msgid "desc_s_Engineering Mastery"
+msgstr ""
+
+msgid "desc_s_Environmental Skills"
+msgstr ""
+
+msgid "desc_s_Esoteric"
+msgstr ""
+
+msgid "desc_s_Evil Eye"
+msgstr ""
+
+msgid "desc_s_Evil Eye_1"
+msgstr ""
+
+msgid "desc_s_Examine Object"
+msgstr ""
+
+msgid "desc_s_Exhaust"
+msgstr ""
+
+msgid "desc_s_Exhaust_1"
+msgstr ""
+
+msgid "desc_s_Exploding Charge"
+msgstr ""
+
+msgid "desc_s_Exploding Charge_Area"
+msgstr ""
+
+msgid "desc_s_Explosion"
+msgstr ""
+
+msgid "desc_s_Explosion_fire"
+msgstr ""
+
+msgid "desc_s_Eye Rot"
+msgstr ""
+
+msgid "desc_s_Eye Rot_1"
+msgstr ""
+
+msgid "desc_s_Eye Rot_2"
+msgstr ""
+
+msgid "desc_s_Eye Rot_3"
+msgstr ""
+
+msgid "desc_s_Falling Technique"
+msgstr ""
+
+msgid "desc_s_Fire Cannon"
+msgstr ""
+
+msgid "desc_s_Fire Cannon_02"
+msgstr ""
+
+msgid "desc_s_Fire Magic"
+msgstr ""
+
+msgid "desc_s_Fire Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Fire Shield"
+msgstr ""
+
+msgid "desc_s_Fire Shield_prot"
+msgstr ""
+
+msgid "desc_s_Fire Shock Charge"
+msgstr ""
+
+msgid "desc_s_Fire Ward"
+msgstr ""
+
+msgid "desc_s_Fire Ward_prot"
+msgstr ""
+
+msgid "desc_s_Fireball"
+msgstr ""
+
+msgid "desc_s_Fireball_2"
+msgstr ""
+
+msgid "desc_s_Fireball_Area"
+msgstr ""
+
+msgid "desc_s_Firebolt"
+msgstr ""
+
+msgid "desc_s_Firebolt_area"
+msgstr ""
+
+msgid "desc_s_Fishing"
+msgstr ""
+
+msgid "desc_s_Fishing Mastery"
+msgstr ""
+
+msgid "desc_s_Fitness"
+msgstr ""
+
+msgid "desc_s_Flames of Vengeance"
+msgstr ""
+
+msgid "desc_s_Flames of Vengeance_1"
+msgstr ""
+
+msgid "desc_s_Fleet"
+msgstr ""
+
+msgid "desc_s_Flesh Curse"
+msgstr ""
+
+msgid "desc_s_Flesh Curse_1"
+msgstr ""
+
+msgid "desc_s_Fly"
+msgstr ""
+
+msgid "desc_s_Focus"
+msgstr ""
+
+msgid "desc_s_Fortitude"
+msgstr ""
+
+msgid "desc_s_Foundry Skills"
+msgstr ""
+
+msgid "desc_s_Frailty"
+msgstr ""
+
+msgid "desc_s_Frailty_1"
+msgstr ""
+
+msgid "desc_s_Frostbite"
+msgstr ""
+
+msgid "desc_s_Frostbite_1"
+msgstr ""
+
+msgid "desc_s_Gank"
+msgstr ""
+
+msgid "desc_s_Gank_1"
+msgstr ""
+
+msgid "desc_s_Gem Enchanting"
+msgstr ""
+
+msgid "desc_s_General Skills"
+msgstr ""
+
+msgid "desc_s_Gills"
+msgstr ""
+
+msgid "desc_s_Gills_1"
+msgstr ""
+
+msgid "desc_s_Glide"
+msgstr ""
+
+msgid "desc_s_Gravity"
+msgstr ""
+
+msgid "desc_s_Gravity_1"
+msgstr ""
+
+msgid "desc_s_Greataxe Attacks"
+msgstr ""
+
+msgid "desc_s_Greataxe Mastery"
+msgstr ""
+
+msgid "desc_s_Greataxe Skills"
+msgstr ""
+
+msgid "desc_s_Greataxes"
+msgstr ""
+
+msgid "desc_s_Greataxes_1"
+msgstr ""
+
+msgid "desc_s_Greatclub Attacks"
+msgstr ""
+
+msgid "desc_s_Greatclub Mastery"
+msgstr ""
+
+msgid "desc_s_Greatclub Skills"
+msgstr ""
+
+msgid "desc_s_Greatclubs"
+msgstr ""
+
+msgid "desc_s_Greatclubs_1"
+msgstr ""
+
+msgid "desc_s_Greater Magic"
+msgstr ""
+
+msgid "desc_s_Greater Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Greatsword Attacks"
+msgstr ""
+
+msgid "desc_s_Greatsword Mastery"
+msgstr ""
+
+msgid "desc_s_Greatsword Skills"
+msgstr ""
+
+msgid "desc_s_Greatswords"
+msgstr ""
+
+msgid "desc_s_Greatswords_1"
+msgstr ""
+
+msgid "desc_s_Guiding Wind"
+msgstr ""
+
+msgid "desc_s_Guiding Wind_1"
+msgstr ""
+
+msgid "desc_s_Harvesting Skills"
+msgstr ""
+
+msgid "desc_s_Haste"
+msgstr ""
+
+msgid "desc_s_Haste_1"
+msgstr ""
+
+msgid "desc_s_Hasten Spells"
+msgstr ""
+
+msgid "desc_s_Hasten Spells_1"
+msgstr ""
+
+msgid "desc_s_Heal Mount"
+msgstr ""
+
+msgid "desc_s_Heal Mount_1"
+msgstr ""
+
+msgid "desc_s_Heal Other"
+msgstr ""
+
+msgid "desc_s_Heal Other_1"
+msgstr ""
+
+msgid "desc_s_Heal Self"
+msgstr ""
+
+msgid "desc_s_Heal Self_1"
+msgstr ""
+
+msgid "desc_s_Healing Chant"
+msgstr ""
+
+msgid "desc_s_Healing Chant_1"
+msgstr ""
+
+msgid "desc_s_Health"
+msgstr ""
+
+msgid "desc_s_Health to Mana"
+msgstr ""
+
+msgid "desc_s_Health to Mana_1"
+msgstr ""
+
+msgid "desc_s_Herb Gathering"
+msgstr ""
+
+msgid "desc_s_Herb Gathering Mastery"
+msgstr ""
+
+msgid "desc_s_Holy Shield"
+msgstr ""
+
+msgid "desc_s_Holy Shield_1"
+msgstr ""
+
+msgid "desc_s_Holy Ward"
+msgstr ""
+
+msgid "desc_s_Holy Ward_1"
+msgstr ""
+
+msgid "desc_s_Holy Weakness"
+msgstr ""
+
+msgid "desc_s_Holy Weakness_1"
+msgstr ""
+
+msgid "desc_s_House Recall"
+msgstr ""
+
+msgid "desc_s_Human Ingenuity"
+msgstr ""
+
+msgid "desc_s_Human Longevity"
+msgstr ""
+
+msgid "desc_s_Human Willpower"
+msgstr ""
+
+msgid "desc_s_Hymn of Intellect"
+msgstr ""
+
+msgid "desc_s_Hymn of Intellect_1"
+msgstr ""
+
+msgid "desc_s_Hymn of Might"
+msgstr ""
+
+msgid "desc_s_Hymn of Might_1"
+msgstr ""
+
+msgid "desc_s_Hymn of Skill"
+msgstr ""
+
+msgid "desc_s_Hymn of Skill_1"
+msgstr ""
+
+msgid "desc_s_Hymn of Swiftness"
+msgstr ""
+
+msgid "desc_s_Hymn of Swiftness_1"
+msgstr ""
+
+msgid "desc_s_Hymn of Vigor"
+msgstr ""
+
+msgid "desc_s_Hymn of Vigor_1"
+msgstr ""
+
+msgid "desc_s_Ice Storm"
+msgstr ""
+
+msgid "desc_s_Ice Storm_1"
+msgstr ""
+
+msgid "desc_s_Icicle"
+msgstr ""
+
+msgid "desc_s_Icicle_Cold"
+msgstr ""
+
+msgid "desc_s_Ignore Pain"
+msgstr ""
+
+msgid "desc_s_Impale"
+msgstr ""
+
+msgid "desc_s_Impale_1"
+msgstr ""
+
+msgid "desc_s_Impetus"
+msgstr ""
+
+msgid "desc_s_Impetus_1"
+msgstr ""
+
+msgid "desc_s_Improvement Skills"
+msgstr ""
+
+msgid "desc_s_Impulse"
+msgstr ""
+
+msgid "desc_s_Impulse_1"
+msgstr ""
+
+msgid "desc_s_Industry"
+msgstr ""
+
+msgid "desc_s_Infernal Shield"
+msgstr ""
+
+msgid "desc_s_Infernal Shield_1"
+msgstr ""
+
+msgid "desc_s_Infernal Ward"
+msgstr ""
+
+msgid "desc_s_Infernal Ward_1"
+msgstr ""
+
+msgid "desc_s_Inferno"
+msgstr ""
+
+msgid "desc_s_Inferno_area"
+msgstr ""
+
+msgid "desc_s_Infliction Shield"
+msgstr ""
+
+msgid "desc_s_Infliction Shield_1"
+msgstr ""
+
+msgid "desc_s_Infliction Ward"
+msgstr ""
+
+msgid "desc_s_Infliction Ward_1"
+msgstr ""
+
+msgid "desc_s_Ingenious"
+msgstr ""
+
+msgid "desc_s_Insect Swarm"
+msgstr ""
+
+msgid "desc_s_Insect Swarm_1"
+msgstr ""
+
+msgid "desc_s_Insect Swarm_2"
+msgstr ""
+
+msgid "desc_s_Insight"
+msgstr ""
+
+msgid "desc_s_Insight_1"
+msgstr ""
+
+msgid "desc_s_InstaGib"
+msgstr ""
+
+msgid "desc_s_InstaGib_1"
+msgstr ""
+
+msgid "desc_s_Intensify_Air Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Arcane Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Earth Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Fire Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Greater Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Lesser Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Necromancy"
+msgstr ""
+
+msgid "desc_s_Intensify_Ritual Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Spell Chanting"
+msgstr ""
+
+msgid "desc_s_Intensify_Water Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Wild Magic"
+msgstr ""
+
+msgid "desc_s_Intensify_Witchcraft"
+msgstr ""
+
+msgid "desc_s_Ironskin"
+msgstr ""
+
+msgid "desc_s_Ironskin_1"
+msgstr ""
+
+msgid "desc_s_Jewelsmithing"
+msgstr ""
+
+msgid "desc_s_Jog"
+msgstr ""
+
+msgid "desc_s_Jump"
+msgstr ""
+
+msgid "desc_s_Kneel"
+msgstr ""
+
+msgid "desc_s_Knife Attacks"
+msgstr ""
+
+msgid "desc_s_Knife Mastery"
+msgstr ""
+
+msgid "desc_s_Knife Skills"
+msgstr ""
+
+msgid "desc_s_Knives"
+msgstr ""
+
+msgid "desc_s_Knives_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Axe"
+msgstr ""
+
+msgid "desc_s_Knockback_Axe_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Club"
+msgstr ""
+
+msgid "desc_s_Knockback_Club_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Greataxe"
+msgstr ""
+
+msgid "desc_s_Knockback_Greataxe_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Greatclub"
+msgstr ""
+
+msgid "desc_s_Knockback_Greatclub_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Greatsword"
+msgstr ""
+
+msgid "desc_s_Knockback_Greatsword_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Knife"
+msgstr ""
+
+msgid "desc_s_Knockback_Knife_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Polearm"
+msgstr ""
+
+msgid "desc_s_Knockback_Polearm_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Sithras"
+msgstr ""
+
+msgid "desc_s_Knockback_Sithras_1"
+msgstr ""
+
+msgid "desc_s_Knockback_Sword"
+msgstr ""
+
+msgid "desc_s_Knockback_Sword_1"
+msgstr ""
+
+msgid "desc_s_Laboratory Skills"
+msgstr ""
+
+msgid "desc_s_Launch"
+msgstr ""
+
+msgid "desc_s_Launch_1"
+msgstr ""
+
+msgid "desc_s_Lay on Hands"
+msgstr ""
+
+msgid "desc_s_Lay on Hands_1"
+msgstr ""
+
+msgid "desc_s_Lend Mana"
+msgstr ""
+
+msgid "desc_s_Lend Mana_1"
+msgstr ""
+
+msgid "desc_s_Lesser Magic"
+msgstr ""
+
+msgid "desc_s_Lesser Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Levitation"
+msgstr ""
+
+msgid "desc_s_Levitation_1"
+msgstr ""
+
+msgid "desc_s_Lie"
+msgstr ""
+
+msgid "desc_s_Light"
+msgstr ""
+
+msgid "desc_s_Light_1"
+msgstr ""
+
+msgid "desc_s_Lightning Bolt"
+msgstr ""
+
+msgid "desc_s_Lightning Bolt_1"
+msgstr ""
+
+msgid "desc_s_Lightning Shield"
+msgstr ""
+
+msgid "desc_s_Lightning Shield_1"
+msgstr ""
+
+msgid "desc_s_Lightning Strike"
+msgstr ""
+
+msgid "desc_s_Lightning Strike_1"
+msgstr ""
+
+msgid "desc_s_Lightning Strike_2"
+msgstr ""
+
+msgid "desc_s_Lightning Ward"
+msgstr ""
+
+msgid "desc_s_Lightning Ward_1"
+msgstr ""
+
+msgid "desc_s_Lightning Weakness"
+msgstr ""
+
+msgid "desc_s_Lightning Weakness_1"
+msgstr ""
+
+msgid "desc_s_Logging"
+msgstr ""
+
+msgid "desc_s_Logging Mastery"
+msgstr ""
+
+msgid "desc_s_Magic Schools_Skills"
+msgstr ""
+
+msgid "desc_s_Magic Shield"
+msgstr ""
+
+msgid "desc_s_Magic Shield_resist"
+msgstr ""
+
+msgid "desc_s_Magic Skills"
+msgstr ""
+
+msgid "desc_s_Magic Ward"
+msgstr ""
+
+msgid "desc_s_Magic Ward_resist"
+msgstr ""
+
+msgid "desc_s_Magma Storm"
+msgstr ""
+
+msgid "desc_s_Magma Strom_fire"
+msgstr ""
+
+msgid "desc_s_Mahirim Endurance"
+msgstr ""
+
+msgid "desc_s_Mahirim Huntspeed"
+msgstr ""
+
+msgid "desc_s_Mahirim Reflexes"
+msgstr ""
+
+msgid "desc_s_Mahirim Run"
+msgstr ""
+
+msgid "desc_s_Maintenance"
+msgstr ""
+
+msgid "desc_s_Mana Blast"
+msgstr ""
+
+msgid "desc_s_Mana Blast_1"
+msgstr ""
+
+msgid "desc_s_Mana Bonus"
+msgstr ""
+
+msgid "desc_s_Mana Conservation"
+msgstr ""
+
+msgid "desc_s_Mana Drain"
+msgstr ""
+
+msgid "desc_s_Mana Drain_Drain"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Air Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Arcane Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Earth Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Fire Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Greater Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Lesser Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Necromancy"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Ritual Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Spell Chanting"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Water Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Wild Magic"
+msgstr ""
+
+msgid "desc_s_Mana Efficiency_Witchcraft"
+msgstr ""
+
+msgid "desc_s_Mana Leech"
+msgstr ""
+
+msgid "desc_s_Mana Leech Hit"
+msgstr ""
+
+msgid "desc_s_Mana Leech Hit_1"
+msgstr ""
+
+msgid "desc_s_Mana Leech_1"
+msgstr ""
+
+msgid "desc_s_Mana Missile"
+msgstr ""
+
+msgid "desc_s_Mana Missile_Arcane"
+msgstr ""
+
+msgid "desc_s_Mana to Stamina"
+msgstr ""
+
+msgid "desc_s_Mana to Stamina_1"
+msgstr ""
+
+msgid "desc_s_Manipulate Skills"
+msgstr ""
+
+msgid "desc_s_Manufacturing Skills"
+msgstr ""
+
+msgid "desc_s_Max Health Bonus"
+msgstr ""
+
+msgid "desc_s_Max Health Bonus_1"
+msgstr ""
+
+msgid "desc_s_Max Mana Bonus"
+msgstr ""
+
+msgid "desc_s_Max Mana Bonus_1"
+msgstr ""
+
+msgid "desc_s_Max Stamina Bonus"
+msgstr ""
+
+msgid "desc_s_Max Stamina Bonus_1"
+msgstr ""
+
+msgid "desc_s_Medical Skills"
+msgstr ""
+
+msgid "desc_s_Melee General Skills"
+msgstr ""
+
+msgid "desc_s_Melee Powers"
+msgstr ""
+
+msgid "desc_s_Melee Skills"
+msgstr ""
+
+msgid "desc_s_Mental Weakness"
+msgstr ""
+
+msgid "desc_s_Mental Weakness_1"
+msgstr ""
+
+msgid "desc_s_Meteor Strike"
+msgstr ""
+
+msgid "desc_s_Meteor Strike_Impact"
+msgstr ""
+
+msgid "desc_s_Might"
+msgstr ""
+
+msgid "desc_s_Mining"
+msgstr ""
+
+msgid "desc_s_Mining Mastery"
+msgstr ""
+
+msgid "desc_s_Mirdain Insight"
+msgstr ""
+
+msgid "desc_s_Mirdain Precision"
+msgstr ""
+
+msgid "desc_s_Mirdain Sight"
+msgstr ""
+
+msgid "desc_s_Missile Fury"
+msgstr ""
+
+msgid "desc_s_Missile Fury_1"
+msgstr ""
+
+msgid "desc_s_Mixing"
+msgstr ""
+
+msgid "desc_s_Mortar and Pestle Skills"
+msgstr ""
+
+msgid "desc_s_Mount Attack"
+msgstr ""
+
+msgid "desc_s_Mount Attack_1"
+msgstr ""
+
+msgid "desc_s_Mount Attacks"
+msgstr ""
+
+msgid "desc_s_Mount Swim"
+msgstr ""
+
+msgid "desc_s_Movement Skills"
+msgstr ""
+
+msgid "desc_s_Mugging"
+msgstr ""
+
+msgid "desc_s_Muscular"
+msgstr ""
+
+msgid "desc_s_Mystic Shield"
+msgstr ""
+
+msgid "desc_s_Mystic Shield_1"
+msgstr ""
+
+msgid "desc_s_Mystic Ward"
+msgstr ""
+
+msgid "desc_s_Mystic Ward_1"
+msgstr ""
+
+msgid "desc_s_Natural Alt Special Gorra"
+msgstr ""
+
+msgid "desc_s_Natural Antitank"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Kraken"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Kraken_1"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Kraken_2"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Kraken_3"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Metal Golem"
+msgstr ""
+
+msgid "desc_s_Natural Antitank Stone Golem"
+msgstr ""
+
+msgid "desc_s_Natural Attack Acid_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Arcane_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Bleed_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Blunt"
+msgstr ""
+
+msgid "desc_s_Natural Attack Blunt_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Bow_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Crush"
+msgstr ""
+
+msgid "desc_s_Natural Attack Demon"
+msgstr ""
+
+msgid "desc_s_Natural Attack Disabling_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Explosion_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Explosion_2"
+msgstr ""
+
+msgid "desc_s_Natural Attack Explosion_3"
+msgstr ""
+
+msgid "desc_s_Natural Attack Explosion_4"
+msgstr ""
+
+msgid "desc_s_Natural Attack Impact"
+msgstr ""
+
+msgid "desc_s_Natural Attack Impact_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Knockback_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Knockback_2"
+msgstr ""
+
+msgid "desc_s_Natural Attack Kraken"
+msgstr ""
+
+msgid "desc_s_Natural Attack Metal Golem"
+msgstr ""
+
+msgid "desc_s_Natural Attack Pierce"
+msgstr ""
+
+msgid "desc_s_Natural Attack Pierce_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Poison_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Primary"
+msgstr ""
+
+msgid "desc_s_Natural Attack Slash"
+msgstr ""
+
+msgid "desc_s_Natural Attack Slash Executioner"
+msgstr ""
+
+msgid "desc_s_Natural Attack Slash_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Stamina_1"
+msgstr ""
+
+msgid "desc_s_Natural Attack Stone Golem"
+msgstr ""
+
+msgid "desc_s_Natural Attack Strength_1"
+msgstr ""
+
+msgid "desc_s_Natural Attacks"
+msgstr ""
+
+msgid "desc_s_Natural Basic Attacks"
+msgstr ""
+
+msgid "desc_s_Natural Bleeding"
+msgstr ""
+
+msgid "desc_s_Natural Bleeding Executioner"
+msgstr ""
+
+msgid "desc_s_Natural Crush Demon"
+msgstr ""
+
+msgid "desc_s_Natural Crush Doombringer"
+msgstr ""
+
+msgid "desc_s_Natural Crush Executioner"
+msgstr ""
+
+msgid "desc_s_Natural Crush Metal Golem"
+msgstr ""
+
+msgid "desc_s_Natural Crush Stone Golem"
+msgstr ""
+
+msgid "desc_s_Natural Disabling Blunt"
+msgstr ""
+
+msgid "desc_s_Natural Disabling Kraken"
+msgstr ""
+
+msgid "desc_s_Natural Disabling Metal Golem"
+msgstr ""
+
+msgid "desc_s_Natural Disabling Stone Golem"
+msgstr ""
+
+msgid "desc_s_Natural Elemental Whirlwind"
+msgstr ""
+
+msgid "desc_s_Natural Epic Attacks"
+msgstr ""
+
+msgid "desc_s_Natural Mageblast"
+msgstr ""
+
+msgid "desc_s_Natural Melee"
+msgstr ""
+
+msgid "desc_s_Natural Poison"
+msgstr ""
+
+msgid "desc_s_Natural Ranged"
+msgstr ""
+
+msgid "desc_s_Natural Ranged Bow"
+msgstr ""
+
+msgid "desc_s_Natural Special Attacks"
+msgstr ""
+
+msgid "desc_s_Natural Stamina Drain"
+msgstr ""
+
+msgid "desc_s_Natural Strength Penalty"
+msgstr ""
+
+msgid "desc_s_Natural Subskills"
+msgstr ""
+
+msgid "desc_s_Natural Whirlwind Poison"
+msgstr ""
+
+msgid "desc_s_Necromancy"
+msgstr ""
+
+msgid "desc_s_Necromancy_Spells"
+msgstr ""
+
+msgid "desc_s_Needles"
+msgstr ""
+
+msgid "desc_s_Needles_1"
+msgstr ""
+
+msgid "desc_s_Nimble"
+msgstr ""
+
+msgid "desc_s_Ominous Drain"
+msgstr ""
+
+msgid "desc_s_Ominous Drain_1"
+msgstr ""
+
+msgid "desc_s_Open Package"
+msgstr ""
+
+msgid "desc_s_Orkish Brutality"
+msgstr ""
+
+msgid "desc_s_Orkish Capacity"
+msgstr ""
+
+msgid "desc_s_Orkish Toughness"
+msgstr ""
+
+msgid "desc_s_Other Skills"
+msgstr ""
+
+msgid "desc_s_Oven Skills"
+msgstr ""
+
+msgid "desc_s_Pack Mule"
+msgstr ""
+
+msgid "desc_s_Palsy"
+msgstr ""
+
+msgid "desc_s_Palsy_1"
+msgstr ""
+
+msgid "desc_s_Parry"
+msgstr ""
+
+msgid "desc_s_Perseverance"
+msgstr ""
+
+msgid "desc_s_Pestilence"
+msgstr ""
+
+msgid "desc_s_Pestilence_1"
+msgstr ""
+
+msgid "desc_s_Physics Test A"
+msgstr ""
+
+msgid "desc_s_Physics Test A_1"
+msgstr ""
+
+msgid "desc_s_Physics Test B"
+msgstr ""
+
+msgid "desc_s_Physics Test B_1"
+msgstr ""
+
+msgid "desc_s_Physics Test C"
+msgstr ""
+
+msgid "desc_s_Physics Test C_1"
+msgstr ""
+
+msgid "desc_s_Physics Test D"
+msgstr ""
+
+msgid "desc_s_Physics Test D_1"
+msgstr ""
+
+msgid "desc_s_Physics Test E"
+msgstr ""
+
+msgid "desc_s_Physics Test E_1"
+msgstr ""
+
+msgid "desc_s_Pick Pockets"
+msgstr ""
+
+msgid "desc_s_Piercing Weakness"
+msgstr ""
+
+msgid "desc_s_Piercing Weakness_1"
+msgstr ""
+
+msgid "desc_s_Ping Waypoint"
+msgstr ""
+
+msgid "desc_s_Place Object"
+msgstr ""
+
+msgid "desc_s_Placement Skills"
+msgstr ""
+
+msgid "desc_s_Poison Resistance"
+msgstr ""
+
+msgid "desc_s_Polearm Attacks"
+msgstr ""
+
+msgid "desc_s_Polearm Mastery"
+msgstr ""
+
+msgid "desc_s_Polearm Skills"
+msgstr ""
+
+msgid "desc_s_Polearms"
+msgstr ""
+
+msgid "desc_s_Polearms_1"
+msgstr ""
+
+msgid "desc_s_Positioning Skills"
+msgstr ""
+
+msgid "desc_s_Power Attack_Axe"
+msgstr ""
+
+msgid "desc_s_Power Attack_Axe_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Axe_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Axe_3"
+msgstr ""
+
+msgid "desc_s_Power Attack_Axe_4"
+msgstr ""
+
+msgid "desc_s_Power Attack_Club"
+msgstr ""
+
+msgid "desc_s_Power Attack_Club_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Club_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greataxe"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greataxe_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greataxe_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greataxe_3"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greataxe_4"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatclub"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatclub_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatclub_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatsword"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatsword_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Greatsword_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Knife"
+msgstr ""
+
+msgid "desc_s_Power Attack_Knife_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Knife_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Polearm"
+msgstr ""
+
+msgid "desc_s_Power Attack_Polearm_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_Polearm_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Polearm_3"
+msgstr ""
+
+msgid "desc_s_Power Attack_Polearm_4"
+msgstr ""
+
+msgid "desc_s_Power Attack_Sithra_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Sword"
+msgstr ""
+
+msgid "desc_s_Power Attack_Sword_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_Sword_sub"
+msgstr ""
+
+msgid "desc_s_Power Attack_sithra"
+msgstr ""
+
+msgid "desc_s_Pray"
+msgstr ""
+
+msgid "desc_s_Precise Shot"
+msgstr ""
+
+msgid "desc_s_Proc Blizzard"
+msgstr ""
+
+msgid "desc_s_Proc Blizzard_1"
+msgstr ""
+
+msgid "desc_s_Proc Exploding Charge"
+msgstr ""
+
+msgid "desc_s_Proc Exploding Charge_Area"
+msgstr ""
+
+msgid "desc_s_Proc Meteor Strike"
+msgstr ""
+
+msgid "desc_s_Proc Meteor Strike_Impact"
+msgstr ""
+
+msgid "desc_s_Proc Rend"
+msgstr ""
+
+msgid "desc_s_Proc Rend_1"
+msgstr ""
+
+msgid "desc_s_Proc Unholy Flames"
+msgstr ""
+
+msgid "desc_s_Proc Unholy Flames_area"
+msgstr ""
+
+msgid "desc_s_Pungent Mist"
+msgstr ""
+
+msgid "desc_s_Pungent Mist_1"
+msgstr ""
+
+msgid "desc_s_Push"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Air Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Arcane Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Earth Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Fire Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Greater Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Lesser Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Necromancy"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Ritual Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Spell Chanting"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Water Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Wild Magic"
+msgstr ""
+
+msgid "desc_s_Quicken Spells_Witchcraft"
+msgstr ""
+
+msgid "desc_s_Rage"
+msgstr ""
+
+msgid "desc_s_Rage_1"
+msgstr ""
+
+msgid "desc_s_Rage_Healing"
+msgstr ""
+
+msgid "desc_s_Ranged Skills"
+msgstr ""
+
+msgid "desc_s_Rapid Shot"
+msgstr ""
+
+msgid "desc_s_Rapid Shot_1"
+msgstr ""
+
+msgid "desc_s_Read"
+msgstr ""
+
+msgid "desc_s_Reagent Conservation"
+msgstr ""
+
+msgid "desc_s_Reflect Spell"
+msgstr ""
+
+msgid "desc_s_Reflect Spell_1"
+msgstr ""
+
+msgid "desc_s_Reflex"
+msgstr ""
+
+msgid "desc_s_Rend"
+msgstr ""
+
+msgid "desc_s_Rend_1"
+msgstr ""
+
+msgid "desc_s_Rend_2"
+msgstr ""
+
+msgid "desc_s_Repair"
+msgstr ""
+
+msgid "desc_s_Repair Skills"
+msgstr ""
+
+msgid "desc_s_Replenish"
+msgstr ""
+
+msgid "desc_s_Replenish all"
+msgstr ""
+
+msgid "desc_s_Replenish all_1"
+msgstr ""
+
+msgid "desc_s_Replenish all_2"
+msgstr ""
+
+msgid "desc_s_Replenish all_3"
+msgstr ""
+
+msgid "desc_s_Replenish_1"
+msgstr ""
+
+msgid "desc_s_Research"
+msgstr ""
+
+msgid "desc_s_Research Skills"
+msgstr ""
+
+msgid "desc_s_Rest"
+msgstr ""
+
+msgid "desc_s_Rest_1"
+msgstr ""
+
+msgid "desc_s_Revive"
+msgstr ""
+
+msgid "desc_s_Revive_1"
+msgstr ""
+
+msgid "desc_s_Riding"
+msgstr ""
+
+msgid "desc_s_Riding Jump"
+msgstr ""
+
+msgid "desc_s_Riding Run"
+msgstr ""
+
+msgid "desc_s_Riding Skills"
+msgstr ""
+
+msgid "desc_s_Riding Walk"
+msgstr ""
+
+msgid "desc_s_Rigor"
+msgstr ""
+
+msgid "desc_s_Ritual Magic"
+msgstr ""
+
+msgid "desc_s_Ritual Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Run"
+msgstr ""
+
+msgid "desc_s_Sacred Missile"
+msgstr ""
+
+msgid "desc_s_Sacred Missile_HolyDam"
+msgstr ""
+
+msgid "desc_s_Sacrifice"
+msgstr ""
+
+msgid "desc_s_Sacrifice_1"
+msgstr ""
+
+msgid "desc_s_Sail"
+msgstr ""
+
+msgid "desc_s_Scan Resources"
+msgstr ""
+
+msgid "desc_s_Schematics"
+msgstr ""
+
+msgid "desc_s_Scout"
+msgstr ""
+
+msgid "desc_s_Scribing"
+msgstr ""
+
+msgid "desc_s_Seize_Axe"
+msgstr ""
+
+msgid "desc_s_Seize_Axe_1"
+msgstr ""
+
+msgid "desc_s_Seize_Club"
+msgstr ""
+
+msgid "desc_s_Seize_Club_1"
+msgstr ""
+
+msgid "desc_s_Seize_Greataxe"
+msgstr ""
+
+msgid "desc_s_Seize_Greataxe_1"
+msgstr ""
+
+msgid "desc_s_Seize_Greatclub"
+msgstr ""
+
+msgid "desc_s_Seize_Greatclub_1"
+msgstr ""
+
+msgid "desc_s_Seize_Greatsword"
+msgstr ""
+
+msgid "desc_s_Seize_Greatsword_1"
+msgstr ""
+
+msgid "desc_s_Seize_Knife"
+msgstr ""
+
+msgid "desc_s_Seize_Knife_1"
+msgstr ""
+
+msgid "desc_s_Seize_Polearm"
+msgstr ""
+
+msgid "desc_s_Seize_Polearm_1"
+msgstr ""
+
+msgid "desc_s_Seize_Sithras"
+msgstr ""
+
+msgid "desc_s_Seize_Sithras_2"
+msgstr ""
+
+msgid "desc_s_Seize_Sword"
+msgstr ""
+
+msgid "desc_s_Seize_Sword_1"
+msgstr ""
+
+msgid "desc_s_Set Pvp"
+msgstr ""
+
+msgid "desc_s_Shadecraft"
+msgstr ""
+
+msgid "desc_s_Shards"
+msgstr ""
+
+msgid "desc_s_Shards_2"
+msgstr ""
+
+msgid "desc_s_Shards_Cold"
+msgstr ""
+
+msgid "desc_s_Sharpshooter"
+msgstr ""
+
+msgid "desc_s_Sheathe Object"
+msgstr ""
+
+msgid "desc_s_Shield Skills"
+msgstr ""
+
+msgid "desc_s_Shield of Protection"
+msgstr ""
+
+msgid "desc_s_Shield of Protection_1"
+msgstr ""
+
+msgid "desc_s_Shipbuilding"
+msgstr ""
+
+msgid "desc_s_Shipbuilding Mastery"
+msgstr ""
+
+msgid "desc_s_Shipyard Skills"
+msgstr ""
+
+msgid "desc_s_Siege Hammer"
+msgstr ""
+
+msgid "desc_s_Siege Hammer_1"
+msgstr ""
+
+msgid "desc_s_Siege Weapon Skills"
+msgstr ""
+
+msgid "desc_s_Sieze_Sithras_1"
+msgstr ""
+
+msgid "desc_s_Sithra Attacks"
+msgstr ""
+
+msgid "desc_s_Sithra Mastery"
+msgstr ""
+
+msgid "desc_s_Sithra Skills"
+msgstr ""
+
+msgid "desc_s_Sithras"
+msgstr ""
+
+msgid "desc_s_Sithras_1"
+msgstr ""
+
+msgid "desc_s_Sithras_Stab_1"
+msgstr ""
+
+msgid "desc_s_Sithras_Whirlwind_1"
+msgstr ""
+
+msgid "desc_s_Skills"
+msgstr ""
+
+msgid "desc_s_Skinning"
+msgstr ""
+
+msgid "desc_s_Skinning_1"
+msgstr ""
+
+msgid "desc_s_Slashing Weakness"
+msgstr ""
+
+msgid "desc_s_Slashing Weakness_1"
+msgstr ""
+
+msgid "desc_s_Slow"
+msgstr ""
+
+msgid "desc_s_Slow_1"
+msgstr ""
+
+msgid "desc_s_Sluggish"
+msgstr ""
+
+msgid "desc_s_Sluggish_1"
+msgstr ""
+
+msgid "desc_s_Smelter Skills"
+msgstr ""
+
+msgid "desc_s_Smelting"
+msgstr ""
+
+msgid "desc_s_Smoke Signal"
+msgstr ""
+
+msgid "desc_s_Smoke Signal_1"
+msgstr ""
+
+msgid "desc_s_Sniper"
+msgstr ""
+
+msgid "desc_s_Soothing Chant"
+msgstr ""
+
+msgid "desc_s_Soothing Chant_1"
+msgstr ""
+
+msgid "desc_s_Special Skills"
+msgstr ""
+
+msgid "desc_s_Spell Chanting"
+msgstr ""
+
+msgid "desc_s_Spell Chanting_Spells"
+msgstr ""
+
+msgid "desc_s_Spell Curse"
+msgstr ""
+
+msgid "desc_s_Spell Curse_Penalty"
+msgstr ""
+
+msgid "desc_s_Spell Immunity"
+msgstr ""
+
+msgid "desc_s_Spell Immunity_1"
+msgstr ""
+
+msgid "desc_s_Spells"
+msgstr ""
+
+msgid "desc_s_Spellturn"
+msgstr ""
+
+msgid "desc_s_Spirited Archer"
+msgstr ""
+
+msgid "desc_s_Spotter"
+msgstr ""
+
+msgid "desc_s_Sprint"
+msgstr ""
+
+msgid "desc_s_Staff Crafting"
+msgstr ""
+
+msgid "desc_s_Staff Crafting Mastery"
+msgstr ""
+
+msgid "desc_s_Stamina"
+msgstr ""
+
+msgid "desc_s_Stamina Leech"
+msgstr ""
+
+msgid "desc_s_Stamina Leech Hit"
+msgstr ""
+
+msgid "desc_s_Stamina Leech Hit_1"
+msgstr ""
+
+msgid "desc_s_Stamina Leech_1"
+msgstr ""
+
+msgid "desc_s_Stamina to Health"
+msgstr ""
+
+msgid "desc_s_Stamina to Health_1"
+msgstr ""
+
+msgid "desc_s_Stealth"
+msgstr ""
+
+msgid "desc_s_Stealth Skills"
+msgstr ""
+
+msgid "desc_s_Stoneskin"
+msgstr ""
+
+msgid "desc_s_Stoneskin_1"
+msgstr ""
+
+msgid "desc_s_Stormblast"
+msgstr ""
+
+msgid "desc_s_Stormblast_1"
+msgstr ""
+
+msgid "desc_s_Strafe Left"
+msgstr ""
+
+msgid "desc_s_Strafe Right"
+msgstr ""
+
+msgid "desc_s_Stuck"
+msgstr ""
+
+msgid "desc_s_Stupidity"
+msgstr ""
+
+msgid "desc_s_Stupidity_1"
+msgstr ""
+
+msgid "desc_s_Sturdy"
+msgstr ""
+
+msgid "desc_s_Summon Mount"
+msgstr ""
+
+msgid "desc_s_Summon Player"
+msgstr ""
+
+msgid "desc_s_Survivalist"
+msgstr ""
+
+msgid "desc_s_Swim"
+msgstr ""
+
+msgid "desc_s_Swimming"
+msgstr ""
+
+msgid "desc_s_Sword Attacks"
+msgstr ""
+
+msgid "desc_s_Sword Mastery"
+msgstr ""
+
+msgid "desc_s_Sword Skills"
+msgstr ""
+
+msgid "desc_s_Swords"
+msgstr ""
+
+msgid "desc_s_Swords_1"
+msgstr ""
+
+msgid "desc_s_Tailoring"
+msgstr ""
+
+msgid "desc_s_Tailoring Mastery"
+msgstr ""
+
+msgid "desc_s_Take Object"
+msgstr ""
+
+msgid "desc_s_Take Object_1"
+msgstr ""
+
+msgid "desc_s_Taming"
+msgstr ""
+
+msgid "desc_s_Taming Skills"
+msgstr ""
+
+msgid "desc_s_Tanning"
+msgstr ""
+
+msgid "desc_s_Tanning Skills"
+msgstr ""
+
+msgid "desc_s_Tarnish"
+msgstr ""
+
+msgid "desc_s_Tarnish_1"
+msgstr ""
+
+msgid "desc_s_Telekinesis"
+msgstr ""
+
+msgid "desc_s_Telekinesis_1"
+msgstr ""
+
+msgid "desc_s_Teleport"
+msgstr ""
+
+msgid "desc_s_Teleport Anchor"
+msgstr ""
+
+msgid "desc_s_Teleport Runebook"
+msgstr ""
+
+msgid "desc_s_Test"
+msgstr ""
+
+msgid "desc_s_Test Crafting Skill"
+msgstr ""
+
+msgid "desc_s_Throwing"
+msgstr ""
+
+msgid "desc_s_Throwing Impact_large"
+msgstr ""
+
+msgid "desc_s_Throwing Impact_medium"
+msgstr ""
+
+msgid "desc_s_Throwing Impact_small"
+msgstr ""
+
+msgid "desc_s_Throwing Impact_tiny"
+msgstr ""
+
+msgid "desc_s_Thrown Weapons"
+msgstr ""
+
+msgid "desc_s_Thunderstorm"
+msgstr ""
+
+msgid "desc_s_Thunderstorm_1"
+msgstr ""
+
+msgid "desc_s_Tinkering"
+msgstr ""
+
+msgid "desc_s_Tireless"
+msgstr ""
+
+msgid "desc_s_Tongue Rot"
+msgstr ""
+
+msgid "desc_s_Tongue Rot_Penalty"
+msgstr ""
+
+msgid "desc_s_Tornado"
+msgstr ""
+
+msgid "desc_s_Tornado_1"
+msgstr ""
+
+msgid "desc_s_Toughness"
+msgstr ""
+
+msgid "desc_s_Toxic Rain"
+msgstr ""
+
+msgid "desc_s_Toxic Rain_1"
+msgstr ""
+
+msgid "desc_s_Trueforge Armor"
+msgstr ""
+
+msgid "desc_s_Trueforge Weapon"
+msgstr ""
+
+msgid "desc_s_Unburden"
+msgstr ""
+
+msgid "desc_s_Unburden_1"
+msgstr ""
+
+msgid "desc_s_Undeath"
+msgstr ""
+
+msgid "desc_s_Undeath_1"
+msgstr ""
+
+msgid "desc_s_Unholy Caress"
+msgstr ""
+
+msgid "desc_s_Unholy Caress_1"
+msgstr ""
+
+msgid "desc_s_Unholy Flames"
+msgstr ""
+
+msgid "desc_s_Unholy Flames_area"
+msgstr ""
+
+msgid "desc_s_Unsheathe Object"
+msgstr ""
+
+msgid "desc_s_Unspawn Object"
+msgstr ""
+
+msgid "desc_s_Use Item"
+msgstr ""
+
+msgid "desc_s_Use Object"
+msgstr ""
+
+msgid "desc_s_Vampiric Touch"
+msgstr ""
+
+msgid "desc_s_Vampiric Touch_1"
+msgstr ""
+
+msgid "desc_s_Venom"
+msgstr ""
+
+msgid "desc_s_Venom_2"
+msgstr ""
+
+msgid "desc_s_Venom_Acid"
+msgstr ""
+
+msgid "desc_s_Veteran Archer"
+msgstr ""
+
+msgid "desc_s_Veteran Mage"
+msgstr ""
+
+msgid "desc_s_Virtuous Wrath"
+msgstr ""
+
+msgid "desc_s_Virtuous Wrath_1"
+msgstr ""
+
+msgid "desc_s_Volcano"
+msgstr ""
+
+msgid "desc_s_Volcano_1"
+msgstr ""
+
+msgid "desc_s_Walk"
+msgstr ""
+
+msgid "desc_s_Wall of Fire"
+msgstr ""
+
+msgid "desc_s_Wall of Fire_1"
+msgstr ""
+
+msgid "desc_s_Wall of Force"
+msgstr ""
+
+msgid "desc_s_Wall of Force_force"
+msgstr ""
+
+msgid "desc_s_Warhulk"
+msgstr ""
+
+msgid "desc_s_Warhulk Construction"
+msgstr ""
+
+msgid "desc_s_Water Breathing"
+msgstr ""
+
+msgid "desc_s_Water Breathing_1"
+msgstr ""
+
+msgid "desc_s_Water Magic"
+msgstr ""
+
+msgid "desc_s_Water Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Weakening Blaze"
+msgstr ""
+
+msgid "desc_s_Weakening Blaze_1"
+msgstr ""
+
+msgid "desc_s_Weakening Chill"
+msgstr ""
+
+msgid "desc_s_Weakening Chill_1"
+msgstr ""
+
+msgid "desc_s_Weapon Skills"
+msgstr ""
+
+msgid "desc_s_Weaponsmithing"
+msgstr ""
+
+msgid "desc_s_Weaponsmithing Mastery"
+msgstr ""
+
+msgid "desc_s_Weaving"
+msgstr ""
+
+msgid "desc_s_Weaving Skills"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Axe"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Axe_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Club"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Club_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greataxe"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greataxe_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greatclub"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greatclub_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greatsword"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Greatsword_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Knife"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Knife_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Polearm"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Polearm_1"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Sithra"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Sword"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack_Sword_1"
+msgstr ""
+
+msgid "desc_s_Wild Magic"
+msgstr ""
+
+msgid "desc_s_Wild Magic_Spells"
+msgstr ""
+
+msgid "desc_s_Willpower"
+msgstr ""
+
+msgid "desc_s_Witchcraft"
+msgstr ""
+
+msgid "desc_s_Witchcraft_Spells"
+msgstr ""
+
+msgid "desc_s_Witches Brew"
+msgstr ""
+
+msgid "desc_s_Witches Brew_1"
+msgstr ""
+
+msgid "desc_s_Woodcutting"
+msgstr ""
+
+msgid "desc_s_Woodworking"
+msgstr ""
+
+msgid "desc_s_Workbench Skills"
+msgstr ""
+
+msgid "desc_s_environmental damage"
+msgstr ""
+
+msgid "desc_s_natural ranged ammo"
+msgstr ""
+
+msgid "desc_s_natural ranged noammo"
+msgstr ""
+
+msgid "desc_ts_Feel free to comment"
+msgstr ""
+
+msgid "desc_ts_Get the idea?"
+msgstr ""
+
+msgid "desc_ts_Movement Skills"
+msgstr ""
+
+msgid "desc_ts_Test Skills"
+msgstr ""
+
+msgid "desc_ts_Walk"
+msgstr ""
+
+msgid "jumpskill"
+msgstr ""
+
+msgid "s_Acid Arrow"
+msgstr ""
+
+msgid "s_Acid Arrow_1"
+msgstr ""
+
+msgid "s_Acid Explosion"
+msgstr ""
+
+msgid "s_Acid Explosion_1"
+msgstr ""
+
+msgid "s_Acid Rain"
+msgstr ""
+
+msgid "s_Acid Rain_1"
+msgstr ""
+
+msgid "s_Acid Shield"
+msgstr ""
+
+msgid "s_Acid Shield_1"
+msgstr ""
+
+msgid "s_Acid Ward"
+msgstr ""
+
+msgid "s_Acid Ward_1"
+msgstr ""
+
+msgid "s_Acrobatics"
+msgstr ""
+
+msgid "s_Add Effect DOT"
+msgstr ""
+
+msgid "s_Add Effect Duration"
+msgstr ""
+
+msgid "s_Add Effect Main"
+msgstr ""
+
+msgid "s_Adept"
+msgstr ""
+
+msgid "s_Adept Shot"
+msgstr ""
+
+msgid "s_Adept_1"
+msgstr ""
+
+msgid "s_Agility"
+msgstr ""
+
+msgid "s_Agility_1"
+msgstr ""
+
+msgid "s_Air Magic"
+msgstr ""
+
+msgid "s_Air Magic_Spells"
+msgstr ""
+
+msgid "s_Alchemy"
+msgstr ""
+
+msgid "s_Alchemy Mastery"
+msgstr ""
+
+msgid "s_Alfar Cunning"
+msgstr ""
+
+msgid "s_Alfar Intellect"
+msgstr ""
+
+msgid "s_Alfar Resilience"
+msgstr ""
+
+msgid "s_Antitank Archery"
+msgstr ""
+
+msgid "s_Antitank Archery_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Axes"
+msgstr ""
+
+msgid "s_Antitank Attack_Club"
+msgstr ""
+
+msgid "s_Antitank Attack_Club_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms_1"
+msgstr ""
+
+msgid "s_Antitank Attack_Swords"
+msgstr ""
+
+msgid "s_Antitank Attack_Swords_1"
+msgstr ""
+
+msgid "s_Antitank Spell"
+msgstr ""
+
+msgid "s_Antitank Spell_1"
+msgstr ""
+
+msgid "s_Antitank_Attack_Axes_1"
+msgstr ""
+
+msgid "s_Anvil Skills"
+msgstr ""
+
+msgid "s_Arcane Magic"
+msgstr ""
+
+msgid "s_Arcane Magic_Spells"
+msgstr ""
+
+msgid "s_Archery"
+msgstr ""
+
+msgid "s_Archery Attacks"
+msgstr ""
+
+msgid "s_Archery Skills"
+msgstr ""
+
+msgid "s_Archery_1"
+msgstr ""
+
+msgid "s_Archmage"
+msgstr ""
+
+msgid "s_Armor Proficiency"
+msgstr ""
+
+msgid "s_Armored Archery"
+msgstr ""
+
+msgid "s_Armored Casting"
+msgstr ""
+
+msgid "s_Armorsmithing"
+msgstr ""
+
+msgid "s_Armorsmithing Mastery"
+msgstr ""
+
+msgid "s_Armour and Shield Skills"
+msgstr ""
+
+msgid "s_Arrow Shield"
+msgstr ""
+
+msgid "s_Arrow Shield_1"
+msgstr ""
+
+msgid "s_Arrow Ward"
+msgstr ""
+
+msgid "s_Arrow Ward_1"
+msgstr ""
+
+msgid "s_Artillery Construction"
+msgstr ""
+
+msgid "s_Athletic Skills"
+msgstr ""
+
+msgid "s_Attack_Archery"
+msgstr ""
+
+msgid "s_AttributeModification"
+msgstr ""
+
+msgid "s_Axe Attacks"
+msgstr ""
+
+msgid "s_Axe Mastery"
+msgstr ""
+
+msgid "s_Axe Skills"
+msgstr ""
+
+msgid "s_Axes"
+msgstr ""
+
+msgid "s_Axes_1"
+msgstr ""
+
+msgid "s_Backstab"
+msgstr ""
+
+msgid "s_Ball Lightning"
+msgstr ""
+
+msgid "s_Ball Lightning_1"
+msgstr ""
+
+msgid "s_Basic Movement Skills"
+msgstr ""
+
+msgid "s_Beacon"
+msgstr ""
+
+msgid "s_Beacon_1"
+msgstr ""
+
+msgid "s_Begone"
+msgstr ""
+
+msgid "s_Begone_1"
+msgstr ""
+
+msgid "s_Bindstone Recall"
+msgstr ""
+
+msgid "s_Blast"
+msgstr ""
+
+msgid "s_Blast_1"
+msgstr ""
+
+msgid "s_Blast_2"
+msgstr ""
+
+msgid "s_Blast_3"
+msgstr ""
+
+msgid "s_Bleeding Hit"
+msgstr ""
+
+msgid "s_Bleeding Hit_1"
+msgstr ""
+
+msgid "s_Bless Other"
+msgstr ""
+
+msgid "s_Bless Other_1"
+msgstr ""
+
+msgid "s_Blessing"
+msgstr ""
+
+msgid "s_Blessing_1"
+msgstr ""
+
+msgid "s_Blizzard"
+msgstr ""
+
+msgid "s_Blizzard_1"
+msgstr ""
+
+msgid "s_Bloodcraft"
+msgstr ""
+
+msgid "s_Bludgeoning Weakness"
+msgstr ""
+
+msgid "s_Bludgeoning Weakness_1"
+msgstr ""
+
+msgid "s_Boon of Agony"
+msgstr ""
+
+msgid "s_Boon of Agony_1"
+msgstr ""
+
+msgid "s_Boon of Blight"
+msgstr ""
+
+msgid "s_Boon of Blight_1"
+msgstr ""
+
+msgid "s_Boon of Domination"
+msgstr ""
+
+msgid "s_Boon of Domination_1"
+msgstr ""
+
+msgid "s_Boon of Mutilation"
+msgstr ""
+
+msgid "s_Boon of Mutilation_1"
+msgstr ""
+
+msgid "s_Boon of Storms"
+msgstr ""
+
+msgid "s_Boon of Storms_1"
+msgstr ""
+
+msgid "s_Boon of Storms_2"
+msgstr ""
+
+msgid "s_Boon of Waves"
+msgstr ""
+
+msgid "s_Boon of Waves_1"
+msgstr ""
+
+msgid "s_Bowyer"
+msgstr ""
+
+msgid "s_Bowyer Mastery"
+msgstr ""
+
+msgid "s_Brawn"
+msgstr ""
+
+msgid "s_Brawn_1"
+msgstr ""
+
+msgid "s_Burden"
+msgstr ""
+
+msgid "s_Burden_1"
+msgstr ""
+
+msgid "s_Cake and Fine Wine"
+msgstr ""
+
+msgid "s_Cake and Fine Wine_1"
+msgstr ""
+
+msgid "s_Camp"
+msgstr ""
+
+msgid "s_Camp_1"
+msgstr ""
+
+msgid "s_Capital Recall"
+msgstr ""
+
+msgid "s_Clear Thoughts"
+msgstr ""
+
+msgid "s_Clear Thoughts_1"
+msgstr ""
+
+msgid "s_Clever"
+msgstr ""
+
+msgid "s_Climb"
+msgstr ""
+
+msgid "s_Club Attacks"
+msgstr ""
+
+msgid "s_Club Mastery"
+msgstr ""
+
+msgid "s_Club and Mace Skills"
+msgstr ""
+
+msgid "s_Clubs and Maces"
+msgstr ""
+
+msgid "s_Clubs and Maces_1"
+msgstr ""
+
+msgid "s_Cold Shield"
+msgstr ""
+
+msgid "s_Cold Shield_prot"
+msgstr ""
+
+msgid "s_Cold Ward"
+msgstr ""
+
+msgid "s_Cold Ward_1"
+msgstr ""
+
+msgid "s_Combat Enhancements"
+msgstr ""
+
+msgid "s_Combat Skills"
+msgstr ""
+
+msgid "s_Come Hither"
+msgstr ""
+
+msgid "s_Come Hither_1"
+msgstr ""
+
+msgid "s_Come Hither_2"
+msgstr ""
+
+msgid "s_Confusion"
+msgstr ""
+
+msgid "s_Confusion_1"
+msgstr ""
+
+msgid "s_Constitution"
+msgstr ""
+
+msgid "s_Construction"
+msgstr ""
+
+msgid "s_Cooking"
+msgstr ""
+
+msgid "s_Cooking Mastery"
+msgstr ""
+
+msgid "s_Corrosive Blast"
+msgstr ""
+
+msgid "s_Corrosive Blast_1"
+msgstr ""
+
+msgid "s_Corrosive Blast_2"
+msgstr ""
+
+msgid "s_Crafting Skills"
+msgstr ""
+
+msgid "s_Critical Shot"
+msgstr ""
+
+msgid "s_Crouch"
+msgstr ""
+
+msgid "s_Crouch walk"
+msgstr ""
+
+msgid "s_Cursed Bolt"
+msgstr ""
+
+msgid "s_Cursed Bolt_1"
+msgstr ""
+
+msgid "s_Damaging Blow"
+msgstr ""
+
+msgid "s_Damaging Blow_1"
+msgstr ""
+
+msgid "s_Death Fog"
+msgstr ""
+
+msgid "s_Death Fog_1"
+msgstr ""
+
+msgid "s_Defense"
+msgstr ""
+
+msgid "s_Defensive Stance"
+msgstr ""
+
+msgid "s_Delayed Shot"
+msgstr ""
+
+msgid "s_Delayed Shot_1"
+msgstr ""
+
+msgid "s_Desecration"
+msgstr ""
+
+msgid "s_Desecration_1"
+msgstr ""
+
+msgid "s_Digging"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Club"
+msgstr ""
+
+msgid "s_Disabling Blow_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra_2"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword_2"
+msgstr ""
+
+msgid "s_Disabling Bolt"
+msgstr ""
+
+msgid "s_Disabling Bolt_1"
+msgstr ""
+
+msgid "s_Disabling Bolt_2"
+msgstr ""
+
+msgid "s_Disabling Shot"
+msgstr ""
+
+msgid "s_Disabling Shot_1"
+msgstr ""
+
+msgid "s_Disabling Shot_2"
+msgstr ""
+
+msgid "s_Disease"
+msgstr ""
+
+msgid "s_Disease_1"
+msgstr ""
+
+msgid "s_Disintegrate"
+msgstr ""
+
+msgid "s_Disintegrate_1"
+msgstr ""
+
+msgid "s_Divine Magic"
+msgstr ""
+
+msgid "s_Divine Magic_Spells"
+msgstr ""
+
+msgid "s_Diving"
+msgstr ""
+
+msgid "s_Dragon Acid Blast"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_acid"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Acid Breath"
+msgstr ""
+
+msgid "s_Dragon Acid Breath_1"
+msgstr ""
+
+msgid "s_Dragon Cold Blast"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_cold"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Cold Breath"
+msgstr ""
+
+msgid "s_Dragon Cold Breath_1"
+msgstr ""
+
+msgid "s_Dragon Fire Blast"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_fire"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Fire Breath"
+msgstr ""
+
+msgid "s_Dragon Fire Breath_1"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_lightning"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath_1"
+msgstr ""
+
+msgid "s_Dragonbreath"
+msgstr ""
+
+msgid "s_Dragonbreath_1"
+msgstr ""
+
+msgid "s_Drink"
+msgstr ""
+
+msgid "s_Durable Spells_Air Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Arcane Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Earth Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Fire Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Greater Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Lesser Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Necromancy"
+msgstr ""
+
+msgid "s_Durable Spells_Ritual Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Spell Chanting"
+msgstr ""
+
+msgid "s_Durable Spells_Water Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Wild Magic"
+msgstr ""
+
+msgid "s_Durable Spells_Witchcraft"
+msgstr ""
+
+msgid "s_Dwarven Durability"
+msgstr ""
+
+msgid "s_Dwarven Perseverance"
+msgstr ""
+
+msgid "s_Dwarven Perseverance_1"
+msgstr ""
+
+msgid "s_Dwarven Steelmaster"
+msgstr ""
+
+msgid "s_Dye Crafting"
+msgstr ""
+
+msgid "s_Dyeing"
+msgstr ""
+
+msgid "s_Dyeing Skills"
+msgstr ""
+
+msgid "s_Earth Magic"
+msgstr ""
+
+msgid "s_Earth Magic_Spells"
+msgstr ""
+
+msgid "s_Earthquake"
+msgstr ""
+
+msgid "s_Earthquake_1"
+msgstr ""
+
+msgid "s_Eat"
+msgstr ""
+
+msgid "s_Eldritch Sphere"
+msgstr ""
+
+msgid "s_Eldritch Sphere_1"
+msgstr ""
+
+msgid "s_Enchantment"
+msgstr ""
+
+msgid "s_Enchantment Add Effects"
+msgstr ""
+
+msgid "s_Enchantment Skills"
+msgstr ""
+
+msgid "s_Endurance"
+msgstr ""
+
+msgid "s_Engineering"
+msgstr ""
+
+msgid "s_Engineering Mastery"
+msgstr ""
+
+msgid "s_Environmental Skills"
+msgstr ""
+
+msgid "s_Esoteric"
+msgstr ""
+
+msgid "s_Evil Eye"
+msgstr ""
+
+msgid "s_Evil Eye_1"
+msgstr ""
+
+msgid "s_Examine Object"
+msgstr ""
+
+msgid "s_Exhaust"
+msgstr ""
+
+msgid "s_Exhaust_1"
+msgstr ""
+
+msgid "s_Exploding Charge"
+msgstr ""
+
+msgid "s_Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Explosion"
+msgstr ""
+
+msgid "s_Explosion_fire"
+msgstr ""
+
+msgid "s_Eye Rot"
+msgstr ""
+
+msgid "s_Eye Rot_1"
+msgstr ""
+
+msgid "s_Eye Rot_2"
+msgstr ""
+
+msgid "s_Eye Rot_3"
+msgstr ""
+
+msgid "s_Falling Technique"
+msgstr ""
+
+msgid "s_Fire Cannon"
+msgstr ""
+
+msgid "s_Fire Cannon_02"
+msgstr ""
+
+msgid "s_Fire Magic"
+msgstr ""
+
+msgid "s_Fire Magic_Spells"
+msgstr ""
+
+msgid "s_Fire Shield"
+msgstr ""
+
+msgid "s_Fire Shield_prot"
+msgstr ""
+
+msgid "s_Fire Shock Charge"
+msgstr ""
+
+msgid "s_Fire Ward"
+msgstr ""
+
+msgid "s_Fire Ward_prot"
+msgstr ""
+
+msgid "s_Fireball"
+msgstr ""
+
+msgid "s_Fireball_2"
+msgstr ""
+
+msgid "s_Fireball_Area"
+msgstr ""
+
+msgid "s_Firebolt"
+msgstr ""
+
+msgid "s_Firebolt_area"
+msgstr ""
+
+msgid "s_Fishing"
+msgstr ""
+
+msgid "s_Fishing Mastery"
+msgstr ""
+
+msgid "s_Fitness"
+msgstr ""
+
+msgid "s_Flames of Vengeance"
+msgstr ""
+
+msgid "s_Flames of Vengeance_1"
+msgstr ""
+
+msgid "s_Fleet"
+msgstr ""
+
+msgid "s_Flesh Curse"
+msgstr ""
+
+msgid "s_Flesh Curse_1"
+msgstr ""
+
+msgid "s_Fly"
+msgstr ""
+
+msgid "s_Focus"
+msgstr ""
+
+msgid "s_Fortitude"
+msgstr ""
+
+msgid "s_Foundry Skills"
+msgstr ""
+
+msgid "s_Frailty"
+msgstr ""
+
+msgid "s_Frailty_1"
+msgstr ""
+
+msgid "s_Frostbite"
+msgstr ""
+
+msgid "s_Frostbite_1"
+msgstr ""
+
+msgid "s_Gank"
+msgstr ""
+
+msgid "s_Gank_1"
+msgstr ""
+
+msgid "s_Gem Enchanting"
+msgstr ""
+
+msgid "s_General Skills"
+msgstr ""
+
+msgid "s_Gills"
+msgstr ""
+
+msgid "s_Gills_1"
+msgstr ""
+
+msgid "s_Glide"
+msgstr ""
+
+msgid "s_Gravity"
+msgstr ""
+
+msgid "s_Gravity_1"
+msgstr ""
+
+msgid "s_Greataxe Attacks"
+msgstr ""
+
+msgid "s_Greataxe Mastery"
+msgstr ""
+
+msgid "s_Greataxe Skills"
+msgstr ""
+
+msgid "s_Greataxes"
+msgstr ""
+
+msgid "s_Greataxes_1"
+msgstr ""
+
+msgid "s_Greatclub Attacks"
+msgstr ""
+
+msgid "s_Greatclub Mastery"
+msgstr ""
+
+msgid "s_Greatclub Skills"
+msgstr ""
+
+msgid "s_Greatclubs"
+msgstr ""
+
+msgid "s_Greatclubs_1"
+msgstr ""
+
+msgid "s_Greater Magic"
+msgstr ""
+
+msgid "s_Greater Magic_Spells"
+msgstr ""
+
+msgid "s_Greatsword Attacks"
+msgstr ""
+
+msgid "s_Greatsword Mastery"
+msgstr ""
+
+msgid "s_Greatsword Skills"
+msgstr ""
+
+msgid "s_Greatswords"
+msgstr ""
+
+msgid "s_Greatswords_1"
+msgstr ""
+
+msgid "s_Guiding Wind"
+msgstr ""
+
+msgid "s_Guiding Wind_1"
+msgstr ""
+
+msgid "s_Harvesting Skills"
+msgstr ""
+
+msgid "s_Haste"
+msgstr ""
+
+msgid "s_Haste_1"
+msgstr ""
+
+msgid "s_Hasten Spells"
+msgstr ""
+
+msgid "s_Hasten Spells_1"
+msgstr ""
+
+msgid "s_Heal Mount"
+msgstr ""
+
+msgid "s_Heal Mount_1"
+msgstr ""
+
+msgid "s_Heal Other"
+msgstr ""
+
+msgid "s_Heal Other_1"
+msgstr ""
+
+msgid "s_Heal Self"
+msgstr ""
+
+msgid "s_Heal Self_1"
+msgstr ""
+
+msgid "s_Healing Chant"
+msgstr ""
+
+msgid "s_Healing Chant_1"
+msgstr ""
+
+msgid "s_Health"
+msgstr ""
+
+msgid "s_Health to Mana"
+msgstr ""
+
+msgid "s_Health to Mana_1"
+msgstr ""
+
+msgid "s_Herb Gathering"
+msgstr ""
+
+msgid "s_Herb Gathering Mastery"
+msgstr ""
+
+msgid "s_Holy Shield"
+msgstr ""
+
+msgid "s_Holy Shield_1"
+msgstr ""
+
+msgid "s_Holy Ward"
+msgstr ""
+
+msgid "s_Holy Ward_1"
+msgstr ""
+
+msgid "s_Holy Weakness"
+msgstr ""
+
+msgid "s_Holy Weakness_1"
+msgstr ""
+
+msgid "s_House Recall"
+msgstr ""
+
+msgid "s_Human Ingenuity"
+msgstr ""
+
+msgid "s_Human Longevity"
+msgstr ""
+
+msgid "s_Human Willpower"
+msgstr ""
+
+msgid "s_Hymn of Intellect"
+msgstr ""
+
+msgid "s_Hymn of Intellect_1"
+msgstr ""
+
+msgid "s_Hymn of Might"
+msgstr ""
+
+msgid "s_Hymn of Might_1"
+msgstr ""
+
+msgid "s_Hymn of Skill"
+msgstr ""
+
+msgid "s_Hymn of Skill_1"
+msgstr ""
+
+msgid "s_Hymn of Swiftness"
+msgstr ""
+
+msgid "s_Hymn of Swiftness_1"
+msgstr ""
+
+msgid "s_Hymn of Vigor"
+msgstr ""
+
+msgid "s_Hymn of Vigor_1"
+msgstr ""
+
+msgid "s_Ice Storm"
+msgstr ""
+
+msgid "s_Ice Storm_1"
+msgstr ""
+
+msgid "s_Icicle"
+msgstr ""
+
+msgid "s_Icicle_Cold"
+msgstr ""
+
+msgid "s_Ignore Pain"
+msgstr ""
+
+msgid "s_Impale"
+msgstr ""
+
+msgid "s_Impale_1"
+msgstr ""
+
+msgid "s_Impetus"
+msgstr ""
+
+msgid "s_Impetus_1"
+msgstr ""
+
+msgid "s_Improvement Skills"
+msgstr ""
+
+msgid "s_Impulse"
+msgstr ""
+
+msgid "s_Impulse_1"
+msgstr ""
+
+msgid "s_Industry"
+msgstr ""
+
+msgid "s_Infernal Shield"
+msgstr ""
+
+msgid "s_Infernal Shield_1"
+msgstr ""
+
+msgid "s_Infernal Ward"
+msgstr ""
+
+msgid "s_Infernal Ward_1"
+msgstr ""
+
+msgid "s_Inferno"
+msgstr ""
+
+msgid "s_Inferno_area"
+msgstr ""
+
+msgid "s_Infliction Shield"
+msgstr ""
+
+msgid "s_Infliction Shield_1"
+msgstr ""
+
+msgid "s_Infliction Ward"
+msgstr ""
+
+msgid "s_Infliction Ward_1"
+msgstr ""
+
+msgid "s_Ingenious"
+msgstr ""
+
+msgid "s_Insect Swarm"
+msgstr ""
+
+msgid "s_Insect Swarm_1"
+msgstr ""
+
+msgid "s_Insect Swarm_2"
+msgstr ""
+
+msgid "s_Insight"
+msgstr ""
+
+msgid "s_Insight_1"
+msgstr ""
+
+msgid "s_InstaGib"
+msgstr ""
+
+msgid "s_InstaGib_1"
+msgstr ""
+
+msgid "s_Intensify_Air Magic"
+msgstr ""
+
+msgid "s_Intensify_Arcane Magic"
+msgstr ""
+
+msgid "s_Intensify_Earth Magic"
+msgstr ""
+
+msgid "s_Intensify_Fire Magic"
+msgstr ""
+
+msgid "s_Intensify_Greater Magic"
+msgstr ""
+
+msgid "s_Intensify_Lesser Magic"
+msgstr ""
+
+msgid "s_Intensify_Necromancy"
+msgstr ""
+
+msgid "s_Intensify_Ritual Magic"
+msgstr ""
+
+msgid "s_Intensify_Spell Chanting"
+msgstr ""
+
+msgid "s_Intensify_Water Magic"
+msgstr ""
+
+msgid "s_Intensify_Wild Magic"
+msgstr ""
+
+msgid "s_Intensify_Witchcraft"
+msgstr ""
+
+msgid "s_Ironskin"
+msgstr ""
+
+msgid "s_Ironskin_1"
+msgstr ""
+
+msgid "s_Jewelsmithing"
+msgstr ""
+
+msgid "s_Jog"
+msgstr ""
+
+msgid "s_Jump"
+msgstr ""
+
+msgid "s_Kneel"
+msgstr ""
+
+msgid "s_Knife Attacks"
+msgstr ""
+
+msgid "s_Knife Mastery"
+msgstr ""
+
+msgid "s_Knife Skills"
+msgstr ""
+
+msgid "s_Knives"
+msgstr ""
+
+msgid "s_Knives_1"
+msgstr ""
+
+msgid "s_Knockback_Axe"
+msgstr ""
+
+msgid "s_Knockback_Axe_1"
+msgstr ""
+
+msgid "s_Knockback_Club"
+msgstr ""
+
+msgid "s_Knockback_Club_1"
+msgstr ""
+
+msgid "s_Knockback_Greataxe"
+msgstr ""
+
+msgid "s_Knockback_Greataxe_1"
+msgstr ""
+
+msgid "s_Knockback_Greatclub"
+msgstr ""
+
+msgid "s_Knockback_Greatclub_1"
+msgstr ""
+
+msgid "s_Knockback_Greatsword"
+msgstr ""
+
+msgid "s_Knockback_Greatsword_1"
+msgstr ""
+
+msgid "s_Knockback_Knife"
+msgstr ""
+
+msgid "s_Knockback_Knife_1"
+msgstr ""
+
+msgid "s_Knockback_Polearm"
+msgstr ""
+
+msgid "s_Knockback_Polearm_1"
+msgstr ""
+
+msgid "s_Knockback_Sithras"
+msgstr ""
+
+msgid "s_Knockback_Sithras_1"
+msgstr ""
+
+msgid "s_Knockback_Sword"
+msgstr ""
+
+msgid "s_Knockback_Sword_1"
+msgstr ""
+
+msgid "s_Laboratory Skills"
+msgstr ""
+
+msgid "s_Launch"
+msgstr ""
+
+msgid "s_Launch_1"
+msgstr ""
+
+msgid "s_Lay on Hands"
+msgstr ""
+
+msgid "s_Lay on Hands_1"
+msgstr ""
+
+msgid "s_Lend Mana"
+msgstr ""
+
+msgid "s_Lend Mana_1"
+msgstr ""
+
+msgid "s_Lesser Magic"
+msgstr ""
+
+msgid "s_Lesser Magic_Spells"
+msgstr ""
+
+msgid "s_Levitation"
+msgstr ""
+
+msgid "s_Levitation_1"
+msgstr ""
+
+msgid "s_Lie"
+msgstr ""
+
+msgid "s_Light"
+msgstr ""
+
+msgid "s_Light_1"
+msgstr ""
+
+msgid "s_Lightning Bolt"
+msgstr ""
+
+msgid "s_Lightning Bolt_1"
+msgstr ""
+
+msgid "s_Lightning Shield"
+msgstr ""
+
+msgid "s_Lightning Shield_1"
+msgstr ""
+
+msgid "s_Lightning Strike"
+msgstr ""
+
+msgid "s_Lightning Strike_1"
+msgstr ""
+
+msgid "s_Lightning Strike_2"
+msgstr ""
+
+msgid "s_Lightning Ward"
+msgstr ""
+
+msgid "s_Lightning Ward_1"
+msgstr ""
+
+msgid "s_Lightning Weakness"
+msgstr ""
+
+msgid "s_Lightning Weakness_1"
+msgstr ""
+
+msgid "s_Logging"
+msgstr ""
+
+msgid "s_Logging Mastery"
+msgstr ""
+
+msgid "s_Magic Schools_Skills"
+msgstr ""
+
+msgid "s_Magic Shield"
+msgstr ""
+
+msgid "s_Magic Shield_resist"
+msgstr ""
+
+msgid "s_Magic Skills"
+msgstr ""
+
+msgid "s_Magic Ward"
+msgstr ""
+
+msgid "s_Magic Ward_resist"
+msgstr ""
+
+msgid "s_Magma Storm"
+msgstr ""
+
+msgid "s_Magma Strom_fire"
+msgstr ""
+
+msgid "s_Mahirim Endurance"
+msgstr ""
+
+msgid "s_Mahirim Huntspeed"
+msgstr ""
+
+msgid "s_Mahirim Reflexes"
+msgstr ""
+
+msgid "s_Mahirim Run"
+msgstr ""
+
+msgid "s_Maintenance"
+msgstr ""
+
+msgid "s_Mana Blast"
+msgstr ""
+
+msgid "s_Mana Blast_1"
+msgstr ""
+
+msgid "s_Mana Bonus"
+msgstr ""
+
+msgid "s_Mana Conservation"
+msgstr ""
+
+msgid "s_Mana Drain"
+msgstr ""
+
+msgid "s_Mana Drain_Drain"
+msgstr ""
+
+msgid "s_Mana Efficiency_Air Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Arcane Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Earth Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Fire Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Greater Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Lesser Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Necromancy"
+msgstr ""
+
+msgid "s_Mana Efficiency_Ritual Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Spell Chanting"
+msgstr ""
+
+msgid "s_Mana Efficiency_Water Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Wild Magic"
+msgstr ""
+
+msgid "s_Mana Efficiency_Witchcraft"
+msgstr ""
+
+msgid "s_Mana Leech"
+msgstr ""
+
+msgid "s_Mana Leech Hit"
+msgstr ""
+
+msgid "s_Mana Leech Hit_1"
+msgstr ""
+
+msgid "s_Mana Leech_1"
+msgstr ""
+
+msgid "s_Mana Missile"
+msgstr ""
+
+msgid "s_Mana Missile_Arcane"
+msgstr ""
+
+msgid "s_Mana to Stamina"
+msgstr ""
+
+msgid "s_Mana to Stamina_1"
+msgstr ""
+
+msgid "s_Manipulate Skills"
+msgstr ""
+
+msgid "s_Manufacturing Skills"
+msgstr ""
+
+msgid "s_Max Health Bonus"
+msgstr ""
+
+msgid "s_Max Health Bonus_1"
+msgstr ""
+
+msgid "s_Max Mana Bonus"
+msgstr ""
+
+msgid "s_Max Mana Bonus_1"
+msgstr ""
+
+msgid "s_Max Stamina Bonus"
+msgstr ""
+
+msgid "s_Max Stamina Bonus_1"
+msgstr ""
+
+msgid "s_Medical Skills"
+msgstr ""
+
+msgid "s_Melee General Skills"
+msgstr ""
+
+msgid "s_Melee Powers"
+msgstr ""
+
+msgid "s_Melee Skills"
+msgstr ""
+
+msgid "s_Mental Weakness"
+msgstr ""
+
+msgid "s_Mental Weakness_1"
+msgstr ""
+
+msgid "s_Meteor Strike"
+msgstr ""
+
+msgid "s_Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Might"
+msgstr ""
+
+msgid "s_Mining"
+msgstr ""
+
+msgid "s_Mining Mastery"
+msgstr ""
+
+msgid "s_Mirdain Insight"
+msgstr ""
+
+msgid "s_Mirdain Precision"
+msgstr ""
+
+msgid "s_Mirdain Sight"
+msgstr ""
+
+msgid "s_Missile Fury"
+msgstr ""
+
+msgid "s_Missile Fury_1"
+msgstr ""
+
+msgid "s_Mixing"
+msgstr ""
+
+msgid "s_Mortar and Pestle Skills"
+msgstr ""
+
+msgid "s_Mount Attack"
+msgstr ""
+
+msgid "s_Mount Attack_1"
+msgstr ""
+
+msgid "s_Mount Attacks"
+msgstr ""
+
+msgid "s_Mount Swim"
+msgstr ""
+
+msgid "s_Movement Skills"
+msgstr ""
+
+msgid "s_Mugging"
+msgstr ""
+
+msgid "s_Muscular"
+msgstr ""
+
+msgid "s_Mystic Shield"
+msgstr ""
+
+msgid "s_Mystic Shield_1"
+msgstr ""
+
+msgid "s_Mystic Ward"
+msgstr ""
+
+msgid "s_Mystic Ward_1"
+msgstr ""
+
+msgid "s_Natural Alt Special Gorra"
+msgstr ""
+
+msgid "s_Natural Antitank"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_1"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_2"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_3"
+msgstr ""
+
+msgid "s_Natural Antitank Metal Golem"
+msgstr ""
+
+msgid "s_Natural Antitank Stone Golem"
+msgstr ""
+
+msgid "s_Natural Attack Acid_1"
+msgstr ""
+
+msgid "s_Natural Attack Arcane_1"
+msgstr ""
+
+msgid "s_Natural Attack Bleed_1"
+msgstr ""
+
+msgid "s_Natural Attack Blunt"
+msgstr ""
+
+msgid "s_Natural Attack Blunt_1"
+msgstr ""
+
+msgid "s_Natural Attack Bow_1"
+msgstr ""
+
+msgid "s_Natural Attack Crush"
+msgstr ""
+
+msgid "s_Natural Attack Demon"
+msgstr ""
+
+msgid "s_Natural Attack Disabling_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_2"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_3"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_4"
+msgstr ""
+
+msgid "s_Natural Attack Impact"
+msgstr ""
+
+msgid "s_Natural Attack Impact_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_2"
+msgstr ""
+
+msgid "s_Natural Attack Kraken"
+msgstr ""
+
+msgid "s_Natural Attack Metal Golem"
+msgstr ""
+
+msgid "s_Natural Attack Pierce"
+msgstr ""
+
+msgid "s_Natural Attack Pierce_1"
+msgstr ""
+
+msgid "s_Natural Attack Poison_1"
+msgstr ""
+
+msgid "s_Natural Attack Primary"
+msgstr ""
+
+msgid "s_Natural Attack Slash"
+msgstr ""
+
+msgid "s_Natural Attack Slash Executioner"
+msgstr ""
+
+msgid "s_Natural Attack Slash_1"
+msgstr ""
+
+msgid "s_Natural Attack Stamina_1"
+msgstr ""
+
+msgid "s_Natural Attack Stone Golem"
+msgstr ""
+
+msgid "s_Natural Attack Strength_1"
+msgstr ""
+
+msgid "s_Natural Attacks"
+msgstr ""
+
+msgid "s_Natural Basic Attacks"
+msgstr ""
+
+msgid "s_Natural Bleeding"
+msgstr ""
+
+msgid "s_Natural Bleeding Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Demon"
+msgstr ""
+
+msgid "s_Natural Crush Doombringer"
+msgstr ""
+
+msgid "s_Natural Crush Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Metal Golem"
+msgstr ""
+
+msgid "s_Natural Crush Stone Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Blunt"
+msgstr ""
+
+msgid "s_Natural Disabling Kraken"
+msgstr ""
+
+msgid "s_Natural Disabling Metal Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Stone Golem"
+msgstr ""
+
+msgid "s_Natural Elemental Whirlwind"
+msgstr ""
+
+msgid "s_Natural Epic Attacks"
+msgstr ""
+
+msgid "s_Natural Mageblast"
+msgstr ""
+
+msgid "s_Natural Melee"
+msgstr ""
+
+msgid "s_Natural Poison"
+msgstr ""
+
+msgid "s_Natural Ranged"
+msgstr ""
+
+msgid "s_Natural Ranged Bow"
+msgstr ""
+
+msgid "s_Natural Special Attacks"
+msgstr ""
+
+msgid "s_Natural Stamina Drain"
+msgstr ""
+
+msgid "s_Natural Strength Penalty"
+msgstr ""
+
+msgid "s_Natural Subskills"
+msgstr ""
+
+msgid "s_Natural Whirlwind Poison"
+msgstr ""
+
+msgid "s_Necromancy"
+msgstr ""
+
+msgid "s_Necromancy_Spells"
+msgstr ""
+
+msgid "s_Needles"
+msgstr ""
+
+msgid "s_Needles_1"
+msgstr ""
+
+msgid "s_Nimble"
+msgstr ""
+
+msgid "s_Ominous Drain"
+msgstr ""
+
+msgid "s_Ominous Drain_1"
+msgstr ""
+
+msgid "s_Open Package"
+msgstr ""
+
+msgid "s_Orkish Brutality"
+msgstr ""
+
+msgid "s_Orkish Capacity"
+msgstr ""
+
+msgid "s_Orkish Toughness"
+msgstr ""
+
+msgid "s_Other Skills"
+msgstr ""
+
+msgid "s_Oven Skills"
+msgstr ""
+
+msgid "s_Pack Mule"
+msgstr ""
+
+msgid "s_Palsy"
+msgstr ""
+
+msgid "s_Palsy_1"
+msgstr ""
+
+msgid "s_Parry"
+msgstr ""
+
+msgid "s_Perseverance"
+msgstr ""
+
+msgid "s_Pestilence"
+msgstr ""
+
+msgid "s_Pestilence_1"
+msgstr ""
+
+msgid "s_Physics Test A"
+msgstr ""
+
+msgid "s_Physics Test A_1"
+msgstr ""
+
+msgid "s_Physics Test B"
+msgstr ""
+
+msgid "s_Physics Test B_1"
+msgstr ""
+
+msgid "s_Physics Test C"
+msgstr ""
+
+msgid "s_Physics Test C_1"
+msgstr ""
+
+msgid "s_Physics Test D"
+msgstr ""
+
+msgid "s_Physics Test D_1"
+msgstr ""
+
+msgid "s_Physics Test E"
+msgstr ""
+
+msgid "s_Physics Test E_1"
+msgstr ""
+
+msgid "s_Pick Pockets"
+msgstr ""
+
+msgid "s_Piercing Weakness"
+msgstr ""
+
+msgid "s_Piercing Weakness_1"
+msgstr ""
+
+msgid "s_Ping Waypoint"
+msgstr ""
+
+msgid "s_Place Object"
+msgstr ""
+
+msgid "s_Placement Skills"
+msgstr ""
+
+msgid "s_Poison Resistance"
+msgstr ""
+
+msgid "s_Polearm Attacks"
+msgstr ""
+
+msgid "s_Polearm Mastery"
+msgstr ""
+
+msgid "s_Polearm Skills"
+msgstr ""
+
+msgid "s_Polearms"
+msgstr ""
+
+msgid "s_Polearms_1"
+msgstr ""
+
+msgid "s_Positioning Skills"
+msgstr ""
+
+msgid "s_Power Attack_Axe"
+msgstr ""
+
+msgid "s_Power Attack_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe_2"
+msgstr ""
+
+msgid "s_Power Attack_Axe_3"
+msgstr ""
+
+msgid "s_Power Attack_Axe_4"
+msgstr ""
+
+msgid "s_Power Attack_Club"
+msgstr ""
+
+msgid "s_Power Attack_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club_2"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_2"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_3"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_4"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub_2"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword_2"
+msgstr ""
+
+msgid "s_Power Attack_Knife"
+msgstr ""
+
+msgid "s_Power Attack_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife_2"
+msgstr ""
+
+msgid "s_Power Attack_Polearm"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_2"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_3"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_4"
+msgstr ""
+
+msgid "s_Power Attack_Sithra_2"
+msgstr ""
+
+msgid "s_Power Attack_Sword"
+msgstr ""
+
+msgid "s_Power Attack_Sword_2"
+msgstr ""
+
+msgid "s_Power Attack_Sword_sub"
+msgstr ""
+
+msgid "s_Power Attack_sithra"
+msgstr ""
+
+msgid "s_Pray"
+msgstr ""
+
+msgid "s_Precise Shot"
+msgstr ""
+
+msgid "s_Proc Blizzard"
+msgstr ""
+
+msgid "s_Proc Blizzard_1"
+msgstr ""
+
+msgid "s_Proc Exploding Charge"
+msgstr ""
+
+msgid "s_Proc Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Proc Meteor Strike"
+msgstr ""
+
+msgid "s_Proc Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Proc Rend"
+msgstr ""
+
+msgid "s_Proc Rend_1"
+msgstr ""
+
+msgid "s_Proc Unholy Flames"
+msgstr ""
+
+msgid "s_Proc Unholy Flames_area"
+msgstr ""
+
+msgid "s_Pungent Mist"
+msgstr ""
+
+msgid "s_Pungent Mist_1"
+msgstr ""
+
+msgid "s_Push"
+msgstr ""
+
+msgid "s_Quicken Spells_Air Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Arcane Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Earth Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Fire Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Greater Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Lesser Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Necromancy"
+msgstr ""
+
+msgid "s_Quicken Spells_Ritual Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Spell Chanting"
+msgstr ""
+
+msgid "s_Quicken Spells_Water Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Wild Magic"
+msgstr ""
+
+msgid "s_Quicken Spells_Witchcraft"
+msgstr ""
+
+msgid "s_Rage"
+msgstr ""
+
+msgid "s_Rage_1"
+msgstr ""
+
+msgid "s_Rage_Healing"
+msgstr ""
+
+msgid "s_Ranged Skills"
+msgstr ""
+
+msgid "s_Rapid Shot"
+msgstr ""
+
+msgid "s_Rapid Shot_1"
+msgstr ""
+
+msgid "s_Read"
+msgstr ""
+
+msgid "s_Reagent Conservation"
+msgstr ""
+
+msgid "s_Reflect Spell"
+msgstr ""
+
+msgid "s_Reflect Spell_1"
+msgstr ""
+
+msgid "s_Reflex"
+msgstr ""
+
+msgid "s_Rend"
+msgstr ""
+
+msgid "s_Rend_1"
+msgstr ""
+
+msgid "s_Rend_2"
+msgstr ""
+
+msgid "s_Repair"
+msgstr ""
+
+msgid "s_Repair Skills"
+msgstr ""
+
+msgid "s_Replenish"
+msgstr ""
+
+msgid "s_Replenish all"
+msgstr ""
+
+msgid "s_Replenish all_1"
+msgstr ""
+
+msgid "s_Replenish all_2"
+msgstr ""
+
+msgid "s_Replenish all_3"
+msgstr ""
+
+msgid "s_Replenish_1"
+msgstr ""
+
+msgid "s_Research"
+msgstr ""
+
+msgid "s_Research Skills"
+msgstr ""
+
+msgid "s_Rest"
+msgstr ""
+
+msgid "s_Rest_1"
+msgstr ""
+
+msgid "s_Revive"
+msgstr ""
+
+msgid "s_Revive_1"
+msgstr ""
+
+msgid "s_Riding"
+msgstr ""
+
+msgid "s_Riding Jump"
+msgstr ""
+
+msgid "s_Riding Run"
+msgstr ""
+
+msgid "s_Riding Skills"
+msgstr ""
+
+msgid "s_Riding Walk"
+msgstr ""
+
+msgid "s_Rigor"
+msgstr ""
+
+msgid "s_Ritual Magic"
+msgstr ""
+
+msgid "s_Ritual Magic_Spells"
+msgstr ""
+
+msgid "s_Run"
+msgstr ""
+
+msgid "s_Sacred Missile"
+msgstr ""
+
+msgid "s_Sacred Missile_HolyDam"
+msgstr ""
+
+msgid "s_Sacrifice"
+msgstr ""
+
+msgid "s_Sacrifice_1"
+msgstr ""
+
+msgid "s_Sail"
+msgstr ""
+
+msgid "s_Scan Resources"
+msgstr ""
+
+msgid "s_Schematics"
+msgstr ""
+
+msgid "s_Scout"
+msgstr ""
+
+msgid "s_Scribing"
+msgstr ""
+
+msgid "s_Seize_Axe"
+msgstr ""
+
+msgid "s_Seize_Axe_1"
+msgstr ""
+
+msgid "s_Seize_Club"
+msgstr ""
+
+msgid "s_Seize_Club_1"
+msgstr ""
+
+msgid "s_Seize_Greataxe"
+msgstr ""
+
+msgid "s_Seize_Greataxe_1"
+msgstr ""
+
+msgid "s_Seize_Greatclub"
+msgstr ""
+
+msgid "s_Seize_Greatclub_1"
+msgstr ""
+
+msgid "s_Seize_Greatsword"
+msgstr ""
+
+msgid "s_Seize_Greatsword_1"
+msgstr ""
+
+msgid "s_Seize_Knife"
+msgstr ""
+
+msgid "s_Seize_Knife_1"
+msgstr ""
+
+msgid "s_Seize_Polearm"
+msgstr ""
+
+msgid "s_Seize_Polearm_1"
+msgstr ""
+
+msgid "s_Seize_Sithras"
+msgstr ""
+
+msgid "s_Seize_Sithras_2"
+msgstr ""
+
+msgid "s_Seize_Sword"
+msgstr ""
+
+msgid "s_Seize_Sword_1"
+msgstr ""
+
+msgid "s_Set Pvp"
+msgstr ""
+
+msgid "s_Shadecraft"
+msgstr ""
+
+msgid "s_Shards"
+msgstr ""
+
+msgid "s_Shards_2"
+msgstr ""
+
+msgid "s_Shards_Cold"
+msgstr ""
+
+msgid "s_Sharpshooter"
+msgstr ""
+
+msgid "s_Sheathe Object"
+msgstr ""
+
+msgid "s_Shield Skills"
+msgstr ""
+
+msgid "s_Shield of Protection"
+msgstr ""
+
+msgid "s_Shield of Protection_1"
+msgstr ""
+
+msgid "s_Shipbuilding"
+msgstr ""
+
+msgid "s_Shipbuilding Mastery"
+msgstr ""
+
+msgid "s_Shipyard Skills"
+msgstr ""
+
+msgid "s_Siege Hammer"
+msgstr ""
+
+msgid "s_Siege Hammer_1"
+msgstr ""
+
+msgid "s_Siege Weapon Skills"
+msgstr ""
+
+msgid "s_Sieze_Sithras_1"
+msgstr ""
+
+msgid "s_Sithra Attacks"
+msgstr ""
+
+msgid "s_Sithra Mastery"
+msgstr ""
+
+msgid "s_Sithra Skills"
+msgstr ""
+
+msgid "s_Sithras"
+msgstr ""
+
+msgid "s_Sithras_1"
+msgstr ""
+
+msgid "s_Sithras_Stab_1"
+msgstr ""
+
+msgid "s_Sithras_Whirlwind_1"
+msgstr ""
+
+msgid "s_Skills"
+msgstr ""
+
+msgid "s_Skinning"
+msgstr ""
+
+msgid "s_Skinning_1"
+msgstr ""
+
+msgid "s_Slashing Weakness"
+msgstr ""
+
+msgid "s_Slashing Weakness_1"
+msgstr ""
+
+msgid "s_Slow"
+msgstr ""
+
+msgid "s_Slow_1"
+msgstr ""
+
+msgid "s_Sluggish"
+msgstr ""
+
+msgid "s_Sluggish_1"
+msgstr ""
+
+msgid "s_Smelter Skills"
+msgstr ""
+
+msgid "s_Smelting"
+msgstr ""
+
+msgid "s_Smoke Signal"
+msgstr ""
+
+msgid "s_Smoke Signal_1"
+msgstr ""
+
+msgid "s_Sniper"
+msgstr ""
+
+msgid "s_Soothing Chant"
+msgstr ""
+
+msgid "s_Soothing Chant_1"
+msgstr ""
+
+msgid "s_Special Skills"
+msgstr ""
+
+msgid "s_Spell Chanting"
+msgstr ""
+
+msgid "s_Spell Chanting_Spells"
+msgstr ""
+
+msgid "s_Spell Curse"
+msgstr ""
+
+msgid "s_Spell Curse_Penalty"
+msgstr ""
+
+msgid "s_Spell Immunity"
+msgstr ""
+
+msgid "s_Spell Immunity_1"
+msgstr ""
+
+msgid "s_Spells"
+msgstr ""
+
+msgid "s_Spellturn"
+msgstr ""
+
+msgid "s_Spirited Archer"
+msgstr ""
+
+msgid "s_Spotter"
+msgstr ""
+
+msgid "s_Sprint"
+msgstr ""
+
+msgid "s_Staff Crafting"
+msgstr ""
+
+msgid "s_Staff Crafting Mastery"
+msgstr ""
+
+msgid "s_Stamina"
+msgstr ""
+
+msgid "s_Stamina Leech"
+msgstr ""
+
+msgid "s_Stamina Leech Hit"
+msgstr ""
+
+msgid "s_Stamina Leech Hit_1"
+msgstr ""
+
+msgid "s_Stamina Leech_1"
+msgstr ""
+
+msgid "s_Stamina to Health"
+msgstr ""
+
+msgid "s_Stamina to Health_1"
+msgstr ""
+
+msgid "s_Stealth"
+msgstr ""
+
+msgid "s_Stealth Skills"
+msgstr ""
+
+msgid "s_Stoneskin"
+msgstr ""
+
+msgid "s_Stoneskin_1"
+msgstr ""
+
+msgid "s_Stormblast"
+msgstr ""
+
+msgid "s_Stormblast_1"
+msgstr ""
+
+msgid "s_Strafe Left"
+msgstr ""
+
+msgid "s_Strafe Right"
+msgstr ""
+
+msgid "s_Stuck"
+msgstr ""
+
+msgid "s_Stupidity"
+msgstr ""
+
+msgid "s_Stupidity_1"
+msgstr ""
+
+msgid "s_Sturdy"
+msgstr ""
+
+msgid "s_Summon Mount"
+msgstr ""
+
+msgid "s_Summon Player"
+msgstr ""
+
+msgid "s_Survivalist"
+msgstr ""
+
+msgid "s_Swim"
+msgstr ""
+
+msgid "s_Swimming"
+msgstr ""
+
+msgid "s_Sword Attacks"
+msgstr ""
+
+msgid "s_Sword Mastery"
+msgstr ""
+
+msgid "s_Sword Skills"
+msgstr ""
+
+msgid "s_Swords"
+msgstr ""
+
+msgid "s_Swords_1"
+msgstr ""
+
+msgid "s_Tailoring"
+msgstr ""
+
+msgid "s_Tailoring Mastery"
+msgstr ""
+
+msgid "s_Take Object"
+msgstr ""
+
+msgid "s_Take Object_1"
+msgstr ""
+
+msgid "s_Taming"
+msgstr ""
+
+msgid "s_Taming Skills"
+msgstr ""
+
+msgid "s_Tanning"
+msgstr ""
+
+msgid "s_Tanning Skills"
+msgstr ""
+
+msgid "s_Tarnish"
+msgstr ""
+
+msgid "s_Tarnish_1"
+msgstr ""
+
+msgid "s_Telekinesis"
+msgstr ""
+
+msgid "s_Telekinesis_1"
+msgstr ""
+
+msgid "s_Teleport"
+msgstr ""
+
+msgid "s_Teleport Anchor"
+msgstr ""
+
+msgid "s_Teleport Runebook"
+msgstr ""
+
+msgid "s_Test"
+msgstr ""
+
+msgid "s_Test Crafting Skill"
+msgstr ""
+
+msgid "s_Throwing"
+msgstr ""
+
+msgid "s_Throwing Impact_large"
+msgstr ""
+
+msgid "s_Throwing Impact_medium"
+msgstr ""
+
+msgid "s_Throwing Impact_small"
+msgstr ""
+
+msgid "s_Throwing Impact_tiny"
+msgstr ""
+
+msgid "s_Thrown Weapons"
+msgstr ""
+
+msgid "s_Thunderstorm"
+msgstr ""
+
+msgid "s_Thunderstorm_1"
+msgstr ""
+
+msgid "s_Tinkering"
+msgstr ""
+
+msgid "s_Tireless"
+msgstr ""
+
+msgid "s_Tongue Rot"
+msgstr ""
+
+msgid "s_Tongue Rot_Penalty"
+msgstr ""
+
+msgid "s_Tornado"
+msgstr ""
+
+msgid "s_Tornado_1"
+msgstr ""
+
+msgid "s_Toughness"
+msgstr ""
+
+msgid "s_Toxic Rain"
+msgstr ""
+
+msgid "s_Toxic Rain_1"
+msgstr ""
+
+msgid "s_Trueforge Armor"
+msgstr ""
+
+msgid "s_Trueforge Weapon"
+msgstr ""
+
+msgid "s_Unburden"
+msgstr ""
+
+msgid "s_Unburden_1"
+msgstr ""
+
+msgid "s_Undeath"
+msgstr ""
+
+msgid "s_Undeath_1"
+msgstr ""
+
+msgid "s_Unholy Caress"
+msgstr ""
+
+msgid "s_Unholy Caress_1"
+msgstr ""
+
+msgid "s_Unholy Flames"
+msgstr ""
+
+msgid "s_Unholy Flames_area"
+msgstr ""
+
+msgid "s_Unsheathe Object"
+msgstr ""
+
+msgid "s_Unspawn Object"
+msgstr ""
+
+msgid "s_Use Item"
+msgstr ""
+
+msgid "s_Use Object"
+msgstr ""
+
+msgid "s_Vampiric Touch"
+msgstr ""
+
+msgid "s_Vampiric Touch_1"
+msgstr ""
+
+msgid "s_Venom"
+msgstr ""
+
+msgid "s_Venom_2"
+msgstr ""
+
+msgid "s_Venom_Acid"
+msgstr ""
+
+msgid "s_Veteran Archer"
+msgstr ""
+
+msgid "s_Veteran Mage"
+msgstr ""
+
+msgid "s_Virtuous Wrath"
+msgstr ""
+
+msgid "s_Virtuous Wrath_1"
+msgstr ""
+
+msgid "s_Volcano"
+msgstr ""
+
+msgid "s_Volcano_1"
+msgstr ""
+
+msgid "s_Walk"
+msgstr ""
+
+msgid "s_Wall of Fire"
+msgstr ""
+
+msgid "s_Wall of Fire_1"
+msgstr ""
+
+msgid "s_Wall of Force"
+msgstr ""
+
+msgid "s_Wall of Force_force"
+msgstr ""
+
+msgid "s_Warhulk"
+msgstr ""
+
+msgid "s_Warhulk Construction"
+msgstr ""
+
+msgid "s_Water Breathing"
+msgstr ""
+
+msgid "s_Water Breathing_1"
+msgstr ""
+
+msgid "s_Water Magic"
+msgstr ""
+
+msgid "s_Water Magic_Spells"
+msgstr ""
+
+msgid "s_Weakening Blaze"
+msgstr ""
+
+msgid "s_Weakening Blaze_1"
+msgstr ""
+
+msgid "s_Weakening Chill"
+msgstr ""
+
+msgid "s_Weakening Chill_1"
+msgstr ""
+
+msgid "s_Weapon Skills"
+msgstr ""
+
+msgid "s_Weaponsmithing"
+msgstr ""
+
+msgid "s_Weaponsmithing Mastery"
+msgstr ""
+
+msgid "s_Weaving"
+msgstr ""
+
+msgid "s_Weaving Skills"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Axe"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Axe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Club"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Club_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greataxe"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatclub"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatsword"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Knife"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Knife_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Polearm"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sithra"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sword"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sword_1"
+msgstr ""
+
+msgid "s_Wild Magic"
+msgstr ""
+
+msgid "s_Wild Magic_Spells"
+msgstr ""
+
+msgid "s_Willpower"
+msgstr ""
+
+msgid "s_Witchcraft"
+msgstr ""
+
+msgid "s_Witchcraft_Spells"
+msgstr ""
+
+msgid "s_Witches Brew"
+msgstr ""
+
+msgid "s_Witches Brew_1"
+msgstr ""
+
+msgid "s_Woodcutting"
+msgstr ""
+
+msgid "s_Woodworking"
+msgstr ""
+
+msgid "s_Workbench Skills"
+msgstr ""
+
+msgid "s_environmental damage"
+msgstr ""
+
+msgid "s_natural ranged ammo"
+msgstr ""
+
+msgid "s_natural ranged noammo"
+msgstr ""
+
+msgid "ts_Feel free to comment"
+msgstr ""
+
+msgid "ts_Get the idea?"
+msgstr ""
+
+msgid "ts_Movement Skills"
+msgstr ""
+
+msgid "ts_Test Skills"
+msgstr ""
+
+msgid "ts_Walk"
+msgstr ""
