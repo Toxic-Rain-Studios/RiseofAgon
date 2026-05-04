@@ -1,4704 +1,4349 @@
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: zh_Hans\n"
+"Language: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "accept"
-msgstr ""
-
-msgid "activatable_bar_slot_option_auto_parry"
-msgstr ""
-
-msgid "activatable_bar_slot_option_current_bind"
-msgstr ""
-
-msgid "activatable_bar_slot_option_mount_auto_swing"
-msgstr ""
-
-msgid "activatable_bar_slot_option_mount_lean_left"
-msgstr ""
-
-msgid "activatable_bar_slot_option_mount_lean_right"
-msgstr ""
-
-msgid "activatable_bar_slot_option_no_binding_set"
-msgstr ""
-
-msgid "activatable_bar_slot_option_set_bind_button"
-msgstr ""
-
-msgid "alignment"
-msgstr ""
-
-msgid "alignmentbar_tooltip"
-msgstr ""
-
-msgid "application_window_title"
-msgstr ""
-
-msgid "apply"
-msgstr ""
-
-msgid "are_you_sure"
-msgstr ""
-
-msgid "are_you_sure_you_want_to_quit"
-msgstr ""
-
-msgid "armor_damage_multiplier"
-msgstr ""
-
-msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
-msgstr ""
-
-msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_2"
-msgstr ""
-
-msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_header"
-msgstr ""
-
-msgid "auto_equip_config_filter_highest_damage"
-msgstr ""
-
-msgid "auto_equip_config_filter_highest_speed"
-msgstr ""
-
-msgid "auto_equip_config_filter_ignore_casting_time_enchantments"
-msgstr ""
-
-msgid "auto_equip_config_filter_only_these_weapon_types"
-msgstr ""
-
-msgid "auto_equip_config_filter_only_these_weapon_types_in_this_order"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_1"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_2"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_3"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_4"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_1"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_2"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_1"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_2"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_3"
-msgstr ""
-
-msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_4"
-msgstr ""
-
-msgid "auto_equip_config_filter_undefined"
-msgstr ""
-
-msgid "auto_equip_config_filter_weapon_type_context_menu_add"
-msgstr ""
-
-msgid "auto_equip_config_preset_auto_generate"
-msgstr ""
-
-msgid "auto_equip_config_preset_fast_staffs"
-msgstr ""
-
-msgid "auto_equip_config_preset_fastest_long_weapon"
-msgstr ""
-
-msgid "auto_equip_config_preset_knives"
-msgstr ""
-
-msgid "auto_equip_config_preset_long_weapons_greatclubs_first"
-msgstr ""
-
-msgid "auto_equip_config_preset_long_weapons_greatswords_first"
-msgstr ""
-
-msgid "auto_equip_config_preset_one_hand_weapons_axe_first"
-msgstr ""
-
-msgid "auto_equip_config_preset_one_hand_weapons_sword_first"
-msgstr ""
-
-msgid "auto_equip_config_preset_ray_staffs"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_axe"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_bow"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_club"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_greataxe"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_greatclub"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_greatsword"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_knives"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_polearm"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_sithra"
-msgstr ""
-
-msgid "auto_equip_config_weapon_type_sprite_tooltip_sword"
-msgstr ""
-
-msgid "back"
-msgstr ""
-
-msgid "backpack_weight_title"
-msgstr ""
-
-msgid "backpack_window_title"
-msgstr ""
-
-msgid "bank_filter_placeholder"
-msgstr ""
-
-msgid "bank_tabs_bank"
-msgstr ""
-
-msgid "bank_tabs_consumables"
-msgstr ""
-
-msgid "bank_tabs_enchant_materials"
-msgstr ""
-
-msgid "barber_features_beard"
-msgstr ""
-
-msgid "barber_features_beard_braids"
-msgstr ""
-
-msgid "barber_features_braids"
-msgstr ""
-
-msgid "barber_features_earring"
-msgstr ""
-
-msgid "barber_features_extra_accessory"
-msgstr ""
-
-msgid "barber_features_face"
-msgstr ""
-
-msgid "barber_features_forehead"
-msgstr ""
-
-msgid "barber_features_hair"
-msgstr ""
-
-msgid "barber_features_mustache"
-msgstr ""
-
-msgid "barber_features_nose_accesory"
-msgstr ""
-
-msgid "barber_features_sideburns"
-msgstr ""
-
-msgid "barber_features_tusks"
-msgstr ""
-
-msgid "barber_hair_color"
-msgstr ""
-
-msgid "barber_skin_tone"
-msgstr ""
-
-msgid "bindings_tab_title_bindings"
-msgstr ""
-
-msgid "bindings_tab_title_debug"
-msgstr ""
-
-msgid "bindings_tab_title_gmsonly"
-msgstr ""
-
-msgid "bindings_tab_title_gui"
-msgstr ""
-
-msgid "bindings_tab_title_interaction"
-msgstr ""
-
-msgid "bindings_tab_title_misc"
-msgstr ""
-
-msgid "bindings_tab_title_movement"
-msgstr ""
-
-msgid "boards_window_title"
-msgstr ""
 
 msgid "browser_home"
-msgstr ""
+msgstr "烟雨"
 
-msgid "button_accept"
-msgstr ""
-
-msgid "button_next"
-msgstr ""
-
-msgid "button_previous"
-msgstr ""
-
-msgid "button_submit"
-msgstr ""
-
-msgid "cancel"
-msgstr ""
-
-msgid "character_alteration_confirmation_dialog_description"
-msgstr ""
-
-msgid "character_alteration_confirmation_dialog_title"
-msgstr ""
-
-msgid "character_alteration_forgot_to_pick_gender"
-msgstr ""
-
-msgid "character_alteration_title"
-msgstr ""
-
-msgid "character_mount_stats_health"
-msgstr ""
-
-msgid "character_mount_stats_healthmax"
-msgstr ""
-
-msgid "character_mount_stats_name"
-msgstr ""
-
-msgid "character_mount_stats_stamina"
-msgstr ""
-
-msgid "character_mount_stats_staminamax"
-msgstr ""
-
-msgid "character_stats_alignment_description"
-msgstr ""
-
-msgid "character_stats_antigrief_description"
-msgstr ""
-
-msgid "character_stats_dexterity_description"
-msgstr ""
-
-msgid "character_stats_encumbrance_description"
-msgstr ""
-
-msgid "character_stats_global_currency_description"
-msgstr ""
-
-msgid "character_stats_health_description"
-msgstr ""
-
-msgid "character_stats_healthmax_description"
-msgstr ""
-
-msgid "character_stats_intelligence_description"
-msgstr ""
-
-msgid "character_stats_mana_description"
-msgstr ""
-
-msgid "character_stats_manamax_description"
-msgstr ""
-
-msgid "character_stats_name_description"
-msgstr ""
-
-msgid "character_stats_penalty_archery_description"
-msgstr ""
-
-msgid "character_stats_penalty_magic_description"
-msgstr ""
-
-msgid "character_stats_penalty_melee_description"
-msgstr ""
-
-msgid "character_stats_protectionacid_description"
-msgstr ""
-
-msgid "character_stats_protectionarcane_description"
-msgstr ""
-
-msgid "character_stats_protectionarrow_description"
-msgstr ""
-
-msgid "character_stats_protectionbludgeoning_description"
-msgstr ""
-
-msgid "character_stats_protectioncold_description"
-msgstr ""
-
-msgid "character_stats_protectionfire_description"
-msgstr ""
-
-msgid "character_stats_protectionholy_description"
-msgstr ""
-
-msgid "character_stats_protectionimpact_description"
-msgstr ""
-
-msgid "character_stats_protectioninfliction_description"
-msgstr ""
-
-msgid "character_stats_protectionlightning_description"
-msgstr ""
-
-msgid "character_stats_protectionmalediction_description"
-msgstr ""
-
-msgid "character_stats_protectionmental_description"
-msgstr ""
-
-msgid "character_stats_protectionpiercing_description"
-msgstr ""
-
-msgid "character_stats_protectionslashing_description"
-msgstr ""
-
-msgid "character_stats_protectionunholy_description"
-msgstr ""
-
-msgid "character_stats_quickness_description"
-msgstr ""
-
-msgid "character_stats_stamina_description"
-msgstr ""
-
-msgid "character_stats_staminamax_description"
-msgstr ""
-
-msgid "character_stats_strength_description"
-msgstr ""
-
-msgid "character_stats_suspect_description"
-msgstr ""
-
-msgid "character_stats_vitality_description"
-msgstr ""
-
-msgid "character_stats_wisdom_description"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_befriend_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_befriend_param_friendly_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_config_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_config_type_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_config_value_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_die_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_get_request_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_get_request_param_attribute_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_get_request_param_guid_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_get_response_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_help_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_help_param_attribute_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_judas_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_move_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_move_dir_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_move_distance_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_move_mode_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_property_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_property_type_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_property_value_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_rotate_amount_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_rotate_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_set_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_set_param_attribute_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_set_param_guid_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_set_param_value_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_test_desc"
-msgstr ""
-
-msgid "chat_ai_cmd_ai_test_param1_desc"
-msgstr ""
-
-msgid "chat_city_cmd_create_city"
-msgstr ""
-
-msgid "chat_city_cmd_create_city_p1"
-msgstr ""
-
-msgid "chat_clan_cmd_change_accesslevel"
-msgstr ""
-
-msgid "chat_clan_cmd_change_accesslevel_p1"
-msgstr ""
-
-msgid "chat_clan_cmd_create_clan"
-msgstr ""
-
-msgid "chat_clan_cmd_create_clan_param1"
-msgstr ""
-
-msgid "chat_cmd_help_cmddesc"
-msgstr ""
-
-msgid "chat_cmd_help_cmdparamline"
-msgstr ""
-
-msgid "chat_cmd_help_error_no_command_starts_with"
-msgstr ""
-
-msgid "chat_cmd_help_error_unknowncommand"
-msgstr ""
-
-msgid "chat_entry_error"
-msgstr ""
-
-msgid "chat_entry_error_with_context"
-msgstr ""
-
-msgid "chat_entry_system_param_eq_value"
-msgstr ""
-
-msgid "chat_entry_user"
-msgstr ""
-
-msgid "chat_error_extraparam"
-msgstr ""
-
-msgid "chat_error_insuffparam"
-msgstr ""
-
-msgid "chat_error_parsingparam"
-msgstr ""
-
-msgid "chat_error_propval_abovemax"
-msgstr ""
-
-msgid "chat_error_propval_belowmin"
-msgstr ""
-
-msgid "chat_error_setproperty_failed"
-msgstr ""
-
-msgid "chat_error_syntax"
-msgstr ""
-
-msgid "chat_error_unknown_command"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_applydevice_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_screenshot_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_sprite_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_sprite_param_texture_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_text_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_text_param_thetext_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_toggle_sun_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_togglewf_desc"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_veg_applychanges"
-msgstr ""
-
-msgid "chat_graphics_cmd_g_veg_forceupdate"
-msgstr ""
-
-msgid "chat_gui_cmd_clear_chat_history"
-msgstr ""
-
-msgid "chat_gui_cmd_persist_load_help"
-msgstr ""
-
-msgid "chat_gui_cmd_persist_save_help"
-msgstr ""
-
-msgid "chat_help_cmd_param_optional"
-msgstr ""
-
-msgid "chat_help_indented_line"
-msgstr ""
-
-msgid "chat_help_nonnumericparam_desc"
-msgstr ""
-
-msgid "chat_help_numericparam_desc"
-msgstr ""
-
-msgid "chat_help_type_boolean"
-msgstr ""
-
-msgid "chat_help_type_double"
-msgstr ""
-
-msgid "chat_help_type_float"
-msgstr ""
-
-msgid "chat_help_type_integer"
-msgstr ""
-
-msgid "chat_help_type_string"
-msgstr ""
-
-msgid "chat_input_bind_expected_linear"
-msgstr ""
-
-msgid "chat_input_bind_expected_switch"
-msgstr ""
-
-msgid "chat_input_bind_invalid_binding"
-msgstr ""
-
-msgid "chat_input_bind_not_bound"
-msgstr ""
-
-msgid "chat_input_bind_ok"
-msgstr ""
-
-msgid "chat_input_cmd_bind_help"
-msgstr ""
-
-msgid "chat_input_cmd_bind_param_command_desc"
-msgstr ""
-
-msgid "chat_input_cmd_bind_param_key_desc"
-msgstr ""
-
-msgid "chat_input_player_alias"
-msgstr ""
-
-msgid "chat_interpreter_cmd_desc_clear"
-msgstr ""
-
-msgid "chat_interpreter_cmd_desc_exec"
-msgstr ""
-
-msgid "chat_interpreter_cmd_desc_help"
-msgstr ""
-
-msgid "chat_interpreter_cmd_desc_log"
-msgstr ""
-
-msgid "chat_interpreter_cmd_desc_quit"
-msgstr ""
-
-msgid "chat_interpreter_cmd_exec_error_file_not_found"
-msgstr ""
-
-msgid "chat_interpreter_cmd_exec_error_reading_file"
-msgstr ""
-
-msgid "chat_interpreter_cmd_exec_param_filename_desc"
-msgstr ""
-
-msgid "chat_interpreter_cmd_help_param_command_desc"
-msgstr ""
-
-msgid "chat_interpreter_cmd_log_param_text"
-msgstr ""
-
-msgid "chat_rendering_2d_response_result"
-msgstr ""
-
-msgid "chat_resource_2d_response_result"
-msgstr ""
-
-msgid "chat_resource_cmd_r_sprite_desc"
-msgstr ""
-
-msgid "chat_resource_cmd_r_sprite_param_texture_desc"
-msgstr ""
-
-msgid "chat_resource_cmd_r_text_desc"
-msgstr ""
-
-msgid "chat_resource_cmd_r_text_param_thetext_desc"
-msgstr ""
-
-msgid "chat_scenegraph_2d_response_result"
-msgstr ""
-
-msgid "chat_scenegraph_cmd_s_sprite_desc"
-msgstr ""
-
-msgid "chat_scenegraph_cmd_s_sprite_param_texture_desc"
-msgstr ""
-
-msgid "chat_scenegraph_cmd_s_text_desc"
-msgstr ""
-
-msgid "chat_scenegraph_cmd_s_text_param_thetext_desc"
-msgstr ""
-
-msgid "chat_server_cmd_annotation_add_desc"
-msgstr ""
-
-msgid "chat_server_cmd_annotation_add_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_annotation_list_desc"
-msgstr ""
-
-msgid "chat_server_cmd_annotation_remove_desc"
-msgstr ""
-
-msgid "chat_server_cmd_annotation_remove_param_id_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_help_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_help_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_hide_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_hide_param_hide_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_report_desc"
-msgstr ""
-
-msgid "chat_server_cmd_gm_report_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_ignore_desc"
-msgstr ""
-
-msgid "chat_server_cmd_ignore_param_nick_desc"
-msgstr ""
-
-msgid "chat_server_cmd_ignore_param_reason_desc"
-msgstr ""
-
-msgid "chat_server_cmd_ignore_param_type_desc"
-msgstr ""
-
-msgid "chat_server_cmd_ignorelist_desc"
-msgstr ""
-
-msgid "chat_server_cmd_msg_desc"
-msgstr ""
-
-msgid "chat_server_cmd_msg_param_nick1_desc"
-msgstr ""
-
-msgid "chat_server_cmd_msg_param_nick2_desc"
-msgstr ""
-
-msgid "chat_server_cmd_msg_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_roll_clan_desc"
-msgstr ""
-
-msgid "chat_server_cmd_roll_desc"
-msgstr ""
-
-msgid "chat_server_cmd_roll_param_desc"
-msgstr ""
-
-msgid "chat_server_cmd_roll_party_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_admin_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_agon_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_chaos_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_clan_alliance_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_clan_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_clan_officers_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_clan_officers_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_clan_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_global_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_global_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_gm_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_gm_events_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_mgm_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_newplayers_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_node_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_node_param_node_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_node_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_order_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_party_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_party_param_text_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_recruiting_desc"
-msgstr ""
-
-msgid "chat_server_cmd_say_trade_desc"
-msgstr ""
-
-msgid "chat_server_cmd_team_desc"
-msgstr ""
-
-msgid "chat_server_cmd_team_param1_desc"
-msgstr ""
-
-msgid "chat_server_cmd_team_param2_desc"
-msgstr ""
-
-msgid "chat_server_cmd_team_param3_desc"
-msgstr ""
-
-msgid "chat_server_cmd_test1_desc"
-msgstr ""
-
-msgid "chat_server_cmd_test2_desc"
-msgstr ""
-
-msgid "chat_server_cmd_test3_desc"
-msgstr ""
-
-msgid "chat_server_cmd_test4_desc"
-msgstr ""
-
-msgid "chat_server_cmd_test5_desc"
-msgstr ""
-
-msgid "chat_server_cmd_unignore_desc"
-msgstr ""
-
-msgid "chat_server_cmd_unignore_param_nick_desc"
-msgstr ""
-
-msgid "chat_server_prop_n_additive_updatecheck_desc"
-msgstr ""
-
-msgid "chat_server_prop_n_client_to_server_updaterate_desc"
-msgstr ""
-
-msgid "chat_server_prop_n_server_to_client_updaterate_desc"
-msgstr ""
-
-msgid "chat_server_prop_n_subscriber_updaterate_desc"
-msgstr ""
-
-msgid "chat_special_cmd_a_city_load"
-msgstr ""
-
-msgid "chat_special_cmd_g_camera_path"
-msgstr ""
-
-msgid "chat_special_cmd_g_load_environment"
-msgstr ""
-
-msgid "chat_sys_skill_failed"
-msgstr ""
-
-msgid "chat_sys_skill_succeeded"
-msgstr ""
-
-msgid "chat_sys_vendor_failed"
-msgstr ""
-
-msgid "chat_sys_vendor_succeeded"
-msgstr ""
-
-msgid "chat_window_fps"
-msgstr ""
-
-msgid "chat_window_ping"
-msgstr ""
-
-msgid "chat_window_title"
-msgstr ""
-
-msgid "choose_appearance"
-msgstr ""
-
-msgid "choose_character_name"
-msgstr ""
-
-msgid "choose_gender"
-msgstr ""
-
-msgid "choose_your_race"
-msgstr ""
-
-msgid "citybuilding_categories_close"
-msgstr ""
-
-msgid "citybuilding_categories_view"
-msgstr ""
-
-msgid "citybuilding_item_label"
-msgstr ""
-
-msgid "citybuilding_items_create"
-msgstr ""
-
-msgid "citybuilding_items_return"
-msgstr ""
-
-msgid "citybuilding_items_upgrade"
-msgstr ""
-
-msgid "citybuilding_maintenance_payment"
-msgstr ""
-
-msgid "citybuilding_window_title"
-msgstr ""
-
-msgid "clan_activity_window_active_start_time"
-msgstr ""
-
-msgid "clan_activity_window_constraint_error"
-msgstr ""
-
-msgid "clan_activity_window_constraint_overlap_error"
-msgstr ""
-
-msgid "clan_activity_window_constraint_same_time_error"
-msgstr ""
-
-msgid "clan_activity_window_display_current_time"
-msgstr ""
-
-msgid "clan_activity_window_display_none_found"
-msgstr ""
-
-msgid "clan_activity_window_display_stage_active"
-msgstr ""
-
-msgid "clan_activity_window_display_stage_inactive"
-msgstr ""
-
-msgid "clan_activity_window_display_stage_invulnerable"
-msgstr ""
-
-msgid "clan_activity_window_display_stage_name_and_range"
-msgstr ""
-
-msgid "clan_activity_window_display_title"
-msgstr ""
-
-msgid "clan_activity_window_invulnerable_start_time"
-msgstr ""
-
-msgid "clan_activity_window_window_description"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_eight"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_five"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_four"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_eight"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_five"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_four"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_nine"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_one"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_seven"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_six"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_ten"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_three"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neg_two"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_neutral"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_nine"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_one"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_seven"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_six"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_ten"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_three"
-msgstr ""
-
-msgid "clan_political_relationship_standing_description_two"
-msgstr ""
-
-msgid "clan_political_relationship_standing_value_0"
-msgstr ""
-
-msgid "clan_role_description_auditor"
-msgstr ""
-
-msgid "clan_role_description_city_manager"
-msgstr ""
-
-msgid "clan_role_description_communications_officer"
-msgstr ""
-
-msgid "clan_role_description_construction_auditor"
-msgstr ""
-
-msgid "clan_role_description_construction_manager"
-msgstr ""
-
-msgid "clan_role_description_diplomat"
-msgstr ""
-
-msgid "clan_role_description_director"
-msgstr ""
-
-msgid "clan_role_description_member"
-msgstr ""
-
-msgid "clan_role_description_none"
-msgstr ""
-
-msgid "clan_role_description_personnel_auditing"
-msgstr ""
-
-msgid "clan_role_description_personnel_manager"
-msgstr ""
-
-msgid "clan_role_description_security_officer"
-msgstr ""
-
-msgid "clan_role_description_vault_one_container_take"
-msgstr ""
-
-msgid "clan_role_description_vault_one_query"
-msgstr ""
-
-msgid "clan_role_description_vault_one_take"
-msgstr ""
-
-msgid "clan_role_description_vault_three_container_take"
-msgstr ""
-
-msgid "clan_role_description_vault_three_query"
-msgstr ""
-
-msgid "clan_role_description_vault_three_take"
-msgstr ""
-
-msgid "clan_role_description_vault_two_container_take"
-msgstr ""
-
-msgid "clan_role_description_vault_two_query"
-msgstr ""
-
-msgid "clan_role_description_vault_two_take"
-msgstr ""
-
-msgid "clan_role_description_view_diplomacy"
-msgstr ""
-
-msgid "clan_role_description_warfare_specialist"
-msgstr ""
-
-msgid "clan_role_name_auditor"
-msgstr ""
-
-msgid "clan_role_name_city_manager"
-msgstr ""
-
-msgid "clan_role_name_communications_officer"
-msgstr ""
-
-msgid "clan_role_name_construction_auditor"
-msgstr ""
-
-msgid "clan_role_name_construction_manager"
-msgstr ""
-
-msgid "clan_role_name_diplomat"
-msgstr ""
-
-msgid "clan_role_name_director"
-msgstr ""
-
-msgid "clan_role_name_member"
-msgstr ""
-
-msgid "clan_role_name_none"
-msgstr ""
-
-msgid "clan_role_name_personnel_auditing"
-msgstr ""
-
-msgid "clan_role_name_personnel_manager"
-msgstr ""
-
-msgid "clan_role_name_security_officer"
-msgstr ""
-
-msgid "clan_role_name_vault_one_container_take"
-msgstr ""
-
-msgid "clan_role_name_vault_one_query"
-msgstr ""
-
-msgid "clan_role_name_vault_one_take"
-msgstr ""
-
-msgid "clan_role_name_vault_three_container_take"
-msgstr ""
-
-msgid "clan_role_name_vault_three_query"
-msgstr ""
-
-msgid "clan_role_name_vault_three_take"
-msgstr ""
-
-msgid "clan_role_name_vault_two_container_take"
-msgstr ""
-
-msgid "clan_role_name_vault_two_query"
-msgstr ""
-
-msgid "clan_role_name_vault_two_take"
-msgstr ""
-
-msgid "clan_role_name_view_diplomacy"
-msgstr ""
-
-msgid "clan_role_name_warfare_specialist"
-msgstr ""
-
-msgid "clan_window_browse_clans_headers_clan_name"
-msgstr ""
-
-msgid "clan_window_browse_clans_headers_member_count"
-msgstr ""
-
-msgid "clan_window_clan_info_apply_to_clan"
-msgstr ""
-
-msgid "clan_window_clan_info_clan_motto"
-msgstr ""
-
-msgid "clan_window_clan_info_member_count"
-msgstr ""
-
-msgid "clan_window_clan_info_politics_relations_standing"
-msgstr ""
-
-msgid "clan_window_create_clan"
-msgstr ""
-
-msgid "clan_window_diplomacy_bank_policy_all_access"
-msgstr ""
-
-msgid "clan_window_diplomacy_bank_policy_all_but_enemies"
-msgstr ""
-
-msgid "clan_window_diplomacy_bank_policy_allies"
-msgstr ""
-
-msgid "clan_window_diplomacy_bank_policy_clan_only"
-msgstr ""
-
-msgid "clan_window_diplomacy_bank_policy_title"
-msgstr ""
-
-msgid "clan_window_diplomacy_guard_tower_policy_kill_all_but_allies"
-msgstr ""
-
-msgid "clan_window_diplomacy_guard_tower_policy_kill_only_war_targets"
-msgstr ""
-
-msgid "clan_window_diplomacy_guard_tower_policy_never_attack_anyone"
-msgstr ""
-
-msgid "clan_window_diplomacy_guard_tower_policy_title"
-msgstr ""
-
-msgid "clan_window_general_accept_new_members"
-msgstr ""
-
-msgid "clan_window_general_alignment"
-msgstr ""
-
-msgid "clan_window_general_allow"
-msgstr ""
-
-msgid "clan_window_general_allowed_alignment"
-msgstr ""
-
-msgid "clan_window_general_allowed_races"
-msgstr ""
-
-msgid "clan_window_general_apply_changes"
-msgstr ""
-
-msgid "clan_window_general_cities"
-msgstr ""
-
-msgid "clan_window_general_members"
-msgstr ""
-
-msgid "clan_window_general_options"
-msgstr ""
-
-msgid "clan_window_general_popularity"
-msgstr ""
-
-msgid "clan_window_general_races"
-msgstr ""
-
-msgid "clan_window_glyphs_global_tax"
-msgstr ""
-
-msgid "clan_window_glyphs_invalid_area_tax_multiple"
-msgstr ""
-
-msgid "clan_window_glyphs_invalid_global_tax_multiple"
-msgstr ""
-
-msgid "clan_window_header_filter"
-msgstr ""
-
-msgid "clan_window_headers_action"
-msgstr ""
-
-msgid "clan_window_headers_clan"
-msgstr ""
-
-msgid "clan_window_headers_player"
-msgstr ""
-
-msgid "clan_window_headers_races"
-msgstr ""
-
-msgid "clan_window_headers_rank"
-msgstr ""
-
-msgid "clan_window_holdings_area"
-msgstr ""
-
-msgid "clan_window_holdings_binds_remove_player"
-msgstr ""
-
-msgid "clan_window_holdings_city"
-msgstr ""
-
-msgid "clan_window_holdings_city_binds"
-msgstr ""
-
-msgid "clan_window_holdings_make_mayor"
-msgstr ""
-
-msgid "clan_window_holdings_mayor"
-msgstr ""
-
-msgid "clan_window_holdings_population"
-msgstr ""
-
-msgid "clan_window_holdings_power"
-msgstr ""
-
-msgid "clan_window_holdings_vulnerable"
-msgstr ""
-
-msgid "clan_window_members_accept"
-msgstr ""
-
-msgid "clan_window_members_applications"
-msgstr ""
-
-msgid "clan_window_members_can_only_have_one_supreme_general"
-msgstr ""
-
-msgid "clan_window_members_context_menu_ban_member"
-msgstr ""
-
-msgid "clan_window_members_context_menu_edit_rank"
-msgstr ""
-
-msgid "clan_window_members_context_menu_kick_member"
-msgstr ""
-
-msgid "clan_window_members_context_menu_leave_clan"
-msgstr ""
-
-msgid "clan_window_members_headers_alignment"
-msgstr ""
-
-msgid "clan_window_members_headers_gender"
-msgstr ""
-
-msgid "clan_window_members_headers_name"
-msgstr ""
-
-msgid "clan_window_members_headers_race"
-msgstr ""
-
-msgid "clan_window_members_headers_status"
-msgstr ""
-
-msgid "clan_window_members_members"
-msgstr ""
-
-msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
-msgstr ""
-
-msgid "clan_window_members_reject"
-msgstr ""
-
-msgid "clan_window_members_resign_dialog_description"
-msgstr ""
-
-msgid "clan_window_members_resign_dialog_title"
-msgstr ""
-
-msgid "clan_window_members_status_offline"
-msgstr ""
-
-msgid "clan_window_members_status_online"
-msgstr ""
-
-msgid "clan_window_news_headers_date"
-msgstr ""
-
-msgid "clan_window_news_headers_event"
-msgstr ""
-
-msgid "clan_window_tabs_activity_window"
-msgstr ""
-
-msgid "clan_window_tabs_browse_clans"
-msgstr ""
-
-msgid "clan_window_tabs_diplomacy"
-msgstr ""
-
-msgid "clan_window_tabs_general"
-msgstr ""
-
-msgid "clan_window_tabs_holdings"
-msgstr ""
-
-msgid "clan_window_tabs_members"
-msgstr ""
-
-msgid "clan_window_tabs_news"
-msgstr ""
-
-msgid "clan_window_tabs_role_management"
-msgstr ""
-
-msgid "clan_window_tabs_rune_glyphs"
-msgstr ""
-
-msgid "clan_window_tabs_vault"
-msgstr ""
-
-msgid "clan_window_vault_contribution_deposit"
-msgstr ""
-
-msgid "clan_window_vault_contribution_withdraw"
-msgstr ""
-
-msgid "clan_window_vault_date"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_challenge"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_fortress"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_player"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_station"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_village"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_plural_war"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_challenge"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_fortress"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_player"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_station"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_village"
-msgstr ""
-
-msgid "clan_window_vault_inventory_type_names_singular_war"
-msgstr ""
-
-msgid "clan_window_vault_period_all"
-msgstr ""
-
-msgid "clan_window_vault_period_day"
-msgstr ""
-
-msgid "clan_window_vault_period_month"
-msgstr ""
-
-msgid "clan_window_vault_period_week"
-msgstr ""
-
-msgid "clan_window_vault_quantity"
-msgstr ""
-
-msgid "clan_window_vault_resource"
-msgstr ""
-
-msgid "clan_window_vault_vault"
-msgstr ""
-
-msgid "clans_window_title"
-msgstr ""
-
-msgid "close"
-msgstr ""
-
-msgid "component_targeting_chaos_city_stone"
-msgstr ""
-
-msgid "component_targeting_controlled_by"
-msgstr ""
-
-msgid "component_targeting_dye_colors"
-msgstr ""
-
-msgid "component_targeting_dye_colors_primary"
-msgstr ""
-
-msgid "component_targeting_dye_colors_secondary"
-msgstr ""
-
-msgid "component_targeting_enchantments"
-msgstr ""
-
-msgid "component_targeting_gem_enchantment"
-msgstr ""
-
-msgid "component_targeting_glyph_alt_use_to_claim"
-msgstr ""
-
-msgid "component_targeting_glyph_attack_time_remaining"
-msgstr ""
-
-msgid "component_targeting_glyph_challenge_active"
-msgstr ""
-
-msgid "component_targeting_glyph_not_vulnerable"
-msgstr ""
-
-msgid "component_targeting_glyph_time_remaining"
-msgstr ""
-
-msgid "component_targeting_glyph_use_item_to_challenge"
-msgstr ""
-
-msgid "component_targeting_glyph_use_item_to_challenge_line_2"
-msgstr ""
-
-msgid "component_targeting_glyph_vulnerable_for_attack"
-msgstr ""
-
-msgid "component_targeting_glyph_wait_for_timer_to_finish"
-msgstr ""
-
-msgid "component_targeting_obelisk_altar_restoring"
-msgstr ""
-
-msgid "component_targeting_obelisk_altar_under_attack_countdown"
-msgstr ""
-
-msgid "component_targeting_obelisk_altar_vulnerable"
-msgstr ""
-
-msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
-msgstr ""
-
-msgid "component_targeting_owned_by"
-msgstr ""
-
-msgid "component_targeting_proc_enchantment"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_city_postfix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_city_prefix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_city_wall_postfix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_city_wall_prefix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_nocity_postfix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_nocity_prefix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_nocity_wall_postfix"
-msgstr ""
-
-msgid "conquest_attack_attacker_vulnerable_nocity_wall_prefix"
-msgstr ""
-
-msgid "conquest_attack_challenge_attacker_count_label"
-msgstr ""
-
-msgid "conquest_attack_challenge_attacker_stones_label"
-msgstr ""
-
-msgid "conquest_attack_challenge_defender_clan_name_label"
-msgstr ""
-
-msgid "conquest_attack_challenge_defender_walls_label"
-msgstr ""
-
-msgid "conquest_attack_challenge_phase_name_label"
-msgstr ""
-
-msgid "conquest_attack_countdown_timer_postfix"
-msgstr ""
-
-msgid "conquest_attack_countdown_timer_prefix"
-msgstr ""
-
-msgid "conquest_attack_countdown_timer_walls_postfix"
-msgstr ""
-
-msgid "conquest_attack_countdown_timer_walls_prefix"
-msgstr ""
-
-msgid "conquest_attack_rabbit_stage_one_postfix"
-msgstr ""
-
-msgid "conquest_attack_rabbit_stage_one_prefix"
-msgstr ""
-
-msgid "conquest_attack_rabbit_stage_two_postfix"
-msgstr ""
-
-msgid "conquest_attack_rabbit_stage_two_prefix"
-msgstr ""
-
-msgid "conquest_attack_siege_stone_placement_postfix"
-msgstr ""
-
-msgid "conquest_attack_siege_stone_placement_prefix"
-msgstr ""
-
-msgid "conquest_attack_stage_one_postfix"
-msgstr ""
-
-msgid "conquest_attack_stage_one_prefix"
-msgstr ""
-
-msgid "conquest_attack_stage_two_postfix"
-msgstr ""
-
-msgid "conquest_attack_stage_two_prefix"
-msgstr ""
-
-msgid "conquest_defence_challenge_defender_walls_label"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_city_postfix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_city_prefix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_city_wall_postfix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_city_wall_prefix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_nocity_postfix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_nocity_prefix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_nocity_wall_postfix"
-msgstr ""
-
-msgid "conquest_defend_attacker_vulnerable_nocity_wall_prefix"
-msgstr ""
-
-msgid "conquest_defend_countdown_timer_postfix"
-msgstr ""
-
-msgid "conquest_defend_countdown_timer_prefix"
-msgstr ""
-
-msgid "conquest_defend_countdown_timer_walls_postfix"
-msgstr ""
-
-msgid "conquest_defend_countdown_timer_walls_prefix"
-msgstr ""
-
-msgid "conquest_defend_rabbit_stage_one_postfix"
-msgstr ""
-
-msgid "conquest_defend_rabbit_stage_one_prefix"
-msgstr ""
-
-msgid "conquest_defend_rabbit_stage_two_postfix"
-msgstr ""
-
-msgid "conquest_defend_rabbit_stage_two_prefix"
-msgstr ""
-
-msgid "conquest_defend_siege_stone_placement_postfix"
-msgstr ""
-
-msgid "conquest_defend_siege_stone_placement_prefix"
-msgstr ""
-
-msgid "conquest_defend_stage_one_postfix"
-msgstr ""
-
-msgid "conquest_defend_stage_one_prefix"
-msgstr ""
-
-msgid "conquest_defend_stage_two_postfix"
-msgstr ""
-
-msgid "conquest_defend_stage_two_prefix"
-msgstr ""
-
-msgid "conquest_label_no_challenges"
-msgstr ""
-
-msgid "conquest_window_title"
-msgstr ""
-
-msgid "context_menu_bind_to_chaos_stone"
-msgstr ""
-
-msgid "context_menu_bind_to_city"
-msgstr ""
-
-msgid "context_menu_build_city"
-msgstr ""
-
-msgid "context_menu_chaos_bindstone_attack"
-msgstr ""
-
-msgid "context_menu_chaos_bindstone_menu"
-msgstr ""
-
-msgid "context_menu_city_maintenance"
-msgstr ""
-
-msgid "context_menu_invite_player_to_house"
-msgstr ""
-
-msgid "context_menu_invite_to_clan"
-msgstr ""
-
-msgid "context_menu_invite_to_party"
-msgstr ""
-
-msgid "context_menu_open_billboard"
-msgstr ""
-
-msgid "context_menu_open_clan_account"
-msgstr ""
-
-msgid "context_menu_open_clan_account2"
-msgstr ""
-
-msgid "context_menu_open_clan_account3"
-msgstr ""
-
-msgid "context_menu_open_clan_account4"
-msgstr ""
-
-msgid "context_menu_open_clan_account5"
-msgstr ""
-
-msgid "context_menu_open_local_safe"
-msgstr ""
-
-msgid "context_menu_open_market"
-msgstr ""
-
-msgid "context_menu_open_personal_account"
-msgstr ""
-
-msgid "context_menu_open_personal_account2"
-msgstr ""
-
-msgid "context_menu_open_personal_account2_disabled_premium"
-msgstr ""
-
-msgid "context_menu_pay_house_taxes"
-msgstr ""
-
-msgid "context_menu_start_player_trade"
-msgstr ""
-
-msgid "context_menu_transfer_house_to_player"
-msgstr ""
-
-msgid "context_menu_unspawn_object"
-msgstr ""
-
-msgid "context_menu_whisper_to_player"
-msgstr ""
-
-msgid "craft_prompt_window_title"
-msgstr ""
-
-msgid "crafting_all_button_text"
-msgstr ""
-
-msgid "crafting_amount_label_text"
-msgstr ""
-
-msgid "crafting_chances_label_text"
-msgstr ""
-
-msgid "crafting_create_button_text"
-msgstr ""
-
-msgid "crafting_duration_label_text"
-msgstr ""
-
-msgid "crafting_items_label_text"
-msgstr ""
-
-msgid "crafting_recipe_label_text"
-msgstr ""
-
-msgid "crafting_window_title"
-msgstr ""
-
-msgid "create_char"
-msgstr ""
-
-msgid "decline"
-msgstr ""
-
-msgid "display_modes_borderless"
-msgstr ""
-
-msgid "display_modes_full_screen"
-msgstr ""
-
-msgid "display_modes_windowed"
-msgstr ""
-
-msgid "distance_kilometers"
-msgstr ""
-
-msgid "distance_meters"
-msgstr ""
-
-msgid "do_not_ask_again"
-msgstr ""
-
-msgid "emote_panel_bind_prompt"
-msgstr ""
-
-msgid "emote_panel_button_bind"
-msgstr ""
-
-msgid "emote_panel_button_preview"
-msgstr ""
-
-msgid "emote_panel_combat_refuse"
-msgstr ""
-
-msgid "emote_panel_tab_base"
-msgstr ""
-
-msgid "emote_panel_window_title"
-msgstr ""
+msgid "application_window_title"
+msgstr "和平世界亚服"
 
 msgid "empty"
 msgstr ""
 
-msgid "enchanting_effect_none"
-msgstr ""
-
-msgid "enchanting_enchant_button_text"
-msgstr ""
-
-msgid "enchanting_item_to_enchant"
-msgstr ""
-
-msgid "enchanting_itemlist_text"
-msgstr ""
-
-msgid "enchanting_no_item_to_enchant"
-msgstr ""
-
-msgid "enchanting_slot_ingredient_1"
-msgstr ""
-
-msgid "enchanting_slot_ingredient_2"
-msgstr ""
-
-msgid "enchanting_slot_ingredient_3"
-msgstr ""
-
-msgid "enchanting_slot_ingredient_rare"
-msgstr ""
-
-msgid "enchanting_tips_text"
-msgstr ""
-
-msgid "enchanting_type_postfix"
-msgstr ""
-
-msgid "enchanting_type_prefix"
-msgstr ""
-
-msgid "enchanting_type_transmutation"
-msgstr ""
-
-msgid "enchanting_window_title"
-msgstr ""
-
-msgid "error_name_in_use"
-msgstr ""
-
-msgid "error_name_invalid_characters"
-msgstr ""
-
-msgid "error_name_not_long_enough"
-msgstr ""
-
-msgid "error_name_reserved_word"
-msgstr ""
-
-msgid "error_name_server_error"
-msgstr ""
-
-msgid "error_name_too_long"
-msgstr ""
-
-msgid "error_name_too_many_digits"
-msgstr ""
-
-msgid "false"
-msgstr ""
-
-msgid "feature_not_implemented"
-msgstr ""
-
-msgid "gender_female"
-msgstr ""
-
-msgid "gender_male"
-msgstr ""
-
-msgid "glyph_rule_description_allies"
-msgstr ""
-
-msgid "glyph_rule_description_clan_only"
-msgstr ""
-
-msgid "glyph_rule_description_no_rules"
-msgstr ""
-
-msgid "glyph_rule_description_tax_amount"
-msgstr ""
-
-msgid "glyph_rule_description_tax_option"
-msgstr ""
-
-msgid "glyph_rule_name_allies"
-msgstr ""
-
-msgid "glyph_rule_name_clan_only"
-msgstr ""
-
-msgid "glyph_rule_name_no_rules"
-msgstr ""
-
-msgid "glyph_rule_name_tax_amount"
-msgstr ""
-
-msgid "glyph_rule_name_tax_option"
-msgstr ""
-
-msgid "health"
-msgstr ""
-
-msgid "help_window_title"
-msgstr ""
-
-msgid "holding_maintenance_due"
-msgstr ""
-
-msgid "holding_maintenance_due_days"
-msgstr ""
-
-msgid "holding_maintenance_due_hours"
-msgstr ""
-
-msgid "holding_maintenance_due_minutes"
-msgstr ""
-
-msgid "holding_maintenance_due_seconds"
-msgstr ""
-
-msgid "holding_maintenance_due_weeks"
-msgstr ""
-
-msgid "holding_maintenance_payment_due_by"
-msgstr ""
-
-msgid "holding_maintenance_payment_not_due"
-msgstr ""
-
-msgid "hotbar_button_tooltip_browse"
-msgstr ""
-
-msgid "hotbar_button_tooltip_keystroke"
-msgstr ""
-
-msgid "hotbar_colnumber_tooltip"
-msgstr ""
-
-msgid "hotbar_empty_selected_skill_tooltip1"
-msgstr ""
-
-msgid "hotbar_empty_selected_skill_tooltip2"
-msgstr ""
-
-msgid "hotbar_emptybutton_tooltip1"
-msgstr ""
-
-msgid "hotbar_emptybutton_tooltip2"
-msgstr ""
-
-msgid "hotbar_entry_closebutton_tooltip1"
-msgstr ""
-
-msgid "hotbar_entry_closebutton_tooltip2"
-msgstr ""
-
-msgid "hotbar_entry_options_dialog_force_switch_tooltip"
-msgstr ""
-
-msgid "hotbar_entry_settingbutton_tooltip1"
-msgstr ""
-
-msgid "hotbar_entry_settingbutton_tooltip2"
-msgstr ""
-
-msgid "hotbar_leftarrow_tooltip"
-msgstr ""
-
-msgid "hotbar_rightarrow_tooltip"
-msgstr ""
-
-msgid "hotbar_slot_option_cycle_mode_cycle"
-msgstr ""
-
-msgid "hotbar_slot_option_cycle_mode_first_available"
-msgstr ""
-
-msgid "hotbar_slot_option_force_weapon_switch"
-msgstr ""
-
-msgid "hotbar_slot_option_switch_column_slot"
-msgstr ""
-
-msgid "hotbar_slot_option_trigger_weapon_bar_slot"
-msgstr ""
-
-msgid "hud_alignment_title"
-msgstr ""
-
-msgid "hud_full_name"
-msgstr ""
-
-msgid "hud_member_of_clan_name"
-msgstr ""
-
-msgid "hud_special_title"
-msgstr ""
-
-msgid "hud_title_in_clan_and_clan_name"
-msgstr ""
-
-msgid "interaction_barber_buy_features_button"
-msgstr ""
-
-msgid "interaction_barber_cancel_button"
-msgstr ""
-
-msgid "interaction_barber_subtitle"
-msgstr ""
-
-msgid "interaction_buy_button"
-msgstr ""
-
-msgid "interaction_buy_purchase_confirmation"
-msgstr ""
-
-msgid "interaction_buy_skill_confirmation"
-msgstr ""
-
-msgid "interaction_buy_slot_confirmation"
-msgstr ""
-
-msgid "interaction_buy_total_label"
-msgstr ""
-
-msgid "interaction_change_buy_slot_button"
-msgstr ""
-
-msgid "interaction_change_swap_weapon"
-msgstr ""
-
-msgid "interaction_change_weapon_button"
-msgstr ""
-
-msgid "interaction_change_weapon_confirmation"
-msgstr ""
-
-msgid "interaction_change_weapon_dupe_item"
-msgstr ""
-
-msgid "interaction_change_weapon_money"
-msgstr ""
-
-msgid "interaction_change_weapon_not_legendary"
-msgstr ""
-
-msgid "interaction_change_weapon_select_item"
-msgstr ""
-
-msgid "interaction_change_weapon_unequip_item"
-msgstr ""
-
-msgid "interaction_disable_hit_protection"
-msgstr ""
-
-msgid "interaction_gmhelp_button"
-msgstr ""
-
-msgid "interaction_gmreport_button"
-msgstr ""
-
-msgid "interaction_paid_holding_maintenance"
-msgstr ""
-
-msgid "interaction_repair_button"
-msgstr ""
-
-msgid "interaction_repair_drag_here"
-msgstr ""
-
-msgid "interaction_repair_total_label"
-msgstr ""
-
-msgid "interaction_sell_button"
-msgstr ""
-
-msgid "interaction_sell_drag_here"
-msgstr ""
-
-msgid "interaction_sell_total_label"
-msgstr ""
-
-msgid "interaction_service_button_buy"
-msgstr ""
-
-msgid "interaction_service_total_label"
-msgstr ""
-
-msgid "interaction_skill_extension_allow_jumping"
-msgstr ""
-
-msgid "interaction_skill_extension_allow_longer_max_travel"
-msgstr ""
-
-msgid "interaction_skill_extension_extra_damage"
-msgstr ""
-
-msgid "interaction_skill_extension_faster_missile"
-msgstr ""
-
-msgid "interaction_spell_extension_allow_jumping"
-msgstr ""
-
-msgid "interaction_spell_extension_allow_longer_max_travel"
-msgstr ""
-
-msgid "interaction_spell_extension_extra_damage"
-msgstr ""
-
-msgid "interaction_spell_extension_faster_missile"
-msgstr ""
-
-msgid "interaction_spell_extension_price_label"
-msgstr ""
-
-msgid "interaction_tab_title_archery_extension"
-msgstr ""
-
-msgid "interaction_tab_title_barber"
-msgstr ""
-
-msgid "interaction_tab_title_buy"
-msgstr ""
-
-msgid "interaction_tab_title_change_weapon"
-msgstr ""
-
-msgid "interaction_tab_title_melee_extension"
-msgstr ""
-
-msgid "interaction_tab_title_owned_vendor_manage"
-msgstr ""
-
-msgid "interaction_tab_title_owned_vendor_sell"
-msgstr ""
-
-msgid "interaction_tab_title_quests"
-msgstr ""
-
-msgid "interaction_tab_title_repair"
-msgstr ""
-
-msgid "interaction_tab_title_sell"
-msgstr ""
-
-msgid "interaction_tab_title_skill_extension"
-msgstr ""
-
-msgid "interaction_tab_title_training"
-msgstr ""
-
-msgid "interaction_view_button"
-msgstr ""
-
-msgid "interaction_window_title"
-msgstr ""
-
-msgid "inventory_batch_delete_confirmation"
-msgstr ""
-
-msgid "inventory_batch_move_cooldown_error"
-msgstr ""
-
-msgid "inventory_item_drop_confirmation"
-msgstr ""
-
-msgid "inventory_item_drop_on_ground_confirmation"
-msgstr ""
-
-msgid "inventory_item_drop_on_ground_failed"
-msgstr ""
-
-msgid "inventory_item_split_drop_confirmation"
-msgstr ""
-
-msgid "inventory_item_split_drop_on_ground_confirmation"
-msgstr ""
-
-msgid "inventory_type_backpack"
-msgstr ""
-
-msgid "inventory_type_bank"
-msgstr ""
-
-msgid "inventory_type_bank_extension"
-msgstr ""
-
-msgid "inventory_type_clan_vault4"
-msgstr ""
-
-msgid "inventory_type_clan_vault5"
-msgstr ""
-
-msgid "inventory_type_clan_vault_one"
-msgstr ""
-
-msgid "inventory_type_clan_vault_three"
-msgstr ""
-
-msgid "inventory_type_clan_vault_two"
-msgstr ""
-
-msgid "inventory_type_dropped_item"
-msgstr ""
-
-msgid "inventory_type_internal_container"
-msgstr ""
-
-msgid "inventory_type_loot_monster"
-msgstr ""
-
-msgid "inventory_type_loot_player"
-msgstr ""
-
-msgid "inventory_type_paperdoll"
-msgstr ""
-
-msgid "inventory_type_player_clan_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_house_bank"
-msgstr ""
-
-msgid "inventory_type_player_lootable_clan_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_lootable_party_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_lootable_personal_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_lootable_ship_clan_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_lootable_ship_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_party_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_personal_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_ship_clan_strong_box"
-msgstr ""
-
-msgid "inventory_type_player_ship_fish_box"
-msgstr ""
-
-msgid "inventory_type_player_ship_strong_box"
-msgstr ""
-
-msgid "inventory_type_rune_book"
-msgstr ""
-
-msgid "inventory_type_ship_floating_strong_box"
-msgstr ""
-
-msgid "inventory_type_woodencrate"
-msgstr ""
-
-msgid "inventory_volumebar_title"
-msgstr ""
-
-msgid "inventory_weightbar_title"
-msgstr ""
-
-msgid "item_acid_protection"
-msgstr ""
-
-msgid "item_arcane_protection"
-msgstr ""
-
-msgid "item_arrow_protection"
-msgstr ""
-
-msgid "item_attack_time"
-msgstr ""
-
-msgid "item_attribute_bonus_greater"
-msgstr ""
-
-msgid "item_attribute_bonus_lesser"
-msgstr ""
-
-msgid "item_bludgeoning_protection"
-msgstr ""
-
-msgid "item_cast_time"
-msgstr ""
-
-msgid "item_cold_protection"
-msgstr ""
-
-msgid "item_critical_modifier"
-msgstr ""
-
-msgid "item_damage"
-msgstr ""
-
-msgid "item_durability"
-msgstr ""
-
-msgid "item_durability_value"
-msgstr ""
-
-msgid "item_enchantment_quality"
-msgstr ""
-
-msgid "item_fire_protection"
-msgstr ""
-
-msgid "item_health_gain"
-msgstr ""
-
-msgid "item_holy_protection"
-msgstr ""
-
-msgid "item_impact_protection"
-msgstr ""
-
-msgid "item_infliction_protection"
-msgstr ""
-
-msgid "item_lightning_protection"
-msgstr ""
-
-msgid "item_magic_ward_greater"
-msgstr ""
-
-msgid "item_magic_ward_lesser"
-msgstr ""
-
-msgid "item_maker"
-msgstr ""
-
-msgid "item_malediction_protection"
-msgstr ""
-
-msgid "item_mana_gain"
-msgstr ""
-
-msgid "item_max_quantity"
-msgstr ""
-
-msgid "item_melee_protection_greater"
-msgstr ""
-
-msgid "item_melee_protection_lesser"
-msgstr ""
-
-msgid "item_mental_protection"
-msgstr ""
-
-msgid "item_negative_effect_protection"
-msgstr ""
-
-msgid "item_nourishment_duration"
-msgstr ""
-
-msgid "item_one_handed"
-msgstr ""
-
-msgid "item_piercing_protection"
-msgstr ""
-
-msgid "item_quality"
-msgstr ""
-
-msgid "item_quantity"
-msgstr ""
-
-msgid "item_regeneration_rate"
-msgstr ""
-
-msgid "item_rune_name"
-msgstr ""
-
-msgid "item_rune_position"
-msgstr ""
-
-msgid "item_sell_price"
-msgstr ""
-
-msgid "item_skillevel"
-msgstr ""
-
-msgid "item_slashing_protection"
-msgstr ""
-
-msgid "item_slot_position"
-msgstr ""
-
-msgid "item_split"
-msgstr ""
-
-msgid "item_split_and_drop"
-msgstr ""
-
-msgid "item_split_and_merge"
-msgstr ""
-
-msgid "item_stamina_gain"
-msgstr ""
-
-msgid "item_two_handed"
-msgstr ""
-
-msgid "item_unholy_protection"
-msgstr ""
-
-msgid "item_usage_count"
-msgstr ""
-
-msgid "item_volume"
-msgstr ""
-
-msgid "item_weapon_rank"
-msgstr ""
-
-msgid "item_weight"
-msgstr ""
-
-msgid "journal_friends_accept_status_sent"
-msgstr ""
-
-msgid "journal_friends_add_button"
-msgstr ""
-
-msgid "journal_friends_add_label"
-msgstr ""
-
-msgid "journal_friends_add_status_invalid"
-msgstr ""
-
-msgid "journal_friends_add_status_no_response"
-msgstr ""
-
-msgid "journal_friends_add_status_not_found"
-msgstr ""
-
-msgid "journal_friends_add_status_requested"
-msgstr ""
-
-msgid "journal_friends_add_status_sending"
-msgstr ""
-
-msgid "journal_friends_block_button"
-msgstr ""
-
-msgid "journal_friends_block_label"
-msgstr ""
-
-msgid "journal_friends_block_status_requested"
-msgstr ""
-
-msgid "journal_friends_cancel_status_sent"
-msgstr ""
-
-msgid "journal_friends_empty_blocked"
-msgstr ""
-
-msgid "journal_friends_empty_friends"
-msgstr ""
-
-msgid "journal_friends_empty_incoming"
-msgstr ""
-
-msgid "journal_friends_empty_no_match"
-msgstr ""
-
-msgid "journal_friends_empty_outgoing"
-msgstr ""
-
-msgid "journal_friends_filter_label"
-msgstr ""
-
-msgid "journal_friends_list_empty"
-msgstr ""
-
-msgid "journal_friends_reject_status_sent"
-msgstr ""
-
-msgid "journal_friends_remove_status_failed"
-msgstr ""
-
-msgid "journal_friends_remove_status_requested"
-msgstr ""
-
-msgid "journal_friends_row_accept_button"
-msgstr ""
-
-msgid "journal_friends_row_cancel_button"
-msgstr ""
-
-msgid "journal_friends_row_confirm_button"
-msgstr ""
-
-msgid "journal_friends_row_reject_button"
-msgstr ""
-
-msgid "journal_friends_row_remove_button"
-msgstr ""
-
-msgid "journal_friends_row_status_ignored"
-msgstr ""
-
-msgid "journal_friends_row_unblock_button"
-msgstr ""
-
-msgid "journal_friends_row_whisper_menu"
-msgstr ""
-
-msgid "journal_friends_section_friends"
-msgstr ""
-
-msgid "journal_friends_section_ignored"
-msgstr ""
-
-msgid "journal_friends_section_incoming"
-msgstr ""
-
-msgid "journal_friends_section_offline"
-msgstr ""
-
-msgid "journal_friends_section_online"
-msgstr ""
-
-msgid "journal_friends_section_outgoing"
-msgstr ""
-
-msgid "journal_friends_subtab_friends"
-msgstr ""
-
-msgid "journal_friends_subtab_ignored"
-msgstr ""
-
-msgid "journal_friends_subtab_pending"
-msgstr ""
-
-msgid "journal_friends_tab_title"
-msgstr ""
-
-msgid "journal_friends_unblock_status_requested"
-msgstr ""
-
-msgid "journal_meditation_active_label"
-msgstr ""
-
-msgid "journal_meditation_active_level_label"
-msgstr ""
-
-msgid "journal_meditation_active_none"
-msgstr ""
-
-msgid "journal_meditation_buy_button"
-msgstr ""
-
-msgid "journal_meditation_buy_confirm_button"
-msgstr ""
-
-msgid "journal_meditation_buy_label"
-msgstr ""
-
-msgid "journal_meditation_buy_status_confirm_prompt"
-msgstr ""
-
-msgid "journal_meditation_buy_status_failed"
-msgstr ""
-
-msgid "journal_meditation_buy_status_invalid"
-msgstr ""
-
-msgid "journal_meditation_buy_status_not_enough_gold"
-msgstr ""
-
-msgid "journal_meditation_buy_status_over_cap"
-msgstr ""
-
-msgid "journal_meditation_buy_status_sending"
-msgstr ""
-
-msgid "journal_meditation_cancel_button"
-msgstr ""
-
-msgid "journal_meditation_confirm_button"
-msgstr ""
-
-msgid "journal_meditation_disable_autorotate_button"
-msgstr ""
-
-msgid "journal_meditation_disable_offline_button"
-msgstr ""
-
-msgid "journal_meditation_enable_autorotate_button"
-msgstr ""
-
-msgid "journal_meditation_enable_offline_button"
-msgstr ""
-
-msgid "journal_meditation_hide_locked_button"
-msgstr ""
-
-msgid "journal_meditation_hide_locked_label"
-msgstr ""
-
-msgid "journal_meditation_list_empty"
-msgstr ""
-
-msgid "journal_meditation_result_already_set"
-msgstr ""
-
-msgid "journal_meditation_result_bad_state"
-msgstr ""
-
-msgid "journal_meditation_result_failed"
-msgstr ""
-
-msgid "journal_meditation_result_no_active"
-msgstr ""
-
-msgid "journal_meditation_result_not_enough_points"
-msgstr ""
-
-msgid "journal_meditation_result_skill_maxed"
-msgstr ""
-
-msgid "journal_meditation_result_success"
-msgstr ""
-
-msgid "journal_meditation_result_system_disabled"
-msgstr ""
-
-msgid "journal_meditation_result_trial_blocked"
-msgstr ""
-
-msgid "journal_meditation_row_locked_label"
-msgstr ""
-
-msgid "journal_meditation_row_stop_button"
-msgstr ""
-
-msgid "journal_meditation_row_train_button"
-msgstr ""
-
-msgid "journal_meditation_search_button"
-msgstr ""
-
-msgid "journal_meditation_search_clear_button"
-msgstr ""
-
-msgid "journal_meditation_search_label"
-msgstr ""
-
-msgid "journal_meditation_show_locked_button"
-msgstr ""
-
-msgid "journal_meditation_stage_prompt_stop"
-msgstr ""
-
-msgid "journal_meditation_stage_prompt_train"
-msgstr ""
-
-msgid "journal_meditation_stats_gold_label"
-msgstr ""
-
-msgid "journal_meditation_stats_points_label"
-msgstr ""
-
-msgid "journal_meditation_stop_button"
-msgstr ""
-
-msgid "journal_meditation_subtab_all"
-msgstr ""
-
-msgid "journal_meditation_subtab_attributes"
-msgstr ""
-
-msgid "journal_meditation_subtab_elemental"
-msgstr ""
-
-msgid "journal_meditation_subtab_primary"
-msgstr ""
-
-msgid "journal_meditation_subtab_specialty"
-msgstr ""
-
-msgid "journal_meditation_subtab_weapons"
-msgstr ""
-
-msgid "journal_meditation_tab_title"
-msgstr ""
-
-msgid "journal_meditation_time_to_100"
-msgstr ""
-
-msgid "journal_meditation_time_to_25"
-msgstr ""
-
-msgid "journal_meditation_time_to_50"
-msgstr ""
-
-msgid "journal_meditation_time_to_75"
-msgstr ""
-
-msgid "journal_meditation_toggle_continue_label"
-msgstr ""
-
-msgid "journal_meditation_toggle_enable_label"
-msgstr ""
-
-msgid "journal_meditation_toggle_off"
-msgstr ""
-
-msgid "journal_meditation_toggle_on"
-msgstr ""
-
-msgid "journal_more_options"
-msgstr ""
-
-msgid "journal_open_legacy"
-msgstr ""
-
-msgid "journal_quest_cancel_dialog_body"
-msgstr ""
-
-msgid "journal_quest_cancel_dialog_title"
-msgstr ""
-
-msgid "journal_quest_factions_active"
-msgstr ""
-
-msgid "journal_quest_factions_solved"
-msgstr ""
-
-msgid "journal_quest_list_item_cancel_button"
-msgstr ""
-
-msgid "journal_quest_list_item_history"
-msgstr ""
-
-msgid "journal_quest_list_item_view_details_button"
-msgstr ""
-
-msgid "journal_window_title"
-msgstr ""
-
-msgid "key_alt"
-msgstr ""
-
-msgid "key_control"
-msgstr ""
-
-msgid "key_modifiers_delimiter"
-msgstr ""
-
-msgid "key_mouse_wheel_down"
-msgstr ""
-
-msgid "key_mouse_wheel_up"
-msgstr ""
+msgid "space"
+msgstr " "
+
+msgid "unbound"
+msgstr "(未绑定)"
 
 msgid "key_shift"
-msgstr ""
-
-msgid "left_arrow"
-msgstr ""
-
-msgid "legacy_clan_browse_clans"
-msgstr ""
-
-msgid "legacy_clan_manage_clan"
-msgstr ""
-
-msgid "main_menu_window_title"
-msgstr ""
-
-msgid "mainmenu_backpack"
-msgstr ""
-
-msgid "mainmenu_boards"
-msgstr ""
-
-msgid "mainmenu_chat"
-msgstr ""
-
-msgid "mainmenu_clans"
-msgstr ""
-
-msgid "mainmenu_conquest"
-msgstr ""
-
-msgid "mainmenu_emotes"
-msgstr ""
-
-msgid "mainmenu_gmcall"
-msgstr ""
-
-msgid "mainmenu_help"
-msgstr ""
-
-msgid "mainmenu_hotbar"
-msgstr ""
-
-msgid "mainmenu_hotkeys"
-msgstr ""
-
-msgid "mainmenu_journal"
-msgstr ""
-
-msgid "mainmenu_minimap"
-msgstr ""
-
-msgid "mainmenu_options"
-msgstr ""
-
-msgid "mainmenu_paperdoll"
-msgstr ""
-
-msgid "mainmenu_playerstats"
-msgstr ""
-
-msgid "mainmenu_quit"
-msgstr ""
-
-msgid "mainmenu_skills"
-msgstr ""
-
-msgid "mainmenu_spells"
-msgstr ""
-
-msgid "mainmenu_startbutton_tooltip"
-msgstr ""
-
-msgid "mainmenu_titles"
-msgstr ""
-
-msgid "mainmenu_vitalstats"
-msgstr ""
-
-msgid "mainmenu_worldmap"
-msgstr ""
-
-msgid "mana"
-msgstr ""
-
-msgid "map_context_menu_add_annotation_at_character_position"
-msgstr ""
-
-msgid "map_context_menu_add_annotation_at_cursor_position"
-msgstr ""
-
-msgid "map_context_menu_delete_annotation"
-msgstr ""
-
-msgid "map_context_menu_gm_teleport_to_tile"
-msgstr ""
-
-msgid "map_gm_tile_id"
-msgstr ""
-
-msgid "map_gm_tooltip_coordinates"
-msgstr ""
-
-msgid "map_marker_annotation"
-msgstr ""
-
-msgid "map_marker_anvil"
-msgstr ""
+msgstr "Shift"
 
-msgid "map_marker_bank"
-msgstr ""
-
-msgid "map_marker_bindstone"
-msgstr ""
-
-msgid "map_marker_chaosstone"
-msgstr ""
-
-msgid "map_marker_city"
-msgstr ""
-
-msgid "map_marker_clan_member"
-msgstr ""
-
-msgid "map_marker_conquest"
-msgstr ""
-
-msgid "map_marker_control_points"
-msgstr ""
-
-msgid "map_marker_destination"
-msgstr ""
-
-msgid "map_marker_display_modes_icon_and_label"
-msgstr ""
-
-msgid "map_marker_display_modes_icon_only"
-msgstr ""
-
-msgid "map_marker_display_modes_none"
-msgstr ""
+msgid "key_control"
+msgstr "Control"
 
-msgid "map_marker_dungeons"
-msgstr ""
+msgid "key_alt"
+msgstr "Alt"
 
-msgid "map_marker_enchantment_station"
-msgstr ""
+msgid "key_mouse_wheel_up"
+msgstr "向上滚动"
 
-msgid "map_marker_fortress"
-msgstr ""
+msgid "key_mouse_wheel_down"
+msgstr "向下滚动"
 
-msgid "map_marker_fun_flags"
-msgstr ""
+msgid "armor_damage_multiplier"
+msgstr "伤害加倍"
 
-msgid "map_marker_greaterstone"
-msgstr ""
+msgid "item_max_quantity"
+msgstr "最大数量"
 
-msgid "map_marker_housing"
-msgstr ""
+msgid "item_regeneration_rate"
+msgstr "再生率"
 
-msgid "map_marker_laboratory"
-msgstr ""
+msgid "item_quantity"
+msgstr "数量"
 
-msgid "map_marker_monster_common_loot"
-msgstr ""
+msgid "item_maker"
+msgstr "制造者"
 
-msgid "map_marker_monster_spawn"
-msgstr ""
+msgid "item_weight"
+msgstr "重量"
 
-msgid "map_marker_npc_city"
-msgstr ""
+msgid "item_volume"
+msgstr "体积"
 
-msgid "map_marker_oven"
-msgstr ""
+msgid "item_skillevel"
+msgstr "技能等级"
 
-msgid "map_marker_overlays_tile_rating"
-msgstr ""
+msgid "item_sell_price"
+msgstr "价格"
 
-msgid "map_marker_owner_label"
-msgstr ""
+msgid "item_rune_name"
+msgstr "传送名称"
 
-msgid "map_marker_party_player"
-msgstr ""
+msgid "item_rune_position"
+msgstr "传送位置"
 
-msgid "map_marker_party_waypoint"
-msgstr ""
+msgid "item_durability"
+msgstr "耐久性"
 
-msgid "map_marker_player_city"
-msgstr ""
+msgid "item_durability_value"
+msgstr "%1 / %2"
 
-msgid "map_marker_player_deployed_objects"
-msgstr ""
+msgid "item_quality"
+msgstr "品质"
 
-msgid "map_marker_players"
-msgstr ""
+msgid "item_enchantment_quality"
+msgstr "附魔品质"
 
-msgid "map_marker_portals"
-msgstr ""
+msgid "item_damage"
+msgstr "伤害"
 
-msgid "map_marker_quest"
-msgstr ""
+msgid "item_weapon_rank"
+msgstr "武器等级"
 
-msgid "map_marker_siegestone"
-msgstr ""
+msgid "item_attack_time"
+msgstr "攻击速度"
 
-msgid "map_marker_smelter"
-msgstr ""
+msgid "item_cast_time"
+msgstr "施法速度"
 
-msgid "map_marker_spawn_boss"
-msgstr ""
+msgid "item_critical_modifier"
+msgstr "暴击"
 
-msgid "map_marker_spawn_champion"
-msgstr ""
+msgid "item_acid_protection"
+msgstr "酸蚀防护"
 
-msgid "map_marker_spawn_dungeon"
-msgstr ""
+msgid "item_bludgeoning_protection"
+msgstr "棒击防护"
 
-msgid "map_marker_spawn_easy"
-msgstr ""
+msgid "item_cold_protection"
+msgstr "寒冷防护"
 
-msgid "map_marker_spawn_hard"
-msgstr ""
+msgid "item_fire_protection"
+msgstr "火焰防护"
 
-msgid "map_marker_spawn_medium"
-msgstr ""
+msgid "item_holy_protection"
+msgstr "圣术防护"
 
-msgid "map_marker_spawn_very_easy"
-msgstr ""
+msgid "item_impact_protection"
+msgstr "撞击防护"
 
-msgid "map_marker_spawn_very_hard"
-msgstr ""
+msgid "item_lightning_protection"
+msgstr "闪电防护"
 
-msgid "map_marker_traderoute_markers"
-msgstr ""
+msgid "item_piercing_protection"
+msgstr "穿刺防护"
 
-msgid "map_marker_vendor"
-msgstr ""
+msgid "item_slashing_protection"
+msgstr "剑伤防护"
 
-msgid "map_marker_vendor_Arcanist"
-msgstr ""
+msgid "item_unholy_protection"
+msgstr "邪术防护"
 
-msgid "map_marker_vendor_Blacksmith"
-msgstr ""
+msgid "item_arcane_protection"
+msgstr "奥术防护"
 
-msgid "map_marker_vendor_Councillor"
-msgstr ""
+msgid "item_mental_protection"
+msgstr "精神防护"
 
-msgid "map_marker_vendor_Fighter"
-msgstr ""
+msgid "item_arrow_protection"
+msgstr "箭伤防护"
 
-msgid "map_marker_vendor_Mage"
-msgstr ""
+msgid "item_infliction_protection"
+msgstr "刑罚防护"
 
-msgid "map_marker_vendor_Merchant"
-msgstr ""
+msgid "item_malediction_protection"
+msgstr "诅咒防护"
 
-msgid "map_marker_workbench"
-msgstr ""
+msgid "item_negative_effect_protection"
+msgstr "防御一切"
 
-msgid "map_monster_location_slider"
-msgstr ""
+msgid "item_one_handed"
+msgstr "单手"
 
-msgid "map_monster_location_slider_max"
-msgstr ""
+msgid "item_two_handed"
+msgstr "双手"
 
-msgid "map_options_section_monster_types"
-msgstr ""
+msgid "item_usage_count"
+msgstr "使用次数"
 
-msgid "map_options_section_overlays"
-msgstr ""
+msgid "item_slot_position"
+msgstr "插槽位置"
 
-msgid "map_options_section_structures"
-msgstr ""
+msgid "item_nourishment_duration"
+msgstr "持续时间"
 
-msgid "map_tooltip_prefix_annotation"
-msgstr ""
+msgid "item_attribute_bonus_lesser"
+msgstr "低属性加成"
 
-msgid "map_tooltip_prefix_anvil"
-msgstr ""
+msgid "item_attribute_bonus_greater"
+msgstr "高属性加成"
 
-msgid "map_tooltip_prefix_bank"
-msgstr ""
+msgid "item_magic_ward_lesser"
+msgstr "低魔法防御"
 
-msgid "map_tooltip_prefix_city"
-msgstr ""
+msgid "item_magic_ward_greater"
+msgstr "高魔法防御"
 
-msgid "map_tooltip_prefix_clan_member"
-msgstr ""
+msgid "item_melee_protection_lesser"
+msgstr "低近战防护"
 
-msgid "map_tooltip_prefix_conquest"
-msgstr ""
+msgid "item_melee_protection_greater"
+msgstr "高近战防护"
 
-msgid "map_tooltip_prefix_control_points"
-msgstr ""
+msgid "item_health_gain"
+msgstr "增加生命值"
 
-msgid "map_tooltip_prefix_distance"
-msgstr ""
+msgid "item_stamina_gain"
+msgstr "增加耐力值"
 
-msgid "map_tooltip_prefix_dungeons"
-msgstr ""
+msgid "item_mana_gain"
+msgstr "增加法力值"
 
-msgid "map_tooltip_prefix_enchantment_station"
-msgstr ""
+msgid "item_split_and_merge"
+msgstr "拆分再合并物品"
 
-msgid "map_tooltip_prefix_fortress"
-msgstr ""
+msgid "item_split"
+msgstr "拆分物品"
 
-msgid "map_tooltip_prefix_fun_flags"
-msgstr ""
+msgid "item_split_and_drop"
+msgstr "拆分并放下物品"
 
-msgid "map_tooltip_prefix_housing"
-msgstr ""
+msgid "chat_special_cmd_g_camera_path"
+msgstr "Plays a camera path defined in the filename given"
 
-msgid "map_tooltip_prefix_laboratory"
-msgstr ""
+msgid "chat_special_cmd_g_load_environment"
+msgstr "Load an environment file."
 
-msgid "map_tooltip_prefix_oven"
-msgstr ""
+msgid "chat_special_cmd_a_city_load"
+msgstr "Load a city. (Admin command)"
 
-msgid "map_tooltip_prefix_party_player"
-msgstr ""
+msgid "chat_ai_cmd_ai_help_desc"
+msgstr "Lists assignable AI attributes"
 
-msgid "map_tooltip_prefix_party_waypoint"
-msgstr ""
+msgid "chat_ai_cmd_ai_help_param_attribute_desc"
+msgstr "Gives the value type of the attribute"
 
-msgid "map_tooltip_prefix_player_deployed_objects"
-msgstr ""
+msgid "chat_ai_cmd_ai_set_desc"
+msgstr "Sets the specified attribute to the specified value. Type 'ai_help' for a complete listing of attributes and their values"
 
-msgid "map_tooltip_prefix_players"
-msgstr ""
+msgid "chat_ai_cmd_ai_set_param_attribute_desc"
+msgstr "Attribute to set"
 
-msgid "map_tooltip_prefix_portals"
-msgstr ""
+msgid "chat_ai_cmd_ai_set_param_value_desc"
+msgstr "Value to assign to the specified attribute"
 
-msgid "map_tooltip_prefix_quest"
-msgstr ""
+msgid "chat_ai_cmd_ai_set_param_guid_desc"
+msgstr "Optional targetGUID"
 
-msgid "map_tooltip_prefix_smelter"
-msgstr ""
+msgid "chat_ai_cmd_ai_test_desc"
+msgstr "description of command ai_test"
 
-msgid "map_tooltip_prefix_spawn"
-msgstr ""
+msgid "chat_ai_cmd_ai_test_param1_desc"
+msgstr "description of command ai_test, parameter param1"
 
-msgid "map_tooltip_prefix_stone_bind"
-msgstr ""
+msgid "chat_ai_cmd_ai_get_request_desc"
+msgstr "Gets the specified attribute value. If an attribute is not specified it gets them all"
 
-msgid "map_tooltip_prefix_stone_chaos"
-msgstr ""
+msgid "chat_ai_cmd_ai_get_request_param_attribute_desc"
+msgstr "Attribute to get"
 
-msgid "map_tooltip_prefix_stone_greater"
-msgstr ""
+msgid "chat_ai_cmd_ai_get_request_param_guid_desc"
+msgstr "Optional targetGUID"
 
-msgid "map_tooltip_prefix_stone_siege"
-msgstr ""
+msgid "chat_ai_cmd_ai_get_response_desc"
+msgstr "Shows the attributes of a monster as a response to a get request command."
 
-msgid "map_tooltip_prefix_tile"
-msgstr ""
+msgid "chat_ai_cmd_ai_config_type_desc"
+msgstr "Configuration type to set"
 
-msgid "map_tooltip_prefix_traderoute_markers"
-msgstr ""
+msgid "chat_ai_cmd_ai_config_value_desc"
+msgstr "Value to assign to the specified configuration"
 
-msgid "map_tooltip_prefix_vendor"
-msgstr ""
+msgid "chat_ai_cmd_ai_property_type_desc"
+msgstr "Property type to set"
 
-msgid "map_tooltip_prefix_workbench"
-msgstr ""
+msgid "chat_ai_cmd_ai_property_value_desc"
+msgstr "Value to assign to the specified property"
 
-msgid "market_apply_filter"
-msgstr ""
+msgid "chat_ai_cmd_ai_move_mode_desc"
+msgstr "Movement mode [walk, run]"
 
-msgid "market_available_items"
-msgstr ""
+msgid "chat_ai_cmd_ai_move_dir_desc"
+msgstr "Movement direction [right, left, etc.]"
 
-msgid "market_backpack_context_menu_buy_more"
-msgstr ""
+msgid "chat_ai_cmd_ai_move_distance_desc"
+msgstr "Movement distance in meters"
 
-msgid "market_backpack_context_menu_sell_this"
-msgstr ""
+msgid "chat_ai_cmd_ai_rotate_amount_desc"
+msgstr "Rotation amount in degrees."
 
-msgid "market_backpack_context_menu_view_market_details"
-msgstr ""
+msgid "chat_ai_cmd_ai_befriend_param_friendly_desc"
+msgstr "Whether or not to be friendly."
 
-msgid "market_broker_fee_extra"
-msgstr ""
+msgid "chat_ai_cmd_ai_die_desc"
+msgstr "Sends a death message to the monster."
 
-msgid "market_broker_fees_cancellation_confirmation"
-msgstr ""
+msgid "chat_ai_cmd_ai_befriend_desc"
+msgstr "Sends a be-my-friend message to the monster."
 
-msgid "market_button_cancel_selected"
-msgstr ""
+msgid "chat_ai_cmd_ai_judas_desc"
+msgstr "The targeted monsters will not be loved by other monsters."
 
-msgid "market_button_change_selected"
-msgstr ""
+msgid "chat_ai_cmd_ai_config_desc"
+msgstr "Sets some ai system configuration."
 
-msgid "market_button_claim"
-msgstr ""
+msgid "chat_ai_cmd_ai_property_desc"
+msgstr "Sets some ai system property."
 
-msgid "market_button_expires"
-msgstr ""
+msgid "chat_ai_cmd_ai_move_desc"
+msgstr "Sends a movement request to the targeted bot."
 
-msgid "market_button_item"
-msgstr ""
+msgid "chat_ai_cmd_ai_rotate_desc"
+msgstr "Sends a rotate request to the targeted bot."
 
-msgid "market_button_location"
-msgstr ""
+msgid "chat_interpreter_cmd_desc_help"
+msgstr "get help on all commands or on a specific command"
 
-msgid "market_button_price"
-msgstr ""
+msgid "chat_gui_cmd_persist_save_help"
+msgstr "save gui persistance information"
 
-msgid "market_button_quantity"
-msgstr ""
+msgid "chat_gui_cmd_persist_load_help"
+msgstr "load gui persistance information"
 
-msgid "market_button_seller"
-msgstr ""
+msgid "chat_interpreter_cmd_desc_quit"
+msgstr "quit the game"
 
-msgid "market_button_shipping"
-msgstr ""
+msgid "chat_gui_cmd_clear_chat_history"
+msgstr "clear the history of typed chat commands"
 
-msgid "market_button_update"
-msgstr ""
+msgid "chat_interpreter_cmd_help_param_command_desc"
+msgstr "name of command to get help on"
 
-msgid "market_buttons_buy_listed_item"
-msgstr ""
+msgid "chat_interpreter_cmd_desc_exec"
+msgstr "execute an external script"
 
-msgid "market_buttons_buy_selected"
-msgstr ""
+msgid "chat_interpreter_cmd_desc_log"
+msgstr "add an entry to the log"
 
-msgid "market_buttons_create_buy_order"
-msgstr ""
+msgid "chat_interpreter_cmd_desc_clear"
+msgstr "clear the chat log"
 
-msgid "market_buttons_most_recent"
-msgstr ""
+msgid "chat_interpreter_cmd_exec_param_filename_desc"
+msgstr "the filename of the script to execute"
 
-msgid "market_buttons_refresh_market"
-msgstr ""
+msgid "chat_interpreter_cmd_log_param_text"
+msgstr "the text to add to the log"
 
-msgid "market_buy_item"
-msgstr ""
+msgid "chat_graphics_cmd_g_text_desc"
+msgstr "description of command g_text"
 
-msgid "market_buy_window_buy_item"
-msgstr ""
+msgid "chat_graphics_cmd_g_text_param_thetext_desc"
+msgstr "description of command g_text, parameter thetext"
 
-msgid "market_buy_window_durability"
-msgstr ""
+msgid "chat_graphics_cmd_g_sprite_desc"
+msgstr "description of command g_sprite"
 
-msgid "market_buy_window_location"
-msgstr ""
+msgid "chat_graphics_cmd_g_sprite_param_texture_desc"
+msgstr "description of command g_sprite, parameter texture"
 
-msgid "market_buy_window_price"
-msgstr ""
+msgid "chat_graphics_cmd_g_screenshot_desc"
+msgstr "take a screenshot"
 
-msgid "market_buy_window_purchase_amount"
-msgstr ""
+msgid "chat_graphics_cmd_g_applydevice_desc"
+msgstr "description of command g_applydevice"
 
-msgid "market_buy_window_quantity_available"
-msgstr ""
+msgid "chat_graphics_cmd_g_togglewf_desc"
+msgstr "dont use this"
 
-msgid "market_buy_window_seller"
-msgstr ""
+msgid "chat_graphics_cmd_g_toggle_sun_desc"
+msgstr "Toggles sun rotation"
 
-msgid "market_buy_window_shipping"
-msgstr ""
+msgid "chat_graphics_cmd_g_veg_forceupdate"
+msgstr "Forces a full vegetation update at current point"
 
-msgid "market_buy_window_total_cost"
-msgstr ""
+msgid "chat_graphics_cmd_g_veg_applychanges"
+msgstr "Applies the vegetation variables that is set"
 
-msgid "market_chat_notification_buy_order_cancel_success"
-msgstr ""
+msgid "chat_interpreter_cmd_exec_error_file_not_found"
+msgstr "could not execute script: file '%1' not found."
 
-msgid "market_chat_notification_order_cancel_failed"
-msgstr ""
+msgid "chat_interpreter_cmd_exec_error_reading_file"
+msgstr "could not execute script: could not read from file '%1'."
 
-msgid "market_chat_notification_order_update_fail"
-msgstr ""
+msgid "chat_input_cmd_bind_help"
+msgstr "bind a keystroke to an action"
 
-msgid "market_chat_notification_order_update_success"
+msgid "chat_input_cmd_bind_param_key_desc"
 msgstr ""
 
-msgid "market_chat_notification_sell_order_cancel_success"
-msgstr ""
+msgid "chat_input_cmd_bind_param_command_desc"
+msgstr "the command to bind the key to, or nothing to unbind the key."
 
-msgid "market_clear_filter"
-msgstr ""
+msgid "chat_input_player_alias"
+msgstr "Look up past aliases for player: '%1' '%2' ."
 
-msgid "market_confirm_dialog_create_sale_order"
-msgstr ""
+msgid "chat_resource_cmd_r_text_desc"
+msgstr "description of command r_text"
 
-msgid "market_confirm_dialog_create_sale_order_description"
-msgstr ""
+msgid "chat_resource_cmd_r_text_param_thetext_desc"
+msgstr "description of command r_text, parameter thetext"
 
-msgid "market_confirm_dialog_sell_now"
-msgstr ""
+msgid "chat_resource_cmd_r_sprite_desc"
+msgstr "description of command r_sprite"
 
-msgid "market_confirm_dialog_sell_now_description"
-msgstr ""
+msgid "chat_resource_cmd_r_sprite_param_texture_desc"
+msgstr "description of command r_sprite, parameter texture"
 
-msgid "market_confirmation_window_about_to_buy"
-msgstr ""
+msgid "chat_scenegraph_cmd_s_text_desc"
+msgstr "description of command s_text"
 
-msgid "market_confirmation_window_about_to_sell"
-msgstr ""
+msgid "chat_scenegraph_cmd_s_text_param_thetext_desc"
+msgstr "description of command s_text, parameter thetext"
 
-msgid "market_context_create_buy_order"
-msgstr ""
+msgid "chat_scenegraph_cmd_s_sprite_desc"
+msgstr "description of command s_sprite"
 
-msgid "market_context_menu_buy"
-msgstr ""
+msgid "chat_scenegraph_cmd_s_sprite_param_texture_desc"
+msgstr "description of command s_sprite, parameter texture"
 
-msgid "market_context_menu_view_details"
-msgstr ""
+msgid "chat_server_cmd_msg_desc"
+msgstr "向特定的玩家发送信息"
 
-msgid "market_duration"
-msgstr ""
+msgid "chat_server_cmd_msg_param_nick1_desc"
+msgstr "玩家的名字"
 
-msgid "market_expiration"
-msgstr ""
+msgid "chat_server_cmd_msg_param_nick2_desc"
+msgstr "玩家的姓氏"
 
-msgid "market_expiration_days"
-msgstr ""
+msgid "chat_server_cmd_msg_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_expiration_hours"
-msgstr ""
+msgid "chat_server_cmd_say_gm_desc"
+msgstr "向所有在线GMs发送信息"
 
-msgid "market_expiration_minutes"
-msgstr ""
+msgid "chat_server_cmd_say_mgm_desc"
+msgstr "向所有在线主GMs发送信息"
 
-msgid "market_expiration_seconds"
-msgstr ""
+msgid "chat_server_cmd_say_admin_desc"
+msgstr "向所有在线管理员发送信息"
 
-msgid "market_expiration_weeks"
-msgstr ""
+msgid "chat_server_cmd_say_order_desc"
+msgstr "向所有我方联盟成员发送信息"
 
-msgid "market_fill_order_window_buyer"
-msgstr ""
+msgid "chat_server_cmd_say_recruiting_desc"
+msgstr "向所有玩家发送关于公会招募的信息"
 
-msgid "market_fill_order_window_location"
-msgstr ""
+msgid "chat_server_cmd_say_clan_alliance_desc"
+msgstr "当你和另一个公会互认盟友,向所有的所有公会成员发送信息."
 
-msgid "market_fill_order_window_offering"
-msgstr ""
+msgid "chat_server_cmd_say_agon_desc"
+msgstr "向Agon的所有其他玩家发送世界信息"
 
-msgid "market_fill_order_window_quantity_requested"
-msgstr ""
+msgid "chat_server_cmd_say_newplayers_desc"
+msgstr "向所有其他新玩家发送信息"
 
-msgid "market_fill_order_window_sell_amount"
-msgstr ""
+msgid "chat_server_cmd_say_trade_desc"
+msgstr "向其他所有玩家发送世界交易信息"
 
-msgid "market_fill_order_window_sell_item"
-msgstr ""
+msgid "chat_server_cmd_say_desc"
+msgstr "向附近的其他玩家发送信息"
 
-msgid "market_filter_location"
-msgstr ""
+msgid "chat_server_cmd_say_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_filter_minimum_durability"
-msgstr ""
+msgid "chat_server_cmd_say_clan_desc"
+msgstr "向玩家公会中的其他玩家发送信息"
 
-msgid "market_filter_minimum_quantity"
-msgstr ""
+msgid "chat_server_cmd_say_clan_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_filter_no_listings_available"
-msgstr ""
+msgid "chat_server_cmd_say_clan_officers_desc"
+msgstr "向玩家公会中的指挥官发送信息"
 
-msgid "market_filter_price_max"
-msgstr ""
+msgid "chat_server_cmd_say_clan_officers_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_filter_price_min"
-msgstr ""
+msgid "chat_server_cmd_say_party_desc"
+msgstr "向玩家队伍中的其他玩家发送信息"
 
-msgid "market_filter_text"
-msgstr ""
+msgid "chat_server_cmd_say_party_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_filters_tile_name_all"
-msgstr ""
+msgid "chat_server_cmd_say_global_desc"
+msgstr "向所有其他玩家发送信息"
 
-msgid "market_global_market_title_composite"
-msgstr ""
+msgid "chat_server_cmd_say_global_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_item_description"
-msgstr ""
+msgid "chat_server_cmd_say_node_desc"
+msgstr "向特定服务器节点上的所有其他玩家发送信息"
 
-msgid "market_item_details_price"
-msgstr ""
+msgid "chat_server_cmd_say_node_param_text_desc"
+msgstr "要传达的信息"
 
-msgid "market_item_details_quantity"
-msgstr ""
+msgid "chat_server_cmd_say_node_param_node_desc"
+msgstr "节点id"
 
-msgid "market_label_broker_fee"
-msgstr ""
+msgid "chat_server_cmd_say_chaos_desc"
+msgstr "向所有敌方联盟成员发送信息"
 
-msgid "market_label_fee"
-msgstr ""
+msgid "chat_server_cmd_gm_help_desc"
+msgstr "向所有在线GMs发送帮助请求"
 
-msgid "market_label_quantity"
-msgstr ""
+msgid "chat_server_cmd_gm_help_param_text_desc"
+msgstr "问题描述"
 
-msgid "market_label_sales_tax"
-msgstr ""
+msgid "chat_server_cmd_gm_report_desc"
+msgstr "向所有在线GMs发送一个滥用或错误报告"
 
-msgid "market_label_total"
-msgstr ""
+msgid "chat_server_cmd_gm_report_param_text_desc"
+msgstr "问题描述,包括相关玩家的姓名和位置"
 
-msgid "market_list_item_button_buy"
-msgstr ""
+msgid "chat_server_cmd_ignore_desc"
+msgstr "添加到黑名单"
 
-msgid "market_list_item_button_close"
-msgstr ""
+msgid "chat_server_cmd_ignore_param_nick_desc"
+msgstr "要屏蔽的昵称"
 
-msgid "market_list_item_button_sell"
-msgstr ""
+msgid "chat_server_cmd_ignore_param_reason_desc"
+msgstr "屏蔽原因,不会向他人展示"
 
-msgid "market_listing_tax_extra"
-msgstr ""
+msgid "chat_server_cmd_ignore_param_type_desc"
+msgstr "用逗号分隔要屏蔽的聊天消息类型列表:公共,私人"
 
-msgid "market_my_buy_orders"
-msgstr ""
+msgid "chat_server_cmd_unignore_desc"
+msgstr "从黑名单中移除昵称"
 
-msgid "market_my_expired_orders"
-msgstr ""
+msgid "chat_server_cmd_unignore_param_nick_desc"
+msgstr "解除黑名单"
 
-msgid "market_my_sell_orders"
-msgstr ""
+msgid "chat_server_cmd_ignorelist_desc"
+msgstr "显示黑名单"
 
-msgid "market_no_orders_available_for_duration"
-msgstr ""
+msgid "chat_server_cmd_annotation_add_desc"
+msgstr "在当前位置添加注释"
 
-msgid "market_notification_order_cancellation_failure"
-msgstr ""
+msgid "chat_server_cmd_annotation_add_param_text_desc"
+msgstr "注释评论"
 
-msgid "market_notification_order_cancellation_success"
-msgstr ""
+msgid "chat_server_cmd_annotation_remove_desc"
+msgstr "删除注释"
 
-msgid "market_order_length_instant"
-msgstr ""
+msgid "chat_server_cmd_annotation_remove_param_id_desc"
+msgstr "注释id"
 
-msgid "market_order_length_one_day"
-msgstr ""
+msgid "chat_server_cmd_annotation_list_desc"
+msgstr "列出注释"
 
-msgid "market_order_length_one_month"
-msgstr ""
+msgid "chat_server_cmd_team_desc"
+msgstr "performs a specified operation in the teammanager on the server"
 
-msgid "market_order_length_one_week"
-msgstr ""
+msgid "chat_server_cmd_team_param1_desc"
+msgstr "the teamcommandtype to perform"
 
-msgid "market_order_length_three_days"
-msgstr ""
+msgid "chat_server_cmd_team_param2_desc"
+msgstr "either the affected playername or the teamname"
 
-msgid "market_order_length_two_weeks"
-msgstr ""
+msgid "chat_server_cmd_team_param3_desc"
+msgstr "the affected teamname"
 
-msgid "market_other_filter_seller"
-msgstr ""
+msgid "chat_server_prop_n_client_to_server_updaterate_desc"
+msgstr "description of property n_client_to_server_updaterate"
 
-msgid "market_other_filters"
-msgstr ""
+msgid "chat_server_prop_n_server_to_client_updaterate_desc"
+msgstr "description of property n_server_to_client_updaterate"
 
-msgid "market_price_in_gold"
-msgstr ""
+msgid "chat_server_prop_n_additive_updatecheck_desc"
+msgstr "description of property n_additive_updatecheck"
 
-msgid "market_quantity_and_resource_name"
-msgstr ""
+msgid "chat_server_prop_n_subscriber_updaterate_desc"
+msgstr "description of property n_subscriber_updaterate"
 
-msgid "market_received_item_button_receive"
-msgstr ""
+msgid "chat_server_cmd_test1_desc"
+msgstr "description of test1"
 
-msgid "market_received_item_delivery_fee"
-msgstr ""
+msgid "chat_server_cmd_test2_desc"
+msgstr "description of test2"
 
-msgid "market_received_item_not_enough_gold_to_deliver"
-msgstr ""
+msgid "chat_server_cmd_test3_desc"
+msgstr "description of test3"
 
-msgid "market_received_item_order_id"
-msgstr ""
+msgid "chat_server_cmd_test4_desc"
+msgstr "description of test4"
 
-msgid "market_received_item_sales_tax"
-msgstr ""
+msgid "chat_server_cmd_test5_desc"
+msgstr "description of test5"
 
-msgid "market_received_item_sell_order_sold"
-msgstr ""
+msgid "chat_server_cmd_roll_desc"
+msgstr "执行简单的骰子掷骰并显示结果"
 
-msgid "market_receiving_empty"
-msgstr ""
+msgid "chat_server_cmd_roll_clan_desc"
+msgstr "执行掷骰子并将结果显示给所有公会成员"
 
-msgid "market_receiving_refresh_items"
-msgstr ""
+msgid "chat_server_cmd_roll_party_desc"
+msgstr "执行掷骰子并将结果显示给所有组队成员"
 
-msgid "market_reset_filter"
-msgstr ""
+msgid "chat_server_cmd_roll_param_desc"
+msgstr "骰子面数,'D-number' (最小值:2, 最大值:100,默认值:6)"
 
-msgid "market_section_select"
-msgstr ""
+msgid "chat_error_setproperty_failed"
+msgstr "设置属性失败"
 
-msgid "market_section_title_buy_order_new"
-msgstr ""
+msgid "inventory_volumebar_title"
+msgstr "体积"
 
-msgid "market_section_title_buy_orders"
-msgstr ""
+msgid "inventory_weightbar_title"
+msgstr "重量"
 
-msgid "market_section_title_sale_order_new"
-msgstr ""
+msgid "yes"
+msgstr "是"
 
-msgid "market_section_title_sale_orders"
-msgstr ""
+msgid "no"
+msgstr "否"
 
-msgid "market_showing_most_recent"
-msgstr ""
+msgid "ok"
+msgstr "确定"
 
-msgid "market_tabs_management"
-msgstr ""
+msgid "true"
+msgstr "对"
 
-msgid "market_tabs_market"
-msgstr ""
+msgid "false"
+msgstr "错"
 
-msgid "market_tabs_receiving"
-msgstr ""
+msgid "accept"
+msgstr "接受"
 
-msgid "market_title_global_market"
-msgstr ""
+msgid "decline"
+msgstr "拒绝"
 
-msgid "market_title_global_market_sell_item"
-msgstr ""
+msgid "cancel"
+msgstr "取消"
 
-msgid "market_update_duration"
-msgstr ""
+msgid "close"
+msgstr "关闭"
 
-msgid "market_update_select_order"
-msgstr ""
+msgid "apply"
+msgstr "应用"
 
 msgid "messagebox_generic_title"
-msgstr ""
+msgstr "信息"
 
-msgid "minimap_character_coordinates"
-msgstr ""
-
-msgid "minimap_window_title"
-msgstr ""
-
-msgid "money"
-msgstr ""
+msgid "do_not_ask_again"
+msgstr "不要再询问我"
 
 msgid "money_empty"
 msgstr ""
 
-msgid "name_ok"
-msgstr ""
-
-msgid "news_reel_filters_binding"
-msgstr ""
-
-msgid "news_reel_filters_control_points"
-msgstr ""
-
-msgid "news_reel_filters_fortresses"
-msgstr ""
-
-msgid "news_reel_filters_in_out"
-msgstr ""
-
-msgid "news_reel_filters_login_logout"
-msgstr ""
-
-msgid "news_reel_filters_members"
-msgstr ""
-
-msgid "news_reel_filters_misc"
-msgstr ""
-
-msgid "news_reel_filters_politics"
-msgstr ""
-
-msgid "news_reel_filters_promotion_demotion"
-msgstr ""
-
-msgid "news_reel_filters_resources"
-msgstr ""
-
-msgid "news_reel_filters_structures"
-msgstr ""
-
-msgid "news_reel_filters_workstations"
-msgstr ""
-
-msgid "next"
-msgstr ""
-
-msgid "no"
-msgstr ""
-
-msgid "not_attachable"
-msgstr ""
-
-msgid "not_attached"
-msgstr ""
-
-msgid "ok"
-msgstr ""
-
-msgid "options_audio_ambience_sound_volume"
-msgstr ""
-
-msgid "options_audio_defaults_confirmation"
-msgstr ""
-
-msgid "options_audio_hitsound_enabled"
-msgstr ""
-
-msgid "options_audio_maxnum3dsounds"
-msgstr ""
-
-msgid "options_audio_sound_volume"
-msgstr ""
-
-msgid "options_binding_defaults_button_label"
-msgstr ""
-
-msgid "options_binding_defaults_confirmation"
-msgstr ""
+msgid "are_you_sure_you_want_to_quit"
+msgstr "你确定退出和平世界吗?"
 
-msgid "options_binding_info"
-msgstr ""
+msgid "feature_not_implemented"
+msgstr "抱歉,此功能尚未实现!"
 
-msgid "options_binding_prompt_linear"
-msgstr ""
+msgid "interaction_tab_title_buy"
+msgstr "购买"
 
-msgid "options_binding_prompt_switch"
-msgstr ""
+msgid "interaction_tab_title_sell"
+msgstr "出售"
 
-msgid "options_binding_prompt_timeout"
-msgstr ""
+msgid "interaction_tab_title_repair"
+msgstr "修复"
 
-msgid "options_binding_rebind_confirmation"
-msgstr ""
+msgid "interaction_tab_title_training"
+msgstr "服务"
 
-msgid "options_binding_tooltip_default"
-msgstr ""
+msgid "interaction_tab_title_quests"
+msgstr "任务"
 
-msgid "options_chat_activate_new_tabs"
-msgstr ""
+msgid "interaction_tab_title_change_weapon"
+msgstr "起始武器"
 
-msgid "options_chat_color_highlight_high"
-msgstr ""
+msgid "interaction_tab_title_skill_extension"
+msgstr "法术升级"
 
-msgid "options_chat_color_highlight_low"
-msgstr ""
+msgid "interaction_tab_title_melee_extension"
+msgstr "近战升级"
 
-msgid "options_chat_color_highlight_medium"
-msgstr ""
+msgid "interaction_tab_title_archery_extension"
+msgstr "箭术升级"
 
-msgid "options_chat_color_highlight_none"
-msgstr ""
+msgid "interaction_tab_title_barber"
+msgstr "理发师"
 
-msgid "options_chat_defaults_confirmation"
-msgstr ""
+msgid "interaction_tab_title_owned_vendor_sell"
+msgstr "购买"
 
-msgid "options_chat_enter_deactivates_chatmode"
-msgstr ""
+msgid "interaction_tab_title_owned_vendor_manage"
+msgstr "管理"
 
-msgid "options_chat_enter_deactivates_guimode"
-msgstr ""
+msgid "bindings_tab_title_gui"
+msgstr "Gui"
 
-msgid "options_chat_history_max_age"
+msgid "bindings_tab_title_movement"
 msgstr ""
 
-msgid "options_chat_history_max_lines"
-msgstr ""
+msgid "bindings_tab_title_interaction"
+msgstr "互动"
 
-msgid "options_chat_largescroller"
-msgstr ""
+msgid "bindings_tab_title_misc"
+msgstr "Misc"
 
-msgid "options_chat_max_views"
-msgstr ""
+msgid "bindings_tab_title_gmsonly"
+msgstr "只限GMs"
 
-msgid "options_chat_scroller_deftime"
-msgstr ""
+msgid "bindings_tab_title_debug"
+msgstr "调试"
 
-msgid "options_chat_scroller_fadeintime"
-msgstr ""
+msgid "bindings_tab_title_bindings"
+msgstr "/绑定"
 
-msgid "options_chat_scroller_fadeouttime"
-msgstr ""
+msgid "interaction_buy_total_label"
+msgstr "物品价格"
 
-msgid "options_chat_scroller_hpos"
-msgstr ""
+msgid "interaction_buy_button"
+msgstr "购买此物品"
 
-msgid "options_chat_scroller_maxlines"
-msgstr ""
+msgid "interaction_view_button"
+msgstr "查看"
 
-msgid "options_chat_scroller_mintime"
-msgstr ""
+msgid "interaction_change_weapon_button"
+msgstr "更换武器"
 
-msgid "options_chat_scroller_ordering"
-msgstr ""
+msgid "interaction_change_swap_weapon"
+msgstr "交换"
 
-msgid "options_chat_scroller_speeduphigh"
-msgstr ""
+msgid "interaction_change_buy_slot_button"
+msgstr "购买插槽"
 
-msgid "options_chat_scroller_speeduplow"
-msgstr ""
+msgid "interaction_repair_drag_here"
+msgstr "将物品拖到此处修复"
 
-msgid "options_chat_scroller_vpos"
-msgstr ""
+msgid "interaction_repair_total_label"
+msgstr "总修复费用"
 
-msgid "options_chat_scroller_width"
-msgstr ""
+msgid "interaction_repair_button"
+msgstr "修复这些物品"
 
-msgid "options_chat_smallscroller"
-msgstr ""
+msgid "interaction_sell_drag_here"
+msgstr "将商品拖到此处出售"
 
-msgid "options_chat_timestamps"
-msgstr ""
+msgid "interaction_sell_total_label"
+msgstr "物品总价格"
 
-msgid "options_chat_timestamps_seconds"
-msgstr ""
+msgid "interaction_sell_button"
+msgstr "出售这些物品"
 
-msgid "options_chat_view_max_age_unused"
-msgstr ""
+msgid "interaction_gmhelp_button"
+msgstr "GM帮助"
 
-msgid "options_chat_view_max_lines"
-msgstr ""
+msgid "interaction_gmreport_button"
+msgstr "GM报告"
 
-msgid "options_chat_view_reload_lines"
-msgstr ""
+msgid "interaction_barber_subtitle"
+msgstr "更改角色外观"
 
-msgid "options_clutterizer_mode_animating"
-msgstr ""
+msgid "interaction_barber_buy_features_button"
+msgstr "更改容貌"
 
-msgid "options_clutterizer_mode_fading"
-msgstr ""
+msgid "interaction_barber_cancel_button"
+msgstr "取消"
 
-msgid "options_debug_defaults_button_label"
-msgstr ""
+msgid "interaction_spell_extension_price_label"
+msgstr "延期价格:"
 
-msgid "options_debug_defaults_confirmation"
-msgstr ""
+msgid "interaction_service_total_label"
+msgstr "服务费用"
 
-msgid "options_default"
-msgstr ""
+msgid "interaction_service_button_buy"
+msgstr "购买此服务"
 
 msgid "options_gm_call"
-msgstr ""
-
-msgid "options_gui_active_window_opacity"
-msgstr ""
-
-msgid "options_gui_animation_speed"
-msgstr ""
-
-msgid "options_gui_auto_tooltip_duration"
-msgstr ""
-
-msgid "options_gui_buff_timer_display_in_seconds"
-msgstr ""
-
-msgid "options_gui_clipping_of_marker_labels_in_minimap"
-msgstr ""
-
-msgid "options_gui_clipping_of_marker_labels_in_worldmap"
-msgstr ""
-
-msgid "options_gui_cluttering_duration"
-msgstr ""
-
-msgid "options_gui_clutterizer"
-msgstr ""
-
-msgid "options_gui_confirm_batch_trash"
-msgstr ""
-
-msgid "options_gui_confirm_disable_hit_protection"
-msgstr ""
-
-msgid "options_gui_confirm_item_drop_on_ground"
-msgstr ""
-
-msgid "options_gui_confirm_item_drops"
-msgstr ""
-
-msgid "options_gui_confirm_purchases"
-msgstr ""
-
-msgid "options_gui_confirm_rebindings"
-msgstr ""
-
-msgid "options_gui_defaults_button_label"
-msgstr ""
-
-msgid "options_gui_defaults_confirmation"
-msgstr ""
-
-msgid "options_gui_gamemode_window_opacity"
-msgstr ""
-
-msgid "options_gui_history_recall"
-msgstr ""
-
-msgid "options_gui_hotbar_autocollapse"
-msgstr ""
-
-msgid "options_gui_identify_distant_targets"
-msgstr ""
-
-msgid "options_gui_inactive_window_opacity"
-msgstr ""
-
-msgid "options_gui_itemcounter_horizontal"
-msgstr ""
-
-msgid "options_gui_itemcounter_size"
-msgstr ""
-
-msgid "options_gui_scale"
-msgstr ""
-
-msgid "options_gui_show_buff_timers"
-msgstr ""
-
-msgid "options_gui_show_compass_window"
-msgstr ""
-
-msgid "options_gui_show_description_window"
-msgstr ""
-
-msgid "options_gui_show_tutorial_next_time"
-msgstr ""
-
-msgid "options_gui_tooltip_speed"
-msgstr ""
-
-msgid "options_gui_use_legacy_health_bar_party"
-msgstr ""
-
-msgid "options_gui_use_legacy_health_bar_targeting"
-msgstr ""
-
-msgid "options_hotbar_entry_auto_cast"
-msgstr ""
-
-msgid "options_hotbar_entry_charge_press"
-msgstr ""
-
-msgid "options_hotbar_entry_colulmn_choice"
-msgstr ""
-
-msgid "options_hotbar_entry_cycling_mode"
-msgstr ""
-
-msgid "options_hotbar_entry_help_text"
-msgstr ""
-
-msgid "options_hotbar_entry_item_label"
-msgstr ""
-
-msgid "options_hotbar_entry_trigger_release"
-msgstr ""
-
-msgid "options_input_defaults_button_label"
-msgstr ""
-
-msgid "options_input_defaults_confirmation"
-msgstr ""
-
-msgid "options_input_joystick_x_sensitivity"
-msgstr ""
-
-msgid "options_input_joystick_y_sensitivity"
-msgstr ""
-
-msgid "options_input_joystick_z_sensitivity"
-msgstr ""
-
-msgid "options_input_mouse_invert"
-msgstr ""
-
-msgid "options_input_mouse_smoothing_amount"
-msgstr ""
-
-msgid "options_input_mouse_smoothing_enabled"
-msgstr ""
-
-msgid "options_input_mouse_x_sensitivity"
-msgstr ""
-
-msgid "options_input_mouse_x_sensitivty_text"
-msgstr ""
-
-msgid "options_input_mouse_y_sensitivity"
-msgstr ""
-
-msgid "options_input_mouse_y_sensitivty_text"
-msgstr ""
-
-msgid "options_map_mini_title"
-msgstr ""
-
-msgid "options_map_world_title"
-msgstr ""
-
-msgid "options_maxfps"
-msgstr ""
-
-msgid "options_private_message_sound_enabled"
-msgstr ""
-
-msgid "options_quality_high"
-msgstr ""
-
-msgid "options_quality_low"
-msgstr ""
-
-msgid "options_quality_max"
-msgstr ""
-
-msgid "options_quality_medium"
-msgstr ""
-
-msgid "options_shader_version_default"
-msgstr ""
-
-msgid "options_shader_version_ps3"
-msgstr ""
-
-msgid "options_texture_filtering_anisotropic"
-msgstr ""
-
-msgid "options_texture_filtering_linear"
-msgstr ""
-
-msgid "options_texture_filtering_point"
-msgstr ""
-
-msgid "options_title_audio"
-msgstr ""
-
-msgid "options_title_bindings"
-msgstr ""
-
-msgid "options_title_chat"
-msgstr ""
-
-msgid "options_title_chat_view"
-msgstr ""
-
-msgid "options_title_chat_window"
-msgstr ""
-
-msgid "options_title_debug"
-msgstr ""
-
-msgid "options_title_gui"
-msgstr ""
-
-msgid "options_title_hotbar_entry"
-msgstr ""
+msgstr "GM帮助"
 
 msgid "options_title_input"
-msgstr ""
+msgstr "输入选项"
 
-msgid "options_title_tutorial"
-msgstr ""
+msgid "options_title_bindings"
+msgstr "输入绑定"
 
 msgid "options_title_video"
-msgstr ""
+msgstr "视频选项"
+
+msgid "options_title_audio"
+msgstr "音频选项"
+
+msgid "options_title_gui"
+msgstr "GUI选项"
+
+msgid "options_title_debug"
+msgstr "调试选项"
+
+msgid "options_title_chat"
+msgstr "聊天选项"
+
+msgid "options_title_chat_window"
+msgstr "'聊天窗口'%1'选项"
+
+msgid "options_title_chat_view"
+msgstr "聊天选项卡'%1'选项"
+
+msgid "options_title_hotbar_entry"
+msgstr "快捷栏条目选项"
 
 msgid "options_title_weapon_bar_entry"
-msgstr ""
+msgstr "武器栏条目选项"
 
-msgid "options_video_animation_reduction_per_meter"
-msgstr ""
+msgid "options_hotbar_entry_cycling_mode"
+msgstr "循环模式"
 
-msgid "options_video_animation_reduction_start"
-msgstr ""
+msgid "options_hotbar_entry_auto_cast"
+msgstr "自动施法"
 
-msgid "options_video_antialiasing_quality"
-msgstr ""
+msgid "options_hotbar_entry_trigger_release"
+msgstr "释放时触发"
 
-msgid "options_video_auto_optimize"
-msgstr ""
+msgid "options_hotbar_entry_charge_press"
+msgstr "按下时攻击"
 
-msgid "options_video_auto_optimize_target_fps"
-msgstr ""
+msgid "options_hotbar_entry_colulmn_choice"
+msgstr "快捷栏"
 
-msgid "options_video_defaults_confirmation"
-msgstr ""
+msgid "options_hotbar_entry_item_label"
+msgstr "项目:"
 
-msgid "options_video_display_mode"
-msgstr ""
+msgid "options_hotbar_entry_help_text"
+msgstr "右击项目以更改其指定的快捷栏"
 
-msgid "options_video_displaymodelist"
-msgstr ""
+msgid "options_input_mouse_x_sensitivty_text"
+msgstr "鼠标X轴灵敏度"
 
-msgid "options_video_enable_animation_reduction"
-msgstr ""
+msgid "options_input_mouse_y_sensitivty_text"
+msgstr "鼠标Y轴灵敏"
 
-msgid "options_video_enable_antialiasing"
-msgstr ""
+msgid "options_input_mouse_x_sensitivity"
+msgstr "%1"
 
-msgid "options_video_enable_character_shadows"
-msgstr ""
+msgid "options_input_mouse_y_sensitivity"
+msgstr "%1"
 
-msgid "options_video_enable_drop_shadows"
-msgstr ""
+msgid "options_input_mouse_smoothing_enabled"
+msgstr "启用鼠标平滑"
 
-msgid "options_video_enable_post_process_effects"
-msgstr ""
+msgid "options_input_mouse_smoothing_amount"
+msgstr "鼠标平滑量"
 
-msgid "options_video_enable_scenery_shadows"
-msgstr ""
+msgid "options_input_mouse_invert"
+msgstr "将鼠标Y轴转化为游戏模式"
 
-msgid "options_video_enable_shadows"
-msgstr ""
+msgid "options_input_joystick_x_sensitivity"
+msgstr "操纵杆X轴灵敏度"
 
-msgid "options_video_enable_triple_buffering"
-msgstr ""
+msgid "options_input_joystick_y_sensitivity"
+msgstr "操纵杆Y轴灵敏度"
 
-msgid "options_video_fov"
-msgstr ""
-
-msgid "options_video_gamma_correction"
-msgstr ""
+msgid "options_input_joystick_z_sensitivity"
+msgstr "操纵杆Z轴灵敏度"
 
 msgid "options_video_label_resolution"
-msgstr ""
+msgstr "屏幕分辨率"
 
-msgid "options_video_maxnumbloodstains"
-msgstr ""
+msgid "options_gui_animation_speed"
+msgstr "动画速度"
+
+msgid "options_gui_clutterizer"
+msgstr "淡出类型"
+
+msgid "options_gui_cluttering_duration"
+msgstr "淡出时间"
+
+msgid "options_gui_confirm_item_drops"
+msgstr "确认物品掉落"
+
+msgid "options_gui_confirm_item_drop_on_ground"
+msgstr "确认物品掉落在地面上"
+
+msgid "options_gui_confirm_batch_trash"
+msgstr "确认批量移动到垃圾箱"
+
+msgid "options_gui_confirm_purchases"
+msgstr "确认购买"
+
+msgid "options_gui_confirm_disable_hit_protection"
+msgstr "确认禁用生命保护"
+
+msgid "options_gui_confirm_rebindings"
+msgstr "确认密钥重新绑定"
+
+msgid "options_gui_history_recall"
+msgstr "将召回台词添加到历史记录"
+
+msgid "options_gui_tooltip_speed"
+msgstr "提示文本速度"
+
+msgid "options_gui_auto_tooltip_duration"
+msgstr "自动提示文本持续时间"
+
+msgid "options_gui_active_window_opacity"
+msgstr "活动窗口透明度"
+
+msgid "options_gui_inactive_window_opacity"
+msgstr "非活动窗口透明度"
+
+msgid "options_gui_gamemode_window_opacity"
+msgstr "游戏模式窗口透明度"
+
+msgid "options_gui_identify_distant_targets"
+msgstr "识别远处目标"
+
+msgid "options_gui_show_description_window"
+msgstr "显示描述窗口"
+
+msgid "options_gui_show_compass_window"
+msgstr "显示指南针窗口"
+
+msgid "options_gui_clipping_of_marker_labels_in_minimap"
+msgstr "在迷你地图中截取标记标签"
+
+msgid "options_gui_clipping_of_marker_labels_in_worldmap"
+msgstr "在世界地图中截取标记标签"
+
+msgid "options_gui_show_tutorial_next_time"
+msgstr "下次显示教程"
+
+msgid "options_gui_hotbar_autocollapse"
+msgstr "快捷栏自动折叠"
+
+msgid "options_gui_itemcounter_size"
+msgstr "物品柜台插槽"
+
+msgid "options_gui_itemcounter_horizontal"
+msgstr "水平物品柜台"
+
+msgid "options_gui_show_buff_timers"
+msgstr "显示buff计时器"
+
+msgid "options_gui_buff_timer_display_in_seconds"
+msgstr "buff计时器秒数显示"
+
+msgid "options_gui_use_legacy_health_bar_party"
+msgstr "使用压缩的队伍生命条"
+
+msgid "options_gui_use_legacy_health_bar_targeting"
+msgstr "使用压缩的目标生命条"
 
 msgid "options_video_maxnumdynamiclight"
-msgstr ""
+msgstr "最大动态光源:%1"
+
+msgid "options_video_maxnumbloodstains"
+msgstr "最大血迹数:%1"
 
 msgid "options_video_maxnumparticles"
-msgstr ""
+msgstr "最大粒子效果:%1"
+
+msgid "options_video_auto_optimize"
+msgstr "启用自动优化."
+
+msgid "options_video_auto_optimize_target_fps"
+msgstr "如果FPS低于%1将开始自动优化."
 
 msgid "options_video_object_clipping"
-msgstr ""
-
-msgid "options_video_object_clipping_max_function_value"
-msgstr ""
+msgstr "启用对象裁剪"
 
 msgid "options_video_object_clipping_max_size_to_clip"
-msgstr ""
+msgstr "裁剪对象的最大尺寸."
+
+msgid "options_video_object_clipping_max_function_value"
+msgstr "要剪裁的最大函数值(值越低=剪裁的机会越大)."
 
 msgid "options_video_object_min_distance_to_clip"
-msgstr ""
+msgstr "对象在可能被剪裁之前必须达到的最小距离."
 
-msgid "options_video_shader_version"
-msgstr ""
+msgid "options_video_enable_animation_reduction"
+msgstr "降低动画质量."
 
-msgid "options_video_shadow_quality"
-msgstr ""
+msgid "options_video_animation_reduction_start"
+msgstr "开始降低动画质量的最小距离."
 
-msgid "options_video_shadow_smoothing"
-msgstr ""
-
-msgid "options_video_texture_anisotropy_level"
-msgstr ""
-
-msgid "options_video_texture_filtering"
-msgstr ""
-
-msgid "options_video_texture_quality"
-msgstr ""
+msgid "options_video_animation_reduction_per_meter"
+msgstr "每米动画质量的降低."
 
 msgid "options_video_vegetation_area_size"
-msgstr ""
+msgstr "植被面积:%1"
 
 msgid "options_video_vegetation_density"
-msgstr ""
+msgstr "植被密度:%1"
+
+msgid "options_video_enable_triple_buffering"
+msgstr "启用三重缓冲."
 
 msgid "options_video_wait_for_vsync"
-msgstr ""
+msgstr "等待监视器上的垂直同步."
 
-msgid "options_window_title"
-msgstr ""
+msgid "options_video_enable_antialiasing"
+msgstr "启用反混叠."
 
-msgid "paperdoll_button_get_naked"
-msgstr ""
+msgid "options_video_antialiasing_quality"
+msgstr "反混叠质量:%1"
 
-msgid "paperdoll_button_refresh"
-msgstr ""
+msgid "options_video_gamma_correction"
+msgstr "灰度校正:%1"
 
-msgid "paperdoll_item_attached_at"
-msgstr ""
+msgid "options_video_enable_shadows"
+msgstr "启用阴影."
 
-msgid "paperdoll_label_equipment_tier"
-msgstr ""
+msgid "options_video_enable_scenery_shadows"
+msgstr "启用风景阴影."
 
-msgid "paperdoll_label_figurine"
-msgstr ""
+msgid "options_video_enable_character_shadows"
+msgstr "启用角色阴影."
 
-msgid "paperdoll_label_loot_bag"
-msgstr ""
+msgid "options_video_shadow_quality"
+msgstr "选择阴影质量"
 
-msgid "paperdoll_label_rune_book"
-msgstr ""
+msgid "options_video_shadow_smoothing"
+msgstr "选择阴影平滑的质量"
 
-msgid "paperdoll_label_weapon_bar"
-msgstr ""
+msgid "options_video_enable_drop_shadows"
+msgstr "启用投下阴影"
 
-msgid "paperdoll_tabs_clan"
-msgstr ""
+msgid "options_video_shader_version"
+msgstr "选择着色器版本"
 
-msgid "paperdoll_tabs_effects"
-msgstr ""
+msgid "options_video_texture_quality"
+msgstr "选择纹理质量(默认为推荐)"
 
-msgid "paperdoll_tabs_paperdoll"
-msgstr ""
+msgid "options_video_texture_filtering"
+msgstr "选择纹理过滤"
 
-msgid "paperdoll_tabs_research"
-msgstr ""
+msgid "options_video_texture_anisotropy_level"
+msgstr "选择纹理各向异性级别"
 
-msgid "paperdoll_tabs_skins"
-msgstr ""
+msgid "options_video_enable_post_process_effects"
+msgstr "启用后期处理效果."
 
-msgid "paperdoll_tabs_titles"
-msgstr ""
+msgid "options_video_display_mode"
+msgstr "选择显示模式"
 
-msgid "paragraph_break"
-msgstr ""
+msgid "options_gui_scale"
+msgstr "GUI比例%:%1"
 
-msgid "playerstats_armor_penalties"
-msgstr ""
+msgid "options_video_fov"
+msgstr "视野:%1"
 
-msgid "playerstats_base_attributes"
-msgstr ""
+msgid "options_video_displaymodelist"
+msgstr "选择显示分辨率."
 
-msgid "playerstats_protections"
-msgstr ""
+msgid "options_audio_maxnum3dsounds"
+msgstr "最大3D声音:%1"
 
-msgid "progressbar_tooltip"
-msgstr ""
+msgid "options_audio_ambience_sound_volume"
+msgstr "环境音量:%1"
 
-msgid "prompt_item_split_quantity_label"
-msgstr ""
+msgid "options_audio_hitsound_enabled"
+msgstr "启用击打音效."
 
-msgid "prompt_item_split_title"
-msgstr ""
+msgid "options_private_message_sound_enabled"
+msgstr "启用私人消息声音."
 
-msgid "quest_reward"
-msgstr ""
+msgid "options_audio_sound_volume"
+msgstr "主音量:%1"
 
-msgid "quest_rewards"
-msgstr ""
+msgid "options_chat_timestamps"
+msgstr "显示时间戳"
 
-msgid "quit_button"
-msgstr ""
+msgid "options_chat_timestamps_seconds"
+msgstr "在时间戳中显示秒数"
 
-msgid "quit_dialog_description"
-msgstr ""
+msgid "options_chat_enter_deactivates_guimode"
+msgstr "在GUI模式下停用聊天编辑器"
 
-msgid "quit_dialog_no_button"
-msgstr ""
+msgid "options_chat_enter_deactivates_chatmode"
+msgstr "在聊天模式下停用聊天编辑器"
 
-msgid "quit_dialog_title"
-msgstr ""
+msgid "options_chat_activate_new_tabs"
+msgstr "激活新创建的选项卡"
 
-msgid "quit_dialog_yes_button"
-msgstr ""
+msgid "options_chat_max_views"
+msgstr "显示最多%1个标签"
 
-msgid "race_alfar"
-msgstr ""
+msgid "options_chat_view_reload_lines"
+msgstr "包含上次登录的%1条聊天消息"
 
-msgid "race_dwarf"
-msgstr ""
+msgid "options_chat_view_max_lines"
+msgstr "在每个选项卡中最多显示%1行"
 
-msgid "race_human"
-msgstr ""
+msgid "options_chat_view_max_age_unused"
+msgstr "记住%1天的聊天选项卡"
 
-msgid "race_mahirim"
-msgstr ""
+msgid "options_chat_history_max_lines"
+msgstr "在聊天记录中最多保留%1行"
 
-msgid "race_mirdain"
-msgstr ""
+msgid "options_chat_history_max_age"
+msgstr "删除超过%1天的历史条目"
 
-msgid "race_ork"
-msgstr ""
+msgid "options_chat_color_highlight_none"
+msgstr "选项卡文本颜色(未突出显示)"
 
-msgid "research_drag_schematic_here_description"
-msgstr ""
+msgid "options_chat_color_highlight_low"
+msgstr "标签文本颜色(低重要性)"
 
-msgid "research_item_tier"
-msgstr ""
+msgid "options_chat_color_highlight_medium"
+msgstr "标签文本颜色(中等重要性)"
 
-msgid "research_item_tier_too_low"
-msgstr ""
+msgid "options_chat_color_highlight_high"
+msgstr "标签文本颜色(高度重要性)"
 
-msgid "research_max_time"
-msgstr ""
+msgid "options_chat_smallscroller"
+msgstr "小文本滚动条"
 
-msgid "research_maxed_out"
-msgstr ""
+msgid "options_chat_largescroller"
+msgstr "大文字滚动条"
 
-msgid "research_projected_level"
-msgstr ""
+msgid "options_chat_scroller_hpos"
+msgstr "以百分比表示的水平位置"
 
-msgid "research_projected_tier"
-msgstr ""
+msgid "options_chat_scroller_vpos"
+msgstr "以百分比表示的垂直位置"
 
-msgid "research_queue_count"
-msgstr ""
+msgid "options_chat_scroller_width"
+msgstr "像素宽度"
 
-msgid "research_queued_time"
-msgstr ""
+msgid "options_chat_scroller_maxlines"
+msgstr "最大可见行数"
 
-msgid "research_research_time"
-msgstr ""
+msgid "options_chat_scroller_fadeintime"
+msgstr "淡入时间"
 
-msgid "research_skill"
-msgstr ""
+msgid "options_chat_scroller_fadeouttime"
+msgstr "淡出时间"
 
-msgid "research_skill_and_tier"
-msgstr ""
+msgid "options_chat_scroller_mintime"
+msgstr "最小显示时间"
 
-msgid "research_skill_to_train"
-msgstr ""
+msgid "options_chat_scroller_deftime"
+msgstr "默认显示时间"
 
-msgid "research_start"
-msgstr ""
+msgid "options_chat_scroller_ordering"
+msgstr "颠倒台词顺序"
 
-msgid "research_time"
-msgstr ""
+msgid "options_chat_scroller_speeduplow"
+msgstr "当队列超过%1消息时加快滚动速度"
 
-msgid "right_arrow"
-msgstr ""
+msgid "options_chat_scroller_speeduphigh"
+msgstr "当队列超过%1条消息时使用最小显示时间"
 
-msgid "screen05_button_check_name"
-msgstr ""
+msgid "options_map_mini_title"
+msgstr "迷你地图选项"
 
-msgid "screen05_button_generate"
-msgstr ""
-
-msgid "screen05_first_name"
-msgstr ""
-
-msgid "screen05_last_name"
-msgstr ""
-
-msgid "screen05_title"
-msgstr ""
-
-msgid "screen06_points_left"
-msgstr ""
-
-msgid "screen06_title"
-msgstr ""
-
-msgid "screen07_general_skills"
-msgstr ""
-
-msgid "screen07_race_skills"
-msgstr ""
-
-msgid "screen07_title"
-msgstr ""
-
-msgid "screen08_race_spells"
-msgstr ""
-
-msgid "screen08_title"
-msgstr ""
-
-msgid "screen09_title"
-msgstr ""
-
-msgid "screen10_title"
-msgstr ""
-
-msgid "screen1_create_new_character"
-msgstr ""
-
-msgid "screen2_select_race"
-msgstr ""
-
-msgid "screen3_select_gender"
-msgstr ""
-
-msgid "screen4_appearance_none"
-msgstr ""
-
-msgid "screen4_select_appearance"
-msgstr ""
-
-msgid "selector_of"
-msgstr ""
-
-msgid "skill_advancement_rate"
-msgstr ""
-
-msgid "skill_importance"
-msgstr ""
-
-msgid "skills_by_preset_order"
-msgstr ""
-
-msgid "skills_flat_display"
-msgstr ""
+msgid "options_map_world_title"
+msgstr "世界地图选项"
 
 msgid "skills_hierarchical_display"
-msgstr ""
+msgstr "分层显示"
+
+msgid "skills_by_preset_order"
+msgstr "按预设顺序"
 
 msgid "skills_ordered_alphabetically"
-msgstr ""
+msgstr "按字母顺序排列"
 
 msgid "skills_ordered_by_level"
-msgstr ""
+msgstr "按级别排序"
 
-msgid "skills_window_title"
-msgstr ""
+msgid "skills_flat_display"
+msgstr "平面显示"
 
-msgid "slot_position_eight"
-msgstr ""
-
-msgid "slot_position_five"
-msgstr ""
-
-msgid "slot_position_four"
-msgstr ""
-
-msgid "slot_position_nine"
-msgstr ""
-
-msgid "slot_position_none"
-msgstr ""
-
-msgid "slot_position_one"
-msgstr ""
-
-msgid "slot_position_seven"
-msgstr ""
-
-msgid "slot_position_six"
-msgstr ""
-
-msgid "slot_position_ten"
-msgstr ""
-
-msgid "slot_position_three"
-msgstr ""
-
-msgid "slot_position_two"
-msgstr ""
-
-msgid "space"
-msgstr ""
-
-msgid "spells_window_title"
-msgstr ""
+msgid "health"
+msgstr "生命"
 
 msgid "stamina"
-msgstr ""
+msgstr "耐力"
 
-msgid "start"
-msgstr ""
+msgid "mana"
+msgstr "法力"
 
-msgid "start_button"
-msgstr ""
-
-msgid "supreme_general"
-msgstr ""
+msgid "alignment"
+msgstr "正义"
 
 msgid "target_health"
-msgstr ""
-
-msgid "task_countdown_available"
-msgstr ""
-
-msgid "task_countdown_reset"
-msgstr ""
-
-msgid "task_rare_rewards"
-msgstr ""
-
-msgid "task_repeatable"
-msgstr ""
-
-msgid "task_rewards"
-msgstr ""
-
-msgid "task_stage"
-msgstr ""
-
-msgid "task_stage_completed"
-msgstr ""
-
-msgid "task_stage_current"
-msgstr ""
-
-msgid "task_target"
-msgstr ""
-
-msgid "task_time_days_hours_minutes"
-msgstr ""
-
-msgid "task_time_hours_minutes"
-msgstr ""
-
-msgid "task_title_rewards"
-msgstr ""
-
-msgid "tasks"
-msgstr ""
-
-msgid "tasks_filter_label"
-msgstr ""
-
-msgid "tasks_show_in_tracker"
-msgstr ""
-
-msgid "tasks_show_tracker"
-msgstr ""
-
-msgid "teleportation_window_title"
-msgstr ""
-
-msgid "territory_control_window_title"
-msgstr ""
-
-msgid "titles_change_confirm_dialog_description"
-msgstr ""
-
-msgid "titles_change_confirm_dialog_title"
-msgstr ""
-
-msgid "titles_prefix"
-msgstr ""
-
-msgid "titles_suffix"
-msgstr ""
-
-msgid "tooltip_item_no_requirements"
-msgstr ""
-
-msgid "tooltip_item_property"
-msgstr ""
-
-msgid "tooltip_item_requirement"
-msgstr ""
-
-msgid "tooltip_item_requirements"
-msgstr ""
-
-msgid "tooltip_item_skill_base_cooldown"
-msgstr ""
-
-msgid "tooltip_item_skill_gold_cost"
-msgstr ""
-
-msgid "tooltip_item_skill_level"
-msgstr ""
-
-msgid "tooltip_item_skill_mana"
-msgstr ""
-
-msgid "tooltip_item_skill_next_use"
-msgstr ""
-
-msgid "tooltip_item_skill_stamina"
-msgstr ""
-
-msgid "trading_other_player_has_accepted"
-msgstr ""
-
-msgid "trading_other_player_offers"
-msgstr ""
-
-msgid "trading_overweight_clue_description"
-msgstr ""
-
-msgid "trading_overweight_clue_title"
-msgstr ""
-
-msgid "trading_window_title"
-msgstr ""
-
-msgid "treasuremap_window_title"
-msgstr ""
-
-msgid "true"
-msgstr ""
-
-msgid "unbound"
-msgstr ""
-
-msgid "vital_stats_dialog_alignment"
-msgstr ""
-
-msgid "vital_stats_dialog_health"
-msgstr ""
-
-msgid "vital_stats_dialog_mana"
-msgstr ""
-
-msgid "vital_stats_dialog_resizing"
-msgstr ""
-
-msgid "vital_stats_dialog_stamina"
-msgstr ""
-
-msgid "vital_stats_display_modes_blank"
-msgstr ""
-
-msgid "vital_stats_display_modes_percentage_only"
-msgstr ""
-
-msgid "vital_stats_display_modes_value_and_percentage"
-msgstr ""
-
-msgid "vital_stats_display_modes_value_only"
-msgstr ""
-
-msgid "vital_stats_display_modes_value_over_max"
-msgstr ""
-
-msgid "vitalstats_options_description"
-msgstr ""
-
-msgid "vitalstats_options_display_alignement_bar"
-msgstr ""
-
-msgid "vitalstats_options_display_char_name"
-msgstr ""
-
-msgid "vitalstats_options_display_health_bar"
-msgstr ""
-
-msgid "vitalstats_options_display_mana_bar"
-msgstr ""
-
-msgid "vitalstats_options_display_stamina_bar"
-msgstr ""
-
-msgid "vitalstats_options_text_type"
-msgstr ""
-
-msgid "vitalstats_options_window_title"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_add_filter_button"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_general_tooltip_line_1"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_general_tooltip_line_2"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_general_tooltip_line_3"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_general_tooltip_line_4"
-msgstr ""
-
-msgid "weapon_bar_auto_equip_config_general_tooltip_line_5"
-msgstr ""
+msgstr "目标生命值"
 
-msgid "weapon_bar_auto_equip_config_load_preset_button"
+msgid "main_menu_window_title"
 msgstr ""
 
-msgid "weapon_bar_binding_description"
-msgstr ""
-
-msgid "weapon_bar_emptybutton_tooltip1"
-msgstr ""
-
-msgid "weapon_bar_emptybutton_tooltip2"
-msgstr ""
-
-msgid "weapon_bar_entry_dialog_title"
-msgstr ""
-
-msgid "weapon_bar_entry_settings_button_tooltip_description"
-msgstr ""
-
-msgid "weapon_bar_entry_settings_button_tooltip_title"
-msgstr ""
-
-msgid "weapon_bar_options_dialog_trigger_on_switch_tooltip"
-msgstr ""
-
-msgid "weapon_bar_paperdoll_label_tooltip"
-msgstr ""
-
-msgid "weapon_bar_paperdoll_label_tooltip_title"
-msgstr ""
-
-msgid "weapon_bar_paperdoll_label_tooltip_warning"
-msgstr ""
-
-msgid "weapon_bar_paperdoll_label_tooltip_warning2"
-msgstr ""
-
-msgid "weapon_bar_paperdoll_label_tooltip_warning3"
-msgstr ""
-
-msgid "weapon_bar_slot_option_enable_auto_equip"
-msgstr ""
-
-msgid "weapon_bar_slot_option_switch_hotbar_column"
-msgstr ""
-
-msgid "weapon_bar_slot_option_trigger_hotbar_slot"
-msgstr ""
-
-msgid "weapon_bar_slot_option_trigger_hotbar_slot_column"
-msgstr ""
-
-msgid "weapon_bar_slot_option_trigger_hotbar_slot_on_weapon_change"
-msgstr ""
+msgid "backpack_window_title"
+msgstr "背包"
 
-msgid "weapon_bar_slot_option_trigger_hotbar_slot_row"
-msgstr ""
-
-msgid "window_close_tooltip"
-msgstr ""
+msgid "boards_window_title"
+msgstr "通知板"
 
-msgid "window_opacity_tooltip"
-msgstr ""
+msgid "clans_window_title"
+msgstr "公会"
 
-msgid "window_options_tooltip"
-msgstr ""
+msgid "help_window_title"
+msgstr "帮助"
 
-msgid "window_sticky_tooltip"
-msgstr ""
+msgid "journal_window_title"
+msgstr "日志"
 
-msgid "window_title_gmcall"
-msgstr ""
+msgid "chat_window_title"
+msgstr "聊天"
 
-msgid "window_title_playerstats"
-msgstr ""
+msgid "minimap_window_title"
+msgstr "迷你地图 (%1)"
 
-msgid "working_progress_crafting"
-msgstr ""
+msgid "options_window_title"
+msgstr "选项"
 
-msgid "working_progress_harvesting"
-msgstr ""
+msgid "skills_window_title"
+msgstr "技能"
 
-msgid "working_progress_skinning"
-msgstr ""
+msgid "spells_window_title"
+msgstr "法术"
 
 msgid "worldmap_window_title"
-msgstr ""
+msgstr "世界地图 (%1)"
 
-msgid "yes"
-msgstr ""
+msgid "interaction_window_title"
+msgstr "售货商"
+
+msgid "crafting_window_title"
+msgstr "制作"
+
+msgid "enchanting_window_title"
+msgstr "附魔"
+
+msgid "craft_prompt_window_title"
+msgstr "选择制作技能"
+
+msgid "working_progress_crafting"
+msgstr "制作中…"
+
+msgid "working_progress_harvesting"
+msgstr "收获中…"
+
+msgid "working_progress_skinning"
+msgstr "剥皮中…"
+
+msgid "trading_window_title"
+msgstr "玩家交易"
+
+msgid "trading_overweight_clue_title"
+msgstr "惩戒指示"
+
+msgid "trading_overweight_clue_description"
+msgstr "如果您接受此交易您将携带%1千克货物.超过%2千克就会惩戒你."
+
+msgid "citybuilding_window_title"
+msgstr "城市建筑"
+
+msgid "territory_control_window_title"
+msgstr "领土控制"
+
+msgid "teleportation_window_title"
+msgstr "传送花费%1金币"
+
+msgid "treasuremap_window_title"
+msgstr "藏宝图"
+
+msgid "conquest_window_title"
+msgstr "征服"
+
+msgid "conquest_label_no_challenges"
+msgstr "目前没有活跃挑战显示!这里只显示你直接参与的活跃挑战!"
+
+msgid "conquest_attack_challenge_phase_name_label"
+msgstr "阶段:"
+
+msgid "conquest_attack_challenge_defender_clan_name_label"
+msgstr "公会:"
+
+msgid "conquest_attack_challenge_defender_walls_label"
+msgstr "要摧毁的墙:"
+
+msgid "conquest_attack_challenge_attacker_count_label"
+msgstr "攻击兵力:"
+
+msgid "conquest_attack_challenge_attacker_stones_label"
+msgstr "你的攻城石:"
+
+msgid "conquest_defence_challenge_defender_walls_label"
+msgstr "进攻者要摧毁的墙:"
+
+msgid "not_attachable"
+msgstr "不可附加"
+
+msgid "not_attached"
+msgstr "未附加"
+
+msgid "key_modifiers_delimiter"
+msgstr "+"
+
+msgid "window_close_tooltip"
+msgstr "关闭"
+
+msgid "window_sticky_tooltip"
+msgstr "置顶"
+
+msgid "window_options_tooltip"
+msgstr "选项"
+
+msgid "window_opacity_tooltip"
+msgstr "透明度"
+
+msgid "skill_advancement_rate"
+msgstr "技能提升率"
+
+msgid "skill_importance"
+msgstr "技能重要性"
+
+msgid "hotbar_leftarrow_tooltip"
+msgstr "前一列"
+
+msgid "hotbar_rightarrow_tooltip"
+msgstr "下一列"
+
+msgid "hotbar_colnumber_tooltip"
+msgstr "当前列"
+
+msgid "hotbar_emptybutton_tooltip1"
+msgstr "空快捷键"
+
+msgid "hotbar_emptybutton_tooltip2"
+msgstr "在这里拖放一个项目,使其可以通过快捷栏访问."
+
+msgid "hotbar_empty_selected_skill_tooltip1"
+msgstr "未选择技能."
+
+msgid "hotbar_empty_selected_skill_tooltip2"
+msgstr "选择一个技能,然后回到这里获取您所选技能的描述."
+
+msgid "hotbar_entry_closebutton_tooltip1"
+msgstr "关闭按钮"
+
+msgid "hotbar_entry_closebutton_tooltip2"
+msgstr "关闭快捷键插槽配置模式"
+
+msgid "hotbar_entry_settingbutton_tooltip1"
+msgstr "插槽设置"
+
+msgid "hotbar_entry_settingbutton_tooltip2"
+msgstr "开此快捷栏插槽的设置"
+
+msgid "hotbar_entry_options_dialog_force_switch"
+msgstr "如果启用,即使当前装备的武器属于相同类型(例如,都是法杖),也将装备此武器. 一个Blackbolt将会被Cobrastaff取代,但是一个Blackbolt不会被另一个Blackbolt取代."
+
+msgid "weapon_bar_emptybutton_tooltip1"
+msgstr "空武器栏按钮"
+
+msgid "weapon_bar_emptybutton_tooltip2"
+msgstr "将一个项目拖放到此处,使其可以通过武器栏访问."
+
+msgid "weapon_bar_paperdoll_label_tooltip_title"
+msgstr "武器栏"
+
+msgid "weapon_bar_paperdoll_label_tooltip"
+msgstr "将项目拖放到武器栏上,并设置快速访问的热键."
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning"
+msgstr "警告:武器栏上的物品遵循标准"
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning2"
+msgstr "loot规则.将其放在武器栏上"
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning3"
+msgstr "不算是将武器装备在身上!"
+
+msgid "weapon_bar_entry_settings_button_tooltip_title"
+msgstr "插槽设置"
+
+msgid "weapon_bar_entry_settings_button_tooltip_description"
+msgstr "打开此武器栏插槽的设置"
+
+msgid "weapon_bar_options_dialog_trigger_on_switch_tooltip"
+msgstr "如果启用,将在更换武器后立即选择技能.否则,将需要再次按下."
+
+msgid "vitalstats_options_window_title"
+msgstr "状态栏窗口选项"
+
+msgid "vitalstats_options_display_char_name"
+msgstr "显示角色名称"
+
+msgid "vitalstats_options_display_health_bar"
+msgstr "显示生命值条"
+
+msgid "vitalstats_options_display_stamina_bar"
+msgstr "显示耐力值条"
+
+msgid "vitalstats_options_display_mana_bar"
+msgstr "显示法力值条"
+
+msgid "vitalstats_options_display_alignement_bar"
+msgstr "显示正义值条"
+
+msgid "vitalstats_options_text_type"
+msgstr "文本类型"
+
+msgid "vitalstats_options_description"
+msgstr "要调整状态栏窗口的大小,只需拖动其中一个角."
+
+msgid "mainmenu_paperdoll"
+msgstr "角色"
+
+msgid "mainmenu_titles"
+msgstr "称号"
+
+msgid "mainmenu_boards"
+msgstr "通知板"
+
+msgid "mainmenu_worldmap"
+msgstr "世界地图"
+
+msgid "mainmenu_vitalstats"
+msgstr "状态"
+
+msgid "mainmenu_minimap"
+msgstr "迷你地图"
+
+msgid "mainmenu_chat"
+msgstr "聊天"
+
+msgid "mainmenu_backpack"
+msgstr "背包"
+
+msgid "mainmenu_help"
+msgstr "帮助"
+
+msgid "mainmenu_gmcall"
+msgstr "GM帮助"
+
+msgid "mainmenu_skills"
+msgstr "技能"
+
+msgid "mainmenu_hotbar"
+msgstr "快捷栏"
+
+msgid "mainmenu_spells"
+msgstr "法术"
+
+msgid "mainmenu_hotkeys"
+msgstr "热键"
+
+msgid "mainmenu_journal"
+msgstr "日志"
+
+msgid "mainmenu_options"
+msgstr "选项"
+
+msgid "mainmenu_clans"
+msgstr "公会"
+
+msgid "mainmenu_conquest"
+msgstr "征服"
+
+msgid "mainmenu_quit"
+msgstr "退出"
+
+msgid "mainmenu_playerstats"
+msgstr "玩家状态栏"
+
+msgid "mainmenu_startbutton_tooltip"
+msgstr "单击显示/隐藏.拖拽移动"
+
+msgid "options_binding_defaults_confirmation"
+msgstr "确定要将所有绑定重置为默认值吗?"
+
+msgid "options_binding_info"
+msgstr "双击动作绑定键以更改绑定.\r\n'Delete'解除绑定操作."
+
+msgid "options_binding_defaults_button_label"
+msgstr "默认值"
+
+msgid "options_input_defaults_confirmation"
+msgstr "确定要将所有输入设置重置为默认设置吗?"
+
+msgid "options_input_defaults_button_label"
+msgstr "默认值"
+
+msgid "options_gui_defaults_confirmation"
+msgstr "确定要将所有GUI设置重置为默认设置吗?"
+
+msgid "options_gui_defaults_button_label"
+msgstr "默认值"
+
+msgid "options_debug_defaults_confirmation"
+msgstr "确定要将所有调试设置重置为默认设置吗?"
+
+msgid "options_debug_defaults_button_label"
+msgstr "默认值"
+
+msgid "options_chat_defaults_confirmation"
+msgstr "确定要将所有聊天设置重置为默认设置吗?"
+
+msgid "options_video_defaults_confirmation"
+msgstr "确定要将所有视频设置重置为默认设置吗?"
+
+msgid "options_audio_defaults_confirmation"
+msgstr "确定要将所有音频设置重置为默认设置吗?"
+
+msgid "crafting_items_label_text"
+msgstr "物品:"
+
+msgid "crafting_recipe_label_text"
+msgstr "成份:"
+
+msgid "crafting_chances_label_text"
+msgstr "成功几率:"
+
+msgid "crafting_amount_label_text"
+msgstr "金额:"
+
+msgid "crafting_create_button_text"
+msgstr "创建"
+
+msgid "crafting_all_button_text"
+msgstr "最大值"
+
+msgid "enchanting_enchant_button_text"
+msgstr "附魔"
+
+msgid "prompt_item_split_title"
+msgstr "拆分物品"
+
+msgid "prompt_item_split_quantity_label"
+msgstr "数量:"
+
+msgid "chat_clan_cmd_create_clan"
+msgstr "创建公会"
+
+msgid "chat_clan_cmd_create_clan_param1"
+msgstr "公会名称"
+
+msgid "chat_clan_cmd_change_accesslevel"
+msgstr "更改访问级别"
+
+msgid "chat_clan_cmd_change_accesslevel_p1"
+msgstr "访问级别"
+
+msgid "chat_city_cmd_create_city"
+msgstr "创建城市"
+
+msgid "chat_city_cmd_create_city_p1"
+msgstr "城市名称"
+
+msgid "chat_entry_user"
+msgstr "(玩家) %1: %2"
+
+msgid "chat_entry_system_param_eq_value"
+msgstr " %1的值是%2"
+
+msgid "chat_entry_error"
+msgstr "(错误) %1"
+
+msgid "chat_entry_error_with_context"
+msgstr "(错误) %2: %1"
+
+msgid "tooltip_item_property"
+msgstr "%1:%2"
+
+msgid "tooltip_item_skill_level"
+msgstr "技能等级:%1"
+
+msgid "tooltip_item_skill_mana"
+msgstr "法力:%1"
+
+msgid "tooltip_item_skill_stamina"
+msgstr "耐力:%1"
+
+msgid "tooltip_item_skill_gold_cost"
+msgstr "花费金币:%1"
+
+msgid "tooltip_item_skill_base_cooldown"
+msgstr "基本冷却时间:%1"
+
+msgid "tooltip_item_skill_next_use"
+msgstr "下一次使用:%1"
+
+msgid "tooltip_item_requirement"
+msgstr "%2+ %1"
+
+msgid "tooltip_item_requirements"
+msgstr "要求:"
+
+msgid "tooltip_item_no_requirements"
+msgstr "无要求"
+
+msgid "chat_error_syntax"
+msgstr "句法错误"
+
+msgid "chat_error_unknown_command"
+msgstr "未知命令: %1"
+
+msgid "chat_help_numericparam_desc"
+msgstr "默认值=%1,最小值=%1,最大值=%1"
+
+msgid "chat_help_nonnumericparam_desc"
+msgstr "默认值=%1"
+
+msgid "chat_error_propval_belowmin"
+msgstr "属性值%1低于最小值(%2)"
+
+msgid "chat_error_propval_abovemax"
+msgstr "属性值%1大于最大值(%2)"
+
+msgid "chat_sys_skill_succeeded"
+msgstr "技能成功"
+
+msgid "chat_sys_skill_failed"
+msgstr "技能失败"
+
+msgid "chat_sys_vendor_succeeded"
+msgstr "售货商操作成功"
+
+msgid "chat_sys_vendor_failed"
+msgstr "售货商操作失败"
+
+msgid "chat_resource_2d_response_result"
+msgstr "2D资源响应结果"
+
+msgid "chat_scenegraph_2d_response_result"
+msgstr "scenegraph_2D_response_result"
+
+msgid "chat_error_extraparam"
+msgstr "多余的参数 '%1'"
+
+msgid "chat_error_parsingparam"
+msgstr "无法将值'%1'分配给命令'4%'的%3参数'2%'"
+
+msgid "chat_error_insuffparam"
+msgstr "预期的2%参数'%1'"
+
+msgid "chat_help_indented_line"
+msgstr "帮助:%1"
+
+msgid "chat_cmd_help_error_unknowncommand"
+msgstr "帮助:未知命令:'%1'"
+
+msgid "chat_cmd_help_error_no_command_starts_with"
+msgstr "帮助:没有命令以'%1'开头"
+
+msgid "chat_cmd_help_cmddesc"
+msgstr "%1: %2"
+
+msgid "chat_cmd_help_cmdparamline"
+msgstr "       %1 %2 (%3) %4"
+
+msgid "chat_help_cmd_param_optional"
+msgstr " (可选择的)"
+
+msgid "chat_help_type_boolean"
+msgstr "布尔值"
+
+msgid "chat_help_type_double"
+msgstr "双倍"
+
+msgid "chat_help_type_float"
+msgstr "浮点"
+
+msgid "chat_help_type_integer"
+msgstr "整数"
+
+msgid "chat_help_type_string"
+msgstr "字符串"
+
+msgid "chat_rendering_2d_response_result"
+msgstr "呈现引擎2D响应结果"
+
+msgid "distance_meters"
+msgstr "%1m"
+
+msgid "distance_kilometers"
+msgstr "%1km"
+
+msgid "paperdoll_item_attached_at"
+msgstr "附加到%1"
+
+msgid "inventory_item_drop_confirmation"
+msgstr "确定要销毁%1吗?"
+
+msgid "inventory_item_split_drop_confirmation"
+msgstr "确定要销毁%2%1吗?"
+
+msgid "inventory_batch_delete_confirmation"
+msgstr "您确定要批量销毁%1吗?"
+
+msgid "inventory_batch_move_cooldown_error"
+msgstr "您需要等待,然后再次使用批量移动"
+
+msgid "inventory_item_drop_on_ground_confirmation"
+msgstr "您确定要将%1放在地面上吗?"
+
+msgid "inventory_item_split_drop_on_ground_confirmation"
+msgstr "您确定要将%2%1扔在地面上吗?"
+
+msgid "inventory_item_drop_on_ground_failed"
+msgstr "无法将物品放在地面上"
+
+msgid "interaction_buy_purchase_confirmation"
+msgstr "您确定要花费%3购买%2(x%1)吗?"
+
+msgid "interaction_buy_skill_confirmation"
+msgstr "您确定要花费%2购买%1吗?"
+
+msgid "interaction_change_weapon_confirmation"
+msgstr "是否要将%1与%2替换为%3?"
+
+msgid "interaction_buy_slot_confirmation"
+msgstr "您是否要为%2购买新的永久插槽和%1?"
+
+msgid "interaction_change_weapon_select_item"
+msgstr "必须选择一件物品"
+
+msgid "interaction_change_weapon_unequip_item"
+msgstr "在替换武器之前,你需要卸下启动武器."
+
+msgid "interaction_change_weapon_money"
+msgstr "您没有足够的金币.所需的数量是:%1"
+
+msgid "interaction_change_weapon_dupe_item"
+msgstr "物品已经在库存中"
+
+msgid "interaction_change_weapon_not_legendary"
+msgstr "你不是一个传奇的创始人."
+
+msgid "interaction_disable_hit_protection"
+msgstr "您确定要禁用生命保护吗?一旦失效,你将在主城地区攻击其他蓝色玩家,这将导致你变成流氓!"
+
+msgid "interaction_paid_holding_maintenance"
+msgstr "已支付维护费用"
+
+msgid "interaction_spell_extension_allow_jumping"
+msgstr "使用法术时允许跳跃"
+
+msgid "interaction_spell_extension_extra_damage"
+msgstr "法术造成%1%额外伤害"
+
+msgid "interaction_spell_extension_faster_missile"
+msgstr "将发射速度提高%1%"
+
+msgid "interaction_spell_extension_allow_longer_max_travel"
+msgstr "将发射范围增加%1%"
+
+msgid "interaction_skill_extension_allow_jumping"
+msgstr "在使用技能时允许跳跃"
+
+msgid "interaction_skill_extension_extra_damage"
+msgstr "技能造成%1%额外伤害"
+
+msgid "interaction_skill_extension_faster_missile"
+msgstr "将发射速度提高%1%"
+
+msgid "interaction_skill_extension_allow_longer_max_travel"
+msgstr "将发射范围增加%1%"
+
+msgid "money"
+msgstr "%1 金币"
+
+msgid "options_binding_prompt_switch"
+msgstr "options_binding_prompt_switch"
+
+msgid "options_binding_prompt_linear"
+msgstr "options_binding_prompt_linear"
+
+msgid "options_binding_prompt_timeout"
+msgstr "options_binding_prompt_timeout"
+
+msgid "backpack_weight_title"
+msgstr "%3: %1 / %2"
+
+msgid "progressbar_tooltip"
+msgstr "%3: %1 / %2"
+
+msgid "alignmentbar_tooltip"
+msgstr "%3: %1 / %2"
+
+msgid "minimap_character_coordinates"
+msgstr "%1' %2'' %3   %4' %5'' %6"
+
+msgid "hotbar_button_tooltip_keystroke"
+msgstr "请按'%1'访问"
+
+msgid "hotbar_button_tooltip_browse"
+msgstr "使用'%1'浏览"
+
+msgid "options_binding_rebind_confirmation"
+msgstr "已将'%1'分配给'%2'.\r\n确定要将其分配给'%3'吗?"
+
+msgid "options_binding_tooltip_default"
+msgstr "默认绑定:%1"
+
+msgid "crafting_duration_label_text"
+msgstr "创建时间:"
+
+msgid "inventory_type_backpack"
+msgstr "背包"
+
+msgid "inventory_type_bank"
+msgstr "银行"
+
+msgid "inventory_type_bank_extension"
+msgstr "银行扩展1"
+
+msgid "inventory_type_clan_vault_one"
+msgstr "保险库1"
+
+msgid "inventory_type_clan_vault_two"
+msgstr "保险库2"
+
+msgid "inventory_type_clan_vault_three"
+msgstr "保险库3"
+
+msgid "inventory_type_clan_vault4"
+msgstr "公会保险库4"
+
+msgid "inventory_type_clan_vault5"
+msgstr "公会保险库5"
+
+msgid "inventory_type_internal_container"
+msgstr "内部容器"
+
+msgid "inventory_type_rune_book"
+msgstr "符文书"
+
+msgid "inventory_type_loot_monster"
+msgstr "怪兽奖励"
+
+msgid "inventory_type_loot_player"
+msgstr "玩家奖励"
+
+msgid "inventory_type_dropped_item"
+msgstr "掉落物品"
+
+msgid "inventory_type_paperdoll"
+msgstr "角色形象"
+
+msgid "inventory_type_player_house_bank"
+msgstr "本地保险箱"
+
+msgid "inventory_type_woodencrate"
+msgstr "木箱"
+
+msgid "inventory_type_player_personal_strong_box"
+msgstr "个人保险箱"
+
+msgid "inventory_type_player_party_strong_box"
+msgstr "队伍保险箱"
+
+msgid "inventory_type_player_clan_strong_box"
+msgstr "公会保险箱"
+
+msgid "inventory_type_player_ship_strong_box"
+msgstr "船舶保险箱"
+
+msgid "inventory_type_player_ship_clan_strong_box"
+msgstr "船舶公会保险箱"
+
+msgid "inventory_type_player_ship_fish_box"
+msgstr "船舶鱼箱"
+
+msgid "inventory_type_player_lootable_personal_strong_box"
+msgstr "奖励个人保险箱"
+
+msgid "inventory_type_player_lootable_party_strong_box"
+msgstr "奖励队伍保险箱"
+
+msgid "inventory_type_player_lootable_clan_strong_box"
+msgstr "奖励公会保险箱"
+
+msgid "inventory_type_player_lootable_ship_strong_box"
+msgstr "奖励船舶保险箱"
+
+msgid "inventory_type_player_lootable_ship_clan_strong_box"
+msgstr "奖励船舶公会保险箱"
+
+msgid "inventory_type_ship_floating_strong_box"
+msgstr "残骸"
+
+msgid "hud_title_in_clan_and_clan_name"
+msgstr "%1的%2"
+
+msgid "hud_member_of_clan_name"
+msgstr "%1的成员"
+
+msgid "hud_full_name"
+msgstr "%1 %2"
+
+msgid "hud_special_title"
+msgstr "A.K.A. %1"
+
+msgid "hud_alignment_title"
+msgstr "%1"
+
+msgid "trading_other_player_offers"
+msgstr "%1出价:"
+
+msgid "trading_other_player_has_accepted"
+msgstr "玩家已接受"
+
+msgid "citybuilding_categories_close"
+msgstr "关闭"
+
+msgid "citybuilding_categories_view"
+msgstr "查看"
+
+msgid "citybuilding_item_label"
+msgstr "%1\r\n%2"
+
+msgid "citybuilding_items_return"
+msgstr "恢复"
+
+msgid "citybuilding_items_create"
+msgstr "创建"
+
+msgid "citybuilding_items_upgrade"
+msgstr "升级"
+
+msgid "citybuilding_maintenance_payment"
+msgstr "支付"
+
+msgid "enchanting_no_item_to_enchant"
+msgstr "选择物品或拖动到窗口."
+
+msgid "enchanting_itemlist_text"
+msgstr "背包中的可附魔物品"
+
+msgid "enchanting_tips_text"
+msgstr "1.从物品列表中选择一个物品,或从背包中拖放该物品.如果该物品可以附魔,则将激活公式行.\n\n2.拖动配料以填充一个或多个行.\n\n3.按下附魔按钮使物品附魔."
+
+msgid "enchanting_item_to_enchant"
+msgstr "要附魔的物品"
+
+msgid "enchanting_type_prefix"
+msgstr "附魔"
+
+msgid "enchanting_type_postfix"
+msgstr "附魔"
+
+msgid "enchanting_type_transmutation"
+msgstr "变形"
+
+msgid "enchanting_effect_none"
+msgstr "无"
+
+msgid "enchanting_slot_ingredient_1"
+msgstr "配料1"
+
+msgid "enchanting_slot_ingredient_2"
+msgstr "配料2"
+
+msgid "enchanting_slot_ingredient_3"
+msgstr "配料3"
+
+msgid "enchanting_slot_ingredient_rare"
+msgstr "催化剂"
+
+msgid "quest_reward"
+msgstr "%1: %2"
+
+msgid "quest_rewards"
+msgstr "奖励:"
+
+msgid "chat_input_bind_not_bound"
+msgstr "键未绑定到操作"
+
+msgid "chat_input_bind_ok"
+msgstr "确定"
+
+msgid "chat_input_bind_invalid_binding"
+msgstr "无法解析的绑定"
+
+msgid "chat_input_bind_expected_linear"
+msgstr "操作只能绑定到轴(不能绑定键或按钮)"
+
+msgid "chat_input_bind_expected_switch"
+msgstr "操作只能绑定到键或按钮(不能绑定轴)"
+
+msgid "window_title_playerstats"
+msgstr "玩家状态栏"
+
+msgid "window_title_gmcall"
+msgstr "请求帮助"
+
+msgid "playerstats_base_attributes"
+msgstr "基础属性"
+
+msgid "playerstats_armor_penalties"
+msgstr "盔甲惩罚"
+
+msgid "playerstats_protections"
+msgstr "保护"
+
+msgid "character_stats_global_currency_description"
+msgstr "货币"
+
+msgid "character_stats_name_description"
+msgstr "角色"
+
+msgid "character_stats_health_description"
+msgstr "生命值说明"
+
+msgid "character_stats_healthmax_description"
+msgstr "最大生命值说明"
+
+msgid "character_stats_stamina_description"
+msgstr "耐力值说明"
+
+msgid "character_stats_staminamax_description"
+msgstr "最大耐力值说明"
+
+msgid "character_stats_mana_description"
+msgstr "法力值说明"
+
+msgid "character_stats_manamax_description"
+msgstr "最大法力值说明"
+
+msgid "character_stats_alignment_description"
+msgstr "正义值说明"
+
+msgid "character_stats_suspect_description"
+msgstr "怀疑说明"
+
+msgid "character_stats_antigrief_description"
+msgstr "反悲伤说明"
+
+msgid "character_mount_stats_name"
+msgstr "坐骑名称说明"
+
+msgid "character_mount_stats_health"
+msgstr "坐骑生命值说明"
+
+msgid "character_mount_stats_healthmax"
+msgstr "坐骑最大生命值说明"
+
+msgid "character_mount_stats_stamina"
+msgstr "坐骑耐力值说明"
+
+msgid "character_mount_stats_staminamax"
+msgstr "坐骑最大耐力值说明"
+
+msgid "character_stats_strength_description"
+msgstr "增加近战武器造成的伤害,并适度影响最大生命值."
+
+msgid "character_stats_vitality_description"
+msgstr "Grants a considerable bonus to maximum Health and a moderate bonus to Stamina. A high Vitality may also slightly reduce the effects of poison and bleeding."
+
+msgid "character_stats_dexterity_description"
+msgstr "增加射箭伤害,并可能减少受到的区域伤害."
+
+msgid "character_stats_quickness_description"
+msgstr "轻微提高近战和射箭速度,并有可能减少这类攻击所造成的伤害.给予适度的最大耐力加成."
+
+msgid "character_stats_intelligence_description"
+msgstr "增加法术的力量,并且极大地影响最大法力值.提高对精神攻击的抵抗力."
+
+msgid "character_stats_wisdom_description"
+msgstr "为所有的制作和收获技能提供加成.此外,它会适度影响最大法力值,并且对诅咒产生轻微的抵抗加成."
+
+msgid "character_stats_encumbrance_description"
+msgstr "所有盔甲的总负担.直接影响近战,魔法和射箭的惩罚."
+
+msgid "character_stats_protectionarrow_description"
+msgstr "对箭和类似投射物的防御."
+
+msgid "character_stats_protectionbludgeoning_description"
+msgstr "防御钝武器,如棒或锤."
+
+msgid "character_stats_protectionpiercing_description"
+msgstr "防御穿刺武器,如匕首或长柄武器."
+
+msgid "character_stats_protectionslashing_description"
+msgstr "防御锋利武器,如剑或者斧."
+
+msgid "character_stats_protectionacid_description"
+msgstr "防御腐蚀性攻击."
+
+msgid "character_stats_protectionarcane_description"
+msgstr "防御非元素魔法伤害."
+
+msgid "character_stats_protectioncold_description"
+msgstr "防御冰系攻击."
+
+msgid "character_stats_protectionfire_description"
+msgstr "防御火焰攻击."
+
+msgid "character_stats_protectionholy_description"
+msgstr "防御神圣魔法"
+
+msgid "character_stats_protectionimpact_description"
+msgstr "防御手雷,火炮战舰,战船,大炮和公会城市防御."
+
+msgid "character_stats_protectionlightning_description"
+msgstr "防御闪电攻击."
+
+msgid "character_stats_protectionunholy_description"
+msgstr "防御地狱伤害."
+
+msgid "character_stats_protectionmalediction_description"
+msgstr "防御魔法诅咒."
+
+msgid "character_stats_protectionmental_description"
+msgstr "防御蚀变精神的影响."
+
+msgid "character_stats_protectioninfliction_description"
+msgstr "防御蚀变身体的影响,例如毒药或出血."
+
+msgid "character_stats_penalty_archery_description"
+msgstr "可能会降低射箭的伤害和攻击速度."
+
+msgid "character_stats_penalty_magic_description"
+msgstr "可能会降低法术力量并增加施法时间."
+
+msgid "character_stats_penalty_melee_description"
+msgstr "可能会降低近战伤害和攻击速度."
+
+msgid "conquest_attack_siege_stone_placement_prefix"
+msgstr "你必须"
+
+msgid "conquest_attack_siege_stone_placement_postfix"
+msgstr " 放置一块攻城石."
+
+msgid "conquest_defend_siege_stone_placement_prefix"
+msgstr "攻击者必须 "
+
+msgid "conquest_defend_siege_stone_placement_postfix"
+msgstr " 放置一块攻城石."
+
+msgid "conquest_attack_countdown_timer_prefix"
+msgstr " "
+
+msgid "conquest_attack_countdown_timer_postfix"
+msgstr " 直到对%CITYNAME%的围攻开始"
+
+msgid "conquest_attack_countdown_timer_walls_prefix"
+msgstr " "
+
+msgid "conquest_attack_countdown_timer_walls_postfix"
+msgstr " 直到对%CITYNAME%的围攻开始.摧毁%WALLSLEFT%更多的墙."
+
+msgid "conquest_defend_countdown_timer_prefix"
+msgstr " "
+
+msgid "conquest_defend_countdown_timer_postfix"
+msgstr " 直到对%CITYNAME%的围攻开始"
+
+msgid "conquest_defend_countdown_timer_walls_prefix"
+msgstr " "
+
+msgid "conquest_defend_countdown_timer_walls_postfix"
+msgstr " 直到对%CITYNAME%的围攻开始.留下%WALLSLEFT%的墙来防御."
+
+msgid "conquest_attack_attacker_vulnerable_nocity_prefix"
+msgstr " "
+
+msgid "conquest_attack_attacker_vulnerable_nocity_postfix"
+msgstr " 直到%CITYNAME%为止.留下%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_attack_attacker_vulnerable_nocity_wall_prefix"
+msgstr " "
+
+msgid "conquest_attack_attacker_vulnerable_nocity_wall_postfix"
+msgstr " 直到%CITYNAME%为止.留下%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_defend_attacker_vulnerable_nocity_prefix"
+msgstr " "
+
+msgid "conquest_defend_attacker_vulnerable_nocity_postfix"
+msgstr " 直到%CITYNAME%为止.留下%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_defend_attacker_vulnerable_nocity_wall_prefix"
+msgstr " "
+
+msgid "conquest_defend_attacker_vulnerable_nocity_wall_postfix"
+msgstr " 直到%CITYNAME%为止.摧毁%WALLSLEFT% 的墙.留下%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_attack_attacker_vulnerable_city_prefix"
+msgstr " "
+
+msgid "conquest_attack_attacker_vulnerable_city_postfix"
+msgstr " 直到%CITYNAME%为止.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%收集的城市点数.保留%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_attack_attacker_vulnerable_city_wall_prefix"
+msgstr " "
+
+msgid "conquest_attack_attacker_vulnerable_city_wall_postfix"
+msgstr " 直到%CITYNAME%为止.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL% 收集的城市点数.催毁%WALLSLEFT% 的墙.保留%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_defend_attacker_vulnerable_city_prefix"
+msgstr " "
+
+msgid "conquest_defend_attacker_vulnerable_city_postfix"
+msgstr " 直到%CITYNAME%为止.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%收集的城市点数.摧毁%WALLSLEFT%的墙.保留%SIEGESTONESLEFT%攻城石来摧毁."
+
+msgid "conquest_defend_attacker_vulnerable_city_wall_prefix"
+msgstr " "
+
+msgid "conquest_defend_attacker_vulnerable_city_wall_postfix"
+msgstr " 直到%CITYNAME%为止.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%收集的城市点数.保留%WALLSLEFT%的墙.摧毁%SIEGESTONESLEFT%攻城石."
+
+msgid "conquest_attack_stage_one_prefix"
+msgstr " "
+
+msgid "conquest_attack_stage_one_postfix"
+msgstr " 直到%CITYNAME%为止.防御者收集的%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%城市点数."
+
+msgid "conquest_attack_rabbit_stage_one_prefix"
+msgstr " "
+
+msgid "conquest_attack_rabbit_stage_one_postfix"
+msgstr " 直到%CITYNAME%为止.保卫%RABBITFIRSTNAME% %RABBITLASTNAME%!"
+
+msgid "conquest_attack_stage_two_prefix"
+msgstr " "
+
+msgid "conquest_attack_stage_two_postfix"
+msgstr " 直到挑战结束. 防御者收集的%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL% 城市点数."
+
+msgid "conquest_attack_rabbit_stage_two_prefix"
+msgstr " "
+
+msgid "conquest_attack_rabbit_stage_two_postfix"
+msgstr " 直到挑战结束.保卫%RABBITFIRSTNAME% %RABBITLASTNAME%!"
+
+msgid "conquest_defend_stage_one_prefix"
+msgstr " "
+
+msgid "conquest_defend_stage_one_postfix"
+msgstr " 直到%CITYNAME%为止.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%收集的城市点数."
+
+msgid "conquest_defend_rabbit_stage_one_prefix"
+msgstr " "
+
+msgid "conquest_defend_rabbit_stage_one_postfix"
+msgstr " 直到%CITYNAME%为止.杀死%RABBITFIRSTNAME% %RABBITLASTNAME%来赢得挑战!"
+
+msgid "conquest_defend_stage_two_prefix"
+msgstr " "
+
+msgid "conquest_defend_stage_two_postfix"
+msgstr " 直到挑战结束.%POWERPOINTSGATHERED%/%POWERPOINTSTOTAL%收集的城市点数."
+
+msgid "conquest_defend_rabbit_stage_two_prefix"
+msgstr " "
+
+msgid "conquest_defend_rabbit_stage_two_postfix"
+msgstr " 直到挑战结束.杀死%RABBITFIRSTNAME% %RABBITLASTNAME%来赢得挑战!"
+
+msgid "map_tooltip_prefix_tile"
+msgstr "区域: %1"
+
+msgid "map_tooltip_prefix_distance"
+msgstr "距离: %1"
+
+msgid "map_tooltip_prefix_spawn"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_portals"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_dungeons"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_quest"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_stone_bind"
+msgstr "绑定石:%1"
+
+msgid "map_tooltip_prefix_stone_greater"
+msgstr "高级石:%1"
+
+msgid "map_tooltip_prefix_stone_chaos"
+msgstr "传送法棒:%1"
+
+msgid "map_tooltip_prefix_annotation"
+msgstr "注释:%1"
+
+msgid "map_tooltip_prefix_conquest"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_party_player"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_party_waypoint"
+msgstr "队伍路径点:%1"
+
+msgid "map_tooltip_prefix_vendor"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_city"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_clan_member"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_housing"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_control_points"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_traderoute_markers"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_fortress"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_players"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_stone_siege"
+msgstr "攻城石:%1"
+
+msgid "map_tooltip_prefix_player_deployed_objects"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_fun_flags"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_enchantment_station"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_laboratory"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_anvil"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_oven"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_smelter"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_workbench"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_bank"
+msgstr "%1"
+
+msgid "next"
+msgstr "下一步"
+
+msgid "back"
+msgstr "返回"
+
+msgid "start"
+msgstr "开始"
+
+msgid "create_char"
+msgstr "创建"
+
+msgid "screen1_create_new_character"
+msgstr "创建新角色"
+
+msgid "screen2_select_race"
+msgstr "选择种族"
+
+msgid "screen3_select_gender"
+msgstr "选择性别"
+
+msgid "screen4_select_appearance"
+msgstr "自定义外貌"
+
+msgid "screen4_appearance_none"
+msgstr "无法使用"
+
+msgid "screen05_title"
+msgstr "命名您的角色"
+
+msgid "screen05_first_name"
+msgstr "名字"
+
+msgid "screen05_last_name"
+msgstr "姓氏"
+
+msgid "screen05_button_generate"
+msgstr "生成"
+
+msgid "screen05_button_check_name"
+msgstr "检查名称"
+
+msgid "screen06_title"
+msgstr "自定义状态栏"
+
+msgid "screen06_points_left"
+msgstr "剩余点数:"
+
+msgid "screen07_title"
+msgstr "自定义技能"
+
+msgid "screen07_general_skills"
+msgstr "一般技能"
+
+msgid "screen07_race_skills"
+msgstr "种族技能"
+
+msgid "screen08_race_spells"
+msgstr "种族法术"
+
+msgid "screen08_title"
+msgstr "选择初始法术"
+
+msgid "screen09_title"
+msgstr "选择初始镇"
+
+msgid "screen10_title"
+msgstr "创建此角色?"
+
+msgid "left_arrow"
+msgstr "<-"
+
+msgid "right_arrow"
+msgstr "->"
+
+msgid "race_human"
+msgstr "人类"
+
+msgid "race_dwarf"
+msgstr "矮人"
+
+msgid "race_alfar"
+msgstr "暗法"
+
+msgid "race_mahirim"
+msgstr "狼人"
+
+msgid "race_mirdain"
+msgstr "精灵"
+
+msgid "race_ork"
+msgstr "兽人"
+
+msgid "error_name_invalid_characters"
+msgstr "名称中包含非法字符."
+
+msgid "error_name_not_long_enough"
+msgstr "名称太短."
+
+msgid "error_name_too_long"
+msgstr "名称太长."
+
+msgid "error_name_reserved_word"
+msgstr "名称中含有非法词汇."
+
+msgid "error_name_in_use"
+msgstr "名称已存在."
+
+msgid "error_name_too_many_digits"
+msgstr "名称中不允许使用数字."
+
+msgid "error_name_server_error"
+msgstr "名称检查失败.服务器错误."
+
+msgid "name_ok"
+msgstr "接受角色名!"
+
+msgid "gender_male"
+msgstr "男性"
+
+msgid "gender_female"
+msgstr "女性"
+
+msgid "selector_of"
+msgstr "of"
+
+msgid "paperdoll_tabs_effects"
+msgstr "效果"
+
+msgid "clan_window_headers_clan"
+msgstr "公会"
+
+msgid "clan_role_description_vault_three_container_take"
+msgstr "从宝库三中提取容器"
+
+msgid "auto_equip_config_preset_fastest_long_weapon"
+msgstr "最快的长武器"
+
+msgid "activatable_bar_slot_option_mount_auto_swing"
+msgstr "坐骑自动摆动"
+
+msgid "clan_role_name_vault_one_container_take"
+msgstr "可以从宝库一中移走容器."
+
+msgid "button_accept"
+msgstr "同意"
+
+msgid "clan_political_relationship_standing_description_ten"
+msgstr "可以使用所有设施.\n允许绑定回城石.\n可以打开城门."
+
+msgid "clan_window_vault_inventory_type_names_singular_village"
+msgstr "村庄"
+
+msgid "clan_political_relationship_standing_description_one"
+msgstr "无法使用设施.\n不会被防御塔攻击."
+
+msgid "context_menu_chaos_bindstone_attack"
+msgstr "征服定点雕文石"
+
+msgid "clan_window_vault_date"
+msgstr "日期"
+
+msgid "clan_political_relationship_standing_description_nine"
+msgstr "可以使用所有设施.\n可以绑定回城石."
+
+msgid "context_menu_open_personal_account2"
+msgstr "银行扩展"
+
+msgid "market_buy_window_durability"
+msgstr "耐久性: "
+
+msgid "options_clutterizer_mode_animating"
+msgstr "设置动画"
+
+msgid "clan_window_diplomacy_bank_policy_all_but_enemies"
+msgstr "同意所有除了敌人"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_club"
+msgstr "单手锤"
+
+msgid "clan_window_members_status_offline"
+msgstr "下线"
+
+msgid "options_quality_medium"
+msgstr "中等"
+
+msgid "clan_window_general_cities"
+msgstr "各种城市:"
+
+msgid "market_clear_filter"
+msgstr "清除筛选条件"
+
+msgid "map_marker_city"
+msgstr "城市标记点"
+
+msgid "clan_role_name_vault_three_query"
+msgstr "可以从宝库三查看项目."
+
+msgid "research_projected_tier"
+msgstr "预设层: "
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_1"
+msgstr "获得最大伤害的武器."
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_row"
+msgstr "排: "
+
+msgid "clan_role_name_diplomat"
+msgstr "可以设置公会对其它公会和个人的立场."
+
+msgid "auto_equip_config_filter_highest_speed"
+msgstr "最高速度"
+
+msgid "clan_role_name_construction_manager"
+msgstr "可以建造城市组成部分."
+
+msgid "clan_role_name_personnel_auditing"
+msgstr "可以查看公会成员完整列表."
+
+msgid "clan_activity_window_constraint_overlap_error"
+msgstr "不受伤害时间必须在有效时间之外而且每一方在一小时内不会被重叠"
+
+msgid "activatable_bar_slot_option_no_binding_set"
+msgstr "没有绑定设置"
+
+msgid "map_marker_enchantment_station"
+msgstr "附魔站"
+
+msgid "task_rewards"
+msgstr "奖励"
+
+msgid "market_fill_order_window_location"
+msgstr "坐标: %1"
+
+msgid "market_filters_tile_name_all"
+msgstr "所有"
+
+msgid "clan_role_name_vault_two_container_take"
+msgstr "可以从宝库二中移走容器."
+
+msgid "clan_political_relationship_standing_description_neutral"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "market_order_length_one_month"
+msgstr "30 天"
+
+msgid "news_reel_filters_login_logout"
+msgstr "联系"
+
+msgid "task_rare_rewards"
+msgstr "非常稀有奖励"
+
+msgid "character_alteration_confirmation_dialog_title"
+msgstr "确认种族更改为%1 %2?"
+
+msgid "quit_dialog_no_button"
+msgstr "不同意(N)"
+
+msgid "research_item_tier_too_low"
+msgstr "项目等级太低!"
+
+msgid "context_menu_invite_player_to_house"
+msgstr "邀请到房子"
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_1"
+msgstr "如果启动,当库存变动时, 此武器栏槽将根据定义的筛选条件自动选择最合适的武器."
+
+msgid "clan_window_vault_period_all"
+msgstr "所有"
+
+msgid "research_skill_to_train"
+msgstr "技能训练: "
+
+msgid "clan_window_vault_resource"
+msgstr "资源"
+
+msgid "map_marker_spawn_champion"
+msgstr "冠军"
+
+msgid "clan_window_vault_inventory_type_names_singular_fortress"
+msgstr "堡垒"
+
+msgid "clan_window_general_allowed_alignment"
+msgstr "允许正义值"
+
+msgid "options_quality_max"
+msgstr "最大"
+
+msgid "clan_role_description_vault_three_query"
+msgstr "查看宝库三"
+
+msgid "research_item_tier"
+msgstr "项目等级: "
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_3"
+msgstr "新手武器是特殊的只有在没有其它武器时才会被选用."
+
+msgid "clan_window_browse_clans_headers_member_count"
+msgstr "成员"
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot"
+msgstr "触发工具槽"
+
+msgid "bank_tabs_consumables"
+msgstr "消耗品"
+
+msgid "market_button_seller"
+msgstr "售卖者"
+
+msgid "context_menu_open_clan_account5"
+msgstr "公会宝库五"
+
+msgid "market_section_title_sale_order_new"
+msgstr "制作一个新的售卖订单"
+
+msgid "clan_window_tabs_general"
+msgstr "常规"
+
+msgid "market_chat_notification_order_cancel_failed"
+msgstr "取消订单失败."
+
+msgid "clan_window_general_allow"
+msgstr "准许"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greatclub"
+msgstr "双手锤"
+
+msgid "weapon_bar_slot_option_switch_hotbar_column"
+msgstr "切换快捷工具栏: "
+
+msgid "clan_role_name_vault_one_query"
+msgstr "从宝库一中查看目录."
+
+msgid "clan_role_description_auditor"
+msgstr "审核员"
+
+msgid "holding_maintenance_payment_not_due"
+msgstr "付款未到期"
+
+msgid "market_confirmation_window_about_to_sell"
+msgstr "你将出售 %1 %2为得到%3金币!"
+
+msgid "clan_window_diplomacy_guard_tower_policy_kill_only_war_targets"
+msgstr "只杀死战争目标"
+
+msgid "market_other_filter_seller"
+msgstr "出售者: "
+
+msgid "clan_political_relationship_standing_description_two"
+msgstr "无法使用设施.\n不会被防御塔攻击."
+
+msgid "clan_window_holdings_area"
+msgstr "区域"
+
+msgid "weapon_bar_auto_equip_config_add_filter_button"
+msgstr "添加筛选条件"
+
+msgid "clan_window_vault_inventory_type_names_plural_war"
+msgstr "战争"
+
+msgid "component_targeting_dye_colors_primary"
+msgstr "基本: %1"
+
+msgid "holding_maintenance_due_hours"
+msgstr "%1 小时 "
+
+msgid "clan_window_tabs_role_management"
+msgstr "角色管理"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
+msgstr "无论实际属性如何新手武器的速度都是最低的."
+
+msgid "task_stage"
+msgstr "阶段:  %1"
+
+msgid "clan_role_description_construction_manager"
+msgstr "工程经理"
+
+msgid "clan_window_vault_inventory_type_names_singular_war"
+msgstr "宣战"
+
+msgid "auto_equip_config_filter_ignore_casting_time_enchantments"
+msgstr "忽略施法时间附魔"
+
+msgid "barber_features_face"
+msgstr "面容"
+
+msgid "market_chat_notification_order_update_success"
+msgstr "成功更新订单"
+
+msgid "market_button_cancel_selected"
+msgstr "取消选定"
+
+msgid "activatable_bar_slot_option_set_bind_button"
+msgstr "绑定设置"
+
+msgid "market_buy_window_total_cost"
+msgstr "总共消费:"
+
+msgid "glyph_rule_description_tax_option"
+msgstr "如果此选项属实,的此雕文石将使用自己的税额."
+
+msgid "market_backpack_context_menu_view_market_details"
+msgstr "查看拍卖行详细信息"
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_on_weapon_change"
+msgstr "切换武器"
+
+msgid "clan_window_diplomacy_bank_policy_clan_only"
+msgstr "只同意本公会成员"
+
+msgid "clan_window_members_can_only_have_one_supreme_general"
+msgstr "只能拥有一个高级将领."
+
+msgid "hotbar_entry_options_dialog_force_switch_tooltip"
+msgstr "如果启用, 即使当前装备的武器是同一类型的武器也会被装备,比如都是法杖. 黑魔法杖将被蛇杖所取代, 但是黑魔法杖不会被另一个黑魔法杖所取代."
+
+msgid "character_alteration_forgot_to_pick_gender"
+msgstr "别忘记选择你的性别!"
+
+msgid "research_research_time"
+msgstr "研究时间: "
+
+msgid "market_buy_window_price"
+msgstr "单价: "
+
+msgid "market_button_quantity"
+msgstr "数量"
+
+msgid "slot_position_ten"
+msgstr "10"
+
+msgid "market_received_item_order_id"
+msgstr "订购 # %1"
+
+msgid "character_alteration_confirmation_dialog_description"
+msgstr "一旦你同意你将即时下线转换.当你重新上线,你将变化成全新你选择的!"
+
+msgid "component_targeting_chaos_city_stone"
+msgstr "混乱城绑定石"
+
+msgid "clan_political_relationship_standing_description_neg_nine"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "market_label_sales_tax"
+msgstr "销售税:"
+
+msgid "market_list_item_button_sell"
+msgstr "出售项目"
+
+msgid "market_reset_filter"
+msgstr "重置筛选条件"
+
+msgid "market_filter_minimum_quantity"
+msgstr "最小数量:"
+
+msgid "clan_role_description_vault_one_take"
+msgstr "提取宝库一"
+
+msgid "display_modes_borderless"
+msgstr "无边界"
+
+msgid "task_stage_current"
+msgstr "阶段 %1/%2"
+
+msgid "display_modes_full_screen"
+msgstr "全屏"
+
+msgid "clan_activity_window_constraint_same_time_error"
+msgstr "有效时间和不受伤害时间不能相同"
+
+msgid "task_countdown_reset"
+msgstr "重置为:  %1"
+
+msgid "clan_window_headers_player"
+msgstr "玩家"
+
+msgid "chat_window_ping"
+msgstr " - 延迟: %1"
+
+msgid "clan_window_headers_rank"
+msgstr "等级"
+
+msgid "market_confirmation_window_about_to_buy"
+msgstr "你即将花费金币%3购买%1 %2!"
+
+msgid "context_menu_open_clan_account4"
+msgstr "公会宝库四"
+
+msgid "clan_window_members_context_menu_ban_member"
+msgstr "禁止成员"
+
+msgid "market_my_expired_orders"
+msgstr "我过期订单"
+
+msgid "market_expiration"
+msgstr "%1%2%3%4%5"
+
+msgid "component_targeting_obelisk_altar_under_attack_countdown"
+msgstr "受到攻击 - %1"
+
+msgid "context_menu_open_personal_account2_disabled_premium"
+msgstr "银行扩展(必须购买)"
+
+msgid "paperdoll_label_equipment_tier"
+msgstr "装备等级: %1"
+
+msgid "market_buy_window_quantity_available"
+msgstr "可用数量: %1"
+
+msgid "market_expiration_minutes"
+msgstr "%1m "
+
+msgid "titles_change_confirm_dialog_description"
+msgstr "头衔是可以随时更换的."
+
+msgid "market_buy_item"
+msgstr "购买清单项目"
+
+msgid "clan_window_general_options"
+msgstr "公会选项"
+
+msgid "options_default"
+msgstr "默认值"
+
+msgid "activatable_bar_slot_option_mount_lean_right"
+msgstr "骑坐骑向右倾斜"
+
+msgid "clan_political_relationship_standing_description_three"
+msgstr "可以使用杂货商.\n不会被防御塔攻击."
+
+msgid "auto_equip_config_preset_fast_staffs"
+msgstr "快速法杖"
+
+msgid "market_listing_tax_extra"
+msgstr " (收到时采取)"
+
+msgid "market_expiration_hours"
+msgstr "%1h "
+
+msgid "clan_window_members_members"
+msgstr "成员"
+
+msgid "choose_your_race"
+msgstr "选择你的角色种族"
+
+msgid "map_marker_fun_flags"
+msgstr "玩家部署了有趣的旗帜"
+
+msgid "clan_window_vault_inventory_type_names_plural_fortress"
+msgstr "堡垒"
+
+msgid "market_tabs_receiving"
+msgstr "收款"
+
+msgid "market_my_buy_orders"
+msgstr "我的购买订单"
+
+msgid "map_marker_greaterstone"
+msgstr "高级绑定石标记点"
+
+msgid "clan_window_headers_races"
+msgstr "各种种族"
+
+msgid "market_confirm_dialog_create_sale_order_description"
+msgstr "您将要为创建销售订单%1 %2 售价为%3金币!"
+
+msgid "market_received_item_button_receive"
+msgstr "收到"
+
+msgid "clan_role_description_construction_auditor"
+msgstr "建造审查员"
+
+msgid "news_reel_filters_binding"
+msgstr "绑定点"
+
+msgid "market_order_length_one_day"
+msgstr "1天"
+
+msgid "market_context_create_buy_order"
+msgstr "制作一个购买订单"
+
+msgid "market_filter_price_max"
+msgstr "最大值"
+
+msgid "clan_window_members_status_online"
+msgstr "在线"
+
+msgid "market_showing_most_recent"
+msgstr "显示最近的订单"
+
+msgid "hotbar_slot_option_switch_column_slot"
+msgstr "槽: "
+
+msgid "news_reel_filters_in_out"
+msgstr "邻近度"
+
+msgid "map_marker_workbench"
+msgstr "木锯工作台"
+
+msgid "clan_window_members_resign_dialog_description"
+msgstr "通过接受这个消息,你辞去高级将领的职务,并推动%1取代你的位置!"
+
+msgid "context_menu_pay_house_taxes"
+msgstr "支付房契税"
+
+msgid "market_expiration_weeks"
+msgstr "%1w "
+
+msgid "barber_features_forehead"
+msgstr "额部"
+
+msgid "market_item_description"
+msgstr "从左侧列表中选择一个项目或单击鼠标右键->查看以下市场详情 !"
+
+msgid "clan_window_members_headers_name"
+msgstr "名字"
+
+msgid "market_item_details_quantity"
+msgstr "数量: %1"
+
+msgid "map_marker_display_modes_icon_only"
+msgstr "仅图标"
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_column"
+msgstr "列: "
+
+msgid "map_marker_spawn_very_hard"
+msgstr "非常困难"
+
+msgid "task_repeatable"
+msgstr "[重复的]"
+
+msgid "map_marker_chaosstone"
+msgstr "定点雕文石"
+
+msgid "news_reel_filters_misc"
+msgstr "杂项"
+
+msgid "market_chat_notification_buy_order_cancel_success"
+msgstr "成功取消订单."
+
+msgid "market_buy_window_shipping"
+msgstr "航运:"
+
+msgid "paperdoll_tabs_titles"
+msgstr "头衔"
+
+msgid "clan_window_members_headers_alignment"
+msgstr "正义值"
+
+msgid "map_marker_oven"
+msgstr "食物烤箱"
+
+msgid "clan_role_name_city_manager"
+msgstr "可以添加或者删除玩家在公会城的绑定点."
+
+msgid "vital_stats_display_modes_value_over_max"
+msgstr "已超过最大值"
+
+msgid "clan_window_news_headers_event"
+msgstr "活动"
+
+msgid "research_max_time"
+msgstr "最大时间: %1"
+
+msgid "clan_role_name_vault_three_container_take"
+msgstr "可以从宝库三中删除容器."
+
+msgid "context_menu_open_market"
+msgstr "打开拍卖行"
+
+msgid "clan_window_holdings_city_binds"
+msgstr "城市绑定"
+
+msgid "glyph_rule_description_clan_only"
+msgstr "仅供公会成员使用定点雕文石"
+
+msgid "slot_position_one"
+msgstr "1"
+
+msgid "paperdoll_button_get_naked"
+msgstr "自动脱下所有装备"
+
+msgid "clan_political_relationship_standing_description_neg_one"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "barber_features_mustache"
+msgstr "胡须"
+
+msgid "clan_window_holdings_power"
+msgstr "权力及能量"
+
+msgid "clan_window_vault_contribution_withdraw"
+msgstr "撤回"
+
+msgid "clan_window_browse_clans_headers_clan_name"
+msgstr "公会名称"
+
+msgid "clan_window_vault_inventory_type_names_singular_challenge"
+msgstr "挑战"
+
+msgid "clan_window_general_members"
+msgstr "成员:"
+
+msgid "paperdoll_label_loot_bag"
+msgstr "拾取包裹"
+
+msgid "market_fill_order_window_sell_item"
+msgstr "出售项目"
+
+msgid "clan_window_diplomacy_bank_policy_allies"
+msgstr "同意联盟"
+
+msgid "clan_role_description_security_officer"
+msgstr "安全官员"
+
+msgid "glyph_rule_description_allies"
+msgstr "本公会成员和联盟成员都可以使用这个定点雕文石"
+
+msgid "market_section_select"
+msgstr "选择项目以查看可用项目"
+
+msgid "slot_position_six"
+msgstr "6"
+
+msgid "clan_role_description_city_manager"
+msgstr "城市经理"
+
+msgid "map_marker_anvil"
+msgstr "铁砧"
+
+msgid "context_menu_open_personal_account"
+msgstr "打开银行"
+
+msgid "clan_activity_window_display_stage_active"
+msgstr "活跃的"
+
+msgid "auto_equip_config_filter_undefined"
+msgstr "未定义"
+
+msgid "vital_stats_dialog_stamina"
+msgstr "耐力:"
+
+msgid "market_list_item_button_close"
+msgstr "关闭"
+
+msgid "market_button_change_selected"
+msgstr "更改选项"
+
+msgid "map_marker_spawn_boss"
+msgstr "将领"
+
+msgid "holding_maintenance_due_weeks"
+msgstr "%1周 "
+
+msgid "vital_stats_display_modes_value_only"
+msgstr "仅价值"
+
+msgid "tasks_filter_label"
+msgstr "筛选 "
+
+msgid "map_marker_spawn_medium"
+msgstr "中等"
+
+msgid "supreme_general"
+msgstr "高级军官"
+
+msgid "paperdoll_tabs_clan"
+msgstr "公会"
+
+msgid "options_texture_filtering_point"
+msgstr "标点"
+
+msgid "market_duration"
+msgstr "持续时间: %1"
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_3"
+msgstr "筛选条件将从上到下应用,可以通过拖放来重新排序."
+
+msgid "market_receiving_empty"
+msgstr "空的"
+
+msgid "map_marker_laboratory"
+msgstr "实验室"
+
+msgid "clan_window_header_filter"
+msgstr "筛选 "
+
+msgid "auto_equip_config_preset_auto_generate"
+msgstr "自动生成"
+
+msgid "slot_position_five"
+msgstr "5"
+
+msgid "clan_window_diplomacy_guard_tower_policy_kill_all_but_allies"
+msgstr "攻击所有人除了盟友"
+
+msgid "market_fill_order_window_sell_amount"
+msgstr "出售数量:"
+
+msgid "clan_activity_window_window_description"
+msgstr "(0 = Midnight | Displaying your time zone)\n\n\nThe \"invulnerable\" starting time is the invulnerable hour when your clans invulnerable window will start. During this time your clan assets will be safe from sieges and destruction.\n\n The \"active\" starting time is the active hour when your clans active window will start. During this time your clan nodes will go live for harvest and should be your busiest time\n\nThe inactivity window will all the time outside your active and invulnerable periods"
+
+msgid "clan_window_vault_inventory_type_names_plural_village"
+msgstr "村庄"
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_4"
+msgstr "您可以通过将筛选条件拖到主游戏窗口来进行删除."
+
+msgid "clan_window_holdings_vulnerable"
+msgstr "脆弱的"
+
+msgid "clan_window_general_races"
+msgstr "各种种族:"
+
+msgid "options_texture_filtering_linear"
+msgstr "直线"
+
+msgid "clan_activity_window_display_current_time"
+msgstr "现在时间: %1"
+
+msgid "research_skill"
+msgstr "技能: "
+
+msgid "clan_political_relationship_standing_description_neg_ten"
+msgstr "无法使用设施.\n会被防御塔攻击.\n可以成为宣战目标."
+
+msgid "news_reel_filters_members"
+msgstr "成员"
+
+msgid "options_clutterizer_mode_fading"
+msgstr "衰退"
+
+msgid "market_button_update"
+msgstr "更新"
+
+msgid "clan_window_holdings_city"
+msgstr "城市"
+
+msgid "clan_window_vault_inventory_type_names_plural_station"
+msgstr "站点"
+
+msgid "clan_political_relationship_standing_description_neg_two"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "research_drag_schematic_here_description"
+msgstr "将示意图拖到此处进行研究"
+
+msgid "auto_equip_config_filter_highest_damage"
+msgstr "最高伤害"
+
+msgid "clan_window_glyphs_invalid_area_tax_multiple"
+msgstr "无效税额(必须是100的倍数)为%1"
+
+msgid "clan_role_name_security_officer"
+msgstr "可以打开城门"
+
+msgid "clan_political_relationship_standing_value_0"
+msgstr "0 灰名"
+
+msgid "clan_role_name_view_diplomacy"
+msgstr "可以查看公会外交设置."
+
+msgid "map_options_section_monster_types"
+msgstr "怪物类型"
+
+msgid "character_alteration_title"
+msgstr "角色变化-种族改变"
+
+msgid "research_time"
+msgstr "时间: "
+
+msgid "clan_window_diplomacy_guard_tower_policy_title"
+msgstr "为公会防御塔选择守卫策略."
+
+msgid "clan_window_members_context_menu_leave_clan"
+msgstr "退出公会"
+
+msgid "news_reel_filters_resources"
+msgstr "资源"
+
+msgid "map_marker_display_modes_none"
+msgstr "没有"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_knives"
+msgstr "匕首(2H)"
+
+msgid "market_list_item_button_buy"
+msgstr "购买项目"
+
+msgid "market_global_market_title_composite"
+msgstr "世界拍卖行: %1"
+
+msgid "barber_features_extra_accessory"
+msgstr "额外配件"
+
+msgid "clan_window_vault_inventory_type_names_singular_station"
+msgstr "站点"
+
+msgid "choose_character_name"
+msgstr "选择角色名称"
+
+msgid "market_tabs_market"
+msgstr "拍卖行"
+
+msgid "component_targeting_glyph_alt_use_to_claim"
+msgstr "Alt用此声明雕文石"
+
+msgid "clan_window_general_apply_changes"
+msgstr "应用更改"
+
+msgid "market_button_item"
+msgstr "物料项目"
+
+msgid "slot_position_none"
+msgstr "没有"
+
+msgid "news_reel_filters_workstations"
+msgstr "工作站"
+
+msgid "vital_stats_dialog_resizing"
+msgstr "调整尺寸:"
+
+msgid "map_marker_control_points"
+msgstr "村庄"
+
+msgid "auto_equip_config_preset_long_weapons_greatswords_first"
+msgstr "长武器,最好是双手剑"
+
+msgid "auto_equip_config_preset_ray_staffs"
+msgstr "瞬发法杖"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_2"
+msgstr "多种武器的最高伤害可能相同,所以可以进一步筛选."
+
+msgid "titles_prefix"
+msgstr "头衔前缀"
+
+msgid "component_targeting_glyph_wait_for_timer_to_finish"
+msgstr "保持靠近直到计时结束!"
+
+msgid "component_targeting_glyph_not_vulnerable"
+msgstr "不易受攻击."
+
+msgid "paperdoll_tabs_research"
+msgstr "研究"
+
+msgid "map_marker_display_modes_icon_and_label"
+msgstr "图标和标签"
+
+msgid "holding_maintenance_payment_due_by"
+msgstr "付款到期: "
+
+msgid "market_backpack_context_menu_buy_more"
+msgstr "购买更多"
+
+msgid "clan_window_tabs_rune_glyphs"
+msgstr "定点雕文石"
+
+msgid "activatable_bar_slot_option_mount_lean_left"
+msgstr "骑坐骑向左倾斜"
+
+msgid "market_filter_location"
+msgstr "位置:"
+
+msgid "clan_political_relationship_standing_description_five"
+msgstr "可以使用所有的制作站和商家."
+
+msgid "quit_dialog_yes_button"
+msgstr "是的 (Y)"
+
+msgid "component_targeting_dye_colors"
+msgstr "染料颜色"
+
+msgid "paperdoll_label_figurine"
+msgstr "雕像"
+
+msgid "clan_window_members_applications"
+msgstr "申请"
+
+msgid "market_order_length_instant"
+msgstr "此刻"
+
+msgid "clan_activity_window_active_start_time"
+msgstr "开始有效时间"
+
+msgid "market_broker_fee_extra"
+msgstr " (现在支付)"
+
+msgid "barber_features_tusks"
+msgstr "獠牙"
+
+msgid "clan_window_members_context_menu_kick_member"
+msgstr "剔除玩家"
+
+msgid "component_targeting_proc_enchantment"
+msgstr "法术效果:"
+
+msgid "market_button_location"
+msgstr "位置"
+
+msgid "vital_stats_display_modes_value_and_percentage"
+msgstr "价值和百分比"
+
+msgid "vital_stats_dialog_health"
+msgstr "生命:"
+
+msgid "paperdoll_tabs_skins"
+msgstr "皮肤"
+
+msgid "clan_role_description_vault_two_query"
+msgstr "查看宝库二"
+
+msgid "clan_role_name_auditor"
+msgstr "查看成员角色."
+
+msgid "quit_dialog_title"
+msgstr "现在关闭?"
+
+msgid "clan_window_glyphs_global_tax"
+msgstr "世界税: "
+
+msgid "task_stage_completed"
+msgstr "完成"
+
+msgid "clan_role_description_personnel_auditing"
+msgstr "人事审核员"
+
+msgid "map_marker_players"
+msgstr "玩家死亡标记点"
+
+msgid "clan_window_holdings_binds_remove_player"
+msgstr "移除"
+
+msgid "market_item_details_price"
+msgstr "单价: %1"
+
+msgid "component_targeting_glyph_vulnerable_for_attack"
+msgstr "易受攻击!"
+
+msgid "news_reel_filters_control_points"
+msgstr "控制点"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_sithra"
+msgstr "单手神剑"
+
+msgid "map_marker_party_player"
+msgstr "队伍标记"
+
+msgid "clan_role_name_member"
+msgstr "默认成员状态允许使用设施."
+
+msgid "market_label_fee"
+msgstr "费用:"
+
+msgid "component_targeting_glyph_use_item_to_challenge"
+msgstr "使用一个%1在此雕文范围内开始挑战!"
+
+msgid "map_marker_owner_label"
+msgstr "拥有者: %1"
+
+msgid "weapon_bar_slot_option_enable_auto_equip"
+msgstr "启用自动装备"
+
+msgid "clan_role_description_vault_two_take"
+msgstr "提取宝库二"
+
+msgid "market_backpack_context_menu_sell_this"
+msgstr "出售此项"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_4"
+msgstr "右键单击可添加武器类型,将武器类型拖到游戏主窗口可将其删除,或将一种武器拖到另一种武器上可交换其顺序."
+
+msgid "research_queued_time"
+msgstr "排队时间"
+
+msgid "clan_window_general_accept_new_members"
+msgstr "接受新成员"
+
+msgid "button_next"
+msgstr "下一个"
+
+msgid "clan_role_description_view_diplomacy"
+msgstr "初级外交官"
+
+msgid "market_context_menu_view_details"
+msgstr "查看拍卖行详细信息"
+
+msgid "barber_features_beard"
+msgstr "胡须"
+
+msgid "map_marker_smelter"
+msgstr "冶炼炉"
+
+msgid "clan_window_members_headers_race"
+msgstr "种族"
+
+msgid "barber_features_sideburns"
+msgstr "胡子"
+
+msgid "clan_role_name_none"
+msgstr "撤销所有权利,不能使用任何设施."
+
+msgid "clan_political_relationship_standing_description_eight"
+msgstr "可以使用所有的制作站和商家."
+
+msgid "holding_maintenance_due_days"
+msgstr "%1 天 "
+
+msgid "map_marker_overlays_tile_rating"
+msgstr "区域划分"
+
+msgid "legacy_clan_browse_clans"
+msgstr "查询公会"
+
+msgid "map_gm_tooltip_coordinates"
+msgstr "世界坐标: %1"
+
+msgid "component_targeting_owned_by"
+msgstr "拥有者%1"
+
+msgid "clan_window_tabs_holdings"
+msgstr "建筑"
+
+msgid "options_maxfps"
+msgstr "最大FPS: %1"
+
+msgid "clan_window_members_context_menu_edit_rank"
+msgstr "编辑等级"
+
+msgid "map_marker_vendor"
+msgstr "售货商标记"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_bow"
+msgstr "弓"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_1"
+msgstr "将忽略任何不匹配这些武器类型的物品."
+
+msgid "market_buy_window_purchase_amount"
+msgstr "采购金额:"
+
+msgid "market_filter_text"
+msgstr "文字筛选: "
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
+msgstr "施法时间附魔将被延长直到'$1'加入."
+
+msgid "market_quantity_and_resource_name"
+msgstr "%1 %2"
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_header"
+msgstr "按武器类型筛选"
+
+msgid "glyph_rule_name_clan_only"
+msgstr "公会访问"
+
+msgid "clan_role_description_personnel_manager"
+msgstr "人事主管"
+
+msgid "clan_window_tabs_members"
+msgstr "成员"
+
+msgid "clan_window_tabs_diplomacy"
+msgstr "外交"
+
+msgid "paperdoll_button_refresh"
+msgstr "刷新"
+
+msgid "research_queue_count"
+msgstr "队列计数"
+
+msgid "map_marker_player_deployed_objects"
+msgstr "玩家部署对象"
+
+msgid "component_targeting_obelisk_altar_restoring"
+msgstr "修复 - %1"
+
+msgid "component_targeting_gem_enchantment"
+msgstr "珠宝附魔:"
+
+msgid "market_order_length_two_weeks"
+msgstr "14天"
+
+msgid "clan_window_clan_info_member_count"
+msgstr "人员数量"
+
+msgid "context_menu_build_city"
+msgstr "建造城市"
+
+msgid "clan_activity_window_display_stage_inactive"
+msgstr "闲置"
+
+msgid "context_menu_open_billboard"
+msgstr "打开公告牌"
+
+msgid "clan_window_vault_contribution_deposit"
+msgstr "押金"
+
+msgid "clan_activity_window_invulnerable_start_time"
+msgstr "开始无效时间"
+
+msgid "clan_role_description_vault_one_container_take"
+msgstr "从宝库一提取容器"
+
+msgid "clan_window_members_reject"
+msgstr "拒绝"
+
+msgid "clan_role_name_vault_two_query"
+msgstr "可以从宝库二查看项目."
+
+msgid "map_marker_bindstone"
+msgstr "绑定石标记"
+
+msgid "clan_window_members_resign_dialog_title"
+msgstr "辞去高级将领?"
+
+msgid "market_received_item_delivery_fee"
+msgstr "交付费用: %1 金币"
+
+msgid "market_context_menu_buy"
+msgstr "购买此项"
+
+msgid "market_order_length_three_days"
+msgstr "3天"
+
+msgid "clan_role_name_vault_one_take"
+msgstr "可以从宝库一查看并提取物品."
+
+msgid "map_monster_location_slider"
+msgstr "怪物位置及范围"
+
+msgid "market_available_items"
+msgstr "可用项目"
+
+msgid "clan_political_relationship_standing_description_neg_eight"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "map_marker_dungeons"
+msgstr "地下城"
+
+msgid "clan_window_vault_quantity"
+msgstr "数量"
+
+msgid "options_quality_low"
+msgstr "低"
+
+msgid "market_expiration_days"
+msgstr "%1d "
+
+msgid "market_fill_order_window_offering"
+msgstr "提供: "
+
+msgid "map_marker_fortress"
+msgstr "堡垒标记"
+
+msgid "market_label_total"
+msgstr "总共:"
+
+msgid "barber_features_beard_braids"
+msgstr "胡子辫子"
+
+msgid "market_title_global_market_sell_item"
+msgstr "世界拍卖行: 出售项目"
+
+msgid "map_context_menu_add_annotation_at_cursor_position"
+msgstr "在光标位置添加注释"
+
+msgid "clan_role_description_vault_two_container_take"
+msgstr "提取宝库二容器"
+
+msgid "map_gm_tile_id"
+msgstr "Tile ID: %1"
+
+msgid "holding_maintenance_due"
+msgstr "%1%2%3%4%5"
+
+msgid "titles_change_confirm_dialog_title"
+msgstr "确认更改标题"
+
+msgid "map_options_section_structures"
+msgstr "建筑"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_axe"
+msgstr "单手斧"
+
+msgid "context_menu_start_player_trade"
+msgstr "交易开始"
+
+msgid "market_buy_window_buy_item"
+msgstr "购买项目"
+
+msgid "barber_features_earring"
+msgstr "耳环"
+
+msgid "paragraph_break"
+msgstr " \n"
+
+msgid "clan_window_tabs_browse_clans"
+msgstr "查询公会"
+
+msgid "slot_position_nine"
+msgstr "9"
+
+msgid "clan_window_general_popularity"
+msgstr "公会声望:"
+
+msgid "map_marker_quest"
+msgstr "任务标记"
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_5"
+msgstr "您可以通过下拉列表添加自定义筛选条件,下面的预设下拉列表为您的设置提供了一个良好的起点."
+
+msgid "quit_dialog_description"
+msgstr "如果你接受,你的客户端将关闭,你的角色将留在游戏里直到倒计时结束."
+
+msgid "clan_activity_window_constraint_error"
+msgstr "有效时间必须在不受伤害时间之外且在每一小时内不得重叠"
+
+msgid "clan_role_name_director"
+msgstr "只有高级将领才可以调整分配权限."
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_1"
+msgstr "寻找最快速度的武器."
+
+msgid "market_confirm_dialog_sell_now"
+msgstr "现在出售"
+
+msgid "market_notification_order_cancellation_failure"
+msgstr "取消订单失败"
+
+msgid "news_reel_filters_promotion_demotion"
+msgstr "等级"
+
+msgid "context_menu_bind_to_city"
+msgstr "绑定到城市"
+
+msgid "options_quality_high"
+msgstr "高"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_4"
+msgstr "新手武器永远是最低伤害的武器."
+
+msgid "barber_hair_color"
+msgstr "头发颜色"
+
+msgid "clan_political_relationship_standing_description_six"
+msgstr "可以使用所有的制作站和商家."
+
+msgid "weapon_bar_auto_equip_config_load_preset_button"
+msgstr "载入预设"
+
+msgid "clan_window_vault_period_week"
+msgstr "周"
+
+msgid "component_targeting_dye_colors_secondary"
+msgstr "中等: %1"
+
+msgid "task_time_days_hours_minutes"
+msgstr "%1 天 %2:%3小时"
+
+msgid "tasks_show_tracker"
+msgstr "显示追踪"
+
+msgid "barber_features_hair"
+msgstr "头发"
+
+msgid "legacy_clan_manage_clan"
+msgstr "管理公会"
+
+msgid "titles_suffix"
+msgstr "头衔后缀"
+
+msgid "market_broker_fees_cancellation_confirmation"
+msgstr "取消订单将会收取所有手续费.如果订单到期只收取50%手续费.你确定这样做么?"
+
+msgid "clan_window_vault_period_day"
+msgstr "天"
+
+msgid "vital_stats_dialog_alignment"
+msgstr "正义值:"
+
+msgid "glyph_rule_description_tax_amount"
+msgstr "如果启用使用税,这是使用者将会被收取的金额.如果没有它将恢复到世界使用税"
+
+msgid "map_options_section_overlays"
+msgstr "覆盖图"
+
+msgid "map_marker_annotation"
+msgstr "注释标记"
+
+msgid "task_title_rewards"
+msgstr "头衔奖励"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greataxe"
+msgstr "双手斧"
+
+msgid "auto_equip_config_preset_one_hand_weapons_axe_first"
+msgstr "单手斧,非常棒的单手斧"
+
+msgid "task_time_hours_minutes"
+msgstr "%1:%2 小时"
+
+msgid "auto_equip_config_filter_weapon_type_context_menu_add"
+msgstr "添加 %1"
+
+msgid "clan_political_relationship_standing_description_seven"
+msgstr "可以使用所有的制作站和商家."
+
+msgid "button_previous"
+msgstr "上一个"
+
+msgid "research_projected_level"
+msgstr "预计等级: "
+
+msgid "market_price_in_gold"
+msgstr "%1 金币"
+
+msgid "auto_equip_config_filter_only_these_weapon_types_in_this_order"
+msgstr "只有这些武器类型,按此顺序"
+
+msgid "choose_gender"
+msgstr "性别选择"
+
+msgid "barber_skin_tone"
+msgstr "皮肤颜色"
+
+msgid "market_buy_window_location"
+msgstr "位置: "
+
+msgid "clan_window_diplomacy_guard_tower_policy_never_attack_anyone"
+msgstr "永远不要攻击任何人"
+
+msgid "hotbar_slot_option_cycle_mode_first_available"
+msgstr "首先可用"
+
+msgid "context_menu_open_clan_account"
+msgstr "公会宝库二"
+
+msgid "market_label_quantity"
+msgstr "数量:"
+
+msgid "research_start"
+msgstr "开始"
+
+msgid "clan_window_diplomacy_bank_policy_title"
+msgstr "为你的公会选择银行政策."
+
+msgid "auto_equip_config_preset_one_hand_weapons_sword_first"
+msgstr "单手武器,非常棒的单手剑"
+
+msgid "button_submit"
+msgstr "提交"
+
+msgid "market_apply_filter"
+msgstr "应用筛选条件"
+
+msgid "component_targeting_enchantments"
+msgstr "附魔:"
+
+msgid "market_button_price"
+msgstr "单价"
+
+msgid "hotbar_slot_option_cycle_mode_cycle"
+msgstr "周期"
+
+msgid "clan_role_name_warfare_specialist"
+msgstr "可以管理战争."
+
+msgid "activatable_bar_slot_option_current_bind"
+msgstr "当前: %1"
+
+msgid "market_buttons_refresh_market"
+msgstr "刷新拍卖物品"
+
+msgid "clan_window_clan_info_apply_to_clan"
+msgstr "申请"
+
+msgid "tasks"
+msgstr "世界任务"
+
+msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
+msgstr "易受攻击 (修复 - %1)"
+
+msgid "component_targeting_obelisk_altar_vulnerable"
+msgstr "脆弱的"
+
+msgid "clan_role_description_director"
+msgstr "负责人"
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
+msgstr "将忽略任何不匹配这些武器类型的物品."
+
+msgid "market_confirm_dialog_create_sale_order"
+msgstr "创建一个出售订单"
+
+msgid "market_no_orders_available_for_duration"
+msgstr "没有可用的订单,请选择不同的持续时间重新查询."
+
+msgid "options_title_tutorial"
+msgstr "使用说明"
+
+msgid "map_marker_portals"
+msgstr "传送门"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_2"
+msgstr "从左到右寻找每种武器类型,一旦找到一种,就会忽略所有其他类型的武器."
+
+msgid "research_skill_and_tier"
+msgstr "%1 (等级 %2)"
+
+msgid "clan_role_description_member"
+msgstr "成员"
+
+msgid "clan_window_vault_period_month"
+msgstr "月"
+
+msgid "holding_maintenance_due_seconds"
+msgstr "%1 秒"
+
+msgid "market_tabs_management"
+msgstr "管理订单"
+
+msgid "vital_stats_display_modes_blank"
+msgstr "空白的"
+
+msgid "paperdoll_label_rune_book"
+msgstr "传送符文书"
+
+msgid "paperdoll_tabs_paperdoll"
+msgstr "角色"
+
+msgid "clan_window_holdings_make_mayor"
+msgstr "做市长"
+
+msgid "map_monster_location_slider_max"
+msgstr "最大值"
+
+msgid "news_reel_filters_structures"
+msgstr "建筑"
+
+msgid "market_buttons_most_recent"
+msgstr "最新动态"
+
+msgid "clan_window_members_headers_status"
+msgstr "属性"
+
+msgid "clan_activity_window_display_stage_invulnerable"
+msgstr "免疫所有"
+
+msgid "clan_activity_window_display_none_found"
+msgstr "未找到"
+
+msgid "hotbar_slot_option_force_weapon_switch"
+msgstr "强制开关武器"
+
+msgid "map_marker_siegestone"
+msgstr "攻城石标记点"
+
+msgid "glyph_rule_description_no_rules"
+msgstr "所有人都可以使用此定点雕文石"
+
+msgid "options_shader_version_default"
+msgstr "设为默认"
+
+msgid "glyph_rule_name_no_rules"
+msgstr "同意所有"
+
+msgid "context_menu_bind_to_chaos_stone"
+msgstr "绑定在混乱城"
+
+msgid "clan_window_create_clan"
+msgstr "创建公会"
+
+msgid "market_chat_notification_order_update_fail"
+msgstr "订单更新失败"
+
+msgid "slot_position_four"
+msgstr "4"
+
+msgid "market_button_expires"
+msgstr "有效期"
+
+msgid "vital_stats_dialog_mana"
+msgstr "法力:"
+
+msgid "clan_political_relationship_standing_description_neg_four"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "market_buy_window_seller"
+msgstr "出售者: "
+
+msgid "auto_equip_config_preset_knives"
+msgstr "匕首"
+
+msgid "market_order_length_one_week"
+msgstr "7 天"
+
+msgid "auto_equip_config_preset_long_weapons_greatclubs_first"
+msgstr "长武器,非常棒的双手锤"
+
+msgid "market_received_item_sell_order_sold"
+msgstr "(已出售 %1 %2)"
+
+msgid "market_received_item_not_enough_gold_to_deliver"
+msgstr "需要更多的金币!"
+
+msgid "clan_political_relationship_standing_description_four"
+msgstr "可以使用杂货商.\n不会被防御塔攻击."
+
+msgid "map_context_menu_gm_teleport_to_tile"
+msgstr "[GM] Teleport to tile \"%1\""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_polearm"
+msgstr "双手长柄"
+
+msgid "clan_window_diplomacy_bank_policy_all_access"
+msgstr "同意所有"
+
+msgid "clan_window_tabs_activity_window"
+msgstr "活动窗口"
+
+msgid "market_confirm_dialog_sell_now_description"
+msgstr "你将出售 %1 %2为得到%3金币!"
+
+msgid "map_marker_spawn_easy"
+msgstr "简单"
+
+msgid "clan_role_name_vault_three_take"
+msgstr "可以查看和提取宝库3中的物品."
+
+msgid "map_marker_housing"
+msgstr "房屋标记"
+
+msgid "clan_role_description_communications_officer"
+msgstr "通讯军官"
+
+msgid "context_menu_open_local_safe"
+msgstr "打开保险箱"
+
+msgid "map_marker_player_city"
+msgstr "公会城市"
+
+msgid "context_menu_open_clan_account2"
+msgstr "公会宝库一"
+
+msgid "map_marker_monster_common_loot"
+msgstr "普通战利品"
+
+msgid "market_section_title_buy_order_new"
+msgstr "创建新的购买订单"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
+msgstr "法杖"
+
+msgid "map_marker_spawn_dungeon"
+msgstr "地下城"
+
+msgid "barber_features_nose_accesory"
+msgstr "鼻饰"
+
+msgid "component_targeting_glyph_challenge_active"
+msgstr "宣战已激活,请准备使用雕文glyph!"
+
+msgid "task_countdown_available"
+msgstr "供于:  %1"
+
+msgid "clan_window_members_accept"
+msgstr "接受"
+
+msgid "slot_position_two"
+msgstr "2"
+
+msgid "market_received_item_sales_tax"
+msgstr "销售税: %1 g"
+
+msgid "are_you_sure"
+msgstr "确定?"
+
+msgid "clan_window_general_allowed_races"
+msgstr "同意种族"
+
+msgid "market_filter_minimum_durability"
+msgstr "最低耐久:"
+
+msgid "map_marker_clan_member"
+msgstr "公会成员标记"
+
+msgid "tasks_show_in_tracker"
+msgstr "显示任务进度"
+
+msgid "context_menu_whisper_to_player"
+msgstr "私聊"
+
+msgid "clan_window_vault_inventory_type_names_singular_player"
+msgstr "玩家"
+
+msgid "clan_window_clan_info_politics_relations_standing"
+msgstr "站立"
+
+msgid "component_targeting_controlled_by"
+msgstr "由%1控制"
+
+msgid "clan_political_relationship_standing_description_neg_six"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "choose_appearance"
+msgstr "角色外观选择"
+
+msgid "clan_role_description_warfare_specialist"
+msgstr "争战专家"
+
+msgid "map_marker_destination"
+msgstr "%1出口"
+
+msgid "map_context_menu_add_annotation_at_character_position"
+msgstr "字符位置添加注释"
+
+msgid "map_marker_party_waypoint"
+msgstr "队伍标记者标记"
+
+msgid "market_receiving_refresh_items"
+msgstr "刷新项目"
+
+msgid "context_menu_unspawn_object"
+msgstr "无法刷新"
+
+msgid "map_context_menu_delete_annotation"
+msgstr "删除: %1"
+
+msgid "context_menu_invite_to_party"
+msgstr "邀请加入队伍"
+
+msgid "clan_window_glyphs_invalid_global_tax_multiple"
+msgstr "无效的全球税收(必须是一百的倍数)"
+
+msgid "weapon_bar_entry_dialog_title"
+msgstr "武器槽 %1选项"
+
+msgid "research_maxed_out"
+msgstr "超爆了!"
+
+msgid "market_fill_order_window_quantity_requested"
+msgstr "申请数量: %1"
+
+msgid "map_marker_conquest"
+msgstr "征服标记"
+
+msgid "task_target"
+msgstr "目标: "
+
+msgid "start_button"
+msgstr "开始"
+
+msgid "market_section_title_buy_orders"
+msgstr "购买订单"
+
+msgid "market_fill_order_window_buyer"
+msgstr "买家: "
+
+msgid "clan_window_members_headers_gender"
+msgstr "性别"
+
+msgid "context_menu_open_clan_account3"
+msgstr "公会宝库三"
+
+msgid "holding_maintenance_due_minutes"
+msgstr "%1分钟 "
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_sword"
+msgstr "单手剑"
+
+msgid "component_targeting_glyph_attack_time_remaining"
+msgstr "发起攻击时间: %1"
+
+msgid "clan_role_description_vault_three_take"
+msgstr "宝库三"
+
+msgid "context_menu_transfer_house_to_player"
+msgstr "房契转移"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_3"
+msgstr "消失的账号."
+
+msgid "clan_political_relationship_standing_description_neg_three"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "market_section_title_sale_orders"
+msgstr "销售订单"
+
+msgid "glyph_rule_name_allies"
+msgstr "同意联盟"
+
+msgid "news_reel_filters_politics"
+msgstr "政治观点"
+
+msgid "market_button_shipping"
+msgstr "海运"
+
+msgid "clan_role_description_none"
+msgstr "没有成员"
+
+msgid "market_filter_price_min"
+msgstr "单价:       最少"
+
+msgid "clan_role_description_vault_one_query"
+msgstr "宝库1目录"
+
+msgid "map_marker_monster_spawn"
+msgstr "怪物刷新位置"
+
+msgid "context_menu_chaos_bindstone_menu"
+msgstr "创建传送书位置"
+
+msgid "market_update_select_order"
+msgstr "选择需要更改顺序的订单"
+
+msgid "slot_position_eight"
+msgstr "8"
+
+msgid "map_marker_spawn_hard"
+msgstr "困难"
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_2"
+msgstr "多种武器的最高伤害可能相同,所以可以进一步筛选."
+
+msgid "clan_window_news_headers_date"
+msgstr "日期"
+
+msgid "clan_role_description_diplomat"
+msgstr "外交官"
+
+msgid "clan_window_vault_inventory_type_names_plural_player"
+msgstr "玩家"
+
+msgid "market_button_claim"
+msgstr "索要赔偿"
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_2"
+msgstr "右键单击可添加武器类型,将武器类型拖到游戏主窗口可将其删除,或将一种武器拖到另一种武器上可交换其顺序."
+
+msgid "clan_activity_window_display_title"
+msgstr "活动窗口"
+
+msgid "market_buttons_buy_listed_item"
+msgstr "购买清单项目"
+
+msgid "clan_window_tabs_news"
+msgstr "新闻"
+
+msgid "market_other_filters"
+msgstr "其它筛选条件"
+
+msgid "context_menu_city_maintenance"
+msgstr "城市维护"
+
+msgid "clan_window_general_alignment"
+msgstr "公会正义值:"
+
+msgid "paperdoll_label_weapon_bar"
+msgstr "武器绑定"
+
+msgid "map_marker_npc_city"
+msgstr "任务派系城市"
+
+msgid "clan_role_name_communications_officer"
+msgstr "可以设置当天公会信息."
+
+msgid "market_chat_notification_sell_order_cancel_success"
+msgstr "成功取消订单."
+
+msgid "auto_equip_config_filter_only_these_weapon_types"
+msgstr "特定武器类型"
+
+msgid "bank_tabs_enchant_materials"
+msgstr "附魔材料"
+
+msgid "slot_position_three"
+msgstr "3"
+
+msgid "market_notification_order_cancellation_success"
+msgstr "订单取消成功"
+
+msgid "clan_window_holdings_population"
+msgstr "人口数量"
+
+msgid "barber_features_braids"
+msgstr "辫子"
+
+msgid "clan_window_holdings_mayor"
+msgstr "市长"
+
+msgid "clan_political_relationship_standing_description_neg_five"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "component_targeting_glyph_time_remaining"
+msgstr "剩余时间: %1"
+
+msgid "weapon_bar_binding_description"
+msgstr "按下启动武器槽 %1"
+
+msgid "clan_role_name_personnel_manager"
+msgstr "可以发送公会邀请函并接受申请."
+
+msgid "market_update_duration"
+msgstr "持续时间: "
+
+msgid "market_filter_no_listings_available"
+msgstr "没有可用的列表."
+
+msgid "clan_activity_window_display_stage_name_and_range"
+msgstr "%1 来自 %2 到 %3"
+
+msgid "clan_window_tabs_vault"
+msgstr "宝库"
+
+msgid "bank_tabs_bank"
+msgstr "银行"
+
+msgid "display_modes_windowed"
+msgstr "窗口模式"
+
+msgid "glyph_rule_name_tax_option"
+msgstr "取消税务"
+
+msgid "market_title_global_market"
+msgstr "世界交易拍卖行"
+
+msgid "hotbar_slot_option_trigger_weapon_bar_slot"
+msgstr "触发武器槽"
+
+msgid "chat_window_fps"
+msgstr " - FPS: %1"
+
+msgid "clan_role_name_construction_auditor"
+msgstr "查看公会城项目列表."
+
+msgid "market_buttons_buy_selected"
+msgstr "购买选项"
+
+msgid "market_label_broker_fee"
+msgstr "经纪费:"
+
+msgid "clan_political_relationship_standing_description_neg_seven"
+msgstr "无法使用设施.\n会被防御塔攻击."
+
+msgid "map_marker_traderoute_markers"
+msgstr "贸易路线标记"
+
+msgid "slot_position_seven"
+msgstr "7"
+
+msgid "clan_window_vault_vault"
+msgstr "宝库"
+
+msgid "options_texture_filtering_anisotropic"
+msgstr "异向性"
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_2"
+msgstr "如果武器是单手近战武器,盾牌将始终自动装备可用."
+
+msgid "map_marker_bank"
+msgstr "银行"
+
+msgid "clan_window_clan_info_clan_motto"
+msgstr "公会座右铭"
+
+msgid "clan_window_vault_inventory_type_names_plural_challenge"
+msgstr "挑战"
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greatsword"
+msgstr "双手剑"
+
+msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
+msgstr "你没有所需的军衔,无法提升成员为高级将领."
+
+msgid "quit_button"
+msgstr "退出"
+
+msgid "vital_stats_display_modes_percentage_only"
+msgstr "仅百分比"
+
+msgid "market_my_sell_orders"
+msgstr "我的售卖订单"
+
+msgid "options_shader_version_ps3"
+msgstr "PS3_0"
+
+msgid "context_menu_invite_to_clan"
+msgstr "邀请进公会"
+
+msgid "market_expiration_seconds"
+msgstr "%1秒"
+
+msgid "clan_window_headers_action"
+msgstr "行动"
+
+msgid "news_reel_filters_fortresses"
+msgstr "堡垒"
+
+msgid "glyph_rule_name_tax_amount"
+msgstr "使用税"
+
+msgid "clan_role_name_vault_two_take"
+msgstr "可以从宝库二查看目录并获取物品."
+
+msgid "map_marker_spawn_very_easy"
+msgstr "非常简单"
+
+msgid "market_buttons_create_buy_order"
+msgstr "制作一个购买订单"
+
+msgid "activatable_bar_slot_option_auto_parry"
+msgstr "自动招架防御"
+
+msgid "map_marker_vendor_Fighter"
+msgstr "战士"
+
+msgid "map_marker_vendor_Mage"
+msgstr "法师"
+
+msgid "map_marker_vendor_Councillor"
+msgstr "议员"
+
+msgid "map_marker_vendor_Arcanist"
+msgstr "奥术师"
+
+msgid "map_marker_vendor_Blacksmith"
+msgstr "铁匠"
+
+msgid "map_marker_vendor_Merchant"
+msgstr "商人"
+

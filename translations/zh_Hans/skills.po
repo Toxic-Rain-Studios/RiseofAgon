@@ -1,5907 +1,5906 @@
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: zh_Hans\n"
+"Language: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "AttachObjectSkill"
-msgstr ""
-
-msgid "DEBUG_TESTING"
-msgstr ""
-
-msgid "DetachObjectSkill"
-msgstr ""
-
-msgid "DropObjectSkill"
-msgstr ""
-
-msgid "PickupObjectSkill"
-msgstr ""
-
-msgid "RunSkill"
-msgstr ""
 
 msgid "Skill"
-msgstr ""
-
-msgid "SlashingCombatSkill"
-msgstr ""
-
-msgid "SprintSkill"
-msgstr ""
-
-msgid "WalkSkill"
-msgstr ""
-
-msgid "desc_AttachObjectSkill"
-msgstr ""
-
-msgid "desc_DEBUG_TESTING"
-msgstr ""
-
-msgid "desc_DetachObjectSkill"
-msgstr ""
-
-msgid "desc_DropObjectSkill"
-msgstr ""
-
-msgid "desc_PickupObjectSkill"
-msgstr ""
-
-msgid "desc_RunSkill"
-msgstr ""
+msgstr "技能"
 
 msgid "desc_Skill"
-msgstr ""
+msgstr "技能描述"
 
-msgid "desc_SlashingCombatSkill"
-msgstr ""
+msgid "s_Other Skills"
+msgstr "其他技能"
 
-msgid "desc_SprintSkill"
-msgstr ""
+msgid "desc_s_Other Skills"
+msgstr "Description of s_Other Skills"
 
-msgid "desc_WalkSkill"
-msgstr ""
-
-msgid "desc_jumpskill"
-msgstr ""
-
-msgid "desc_s_Acid Arrow"
-msgstr ""
-
-msgid "desc_s_Acid Arrow_1"
-msgstr ""
-
-msgid "desc_s_Acid Explosion"
-msgstr ""
-
-msgid "desc_s_Acid Explosion_1"
-msgstr ""
-
-msgid "desc_s_Acid Rain"
-msgstr ""
-
-msgid "desc_s_Acid Rain_1"
-msgstr ""
-
-msgid "desc_s_Acid Shield"
-msgstr ""
-
-msgid "desc_s_Acid Shield_1"
-msgstr ""
-
-msgid "desc_s_Acid Ward"
-msgstr ""
-
-msgid "desc_s_Acid Ward_1"
-msgstr ""
-
-msgid "desc_s_Acrobatics"
-msgstr ""
-
-msgid "desc_s_Add Effect DOT"
-msgstr ""
-
-msgid "desc_s_Add Effect Duration"
-msgstr ""
-
-msgid "desc_s_Add Effect Main"
-msgstr ""
-
-msgid "desc_s_Adept"
-msgstr ""
-
-msgid "desc_s_Adept Shot"
-msgstr ""
-
-msgid "desc_s_Adept_1"
-msgstr ""
-
-msgid "desc_s_Agility"
-msgstr ""
-
-msgid "desc_s_Agility_1"
-msgstr ""
-
-msgid "desc_s_Air Magic"
-msgstr ""
-
-msgid "desc_s_Air Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Alchemy"
-msgstr ""
-
-msgid "desc_s_Alchemy Mastery"
-msgstr ""
-
-msgid "desc_s_Alfar Cunning"
-msgstr ""
-
-msgid "desc_s_Alfar Intellect"
-msgstr ""
-
-msgid "desc_s_Alfar Resilience"
-msgstr ""
-
-msgid "desc_s_Antitank Archery"
-msgstr ""
-
-msgid "desc_s_Antitank Archery_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Axes"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Club"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Club_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greataxes"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greataxes_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greatclubs"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greatclubs_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greatswords"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Greatswords_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Knives"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Knives_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Polearms"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Polearms_1"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Swords"
-msgstr ""
-
-msgid "desc_s_Antitank Attack_Swords_1"
-msgstr ""
-
-msgid "desc_s_Antitank Spell"
-msgstr ""
-
-msgid "desc_s_Antitank Spell_1"
-msgstr ""
-
-msgid "desc_s_Antitank_Attack_Axes_1"
-msgstr ""
-
-msgid "desc_s_Anvil Skills"
-msgstr ""
-
-msgid "desc_s_Arcane Magic"
-msgstr ""
-
-msgid "desc_s_Arcane Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Archery"
-msgstr ""
-
-msgid "desc_s_Archery Attacks"
-msgstr ""
-
-msgid "desc_s_Archery Skills"
-msgstr ""
-
-msgid "desc_s_Archery_1"
-msgstr ""
-
-msgid "desc_s_Archmage"
-msgstr ""
-
-msgid "desc_s_Armor Proficiency"
-msgstr ""
-
-msgid "desc_s_Armored Archery"
-msgstr ""
-
-msgid "desc_s_Armored Casting"
-msgstr ""
-
-msgid "desc_s_Armorsmithing"
-msgstr ""
-
-msgid "desc_s_Armorsmithing Mastery"
-msgstr ""
-
-msgid "desc_s_Armour and Shield Skills"
-msgstr ""
-
-msgid "desc_s_Arrow Shield"
-msgstr ""
-
-msgid "desc_s_Arrow Shield_1"
-msgstr ""
-
-msgid "desc_s_Arrow Ward"
-msgstr ""
-
-msgid "desc_s_Arrow Ward_1"
-msgstr ""
-
-msgid "desc_s_Artillery Construction"
-msgstr ""
-
-msgid "desc_s_Athletic Skills"
-msgstr ""
-
-msgid "desc_s_Attack_Archery"
-msgstr ""
-
-msgid "desc_s_AttributeModification"
-msgstr ""
-
-msgid "desc_s_Axe Attacks"
-msgstr ""
-
-msgid "desc_s_Axe Mastery"
-msgstr ""
-
-msgid "desc_s_Axe Skills"
-msgstr ""
-
-msgid "desc_s_Axes"
-msgstr ""
-
-msgid "desc_s_Axes_1"
-msgstr ""
-
-msgid "desc_s_Backstab"
-msgstr ""
-
-msgid "desc_s_Ball Lightning"
-msgstr ""
-
-msgid "desc_s_Ball Lightning_1"
-msgstr ""
+msgid "s_Basic Movement Skills"
+msgstr "基本运动技能"
 
 msgid "desc_s_Basic Movement Skills"
-msgstr ""
+msgstr "Description of s_Basic Movement Skills"
 
-msgid "desc_s_Beacon"
-msgstr ""
-
-msgid "desc_s_Beacon_1"
-msgstr ""
-
-msgid "desc_s_Begone"
-msgstr ""
-
-msgid "desc_s_Begone_1"
-msgstr ""
-
-msgid "desc_s_Bindstone Recall"
-msgstr ""
-
-msgid "desc_s_Blast"
-msgstr ""
-
-msgid "desc_s_Blast_1"
-msgstr ""
-
-msgid "desc_s_Blast_2"
-msgstr ""
-
-msgid "desc_s_Blast_3"
-msgstr ""
-
-msgid "desc_s_Bleeding Hit"
-msgstr ""
-
-msgid "desc_s_Bleeding Hit_1"
-msgstr ""
-
-msgid "desc_s_Bless Other"
-msgstr ""
-
-msgid "desc_s_Bless Other_1"
-msgstr ""
-
-msgid "desc_s_Blessing"
-msgstr ""
-
-msgid "desc_s_Blessing_1"
-msgstr ""
-
-msgid "desc_s_Blizzard"
-msgstr ""
-
-msgid "desc_s_Blizzard_1"
-msgstr ""
-
-msgid "desc_s_Bloodcraft"
-msgstr ""
-
-msgid "desc_s_Bludgeoning Weakness"
-msgstr ""
-
-msgid "desc_s_Bludgeoning Weakness_1"
-msgstr ""
-
-msgid "desc_s_Boon of Agony"
-msgstr ""
-
-msgid "desc_s_Boon of Agony_1"
-msgstr ""
-
-msgid "desc_s_Boon of Blight"
-msgstr ""
-
-msgid "desc_s_Boon of Blight_1"
-msgstr ""
-
-msgid "desc_s_Boon of Domination"
-msgstr ""
-
-msgid "desc_s_Boon of Domination_1"
-msgstr ""
-
-msgid "desc_s_Boon of Mutilation"
-msgstr ""
-
-msgid "desc_s_Boon of Mutilation_1"
-msgstr ""
-
-msgid "desc_s_Boon of Storms"
-msgstr ""
-
-msgid "desc_s_Boon of Storms_1"
-msgstr ""
-
-msgid "desc_s_Boon of Storms_2"
-msgstr ""
-
-msgid "desc_s_Boon of Waves"
-msgstr ""
-
-msgid "desc_s_Boon of Waves_1"
-msgstr ""
-
-msgid "desc_s_Bowyer"
-msgstr ""
-
-msgid "desc_s_Bowyer Mastery"
-msgstr ""
-
-msgid "desc_s_Brawn"
-msgstr ""
-
-msgid "desc_s_Brawn_1"
-msgstr ""
-
-msgid "desc_s_Burden"
-msgstr ""
-
-msgid "desc_s_Burden_1"
-msgstr ""
-
-msgid "desc_s_Cake and Fine Wine"
-msgstr ""
-
-msgid "desc_s_Cake and Fine Wine_1"
-msgstr ""
-
-msgid "desc_s_Camp"
-msgstr ""
-
-msgid "desc_s_Camp_1"
-msgstr ""
-
-msgid "desc_s_Capital Recall"
-msgstr ""
-
-msgid "desc_s_Clear Thoughts"
-msgstr ""
-
-msgid "desc_s_Clear Thoughts_1"
-msgstr ""
-
-msgid "desc_s_Clever"
-msgstr ""
+msgid "s_Climb"
+msgstr "攀爬"
 
 msgid "desc_s_Climb"
 msgstr ""
 
-msgid "desc_s_Club Attacks"
-msgstr ""
-
-msgid "desc_s_Club Mastery"
-msgstr ""
-
-msgid "desc_s_Club and Mace Skills"
-msgstr ""
-
-msgid "desc_s_Clubs and Maces"
-msgstr ""
-
-msgid "desc_s_Clubs and Maces_1"
-msgstr ""
-
-msgid "desc_s_Cold Shield"
-msgstr ""
-
-msgid "desc_s_Cold Shield_prot"
-msgstr ""
-
-msgid "desc_s_Cold Ward"
-msgstr ""
-
-msgid "desc_s_Cold Ward_1"
-msgstr ""
-
-msgid "desc_s_Combat Enhancements"
-msgstr ""
-
-msgid "desc_s_Combat Skills"
-msgstr ""
-
-msgid "desc_s_Come Hither"
-msgstr ""
-
-msgid "desc_s_Come Hither_1"
-msgstr ""
-
-msgid "desc_s_Come Hither_2"
-msgstr ""
-
-msgid "desc_s_Confusion"
-msgstr ""
-
-msgid "desc_s_Confusion_1"
-msgstr ""
-
-msgid "desc_s_Constitution"
-msgstr ""
-
-msgid "desc_s_Construction"
-msgstr ""
-
-msgid "desc_s_Cooking"
-msgstr ""
-
-msgid "desc_s_Cooking Mastery"
-msgstr ""
-
-msgid "desc_s_Corrosive Blast"
-msgstr ""
-
-msgid "desc_s_Corrosive Blast_1"
-msgstr ""
-
-msgid "desc_s_Corrosive Blast_2"
-msgstr ""
-
-msgid "desc_s_Crafting Skills"
-msgstr ""
-
-msgid "desc_s_Critical Shot"
-msgstr ""
-
-msgid "desc_s_Crouch"
-msgstr ""
-
-msgid "desc_s_Crouch walk"
-msgstr ""
-
-msgid "desc_s_Cursed Bolt"
-msgstr ""
-
-msgid "desc_s_Cursed Bolt_1"
-msgstr ""
-
-msgid "desc_s_Damaging Blow"
-msgstr ""
-
-msgid "desc_s_Damaging Blow_1"
-msgstr ""
-
-msgid "desc_s_Death Fog"
-msgstr ""
-
-msgid "desc_s_Death Fog_1"
-msgstr ""
-
-msgid "desc_s_Defense"
-msgstr ""
-
-msgid "desc_s_Defensive Stance"
-msgstr ""
-
-msgid "desc_s_Delayed Shot"
-msgstr ""
-
-msgid "desc_s_Delayed Shot_1"
-msgstr ""
-
-msgid "desc_s_Desecration"
-msgstr ""
-
-msgid "desc_s_Desecration_1"
-msgstr ""
-
-msgid "desc_s_Digging"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Axe"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Axe_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Axe_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Club"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Club_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Club_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greataxe"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greataxe_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greataxe_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatclub"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatclub_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatclub_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatsword"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatsword_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Greatsword_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Knives"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Knives_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Knives_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Polearm"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Polearm_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Polearm_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sithra"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sithra_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sithra_2"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sword"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sword_1"
-msgstr ""
-
-msgid "desc_s_Disabling Blow_Sword_2"
-msgstr ""
-
-msgid "desc_s_Disabling Bolt"
-msgstr ""
-
-msgid "desc_s_Disabling Bolt_1"
-msgstr ""
-
-msgid "desc_s_Disabling Bolt_2"
-msgstr ""
-
-msgid "desc_s_Disabling Shot"
-msgstr ""
-
-msgid "desc_s_Disabling Shot_1"
-msgstr ""
-
-msgid "desc_s_Disabling Shot_2"
-msgstr ""
-
-msgid "desc_s_Disease"
-msgstr ""
-
-msgid "desc_s_Disease_1"
-msgstr ""
-
-msgid "desc_s_Disintegrate"
-msgstr ""
-
-msgid "desc_s_Disintegrate_1"
-msgstr ""
-
-msgid "desc_s_Divine Magic"
-msgstr ""
-
-msgid "desc_s_Divine Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Diving"
-msgstr ""
-
-msgid "desc_s_Dragon Acid Blast"
-msgstr ""
-
-msgid "desc_s_Dragon Acid Blast_acid"
-msgstr ""
-
-msgid "desc_s_Dragon Acid Blast_impact"
-msgstr ""
-
-msgid "desc_s_Dragon Acid Breath"
-msgstr ""
-
-msgid "desc_s_Dragon Acid Breath_1"
-msgstr ""
-
-msgid "desc_s_Dragon Cold Blast"
-msgstr ""
-
-msgid "desc_s_Dragon Cold Blast_cold"
-msgstr ""
-
-msgid "desc_s_Dragon Cold Blast_impact"
-msgstr ""
-
-msgid "desc_s_Dragon Cold Breath"
-msgstr ""
-
-msgid "desc_s_Dragon Cold Breath_1"
-msgstr ""
-
-msgid "desc_s_Dragon Fire Blast"
-msgstr ""
-
-msgid "desc_s_Dragon Fire Blast_fire"
-msgstr ""
-
-msgid "desc_s_Dragon Fire Blast_impact"
-msgstr ""
-
-msgid "desc_s_Dragon Fire Breath"
-msgstr ""
-
-msgid "desc_s_Dragon Fire Breath_1"
-msgstr ""
-
-msgid "desc_s_Dragon Lightning Blast"
-msgstr ""
-
-msgid "desc_s_Dragon Lightning Blast_impact"
-msgstr ""
-
-msgid "desc_s_Dragon Lightning Blast_lightning"
-msgstr ""
-
-msgid "desc_s_Dragon Lightning Breath"
-msgstr ""
-
-msgid "desc_s_Dragon Lightning Breath_1"
-msgstr ""
-
-msgid "desc_s_Dragonbreath"
-msgstr ""
-
-msgid "desc_s_Dragonbreath_1"
-msgstr ""
-
-msgid "desc_s_Drink"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Air Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Arcane Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Earth Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Fire Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Greater Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Lesser Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Necromancy"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Ritual Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Spell Chanting"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Water Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Wild Magic"
-msgstr ""
-
-msgid "desc_s_Durable Spells_Witchcraft"
-msgstr ""
-
-msgid "desc_s_Dwarven Durability"
-msgstr ""
-
-msgid "desc_s_Dwarven Perseverance"
-msgstr ""
-
-msgid "desc_s_Dwarven Perseverance_1"
-msgstr ""
-
-msgid "desc_s_Dwarven Steelmaster"
-msgstr ""
-
-msgid "desc_s_Dye Crafting"
-msgstr ""
-
-msgid "desc_s_Dyeing"
-msgstr ""
-
-msgid "desc_s_Dyeing Skills"
-msgstr ""
-
-msgid "desc_s_Earth Magic"
-msgstr ""
-
-msgid "desc_s_Earth Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Earthquake"
-msgstr ""
-
-msgid "desc_s_Earthquake_1"
-msgstr ""
-
-msgid "desc_s_Eat"
-msgstr ""
-
-msgid "desc_s_Eldritch Sphere"
-msgstr ""
-
-msgid "desc_s_Eldritch Sphere_1"
-msgstr ""
-
-msgid "desc_s_Enchantment"
-msgstr ""
-
-msgid "desc_s_Enchantment Add Effects"
-msgstr ""
-
-msgid "desc_s_Enchantment Skills"
-msgstr ""
-
-msgid "desc_s_Endurance"
-msgstr ""
-
-msgid "desc_s_Engineering"
-msgstr ""
-
-msgid "desc_s_Engineering Mastery"
-msgstr ""
-
-msgid "desc_s_Environmental Skills"
-msgstr ""
-
-msgid "desc_s_Esoteric"
-msgstr ""
-
-msgid "desc_s_Evil Eye"
-msgstr ""
-
-msgid "desc_s_Evil Eye_1"
-msgstr ""
-
-msgid "desc_s_Examine Object"
-msgstr ""
-
-msgid "desc_s_Exhaust"
-msgstr ""
-
-msgid "desc_s_Exhaust_1"
-msgstr ""
-
-msgid "desc_s_Exploding Charge"
-msgstr ""
-
-msgid "desc_s_Exploding Charge_Area"
-msgstr ""
-
-msgid "desc_s_Explosion"
-msgstr ""
-
-msgid "desc_s_Explosion_fire"
-msgstr ""
-
-msgid "desc_s_Eye Rot"
-msgstr ""
-
-msgid "desc_s_Eye Rot_1"
-msgstr ""
-
-msgid "desc_s_Eye Rot_2"
-msgstr ""
-
-msgid "desc_s_Eye Rot_3"
-msgstr ""
-
-msgid "desc_s_Falling Technique"
-msgstr ""
-
-msgid "desc_s_Fire Cannon"
-msgstr ""
-
-msgid "desc_s_Fire Cannon_02"
-msgstr ""
-
-msgid "desc_s_Fire Magic"
-msgstr ""
-
-msgid "desc_s_Fire Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Fire Shield"
-msgstr ""
-
-msgid "desc_s_Fire Shield_prot"
-msgstr ""
-
-msgid "desc_s_Fire Shock Charge"
-msgstr ""
-
-msgid "desc_s_Fire Ward"
-msgstr ""
-
-msgid "desc_s_Fire Ward_prot"
-msgstr ""
-
-msgid "desc_s_Fireball"
-msgstr ""
-
-msgid "desc_s_Fireball_2"
-msgstr ""
-
-msgid "desc_s_Fireball_Area"
-msgstr ""
-
-msgid "desc_s_Firebolt"
-msgstr ""
-
-msgid "desc_s_Firebolt_area"
-msgstr ""
-
-msgid "desc_s_Fishing"
-msgstr ""
-
-msgid "desc_s_Fishing Mastery"
-msgstr ""
-
-msgid "desc_s_Fitness"
-msgstr ""
-
-msgid "desc_s_Flames of Vengeance"
-msgstr ""
-
-msgid "desc_s_Flames of Vengeance_1"
-msgstr ""
-
-msgid "desc_s_Fleet"
-msgstr ""
-
-msgid "desc_s_Flesh Curse"
-msgstr ""
-
-msgid "desc_s_Flesh Curse_1"
-msgstr ""
+msgid "s_Fly"
+msgstr "飞行"
 
 msgid "desc_s_Fly"
 msgstr ""
 
-msgid "desc_s_Focus"
-msgstr ""
-
-msgid "desc_s_Fortitude"
-msgstr ""
-
-msgid "desc_s_Foundry Skills"
-msgstr ""
-
-msgid "desc_s_Frailty"
-msgstr ""
-
-msgid "desc_s_Frailty_1"
-msgstr ""
-
-msgid "desc_s_Frostbite"
-msgstr ""
-
-msgid "desc_s_Frostbite_1"
-msgstr ""
-
-msgid "desc_s_Gank"
-msgstr ""
-
-msgid "desc_s_Gank_1"
-msgstr ""
-
-msgid "desc_s_Gem Enchanting"
-msgstr ""
-
-msgid "desc_s_General Skills"
-msgstr ""
-
-msgid "desc_s_Gills"
-msgstr ""
-
-msgid "desc_s_Gills_1"
-msgstr ""
+msgid "s_Glide"
+msgstr "滑行"
 
 msgid "desc_s_Glide"
 msgstr ""
 
-msgid "desc_s_Gravity"
-msgstr ""
-
-msgid "desc_s_Gravity_1"
-msgstr ""
-
-msgid "desc_s_Greataxe Attacks"
-msgstr ""
-
-msgid "desc_s_Greataxe Mastery"
-msgstr ""
-
-msgid "desc_s_Greataxe Skills"
-msgstr ""
-
-msgid "desc_s_Greataxes"
-msgstr ""
-
-msgid "desc_s_Greataxes_1"
-msgstr ""
-
-msgid "desc_s_Greatclub Attacks"
-msgstr ""
-
-msgid "desc_s_Greatclub Mastery"
-msgstr ""
-
-msgid "desc_s_Greatclub Skills"
-msgstr ""
-
-msgid "desc_s_Greatclubs"
-msgstr ""
-
-msgid "desc_s_Greatclubs_1"
-msgstr ""
-
-msgid "desc_s_Greater Magic"
-msgstr ""
-
-msgid "desc_s_Greater Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Greatsword Attacks"
-msgstr ""
-
-msgid "desc_s_Greatsword Mastery"
-msgstr ""
-
-msgid "desc_s_Greatsword Skills"
-msgstr ""
-
-msgid "desc_s_Greatswords"
-msgstr ""
-
-msgid "desc_s_Greatswords_1"
-msgstr ""
-
-msgid "desc_s_Guiding Wind"
-msgstr ""
-
-msgid "desc_s_Guiding Wind_1"
-msgstr ""
-
-msgid "desc_s_Harvesting Skills"
-msgstr ""
-
-msgid "desc_s_Haste"
-msgstr ""
-
-msgid "desc_s_Haste_1"
-msgstr ""
-
-msgid "desc_s_Hasten Spells"
-msgstr ""
-
-msgid "desc_s_Hasten Spells_1"
-msgstr ""
-
-msgid "desc_s_Heal Mount"
-msgstr ""
-
-msgid "desc_s_Heal Mount_1"
-msgstr ""
-
-msgid "desc_s_Heal Other"
-msgstr ""
-
-msgid "desc_s_Heal Other_1"
-msgstr ""
-
-msgid "desc_s_Heal Self"
-msgstr ""
-
-msgid "desc_s_Heal Self_1"
-msgstr ""
-
-msgid "desc_s_Healing Chant"
-msgstr ""
-
-msgid "desc_s_Healing Chant_1"
-msgstr ""
-
-msgid "desc_s_Health"
-msgstr ""
-
-msgid "desc_s_Health to Mana"
-msgstr ""
-
-msgid "desc_s_Health to Mana_1"
-msgstr ""
-
-msgid "desc_s_Herb Gathering"
-msgstr ""
-
-msgid "desc_s_Herb Gathering Mastery"
-msgstr ""
-
-msgid "desc_s_Holy Shield"
-msgstr ""
-
-msgid "desc_s_Holy Shield_1"
-msgstr ""
-
-msgid "desc_s_Holy Ward"
-msgstr ""
-
-msgid "desc_s_Holy Ward_1"
-msgstr ""
-
-msgid "desc_s_Holy Weakness"
-msgstr ""
-
-msgid "desc_s_Holy Weakness_1"
-msgstr ""
-
-msgid "desc_s_House Recall"
-msgstr ""
-
-msgid "desc_s_Human Ingenuity"
-msgstr ""
-
-msgid "desc_s_Human Longevity"
-msgstr ""
-
-msgid "desc_s_Human Willpower"
-msgstr ""
-
-msgid "desc_s_Hymn of Intellect"
-msgstr ""
-
-msgid "desc_s_Hymn of Intellect_1"
-msgstr ""
-
-msgid "desc_s_Hymn of Might"
-msgstr ""
-
-msgid "desc_s_Hymn of Might_1"
-msgstr ""
-
-msgid "desc_s_Hymn of Skill"
-msgstr ""
-
-msgid "desc_s_Hymn of Skill_1"
-msgstr ""
-
-msgid "desc_s_Hymn of Swiftness"
-msgstr ""
-
-msgid "desc_s_Hymn of Swiftness_1"
-msgstr ""
-
-msgid "desc_s_Hymn of Vigor"
-msgstr ""
-
-msgid "desc_s_Hymn of Vigor_1"
-msgstr ""
-
-msgid "desc_s_Ice Storm"
-msgstr ""
-
-msgid "desc_s_Ice Storm_1"
-msgstr ""
-
-msgid "desc_s_Icicle"
-msgstr ""
-
-msgid "desc_s_Icicle_Cold"
-msgstr ""
-
-msgid "desc_s_Ignore Pain"
-msgstr ""
-
-msgid "desc_s_Impale"
-msgstr ""
-
-msgid "desc_s_Impale_1"
-msgstr ""
-
-msgid "desc_s_Impetus"
-msgstr ""
-
-msgid "desc_s_Impetus_1"
-msgstr ""
-
-msgid "desc_s_Improvement Skills"
-msgstr ""
-
-msgid "desc_s_Impulse"
-msgstr ""
-
-msgid "desc_s_Impulse_1"
-msgstr ""
-
-msgid "desc_s_Industry"
-msgstr ""
-
-msgid "desc_s_Infernal Shield"
-msgstr ""
-
-msgid "desc_s_Infernal Shield_1"
-msgstr ""
-
-msgid "desc_s_Infernal Ward"
-msgstr ""
-
-msgid "desc_s_Infernal Ward_1"
-msgstr ""
-
-msgid "desc_s_Inferno"
-msgstr ""
-
-msgid "desc_s_Inferno_area"
-msgstr ""
-
-msgid "desc_s_Infliction Shield"
-msgstr ""
-
-msgid "desc_s_Infliction Shield_1"
-msgstr ""
-
-msgid "desc_s_Infliction Ward"
-msgstr ""
-
-msgid "desc_s_Infliction Ward_1"
-msgstr ""
-
-msgid "desc_s_Ingenious"
-msgstr ""
-
-msgid "desc_s_Insect Swarm"
-msgstr ""
-
-msgid "desc_s_Insect Swarm_1"
-msgstr ""
-
-msgid "desc_s_Insect Swarm_2"
-msgstr ""
-
-msgid "desc_s_Insight"
-msgstr ""
-
-msgid "desc_s_Insight_1"
-msgstr ""
-
-msgid "desc_s_InstaGib"
-msgstr ""
-
-msgid "desc_s_InstaGib_1"
-msgstr ""
-
-msgid "desc_s_Intensify_Air Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Arcane Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Earth Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Fire Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Greater Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Lesser Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Necromancy"
-msgstr ""
-
-msgid "desc_s_Intensify_Ritual Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Spell Chanting"
-msgstr ""
-
-msgid "desc_s_Intensify_Water Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Wild Magic"
-msgstr ""
-
-msgid "desc_s_Intensify_Witchcraft"
-msgstr ""
-
-msgid "desc_s_Ironskin"
-msgstr ""
-
-msgid "desc_s_Ironskin_1"
-msgstr ""
-
-msgid "desc_s_Jewelsmithing"
-msgstr ""
+msgid "s_Jog"
+msgstr "慢跑"
 
 msgid "desc_s_Jog"
-msgstr ""
+msgstr "Description of s_Jog"
 
-msgid "desc_s_Jump"
-msgstr ""
-
-msgid "desc_s_Kneel"
-msgstr ""
-
-msgid "desc_s_Knife Attacks"
-msgstr ""
-
-msgid "desc_s_Knife Mastery"
-msgstr ""
-
-msgid "desc_s_Knife Skills"
-msgstr ""
-
-msgid "desc_s_Knives"
-msgstr ""
-
-msgid "desc_s_Knives_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Axe"
-msgstr ""
-
-msgid "desc_s_Knockback_Axe_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Club"
-msgstr ""
-
-msgid "desc_s_Knockback_Club_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Greataxe"
-msgstr ""
-
-msgid "desc_s_Knockback_Greataxe_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Greatclub"
-msgstr ""
-
-msgid "desc_s_Knockback_Greatclub_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Greatsword"
-msgstr ""
-
-msgid "desc_s_Knockback_Greatsword_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Knife"
-msgstr ""
-
-msgid "desc_s_Knockback_Knife_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Polearm"
-msgstr ""
-
-msgid "desc_s_Knockback_Polearm_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Sithras"
-msgstr ""
-
-msgid "desc_s_Knockback_Sithras_1"
-msgstr ""
-
-msgid "desc_s_Knockback_Sword"
-msgstr ""
-
-msgid "desc_s_Knockback_Sword_1"
-msgstr ""
-
-msgid "desc_s_Laboratory Skills"
-msgstr ""
-
-msgid "desc_s_Launch"
-msgstr ""
-
-msgid "desc_s_Launch_1"
-msgstr ""
-
-msgid "desc_s_Lay on Hands"
-msgstr ""
-
-msgid "desc_s_Lay on Hands_1"
-msgstr ""
-
-msgid "desc_s_Lend Mana"
-msgstr ""
-
-msgid "desc_s_Lend Mana_1"
-msgstr ""
-
-msgid "desc_s_Lesser Magic"
-msgstr ""
-
-msgid "desc_s_Lesser Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Levitation"
-msgstr ""
-
-msgid "desc_s_Levitation_1"
-msgstr ""
-
-msgid "desc_s_Lie"
-msgstr ""
-
-msgid "desc_s_Light"
-msgstr ""
-
-msgid "desc_s_Light_1"
-msgstr ""
-
-msgid "desc_s_Lightning Bolt"
-msgstr ""
-
-msgid "desc_s_Lightning Bolt_1"
-msgstr ""
-
-msgid "desc_s_Lightning Shield"
-msgstr ""
-
-msgid "desc_s_Lightning Shield_1"
-msgstr ""
-
-msgid "desc_s_Lightning Strike"
-msgstr ""
-
-msgid "desc_s_Lightning Strike_1"
-msgstr ""
-
-msgid "desc_s_Lightning Strike_2"
-msgstr ""
-
-msgid "desc_s_Lightning Ward"
-msgstr ""
-
-msgid "desc_s_Lightning Ward_1"
-msgstr ""
-
-msgid "desc_s_Lightning Weakness"
-msgstr ""
-
-msgid "desc_s_Lightning Weakness_1"
-msgstr ""
-
-msgid "desc_s_Logging"
-msgstr ""
-
-msgid "desc_s_Logging Mastery"
-msgstr ""
-
-msgid "desc_s_Magic Schools_Skills"
-msgstr ""
-
-msgid "desc_s_Magic Shield"
-msgstr ""
-
-msgid "desc_s_Magic Shield_resist"
-msgstr ""
-
-msgid "desc_s_Magic Skills"
-msgstr ""
-
-msgid "desc_s_Magic Ward"
-msgstr ""
-
-msgid "desc_s_Magic Ward_resist"
-msgstr ""
-
-msgid "desc_s_Magma Storm"
-msgstr ""
-
-msgid "desc_s_Magma Strom_fire"
-msgstr ""
-
-msgid "desc_s_Mahirim Endurance"
-msgstr ""
-
-msgid "desc_s_Mahirim Huntspeed"
-msgstr ""
-
-msgid "desc_s_Mahirim Reflexes"
-msgstr ""
+msgid "s_Mahirim Run"
+msgstr "狼人奔跑"
 
 msgid "desc_s_Mahirim Run"
-msgstr ""
+msgstr "选择技能并按鼠标左键启动."
 
-msgid "desc_s_Maintenance"
-msgstr ""
-
-msgid "desc_s_Mana Blast"
-msgstr ""
-
-msgid "desc_s_Mana Blast_1"
-msgstr ""
-
-msgid "desc_s_Mana Bonus"
-msgstr ""
-
-msgid "desc_s_Mana Conservation"
-msgstr ""
-
-msgid "desc_s_Mana Drain"
-msgstr ""
-
-msgid "desc_s_Mana Drain_Drain"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Air Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Arcane Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Earth Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Fire Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Greater Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Lesser Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Necromancy"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Ritual Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Spell Chanting"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Water Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Wild Magic"
-msgstr ""
-
-msgid "desc_s_Mana Efficiency_Witchcraft"
-msgstr ""
-
-msgid "desc_s_Mana Leech"
-msgstr ""
-
-msgid "desc_s_Mana Leech Hit"
-msgstr ""
-
-msgid "desc_s_Mana Leech Hit_1"
-msgstr ""
-
-msgid "desc_s_Mana Leech_1"
-msgstr ""
-
-msgid "desc_s_Mana Missile"
-msgstr ""
-
-msgid "desc_s_Mana Missile_Arcane"
-msgstr ""
-
-msgid "desc_s_Mana to Stamina"
-msgstr ""
-
-msgid "desc_s_Mana to Stamina_1"
-msgstr ""
-
-msgid "desc_s_Manipulate Skills"
-msgstr ""
-
-msgid "desc_s_Manufacturing Skills"
-msgstr ""
-
-msgid "desc_s_Max Health Bonus"
-msgstr ""
-
-msgid "desc_s_Max Health Bonus_1"
-msgstr ""
-
-msgid "desc_s_Max Mana Bonus"
-msgstr ""
-
-msgid "desc_s_Max Mana Bonus_1"
-msgstr ""
-
-msgid "desc_s_Max Stamina Bonus"
-msgstr ""
-
-msgid "desc_s_Max Stamina Bonus_1"
-msgstr ""
-
-msgid "desc_s_Medical Skills"
-msgstr ""
-
-msgid "desc_s_Melee General Skills"
-msgstr ""
-
-msgid "desc_s_Melee Powers"
-msgstr ""
-
-msgid "desc_s_Melee Skills"
-msgstr ""
-
-msgid "desc_s_Mental Weakness"
-msgstr ""
-
-msgid "desc_s_Mental Weakness_1"
-msgstr ""
-
-msgid "desc_s_Meteor Strike"
-msgstr ""
-
-msgid "desc_s_Meteor Strike_Impact"
-msgstr ""
-
-msgid "desc_s_Might"
-msgstr ""
-
-msgid "desc_s_Mining"
-msgstr ""
-
-msgid "desc_s_Mining Mastery"
-msgstr ""
-
-msgid "desc_s_Mirdain Insight"
-msgstr ""
-
-msgid "desc_s_Mirdain Precision"
-msgstr ""
-
-msgid "desc_s_Mirdain Sight"
-msgstr ""
-
-msgid "desc_s_Missile Fury"
-msgstr ""
-
-msgid "desc_s_Missile Fury_1"
-msgstr ""
-
-msgid "desc_s_Mixing"
-msgstr ""
-
-msgid "desc_s_Mortar and Pestle Skills"
-msgstr ""
-
-msgid "desc_s_Mount Attack"
-msgstr ""
-
-msgid "desc_s_Mount Attack_1"
-msgstr ""
-
-msgid "desc_s_Mount Attacks"
-msgstr ""
+msgid "s_Mount Swim"
+msgstr "坐骑游泳"
 
 msgid "desc_s_Mount Swim"
 msgstr ""
 
-msgid "desc_s_Movement Skills"
-msgstr ""
-
-msgid "desc_s_Mugging"
-msgstr ""
-
-msgid "desc_s_Muscular"
-msgstr ""
-
-msgid "desc_s_Mystic Shield"
-msgstr ""
-
-msgid "desc_s_Mystic Shield_1"
-msgstr ""
-
-msgid "desc_s_Mystic Ward"
-msgstr ""
-
-msgid "desc_s_Mystic Ward_1"
-msgstr ""
-
-msgid "desc_s_Natural Alt Special Gorra"
-msgstr ""
-
-msgid "desc_s_Natural Antitank"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Kraken"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Kraken_1"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Kraken_2"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Kraken_3"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Metal Golem"
-msgstr ""
-
-msgid "desc_s_Natural Antitank Stone Golem"
-msgstr ""
-
-msgid "desc_s_Natural Attack Acid_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Arcane_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Bleed_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Blunt"
-msgstr ""
-
-msgid "desc_s_Natural Attack Blunt_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Bow_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Crush"
-msgstr ""
-
-msgid "desc_s_Natural Attack Demon"
-msgstr ""
-
-msgid "desc_s_Natural Attack Disabling_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Explosion_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Explosion_2"
-msgstr ""
-
-msgid "desc_s_Natural Attack Explosion_3"
-msgstr ""
-
-msgid "desc_s_Natural Attack Explosion_4"
-msgstr ""
-
-msgid "desc_s_Natural Attack Impact"
-msgstr ""
-
-msgid "desc_s_Natural Attack Impact_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Knockback_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Knockback_2"
-msgstr ""
-
-msgid "desc_s_Natural Attack Kraken"
-msgstr ""
-
-msgid "desc_s_Natural Attack Metal Golem"
-msgstr ""
-
-msgid "desc_s_Natural Attack Pierce"
-msgstr ""
-
-msgid "desc_s_Natural Attack Pierce_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Poison_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Primary"
-msgstr ""
-
-msgid "desc_s_Natural Attack Slash"
-msgstr ""
-
-msgid "desc_s_Natural Attack Slash Executioner"
-msgstr ""
-
-msgid "desc_s_Natural Attack Slash_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Stamina_1"
-msgstr ""
-
-msgid "desc_s_Natural Attack Stone Golem"
-msgstr ""
-
-msgid "desc_s_Natural Attack Strength_1"
-msgstr ""
-
-msgid "desc_s_Natural Attacks"
-msgstr ""
-
-msgid "desc_s_Natural Basic Attacks"
-msgstr ""
-
-msgid "desc_s_Natural Bleeding"
-msgstr ""
-
-msgid "desc_s_Natural Bleeding Executioner"
-msgstr ""
-
-msgid "desc_s_Natural Crush Demon"
-msgstr ""
-
-msgid "desc_s_Natural Crush Doombringer"
-msgstr ""
-
-msgid "desc_s_Natural Crush Executioner"
-msgstr ""
-
-msgid "desc_s_Natural Crush Metal Golem"
-msgstr ""
-
-msgid "desc_s_Natural Crush Stone Golem"
-msgstr ""
-
-msgid "desc_s_Natural Disabling Blunt"
-msgstr ""
-
-msgid "desc_s_Natural Disabling Kraken"
-msgstr ""
-
-msgid "desc_s_Natural Disabling Metal Golem"
-msgstr ""
-
-msgid "desc_s_Natural Disabling Stone Golem"
-msgstr ""
-
-msgid "desc_s_Natural Elemental Whirlwind"
-msgstr ""
-
-msgid "desc_s_Natural Epic Attacks"
-msgstr ""
-
-msgid "desc_s_Natural Mageblast"
-msgstr ""
-
-msgid "desc_s_Natural Melee"
-msgstr ""
-
-msgid "desc_s_Natural Poison"
-msgstr ""
-
-msgid "desc_s_Natural Ranged"
-msgstr ""
-
-msgid "desc_s_Natural Ranged Bow"
-msgstr ""
-
-msgid "desc_s_Natural Special Attacks"
-msgstr ""
-
-msgid "desc_s_Natural Stamina Drain"
-msgstr ""
-
-msgid "desc_s_Natural Strength Penalty"
-msgstr ""
-
-msgid "desc_s_Natural Subskills"
-msgstr ""
-
-msgid "desc_s_Natural Whirlwind Poison"
-msgstr ""
-
-msgid "desc_s_Necromancy"
-msgstr ""
-
-msgid "desc_s_Necromancy_Spells"
-msgstr ""
-
-msgid "desc_s_Needles"
-msgstr ""
-
-msgid "desc_s_Needles_1"
-msgstr ""
-
-msgid "desc_s_Nimble"
-msgstr ""
-
-msgid "desc_s_Ominous Drain"
-msgstr ""
-
-msgid "desc_s_Ominous Drain_1"
-msgstr ""
-
-msgid "desc_s_Open Package"
-msgstr ""
-
-msgid "desc_s_Orkish Brutality"
-msgstr ""
-
-msgid "desc_s_Orkish Capacity"
-msgstr ""
-
-msgid "desc_s_Orkish Toughness"
-msgstr ""
-
-msgid "desc_s_Other Skills"
-msgstr ""
-
-msgid "desc_s_Oven Skills"
-msgstr ""
-
-msgid "desc_s_Pack Mule"
-msgstr ""
-
-msgid "desc_s_Palsy"
-msgstr ""
-
-msgid "desc_s_Palsy_1"
-msgstr ""
-
-msgid "desc_s_Parry"
-msgstr ""
-
-msgid "desc_s_Perseverance"
-msgstr ""
-
-msgid "desc_s_Pestilence"
-msgstr ""
-
-msgid "desc_s_Pestilence_1"
-msgstr ""
-
-msgid "desc_s_Physics Test A"
-msgstr ""
-
-msgid "desc_s_Physics Test A_1"
-msgstr ""
-
-msgid "desc_s_Physics Test B"
-msgstr ""
-
-msgid "desc_s_Physics Test B_1"
-msgstr ""
-
-msgid "desc_s_Physics Test C"
-msgstr ""
-
-msgid "desc_s_Physics Test C_1"
-msgstr ""
-
-msgid "desc_s_Physics Test D"
-msgstr ""
-
-msgid "desc_s_Physics Test D_1"
-msgstr ""
-
-msgid "desc_s_Physics Test E"
-msgstr ""
-
-msgid "desc_s_Physics Test E_1"
-msgstr ""
-
-msgid "desc_s_Pick Pockets"
-msgstr ""
-
-msgid "desc_s_Piercing Weakness"
-msgstr ""
-
-msgid "desc_s_Piercing Weakness_1"
-msgstr ""
-
-msgid "desc_s_Ping Waypoint"
-msgstr ""
-
-msgid "desc_s_Place Object"
-msgstr ""
-
-msgid "desc_s_Placement Skills"
-msgstr ""
-
-msgid "desc_s_Poison Resistance"
-msgstr ""
-
-msgid "desc_s_Polearm Attacks"
-msgstr ""
-
-msgid "desc_s_Polearm Mastery"
-msgstr ""
-
-msgid "desc_s_Polearm Skills"
-msgstr ""
-
-msgid "desc_s_Polearms"
-msgstr ""
-
-msgid "desc_s_Polearms_1"
-msgstr ""
-
-msgid "desc_s_Positioning Skills"
-msgstr ""
-
-msgid "desc_s_Power Attack_Axe"
-msgstr ""
-
-msgid "desc_s_Power Attack_Axe_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Axe_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Axe_3"
-msgstr ""
-
-msgid "desc_s_Power Attack_Axe_4"
-msgstr ""
-
-msgid "desc_s_Power Attack_Club"
-msgstr ""
-
-msgid "desc_s_Power Attack_Club_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Club_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greataxe"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greataxe_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greataxe_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greataxe_3"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greataxe_4"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatclub"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatclub_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatclub_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatsword"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatsword_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Greatsword_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Knife"
-msgstr ""
-
-msgid "desc_s_Power Attack_Knife_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Knife_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Polearm"
-msgstr ""
-
-msgid "desc_s_Power Attack_Polearm_1"
-msgstr ""
-
-msgid "desc_s_Power Attack_Polearm_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Polearm_3"
-msgstr ""
-
-msgid "desc_s_Power Attack_Polearm_4"
-msgstr ""
-
-msgid "desc_s_Power Attack_Sithra_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Sword"
-msgstr ""
-
-msgid "desc_s_Power Attack_Sword_2"
-msgstr ""
-
-msgid "desc_s_Power Attack_Sword_sub"
-msgstr ""
-
-msgid "desc_s_Power Attack_sithra"
-msgstr ""
-
-msgid "desc_s_Pray"
-msgstr ""
-
-msgid "desc_s_Precise Shot"
-msgstr ""
-
-msgid "desc_s_Proc Blizzard"
-msgstr ""
-
-msgid "desc_s_Proc Blizzard_1"
-msgstr ""
-
-msgid "desc_s_Proc Exploding Charge"
-msgstr ""
-
-msgid "desc_s_Proc Exploding Charge_Area"
-msgstr ""
-
-msgid "desc_s_Proc Meteor Strike"
-msgstr ""
-
-msgid "desc_s_Proc Meteor Strike_Impact"
-msgstr ""
-
-msgid "desc_s_Proc Rend"
-msgstr ""
-
-msgid "desc_s_Proc Rend_1"
-msgstr ""
-
-msgid "desc_s_Proc Unholy Flames"
-msgstr ""
-
-msgid "desc_s_Proc Unholy Flames_area"
-msgstr ""
-
-msgid "desc_s_Pungent Mist"
-msgstr ""
-
-msgid "desc_s_Pungent Mist_1"
-msgstr ""
-
-msgid "desc_s_Push"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Air Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Arcane Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Earth Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Fire Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Greater Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Lesser Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Necromancy"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Ritual Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Spell Chanting"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Water Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Wild Magic"
-msgstr ""
-
-msgid "desc_s_Quicken Spells_Witchcraft"
-msgstr ""
-
-msgid "desc_s_Rage"
-msgstr ""
-
-msgid "desc_s_Rage_1"
-msgstr ""
-
-msgid "desc_s_Rage_Healing"
-msgstr ""
-
-msgid "desc_s_Ranged Skills"
-msgstr ""
-
-msgid "desc_s_Rapid Shot"
-msgstr ""
-
-msgid "desc_s_Rapid Shot_1"
-msgstr ""
-
-msgid "desc_s_Read"
-msgstr ""
-
-msgid "desc_s_Reagent Conservation"
-msgstr ""
-
-msgid "desc_s_Reflect Spell"
-msgstr ""
-
-msgid "desc_s_Reflect Spell_1"
-msgstr ""
-
-msgid "desc_s_Reflex"
-msgstr ""
-
-msgid "desc_s_Rend"
-msgstr ""
-
-msgid "desc_s_Rend_1"
-msgstr ""
-
-msgid "desc_s_Rend_2"
-msgstr ""
-
-msgid "desc_s_Repair"
-msgstr ""
-
-msgid "desc_s_Repair Skills"
-msgstr ""
-
-msgid "desc_s_Replenish"
-msgstr ""
-
-msgid "desc_s_Replenish all"
-msgstr ""
-
-msgid "desc_s_Replenish all_1"
-msgstr ""
-
-msgid "desc_s_Replenish all_2"
-msgstr ""
-
-msgid "desc_s_Replenish all_3"
-msgstr ""
-
-msgid "desc_s_Replenish_1"
-msgstr ""
-
-msgid "desc_s_Research"
-msgstr ""
-
-msgid "desc_s_Research Skills"
-msgstr ""
-
-msgid "desc_s_Rest"
-msgstr ""
-
-msgid "desc_s_Rest_1"
-msgstr ""
-
-msgid "desc_s_Revive"
-msgstr ""
-
-msgid "desc_s_Revive_1"
-msgstr ""
-
-msgid "desc_s_Riding"
-msgstr ""
-
-msgid "desc_s_Riding Jump"
-msgstr ""
-
-msgid "desc_s_Riding Run"
-msgstr ""
+msgid "s_Riding Skills"
+msgstr "骑术技能"
 
 msgid "desc_s_Riding Skills"
 msgstr ""
 
+msgid "s_Riding Jump"
+msgstr "乘坐骑跳跃"
+
+msgid "desc_s_Riding Jump"
+msgstr ""
+
+msgid "s_Riding Run"
+msgstr "乘坐骑奔跑"
+
+msgid "desc_s_Riding Run"
+msgstr ""
+
+msgid "s_Riding Walk"
+msgstr "乘坐骑步行"
+
 msgid "desc_s_Riding Walk"
 msgstr ""
 
-msgid "desc_s_Rigor"
-msgstr ""
-
-msgid "desc_s_Ritual Magic"
-msgstr ""
-
-msgid "desc_s_Ritual Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Run"
-msgstr ""
-
-msgid "desc_s_Sacred Missile"
-msgstr ""
-
-msgid "desc_s_Sacred Missile_HolyDam"
-msgstr ""
-
-msgid "desc_s_Sacrifice"
-msgstr ""
-
-msgid "desc_s_Sacrifice_1"
-msgstr ""
+msgid "s_Sail"
+msgstr "航行"
 
 msgid "desc_s_Sail"
-msgstr ""
+msgstr "Description of s_Walk"
 
-msgid "desc_s_Scan Resources"
-msgstr ""
-
-msgid "desc_s_Schematics"
-msgstr ""
-
-msgid "desc_s_Scout"
-msgstr ""
-
-msgid "desc_s_Scribing"
-msgstr ""
-
-msgid "desc_s_Seize_Axe"
-msgstr ""
-
-msgid "desc_s_Seize_Axe_1"
-msgstr ""
-
-msgid "desc_s_Seize_Club"
-msgstr ""
-
-msgid "desc_s_Seize_Club_1"
-msgstr ""
-
-msgid "desc_s_Seize_Greataxe"
-msgstr ""
-
-msgid "desc_s_Seize_Greataxe_1"
-msgstr ""
-
-msgid "desc_s_Seize_Greatclub"
-msgstr ""
-
-msgid "desc_s_Seize_Greatclub_1"
-msgstr ""
-
-msgid "desc_s_Seize_Greatsword"
-msgstr ""
-
-msgid "desc_s_Seize_Greatsword_1"
-msgstr ""
-
-msgid "desc_s_Seize_Knife"
-msgstr ""
-
-msgid "desc_s_Seize_Knife_1"
-msgstr ""
-
-msgid "desc_s_Seize_Polearm"
-msgstr ""
-
-msgid "desc_s_Seize_Polearm_1"
-msgstr ""
-
-msgid "desc_s_Seize_Sithras"
-msgstr ""
-
-msgid "desc_s_Seize_Sithras_2"
-msgstr ""
-
-msgid "desc_s_Seize_Sword"
-msgstr ""
-
-msgid "desc_s_Seize_Sword_1"
-msgstr ""
-
-msgid "desc_s_Set Pvp"
-msgstr ""
-
-msgid "desc_s_Shadecraft"
-msgstr ""
-
-msgid "desc_s_Shards"
-msgstr ""
-
-msgid "desc_s_Shards_2"
-msgstr ""
-
-msgid "desc_s_Shards_Cold"
-msgstr ""
-
-msgid "desc_s_Sharpshooter"
-msgstr ""
-
-msgid "desc_s_Sheathe Object"
-msgstr ""
-
-msgid "desc_s_Shield Skills"
-msgstr ""
-
-msgid "desc_s_Shield of Protection"
-msgstr ""
-
-msgid "desc_s_Shield of Protection_1"
-msgstr ""
-
-msgid "desc_s_Shipbuilding"
-msgstr ""
-
-msgid "desc_s_Shipbuilding Mastery"
-msgstr ""
-
-msgid "desc_s_Shipyard Skills"
-msgstr ""
-
-msgid "desc_s_Siege Hammer"
-msgstr ""
-
-msgid "desc_s_Siege Hammer_1"
-msgstr ""
-
-msgid "desc_s_Siege Weapon Skills"
-msgstr ""
-
-msgid "desc_s_Sieze_Sithras_1"
-msgstr ""
-
-msgid "desc_s_Sithra Attacks"
-msgstr ""
-
-msgid "desc_s_Sithra Mastery"
-msgstr ""
-
-msgid "desc_s_Sithra Skills"
-msgstr ""
-
-msgid "desc_s_Sithras"
-msgstr ""
-
-msgid "desc_s_Sithras_1"
-msgstr ""
-
-msgid "desc_s_Sithras_Stab_1"
-msgstr ""
-
-msgid "desc_s_Sithras_Whirlwind_1"
-msgstr ""
-
-msgid "desc_s_Skills"
-msgstr ""
-
-msgid "desc_s_Skinning"
-msgstr ""
-
-msgid "desc_s_Skinning_1"
-msgstr ""
-
-msgid "desc_s_Slashing Weakness"
-msgstr ""
-
-msgid "desc_s_Slashing Weakness_1"
-msgstr ""
-
-msgid "desc_s_Slow"
-msgstr ""
-
-msgid "desc_s_Slow_1"
-msgstr ""
-
-msgid "desc_s_Sluggish"
-msgstr ""
-
-msgid "desc_s_Sluggish_1"
-msgstr ""
-
-msgid "desc_s_Smelter Skills"
-msgstr ""
-
-msgid "desc_s_Smelting"
-msgstr ""
-
-msgid "desc_s_Smoke Signal"
-msgstr ""
-
-msgid "desc_s_Smoke Signal_1"
-msgstr ""
-
-msgid "desc_s_Sniper"
-msgstr ""
-
-msgid "desc_s_Soothing Chant"
-msgstr ""
-
-msgid "desc_s_Soothing Chant_1"
-msgstr ""
-
-msgid "desc_s_Special Skills"
-msgstr ""
-
-msgid "desc_s_Spell Chanting"
-msgstr ""
-
-msgid "desc_s_Spell Chanting_Spells"
-msgstr ""
-
-msgid "desc_s_Spell Curse"
-msgstr ""
-
-msgid "desc_s_Spell Curse_Penalty"
-msgstr ""
-
-msgid "desc_s_Spell Immunity"
-msgstr ""
-
-msgid "desc_s_Spell Immunity_1"
-msgstr ""
-
-msgid "desc_s_Spells"
-msgstr ""
-
-msgid "desc_s_Spellturn"
-msgstr ""
-
-msgid "desc_s_Spirited Archer"
-msgstr ""
-
-msgid "desc_s_Spotter"
-msgstr ""
-
-msgid "desc_s_Sprint"
-msgstr ""
-
-msgid "desc_s_Staff Crafting"
-msgstr ""
-
-msgid "desc_s_Staff Crafting Mastery"
-msgstr ""
-
-msgid "desc_s_Stamina"
-msgstr ""
-
-msgid "desc_s_Stamina Leech"
-msgstr ""
-
-msgid "desc_s_Stamina Leech Hit"
-msgstr ""
-
-msgid "desc_s_Stamina Leech Hit_1"
-msgstr ""
-
-msgid "desc_s_Stamina Leech_1"
-msgstr ""
-
-msgid "desc_s_Stamina to Health"
-msgstr ""
-
-msgid "desc_s_Stamina to Health_1"
-msgstr ""
-
-msgid "desc_s_Stealth"
-msgstr ""
-
-msgid "desc_s_Stealth Skills"
-msgstr ""
-
-msgid "desc_s_Stoneskin"
-msgstr ""
-
-msgid "desc_s_Stoneskin_1"
-msgstr ""
-
-msgid "desc_s_Stormblast"
-msgstr ""
-
-msgid "desc_s_Stormblast_1"
-msgstr ""
+msgid "s_Strafe Left"
+msgstr "左平移"
 
 msgid "desc_s_Strafe Left"
-msgstr ""
+msgstr "Description of s_Strafe Left"
+
+msgid "s_Strafe Right"
+msgstr "右平移"
 
 msgid "desc_s_Strafe Right"
-msgstr ""
+msgstr "Description of s_Strafe Right"
 
-msgid "desc_s_Stuck"
-msgstr ""
-
-msgid "desc_s_Stupidity"
-msgstr ""
-
-msgid "desc_s_Stupidity_1"
-msgstr ""
-
-msgid "desc_s_Sturdy"
-msgstr ""
-
-msgid "desc_s_Summon Mount"
-msgstr ""
-
-msgid "desc_s_Summon Player"
-msgstr ""
-
-msgid "desc_s_Survivalist"
-msgstr ""
+msgid "s_Swim"
+msgstr "游泳"
 
 msgid "desc_s_Swim"
 msgstr ""
 
-msgid "desc_s_Swimming"
-msgstr ""
-
-msgid "desc_s_Sword Attacks"
-msgstr ""
-
-msgid "desc_s_Sword Mastery"
-msgstr ""
-
-msgid "desc_s_Sword Skills"
-msgstr ""
-
-msgid "desc_s_Swords"
-msgstr ""
-
-msgid "desc_s_Swords_1"
-msgstr ""
-
-msgid "desc_s_Tailoring"
-msgstr ""
-
-msgid "desc_s_Tailoring Mastery"
-msgstr ""
-
-msgid "desc_s_Take Object"
-msgstr ""
-
-msgid "desc_s_Take Object_1"
-msgstr ""
-
-msgid "desc_s_Taming"
-msgstr ""
-
-msgid "desc_s_Taming Skills"
-msgstr ""
-
-msgid "desc_s_Tanning"
-msgstr ""
-
-msgid "desc_s_Tanning Skills"
-msgstr ""
-
-msgid "desc_s_Tarnish"
-msgstr ""
-
-msgid "desc_s_Tarnish_1"
-msgstr ""
-
-msgid "desc_s_Telekinesis"
-msgstr ""
-
-msgid "desc_s_Telekinesis_1"
-msgstr ""
-
-msgid "desc_s_Teleport"
-msgstr ""
-
-msgid "desc_s_Teleport Anchor"
-msgstr ""
-
-msgid "desc_s_Teleport Runebook"
-msgstr ""
-
-msgid "desc_s_Test"
-msgstr ""
-
-msgid "desc_s_Test Crafting Skill"
-msgstr ""
-
-msgid "desc_s_Throwing"
-msgstr ""
-
-msgid "desc_s_Throwing Impact_large"
-msgstr ""
-
-msgid "desc_s_Throwing Impact_medium"
-msgstr ""
-
-msgid "desc_s_Throwing Impact_small"
-msgstr ""
-
-msgid "desc_s_Throwing Impact_tiny"
-msgstr ""
-
-msgid "desc_s_Thrown Weapons"
-msgstr ""
-
-msgid "desc_s_Thunderstorm"
-msgstr ""
-
-msgid "desc_s_Thunderstorm_1"
-msgstr ""
-
-msgid "desc_s_Tinkering"
-msgstr ""
-
-msgid "desc_s_Tireless"
-msgstr ""
-
-msgid "desc_s_Tongue Rot"
-msgstr ""
-
-msgid "desc_s_Tongue Rot_Penalty"
-msgstr ""
-
-msgid "desc_s_Tornado"
-msgstr ""
-
-msgid "desc_s_Tornado_1"
-msgstr ""
-
-msgid "desc_s_Toughness"
-msgstr ""
-
-msgid "desc_s_Toxic Rain"
-msgstr ""
-
-msgid "desc_s_Toxic Rain_1"
-msgstr ""
-
-msgid "desc_s_Trueforge Armor"
-msgstr ""
-
-msgid "desc_s_Trueforge Weapon"
-msgstr ""
-
-msgid "desc_s_Unburden"
-msgstr ""
-
-msgid "desc_s_Unburden_1"
-msgstr ""
-
-msgid "desc_s_Undeath"
-msgstr ""
-
-msgid "desc_s_Undeath_1"
-msgstr ""
-
-msgid "desc_s_Unholy Caress"
-msgstr ""
-
-msgid "desc_s_Unholy Caress_1"
-msgstr ""
-
-msgid "desc_s_Unholy Flames"
-msgstr ""
-
-msgid "desc_s_Unholy Flames_area"
-msgstr ""
-
-msgid "desc_s_Unsheathe Object"
-msgstr ""
-
-msgid "desc_s_Unspawn Object"
-msgstr ""
-
-msgid "desc_s_Use Item"
-msgstr ""
-
-msgid "desc_s_Use Object"
-msgstr ""
-
-msgid "desc_s_Vampiric Touch"
-msgstr ""
-
-msgid "desc_s_Vampiric Touch_1"
-msgstr ""
-
-msgid "desc_s_Venom"
-msgstr ""
-
-msgid "desc_s_Venom_2"
-msgstr ""
-
-msgid "desc_s_Venom_Acid"
-msgstr ""
-
-msgid "desc_s_Veteran Archer"
-msgstr ""
-
-msgid "desc_s_Veteran Mage"
-msgstr ""
-
-msgid "desc_s_Virtuous Wrath"
-msgstr ""
-
-msgid "desc_s_Virtuous Wrath_1"
-msgstr ""
-
-msgid "desc_s_Volcano"
-msgstr ""
-
-msgid "desc_s_Volcano_1"
-msgstr ""
+msgid "s_Walk"
+msgstr "行走"
 
 msgid "desc_s_Walk"
-msgstr ""
+msgstr "Description of s_Walk"
 
-msgid "desc_s_Wall of Fire"
-msgstr ""
-
-msgid "desc_s_Wall of Fire_1"
-msgstr ""
-
-msgid "desc_s_Wall of Force"
-msgstr ""
-
-msgid "desc_s_Wall of Force_force"
-msgstr ""
+msgid "s_Warhulk"
+msgstr "战舰"
 
 msgid "desc_s_Warhulk"
 msgstr ""
 
-msgid "desc_s_Warhulk Construction"
+msgid "s_Enchantment Add Effects"
+msgstr "添加附魔效果"
+
+msgid "desc_s_Enchantment Add Effects"
 msgstr ""
 
-msgid "desc_s_Water Breathing"
+msgid "s_Add Effect DOT"
+msgstr "添加点效果"
+
+msgid "desc_s_Add Effect DOT"
 msgstr ""
 
-msgid "desc_s_Water Breathing_1"
+msgid "s_Add Effect Duration"
+msgstr "添加持续效果"
+
+msgid "desc_s_Add Effect Duration"
 msgstr ""
 
-msgid "desc_s_Water Magic"
+msgid "s_Add Effect Main"
+msgstr "添加主效果"
+
+msgid "desc_s_Add Effect Main"
 msgstr ""
 
-msgid "desc_s_Water Magic_Spells"
+msgid "s_Environmental Skills"
+msgstr "环境技能"
+
+msgid "desc_s_Environmental Skills"
 msgstr ""
 
-msgid "desc_s_Weakening Blaze"
-msgstr ""
-
-msgid "desc_s_Weakening Blaze_1"
-msgstr ""
-
-msgid "desc_s_Weakening Chill"
-msgstr ""
-
-msgid "desc_s_Weakening Chill_1"
-msgstr ""
-
-msgid "desc_s_Weapon Skills"
-msgstr ""
-
-msgid "desc_s_Weaponsmithing"
-msgstr ""
-
-msgid "desc_s_Weaponsmithing Mastery"
-msgstr ""
-
-msgid "desc_s_Weaving"
-msgstr ""
-
-msgid "desc_s_Weaving Skills"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Axe"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Axe_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Club"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Club_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greataxe"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greataxe_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greatclub"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greatclub_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greatsword"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Greatsword_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Knife"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Knife_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Polearm"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Polearm_1"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Sithra"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Sword"
-msgstr ""
-
-msgid "desc_s_Whirlwind Attack_Sword_1"
-msgstr ""
-
-msgid "desc_s_Wild Magic"
-msgstr ""
-
-msgid "desc_s_Wild Magic_Spells"
-msgstr ""
-
-msgid "desc_s_Willpower"
-msgstr ""
-
-msgid "desc_s_Witchcraft"
-msgstr ""
-
-msgid "desc_s_Witchcraft_Spells"
-msgstr ""
-
-msgid "desc_s_Witches Brew"
-msgstr ""
-
-msgid "desc_s_Witches Brew_1"
-msgstr ""
-
-msgid "desc_s_Woodcutting"
-msgstr ""
-
-msgid "desc_s_Woodworking"
-msgstr ""
-
-msgid "desc_s_Workbench Skills"
-msgstr ""
+msgid "s_environmental damage"
+msgstr "环境伤害"
 
 msgid "desc_s_environmental damage"
 msgstr ""
 
+msgid "s_Manipulate Skills"
+msgstr "操纵技能"
+
+msgid "desc_s_Manipulate Skills"
+msgstr "Description of s_Manipulate Skills"
+
+msgid "s_Drink"
+msgstr "饮料"
+
+msgid "desc_s_Drink"
+msgstr "Description of s_Consume Object"
+
+msgid "s_Eat"
+msgstr "吃"
+
+msgid "desc_s_Eat"
+msgstr ""
+
+msgid "s_Examine Object"
+msgstr "检查对象"
+
+msgid "desc_s_Examine Object"
+msgstr "Description of s_Examine Object"
+
+msgid "s_Fire Cannon"
+msgstr "发射火炮"
+
+msgid "desc_s_Fire Cannon"
+msgstr "按鼠标左键开火,或F键停止对大炮的控制."
+
+msgid "s_Fire Cannon_02"
+msgstr "Fire Cannon_02"
+
+msgid "desc_s_Fire Cannon_02"
+msgstr "按鼠标左键开火,或F键停止控制这个昂贵的大炮."
+
+msgid "s_Fire Shock Charge"
+msgstr "装载火力打击"
+
+msgid "desc_s_Fire Shock Charge"
+msgstr "当使用船轮时,按下鼠标左键发射已部署的深度袭击器. "
+
+msgid "s_Placement Skills"
+msgstr "放置技能"
+
+msgid "desc_s_Placement Skills"
+msgstr "Description of s_Placement Skills"
+
+msgid "s_Place Object"
+msgstr "放置对象"
+
+msgid "desc_s_Place Object"
+msgstr "Description of s_Place Object"
+
+msgid "s_Sheathe Object"
+msgstr "覆盖对象"
+
+msgid "desc_s_Sheathe Object"
+msgstr "Description of s_Sheathe Object"
+
+msgid "s_Unsheathe Object"
+msgstr "拔出对象"
+
+msgid "desc_s_Unsheathe Object"
+msgstr "Description of s_Unsheathe Object"
+
+msgid "s_Take Object"
+msgstr "拿起对象"
+
+msgid "desc_s_Take Object"
+msgstr "Description of s_Take Object"
+
+msgid "s_Take Object_1"
+msgstr "Take Object_1"
+
+msgid "desc_s_Take Object_1"
+msgstr "Description of s_Take Object_1"
+
+msgid "s_Ping Waypoint"
+msgstr "Ping路径点"
+
+msgid "desc_s_Ping Waypoint"
+msgstr ""
+
+msgid "s_Use Item"
+msgstr "使用物品"
+
+msgid "desc_s_Use Item"
+msgstr ""
+
+msgid "s_Use Object"
+msgstr "使用对象"
+
+msgid "desc_s_Use Object"
+msgstr "Description of s_Use Object"
+
+msgid "s_Positioning Skills"
+msgstr "定位技能"
+
+msgid "desc_s_Positioning Skills"
+msgstr "Description of s_Positioning Skills"
+
+msgid "s_Crouch"
+msgstr "蹲下"
+
+msgid "desc_s_Crouch"
+msgstr "Description of s_Crouch"
+
+msgid "s_Kneel"
+msgstr "跪下"
+
+msgid "desc_s_Kneel"
+msgstr "Description of s_Kneel"
+
+msgid "s_Lie"
+msgstr "躺下"
+
+msgid "desc_s_Lie"
+msgstr "Description of s_Lie"
+
+msgid "s_Special Skills"
+msgstr "特殊技能"
+
+msgid "desc_s_Special Skills"
+msgstr ""
+
+msgid "s_Stuck"
+msgstr "卡住"
+
+msgid "desc_s_Stuck"
+msgstr ""
+
+msgid "s_Teleport"
+msgstr "传送"
+
+msgid "desc_s_Teleport"
+msgstr "Description of s_Teleport"
+
+msgid "s_Teleport Runebook"
+msgstr "传送符文书"
+
+msgid "desc_s_Teleport Runebook"
+msgstr "Description of s_Teleport"
+
+msgid "s_Skills"
+msgstr "技能"
+
+msgid "desc_s_Skills"
+msgstr "Description of s_Skills"
+
+msgid "s_Combat Skills"
+msgstr "战斗技能"
+
+msgid "desc_s_Combat Skills"
+msgstr "被动提高战斗力的技能."
+
+msgid "s_Armor Proficiency"
+msgstr "装甲熟练"
+
+msgid "desc_s_Armor Proficiency"
+msgstr "减少近战的护甲惩罚."
+
+msgid "s_Armored Archery"
+msgstr "装甲射箭"
+
+msgid "desc_s_Armored Archery"
+msgstr "减少射箭的任何护甲惩罚."
+
+msgid "s_Armored Casting"
+msgstr "装甲施法"
+
+msgid "desc_s_Armored Casting"
+msgstr "减少施法时的护甲惩罚. "
+
+msgid "s_Armour and Shield Skills"
+msgstr "盔甲和盾牌技能"
+
+msgid "desc_s_Armour and Shield Skills"
+msgstr "Description of s_Armour and Shield Skills"
+
+msgid "s_Shield Skills"
+msgstr "盾牌技能"
+
+msgid "desc_s_Shield Skills"
+msgstr "Description of s_Shield Skills"
+
+msgid "s_Axe Mastery"
+msgstr "掌握单手斧"
+
+msgid "desc_s_Axe Mastery"
+msgstr "增加使用单手斧时的伤害. "
+
+msgid "s_Club Mastery"
+msgstr "掌握单手锤"
+
+msgid "desc_s_Club Mastery"
+msgstr "增加使用单手钝器时造成的伤害."
+
+msgid "s_Combat Enhancements"
+msgstr "战斗增强"
+
+msgid "desc_s_Combat Enhancements"
+msgstr "Description of s_Combat Enhancements"
+
+msgid "s_Parry"
+msgstr "躲避"
+
+msgid "desc_s_Parry"
+msgstr "按住格挡按钮(默认的V)进入格挡模式,极大地减少了大多数攻击造成的伤害."
+
+msgid "s_Greataxe Mastery"
+msgstr "掌握双手斧"
+
+msgid "desc_s_Greataxe Mastery"
+msgstr "增加使用双手斧时的伤害."
+
+msgid "s_Greatclub Mastery"
+msgstr "掌握双手锤"
+
+msgid "desc_s_Greatclub Mastery"
+msgstr "增加使用双手棍棒和锤子时造成的伤害."
+
+msgid "s_Greatsword Mastery"
+msgstr "掌握双手剑"
+
+msgid "desc_s_Greatsword Mastery"
+msgstr "增加挥舞双手剑时造成的伤害."
+
+msgid "s_Knife Mastery"
+msgstr "掌握匕首"
+
+msgid "desc_s_Knife Mastery"
+msgstr "增加使用匕首时的伤害."
+
+msgid "s_Maintenance"
+msgstr "维护"
+
+msgid "desc_s_Maintenance"
+msgstr "减少您的设备在战斗中的耐久性损失."
+
+msgid "s_Orkish Brutality"
+msgstr "兽人暴行"
+
+msgid "desc_s_Orkish Brutality"
+msgstr "使用近战武器时伤害增加."
+
+msgid "s_Alfar Resilience"
+msgstr "暗法复原"
+
+msgid "desc_s_Alfar Resilience"
+msgstr "对魔法伤害的自然保护."
+
+msgid "s_Human Longevity"
+msgstr "人类长寿"
+
+msgid "desc_s_Human Longevity"
+msgstr "增加增益和减益的持续时间."
+
+msgid "s_Mirdain Precision"
+msgstr "精灵精确"
+
+msgid "desc_s_Mirdain Precision"
+msgstr "使用弓时伤害增加."
+
+msgid "s_Mahirim Reflexes"
+msgstr "狼人反射"
+
+msgid "desc_s_Mahirim Reflexes"
+msgstr "近战和射箭伤害的自然保护."
+
+msgid "s_Polearm Mastery"
+msgstr "长柄武器大师"
+
+msgid "desc_s_Polearm Mastery"
+msgstr "增加使用长柄武器时造成的伤害."
+
+msgid "s_Sharpshooter"
+msgstr "神箭手"
+
+msgid "desc_s_Sharpshooter"
+msgstr "增加射箭伤害."
+
+msgid "s_Sithra Mastery"
+msgstr "神剑大师"
+
+msgid "desc_s_Sithra Mastery"
+msgstr "增加使用神剑时造成的伤害."
+
+msgid "s_Sniper"
+msgstr "狙击手"
+
+msgid "desc_s_Sniper"
+msgstr ""
+
+msgid "s_Spirited Archer"
+msgstr "精神饱满的弓箭手"
+
+msgid "desc_s_Spirited Archer"
+msgstr "减少搭弦所需的时间."
+
+msgid "s_Sword Mastery"
+msgstr "剑术大师"
+
+msgid "desc_s_Sword Mastery"
+msgstr "增加挥舞单手剑时造成的伤害."
+
+msgid "s_Veteran Archer"
+msgstr "熟练弓箭手"
+
+msgid "desc_s_Veteran Archer"
+msgstr "降低射箭的耐力消耗."
+
+msgid "s_Crafting Skills"
+msgstr "制作技能"
+
+msgid "desc_s_Crafting Skills"
+msgstr "一组收集资源或使用此类物品制造武器,盔甲和配件的技能."
+
+msgid "s_Dwarven Steelmaster"
+msgstr "矮人炼钢师"
+
+msgid "desc_s_Dwarven Steelmaster"
+msgstr "制作近战武器和盔甲的耐久性加成."
+
+msgid "s_Alfar Intellect"
+msgstr "暗法智力"
+
+msgid "desc_s_Alfar Intellect"
+msgstr "制作法杖的耐久性加成."
+
+msgid "s_Dyeing Skills"
+msgstr "染色技能"
+
+msgid "desc_s_Dyeing Skills"
+msgstr ""
+
+msgid "s_Dyeing"
+msgstr "染色"
+
+msgid "desc_s_Dyeing"
+msgstr ""
+
+msgid "s_Enchantment Skills"
+msgstr "附魔技能"
+
+msgid "desc_s_Enchantment Skills"
+msgstr ""
+
+msgid "s_Enchantment"
+msgstr "附魔"
+
+msgid "desc_s_Enchantment"
+msgstr "允许对武器,法杖,项链,戒指和盔甲附魔."
+
+msgid "s_Gem Enchanting"
+msgstr "宝石附魔"
+
+msgid "desc_s_Gem Enchanting"
+msgstr "释放魔法宝石的力量,对物品附魔"
+
+msgid "s_Harvesting Skills"
+msgstr "收获技能"
+
+msgid "desc_s_Harvesting Skills"
+msgstr ""
+
+msgid "s_Digging"
+msgstr "挖掘"
+
+msgid "desc_s_Digging"
+msgstr "装备一个铲子并尝试挖掘宝藏. "
+
+msgid "s_Fishing"
+msgstr "钓鱼"
+
+msgid "desc_s_Fishing"
+msgstr "装备钓鱼竿,在水边按下鼠标左键捕鱼."
+
+msgid "s_Fishing Mastery"
+msgstr "钓鱼大师"
+
+msgid "desc_s_Fishing Mastery"
+msgstr "减少捕鱼所需的时间."
+
+msgid "s_Herb Gathering"
+msgstr "草药采集"
+
+msgid "desc_s_Herb Gathering"
+msgstr "靠近灌木丛和植物,按下F键装备镰刀,按鼠标左键收集草药. "
+
+msgid "s_Herb Gathering Mastery"
+msgstr "采药大师"
+
+msgid "desc_s_Herb Gathering Mastery"
+msgstr "减少收集草药所需的时间. "
+
+msgid "s_Logging"
+msgstr "伐木"
+
+msgid "desc_s_Logging"
+msgstr "靠近大树按下F键装备木斧,按鼠标左键砍伐木头."
+
+msgid "s_Logging Mastery"
+msgstr "伐木大师"
+
+msgid "desc_s_Logging Mastery"
+msgstr "减少伐木所需的时间."
+
+msgid "s_Mining"
+msgstr "采矿"
+
+msgid "desc_s_Mining"
+msgstr "靠近岩石按下F键以装备鹤嘴锄,并按鼠标左键开采石头或金属."
+
+msgid "s_Mining Mastery"
+msgstr "采矿大师"
+
+msgid "desc_s_Mining Mastery"
+msgstr "减少采矿所需的时间."
+
+msgid "s_Skinning"
+msgstr "剥皮"
+
+msgid "desc_s_Skinning"
+msgstr "靠近怪物墓碑按下F键以装备剥皮刀,并按鼠标左键提取资源. "
+
+msgid "s_Skinning_1"
+msgstr "Skinning_1"
+
+msgid "desc_s_Skinning_1"
+msgstr ""
+
+msgid "s_Industry"
+msgstr "工业"
+
+msgid "desc_s_Industry"
+msgstr "减少所有制作的时间."
+
+msgid "s_Manufacturing Skills"
+msgstr "制造技能"
+
+msgid "desc_s_Manufacturing Skills"
+msgstr ""
+
+msgid "s_Anvil Skills"
+msgstr "铁砧技能"
+
+msgid "desc_s_Anvil Skills"
+msgstr "Description of s_Metal Working Skills"
+
+msgid "s_Armorsmithing"
+msgstr "盔甲锻造"
+
+msgid "desc_s_Armorsmithing"
+msgstr "用于创建金属盔甲件.站在铁匠铺附近,按下F键开始制作. "
+
+msgid "s_Armorsmithing Mastery"
+msgstr "装甲大师"
+
+msgid "desc_s_Armorsmithing Mastery"
+msgstr "允许使用稀有金属制作盔甲. "
+
+msgid "s_Engineering"
+msgstr "工程"
+
+msgid "desc_s_Engineering"
+msgstr "发动机,机器和结构的设计,建造和使用. 站在铁匠铺附近,按下F键开始制作."
+
+msgid "s_Artillery Construction"
+msgstr "火炮建设"
+
+msgid "desc_s_Artillery Construction"
+msgstr "允许制造各种机器和战争工具.站在铁匠铺附近,按下F键开始制作."
+
+msgid "s_Bloodcraft"
+msgstr "血蓝装"
+
+msgid "desc_s_Bloodcraft"
+msgstr "使用固有的附魔来制作服装的技能,给予生命值加值,但给予法力值惩罚. "
+
+msgid "s_Shadecraft"
+msgstr "蓝血装"
+
+msgid "desc_s_Shadecraft"
+msgstr "使用固有的附魔来制作服装的技能,给予法力值加成,但给予生命值惩罚."
+
+msgid "s_Weaponsmithing"
+msgstr "武器锻造"
+
+msgid "desc_s_Weaponsmithing"
+msgstr "用于制造近战武器.站在铁匠铺附近,按下F键开始制作."
+
+msgid "s_Weaponsmithing Mastery"
+msgstr "武器大师"
+
+msgid "desc_s_Weaponsmithing Mastery"
+msgstr "在制造武器时允许使用稀有金属."
+
+msgid "s_Foundry Skills"
+msgstr "铸造技能"
+
+msgid "desc_s_Foundry Skills"
+msgstr ""
+
+msgid "s_Engineering Mastery"
+msgstr "工程大师"
+
+msgid "desc_s_Engineering Mastery"
+msgstr "发动机,机器和结构的设计,建造和使用. 站在铸造厂附近,按下F键开始制作."
+
+msgid "s_Warhulk Construction"
+msgstr "战舰建设"
+
+msgid "desc_s_Warhulk Construction"
+msgstr "允许制造各种机器和战争工具.站在铸造厂附近,按下F键开始制作."
+
+msgid "s_Laboratory Skills"
+msgstr "实验室技能"
+
+msgid "desc_s_Laboratory Skills"
+msgstr "Description of s_Dragoncraft Skills"
+
+msgid "s_Alchemy"
+msgstr "炼金术"
+
+msgid "desc_s_Alchemy"
+msgstr "用于转换,创建和组合物品的魔法过程.站在实验室附近,按下F键开始制作."
+
+msgid "s_Alchemy Mastery"
+msgstr "炼金术大师"
+
+msgid "desc_s_Alchemy Mastery"
+msgstr "用于转换,创建和组合物品的魔法过程.站在实验室附近,按下F键开始制作."
+
+msgid "s_Scribing"
+msgstr "刻图"
+
+msgid "desc_s_Scribing"
+msgstr "用于书写卷轴,书籍和制造纸制品."
+
+msgid "s_Jewelsmithing"
+msgstr "珠宝制造"
+
+msgid "desc_s_Jewelsmithing"
+msgstr "用于创建戒指或项链等配件.站在实验室附近,按下F键开始制作."
+
+msgid "s_Mortar and Pestle Skills"
+msgstr "臼杵技能"
+
+msgid "desc_s_Mortar and Pestle Skills"
+msgstr ""
+
+msgid "s_Mixing"
+msgstr "调制药剂"
+
+msgid "desc_s_Mixing"
+msgstr "用于混合药水.站在实验室附近,按下F键开始制作."
+
+msgid "s_Dye Crafting"
+msgstr "染料制作"
+
+msgid "desc_s_Dye Crafting"
+msgstr "用于创建新的染料.站在实验室附近,按下F键开始制作."
+
+msgid "s_Schematics"
+msgstr "示意图"
+
+msgid "desc_s_Schematics"
+msgstr "用于创建用于研究的示意图."
+
+msgid "s_Oven Skills"
+msgstr "烤箱技能"
+
+msgid "desc_s_Oven Skills"
+msgstr "Description of s_General Crafting Skills"
+
+msgid "s_Cooking"
+msgstr "烹饪"
+
+msgid "desc_s_Cooking"
+msgstr "制作食物时使用.站在烤箱附近,按下F键即可启动."
+
+msgid "s_Cooking Mastery"
+msgstr "烹饪大师"
+
+msgid "desc_s_Cooking Mastery"
+msgstr "制作高级食品时使用.站在烤箱附近,按下F键即可启动."
+
+msgid "s_Shipyard Skills"
+msgstr "船厂技能"
+
+msgid "desc_s_Shipyard Skills"
+msgstr ""
+
+msgid "s_Shipbuilding"
+msgstr "造船"
+
+msgid "desc_s_Shipbuilding"
+msgstr "用于创建船舶或大型木筏.站在工作台附近,按下F键开始制作."
+
+msgid "s_Shipbuilding Mastery"
+msgstr "造船大师"
+
+msgid "desc_s_Shipbuilding Mastery"
+msgstr "用于创建船舶或大型木筏.站在船厂附近,按下F键开始制作."
+
+msgid "s_Smelter Skills"
+msgstr "冶炼机技能"
+
+msgid "desc_s_Smelter Skills"
+msgstr ""
+
+msgid "s_Smelting"
+msgstr "精炼"
+
+msgid "desc_s_Smelting"
+msgstr "将矿石变成锭子时使用.站在冶炼厂附近,按下F键开始."
+
+msgid "s_Tanning Skills"
+msgstr "鞣革技能"
+
+msgid "desc_s_Tanning Skills"
+msgstr ""
+
+msgid "s_Tanning"
+msgstr "鞣革"
+
+msgid "desc_s_Tanning"
+msgstr "用于将生皮制成皮革.站在工作台附近,按下F键即可启动."
+
+msgid "s_Weaving Skills"
+msgstr "纺织技能"
+
+msgid "desc_s_Weaving Skills"
+msgstr ""
+
+msgid "s_Weaving"
+msgstr "纺织"
+
+msgid "desc_s_Weaving"
+msgstr "将棉花变成布时使用.站在工作台附近,按下F键即可启动."
+
+msgid "s_Taming Skills"
+msgstr "驯兽技能"
+
+msgid "desc_s_Taming Skills"
+msgstr ""
+
+msgid "s_Taming"
+msgstr "驯兽"
+
+msgid "desc_s_Taming"
+msgstr "在召唤坐骑时使用.打开制作窗口,选择开始驯服."
+
+msgid "s_Test Crafting Skill"
+msgstr "测试制作技能"
+
+msgid "desc_s_Test Crafting Skill"
+msgstr ""
+
+msgid "s_Workbench Skills"
+msgstr "工作台技能"
+
+msgid "desc_s_Workbench Skills"
+msgstr "Description of s_Wood Working Skills"
+
+msgid "s_Staff Crafting"
+msgstr "法杖制作"
+
+msgid "desc_s_Staff Crafting"
+msgstr "创建法杖时使用.站在工作台附近,按下F键开始制作."
+
+msgid "s_Staff Crafting Mastery"
+msgstr "法杖制作大师"
+
+msgid "desc_s_Staff Crafting Mastery"
+msgstr "创建法杖时使用.站在工作台附近,按下F键开始制作."
+
+msgid "s_Bowyer"
+msgstr "弓箭制作"
+
+msgid "desc_s_Bowyer"
+msgstr "创建弓或箭头时使用.站在工作台附近,按下F键开始制作."
+
+msgid "s_Bowyer Mastery"
+msgstr "制弓大师"
+
+msgid "desc_s_Bowyer Mastery"
+msgstr "允许制作高级弓."
+
+msgid "s_Construction"
+msgstr "建造"
+
+msgid "desc_s_Construction"
+msgstr "用于制作房屋模块和其他杂项.站在工作台附近,按下F键开始制作."
+
+msgid "s_Tailoring"
+msgstr "缝纫"
+
+msgid "desc_s_Tailoring"
+msgstr "用于创建服装和非金属盔甲.站在工作台附近,按下F键开始制作. "
+
+msgid "s_Tailoring Mastery"
+msgstr "裁缝大师"
+
+msgid "desc_s_Tailoring Mastery"
+msgstr "允许使用稀有的皮革和布料制作盔甲和长袍."
+
+msgid "s_Tinkering"
+msgstr "熔补"
+
+msgid "desc_s_Tinkering"
+msgstr "Description of s_Tinkering"
+
+msgid "s_Woodcutting"
+msgstr "锯木"
+
+msgid "desc_s_Woodcutting"
+msgstr "用于将木材精炼成木材.站在工作台附近,按下F键即可启动."
+
+msgid "s_Woodworking"
+msgstr "木材加工"
+
+msgid "desc_s_Woodworking"
+msgstr "Description of s_Wood Working"
+
+msgid "s_Repair Skills"
+msgstr "维修技能"
+
+msgid "desc_s_Repair Skills"
+msgstr ""
+
+msgid "s_Repair"
+msgstr "修复"
+
+msgid "desc_s_Repair"
+msgstr "配备维修工具并按鼠标左键修复结构.这需要一个维修碎片."
+
+msgid "s_Trueforge Armor"
+msgstr "真铸盔甲"
+
+msgid "desc_s_Trueforge Armor"
+msgstr "为制作服装提供耐久性加成."
+
+msgid "s_Trueforge Weapon"
+msgstr "真铸武器"
+
+msgid "desc_s_Trueforge Weapon"
+msgstr "为制作武器和法杖耐提供耐久性加成."
+
+msgid "s_General Skills"
+msgstr "一般技能"
+
+msgid "desc_s_General Skills"
+msgstr "提高你角色的各种能力. "
+
+msgid "s_Scan Resources"
+msgstr "扫描资源"
+
+msgid "desc_s_Scan Resources"
+msgstr "查看资源数量"
+
+msgid "s_Acrobatics"
+msgstr "杂技"
+
+msgid "desc_s_Acrobatics"
+msgstr "减少坠落造成的伤害."
+
+msgid "s_Alfar Cunning"
+msgstr "暗法狡猾"
+
+msgid "desc_s_Alfar Cunning"
+msgstr "给最大法力值少许加成."
+
+msgid "s_Bindstone Recall"
+msgstr "绑定石召回"
+
+msgid "desc_s_Bindstone Recall"
+msgstr "按下鼠标左键,传送到您当前的绑定点."
+
+msgid "s_Summon Mount"
+msgstr "召唤坐骑"
+
+msgid "desc_s_Summon Mount"
+msgstr "激活你的召唤雕像必须要放置在你的角色栏里."
+
+msgid "s_Capital Recall"
+msgstr "主城召回"
+
+msgid "desc_s_Capital Recall"
+msgstr "按下鼠标左键传送到你的种族主城城市.冷却时间取决于你的正义值."
+
+msgid "s_House Recall"
+msgstr "房屋召回"
+
+msgid "desc_s_House Recall"
+msgstr "按下鼠标左键,传送到您的家. "
+
+msgid "s_Orkish Capacity"
+msgstr "兽人容量"
+
+msgid "desc_s_Orkish Capacity"
+msgstr "增加背包重量限制."
+
+msgid "s_Athletic Skills"
+msgstr "运动技能"
+
+msgid "desc_s_Athletic Skills"
+msgstr "Description of s_Athletic Skills"
+
+msgid "s_Falling Technique"
+msgstr "下降技术"
+
+msgid "desc_s_Falling Technique"
+msgstr "Description of s_Falling Technique"
+
+msgid "s_Clever"
+msgstr "聪明"
+
+msgid "desc_s_Clever"
+msgstr "增加最大智力."
+
+msgid "s_Set Pvp"
+msgstr "设置 Pvp"
+
+msgid "desc_s_Set Pvp"
+msgstr "设置玩家pvp标志. "
+
+msgid "s_Constitution"
+msgstr "体质"
+
+msgid "desc_s_Constitution"
+msgstr "具有对毒药,疾病和类似攻击的抵抗力. "
+
+msgid "s_Defense"
+msgstr "防御"
+
+msgid "desc_s_Defense"
+msgstr "授予对箭头和近战攻击的抵抗力. "
+
+msgid "s_Diving"
+msgstr "潜水"
+
+msgid "desc_s_Diving"
+msgstr "增加最大肺活量."
+
+msgid "s_Dwarven Durability"
+msgstr "矮人耐久"
+
+msgid "desc_s_Dwarven Durability"
+msgstr "给最大生命值少许加成. "
+
+msgid "s_Mirdain Sight"
+msgstr "精灵视线"
+
+msgid "desc_s_Mirdain Sight"
+msgstr "精灵的敏锐视力使它们能够在更远的距离识别人."
+
+msgid "s_Endurance"
+msgstr "续航"
+
+msgid "desc_s_Endurance"
+msgstr "决定了自然耐力的恢复速度."
+
+msgid "s_Fitness"
+msgstr "健康"
+
+msgid "desc_s_Fitness"
+msgstr "决定了自然生命的恢复速度. "
+
+msgid "s_Fleet"
+msgstr "疾驰"
+
+msgid "desc_s_Fleet"
+msgstr "提高最大速度."
+
+msgid "s_Fortitude"
+msgstr "毅力"
+
+msgid "desc_s_Fortitude"
+msgstr "授予对诅咒的抵抗力. "
+
+msgid "s_Health"
+msgstr "生命"
+
+msgid "desc_s_Health"
+msgstr "Description of s_Endurance"
+
+msgid "s_Human Ingenuity"
+msgstr "人类独创"
+
+msgid "desc_s_Human Ingenuity"
+msgstr "更好地利用一些食物,有效地延长营养加成的持续时间."
+
+msgid "s_Human Willpower"
+msgstr "人类意志"
+
+msgid "desc_s_Human Willpower"
+msgstr "给最大法力值少许加成."
+
+msgid "s_Ignore Pain"
+msgstr "忽略疼痛"
+
+msgid "desc_s_Ignore Pain"
+msgstr "提供针对武器伤害的内在保护."
+
+msgid "s_Ingenious"
+msgstr "灵巧"
+
+msgid "desc_s_Ingenious"
+msgstr "增加最大的天赋."
+
+msgid "s_Jump"
+msgstr "跳跃"
+
+msgid "desc_s_Jump"
+msgstr "按Space键跳跃."
+
+msgid "s_Mahirim Endurance"
+msgstr "狼人耐力"
+
+msgid "desc_s_Mahirim Endurance"
+msgstr "给最大耐力值少许加成. "
+
+msgid "s_Mahirim Huntspeed"
+msgstr "狼人捕猎速度"
+
+msgid "desc_s_Mahirim Huntspeed"
+msgstr "使正常奔跑速度略有增加."
+
+msgid "s_Medical Skills"
+msgstr "医疗技能"
+
+msgid "desc_s_Medical Skills"
+msgstr ""
+
+msgid "s_Revive"
+msgstr "复活"
+
+msgid "desc_s_Revive"
+msgstr "帮助一个垂死的角色.按下Z键以启动技能."
+
+msgid "s_Revive_1"
+msgstr "Revive_1"
+
+msgid "desc_s_Revive_1"
+msgstr "Description of s_Revive_1"
+
+msgid "s_Mugging"
+msgstr "抢劫"
+
+msgid "desc_s_Mugging"
+msgstr "抢劫一个无助的对手. "
+
+msgid "s_Might"
+msgstr "力量"
+
+msgid "desc_s_Might"
+msgstr "Description of s_Might"
+
+msgid "s_Mirdain Insight"
+msgstr "精灵洞察"
+
+msgid "desc_s_Mirdain Insight"
+msgstr "给最大耐力值少许加成."
+
+msgid "s_Movement Skills"
+msgstr "运动技能"
+
+msgid "desc_s_Movement Skills"
+msgstr "Description of s_Movement Skills"
+
+msgid "s_Crouch walk"
+msgstr "蹲伏行走"
+
+msgid "desc_s_Crouch walk"
+msgstr "确定了蹲伏时的移动速度."
+
+msgid "s_Riding"
+msgstr "骑"
+
+msgid "desc_s_Riding"
+msgstr "降低骑乘坐骑的耐力成本."
+
+msgid "s_Run"
+msgstr "奔跑"
+
+msgid "desc_s_Run"
+msgstr "跑步时稍微提高速度."
+
+msgid "s_Sprint"
+msgstr "冲刺"
+
+msgid "desc_s_Sprint"
+msgstr "减少冲刺时失去的耐力."
+
+msgid "s_Swimming"
+msgstr "游泳"
+
+msgid "desc_s_Swimming"
+msgstr "按C在水下潜水.停止移动以自动向上漂移. "
+
+msgid "s_Muscular"
+msgstr "肌肉"
+
+msgid "desc_s_Muscular"
+msgstr "增加最大力量."
+
+msgid "s_Nimble"
+msgstr "灵活"
+
+msgid "desc_s_Nimble"
+msgstr "提高最大敏捷."
+
+msgid "s_Orkish Toughness"
+msgstr "兽人坚韧"
+
+msgid "desc_s_Orkish Toughness"
+msgstr "给最大生命值少许加成."
+
+msgid "s_Pack Mule"
+msgstr "驮骡"
+
+msgid "desc_s_Pack Mule"
+msgstr "增加允许的最大库存重量."
+
+msgid "s_Perseverance"
+msgstr "毅力"
+
+msgid "desc_s_Perseverance"
+msgstr "给最大耐力值少许加成. "
+
+msgid "s_Poison Resistance"
+msgstr "耐毒性"
+
+msgid "desc_s_Poison Resistance"
+msgstr ""
+
+msgid "s_Pray"
+msgstr "祈祷"
+
+msgid "desc_s_Pray"
+msgstr ""
+
+msgid "s_Push"
+msgstr "推送"
+
+msgid "desc_s_Push"
+msgstr "Description of s_Push"
+
+msgid "s_Read"
+msgstr "阅读"
+
+msgid "desc_s_Read"
+msgstr "允许学习技能手册或法术卷轴."
+
+msgid "s_Open Package"
+msgstr "打开包裹"
+
+msgid "desc_s_Open Package"
+msgstr "打开包裹"
+
+msgid "s_Reflex"
+msgstr "反射"
+
+msgid "desc_s_Reflex"
+msgstr "授予对元素区域攻击的抵抗力."
+
+msgid "s_Rest"
+msgstr "休息"
+
+msgid "desc_s_Rest"
+msgstr "休息时,生命,法力和耐力再生更快.休息的再生加成在30秒后翻倍."
+
+msgid "s_Rest_1"
+msgstr "Rest_1"
+
+msgid "desc_s_Rest_1"
+msgstr "Description of s_Healing Chant_1"
+
+msgid "s_Camp"
+msgstr "露营"
+
+msgid "desc_s_Camp"
+msgstr "建立营地!（注销）."
+
+msgid "s_Camp_1"
+msgstr "Camp_1"
+
+msgid "desc_s_Camp_1"
+msgstr "Description of s_Camp 01"
+
+msgid "s_Rigor"
+msgstr "严谨"
+
+msgid "desc_s_Rigor"
+msgstr "针对所有伤害类型的固有保护. "
+
+msgid "s_Scout"
+msgstr "侦察"
+
+msgid "desc_s_Scout"
+msgstr ""
+
+msgid "s_Spotter"
+msgstr "观测员"
+
+msgid "desc_s_Spotter"
+msgstr "增加识别范围."
+
+msgid "s_Stamina"
+msgstr "耐力"
+
+msgid "desc_s_Stamina"
+msgstr "Description of s_Stamina"
+
+msgid "s_Sturdy"
+msgstr "坚固"
+
+msgid "desc_s_Sturdy"
+msgstr "增加最大体力值."
+
+msgid "s_Survivalist"
+msgstr "存活"
+
+msgid "desc_s_Survivalist"
+msgstr "增加从某些食物中获得的营养加成的持续时间."
+
+msgid "s_Tireless"
+msgstr "不倦"
+
+msgid "desc_s_Tireless"
+msgstr "由于携带太重的物品而减慢时,提高移动速度."
+
+msgid "s_Toughness"
+msgstr "韧性"
+
+msgid "desc_s_Toughness"
+msgstr "给最大生命值少量加成."
+
+msgid "s_Unspawn Object"
+msgstr "未生成对象"
+
+msgid "desc_s_Unspawn Object"
+msgstr "Description of s_Use Object"
+
+msgid "s_Willpower"
+msgstr "意志力"
+
+msgid "desc_s_Willpower"
+msgstr "给予抵抗精神攻击的抵抗力. "
+
+msgid "s_Improvement Skills"
+msgstr "提高技能"
+
+msgid "desc_s_Improvement Skills"
+msgstr "Description of s_Physical Enhancements"
+
+msgid "s_Mana Bonus"
+msgstr "法力加成"
+
+msgid "desc_s_Mana Bonus"
+msgstr ""
+
+msgid "s_Magic Skills"
+msgstr "魔法技能"
+
+msgid "desc_s_Magic Skills"
+msgstr "元魔法能力,提高属于特定学派的所有法术. "
+
+msgid "s_Archmage"
+msgstr "大法师"
+
+msgid "desc_s_Archmage"
+msgstr "只有真正掌握魔法艺术的人才能获得大法师的称号!"
+
+msgid "s_Esoteric"
+msgstr "深奥"
+
+msgid "desc_s_Esoteric"
+msgstr "给最大法力值少许加成. "
+
+msgid "s_Focus"
+msgstr "焦点"
+
+msgid "desc_s_Focus"
+msgstr "决定了自然法力的恢复速度."
+
+msgid "s_Magic Schools_Skills"
+msgstr "魔法学派技能"
+
+msgid "desc_s_Magic Schools_Skills"
+msgstr "Description of s_Magic Schools_Skills"
+
+msgid "s_Air Magic"
+msgstr "空气魔法"
+
+msgid "desc_s_Air Magic"
+msgstr "空气魔法学派授予使用者闪电和风暴的力量.一般来说,这些法术的伤害程度稍小,但仍然非常有效,因为它很难抵御. "
+
+msgid "s_Durable Spells_Air Magic"
+msgstr "持久空气魔法"
+
+msgid "desc_s_Durable Spells_Air Magic"
+msgstr "增加空气魔法法术的持续时间."
+
+msgid "s_Intensify_Air Magic"
+msgstr "强化空气魔法"
+
+msgid "desc_s_Intensify_Air Magic"
+msgstr "增加空气魔法法术的强度."
+
+msgid "s_Mana Efficiency_Air Magic"
+msgstr "效率空气魔法"
+
+msgid "desc_s_Mana Efficiency_Air Magic"
+msgstr "减少用于施放空气魔法法术的法力."
+
+msgid "s_Quicken Spells_Air Magic"
+msgstr "加速空气魔法"
+
+msgid "desc_s_Quicken Spells_Air Magic"
+msgstr "减少空气魔法法术的施法时间."
+
+msgid "s_Arcane Magic"
+msgstr "奥术魔法"
+
+msgid "desc_s_Arcane Magic"
+msgstr "奥术魔法关涉到神圣法术和魔法本身的性质.因此,它的进攻性法术造成神圣伤害,而防御性法术保护精神微恙,甚至可以将敌人的魔法转化为对抗他的魔法. "
+
+msgid "s_Durable Spells_Arcane Magic"
+msgstr "持久奥术魔法"
+
+msgid "desc_s_Durable Spells_Arcane Magic"
+msgstr "增加奥术魔法的持续时间."
+
+msgid "s_Intensify_Arcane Magic"
+msgstr "强化奥术魔法"
+
+msgid "desc_s_Intensify_Arcane Magic"
+msgstr "增加奥术魔法法术的强度."
+
+msgid "s_Mana Efficiency_Arcane Magic"
+msgstr "效率奥术魔法"
+
+msgid "desc_s_Mana Efficiency_Arcane Magic"
+msgstr "减少施放奥术魔法所需的法力."
+
+msgid "s_Quicken Spells_Arcane Magic"
+msgstr "加速奥术魔法"
+
+msgid "desc_s_Quicken Spells_Arcane Magic"
+msgstr "减少奥术魔法法术的施法时间."
+
+msgid "s_Divine Magic"
+msgstr "神圣魔法"
+
+msgid "desc_s_Divine Magic"
+msgstr ""
+
+msgid "s_Earth Magic"
+msgstr "土系魔法"
+
+msgid "desc_s_Earth Magic"
+msgstr "精通土系魔法的人可以同时控制力量和腐蚀.他们不穿笨重盔甲,却知道如何有效地保护自己免受近战武器的攻击. "
+
+msgid "s_Durable Spells_Earth Magic"
+msgstr "持久土系魔法"
+
+msgid "desc_s_Durable Spells_Earth Magic"
+msgstr "增加土系魔法法术的持续时间."
+
+msgid "s_Intensify_Earth Magic"
+msgstr "强化土系魔法"
+
+msgid "desc_s_Intensify_Earth Magic"
+msgstr "增加土系魔法法术的强度."
+
+msgid "s_Mana Efficiency_Earth Magic"
+msgstr "效率土系魔法"
+
+msgid "desc_s_Mana Efficiency_Earth Magic"
+msgstr "减少施放土系魔法所需的法力值."
+
+msgid "s_Quicken Spells_Earth Magic"
+msgstr "加速土系魔法"
+
+msgid "desc_s_Quicken Spells_Earth Magic"
+msgstr "减少土系魔法法术的施法时间."
+
+msgid "s_Fire Magic"
+msgstr "火系魔法"
+
+msgid "desc_s_Fire Magic"
+msgstr "一个主要由能造成火焰毁灭的魔法组成的学派.它也教一些快速魔法. "
+
+msgid "s_Durable Spells_Fire Magic"
+msgstr "持久火系魔法"
+
+msgid "desc_s_Durable Spells_Fire Magic"
+msgstr "增加火系魔法法术的持续时间."
+
+msgid "s_Intensify_Fire Magic"
+msgstr "强化火系魔法"
+
+msgid "desc_s_Intensify_Fire Magic"
+msgstr "增加火系魔法法术的强度."
+
+msgid "s_Mana Efficiency_Fire Magic"
+msgstr "效率火系魔法"
+
+msgid "desc_s_Mana Efficiency_Fire Magic"
+msgstr "减少施放火系魔法所需的法力值."
+
+msgid "s_Quicken Spells_Fire Magic"
+msgstr "加速火系魔法"
+
+msgid "desc_s_Quicken Spells_Fire Magic"
+msgstr "减少火系魔法法术的施法时间."
+
+msgid "s_Greater Magic"
+msgstr "高级魔法"
+
+msgid "desc_s_Greater Magic"
+msgstr "高级魔法是多才多艺的魔法学派,包括不同性质的进攻和防御魔法.它还教玩家如何给敌人下毒或造成过度流血的伤口. "
+
+msgid "s_Durable Spells_Greater Magic"
+msgstr "持久高级魔法"
+
+msgid "desc_s_Durable Spells_Greater Magic"
+msgstr "增加高级魔法法术的持续时间."
+
+msgid "s_Intensify_Greater Magic"
+msgstr "强化高级魔法"
+
+msgid "desc_s_Intensify_Greater Magic"
+msgstr "增加高级魔法法术的强度."
+
+msgid "s_Mana Efficiency_Greater Magic"
+msgstr "效率高级魔法"
+
+msgid "desc_s_Mana Efficiency_Greater Magic"
+msgstr "减少施放高级魔法所需的法力值."
+
+msgid "s_Quicken Spells_Greater Magic"
+msgstr "加速高级魔法"
+
+msgid "desc_s_Quicken Spells_Greater Magic"
+msgstr "减少高级魔法法术的施法时间."
+
+msgid "s_Lesser Magic"
+msgstr "初级魔法"
+
+msgid "desc_s_Lesser Magic"
+msgstr "所有新手施法者都必须学习的魔法学派.初级魔法提供了各种各样的法术,虽然相对简单,但即使对一个经验丰富的法师\n来说也很有用."
+
+msgid "s_Durable Spells_Lesser Magic"
+msgstr "持久初级魔法"
+
+msgid "desc_s_Durable Spells_Lesser Magic"
+msgstr "增加初级魔法法术的持续时间."
+
+msgid "s_Intensify_Lesser Magic"
+msgstr "强化初级魔法"
+
+msgid "desc_s_Intensify_Lesser Magic"
+msgstr "增加初级魔法法术的强度."
+
+msgid "s_Mana Efficiency_Lesser Magic"
+msgstr "效率初级魔法"
+
+msgid "desc_s_Mana Efficiency_Lesser Magic"
+msgstr "减少施放高级魔法所需的法力值."
+
+msgid "s_Quicken Spells_Lesser Magic"
+msgstr "加速初级魔法"
+
+msgid "desc_s_Quicken Spells_Lesser Magic"
+msgstr "减少初级魔法法术的施法时间."
+
+msgid "s_Necromancy"
+msgstr "死灵法术"
+
+msgid "desc_s_Necromancy"
+msgstr "死灵术从死者的领地中汲取力量,助长其邪恶的魔力.它的攻击性法术和削弱性攻击都非常强大. "
+
+msgid "s_Durable Spells_Necromancy"
+msgstr "持久死灵法术"
+
+msgid "desc_s_Durable Spells_Necromancy"
+msgstr "增加死灵法术的持续时间."
+
+msgid "s_Intensify_Necromancy"
+msgstr "强化死灵法术"
+
+msgid "desc_s_Intensify_Necromancy"
+msgstr "增加死灵法术的强度."
+
+msgid "s_Mana Efficiency_Necromancy"
+msgstr "效率死灵法术"
+
+msgid "desc_s_Mana Efficiency_Necromancy"
+msgstr "减少施放死灵法术所需的法力值."
+
+msgid "s_Quicken Spells_Necromancy"
+msgstr "加速死灵法术"
+
+msgid "desc_s_Quicken Spells_Necromancy"
+msgstr "减少死灵法术的施法时间."
+
+msgid "s_Ritual Magic"
+msgstr "仪式魔法"
+
+msgid "desc_s_Ritual Magic"
+msgstr "Description of s_Ritual Magic"
+
+msgid "s_Durable Spells_Ritual Magic"
+msgstr "持久仪式魔法"
+
+msgid "desc_s_Durable Spells_Ritual Magic"
+msgstr "Description of s_Durable Spells_Ritual Magic"
+
+msgid "s_Intensify_Ritual Magic"
+msgstr "强化仪式魔法"
+
+msgid "desc_s_Intensify_Ritual Magic"
+msgstr "Description of s_Empower Spells_Ritual Magic"
+
+msgid "s_Mana Efficiency_Ritual Magic"
+msgstr "效率仪式魔法"
+
+msgid "desc_s_Mana Efficiency_Ritual Magic"
+msgstr "Description of s_Mana Efficiency_Ritual Magic"
+
+msgid "s_Quicken Spells_Ritual Magic"
+msgstr "加速仪式魔法"
+
+msgid "desc_s_Quicken Spells_Ritual Magic"
+msgstr "Description of s_Quicken Spells_Ritual Magic"
+
+msgid "s_Spell Chanting"
+msgstr "吟唱法术"
+
+msgid "desc_s_Spell Chanting"
+msgstr "这个学派的魔法专门用于给同伴加成,而不是对敌人造成伤害.因此,一个咒语吟唱者在队伍中更能发挥价值. "
+
+msgid "s_Durable Spells_Spell Chanting"
+msgstr "持久吟唱法术"
+
+msgid "desc_s_Durable Spells_Spell Chanting"
+msgstr "增加吟唱法术的持续时间."
+
+msgid "s_Intensify_Spell Chanting"
+msgstr "强化吟唱法术"
+
+msgid "desc_s_Intensify_Spell Chanting"
+msgstr "增加吟唱法术的强度."
+
+msgid "s_Mana Efficiency_Spell Chanting"
+msgstr "效率吟唱法术"
+
+msgid "desc_s_Mana Efficiency_Spell Chanting"
+msgstr "减少施放吟唱法术所需的法力值."
+
+msgid "s_Quicken Spells_Spell Chanting"
+msgstr "加速吟唱法术"
+
+msgid "desc_s_Quicken Spells_Spell Chanting"
+msgstr "减少吟唱法术的施法时间."
+
+msgid "s_Water Magic"
+msgstr "水系魔法"
+
+msgid "desc_s_Water Magic"
+msgstr "水系学派授予的法术可以造成冰碎片伤害或超自然的强烈寒意,以及对目标减速的魔法."
+
+msgid "s_Durable Spells_Water Magic"
+msgstr "持久水系魔法"
+
+msgid "desc_s_Durable Spells_Water Magic"
+msgstr "增加水系魔法法术的持续时间."
+
+msgid "s_Intensify_Water Magic"
+msgstr "强化水系魔法"
+
+msgid "desc_s_Intensify_Water Magic"
+msgstr "增加水系魔法法术的强度."
+
+msgid "s_Mana Efficiency_Water Magic"
+msgstr "效率水系魔法"
+
+msgid "desc_s_Mana Efficiency_Water Magic"
+msgstr "减少施放水系魔法所需的法力值."
+
+msgid "s_Quicken Spells_Water Magic"
+msgstr "加速水系魔法"
+
+msgid "desc_s_Quicken Spells_Water Magic"
+msgstr "减少水系魔法法术的施法时间."
+
+msgid "s_Wild Magic"
+msgstr "狂野魔法"
+
+msgid "desc_s_Wild Magic"
+msgstr "Description of s_Wild Magic"
+
+msgid "s_Durable Spells_Wild Magic"
+msgstr "持久狂野魔法"
+
+msgid "desc_s_Durable Spells_Wild Magic"
+msgstr "Description of s_Durable Spells_Wild Magic"
+
+msgid "s_Intensify_Wild Magic"
+msgstr "强化狂野魔法"
+
+msgid "desc_s_Intensify_Wild Magic"
+msgstr "Description of s_Empower Spells_Wild Magic"
+
+msgid "s_Mana Efficiency_Wild Magic"
+msgstr "效率狂野魔法"
+
+msgid "desc_s_Mana Efficiency_Wild Magic"
+msgstr "Description of s_Mana Efficiency_Wild Magic"
+
+msgid "s_Quicken Spells_Wild Magic"
+msgstr "加速狂野魔法"
+
+msgid "desc_s_Quicken Spells_Wild Magic"
+msgstr "Description of s_Quicken Spells_Wild Magic"
+
+msgid "s_Witchcraft"
+msgstr "巫术"
+
+msgid "desc_s_Witchcraft"
+msgstr "巫术主要涉及诅咒,削弱目标的能力,无论是战士的力量,巫师的精神力量或弓箭手的精度."
+
+msgid "s_Durable Spells_Witchcraft"
+msgstr "持久巫术法术"
+
+msgid "desc_s_Durable Spells_Witchcraft"
+msgstr "增加巫术法术的持续时间."
+
+msgid "s_Intensify_Witchcraft"
+msgstr "强化巫术法术"
+
+msgid "desc_s_Intensify_Witchcraft"
+msgstr "增加巫术法术的强度."
+
+msgid "s_Mana Efficiency_Witchcraft"
+msgstr "效率巫术法术"
+
+msgid "desc_s_Mana Efficiency_Witchcraft"
+msgstr "减少施放巫术法术所需的法力值."
+
+msgid "s_Quicken Spells_Witchcraft"
+msgstr "加速巫术法术"
+
+msgid "desc_s_Quicken Spells_Witchcraft"
+msgstr "减少死灵法术的施法时间."
+
+msgid "s_Mana Conservation"
+msgstr "法力保存"
+
+msgid "desc_s_Mana Conservation"
+msgstr "减少施放巫术法术所需的法力值."
+
+msgid "s_Reagent Conservation"
+msgstr "试剂保存"
+
+msgid "desc_s_Reagent Conservation"
+msgstr "施放法术时,有轻微的几率比平时少消耗一种试剂."
+
+msgid "s_Summon Player"
+msgstr "召唤玩家"
+
+msgid "desc_s_Summon Player"
+msgstr ""
+
+msgid "s_Teleport Anchor"
+msgstr "传送锚"
+
+msgid "desc_s_Teleport Anchor"
+msgstr "允许使用传送符石."
+
+msgid "s_Veteran Mage"
+msgstr "资深法师"
+
+msgid "desc_s_Veteran Mage"
+msgstr "降低施法的耐力消耗."
+
+msgid "s_Stealth Skills"
+msgstr "隐身技能"
+
+msgid "desc_s_Stealth Skills"
+msgstr "Description of s_Stealth Movement Skills"
+
+msgid "s_Backstab"
+msgstr "背刺"
+
+msgid "desc_s_Backstab"
+msgstr "Description of s_Sneak"
+
+msgid "s_Pick Pockets"
+msgstr "挑选口袋"
+
+msgid "desc_s_Pick Pockets"
+msgstr ""
+
+msgid "s_Stealth"
+msgstr "隐身"
+
+msgid "desc_s_Stealth"
+msgstr "Description of s_Stealth"
+
+msgid "s_Weapon Skills"
+msgstr "武器技能"
+
+msgid "desc_s_Weapon Skills"
+msgstr "使用近战武器,弓或战斗尖刺的攻击技能."
+
+msgid "s_Melee Skills"
+msgstr "近战技能"
+
+msgid "desc_s_Melee Skills"
+msgstr "装备近战武器时使用的攻击和力量. "
+
+msgid "s_Axe Skills"
+msgstr "单手斧技能"
+
+msgid "desc_s_Axe Skills"
+msgstr "Description of s_Axe Skills"
+
+msgid "s_Axe Attacks"
+msgstr "单手斧攻击"
+
+msgid "desc_s_Axe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Axes"
+msgstr "反坦克单手斧"
+
+msgid "desc_s_Antitank Attack_Axes"
+msgstr ""
+
+msgid "s_Antitank_Attack_Axes_1"
+msgstr "Antitank_Attack_Axes_1"
+
+msgid "desc_s_Antitank_Attack_Axes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe"
+msgstr "破盾单手斧"
+
+msgid "desc_s_Disabling Blow_Axe"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Axe_1"
+msgstr "Disabling Blow_Axe_1"
+
+msgid "desc_s_Disabling Blow_Axe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe_2"
+msgstr "Disabling Blow_Axe_2"
+
+msgid "desc_s_Disabling Blow_Axe_2"
+msgstr ""
+
+msgid "s_Knockback_Axe"
+msgstr "击退单手斧"
+
+msgid "desc_s_Knockback_Axe"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Axe_1"
+msgstr "Knockback_Axe_1"
+
+msgid "desc_s_Knockback_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe"
+msgstr "重击单手斧"
+
+msgid "desc_s_Power Attack_Axe"
+msgstr "降低目标近战保护的强力攻击. "
+
+msgid "s_Power Attack_Axe_1"
+msgstr "Power Attack_Axe_1"
+
+msgid "desc_s_Power Attack_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe_2"
+msgstr "Power Attack_Axe_2"
+
+msgid "desc_s_Power Attack_Axe_2"
+msgstr ""
+
+msgid "s_Power Attack_Axe_3"
+msgstr "Power Attack_Axe_3"
+
+msgid "desc_s_Power Attack_Axe_3"
+msgstr ""
+
+msgid "s_Power Attack_Axe_4"
+msgstr "Power Attack_Axe_4"
+
+msgid "desc_s_Power Attack_Axe_4"
+msgstr ""
+
+msgid "s_Seize_Axe"
+msgstr "夺取单手斧"
+
+msgid "desc_s_Seize_Axe"
+msgstr "拉近对手距离的攻击. "
+
+msgid "s_Seize_Axe_1"
+msgstr "Seize_Axe_1"
+
+msgid "desc_s_Seize_Axe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Axe"
+msgstr "回旋单手斧"
+
+msgid "desc_s_Whirlwind Attack_Axe"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Axe_1"
+msgstr "Whirlwind Attack_Axe_1"
+
+msgid "desc_s_Whirlwind Attack_Axe_1"
+msgstr ""
+
+msgid "s_Axes"
+msgstr "单手斧"
+
+msgid "desc_s_Axes"
+msgstr "用单手斧进行基本攻击. "
+
+msgid "s_Axes_1"
+msgstr "Axes_1"
+
+msgid "desc_s_Axes_1"
+msgstr ""
+
+msgid "s_Club and Mace Skills"
+msgstr "锤和棒技能"
+
+msgid "desc_s_Club and Mace Skills"
+msgstr "Description of s_Club and Mace Skills"
+
+msgid "s_Club Attacks"
+msgstr "单手锤攻击"
+
+msgid "desc_s_Club Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Club"
+msgstr "反坦克单手锤"
+
+msgid "desc_s_Antitank Attack_Club"
+msgstr ""
+
+msgid "s_Antitank Attack_Club_1"
+msgstr "Antitank Attack_Club_1"
+
+msgid "desc_s_Antitank Attack_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club"
+msgstr "破盾单手锤"
+
+msgid "desc_s_Disabling Blow_Club"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Club_1"
+msgstr "Disabling Blow_Club_1"
+
+msgid "desc_s_Disabling Blow_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club_2"
+msgstr "Disabling Blow_Club_2"
+
+msgid "desc_s_Disabling Blow_Club_2"
+msgstr ""
+
+msgid "s_Knockback_Club"
+msgstr "击退单手锤"
+
+msgid "desc_s_Knockback_Club"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Club_1"
+msgstr "Knockback_Club_1"
+
+msgid "desc_s_Knockback_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club"
+msgstr "重击单手锤"
+
+msgid "desc_s_Power Attack_Club"
+msgstr "一个强大的攻击,消耗额外的耐力. "
+
+msgid "s_Power Attack_Club_1"
+msgstr "Power Attack_Club_1"
+
+msgid "desc_s_Power Attack_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club_2"
+msgstr "Power Attack_Club_2"
+
+msgid "desc_s_Power Attack_Club_2"
+msgstr ""
+
+msgid "s_Seize_Club"
+msgstr "夺取单手锤"
+
+msgid "desc_s_Seize_Club"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Club_1"
+msgstr "Seize_Club_1"
+
+msgid "desc_s_Seize_Club_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Club"
+msgstr "回旋单手锤"
+
+msgid "desc_s_Whirlwind Attack_Club"
+msgstr "旋转攻击猛击邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Club_1"
+msgstr "Whirlwind Attack_Club_1"
+
+msgid "desc_s_Whirlwind Attack_Club_1"
+msgstr ""
+
+msgid "s_Clubs and Maces"
+msgstr "锤和棒"
+
+msgid "desc_s_Clubs and Maces"
+msgstr "用单手钝器进行基本攻击. "
+
+msgid "s_Clubs and Maces_1"
+msgstr "Clubs and Maces_1"
+
+msgid "desc_s_Clubs and Maces_1"
+msgstr ""
+
+msgid "s_Greataxe Skills"
+msgstr "双手斧技能"
+
+msgid "desc_s_Greataxe Skills"
+msgstr "Description of s_Greataxe Skills"
+
+msgid "s_Greataxe Attacks"
+msgstr "双手斧攻击"
+
+msgid "desc_s_Greataxe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes"
+msgstr "反坦克双手斧"
+
+msgid "desc_s_Antitank Attack_Greataxes"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes_1"
+msgstr "Antitank Attack_Greataxes_1"
+
+msgid "desc_s_Antitank Attack_Greataxes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe"
+msgstr "破盾双手斧"
+
+msgid "desc_s_Disabling Blow_Greataxe"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Greataxe_1"
+msgstr "Disabling Blow_Greataxe_1"
+
+msgid "desc_s_Disabling Blow_Greataxe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe_2"
+msgstr "Disabling Blow_Greataxe_2"
+
+msgid "desc_s_Disabling Blow_Greataxe_2"
+msgstr ""
+
+msgid "s_Knockback_Greataxe"
+msgstr "击退双手斧"
+
+msgid "desc_s_Knockback_Greataxe"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Greataxe_1"
+msgstr "Knockback_Greataxe_1"
+
+msgid "desc_s_Knockback_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe"
+msgstr "重击双手斧"
+
+msgid "desc_s_Power Attack_Greataxe"
+msgstr "减少目标近战保护的强攻."
+
+msgid "s_Power Attack_Greataxe_1"
+msgstr "Power Attack_Greataxe_1"
+
+msgid "desc_s_Power Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_2"
+msgstr "Power Attack_Greataxe_2"
+
+msgid "desc_s_Power Attack_Greataxe_2"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_3"
+msgstr "Power Attack_Greataxe_3"
+
+msgid "desc_s_Power Attack_Greataxe_3"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_4"
+msgstr "Power Attack_Greataxe_4"
+
+msgid "desc_s_Power Attack_Greataxe_4"
+msgstr ""
+
+msgid "s_Seize_Greataxe"
+msgstr "夺取双手斧"
+
+msgid "desc_s_Seize_Greataxe"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Greataxe_1"
+msgstr "Seize_Greataxe_1"
+
+msgid "desc_s_Seize_Greataxe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greataxe"
+msgstr "回旋双手斧"
+
+msgid "desc_s_Whirlwind Attack_Greataxe"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Greataxe_1"
+msgstr "Whirlwind Attack_Greataxe_1"
+
+msgid "desc_s_Whirlwind Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Greataxes"
+msgstr "双手斧"
+
+msgid "desc_s_Greataxes"
+msgstr "用双手斧进行基本攻击."
+
+msgid "s_Greataxes_1"
+msgstr "Greataxes_1"
+
+msgid "desc_s_Greataxes_1"
+msgstr ""
+
+msgid "s_Greatclub Skills"
+msgstr "双手锤技能"
+
+msgid "desc_s_Greatclub Skills"
+msgstr ""
+
+msgid "s_Greatclub Attacks"
+msgstr "双手锤攻击"
+
+msgid "desc_s_Greatclub Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs"
+msgstr "反坦克双手锤"
+
+msgid "desc_s_Antitank Attack_Greatclubs"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs_1"
+msgstr "Antitank Attack_Greatclubs_1"
+
+msgid "desc_s_Antitank Attack_Greatclubs_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub"
+msgstr "破盾双手锤"
+
+msgid "desc_s_Disabling Blow_Greatclub"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Greatclub_1"
+msgstr "Disabling Blow_Greatclub_1"
+
+msgid "desc_s_Disabling Blow_Greatclub_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub_2"
+msgstr "Disabling Blow_Greatclub_2"
+
+msgid "desc_s_Disabling Blow_Greatclub_2"
+msgstr ""
+
+msgid "s_Knockback_Greatclub"
+msgstr "击退双手锤"
+
+msgid "desc_s_Knockback_Greatclub"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Greatclub_1"
+msgstr "Knockback_Greatclub_1"
+
+msgid "desc_s_Knockback_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub"
+msgstr "重击双手锤"
+
+msgid "desc_s_Power Attack_Greatclub"
+msgstr "一个强大的攻击,消耗额外的耐力. "
+
+msgid "s_Power Attack_Greatclub_1"
+msgstr "Power Attack_Greatclub_1"
+
+msgid "desc_s_Power Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub_2"
+msgstr "Power Attack_Greatclub_2"
+
+msgid "desc_s_Power Attack_Greatclub_2"
+msgstr ""
+
+msgid "s_Seize_Greatclub"
+msgstr "夺取双手锤"
+
+msgid "desc_s_Seize_Greatclub"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Greatclub_1"
+msgstr "Seize_Greatclub_1"
+
+msgid "desc_s_Seize_Greatclub_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatclub"
+msgstr "回旋双手锤"
+
+msgid "desc_s_Whirlwind Attack_Greatclub"
+msgstr "旋转攻击猛击邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Greatclub_1"
+msgstr "Whirlwind Attack_Greatclub_1"
+
+msgid "desc_s_Whirlwind Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Greatclubs"
+msgstr "双手锤"
+
+msgid "desc_s_Greatclubs"
+msgstr "用双手钝器进行基本攻击."
+
+msgid "s_Greatclubs_1"
+msgstr "Greatclubs_1"
+
+msgid "desc_s_Greatclubs_1"
+msgstr ""
+
+msgid "s_Greatsword Skills"
+msgstr "双手剑技能"
+
+msgid "desc_s_Greatsword Skills"
+msgstr "Description of s_Greatsword Skills"
+
+msgid "s_Greatsword Attacks"
+msgstr "双手剑攻击"
+
+msgid "desc_s_Greatsword Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords"
+msgstr "反坦克双手剑"
+
+msgid "desc_s_Antitank Attack_Greatswords"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords_1"
+msgstr "Antitank Attack_Greatswords_1"
+
+msgid "desc_s_Antitank Attack_Greatswords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword"
+msgstr "破盾双手剑"
+
+msgid "desc_s_Disabling Blow_Greatsword"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Greatsword_1"
+msgstr "Disabling Blow_Greatsword_1"
+
+msgid "desc_s_Disabling Blow_Greatsword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword_2"
+msgstr "Disabling Blow_Greatsword_2"
+
+msgid "desc_s_Disabling Blow_Greatsword_2"
+msgstr ""
+
+msgid "s_Knockback_Greatsword"
+msgstr "击退双手剑"
+
+msgid "desc_s_Knockback_Greatsword"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Greatsword_1"
+msgstr "Knockback_Greatsword_1"
+
+msgid "desc_s_Knockback_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword"
+msgstr "重击双手剑"
+
+msgid "desc_s_Power Attack_Greatsword"
+msgstr "造成流血伤害的刺入式攻击. "
+
+msgid "s_Power Attack_Greatsword_1"
+msgstr "Power Attack_Greatsword_1"
+
+msgid "desc_s_Power Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword_2"
+msgstr "Power Attack_Greatsword_2"
+
+msgid "desc_s_Power Attack_Greatsword_2"
+msgstr ""
+
+msgid "s_Seize_Greatsword"
+msgstr "夺取双手剑"
+
+msgid "desc_s_Seize_Greatsword"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Greatsword_1"
+msgstr "Seize_Greatsword_1"
+
+msgid "desc_s_Seize_Greatsword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatsword"
+msgstr "回旋双手剑"
+
+msgid "desc_s_Whirlwind Attack_Greatsword"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Greatsword_1"
+msgstr "Whirlwind Attack_Greatsword_1"
+
+msgid "desc_s_Whirlwind Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Greatswords"
+msgstr "双手剑"
+
+msgid "desc_s_Greatswords"
+msgstr "用双手剑进行基本攻击."
+
+msgid "s_Greatswords_1"
+msgstr "Greatswords_1"
+
+msgid "desc_s_Greatswords_1"
+msgstr ""
+
+msgid "s_Knife Skills"
+msgstr "匕首技能"
+
+msgid "desc_s_Knife Skills"
+msgstr "Description of s_Knife Fighting"
+
+msgid "s_Knife Attacks"
+msgstr "匕首"
+
+msgid "desc_s_Knife Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives"
+msgstr "反坦克匕首"
+
+msgid "desc_s_Antitank Attack_Knives"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives_1"
+msgstr "Antitank Attack_Knives_1"
+
+msgid "desc_s_Antitank Attack_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives"
+msgstr "破盾匕首"
+
+msgid "desc_s_Disabling Blow_Knives"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Knives_1"
+msgstr "Disabling Blow_Knives_1"
+
+msgid "desc_s_Disabling Blow_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives_2"
+msgstr "Disabling Blow_Knives_2"
+
+msgid "desc_s_Disabling Blow_Knives_2"
+msgstr ""
+
+msgid "s_Knockback_Knife"
+msgstr "击退匕首"
+
+msgid "desc_s_Knockback_Knife"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Knife_1"
+msgstr "Knockback_Knife_1"
+
+msgid "desc_s_Knockback_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife"
+msgstr "重击匕首"
+
+msgid "desc_s_Power Attack_Knife"
+msgstr "用有毒的匕首进行穿刺攻击. "
+
+msgid "s_Power Attack_Knife_1"
+msgstr "Power Attack_Knife_1"
+
+msgid "desc_s_Power Attack_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife_2"
+msgstr "Power Attack_Knife_2"
+
+msgid "desc_s_Power Attack_Knife_2"
+msgstr ""
+
+msgid "s_Seize_Knife"
+msgstr "夺取匕首"
+
+msgid "desc_s_Seize_Knife"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Knife_1"
+msgstr "Seize_Knife_1"
+
+msgid "desc_s_Seize_Knife_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Knife"
+msgstr "回旋匕首"
+
+msgid "desc_s_Whirlwind Attack_Knife"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Knife_1"
+msgstr "Whirlwind Attack_Knife_1"
+
+msgid "desc_s_Whirlwind Attack_Knife_1"
+msgstr ""
+
+msgid "s_Knives"
+msgstr "匕首"
+
+msgid "desc_s_Knives"
+msgstr "用双匕首进行基本攻击."
+
+msgid "s_Knives_1"
+msgstr "Knives_1"
+
+msgid "desc_s_Knives_1"
+msgstr ""
+
+msgid "s_Melee General Skills"
+msgstr "近战基本技能"
+
+msgid "desc_s_Melee General Skills"
+msgstr ""
+
+msgid "s_Defensive Stance"
+msgstr "防御姿态"
+
+msgid "desc_s_Defensive Stance"
+msgstr ""
+
+msgid "s_Gank"
+msgstr "下刀"
+
+msgid "desc_s_Gank"
+msgstr "屠杀一个无助的对手. "
+
+msgid "s_Gank_1"
+msgstr "Gank_1"
+
+msgid "desc_s_Gank_1"
+msgstr "Description of s_Gank_1"
+
+msgid "s_Melee Powers"
+msgstr "近战力量"
+
+msgid "desc_s_Melee Powers"
+msgstr ""
+
+msgid "s_Dwarven Perseverance"
+msgstr "矮人的毅力"
+
+msgid "desc_s_Dwarven Perseverance"
+msgstr "允许角色在几乎不消耗体力的情况下战斗."
+
+msgid "s_Dwarven Perseverance_1"
+msgstr "Dwarven Perseverance_1"
+
+msgid "desc_s_Dwarven Perseverance_1"
+msgstr ""
+
+msgid "s_Rage"
+msgstr "狂怒"
+
+msgid "desc_s_Rage"
+msgstr "肾上腺素激增,给予对元素攻击的保护,以及适度的治疗效果."
+
+msgid "s_Rage_1"
+msgstr "Rage_1"
+
+msgid "desc_s_Rage_1"
+msgstr ""
+
+msgid "s_Rage_Healing"
+msgstr "Rage_Healing"
+
+msgid "desc_s_Rage_Healing"
+msgstr ""
+
+msgid "s_Mount Attacks"
+msgstr "坐骑攻击"
+
+msgid "desc_s_Mount Attacks"
+msgstr ""
+
+msgid "s_Mount Attack"
+msgstr "坐骑攻击"
+
+msgid "desc_s_Mount Attack"
+msgstr ""
+
+msgid "s_Mount Attack_1"
+msgstr "Mount Attack_1"
+
+msgid "desc_s_Mount Attack_1"
+msgstr ""
+
+msgid "s_Polearm Skills"
+msgstr "长柄武器技能"
+
+msgid "desc_s_Polearm Skills"
+msgstr "Description of s_Polearms"
+
+msgid "s_Polearm Attacks"
+msgstr "长柄武器攻击"
+
+msgid "desc_s_Polearm Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms"
+msgstr "反坦克长柄"
+
+msgid "desc_s_Antitank Attack_Polearms"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms_1"
+msgstr "Antitank Attack_Polearms_1"
+
+msgid "desc_s_Antitank Attack_Polearms_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm"
+msgstr "破盾长柄"
+
+msgid "desc_s_Disabling Blow_Polearm"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Polearm_1"
+msgstr "Disabling Blow_Polearm_1"
+
+msgid "desc_s_Disabling Blow_Polearm_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm_2"
+msgstr "Disabling Blow_Polearm_2"
+
+msgid "desc_s_Disabling Blow_Polearm_2"
+msgstr ""
+
+msgid "s_Knockback_Polearm"
+msgstr "击退长柄"
+
+msgid "desc_s_Knockback_Polearm"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Polearm_1"
+msgstr "Knockback_Polearm_1"
+
+msgid "desc_s_Knockback_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm"
+msgstr "重击长柄"
+
+msgid "desc_s_Power Attack_Polearm"
+msgstr "强大,精确的刺入式攻击."
+
+msgid "s_Power Attack_Polearm_1"
+msgstr "Power Attack_Polearm_1"
+
+msgid "desc_s_Power Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_2"
+msgstr "Power Attack_Polearm_2"
+
+msgid "desc_s_Power Attack_Polearm_2"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_3"
+msgstr "Power Attack_Polearm_3"
+
+msgid "desc_s_Power Attack_Polearm_3"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_4"
+msgstr "Power Attack_Polearm_4"
+
+msgid "desc_s_Power Attack_Polearm_4"
+msgstr ""
+
+msgid "s_Seize_Polearm"
+msgstr "夺取长柄"
+
+msgid "desc_s_Seize_Polearm"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Polearm_1"
+msgstr "Seize_Polearm_1"
+
+msgid "desc_s_Seize_Polearm_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Polearm"
+msgstr "回旋长柄"
+
+msgid "desc_s_Whirlwind Attack_Polearm"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Polearm_1"
+msgstr "Whirlwind Attack_Polearm_1"
+
+msgid "desc_s_Whirlwind Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Polearms"
+msgstr "长柄武器"
+
+msgid "desc_s_Polearms"
+msgstr "用长柄进行基本攻击. "
+
+msgid "s_Polearms_1"
+msgstr "Polearms_1"
+
+msgid "desc_s_Polearms_1"
+msgstr ""
+
+msgid "s_Siege Weapon Skills"
+msgstr "攻城武器技能"
+
+msgid "desc_s_Siege Weapon Skills"
+msgstr ""
+
+msgid "s_Siege Hammer"
+msgstr "攻城锤"
+
+msgid "desc_s_Siege Hammer"
+msgstr "能够破坏建筑物,大炮和车辆的攻击."
+
+msgid "s_Siege Hammer_1"
+msgstr "Siege Hammer_1"
+
+msgid "desc_s_Siege Hammer_1"
+msgstr ""
+
+msgid "s_Sithra Skills"
+msgstr "神剑技能"
+
+msgid "desc_s_Sithra Skills"
+msgstr ""
+
+msgid "s_Sithra Attacks"
+msgstr "神剑攻击"
+
+msgid "desc_s_Sithra Attacks"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra"
+msgstr "破盾神剑"
+
+msgid "desc_s_Disabling Blow_Sithra"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Sithra_1"
+msgstr "Disabling Blow_Sithra_1"
+
+msgid "desc_s_Disabling Blow_Sithra_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra_2"
+msgstr "Disabling Blow_Sithra_2"
+
+msgid "desc_s_Disabling Blow_Sithra_2"
+msgstr ""
+
+msgid "s_Knockback_Sithras"
+msgstr "击退神剑"
+
+msgid "desc_s_Knockback_Sithras"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Sithras_1"
+msgstr "Knockback_Sithras_1"
+
+msgid "desc_s_Knockback_Sithras_1"
+msgstr ""
+
+msgid "s_Power Attack_sithra"
+msgstr "重击神剑"
+
+msgid "desc_s_Power Attack_sithra"
+msgstr "造成额外伤害的刺入式攻击."
+
+msgid "s_Power Attack_Sithra_2"
+msgstr "Power Attack_Sithra_2"
+
+msgid "desc_s_Power Attack_Sithra_2"
+msgstr ""
+
+msgid "s_Sithras_Stab_1"
+msgstr "Sithras_Stab_1"
+
+msgid "desc_s_Sithras_Stab_1"
+msgstr ""
+
+msgid "s_Seize_Sithras"
+msgstr "夺取神剑"
+
+msgid "desc_s_Seize_Sithras"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Sithras_2"
+msgstr "Seize_Sithras_2"
+
+msgid "desc_s_Seize_Sithras_2"
+msgstr ""
+
+msgid "s_Sieze_Sithras_1"
+msgstr "Sieze_Sithras_1"
+
+msgid "desc_s_Sieze_Sithras_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sithra"
+msgstr "回旋神剑"
+
+msgid "desc_s_Whirlwind Attack_Sithra"
+msgstr "旋转攻击猛击邻近的每一个人."
+
+msgid "s_Sithras_Whirlwind_1"
+msgstr "Sithras_Whirlwind_1"
+
+msgid "desc_s_Sithras_Whirlwind_1"
+msgstr ""
+
+msgid "s_Sithras"
+msgstr "神剑"
+
+msgid "desc_s_Sithras"
+msgstr "用神剑进行基本攻击. "
+
+msgid "s_Sithras_1"
+msgstr "Sithras_1"
+
+msgid "desc_s_Sithras_1"
+msgstr ""
+
+msgid "s_Sword Skills"
+msgstr "单手剑技能"
+
+msgid "desc_s_Sword Skills"
+msgstr "Description of s_Sword Skills"
+
+msgid "s_Sword Attacks"
+msgstr "单手剑攻击"
+
+msgid "desc_s_Sword Attacks"
+msgstr "Description of s_Sword Attacks"
+
+msgid "s_Antitank Attack_Swords"
+msgstr "反坦克单手剑"
+
+msgid "desc_s_Antitank Attack_Swords"
+msgstr ""
+
+msgid "s_Antitank Attack_Swords_1"
+msgstr "Antitank Attack_Swords_1"
+
+msgid "desc_s_Antitank Attack_Swords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword"
+msgstr "破盾单手剑"
+
+msgid "desc_s_Disabling Blow_Sword"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Blow_Sword_1"
+msgstr "Disabling Blow_Sword_1"
+
+msgid "desc_s_Disabling Blow_Sword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword_2"
+msgstr "Disabling Blow_Sword_2"
+
+msgid "desc_s_Disabling Blow_Sword_2"
+msgstr ""
+
+msgid "s_Knockback_Sword"
+msgstr "击退单手剑"
+
+msgid "desc_s_Knockback_Sword"
+msgstr "有力地将对手推开的攻击."
+
+msgid "s_Knockback_Sword_1"
+msgstr "Knockback_Sword_1"
+
+msgid "desc_s_Knockback_Sword_1"
+msgstr ""
+
+msgid "s_Power Attack_Sword"
+msgstr "重击单手剑"
+
+msgid "desc_s_Power Attack_Sword"
+msgstr "造成流血伤害的刺入式攻击. "
+
+msgid "s_Power Attack_Sword_2"
+msgstr "Power Attack_Sword_2"
+
+msgid "desc_s_Power Attack_Sword_2"
+msgstr ""
+
+msgid "s_Power Attack_Sword_sub"
+msgstr "Power Attack_Sword_sub"
+
+msgid "desc_s_Power Attack_Sword_sub"
+msgstr ""
+
+msgid "s_Seize_Sword"
+msgstr "夺取单手剑"
+
+msgid "desc_s_Seize_Sword"
+msgstr "拉近对手距离的攻击."
+
+msgid "s_Seize_Sword_1"
+msgstr "Seize_Sword_1"
+
+msgid "desc_s_Seize_Sword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sword"
+msgstr "回旋单手剑"
+
+msgid "desc_s_Whirlwind Attack_Sword"
+msgstr "旋转攻击砍伤邻近的每一个人."
+
+msgid "s_Whirlwind Attack_Sword_1"
+msgstr "Whirlwind Attack_Sword_1"
+
+msgid "desc_s_Whirlwind Attack_Sword_1"
+msgstr ""
+
+msgid "s_Swords"
+msgstr "单手剑"
+
+msgid "desc_s_Swords"
+msgstr "用单手剑进行基本攻击."
+
+msgid "s_Swords_1"
+msgstr "Swords_1"
+
+msgid "desc_s_Swords_1"
+msgstr "Description of s_Swordplay_1"
+
+msgid "s_Natural Attacks"
+msgstr "自然攻击"
+
+msgid "desc_s_Natural Attacks"
+msgstr ""
+
+msgid "s_Natural Epic Attacks"
+msgstr "自然史诗攻击"
+
+msgid "desc_s_Natural Epic Attacks"
+msgstr ""
+
+msgid "s_Natural Melee"
+msgstr "自然近战"
+
+msgid "desc_s_Natural Melee"
+msgstr ""
+
+msgid "s_Natural Basic Attacks"
+msgstr "自然基本攻击"
+
+msgid "desc_s_Natural Basic Attacks"
+msgstr ""
+
+msgid "s_Natural Attack Blunt"
+msgstr "自然钝器攻击"
+
+msgid "desc_s_Natural Attack Blunt"
+msgstr ""
+
+msgid "s_Natural Attack Demon"
+msgstr "自然恶魔攻击"
+
+msgid "desc_s_Natural Attack Demon"
+msgstr ""
+
+msgid "s_Natural Attack Impact"
+msgstr "自然撞击攻击"
+
+msgid "desc_s_Natural Attack Impact"
+msgstr ""
+
+msgid "s_Natural Attack Kraken"
+msgstr "自然克拉肯攻击"
+
+msgid "desc_s_Natural Attack Kraken"
+msgstr ""
+
+msgid "s_Natural Attack Metal Golem"
+msgstr "自然金属巨人攻击"
+
+msgid "desc_s_Natural Attack Metal Golem"
+msgstr ""
+
+msgid "s_Natural Attack Pierce"
+msgstr "自然穿刺攻击"
+
+msgid "desc_s_Natural Attack Pierce"
+msgstr ""
+
+msgid "s_Natural Attack Primary"
+msgstr "自然初级攻击"
+
+msgid "desc_s_Natural Attack Primary"
+msgstr ""
+
+msgid "s_Natural Attack Slash"
+msgstr "自然砍伤攻击"
+
+msgid "desc_s_Natural Attack Slash"
+msgstr ""
+
+msgid "s_Natural Attack Slash Executioner"
+msgstr "自然砍伤行刑者攻击"
+
+msgid "desc_s_Natural Attack Slash Executioner"
+msgstr ""
+
+msgid "s_Natural Attack Stone Golem"
+msgstr "自然石巨人攻击"
+
+msgid "desc_s_Natural Attack Stone Golem"
+msgstr ""
+
+msgid "s_Natural Mageblast"
+msgstr "自然法师爆炸"
+
+msgid "desc_s_Natural Mageblast"
+msgstr ""
+
+msgid "s_Natural Special Attacks"
+msgstr "自然特殊攻击"
+
+msgid "desc_s_Natural Special Attacks"
+msgstr ""
+
+msgid "s_Natural Alt Special Gorra"
+msgstr "自然特殊哥拉"
+
+msgid "desc_s_Natural Alt Special Gorra"
+msgstr ""
+
+msgid "s_Natural Antitank"
+msgstr "自然反坦克"
+
+msgid "desc_s_Natural Antitank"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken"
+msgstr "自然克拉肯反坦克"
+
+msgid "desc_s_Natural Antitank Kraken"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_1"
+msgstr "Natural Antitank Kraken_1"
+
+msgid "desc_s_Natural Antitank Kraken_1"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_2"
+msgstr "Natural Antitank Kraken_2"
+
+msgid "desc_s_Natural Antitank Kraken_2"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_3"
+msgstr "Natural Antitank Kraken_3"
+
+msgid "desc_s_Natural Antitank Kraken_3"
+msgstr ""
+
+msgid "s_Natural Antitank Metal Golem"
+msgstr "自然金属巨人反坦克"
+
+msgid "desc_s_Natural Antitank Metal Golem"
+msgstr ""
+
+msgid "s_Natural Antitank Stone Golem"
+msgstr "自然石巨人反坦克"
+
+msgid "desc_s_Natural Antitank Stone Golem"
+msgstr ""
+
+msgid "s_Natural Attack Crush"
+msgstr "自然粉碎攻击"
+
+msgid "desc_s_Natural Attack Crush"
+msgstr ""
+
+msgid "s_Natural Bleeding"
+msgstr "自然出血"
+
+msgid "desc_s_Natural Bleeding"
+msgstr ""
+
+msgid "s_Natural Bleeding Executioner"
+msgstr "自然出血行刑者"
+
+msgid "desc_s_Natural Bleeding Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Demon"
+msgstr "自然恶魔粉碎"
+
+msgid "desc_s_Natural Crush Demon"
+msgstr ""
+
+msgid "s_Natural Crush Doombringer"
+msgstr "自然末日毁灭者粉碎"
+
+msgid "desc_s_Natural Crush Doombringer"
+msgstr ""
+
+msgid "s_Natural Crush Executioner"
+msgstr "自然执行者粉碎"
+
+msgid "desc_s_Natural Crush Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Metal Golem"
+msgstr "自然金属巨人粉碎"
+
+msgid "desc_s_Natural Crush Metal Golem"
+msgstr ""
+
+msgid "s_Natural Crush Stone Golem"
+msgstr "自然石巨人粉碎"
+
+msgid "desc_s_Natural Crush Stone Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Blunt"
+msgstr "自然钝器破盾"
+
+msgid "desc_s_Natural Disabling Blunt"
+msgstr ""
+
+msgid "s_Natural Disabling Kraken"
+msgstr "自然克拉肯破盾"
+
+msgid "desc_s_Natural Disabling Kraken"
+msgstr ""
+
+msgid "s_Natural Disabling Metal Golem"
+msgstr "自然金属巨人破盾"
+
+msgid "desc_s_Natural Disabling Metal Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Stone Golem"
+msgstr "自然石巨人破盾"
+
+msgid "desc_s_Natural Disabling Stone Golem"
+msgstr ""
+
+msgid "s_Natural Elemental Whirlwind"
+msgstr "自然元素回旋"
+
+msgid "desc_s_Natural Elemental Whirlwind"
+msgstr ""
+
+msgid "s_Natural Poison"
+msgstr "自然毒药"
+
+msgid "desc_s_Natural Poison"
+msgstr ""
+
+msgid "s_Natural Stamina Drain"
+msgstr "自然耐力消耗"
+
+msgid "desc_s_Natural Stamina Drain"
+msgstr ""
+
+msgid "s_Natural Strength Penalty"
+msgstr "自然体力处罚"
+
+msgid "desc_s_Natural Strength Penalty"
+msgstr ""
+
+msgid "s_Natural Whirlwind Poison"
+msgstr "自然旋风毒药"
+
+msgid "desc_s_Natural Whirlwind Poison"
+msgstr ""
+
+msgid "s_Natural Ranged"
+msgstr "自然远程"
+
+msgid "desc_s_Natural Ranged"
+msgstr ""
+
+msgid "s_natural ranged ammo"
+msgstr "自然远程弹药"
+
 msgid "desc_s_natural ranged ammo"
 msgstr ""
+
+msgid "s_Natural Ranged Bow"
+msgstr "自然远程弓"
+
+msgid "desc_s_Natural Ranged Bow"
+msgstr ""
+
+msgid "s_natural ranged noammo"
+msgstr "自然远程非弹药"
 
 msgid "desc_s_natural ranged noammo"
 msgstr ""
 
-msgid "desc_ts_Feel free to comment"
-msgstr ""
+msgid "s_Natural Subskills"
+msgstr "自然亚技能"
 
-msgid "desc_ts_Get the idea?"
-msgstr ""
-
-msgid "desc_ts_Movement Skills"
-msgstr ""
-
-msgid "desc_ts_Test Skills"
-msgstr ""
-
-msgid "desc_ts_Walk"
-msgstr ""
-
-msgid "jumpskill"
-msgstr ""
-
-msgid "s_Acid Arrow"
-msgstr ""
-
-msgid "s_Acid Arrow_1"
-msgstr ""
-
-msgid "s_Acid Explosion"
-msgstr ""
-
-msgid "s_Acid Explosion_1"
-msgstr ""
-
-msgid "s_Acid Rain"
-msgstr ""
-
-msgid "s_Acid Rain_1"
-msgstr ""
-
-msgid "s_Acid Shield"
-msgstr ""
-
-msgid "s_Acid Shield_1"
-msgstr ""
-
-msgid "s_Acid Ward"
-msgstr ""
-
-msgid "s_Acid Ward_1"
-msgstr ""
-
-msgid "s_Acrobatics"
-msgstr ""
-
-msgid "s_Add Effect DOT"
-msgstr ""
-
-msgid "s_Add Effect Duration"
-msgstr ""
-
-msgid "s_Add Effect Main"
-msgstr ""
-
-msgid "s_Adept"
-msgstr ""
-
-msgid "s_Adept Shot"
-msgstr ""
-
-msgid "s_Adept_1"
-msgstr ""
-
-msgid "s_Agility"
-msgstr ""
-
-msgid "s_Agility_1"
-msgstr ""
-
-msgid "s_Air Magic"
-msgstr ""
-
-msgid "s_Air Magic_Spells"
-msgstr ""
-
-msgid "s_Alchemy"
-msgstr ""
-
-msgid "s_Alchemy Mastery"
-msgstr ""
-
-msgid "s_Alfar Cunning"
-msgstr ""
-
-msgid "s_Alfar Intellect"
-msgstr ""
-
-msgid "s_Alfar Resilience"
-msgstr ""
-
-msgid "s_Antitank Archery"
-msgstr ""
-
-msgid "s_Antitank Archery_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Axes"
-msgstr ""
-
-msgid "s_Antitank Attack_Club"
-msgstr ""
-
-msgid "s_Antitank Attack_Club_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Greataxes"
-msgstr ""
-
-msgid "s_Antitank Attack_Greataxes_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Greatclubs"
-msgstr ""
-
-msgid "s_Antitank Attack_Greatclubs_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Greatswords"
-msgstr ""
-
-msgid "s_Antitank Attack_Greatswords_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Knives"
-msgstr ""
-
-msgid "s_Antitank Attack_Knives_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Polearms"
-msgstr ""
-
-msgid "s_Antitank Attack_Polearms_1"
-msgstr ""
-
-msgid "s_Antitank Attack_Swords"
-msgstr ""
-
-msgid "s_Antitank Attack_Swords_1"
-msgstr ""
-
-msgid "s_Antitank Spell"
-msgstr ""
-
-msgid "s_Antitank Spell_1"
-msgstr ""
-
-msgid "s_Antitank_Attack_Axes_1"
-msgstr ""
-
-msgid "s_Anvil Skills"
-msgstr ""
-
-msgid "s_Arcane Magic"
-msgstr ""
-
-msgid "s_Arcane Magic_Spells"
-msgstr ""
-
-msgid "s_Archery"
-msgstr ""
-
-msgid "s_Archery Attacks"
-msgstr ""
-
-msgid "s_Archery Skills"
-msgstr ""
-
-msgid "s_Archery_1"
-msgstr ""
-
-msgid "s_Archmage"
-msgstr ""
-
-msgid "s_Armor Proficiency"
-msgstr ""
-
-msgid "s_Armored Archery"
-msgstr ""
-
-msgid "s_Armored Casting"
-msgstr ""
-
-msgid "s_Armorsmithing"
-msgstr ""
-
-msgid "s_Armorsmithing Mastery"
-msgstr ""
-
-msgid "s_Armour and Shield Skills"
-msgstr ""
-
-msgid "s_Arrow Shield"
-msgstr ""
-
-msgid "s_Arrow Shield_1"
-msgstr ""
-
-msgid "s_Arrow Ward"
-msgstr ""
-
-msgid "s_Arrow Ward_1"
-msgstr ""
-
-msgid "s_Artillery Construction"
-msgstr ""
-
-msgid "s_Athletic Skills"
-msgstr ""
-
-msgid "s_Attack_Archery"
-msgstr ""
-
-msgid "s_AttributeModification"
-msgstr ""
-
-msgid "s_Axe Attacks"
-msgstr ""
-
-msgid "s_Axe Mastery"
-msgstr ""
-
-msgid "s_Axe Skills"
-msgstr ""
-
-msgid "s_Axes"
-msgstr ""
-
-msgid "s_Axes_1"
-msgstr ""
-
-msgid "s_Backstab"
-msgstr ""
-
-msgid "s_Ball Lightning"
-msgstr ""
-
-msgid "s_Ball Lightning_1"
-msgstr ""
-
-msgid "s_Basic Movement Skills"
-msgstr ""
-
-msgid "s_Beacon"
-msgstr ""
-
-msgid "s_Beacon_1"
-msgstr ""
-
-msgid "s_Begone"
-msgstr ""
-
-msgid "s_Begone_1"
-msgstr ""
-
-msgid "s_Bindstone Recall"
-msgstr ""
-
-msgid "s_Blast"
-msgstr ""
-
-msgid "s_Blast_1"
-msgstr ""
-
-msgid "s_Blast_2"
-msgstr ""
-
-msgid "s_Blast_3"
-msgstr ""
-
-msgid "s_Bleeding Hit"
-msgstr ""
-
-msgid "s_Bleeding Hit_1"
-msgstr ""
-
-msgid "s_Bless Other"
-msgstr ""
-
-msgid "s_Bless Other_1"
-msgstr ""
-
-msgid "s_Blessing"
-msgstr ""
-
-msgid "s_Blessing_1"
-msgstr ""
-
-msgid "s_Blizzard"
-msgstr ""
-
-msgid "s_Blizzard_1"
-msgstr ""
-
-msgid "s_Bloodcraft"
-msgstr ""
-
-msgid "s_Bludgeoning Weakness"
-msgstr ""
-
-msgid "s_Bludgeoning Weakness_1"
-msgstr ""
-
-msgid "s_Boon of Agony"
-msgstr ""
-
-msgid "s_Boon of Agony_1"
-msgstr ""
-
-msgid "s_Boon of Blight"
-msgstr ""
-
-msgid "s_Boon of Blight_1"
-msgstr ""
-
-msgid "s_Boon of Domination"
-msgstr ""
-
-msgid "s_Boon of Domination_1"
-msgstr ""
-
-msgid "s_Boon of Mutilation"
-msgstr ""
-
-msgid "s_Boon of Mutilation_1"
-msgstr ""
-
-msgid "s_Boon of Storms"
-msgstr ""
-
-msgid "s_Boon of Storms_1"
-msgstr ""
-
-msgid "s_Boon of Storms_2"
-msgstr ""
-
-msgid "s_Boon of Waves"
-msgstr ""
-
-msgid "s_Boon of Waves_1"
-msgstr ""
-
-msgid "s_Bowyer"
-msgstr ""
-
-msgid "s_Bowyer Mastery"
-msgstr ""
-
-msgid "s_Brawn"
-msgstr ""
-
-msgid "s_Brawn_1"
-msgstr ""
-
-msgid "s_Burden"
-msgstr ""
-
-msgid "s_Burden_1"
-msgstr ""
-
-msgid "s_Cake and Fine Wine"
-msgstr ""
-
-msgid "s_Cake and Fine Wine_1"
-msgstr ""
-
-msgid "s_Camp"
-msgstr ""
-
-msgid "s_Camp_1"
-msgstr ""
-
-msgid "s_Capital Recall"
-msgstr ""
-
-msgid "s_Clear Thoughts"
-msgstr ""
-
-msgid "s_Clear Thoughts_1"
-msgstr ""
-
-msgid "s_Clever"
-msgstr ""
-
-msgid "s_Climb"
-msgstr ""
-
-msgid "s_Club Attacks"
-msgstr ""
-
-msgid "s_Club Mastery"
-msgstr ""
-
-msgid "s_Club and Mace Skills"
-msgstr ""
-
-msgid "s_Clubs and Maces"
-msgstr ""
-
-msgid "s_Clubs and Maces_1"
-msgstr ""
-
-msgid "s_Cold Shield"
-msgstr ""
-
-msgid "s_Cold Shield_prot"
-msgstr ""
-
-msgid "s_Cold Ward"
-msgstr ""
-
-msgid "s_Cold Ward_1"
-msgstr ""
-
-msgid "s_Combat Enhancements"
-msgstr ""
-
-msgid "s_Combat Skills"
-msgstr ""
-
-msgid "s_Come Hither"
-msgstr ""
-
-msgid "s_Come Hither_1"
-msgstr ""
-
-msgid "s_Come Hither_2"
-msgstr ""
-
-msgid "s_Confusion"
-msgstr ""
-
-msgid "s_Confusion_1"
-msgstr ""
-
-msgid "s_Constitution"
-msgstr ""
-
-msgid "s_Construction"
-msgstr ""
-
-msgid "s_Cooking"
-msgstr ""
-
-msgid "s_Cooking Mastery"
-msgstr ""
-
-msgid "s_Corrosive Blast"
-msgstr ""
-
-msgid "s_Corrosive Blast_1"
-msgstr ""
-
-msgid "s_Corrosive Blast_2"
-msgstr ""
-
-msgid "s_Crafting Skills"
-msgstr ""
-
-msgid "s_Critical Shot"
-msgstr ""
-
-msgid "s_Crouch"
-msgstr ""
-
-msgid "s_Crouch walk"
-msgstr ""
-
-msgid "s_Cursed Bolt"
-msgstr ""
-
-msgid "s_Cursed Bolt_1"
-msgstr ""
-
-msgid "s_Damaging Blow"
-msgstr ""
-
-msgid "s_Damaging Blow_1"
-msgstr ""
-
-msgid "s_Death Fog"
-msgstr ""
-
-msgid "s_Death Fog_1"
-msgstr ""
-
-msgid "s_Defense"
-msgstr ""
-
-msgid "s_Defensive Stance"
-msgstr ""
-
-msgid "s_Delayed Shot"
-msgstr ""
-
-msgid "s_Delayed Shot_1"
-msgstr ""
-
-msgid "s_Desecration"
-msgstr ""
-
-msgid "s_Desecration_1"
-msgstr ""
-
-msgid "s_Digging"
-msgstr ""
-
-msgid "s_Disabling Blow_Axe"
-msgstr ""
-
-msgid "s_Disabling Blow_Axe_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Axe_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Club"
-msgstr ""
-
-msgid "s_Disabling Blow_Club_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Club_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Greataxe"
-msgstr ""
-
-msgid "s_Disabling Blow_Greataxe_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Greataxe_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatclub"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatclub_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatclub_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatsword"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatsword_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Greatsword_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Knives"
-msgstr ""
-
-msgid "s_Disabling Blow_Knives_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Knives_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Polearm"
-msgstr ""
-
-msgid "s_Disabling Blow_Polearm_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Polearm_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Sithra"
-msgstr ""
-
-msgid "s_Disabling Blow_Sithra_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Sithra_2"
-msgstr ""
-
-msgid "s_Disabling Blow_Sword"
-msgstr ""
-
-msgid "s_Disabling Blow_Sword_1"
-msgstr ""
-
-msgid "s_Disabling Blow_Sword_2"
-msgstr ""
-
-msgid "s_Disabling Bolt"
-msgstr ""
-
-msgid "s_Disabling Bolt_1"
-msgstr ""
-
-msgid "s_Disabling Bolt_2"
-msgstr ""
-
-msgid "s_Disabling Shot"
-msgstr ""
-
-msgid "s_Disabling Shot_1"
-msgstr ""
-
-msgid "s_Disabling Shot_2"
-msgstr ""
-
-msgid "s_Disease"
-msgstr ""
-
-msgid "s_Disease_1"
-msgstr ""
-
-msgid "s_Disintegrate"
-msgstr ""
-
-msgid "s_Disintegrate_1"
-msgstr ""
-
-msgid "s_Divine Magic"
-msgstr ""
-
-msgid "s_Divine Magic_Spells"
-msgstr ""
-
-msgid "s_Diving"
-msgstr ""
-
-msgid "s_Dragon Acid Blast"
-msgstr ""
-
-msgid "s_Dragon Acid Blast_acid"
-msgstr ""
-
-msgid "s_Dragon Acid Blast_impact"
-msgstr ""
-
-msgid "s_Dragon Acid Breath"
-msgstr ""
-
-msgid "s_Dragon Acid Breath_1"
-msgstr ""
-
-msgid "s_Dragon Cold Blast"
-msgstr ""
-
-msgid "s_Dragon Cold Blast_cold"
-msgstr ""
-
-msgid "s_Dragon Cold Blast_impact"
-msgstr ""
-
-msgid "s_Dragon Cold Breath"
-msgstr ""
-
-msgid "s_Dragon Cold Breath_1"
-msgstr ""
-
-msgid "s_Dragon Fire Blast"
-msgstr ""
-
-msgid "s_Dragon Fire Blast_fire"
-msgstr ""
-
-msgid "s_Dragon Fire Blast_impact"
-msgstr ""
-
-msgid "s_Dragon Fire Breath"
-msgstr ""
-
-msgid "s_Dragon Fire Breath_1"
-msgstr ""
-
-msgid "s_Dragon Lightning Blast"
-msgstr ""
-
-msgid "s_Dragon Lightning Blast_impact"
-msgstr ""
-
-msgid "s_Dragon Lightning Blast_lightning"
-msgstr ""
-
-msgid "s_Dragon Lightning Breath"
-msgstr ""
-
-msgid "s_Dragon Lightning Breath_1"
-msgstr ""
-
-msgid "s_Dragonbreath"
-msgstr ""
-
-msgid "s_Dragonbreath_1"
-msgstr ""
-
-msgid "s_Drink"
-msgstr ""
-
-msgid "s_Durable Spells_Air Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Arcane Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Earth Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Fire Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Greater Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Lesser Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Necromancy"
-msgstr ""
-
-msgid "s_Durable Spells_Ritual Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Spell Chanting"
-msgstr ""
-
-msgid "s_Durable Spells_Water Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Wild Magic"
-msgstr ""
-
-msgid "s_Durable Spells_Witchcraft"
-msgstr ""
-
-msgid "s_Dwarven Durability"
-msgstr ""
-
-msgid "s_Dwarven Perseverance"
-msgstr ""
-
-msgid "s_Dwarven Perseverance_1"
-msgstr ""
-
-msgid "s_Dwarven Steelmaster"
-msgstr ""
-
-msgid "s_Dye Crafting"
-msgstr ""
-
-msgid "s_Dyeing"
-msgstr ""
-
-msgid "s_Dyeing Skills"
-msgstr ""
-
-msgid "s_Earth Magic"
-msgstr ""
-
-msgid "s_Earth Magic_Spells"
-msgstr ""
-
-msgid "s_Earthquake"
-msgstr ""
-
-msgid "s_Earthquake_1"
-msgstr ""
-
-msgid "s_Eat"
-msgstr ""
-
-msgid "s_Eldritch Sphere"
-msgstr ""
-
-msgid "s_Eldritch Sphere_1"
-msgstr ""
-
-msgid "s_Enchantment"
-msgstr ""
-
-msgid "s_Enchantment Add Effects"
-msgstr ""
-
-msgid "s_Enchantment Skills"
-msgstr ""
-
-msgid "s_Endurance"
-msgstr ""
-
-msgid "s_Engineering"
-msgstr ""
-
-msgid "s_Engineering Mastery"
-msgstr ""
-
-msgid "s_Environmental Skills"
-msgstr ""
-
-msgid "s_Esoteric"
-msgstr ""
-
-msgid "s_Evil Eye"
-msgstr ""
-
-msgid "s_Evil Eye_1"
-msgstr ""
-
-msgid "s_Examine Object"
-msgstr ""
-
-msgid "s_Exhaust"
-msgstr ""
-
-msgid "s_Exhaust_1"
-msgstr ""
-
-msgid "s_Exploding Charge"
-msgstr ""
-
-msgid "s_Exploding Charge_Area"
-msgstr ""
-
-msgid "s_Explosion"
-msgstr ""
-
-msgid "s_Explosion_fire"
-msgstr ""
-
-msgid "s_Eye Rot"
-msgstr ""
-
-msgid "s_Eye Rot_1"
-msgstr ""
-
-msgid "s_Eye Rot_2"
-msgstr ""
-
-msgid "s_Eye Rot_3"
-msgstr ""
-
-msgid "s_Falling Technique"
-msgstr ""
-
-msgid "s_Fire Cannon"
-msgstr ""
-
-msgid "s_Fire Cannon_02"
-msgstr ""
-
-msgid "s_Fire Magic"
-msgstr ""
-
-msgid "s_Fire Magic_Spells"
-msgstr ""
-
-msgid "s_Fire Shield"
-msgstr ""
-
-msgid "s_Fire Shield_prot"
-msgstr ""
-
-msgid "s_Fire Shock Charge"
-msgstr ""
-
-msgid "s_Fire Ward"
-msgstr ""
-
-msgid "s_Fire Ward_prot"
-msgstr ""
-
-msgid "s_Fireball"
-msgstr ""
-
-msgid "s_Fireball_2"
-msgstr ""
-
-msgid "s_Fireball_Area"
-msgstr ""
-
-msgid "s_Firebolt"
-msgstr ""
-
-msgid "s_Firebolt_area"
-msgstr ""
-
-msgid "s_Fishing"
-msgstr ""
-
-msgid "s_Fishing Mastery"
-msgstr ""
-
-msgid "s_Fitness"
-msgstr ""
-
-msgid "s_Flames of Vengeance"
-msgstr ""
-
-msgid "s_Flames of Vengeance_1"
-msgstr ""
-
-msgid "s_Fleet"
-msgstr ""
-
-msgid "s_Flesh Curse"
-msgstr ""
-
-msgid "s_Flesh Curse_1"
-msgstr ""
-
-msgid "s_Fly"
-msgstr ""
-
-msgid "s_Focus"
-msgstr ""
-
-msgid "s_Fortitude"
-msgstr ""
-
-msgid "s_Foundry Skills"
-msgstr ""
-
-msgid "s_Frailty"
-msgstr ""
-
-msgid "s_Frailty_1"
-msgstr ""
-
-msgid "s_Frostbite"
-msgstr ""
-
-msgid "s_Frostbite_1"
-msgstr ""
-
-msgid "s_Gank"
-msgstr ""
-
-msgid "s_Gank_1"
-msgstr ""
-
-msgid "s_Gem Enchanting"
-msgstr ""
-
-msgid "s_General Skills"
-msgstr ""
-
-msgid "s_Gills"
-msgstr ""
-
-msgid "s_Gills_1"
-msgstr ""
-
-msgid "s_Glide"
-msgstr ""
-
-msgid "s_Gravity"
-msgstr ""
-
-msgid "s_Gravity_1"
-msgstr ""
-
-msgid "s_Greataxe Attacks"
-msgstr ""
-
-msgid "s_Greataxe Mastery"
-msgstr ""
-
-msgid "s_Greataxe Skills"
-msgstr ""
-
-msgid "s_Greataxes"
-msgstr ""
-
-msgid "s_Greataxes_1"
-msgstr ""
-
-msgid "s_Greatclub Attacks"
-msgstr ""
-
-msgid "s_Greatclub Mastery"
-msgstr ""
-
-msgid "s_Greatclub Skills"
-msgstr ""
-
-msgid "s_Greatclubs"
-msgstr ""
-
-msgid "s_Greatclubs_1"
-msgstr ""
-
-msgid "s_Greater Magic"
-msgstr ""
-
-msgid "s_Greater Magic_Spells"
-msgstr ""
-
-msgid "s_Greatsword Attacks"
-msgstr ""
-
-msgid "s_Greatsword Mastery"
-msgstr ""
-
-msgid "s_Greatsword Skills"
-msgstr ""
-
-msgid "s_Greatswords"
-msgstr ""
-
-msgid "s_Greatswords_1"
-msgstr ""
-
-msgid "s_Guiding Wind"
-msgstr ""
-
-msgid "s_Guiding Wind_1"
-msgstr ""
-
-msgid "s_Harvesting Skills"
-msgstr ""
-
-msgid "s_Haste"
-msgstr ""
-
-msgid "s_Haste_1"
-msgstr ""
-
-msgid "s_Hasten Spells"
-msgstr ""
-
-msgid "s_Hasten Spells_1"
-msgstr ""
-
-msgid "s_Heal Mount"
-msgstr ""
-
-msgid "s_Heal Mount_1"
-msgstr ""
-
-msgid "s_Heal Other"
-msgstr ""
-
-msgid "s_Heal Other_1"
-msgstr ""
-
-msgid "s_Heal Self"
-msgstr ""
-
-msgid "s_Heal Self_1"
-msgstr ""
-
-msgid "s_Healing Chant"
-msgstr ""
-
-msgid "s_Healing Chant_1"
-msgstr ""
-
-msgid "s_Health"
-msgstr ""
-
-msgid "s_Health to Mana"
-msgstr ""
-
-msgid "s_Health to Mana_1"
-msgstr ""
-
-msgid "s_Herb Gathering"
-msgstr ""
-
-msgid "s_Herb Gathering Mastery"
-msgstr ""
-
-msgid "s_Holy Shield"
-msgstr ""
-
-msgid "s_Holy Shield_1"
-msgstr ""
-
-msgid "s_Holy Ward"
-msgstr ""
-
-msgid "s_Holy Ward_1"
-msgstr ""
-
-msgid "s_Holy Weakness"
-msgstr ""
-
-msgid "s_Holy Weakness_1"
-msgstr ""
-
-msgid "s_House Recall"
-msgstr ""
-
-msgid "s_Human Ingenuity"
-msgstr ""
-
-msgid "s_Human Longevity"
-msgstr ""
-
-msgid "s_Human Willpower"
-msgstr ""
-
-msgid "s_Hymn of Intellect"
-msgstr ""
-
-msgid "s_Hymn of Intellect_1"
-msgstr ""
-
-msgid "s_Hymn of Might"
-msgstr ""
-
-msgid "s_Hymn of Might_1"
-msgstr ""
-
-msgid "s_Hymn of Skill"
-msgstr ""
-
-msgid "s_Hymn of Skill_1"
-msgstr ""
-
-msgid "s_Hymn of Swiftness"
-msgstr ""
-
-msgid "s_Hymn of Swiftness_1"
-msgstr ""
-
-msgid "s_Hymn of Vigor"
-msgstr ""
-
-msgid "s_Hymn of Vigor_1"
-msgstr ""
-
-msgid "s_Ice Storm"
-msgstr ""
-
-msgid "s_Ice Storm_1"
-msgstr ""
-
-msgid "s_Icicle"
-msgstr ""
-
-msgid "s_Icicle_Cold"
-msgstr ""
-
-msgid "s_Ignore Pain"
-msgstr ""
-
-msgid "s_Impale"
-msgstr ""
-
-msgid "s_Impale_1"
-msgstr ""
-
-msgid "s_Impetus"
-msgstr ""
-
-msgid "s_Impetus_1"
-msgstr ""
-
-msgid "s_Improvement Skills"
-msgstr ""
-
-msgid "s_Impulse"
-msgstr ""
-
-msgid "s_Impulse_1"
-msgstr ""
-
-msgid "s_Industry"
-msgstr ""
-
-msgid "s_Infernal Shield"
-msgstr ""
-
-msgid "s_Infernal Shield_1"
-msgstr ""
-
-msgid "s_Infernal Ward"
-msgstr ""
-
-msgid "s_Infernal Ward_1"
-msgstr ""
-
-msgid "s_Inferno"
-msgstr ""
-
-msgid "s_Inferno_area"
-msgstr ""
-
-msgid "s_Infliction Shield"
-msgstr ""
-
-msgid "s_Infliction Shield_1"
-msgstr ""
-
-msgid "s_Infliction Ward"
-msgstr ""
-
-msgid "s_Infliction Ward_1"
-msgstr ""
-
-msgid "s_Ingenious"
-msgstr ""
-
-msgid "s_Insect Swarm"
-msgstr ""
-
-msgid "s_Insect Swarm_1"
-msgstr ""
-
-msgid "s_Insect Swarm_2"
-msgstr ""
-
-msgid "s_Insight"
-msgstr ""
-
-msgid "s_Insight_1"
-msgstr ""
-
-msgid "s_InstaGib"
-msgstr ""
-
-msgid "s_InstaGib_1"
-msgstr ""
-
-msgid "s_Intensify_Air Magic"
-msgstr ""
-
-msgid "s_Intensify_Arcane Magic"
-msgstr ""
-
-msgid "s_Intensify_Earth Magic"
-msgstr ""
-
-msgid "s_Intensify_Fire Magic"
-msgstr ""
-
-msgid "s_Intensify_Greater Magic"
-msgstr ""
-
-msgid "s_Intensify_Lesser Magic"
-msgstr ""
-
-msgid "s_Intensify_Necromancy"
-msgstr ""
-
-msgid "s_Intensify_Ritual Magic"
-msgstr ""
-
-msgid "s_Intensify_Spell Chanting"
-msgstr ""
-
-msgid "s_Intensify_Water Magic"
-msgstr ""
-
-msgid "s_Intensify_Wild Magic"
-msgstr ""
-
-msgid "s_Intensify_Witchcraft"
-msgstr ""
-
-msgid "s_Ironskin"
-msgstr ""
-
-msgid "s_Ironskin_1"
-msgstr ""
-
-msgid "s_Jewelsmithing"
-msgstr ""
-
-msgid "s_Jog"
-msgstr ""
-
-msgid "s_Jump"
-msgstr ""
-
-msgid "s_Kneel"
-msgstr ""
-
-msgid "s_Knife Attacks"
-msgstr ""
-
-msgid "s_Knife Mastery"
-msgstr ""
-
-msgid "s_Knife Skills"
-msgstr ""
-
-msgid "s_Knives"
-msgstr ""
-
-msgid "s_Knives_1"
-msgstr ""
-
-msgid "s_Knockback_Axe"
-msgstr ""
-
-msgid "s_Knockback_Axe_1"
-msgstr ""
-
-msgid "s_Knockback_Club"
-msgstr ""
-
-msgid "s_Knockback_Club_1"
-msgstr ""
-
-msgid "s_Knockback_Greataxe"
-msgstr ""
-
-msgid "s_Knockback_Greataxe_1"
-msgstr ""
-
-msgid "s_Knockback_Greatclub"
-msgstr ""
-
-msgid "s_Knockback_Greatclub_1"
-msgstr ""
-
-msgid "s_Knockback_Greatsword"
-msgstr ""
-
-msgid "s_Knockback_Greatsword_1"
-msgstr ""
-
-msgid "s_Knockback_Knife"
-msgstr ""
-
-msgid "s_Knockback_Knife_1"
-msgstr ""
-
-msgid "s_Knockback_Polearm"
-msgstr ""
-
-msgid "s_Knockback_Polearm_1"
-msgstr ""
-
-msgid "s_Knockback_Sithras"
-msgstr ""
-
-msgid "s_Knockback_Sithras_1"
-msgstr ""
-
-msgid "s_Knockback_Sword"
-msgstr ""
-
-msgid "s_Knockback_Sword_1"
-msgstr ""
-
-msgid "s_Laboratory Skills"
-msgstr ""
-
-msgid "s_Launch"
-msgstr ""
-
-msgid "s_Launch_1"
-msgstr ""
-
-msgid "s_Lay on Hands"
-msgstr ""
-
-msgid "s_Lay on Hands_1"
-msgstr ""
-
-msgid "s_Lend Mana"
-msgstr ""
-
-msgid "s_Lend Mana_1"
-msgstr ""
-
-msgid "s_Lesser Magic"
-msgstr ""
-
-msgid "s_Lesser Magic_Spells"
-msgstr ""
-
-msgid "s_Levitation"
-msgstr ""
-
-msgid "s_Levitation_1"
-msgstr ""
-
-msgid "s_Lie"
-msgstr ""
-
-msgid "s_Light"
-msgstr ""
-
-msgid "s_Light_1"
-msgstr ""
-
-msgid "s_Lightning Bolt"
-msgstr ""
-
-msgid "s_Lightning Bolt_1"
-msgstr ""
-
-msgid "s_Lightning Shield"
-msgstr ""
-
-msgid "s_Lightning Shield_1"
-msgstr ""
-
-msgid "s_Lightning Strike"
-msgstr ""
-
-msgid "s_Lightning Strike_1"
-msgstr ""
-
-msgid "s_Lightning Strike_2"
-msgstr ""
-
-msgid "s_Lightning Ward"
-msgstr ""
-
-msgid "s_Lightning Ward_1"
-msgstr ""
-
-msgid "s_Lightning Weakness"
-msgstr ""
-
-msgid "s_Lightning Weakness_1"
-msgstr ""
-
-msgid "s_Logging"
-msgstr ""
-
-msgid "s_Logging Mastery"
-msgstr ""
-
-msgid "s_Magic Schools_Skills"
-msgstr ""
-
-msgid "s_Magic Shield"
-msgstr ""
-
-msgid "s_Magic Shield_resist"
-msgstr ""
-
-msgid "s_Magic Skills"
-msgstr ""
-
-msgid "s_Magic Ward"
-msgstr ""
-
-msgid "s_Magic Ward_resist"
-msgstr ""
-
-msgid "s_Magma Storm"
-msgstr ""
-
-msgid "s_Magma Strom_fire"
-msgstr ""
-
-msgid "s_Mahirim Endurance"
-msgstr ""
-
-msgid "s_Mahirim Huntspeed"
-msgstr ""
-
-msgid "s_Mahirim Reflexes"
-msgstr ""
-
-msgid "s_Mahirim Run"
-msgstr ""
-
-msgid "s_Maintenance"
-msgstr ""
-
-msgid "s_Mana Blast"
-msgstr ""
-
-msgid "s_Mana Blast_1"
-msgstr ""
-
-msgid "s_Mana Bonus"
-msgstr ""
-
-msgid "s_Mana Conservation"
-msgstr ""
-
-msgid "s_Mana Drain"
-msgstr ""
-
-msgid "s_Mana Drain_Drain"
-msgstr ""
-
-msgid "s_Mana Efficiency_Air Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Arcane Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Earth Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Fire Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Greater Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Lesser Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Necromancy"
-msgstr ""
-
-msgid "s_Mana Efficiency_Ritual Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Spell Chanting"
-msgstr ""
-
-msgid "s_Mana Efficiency_Water Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Wild Magic"
-msgstr ""
-
-msgid "s_Mana Efficiency_Witchcraft"
-msgstr ""
-
-msgid "s_Mana Leech"
-msgstr ""
-
-msgid "s_Mana Leech Hit"
-msgstr ""
-
-msgid "s_Mana Leech Hit_1"
-msgstr ""
-
-msgid "s_Mana Leech_1"
-msgstr ""
-
-msgid "s_Mana Missile"
-msgstr ""
-
-msgid "s_Mana Missile_Arcane"
-msgstr ""
-
-msgid "s_Mana to Stamina"
-msgstr ""
-
-msgid "s_Mana to Stamina_1"
-msgstr ""
-
-msgid "s_Manipulate Skills"
-msgstr ""
-
-msgid "s_Manufacturing Skills"
-msgstr ""
-
-msgid "s_Max Health Bonus"
-msgstr ""
-
-msgid "s_Max Health Bonus_1"
-msgstr ""
-
-msgid "s_Max Mana Bonus"
-msgstr ""
-
-msgid "s_Max Mana Bonus_1"
-msgstr ""
-
-msgid "s_Max Stamina Bonus"
-msgstr ""
-
-msgid "s_Max Stamina Bonus_1"
-msgstr ""
-
-msgid "s_Medical Skills"
-msgstr ""
-
-msgid "s_Melee General Skills"
-msgstr ""
-
-msgid "s_Melee Powers"
-msgstr ""
-
-msgid "s_Melee Skills"
-msgstr ""
-
-msgid "s_Mental Weakness"
-msgstr ""
-
-msgid "s_Mental Weakness_1"
-msgstr ""
-
-msgid "s_Meteor Strike"
-msgstr ""
-
-msgid "s_Meteor Strike_Impact"
-msgstr ""
-
-msgid "s_Might"
-msgstr ""
-
-msgid "s_Mining"
-msgstr ""
-
-msgid "s_Mining Mastery"
-msgstr ""
-
-msgid "s_Mirdain Insight"
-msgstr ""
-
-msgid "s_Mirdain Precision"
-msgstr ""
-
-msgid "s_Mirdain Sight"
-msgstr ""
-
-msgid "s_Missile Fury"
-msgstr ""
-
-msgid "s_Missile Fury_1"
-msgstr ""
-
-msgid "s_Mixing"
-msgstr ""
-
-msgid "s_Mortar and Pestle Skills"
-msgstr ""
-
-msgid "s_Mount Attack"
-msgstr ""
-
-msgid "s_Mount Attack_1"
-msgstr ""
-
-msgid "s_Mount Attacks"
-msgstr ""
-
-msgid "s_Mount Swim"
-msgstr ""
-
-msgid "s_Movement Skills"
-msgstr ""
-
-msgid "s_Mugging"
-msgstr ""
-
-msgid "s_Muscular"
-msgstr ""
-
-msgid "s_Mystic Shield"
-msgstr ""
-
-msgid "s_Mystic Shield_1"
-msgstr ""
-
-msgid "s_Mystic Ward"
-msgstr ""
-
-msgid "s_Mystic Ward_1"
-msgstr ""
-
-msgid "s_Natural Alt Special Gorra"
-msgstr ""
-
-msgid "s_Natural Antitank"
-msgstr ""
-
-msgid "s_Natural Antitank Kraken"
-msgstr ""
-
-msgid "s_Natural Antitank Kraken_1"
-msgstr ""
-
-msgid "s_Natural Antitank Kraken_2"
-msgstr ""
-
-msgid "s_Natural Antitank Kraken_3"
-msgstr ""
-
-msgid "s_Natural Antitank Metal Golem"
-msgstr ""
-
-msgid "s_Natural Antitank Stone Golem"
+msgid "desc_s_Natural Subskills"
 msgstr ""
 
 msgid "s_Natural Attack Acid_1"
+msgstr "Natural Attack Acid_1"
+
+msgid "desc_s_Natural Attack Acid_1"
 msgstr ""
 
 msgid "s_Natural Attack Arcane_1"
+msgstr "Natural Attack Arcane_1"
+
+msgid "desc_s_Natural Attack Arcane_1"
 msgstr ""
 
 msgid "s_Natural Attack Bleed_1"
-msgstr ""
+msgstr "Natural Attack Bleed_1"
 
-msgid "s_Natural Attack Blunt"
+msgid "desc_s_Natural Attack Bleed_1"
 msgstr ""
 
 msgid "s_Natural Attack Blunt_1"
+msgstr "Natural Attack Blunt_1"
+
+msgid "desc_s_Natural Attack Blunt_1"
 msgstr ""
 
 msgid "s_Natural Attack Bow_1"
-msgstr ""
+msgstr "Natural Attack Bow_1"
 
-msgid "s_Natural Attack Crush"
-msgstr ""
-
-msgid "s_Natural Attack Demon"
+msgid "desc_s_Natural Attack Bow_1"
 msgstr ""
 
 msgid "s_Natural Attack Disabling_1"
+msgstr "Natural Attack Disabling_1"
+
+msgid "desc_s_Natural Attack Disabling_1"
 msgstr ""
 
 msgid "s_Natural Attack Explosion_1"
+msgstr "Natural Attack Explosion_1"
+
+msgid "desc_s_Natural Attack Explosion_1"
 msgstr ""
 
 msgid "s_Natural Attack Explosion_2"
+msgstr "Natural Attack Explosion_2"
+
+msgid "desc_s_Natural Attack Explosion_2"
 msgstr ""
 
 msgid "s_Natural Attack Explosion_3"
+msgstr "Natural Attack Explosion_3"
+
+msgid "desc_s_Natural Attack Explosion_3"
 msgstr ""
 
 msgid "s_Natural Attack Explosion_4"
-msgstr ""
+msgstr "Natural Attack Explosion_4"
 
-msgid "s_Natural Attack Impact"
+msgid "desc_s_Natural Attack Explosion_4"
 msgstr ""
 
 msgid "s_Natural Attack Impact_1"
+msgstr "Natural Attack Impact_1"
+
+msgid "desc_s_Natural Attack Impact_1"
 msgstr ""
 
 msgid "s_Natural Attack Knockback_1"
+msgstr "Natural Attack Knockback_1"
+
+msgid "desc_s_Natural Attack Knockback_1"
 msgstr ""
 
 msgid "s_Natural Attack Knockback_2"
-msgstr ""
+msgstr "Natural Attack Knockback_2"
 
-msgid "s_Natural Attack Kraken"
-msgstr ""
-
-msgid "s_Natural Attack Metal Golem"
-msgstr ""
-
-msgid "s_Natural Attack Pierce"
+msgid "desc_s_Natural Attack Knockback_2"
 msgstr ""
 
 msgid "s_Natural Attack Pierce_1"
+msgstr "Natural Attack Pierce_1"
+
+msgid "desc_s_Natural Attack Pierce_1"
 msgstr ""
 
 msgid "s_Natural Attack Poison_1"
-msgstr ""
+msgstr "Natural Attack Poison_1"
 
-msgid "s_Natural Attack Primary"
-msgstr ""
-
-msgid "s_Natural Attack Slash"
-msgstr ""
-
-msgid "s_Natural Attack Slash Executioner"
+msgid "desc_s_Natural Attack Poison_1"
 msgstr ""
 
 msgid "s_Natural Attack Slash_1"
+msgstr "Natural Attack Slash_1"
+
+msgid "desc_s_Natural Attack Slash_1"
 msgstr ""
 
 msgid "s_Natural Attack Stamina_1"
-msgstr ""
+msgstr "Natural Attack Stamina_1"
 
-msgid "s_Natural Attack Stone Golem"
+msgid "desc_s_Natural Attack Stamina_1"
 msgstr ""
 
 msgid "s_Natural Attack Strength_1"
-msgstr ""
+msgstr "Natural Attack Strength_1"
 
-msgid "s_Natural Attacks"
-msgstr ""
-
-msgid "s_Natural Basic Attacks"
-msgstr ""
-
-msgid "s_Natural Bleeding"
-msgstr ""
-
-msgid "s_Natural Bleeding Executioner"
-msgstr ""
-
-msgid "s_Natural Crush Demon"
-msgstr ""
-
-msgid "s_Natural Crush Doombringer"
-msgstr ""
-
-msgid "s_Natural Crush Executioner"
-msgstr ""
-
-msgid "s_Natural Crush Metal Golem"
-msgstr ""
-
-msgid "s_Natural Crush Stone Golem"
-msgstr ""
-
-msgid "s_Natural Disabling Blunt"
-msgstr ""
-
-msgid "s_Natural Disabling Kraken"
-msgstr ""
-
-msgid "s_Natural Disabling Metal Golem"
-msgstr ""
-
-msgid "s_Natural Disabling Stone Golem"
-msgstr ""
-
-msgid "s_Natural Elemental Whirlwind"
-msgstr ""
-
-msgid "s_Natural Epic Attacks"
-msgstr ""
-
-msgid "s_Natural Mageblast"
-msgstr ""
-
-msgid "s_Natural Melee"
-msgstr ""
-
-msgid "s_Natural Poison"
-msgstr ""
-
-msgid "s_Natural Ranged"
-msgstr ""
-
-msgid "s_Natural Ranged Bow"
-msgstr ""
-
-msgid "s_Natural Special Attacks"
-msgstr ""
-
-msgid "s_Natural Stamina Drain"
-msgstr ""
-
-msgid "s_Natural Strength Penalty"
-msgstr ""
-
-msgid "s_Natural Subskills"
-msgstr ""
-
-msgid "s_Natural Whirlwind Poison"
-msgstr ""
-
-msgid "s_Necromancy"
-msgstr ""
-
-msgid "s_Necromancy_Spells"
-msgstr ""
-
-msgid "s_Needles"
-msgstr ""
-
-msgid "s_Needles_1"
-msgstr ""
-
-msgid "s_Nimble"
-msgstr ""
-
-msgid "s_Ominous Drain"
-msgstr ""
-
-msgid "s_Ominous Drain_1"
-msgstr ""
-
-msgid "s_Open Package"
-msgstr ""
-
-msgid "s_Orkish Brutality"
-msgstr ""
-
-msgid "s_Orkish Capacity"
-msgstr ""
-
-msgid "s_Orkish Toughness"
-msgstr ""
-
-msgid "s_Other Skills"
-msgstr ""
-
-msgid "s_Oven Skills"
-msgstr ""
-
-msgid "s_Pack Mule"
-msgstr ""
-
-msgid "s_Palsy"
-msgstr ""
-
-msgid "s_Palsy_1"
-msgstr ""
-
-msgid "s_Parry"
-msgstr ""
-
-msgid "s_Perseverance"
-msgstr ""
-
-msgid "s_Pestilence"
-msgstr ""
-
-msgid "s_Pestilence_1"
-msgstr ""
-
-msgid "s_Physics Test A"
-msgstr ""
-
-msgid "s_Physics Test A_1"
-msgstr ""
-
-msgid "s_Physics Test B"
-msgstr ""
-
-msgid "s_Physics Test B_1"
-msgstr ""
-
-msgid "s_Physics Test C"
-msgstr ""
-
-msgid "s_Physics Test C_1"
-msgstr ""
-
-msgid "s_Physics Test D"
-msgstr ""
-
-msgid "s_Physics Test D_1"
-msgstr ""
-
-msgid "s_Physics Test E"
-msgstr ""
-
-msgid "s_Physics Test E_1"
-msgstr ""
-
-msgid "s_Pick Pockets"
-msgstr ""
-
-msgid "s_Piercing Weakness"
-msgstr ""
-
-msgid "s_Piercing Weakness_1"
-msgstr ""
-
-msgid "s_Ping Waypoint"
-msgstr ""
-
-msgid "s_Place Object"
-msgstr ""
-
-msgid "s_Placement Skills"
-msgstr ""
-
-msgid "s_Poison Resistance"
-msgstr ""
-
-msgid "s_Polearm Attacks"
-msgstr ""
-
-msgid "s_Polearm Mastery"
-msgstr ""
-
-msgid "s_Polearm Skills"
-msgstr ""
-
-msgid "s_Polearms"
-msgstr ""
-
-msgid "s_Polearms_1"
-msgstr ""
-
-msgid "s_Positioning Skills"
-msgstr ""
-
-msgid "s_Power Attack_Axe"
-msgstr ""
-
-msgid "s_Power Attack_Axe_1"
-msgstr ""
-
-msgid "s_Power Attack_Axe_2"
-msgstr ""
-
-msgid "s_Power Attack_Axe_3"
-msgstr ""
-
-msgid "s_Power Attack_Axe_4"
-msgstr ""
-
-msgid "s_Power Attack_Club"
-msgstr ""
-
-msgid "s_Power Attack_Club_1"
-msgstr ""
-
-msgid "s_Power Attack_Club_2"
-msgstr ""
-
-msgid "s_Power Attack_Greataxe"
-msgstr ""
-
-msgid "s_Power Attack_Greataxe_1"
-msgstr ""
-
-msgid "s_Power Attack_Greataxe_2"
-msgstr ""
-
-msgid "s_Power Attack_Greataxe_3"
-msgstr ""
-
-msgid "s_Power Attack_Greataxe_4"
-msgstr ""
-
-msgid "s_Power Attack_Greatclub"
-msgstr ""
-
-msgid "s_Power Attack_Greatclub_1"
-msgstr ""
-
-msgid "s_Power Attack_Greatclub_2"
-msgstr ""
-
-msgid "s_Power Attack_Greatsword"
-msgstr ""
-
-msgid "s_Power Attack_Greatsword_1"
-msgstr ""
-
-msgid "s_Power Attack_Greatsword_2"
-msgstr ""
-
-msgid "s_Power Attack_Knife"
-msgstr ""
-
-msgid "s_Power Attack_Knife_1"
-msgstr ""
-
-msgid "s_Power Attack_Knife_2"
-msgstr ""
-
-msgid "s_Power Attack_Polearm"
-msgstr ""
-
-msgid "s_Power Attack_Polearm_1"
-msgstr ""
-
-msgid "s_Power Attack_Polearm_2"
-msgstr ""
-
-msgid "s_Power Attack_Polearm_3"
-msgstr ""
-
-msgid "s_Power Attack_Polearm_4"
-msgstr ""
-
-msgid "s_Power Attack_Sithra_2"
-msgstr ""
-
-msgid "s_Power Attack_Sword"
-msgstr ""
-
-msgid "s_Power Attack_Sword_2"
-msgstr ""
-
-msgid "s_Power Attack_Sword_sub"
-msgstr ""
-
-msgid "s_Power Attack_sithra"
-msgstr ""
-
-msgid "s_Pray"
-msgstr ""
-
-msgid "s_Precise Shot"
-msgstr ""
-
-msgid "s_Proc Blizzard"
-msgstr ""
-
-msgid "s_Proc Blizzard_1"
-msgstr ""
-
-msgid "s_Proc Exploding Charge"
-msgstr ""
-
-msgid "s_Proc Exploding Charge_Area"
-msgstr ""
-
-msgid "s_Proc Meteor Strike"
-msgstr ""
-
-msgid "s_Proc Meteor Strike_Impact"
-msgstr ""
-
-msgid "s_Proc Rend"
-msgstr ""
-
-msgid "s_Proc Rend_1"
-msgstr ""
-
-msgid "s_Proc Unholy Flames"
-msgstr ""
-
-msgid "s_Proc Unholy Flames_area"
-msgstr ""
-
-msgid "s_Pungent Mist"
-msgstr ""
-
-msgid "s_Pungent Mist_1"
-msgstr ""
-
-msgid "s_Push"
-msgstr ""
-
-msgid "s_Quicken Spells_Air Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Arcane Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Earth Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Fire Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Greater Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Lesser Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Necromancy"
-msgstr ""
-
-msgid "s_Quicken Spells_Ritual Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Spell Chanting"
-msgstr ""
-
-msgid "s_Quicken Spells_Water Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Wild Magic"
-msgstr ""
-
-msgid "s_Quicken Spells_Witchcraft"
-msgstr ""
-
-msgid "s_Rage"
-msgstr ""
-
-msgid "s_Rage_1"
-msgstr ""
-
-msgid "s_Rage_Healing"
+msgid "desc_s_Natural Attack Strength_1"
 msgstr ""
 
 msgid "s_Ranged Skills"
-msgstr ""
-
-msgid "s_Rapid Shot"
-msgstr ""
-
-msgid "s_Rapid Shot_1"
-msgstr ""
-
-msgid "s_Read"
-msgstr ""
-
-msgid "s_Reagent Conservation"
-msgstr ""
-
-msgid "s_Reflect Spell"
-msgstr ""
-
-msgid "s_Reflect Spell_1"
-msgstr ""
-
-msgid "s_Reflex"
-msgstr ""
-
-msgid "s_Rend"
-msgstr ""
-
-msgid "s_Rend_1"
-msgstr ""
-
-msgid "s_Rend_2"
-msgstr ""
-
-msgid "s_Repair"
-msgstr ""
-
-msgid "s_Repair Skills"
-msgstr ""
-
-msgid "s_Replenish"
-msgstr ""
-
-msgid "s_Replenish all"
-msgstr ""
-
-msgid "s_Replenish all_1"
-msgstr ""
-
-msgid "s_Replenish all_2"
-msgstr ""
-
-msgid "s_Replenish all_3"
-msgstr ""
-
-msgid "s_Replenish_1"
-msgstr ""
-
-msgid "s_Research"
-msgstr ""
-
-msgid "s_Research Skills"
-msgstr ""
-
-msgid "s_Rest"
-msgstr ""
-
-msgid "s_Rest_1"
-msgstr ""
-
-msgid "s_Revive"
-msgstr ""
-
-msgid "s_Revive_1"
-msgstr ""
-
-msgid "s_Riding"
-msgstr ""
-
-msgid "s_Riding Jump"
-msgstr ""
-
-msgid "s_Riding Run"
-msgstr ""
-
-msgid "s_Riding Skills"
-msgstr ""
-
-msgid "s_Riding Walk"
-msgstr ""
-
-msgid "s_Rigor"
-msgstr ""
-
-msgid "s_Ritual Magic"
-msgstr ""
-
-msgid "s_Ritual Magic_Spells"
-msgstr ""
-
-msgid "s_Run"
-msgstr ""
-
-msgid "s_Sacred Missile"
-msgstr ""
-
-msgid "s_Sacred Missile_HolyDam"
-msgstr ""
-
-msgid "s_Sacrifice"
-msgstr ""
-
-msgid "s_Sacrifice_1"
-msgstr ""
-
-msgid "s_Sail"
-msgstr ""
-
-msgid "s_Scan Resources"
-msgstr ""
-
-msgid "s_Schematics"
-msgstr ""
-
-msgid "s_Scout"
-msgstr ""
-
-msgid "s_Scribing"
-msgstr ""
-
-msgid "s_Seize_Axe"
-msgstr ""
-
-msgid "s_Seize_Axe_1"
-msgstr ""
-
-msgid "s_Seize_Club"
-msgstr ""
-
-msgid "s_Seize_Club_1"
-msgstr ""
-
-msgid "s_Seize_Greataxe"
-msgstr ""
-
-msgid "s_Seize_Greataxe_1"
-msgstr ""
-
-msgid "s_Seize_Greatclub"
-msgstr ""
-
-msgid "s_Seize_Greatclub_1"
-msgstr ""
-
-msgid "s_Seize_Greatsword"
-msgstr ""
-
-msgid "s_Seize_Greatsword_1"
-msgstr ""
-
-msgid "s_Seize_Knife"
-msgstr ""
-
-msgid "s_Seize_Knife_1"
-msgstr ""
-
-msgid "s_Seize_Polearm"
-msgstr ""
-
-msgid "s_Seize_Polearm_1"
-msgstr ""
-
-msgid "s_Seize_Sithras"
-msgstr ""
-
-msgid "s_Seize_Sithras_2"
-msgstr ""
-
-msgid "s_Seize_Sword"
-msgstr ""
-
-msgid "s_Seize_Sword_1"
-msgstr ""
-
-msgid "s_Set Pvp"
-msgstr ""
-
-msgid "s_Shadecraft"
-msgstr ""
-
-msgid "s_Shards"
-msgstr ""
-
-msgid "s_Shards_2"
-msgstr ""
-
-msgid "s_Shards_Cold"
-msgstr ""
-
-msgid "s_Sharpshooter"
-msgstr ""
-
-msgid "s_Sheathe Object"
-msgstr ""
-
-msgid "s_Shield Skills"
-msgstr ""
-
-msgid "s_Shield of Protection"
-msgstr ""
-
-msgid "s_Shield of Protection_1"
-msgstr ""
-
-msgid "s_Shipbuilding"
-msgstr ""
+msgstr "远程技能"
 
-msgid "s_Shipbuilding Mastery"
-msgstr ""
-
-msgid "s_Shipyard Skills"
-msgstr ""
-
-msgid "s_Siege Hammer"
-msgstr ""
-
-msgid "s_Siege Hammer_1"
-msgstr ""
-
-msgid "s_Siege Weapon Skills"
-msgstr ""
-
-msgid "s_Sieze_Sithras_1"
-msgstr ""
-
-msgid "s_Sithra Attacks"
-msgstr ""
-
-msgid "s_Sithra Mastery"
-msgstr ""
-
-msgid "s_Sithra Skills"
-msgstr ""
-
-msgid "s_Sithras"
-msgstr ""
-
-msgid "s_Sithras_1"
-msgstr ""
-
-msgid "s_Sithras_Stab_1"
-msgstr ""
-
-msgid "s_Sithras_Whirlwind_1"
-msgstr ""
-
-msgid "s_Skills"
-msgstr ""
-
-msgid "s_Skinning"
-msgstr ""
-
-msgid "s_Skinning_1"
-msgstr ""
-
-msgid "s_Slashing Weakness"
-msgstr ""
-
-msgid "s_Slashing Weakness_1"
-msgstr ""
-
-msgid "s_Slow"
-msgstr ""
-
-msgid "s_Slow_1"
-msgstr ""
-
-msgid "s_Sluggish"
-msgstr ""
-
-msgid "s_Sluggish_1"
-msgstr ""
-
-msgid "s_Smelter Skills"
-msgstr ""
-
-msgid "s_Smelting"
-msgstr ""
-
-msgid "s_Smoke Signal"
-msgstr ""
-
-msgid "s_Smoke Signal_1"
-msgstr ""
-
-msgid "s_Sniper"
-msgstr ""
-
-msgid "s_Soothing Chant"
-msgstr ""
-
-msgid "s_Soothing Chant_1"
-msgstr ""
-
-msgid "s_Special Skills"
-msgstr ""
-
-msgid "s_Spell Chanting"
-msgstr ""
-
-msgid "s_Spell Chanting_Spells"
-msgstr ""
-
-msgid "s_Spell Curse"
-msgstr ""
-
-msgid "s_Spell Curse_Penalty"
-msgstr ""
-
-msgid "s_Spell Immunity"
-msgstr ""
-
-msgid "s_Spell Immunity_1"
-msgstr ""
+msgid "desc_s_Ranged Skills"
+msgstr "Description of s_Ranged Skills"
 
-msgid "s_Spells"
-msgstr ""
-
-msgid "s_Spellturn"
-msgstr ""
-
-msgid "s_Spirited Archer"
-msgstr ""
-
-msgid "s_Spotter"
-msgstr ""
-
-msgid "s_Sprint"
-msgstr ""
-
-msgid "s_Staff Crafting"
-msgstr ""
-
-msgid "s_Staff Crafting Mastery"
-msgstr ""
-
-msgid "s_Stamina"
-msgstr ""
-
-msgid "s_Stamina Leech"
-msgstr ""
-
-msgid "s_Stamina Leech Hit"
-msgstr ""
-
-msgid "s_Stamina Leech Hit_1"
-msgstr ""
-
-msgid "s_Stamina Leech_1"
-msgstr ""
-
-msgid "s_Stamina to Health"
-msgstr ""
-
-msgid "s_Stamina to Health_1"
-msgstr ""
-
-msgid "s_Stealth"
-msgstr ""
-
-msgid "s_Stealth Skills"
-msgstr ""
-
-msgid "s_Stoneskin"
-msgstr ""
-
-msgid "s_Stoneskin_1"
-msgstr ""
-
-msgid "s_Stormblast"
-msgstr ""
-
-msgid "s_Stormblast_1"
-msgstr ""
-
-msgid "s_Strafe Left"
-msgstr ""
-
-msgid "s_Strafe Right"
-msgstr ""
-
-msgid "s_Stuck"
-msgstr ""
+msgid "s_Archery Skills"
+msgstr "射箭技能"
 
-msgid "s_Stupidity"
+msgid "desc_s_Archery Skills"
 msgstr ""
 
-msgid "s_Stupidity_1"
-msgstr ""
-
-msgid "s_Sturdy"
-msgstr ""
-
-msgid "s_Summon Mount"
-msgstr ""
-
-msgid "s_Summon Player"
-msgstr ""
+msgid "s_Archery"
+msgstr "射箭"
 
-msgid "s_Survivalist"
-msgstr ""
+msgid "desc_s_Archery"
+msgstr "使用弓箭进行基本攻击."
 
-msgid "s_Swim"
-msgstr ""
+msgid "s_Archery_1"
+msgstr "Archery_1"
 
-msgid "s_Swimming"
-msgstr ""
+msgid "desc_s_Archery_1"
+msgstr "Description of s_Archery_1"
 
-msgid "s_Sword Attacks"
-msgstr ""
+msgid "s_Archery Attacks"
+msgstr "射箭攻击"
 
-msgid "s_Sword Mastery"
+msgid "desc_s_Archery Attacks"
 msgstr ""
 
-msgid "s_Sword Skills"
-msgstr ""
+msgid "s_Adept Shot"
+msgstr "熟练射击"
 
-msgid "s_Swords"
-msgstr ""
+msgid "desc_s_Adept Shot"
+msgstr "Description of s_Adept Shot"
 
-msgid "s_Swords_1"
-msgstr ""
+msgid "s_Antitank Archery"
+msgstr "反坦克射箭"
 
-msgid "s_Tailoring"
+msgid "desc_s_Antitank Archery"
 msgstr ""
 
-msgid "s_Tailoring Mastery"
-msgstr ""
+msgid "s_Antitank Archery_1"
+msgstr "Antitank Archery_1"
 
-msgid "s_Take Object"
+msgid "desc_s_Antitank Archery_1"
 msgstr ""
 
-msgid "s_Take Object_1"
-msgstr ""
+msgid "s_Attack_Archery"
+msgstr "射箭攻击"
 
-msgid "s_Taming"
-msgstr ""
+msgid "desc_s_Attack_Archery"
+msgstr "Description of s_Attack_Archery"
 
-msgid "s_Taming Skills"
-msgstr ""
+msgid "s_Critical Shot"
+msgstr "致命打击"
 
-msgid "s_Tanning"
-msgstr ""
+msgid "desc_s_Critical Shot"
+msgstr "Description of s_Critical Shot"
 
-msgid "s_Tanning Skills"
-msgstr ""
+msgid "s_Disabling Shot"
+msgstr "破盾射击"
 
-msgid "s_Tarnish"
-msgstr ""
+msgid "desc_s_Disabling Shot"
+msgstr "使你的对手在短时间内无法躲避的攻击."
 
-msgid "s_Tarnish_1"
-msgstr ""
+msgid "s_Disabling Shot_1"
+msgstr "Disabling Shot_1"
 
-msgid "s_Telekinesis"
+msgid "desc_s_Disabling Shot_1"
 msgstr ""
 
-msgid "s_Telekinesis_1"
-msgstr ""
+msgid "s_Disabling Shot_2"
+msgstr "Disabling Shot_2"
 
-msgid "s_Teleport"
+msgid "desc_s_Disabling Shot_2"
 msgstr ""
 
-msgid "s_Teleport Anchor"
-msgstr ""
+msgid "s_Precise Shot"
+msgstr "精准射击"
 
-msgid "s_Teleport Runebook"
-msgstr ""
+msgid "desc_s_Precise Shot"
+msgstr "Description of s_Precise Shot"
 
-msgid "s_Test"
-msgstr ""
+msgid "s_Thrown Weapons"
+msgstr "投掷武器"
 
-msgid "s_Test Crafting Skill"
-msgstr ""
+msgid "desc_s_Thrown Weapons"
+msgstr "Description of s_Thrown Weapons"
 
 msgid "s_Throwing"
-msgstr ""
+msgstr "投掷"
+
+msgid "desc_s_Throwing"
+msgstr "投掷一颗在撞击时爆炸的小手雷."
 
 msgid "s_Throwing Impact_large"
+msgstr "投掷冲击力大"
+
+msgid "desc_s_Throwing Impact_large"
 msgstr ""
 
 msgid "s_Throwing Impact_medium"
-msgstr ""
+msgstr "投掷冲击力中"
+
+msgid "desc_s_Throwing Impact_medium"
+msgstr "Description of s_Swordplay_1"
 
 msgid "s_Throwing Impact_small"
+msgstr "投掷冲击力小"
+
+msgid "desc_s_Throwing Impact_small"
 msgstr ""
 
 msgid "s_Throwing Impact_tiny"
-msgstr ""
+msgstr "投掷冲击力微"
 
-msgid "s_Thrown Weapons"
-msgstr ""
-
-msgid "s_Thunderstorm"
-msgstr ""
-
-msgid "s_Thunderstorm_1"
-msgstr ""
-
-msgid "s_Tinkering"
-msgstr ""
-
-msgid "s_Tireless"
-msgstr ""
-
-msgid "s_Tongue Rot"
-msgstr ""
-
-msgid "s_Tongue Rot_Penalty"
-msgstr ""
-
-msgid "s_Tornado"
-msgstr ""
-
-msgid "s_Tornado_1"
-msgstr ""
-
-msgid "s_Toughness"
-msgstr ""
-
-msgid "s_Toxic Rain"
-msgstr ""
-
-msgid "s_Toxic Rain_1"
-msgstr ""
-
-msgid "s_Trueforge Armor"
-msgstr ""
-
-msgid "s_Trueforge Weapon"
-msgstr ""
-
-msgid "s_Unburden"
-msgstr ""
-
-msgid "s_Unburden_1"
-msgstr ""
-
-msgid "s_Undeath"
-msgstr ""
-
-msgid "s_Undeath_1"
-msgstr ""
-
-msgid "s_Unholy Caress"
-msgstr ""
-
-msgid "s_Unholy Caress_1"
-msgstr ""
-
-msgid "s_Unholy Flames"
-msgstr ""
-
-msgid "s_Unholy Flames_area"
-msgstr ""
-
-msgid "s_Unsheathe Object"
-msgstr ""
-
-msgid "s_Unspawn Object"
-msgstr ""
-
-msgid "s_Use Item"
-msgstr ""
-
-msgid "s_Use Object"
-msgstr ""
-
-msgid "s_Vampiric Touch"
-msgstr ""
-
-msgid "s_Vampiric Touch_1"
-msgstr ""
-
-msgid "s_Venom"
-msgstr ""
-
-msgid "s_Venom_2"
-msgstr ""
-
-msgid "s_Venom_Acid"
-msgstr ""
-
-msgid "s_Veteran Archer"
-msgstr ""
-
-msgid "s_Veteran Mage"
-msgstr ""
-
-msgid "s_Virtuous Wrath"
-msgstr ""
-
-msgid "s_Virtuous Wrath_1"
-msgstr ""
-
-msgid "s_Volcano"
-msgstr ""
-
-msgid "s_Volcano_1"
-msgstr ""
-
-msgid "s_Walk"
-msgstr ""
-
-msgid "s_Wall of Fire"
-msgstr ""
-
-msgid "s_Wall of Fire_1"
-msgstr ""
-
-msgid "s_Wall of Force"
-msgstr ""
-
-msgid "s_Wall of Force_force"
-msgstr ""
-
-msgid "s_Warhulk"
-msgstr ""
-
-msgid "s_Warhulk Construction"
-msgstr ""
-
-msgid "s_Water Breathing"
-msgstr ""
-
-msgid "s_Water Breathing_1"
-msgstr ""
-
-msgid "s_Water Magic"
-msgstr ""
-
-msgid "s_Water Magic_Spells"
-msgstr ""
-
-msgid "s_Weakening Blaze"
-msgstr ""
-
-msgid "s_Weakening Blaze_1"
-msgstr ""
-
-msgid "s_Weakening Chill"
-msgstr ""
-
-msgid "s_Weakening Chill_1"
-msgstr ""
-
-msgid "s_Weapon Skills"
-msgstr ""
-
-msgid "s_Weaponsmithing"
-msgstr ""
-
-msgid "s_Weaponsmithing Mastery"
-msgstr ""
-
-msgid "s_Weaving"
-msgstr ""
-
-msgid "s_Weaving Skills"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Axe"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Axe_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Club"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Club_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greataxe"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greataxe_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greatclub"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greatclub_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greatsword"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Greatsword_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Knife"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Knife_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Polearm"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Polearm_1"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Sithra"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Sword"
-msgstr ""
-
-msgid "s_Whirlwind Attack_Sword_1"
-msgstr ""
-
-msgid "s_Wild Magic"
-msgstr ""
-
-msgid "s_Wild Magic_Spells"
-msgstr ""
-
-msgid "s_Willpower"
-msgstr ""
-
-msgid "s_Witchcraft"
-msgstr ""
-
-msgid "s_Witchcraft_Spells"
-msgstr ""
-
-msgid "s_Witches Brew"
-msgstr ""
-
-msgid "s_Witches Brew_1"
-msgstr ""
-
-msgid "s_Woodcutting"
-msgstr ""
-
-msgid "s_Woodworking"
-msgstr ""
-
-msgid "s_Workbench Skills"
-msgstr ""
-
-msgid "s_environmental damage"
-msgstr ""
-
-msgid "s_natural ranged ammo"
-msgstr ""
-
-msgid "s_natural ranged noammo"
-msgstr ""
-
-msgid "ts_Feel free to comment"
-msgstr ""
-
-msgid "ts_Get the idea?"
-msgstr ""
-
-msgid "ts_Movement Skills"
+msgid "desc_s_Throwing Impact_tiny"
 msgstr ""
 
 msgid "ts_Test Skills"
-msgstr ""
+msgstr "ts_Test Skills"
+
+msgid "desc_ts_Test Skills"
+msgstr "Description of ts_Test Skills"
+
+msgid "ts_Feel free to comment"
+msgstr "ts_Feel free to comment"
+
+msgid "desc_ts_Feel free to comment"
+msgstr "Description of ts_Feel free to comment"
+
+msgid "ts_Get the idea?"
+msgstr "ts_Get the idea?"
+
+msgid "desc_ts_Get the idea?"
+msgstr "Description of ts_Get the idea?"
+
+msgid "ts_Movement Skills"
+msgstr "ts_Movement Skills"
+
+msgid "desc_ts_Movement Skills"
+msgstr "Description of ts_Movement Skills"
 
 msgid "ts_Walk"
+msgstr "ts_Walk"
+
+msgid "desc_ts_Walk"
+msgstr "Description of ts_Walk"
+
+msgid "s_Research Skills"
+msgstr "研究技能"
+
+msgid "desc_s_Research Skills"
 msgstr ""
+
+msgid "s_Research"
+msgstr "研究"
+
+msgid "desc_s_Research"
+msgstr ""
+
+msgid "s_Spells"
+msgstr "法术"
+
+msgid "desc_s_Spells"
+msgstr "持久死灵法术"
+
+msgid "s_Air Magic_Spells"
+msgstr "空气魔法法术"
+
+msgid "desc_s_Air Magic_Spells"
+msgstr "空气魔法学派授予用户闪电和风暴的力量.一般来说,这些咒语的伤害程度稍小,但仍然非常有效,因为它们很难抵御."
+
+msgid "s_Agility"
+msgstr "敏捷"
+
+msgid "desc_s_Agility"
+msgstr "给予施法者一个敏捷加成."
+
+msgid "s_Agility_1"
+msgstr "Agility_1"
+
+msgid "desc_s_Agility_1"
+msgstr ""
+
+msgid "s_Arrow Shield"
+msgstr "箭盾"
+
+msgid "desc_s_Arrow Shield"
+msgstr "增加施法者的箭伤防护."
+
+msgid "s_Arrow Shield_1"
+msgstr "Arrow Shield_1"
+
+msgid "desc_s_Arrow Shield_1"
+msgstr ""
+
+msgid "s_Arrow Ward"
+msgstr "箭御"
+
+msgid "desc_s_Arrow Ward"
+msgstr "瞄准目标以确保箭伤防护."
+
+msgid "s_Arrow Ward_1"
+msgstr "Arrow Ward_1"
+
+msgid "desc_s_Arrow Ward_1"
+msgstr ""
+
+msgid "s_Boon of Storms"
+msgstr "风暴恩惠"
+
+msgid "desc_s_Boon of Storms"
+msgstr "向你的敌人发射一大堆箭头,在成功击中时治愈自己."
+
+msgid "s_Boon of Storms_1"
+msgstr "Boon of Storms_1"
+
+msgid "desc_s_Boon of Storms_1"
+msgstr ""
+
+msgid "s_Boon of Storms_2"
+msgstr "Boon of Storms_2"
+
+msgid "desc_s_Boon of Storms_2"
+msgstr ""
+
+msgid "s_Ball Lightning"
+msgstr "球状闪电"
+
+msgid "desc_s_Ball Lightning"
+msgstr "发射一枚造成闪电伤害的导弹."
+
+msgid "s_Ball Lightning_1"
+msgstr "Ball Lightning_1"
+
+msgid "desc_s_Ball Lightning_1"
+msgstr ""
+
+msgid "s_Come Hither"
+msgstr "来到这里"
+
+msgid "desc_s_Come Hither"
+msgstr "瞄准目标,神奇地拉近它."
+
+msgid "s_Come Hither_1"
+msgstr "Come Hither_1"
+
+msgid "desc_s_Come Hither_1"
+msgstr ""
+
+msgid "s_Come Hither_2"
+msgstr "Come Hither_2"
+
+msgid "desc_s_Come Hither_2"
+msgstr ""
+
+msgid "s_Exploding Charge"
+msgstr "爆炸攻击"
+
+msgid "desc_s_Exploding Charge"
+msgstr "发射导弹,在撞击时爆炸造成闪电伤害. "
+
+msgid "s_Exploding Charge_Area"
+msgstr "爆炸攻击区域"
+
+msgid "desc_s_Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Proc Exploding Charge"
+msgstr "扩散爆炸攻击"
+
+msgid "desc_s_Proc Exploding Charge"
+msgstr "发射导弹,在撞击时爆炸造成闪电伤害. "
+
+msgid "s_Proc Exploding Charge_Area"
+msgstr "扩散爆炸攻击区域"
+
+msgid "desc_s_Proc Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Guiding Wind"
+msgstr "导风"
+
+msgid "desc_s_Guiding Wind"
+msgstr "发射导弹,对目标的箭伤防护造成惩罚. "
+
+msgid "s_Guiding Wind_1"
+msgstr "Guiding Wind_1"
+
+msgid "desc_s_Guiding Wind_1"
+msgstr ""
+
+msgid "s_Lightning Bolt"
+msgstr "闪电球"
+
+msgid "desc_s_Lightning Bolt"
+msgstr "发射出一股电能震撼它所经过的一切. "
+
+msgid "s_Lightning Bolt_1"
+msgstr "Lightning Bolt_1"
+
+msgid "desc_s_Lightning Bolt_1"
+msgstr "Description of s_Lightning Bolt_1"
+
+msgid "s_Lightning Shield"
+msgstr "雷电之盾"
+
+msgid "desc_s_Lightning Shield"
+msgstr "给予施法者一个闪电防护加成."
+
+msgid "s_Lightning Shield_1"
+msgstr "Lightning Shield_1"
+
+msgid "desc_s_Lightning Shield_1"
+msgstr ""
+
+msgid "s_Lightning Strike"
+msgstr "雷击"
+
+msgid "desc_s_Lightning Strike"
+msgstr "发射导弹,在撞击时爆炸造成闪电伤害."
+
+msgid "s_Lightning Strike_1"
+msgstr "Lightning Strike_1"
+
+msgid "desc_s_Lightning Strike_1"
+msgstr ""
+
+msgid "s_Lightning Strike_2"
+msgstr "Lightning Strike_2"
+
+msgid "desc_s_Lightning Strike_2"
+msgstr ""
+
+msgid "s_Lightning Ward"
+msgstr "雷电之御"
+
+msgid "desc_s_Lightning Ward"
+msgstr "给予目标闪电伤害防护."
+
+msgid "s_Lightning Ward_1"
+msgstr "Lightning Ward_1"
+
+msgid "desc_s_Lightning Ward_1"
+msgstr ""
+
+msgid "s_Lightning Weakness"
+msgstr "闪电弱点"
+
+msgid "desc_s_Lightning Weakness"
+msgstr "发射导弹对其目标的闪电防护造成惩罚. "
+
+msgid "s_Lightning Weakness_1"
+msgstr "Lightning Weakness_1"
+
+msgid "desc_s_Lightning Weakness_1"
+msgstr ""
+
+msgid "s_Stormblast"
+msgstr "暴风"
+
+msgid "desc_s_Stormblast"
+msgstr "召唤一场爆炸,把沿途所有的东西都炸飞."
+
+msgid "s_Stormblast_1"
+msgstr "Stormblast_1"
+
+msgid "desc_s_Stormblast_1"
+msgstr ""
+
+msgid "s_Thunderstorm"
+msgstr "雷暴斧"
+
+msgid "desc_s_Thunderstorm"
+msgstr "一种魔法射线,击中目标后产生暴风雨般的闪电. "
+
+msgid "s_Thunderstorm_1"
+msgstr "Thunderstorm_1"
+
+msgid "desc_s_Thunderstorm_1"
+msgstr ""
+
+msgid "s_Tornado"
+msgstr "龙卷风"
+
+msgid "desc_s_Tornado"
+msgstr "在施法者周围召唤一个龙卷风. "
+
+msgid "s_Tornado_1"
+msgstr "Tornado_1"
+
+msgid "desc_s_Tornado_1"
+msgstr ""
+
+msgid "s_Arcane Magic_Spells"
+msgstr "奥术魔法法术"
+
+msgid "desc_s_Arcane Magic_Spells"
+msgstr "奥术魔法关涉到神圣法术和魔法本身的性质.因此,它的进攻性法术造成神圣伤害,而防御性法术保护精神微恙,甚至可\n以将敌人的魔法转化为对抗他的魔法."
+
+msgid "s_Flames of Vengeance"
+msgstr "复仇之火"
+
+msgid "desc_s_Flames of Vengeance"
+msgstr "魔法射线,带来了圣火的地狱."
+
+msgid "s_Flames of Vengeance_1"
+msgstr "Flames of Vengeance_1"
+
+msgid "desc_s_Flames of Vengeance_1"
+msgstr ""
+
+msgid "s_Hasten Spells"
+msgstr "加速法术"
+
+msgid "desc_s_Hasten Spells"
+msgstr "一段时间内减少施法的加载时间."
+
+msgid "s_Hasten Spells_1"
+msgstr "Hasten Spells_1"
+
+msgid "desc_s_Hasten Spells_1"
+msgstr ""
+
+msgid "s_Holy Shield"
+msgstr "圣盾"
+
+msgid "desc_s_Holy Shield"
+msgstr "增加了对神圣伤害的保护."
+
+msgid "s_Holy Shield_1"
+msgstr "Holy Shield_1"
+
+msgid "desc_s_Holy Shield_1"
+msgstr ""
+
+msgid "s_Holy Ward"
+msgstr "圣御"
+
+msgid "desc_s_Holy Ward"
+msgstr "给予目标神圣伤害防护."
+
+msgid "s_Holy Ward_1"
+msgstr "Holy Ward_1"
+
+msgid "desc_s_Holy Ward_1"
+msgstr ""
+
+msgid "s_Holy Weakness"
+msgstr "神圣弱点"
+
+msgid "desc_s_Holy Weakness"
+msgstr "发射导弹对其目标的神圣防护造成惩罚."
+
+msgid "s_Holy Weakness_1"
+msgstr "Holy Weakness_1"
+
+msgid "desc_s_Holy Weakness_1"
+msgstr ""
+
+msgid "s_Lend Mana"
+msgstr "借贷法力"
+
+msgid "desc_s_Lend Mana"
+msgstr "瞄准一个目标来转移你的部分法力."
+
+msgid "s_Lend Mana_1"
+msgstr "Lend Mana_1"
+
+msgid "desc_s_Lend Mana_1"
+msgstr ""
+
+msgid "s_Mystic Shield"
+msgstr "神秘之盾"
+
+msgid "desc_s_Mystic Shield"
+msgstr "增加了对精神攻击的保护."
+
+msgid "s_Mystic Shield_1"
+msgstr "Mystic Shield_1"
+
+msgid "desc_s_Mystic Shield_1"
+msgstr ""
+
+msgid "s_Mystic Ward"
+msgstr "神秘之御"
+
+msgid "desc_s_Mystic Ward"
+msgstr "给予目标精神攻击防护."
+
+msgid "s_Mystic Ward_1"
+msgstr "Mystic Ward_1"
+
+msgid "desc_s_Mystic Ward_1"
+msgstr ""
+
+msgid "s_Reflect Spell"
+msgstr "反射法术"
+
+msgid "desc_s_Reflect Spell"
+msgstr "将下一个伤害法术反射回它的源头."
+
+msgid "s_Reflect Spell_1"
+msgstr "Reflect Spell_1"
+
+msgid "desc_s_Reflect Spell_1"
+msgstr ""
+
+msgid "s_Sacred Missile"
+msgstr "神圣导弹"
+
+msgid "desc_s_Sacred Missile"
+msgstr "发射导弹,对其目标造成神圣伤害."
+
+msgid "s_Sacred Missile_HolyDam"
+msgstr "Sacred Missile_HolyDam"
+
+msgid "desc_s_Sacred Missile_HolyDam"
+msgstr ""
+
+msgid "s_Spell Immunity"
+msgstr "法术免疫"
+
+msgid "desc_s_Spell Immunity"
+msgstr "加施法者抵抗非伤害法术的几率."
+
+msgid "s_Spell Immunity_1"
+msgstr "Spell Immunity_1"
+
+msgid "desc_s_Spell Immunity_1"
+msgstr ""
+
+msgid "s_Virtuous Wrath"
+msgstr "贤者之怒"
+
+msgid "desc_s_Virtuous Wrath"
+msgstr "发射导弹,在撞击时爆炸造成神圣伤害."
+
+msgid "s_Virtuous Wrath_1"
+msgstr "Virtuous Wrath_1"
+
+msgid "desc_s_Virtuous Wrath_1"
+msgstr ""
+
+msgid "s_Wall of Force"
+msgstr "力量之墙"
+
+msgid "desc_s_Wall of Force"
+msgstr "创造一个魔法泡沫,阻碍所有的运动."
+
+msgid "s_Wall of Force_force"
+msgstr "Wall of Force_force"
+
+msgid "desc_s_Wall of Force_force"
+msgstr ""
+
+msgid "s_Divine Magic_Spells"
+msgstr "神圣魔法法术"
+
+msgid "desc_s_Divine Magic_Spells"
+msgstr ""
+
+msgid "s_Earth Magic_Spells"
+msgstr "土系魔法法术"
+
+msgid "desc_s_Earth Magic_Spells"
+msgstr "精通土系魔法的人可以同时控制力量和腐蚀的力量.他们在不穿笨重盔甲的情况下,知道如何有效地保护自己免受近战武器的攻击."
+
+msgid "s_Acid Arrow"
+msgstr "酸箭"
+
+msgid "desc_s_Acid Arrow"
+msgstr "发射一个导弹,在撞击时爆炸造成酸伤害."
+
+msgid "s_Acid Arrow_1"
+msgstr "Acid Arrow_1"
+
+msgid "desc_s_Acid Arrow_1"
+msgstr ""
+
+msgid "s_Acid Rain"
+msgstr "酸雨"
+
+msgid "desc_s_Acid Rain"
+msgstr "一种魔法射线,在击中目标时召唤酸性暴雨."
+
+msgid "s_Acid Rain_1"
+msgstr "Acid Rain_1"
+
+msgid "desc_s_Acid Rain_1"
+msgstr ""
+
+msgid "s_Acid Shield"
+msgstr "酸盾"
+
+msgid "desc_s_Acid Shield"
+msgstr "增加施法者的酸蚀防护."
+
+msgid "s_Acid Shield_1"
+msgstr "Acid Shield_1"
+
+msgid "desc_s_Acid Shield_1"
+msgstr ""
+
+msgid "s_Acid Ward"
+msgstr "酸御"
+
+msgid "desc_s_Acid Ward"
+msgstr "瞄准目标以提供酸蚀防护."
+
+msgid "s_Acid Ward_1"
+msgstr "Acid Ward_1"
+
+msgid "desc_s_Acid Ward_1"
+msgstr ""
+
+msgid "s_Boon of Domination"
+msgstr "主宰恩惠"
+
+msgid "desc_s_Boon of Domination"
+msgstr "用成功的命中来补充耐力."
+
+msgid "s_Boon of Domination_1"
+msgstr "Boon of Domination_1"
+
+msgid "desc_s_Boon of Domination_1"
+msgstr ""
+
+msgid "s_Boon of Blight"
+msgstr "瘟疫恩惠"
+
+msgid "desc_s_Boon of Blight"
+msgstr "用成功的命中来补充耐力."
+
+msgid "s_Boon of Blight_1"
+msgstr "Boon of Blight_1"
+
+msgid "desc_s_Boon of Blight_1"
+msgstr ""
+
+msgid "s_Boon of Agony"
+msgstr "痛苦恩惠"
+
+msgid "desc_s_Boon of Agony"
+msgstr "用成功的命中来补充耐力."
+
+msgid "s_Boon of Agony_1"
+msgstr "Boon of Agony_1"
+
+msgid "desc_s_Boon of Agony_1"
+msgstr ""
+
+msgid "s_Boon of Mutilation"
+msgstr "残缺恩惠"
+
+msgid "desc_s_Boon of Mutilation"
+msgstr "用成功的命中来补充耐力."
+
+msgid "s_Boon of Mutilation_1"
+msgstr "Boon of Mutilation_1"
+
+msgid "desc_s_Boon of Mutilation_1"
+msgstr ""
+
+msgid "s_Boon of Waves"
+msgstr "波动恩惠"
+
+msgid "desc_s_Boon of Waves"
+msgstr "用成功的命中来补充耐力."
+
+msgid "s_Boon of Waves_1"
+msgstr "Boon of Waves_1"
+
+msgid "desc_s_Boon of Waves_1"
+msgstr ""
+
+msgid "s_Brawn"
+msgstr "肌肉"
+
+msgid "desc_s_Brawn"
+msgstr "给予施法者一个力量加成."
+
+msgid "s_Brawn_1"
+msgstr "Brawn_1"
+
+msgid "desc_s_Brawn_1"
+msgstr ""
+
+msgid "s_Corrosive Blast"
+msgstr "腐蚀爆炸"
+
+msgid "desc_s_Corrosive Blast"
+msgstr "发射导弹,在撞击时爆炸,造成酸伤害. "
+
+msgid "s_Corrosive Blast_1"
+msgstr "Corrosive Blast_1"
+
+msgid "desc_s_Corrosive Blast_1"
+msgstr ""
+
+msgid "s_Corrosive Blast_2"
+msgstr "Corrosive Blast_2"
+
+msgid "desc_s_Corrosive Blast_2"
+msgstr ""
+
+msgid "s_Disintegrate"
+msgstr "分解"
+
+msgid "desc_s_Disintegrate"
+msgstr "发射一个导弹,在撞击时爆炸造成酸伤害."
+
+msgid "s_Disintegrate_1"
+msgstr "Disintegrate_1"
+
+msgid "desc_s_Disintegrate_1"
+msgstr ""
+
+msgid "s_Earthquake"
+msgstr "地震"
+
+msgid "desc_s_Earthquake"
+msgstr "按住鼠标左键,发出地震破坏附近的一切,包括施法者."
+
+msgid "s_Earthquake_1"
+msgstr "Earthquake_1"
+
+msgid "desc_s_Earthquake_1"
+msgstr ""
+
+msgid "s_Gravity"
+msgstr "重力"
+
+msgid "desc_s_Gravity"
+msgstr "Description pending"
+
+msgid "s_Gravity_1"
+msgstr "Gravity_1"
+
+msgid "desc_s_Gravity_1"
+msgstr ""
+
+msgid "s_Impale"
+msgstr "刺穿"
+
+msgid "desc_s_Impale"
+msgstr "发射魔法射线,使奥术刺穿目标.  "
+
+msgid "s_Impale_1"
+msgstr "Impale_1"
+
+msgid "desc_s_Impale_1"
+msgstr ""
+
+msgid "s_Ironskin"
+msgstr "铁皮"
+
+msgid "desc_s_Ironskin"
+msgstr "授予目标武器防御能力."
+
+msgid "s_Ironskin_1"
+msgstr "Ironskin_1"
+
+msgid "desc_s_Ironskin_1"
+msgstr ""
+
+msgid "s_Meteor Strike"
+msgstr "流星打击"
+
+msgid "desc_s_Meteor Strike"
+msgstr "召唤一场流星雨去轰炸你的敌人."
+
+msgid "s_Meteor Strike_Impact"
+msgstr "流星打击冲击"
+
+msgid "desc_s_Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Proc Meteor Strike"
+msgstr "扩散流星打击"
+
+msgid "desc_s_Proc Meteor Strike"
+msgstr "召唤一场流星雨去轰炸你的敌人."
+
+msgid "s_Proc Meteor Strike_Impact"
+msgstr "扩散流星打击冲击"
+
+msgid "desc_s_Proc Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Pungent Mist"
+msgstr "毒雾"
+
+msgid "desc_s_Pungent Mist"
+msgstr "向目标发射腐蚀性蒸汽云."
+
+msgid "s_Pungent Mist_1"
+msgstr "Pungent Mist_1"
+
+msgid "desc_s_Pungent Mist_1"
+msgstr ""
+
+msgid "s_Stamina Leech"
+msgstr "耐力吸取"
+
+msgid "desc_s_Stamina Leech"
+msgstr "发射一道魔法射线,吸干目标的耐力,并将其传递给施法者."
+
+msgid "s_Stamina Leech_1"
+msgstr "Stamina Leech_1"
+
+msgid "desc_s_Stamina Leech_1"
+msgstr ""
+
+msgid "s_Stamina Leech Hit"
+msgstr "耐力吸取打击"
+
+msgid "desc_s_Stamina Leech Hit"
+msgstr "发射一道魔法射线,吸干目标的耐力,并将其传递给施法者."
+
+msgid "s_Stamina Leech Hit_1"
+msgstr "Stamina Leech Hit_1"
+
+msgid "desc_s_Stamina Leech Hit_1"
+msgstr ""
+
+msgid "s_Damaging Blow"
+msgstr "伤害打击"
+
+msgid "desc_s_Damaging Blow"
+msgstr "额外伤害."
+
+msgid "s_Damaging Blow_1"
+msgstr "Damaging Blow_1"
+
+msgid "desc_s_Damaging Blow_1"
+msgstr ""
+
+msgid "s_Bleeding Hit"
+msgstr "出血打击"
+
+msgid "desc_s_Bleeding Hit"
+msgstr "额外伤害."
+
+msgid "s_Bleeding Hit_1"
+msgstr "Bleeding Hit_1"
+
+msgid "desc_s_Bleeding Hit_1"
+msgstr ""
+
+msgid "s_Stoneskin"
+msgstr "石皮"
+
+msgid "desc_s_Stoneskin"
+msgstr "给予施法者对武器攻击的保护."
+
+msgid "s_Stoneskin_1"
+msgstr "Stoneskin_1"
+
+msgid "desc_s_Stoneskin_1"
+msgstr ""
+
+msgid "s_Tarnish"
+msgstr "污迹"
+
+msgid "desc_s_Tarnish"
+msgstr "发射导弹对其目标的酸性防护造成惩罚."
+
+msgid "s_Tarnish_1"
+msgstr "Tarnish_1"
+
+msgid "desc_s_Tarnish_1"
+msgstr ""
+
+msgid "s_Fire Magic_Spells"
+msgstr "火系魔法法术"
+
+msgid "desc_s_Fire Magic_Spells"
+msgstr "一个主要由能造成火焰毁灭的魔法组成的学派.它也教一些快速魔法."
+
+msgid "s_Dragonbreath"
+msgstr "龙息"
+
+msgid "desc_s_Dragonbreath"
+msgstr "向敌人连续发射一连串火热的火花."
+
+msgid "s_Dragonbreath_1"
+msgstr "Dragonbreath_1"
+
+msgid "desc_s_Dragonbreath_1"
+msgstr ""
+
+msgid "s_Explosion"
+msgstr "爆炸"
+
+msgid "desc_s_Explosion"
+msgstr "产生以施法者为中心的火热爆炸."
+
+msgid "s_Explosion_fire"
+msgstr "爆炸火焰"
+
+msgid "desc_s_Explosion_fire"
+msgstr ""
+
+msgid "s_Fire Shield"
+msgstr "火盾"
+
+msgid "desc_s_Fire Shield"
+msgstr "增加施法者的火焰防护."
+
+msgid "s_Fire Shield_prot"
+msgstr "Fire Shield_prot"
+
+msgid "desc_s_Fire Shield_prot"
+msgstr ""
+
+msgid "s_Fire Ward"
+msgstr "火御"
+
+msgid "desc_s_Fire Ward"
+msgstr "给予目标火焰防护."
+
+msgid "s_Fire Ward_prot"
+msgstr "Fire Ward_prot"
+
+msgid "desc_s_Fire Ward_prot"
+msgstr ""
+
+msgid "s_Fireball"
+msgstr "火球"
+
+msgid "desc_s_Fireball"
+msgstr "发射一枚导弹,在撞击时爆炸,造成火焰伤害. "
+
+msgid "s_Fireball_2"
+msgstr "Fireball_2"
+
+msgid "desc_s_Fireball_2"
+msgstr ""
+
+msgid "s_Fireball_Area"
+msgstr "Fireball_Area"
+
+msgid "desc_s_Fireball_Area"
+msgstr ""
+
+msgid "s_Firebolt"
+msgstr "火弩"
+
+msgid "desc_s_Firebolt"
+msgstr "发射一枚导弹,在撞击时爆炸,造成火焰伤害. "
+
+msgid "s_Firebolt_area"
+msgstr "Firebolt_area"
+
+msgid "desc_s_Firebolt_area"
+msgstr ""
+
+msgid "s_Haste"
+msgstr "急速"
+
+msgid "desc_s_Haste"
+msgstr "增加目标近战攻击速度."
+
+msgid "s_Haste_1"
+msgstr "Haste_1"
+
+msgid "desc_s_Haste_1"
+msgstr ""
+
+msgid "s_Impetus"
+msgstr "动力"
+
+msgid "desc_s_Impetus"
+msgstr "给予施法者一个敏捷加成."
+
+msgid "s_Impetus_1"
+msgstr "Impetus_1"
+
+msgid "desc_s_Impetus_1"
+msgstr ""
+
+msgid "s_Inferno"
+msgstr "地狱"
+
+msgid "desc_s_Inferno"
+msgstr "发射一枚导弹,在撞击时爆炸,造成火焰伤害."
+
+msgid "s_Inferno_area"
+msgstr "Inferno_area"
+
+msgid "desc_s_Inferno_area"
+msgstr ""
+
+msgid "s_Magma Storm"
+msgstr "岩浆风暴"
+
+msgid "desc_s_Magma Storm"
+msgstr "发射导弹,在撞击时爆炸,造成火焰伤害.这种导弹受重力影响."
+
+msgid "s_Magma Strom_fire"
+msgstr "Magma Strom_fire"
+
+msgid "desc_s_Magma Strom_fire"
+msgstr ""
+
+msgid "s_Rapid Shot"
+msgstr "快速射击"
+
+msgid "desc_s_Rapid Shot"
+msgstr "增加目标的远程攻击速度."
+
+msgid "s_Rapid Shot_1"
+msgstr "Rapid Shot_1"
+
+msgid "desc_s_Rapid Shot_1"
+msgstr ""
+
+msgid "s_Smoke Signal"
+msgstr "烟雾信号"
+
+msgid "desc_s_Smoke Signal"
+msgstr "从目标处产生一股浓烟."
+
+msgid "s_Smoke Signal_1"
+msgstr "Smoke Signal_1"
+
+msgid "desc_s_Smoke Signal_1"
+msgstr ""
+
+msgid "s_Volcano"
+msgstr "火山"
+
+msgid "desc_s_Volcano"
+msgstr "发出魔法射线,使熔岩从地面喷出,造成火焰伤害."
+
+msgid "s_Volcano_1"
+msgstr "Volcano_1"
+
+msgid "desc_s_Volcano_1"
+msgstr ""
+
+msgid "s_Wall of Fire"
+msgstr "火墙"
+
+msgid "desc_s_Wall of Fire"
+msgstr "发射魔法射线,在击中目标时产生一个大的火球."
+
+msgid "s_Wall of Fire_1"
+msgstr "Wall of Fire_1"
+
+msgid "desc_s_Wall of Fire_1"
+msgstr ""
+
+msgid "s_Weakening Blaze"
+msgstr "弱化火焰"
+
+msgid "desc_s_Weakening Blaze"
+msgstr "发射导弹,对目标的火焰防护造成惩罚."
+
+msgid "s_Weakening Blaze_1"
+msgstr "Weakening Blaze_1"
+
+msgid "desc_s_Weakening Blaze_1"
+msgstr ""
+
+msgid "s_Greater Magic_Spells"
+msgstr "高级魔法法术"
+
+msgid "desc_s_Greater Magic_Spells"
+msgstr "高级魔法是一个多才多艺的魔法学派,包括不同性质的进攻和防御魔法.除此之外,它还教玩家如何给敌人下毒或造成过度流血的伤口."
+
+msgid "s_Beacon"
+msgstr "灯塔"
+
+msgid "desc_s_Beacon"
+msgstr "在目标上创建视觉标记的射线."
+
+msgid "s_Beacon_1"
+msgstr "Beacon_1"
+
+msgid "desc_s_Beacon_1"
+msgstr ""
+
+msgid "s_Begone"
+msgstr "消失"
+
+msgid "desc_s_Begone"
+msgstr "奥术爆炸主要用于推或拉目标."
+
+msgid "s_Begone_1"
+msgstr "Begone_1"
+
+msgid "desc_s_Begone_1"
+msgstr ""
+
+msgid "s_Confusion"
+msgstr "混乱"
+
+msgid "desc_s_Confusion"
+msgstr "能产生闪光的导弹,能让旁观者看不见."
+
+msgid "s_Confusion_1"
+msgstr "Confusion_1"
+
+msgid "desc_s_Confusion_1"
+msgstr ""
+
+msgid "s_Disabling Bolt"
+msgstr "禁止逃脱"
+
+msgid "desc_s_Disabling Bolt"
+msgstr "使你的对手在短时间内无法躲避的攻击."
+
+msgid "s_Disabling Bolt_1"
+msgstr "Disabling Bolt_1"
+
+msgid "desc_s_Disabling Bolt_1"
+msgstr ""
+
+msgid "s_Disabling Bolt_2"
+msgstr "Disabling Bolt_2"
+
+msgid "desc_s_Disabling Bolt_2"
+msgstr ""
+
+msgid "s_Flesh Curse"
+msgstr "肉体诅咒"
+
+msgid "desc_s_Flesh Curse"
+msgstr "发射导弹减少目标的刑罚防护. "
+
+msgid "s_Flesh Curse_1"
+msgstr "Flesh Curse_1"
+
+msgid "desc_s_Flesh Curse_1"
+msgstr ""
+
+msgid "s_Frailty"
+msgstr "虚弱"
+
+msgid "desc_s_Frailty"
+msgstr "发射导弹对目标伤害抵抗造成惩罚."
+
+msgid "s_Frailty_1"
+msgstr "Frailty_1"
+
+msgid "desc_s_Frailty_1"
+msgstr ""
+
+msgid "s_Heal Other"
+msgstr "治疗他人"
+
+msgid "desc_s_Heal Other"
+msgstr "恢复目标生命的愈合射线."
+
+msgid "s_Heal Other_1"
+msgstr "Heal Other_1"
+
+msgid "desc_s_Heal Other_1"
+msgstr ""
+
+msgid "s_Infliction Shield"
+msgstr "刑罚之盾"
+
+msgid "desc_s_Infliction Shield"
+msgstr "授予施法者增加刑罚防护."
+
+msgid "s_Infliction Shield_1"
+msgstr "Infliction Shield_1"
+
+msgid "desc_s_Infliction Shield_1"
+msgstr ""
+
+msgid "s_Infliction Ward"
+msgstr "刑御"
+
+msgid "desc_s_Infliction Ward"
+msgstr "增加目标的刑罚伤害防护."
+
+msgid "s_Infliction Ward_1"
+msgstr "Infliction Ward_1"
+
+msgid "desc_s_Infliction Ward_1"
+msgstr ""
+
+msgid "s_Insight"
+msgstr "洞察"
+
+msgid "desc_s_Insight"
+msgstr "给予施法者一个天赋加成."
+
+msgid "s_Insight_1"
+msgstr "Insight_1"
+
+msgid "desc_s_Insight_1"
+msgstr ""
+
+msgid "s_Levitation"
+msgstr "悬浮"
+
+msgid "desc_s_Levitation"
+msgstr "制造一个临时的力量柱,使在其区域内的任何人悬浮."
+
+msgid "s_Levitation_1"
+msgstr "Levitation_1"
+
+msgid "desc_s_Levitation_1"
+msgstr ""
+
+msgid "s_Missile Fury"
+msgstr "导弹愤怒"
+
+msgid "desc_s_Missile Fury"
+msgstr "发射一枚导弹,在撞击时爆炸,造成奥术伤害."
+
+msgid "s_Missile Fury_1"
+msgstr "Missile Fury_1"
+
+msgid "desc_s_Missile Fury_1"
+msgstr ""
+
+msgid "s_Rend"
+msgstr "分裂"
+
+msgid "desc_s_Rend"
+msgstr "发射导弹,在撞击时爆炸造成出血伤害,并给予穿刺防护惩罚 ."
+
+msgid "s_Rend_1"
+msgstr "Rend_1"
+
+msgid "desc_s_Rend_1"
+msgstr ""
+
+msgid "s_Rend_2"
+msgstr "Rend_2"
+
+msgid "desc_s_Rend_2"
+msgstr ""
+
+msgid "s_Proc Rend"
+msgstr "撕裂"
+
+msgid "desc_s_Proc Rend"
+msgstr "触发效果版本的撕裂."
+
+msgid "s_Proc Rend_1"
+msgstr "Proc Rend_1"
+
+msgid "desc_s_Proc Rend_1"
+msgstr ""
+
+msgid "s_Shield of Protection"
+msgstr "保护盾"
+
+msgid "desc_s_Shield of Protection"
+msgstr "召唤出一道神秘的屏障,保护施法者免受武器攻击.不堆叠任何其他此类保护,包括盔甲."
+
+msgid "s_Shield of Protection_1"
+msgstr "Shield of Protection_1"
+
+msgid "desc_s_Shield of Protection_1"
+msgstr ""
+
+msgid "s_Impulse"
+msgstr "动力"
+
+msgid "desc_s_Impulse"
+msgstr "一个纯奥术能量球,主要用于移动目标."
+
+msgid "s_Impulse_1"
+msgstr "Impulse_1"
+
+msgid "desc_s_Impulse_1"
+msgstr ""
+
+msgid "s_Telekinesis"
+msgstr "心灵感应"
+
+msgid "desc_s_Telekinesis"
+msgstr "一股心灵感应的力量能唤醒任何人."
+
+msgid "s_Telekinesis_1"
+msgstr "Telekinesis_1"
+
+msgid "desc_s_Telekinesis_1"
+msgstr ""
+
+msgid "s_Unburden"
+msgstr "无负担"
+
+msgid "desc_s_Unburden"
+msgstr "减少施法者的负担."
+
+msgid "s_Unburden_1"
+msgstr "Unburden_1"
+
+msgid "desc_s_Unburden_1"
+msgstr ""
+
+msgid "s_Venom"
+msgstr "毒液"
+
+msgid "desc_s_Venom"
+msgstr "发射导弹对其目标造成毒害,并降低最大生命值."
+
+msgid "s_Venom_2"
+msgstr "Venom_2"
+
+msgid "desc_s_Venom_2"
+msgstr ""
+
+msgid "s_Venom_Acid"
+msgstr "毒液腐蚀"
+
+msgid "desc_s_Venom_Acid"
+msgstr ""
+
+msgid "s_Lesser Magic_Spells"
+msgstr "初级魔法法术"
+
+msgid "desc_s_Lesser Magic_Spells"
+msgstr "你的第一个魔法学派包括基本的支持咒语,对你生存至关重要.它提供了各种治愈咒语和一些进攻和实用咒语. "
+
+msgid "s_Blast"
+msgstr "爆炸"
+
+msgid "desc_s_Blast"
+msgstr "发射一枚导弹,对其目标造成奥术伤害,并降低他的敏捷."
+
+msgid "s_Blast_1"
+msgstr "Blast_1"
+
+msgid "desc_s_Blast_1"
+msgstr ""
+
+msgid "s_Blast_2"
+msgstr "Blast_2"
+
+msgid "desc_s_Blast_2"
+msgstr ""
+
+msgid "s_Blast_3"
+msgstr "Blast_3"
+
+msgid "desc_s_Blast_3"
+msgstr ""
+
+msgid "s_Burden"
+msgstr "负担"
+
+msgid "desc_s_Burden"
+msgstr "发射导弹,对其目标实施负重惩罚,干扰其施法或射箭."
+
+msgid "s_Burden_1"
+msgstr "Burden_1"
+
+msgid "desc_s_Burden_1"
+msgstr ""
+
+msgid "s_Eldritch Sphere"
+msgstr "可怕球体"
+
+msgid "desc_s_Eldritch Sphere"
+msgstr "发射导弹,在撞击时爆炸,造成奥术伤害."
+
+msgid "s_Eldritch Sphere_1"
+msgstr "Eldritch Sphere_1"
+
+msgid "desc_s_Eldritch Sphere_1"
+msgstr ""
+
+msgid "s_Heal Mount"
+msgstr "治疗坐骑"
+
+msgid "desc_s_Heal Mount"
+msgstr "发射魔法射线,补充坐骑的生命."
+
+msgid "s_Heal Mount_1"
+msgstr "Heal Mount_1"
+
+msgid "desc_s_Heal Mount_1"
+msgstr ""
+
+msgid "s_Heal Self"
+msgstr "自我治疗"
+
+msgid "desc_s_Heal Self"
+msgstr "施法者恢复少量生命.此咒语不需要任何试剂来施放."
+
+msgid "s_Heal Self_1"
+msgstr "Heal Self_1"
+
+msgid "desc_s_Heal Self_1"
+msgstr ""
+
+msgid "s_Health to Mana"
+msgstr "生命转法力"
+
+msgid "desc_s_Health to Mana"
+msgstr "施法者以失去生命值为代价来增加自己的法力值."
+
+msgid "s_Health to Mana_1"
+msgstr "Health to Mana_1"
+
+msgid "desc_s_Health to Mana_1"
+msgstr ""
+
+msgid "s_Launch"
+msgstr "发射"
+
+msgid "desc_s_Launch"
+msgstr "发射魔法射线,导致能量爆发."
+
+msgid "s_Launch_1"
+msgstr "Launch_1"
+
+msgid "desc_s_Launch_1"
+msgstr ""
+
+msgid "s_Lay on Hands"
+msgstr "治愈之手"
+
+msgid "desc_s_Lay on Hands"
+msgstr "发射魔法射线来治愈目标."
+
+msgid "s_Lay on Hands_1"
+msgstr "Lay on Hands_1"
+
+msgid "desc_s_Lay on Hands_1"
+msgstr ""
+
+msgid "s_Light"
+msgstr "光球"
+
+msgid "desc_s_Light"
+msgstr "召唤出舞动的光球."
+
+msgid "s_Light_1"
+msgstr "Light_1"
+
+msgid "desc_s_Light_1"
+msgstr ""
+
+msgid "s_Magic Shield"
+msgstr "魔法之盾"
+
+msgid "desc_s_Magic Shield"
+msgstr "在施法者周围创建一个魔法屏障."
+
+msgid "s_Magic Shield_resist"
+msgstr "Magic Shield_resist"
+
+msgid "desc_s_Magic Shield_resist"
+msgstr ""
+
+msgid "s_Magic Ward"
+msgstr "魔法之御"
+
+msgid "desc_s_Magic Ward"
+msgstr "在目标周围形成防御屏障的射线."
+
+msgid "s_Magic Ward_resist"
+msgstr "Magic Ward_resist"
+
+msgid "desc_s_Magic Ward_resist"
+msgstr ""
+
+msgid "s_Mana Drain"
+msgstr "法力消耗"
+
+msgid "desc_s_Mana Drain"
+msgstr "发射魔法射线,耗尽目标的法力."
+
+msgid "s_Mana Drain_Drain"
+msgstr "Mana Drain_Drain"
+
+msgid "desc_s_Mana Drain_Drain"
+msgstr ""
+
+msgid "s_Mana Missile"
+msgstr "魔法飞弹"
+
+msgid "desc_s_Mana Missile"
+msgstr "发射造成奥术伤害的导弹.这是最弱的伤害法术,但不需要试剂. "
+
+msgid "s_Mana Missile_Arcane"
+msgstr "Mana Missile_Arcane"
+
+msgid "desc_s_Mana Missile_Arcane"
+msgstr "Description of s_Mana Missile_1"
+
+msgid "s_Mana to Stamina"
+msgstr "法力转耐力"
+
+msgid "desc_s_Mana to Stamina"
+msgstr "施法者以失去法力为代价增加自己的耐力."
+
+msgid "s_Mana to Stamina_1"
+msgstr "Mana to Stamina_1"
+
+msgid "desc_s_Mana to Stamina_1"
+msgstr ""
+
+msgid "s_Stamina to Health"
+msgstr "耐力转生命"
+
+msgid "desc_s_Stamina to Health"
+msgstr "施法者以失去耐力为代价,增加自己的生命."
+
+msgid "s_Stamina to Health_1"
+msgstr "Stamina to Health_1"
+
+msgid "desc_s_Stamina to Health_1"
+msgstr ""
+
+msgid "s_Necromancy_Spells"
+msgstr "死灵法术"
+
+msgid "desc_s_Necromancy_Spells"
+msgstr "死灵法术从死者的领地中汲取力量,助长其邪恶的魔力.它的攻击性法术和削弱性攻击都非常强大."
+
+msgid "s_Bludgeoning Weakness"
+msgstr "棒击弱点"
+
+msgid "desc_s_Bludgeoning Weakness"
+msgstr "发射一枚导弹,对其目标的棒击防护造成惩罚.  "
+
+msgid "s_Bludgeoning Weakness_1"
+msgstr "Bludgeoning Weakness_1"
+
+msgid "desc_s_Bludgeoning Weakness_1"
+msgstr ""
+
+msgid "s_Cake and Fine Wine"
+msgstr "蛋糕和美酒"
+
+msgid "desc_s_Cake and Fine Wine"
+msgstr "测试技能没有随机性的伤害."
+
+msgid "s_Cake and Fine Wine_1"
+msgstr "Cake and Fine Wine_1"
+
+msgid "desc_s_Cake and Fine Wine_1"
+msgstr ""
+
+msgid "s_Cursed Bolt"
+msgstr "诅咒之电"
+
+msgid "desc_s_Cursed Bolt"
+msgstr "发射导弹造成邪术伤害."
+
+msgid "s_Cursed Bolt_1"
+msgstr "Cursed Bolt_1"
+
+msgid "desc_s_Cursed Bolt_1"
+msgstr ""
+
+msgid "s_Death Fog"
+msgstr "死亡之雾"
+
+msgid "desc_s_Death Fog"
+msgstr "发射魔法射线,带来了邪恶的薄雾. "
+
+msgid "s_Death Fog_1"
+msgstr "Death Fog_1"
+
+msgid "desc_s_Death Fog_1"
+msgstr ""
+
+msgid "s_Desecration"
+msgstr "亵渎"
+
+msgid "desc_s_Desecration"
+msgstr "发射导弹,对其目标的邪术防护造成惩罚."
+
+msgid "s_Desecration_1"
+msgstr "Desecration_1"
+
+msgid "desc_s_Desecration_1"
+msgstr ""
+
+msgid "s_Evil Eye"
+msgstr "罪恶之眼"
+
+msgid "desc_s_Evil Eye"
+msgstr "发射一枚导弹,降低目标消除法术效果的几率."
+
+msgid "s_Evil Eye_1"
+msgstr "Evil Eye_1"
+
+msgid "desc_s_Evil Eye_1"
+msgstr ""
+
+msgid "s_Eye Rot"
+msgstr "眼腐"
+
+msgid "desc_s_Eye Rot"
+msgstr "干扰目标协调的导弹.造成流血伤害,并对敏捷和智力造成惩罚."
+
+msgid "s_Eye Rot_1"
+msgstr "Eye Rot_1"
+
+msgid "desc_s_Eye Rot_1"
+msgstr ""
+
+msgid "s_Eye Rot_2"
+msgstr "Eye Rot_2"
+
+msgid "desc_s_Eye Rot_2"
+msgstr ""
+
+msgid "s_Eye Rot_3"
+msgstr "Eye Rot_3"
+
+msgid "desc_s_Eye Rot_3"
+msgstr ""
+
+msgid "s_Infernal Shield"
+msgstr "地狱之盾"
+
+msgid "desc_s_Infernal Shield"
+msgstr "增强对邪术伤害的防护."
+
+msgid "s_Infernal Shield_1"
+msgstr "Infernal Shield_1"
+
+msgid "desc_s_Infernal Shield_1"
+msgstr ""
+
+msgid "s_Infernal Ward"
+msgstr "地狱之御"
+
+msgid "desc_s_Infernal Ward"
+msgstr "给予目标对邪术伤害的防护."
+
+msgid "s_Infernal Ward_1"
+msgstr "Infernal Ward_1"
+
+msgid "desc_s_Infernal Ward_1"
+msgstr ""
+
+msgid "s_Mental Weakness"
+msgstr "精神虚弱"
+
+msgid "desc_s_Mental Weakness"
+msgstr "发射导弹,对目标的精神保护进行惩罚."
+
+msgid "s_Mental Weakness_1"
+msgstr "Mental Weakness_1"
+
+msgid "desc_s_Mental Weakness_1"
+msgstr ""
+
+msgid "s_Piercing Weakness"
+msgstr "穿刺弱点"
+
+msgid "desc_s_Piercing Weakness"
+msgstr "发射导弹,对其目标的穿刺防护造成惩罚."
+
+msgid "s_Piercing Weakness_1"
+msgstr "Piercing Weakness_1"
+
+msgid "desc_s_Piercing Weakness_1"
+msgstr ""
+
+msgid "s_Slashing Weakness"
+msgstr "剑伤弱点"
+
+msgid "desc_s_Slashing Weakness"
+msgstr "发射导弹,对目标的剑伤防护造成惩罚."
+
+msgid "s_Slashing Weakness_1"
+msgstr "Slashing Weakness_1"
+
+msgid "desc_s_Slashing Weakness_1"
+msgstr ""
+
+msgid "s_Undeath"
+msgstr "亡灵"
+
+msgid "desc_s_Undeath"
+msgstr "发射导弹,对目标施加诅咒,降低甚至否定自然生命回复."
+
+msgid "s_Undeath_1"
+msgstr "Undeath_1"
+
+msgid "desc_s_Undeath_1"
+msgstr ""
+
+msgid "s_Unholy Caress"
+msgstr "邪恶爱抚"
+
+msgid "desc_s_Unholy Caress"
+msgstr "发射一条线对一个目标造成邪恶伤害. "
+
+msgid "s_Unholy Caress_1"
+msgstr "Unholy Caress_1"
+
+msgid "desc_s_Unholy Caress_1"
+msgstr ""
+
+msgid "s_Unholy Flames"
+msgstr "邪恶火焰"
+
+msgid "desc_s_Unholy Flames"
+msgstr "发射导弹,并在撞击时爆炸,造成邪恶伤害. "
+
+msgid "s_Unholy Flames_area"
+msgstr "Unholy Flames_area"
+
+msgid "desc_s_Unholy Flames_area"
+msgstr ""
+
+msgid "s_Proc Unholy Flames"
+msgstr "扩散邪恶火焰"
+
+msgid "desc_s_Proc Unholy Flames"
+msgstr "发射导弹,并在撞击时爆炸,造成邪恶伤害. "
+
+msgid "s_Proc Unholy Flames_area"
+msgstr "Proc Unholy Flames_area"
+
+msgid "desc_s_Proc Unholy Flames_area"
+msgstr ""
+
+msgid "s_Vampiric Touch"
+msgstr "吸血鬼之触"
+
+msgid "desc_s_Vampiric Touch"
+msgstr "发射魔法射线,吸干目标的生命,并将其转移给施法者. "
+
+msgid "s_Vampiric Touch_1"
+msgstr "Vampiric Touch_1"
+
+msgid "desc_s_Vampiric Touch_1"
+msgstr ""
+
+msgid "s_Ritual Magic_Spells"
+msgstr "仪式魔法法术"
+
+msgid "desc_s_Ritual Magic_Spells"
+msgstr ""
+
+msgid "s_Spell Chanting_Spells"
+msgstr "咒语吟唱法术"
+
+msgid "desc_s_Spell Chanting_Spells"
+msgstr "这个学派的魔法专门用于给同伴加成,而不是对敌人造成伤害.因此,一个咒语吟唱者在队伍中是有价值的,但独自行动就没那么有价值了."
+
+msgid "s_Adept"
+msgstr "娴熟"
+
+msgid "desc_s_Adept"
+msgstr "降低施法者失败的几率."
+
+msgid "s_Adept_1"
+msgstr "Adept_1"
+
+msgid "desc_s_Adept_1"
+msgstr ""
+
+msgid "s_Bless Other"
+msgstr "祝福他人"
+
+msgid "desc_s_Bless Other"
+msgstr "给予目标对诅咒攻击的保护."
+
+msgid "s_Bless Other_1"
+msgstr "Bless Other_1"
+
+msgid "desc_s_Bless Other_1"
+msgstr ""
+
+msgid "s_Blessing"
+msgstr "祝福"
+
+msgid "desc_s_Blessing"
+msgstr "给予施法者对诅咒攻击的保护."
+
+msgid "s_Blessing_1"
+msgstr "Blessing_1"
+
+msgid "desc_s_Blessing_1"
+msgstr ""
+
+msgid "s_Healing Chant"
+msgstr "治疗圣歌"
+
+msgid "desc_s_Healing Chant"
+msgstr "在施法者周围创建一个治疗球体."
+
+msgid "s_Healing Chant_1"
+msgstr "Healing Chant_1"
+
+msgid "desc_s_Healing Chant_1"
+msgstr "Description of s_Healing Chant_1"
+
+msgid "s_Hymn of Intellect"
+msgstr "智力赞美诗"
+
+msgid "desc_s_Hymn of Intellect"
+msgstr "增加目标智力的射线."
+
+msgid "s_Hymn of Intellect_1"
+msgstr "Hymn of Intellect_1"
+
+msgid "desc_s_Hymn of Intellect_1"
+msgstr ""
+
+msgid "s_Hymn of Might"
+msgstr "力量赞美诗"
+
+msgid "desc_s_Hymn of Might"
+msgstr "给目标力量加成的射线."
+
+msgid "s_Hymn of Might_1"
+msgstr "Hymn of Might_1"
+
+msgid "desc_s_Hymn of Might_1"
+msgstr ""
+
+msgid "s_Hymn of Skill"
+msgstr "技能赞美诗"
+
+msgid "desc_s_Hymn of Skill"
+msgstr "增加目标敏捷的射线."
+
+msgid "s_Hymn of Skill_1"
+msgstr "Hymn of Skill_1"
+
+msgid "desc_s_Hymn of Skill_1"
+msgstr ""
+
+msgid "s_Hymn of Swiftness"
+msgstr "迅捷赞美诗"
+
+msgid "desc_s_Hymn of Swiftness"
+msgstr "增加目标敏捷的射线."
+
+msgid "s_Hymn of Swiftness_1"
+msgstr "Hymn of Swiftness_1"
+
+msgid "desc_s_Hymn of Swiftness_1"
+msgstr ""
+
+msgid "s_Hymn of Vigor"
+msgstr "活力赞美诗"
+
+msgid "desc_s_Hymn of Vigor"
+msgstr "增加目标活力的魔法射线."
+
+msgid "s_Hymn of Vigor_1"
+msgstr "Hymn of Vigor_1"
+
+msgid "desc_s_Hymn of Vigor_1"
+msgstr ""
+
+msgid "s_Mana Blast"
+msgstr "法力冲击"
+
+msgid "desc_s_Mana Blast"
+msgstr "发射魔法射线引起奥术爆炸."
+
+msgid "s_Mana Blast_1"
+msgstr "Mana Blast_1"
+
+msgid "desc_s_Mana Blast_1"
+msgstr ""
+
+msgid "s_Max Health Bonus"
+msgstr "最大生命加成"
+
+msgid "desc_s_Max Health Bonus"
+msgstr "暂时增加施法者的最大生命值."
+
+msgid "s_Max Health Bonus_1"
+msgstr "Max Health Bonus_1"
+
+msgid "desc_s_Max Health Bonus_1"
+msgstr ""
+
+msgid "s_Max Mana Bonus"
+msgstr "最大法力加成"
+
+msgid "desc_s_Max Mana Bonus"
+msgstr "暂时增加施法者的最大法力值."
+
+msgid "s_Max Mana Bonus_1"
+msgstr "Max Mana Bonus_1"
+
+msgid "desc_s_Max Mana Bonus_1"
+msgstr ""
+
+msgid "s_Max Stamina Bonus"
+msgstr "最大耐力加成"
+
+msgid "desc_s_Max Stamina Bonus"
+msgstr "暂时增加施法者的最大耐力."
+
+msgid "s_Max Stamina Bonus_1"
+msgstr "Max Stamina Bonus_1"
+
+msgid "desc_s_Max Stamina Bonus_1"
+msgstr ""
+
+msgid "s_Sacrifice"
+msgstr "牺牲"
+
+msgid "desc_s_Sacrifice"
+msgstr "将生命值从施法者转移到目标的射线."
+
+msgid "s_Sacrifice_1"
+msgstr "Sacrifice_1"
+
+msgid "desc_s_Sacrifice_1"
+msgstr ""
+
+msgid "s_Replenish"
+msgstr "补充"
+
+msgid "desc_s_Replenish"
+msgstr "一个单一的治疗效果与补充打击效果."
+
+msgid "s_Replenish_1"
+msgstr "Replenish_1"
+
+msgid "desc_s_Replenish_1"
+msgstr ""
+
+msgid "s_Replenish all"
+msgstr "补充所有"
+
+msgid "desc_s_Replenish all"
+msgstr "治疗所有属性效果与补充打击效果."
+
+msgid "s_Replenish all_1"
+msgstr "Replenish all_1"
+
+msgid "desc_s_Replenish all_1"
+msgstr ""
+
+msgid "s_Replenish all_2"
+msgstr "Replenish all_2"
+
+msgid "desc_s_Replenish all_2"
+msgstr ""
+
+msgid "s_Replenish all_3"
+msgstr "Replenish all_3"
+
+msgid "desc_s_Replenish all_3"
+msgstr ""
+
+msgid "s_Soothing Chant"
+msgstr "治愈之歌"
+
+msgid "desc_s_Soothing Chant"
+msgstr "按住鼠标左键以治疗附近的坐骑."
+
+msgid "s_Soothing Chant_1"
+msgstr "Soothing Chant_1"
+
+msgid "desc_s_Soothing Chant_1"
+msgstr ""
+
+msgid "s_Water Magic_Spells"
+msgstr "水系魔法法术"
+
+msgid "desc_s_Water Magic_Spells"
+msgstr "水系学派授予的法术可以造成冰碎片伤害或超自然的强烈寒意,以及对目标减速的魔法."
+
+msgid "s_Blizzard"
+msgstr "暴雪"
+
+msgid "desc_s_Blizzard"
+msgstr "发射导弹,在撞击时爆炸,造成寒冷伤害. "
+
+msgid "s_Blizzard_1"
+msgstr "Blizzard_1"
+
+msgid "desc_s_Blizzard_1"
+msgstr ""
+
+msgid "s_Proc Blizzard"
+msgstr "暴雪扩散"
+
+msgid "desc_s_Proc Blizzard"
+msgstr "发射导弹,在撞击时爆炸,造成寒冷伤害. "
+
+msgid "s_Proc Blizzard_1"
+msgstr "Proc Blizzard_1"
+
+msgid "desc_s_Proc Blizzard_1"
+msgstr ""
+
+msgid "s_Clear Thoughts"
+msgstr "清醒"
+
+msgid "desc_s_Clear Thoughts"
+msgstr "给予施法者智力加成."
+
+msgid "s_Clear Thoughts_1"
+msgstr "Clear Thoughts_1"
+
+msgid "desc_s_Clear Thoughts_1"
+msgstr ""
+
+msgid "s_Cold Shield"
+msgstr "冷盾"
+
+msgid "desc_s_Cold Shield"
+msgstr "增加施法者的寒冷防护。"
+
+msgid "s_Cold Shield_prot"
+msgstr "Cold Shield_prot"
+
+msgid "desc_s_Cold Shield_prot"
+msgstr ""
+
+msgid "s_Cold Ward"
+msgstr "冷防"
+
+msgid "desc_s_Cold Ward"
+msgstr "给予目标寒冷防护."
+
+msgid "s_Cold Ward_1"
+msgstr "Cold Ward_1"
+
+msgid "desc_s_Cold Ward_1"
+msgstr ""
+
+msgid "s_Delayed Shot"
+msgstr "延迟攻击"
+
+msgid "desc_s_Delayed Shot"
+msgstr "用远程武器发射一枚导弹,对其目标的攻击速度造成惩罚.  "
+
+msgid "s_Delayed Shot_1"
+msgstr "Delayed Shot_1"
+
+msgid "desc_s_Delayed Shot_1"
+msgstr ""
+
+msgid "s_Frostbite"
+msgstr "冻伤剑"
+
+msgid "desc_s_Frostbite"
+msgstr "发射出一股强烈的寒流破坏它所经过的一切."
+
+msgid "s_Frostbite_1"
+msgstr "Frostbite_1"
+
+msgid "desc_s_Frostbite_1"
+msgstr ""
+
+msgid "s_Gills"
+msgstr "腮"
+
+msgid "desc_s_Gills"
+msgstr "增加施法者的肺活量."
+
+msgid "s_Gills_1"
+msgstr "Gills_1"
+
+msgid "desc_s_Gills_1"
+msgstr ""
+
+msgid "s_Ice Storm"
+msgstr "冰暴"
+
+msgid "desc_s_Ice Storm"
+msgstr "发射魔法射线,召唤严寒的风暴击中目标."
+
+msgid "s_Ice Storm_1"
+msgstr "Ice Storm_1"
+
+msgid "desc_s_Ice Storm_1"
+msgstr ""
+
+msgid "s_Icicle"
+msgstr "冰柱"
+
+msgid "desc_s_Icicle"
+msgstr "发射一枚导弹,对其目标造成寒冷伤害."
+
+msgid "s_Icicle_Cold"
+msgstr "严寒冰柱"
+
+msgid "desc_s_Icicle_Cold"
+msgstr "Description of s_Mana Missile_1"
+
+msgid "s_Shards"
+msgstr "碎片"
+
+msgid "desc_s_Shards"
+msgstr "发射导弹,在撞击时爆炸,造成寒冷伤害."
+
+msgid "s_Shards_2"
+msgstr "Shards_2"
+
+msgid "desc_s_Shards_2"
+msgstr ""
+
+msgid "s_Shards_Cold"
+msgstr "寒冷碎片"
+
+msgid "desc_s_Shards_Cold"
+msgstr ""
+
+msgid "s_Slow"
+msgstr "减速"
+
+msgid "desc_s_Slow"
+msgstr "使用近战武器时发射导弹,对其目标的攻击速度造成惩罚."
+
+msgid "s_Slow_1"
+msgstr "Slow_1"
+
+msgid "desc_s_Slow_1"
+msgstr ""
+
+msgid "s_Toxic Rain"
+msgstr "毒雨"
+
+msgid "desc_s_Toxic Rain"
+msgstr "发射射线,召唤一场魔法暴雨造成毒药伤害."
+
+msgid "s_Toxic Rain_1"
+msgstr "Toxic Rain_1"
+
+msgid "desc_s_Toxic Rain_1"
+msgstr ""
+
+msgid "s_Water Breathing"
+msgstr "水下呼吸"
+
+msgid "desc_s_Water Breathing"
+msgstr "增加目标的肺活量."
+
+msgid "s_Water Breathing_1"
+msgstr "Water Breathing_1"
+
+msgid "desc_s_Water Breathing_1"
+msgstr ""
+
+msgid "s_Weakening Chill"
+msgstr "弱寒"
+
+msgid "desc_s_Weakening Chill"
+msgstr "发射导弹对其目标的寒冷防护造成惩罚."
+
+msgid "s_Weakening Chill_1"
+msgstr "Weakening Chill_1"
+
+msgid "desc_s_Weakening Chill_1"
+msgstr ""
+
+msgid "s_Wild Magic_Spells"
+msgstr "狂野魔法法术"
+
+msgid "desc_s_Wild Magic_Spells"
+msgstr "持久狂野魔法"
+
+msgid "s_Acid Explosion"
+msgstr "酸爆"
+
+msgid "desc_s_Acid Explosion"
+msgstr ""
+
+msgid "s_Acid Explosion_1"
+msgstr "Acid Explosion_1"
+
+msgid "desc_s_Acid Explosion_1"
+msgstr ""
+
+msgid "s_Antitank Spell"
+msgstr "反坦克法术"
+
+msgid "desc_s_Antitank Spell"
+msgstr ""
+
+msgid "s_Antitank Spell_1"
+msgstr "Antitank Spell_1"
+
+msgid "desc_s_Antitank Spell_1"
+msgstr ""
+
+msgid "s_Dragon Acid Blast"
+msgstr "龙酸爆"
+
+msgid "desc_s_Dragon Acid Blast"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_acid"
+msgstr "Dragon Acid Blast_acid"
+
+msgid "desc_s_Dragon Acid Blast_acid"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_impact"
+msgstr "Dragon Acid Blast_impact"
+
+msgid "desc_s_Dragon Acid Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Acid Breath"
+msgstr "龙酸息"
+
+msgid "desc_s_Dragon Acid Breath"
+msgstr ""
+
+msgid "s_Dragon Acid Breath_1"
+msgstr "Dragon Acid Breath_1"
+
+msgid "desc_s_Dragon Acid Breath_1"
+msgstr ""
+
+msgid "s_Dragon Cold Blast"
+msgstr "龙冷爆"
+
+msgid "desc_s_Dragon Cold Blast"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_cold"
+msgstr "Dragon Cold Blast_cold"
+
+msgid "desc_s_Dragon Cold Blast_cold"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_impact"
+msgstr "Dragon Cold Blast_impact"
+
+msgid "desc_s_Dragon Cold Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Cold Breath"
+msgstr "龙冷息"
+
+msgid "desc_s_Dragon Cold Breath"
+msgstr ""
+
+msgid "s_Dragon Cold Breath_1"
+msgstr "Dragon Cold Breath_1"
+
+msgid "desc_s_Dragon Cold Breath_1"
+msgstr ""
+
+msgid "s_Dragon Fire Blast"
+msgstr "龙火爆"
+
+msgid "desc_s_Dragon Fire Blast"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_fire"
+msgstr "Dragon Fire Blast_fire"
+
+msgid "desc_s_Dragon Fire Blast_fire"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_impact"
+msgstr "Dragon Fire Blast_impact"
+
+msgid "desc_s_Dragon Fire Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Fire Breath"
+msgstr "龙火息"
+
+msgid "desc_s_Dragon Fire Breath"
+msgstr ""
+
+msgid "s_Dragon Fire Breath_1"
+msgstr "Dragon Fire Breath_1"
+
+msgid "desc_s_Dragon Fire Breath_1"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast"
+msgstr "龙闪爆"
+
+msgid "desc_s_Dragon Lightning Blast"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_impact"
+msgstr "Dragon Lightning Blast_impact"
+
+msgid "desc_s_Dragon Lightning Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_lightning"
+msgstr "Dragon Lightning Blast_lightning"
+
+msgid "desc_s_Dragon Lightning Blast_lightning"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath"
+msgstr "龙闪息"
+
+msgid "desc_s_Dragon Lightning Breath"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath_1"
+msgstr "Dragon Lightning Breath_1"
+
+msgid "desc_s_Dragon Lightning Breath_1"
+msgstr ""
+
+msgid "s_Physics Test A"
+msgstr "Physics Test A"
+
+msgid "desc_s_Physics Test A"
+msgstr ""
+
+msgid "s_Physics Test A_1"
+msgstr "Physics Test A_1"
+
+msgid "desc_s_Physics Test A_1"
+msgstr ""
+
+msgid "s_Physics Test B"
+msgstr "Physics Test B"
+
+msgid "desc_s_Physics Test B"
+msgstr ""
+
+msgid "s_Physics Test B_1"
+msgstr "Physics Test B_1"
+
+msgid "desc_s_Physics Test B_1"
+msgstr ""
+
+msgid "s_Physics Test C"
+msgstr "Physics Test C"
+
+msgid "desc_s_Physics Test C"
+msgstr ""
+
+msgid "s_Physics Test C_1"
+msgstr "Physics Test C_1"
+
+msgid "desc_s_Physics Test C_1"
+msgstr ""
+
+msgid "s_Physics Test D"
+msgstr "Physics Test D"
+
+msgid "desc_s_Physics Test D"
+msgstr ""
+
+msgid "s_Physics Test D_1"
+msgstr "Physics Test D_1"
+
+msgid "desc_s_Physics Test D_1"
+msgstr ""
+
+msgid "s_Physics Test E"
+msgstr "Physics Test E"
+
+msgid "desc_s_Physics Test E"
+msgstr ""
+
+msgid "s_Physics Test E_1"
+msgstr "Physics Test E_1"
+
+msgid "desc_s_Physics Test E_1"
+msgstr ""
+
+msgid "s_Witchcraft_Spells"
+msgstr "巫术法术"
+
+msgid "desc_s_Witchcraft_Spells"
+msgstr "巫术主要涉及诅咒,削弱目标的能力,无论是战士的力量,巫师的精神力量或弓箭手的精度."
+
+msgid "s_Disease"
+msgstr "疾病"
+
+msgid "desc_s_Disease"
+msgstr "发射导弹,对其目标的力量造成惩罚."
+
+msgid "s_Disease_1"
+msgstr "Disease_1"
+
+msgid "desc_s_Disease_1"
+msgstr ""
+
+msgid "s_Exhaust"
+msgstr "消耗"
+
+msgid "desc_s_Exhaust"
+msgstr "发射导弹,减少其目标的自然耐力再生."
+
+msgid "s_Exhaust_1"
+msgstr "Exhaust_1"
+
+msgid "desc_s_Exhaust_1"
+msgstr ""
+
+msgid "s_Insect Swarm"
+msgstr "虫群"
+
+msgid "desc_s_Insect Swarm"
+msgstr "向目标发送一群有毒昆虫."
+
+msgid "s_Insect Swarm_1"
+msgstr "Insect Swarm_1"
+
+msgid "desc_s_Insect Swarm_1"
+msgstr ""
+
+msgid "s_Insect Swarm_2"
+msgstr "Insect Swarm_2"
+
+msgid "desc_s_Insect Swarm_2"
+msgstr ""
+
+msgid "s_Mana Leech"
+msgstr "法力吸取"
+
+msgid "desc_s_Mana Leech"
+msgstr "发射射线,吸干目标的法力,并将其转移给施法者."
+
+msgid "s_Mana Leech_1"
+msgstr "Mana Leech_1"
+
+msgid "desc_s_Mana Leech_1"
+msgstr ""
+
+msgid "s_Mana Leech Hit"
+msgstr "法力吸取打击"
+
+msgid "desc_s_Mana Leech Hit"
+msgstr "发射射线,吸干目标的法力,并将其转移给施法者."
+
+msgid "s_Mana Leech Hit_1"
+msgstr "Mana Leech Hit_1"
+
+msgid "desc_s_Mana Leech Hit_1"
+msgstr ""
+
+msgid "s_Needles"
+msgstr "群针"
+
+msgid "desc_s_Needles"
+msgstr "发射导弹,在撞击时爆炸,造成出血伤害."
+
+msgid "s_Needles_1"
+msgstr "Needles_1"
+
+msgid "desc_s_Needles_1"
+msgstr ""
+
+msgid "s_Ominous Drain"
+msgstr "厄运消耗"
+
+msgid "desc_s_Ominous Drain"
+msgstr "发射导弹,可能会减少其所有目标的基础属性."
+
+msgid "s_Ominous Drain_1"
+msgstr "Ominous Drain_1"
+
+msgid "desc_s_Ominous Drain_1"
+msgstr ""
+
+msgid "s_Palsy"
+msgstr "麻痹"
+
+msgid "desc_s_Palsy"
+msgstr "发射导弹对其目标的敏捷造成惩罚."
+
+msgid "s_Palsy_1"
+msgstr "Palsy_1"
+
+msgid "desc_s_Palsy_1"
+msgstr ""
+
+msgid "s_Pestilence"
+msgstr "瘟疫"
+
+msgid "desc_s_Pestilence"
+msgstr "发射导弹对目标的体力造成惩罚."
+
+msgid "s_Pestilence_1"
+msgstr "Pestilence_1"
+
+msgid "desc_s_Pestilence_1"
+msgstr ""
+
+msgid "s_Sluggish"
+msgstr "缓慢"
+
+msgid "desc_s_Sluggish"
+msgstr "发射导弹对目标的速度造成惩罚."
+
+msgid "s_Sluggish_1"
+msgstr "Sluggish_1"
+
+msgid "desc_s_Sluggish_1"
+msgstr ""
+
+msgid "s_Spell Curse"
+msgstr "诅咒"
+
+msgid "desc_s_Spell Curse"
+msgstr "发射导弹对其目标的诅咒防护造成惩罚."
+
+msgid "s_Spell Curse_Penalty"
+msgstr "诅咒惩罚"
+
+msgid "desc_s_Spell Curse_Penalty"
+msgstr ""
+
+msgid "s_Spellturn"
+msgstr "法术转化"
+
+msgid "desc_s_Spellturn"
+msgstr ""
+
+msgid "s_Stupidity"
+msgstr "愚蠢"
+
+msgid "desc_s_Stupidity"
+msgstr "发射导弹对其目标的智力造成惩罚."
+
+msgid "s_Stupidity_1"
+msgstr "Stupidity_1"
+
+msgid "desc_s_Stupidity_1"
+msgstr ""
+
+msgid "s_Tongue Rot"
+msgstr "禁言"
+
+msgid "desc_s_Tongue Rot"
+msgstr "发射导弹,降低目标法术成功率的导弹."
+
+msgid "s_Tongue Rot_Penalty"
+msgstr "禁言惩罚"
+
+msgid "desc_s_Tongue Rot_Penalty"
+msgstr ""
+
+msgid "s_Witches Brew"
+msgstr "巫酒"
+
+msgid "desc_s_Witches Brew"
+msgstr "创建以施法者为中心的即时治疗球体."
+
+msgid "s_Witches Brew_1"
+msgstr "Witches Brew_1"
+
+msgid "desc_s_Witches Brew_1"
+msgstr ""
+
+msgid "s_Test"
+msgstr "Test"
+
+msgid "desc_s_Test"
+msgstr "Description of s_Test"
+
+msgid "DEBUG_TESTING"
+msgstr "DEBUG_TESTING"
+
+msgid "desc_DEBUG_TESTING"
+msgstr "Description of DEBUG_TESTING"
+
+msgid "AttachObjectSkill"
+msgstr "AttachObjectSkill"
+
+msgid "desc_AttachObjectSkill"
+msgstr "Description of AttachObjectSkill"
+
+msgid "DetachObjectSkill"
+msgstr "DetachObjectSkill"
+
+msgid "desc_DetachObjectSkill"
+msgstr "Description of DetachObjectSkill"
+
+msgid "DropObjectSkill"
+msgstr "DropObjectSkill"
+
+msgid "desc_DropObjectSkill"
+msgstr "Description of DropObjectSkill"
+
+msgid "jumpskill"
+msgstr "jumpskill"
+
+msgid "desc_jumpskill"
+msgstr ""
+
+msgid "PickupObjectSkill"
+msgstr "PickupObjectSkill"
+
+msgid "desc_PickupObjectSkill"
+msgstr "Description of PickupObjectSkill"
+
+msgid "RunSkill"
+msgstr "RunSkill"
+
+msgid "desc_RunSkill"
+msgstr "Description of RunSkill"
+
+msgid "SlashingCombatSkill"
+msgstr "SlashingCombatSkill"
+
+msgid "desc_SlashingCombatSkill"
+msgstr "Description of SlashingCombatSkill"
+
+msgid "SprintSkill"
+msgstr "SprintSkill"
+
+msgid "desc_SprintSkill"
+msgstr "Description of SprintSkill"
+
+msgid "s_AttributeModification"
+msgstr "AttributeModification"
+
+msgid "desc_s_AttributeModification"
+msgstr "Description of s_AttributeModification"
+
+msgid "s_InstaGib"
+msgstr "InstaGib"
+
+msgid "desc_s_InstaGib"
+msgstr "Description of s_InstaGib"
+
+msgid "s_InstaGib_1"
+msgstr "InstaGib_1"
+
+msgid "desc_s_InstaGib_1"
+msgstr "Description of s_InstaGib_1"
+
+msgid "WalkSkill"
+msgstr "WalkSkill"
+
+msgid "desc_WalkSkill"
+msgstr "Description of WalkSkill"
+
