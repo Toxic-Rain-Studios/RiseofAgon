@@ -5,7 +5,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Effect"
 msgstr "效果"
 
@@ -1215,149 +1214,11 @@ msgstr " "
 msgid "Boon of Waves"
 msgstr "波动恩惠"
 
-msgid "Strength"
-msgstr "力量"
-
-msgid "Vitality"
-msgstr "体力"
-
-msgid "Dexterity"
-msgstr "敏捷"
-
-msgid "Quickness"
-msgstr "速度"
-
-msgid "Intelligence"
-msgstr "智力"
-
-msgid "Wisdom"
-msgstr "天赋"
-
-msgid "Encumbrance"
-msgstr "盔甲惩罚"
-
-msgid "Melee"
-msgstr "近战"
-
-msgid "Magic"
-msgstr "魔法"
-
-msgid "Archery"
-msgstr "射箭"
-
-msgid "Arrow"
-msgstr "箭头防护"
-
-msgid "Bludgeoning"
-msgstr "棒击防护"
-
-msgid "Piercing"
-msgstr "穿刺防护"
-
-msgid "Slashing"
-msgstr "剑伤防护"
-
-msgid "Acid"
-msgstr "酸蚀防护"
-
-msgid "Arcane"
-msgstr "奥术防护"
-
-msgid "Cold"
-msgstr "寒冷防护"
-
-msgid "Fire"
-msgstr "火焰防护"
-
-msgid "Holy"
-msgstr "圣术防护"
-
-msgid "Impact"
-msgstr "撞击防护"
-
-msgid "Lightning"
-msgstr "闪电防护"
-
-msgid "Unholy"
-msgstr "邪术防护"
-
 msgid "Malediction"
 msgstr "诅咒防护"
 
-msgid "Mental"
-msgstr "精神防护"
-
 msgid "Infliction"
 msgstr "刑罚防护"
-
-msgid "ClanRoles"
-msgstr "公会角色"
-
-msgid "ClanAccessLevel"
-msgstr "公会访问级别"
-
-msgid "TileRating"
-msgstr "等级"
-
-msgid "Name"
-msgstr "名称"
-
-msgid "Health"
-msgstr "生命"
-
-msgid "HealthMax"
-msgstr "最大生命"
-
-msgid "Stamina"
-msgstr "耐力"
-
-msgid "StaminaMax"
-msgstr "最大耐力"
-
-msgid "Mana"
-msgstr "法力"
-
-msgid "ManaMax"
-msgstr "最大法力"
-
-msgid "MountHealth"
-msgstr "坐骑生命"
-
-msgid "MountHealthMax"
-msgstr "坐骑最大生命"
-
-msgid "MountStaminaMax"
-msgstr "坐骑最大耐力"
-
-msgid "MountName"
-msgstr "坐骑名称"
-
-msgid "Currency"
-msgstr "货币"
-
-msgid "Combat"
-msgstr "战斗"
-
-msgid "Added Effects"
-msgstr "添加效果"
-
-msgid "Active Effects"
-msgstr "活跃效果"
-
-msgid "PersonalBankExtension1"
-msgstr "个人银行扩展"
-
-msgid "Alignment"
-msgstr "正义值"
-
-msgid "Alignment Reset"
-msgstr "重置正义值"
-
-msgid "Suspect"
-msgstr "怀疑"
-
-msgid "PvpFlag"
-msgstr "Pvp标志"
 
 msgid "desc_Obelisk Haste Ganking"
 msgstr " "
@@ -1388,4 +1249,3 @@ msgstr "城市奖励方尖碑"
 
 msgid "Obelisk Haste Reviving"
 msgstr "复活属性方尖碑"
-
