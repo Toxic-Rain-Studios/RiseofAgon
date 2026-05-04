@@ -1,0 +1,4704 @@
+msgid ""
+msgstr ""
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "accept"
+msgstr ""
+
+msgid "activatable_bar_slot_option_auto_parry"
+msgstr ""
+
+msgid "activatable_bar_slot_option_current_bind"
+msgstr ""
+
+msgid "activatable_bar_slot_option_mount_auto_swing"
+msgstr ""
+
+msgid "activatable_bar_slot_option_mount_lean_left"
+msgstr ""
+
+msgid "activatable_bar_slot_option_mount_lean_right"
+msgstr ""
+
+msgid "activatable_bar_slot_option_no_binding_set"
+msgstr ""
+
+msgid "activatable_bar_slot_option_set_bind_button"
+msgstr ""
+
+msgid "alignment"
+msgstr ""
+
+msgid "alignmentbar_tooltip"
+msgstr ""
+
+msgid "application_window_title"
+msgstr ""
+
+msgid "apply"
+msgstr ""
+
+msgid "are_you_sure"
+msgstr ""
+
+msgid "are_you_sure_you_want_to_quit"
+msgstr ""
+
+msgid "armor_damage_multiplier"
+msgstr ""
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
+msgstr ""
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_2"
+msgstr ""
+
+msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_header"
+msgstr ""
+
+msgid "auto_equip_config_filter_highest_damage"
+msgstr ""
+
+msgid "auto_equip_config_filter_highest_speed"
+msgstr ""
+
+msgid "auto_equip_config_filter_ignore_casting_time_enchantments"
+msgstr ""
+
+msgid "auto_equip_config_filter_only_these_weapon_types"
+msgstr ""
+
+msgid "auto_equip_config_filter_only_these_weapon_types_in_this_order"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_1"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_2"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_3"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_4"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_1"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_2"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_1"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_2"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_3"
+msgstr ""
+
+msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_4"
+msgstr ""
+
+msgid "auto_equip_config_filter_undefined"
+msgstr ""
+
+msgid "auto_equip_config_filter_weapon_type_context_menu_add"
+msgstr ""
+
+msgid "auto_equip_config_preset_auto_generate"
+msgstr ""
+
+msgid "auto_equip_config_preset_fast_staffs"
+msgstr ""
+
+msgid "auto_equip_config_preset_fastest_long_weapon"
+msgstr ""
+
+msgid "auto_equip_config_preset_knives"
+msgstr ""
+
+msgid "auto_equip_config_preset_long_weapons_greatclubs_first"
+msgstr ""
+
+msgid "auto_equip_config_preset_long_weapons_greatswords_first"
+msgstr ""
+
+msgid "auto_equip_config_preset_one_hand_weapons_axe_first"
+msgstr ""
+
+msgid "auto_equip_config_preset_one_hand_weapons_sword_first"
+msgstr ""
+
+msgid "auto_equip_config_preset_ray_staffs"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_axe"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_bow"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_club"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greataxe"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greatclub"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_greatsword"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_knives"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_polearm"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_sithra"
+msgstr ""
+
+msgid "auto_equip_config_weapon_type_sprite_tooltip_sword"
+msgstr ""
+
+msgid "back"
+msgstr ""
+
+msgid "backpack_weight_title"
+msgstr ""
+
+msgid "backpack_window_title"
+msgstr ""
+
+msgid "bank_filter_placeholder"
+msgstr ""
+
+msgid "bank_tabs_bank"
+msgstr ""
+
+msgid "bank_tabs_consumables"
+msgstr ""
+
+msgid "bank_tabs_enchant_materials"
+msgstr ""
+
+msgid "barber_features_beard"
+msgstr ""
+
+msgid "barber_features_beard_braids"
+msgstr ""
+
+msgid "barber_features_braids"
+msgstr ""
+
+msgid "barber_features_earring"
+msgstr ""
+
+msgid "barber_features_extra_accessory"
+msgstr ""
+
+msgid "barber_features_face"
+msgstr ""
+
+msgid "barber_features_forehead"
+msgstr ""
+
+msgid "barber_features_hair"
+msgstr ""
+
+msgid "barber_features_mustache"
+msgstr ""
+
+msgid "barber_features_nose_accesory"
+msgstr ""
+
+msgid "barber_features_sideburns"
+msgstr ""
+
+msgid "barber_features_tusks"
+msgstr ""
+
+msgid "barber_hair_color"
+msgstr ""
+
+msgid "barber_skin_tone"
+msgstr ""
+
+msgid "bindings_tab_title_bindings"
+msgstr ""
+
+msgid "bindings_tab_title_debug"
+msgstr ""
+
+msgid "bindings_tab_title_gmsonly"
+msgstr ""
+
+msgid "bindings_tab_title_gui"
+msgstr ""
+
+msgid "bindings_tab_title_interaction"
+msgstr ""
+
+msgid "bindings_tab_title_misc"
+msgstr ""
+
+msgid "bindings_tab_title_movement"
+msgstr ""
+
+msgid "boards_window_title"
+msgstr ""
+
+msgid "browser_home"
+msgstr ""
+
+msgid "button_accept"
+msgstr ""
+
+msgid "button_next"
+msgstr ""
+
+msgid "button_previous"
+msgstr ""
+
+msgid "button_submit"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "character_alteration_confirmation_dialog_description"
+msgstr ""
+
+msgid "character_alteration_confirmation_dialog_title"
+msgstr ""
+
+msgid "character_alteration_forgot_to_pick_gender"
+msgstr ""
+
+msgid "character_alteration_title"
+msgstr ""
+
+msgid "character_mount_stats_health"
+msgstr ""
+
+msgid "character_mount_stats_healthmax"
+msgstr ""
+
+msgid "character_mount_stats_name"
+msgstr ""
+
+msgid "character_mount_stats_stamina"
+msgstr ""
+
+msgid "character_mount_stats_staminamax"
+msgstr ""
+
+msgid "character_stats_alignment_description"
+msgstr ""
+
+msgid "character_stats_antigrief_description"
+msgstr ""
+
+msgid "character_stats_dexterity_description"
+msgstr ""
+
+msgid "character_stats_encumbrance_description"
+msgstr ""
+
+msgid "character_stats_global_currency_description"
+msgstr ""
+
+msgid "character_stats_health_description"
+msgstr ""
+
+msgid "character_stats_healthmax_description"
+msgstr ""
+
+msgid "character_stats_intelligence_description"
+msgstr ""
+
+msgid "character_stats_mana_description"
+msgstr ""
+
+msgid "character_stats_manamax_description"
+msgstr ""
+
+msgid "character_stats_name_description"
+msgstr ""
+
+msgid "character_stats_penalty_archery_description"
+msgstr ""
+
+msgid "character_stats_penalty_magic_description"
+msgstr ""
+
+msgid "character_stats_penalty_melee_description"
+msgstr ""
+
+msgid "character_stats_protectionacid_description"
+msgstr ""
+
+msgid "character_stats_protectionarcane_description"
+msgstr ""
+
+msgid "character_stats_protectionarrow_description"
+msgstr ""
+
+msgid "character_stats_protectionbludgeoning_description"
+msgstr ""
+
+msgid "character_stats_protectioncold_description"
+msgstr ""
+
+msgid "character_stats_protectionfire_description"
+msgstr ""
+
+msgid "character_stats_protectionholy_description"
+msgstr ""
+
+msgid "character_stats_protectionimpact_description"
+msgstr ""
+
+msgid "character_stats_protectioninfliction_description"
+msgstr ""
+
+msgid "character_stats_protectionlightning_description"
+msgstr ""
+
+msgid "character_stats_protectionmalediction_description"
+msgstr ""
+
+msgid "character_stats_protectionmental_description"
+msgstr ""
+
+msgid "character_stats_protectionpiercing_description"
+msgstr ""
+
+msgid "character_stats_protectionslashing_description"
+msgstr ""
+
+msgid "character_stats_protectionunholy_description"
+msgstr ""
+
+msgid "character_stats_quickness_description"
+msgstr ""
+
+msgid "character_stats_stamina_description"
+msgstr ""
+
+msgid "character_stats_staminamax_description"
+msgstr ""
+
+msgid "character_stats_strength_description"
+msgstr ""
+
+msgid "character_stats_suspect_description"
+msgstr ""
+
+msgid "character_stats_vitality_description"
+msgstr ""
+
+msgid "character_stats_wisdom_description"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_befriend_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_befriend_param_friendly_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_config_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_config_type_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_config_value_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_die_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_get_request_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_get_request_param_attribute_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_get_request_param_guid_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_get_response_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_help_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_help_param_attribute_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_judas_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_move_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_move_dir_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_move_distance_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_move_mode_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_property_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_property_type_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_property_value_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_rotate_amount_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_rotate_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_set_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_set_param_attribute_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_set_param_guid_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_set_param_value_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_test_desc"
+msgstr ""
+
+msgid "chat_ai_cmd_ai_test_param1_desc"
+msgstr ""
+
+msgid "chat_city_cmd_create_city"
+msgstr ""
+
+msgid "chat_city_cmd_create_city_p1"
+msgstr ""
+
+msgid "chat_clan_cmd_change_accesslevel"
+msgstr ""
+
+msgid "chat_clan_cmd_change_accesslevel_p1"
+msgstr ""
+
+msgid "chat_clan_cmd_create_clan"
+msgstr ""
+
+msgid "chat_clan_cmd_create_clan_param1"
+msgstr ""
+
+msgid "chat_cmd_help_cmddesc"
+msgstr ""
+
+msgid "chat_cmd_help_cmdparamline"
+msgstr ""
+
+msgid "chat_cmd_help_error_no_command_starts_with"
+msgstr ""
+
+msgid "chat_cmd_help_error_unknowncommand"
+msgstr ""
+
+msgid "chat_entry_error"
+msgstr ""
+
+msgid "chat_entry_error_with_context"
+msgstr ""
+
+msgid "chat_entry_system_param_eq_value"
+msgstr ""
+
+msgid "chat_entry_user"
+msgstr ""
+
+msgid "chat_error_extraparam"
+msgstr ""
+
+msgid "chat_error_insuffparam"
+msgstr ""
+
+msgid "chat_error_parsingparam"
+msgstr ""
+
+msgid "chat_error_propval_abovemax"
+msgstr ""
+
+msgid "chat_error_propval_belowmin"
+msgstr ""
+
+msgid "chat_error_setproperty_failed"
+msgstr ""
+
+msgid "chat_error_syntax"
+msgstr ""
+
+msgid "chat_error_unknown_command"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_applydevice_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_screenshot_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_sprite_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_sprite_param_texture_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_text_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_text_param_thetext_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_toggle_sun_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_togglewf_desc"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_veg_applychanges"
+msgstr ""
+
+msgid "chat_graphics_cmd_g_veg_forceupdate"
+msgstr ""
+
+msgid "chat_gui_cmd_clear_chat_history"
+msgstr ""
+
+msgid "chat_gui_cmd_persist_load_help"
+msgstr ""
+
+msgid "chat_gui_cmd_persist_save_help"
+msgstr ""
+
+msgid "chat_help_cmd_param_optional"
+msgstr ""
+
+msgid "chat_help_indented_line"
+msgstr ""
+
+msgid "chat_help_nonnumericparam_desc"
+msgstr ""
+
+msgid "chat_help_numericparam_desc"
+msgstr ""
+
+msgid "chat_help_type_boolean"
+msgstr ""
+
+msgid "chat_help_type_double"
+msgstr ""
+
+msgid "chat_help_type_float"
+msgstr ""
+
+msgid "chat_help_type_integer"
+msgstr ""
+
+msgid "chat_help_type_string"
+msgstr ""
+
+msgid "chat_input_bind_expected_linear"
+msgstr ""
+
+msgid "chat_input_bind_expected_switch"
+msgstr ""
+
+msgid "chat_input_bind_invalid_binding"
+msgstr ""
+
+msgid "chat_input_bind_not_bound"
+msgstr ""
+
+msgid "chat_input_bind_ok"
+msgstr ""
+
+msgid "chat_input_cmd_bind_help"
+msgstr ""
+
+msgid "chat_input_cmd_bind_param_command_desc"
+msgstr ""
+
+msgid "chat_input_cmd_bind_param_key_desc"
+msgstr ""
+
+msgid "chat_input_player_alias"
+msgstr ""
+
+msgid "chat_interpreter_cmd_desc_clear"
+msgstr ""
+
+msgid "chat_interpreter_cmd_desc_exec"
+msgstr ""
+
+msgid "chat_interpreter_cmd_desc_help"
+msgstr ""
+
+msgid "chat_interpreter_cmd_desc_log"
+msgstr ""
+
+msgid "chat_interpreter_cmd_desc_quit"
+msgstr ""
+
+msgid "chat_interpreter_cmd_exec_error_file_not_found"
+msgstr ""
+
+msgid "chat_interpreter_cmd_exec_error_reading_file"
+msgstr ""
+
+msgid "chat_interpreter_cmd_exec_param_filename_desc"
+msgstr ""
+
+msgid "chat_interpreter_cmd_help_param_command_desc"
+msgstr ""
+
+msgid "chat_interpreter_cmd_log_param_text"
+msgstr ""
+
+msgid "chat_rendering_2d_response_result"
+msgstr ""
+
+msgid "chat_resource_2d_response_result"
+msgstr ""
+
+msgid "chat_resource_cmd_r_sprite_desc"
+msgstr ""
+
+msgid "chat_resource_cmd_r_sprite_param_texture_desc"
+msgstr ""
+
+msgid "chat_resource_cmd_r_text_desc"
+msgstr ""
+
+msgid "chat_resource_cmd_r_text_param_thetext_desc"
+msgstr ""
+
+msgid "chat_scenegraph_2d_response_result"
+msgstr ""
+
+msgid "chat_scenegraph_cmd_s_sprite_desc"
+msgstr ""
+
+msgid "chat_scenegraph_cmd_s_sprite_param_texture_desc"
+msgstr ""
+
+msgid "chat_scenegraph_cmd_s_text_desc"
+msgstr ""
+
+msgid "chat_scenegraph_cmd_s_text_param_thetext_desc"
+msgstr ""
+
+msgid "chat_server_cmd_annotation_add_desc"
+msgstr ""
+
+msgid "chat_server_cmd_annotation_add_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_annotation_list_desc"
+msgstr ""
+
+msgid "chat_server_cmd_annotation_remove_desc"
+msgstr ""
+
+msgid "chat_server_cmd_annotation_remove_param_id_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_help_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_help_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_hide_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_hide_param_hide_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_report_desc"
+msgstr ""
+
+msgid "chat_server_cmd_gm_report_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_ignore_desc"
+msgstr ""
+
+msgid "chat_server_cmd_ignore_param_nick_desc"
+msgstr ""
+
+msgid "chat_server_cmd_ignore_param_reason_desc"
+msgstr ""
+
+msgid "chat_server_cmd_ignore_param_type_desc"
+msgstr ""
+
+msgid "chat_server_cmd_ignorelist_desc"
+msgstr ""
+
+msgid "chat_server_cmd_msg_desc"
+msgstr ""
+
+msgid "chat_server_cmd_msg_param_nick1_desc"
+msgstr ""
+
+msgid "chat_server_cmd_msg_param_nick2_desc"
+msgstr ""
+
+msgid "chat_server_cmd_msg_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_roll_clan_desc"
+msgstr ""
+
+msgid "chat_server_cmd_roll_desc"
+msgstr ""
+
+msgid "chat_server_cmd_roll_param_desc"
+msgstr ""
+
+msgid "chat_server_cmd_roll_party_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_admin_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_agon_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_chaos_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_clan_alliance_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_clan_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_clan_officers_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_clan_officers_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_clan_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_global_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_global_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_gm_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_gm_events_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_mgm_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_newplayers_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_node_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_node_param_node_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_node_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_order_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_party_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_party_param_text_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_recruiting_desc"
+msgstr ""
+
+msgid "chat_server_cmd_say_trade_desc"
+msgstr ""
+
+msgid "chat_server_cmd_team_desc"
+msgstr ""
+
+msgid "chat_server_cmd_team_param1_desc"
+msgstr ""
+
+msgid "chat_server_cmd_team_param2_desc"
+msgstr ""
+
+msgid "chat_server_cmd_team_param3_desc"
+msgstr ""
+
+msgid "chat_server_cmd_test1_desc"
+msgstr ""
+
+msgid "chat_server_cmd_test2_desc"
+msgstr ""
+
+msgid "chat_server_cmd_test3_desc"
+msgstr ""
+
+msgid "chat_server_cmd_test4_desc"
+msgstr ""
+
+msgid "chat_server_cmd_test5_desc"
+msgstr ""
+
+msgid "chat_server_cmd_unignore_desc"
+msgstr ""
+
+msgid "chat_server_cmd_unignore_param_nick_desc"
+msgstr ""
+
+msgid "chat_server_prop_n_additive_updatecheck_desc"
+msgstr ""
+
+msgid "chat_server_prop_n_client_to_server_updaterate_desc"
+msgstr ""
+
+msgid "chat_server_prop_n_server_to_client_updaterate_desc"
+msgstr ""
+
+msgid "chat_server_prop_n_subscriber_updaterate_desc"
+msgstr ""
+
+msgid "chat_special_cmd_a_city_load"
+msgstr ""
+
+msgid "chat_special_cmd_g_camera_path"
+msgstr ""
+
+msgid "chat_special_cmd_g_load_environment"
+msgstr ""
+
+msgid "chat_sys_skill_failed"
+msgstr ""
+
+msgid "chat_sys_skill_succeeded"
+msgstr ""
+
+msgid "chat_sys_vendor_failed"
+msgstr ""
+
+msgid "chat_sys_vendor_succeeded"
+msgstr ""
+
+msgid "chat_window_fps"
+msgstr ""
+
+msgid "chat_window_ping"
+msgstr ""
+
+msgid "chat_window_title"
+msgstr ""
+
+msgid "choose_appearance"
+msgstr ""
+
+msgid "choose_character_name"
+msgstr ""
+
+msgid "choose_gender"
+msgstr ""
+
+msgid "choose_your_race"
+msgstr ""
+
+msgid "citybuilding_categories_close"
+msgstr ""
+
+msgid "citybuilding_categories_view"
+msgstr ""
+
+msgid "citybuilding_item_label"
+msgstr ""
+
+msgid "citybuilding_items_create"
+msgstr ""
+
+msgid "citybuilding_items_return"
+msgstr ""
+
+msgid "citybuilding_items_upgrade"
+msgstr ""
+
+msgid "citybuilding_maintenance_payment"
+msgstr ""
+
+msgid "citybuilding_window_title"
+msgstr ""
+
+msgid "clan_activity_window_active_start_time"
+msgstr ""
+
+msgid "clan_activity_window_constraint_error"
+msgstr ""
+
+msgid "clan_activity_window_constraint_overlap_error"
+msgstr ""
+
+msgid "clan_activity_window_constraint_same_time_error"
+msgstr ""
+
+msgid "clan_activity_window_display_current_time"
+msgstr ""
+
+msgid "clan_activity_window_display_none_found"
+msgstr ""
+
+msgid "clan_activity_window_display_stage_active"
+msgstr ""
+
+msgid "clan_activity_window_display_stage_inactive"
+msgstr ""
+
+msgid "clan_activity_window_display_stage_invulnerable"
+msgstr ""
+
+msgid "clan_activity_window_display_stage_name_and_range"
+msgstr ""
+
+msgid "clan_activity_window_display_title"
+msgstr ""
+
+msgid "clan_activity_window_invulnerable_start_time"
+msgstr ""
+
+msgid "clan_activity_window_window_description"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_eight"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_five"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_four"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_eight"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_five"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_four"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_nine"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_one"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_seven"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_six"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_ten"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_three"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neg_two"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_neutral"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_nine"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_one"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_seven"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_six"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_ten"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_three"
+msgstr ""
+
+msgid "clan_political_relationship_standing_description_two"
+msgstr ""
+
+msgid "clan_political_relationship_standing_value_0"
+msgstr ""
+
+msgid "clan_role_description_auditor"
+msgstr ""
+
+msgid "clan_role_description_city_manager"
+msgstr ""
+
+msgid "clan_role_description_communications_officer"
+msgstr ""
+
+msgid "clan_role_description_construction_auditor"
+msgstr ""
+
+msgid "clan_role_description_construction_manager"
+msgstr ""
+
+msgid "clan_role_description_diplomat"
+msgstr ""
+
+msgid "clan_role_description_director"
+msgstr ""
+
+msgid "clan_role_description_member"
+msgstr ""
+
+msgid "clan_role_description_none"
+msgstr ""
+
+msgid "clan_role_description_personnel_auditing"
+msgstr ""
+
+msgid "clan_role_description_personnel_manager"
+msgstr ""
+
+msgid "clan_role_description_security_officer"
+msgstr ""
+
+msgid "clan_role_description_vault_one_container_take"
+msgstr ""
+
+msgid "clan_role_description_vault_one_query"
+msgstr ""
+
+msgid "clan_role_description_vault_one_take"
+msgstr ""
+
+msgid "clan_role_description_vault_three_container_take"
+msgstr ""
+
+msgid "clan_role_description_vault_three_query"
+msgstr ""
+
+msgid "clan_role_description_vault_three_take"
+msgstr ""
+
+msgid "clan_role_description_vault_two_container_take"
+msgstr ""
+
+msgid "clan_role_description_vault_two_query"
+msgstr ""
+
+msgid "clan_role_description_vault_two_take"
+msgstr ""
+
+msgid "clan_role_description_view_diplomacy"
+msgstr ""
+
+msgid "clan_role_description_warfare_specialist"
+msgstr ""
+
+msgid "clan_role_name_auditor"
+msgstr ""
+
+msgid "clan_role_name_city_manager"
+msgstr ""
+
+msgid "clan_role_name_communications_officer"
+msgstr ""
+
+msgid "clan_role_name_construction_auditor"
+msgstr ""
+
+msgid "clan_role_name_construction_manager"
+msgstr ""
+
+msgid "clan_role_name_diplomat"
+msgstr ""
+
+msgid "clan_role_name_director"
+msgstr ""
+
+msgid "clan_role_name_member"
+msgstr ""
+
+msgid "clan_role_name_none"
+msgstr ""
+
+msgid "clan_role_name_personnel_auditing"
+msgstr ""
+
+msgid "clan_role_name_personnel_manager"
+msgstr ""
+
+msgid "clan_role_name_security_officer"
+msgstr ""
+
+msgid "clan_role_name_vault_one_container_take"
+msgstr ""
+
+msgid "clan_role_name_vault_one_query"
+msgstr ""
+
+msgid "clan_role_name_vault_one_take"
+msgstr ""
+
+msgid "clan_role_name_vault_three_container_take"
+msgstr ""
+
+msgid "clan_role_name_vault_three_query"
+msgstr ""
+
+msgid "clan_role_name_vault_three_take"
+msgstr ""
+
+msgid "clan_role_name_vault_two_container_take"
+msgstr ""
+
+msgid "clan_role_name_vault_two_query"
+msgstr ""
+
+msgid "clan_role_name_vault_two_take"
+msgstr ""
+
+msgid "clan_role_name_view_diplomacy"
+msgstr ""
+
+msgid "clan_role_name_warfare_specialist"
+msgstr ""
+
+msgid "clan_window_browse_clans_headers_clan_name"
+msgstr ""
+
+msgid "clan_window_browse_clans_headers_member_count"
+msgstr ""
+
+msgid "clan_window_clan_info_apply_to_clan"
+msgstr ""
+
+msgid "clan_window_clan_info_clan_motto"
+msgstr ""
+
+msgid "clan_window_clan_info_member_count"
+msgstr ""
+
+msgid "clan_window_clan_info_politics_relations_standing"
+msgstr ""
+
+msgid "clan_window_create_clan"
+msgstr ""
+
+msgid "clan_window_diplomacy_bank_policy_all_access"
+msgstr ""
+
+msgid "clan_window_diplomacy_bank_policy_all_but_enemies"
+msgstr ""
+
+msgid "clan_window_diplomacy_bank_policy_allies"
+msgstr ""
+
+msgid "clan_window_diplomacy_bank_policy_clan_only"
+msgstr ""
+
+msgid "clan_window_diplomacy_bank_policy_title"
+msgstr ""
+
+msgid "clan_window_diplomacy_guard_tower_policy_kill_all_but_allies"
+msgstr ""
+
+msgid "clan_window_diplomacy_guard_tower_policy_kill_only_war_targets"
+msgstr ""
+
+msgid "clan_window_diplomacy_guard_tower_policy_never_attack_anyone"
+msgstr ""
+
+msgid "clan_window_diplomacy_guard_tower_policy_title"
+msgstr ""
+
+msgid "clan_window_general_accept_new_members"
+msgstr ""
+
+msgid "clan_window_general_alignment"
+msgstr ""
+
+msgid "clan_window_general_allow"
+msgstr ""
+
+msgid "clan_window_general_allowed_alignment"
+msgstr ""
+
+msgid "clan_window_general_allowed_races"
+msgstr ""
+
+msgid "clan_window_general_apply_changes"
+msgstr ""
+
+msgid "clan_window_general_cities"
+msgstr ""
+
+msgid "clan_window_general_members"
+msgstr ""
+
+msgid "clan_window_general_options"
+msgstr ""
+
+msgid "clan_window_general_popularity"
+msgstr ""
+
+msgid "clan_window_general_races"
+msgstr ""
+
+msgid "clan_window_glyphs_global_tax"
+msgstr ""
+
+msgid "clan_window_glyphs_invalid_area_tax_multiple"
+msgstr ""
+
+msgid "clan_window_glyphs_invalid_global_tax_multiple"
+msgstr ""
+
+msgid "clan_window_header_filter"
+msgstr ""
+
+msgid "clan_window_headers_action"
+msgstr ""
+
+msgid "clan_window_headers_clan"
+msgstr ""
+
+msgid "clan_window_headers_player"
+msgstr ""
+
+msgid "clan_window_headers_races"
+msgstr ""
+
+msgid "clan_window_headers_rank"
+msgstr ""
+
+msgid "clan_window_holdings_area"
+msgstr ""
+
+msgid "clan_window_holdings_binds_remove_player"
+msgstr ""
+
+msgid "clan_window_holdings_city"
+msgstr ""
+
+msgid "clan_window_holdings_city_binds"
+msgstr ""
+
+msgid "clan_window_holdings_make_mayor"
+msgstr ""
+
+msgid "clan_window_holdings_mayor"
+msgstr ""
+
+msgid "clan_window_holdings_population"
+msgstr ""
+
+msgid "clan_window_holdings_power"
+msgstr ""
+
+msgid "clan_window_holdings_vulnerable"
+msgstr ""
+
+msgid "clan_window_members_accept"
+msgstr ""
+
+msgid "clan_window_members_applications"
+msgstr ""
+
+msgid "clan_window_members_can_only_have_one_supreme_general"
+msgstr ""
+
+msgid "clan_window_members_context_menu_ban_member"
+msgstr ""
+
+msgid "clan_window_members_context_menu_edit_rank"
+msgstr ""
+
+msgid "clan_window_members_context_menu_kick_member"
+msgstr ""
+
+msgid "clan_window_members_context_menu_leave_clan"
+msgstr ""
+
+msgid "clan_window_members_headers_alignment"
+msgstr ""
+
+msgid "clan_window_members_headers_gender"
+msgstr ""
+
+msgid "clan_window_members_headers_name"
+msgstr ""
+
+msgid "clan_window_members_headers_race"
+msgstr ""
+
+msgid "clan_window_members_headers_status"
+msgstr ""
+
+msgid "clan_window_members_members"
+msgstr ""
+
+msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
+msgstr ""
+
+msgid "clan_window_members_reject"
+msgstr ""
+
+msgid "clan_window_members_resign_dialog_description"
+msgstr ""
+
+msgid "clan_window_members_resign_dialog_title"
+msgstr ""
+
+msgid "clan_window_members_status_offline"
+msgstr ""
+
+msgid "clan_window_members_status_online"
+msgstr ""
+
+msgid "clan_window_news_headers_date"
+msgstr ""
+
+msgid "clan_window_news_headers_event"
+msgstr ""
+
+msgid "clan_window_tabs_activity_window"
+msgstr ""
+
+msgid "clan_window_tabs_browse_clans"
+msgstr ""
+
+msgid "clan_window_tabs_diplomacy"
+msgstr ""
+
+msgid "clan_window_tabs_general"
+msgstr ""
+
+msgid "clan_window_tabs_holdings"
+msgstr ""
+
+msgid "clan_window_tabs_members"
+msgstr ""
+
+msgid "clan_window_tabs_news"
+msgstr ""
+
+msgid "clan_window_tabs_role_management"
+msgstr ""
+
+msgid "clan_window_tabs_rune_glyphs"
+msgstr ""
+
+msgid "clan_window_tabs_vault"
+msgstr ""
+
+msgid "clan_window_vault_contribution_deposit"
+msgstr ""
+
+msgid "clan_window_vault_contribution_withdraw"
+msgstr ""
+
+msgid "clan_window_vault_date"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_challenge"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_fortress"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_player"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_station"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_village"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_plural_war"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_challenge"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_fortress"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_player"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_station"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_village"
+msgstr ""
+
+msgid "clan_window_vault_inventory_type_names_singular_war"
+msgstr ""
+
+msgid "clan_window_vault_period_all"
+msgstr ""
+
+msgid "clan_window_vault_period_day"
+msgstr ""
+
+msgid "clan_window_vault_period_month"
+msgstr ""
+
+msgid "clan_window_vault_period_week"
+msgstr ""
+
+msgid "clan_window_vault_quantity"
+msgstr ""
+
+msgid "clan_window_vault_resource"
+msgstr ""
+
+msgid "clan_window_vault_vault"
+msgstr ""
+
+msgid "clans_window_title"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "component_targeting_chaos_city_stone"
+msgstr ""
+
+msgid "component_targeting_controlled_by"
+msgstr ""
+
+msgid "component_targeting_dye_colors"
+msgstr ""
+
+msgid "component_targeting_dye_colors_primary"
+msgstr ""
+
+msgid "component_targeting_dye_colors_secondary"
+msgstr ""
+
+msgid "component_targeting_enchantments"
+msgstr ""
+
+msgid "component_targeting_gem_enchantment"
+msgstr ""
+
+msgid "component_targeting_glyph_alt_use_to_claim"
+msgstr ""
+
+msgid "component_targeting_glyph_attack_time_remaining"
+msgstr ""
+
+msgid "component_targeting_glyph_challenge_active"
+msgstr ""
+
+msgid "component_targeting_glyph_not_vulnerable"
+msgstr ""
+
+msgid "component_targeting_glyph_time_remaining"
+msgstr ""
+
+msgid "component_targeting_glyph_use_item_to_challenge"
+msgstr ""
+
+msgid "component_targeting_glyph_use_item_to_challenge_line_2"
+msgstr ""
+
+msgid "component_targeting_glyph_vulnerable_for_attack"
+msgstr ""
+
+msgid "component_targeting_glyph_wait_for_timer_to_finish"
+msgstr ""
+
+msgid "component_targeting_obelisk_altar_restoring"
+msgstr ""
+
+msgid "component_targeting_obelisk_altar_under_attack_countdown"
+msgstr ""
+
+msgid "component_targeting_obelisk_altar_vulnerable"
+msgstr ""
+
+msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
+msgstr ""
+
+msgid "component_targeting_owned_by"
+msgstr ""
+
+msgid "component_targeting_proc_enchantment"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_city_postfix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_city_prefix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_city_wall_postfix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_city_wall_prefix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_nocity_postfix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_nocity_prefix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_nocity_wall_postfix"
+msgstr ""
+
+msgid "conquest_attack_attacker_vulnerable_nocity_wall_prefix"
+msgstr ""
+
+msgid "conquest_attack_challenge_attacker_count_label"
+msgstr ""
+
+msgid "conquest_attack_challenge_attacker_stones_label"
+msgstr ""
+
+msgid "conquest_attack_challenge_defender_clan_name_label"
+msgstr ""
+
+msgid "conquest_attack_challenge_defender_walls_label"
+msgstr ""
+
+msgid "conquest_attack_challenge_phase_name_label"
+msgstr ""
+
+msgid "conquest_attack_countdown_timer_postfix"
+msgstr ""
+
+msgid "conquest_attack_countdown_timer_prefix"
+msgstr ""
+
+msgid "conquest_attack_countdown_timer_walls_postfix"
+msgstr ""
+
+msgid "conquest_attack_countdown_timer_walls_prefix"
+msgstr ""
+
+msgid "conquest_attack_rabbit_stage_one_postfix"
+msgstr ""
+
+msgid "conquest_attack_rabbit_stage_one_prefix"
+msgstr ""
+
+msgid "conquest_attack_rabbit_stage_two_postfix"
+msgstr ""
+
+msgid "conquest_attack_rabbit_stage_two_prefix"
+msgstr ""
+
+msgid "conquest_attack_siege_stone_placement_postfix"
+msgstr ""
+
+msgid "conquest_attack_siege_stone_placement_prefix"
+msgstr ""
+
+msgid "conquest_attack_stage_one_postfix"
+msgstr ""
+
+msgid "conquest_attack_stage_one_prefix"
+msgstr ""
+
+msgid "conquest_attack_stage_two_postfix"
+msgstr ""
+
+msgid "conquest_attack_stage_two_prefix"
+msgstr ""
+
+msgid "conquest_defence_challenge_defender_walls_label"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_city_postfix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_city_prefix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_city_wall_postfix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_city_wall_prefix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_nocity_postfix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_nocity_prefix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_nocity_wall_postfix"
+msgstr ""
+
+msgid "conquest_defend_attacker_vulnerable_nocity_wall_prefix"
+msgstr ""
+
+msgid "conquest_defend_countdown_timer_postfix"
+msgstr ""
+
+msgid "conquest_defend_countdown_timer_prefix"
+msgstr ""
+
+msgid "conquest_defend_countdown_timer_walls_postfix"
+msgstr ""
+
+msgid "conquest_defend_countdown_timer_walls_prefix"
+msgstr ""
+
+msgid "conquest_defend_rabbit_stage_one_postfix"
+msgstr ""
+
+msgid "conquest_defend_rabbit_stage_one_prefix"
+msgstr ""
+
+msgid "conquest_defend_rabbit_stage_two_postfix"
+msgstr ""
+
+msgid "conquest_defend_rabbit_stage_two_prefix"
+msgstr ""
+
+msgid "conquest_defend_siege_stone_placement_postfix"
+msgstr ""
+
+msgid "conquest_defend_siege_stone_placement_prefix"
+msgstr ""
+
+msgid "conquest_defend_stage_one_postfix"
+msgstr ""
+
+msgid "conquest_defend_stage_one_prefix"
+msgstr ""
+
+msgid "conquest_defend_stage_two_postfix"
+msgstr ""
+
+msgid "conquest_defend_stage_two_prefix"
+msgstr ""
+
+msgid "conquest_label_no_challenges"
+msgstr ""
+
+msgid "conquest_window_title"
+msgstr ""
+
+msgid "context_menu_bind_to_chaos_stone"
+msgstr ""
+
+msgid "context_menu_bind_to_city"
+msgstr ""
+
+msgid "context_menu_build_city"
+msgstr ""
+
+msgid "context_menu_chaos_bindstone_attack"
+msgstr ""
+
+msgid "context_menu_chaos_bindstone_menu"
+msgstr ""
+
+msgid "context_menu_city_maintenance"
+msgstr ""
+
+msgid "context_menu_invite_player_to_house"
+msgstr ""
+
+msgid "context_menu_invite_to_clan"
+msgstr ""
+
+msgid "context_menu_invite_to_party"
+msgstr ""
+
+msgid "context_menu_open_billboard"
+msgstr ""
+
+msgid "context_menu_open_clan_account"
+msgstr ""
+
+msgid "context_menu_open_clan_account2"
+msgstr ""
+
+msgid "context_menu_open_clan_account3"
+msgstr ""
+
+msgid "context_menu_open_clan_account4"
+msgstr ""
+
+msgid "context_menu_open_clan_account5"
+msgstr ""
+
+msgid "context_menu_open_local_safe"
+msgstr ""
+
+msgid "context_menu_open_market"
+msgstr ""
+
+msgid "context_menu_open_personal_account"
+msgstr ""
+
+msgid "context_menu_open_personal_account2"
+msgstr ""
+
+msgid "context_menu_open_personal_account2_disabled_premium"
+msgstr ""
+
+msgid "context_menu_pay_house_taxes"
+msgstr ""
+
+msgid "context_menu_start_player_trade"
+msgstr ""
+
+msgid "context_menu_transfer_house_to_player"
+msgstr ""
+
+msgid "context_menu_unspawn_object"
+msgstr ""
+
+msgid "context_menu_whisper_to_player"
+msgstr ""
+
+msgid "craft_prompt_window_title"
+msgstr ""
+
+msgid "crafting_all_button_text"
+msgstr ""
+
+msgid "crafting_amount_label_text"
+msgstr ""
+
+msgid "crafting_chances_label_text"
+msgstr ""
+
+msgid "crafting_create_button_text"
+msgstr ""
+
+msgid "crafting_duration_label_text"
+msgstr ""
+
+msgid "crafting_items_label_text"
+msgstr ""
+
+msgid "crafting_recipe_label_text"
+msgstr ""
+
+msgid "crafting_window_title"
+msgstr ""
+
+msgid "create_char"
+msgstr ""
+
+msgid "decline"
+msgstr ""
+
+msgid "display_modes_borderless"
+msgstr ""
+
+msgid "display_modes_full_screen"
+msgstr ""
+
+msgid "display_modes_windowed"
+msgstr ""
+
+msgid "distance_kilometers"
+msgstr ""
+
+msgid "distance_meters"
+msgstr ""
+
+msgid "do_not_ask_again"
+msgstr ""
+
+msgid "emote_panel_bind_prompt"
+msgstr ""
+
+msgid "emote_panel_button_bind"
+msgstr ""
+
+msgid "emote_panel_button_preview"
+msgstr ""
+
+msgid "emote_panel_combat_refuse"
+msgstr ""
+
+msgid "emote_panel_tab_base"
+msgstr ""
+
+msgid "emote_panel_window_title"
+msgstr ""
+
+msgid "empty"
+msgstr ""
+
+msgid "enchanting_effect_none"
+msgstr ""
+
+msgid "enchanting_enchant_button_text"
+msgstr ""
+
+msgid "enchanting_item_to_enchant"
+msgstr ""
+
+msgid "enchanting_itemlist_text"
+msgstr ""
+
+msgid "enchanting_no_item_to_enchant"
+msgstr ""
+
+msgid "enchanting_slot_ingredient_1"
+msgstr ""
+
+msgid "enchanting_slot_ingredient_2"
+msgstr ""
+
+msgid "enchanting_slot_ingredient_3"
+msgstr ""
+
+msgid "enchanting_slot_ingredient_rare"
+msgstr ""
+
+msgid "enchanting_tips_text"
+msgstr ""
+
+msgid "enchanting_type_postfix"
+msgstr ""
+
+msgid "enchanting_type_prefix"
+msgstr ""
+
+msgid "enchanting_type_transmutation"
+msgstr ""
+
+msgid "enchanting_window_title"
+msgstr ""
+
+msgid "error_name_in_use"
+msgstr ""
+
+msgid "error_name_invalid_characters"
+msgstr ""
+
+msgid "error_name_not_long_enough"
+msgstr ""
+
+msgid "error_name_reserved_word"
+msgstr ""
+
+msgid "error_name_server_error"
+msgstr ""
+
+msgid "error_name_too_long"
+msgstr ""
+
+msgid "error_name_too_many_digits"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "feature_not_implemented"
+msgstr ""
+
+msgid "gender_female"
+msgstr ""
+
+msgid "gender_male"
+msgstr ""
+
+msgid "glyph_rule_description_allies"
+msgstr ""
+
+msgid "glyph_rule_description_clan_only"
+msgstr ""
+
+msgid "glyph_rule_description_no_rules"
+msgstr ""
+
+msgid "glyph_rule_description_tax_amount"
+msgstr ""
+
+msgid "glyph_rule_description_tax_option"
+msgstr ""
+
+msgid "glyph_rule_name_allies"
+msgstr ""
+
+msgid "glyph_rule_name_clan_only"
+msgstr ""
+
+msgid "glyph_rule_name_no_rules"
+msgstr ""
+
+msgid "glyph_rule_name_tax_amount"
+msgstr ""
+
+msgid "glyph_rule_name_tax_option"
+msgstr ""
+
+msgid "health"
+msgstr ""
+
+msgid "help_window_title"
+msgstr ""
+
+msgid "holding_maintenance_due"
+msgstr ""
+
+msgid "holding_maintenance_due_days"
+msgstr ""
+
+msgid "holding_maintenance_due_hours"
+msgstr ""
+
+msgid "holding_maintenance_due_minutes"
+msgstr ""
+
+msgid "holding_maintenance_due_seconds"
+msgstr ""
+
+msgid "holding_maintenance_due_weeks"
+msgstr ""
+
+msgid "holding_maintenance_payment_due_by"
+msgstr ""
+
+msgid "holding_maintenance_payment_not_due"
+msgstr ""
+
+msgid "hotbar_button_tooltip_browse"
+msgstr ""
+
+msgid "hotbar_button_tooltip_keystroke"
+msgstr ""
+
+msgid "hotbar_colnumber_tooltip"
+msgstr ""
+
+msgid "hotbar_empty_selected_skill_tooltip1"
+msgstr ""
+
+msgid "hotbar_empty_selected_skill_tooltip2"
+msgstr ""
+
+msgid "hotbar_emptybutton_tooltip1"
+msgstr ""
+
+msgid "hotbar_emptybutton_tooltip2"
+msgstr ""
+
+msgid "hotbar_entry_closebutton_tooltip1"
+msgstr ""
+
+msgid "hotbar_entry_closebutton_tooltip2"
+msgstr ""
+
+msgid "hotbar_entry_options_dialog_force_switch_tooltip"
+msgstr ""
+
+msgid "hotbar_entry_settingbutton_tooltip1"
+msgstr ""
+
+msgid "hotbar_entry_settingbutton_tooltip2"
+msgstr ""
+
+msgid "hotbar_leftarrow_tooltip"
+msgstr ""
+
+msgid "hotbar_rightarrow_tooltip"
+msgstr ""
+
+msgid "hotbar_slot_option_cycle_mode_cycle"
+msgstr ""
+
+msgid "hotbar_slot_option_cycle_mode_first_available"
+msgstr ""
+
+msgid "hotbar_slot_option_force_weapon_switch"
+msgstr ""
+
+msgid "hotbar_slot_option_switch_column_slot"
+msgstr ""
+
+msgid "hotbar_slot_option_trigger_weapon_bar_slot"
+msgstr ""
+
+msgid "hud_alignment_title"
+msgstr ""
+
+msgid "hud_full_name"
+msgstr ""
+
+msgid "hud_member_of_clan_name"
+msgstr ""
+
+msgid "hud_special_title"
+msgstr ""
+
+msgid "hud_title_in_clan_and_clan_name"
+msgstr ""
+
+msgid "interaction_barber_buy_features_button"
+msgstr ""
+
+msgid "interaction_barber_cancel_button"
+msgstr ""
+
+msgid "interaction_barber_subtitle"
+msgstr ""
+
+msgid "interaction_buy_button"
+msgstr ""
+
+msgid "interaction_buy_purchase_confirmation"
+msgstr ""
+
+msgid "interaction_buy_skill_confirmation"
+msgstr ""
+
+msgid "interaction_buy_slot_confirmation"
+msgstr ""
+
+msgid "interaction_buy_total_label"
+msgstr ""
+
+msgid "interaction_change_buy_slot_button"
+msgstr ""
+
+msgid "interaction_change_swap_weapon"
+msgstr ""
+
+msgid "interaction_change_weapon_button"
+msgstr ""
+
+msgid "interaction_change_weapon_confirmation"
+msgstr ""
+
+msgid "interaction_change_weapon_dupe_item"
+msgstr ""
+
+msgid "interaction_change_weapon_money"
+msgstr ""
+
+msgid "interaction_change_weapon_not_legendary"
+msgstr ""
+
+msgid "interaction_change_weapon_select_item"
+msgstr ""
+
+msgid "interaction_change_weapon_unequip_item"
+msgstr ""
+
+msgid "interaction_disable_hit_protection"
+msgstr ""
+
+msgid "interaction_gmhelp_button"
+msgstr ""
+
+msgid "interaction_gmreport_button"
+msgstr ""
+
+msgid "interaction_paid_holding_maintenance"
+msgstr ""
+
+msgid "interaction_repair_button"
+msgstr ""
+
+msgid "interaction_repair_drag_here"
+msgstr ""
+
+msgid "interaction_repair_total_label"
+msgstr ""
+
+msgid "interaction_sell_button"
+msgstr ""
+
+msgid "interaction_sell_drag_here"
+msgstr ""
+
+msgid "interaction_sell_total_label"
+msgstr ""
+
+msgid "interaction_service_button_buy"
+msgstr ""
+
+msgid "interaction_service_total_label"
+msgstr ""
+
+msgid "interaction_skill_extension_allow_jumping"
+msgstr ""
+
+msgid "interaction_skill_extension_allow_longer_max_travel"
+msgstr ""
+
+msgid "interaction_skill_extension_extra_damage"
+msgstr ""
+
+msgid "interaction_skill_extension_faster_missile"
+msgstr ""
+
+msgid "interaction_spell_extension_allow_jumping"
+msgstr ""
+
+msgid "interaction_spell_extension_allow_longer_max_travel"
+msgstr ""
+
+msgid "interaction_spell_extension_extra_damage"
+msgstr ""
+
+msgid "interaction_spell_extension_faster_missile"
+msgstr ""
+
+msgid "interaction_spell_extension_price_label"
+msgstr ""
+
+msgid "interaction_tab_title_archery_extension"
+msgstr ""
+
+msgid "interaction_tab_title_barber"
+msgstr ""
+
+msgid "interaction_tab_title_buy"
+msgstr ""
+
+msgid "interaction_tab_title_change_weapon"
+msgstr ""
+
+msgid "interaction_tab_title_melee_extension"
+msgstr ""
+
+msgid "interaction_tab_title_owned_vendor_manage"
+msgstr ""
+
+msgid "interaction_tab_title_owned_vendor_sell"
+msgstr ""
+
+msgid "interaction_tab_title_quests"
+msgstr ""
+
+msgid "interaction_tab_title_repair"
+msgstr ""
+
+msgid "interaction_tab_title_sell"
+msgstr ""
+
+msgid "interaction_tab_title_skill_extension"
+msgstr ""
+
+msgid "interaction_tab_title_training"
+msgstr ""
+
+msgid "interaction_view_button"
+msgstr ""
+
+msgid "interaction_window_title"
+msgstr ""
+
+msgid "inventory_batch_delete_confirmation"
+msgstr ""
+
+msgid "inventory_batch_move_cooldown_error"
+msgstr ""
+
+msgid "inventory_item_drop_confirmation"
+msgstr ""
+
+msgid "inventory_item_drop_on_ground_confirmation"
+msgstr ""
+
+msgid "inventory_item_drop_on_ground_failed"
+msgstr ""
+
+msgid "inventory_item_split_drop_confirmation"
+msgstr ""
+
+msgid "inventory_item_split_drop_on_ground_confirmation"
+msgstr ""
+
+msgid "inventory_type_backpack"
+msgstr ""
+
+msgid "inventory_type_bank"
+msgstr ""
+
+msgid "inventory_type_bank_extension"
+msgstr ""
+
+msgid "inventory_type_clan_vault4"
+msgstr ""
+
+msgid "inventory_type_clan_vault5"
+msgstr ""
+
+msgid "inventory_type_clan_vault_one"
+msgstr ""
+
+msgid "inventory_type_clan_vault_three"
+msgstr ""
+
+msgid "inventory_type_clan_vault_two"
+msgstr ""
+
+msgid "inventory_type_dropped_item"
+msgstr ""
+
+msgid "inventory_type_internal_container"
+msgstr ""
+
+msgid "inventory_type_loot_monster"
+msgstr ""
+
+msgid "inventory_type_loot_player"
+msgstr ""
+
+msgid "inventory_type_paperdoll"
+msgstr ""
+
+msgid "inventory_type_player_clan_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_house_bank"
+msgstr ""
+
+msgid "inventory_type_player_lootable_clan_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_lootable_party_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_lootable_personal_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_lootable_ship_clan_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_lootable_ship_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_party_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_personal_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_ship_clan_strong_box"
+msgstr ""
+
+msgid "inventory_type_player_ship_fish_box"
+msgstr ""
+
+msgid "inventory_type_player_ship_strong_box"
+msgstr ""
+
+msgid "inventory_type_rune_book"
+msgstr ""
+
+msgid "inventory_type_ship_floating_strong_box"
+msgstr ""
+
+msgid "inventory_type_woodencrate"
+msgstr ""
+
+msgid "inventory_volumebar_title"
+msgstr ""
+
+msgid "inventory_weightbar_title"
+msgstr ""
+
+msgid "item_acid_protection"
+msgstr ""
+
+msgid "item_arcane_protection"
+msgstr ""
+
+msgid "item_arrow_protection"
+msgstr ""
+
+msgid "item_attack_time"
+msgstr ""
+
+msgid "item_attribute_bonus_greater"
+msgstr ""
+
+msgid "item_attribute_bonus_lesser"
+msgstr ""
+
+msgid "item_bludgeoning_protection"
+msgstr ""
+
+msgid "item_cast_time"
+msgstr ""
+
+msgid "item_cold_protection"
+msgstr ""
+
+msgid "item_critical_modifier"
+msgstr ""
+
+msgid "item_damage"
+msgstr ""
+
+msgid "item_durability"
+msgstr ""
+
+msgid "item_durability_value"
+msgstr ""
+
+msgid "item_enchantment_quality"
+msgstr ""
+
+msgid "item_fire_protection"
+msgstr ""
+
+msgid "item_health_gain"
+msgstr ""
+
+msgid "item_holy_protection"
+msgstr ""
+
+msgid "item_impact_protection"
+msgstr ""
+
+msgid "item_infliction_protection"
+msgstr ""
+
+msgid "item_lightning_protection"
+msgstr ""
+
+msgid "item_magic_ward_greater"
+msgstr ""
+
+msgid "item_magic_ward_lesser"
+msgstr ""
+
+msgid "item_maker"
+msgstr ""
+
+msgid "item_malediction_protection"
+msgstr ""
+
+msgid "item_mana_gain"
+msgstr ""
+
+msgid "item_max_quantity"
+msgstr ""
+
+msgid "item_melee_protection_greater"
+msgstr ""
+
+msgid "item_melee_protection_lesser"
+msgstr ""
+
+msgid "item_mental_protection"
+msgstr ""
+
+msgid "item_negative_effect_protection"
+msgstr ""
+
+msgid "item_nourishment_duration"
+msgstr ""
+
+msgid "item_one_handed"
+msgstr ""
+
+msgid "item_piercing_protection"
+msgstr ""
+
+msgid "item_quality"
+msgstr ""
+
+msgid "item_quantity"
+msgstr ""
+
+msgid "item_regeneration_rate"
+msgstr ""
+
+msgid "item_rune_name"
+msgstr ""
+
+msgid "item_rune_position"
+msgstr ""
+
+msgid "item_sell_price"
+msgstr ""
+
+msgid "item_skillevel"
+msgstr ""
+
+msgid "item_slashing_protection"
+msgstr ""
+
+msgid "item_slot_position"
+msgstr ""
+
+msgid "item_split"
+msgstr ""
+
+msgid "item_split_and_drop"
+msgstr ""
+
+msgid "item_split_and_merge"
+msgstr ""
+
+msgid "item_stamina_gain"
+msgstr ""
+
+msgid "item_two_handed"
+msgstr ""
+
+msgid "item_unholy_protection"
+msgstr ""
+
+msgid "item_usage_count"
+msgstr ""
+
+msgid "item_volume"
+msgstr ""
+
+msgid "item_weapon_rank"
+msgstr ""
+
+msgid "item_weight"
+msgstr ""
+
+msgid "journal_friends_accept_status_sent"
+msgstr ""
+
+msgid "journal_friends_add_button"
+msgstr ""
+
+msgid "journal_friends_add_label"
+msgstr ""
+
+msgid "journal_friends_add_status_invalid"
+msgstr ""
+
+msgid "journal_friends_add_status_no_response"
+msgstr ""
+
+msgid "journal_friends_add_status_not_found"
+msgstr ""
+
+msgid "journal_friends_add_status_requested"
+msgstr ""
+
+msgid "journal_friends_add_status_sending"
+msgstr ""
+
+msgid "journal_friends_block_button"
+msgstr ""
+
+msgid "journal_friends_block_label"
+msgstr ""
+
+msgid "journal_friends_block_status_requested"
+msgstr ""
+
+msgid "journal_friends_cancel_status_sent"
+msgstr ""
+
+msgid "journal_friends_empty_blocked"
+msgstr ""
+
+msgid "journal_friends_empty_friends"
+msgstr ""
+
+msgid "journal_friends_empty_incoming"
+msgstr ""
+
+msgid "journal_friends_empty_no_match"
+msgstr ""
+
+msgid "journal_friends_empty_outgoing"
+msgstr ""
+
+msgid "journal_friends_filter_label"
+msgstr ""
+
+msgid "journal_friends_list_empty"
+msgstr ""
+
+msgid "journal_friends_reject_status_sent"
+msgstr ""
+
+msgid "journal_friends_remove_status_failed"
+msgstr ""
+
+msgid "journal_friends_remove_status_requested"
+msgstr ""
+
+msgid "journal_friends_row_accept_button"
+msgstr ""
+
+msgid "journal_friends_row_cancel_button"
+msgstr ""
+
+msgid "journal_friends_row_confirm_button"
+msgstr ""
+
+msgid "journal_friends_row_reject_button"
+msgstr ""
+
+msgid "journal_friends_row_remove_button"
+msgstr ""
+
+msgid "journal_friends_row_status_ignored"
+msgstr ""
+
+msgid "journal_friends_row_unblock_button"
+msgstr ""
+
+msgid "journal_friends_row_whisper_menu"
+msgstr ""
+
+msgid "journal_friends_section_friends"
+msgstr ""
+
+msgid "journal_friends_section_ignored"
+msgstr ""
+
+msgid "journal_friends_section_incoming"
+msgstr ""
+
+msgid "journal_friends_section_offline"
+msgstr ""
+
+msgid "journal_friends_section_online"
+msgstr ""
+
+msgid "journal_friends_section_outgoing"
+msgstr ""
+
+msgid "journal_friends_subtab_friends"
+msgstr ""
+
+msgid "journal_friends_subtab_ignored"
+msgstr ""
+
+msgid "journal_friends_subtab_pending"
+msgstr ""
+
+msgid "journal_friends_tab_title"
+msgstr ""
+
+msgid "journal_friends_unblock_status_requested"
+msgstr ""
+
+msgid "journal_meditation_active_label"
+msgstr ""
+
+msgid "journal_meditation_active_level_label"
+msgstr ""
+
+msgid "journal_meditation_active_none"
+msgstr ""
+
+msgid "journal_meditation_buy_button"
+msgstr ""
+
+msgid "journal_meditation_buy_confirm_button"
+msgstr ""
+
+msgid "journal_meditation_buy_label"
+msgstr ""
+
+msgid "journal_meditation_buy_status_confirm_prompt"
+msgstr ""
+
+msgid "journal_meditation_buy_status_failed"
+msgstr ""
+
+msgid "journal_meditation_buy_status_invalid"
+msgstr ""
+
+msgid "journal_meditation_buy_status_not_enough_gold"
+msgstr ""
+
+msgid "journal_meditation_buy_status_over_cap"
+msgstr ""
+
+msgid "journal_meditation_buy_status_sending"
+msgstr ""
+
+msgid "journal_meditation_cancel_button"
+msgstr ""
+
+msgid "journal_meditation_confirm_button"
+msgstr ""
+
+msgid "journal_meditation_disable_autorotate_button"
+msgstr ""
+
+msgid "journal_meditation_disable_offline_button"
+msgstr ""
+
+msgid "journal_meditation_enable_autorotate_button"
+msgstr ""
+
+msgid "journal_meditation_enable_offline_button"
+msgstr ""
+
+msgid "journal_meditation_hide_locked_button"
+msgstr ""
+
+msgid "journal_meditation_hide_locked_label"
+msgstr ""
+
+msgid "journal_meditation_list_empty"
+msgstr ""
+
+msgid "journal_meditation_result_already_set"
+msgstr ""
+
+msgid "journal_meditation_result_bad_state"
+msgstr ""
+
+msgid "journal_meditation_result_failed"
+msgstr ""
+
+msgid "journal_meditation_result_no_active"
+msgstr ""
+
+msgid "journal_meditation_result_not_enough_points"
+msgstr ""
+
+msgid "journal_meditation_result_skill_maxed"
+msgstr ""
+
+msgid "journal_meditation_result_success"
+msgstr ""
+
+msgid "journal_meditation_result_system_disabled"
+msgstr ""
+
+msgid "journal_meditation_result_trial_blocked"
+msgstr ""
+
+msgid "journal_meditation_row_locked_label"
+msgstr ""
+
+msgid "journal_meditation_row_stop_button"
+msgstr ""
+
+msgid "journal_meditation_row_train_button"
+msgstr ""
+
+msgid "journal_meditation_search_button"
+msgstr ""
+
+msgid "journal_meditation_search_clear_button"
+msgstr ""
+
+msgid "journal_meditation_search_label"
+msgstr ""
+
+msgid "journal_meditation_show_locked_button"
+msgstr ""
+
+msgid "journal_meditation_stage_prompt_stop"
+msgstr ""
+
+msgid "journal_meditation_stage_prompt_train"
+msgstr ""
+
+msgid "journal_meditation_stats_gold_label"
+msgstr ""
+
+msgid "journal_meditation_stats_points_label"
+msgstr ""
+
+msgid "journal_meditation_stop_button"
+msgstr ""
+
+msgid "journal_meditation_subtab_all"
+msgstr ""
+
+msgid "journal_meditation_subtab_attributes"
+msgstr ""
+
+msgid "journal_meditation_subtab_elemental"
+msgstr ""
+
+msgid "journal_meditation_subtab_primary"
+msgstr ""
+
+msgid "journal_meditation_subtab_specialty"
+msgstr ""
+
+msgid "journal_meditation_subtab_weapons"
+msgstr ""
+
+msgid "journal_meditation_tab_title"
+msgstr ""
+
+msgid "journal_meditation_time_to_100"
+msgstr ""
+
+msgid "journal_meditation_time_to_25"
+msgstr ""
+
+msgid "journal_meditation_time_to_50"
+msgstr ""
+
+msgid "journal_meditation_time_to_75"
+msgstr ""
+
+msgid "journal_meditation_toggle_continue_label"
+msgstr ""
+
+msgid "journal_meditation_toggle_enable_label"
+msgstr ""
+
+msgid "journal_meditation_toggle_off"
+msgstr ""
+
+msgid "journal_meditation_toggle_on"
+msgstr ""
+
+msgid "journal_more_options"
+msgstr ""
+
+msgid "journal_open_legacy"
+msgstr ""
+
+msgid "journal_quest_cancel_dialog_body"
+msgstr ""
+
+msgid "journal_quest_cancel_dialog_title"
+msgstr ""
+
+msgid "journal_quest_factions_active"
+msgstr ""
+
+msgid "journal_quest_factions_solved"
+msgstr ""
+
+msgid "journal_quest_list_item_cancel_button"
+msgstr ""
+
+msgid "journal_quest_list_item_history"
+msgstr ""
+
+msgid "journal_quest_list_item_view_details_button"
+msgstr ""
+
+msgid "journal_window_title"
+msgstr ""
+
+msgid "key_alt"
+msgstr ""
+
+msgid "key_control"
+msgstr ""
+
+msgid "key_modifiers_delimiter"
+msgstr ""
+
+msgid "key_mouse_wheel_down"
+msgstr ""
+
+msgid "key_mouse_wheel_up"
+msgstr ""
+
+msgid "key_shift"
+msgstr ""
+
+msgid "left_arrow"
+msgstr ""
+
+msgid "legacy_clan_browse_clans"
+msgstr ""
+
+msgid "legacy_clan_manage_clan"
+msgstr ""
+
+msgid "main_menu_window_title"
+msgstr ""
+
+msgid "mainmenu_backpack"
+msgstr ""
+
+msgid "mainmenu_boards"
+msgstr ""
+
+msgid "mainmenu_chat"
+msgstr ""
+
+msgid "mainmenu_clans"
+msgstr ""
+
+msgid "mainmenu_conquest"
+msgstr ""
+
+msgid "mainmenu_emotes"
+msgstr ""
+
+msgid "mainmenu_gmcall"
+msgstr ""
+
+msgid "mainmenu_help"
+msgstr ""
+
+msgid "mainmenu_hotbar"
+msgstr ""
+
+msgid "mainmenu_hotkeys"
+msgstr ""
+
+msgid "mainmenu_journal"
+msgstr ""
+
+msgid "mainmenu_minimap"
+msgstr ""
+
+msgid "mainmenu_options"
+msgstr ""
+
+msgid "mainmenu_paperdoll"
+msgstr ""
+
+msgid "mainmenu_playerstats"
+msgstr ""
+
+msgid "mainmenu_quit"
+msgstr ""
+
+msgid "mainmenu_skills"
+msgstr ""
+
+msgid "mainmenu_spells"
+msgstr ""
+
+msgid "mainmenu_startbutton_tooltip"
+msgstr ""
+
+msgid "mainmenu_titles"
+msgstr ""
+
+msgid "mainmenu_vitalstats"
+msgstr ""
+
+msgid "mainmenu_worldmap"
+msgstr ""
+
+msgid "mana"
+msgstr ""
+
+msgid "map_context_menu_add_annotation_at_character_position"
+msgstr ""
+
+msgid "map_context_menu_add_annotation_at_cursor_position"
+msgstr ""
+
+msgid "map_context_menu_delete_annotation"
+msgstr ""
+
+msgid "map_context_menu_gm_teleport_to_tile"
+msgstr ""
+
+msgid "map_gm_tile_id"
+msgstr ""
+
+msgid "map_gm_tooltip_coordinates"
+msgstr ""
+
+msgid "map_marker_annotation"
+msgstr ""
+
+msgid "map_marker_anvil"
+msgstr ""
+
+msgid "map_marker_bank"
+msgstr ""
+
+msgid "map_marker_bindstone"
+msgstr ""
+
+msgid "map_marker_chaosstone"
+msgstr ""
+
+msgid "map_marker_city"
+msgstr ""
+
+msgid "map_marker_clan_member"
+msgstr ""
+
+msgid "map_marker_conquest"
+msgstr ""
+
+msgid "map_marker_control_points"
+msgstr ""
+
+msgid "map_marker_destination"
+msgstr ""
+
+msgid "map_marker_display_modes_icon_and_label"
+msgstr ""
+
+msgid "map_marker_display_modes_icon_only"
+msgstr ""
+
+msgid "map_marker_display_modes_none"
+msgstr ""
+
+msgid "map_marker_dungeons"
+msgstr ""
+
+msgid "map_marker_enchantment_station"
+msgstr ""
+
+msgid "map_marker_fortress"
+msgstr ""
+
+msgid "map_marker_fun_flags"
+msgstr ""
+
+msgid "map_marker_greaterstone"
+msgstr ""
+
+msgid "map_marker_housing"
+msgstr ""
+
+msgid "map_marker_laboratory"
+msgstr ""
+
+msgid "map_marker_monster_common_loot"
+msgstr ""
+
+msgid "map_marker_monster_spawn"
+msgstr ""
+
+msgid "map_marker_npc_city"
+msgstr ""
+
+msgid "map_marker_oven"
+msgstr ""
+
+msgid "map_marker_overlays_tile_rating"
+msgstr ""
+
+msgid "map_marker_owner_label"
+msgstr ""
+
+msgid "map_marker_party_player"
+msgstr ""
+
+msgid "map_marker_party_waypoint"
+msgstr ""
+
+msgid "map_marker_player_city"
+msgstr ""
+
+msgid "map_marker_player_deployed_objects"
+msgstr ""
+
+msgid "map_marker_players"
+msgstr ""
+
+msgid "map_marker_portals"
+msgstr ""
+
+msgid "map_marker_quest"
+msgstr ""
+
+msgid "map_marker_siegestone"
+msgstr ""
+
+msgid "map_marker_smelter"
+msgstr ""
+
+msgid "map_marker_spawn_boss"
+msgstr ""
+
+msgid "map_marker_spawn_champion"
+msgstr ""
+
+msgid "map_marker_spawn_dungeon"
+msgstr ""
+
+msgid "map_marker_spawn_easy"
+msgstr ""
+
+msgid "map_marker_spawn_hard"
+msgstr ""
+
+msgid "map_marker_spawn_medium"
+msgstr ""
+
+msgid "map_marker_spawn_very_easy"
+msgstr ""
+
+msgid "map_marker_spawn_very_hard"
+msgstr ""
+
+msgid "map_marker_traderoute_markers"
+msgstr ""
+
+msgid "map_marker_vendor"
+msgstr ""
+
+msgid "map_marker_vendor_Arcanist"
+msgstr ""
+
+msgid "map_marker_vendor_Blacksmith"
+msgstr ""
+
+msgid "map_marker_vendor_Councillor"
+msgstr ""
+
+msgid "map_marker_vendor_Fighter"
+msgstr ""
+
+msgid "map_marker_vendor_Mage"
+msgstr ""
+
+msgid "map_marker_vendor_Merchant"
+msgstr ""
+
+msgid "map_marker_workbench"
+msgstr ""
+
+msgid "map_monster_location_slider"
+msgstr ""
+
+msgid "map_monster_location_slider_max"
+msgstr ""
+
+msgid "map_options_section_monster_types"
+msgstr ""
+
+msgid "map_options_section_overlays"
+msgstr ""
+
+msgid "map_options_section_structures"
+msgstr ""
+
+msgid "map_tooltip_prefix_annotation"
+msgstr ""
+
+msgid "map_tooltip_prefix_anvil"
+msgstr ""
+
+msgid "map_tooltip_prefix_bank"
+msgstr ""
+
+msgid "map_tooltip_prefix_city"
+msgstr ""
+
+msgid "map_tooltip_prefix_clan_member"
+msgstr ""
+
+msgid "map_tooltip_prefix_conquest"
+msgstr ""
+
+msgid "map_tooltip_prefix_control_points"
+msgstr ""
+
+msgid "map_tooltip_prefix_distance"
+msgstr ""
+
+msgid "map_tooltip_prefix_dungeons"
+msgstr ""
+
+msgid "map_tooltip_prefix_enchantment_station"
+msgstr ""
+
+msgid "map_tooltip_prefix_fortress"
+msgstr ""
+
+msgid "map_tooltip_prefix_fun_flags"
+msgstr ""
+
+msgid "map_tooltip_prefix_housing"
+msgstr ""
+
+msgid "map_tooltip_prefix_laboratory"
+msgstr ""
+
+msgid "map_tooltip_prefix_oven"
+msgstr ""
+
+msgid "map_tooltip_prefix_party_player"
+msgstr ""
+
+msgid "map_tooltip_prefix_party_waypoint"
+msgstr ""
+
+msgid "map_tooltip_prefix_player_deployed_objects"
+msgstr ""
+
+msgid "map_tooltip_prefix_players"
+msgstr ""
+
+msgid "map_tooltip_prefix_portals"
+msgstr ""
+
+msgid "map_tooltip_prefix_quest"
+msgstr ""
+
+msgid "map_tooltip_prefix_smelter"
+msgstr ""
+
+msgid "map_tooltip_prefix_spawn"
+msgstr ""
+
+msgid "map_tooltip_prefix_stone_bind"
+msgstr ""
+
+msgid "map_tooltip_prefix_stone_chaos"
+msgstr ""
+
+msgid "map_tooltip_prefix_stone_greater"
+msgstr ""
+
+msgid "map_tooltip_prefix_stone_siege"
+msgstr ""
+
+msgid "map_tooltip_prefix_tile"
+msgstr ""
+
+msgid "map_tooltip_prefix_traderoute_markers"
+msgstr ""
+
+msgid "map_tooltip_prefix_vendor"
+msgstr ""
+
+msgid "map_tooltip_prefix_workbench"
+msgstr ""
+
+msgid "market_apply_filter"
+msgstr ""
+
+msgid "market_available_items"
+msgstr ""
+
+msgid "market_backpack_context_menu_buy_more"
+msgstr ""
+
+msgid "market_backpack_context_menu_sell_this"
+msgstr ""
+
+msgid "market_backpack_context_menu_view_market_details"
+msgstr ""
+
+msgid "market_broker_fee_extra"
+msgstr ""
+
+msgid "market_broker_fees_cancellation_confirmation"
+msgstr ""
+
+msgid "market_button_cancel_selected"
+msgstr ""
+
+msgid "market_button_change_selected"
+msgstr ""
+
+msgid "market_button_claim"
+msgstr ""
+
+msgid "market_button_expires"
+msgstr ""
+
+msgid "market_button_item"
+msgstr ""
+
+msgid "market_button_location"
+msgstr ""
+
+msgid "market_button_price"
+msgstr ""
+
+msgid "market_button_quantity"
+msgstr ""
+
+msgid "market_button_seller"
+msgstr ""
+
+msgid "market_button_shipping"
+msgstr ""
+
+msgid "market_button_update"
+msgstr ""
+
+msgid "market_buttons_buy_listed_item"
+msgstr ""
+
+msgid "market_buttons_buy_selected"
+msgstr ""
+
+msgid "market_buttons_create_buy_order"
+msgstr ""
+
+msgid "market_buttons_most_recent"
+msgstr ""
+
+msgid "market_buttons_refresh_market"
+msgstr ""
+
+msgid "market_buy_item"
+msgstr ""
+
+msgid "market_buy_window_buy_item"
+msgstr ""
+
+msgid "market_buy_window_durability"
+msgstr ""
+
+msgid "market_buy_window_location"
+msgstr ""
+
+msgid "market_buy_window_price"
+msgstr ""
+
+msgid "market_buy_window_purchase_amount"
+msgstr ""
+
+msgid "market_buy_window_quantity_available"
+msgstr ""
+
+msgid "market_buy_window_seller"
+msgstr ""
+
+msgid "market_buy_window_shipping"
+msgstr ""
+
+msgid "market_buy_window_total_cost"
+msgstr ""
+
+msgid "market_chat_notification_buy_order_cancel_success"
+msgstr ""
+
+msgid "market_chat_notification_order_cancel_failed"
+msgstr ""
+
+msgid "market_chat_notification_order_update_fail"
+msgstr ""
+
+msgid "market_chat_notification_order_update_success"
+msgstr ""
+
+msgid "market_chat_notification_sell_order_cancel_success"
+msgstr ""
+
+msgid "market_clear_filter"
+msgstr ""
+
+msgid "market_confirm_dialog_create_sale_order"
+msgstr ""
+
+msgid "market_confirm_dialog_create_sale_order_description"
+msgstr ""
+
+msgid "market_confirm_dialog_sell_now"
+msgstr ""
+
+msgid "market_confirm_dialog_sell_now_description"
+msgstr ""
+
+msgid "market_confirmation_window_about_to_buy"
+msgstr ""
+
+msgid "market_confirmation_window_about_to_sell"
+msgstr ""
+
+msgid "market_context_create_buy_order"
+msgstr ""
+
+msgid "market_context_menu_buy"
+msgstr ""
+
+msgid "market_context_menu_view_details"
+msgstr ""
+
+msgid "market_duration"
+msgstr ""
+
+msgid "market_expiration"
+msgstr ""
+
+msgid "market_expiration_days"
+msgstr ""
+
+msgid "market_expiration_hours"
+msgstr ""
+
+msgid "market_expiration_minutes"
+msgstr ""
+
+msgid "market_expiration_seconds"
+msgstr ""
+
+msgid "market_expiration_weeks"
+msgstr ""
+
+msgid "market_fill_order_window_buyer"
+msgstr ""
+
+msgid "market_fill_order_window_location"
+msgstr ""
+
+msgid "market_fill_order_window_offering"
+msgstr ""
+
+msgid "market_fill_order_window_quantity_requested"
+msgstr ""
+
+msgid "market_fill_order_window_sell_amount"
+msgstr ""
+
+msgid "market_fill_order_window_sell_item"
+msgstr ""
+
+msgid "market_filter_location"
+msgstr ""
+
+msgid "market_filter_minimum_durability"
+msgstr ""
+
+msgid "market_filter_minimum_quantity"
+msgstr ""
+
+msgid "market_filter_no_listings_available"
+msgstr ""
+
+msgid "market_filter_price_max"
+msgstr ""
+
+msgid "market_filter_price_min"
+msgstr ""
+
+msgid "market_filter_text"
+msgstr ""
+
+msgid "market_filters_tile_name_all"
+msgstr ""
+
+msgid "market_global_market_title_composite"
+msgstr ""
+
+msgid "market_item_description"
+msgstr ""
+
+msgid "market_item_details_price"
+msgstr ""
+
+msgid "market_item_details_quantity"
+msgstr ""
+
+msgid "market_label_broker_fee"
+msgstr ""
+
+msgid "market_label_fee"
+msgstr ""
+
+msgid "market_label_quantity"
+msgstr ""
+
+msgid "market_label_sales_tax"
+msgstr ""
+
+msgid "market_label_total"
+msgstr ""
+
+msgid "market_list_item_button_buy"
+msgstr ""
+
+msgid "market_list_item_button_close"
+msgstr ""
+
+msgid "market_list_item_button_sell"
+msgstr ""
+
+msgid "market_listing_tax_extra"
+msgstr ""
+
+msgid "market_my_buy_orders"
+msgstr ""
+
+msgid "market_my_expired_orders"
+msgstr ""
+
+msgid "market_my_sell_orders"
+msgstr ""
+
+msgid "market_no_orders_available_for_duration"
+msgstr ""
+
+msgid "market_notification_order_cancellation_failure"
+msgstr ""
+
+msgid "market_notification_order_cancellation_success"
+msgstr ""
+
+msgid "market_order_length_instant"
+msgstr ""
+
+msgid "market_order_length_one_day"
+msgstr ""
+
+msgid "market_order_length_one_month"
+msgstr ""
+
+msgid "market_order_length_one_week"
+msgstr ""
+
+msgid "market_order_length_three_days"
+msgstr ""
+
+msgid "market_order_length_two_weeks"
+msgstr ""
+
+msgid "market_other_filter_seller"
+msgstr ""
+
+msgid "market_other_filters"
+msgstr ""
+
+msgid "market_price_in_gold"
+msgstr ""
+
+msgid "market_quantity_and_resource_name"
+msgstr ""
+
+msgid "market_received_item_button_receive"
+msgstr ""
+
+msgid "market_received_item_delivery_fee"
+msgstr ""
+
+msgid "market_received_item_not_enough_gold_to_deliver"
+msgstr ""
+
+msgid "market_received_item_order_id"
+msgstr ""
+
+msgid "market_received_item_sales_tax"
+msgstr ""
+
+msgid "market_received_item_sell_order_sold"
+msgstr ""
+
+msgid "market_receiving_empty"
+msgstr ""
+
+msgid "market_receiving_refresh_items"
+msgstr ""
+
+msgid "market_reset_filter"
+msgstr ""
+
+msgid "market_section_select"
+msgstr ""
+
+msgid "market_section_title_buy_order_new"
+msgstr ""
+
+msgid "market_section_title_buy_orders"
+msgstr ""
+
+msgid "market_section_title_sale_order_new"
+msgstr ""
+
+msgid "market_section_title_sale_orders"
+msgstr ""
+
+msgid "market_showing_most_recent"
+msgstr ""
+
+msgid "market_tabs_management"
+msgstr ""
+
+msgid "market_tabs_market"
+msgstr ""
+
+msgid "market_tabs_receiving"
+msgstr ""
+
+msgid "market_title_global_market"
+msgstr ""
+
+msgid "market_title_global_market_sell_item"
+msgstr ""
+
+msgid "market_update_duration"
+msgstr ""
+
+msgid "market_update_select_order"
+msgstr ""
+
+msgid "messagebox_generic_title"
+msgstr ""
+
+msgid "minimap_character_coordinates"
+msgstr ""
+
+msgid "minimap_window_title"
+msgstr ""
+
+msgid "money"
+msgstr ""
+
+msgid "money_empty"
+msgstr ""
+
+msgid "name_ok"
+msgstr ""
+
+msgid "news_reel_filters_binding"
+msgstr ""
+
+msgid "news_reel_filters_control_points"
+msgstr ""
+
+msgid "news_reel_filters_fortresses"
+msgstr ""
+
+msgid "news_reel_filters_in_out"
+msgstr ""
+
+msgid "news_reel_filters_login_logout"
+msgstr ""
+
+msgid "news_reel_filters_members"
+msgstr ""
+
+msgid "news_reel_filters_misc"
+msgstr ""
+
+msgid "news_reel_filters_politics"
+msgstr ""
+
+msgid "news_reel_filters_promotion_demotion"
+msgstr ""
+
+msgid "news_reel_filters_resources"
+msgstr ""
+
+msgid "news_reel_filters_structures"
+msgstr ""
+
+msgid "news_reel_filters_workstations"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "not_attachable"
+msgstr ""
+
+msgid "not_attached"
+msgstr ""
+
+msgid "ok"
+msgstr ""
+
+msgid "options_audio_ambience_sound_volume"
+msgstr ""
+
+msgid "options_audio_defaults_confirmation"
+msgstr ""
+
+msgid "options_audio_hitsound_enabled"
+msgstr ""
+
+msgid "options_audio_maxnum3dsounds"
+msgstr ""
+
+msgid "options_audio_sound_volume"
+msgstr ""
+
+msgid "options_binding_defaults_button_label"
+msgstr ""
+
+msgid "options_binding_defaults_confirmation"
+msgstr ""
+
+msgid "options_binding_info"
+msgstr ""
+
+msgid "options_binding_prompt_linear"
+msgstr ""
+
+msgid "options_binding_prompt_switch"
+msgstr ""
+
+msgid "options_binding_prompt_timeout"
+msgstr ""
+
+msgid "options_binding_rebind_confirmation"
+msgstr ""
+
+msgid "options_binding_tooltip_default"
+msgstr ""
+
+msgid "options_chat_activate_new_tabs"
+msgstr ""
+
+msgid "options_chat_color_highlight_high"
+msgstr ""
+
+msgid "options_chat_color_highlight_low"
+msgstr ""
+
+msgid "options_chat_color_highlight_medium"
+msgstr ""
+
+msgid "options_chat_color_highlight_none"
+msgstr ""
+
+msgid "options_chat_defaults_confirmation"
+msgstr ""
+
+msgid "options_chat_enter_deactivates_chatmode"
+msgstr ""
+
+msgid "options_chat_enter_deactivates_guimode"
+msgstr ""
+
+msgid "options_chat_history_max_age"
+msgstr ""
+
+msgid "options_chat_history_max_lines"
+msgstr ""
+
+msgid "options_chat_largescroller"
+msgstr ""
+
+msgid "options_chat_max_views"
+msgstr ""
+
+msgid "options_chat_scroller_deftime"
+msgstr ""
+
+msgid "options_chat_scroller_fadeintime"
+msgstr ""
+
+msgid "options_chat_scroller_fadeouttime"
+msgstr ""
+
+msgid "options_chat_scroller_hpos"
+msgstr ""
+
+msgid "options_chat_scroller_maxlines"
+msgstr ""
+
+msgid "options_chat_scroller_mintime"
+msgstr ""
+
+msgid "options_chat_scroller_ordering"
+msgstr ""
+
+msgid "options_chat_scroller_speeduphigh"
+msgstr ""
+
+msgid "options_chat_scroller_speeduplow"
+msgstr ""
+
+msgid "options_chat_scroller_vpos"
+msgstr ""
+
+msgid "options_chat_scroller_width"
+msgstr ""
+
+msgid "options_chat_smallscroller"
+msgstr ""
+
+msgid "options_chat_timestamps"
+msgstr ""
+
+msgid "options_chat_timestamps_seconds"
+msgstr ""
+
+msgid "options_chat_view_max_age_unused"
+msgstr ""
+
+msgid "options_chat_view_max_lines"
+msgstr ""
+
+msgid "options_chat_view_reload_lines"
+msgstr ""
+
+msgid "options_clutterizer_mode_animating"
+msgstr ""
+
+msgid "options_clutterizer_mode_fading"
+msgstr ""
+
+msgid "options_debug_defaults_button_label"
+msgstr ""
+
+msgid "options_debug_defaults_confirmation"
+msgstr ""
+
+msgid "options_default"
+msgstr ""
+
+msgid "options_gm_call"
+msgstr ""
+
+msgid "options_gui_active_window_opacity"
+msgstr ""
+
+msgid "options_gui_animation_speed"
+msgstr ""
+
+msgid "options_gui_auto_tooltip_duration"
+msgstr ""
+
+msgid "options_gui_buff_timer_display_in_seconds"
+msgstr ""
+
+msgid "options_gui_clipping_of_marker_labels_in_minimap"
+msgstr ""
+
+msgid "options_gui_clipping_of_marker_labels_in_worldmap"
+msgstr ""
+
+msgid "options_gui_cluttering_duration"
+msgstr ""
+
+msgid "options_gui_clutterizer"
+msgstr ""
+
+msgid "options_gui_confirm_batch_trash"
+msgstr ""
+
+msgid "options_gui_confirm_disable_hit_protection"
+msgstr ""
+
+msgid "options_gui_confirm_item_drop_on_ground"
+msgstr ""
+
+msgid "options_gui_confirm_item_drops"
+msgstr ""
+
+msgid "options_gui_confirm_purchases"
+msgstr ""
+
+msgid "options_gui_confirm_rebindings"
+msgstr ""
+
+msgid "options_gui_defaults_button_label"
+msgstr ""
+
+msgid "options_gui_defaults_confirmation"
+msgstr ""
+
+msgid "options_gui_gamemode_window_opacity"
+msgstr ""
+
+msgid "options_gui_history_recall"
+msgstr ""
+
+msgid "options_gui_hotbar_autocollapse"
+msgstr ""
+
+msgid "options_gui_identify_distant_targets"
+msgstr ""
+
+msgid "options_gui_inactive_window_opacity"
+msgstr ""
+
+msgid "options_gui_itemcounter_horizontal"
+msgstr ""
+
+msgid "options_gui_itemcounter_size"
+msgstr ""
+
+msgid "options_gui_scale"
+msgstr ""
+
+msgid "options_gui_show_buff_timers"
+msgstr ""
+
+msgid "options_gui_show_compass_window"
+msgstr ""
+
+msgid "options_gui_show_description_window"
+msgstr ""
+
+msgid "options_gui_show_tutorial_next_time"
+msgstr ""
+
+msgid "options_gui_tooltip_speed"
+msgstr ""
+
+msgid "options_gui_use_legacy_health_bar_party"
+msgstr ""
+
+msgid "options_gui_use_legacy_health_bar_targeting"
+msgstr ""
+
+msgid "options_hotbar_entry_auto_cast"
+msgstr ""
+
+msgid "options_hotbar_entry_charge_press"
+msgstr ""
+
+msgid "options_hotbar_entry_colulmn_choice"
+msgstr ""
+
+msgid "options_hotbar_entry_cycling_mode"
+msgstr ""
+
+msgid "options_hotbar_entry_help_text"
+msgstr ""
+
+msgid "options_hotbar_entry_item_label"
+msgstr ""
+
+msgid "options_hotbar_entry_trigger_release"
+msgstr ""
+
+msgid "options_input_defaults_button_label"
+msgstr ""
+
+msgid "options_input_defaults_confirmation"
+msgstr ""
+
+msgid "options_input_joystick_x_sensitivity"
+msgstr ""
+
+msgid "options_input_joystick_y_sensitivity"
+msgstr ""
+
+msgid "options_input_joystick_z_sensitivity"
+msgstr ""
+
+msgid "options_input_mouse_invert"
+msgstr ""
+
+msgid "options_input_mouse_smoothing_amount"
+msgstr ""
+
+msgid "options_input_mouse_smoothing_enabled"
+msgstr ""
+
+msgid "options_input_mouse_x_sensitivity"
+msgstr ""
+
+msgid "options_input_mouse_x_sensitivty_text"
+msgstr ""
+
+msgid "options_input_mouse_y_sensitivity"
+msgstr ""
+
+msgid "options_input_mouse_y_sensitivty_text"
+msgstr ""
+
+msgid "options_map_mini_title"
+msgstr ""
+
+msgid "options_map_world_title"
+msgstr ""
+
+msgid "options_maxfps"
+msgstr ""
+
+msgid "options_private_message_sound_enabled"
+msgstr ""
+
+msgid "options_quality_high"
+msgstr ""
+
+msgid "options_quality_low"
+msgstr ""
+
+msgid "options_quality_max"
+msgstr ""
+
+msgid "options_quality_medium"
+msgstr ""
+
+msgid "options_shader_version_default"
+msgstr ""
+
+msgid "options_shader_version_ps3"
+msgstr ""
+
+msgid "options_texture_filtering_anisotropic"
+msgstr ""
+
+msgid "options_texture_filtering_linear"
+msgstr ""
+
+msgid "options_texture_filtering_point"
+msgstr ""
+
+msgid "options_title_audio"
+msgstr ""
+
+msgid "options_title_bindings"
+msgstr ""
+
+msgid "options_title_chat"
+msgstr ""
+
+msgid "options_title_chat_view"
+msgstr ""
+
+msgid "options_title_chat_window"
+msgstr ""
+
+msgid "options_title_debug"
+msgstr ""
+
+msgid "options_title_gui"
+msgstr ""
+
+msgid "options_title_hotbar_entry"
+msgstr ""
+
+msgid "options_title_input"
+msgstr ""
+
+msgid "options_title_tutorial"
+msgstr ""
+
+msgid "options_title_video"
+msgstr ""
+
+msgid "options_title_weapon_bar_entry"
+msgstr ""
+
+msgid "options_video_animation_reduction_per_meter"
+msgstr ""
+
+msgid "options_video_animation_reduction_start"
+msgstr ""
+
+msgid "options_video_antialiasing_quality"
+msgstr ""
+
+msgid "options_video_auto_optimize"
+msgstr ""
+
+msgid "options_video_auto_optimize_target_fps"
+msgstr ""
+
+msgid "options_video_defaults_confirmation"
+msgstr ""
+
+msgid "options_video_display_mode"
+msgstr ""
+
+msgid "options_video_displaymodelist"
+msgstr ""
+
+msgid "options_video_enable_animation_reduction"
+msgstr ""
+
+msgid "options_video_enable_antialiasing"
+msgstr ""
+
+msgid "options_video_enable_character_shadows"
+msgstr ""
+
+msgid "options_video_enable_drop_shadows"
+msgstr ""
+
+msgid "options_video_enable_post_process_effects"
+msgstr ""
+
+msgid "options_video_enable_scenery_shadows"
+msgstr ""
+
+msgid "options_video_enable_shadows"
+msgstr ""
+
+msgid "options_video_enable_triple_buffering"
+msgstr ""
+
+msgid "options_video_fov"
+msgstr ""
+
+msgid "options_video_gamma_correction"
+msgstr ""
+
+msgid "options_video_label_resolution"
+msgstr ""
+
+msgid "options_video_maxnumbloodstains"
+msgstr ""
+
+msgid "options_video_maxnumdynamiclight"
+msgstr ""
+
+msgid "options_video_maxnumparticles"
+msgstr ""
+
+msgid "options_video_object_clipping"
+msgstr ""
+
+msgid "options_video_object_clipping_max_function_value"
+msgstr ""
+
+msgid "options_video_object_clipping_max_size_to_clip"
+msgstr ""
+
+msgid "options_video_object_min_distance_to_clip"
+msgstr ""
+
+msgid "options_video_shader_version"
+msgstr ""
+
+msgid "options_video_shadow_quality"
+msgstr ""
+
+msgid "options_video_shadow_smoothing"
+msgstr ""
+
+msgid "options_video_texture_anisotropy_level"
+msgstr ""
+
+msgid "options_video_texture_filtering"
+msgstr ""
+
+msgid "options_video_texture_quality"
+msgstr ""
+
+msgid "options_video_vegetation_area_size"
+msgstr ""
+
+msgid "options_video_vegetation_density"
+msgstr ""
+
+msgid "options_video_wait_for_vsync"
+msgstr ""
+
+msgid "options_window_title"
+msgstr ""
+
+msgid "paperdoll_button_get_naked"
+msgstr ""
+
+msgid "paperdoll_button_refresh"
+msgstr ""
+
+msgid "paperdoll_item_attached_at"
+msgstr ""
+
+msgid "paperdoll_label_equipment_tier"
+msgstr ""
+
+msgid "paperdoll_label_figurine"
+msgstr ""
+
+msgid "paperdoll_label_loot_bag"
+msgstr ""
+
+msgid "paperdoll_label_rune_book"
+msgstr ""
+
+msgid "paperdoll_label_weapon_bar"
+msgstr ""
+
+msgid "paperdoll_tabs_clan"
+msgstr ""
+
+msgid "paperdoll_tabs_effects"
+msgstr ""
+
+msgid "paperdoll_tabs_paperdoll"
+msgstr ""
+
+msgid "paperdoll_tabs_research"
+msgstr ""
+
+msgid "paperdoll_tabs_skins"
+msgstr ""
+
+msgid "paperdoll_tabs_titles"
+msgstr ""
+
+msgid "paragraph_break"
+msgstr ""
+
+msgid "playerstats_armor_penalties"
+msgstr ""
+
+msgid "playerstats_base_attributes"
+msgstr ""
+
+msgid "playerstats_protections"
+msgstr ""
+
+msgid "progressbar_tooltip"
+msgstr ""
+
+msgid "prompt_item_split_quantity_label"
+msgstr ""
+
+msgid "prompt_item_split_title"
+msgstr ""
+
+msgid "quest_reward"
+msgstr ""
+
+msgid "quest_rewards"
+msgstr ""
+
+msgid "quit_button"
+msgstr ""
+
+msgid "quit_dialog_description"
+msgstr ""
+
+msgid "quit_dialog_no_button"
+msgstr ""
+
+msgid "quit_dialog_title"
+msgstr ""
+
+msgid "quit_dialog_yes_button"
+msgstr ""
+
+msgid "race_alfar"
+msgstr ""
+
+msgid "race_dwarf"
+msgstr ""
+
+msgid "race_human"
+msgstr ""
+
+msgid "race_mahirim"
+msgstr ""
+
+msgid "race_mirdain"
+msgstr ""
+
+msgid "race_ork"
+msgstr ""
+
+msgid "research_drag_schematic_here_description"
+msgstr ""
+
+msgid "research_item_tier"
+msgstr ""
+
+msgid "research_item_tier_too_low"
+msgstr ""
+
+msgid "research_max_time"
+msgstr ""
+
+msgid "research_maxed_out"
+msgstr ""
+
+msgid "research_projected_level"
+msgstr ""
+
+msgid "research_projected_tier"
+msgstr ""
+
+msgid "research_queue_count"
+msgstr ""
+
+msgid "research_queued_time"
+msgstr ""
+
+msgid "research_research_time"
+msgstr ""
+
+msgid "research_skill"
+msgstr ""
+
+msgid "research_skill_and_tier"
+msgstr ""
+
+msgid "research_skill_to_train"
+msgstr ""
+
+msgid "research_start"
+msgstr ""
+
+msgid "research_time"
+msgstr ""
+
+msgid "right_arrow"
+msgstr ""
+
+msgid "screen05_button_check_name"
+msgstr ""
+
+msgid "screen05_button_generate"
+msgstr ""
+
+msgid "screen05_first_name"
+msgstr ""
+
+msgid "screen05_last_name"
+msgstr ""
+
+msgid "screen05_title"
+msgstr ""
+
+msgid "screen06_points_left"
+msgstr ""
+
+msgid "screen06_title"
+msgstr ""
+
+msgid "screen07_general_skills"
+msgstr ""
+
+msgid "screen07_race_skills"
+msgstr ""
+
+msgid "screen07_title"
+msgstr ""
+
+msgid "screen08_race_spells"
+msgstr ""
+
+msgid "screen08_title"
+msgstr ""
+
+msgid "screen09_title"
+msgstr ""
+
+msgid "screen10_title"
+msgstr ""
+
+msgid "screen1_create_new_character"
+msgstr ""
+
+msgid "screen2_select_race"
+msgstr ""
+
+msgid "screen3_select_gender"
+msgstr ""
+
+msgid "screen4_appearance_none"
+msgstr ""
+
+msgid "screen4_select_appearance"
+msgstr ""
+
+msgid "selector_of"
+msgstr ""
+
+msgid "skill_advancement_rate"
+msgstr ""
+
+msgid "skill_importance"
+msgstr ""
+
+msgid "skills_by_preset_order"
+msgstr ""
+
+msgid "skills_flat_display"
+msgstr ""
+
+msgid "skills_hierarchical_display"
+msgstr ""
+
+msgid "skills_ordered_alphabetically"
+msgstr ""
+
+msgid "skills_ordered_by_level"
+msgstr ""
+
+msgid "skills_window_title"
+msgstr ""
+
+msgid "slot_position_eight"
+msgstr ""
+
+msgid "slot_position_five"
+msgstr ""
+
+msgid "slot_position_four"
+msgstr ""
+
+msgid "slot_position_nine"
+msgstr ""
+
+msgid "slot_position_none"
+msgstr ""
+
+msgid "slot_position_one"
+msgstr ""
+
+msgid "slot_position_seven"
+msgstr ""
+
+msgid "slot_position_six"
+msgstr ""
+
+msgid "slot_position_ten"
+msgstr ""
+
+msgid "slot_position_three"
+msgstr ""
+
+msgid "slot_position_two"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "spells_window_title"
+msgstr ""
+
+msgid "stamina"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "start_button"
+msgstr ""
+
+msgid "supreme_general"
+msgstr ""
+
+msgid "target_health"
+msgstr ""
+
+msgid "task_countdown_available"
+msgstr ""
+
+msgid "task_countdown_reset"
+msgstr ""
+
+msgid "task_rare_rewards"
+msgstr ""
+
+msgid "task_repeatable"
+msgstr ""
+
+msgid "task_rewards"
+msgstr ""
+
+msgid "task_stage"
+msgstr ""
+
+msgid "task_stage_completed"
+msgstr ""
+
+msgid "task_stage_current"
+msgstr ""
+
+msgid "task_target"
+msgstr ""
+
+msgid "task_time_days_hours_minutes"
+msgstr ""
+
+msgid "task_time_hours_minutes"
+msgstr ""
+
+msgid "task_title_rewards"
+msgstr ""
+
+msgid "tasks"
+msgstr ""
+
+msgid "tasks_filter_label"
+msgstr ""
+
+msgid "tasks_show_in_tracker"
+msgstr ""
+
+msgid "tasks_show_tracker"
+msgstr ""
+
+msgid "teleportation_window_title"
+msgstr ""
+
+msgid "territory_control_window_title"
+msgstr ""
+
+msgid "titles_change_confirm_dialog_description"
+msgstr ""
+
+msgid "titles_change_confirm_dialog_title"
+msgstr ""
+
+msgid "titles_prefix"
+msgstr ""
+
+msgid "titles_suffix"
+msgstr ""
+
+msgid "tooltip_item_no_requirements"
+msgstr ""
+
+msgid "tooltip_item_property"
+msgstr ""
+
+msgid "tooltip_item_requirement"
+msgstr ""
+
+msgid "tooltip_item_requirements"
+msgstr ""
+
+msgid "tooltip_item_skill_base_cooldown"
+msgstr ""
+
+msgid "tooltip_item_skill_gold_cost"
+msgstr ""
+
+msgid "tooltip_item_skill_level"
+msgstr ""
+
+msgid "tooltip_item_skill_mana"
+msgstr ""
+
+msgid "tooltip_item_skill_next_use"
+msgstr ""
+
+msgid "tooltip_item_skill_stamina"
+msgstr ""
+
+msgid "trading_other_player_has_accepted"
+msgstr ""
+
+msgid "trading_other_player_offers"
+msgstr ""
+
+msgid "trading_overweight_clue_description"
+msgstr ""
+
+msgid "trading_overweight_clue_title"
+msgstr ""
+
+msgid "trading_window_title"
+msgstr ""
+
+msgid "treasuremap_window_title"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid "unbound"
+msgstr ""
+
+msgid "vital_stats_dialog_alignment"
+msgstr ""
+
+msgid "vital_stats_dialog_health"
+msgstr ""
+
+msgid "vital_stats_dialog_mana"
+msgstr ""
+
+msgid "vital_stats_dialog_resizing"
+msgstr ""
+
+msgid "vital_stats_dialog_stamina"
+msgstr ""
+
+msgid "vital_stats_display_modes_blank"
+msgstr ""
+
+msgid "vital_stats_display_modes_percentage_only"
+msgstr ""
+
+msgid "vital_stats_display_modes_value_and_percentage"
+msgstr ""
+
+msgid "vital_stats_display_modes_value_only"
+msgstr ""
+
+msgid "vital_stats_display_modes_value_over_max"
+msgstr ""
+
+msgid "vitalstats_options_description"
+msgstr ""
+
+msgid "vitalstats_options_display_alignement_bar"
+msgstr ""
+
+msgid "vitalstats_options_display_char_name"
+msgstr ""
+
+msgid "vitalstats_options_display_health_bar"
+msgstr ""
+
+msgid "vitalstats_options_display_mana_bar"
+msgstr ""
+
+msgid "vitalstats_options_display_stamina_bar"
+msgstr ""
+
+msgid "vitalstats_options_text_type"
+msgstr ""
+
+msgid "vitalstats_options_window_title"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_add_filter_button"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_1"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_2"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_3"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_4"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_general_tooltip_line_5"
+msgstr ""
+
+msgid "weapon_bar_auto_equip_config_load_preset_button"
+msgstr ""
+
+msgid "weapon_bar_binding_description"
+msgstr ""
+
+msgid "weapon_bar_emptybutton_tooltip1"
+msgstr ""
+
+msgid "weapon_bar_emptybutton_tooltip2"
+msgstr ""
+
+msgid "weapon_bar_entry_dialog_title"
+msgstr ""
+
+msgid "weapon_bar_entry_settings_button_tooltip_description"
+msgstr ""
+
+msgid "weapon_bar_entry_settings_button_tooltip_title"
+msgstr ""
+
+msgid "weapon_bar_options_dialog_trigger_on_switch_tooltip"
+msgstr ""
+
+msgid "weapon_bar_paperdoll_label_tooltip"
+msgstr ""
+
+msgid "weapon_bar_paperdoll_label_tooltip_title"
+msgstr ""
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning"
+msgstr ""
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning2"
+msgstr ""
+
+msgid "weapon_bar_paperdoll_label_tooltip_warning3"
+msgstr ""
+
+msgid "weapon_bar_slot_option_enable_auto_equip"
+msgstr ""
+
+msgid "weapon_bar_slot_option_switch_hotbar_column"
+msgstr ""
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot"
+msgstr ""
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_column"
+msgstr ""
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_on_weapon_change"
+msgstr ""
+
+msgid "weapon_bar_slot_option_trigger_hotbar_slot_row"
+msgstr ""
+
+msgid "window_close_tooltip"
+msgstr ""
+
+msgid "window_opacity_tooltip"
+msgstr ""
+
+msgid "window_options_tooltip"
+msgstr ""
+
+msgid "window_sticky_tooltip"
+msgstr ""
+
+msgid "window_title_gmcall"
+msgstr ""
+
+msgid "window_title_playerstats"
+msgstr ""
+
+msgid "working_progress_crafting"
+msgstr ""
+
+msgid "working_progress_harvesting"
+msgstr ""
+
+msgid "working_progress_skinning"
+msgstr ""
+
+msgid "worldmap_window_title"
+msgstr ""
+
+msgid "yes"
+msgstr ""
