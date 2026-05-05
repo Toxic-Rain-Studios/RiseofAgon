@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-05-05 08:11+0000\n"
+"Last-Translator: Weblate Admin <danielr@toxicrainstudios.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Resource"
@@ -813,7 +819,7 @@ msgid "r_Fey Kin"
 msgstr "精类亲属"
 
 msgid "desc_r_Fey Kin"
-msgstr "仙女和半人马以及其他快乐的东西."
+msgstr " 仙女和半人马以及其他快乐的东西."
 
 msgid "r_Fire Sithra"
 msgstr "火焰神剑"
@@ -849,7 +855,7 @@ msgid "r_Misc move later on"
 msgstr "Misc move later on"
 
 msgid "desc_r_Misc move later on"
-msgstr "尚未找到自己位置的怪物."
+msgstr " 尚未找到自己位置的怪物."
 
 msgid "r_monster temp"
 msgstr "怪物临时文件"
@@ -1119,7 +1125,7 @@ msgid "r_Black Knight"
 msgstr "黑暗骑士"
 
 msgid "desc_r_Black Knight"
-msgstr "暗袍的保护者"
+msgstr " 暗袍的保护者"
 
 msgid "r_Vlad Duskward"
 msgstr "弗拉德·达斯沃德"
@@ -2043,7 +2049,7 @@ msgid "r_Biletooth"
 msgstr "胆齿"
 
 msgid "desc_r_Biletooth"
-msgstr "他很坚强."
+msgstr " 他很坚强."
 
 msgid "r_Goblin Fighter"
 msgstr "哥布林战士"
@@ -2313,7 +2319,7 @@ msgid "r_Kobolds"
 msgstr "小妖魔"
 
 msgid "desc_r_Kobolds"
-msgstr "令人恐惧的人"
+msgstr "   令人恐惧的人"
 
 msgid "r_Kobold Raider"
 msgstr "小妖魔袭击者"
@@ -2481,7 +2487,7 @@ msgid "r_Manscorpion"
 msgstr "人蝎"
 
 msgid "desc_r_Manscorpion"
-msgstr "人蝎."
+msgstr " 人蝎."
 
 msgid "r_Menhirs"
 msgstr "石牛"
@@ -3405,7 +3411,7 @@ msgid "r_Deathless Servant"
 msgstr "不灭仆从"
 
 msgid "desc_r_Deathless Servant"
-msgstr "没有心智的保护者"
+msgstr " 没有心智的保护者"
 
 msgid "r_Zombie Warrior"
 msgstr "僵尸战士"
@@ -3825,7 +3831,7 @@ msgid "r_Bluetail Runner"
 msgstr "蓝尾奔羊"
 
 msgid "desc_r_Bluetail Runner"
-msgstr "按F键骑上坐骑,或按G键收回坐骑."
+msgstr " 按F键骑上坐骑,或按G键收回坐骑."
 
 msgid "r_Death Pig"
 msgstr "霸王猪"
@@ -6195,7 +6201,7 @@ msgid "r_Armor Black Knight"
 msgstr "黑暗骑士盔甲"
 
 msgid "desc_r_Armor Black Knight"
-msgstr "Description of r_Armor Black Knight"
+msgstr " Description of r_Armor Black Knight"
 
 msgid "r_Armor Black Knight Boots"
 msgstr "黑暗骑士靴子"
@@ -6375,7 +6381,7 @@ msgid "r_Armor Sarlid"
 msgstr "萨里德盔甲"
 
 msgid "desc_r_Armor Sarlid"
-msgstr "r_sarlid armor description"
+msgstr " r_sarlid armor description"
 
 msgid "r_armor sarlid helmet"
 msgstr "萨里德头盔"
@@ -6483,7 +6489,7 @@ msgid "r_Armor Zombie"
 msgstr "僵尸盔甲"
 
 msgid "desc_r_Armor Zombie"
-msgstr "r_Armor Zombie Warrior Description"
+msgstr " r_Armor Zombie Warrior Description"
 
 msgid "r_Armor Zombie Warrior Bracers"
 msgstr "僵尸战士护腕"
@@ -6825,7 +6831,7 @@ msgid "r_Hood Simple Acolyte_robe_01"
 msgstr "简易助手兜帽"
 
 msgid "desc_r_Hood Simple Acolyte_robe_01"
-msgstr "立刻把这个头巾还给守望者的助手,以免你遭受守望者的愤怒!"
+msgstr " 立刻把这个头巾还给守望者的助手,以免你遭受守望者的愤怒!"
 
 msgid "r_Hood Simple_01"
 msgstr "简单兜帽"
@@ -7359,13 +7365,13 @@ msgid "r_Extension Shard Large"
 msgstr "扩展碎片大"
 
 msgid "desc_r_Extension Shard Large"
-msgstr "使用它可以将活跃挑战的开始时间延长6小时."
+msgstr "  使用它可以将活跃挑战的开始时间延长6小时."
 
 msgid "r_Extension Shard Small"
 msgstr "扩展碎片小"
 
 msgid "desc_r_Extension Shard Small"
-msgstr "使用它可以将活跃挑战的开始时间延长3小时."
+msgstr " 使用它可以将活跃挑战的开始时间延长3小时."
 
 msgid "r_Protection Shards"
 msgstr "保护碎片"
@@ -7377,7 +7383,7 @@ msgid "r_Protection Shard Large"
 msgstr "保护碎片大"
 
 msgid "desc_r_Protection Shard Large"
-msgstr "用它来保护你的一个财产6小时."
+msgstr "  用它来保护你的一个财产6小时."
 
 msgid "r_Protection Shard Small"
 msgstr "保护碎片小"
@@ -7773,13 +7779,13 @@ msgid "r_Cod Sushi"
 msgstr "鳕鱼寿司"
 
 msgid "desc_r_Cod Sushi"
-msgstr "鳕鱼制成的寿司."
+msgstr " 鳕鱼制成的寿司."
 
 msgid "r_Herring Sushi"
 msgstr "鲱鱼寿司"
 
 msgid "desc_r_Herring Sushi"
-msgstr "鲱鱼制成的寿司."
+msgstr " 鲱鱼制成的寿司."
 
 msgid "r_Salmon Sushi"
 msgstr "鲑鱼寿司"
@@ -7803,7 +7809,7 @@ msgid "r_Bass Sushi"
 msgstr "鲈鱼寿司"
 
 msgid "desc_r_Bass Sushi"
-msgstr "鲈鱼制成的寿司."
+msgstr " 鲈鱼制成的寿司."
 
 msgid "r_Trout Sushi"
 msgstr "鳟鱼寿司"
@@ -7869,7 +7875,7 @@ msgid "r_Fish Stew"
 msgstr "炖鱼"
 
 msgid "desc_r_Fish Stew"
-msgstr "非常营养美味的炖鱼."
+msgstr " 非常营养美味的炖鱼."
 
 msgid "r_Fried Lobster"
 msgstr "炸龙虾"
@@ -8145,7 +8151,7 @@ msgid "r_Deployable Depth Charger Item"
 msgstr "可部署深度补给箱"
 
 msgid "desc_r_Deployable Depth Charger Item"
-msgstr "双击以在造船厂制作的船上进行部署."
+msgstr " 双击以在造船厂制作的船上进行部署."
 
 msgid "r_Deployable Party Strongbox Item"
 msgstr "可部署的队伍保险箱"
@@ -8427,7 +8433,7 @@ msgid "r_Figurine Funhulk_03"
 msgstr "Figurine Funhulk_03"
 
 msgid "desc_r_Figurine Funhulk_03"
-msgstr "召唤一艘壮丽的玩具巨舰."
+msgstr " 召唤一艘壮丽的玩具巨舰."
 
 msgid "r_Figurine Capturethehulk_01"
 msgstr "Figurine Capturethehulk_01"
@@ -12351,7 +12357,7 @@ msgid "r_Mysterious Essence"
 msgstr "神秘精华"
 
 msgid "desc_r_Mysterious Essence"
-msgstr "只要玩家激活该精华,就将得到奖励点数."
+msgstr " 只要玩家激活该精华,就将得到奖励点数."
 
 msgid "r_Easter Eggs Item"
 msgstr "复活节彩蛋"
@@ -12381,13 +12387,13 @@ msgid "r_Air Essence"
 msgstr "空气元素精华"
 
 msgid "desc_r_Air Essence"
-msgstr "用于制作卷轴."
+msgstr " 用于制作卷轴."
 
 msgid "r_Fire Essence"
 msgstr "火元素精华"
 
 msgid "desc_r_Fire Essence"
-msgstr "用于制作卷轴."
+msgstr " 用于制作卷轴."
 
 msgid "r_water essence"
 msgstr "水元素卷轴"
@@ -12399,7 +12405,7 @@ msgid "r_Arcane Essence"
 msgstr "奥术精华"
 
 msgid "desc_r_Arcane Essence"
-msgstr "用于制作卷轴."
+msgstr " 用于制作卷轴."
 
 msgid "r_greater essence"
 msgstr "高级精华"
@@ -15867,7 +15873,7 @@ msgid "r_Cursed Bow"
 msgstr "诅咒弓"
 
 msgid "desc_r_Cursed Bow"
-msgstr "Banedon是全Agon有名的弓制造匠人,而这把他所制造的弓是最致命的."
+msgstr " Banedon是全Agon有名的弓制造匠人,而这把他所制造的弓是最致命的."
 
 msgid "r_Default Bows"
 msgstr "默认弓"
@@ -16281,7 +16287,7 @@ msgid "r_Ember Choppa"
 msgstr "宝石切斧"
 
 msgid "desc_r_Ember Choppa"
-msgstr "一把巨大的斧头,每挥动一次烧过的刀刃,都能烧焦受害者的肉."
+msgstr " 一把巨大的斧头,每挥动一次烧过的刀刃,都能烧焦受害者的肉."
 
 msgid "r_Firestarter"
 msgstr "点火斧"
@@ -16437,7 +16443,7 @@ msgid "r_Candy Cane"
 msgstr "糖果棒"
 
 msgid "desc_r_Candy Cane"
-msgstr "专用于那些喜欢甜食的人."
+msgstr " 专用于那些喜欢甜食的人."
 
 msgid "r_Composite Club"
 msgstr "复合单手锤"
@@ -16473,7 +16479,9 @@ msgid "r_Ember Squirrel Masher"
 msgstr "宝石粉碎锤"
 
 msgid "desc_r_Ember Squirrel Masher"
-msgstr "这个非常强大的单手锤的命名是制造它的军阀的一个玩笑.对军阀来说这可不是闹着玩的事,因此他被击倒了!"
+msgstr ""
+" 这个非常强大的单手锤的命名是制造它的军阀的一个玩笑.对军阀来说这可不是闹着玩"
+"的事,因此他被击倒了!"
 
 msgid "r_Enigma"
 msgstr "谜团锤"
@@ -16689,7 +16697,7 @@ msgid "r_Ember Heavy Hacker"
 msgstr "宝石重型黑客"
 
 msgid "desc_r_Ember Heavy Hacker"
-msgstr "免责声明:头部将掉落……"
+msgstr " 免责声明:头部将掉落……"
 
 msgid "r_Executioners Axe"
 msgstr "刽子手斧头"
@@ -17169,7 +17177,7 @@ msgid "r_Ember Falchion"
 msgstr "宝石偃月刀"
 
 msgid "desc_r_Ember Falchion"
-msgstr "站好双手握住,小心地摆动,远离剑体的投射物."
+msgstr " 站好双手握住,小心地摆动,远离剑体的投射物."
 
 msgid "r_Frostfall"
 msgstr "霜降剑"
@@ -17577,7 +17585,7 @@ msgid "r_Broomstick"
 msgstr "扫帚柄"
 
 msgid "desc_r_Broomstick"
-msgstr "把他们都扫了.哦,灰尘……"
+msgstr " 把他们都扫了.哦,灰尘……"
 
 msgid "r_Cultist Glaive"
 msgstr "崇拜者长柄刀"
@@ -17907,7 +17915,7 @@ msgid "r_Ember Blade"
 msgstr "宝石之刃"
 
 msgid "desc_r_Ember Blade"
-msgstr "今年最新时尚,刺杀敌人的风格!"
+msgstr " 今年最新时尚,刺杀敌人的风格!"
 
 msgid "r_Frostbite"
 msgstr "冻伤剑"
@@ -18303,7 +18311,7 @@ msgid "r_Ember Skies Hand Grenade"
 msgstr "烟花"
 
 msgid "desc_r_Ember Skies Hand Grenade"
-msgstr "计数的次数应为三次."
+msgstr " 计数的次数应为三次."
 
 msgid "r_Grenade_01"
 msgstr "魔法手榴弹"
