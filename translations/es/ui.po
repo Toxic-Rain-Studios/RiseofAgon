@@ -1,4704 +1,4978 @@
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-06 09:15+0000\n"
+"Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
+"es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "accept"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "activatable_bar_slot_option_auto_parry"
-msgstr ""
+msgstr "Bloqueo Automático"
 
 msgid "activatable_bar_slot_option_current_bind"
-msgstr ""
+msgstr "Actual: %1"
 
 msgid "activatable_bar_slot_option_mount_auto_swing"
-msgstr ""
+msgstr "Ataque Automático en Montura"
 
 msgid "activatable_bar_slot_option_mount_lean_left"
-msgstr ""
+msgstr "Inclinarse a la Izquierda en Montura"
 
 msgid "activatable_bar_slot_option_mount_lean_right"
-msgstr ""
+msgstr "Inclinarse a la Derecha en Montura"
 
 msgid "activatable_bar_slot_option_no_binding_set"
-msgstr ""
+msgstr "Sin vinculación establecida"
 
 msgid "activatable_bar_slot_option_set_bind_button"
-msgstr ""
+msgstr "Establecer Vinculación"
 
 msgid "alignment"
-msgstr ""
+msgstr "Alineación"
 
 msgid "alignmentbar_tooltip"
-msgstr ""
+msgstr "%3: %1 de %2"
 
 msgid "application_window_title"
-msgstr ""
+msgstr "Rise of Agon"
 
 msgid "apply"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "are_you_sure"
-msgstr ""
+msgstr "¿Estás seguro?"
 
 msgid "are_you_sure_you_want_to_quit"
-msgstr ""
+msgstr "¿Estás seguro de que quieres salir de Rise of Agon?"
 
 msgid "armor_damage_multiplier"
-msgstr ""
+msgstr "Multiplicador de Daño"
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
-msgstr ""
+msgstr "Ignorará cualquier objeto que no coincida con estos tipos de arma."
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_2"
 msgstr ""
+"Haz clic derecho para añadir tipos de arma, arrastra un tipo de arma a la "
+"ventana principal del juego para eliminarlo, o arrastra uno sobre otro para "
+"cambiar su orden."
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_header"
-msgstr ""
+msgstr "Filtrar por tipos de arma"
 
 msgid "auto_equip_config_filter_highest_damage"
-msgstr ""
+msgstr "Mayor daño"
 
 msgid "auto_equip_config_filter_highest_speed"
-msgstr ""
+msgstr "Mayor velocidad"
 
 msgid "auto_equip_config_filter_ignore_casting_time_enchantments"
-msgstr ""
+msgstr "Ignorar encantamientos de tiempo de lanzamiento"
 
 msgid "auto_equip_config_filter_only_these_weapon_types"
-msgstr ""
+msgstr "Solo estos tipos de armas"
 
 msgid "auto_equip_config_filter_only_these_weapon_types_in_this_order"
-msgstr ""
+msgstr "Solo estos tipos de armas, en este orden"
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_1"
-msgstr ""
+msgstr "Obtiene el arma con mayor daño."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_2"
 msgstr ""
+"Múltiples armas pueden compartir el daño más alto, así que se pueden aplicar "
+"más filtros."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_3"
-msgstr ""
+msgstr "Se tienen en cuenta los Keens."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_4"
 msgstr ""
+"Las armas de inicio se consideran que tienen el daño más bajo "
+"independientemente de las estadísticas reales."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_1"
-msgstr ""
+msgstr "Obtiene el arma con mayor velocidad."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_2"
 msgstr ""
+"Múltiples armas pueden compartir la velocidad más alta, así que se pueden "
+"aplicar más filtros."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
+"Se tendrán en cuenta los encantamientos de tiempo de lanzamiento a menos que "
+"'$1' esté activado."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
 msgstr ""
+"Las armas de inicio se consideran que tienen la velocidad más baja "
+"independientemente de las estadísticas reales."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_1"
-msgstr ""
+msgstr "Ignorará cualquier objeto que no coincida con estos tipos de arma."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_2"
 msgstr ""
+"Luego buscará elementos de cada uno de estos tipos de armas, de izquierda a "
+"derecha, y una vez que se encuentre uno, ignorará todos los otros tipos."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_3"
 msgstr ""
+"Las armas de inicio son un caso especial y solo se seleccionarán si no se "
+"encuentra ningún otro tipo de arma coincidente."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_4"
 msgstr ""
+"Haz clic derecho para añadir tipos de arma, arrastra un tipo de arma a la "
+"ventana principal del juego para eliminarlo, o arrastra uno sobre otro para "
+"cambiar su orden."
 
 msgid "auto_equip_config_filter_undefined"
-msgstr ""
+msgstr "INDEFINIDO"
 
 msgid "auto_equip_config_filter_weapon_type_context_menu_add"
-msgstr ""
+msgstr "Añadir %1"
 
 msgid "auto_equip_config_preset_auto_generate"
-msgstr ""
+msgstr "Generar automáticamente"
 
 msgid "auto_equip_config_preset_fast_staffs"
-msgstr ""
+msgstr "Personal rápido"
 
 msgid "auto_equip_config_preset_fastest_long_weapon"
-msgstr ""
+msgstr "Arma larga más rápida"
 
 msgid "auto_equip_config_preset_knives"
-msgstr ""
+msgstr "Cuchillos"
 
 msgid "auto_equip_config_preset_long_weapons_greatclubs_first"
-msgstr ""
+msgstr "Arma larga, preferir Mazas Grandes"
 
 msgid "auto_equip_config_preset_long_weapons_greatswords_first"
-msgstr ""
+msgstr "Arma larga, preferir Grandes Espadas"
 
 msgid "auto_equip_config_preset_one_hand_weapons_axe_first"
-msgstr ""
+msgstr "Arma de una mano, preferir Hachas"
 
 msgid "auto_equip_config_preset_one_hand_weapons_sword_first"
-msgstr ""
+msgstr "Arma de una mano, preferir Espadas"
 
 msgid "auto_equip_config_preset_ray_staffs"
-msgstr ""
+msgstr "Bastones de rayo"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_axe"
-msgstr ""
+msgstr "Hachas (1M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_bow"
-msgstr ""
+msgstr "Arcos"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_club"
-msgstr ""
+msgstr "Mazas (1M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greataxe"
-msgstr ""
+msgstr "Grandes Hachas (2M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greatclub"
-msgstr ""
+msgstr "Grandes Mazas (2M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greatsword"
-msgstr ""
+msgstr "Grandes Espadas (2M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_knives"
-msgstr ""
+msgstr "Cuchillos (2M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
-msgstr ""
+msgstr "Bastones mágicos"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_polearm"
-msgstr ""
+msgstr "Armas de Asta (2M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_sithra"
-msgstr ""
+msgstr "Sithras (1M)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_sword"
-msgstr ""
+msgstr "Espadas (1M)"
 
 msgid "back"
-msgstr ""
+msgstr "Atrás"
 
 msgid "backpack_weight_title"
-msgstr ""
+msgstr "%3: %1 / %2"
 
 msgid "backpack_window_title"
-msgstr ""
+msgstr "Mochila"
 
 msgid "bank_filter_placeholder"
-msgstr ""
+msgstr "Filtrar..."
 
 msgid "bank_tabs_bank"
-msgstr ""
+msgstr "Banco"
 
 msgid "bank_tabs_consumables"
-msgstr ""
+msgstr "Consumibles"
 
 msgid "bank_tabs_enchant_materials"
-msgstr ""
+msgstr "Materiales de Encantamiento"
 
 msgid "barber_features_beard"
-msgstr ""
+msgstr "Barba"
 
 msgid "barber_features_beard_braids"
-msgstr ""
+msgstr "Trenzas de Barba"
 
 msgid "barber_features_braids"
-msgstr ""
+msgstr "Trenzas"
 
 msgid "barber_features_earring"
-msgstr ""
+msgstr "Pendiente"
 
 msgid "barber_features_extra_accessory"
-msgstr ""
+msgstr "Accesorio Extra"
 
 msgid "barber_features_face"
-msgstr ""
+msgstr "Cara"
 
 msgid "barber_features_forehead"
-msgstr ""
+msgstr "Frente"
 
 msgid "barber_features_hair"
-msgstr ""
+msgstr "Cabello"
 
 msgid "barber_features_mustache"
-msgstr ""
+msgstr "Bigote"
 
 msgid "barber_features_nose_accesory"
-msgstr ""
+msgstr "Accesorio de Nariz"
 
 msgid "barber_features_sideburns"
-msgstr ""
+msgstr "Patillas"
 
 msgid "barber_features_tusks"
-msgstr ""
+msgstr "Colmillos"
 
 msgid "barber_hair_color"
-msgstr ""
+msgstr "Color de Cabello"
 
 msgid "barber_skin_tone"
-msgstr ""
+msgstr "Tono de Piel"
 
 msgid "bindings_tab_title_bindings"
-msgstr ""
+msgstr "/bind"
 
 msgid "bindings_tab_title_debug"
-msgstr ""
+msgstr "Depuración"
 
 msgid "bindings_tab_title_gmsonly"
-msgstr ""
+msgstr "Solo para GMs"
 
 msgid "bindings_tab_title_gui"
-msgstr ""
+msgstr "Interfaz"
 
 msgid "bindings_tab_title_interaction"
-msgstr ""
+msgstr "Interacción"
 
 msgid "bindings_tab_title_misc"
-msgstr ""
+msgstr "Varios"
 
 msgid "bindings_tab_title_movement"
-msgstr ""
+msgstr "Movimiento"
 
 msgid "boards_window_title"
-msgstr ""
+msgstr "Tablones"
 
 msgid "browser_home"
-msgstr ""
+msgstr "Inicio"
 
 msgid "button_accept"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "button_next"
-msgstr ""
+msgstr "Siguiente"
 
 msgid "button_previous"
-msgstr ""
+msgstr "Anterior"
 
 msgid "button_submit"
-msgstr ""
+msgstr "Enviar"
 
 msgid "cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "character_alteration_confirmation_dialog_description"
 msgstr ""
+"Una vez que aceptes serás desconectado para comenzar la transformación. ¡"
+"Cuando inicies sesión de nuevo serás tu nuevo yo!"
 
 msgid "character_alteration_confirmation_dialog_title"
-msgstr ""
+msgstr "¿Confirmar cambio de raza a %1 %2?"
 
 msgid "character_alteration_forgot_to_pick_gender"
-msgstr ""
+msgstr "¡Olvidaste elegir tu género!"
 
 msgid "character_alteration_title"
-msgstr ""
+msgstr "Alteración de Personaje - Cambio de Raza"
 
 msgid "character_mount_stats_health"
-msgstr ""
+msgstr "Descripción de la Salud del Montura"
 
 msgid "character_mount_stats_healthmax"
-msgstr ""
+msgstr "Descripción de la Salud Máxima del Montura"
 
 msgid "character_mount_stats_name"
-msgstr ""
+msgstr "Descripción del nombre de la Montura"
 
 msgid "character_mount_stats_stamina"
-msgstr ""
+msgstr "Descripción de la Resistencia del Montura"
 
 msgid "character_mount_stats_staminamax"
-msgstr ""
+msgstr "Descripción de Mount StaminaMAX"
 
 msgid "character_stats_alignment_description"
-msgstr ""
+msgstr "Descripción de Alignment"
 
 msgid "character_stats_antigrief_description"
-msgstr ""
+msgstr "Descripción de AntiGrief"
 
 msgid "character_stats_dexterity_description"
 msgstr ""
+"Aumenta el daño de arquería y puede reducir el daño recibido de efectos de "
+"área."
 
 msgid "character_stats_encumbrance_description"
 msgstr ""
+"Encargo total de todas las armaduras equipadas. Afecta directamente las "
+"penalizaciones de Combate Cuerpo a Cuerpo, Magia y Arquería."
 
 msgid "character_stats_global_currency_description"
-msgstr ""
+msgstr "Moneda"
 
 msgid "character_stats_health_description"
-msgstr ""
+msgstr "Descripción de Health"
 
 msgid "character_stats_healthmax_description"
-msgstr ""
+msgstr "Descripción de HealthMax"
 
 msgid "character_stats_intelligence_description"
 msgstr ""
+"Aumenta el poder de los hechizos y afecta en gran medida al Maná máximo. "
+"Mejora la resistencia contra ataques mentales."
 
 msgid "character_stats_mana_description"
-msgstr ""
+msgstr "Descripción de Mana"
 
 msgid "character_stats_manamax_description"
-msgstr ""
+msgstr "Descripción de ManaMax"
 
 msgid "character_stats_name_description"
-msgstr ""
+msgstr "Personaje"
 
 msgid "character_stats_penalty_archery_description"
-msgstr ""
+msgstr "Puede reducir el daño de arquería y la velocidad de ataque."
 
 msgid "character_stats_penalty_magic_description"
 msgstr ""
+"Puede reducir el poder de hechizo e incrementar el tiempo de lanzamiento."
 
 msgid "character_stats_penalty_melee_description"
 msgstr ""
+"Puede reducir el daño de combate cuerpo a cuerpo y la velocidad de ataque."
 
 msgid "character_stats_protectionacid_description"
-msgstr ""
+msgstr "Defensa contra ataques corrosivos."
 
 msgid "character_stats_protectionarcane_description"
-msgstr ""
+msgstr "Defensa contra daño mágico no elemental."
 
 msgid "character_stats_protectionarrow_description"
-msgstr ""
+msgstr "Defensa contra flechas y proyectiles similares."
 
 msgid "character_stats_protectionbludgeoning_description"
-msgstr ""
+msgstr "Defensa contra armas contundentes, como garrotes o martillos."
 
 msgid "character_stats_protectioncold_description"
-msgstr ""
+msgstr "Defensa contra ataques basados en hielo."
 
 msgid "character_stats_protectionfire_description"
-msgstr ""
+msgstr "Defensa contra ataques de fuego."
 
 msgid "character_stats_protectionholy_description"
-msgstr ""
+msgstr "Defensa contra magia divina."
 
 msgid "character_stats_protectionimpact_description"
 msgstr ""
+"Defensa contra púas de batalla, guerreros blindados, naves, cañones y "
+"defensas de ciudades de clan."
 
 msgid "character_stats_protectioninfliction_description"
-msgstr ""
+msgstr "Defensa contra efectos que alteran el cuerpo, como veneno o sangrado."
 
 msgid "character_stats_protectionlightning_description"
-msgstr ""
+msgstr "Defensa contra ataques de rayo."
 
 msgid "character_stats_protectionmalediction_description"
-msgstr ""
+msgstr "Defensa contra maldiciones mágicas."
 
 msgid "character_stats_protectionmental_description"
-msgstr ""
+msgstr "Defensa contra efectos que alteran la mente."
 
 msgid "character_stats_protectionpiercing_description"
-msgstr ""
+msgstr "Defensa contra armas perforantes, como dagas o armas de asta."
 
 msgid "character_stats_protectionslashing_description"
-msgstr ""
+msgstr "Defensa contra armas afiladas, como espadas o hachas."
 
 msgid "character_stats_protectionunholy_description"
-msgstr ""
+msgstr "Defensa contra daño infernal."
 
 msgid "character_stats_quickness_description"
 msgstr ""
+"Aumenta ligeramente la velocidad de combate cuerpo a cuerpo y arquería, y "
+"puede reducir el daño recibido de tales ataques. Otorga un bonificador "
+"moderado a la Resistencia máxima."
 
 msgid "character_stats_stamina_description"
-msgstr ""
+msgstr "Descripción de Resistencia"
 
 msgid "character_stats_staminamax_description"
-msgstr ""
+msgstr "Descripción de ResistenciaMax"
 
 msgid "character_stats_strength_description"
 msgstr ""
+"Aumenta el daño infligido con armas de combate cuerpo a cuerpo, y afecta "
+"moderadamente la Salud máxima."
 
 msgid "character_stats_suspect_description"
-msgstr ""
+msgstr "Descripción de Sospechoso"
 
 msgid "character_stats_vitality_description"
 msgstr ""
+"Otorga un bonificador considerable a la Salud máxima y un bonificador "
+"moderado a la Resistencia. Una Vitalidad alta también puede reducir "
+"ligeramente los efectos del veneno y el sangrado."
 
 msgid "character_stats_wisdom_description"
 msgstr ""
+"Otorga un bonificador a todas las habilidades de elaboración y recolección. "
+"Además, afecta moderadamente el Maná máximo y otorga una ligera resistencia "
+"a las maldiciones."
 
 msgid "chat_ai_cmd_ai_befriend_desc"
-msgstr ""
+msgstr "Envía un mensaje de amistad al monstruo."
 
 msgid "chat_ai_cmd_ai_befriend_param_friendly_desc"
-msgstr ""
+msgstr "Si ser amistoso o no."
 
 msgid "chat_ai_cmd_ai_config_desc"
-msgstr ""
+msgstr "Establece alguna configuración del sistema de inteligencia artificial."
 
 msgid "chat_ai_cmd_ai_config_type_desc"
-msgstr ""
+msgstr "Tipo de configuración a establecer"
 
 msgid "chat_ai_cmd_ai_config_value_desc"
-msgstr ""
+msgstr "Valor a asignar a la configuración especificada"
 
 msgid "chat_ai_cmd_ai_die_desc"
-msgstr ""
+msgstr "Envía un mensaje de muerte al monstruo."
 
 msgid "chat_ai_cmd_ai_get_request_desc"
 msgstr ""
+"Obtiene el valor de atributo especificado. Si no se especifica un atributo, "
+"los obtiene todos"
 
 msgid "chat_ai_cmd_ai_get_request_param_attribute_desc"
-msgstr ""
+msgstr "Atributo a obtener"
 
 msgid "chat_ai_cmd_ai_get_request_param_guid_desc"
-msgstr ""
+msgstr "GUID de destino opcional"
 
 msgid "chat_ai_cmd_ai_get_response_desc"
 msgstr ""
+"Muestra los atributos de un monstruo como respuesta a un comando de "
+"solicitud de obtención."
 
 msgid "chat_ai_cmd_ai_help_desc"
-msgstr ""
+msgstr "Lista los atributos de IA asignables"
 
 msgid "chat_ai_cmd_ai_help_param_attribute_desc"
-msgstr ""
+msgstr "Proporciona el tipo de valor del atributo"
 
 msgid "chat_ai_cmd_ai_judas_desc"
-msgstr ""
+msgstr "Los monstruos objetivo no serán amados por otros monstruos."
 
 msgid "chat_ai_cmd_ai_move_desc"
-msgstr ""
+msgstr "Envía una solicitud de movimiento al bot objetivo."
 
 msgid "chat_ai_cmd_ai_move_dir_desc"
-msgstr ""
+msgstr "Dirección de movimiento [derecha, izquierda, etc.]"
 
 msgid "chat_ai_cmd_ai_move_distance_desc"
-msgstr ""
+msgstr "Distancia de movimiento en metros"
 
 msgid "chat_ai_cmd_ai_move_mode_desc"
-msgstr ""
+msgstr "Modo de movimiento [caminar, correr]"
 
 msgid "chat_ai_cmd_ai_property_desc"
-msgstr ""
+msgstr "Establece alguna propiedad del sistema de IA."
 
 msgid "chat_ai_cmd_ai_property_type_desc"
-msgstr ""
+msgstr "Tipo de propiedad a establecer"
 
 msgid "chat_ai_cmd_ai_property_value_desc"
-msgstr ""
+msgstr "Valor a asignar a la propiedad especificada"
 
 msgid "chat_ai_cmd_ai_rotate_amount_desc"
-msgstr ""
+msgstr "Cantidad de rotación en grados."
 
 msgid "chat_ai_cmd_ai_rotate_desc"
-msgstr ""
+msgstr "Envía una solicitud de rotación al bot objetivo."
 
 msgid "chat_ai_cmd_ai_set_desc"
 msgstr ""
+"Establece el atributo especificado al valor especificado. Escriba 'ai_help' "
+"para obtener un listado completo de atributos y sus valores"
 
 msgid "chat_ai_cmd_ai_set_param_attribute_desc"
-msgstr ""
+msgstr "Atributo a establecer"
 
 msgid "chat_ai_cmd_ai_set_param_guid_desc"
-msgstr ""
+msgstr "GUID de destino opcional"
 
 msgid "chat_ai_cmd_ai_set_param_value_desc"
-msgstr ""
+msgstr "Valor a asignar al atributo especificado"
 
 msgid "chat_ai_cmd_ai_test_desc"
-msgstr ""
+msgstr "descripción del comando ai_test"
 
 msgid "chat_ai_cmd_ai_test_param1_desc"
-msgstr ""
+msgstr "descripción del comando ai_test, parámetro param1"
 
 msgid "chat_city_cmd_create_city"
-msgstr ""
+msgstr "Crear Ciudad"
 
 msgid "chat_city_cmd_create_city_p1"
-msgstr ""
+msgstr "Nombre XML de la Ciudad"
 
 msgid "chat_clan_cmd_change_accesslevel"
-msgstr ""
+msgstr "Cambiar Nivel de Acceso"
 
 msgid "chat_clan_cmd_change_accesslevel_p1"
-msgstr ""
+msgstr "Nivel de Acceso"
 
 msgid "chat_clan_cmd_create_clan"
-msgstr ""
+msgstr "Crear Clan"
 
 msgid "chat_clan_cmd_create_clan_param1"
-msgstr ""
+msgstr "Nombre del Clan"
 
 msgid "chat_cmd_help_cmddesc"
-msgstr ""
+msgstr "%1: %2"
 
 msgid "chat_cmd_help_cmdparamline"
-msgstr ""
+msgstr "        %1%2 (%3) %4"
 
 msgid "chat_cmd_help_error_no_command_starts_with"
-msgstr ""
+msgstr "ayuda: ningún comando comienza con '%1'"
 
 msgid "chat_cmd_help_error_unknowncommand"
-msgstr ""
+msgstr "ayuda: comando desconocido: '%1'"
 
 msgid "chat_entry_error"
-msgstr ""
+msgstr "(error) %1"
 
 msgid "chat_entry_error_with_context"
-msgstr ""
+msgstr "(error) %2: %1"
 
 msgid "chat_entry_system_param_eq_value"
-msgstr ""
+msgstr "el valor de %1 es %2"
 
 msgid "chat_entry_user"
-msgstr ""
+msgstr "(jugador) %1: %2"
 
 msgid "chat_error_extraparam"
-msgstr ""
+msgstr "parámetro innecesario '%1'"
 
 msgid "chat_error_insuffparam"
-msgstr ""
+msgstr "parámetro esperado %2 '%1'"
 
 msgid "chat_error_parsingparam"
-msgstr ""
+msgstr "el valor '%1' no se puede asignar al parámetro %3 '%2' del comando '%4'"
 
 msgid "chat_error_propval_abovemax"
-msgstr ""
+msgstr "el valor de propiedad %1 está por encima del máximo (%2)"
 
 msgid "chat_error_propval_belowmin"
-msgstr ""
+msgstr "el valor de propiedad %1 está por debajo del mínimo (%2)"
 
 msgid "chat_error_setproperty_failed"
-msgstr ""
+msgstr "error al establecer la propiedad"
 
 msgid "chat_error_syntax"
-msgstr ""
+msgstr "error de sintaxis"
 
 msgid "chat_error_unknown_command"
-msgstr ""
+msgstr "comando desconocido: %1"
 
 msgid "chat_graphics_cmd_g_applydevice_desc"
-msgstr ""
+msgstr "descripción del comando g_applydevice"
 
 msgid "chat_graphics_cmd_g_screenshot_desc"
-msgstr ""
+msgstr "tomar una captura de pantalla"
 
 msgid "chat_graphics_cmd_g_sprite_desc"
-msgstr ""
+msgstr "descripción del comando g_sprite"
 
 msgid "chat_graphics_cmd_g_sprite_param_texture_desc"
-msgstr ""
+msgstr "descripción del comando g_sprite, parámetro texture"
 
 msgid "chat_graphics_cmd_g_text_desc"
-msgstr ""
+msgstr "descripción del comando g_text"
 
 msgid "chat_graphics_cmd_g_text_param_thetext_desc"
-msgstr ""
+msgstr "descripción del comando g_text, parámetro thetext"
 
 msgid "chat_graphics_cmd_g_toggle_sun_desc"
-msgstr ""
+msgstr "Alterna la rotación del sol"
 
 msgid "chat_graphics_cmd_g_togglewf_desc"
-msgstr ""
+msgstr "no uses esto"
 
 msgid "chat_graphics_cmd_g_veg_applychanges"
-msgstr ""
+msgstr "Aplica las variables de vegetación que están configuradas"
 
 msgid "chat_graphics_cmd_g_veg_forceupdate"
-msgstr ""
+msgstr "Fuerza una actualización completa de la vegetación en el punto actual"
 
 msgid "chat_gui_cmd_clear_chat_history"
-msgstr ""
+msgstr "borrar el historial de comandos de chat escritos"
 
 msgid "chat_gui_cmd_persist_load_help"
-msgstr ""
+msgstr "cargar información de persistencia de gui"
 
 msgid "chat_gui_cmd_persist_save_help"
-msgstr ""
+msgstr "guardar información de persistencia de gui"
 
 msgid "chat_help_cmd_param_optional"
-msgstr ""
+msgstr " (opcional)"
 
 msgid "chat_help_indented_line"
-msgstr ""
+msgstr "ayuda:    %1"
 
 msgid "chat_help_nonnumericparam_desc"
-msgstr ""
+msgstr "predeterminado=%1"
 
 msgid "chat_help_numericparam_desc"
-msgstr ""
+msgstr "predeterminado=%1, mínimo=%1, máximo=%1"
 
 msgid "chat_help_type_boolean"
-msgstr ""
+msgstr "booleano"
 
 msgid "chat_help_type_double"
-msgstr ""
+msgstr "doble"
 
 msgid "chat_help_type_float"
-msgstr ""
+msgstr "flotante"
 
 msgid "chat_help_type_integer"
-msgstr ""
+msgstr "entero"
 
 msgid "chat_help_type_string"
-msgstr ""
+msgstr "cadena"
 
 msgid "chat_input_bind_expected_linear"
-msgstr ""
+msgstr "Esta acción solo se puede vincular a un eje (no a una tecla o botón)"
 
 msgid "chat_input_bind_expected_switch"
-msgstr ""
+msgstr "Esta acción solo se puede vincular a una tecla o botón (no a un eje)"
 
 msgid "chat_input_bind_invalid_binding"
-msgstr ""
+msgstr "Vinculación no interpretable"
 
 msgid "chat_input_bind_not_bound"
-msgstr ""
+msgstr "La tecla no estaba vinculada a una acción"
 
 msgid "chat_input_bind_ok"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "chat_input_cmd_bind_help"
-msgstr ""
+msgstr "vincular un acceso directo a una acción"
 
 msgid "chat_input_cmd_bind_param_command_desc"
-msgstr ""
+msgstr "el comando al que vincular la tecla, o nada para desvincularla."
 
 msgid "chat_input_cmd_bind_param_key_desc"
-msgstr ""
+msgstr "la tecla a vincular, p. ej. \"f1\" o \"Alt+g\"."
 
 msgid "chat_input_player_alias"
-msgstr ""
+msgstr "Buscar alias anteriores del jugador: '%1' '%2' ."
 
 msgid "chat_interpreter_cmd_desc_clear"
-msgstr ""
+msgstr "borrar el registro de chat"
 
 msgid "chat_interpreter_cmd_desc_exec"
-msgstr ""
+msgstr "ejecutar un script externo"
 
 msgid "chat_interpreter_cmd_desc_help"
-msgstr ""
+msgstr "obtener ayuda sobre todos los comandos o sobre un comando específico"
 
 msgid "chat_interpreter_cmd_desc_log"
-msgstr ""
+msgstr "añadir una entrada al registro"
 
 msgid "chat_interpreter_cmd_desc_quit"
-msgstr ""
+msgstr "salir del juego"
 
 msgid "chat_interpreter_cmd_exec_error_file_not_found"
-msgstr ""
+msgstr "no se pudo ejecutar el script: archivo '%1' no encontrado."
 
 msgid "chat_interpreter_cmd_exec_error_reading_file"
-msgstr ""
+msgstr "no se pudo ejecutar el script: no se pudo leer del archivo '%1'."
 
 msgid "chat_interpreter_cmd_exec_param_filename_desc"
-msgstr ""
+msgstr "el nombre de archivo del script a ejecutar"
 
 msgid "chat_interpreter_cmd_help_param_command_desc"
-msgstr ""
+msgstr "nombre del comando para obtener ayuda"
 
 msgid "chat_interpreter_cmd_log_param_text"
-msgstr ""
+msgstr "el texto a añadir al registro"
 
 msgid "chat_rendering_2d_response_result"
-msgstr ""
+msgstr "resultado de respuesta 2D del motor de renderizado"
 
 msgid "chat_resource_2d_response_result"
-msgstr ""
+msgstr "resultado de respuesta 2D de recursos"
 
 msgid "chat_resource_cmd_r_sprite_desc"
-msgstr ""
+msgstr "descripción del comando r_sprite"
 
 msgid "chat_resource_cmd_r_sprite_param_texture_desc"
-msgstr ""
+msgstr "descripción del comando r_sprite, parámetro texture"
 
 msgid "chat_resource_cmd_r_text_desc"
-msgstr ""
+msgstr "descripción del comando r_text"
 
 msgid "chat_resource_cmd_r_text_param_thetext_desc"
-msgstr ""
+msgstr "descripción del comando r_text, parámetro thetext"
 
 msgid "chat_scenegraph_2d_response_result"
-msgstr ""
+msgstr "resultado_de_respuesta_2D_del_grafo_de_escena"
 
 msgid "chat_scenegraph_cmd_s_sprite_desc"
-msgstr ""
+msgstr "descripción del comando s_sprite"
 
 msgid "chat_scenegraph_cmd_s_sprite_param_texture_desc"
-msgstr ""
+msgstr "descripción del comando s_sprite, parámetro texture"
 
 msgid "chat_scenegraph_cmd_s_text_desc"
-msgstr ""
+msgstr "descripción del comando s_text"
 
 msgid "chat_scenegraph_cmd_s_text_param_thetext_desc"
-msgstr ""
+msgstr "descripción del comando s_text, parámetro thetext"
 
 msgid "chat_server_cmd_annotation_add_desc"
-msgstr ""
+msgstr "añade una anotación en tu posición actual"
 
 msgid "chat_server_cmd_annotation_add_param_text_desc"
-msgstr ""
+msgstr "comentario de anotación"
 
 msgid "chat_server_cmd_annotation_list_desc"
-msgstr ""
+msgstr "lista tus anotaciones"
 
 msgid "chat_server_cmd_annotation_remove_desc"
-msgstr ""
+msgstr "elimina una anotación"
 
 msgid "chat_server_cmd_annotation_remove_param_id_desc"
-msgstr ""
+msgstr "id de anotación"
 
 msgid "chat_server_cmd_gm_help_desc"
-msgstr ""
+msgstr "envía una solicitud de ayuda a todos los GMs en línea"
 
 msgid "chat_server_cmd_gm_help_param_text_desc"
-msgstr ""
+msgstr "una descripción de tu problema"
 
 msgid "chat_server_cmd_gm_hide_desc"
 msgstr ""
+"oculta al maestro de juego de los susurros no-GM - los jugadores no-GM te "
+"ven como desconectado"
 
 msgid "chat_server_cmd_gm_hide_param_hide_desc"
-msgstr ""
+msgstr "verdadero para ocultarse de susurros, falso para desactivar"
 
 msgid "chat_server_cmd_gm_report_desc"
-msgstr ""
+msgstr "envía un informe de abuso o error a todos los GMs en línea"
 
 msgid "chat_server_cmd_gm_report_param_text_desc"
 msgstr ""
+"una descripción del problema, incluyendo nombres y posiciones de jugadores "
+"relevantes"
 
 msgid "chat_server_cmd_ignore_desc"
-msgstr ""
+msgstr "añade un apodo a tu lista de ignorados"
 
 msgid "chat_server_cmd_ignore_param_nick_desc"
-msgstr ""
+msgstr "el apodo a ignorar"
 
 msgid "chat_server_cmd_ignore_param_reason_desc"
-msgstr ""
+msgstr "la razón del ignore, no se muestra a nadie excepto a ti"
 
 msgid "chat_server_cmd_ignore_param_type_desc"
 msgstr ""
+"lista separada por comas de tipos de mensajes de chat a ignorar: público, "
+"privado"
 
 msgid "chat_server_cmd_ignorelist_desc"
-msgstr ""
+msgstr "muestra tu lista de ignorados"
 
 msgid "chat_server_cmd_msg_desc"
-msgstr ""
+msgstr "envía un mensaje a un jugador específico"
 
 msgid "chat_server_cmd_msg_param_nick1_desc"
-msgstr ""
+msgstr "el nombre del jugador"
 
 msgid "chat_server_cmd_msg_param_nick2_desc"
-msgstr ""
+msgstr "el apellido del jugador"
 
 msgid "chat_server_cmd_msg_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_roll_clan_desc"
 msgstr ""
+"realiza una tirada de dados y muestra los resultados a todos los miembros "
+"del clan"
 
 msgid "chat_server_cmd_roll_desc"
-msgstr ""
+msgstr "realiza una tirada de dados simple y muestra los resultados"
 
 msgid "chat_server_cmd_roll_param_desc"
 msgstr ""
+"el número de caras que debe tener el dado lanzado, 'D-número' (Mínimo: 2, "
+"Máximo: 100, Predeterminado: 6)"
 
 msgid "chat_server_cmd_roll_party_desc"
 msgstr ""
+"realiza una tirada de dados y muestra los resultados a todos los miembros "
+"del grupo"
 
 msgid "chat_server_cmd_say_admin_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los Administradores conectados"
 
 msgid "chat_server_cmd_say_agon_desc"
-msgstr ""
+msgstr "retransmite un mensaje global a todos los demás jugadores de Agon"
 
 msgid "chat_server_cmd_say_chaos_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los jugadores alineados negativamente"
 
 msgid "chat_server_cmd_say_clan_alliance_desc"
 msgstr ""
+"retransmite un mensaje a todos los miembros de todos los clanes donde tanto "
+"tu clan como el otro clan se consideran aliados mutuamente."
 
 msgid "chat_server_cmd_say_clan_desc"
-msgstr ""
+msgstr "retransmite un mensaje a otros jugadores del clan del jugador"
 
 msgid "chat_server_cmd_say_clan_officers_desc"
-msgstr ""
+msgstr "retransmite un mensaje a los oficiales del clan del jugador"
 
 msgid "chat_server_cmd_say_clan_officers_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_clan_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_desc"
-msgstr ""
+msgstr "retransmite un mensaje a otros jugadores en las proximidades"
 
 msgid "chat_server_cmd_say_global_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los demás jugadores"
 
 msgid "chat_server_cmd_say_global_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_gm_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los GMs conectados"
 
 msgid "chat_server_cmd_say_gm_events_desc"
-msgstr ""
+msgstr "envía un anuncio de Eventos de GM a todos los jugadores"
 
 msgid "chat_server_cmd_say_mgm_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los Master GMs conectados"
 
 msgid "chat_server_cmd_say_newplayers_desc"
-msgstr ""
+msgstr "retransmite un mensaje a todos los demás jugadores nuevos"
 
 msgid "chat_server_cmd_say_node_desc"
 msgstr ""
+"retransmite un mensaje a todos los demás jugadores en un nodo de servidor "
+"específico"
 
 msgid "chat_server_cmd_say_node_param_node_desc"
-msgstr ""
+msgstr "la identificación del nodo"
 
 msgid "chat_server_cmd_say_node_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_order_desc"
-msgstr ""
+msgstr "repercute un mensaje a todos los demás jugadores de alineación positiva"
 
 msgid "chat_server_cmd_say_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_party_desc"
-msgstr ""
+msgstr "repercute un mensaje a otros jugadores en el grupo del jugador"
 
 msgid "chat_server_cmd_say_party_param_text_desc"
-msgstr ""
+msgstr "el mensaje a decir"
 
 msgid "chat_server_cmd_say_recruiting_desc"
 msgstr ""
+"repercute un mensaje a todos los jugadores sobre el tema de reclutamiento de "
+"clan"
 
 msgid "chat_server_cmd_say_trade_desc"
-msgstr ""
+msgstr "repercute un mensaje comercial global a todos los demás jugadores"
 
 msgid "chat_server_cmd_team_desc"
 msgstr ""
+"realiza una operación especificada en el administrador de equipos en el "
+"servidor"
 
 msgid "chat_server_cmd_team_param1_desc"
-msgstr ""
+msgstr "el tipo de comando de equipo a realizar"
 
 msgid "chat_server_cmd_team_param2_desc"
-msgstr ""
+msgstr "el nombre de jugador o nombre de equipo afectado"
 
 msgid "chat_server_cmd_team_param3_desc"
-msgstr ""
+msgstr "el nombre de equipo afectado"
 
 msgid "chat_server_cmd_test1_desc"
-msgstr ""
+msgstr "descripción de test1"
 
 msgid "chat_server_cmd_test2_desc"
-msgstr ""
+msgstr "descripción de test2"
 
 msgid "chat_server_cmd_test3_desc"
-msgstr ""
+msgstr "descripción de test3"
 
 msgid "chat_server_cmd_test4_desc"
-msgstr ""
+msgstr "descripción de test4"
 
 msgid "chat_server_cmd_test5_desc"
-msgstr ""
+msgstr "descripción de test5"
 
 msgid "chat_server_cmd_unignore_desc"
-msgstr ""
+msgstr "elimina un apodo de tu lista de ignorados"
 
 msgid "chat_server_cmd_unignore_param_nick_desc"
-msgstr ""
+msgstr "el apodo a dejar de ignorar"
 
 msgid "chat_server_prop_n_additive_updatecheck_desc"
-msgstr ""
+msgstr "descripción de la propiedad n_additive_updatecheck"
 
 msgid "chat_server_prop_n_client_to_server_updaterate_desc"
-msgstr ""
+msgstr "descripción de la propiedad n_client_to_server_updaterate"
 
 msgid "chat_server_prop_n_server_to_client_updaterate_desc"
-msgstr ""
+msgstr "descripción de la propiedad n_server_to_client_updaterate"
 
 msgid "chat_server_prop_n_subscriber_updaterate_desc"
-msgstr ""
+msgstr "descripción de la propiedad n_subscriber_updaterate"
 
 msgid "chat_special_cmd_a_city_load"
-msgstr ""
+msgstr "Cargar una ciudad. (Comando de administrador)"
 
 msgid "chat_special_cmd_g_camera_path"
-msgstr ""
+msgstr "Reproduce una ruta de cámara definida en el archivo especificado"
 
 msgid "chat_special_cmd_g_load_environment"
-msgstr ""
+msgstr "Cargar un archivo de entorno."
 
 msgid "chat_sys_skill_failed"
-msgstr ""
+msgstr "habilidad fallida"
 
 msgid "chat_sys_skill_succeeded"
-msgstr ""
+msgstr "habilidad exitosa"
 
 msgid "chat_sys_vendor_failed"
-msgstr ""
+msgstr "operación de vendedor fallida"
 
 msgid "chat_sys_vendor_succeeded"
-msgstr ""
+msgstr "operación de vendedor exitosa"
 
 msgid "chat_window_fps"
-msgstr ""
+msgstr " - FPS: %1"
 
 msgid "chat_window_ping"
-msgstr ""
+msgstr " - Ping: %1"
 
 msgid "chat_window_title"
-msgstr ""
+msgstr "Chat"
 
 msgid "choose_appearance"
-msgstr ""
+msgstr "Elegir apariencia del personaje"
 
 msgid "choose_character_name"
-msgstr ""
+msgstr "Elegir nombre del personaje"
 
 msgid "choose_gender"
-msgstr ""
+msgstr "Elegir género"
 
 msgid "choose_your_race"
-msgstr ""
+msgstr "Elige la raza de tu personaje"
 
 msgid "citybuilding_categories_close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "citybuilding_categories_view"
-msgstr ""
+msgstr "Ver"
 
 msgid "citybuilding_item_label"
 msgstr ""
+"%1\r\n"
+"%2"
 
 msgid "citybuilding_items_create"
-msgstr ""
+msgstr "Crear"
 
 msgid "citybuilding_items_return"
-msgstr ""
+msgstr "Volver"
 
 msgid "citybuilding_items_upgrade"
-msgstr ""
+msgstr "Mejorar"
 
 msgid "citybuilding_maintenance_payment"
-msgstr ""
+msgstr "Pagar"
 
 msgid "citybuilding_window_title"
-msgstr ""
+msgstr "Construcción de ciudades"
 
 msgid "clan_activity_window_active_start_time"
-msgstr ""
+msgstr "Hora de inicio activa"
 
 msgid "clan_activity_window_constraint_error"
 msgstr ""
+"La hora activa debe estar fuera de las horas invulnerables y no solaparse "
+"dentro de una hora de cada lado"
 
 msgid "clan_activity_window_constraint_overlap_error"
 msgstr ""
+"La hora invulnerable debe estar fuera de las horas activas y no solaparse "
+"dentro de una hora de cada lado"
 
 msgid "clan_activity_window_constraint_same_time_error"
-msgstr ""
+msgstr "La hora activa y la hora invulnerable no pueden ser iguales"
 
 msgid "clan_activity_window_display_current_time"
-msgstr ""
+msgstr "Hora actual: %1"
 
 msgid "clan_activity_window_display_none_found"
-msgstr ""
+msgstr "Ninguno encontrado"
 
 msgid "clan_activity_window_display_stage_active"
-msgstr ""
+msgstr "Activo"
 
 msgid "clan_activity_window_display_stage_inactive"
-msgstr ""
+msgstr "Inactivo"
 
 msgid "clan_activity_window_display_stage_invulnerable"
-msgstr ""
+msgstr "Invulnerable"
 
 msgid "clan_activity_window_display_stage_name_and_range"
-msgstr ""
+msgstr "%1 de %2 a %3"
 
 msgid "clan_activity_window_display_title"
-msgstr ""
+msgstr "Ventanas de actividad"
 
 msgid "clan_activity_window_invulnerable_start_time"
-msgstr ""
+msgstr "Hora de inicio invulnerable"
 
 msgid "clan_activity_window_window_description"
 msgstr ""
+"(0 = Medianoche | Mostrando tu zona horaria)\n"
+"\n"
+"\n"
+"La hora de inicio \"invulnerable\" es la hora invulnerable cuando comenzará "
+"la ventana invulnerable de tu clan. Durante este tiempo, los activos de tu "
+"clan estarán protegidos de asedios y destrucción.\n"
+"\n"
+" La hora de inicio \"activa\" es la hora activa cuando comenzará la ventana "
+"activa de tu clan. Durante este tiempo, tus nodos de clan estarán activos "
+"para cosecha y deberá ser tu momento más activo\n"
+"\n"
+"La ventana de inactividad será todo el tiempo fuera de tus períodos activos "
+"e invulnerables"
 
 msgid "clan_political_relationship_standing_description_eight"
-msgstr ""
+msgstr "Puede usar todas las estaciones de artesanía y comerciantes."
 
 msgid "clan_political_relationship_standing_description_five"
-msgstr ""
+msgstr "Puede usar todas las estaciones de artesanía y comerciantes."
 
 msgid "clan_political_relationship_standing_description_four"
 msgstr ""
+"Puede usar comerciantes.\n"
+"No será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_eight"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_five"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_four"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_nine"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_one"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Wil será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_seven"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_six"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_ten"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia.\n"
+"Puede ser declarado objetivo de guerra."
 
 msgid "clan_political_relationship_standing_description_neg_three"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neg_two"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_neutral"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"Será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_nine"
 msgstr ""
+"Se pueden usar todas las instalaciones.\n"
+"Puede vincularse en la piedra de vinculación."
 
 msgid "clan_political_relationship_standing_description_one"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"No será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_seven"
-msgstr ""
+msgstr "Puede usar todas las estaciones de artesanía y comerciantes."
 
 msgid "clan_political_relationship_standing_description_six"
-msgstr ""
+msgstr "Puede usar todas las estaciones de artesanía y comerciantes."
 
 msgid "clan_political_relationship_standing_description_ten"
 msgstr ""
+"Se pueden usar todas las instalaciones.\n"
+"Puede vincularse en la piedra de vinculación.\n"
+"Puede abrir puertas."
 
 msgid "clan_political_relationship_standing_description_three"
 msgstr ""
+"Puede usar comerciantes.\n"
+"No será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_description_two"
 msgstr ""
+"No se pueden usar instalaciones.\n"
+"No será disparado por las torres de guardia."
 
 msgid "clan_political_relationship_standing_value_0"
-msgstr ""
+msgstr "0 Neutral"
 
 msgid "clan_role_description_auditor"
-msgstr ""
+msgstr "Auditor"
 
 msgid "clan_role_description_city_manager"
-msgstr ""
+msgstr "Gerente de Ciudad"
 
 msgid "clan_role_description_communications_officer"
-msgstr ""
+msgstr "Oficial de Comunicaciones"
 
 msgid "clan_role_description_construction_auditor"
-msgstr ""
+msgstr "Auditor de Construcción"
 
 msgid "clan_role_description_construction_manager"
-msgstr ""
+msgstr "Gerente de Construcción"
 
 msgid "clan_role_description_diplomat"
-msgstr ""
+msgstr "Diplomático"
 
 msgid "clan_role_description_director"
-msgstr ""
+msgstr "Director"
 
 msgid "clan_role_description_member"
-msgstr ""
+msgstr "Miembro"
 
 msgid "clan_role_description_none"
-msgstr ""
+msgstr "No Miembro"
 
 msgid "clan_role_description_personnel_auditing"
-msgstr ""
+msgstr "Auditor de Personal"
 
 msgid "clan_role_description_personnel_manager"
-msgstr ""
+msgstr "Gerente de Personal"
 
 msgid "clan_role_description_security_officer"
-msgstr ""
+msgstr "Oficial de Seguridad"
 
 msgid "clan_role_description_vault_one_container_take"
-msgstr ""
+msgstr "Tomar del Contenedor Bóveda 1"
 
 msgid "clan_role_description_vault_one_query"
-msgstr ""
+msgstr "Ver Bóveda 1"
 
 msgid "clan_role_description_vault_one_take"
-msgstr ""
+msgstr "Tomar de Bóveda 1"
 
 msgid "clan_role_description_vault_three_container_take"
-msgstr ""
+msgstr "Tomar del Contenedor Bóveda 3"
 
 msgid "clan_role_description_vault_three_query"
-msgstr ""
+msgstr "Ver Bóveda 3"
 
 msgid "clan_role_description_vault_three_take"
-msgstr ""
+msgstr "Tomar de Bóveda 3"
 
 msgid "clan_role_description_vault_two_container_take"
-msgstr ""
+msgstr "Tomar del Contenedor Bóveda 2"
 
 msgid "clan_role_description_vault_two_query"
-msgstr ""
+msgstr "Ver Bóveda 2"
 
 msgid "clan_role_description_vault_two_take"
-msgstr ""
+msgstr "Tomar de Bóveda 2"
 
 msgid "clan_role_description_view_diplomacy"
-msgstr ""
+msgstr "Diplomático Junior"
 
 msgid "clan_role_description_warfare_specialist"
-msgstr ""
+msgstr "Especialista en Guerra"
 
 msgid "clan_role_name_auditor"
-msgstr ""
+msgstr "Puede ver los roles de los miembros."
 
 msgid "clan_role_name_city_manager"
 msgstr ""
+"Puede añadir o eliminar la capacidad de los jugadores individuales de "
+"vincularse en una ciudad."
 
 msgid "clan_role_name_communications_officer"
-msgstr ""
+msgstr "Puede establecer el mensaje del día del clan."
 
 msgid "clan_role_name_construction_auditor"
-msgstr ""
+msgstr "Puede ver la lista de elementos de la ciudad del clan."
 
 msgid "clan_role_name_construction_manager"
-msgstr ""
+msgstr "Puede construir componentes de la ciudad del clan."
 
 msgid "clan_role_name_diplomat"
-msgstr ""
+msgstr "Puede establecer la posición del clan hacia clanes e individuos."
 
 msgid "clan_role_name_director"
 msgstr ""
+"Incluye todos los demás roles y puede asignar roles hasta Director. Solo "
+"puede ser aplicado por el General Supremo."
 
 msgid "clan_role_name_member"
-msgstr ""
+msgstr "El estado de miembro predeterminado permite el uso de instalaciones."
 
 msgid "clan_role_name_none"
-msgstr ""
+msgstr "Todos los derechos revocados, no se pueden usar instalaciones."
 
 msgid "clan_role_name_personnel_auditing"
-msgstr ""
+msgstr "Puede ver la lista completa de miembros del clan."
 
 msgid "clan_role_name_personnel_manager"
-msgstr ""
+msgstr "Puede enviar invitaciones del clan y aceptar solicitudes."
 
 msgid "clan_role_name_security_officer"
-msgstr ""
+msgstr "Puede operar las puertas de la ciudad."
 
 msgid "clan_role_name_vault_one_container_take"
-msgstr ""
+msgstr "Puede eliminar el contenido del contenedor de la bóveda 1."
 
 msgid "clan_role_name_vault_one_query"
-msgstr ""
+msgstr "Puede ver artículos en la bóveda 1."
 
 msgid "clan_role_name_vault_one_take"
-msgstr ""
+msgstr "Puede ver y tomar artículos de la bóveda 1."
 
 msgid "clan_role_name_vault_three_container_take"
-msgstr ""
+msgstr "Puede eliminar el contenido del contenedor de la bóveda 3."
 
 msgid "clan_role_name_vault_three_query"
-msgstr ""
+msgstr "Puede ver artículos en la bóveda 3."
 
 msgid "clan_role_name_vault_three_take"
-msgstr ""
+msgstr "Puede ver y tomar artículos de la bóveda 3."
 
 msgid "clan_role_name_vault_two_container_take"
-msgstr ""
+msgstr "Puede remover el contenido del contenedor de la bóveda 2."
 
 msgid "clan_role_name_vault_two_query"
-msgstr ""
+msgstr "Puede ver elementos en la bóveda 2."
 
 msgid "clan_role_name_vault_two_take"
-msgstr ""
+msgstr "Puede ver y tomar elementos de la bóveda 2."
 
 msgid "clan_role_name_view_diplomacy"
-msgstr ""
+msgstr "Puede ver la configuración de diplomacia del clan."
 
 msgid "clan_role_name_warfare_specialist"
-msgstr ""
+msgstr "Puede administrar la guerra."
 
 msgid "clan_window_browse_clans_headers_clan_name"
-msgstr ""
+msgstr "Nombre del clan"
 
 msgid "clan_window_browse_clans_headers_member_count"
-msgstr ""
+msgstr "Miembros"
 
 msgid "clan_window_clan_info_apply_to_clan"
-msgstr ""
+msgstr "Aplicar"
 
 msgid "clan_window_clan_info_clan_motto"
-msgstr ""
+msgstr "Lema del clan"
 
 msgid "clan_window_clan_info_member_count"
-msgstr ""
+msgstr "Número de miembros"
 
 msgid "clan_window_clan_info_politics_relations_standing"
-msgstr ""
+msgstr "Posición"
 
 msgid "clan_window_create_clan"
-msgstr ""
+msgstr "Crear Clan"
 
 msgid "clan_window_diplomacy_bank_policy_all_access"
-msgstr ""
+msgstr "Acceso a todos"
 
 msgid "clan_window_diplomacy_bank_policy_all_but_enemies"
-msgstr ""
+msgstr "Acceso a todos excepto enemigos"
 
 msgid "clan_window_diplomacy_bank_policy_allies"
-msgstr ""
+msgstr "Acceso a aliados"
 
 msgid "clan_window_diplomacy_bank_policy_clan_only"
-msgstr ""
+msgstr "Acceso solo a miembros del clan"
 
 msgid "clan_window_diplomacy_bank_policy_title"
-msgstr ""
+msgstr "Selecciona la política de banco para tu clan."
 
 msgid "clan_window_diplomacy_guard_tower_policy_kill_all_but_allies"
-msgstr ""
+msgstr "Mata a todos excepto a los aliados"
 
 msgid "clan_window_diplomacy_guard_tower_policy_kill_only_war_targets"
-msgstr ""
+msgstr "Mata solo a objetivos de guerra"
 
 msgid "clan_window_diplomacy_guard_tower_policy_never_attack_anyone"
-msgstr ""
+msgstr "Nunca ataques a nadie"
 
 msgid "clan_window_diplomacy_guard_tower_policy_title"
 msgstr ""
+"Selecciona la política de guardia para las torres de guardia de la ciudad de "
+"tu clan."
 
 msgid "clan_window_general_accept_new_members"
-msgstr ""
+msgstr "Aceptar Nuevos Miembros"
 
 msgid "clan_window_general_alignment"
-msgstr ""
+msgstr "Alineación del Clan:"
 
 msgid "clan_window_general_allow"
-msgstr ""
+msgstr "Permitir"
 
 msgid "clan_window_general_allowed_alignment"
-msgstr ""
+msgstr "Alineación Permitida"
 
 msgid "clan_window_general_allowed_races"
-msgstr ""
+msgstr "Razas Permitidas"
 
 msgid "clan_window_general_apply_changes"
-msgstr ""
+msgstr "Aplicar Cambios"
 
 msgid "clan_window_general_cities"
-msgstr ""
+msgstr "Ciudades:"
 
 msgid "clan_window_general_members"
-msgstr ""
+msgstr "Miembros:"
 
 msgid "clan_window_general_options"
-msgstr ""
+msgstr "Opciones del Clan"
 
 msgid "clan_window_general_popularity"
-msgstr ""
+msgstr "Popularidad del Clan:"
 
 msgid "clan_window_general_races"
-msgstr ""
+msgstr "Razas:"
 
 msgid "clan_window_glyphs_global_tax"
-msgstr ""
+msgstr "Impuesto Global: "
 
 msgid "clan_window_glyphs_invalid_area_tax_multiple"
-msgstr ""
+msgstr "Cantidad de impuesto inválida (debe ser múltiplo de 100) para %1"
 
 msgid "clan_window_glyphs_invalid_global_tax_multiple"
-msgstr ""
+msgstr "Cantidad de impuesto global inválida (debe ser múltiplo de 100)"
 
 msgid "clan_window_header_filter"
-msgstr ""
+msgstr "Filtro: "
 
 msgid "clan_window_headers_action"
-msgstr ""
+msgstr "Acción"
 
 msgid "clan_window_headers_clan"
-msgstr ""
+msgstr "Clan"
 
 msgid "clan_window_headers_player"
-msgstr ""
+msgstr "Jugador"
 
 msgid "clan_window_headers_races"
-msgstr ""
+msgstr "Razas"
 
 msgid "clan_window_headers_rank"
-msgstr ""
+msgstr "Rango"
 
 msgid "clan_window_holdings_area"
-msgstr ""
+msgstr "Área"
 
 msgid "clan_window_holdings_binds_remove_player"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "clan_window_holdings_city"
-msgstr ""
+msgstr "Ciudad"
 
 msgid "clan_window_holdings_city_binds"
-msgstr ""
+msgstr "Vinculaciones de Ciudad"
 
 msgid "clan_window_holdings_make_mayor"
-msgstr ""
+msgstr "Nombrar Alcalde"
 
 msgid "clan_window_holdings_mayor"
-msgstr ""
+msgstr "Alcalde"
 
 msgid "clan_window_holdings_population"
-msgstr ""
+msgstr "Población"
 
 msgid "clan_window_holdings_power"
-msgstr ""
+msgstr "Poder"
 
 msgid "clan_window_holdings_vulnerable"
-msgstr ""
+msgstr "Vulnerable"
 
 msgid "clan_window_members_accept"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "clan_window_members_applications"
-msgstr ""
+msgstr "Solicitudes"
 
 msgid "clan_window_members_can_only_have_one_supreme_general"
-msgstr ""
+msgstr "Solo puedes ascender a 1 miembro a General Supremo."
 
 msgid "clan_window_members_context_menu_ban_member"
-msgstr ""
+msgstr "Expulsar Miembro"
 
 msgid "clan_window_members_context_menu_edit_rank"
-msgstr ""
+msgstr "Editar Rango"
 
 msgid "clan_window_members_context_menu_kick_member"
-msgstr ""
+msgstr "Expulsar Miembro"
 
 msgid "clan_window_members_context_menu_leave_clan"
-msgstr ""
+msgstr "Abandonar Clan"
 
 msgid "clan_window_members_headers_alignment"
-msgstr ""
+msgstr "Alineación"
 
 msgid "clan_window_members_headers_gender"
-msgstr ""
+msgstr "Género"
 
 msgid "clan_window_members_headers_name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "clan_window_members_headers_race"
-msgstr ""
+msgstr "Raza"
 
 msgid "clan_window_members_headers_status"
-msgstr ""
+msgstr "Estado"
 
 msgid "clan_window_members_members"
-msgstr ""
+msgstr "Miembros"
 
 msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
 msgstr ""
+"No tienes el rango requerido para ascender a un miembro a Generalísimo "
+"Supremo."
 
 msgid "clan_window_members_reject"
-msgstr ""
+msgstr "Rechazar"
 
 msgid "clan_window_members_resign_dialog_description"
 msgstr ""
+"¡Al aceptar este mensaje te estás resignando como Generalísimo Supremo y "
+"promocionando a %1 para que tome tu lugar!"
 
 msgid "clan_window_members_resign_dialog_title"
-msgstr ""
+msgstr "¿Renunciar como Generalísimo Supremo?"
 
 msgid "clan_window_members_status_offline"
-msgstr ""
+msgstr "Desconectado"
 
 msgid "clan_window_members_status_online"
-msgstr ""
+msgstr "En línea"
 
 msgid "clan_window_news_headers_date"
-msgstr ""
+msgstr "Fecha"
 
 msgid "clan_window_news_headers_event"
-msgstr ""
+msgstr "Evento"
 
 msgid "clan_window_tabs_activity_window"
-msgstr ""
+msgstr "Ventana de Actividad"
 
 msgid "clan_window_tabs_browse_clans"
-msgstr ""
+msgstr "Examinar Clanes"
 
 msgid "clan_window_tabs_diplomacy"
-msgstr ""
+msgstr "Diplomacia"
 
 msgid "clan_window_tabs_general"
-msgstr ""
+msgstr "General"
 
 msgid "clan_window_tabs_holdings"
-msgstr ""
+msgstr "Territorios"
 
 msgid "clan_window_tabs_members"
-msgstr ""
+msgstr "Miembros"
 
 msgid "clan_window_tabs_news"
-msgstr ""
+msgstr "Noticias"
 
 msgid "clan_window_tabs_role_management"
-msgstr ""
+msgstr "Gestión de Roles"
 
 msgid "clan_window_tabs_rune_glyphs"
-msgstr ""
+msgstr "Glifos de Runas"
 
 msgid "clan_window_tabs_vault"
-msgstr ""
+msgstr "Bóveda"
 
 msgid "clan_window_vault_contribution_deposit"
-msgstr ""
+msgstr "Depositar"
 
 msgid "clan_window_vault_contribution_withdraw"
-msgstr ""
+msgstr "Retirar"
 
 msgid "clan_window_vault_date"
-msgstr ""
+msgstr "Fecha"
 
 msgid "clan_window_vault_inventory_type_names_plural_challenge"
-msgstr ""
+msgstr "Desafíos"
 
 msgid "clan_window_vault_inventory_type_names_plural_fortress"
-msgstr ""
+msgstr "Fortalezas"
 
 msgid "clan_window_vault_inventory_type_names_plural_player"
-msgstr ""
+msgstr "Jugadores"
 
 msgid "clan_window_vault_inventory_type_names_plural_station"
-msgstr ""
+msgstr "Estaciones"
 
 msgid "clan_window_vault_inventory_type_names_plural_village"
-msgstr ""
+msgstr "Pueblos"
 
 msgid "clan_window_vault_inventory_type_names_plural_war"
-msgstr ""
+msgstr "Guerras"
 
 msgid "clan_window_vault_inventory_type_names_singular_challenge"
-msgstr ""
+msgstr "Desafío"
 
 msgid "clan_window_vault_inventory_type_names_singular_fortress"
-msgstr ""
+msgstr "Fortaleza"
 
 msgid "clan_window_vault_inventory_type_names_singular_player"
-msgstr ""
+msgstr "Jugador"
 
 msgid "clan_window_vault_inventory_type_names_singular_station"
-msgstr ""
+msgstr "Estación"
 
 msgid "clan_window_vault_inventory_type_names_singular_village"
-msgstr ""
+msgstr "Pueblo"
 
 msgid "clan_window_vault_inventory_type_names_singular_war"
-msgstr ""
+msgstr "Guerra"
 
 msgid "clan_window_vault_period_all"
-msgstr ""
+msgstr "Todos"
 
 msgid "clan_window_vault_period_day"
-msgstr ""
+msgstr "Día"
 
 msgid "clan_window_vault_period_month"
-msgstr ""
+msgstr "Mes"
 
 msgid "clan_window_vault_period_week"
-msgstr ""
+msgstr "Semana"
 
 msgid "clan_window_vault_quantity"
-msgstr ""
+msgstr "Cantidad"
 
 msgid "clan_window_vault_resource"
-msgstr ""
+msgstr "Recurso"
 
 msgid "clan_window_vault_vault"
-msgstr ""
+msgstr "Bóveda"
 
 msgid "clans_window_title"
-msgstr ""
+msgstr "Clanes"
 
 msgid "close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "component_targeting_chaos_city_stone"
-msgstr ""
+msgstr "Piedra de la Ciudad del Caos"
 
 msgid "component_targeting_controlled_by"
-msgstr ""
+msgstr "Controlado por %1"
 
 msgid "component_targeting_dye_colors"
-msgstr ""
+msgstr "Colores de Tinte"
 
 msgid "component_targeting_dye_colors_primary"
-msgstr ""
+msgstr "Principal: %1"
 
 msgid "component_targeting_dye_colors_secondary"
-msgstr ""
+msgstr "Secundario: %1"
 
 msgid "component_targeting_enchantments"
-msgstr ""
+msgstr "Encantamientos:"
 
 msgid "component_targeting_gem_enchantment"
-msgstr ""
+msgstr "Encantamiento de Gema:"
 
 msgid "component_targeting_glyph_alt_use_to_claim"
-msgstr ""
+msgstr "Alt-usa para interactuar y reclamar el glifo."
 
 msgid "component_targeting_glyph_attack_time_remaining"
-msgstr ""
+msgstr "Temporizador de Ataque: %1"
 
 msgid "component_targeting_glyph_challenge_active"
-msgstr ""
+msgstr "¡Un desafío está activo, prepárate para reclamar este glifo!"
 
 msgid "component_targeting_glyph_not_vulnerable"
-msgstr ""
+msgstr "El glifo está actualmente protegido"
 
 msgid "component_targeting_glyph_time_remaining"
-msgstr ""
+msgstr "Tiempo Restante: %1"
 
 msgid "component_targeting_glyph_use_item_to_challenge"
-msgstr ""
+msgstr "Usa un %1 dentro del rango para iniciar un desafío."
 
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
-msgstr ""
+msgstr "Cuando el desafío se complete, el glifo se vuelve vulnerable."
 
 msgid "component_targeting_glyph_vulnerable_for_attack"
-msgstr ""
+msgstr "El glifo es vulnerable"
 
 msgid "component_targeting_glyph_wait_for_timer_to_finish"
-msgstr ""
+msgstr "¡Mantente cerca hasta que el temporizador se agote!"
 
 msgid "component_targeting_obelisk_altar_restoring"
-msgstr ""
+msgstr "Restaurando - %1"
 
 msgid "component_targeting_obelisk_altar_under_attack_countdown"
-msgstr ""
+msgstr "Bajo ataque - %1"
 
 msgid "component_targeting_obelisk_altar_vulnerable"
-msgstr ""
+msgstr "Vulnerable"
 
 msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
-msgstr ""
+msgstr "Vulnerable (Restaurando - %1)"
 
 msgid "component_targeting_owned_by"
-msgstr ""
+msgstr "Propiedad de %1"
 
 msgid "component_targeting_proc_enchantment"
-msgstr ""
+msgstr "Efecto de Hechizo:"
 
 msgid "conquest_attack_attacker_vulnerable_city_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados. %SIEGESTONESLEFT% Piedras "
+"de Asedio restantes."
 
 msgid "conquest_attack_attacker_vulnerable_city_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_attacker_vulnerable_city_wall_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados.Destruye %WALLSLEFT% "
+"muros.%SIEGESTONESLEFT% Piedras de Asedio restantes."
 
 msgid "conquest_attack_attacker_vulnerable_city_wall_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_attacker_vulnerable_nocity_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%SIEGESTONESLEFT% Piedras de "
+"Asedio restantes."
 
 msgid "conquest_attack_attacker_vulnerable_nocity_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_attacker_vulnerable_nocity_wall_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.Destruye %WALLSLEFT% "
+"muros.%SIEGESTONESLEFT% Piedras de Asedio restantes."
 
 msgid "conquest_attack_attacker_vulnerable_nocity_wall_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_challenge_attacker_count_label"
-msgstr ""
+msgstr "Fuerzas Atacantes:"
 
 msgid "conquest_attack_challenge_attacker_stones_label"
-msgstr ""
+msgstr "Tus Piedras de Asedio:"
 
 msgid "conquest_attack_challenge_defender_clan_name_label"
-msgstr ""
+msgstr "Clan:"
 
 msgid "conquest_attack_challenge_defender_walls_label"
-msgstr ""
+msgstr "Muros a Destruir:"
 
 msgid "conquest_attack_challenge_phase_name_label"
-msgstr ""
+msgstr "Fase:"
 
 msgid "conquest_attack_countdown_timer_postfix"
-msgstr ""
+msgstr " hasta que comience el Asedio contra %CITYNAME%"
 
 msgid "conquest_attack_countdown_timer_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_countdown_timer_walls_postfix"
 msgstr ""
+" hasta que comience el Asedio contra %CITYNAME%. Destruye %WALLSLEFT% Muros "
+"más."
 
 msgid "conquest_attack_countdown_timer_walls_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_rabbit_stage_one_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable. ¡Defiende a %RABBITFIRSTNAME% "
+"%RABBITLASTNAME%!"
 
 msgid "conquest_attack_rabbit_stage_one_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_rabbit_stage_two_postfix"
 msgstr ""
+" hasta que el Desafío termine. ¡Defiende a %RABBITFIRSTNAME% "
+"%RABBITLASTNAME%!"
 
 msgid "conquest_attack_rabbit_stage_two_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_siege_stone_placement_postfix"
-msgstr ""
+msgstr " para colocar una Piedra de Asedio."
 
 msgid "conquest_attack_siege_stone_placement_prefix"
-msgstr ""
+msgstr "Tienes "
 
 msgid "conquest_attack_stage_one_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable. %POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados por los defensores."
 
 msgid "conquest_attack_stage_one_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_attack_stage_two_postfix"
 msgstr ""
+" hasta que el Desafío termine. %POWERPOINTSGATHERED%/%POWERPOINTSTOTAL% "
+"Puntos de Ciudad recopilados por los defensores."
 
 msgid "conquest_attack_stage_two_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defence_challenge_defender_walls_label"
-msgstr ""
+msgstr "Muros que los Atacantes Necesitan Destruir:"
 
 msgid "conquest_defend_attacker_vulnerable_city_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados.%SIEGESTONESLEFT% Piedras de "
+"Asedio restantes para destruir."
 
 msgid "conquest_defend_attacker_vulnerable_city_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_attacker_vulnerable_city_wall_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados.%WALLSLEFT% muros restantes. "
+"Destruye %SIEGESTONESLEFT% Piedras de Asedio."
 
 msgid "conquest_defend_attacker_vulnerable_city_wall_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_attacker_vulnerable_nocity_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable.%SIEGESTONESLEFT% Piedras de "
+"Asedio restantes para destruir."
 
 msgid "conquest_defend_attacker_vulnerable_nocity_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_attacker_vulnerable_nocity_wall_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable. %WALLSLEFT% muros restantes. "
+"Destruye %SIEGESTONESLEFT% Piedras de Asedio."
 
 msgid "conquest_defend_attacker_vulnerable_nocity_wall_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_countdown_timer_postfix"
-msgstr ""
+msgstr " hasta que comience el Asedio contra %CITYNAME%"
 
 msgid "conquest_defend_countdown_timer_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_countdown_timer_walls_postfix"
 msgstr ""
+" hasta que comience el Asedio contra %CITYNAME%. %WALLSLEFT% restantes para "
+"protección."
 
 msgid "conquest_defend_countdown_timer_walls_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_rabbit_stage_one_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable. ¡Mata a %RABBITFIRSTNAME% "
+"%RABBITLASTNAME% para ganar el desafío!"
 
 msgid "conquest_defend_rabbit_stage_one_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_rabbit_stage_two_postfix"
 msgstr ""
+" hasta que termine el Desafío. ¡Mata a %RABBITFIRSTNAME% %RABBITLASTNAME% "
+"para ganar el desafío!"
 
 msgid "conquest_defend_rabbit_stage_two_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_siege_stone_placement_postfix"
-msgstr ""
+msgstr " para colocar una Piedra de Asedio."
 
 msgid "conquest_defend_siege_stone_placement_prefix"
-msgstr ""
+msgstr "Los atacantes tienen "
 
 msgid "conquest_defend_stage_one_postfix"
 msgstr ""
+" hasta que %CITYNAME% se vuelva vulnerable. %POWERPOINTSGATHERED%/"
+"%POWERPOINTSTOTAL% Puntos de Ciudad recopilados."
 
 msgid "conquest_defend_stage_one_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_defend_stage_two_postfix"
 msgstr ""
+" hasta que termine el Desafío. %POWERPOINTSGATHERED%/%POWERPOINTSTOTAL% "
+"Puntos de Ciudad recopilados."
 
 msgid "conquest_defend_stage_two_prefix"
-msgstr ""
+msgstr " "
 
 msgid "conquest_label_no_challenges"
 msgstr ""
+"No hay desafíos activos\r\n"
+"para mostrar en este momento.\r\n"
+"\r\n"
+"Solo los desafíos activos\r\n"
+"en los que participas directamente\r\n"
+"se mostrarán aquí."
 
 msgid "conquest_window_title"
-msgstr ""
+msgstr "Conquista"
 
 msgid "context_menu_bind_to_chaos_stone"
-msgstr ""
+msgstr "Vincularse a la Ciudad del Caos"
 
 msgid "context_menu_bind_to_city"
-msgstr ""
+msgstr "Vincularse a la Ciudad"
 
 msgid "context_menu_build_city"
-msgstr ""
+msgstr "Construir Ciudad"
 
 msgid "context_menu_chaos_bindstone_attack"
-msgstr ""
+msgstr "Conquistar Glifo de Runa"
 
 msgid "context_menu_chaos_bindstone_menu"
-msgstr ""
+msgstr "Crear Ubicación en Libro de Runas"
 
 msgid "context_menu_city_maintenance"
-msgstr ""
+msgstr "Mantenimiento de Feudo"
 
 msgid "context_menu_invite_player_to_house"
-msgstr ""
+msgstr "Invitar a Casa"
 
 msgid "context_menu_invite_to_clan"
-msgstr ""
+msgstr "Invitar a Clan"
 
 msgid "context_menu_invite_to_party"
-msgstr ""
+msgstr "Invitar a Grupo"
 
 msgid "context_menu_open_billboard"
-msgstr ""
+msgstr "Abrir Tablón de Anuncios"
 
 msgid "context_menu_open_clan_account"
-msgstr ""
+msgstr "Bóveda del Clan 2"
 
 msgid "context_menu_open_clan_account2"
-msgstr ""
+msgstr "Bóveda del Clan 1"
 
 msgid "context_menu_open_clan_account3"
-msgstr ""
+msgstr "Bóveda del Clan 3"
 
 msgid "context_menu_open_clan_account4"
-msgstr ""
+msgstr "Bóveda del Clan 4"
 
 msgid "context_menu_open_clan_account5"
-msgstr ""
+msgstr "Bóveda del Clan 5"
 
 msgid "context_menu_open_local_safe"
-msgstr ""
+msgstr "Abrir Caja Fuerte"
 
 msgid "context_menu_open_market"
-msgstr ""
+msgstr "Abrir Mercado"
 
 msgid "context_menu_open_personal_account"
-msgstr ""
+msgstr "Abrir Banco"
 
 msgid "context_menu_open_personal_account2"
-msgstr ""
+msgstr "Extensión de Banco"
 
 msgid "context_menu_open_personal_account2_disabled_premium"
-msgstr ""
+msgstr "Extensión de Banco (compra necesaria)"
 
 msgid "context_menu_pay_house_taxes"
-msgstr ""
+msgstr "Pagar Impuestos de Casa"
 
 msgid "context_menu_start_player_trade"
-msgstr ""
+msgstr "Iniciar Comercio"
 
 msgid "context_menu_transfer_house_to_player"
-msgstr ""
+msgstr "Transferir Casa al Jugador"
 
 msgid "context_menu_unspawn_object"
-msgstr ""
+msgstr "Desaparecer"
 
 msgid "context_menu_whisper_to_player"
-msgstr ""
+msgstr "Susurro"
 
 msgid "craft_prompt_window_title"
-msgstr ""
+msgstr "Seleccionar Habilidad de Artesanía"
 
 msgid "crafting_all_button_text"
-msgstr ""
+msgstr "Máx"
 
 msgid "crafting_amount_label_text"
-msgstr ""
+msgstr "Cantidad:"
 
 msgid "crafting_chances_label_text"
-msgstr ""
+msgstr "Probabilidad de Éxito:"
 
 msgid "crafting_create_button_text"
-msgstr ""
+msgstr "Crear"
 
 msgid "crafting_duration_label_text"
-msgstr ""
+msgstr "Tiempo de creación:"
 
 msgid "crafting_items_label_text"
-msgstr ""
+msgstr "Objetos:"
 
 msgid "crafting_recipe_label_text"
-msgstr ""
+msgstr "Componentes:"
 
 msgid "crafting_window_title"
-msgstr ""
+msgstr "Artesanía"
 
 msgid "create_char"
-msgstr ""
+msgstr "Crear"
 
 msgid "decline"
-msgstr ""
+msgstr "Rechazar"
 
 msgid "display_modes_borderless"
-msgstr ""
+msgstr "Sin bordes"
 
 msgid "display_modes_full_screen"
-msgstr ""
+msgstr "Pantalla completa"
 
 msgid "display_modes_windowed"
-msgstr ""
+msgstr "Ventana"
 
 msgid "distance_kilometers"
-msgstr ""
+msgstr "%1 km"
 
 msgid "distance_meters"
-msgstr ""
+msgstr "%1 m"
 
 msgid "do_not_ask_again"
-msgstr ""
+msgstr "No me lo preguntes de nuevo"
 
 msgid "emote_panel_bind_prompt"
-msgstr ""
+msgstr "Presiona una tecla para vincular a /%1 (Esc para cancelar)"
 
 msgid "emote_panel_button_bind"
-msgstr ""
+msgstr "Vincular"
 
 msgid "emote_panel_button_preview"
-msgstr ""
+msgstr "Vista previa"
 
 msgid "emote_panel_combat_refuse"
-msgstr ""
+msgstr "No puedes abrir el panel de emotes mientras estás en combate."
 
 msgid "emote_panel_tab_base"
-msgstr ""
+msgstr "Base"
 
 msgid "emote_panel_window_title"
-msgstr ""
+msgstr "Emotes"
 
 msgid "empty"
 msgstr ""
 
 msgid "enchanting_effect_none"
-msgstr ""
+msgstr "ninguno"
 
 msgid "enchanting_enchant_button_text"
-msgstr ""
+msgstr "Encantar"
 
 msgid "enchanting_item_to_enchant"
-msgstr ""
+msgstr "Objeto a encantar"
 
 msgid "enchanting_itemlist_text"
-msgstr ""
+msgstr "Objetos encantables en la mochila"
 
 msgid "enchanting_no_item_to_enchant"
-msgstr ""
+msgstr "Selecciona un objeto o arrastralo a la ventana."
 
 msgid "enchanting_slot_ingredient_1"
-msgstr ""
+msgstr "Ingrediente 1"
 
 msgid "enchanting_slot_ingredient_2"
-msgstr ""
+msgstr "Ingrediente 2"
 
 msgid "enchanting_slot_ingredient_3"
-msgstr ""
+msgstr "Ingrediente 3"
 
 msgid "enchanting_slot_ingredient_rare"
-msgstr ""
+msgstr "Catalizador"
 
 msgid "enchanting_tips_text"
 msgstr ""
+"1. Selecciona un objeto de la lista de objetos, o arrastra y suelta un "
+"objeto desde tu mochila. Si el objeto puede ser encantado, se activarán una "
+"o más filas de fórmulas.\n"
+"\n"
+"2. Arrastra ingredientes para llenar una o más filas.\n"
+"\n"
+"3. Presiona el botón Encantar para encantar el objeto."
 
 msgid "enchanting_type_postfix"
-msgstr ""
+msgstr "Encantamiento"
 
 msgid "enchanting_type_prefix"
-msgstr ""
+msgstr "Encantamiento"
 
 msgid "enchanting_type_transmutation"
-msgstr ""
+msgstr "Transmutación"
 
 msgid "enchanting_window_title"
-msgstr ""
+msgstr "Encantamiento"
 
 msgid "error_name_in_use"
-msgstr ""
+msgstr "El nombre ya existe."
 
 msgid "error_name_invalid_characters"
-msgstr ""
+msgstr "Carácter(es) ilegal(es) en el nombre."
 
 msgid "error_name_not_long_enough"
-msgstr ""
+msgstr "Nombre demasiado corto."
 
 msgid "error_name_reserved_word"
-msgstr ""
+msgstr "Palabra(s) ilegal(es) en el nombre."
 
 msgid "error_name_server_error"
-msgstr ""
+msgstr "Comprobación de nombre fallida. Error del servidor."
 
 msgid "error_name_too_long"
-msgstr ""
+msgstr "Nombre demasiado largo."
 
 msgid "error_name_too_many_digits"
-msgstr ""
+msgstr "No se permiten dígitos en el nombre."
 
 msgid "false"
-msgstr ""
+msgstr "falso"
 
 msgid "feature_not_implemented"
-msgstr ""
+msgstr "¡Lo sentimos, esta función aún no ha sido implementada!"
 
 msgid "gender_female"
-msgstr ""
+msgstr "Mujer"
 
 msgid "gender_male"
-msgstr ""
+msgstr "Hombre"
 
 msgid "glyph_rule_description_allies"
-msgstr ""
+msgstr "Los miembros del clan y aliados pueden usar este Glifo Rúnico"
 
 msgid "glyph_rule_description_clan_only"
-msgstr ""
+msgstr "Solo los miembros del clan pueden usar este Glifo Rúnico"
 
 msgid "glyph_rule_description_no_rules"
-msgstr ""
+msgstr "Todos pueden usar este Glifo Rúnico"
 
 msgid "glyph_rule_description_tax_amount"
 msgstr ""
+"Si la 'Tarifa de Uso' está habilitada, esta es la cantidad que se cobrará al "
+"usuario. Si no, se revertirá a la Tarifa de Uso global"
 
 msgid "glyph_rule_description_tax_option"
 msgstr ""
+"Si esta opción es verdadera, este glifo utilizará su propia cantidad de "
+"imposición."
 
 msgid "glyph_rule_name_allies"
-msgstr ""
+msgstr "Acceso de Aliados"
 
 msgid "glyph_rule_name_clan_only"
-msgstr ""
+msgstr "Acceso del Clan"
 
 msgid "glyph_rule_name_no_rules"
-msgstr ""
+msgstr "Acceso Total"
 
 msgid "glyph_rule_name_tax_amount"
-msgstr ""
+msgstr "Impuesto de Uso"
 
 msgid "glyph_rule_name_tax_option"
-msgstr ""
+msgstr "Anulación de Impuesto"
 
 msgid "health"
-msgstr ""
+msgstr "Salud"
 
 msgid "help_window_title"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "holding_maintenance_due"
-msgstr ""
+msgstr "%1%2%3%4%5"
 
 msgid "holding_maintenance_due_days"
-msgstr ""
+msgstr "%1 días "
 
 msgid "holding_maintenance_due_hours"
-msgstr ""
+msgstr "%1 horas "
 
 msgid "holding_maintenance_due_minutes"
-msgstr ""
+msgstr "%1 minutos "
 
 msgid "holding_maintenance_due_seconds"
-msgstr ""
+msgstr "%1 segundos"
 
 msgid "holding_maintenance_due_weeks"
-msgstr ""
+msgstr "%1 semanas "
 
 msgid "holding_maintenance_payment_due_by"
-msgstr ""
+msgstr "Pago vencido: "
 
 msgid "holding_maintenance_payment_not_due"
-msgstr ""
+msgstr "Pago no vencido"
 
 msgid "hotbar_button_tooltip_browse"
-msgstr ""
+msgstr "Explorar con '%1'"
 
 msgid "hotbar_button_tooltip_keystroke"
-msgstr ""
+msgstr "Para acceder pulsa '%1'"
 
 msgid "hotbar_colnumber_tooltip"
-msgstr ""
+msgstr "Columna actual"
 
 msgid "hotbar_empty_selected_skill_tooltip1"
-msgstr ""
+msgstr "Ninguna habilidad seleccionada."
 
 msgid "hotbar_empty_selected_skill_tooltip2"
 msgstr ""
+"Selecciona una habilidad y vuelve aquí para obtener una descripción de lo "
+"que has seleccionado."
 
 msgid "hotbar_emptybutton_tooltip1"
-msgstr ""
+msgstr "Botón de barra de acceso rápido vacío"
 
 msgid "hotbar_emptybutton_tooltip2"
 msgstr ""
+"Arrastra y suelta un objeto aquí para hacerlo accesible a través de la barra "
+"de acceso rápido."
 
 msgid "hotbar_entry_closebutton_tooltip1"
-msgstr ""
+msgstr "Botón Cerrar"
 
 msgid "hotbar_entry_closebutton_tooltip2"
-msgstr ""
+msgstr "Cierra el modo de configuración de la barra de atajos"
 
 msgid "hotbar_entry_options_dialog_force_switch_tooltip"
 msgstr ""
+"Si está habilitado, esta arma se equipará incluso si el arma equipada "
+"actualmente es del mismo tipo, como dos básculas. Un Blackbolt será "
+"reemplazado por un Cobrastaff, pero un Blackbolt no será reemplazado por "
+"otro Blackbolt."
 
 msgid "hotbar_entry_settingbutton_tooltip1"
-msgstr ""
+msgstr "Configuración de ranura"
 
 msgid "hotbar_entry_settingbutton_tooltip2"
-msgstr ""
+msgstr "Abre la configuración de esta ranura de la barra de atajos"
 
 msgid "hotbar_leftarrow_tooltip"
-msgstr ""
+msgstr "Columna anterior"
 
 msgid "hotbar_rightarrow_tooltip"
-msgstr ""
+msgstr "Siguiente columna"
 
 msgid "hotbar_slot_option_cycle_mode_cycle"
-msgstr ""
+msgstr "Ciclar"
 
 msgid "hotbar_slot_option_cycle_mode_first_available"
-msgstr ""
+msgstr "Primero disponible"
 
 msgid "hotbar_slot_option_force_weapon_switch"
-msgstr ""
+msgstr "Forzar cambio de arma"
 
 msgid "hotbar_slot_option_switch_column_slot"
-msgstr ""
+msgstr "Ranura: "
 
 msgid "hotbar_slot_option_trigger_weapon_bar_slot"
-msgstr ""
+msgstr "Activar ranura de barra de armas"
 
 msgid "hud_alignment_title"
-msgstr ""
+msgstr "%1"
 
 msgid "hud_full_name"
-msgstr ""
+msgstr "%1 %2"
 
 msgid "hud_member_of_clan_name"
-msgstr ""
+msgstr "Miembro de %1"
 
 msgid "hud_special_title"
-msgstr ""
+msgstr "Alias %1"
 
 msgid "hud_title_in_clan_and_clan_name"
-msgstr ""
+msgstr "%1 de %2"
 
 msgid "interaction_barber_buy_features_button"
-msgstr ""
+msgstr "Cambiar características"
 
 msgid "interaction_barber_cancel_button"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "interaction_barber_subtitle"
-msgstr ""
+msgstr "Cambiar apariencia del personaje"
 
 msgid "interaction_buy_button"
-msgstr ""
+msgstr "Comprar este objeto"
 
 msgid "interaction_buy_purchase_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que deseas comprar %2 (x%1) por %3?"
 
 msgid "interaction_buy_skill_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que deseas comprar %1 por %2?"
 
 msgid "interaction_buy_slot_confirmation"
-msgstr ""
+msgstr "¿Deseas comprar un nuevo espacio permanente y %1 por %2?"
 
 msgid "interaction_buy_total_label"
-msgstr ""
+msgstr "Precio del objeto"
 
 msgid "interaction_change_buy_slot_button"
-msgstr ""
+msgstr "Comprar Espacio"
 
 msgid "interaction_change_swap_weapon"
-msgstr ""
+msgstr "Intercambiar"
 
 msgid "interaction_change_weapon_button"
-msgstr ""
+msgstr "Cambiar Arma"
 
 msgid "interaction_change_weapon_confirmation"
-msgstr ""
+msgstr "¿Deseas intercambiar %1 con %2 por %3?"
 
 msgid "interaction_change_weapon_dupe_item"
-msgstr ""
+msgstr "El objeto ya está en el inventario"
 
 msgid "interaction_change_weapon_money"
-msgstr ""
+msgstr "No tienes oro suficiente. La cantidad necesaria es: %1"
 
 msgid "interaction_change_weapon_not_legendary"
-msgstr ""
+msgstr "No eres un fundador legendario."
 
 msgid "interaction_change_weapon_select_item"
-msgstr ""
+msgstr "Debes seleccionar un objeto"
 
 msgid "interaction_change_weapon_unequip_item"
-msgstr ""
+msgstr "Necesitas desequipar el arma inicial antes de intercambiar."
 
 msgid "interaction_disable_hit_protection"
 msgstr ""
+"¿Estás seguro de que deseas desactivar la protección contra golpes? Una vez "
+"desactivada, golpearás a otros jugadores azules en el Área Capital, ¡lo que "
+"te hará convertir en paria!"
 
 msgid "interaction_gmhelp_button"
-msgstr ""
+msgstr "Ayuda de GM"
 
 msgid "interaction_gmreport_button"
-msgstr ""
+msgstr "Reporte de GM"
 
 msgid "interaction_paid_holding_maintenance"
-msgstr ""
+msgstr "El mantenimiento de la tenencia ha sido pagado"
 
 msgid "interaction_repair_button"
-msgstr ""
+msgstr "Reparar estos objetos"
 
 msgid "interaction_repair_drag_here"
-msgstr ""
+msgstr "Arrastra aquí los objetos a reparar"
 
 msgid "interaction_repair_total_label"
-msgstr ""
+msgstr "Coste total de reparaciones"
 
 msgid "interaction_sell_button"
-msgstr ""
+msgstr "Vender estos objetos"
 
 msgid "interaction_sell_drag_here"
-msgstr ""
+msgstr "Arrastra objetos aquí para vender"
 
 msgid "interaction_sell_total_label"
-msgstr ""
+msgstr "Precio total de los objetos"
 
 msgid "interaction_service_button_buy"
-msgstr ""
+msgstr "Comprar este servicio"
 
 msgid "interaction_service_total_label"
-msgstr ""
+msgstr "Coste del servicio"
 
 msgid "interaction_skill_extension_allow_jumping"
-msgstr ""
+msgstr "Permitir saltar mientras se usa la habilidad"
 
 msgid "interaction_skill_extension_allow_longer_max_travel"
-msgstr ""
+msgstr "Aumentar el alcance de proyectiles un %1%"
 
 msgid "interaction_skill_extension_extra_damage"
-msgstr ""
+msgstr "La habilidad inflige un %1% de daño adicional"
 
 msgid "interaction_skill_extension_faster_missile"
-msgstr ""
+msgstr "Permitir que el proyectil viaje un %1% más rápido"
 
 msgid "interaction_spell_extension_allow_jumping"
-msgstr ""
+msgstr "Permitir saltar mientras se usa el hechizo"
 
 msgid "interaction_spell_extension_allow_longer_max_travel"
-msgstr ""
+msgstr "Aumentar el alcance de proyectiles un %1%"
 
 msgid "interaction_spell_extension_extra_damage"
-msgstr ""
+msgstr "El hechizo inflige un %1% de daño adicional"
 
 msgid "interaction_spell_extension_faster_missile"
-msgstr ""
+msgstr "Permitir que el proyectil viaje un %1% más rápido"
 
 msgid "interaction_spell_extension_price_label"
-msgstr ""
+msgstr "Precio de la extensión:"
 
 msgid "interaction_tab_title_archery_extension"
-msgstr ""
+msgstr "Mejoras de Tiro con Arco"
 
 msgid "interaction_tab_title_barber"
-msgstr ""
+msgstr "Peluquería"
 
 msgid "interaction_tab_title_buy"
-msgstr ""
+msgstr "Comprar"
 
 msgid "interaction_tab_title_change_weapon"
-msgstr ""
+msgstr "Armas de Inicio"
 
 msgid "interaction_tab_title_melee_extension"
-msgstr ""
+msgstr "Mejoras de Combate Cuerpo a Cuerpo"
 
 msgid "interaction_tab_title_owned_vendor_manage"
-msgstr ""
+msgstr "Administrar"
 
 msgid "interaction_tab_title_owned_vendor_sell"
-msgstr ""
+msgstr "Comprar"
 
 msgid "interaction_tab_title_quests"
-msgstr ""
+msgstr "Misiones"
 
 msgid "interaction_tab_title_repair"
-msgstr ""
+msgstr "Reparar"
 
 msgid "interaction_tab_title_sell"
-msgstr ""
+msgstr "Vender"
 
 msgid "interaction_tab_title_skill_extension"
-msgstr ""
+msgstr "Mejoras de Hechizos"
 
 msgid "interaction_tab_title_training"
-msgstr ""
+msgstr "Servicio"
 
 msgid "interaction_view_button"
-msgstr ""
+msgstr "Ver"
 
 msgid "interaction_window_title"
-msgstr ""
+msgstr "Vendedor"
 
 msgid "inventory_batch_delete_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que quieres destruir un lote de %1?"
 
 msgid "inventory_batch_move_cooldown_error"
-msgstr ""
+msgstr "Debes esperar antes de usar Movimiento en Lote de nuevo"
 
 msgid "inventory_item_drop_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que quieres destruir %1?"
 
 msgid "inventory_item_drop_on_ground_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que quieres soltar %1 en el suelo?"
 
 msgid "inventory_item_drop_on_ground_failed"
-msgstr ""
+msgstr "No se puede soltar el objeto en el suelo"
 
 msgid "inventory_item_split_drop_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que quieres destruir %2 %1?"
 
 msgid "inventory_item_split_drop_on_ground_confirmation"
-msgstr ""
+msgstr "¿Estás seguro de que quieres soltar %2 %1 en el suelo?"
 
 msgid "inventory_type_backpack"
-msgstr ""
+msgstr "Mochila"
 
 msgid "inventory_type_bank"
-msgstr ""
+msgstr "Banco"
 
 msgid "inventory_type_bank_extension"
-msgstr ""
+msgstr "Extensión de Banco 1"
 
 msgid "inventory_type_clan_vault4"
-msgstr ""
+msgstr "Bóveda del Clan 4"
 
 msgid "inventory_type_clan_vault5"
-msgstr ""
+msgstr "Bóveda del Clan 5"
 
 msgid "inventory_type_clan_vault_one"
-msgstr ""
+msgstr "Bóveda 1"
 
 msgid "inventory_type_clan_vault_three"
-msgstr ""
+msgstr "Bóveda 3"
 
 msgid "inventory_type_clan_vault_two"
-msgstr ""
+msgstr "Bóveda 2"
 
 msgid "inventory_type_dropped_item"
-msgstr ""
+msgstr "Objeto Soltado"
 
 msgid "inventory_type_internal_container"
-msgstr ""
+msgstr "Contenedor Interno"
 
 msgid "inventory_type_loot_monster"
-msgstr ""
+msgstr "Botín de Monstruo"
 
 msgid "inventory_type_loot_player"
-msgstr ""
+msgstr "Botín de Jugador"
 
 msgid "inventory_type_paperdoll"
-msgstr ""
+msgstr "Muñeca de Papel"
 
 msgid "inventory_type_player_clan_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Clan"
 
 msgid "inventory_type_player_house_bank"
-msgstr ""
+msgstr "Caja Fuerte Local"
 
 msgid "inventory_type_player_lootable_clan_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Clan Saqueable"
 
 msgid "inventory_type_player_lootable_party_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Grupo Saqueable"
 
 msgid "inventory_type_player_lootable_personal_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte Personal Saqueable"
 
 msgid "inventory_type_player_lootable_ship_clan_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Clan del Barco Saqueable"
 
 msgid "inventory_type_player_lootable_ship_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Barco Saqueable"
 
 msgid "inventory_type_player_party_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Grupo"
 
 msgid "inventory_type_player_personal_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte Personal"
 
 msgid "inventory_type_player_ship_clan_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Clan del Barco"
 
 msgid "inventory_type_player_ship_fish_box"
-msgstr ""
+msgstr "Caja de Peces del Barco"
 
 msgid "inventory_type_player_ship_strong_box"
-msgstr ""
+msgstr "Cofre Fuerte del Barco"
 
 msgid "inventory_type_rune_book"
-msgstr ""
+msgstr "Libro de Runas"
 
 msgid "inventory_type_ship_floating_strong_box"
-msgstr ""
+msgstr "Escombros"
 
 msgid "inventory_type_woodencrate"
-msgstr ""
+msgstr "Caja de Madera"
 
 msgid "inventory_volumebar_title"
-msgstr ""
+msgstr "Volumen"
 
 msgid "inventory_weightbar_title"
-msgstr ""
+msgstr "Peso"
 
 msgid "item_acid_protection"
-msgstr ""
+msgstr "Ácido"
 
 msgid "item_arcane_protection"
-msgstr ""
+msgstr "Arcano"
 
 msgid "item_arrow_protection"
-msgstr ""
+msgstr "Flecha"
 
 msgid "item_attack_time"
-msgstr ""
+msgstr "Velocidad de Ataque"
 
 msgid "item_attribute_bonus_greater"
-msgstr ""
+msgstr "Bonificación de Atributo Mayor"
 
 msgid "item_attribute_bonus_lesser"
-msgstr ""
+msgstr "Bonificación de Atributo Menor"
 
 msgid "item_bludgeoning_protection"
-msgstr ""
+msgstr "Contundente"
 
 msgid "item_cast_time"
-msgstr ""
+msgstr "Velocidad de Lanzamiento"
 
 msgid "item_cold_protection"
-msgstr ""
+msgstr "Frío"
 
 msgid "item_critical_modifier"
-msgstr ""
+msgstr "Golpe Crítico"
 
 msgid "item_damage"
-msgstr ""
+msgstr "Daño"
 
 msgid "item_durability"
-msgstr ""
+msgstr "Durabilidad"
 
 msgid "item_durability_value"
-msgstr ""
+msgstr "%1 / %2"
 
 msgid "item_enchantment_quality"
-msgstr ""
+msgstr "Calidad de Encantamiento"
 
 msgid "item_fire_protection"
-msgstr ""
+msgstr "Fuego"
 
 msgid "item_health_gain"
-msgstr ""
+msgstr "Ganancia de Salud"
 
 msgid "item_holy_protection"
-msgstr ""
+msgstr "Sagrado"
 
 msgid "item_impact_protection"
-msgstr ""
+msgstr "Impacto"
 
 msgid "item_infliction_protection"
-msgstr ""
+msgstr "Aflicción"
 
 msgid "item_lightning_protection"
-msgstr ""
+msgstr "Rayo"
 
 msgid "item_magic_ward_greater"
-msgstr ""
+msgstr "Protección Mágica Mayor"
 
 msgid "item_magic_ward_lesser"
-msgstr ""
+msgstr "Protección Mágica Menor"
 
 msgid "item_maker"
-msgstr ""
+msgstr "Hacedor"
 
 msgid "item_malediction_protection"
-msgstr ""
+msgstr "Maldición"
 
 msgid "item_mana_gain"
-msgstr ""
+msgstr "Ganancia de Maná"
 
 msgid "item_max_quantity"
-msgstr ""
+msgstr "CantidadMáxima"
 
 msgid "item_melee_protection_greater"
-msgstr ""
+msgstr "Protección de Combate Mayor"
 
 msgid "item_melee_protection_lesser"
-msgstr ""
+msgstr "Protección de Combate Menor"
 
 msgid "item_mental_protection"
-msgstr ""
+msgstr "Mental"
 
 msgid "item_negative_effect_protection"
-msgstr ""
+msgstr "Protección contra todo"
 
 msgid "item_nourishment_duration"
-msgstr ""
+msgstr "Duración"
 
 msgid "item_one_handed"
-msgstr ""
+msgstr "Una Mano"
 
 msgid "item_piercing_protection"
-msgstr ""
+msgstr "Perforante"
 
 msgid "item_quality"
-msgstr ""
+msgstr "Calidad"
 
 msgid "item_quantity"
-msgstr ""
+msgstr "Cantidad"
 
 msgid "item_regeneration_rate"
-msgstr ""
+msgstr "VelocidadRegeneración"
 
 msgid "item_rune_name"
-msgstr ""
+msgstr "Nombre de Runa"
 
 msgid "item_rune_position"
-msgstr ""
+msgstr "Posición de Runa"
 
 msgid "item_sell_price"
-msgstr ""
+msgstr "Valor"
 
 msgid "item_skillevel"
-msgstr ""
+msgstr "Nivel de Habilidad"
 
 msgid "item_slashing_protection"
-msgstr ""
+msgstr "Corte"
 
 msgid "item_slot_position"
-msgstr ""
+msgstr "Posición de Ranura"
 
 msgid "item_split"
-msgstr ""
+msgstr "Dividir Objeto"
 
 msgid "item_split_and_drop"
-msgstr ""
+msgstr "Dividir y Soltar Objeto"
 
 msgid "item_split_and_merge"
-msgstr ""
+msgstr "Dividir y Fusionar Objeto"
 
 msgid "item_stamina_gain"
-msgstr ""
+msgstr "Ganancia de Resistencia"
 
 msgid "item_two_handed"
-msgstr ""
+msgstr "Dos Manos"
 
 msgid "item_unholy_protection"
-msgstr ""
+msgstr "Profano"
 
 msgid "item_usage_count"
-msgstr ""
+msgstr "Recuento de Uso"
 
 msgid "item_volume"
-msgstr ""
+msgstr "Volumen"
 
 msgid "item_weapon_rank"
-msgstr ""
+msgstr "Rango de Arma"
 
 msgid "item_weight"
-msgstr ""
+msgstr "Peso"
 
 msgid "journal_friends_accept_status_sent"
-msgstr ""
+msgstr "Aceptando solicitud..."
 
 msgid "journal_friends_add_button"
-msgstr ""
+msgstr "Enviar solicitud"
 
 msgid "journal_friends_add_label"
-msgstr ""
+msgstr "Añadir amigo (nombre y apellido)"
 
 msgid "journal_friends_add_status_invalid"
-msgstr ""
+msgstr "Ingresa nombre y apellido"
 
 msgid "journal_friends_add_status_no_response"
-msgstr ""
+msgstr "Sin respuesta del servidor. Intenta de nuevo."
 
 msgid "journal_friends_add_status_not_found"
-msgstr ""
+msgstr "No se encontró al jugador"
 
 msgid "journal_friends_add_status_requested"
-msgstr ""
+msgstr "Solicitud de amistad enviada"
 
 msgid "journal_friends_add_status_sending"
-msgstr ""
+msgstr "Enviando solicitud..."
 
 msgid "journal_friends_block_button"
-msgstr ""
+msgstr "Bloquear"
 
 msgid "journal_friends_block_label"
-msgstr ""
+msgstr "Bloquear jugador (nombre y apellido)"
 
 msgid "journal_friends_block_status_requested"
-msgstr ""
+msgstr "Solicitud de bloqueo enviada..."
 
 msgid "journal_friends_cancel_status_sent"
-msgstr ""
+msgstr "Cancelando solicitud..."
 
 msgid "journal_friends_empty_blocked"
-msgstr ""
+msgstr "(sin jugadores bloqueados)"
 
 msgid "journal_friends_empty_friends"
-msgstr ""
+msgstr "(sin amigos)"
 
 msgid "journal_friends_empty_incoming"
-msgstr ""
+msgstr "(sin solicitudes entrantes)"
 
 msgid "journal_friends_empty_no_match"
-msgstr ""
+msgstr "(sin coincidencias)"
 
 msgid "journal_friends_empty_outgoing"
-msgstr ""
+msgstr "(sin solicitudes salientes)"
 
 msgid "journal_friends_filter_label"
-msgstr ""
+msgstr "Filtro:"
 
 msgid "journal_friends_list_empty"
-msgstr ""
+msgstr "(sin amigos)"
 
 msgid "journal_friends_reject_status_sent"
-msgstr ""
+msgstr "Rechazando solicitud..."
 
 msgid "journal_friends_remove_status_failed"
-msgstr ""
+msgstr "No se pudo eliminar amigo (intenta de nuevo)"
 
 msgid "journal_friends_remove_status_requested"
-msgstr ""
+msgstr "Eliminando amigo..."
 
 msgid "journal_friends_row_accept_button"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "journal_friends_row_cancel_button"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "journal_friends_row_confirm_button"
-msgstr ""
+msgstr "¿Confirmar?"
 
 msgid "journal_friends_row_reject_button"
-msgstr ""
+msgstr "Rechazar"
 
 msgid "journal_friends_row_remove_button"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "journal_friends_row_status_ignored"
-msgstr ""
+msgstr "Bloqueado"
 
 msgid "journal_friends_row_unblock_button"
-msgstr ""
+msgstr "Desbloquear"
 
 msgid "journal_friends_row_whisper_menu"
-msgstr ""
+msgstr "Susurro"
 
 msgid "journal_friends_section_friends"
-msgstr ""
+msgstr "Amigos"
 
 msgid "journal_friends_section_ignored"
-msgstr ""
+msgstr "Bloqueado"
 
 msgid "journal_friends_section_incoming"
-msgstr ""
+msgstr "Entrante"
 
 msgid "journal_friends_section_offline"
-msgstr ""
+msgstr "Desconectado"
 
 msgid "journal_friends_section_online"
-msgstr ""
+msgstr "En línea"
 
 msgid "journal_friends_section_outgoing"
-msgstr ""
+msgstr "Saliente"
 
 msgid "journal_friends_subtab_friends"
-msgstr ""
+msgstr "Amigos"
 
 msgid "journal_friends_subtab_ignored"
-msgstr ""
+msgstr "Bloqueado"
 
 msgid "journal_friends_subtab_pending"
-msgstr ""
+msgstr "Pendiente"
 
 msgid "journal_friends_tab_title"
-msgstr ""
+msgstr "Social"
 
 msgid "journal_friends_unblock_status_requested"
-msgstr ""
+msgstr "Solicitud de desbloqueo enviada..."
 
 msgid "journal_meditation_active_label"
-msgstr ""
+msgstr "Entrenamiento en curso"
 
 msgid "journal_meditation_active_level_label"
-msgstr ""
+msgstr "Nivel"
 
 msgid "journal_meditation_active_none"
-msgstr ""
+msgstr "Ninguna habilidad se está entrenando"
 
 msgid "journal_meditation_buy_button"
-msgstr ""
+msgstr "Comprar"
 
 msgid "journal_meditation_buy_confirm_button"
-msgstr ""
+msgstr "Confirmar Compra"
 
 msgid "journal_meditation_buy_label"
-msgstr ""
+msgstr "Comprar puntos de meditación (1 oro cada uno)"
 
 msgid "journal_meditation_buy_status_confirm_prompt"
-msgstr ""
+msgstr "Haz clic en Comprar de nuevo para confirmar:"
 
 msgid "journal_meditation_buy_status_failed"
-msgstr ""
+msgstr "No se pudo enviar la solicitud de compra"
 
 msgid "journal_meditation_buy_status_invalid"
-msgstr ""
+msgstr "Introduce un número positivo"
 
 msgid "journal_meditation_buy_status_not_enough_gold"
-msgstr ""
+msgstr "Oro insuficiente en el banco"
 
 msgid "journal_meditation_buy_status_over_cap"
-msgstr ""
+msgstr "Supera el límite de 500.000"
 
 msgid "journal_meditation_buy_status_sending"
-msgstr ""
+msgstr "Comprando puntos de meditación..."
 
 msgid "journal_meditation_cancel_button"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "journal_meditation_confirm_button"
-msgstr ""
+msgstr "Confirmar"
 
 msgid "journal_meditation_disable_autorotate_button"
-msgstr ""
+msgstr "Desactivar rotación automática cuando esté limitado"
 
 msgid "journal_meditation_disable_offline_button"
-msgstr ""
+msgstr "Desactivar meditación sin conexión"
 
 msgid "journal_meditation_enable_autorotate_button"
-msgstr ""
+msgstr "Activar rotación automática cuando esté limitado"
 
 msgid "journal_meditation_enable_offline_button"
-msgstr ""
+msgstr "Activar meditación sin conexión"
 
 msgid "journal_meditation_hide_locked_button"
-msgstr ""
+msgstr "Ocultar bloqueados"
 
 msgid "journal_meditation_hide_locked_label"
-msgstr ""
+msgstr "Ocultar bloqueados"
 
 msgid "journal_meditation_list_empty"
-msgstr ""
+msgstr "(sin habilidades coincidentes)"
 
 msgid "journal_meditation_result_already_set"
-msgstr ""
+msgstr "Esa habilidad ya está seleccionada"
 
 msgid "journal_meditation_result_bad_state"
-msgstr ""
+msgstr "No puedes meditar en este estado"
 
 msgid "journal_meditation_result_failed"
-msgstr ""
+msgstr "La acción falló."
 
 msgid "journal_meditation_result_no_active"
-msgstr ""
+msgstr "Ninguna habilidad se está entrenando actualmente"
 
 msgid "journal_meditation_result_not_enough_points"
-msgstr ""
+msgstr "No hay suficientes puntos de meditación"
 
 msgid "journal_meditation_result_skill_maxed"
-msgstr ""
+msgstr "La habilidad ya está al máximo nivel"
 
 msgid "journal_meditation_result_success"
-msgstr ""
+msgstr "Hecho."
 
 msgid "journal_meditation_result_system_disabled"
-msgstr ""
+msgstr "El sistema de meditación está deshabilitado"
 
 msgid "journal_meditation_result_trial_blocked"
-msgstr ""
+msgstr "Las cuentas de prueba no pueden usar esto"
 
 msgid "journal_meditation_row_locked_label"
-msgstr ""
+msgstr "(bloqueado)"
 
 msgid "journal_meditation_row_stop_button"
-msgstr ""
+msgstr "Detener"
 
 msgid "journal_meditation_row_train_button"
-msgstr ""
+msgstr "Entrenar"
 
 msgid "journal_meditation_search_button"
-msgstr ""
+msgstr "Buscar"
 
 msgid "journal_meditation_search_clear_button"
-msgstr ""
+msgstr "Limpiar"
 
 msgid "journal_meditation_search_label"
-msgstr ""
+msgstr "Buscar"
 
 msgid "journal_meditation_show_locked_button"
-msgstr ""
+msgstr "Mostrar bloqueados"
 
 msgid "journal_meditation_stage_prompt_stop"
-msgstr ""
+msgstr "Detener:"
 
 msgid "journal_meditation_stage_prompt_train"
-msgstr ""
+msgstr "Cambiar a:"
 
 msgid "journal_meditation_stats_gold_label"
-msgstr ""
+msgstr "Oro bancario"
 
 msgid "journal_meditation_stats_points_label"
-msgstr ""
+msgstr "Puntos de meditación"
 
 msgid "journal_meditation_stop_button"
-msgstr ""
+msgstr "Dejar de entrenar"
 
 msgid "journal_meditation_subtab_all"
-msgstr ""
+msgstr "Todos"
 
 msgid "journal_meditation_subtab_attributes"
-msgstr ""
+msgstr "Atributos"
 
 msgid "journal_meditation_subtab_elemental"
-msgstr ""
+msgstr "Elemental"
 
 msgid "journal_meditation_subtab_primary"
-msgstr ""
+msgstr "Principal"
 
 msgid "journal_meditation_subtab_specialty"
-msgstr ""
+msgstr "Especialidad"
 
 msgid "journal_meditation_subtab_weapons"
-msgstr ""
+msgstr "Armas"
 
 msgid "journal_meditation_tab_title"
-msgstr ""
+msgstr "Meditación"
 
 msgid "journal_meditation_time_to_100"
-msgstr ""
+msgstr "Tiempo al 100%"
 
 msgid "journal_meditation_time_to_25"
-msgstr ""
+msgstr "Tiempo al 25%"
 
 msgid "journal_meditation_time_to_50"
-msgstr ""
+msgstr "Tiempo al 50%"
 
 msgid "journal_meditation_time_to_75"
-msgstr ""
+msgstr "Tiempo al 75%"
 
 msgid "journal_meditation_toggle_continue_label"
-msgstr ""
+msgstr "Rotar automáticamente al alcanzar máximo"
 
 msgid "journal_meditation_toggle_enable_label"
-msgstr ""
+msgstr "Meditación sin conexión"
 
 msgid "journal_meditation_toggle_off"
-msgstr ""
+msgstr "DESACTIVADO"
 
 msgid "journal_meditation_toggle_on"
-msgstr ""
+msgstr "ACTIVADO"
 
 msgid "journal_more_options"
-msgstr ""
+msgstr "Más opciones"
 
 msgid "journal_open_legacy"
-msgstr ""
+msgstr "Abrir diario heredado"
 
 msgid "journal_quest_cancel_dialog_body"
-msgstr ""
+msgstr "¿Estás seguro de que deseas cancelar esta misión?"
 
 msgid "journal_quest_cancel_dialog_title"
-msgstr ""
+msgstr "¿Cancelar misión?"
 
 msgid "journal_quest_factions_active"
-msgstr ""
+msgstr "Búsquedas activas"
 
 msgid "journal_quest_factions_solved"
-msgstr ""
+msgstr "Búsquedas completadas"
 
 msgid "journal_quest_list_item_cancel_button"
-msgstr ""
+msgstr "Cancelar búsqueda"
 
 msgid "journal_quest_list_item_history"
-msgstr ""
+msgstr "Historial"
 
 msgid "journal_quest_list_item_view_details_button"
-msgstr ""
+msgstr "Ver detalles"
 
 msgid "journal_window_title"
-msgstr ""
+msgstr "Diario"
 
 msgid "key_alt"
-msgstr ""
+msgstr "Alt"
 
 msgid "key_control"
-msgstr ""
+msgstr "Control"
 
 msgid "key_modifiers_delimiter"
-msgstr ""
+msgstr "+"
 
 msgid "key_mouse_wheel_down"
-msgstr ""
+msgstr "Rueda abajo"
 
 msgid "key_mouse_wheel_up"
-msgstr ""
+msgstr "Rueda arriba"
 
 msgid "key_shift"
-msgstr ""
+msgstr "Mayús"
 
 msgid "left_arrow"
-msgstr ""
+msgstr "<-"
 
 msgid "legacy_clan_browse_clans"
-msgstr ""
+msgstr "Examinar Clanes"
 
 msgid "legacy_clan_manage_clan"
-msgstr ""
+msgstr "Gestionar clan"
 
 msgid "main_menu_window_title"
 msgstr ""
 
 msgid "mainmenu_backpack"
-msgstr ""
+msgstr "Mochila"
 
 msgid "mainmenu_boards"
-msgstr ""
+msgstr "Tablones"
 
 msgid "mainmenu_chat"
-msgstr ""
+msgstr "Chat"
 
 msgid "mainmenu_clans"
-msgstr ""
+msgstr "Clanes"
 
 msgid "mainmenu_conquest"
-msgstr ""
+msgstr "Conquista"
 
 msgid "mainmenu_emotes"
-msgstr ""
+msgstr "Emotes"
 
 msgid "mainmenu_gmcall"
-msgstr ""
+msgstr "Ayuda de GM"
 
 msgid "mainmenu_help"
-msgstr ""
+msgstr "Ayuda"
 
 msgid "mainmenu_hotbar"
-msgstr ""
+msgstr "Barra de acceso rápido"
 
 msgid "mainmenu_hotkeys"
-msgstr ""
+msgstr "Teclas de acceso rápido"
 
 msgid "mainmenu_journal"
-msgstr ""
+msgstr "Diario"
 
 msgid "mainmenu_minimap"
-msgstr ""
+msgstr "Minimapa"
 
 msgid "mainmenu_options"
-msgstr ""
+msgstr "Opciones"
 
 msgid "mainmenu_paperdoll"
-msgstr ""
+msgstr "Personaje"
 
 msgid "mainmenu_playerstats"
-msgstr ""
+msgstr "Estadísticas del jugador"
 
 msgid "mainmenu_quit"
-msgstr ""
+msgstr "Salir"
 
 msgid "mainmenu_skills"
-msgstr ""
+msgstr "Habilidades"
 
 msgid "mainmenu_spells"
-msgstr ""
+msgstr "Hechizos"
 
 msgid "mainmenu_startbutton_tooltip"
-msgstr ""
+msgstr "Haz clic para mostrar/ocultar. Arrastra para mover"
 
 msgid "mainmenu_titles"
-msgstr ""
+msgstr "Títulos"
 
 msgid "mainmenu_vitalstats"
-msgstr ""
+msgstr "Estado"
 
 msgid "mainmenu_worldmap"
-msgstr ""
+msgstr "Mapa del mundo"
 
 msgid "mana"
-msgstr ""
+msgstr "Maná"
 
 msgid "map_context_menu_add_annotation_at_character_position"
-msgstr ""
+msgstr "Añadir anotación en la posición del personaje"
 
 msgid "map_context_menu_add_annotation_at_cursor_position"
-msgstr ""
+msgstr "Añadir anotación en la posición del cursor"
 
 msgid "map_context_menu_delete_annotation"
-msgstr ""
+msgstr "Eliminar: %1"
 
 msgid "map_context_menu_gm_teleport_to_tile"
-msgstr ""
+msgstr "[GM] Teletransportarse a la baldosa \"%1\""
 
 msgid "map_gm_tile_id"
-msgstr ""
+msgstr "ID de baldosa: %1"
 
 msgid "map_gm_tooltip_coordinates"
-msgstr ""
+msgstr "Coordenadas del mundo: %1"
 
 msgid "map_marker_annotation"
-msgstr ""
+msgstr "Marcadores de anotación"
 
 msgid "map_marker_anvil"
-msgstr ""
+msgstr "Yunque"
 
 msgid "map_marker_bank"
-msgstr ""
+msgstr "Banco"
 
 msgid "map_marker_bindstone"
-msgstr ""
+msgstr "Marcadores de piedra de vinculación"
 
 msgid "map_marker_chaosstone"
-msgstr ""
+msgstr "Glifos de Runas"
 
 msgid "map_marker_city"
-msgstr ""
+msgstr "Marcadores de ciudad"
 
 msgid "map_marker_clan_member"
-msgstr ""
+msgstr "Marcadores de miembro del clan"
 
 msgid "map_marker_conquest"
-msgstr ""
+msgstr "Marcadores de conquista"
 
 msgid "map_marker_control_points"
-msgstr ""
+msgstr "Pueblos"
 
 msgid "map_marker_destination"
-msgstr ""
+msgstr "Salida %1"
 
 msgid "map_marker_display_modes_icon_and_label"
-msgstr ""
+msgstr "Icono y etiqueta"
 
 msgid "map_marker_display_modes_icon_only"
-msgstr ""
+msgstr "Solo icono"
 
 msgid "map_marker_display_modes_none"
-msgstr ""
+msgstr "Ninguno"
 
 msgid "map_marker_dungeons"
-msgstr ""
+msgstr "Mazmorras"
 
 msgid "map_marker_enchantment_station"
-msgstr ""
+msgstr "Estación de encantamiento"
 
 msgid "map_marker_fortress"
-msgstr ""
+msgstr "Marcadores de Fortaleza"
 
 msgid "map_marker_fun_flags"
-msgstr ""
+msgstr "Banderas Divertidas Desplegadas por Jugador"
 
 msgid "map_marker_greaterstone"
-msgstr ""
+msgstr "Marcadores de Piedra Mayor"
 
 msgid "map_marker_housing"
-msgstr ""
+msgstr "Marcadores de Vivienda"
 
 msgid "map_marker_laboratory"
-msgstr ""
+msgstr "Laboratorio"
 
 msgid "map_marker_monster_common_loot"
-msgstr ""
+msgstr "Botín Común"
 
 msgid "map_marker_monster_spawn"
-msgstr ""
+msgstr "Generación de Monstruo"
 
 msgid "map_marker_npc_city"
-msgstr ""
+msgstr "Ciudades de Facción"
 
 msgid "map_marker_oven"
-msgstr ""
+msgstr "Horno"
 
 msgid "map_marker_overlays_tile_rating"
-msgstr ""
+msgstr "Clasificación de Terreno"
 
 msgid "map_marker_owner_label"
-msgstr ""
+msgstr "Propietario: %1"
 
 msgid "map_marker_party_player"
-msgstr ""
+msgstr "Marcadores de Grupo"
 
 msgid "map_marker_party_waypoint"
-msgstr ""
+msgstr "Marcadores de Punto de Ruta de Grupo"
 
 msgid "map_marker_player_city"
-msgstr ""
+msgstr "Ciudades de Clan"
 
 msgid "map_marker_player_deployed_objects"
-msgstr ""
+msgstr "Objetos Desplegados por Jugador"
 
 msgid "map_marker_players"
-msgstr ""
+msgstr "Marcadores de Muerte de Jugador"
 
 msgid "map_marker_portals"
-msgstr ""
+msgstr "Portales"
 
 msgid "map_marker_quest"
-msgstr ""
+msgstr "Marcador de Misión"
 
 msgid "map_marker_siegestone"
-msgstr ""
+msgstr "Marcadores de Piedra de Asedio"
 
 msgid "map_marker_smelter"
-msgstr ""
+msgstr "Fundidor"
 
 msgid "map_marker_spawn_boss"
-msgstr ""
+msgstr "Jefe"
 
 msgid "map_marker_spawn_champion"
-msgstr ""
+msgstr "Campeón"
 
 msgid "map_marker_spawn_dungeon"
-msgstr ""
+msgstr "Mazmorra"
 
 msgid "map_marker_spawn_easy"
-msgstr ""
+msgstr "Fácil"
 
 msgid "map_marker_spawn_hard"
-msgstr ""
+msgstr "Difícil"
 
 msgid "map_marker_spawn_medium"
-msgstr ""
+msgstr "Medio"
 
 msgid "map_marker_spawn_very_easy"
-msgstr ""
+msgstr "Muy Fácil"
 
 msgid "map_marker_spawn_very_hard"
-msgstr ""
+msgstr "Muy Difícil"
 
 msgid "map_marker_traderoute_markers"
-msgstr ""
+msgstr "Marcadores de Ruta Comercial"
 
 msgid "map_marker_vendor"
-msgstr ""
+msgstr "Marcadores de Vendedor"
 
 msgid "map_marker_vendor_Arcanist"
-msgstr ""
+msgstr "Arcanista"
 
 msgid "map_marker_vendor_Blacksmith"
-msgstr ""
+msgstr "Herrero"
 
 msgid "map_marker_vendor_Councillor"
-msgstr ""
+msgstr "Consejero"
 
 msgid "map_marker_vendor_Fighter"
-msgstr ""
+msgstr "Guerrero"
 
 msgid "map_marker_vendor_Mage"
-msgstr ""
+msgstr "Mago"
 
 msgid "map_marker_vendor_Merchant"
-msgstr ""
+msgstr "Comerciante"
 
 msgid "map_marker_workbench"
-msgstr ""
+msgstr "Banco de Trabajo"
 
 msgid "map_monster_location_slider"
-msgstr ""
+msgstr "Rango de Ubicación de Monstruos"
 
 msgid "map_monster_location_slider_max"
-msgstr ""
+msgstr "Máx"
 
 msgid "map_options_section_monster_types"
-msgstr ""
+msgstr "Tipos de Monstruos"
 
 msgid "map_options_section_overlays"
-msgstr ""
+msgstr "Superposiciones"
 
 msgid "map_options_section_structures"
-msgstr ""
+msgstr "Estructuras"
 
 msgid "map_tooltip_prefix_annotation"
-msgstr ""
+msgstr "Anotación: %1"
 
 msgid "map_tooltip_prefix_anvil"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_bank"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_city"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_clan_member"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_conquest"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_control_points"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_distance"
-msgstr ""
+msgstr "Distancia: %1"
 
 msgid "map_tooltip_prefix_dungeons"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_enchantment_station"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_fortress"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_fun_flags"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_housing"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_laboratory"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_oven"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_party_player"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_party_waypoint"
-msgstr ""
+msgstr "Punto de referencia del grupo: %1"
 
 msgid "map_tooltip_prefix_player_deployed_objects"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_players"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_portals"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_quest"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_smelter"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_spawn"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_stone_bind"
-msgstr ""
+msgstr "Piedra de Vinculación: %1"
 
 msgid "map_tooltip_prefix_stone_chaos"
-msgstr ""
+msgstr "Glifo Rúnico: %1"
 
 msgid "map_tooltip_prefix_stone_greater"
-msgstr ""
+msgstr "Piedra Mayor: %1"
 
 msgid "map_tooltip_prefix_stone_siege"
-msgstr ""
+msgstr "Piedra de Asedio: %1"
 
 msgid "map_tooltip_prefix_tile"
-msgstr ""
+msgstr "Área: %1"
 
 msgid "map_tooltip_prefix_traderoute_markers"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_vendor"
-msgstr ""
+msgstr "%1"
 
 msgid "map_tooltip_prefix_workbench"
-msgstr ""
+msgstr "%1"
 
 msgid "market_apply_filter"
-msgstr ""
+msgstr "Aplicar Filtro"
 
 msgid "market_available_items"
-msgstr ""
+msgstr "Objetos Disponibles"
 
 msgid "market_backpack_context_menu_buy_more"
-msgstr ""
+msgstr "Comprar Más"
 
 msgid "market_backpack_context_menu_sell_this"
-msgstr ""
+msgstr "Vender Esto"
 
 msgid "market_backpack_context_menu_view_market_details"
-msgstr ""
+msgstr "Ver Detalles del Mercado"
 
 msgid "market_broker_fee_extra"
-msgstr ""
+msgstr " (Pagas ahora)"
 
 msgid "market_broker_fees_cancellation_confirmation"
 msgstr ""
+"Las comisiones del corredor no se reembolsan al cancelar. Si la orden "
+"expira, recibirás el 50% de tus comisiones. ¿Estás seguro de que deseas "
+"cancelar?"
 
 msgid "market_button_cancel_selected"
-msgstr ""
+msgstr "Cancelar Seleccionado"
 
 msgid "market_button_change_selected"
-msgstr ""
+msgstr "Cambiar Seleccionado"
 
 msgid "market_button_claim"
-msgstr ""
+msgstr "Reclamar"
 
 msgid "market_button_expires"
-msgstr ""
+msgstr "Caduca"
 
 msgid "market_button_item"
-msgstr ""
+msgstr "Objeto"
 
 msgid "market_button_location"
-msgstr ""
+msgstr "Ubicación"
 
 msgid "market_button_price"
-msgstr ""
+msgstr "Precio"
 
 msgid "market_button_quantity"
-msgstr ""
+msgstr "Cantidad"
 
 msgid "market_button_seller"
-msgstr ""
+msgstr "Vendedor"
 
 msgid "market_button_shipping"
-msgstr ""
+msgstr "Envío"
 
 msgid "market_button_update"
-msgstr ""
+msgstr "Actualizar"
 
 msgid "market_buttons_buy_listed_item"
-msgstr ""
+msgstr "Comprar Objeto Listado"
 
 msgid "market_buttons_buy_selected"
-msgstr ""
+msgstr "Comprar Seleccionado"
 
 msgid "market_buttons_create_buy_order"
-msgstr ""
+msgstr "Crear Orden de Compra"
 
 msgid "market_buttons_most_recent"
-msgstr ""
+msgstr "Más Reciente"
 
 msgid "market_buttons_refresh_market"
-msgstr ""
+msgstr "Actualizar Mercado"
 
 msgid "market_buy_item"
-msgstr ""
+msgstr "Comprar Objeto Listado"
 
 msgid "market_buy_window_buy_item"
-msgstr ""
+msgstr "Comprar Objeto"
 
 msgid "market_buy_window_durability"
-msgstr ""
+msgstr "Durabilidad: "
 
 msgid "market_buy_window_location"
-msgstr ""
+msgstr "Ubicación: "
 
 msgid "market_buy_window_price"
-msgstr ""
+msgstr "Precio: "
 
 msgid "market_buy_window_purchase_amount"
-msgstr ""
+msgstr "Cantidad de Compra:"
 
 msgid "market_buy_window_quantity_available"
-msgstr ""
+msgstr "Cantidad Disponible: %1"
 
 msgid "market_buy_window_seller"
-msgstr ""
+msgstr "Vendedor: "
 
 msgid "market_buy_window_shipping"
-msgstr ""
+msgstr "Envío:"
 
 msgid "market_buy_window_total_cost"
-msgstr ""
+msgstr "Costo Total:"
 
 msgid "market_chat_notification_buy_order_cancel_success"
-msgstr ""
+msgstr "Cancelación de pedido exitosa."
 
 msgid "market_chat_notification_order_cancel_failed"
-msgstr ""
+msgstr "Cancelación de pedido fallida."
 
 msgid "market_chat_notification_order_update_fail"
-msgstr ""
+msgstr "Actualización de pedido fallida"
 
 msgid "market_chat_notification_order_update_success"
-msgstr ""
+msgstr "Actualización de pedido exitosa"
 
 msgid "market_chat_notification_sell_order_cancel_success"
-msgstr ""
+msgstr "Cancelación de pedido exitosa."
 
 msgid "market_clear_filter"
-msgstr ""
+msgstr "Limpiar Filtro"
 
 msgid "market_confirm_dialog_create_sale_order"
-msgstr ""
+msgstr "Crear Orden de Venta"
 
 msgid "market_confirm_dialog_create_sale_order_description"
-msgstr ""
+msgstr "¡Estás a punto de crear una orden de venta de %1 %2 por %3 oro!"
 
 msgid "market_confirm_dialog_sell_now"
-msgstr ""
+msgstr "Vender Ahora"
 
 msgid "market_confirm_dialog_sell_now_description"
-msgstr ""
+msgstr "¡Estás a punto de vender %1 %2 por %3 oro!"
 
 msgid "market_confirmation_window_about_to_buy"
-msgstr ""
+msgstr "¡Estás a punto de comprar %1 %2 por %3 oro!"
 
 msgid "market_confirmation_window_about_to_sell"
-msgstr ""
+msgstr "¡Estás a punto de vender %1 %2 por %3 oro!"
 
 msgid "market_context_create_buy_order"
-msgstr ""
+msgstr "Crear Orden de Compra"
 
 msgid "market_context_menu_buy"
-msgstr ""
+msgstr "Comprar Esto"
 
 msgid "market_context_menu_view_details"
-msgstr ""
+msgstr "Ver Detalles del Mercado"
 
 msgid "market_duration"
-msgstr ""
+msgstr "Duración: %1"
 
 msgid "market_expiration"
-msgstr ""
+msgstr "%1%2%3%4%5"
 
 msgid "market_expiration_days"
-msgstr ""
+msgstr "%1d "
 
 msgid "market_expiration_hours"
-msgstr ""
+msgstr "%1h "
 
 msgid "market_expiration_minutes"
-msgstr ""
+msgstr "%1m "
 
 msgid "market_expiration_seconds"
-msgstr ""
+msgstr "%1s"
 
 msgid "market_expiration_weeks"
-msgstr ""
+msgstr "%1w "
 
 msgid "market_fill_order_window_buyer"
-msgstr ""
+msgstr "Comprador: "
 
 msgid "market_fill_order_window_location"
-msgstr ""
+msgstr "Ubicación: %1"
 
 msgid "market_fill_order_window_offering"
-msgstr ""
+msgstr "Ofreciendo: "
 
 msgid "market_fill_order_window_quantity_requested"
-msgstr ""
+msgstr "Cantidad solicitada: %1"
 
 msgid "market_fill_order_window_sell_amount"
-msgstr ""
+msgstr "Cantidad de venta:"
 
 msgid "market_fill_order_window_sell_item"
-msgstr ""
+msgstr "Vender objeto"
 
 msgid "market_filter_location"
-msgstr ""
+msgstr "Ubicación:"
 
 msgid "market_filter_minimum_durability"
-msgstr ""
+msgstr "Durabilidad mínima:"
 
 msgid "market_filter_minimum_quantity"
-msgstr ""
+msgstr "Cantidad mínima:"
 
 msgid "market_filter_no_listings_available"
-msgstr ""
+msgstr "No hay anuncios disponibles."
 
 msgid "market_filter_price_max"
-msgstr ""
+msgstr "Máx"
 
 msgid "market_filter_price_min"
-msgstr ""
+msgstr "Precio:       Mín"
 
 msgid "market_filter_text"
-msgstr ""
+msgstr "Filtro de texto: "
 
 msgid "market_filters_tile_name_all"
-msgstr ""
+msgstr "Todos"
 
 msgid "market_global_market_title_composite"
-msgstr ""
+msgstr "Mercado global: %1"
 
 msgid "market_item_description"
 msgstr ""
+"¡Selecciona un artículo de la lista a la izquierda o haz clic derecho -> ver "
+"detalles del mercado abajo!"
 
 msgid "market_item_details_price"
-msgstr ""
+msgstr "Precio: %1"
 
 msgid "market_item_details_quantity"
-msgstr ""
+msgstr "Cantidad: %1"
 
 msgid "market_label_broker_fee"
-msgstr ""
+msgstr "Comisión del corredor:"
 
 msgid "market_label_fee"
-msgstr ""
+msgstr "Comisión:"
 
 msgid "market_label_quantity"
-msgstr ""
+msgstr "Cantidad:"
 
 msgid "market_label_sales_tax"
-msgstr ""
+msgstr "Impuesto sobre ventas:"
 
 msgid "market_label_total"
-msgstr ""
+msgstr "Total:"
 
 msgid "market_list_item_button_buy"
-msgstr ""
+msgstr "Comprar artículo"
 
 msgid "market_list_item_button_close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "market_list_item_button_sell"
-msgstr ""
+msgstr "Vender artículo"
 
 msgid "market_listing_tax_extra"
-msgstr ""
+msgstr " (Se toma al recibir)"
 
 msgid "market_my_buy_orders"
-msgstr ""
+msgstr "Mis órdenes de compra"
 
 msgid "market_my_expired_orders"
-msgstr ""
+msgstr "Mis órdenes expiradas"
 
 msgid "market_my_sell_orders"
-msgstr ""
+msgstr "Mis órdenes de venta"
 
 msgid "market_no_orders_available_for_duration"
-msgstr ""
+msgstr "No hay órdenes disponibles, selecciona una duración diferente."
 
 msgid "market_notification_order_cancellation_failure"
-msgstr ""
+msgstr "La cancelación del pedido falló"
 
 msgid "market_notification_order_cancellation_success"
-msgstr ""
+msgstr "La cancelación del pedido se completó exitosamente"
 
 msgid "market_order_length_instant"
-msgstr ""
+msgstr "Instantáneo"
 
 msgid "market_order_length_one_day"
-msgstr ""
+msgstr "1 Día"
 
 msgid "market_order_length_one_month"
-msgstr ""
+msgstr "30 Días"
 
 msgid "market_order_length_one_week"
-msgstr ""
+msgstr "7 Días"
 
 msgid "market_order_length_three_days"
-msgstr ""
+msgstr "3 Días"
 
 msgid "market_order_length_two_weeks"
-msgstr ""
+msgstr "14 Días"
 
 msgid "market_other_filter_seller"
-msgstr ""
+msgstr "Vendedor: "
 
 msgid "market_other_filters"
-msgstr ""
+msgstr "Otros Filtros"
 
 msgid "market_price_in_gold"
-msgstr ""
+msgstr "%1 Oro"
 
 msgid "market_quantity_and_resource_name"
-msgstr ""
+msgstr "%1 %2"
 
 msgid "market_received_item_button_receive"
-msgstr ""
+msgstr "Recibir"
 
 msgid "market_received_item_delivery_fee"
-msgstr ""
+msgstr "Tarifa de Entrega: %1 g"
 
 msgid "market_received_item_not_enough_gold_to_deliver"
-msgstr ""
+msgstr "¡No hay suficiente oro para entregar!"
 
 msgid "market_received_item_order_id"
-msgstr ""
+msgstr "Pedido # %1"
 
 msgid "market_received_item_sales_tax"
-msgstr ""
+msgstr "Impuesto de Venta: %1 g"
 
 msgid "market_received_item_sell_order_sold"
-msgstr ""
+msgstr "(vendido %1 %2)"
 
 msgid "market_receiving_empty"
-msgstr ""
+msgstr "Vacío"
 
 msgid "market_receiving_refresh_items"
-msgstr ""
+msgstr "Actualizar Artículos"
 
 msgid "market_reset_filter"
-msgstr ""
+msgstr "Restablecer Filtro"
 
 msgid "market_section_select"
-msgstr ""
+msgstr "Selecciona un artículo para ver artículos disponibles"
 
 msgid "market_section_title_buy_order_new"
-msgstr ""
+msgstr "Crear nueva orden de compra"
 
 msgid "market_section_title_buy_orders"
-msgstr ""
+msgstr "Órdenes de compra"
 
 msgid "market_section_title_sale_order_new"
-msgstr ""
+msgstr "Crear nueva orden de venta"
 
 msgid "market_section_title_sale_orders"
-msgstr ""
+msgstr "Órdenes de venta"
 
 msgid "market_showing_most_recent"
-msgstr ""
+msgstr "Mostrando órdenes más recientes"
 
 msgid "market_tabs_management"
-msgstr ""
+msgstr "Gestión"
 
 msgid "market_tabs_market"
-msgstr ""
+msgstr "Mercado"
 
 msgid "market_tabs_receiving"
-msgstr ""
+msgstr "Recepción"
 
 msgid "market_title_global_market"
-msgstr ""
+msgstr "Mercado global"
 
 msgid "market_title_global_market_sell_item"
-msgstr ""
+msgstr "Mercado global: vender artículo"
 
 msgid "market_update_duration"
-msgstr ""
+msgstr "Duración: "
 
 msgid "market_update_select_order"
-msgstr ""
+msgstr "Selecciona orden para cambiar"
 
 msgid "messagebox_generic_title"
-msgstr ""
+msgstr "Mensaje"
 
 msgid "minimap_character_coordinates"
-msgstr ""
+msgstr "%1' %2'' %3   %4' %5'' %6"
 
 msgid "minimap_window_title"
-msgstr ""
+msgstr "Minimapa (%1)"
 
 msgid "money"
-msgstr ""
+msgstr "%1 Oro"
 
 msgid "money_empty"
 msgstr ""
 
 msgid "name_ok"
-msgstr ""
+msgstr "¡Nombre de personaje aceptado!"
 
 msgid "news_reel_filters_binding"
-msgstr ""
+msgstr "Vinculaciones"
 
 msgid "news_reel_filters_control_points"
-msgstr ""
+msgstr "Puntos de Control"
 
 msgid "news_reel_filters_fortresses"
-msgstr ""
+msgstr "Fortalezas"
 
 msgid "news_reel_filters_in_out"
-msgstr ""
+msgstr "Proximidad"
 
 msgid "news_reel_filters_login_logout"
-msgstr ""
+msgstr "Conexiones"
 
 msgid "news_reel_filters_members"
-msgstr ""
+msgstr "Miembros"
 
 msgid "news_reel_filters_misc"
-msgstr ""
+msgstr "Varios"
 
 msgid "news_reel_filters_politics"
-msgstr ""
+msgstr "Política"
 
 msgid "news_reel_filters_promotion_demotion"
-msgstr ""
+msgstr "Rangos"
 
 msgid "news_reel_filters_resources"
-msgstr ""
+msgstr "Recursos"
 
 msgid "news_reel_filters_structures"
-msgstr ""
+msgstr "Estructuras"
 
 msgid "news_reel_filters_workstations"
-msgstr ""
+msgstr "Estaciones de Trabajo"
 
 msgid "next"
-msgstr ""
+msgstr "Siguiente"
 
 msgid "no"
-msgstr ""
+msgstr "No"
 
 msgid "not_attachable"
-msgstr ""
+msgstr "No adjuntable"
 
 msgid "not_attached"
-msgstr ""
+msgstr "No adjunto"
 
 msgid "ok"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "options_audio_ambience_sound_volume"
-msgstr ""
+msgstr "Volumen de Sonido Ambiental: %1"
 
 msgid "options_audio_defaults_confirmation"
 msgstr ""
+"¿Está seguro de que desea restablecer todas las configuraciones de Audio a "
+"sus valores predeterminados?"
 
 msgid "options_audio_hitsound_enabled"
-msgstr ""
+msgstr "Sonidos de impacto activados."
 
 msgid "options_audio_maxnum3dsounds"
-msgstr ""
+msgstr "Número Máximo de Sonidos 3D: %1"
 
 msgid "options_audio_sound_volume"
-msgstr ""
+msgstr "Volumen de sonido principal: %1"
 
 msgid "options_binding_defaults_button_label"
-msgstr ""
+msgstr "Valores predeterminados"
 
 msgid "options_binding_defaults_confirmation"
 msgstr ""
+"¿Está seguro de que desea restablecer todos los controles a los valores "
+"predeterminados?"
 
 msgid "options_binding_info"
 msgstr ""
+"Haga doble clic en un par de acción-control para cambiar el control.\r\n"
+"\"Eliminar\" desvincula una acción."
 
 msgid "options_binding_prompt_linear"
 msgstr ""
+"Mueva el eje para\r\n"
+"\r\n"
+"'%1'\n"
+"\n"
 
 msgid "options_binding_prompt_switch"
 msgstr ""
+"Pulse la combinación de teclas para\r\n"
+"\r\n"
+"'%1'\n"
+"\n"
 
 msgid "options_binding_prompt_timeout"
 msgstr ""
+"\n"
+"Cerrando en %1 segundos...\n"
+"\n"
 
 msgid "options_binding_rebind_confirmation"
 msgstr ""
+"'%1' ya está asignado a '%2'.\r\n"
+"¿Está seguro de que desea asignarlo a '%3'?"
 
 msgid "options_binding_tooltip_default"
-msgstr ""
+msgstr "Control predeterminado: %1"
 
 msgid "options_chat_activate_new_tabs"
-msgstr ""
+msgstr "Activar pestañas recién creadas"
 
 msgid "options_chat_color_highlight_high"
-msgstr ""
+msgstr "Color del texto de la pestaña (Importancia alta)"
 
 msgid "options_chat_color_highlight_low"
-msgstr ""
+msgstr "Color del texto de la pestaña (Importancia baja)"
 
 msgid "options_chat_color_highlight_medium"
-msgstr ""
+msgstr "Color del texto de la pestaña (Importancia media)"
 
 msgid "options_chat_color_highlight_none"
-msgstr ""
+msgstr "Color del texto de la pestaña (sin destacar)"
 
 msgid "options_chat_defaults_confirmation"
 msgstr ""
+"¿Está seguro de que desea restablecer todos los ajustes de Chat a sus "
+"valores predeterminados?"
 
 msgid "options_chat_enter_deactivates_chatmode"
-msgstr ""
+msgstr "Intro desactiva el editor de chat en modo Chat"
 
 msgid "options_chat_enter_deactivates_guimode"
-msgstr ""
+msgstr "Intro desactiva el editor de chat en modo GUI"
 
 msgid "options_chat_history_max_age"
-msgstr ""
+msgstr "Eliminar entradas del historial más antiguas de %1 días"
 
 msgid "options_chat_history_max_lines"
-msgstr ""
+msgstr "Mantener como máximo %1 líneas en el historial de chat"
 
 msgid "options_chat_largescroller"
-msgstr ""
+msgstr "Desplazador de texto grande"
 
 msgid "options_chat_max_views"
-msgstr ""
+msgstr "Mostrar máx %1 pestañas"
 
 msgid "options_chat_scroller_deftime"
-msgstr ""
+msgstr "Tiempo de visualización predeterminado"
 
 msgid "options_chat_scroller_fadeintime"
-msgstr ""
+msgstr "Tiempo de entrada gradual"
 
 msgid "options_chat_scroller_fadeouttime"
-msgstr ""
+msgstr "Tiempo de salida gradual"
 
 msgid "options_chat_scroller_hpos"
-msgstr ""
+msgstr "Posición horizontal en porcentaje"
 
 msgid "options_chat_scroller_maxlines"
-msgstr ""
+msgstr "Líneas visibles máximas"
 
 msgid "options_chat_scroller_mintime"
-msgstr ""
+msgstr "Tiempo mínimo de visualización"
 
 msgid "options_chat_scroller_ordering"
-msgstr ""
+msgstr "Invertir orden de líneas"
 
 msgid "options_chat_scroller_speeduphigh"
-msgstr ""
+msgstr "Usar tiempo mínimo de visualización cuando la cola supere %1 mensajes"
 
 msgid "options_chat_scroller_speeduplow"
-msgstr ""
+msgstr "Acelerar desplazador cuando la cola supere %1 mensajes"
 
 msgid "options_chat_scroller_vpos"
-msgstr ""
+msgstr "Posición vertical en porcentaje"
 
 msgid "options_chat_scroller_width"
-msgstr ""
+msgstr "Ancho en píxeles"
 
 msgid "options_chat_smallscroller"
-msgstr ""
+msgstr "Pequeño desplazador de texto"
 
 msgid "options_chat_timestamps"
-msgstr ""
+msgstr "Mostrar marcas de tiempo"
 
 msgid "options_chat_timestamps_seconds"
-msgstr ""
+msgstr "Mostrar segundos en marcas de tiempo"
 
 msgid "options_chat_view_max_age_unused"
-msgstr ""
+msgstr "Recordar pestañas de chat durante %1 días"
 
 msgid "options_chat_view_max_lines"
-msgstr ""
+msgstr "Mostrar máx %1 líneas en cada pestaña"
 
 msgid "options_chat_view_reload_lines"
-msgstr ""
+msgstr "Incluir %1 mensajes de chat del inicio de sesión anterior"
 
 msgid "options_clutterizer_mode_animating"
-msgstr ""
+msgstr "Animando"
 
 msgid "options_clutterizer_mode_fading"
-msgstr ""
+msgstr "Desvaneciéndose"
 
 msgid "options_debug_defaults_button_label"
-msgstr ""
+msgstr "Valores predeterminados"
 
 msgid "options_debug_defaults_confirmation"
 msgstr ""
+"¿Estás seguro de que deseas restablecer todos los ajustes de Debug a sus "
+"valores predeterminados?"
 
 msgid "options_default"
-msgstr ""
+msgstr "Predeterminado"
 
 msgid "options_gm_call"
-msgstr ""
+msgstr "Ayuda de GM"
 
 msgid "options_gui_active_window_opacity"
-msgstr ""
+msgstr "Opacidad de la Ventana Activa"
 
 msgid "options_gui_animation_speed"
-msgstr ""
+msgstr "Velocidad de Animación"
 
 msgid "options_gui_auto_tooltip_duration"
-msgstr ""
+msgstr "Duración Automática de Información Emergente"
 
 msgid "options_gui_buff_timer_display_in_seconds"
-msgstr ""
+msgstr "Mostrador de Temporizador de Mejora en Segundos"
 
 msgid "options_gui_clipping_of_marker_labels_in_minimap"
-msgstr ""
+msgstr "Recortar etiquetas de marcadores en minimapa"
 
 msgid "options_gui_clipping_of_marker_labels_in_worldmap"
-msgstr ""
+msgstr "Recortar etiquetas de marcadores en mapa mundial"
 
 msgid "options_gui_cluttering_duration"
-msgstr ""
+msgstr "Tiempo de Desvanecimiento"
 
 msgid "options_gui_clutterizer"
-msgstr ""
+msgstr "Tipo de Desvanecimiento"
 
 msgid "options_gui_confirm_batch_trash"
-msgstr ""
+msgstr "Confirmar Movimientos por Lotes a la Papelera"
 
 msgid "options_gui_confirm_disable_hit_protection"
-msgstr ""
+msgstr "Confirmar Desactivación de Protección de Golpe"
 
 msgid "options_gui_confirm_item_drop_on_ground"
-msgstr ""
+msgstr "Confirmar Soltar Objeto en el Suelo"
 
 msgid "options_gui_confirm_item_drops"
-msgstr ""
+msgstr "Confirmar Soltar Objetos"
 
 msgid "options_gui_confirm_purchases"
-msgstr ""
+msgstr "Confirmar Compras"
 
 msgid "options_gui_confirm_rebindings"
-msgstr ""
+msgstr "Confirmar Reasignación de Teclas"
 
 msgid "options_gui_defaults_button_label"
-msgstr ""
+msgstr "Valores predeterminados"
 
 msgid "options_gui_defaults_confirmation"
 msgstr ""
+"¿Estás seguro de que deseas restablecer todos los ajustes de GUI a sus "
+"valores predeterminados?"
 
 msgid "options_gui_gamemode_window_opacity"
-msgstr ""
+msgstr "Opacidad de la Ventana del Modo de Juego"
 
 msgid "options_gui_history_recall"
-msgstr ""
+msgstr "Añadir líneas recordadas al historial"
 
 msgid "options_gui_hotbar_autocollapse"
-msgstr ""
+msgstr "Contracción Automática de la Barra de Acceso Rápido"
 
 msgid "options_gui_identify_distant_targets"
-msgstr ""
+msgstr "Identificar Objetivos Distantes"
 
 msgid "options_gui_inactive_window_opacity"
-msgstr ""
+msgstr "Opacidad de la Ventana Inactiva"
 
 msgid "options_gui_itemcounter_horizontal"
-msgstr ""
+msgstr "Contador de Objetos Horizontal"
 
 msgid "options_gui_itemcounter_size"
-msgstr ""
+msgstr "Ranuras del Contador de Objetos"
 
 msgid "options_gui_scale"
-msgstr ""
+msgstr "Escala de GUI %: %1"
 
 msgid "options_gui_show_buff_timers"
-msgstr ""
+msgstr "Mostrar Temporizadores de Mejoras"
 
 msgid "options_gui_show_compass_window"
-msgstr ""
+msgstr "Mostrar Ventana de Brújula"
 
 msgid "options_gui_show_description_window"
-msgstr ""
+msgstr "Mostrar Ventana de Descripción"
 
 msgid "options_gui_show_tutorial_next_time"
-msgstr ""
+msgstr "Mostrar Tutorial la próxima vez"
 
 msgid "options_gui_tooltip_speed"
-msgstr ""
+msgstr "Velocidad de Información Flotante"
 
 msgid "options_gui_use_legacy_health_bar_party"
-msgstr ""
+msgstr "Usar barra de vida del grupo compacta"
 
 msgid "options_gui_use_legacy_health_bar_targeting"
-msgstr ""
+msgstr "Usar barra de vida del objetivo compacta"
 
 msgid "options_hotbar_entry_auto_cast"
-msgstr ""
+msgstr "Lanzamiento Automático"
 
 msgid "options_hotbar_entry_charge_press"
-msgstr ""
+msgstr "Cargar al Presionar"
 
 msgid "options_hotbar_entry_colulmn_choice"
-msgstr ""
+msgstr "Columna de la Barra de Acceso Rápido"
 
 msgid "options_hotbar_entry_cycling_mode"
-msgstr ""
+msgstr "Modo de Rotación"
 
 msgid "options_hotbar_entry_help_text"
 msgstr ""
+"Haz clic derecho en un Objeto para cambiar su Columna de Barra de Acceso "
+"Rápido asignada"
 
 msgid "options_hotbar_entry_item_label"
-msgstr ""
+msgstr "Objeto:"
 
 msgid "options_hotbar_entry_trigger_release"
-msgstr ""
+msgstr "Activar al Soltar"
 
 msgid "options_input_defaults_button_label"
-msgstr ""
+msgstr "Valores predeterminados"
 
 msgid "options_input_defaults_confirmation"
 msgstr ""
+"¿Estás seguro de que deseas restablecer toda la configuración de entrada a "
+"sus valores predeterminados?"
 
 msgid "options_input_joystick_x_sensitivity"
-msgstr ""
+msgstr "Sensibilidad del Joystick en X"
 
 msgid "options_input_joystick_y_sensitivity"
-msgstr ""
+msgstr "Sensibilidad del Joystick en Y"
 
 msgid "options_input_joystick_z_sensitivity"
-msgstr ""
+msgstr "Sensibilidad del Joystick en Z"
 
 msgid "options_input_mouse_invert"
-msgstr ""
+msgstr "Invertir Eje Y del Ratón en Modo de Juego"
 
 msgid "options_input_mouse_smoothing_amount"
-msgstr ""
+msgstr "Cantidad de Suavizado del Ratón"
 
 msgid "options_input_mouse_smoothing_enabled"
-msgstr ""
+msgstr "Suavizado del Ratón Activado"
 
 msgid "options_input_mouse_x_sensitivity"
-msgstr ""
+msgstr "%1"
 
 msgid "options_input_mouse_x_sensitivty_text"
-msgstr ""
+msgstr "Sensibilidad del Ratón en X"
 
 msgid "options_input_mouse_y_sensitivity"
-msgstr ""
+msgstr "%1"
 
 msgid "options_input_mouse_y_sensitivty_text"
-msgstr ""
+msgstr "Sensibilidad del Ratón en Y"
 
 msgid "options_map_mini_title"
-msgstr ""
+msgstr "Opciones del Minimapa"
 
 msgid "options_map_world_title"
-msgstr ""
+msgstr "Opciones del Mapa del Mundo"
 
 msgid "options_maxfps"
-msgstr ""
+msgstr "FPS Máximo: %1"
 
 msgid "options_private_message_sound_enabled"
-msgstr ""
+msgstr "Sonidos de Mensaje Privado Activados."
 
 msgid "options_quality_high"
-msgstr ""
+msgstr "Alto"
 
 msgid "options_quality_low"
-msgstr ""
+msgstr "Bajo"
 
 msgid "options_quality_max"
-msgstr ""
+msgstr "Máx"
 
 msgid "options_quality_medium"
-msgstr ""
+msgstr "Medio"
 
 msgid "options_shader_version_default"
-msgstr ""
+msgstr "Valor por defecto del dispositivo"
 
 msgid "options_shader_version_ps3"
-msgstr ""
+msgstr "PS3_0"
 
 msgid "options_texture_filtering_anisotropic"
-msgstr ""
+msgstr "Anisotrópico"
 
 msgid "options_texture_filtering_linear"
-msgstr ""
+msgstr "Lineal"
 
 msgid "options_texture_filtering_point"
-msgstr ""
+msgstr "Punto"
 
 msgid "options_title_audio"
-msgstr ""
+msgstr "Opciones de Audio"
 
 msgid "options_title_bindings"
-msgstr ""
+msgstr "Asignación de Controles"
 
 msgid "options_title_chat"
-msgstr ""
+msgstr "Opciones de Chat"
 
 msgid "options_title_chat_view"
-msgstr ""
+msgstr "Opciones de la Pestaña de Chat '%1'"
 
 msgid "options_title_chat_window"
-msgstr ""
+msgstr "Opciones de la Ventana de Chat '%1'"
 
 msgid "options_title_debug"
-msgstr ""
+msgstr "Opciones de Depuración"
 
 msgid "options_title_gui"
-msgstr ""
+msgstr "Opciones de GUI"
 
 msgid "options_title_hotbar_entry"
-msgstr ""
+msgstr "Opciones de Entrada de Barra de Acciones Rápidas"
 
 msgid "options_title_input"
-msgstr ""
+msgstr "Opciones de Entrada"
 
 msgid "options_title_tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 msgid "options_title_video"
-msgstr ""
+msgstr "Opciones de Vídeo"
 
 msgid "options_title_weapon_bar_entry"
-msgstr ""
+msgstr "Opciones de Entrada de Barra de Armas"
 
 msgid "options_video_animation_reduction_per_meter"
-msgstr ""
+msgstr "Reducción de la calidad de animación por metro."
 
 msgid "options_video_animation_reduction_start"
-msgstr ""
+msgstr "Distancia mínima para comenzar la reducción de calidad de animación."
 
 msgid "options_video_antialiasing_quality"
-msgstr ""
+msgstr "Calidad de Antialias: %1"
 
 msgid "options_video_auto_optimize"
-msgstr ""
+msgstr "Habilitar Optimización Automática."
 
 msgid "options_video_auto_optimize_target_fps"
 msgstr ""
+"Si los FPS caen por debajo de %1, la Optimización Automática se activará."
 
 msgid "options_video_defaults_confirmation"
 msgstr ""
+"¿Está seguro de que desea restablecer todos los ajustes de Vídeo a sus "
+"valores predeterminados?"
 
 msgid "options_video_display_mode"
-msgstr ""
+msgstr "Seleccionar Modo de Pantalla"
 
 msgid "options_video_displaymodelist"
-msgstr ""
+msgstr "Seleccionar resolución de pantalla."
 
 msgid "options_video_enable_animation_reduction"
-msgstr ""
+msgstr "Habilitar reducción de calidad de animaciones."
 
 msgid "options_video_enable_antialiasing"
-msgstr ""
+msgstr "Habilitar antialias."
 
 msgid "options_video_enable_character_shadows"
-msgstr ""
+msgstr "Habilitar Sombras de Personaje."
 
 msgid "options_video_enable_drop_shadows"
-msgstr ""
+msgstr "Habilitar Sombras Proyectadas"
 
 msgid "options_video_enable_post_process_effects"
-msgstr ""
+msgstr "Habilitar Efectos de Postprocesamiento."
 
 msgid "options_video_enable_scenery_shadows"
-msgstr ""
+msgstr "Habilitar Sombras de Escenario."
 
 msgid "options_video_enable_shadows"
-msgstr ""
+msgstr "Habilitar Sombras."
 
 msgid "options_video_enable_triple_buffering"
-msgstr ""
+msgstr "Habilitar triple almacenamiento en búfer."
 
 msgid "options_video_fov"
-msgstr ""
+msgstr "Campo de Visión: %1"
 
 msgid "options_video_gamma_correction"
-msgstr ""
+msgstr "Corrección Gamma: %1"
 
 msgid "options_video_label_resolution"
-msgstr ""
+msgstr "Resolución de pantalla"
 
 msgid "options_video_maxnumbloodstains"
-msgstr ""
+msgstr "Número Máximo de Manchas de Sangre: %1"
 
 msgid "options_video_maxnumdynamiclight"
-msgstr ""
+msgstr "Número Máximo de Luces Dinámicas: %1"
 
 msgid "options_video_maxnumparticles"
-msgstr ""
+msgstr "Número máximo de efectos de partículas: %1"
 
 msgid "options_video_object_clipping"
-msgstr ""
+msgstr "Activar recorte de objetos"
 
 msgid "options_video_object_clipping_max_function_value"
 msgstr ""
+"Valor máximo de función para recortar (valor menor = mayor probabilidad de "
+"recorte)."
 
 msgid "options_video_object_clipping_max_size_to_clip"
-msgstr ""
+msgstr "Tamaño máximo del objeto a recortar."
 
 msgid "options_video_object_min_distance_to_clip"
 msgstr ""
+"Distancia mínima que debe tener un objeto antes de que pueda recortarse "
+"potencialmente."
 
 msgid "options_video_shader_version"
-msgstr ""
+msgstr "Seleccionar versión de sombreador"
 
 msgid "options_video_shadow_quality"
-msgstr ""
+msgstr "Seleccionar calidad de sombras"
 
 msgid "options_video_shadow_smoothing"
-msgstr ""
+msgstr "Seleccionar calidad del suavizado de sombras"
 
 msgid "options_video_texture_anisotropy_level"
-msgstr ""
+msgstr "Seleccionar nivel de anisotropía de texturas"
 
 msgid "options_video_texture_filtering"
-msgstr ""
+msgstr "Seleccionar filtrado de texturas"
 
 msgid "options_video_texture_quality"
-msgstr ""
+msgstr "Seleccionar calidad de textura (se recomienda el predeterminado)"
 
 msgid "options_video_vegetation_area_size"
-msgstr ""
+msgstr "Tamaño del área de vegetación: %1"
 
 msgid "options_video_vegetation_density"
-msgstr ""
+msgstr "Densidad de vegetación: %1"
 
 msgid "options_video_wait_for_vsync"
-msgstr ""
+msgstr "Esperar sincronización vertical en el monitor."
 
 msgid "options_window_title"
-msgstr ""
+msgstr "Opciones"
 
 msgid "paperdoll_button_get_naked"
-msgstr ""
+msgstr "Desnudarse"
 
 msgid "paperdoll_button_refresh"
-msgstr ""
+msgstr "Actualizar"
 
 msgid "paperdoll_item_attached_at"
-msgstr ""
+msgstr "Adjunto en %1"
 
 msgid "paperdoll_label_equipment_tier"
-msgstr ""
+msgstr "Nivel de equipo: %1"
 
 msgid "paperdoll_label_figurine"
-msgstr ""
+msgstr "Figurilla"
 
 msgid "paperdoll_label_loot_bag"
-msgstr ""
+msgstr "Bolsa de Botín"
 
 msgid "paperdoll_label_rune_book"
-msgstr ""
+msgstr "Libro de Runas"
 
 msgid "paperdoll_label_weapon_bar"
-msgstr ""
+msgstr "BARRA DE ARMAS"
 
 msgid "paperdoll_tabs_clan"
-msgstr ""
+msgstr "Clan"
 
 msgid "paperdoll_tabs_effects"
-msgstr ""
+msgstr "Efectos"
 
 msgid "paperdoll_tabs_paperdoll"
-msgstr ""
+msgstr "Muñeca de Papel"
 
 msgid "paperdoll_tabs_research"
-msgstr ""
+msgstr "Investigación"
 
 msgid "paperdoll_tabs_skins"
-msgstr ""
+msgstr "Apariencia"
 
 msgid "paperdoll_tabs_titles"
-msgstr ""
+msgstr "Títulos"
 
 msgid "paragraph_break"
-msgstr ""
+msgstr " \n"
 
 msgid "playerstats_armor_penalties"
-msgstr ""
+msgstr "Penalizaciones de Armadura"
 
 msgid "playerstats_base_attributes"
-msgstr ""
+msgstr "Atributos Base"
 
 msgid "playerstats_protections"
-msgstr ""
+msgstr "Protecciones"
 
 msgid "progressbar_tooltip"
-msgstr ""
+msgstr "%3: %1 de %2"
 
 msgid "prompt_item_split_quantity_label"
-msgstr ""
+msgstr "Cantidad:"
 
 msgid "prompt_item_split_title"
-msgstr ""
+msgstr "Dividir Objeto"
 
 msgid "quest_reward"
-msgstr ""
+msgstr "%1: %2"
 
 msgid "quest_rewards"
-msgstr ""
+msgstr "Recompensas:"
 
 msgid "quit_button"
-msgstr ""
+msgstr "Salir"
 
 msgid "quit_dialog_description"
 msgstr ""
+"Si aceptas, tu cliente se cerrará y tu personaje permanecerá en el mundo "
+"hasta que expire el temporizador de campamento."
 
 msgid "quit_dialog_no_button"
-msgstr ""
+msgstr "No (N)"
 
 msgid "quit_dialog_title"
-msgstr ""
+msgstr "¿Cerrar sin esperar?"
 
 msgid "quit_dialog_yes_button"
-msgstr ""
+msgstr "Sí (S)"
 
 msgid "race_alfar"
-msgstr ""
+msgstr "Alfar"
 
 msgid "race_dwarf"
-msgstr ""
+msgstr "Enano"
 
 msgid "race_human"
-msgstr ""
+msgstr "Humano"
 
 msgid "race_mahirim"
-msgstr ""
+msgstr "Mahirim"
 
 msgid "race_mirdain"
-msgstr ""
+msgstr "Mirdain"
 
 msgid "race_ork"
-msgstr ""
+msgstr "Ork"
 
 msgid "research_drag_schematic_here_description"
-msgstr ""
+msgstr "Arrastra Esquema Aquí para Investigar"
 
 msgid "research_item_tier"
-msgstr ""
+msgstr "Nivel de Objeto: "
 
 msgid "research_item_tier_too_low"
-msgstr ""
+msgstr "¡El nivel del objeto es demasiado bajo!"
 
 msgid "research_max_time"
-msgstr ""
+msgstr "Tiempo Máximo: %1"
 
 msgid "research_maxed_out"
-msgstr ""
+msgstr "¡Alcanzado el Máximo!"
 
 msgid "research_projected_level"
-msgstr ""
+msgstr "Nivel Proyectado: "
 
 msgid "research_projected_tier"
-msgstr ""
+msgstr "Nivel Proyectado: "
 
 msgid "research_queue_count"
-msgstr ""
+msgstr "Cantidad en Cola"
 
 msgid "research_queued_time"
-msgstr ""
+msgstr "Tiempo en Cola"
 
 msgid "research_research_time"
-msgstr ""
+msgstr "Tiempo de Investigación: "
 
 msgid "research_skill"
-msgstr ""
+msgstr "Habilidad: "
 
 msgid "research_skill_and_tier"
-msgstr ""
+msgstr "%1 (nivel %2)"
 
 msgid "research_skill_to_train"
-msgstr ""
+msgstr "Habilidad a entrenar: "
 
 msgid "research_start"
-msgstr ""
+msgstr "Comenzar"
 
 msgid "research_time"
-msgstr ""
+msgstr "Tiempo: "
 
 msgid "right_arrow"
-msgstr ""
+msgstr "->"
 
 msgid "screen05_button_check_name"
-msgstr ""
+msgstr "Verificar nombre"
 
 msgid "screen05_button_generate"
-msgstr ""
+msgstr "Generar"
 
 msgid "screen05_first_name"
-msgstr ""
+msgstr "Nombre"
 
 msgid "screen05_last_name"
-msgstr ""
+msgstr "Apellido"
 
 msgid "screen05_title"
-msgstr ""
+msgstr "Nombra tu personaje"
 
 msgid "screen06_points_left"
-msgstr ""
+msgstr "Puntos restantes:"
 
 msgid "screen06_title"
-msgstr ""
+msgstr "Personalizar estadísticas"
 
 msgid "screen07_general_skills"
-msgstr ""
+msgstr "Habilidades generales"
 
 msgid "screen07_race_skills"
-msgstr ""
+msgstr "Habilidades raciales"
 
 msgid "screen07_title"
-msgstr ""
+msgstr "Personalizar habilidades"
 
 msgid "screen08_race_spells"
-msgstr ""
+msgstr "Hechizos raciales"
 
 msgid "screen08_title"
-msgstr ""
+msgstr "Elige hechizos iniciales"
 
 msgid "screen09_title"
-msgstr ""
+msgstr "Selecciona pueblo inicial"
 
 msgid "screen10_title"
-msgstr ""
+msgstr "¿Crear este personaje?"
 
 msgid "screen1_create_new_character"
-msgstr ""
+msgstr "Crear un nuevo personaje"
 
 msgid "screen2_select_race"
-msgstr ""
+msgstr "Selecciona tu raza"
 
 msgid "screen3_select_gender"
-msgstr ""
+msgstr "Selecciona tu género"
 
 msgid "screen4_appearance_none"
-msgstr ""
+msgstr "Ninguno disponible"
 
 msgid "screen4_select_appearance"
-msgstr ""
+msgstr "Personaliza tu apariencia"
 
 msgid "selector_of"
-msgstr ""
+msgstr "de"
 
 msgid "skill_advancement_rate"
-msgstr ""
+msgstr "Velocidad de progresión de habilidad"
 
 msgid "skill_importance"
-msgstr ""
+msgstr "Importancia de habilidad"
 
 msgid "skills_by_preset_order"
-msgstr ""
+msgstr "Por orden preestablecido"
 
 msgid "skills_flat_display"
-msgstr ""
+msgstr "Visualización plana"
 
 msgid "skills_hierarchical_display"
-msgstr ""
+msgstr "Visualización jerárquica"
 
 msgid "skills_ordered_alphabetically"
-msgstr ""
+msgstr "Ordenado alfabéticamente"
 
 msgid "skills_ordered_by_level"
-msgstr ""
+msgstr "Ordenado por nivel"
 
 msgid "skills_window_title"
-msgstr ""
+msgstr "Habilidades"
 
 msgid "slot_position_eight"
-msgstr ""
+msgstr "8"
 
 msgid "slot_position_five"
-msgstr ""
+msgstr "5"
 
 msgid "slot_position_four"
-msgstr ""
+msgstr "4"
 
 msgid "slot_position_nine"
-msgstr ""
+msgstr "9"
 
 msgid "slot_position_none"
-msgstr ""
+msgstr "Ninguno"
 
 msgid "slot_position_one"
-msgstr ""
+msgstr "1"
 
 msgid "slot_position_seven"
-msgstr ""
+msgstr "7"
 
 msgid "slot_position_six"
-msgstr ""
+msgstr "6"
 
 msgid "slot_position_ten"
-msgstr ""
+msgstr "10"
 
 msgid "slot_position_three"
-msgstr ""
+msgstr "3"
 
 msgid "slot_position_two"
-msgstr ""
+msgstr "2"
 
 msgid "space"
-msgstr ""
+msgstr " "
 
 msgid "spells_window_title"
-msgstr ""
+msgstr "Hechizos"
 
 msgid "stamina"
-msgstr ""
+msgstr "Resistencia"
 
 msgid "start"
-msgstr ""
+msgstr "Comenzar"
 
 msgid "start_button"
-msgstr ""
+msgstr "Comenzar"
 
 msgid "supreme_general"
-msgstr ""
+msgstr "General Supremo"
 
 msgid "target_health"
-msgstr ""
+msgstr "Salud del Objetivo"
 
 msgid "task_countdown_available"
-msgstr ""
+msgstr "Disponible en:  %1"
 
 msgid "task_countdown_reset"
-msgstr ""
+msgstr "Se reinicia en:  %1"
 
 msgid "task_rare_rewards"
-msgstr ""
+msgstr "Posibles Recompensas Raras"
 
 msgid "task_repeatable"
-msgstr ""
+msgstr "[Repetible]"
 
 msgid "task_rewards"
-msgstr ""
+msgstr "Recompensas"
 
 msgid "task_stage"
-msgstr ""
+msgstr "Etapa:  %1"
 
 msgid "task_stage_completed"
-msgstr ""
+msgstr "Completado"
 
 msgid "task_stage_current"
-msgstr ""
+msgstr "Etapa %1/%2"
 
 msgid "task_target"
-msgstr ""
+msgstr "Objetivo: "
 
 msgid "task_time_days_hours_minutes"
-msgstr ""
+msgstr "%1 días %2:%3 horas"
 
 msgid "task_time_hours_minutes"
-msgstr ""
+msgstr "%1:%2 horas"
 
 msgid "task_title_rewards"
-msgstr ""
+msgstr "Recompensas de Títulos"
 
 msgid "tasks"
-msgstr ""
+msgstr "Tareas"
 
 msgid "tasks_filter_label"
-msgstr ""
+msgstr "Filtro"
 
 msgid "tasks_show_in_tracker"
-msgstr ""
+msgstr "mostrar en el rastreador"
 
 msgid "tasks_show_tracker"
-msgstr ""
+msgstr "mostrar rastreador"
 
 msgid "teleportation_window_title"
-msgstr ""
+msgstr "Costo de Teletransportación %1 Oro"
 
 msgid "territory_control_window_title"
-msgstr ""
+msgstr "Control del Territorio"
 
 msgid "titles_change_confirm_dialog_description"
 msgstr ""
+"Cambiar tu título no es permanente y puedes volver atrás en cualquier "
+"momento."
 
 msgid "titles_change_confirm_dialog_title"
-msgstr ""
+msgstr "Confirmar Cambio de Título"
 
 msgid "titles_prefix"
-msgstr ""
+msgstr "Título Prefijo"
 
 msgid "titles_suffix"
-msgstr ""
+msgstr "Título Sufijo"
 
 msgid "tooltip_item_no_requirements"
-msgstr ""
+msgstr "Sin Requisitos"
 
 msgid "tooltip_item_property"
-msgstr ""
+msgstr "%1: %2"
 
 msgid "tooltip_item_requirement"
-msgstr ""
+msgstr "%2+ %1"
 
 msgid "tooltip_item_requirements"
-msgstr ""
+msgstr "Requisitos:"
 
 msgid "tooltip_item_skill_base_cooldown"
-msgstr ""
+msgstr "Enfriamiento Base: %1"
 
 msgid "tooltip_item_skill_gold_cost"
-msgstr ""
+msgstr "Costo de Oro: %1"
 
 msgid "tooltip_item_skill_level"
-msgstr ""
+msgstr "Nivel de Habilidad: %1"
 
 msgid "tooltip_item_skill_mana"
-msgstr ""
+msgstr "Maná: %1"
 
 msgid "tooltip_item_skill_next_use"
-msgstr ""
+msgstr "Siguiente uso: %1"
 
 msgid "tooltip_item_skill_stamina"
-msgstr ""
+msgstr "Resistencia: %1"
 
 msgid "trading_other_player_has_accepted"
-msgstr ""
+msgstr "El jugador ha aceptado"
 
 msgid "trading_other_player_offers"
-msgstr ""
+msgstr "%1 ofrece:"
 
 msgid "trading_overweight_clue_description"
 msgstr ""
+"Si aceptas esta transacción\r\n"
+"starás llevando %1.\r\n"
+"Más de %2\r\n"
+"te sobrecargará."
 
 msgid "trading_overweight_clue_title"
-msgstr ""
+msgstr "Indicador de Carga"
 
 msgid "trading_window_title"
-msgstr ""
+msgstr "Comercio entre Jugadores"
 
 msgid "treasuremap_window_title"
-msgstr ""
+msgstr "Mapa del Tesoro"
 
 msgid "true"
-msgstr ""
+msgstr "verdadero"
 
 msgid "unbound"
-msgstr ""
+msgstr "(sin vincular)"
 
 msgid "vital_stats_dialog_alignment"
-msgstr ""
+msgstr "Alineación:"
 
 msgid "vital_stats_dialog_health"
-msgstr ""
+msgstr "Salud:"
 
 msgid "vital_stats_dialog_mana"
-msgstr ""
+msgstr "Maná:"
 
 msgid "vital_stats_dialog_resizing"
-msgstr ""
+msgstr "Redimensionando:"
 
 msgid "vital_stats_dialog_stamina"
-msgstr ""
+msgstr "Resistencia:"
 
 msgid "vital_stats_display_modes_blank"
-msgstr ""
+msgstr "En blanco"
 
 msgid "vital_stats_display_modes_percentage_only"
-msgstr ""
+msgstr "Solo porcentaje"
 
 msgid "vital_stats_display_modes_value_and_percentage"
-msgstr ""
+msgstr "Valor y porcentaje"
 
 msgid "vital_stats_display_modes_value_only"
-msgstr ""
+msgstr "Solo valor"
 
 msgid "vital_stats_display_modes_value_over_max"
-msgstr ""
+msgstr "Valor por encima del máximo"
 
 msgid "vitalstats_options_description"
 msgstr ""
+"Para cambiar el tamaño de la ventana de Estadísticas Vitales, simplemente "
+"arrastra una de las esquinas."
 
 msgid "vitalstats_options_display_alignement_bar"
-msgstr ""
+msgstr "Mostrar Barra de Alineación"
 
 msgid "vitalstats_options_display_char_name"
-msgstr ""
+msgstr "Mostrar Nombre del Personaje"
 
 msgid "vitalstats_options_display_health_bar"
-msgstr ""
+msgstr "Mostrar Barra de Salud"
 
 msgid "vitalstats_options_display_mana_bar"
-msgstr ""
+msgstr "Mostrar Barra de Maná"
 
 msgid "vitalstats_options_display_stamina_bar"
-msgstr ""
+msgstr "Mostrar Barra de Resistencia"
 
 msgid "vitalstats_options_text_type"
-msgstr ""
+msgstr "Tipo de Texto"
 
 msgid "vitalstats_options_window_title"
-msgstr ""
+msgstr "Opciones de Ventana de Estadísticas Vitales"
 
 msgid "weapon_bar_auto_equip_config_add_filter_button"
-msgstr ""
+msgstr "Añadir filtro"
 
 msgid "weapon_bar_auto_equip_config_general_tooltip_line_1"
 msgstr ""
+"Si está habilitado, esta ranura de barra de armas elegirá automáticamente el "
+"arma más adecuada según los filtros definidos, cada vez que cambie el "
+"inventario."
 
 msgid "weapon_bar_auto_equip_config_general_tooltip_line_2"
 msgstr ""
+"Si el arma es un arma de combate cuerpo a cuerpo de una mano, siempre se "
+"equipará automáticamente un escudo si está disponible."
 
 msgid "weapon_bar_auto_equip_config_general_tooltip_line_3"
 msgstr ""
+"Los filtros se aplicarán de arriba hacia abajo y pueden reordenarse "
+"arrastrando y soltando uno sobre otro."
 
 msgid "weapon_bar_auto_equip_config_general_tooltip_line_4"
 msgstr ""
+"Puedes eliminar un filtro arrastrándolo hacia la ventana principal del juego."
 
 msgid "weapon_bar_auto_equip_config_general_tooltip_line_5"
 msgstr ""
+"Puedes añadir tus propios filtros personalizados a través del menú "
+"desplegable de filtros, y el menú desplegable de presets de abajo ofrece un "
+"buen punto de partida para tu configuración."
 
 msgid "weapon_bar_auto_equip_config_load_preset_button"
-msgstr ""
+msgstr "Cargar preajuste"
 
 msgid "weapon_bar_binding_description"
-msgstr ""
+msgstr "Presiona para activar la ranura de barra de armas %1"
 
 msgid "weapon_bar_emptybutton_tooltip1"
-msgstr ""
+msgstr "Botón de barra de armas vacío"
 
 msgid "weapon_bar_emptybutton_tooltip2"
 msgstr ""
+"Arrastra y suelta un objeto aquí para hacerlo accesible a través de la barra "
+"de armas."
 
 msgid "weapon_bar_entry_dialog_title"
-msgstr ""
+msgstr "Opciones de ranura de barra de armas %1"
 
 msgid "weapon_bar_entry_settings_button_tooltip_description"
-msgstr ""
+msgstr "Abre la configuración de esta ranura de barra de armas"
 
 msgid "weapon_bar_entry_settings_button_tooltip_title"
-msgstr ""
+msgstr "Configuración de ranura"
 
 msgid "weapon_bar_options_dialog_trigger_on_switch_tooltip"
 msgstr ""
+"Si está habilitada, la habilidad se seleccionará inmediatamente después de "
+"cambiar de armas. De lo contrario, requerirá una segunda pulsación."
 
 msgid "weapon_bar_paperdoll_label_tooltip"
 msgstr ""
+"Arrastra y suelta objetos en la barra de armas y configura teclas rápidas "
+"para un acceso rápido."
 
 msgid "weapon_bar_paperdoll_label_tooltip_title"
-msgstr ""
+msgstr "BARRA DE ARMAS"
 
 msgid "weapon_bar_paperdoll_label_tooltip_warning"
 msgstr ""
+"Advertencia: Los objetos en la barra de armas siguen las reglas normales"
 
 msgid "weapon_bar_paperdoll_label_tooltip_warning2"
-msgstr ""
+msgstr "de caída de botín. Tenerlos en la barra de armas"
 
 msgid "weapon_bar_paperdoll_label_tooltip_warning3"
-msgstr ""
+msgstr "¡NO cuenta como tenerlos equipados!"
 
 msgid "weapon_bar_slot_option_enable_auto_equip"
-msgstr ""
+msgstr "Habilitar equipamiento automático"
 
 msgid "weapon_bar_slot_option_switch_hotbar_column"
-msgstr ""
+msgstr "Cambiar columna de hotbar: "
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot"
-msgstr ""
+msgstr "Activar ranura de Hotbar"
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot_column"
-msgstr ""
+msgstr "Columna: "
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot_on_weapon_change"
-msgstr ""
+msgstr "Al cambiar de arma"
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot_row"
-msgstr ""
+msgstr "Fila: "
 
 msgid "window_close_tooltip"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "window_opacity_tooltip"
-msgstr ""
+msgstr "Opacidad"
 
 msgid "window_options_tooltip"
-msgstr ""
+msgstr "Opciones"
 
 msgid "window_sticky_tooltip"
-msgstr ""
+msgstr "Pegajoso"
 
 msgid "window_title_gmcall"
-msgstr ""
+msgstr "Solicitar ayuda"
 
 msgid "window_title_playerstats"
-msgstr ""
+msgstr "Estadísticas del jugador"
 
 msgid "working_progress_crafting"
-msgstr ""
+msgstr "Fabricando..."
 
 msgid "working_progress_harvesting"
-msgstr ""
+msgstr "Recolectando..."
 
 msgid "working_progress_skinning"
-msgstr ""
+msgstr "Desollando..."
 
 msgid "worldmap_window_title"
-msgstr ""
+msgstr "Mapa del mundo (%1)"
 
 msgid "yes"
-msgstr ""
+msgstr "Sí"
