@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-05-08 14:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/skills/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "技能"
@@ -363,6 +368,7 @@ msgstr "Description of s_Combat Enhancements"
 msgid "s_Parry"
 msgstr "躲避"
 
+#, fuzzy
 msgid "desc_s_Parry"
 msgstr "按住格挡按钮(默认的V)进入格挡模式,极大地减少了大多数攻击造成的伤害."
 
@@ -5903,4 +5909,3 @@ msgstr "WalkSkill"
 
 msgid "desc_WalkSkill"
 msgstr "Description of WalkSkill"
-
