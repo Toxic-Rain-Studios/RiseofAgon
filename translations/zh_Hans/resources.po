@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-05 08:11+0000\n"
-"Last-Translator: Weblate Admin <danielr@toxicrainstudios.com>\n"
+"PO-Revision-Date: 2026-05-09 18:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4601,12 +4601,14 @@ msgstr "游戏时间点券"
 msgid "desc_r_Game Time Token"
 msgstr "双击可将30天的高级游戏时间添加到您的帐户中."
 
+#, fuzzy
 msgid "r_character alteration token"
 msgstr "角色更改点券"
 
 msgid "desc_r_character alteration token"
 msgstr "双击打开角色更改窗口."
 
+#, fuzzy
 msgid "r_name change token"
 msgstr "名称更改点券"
 
@@ -4625,12 +4627,14 @@ msgstr "个人银行扩展"
 msgid "desc_r_Personal Bank Extension"
 msgstr "双击以添加新标签或扩展您的第二个个人银行标签!"
 
+#, fuzzy
 msgid "r_clan name change token"
 msgstr "公会改名券"
 
 msgid "desc_r_clan name change token"
 msgstr "双击打开公会名称更改窗口."
 
+#, fuzzy
 msgid "r_name history veiling token"
 msgstr "名称历史记录标记"
 
@@ -4652,6 +4656,7 @@ msgstr "Description of r_Items"
 msgid "r_Monster Toys"
 msgstr "怪物玩具"
 
+#, fuzzy
 msgid "desc_r_Monster Toys"
 msgstr "怪物玩具."
 
