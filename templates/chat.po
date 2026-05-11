@@ -11818,6 +11818,16 @@ msgstr "%1"
 msgid "NOTIFICATION_VILLAGE_NO_LONGER_OPEN_FOR_TELEPORT"
 msgstr "This village is no longer open for teleporting."
 
+msgid "NOTIFICATION_VILLAGE_OTHER_PLAYER_AWARDED"
+msgstr ""
+"^Ccyan^%1^N^ has received ^Cyellow^%2 %3^N^ from the village control point "
+"at ^Cyellow^%4^N^."
+
+msgid "NOTIFICATION_VILLAGE_REWARDS_CREATED"
+msgstr ""
+"You have received ^Cyellow^%1 %2^N^ from the village control point at "
+"^Cyellow^%3^N^."
+
 msgid "NOTIFICATION_WAIT_PERSIST_SAVE_LOAD"
 msgstr ""
 "^Cwhite^You can only save/load your gui persistent file once per minute."
