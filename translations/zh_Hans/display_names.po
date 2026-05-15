@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-05-15 17:06+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/display_names/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "display_name_r_Windgraive"
 msgstr "低级水精灵"
@@ -2198,6 +2204,7 @@ msgstr "灰渣"
 msgid "display_name_r_Clan Bank Storage"
 msgstr "公会银行"
 
+#, fuzzy
 msgid "display_name_r_Clan Bank"
 msgstr "公会银行"
 
@@ -2213,114 +2220,150 @@ msgstr "公会银行4"
 msgid "display_name_r_Clan Bank5 Storage"
 msgstr "公会银行5"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Alfar u1"
 msgstr "公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Alfar u2"
 msgstr "公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Alfar"
 msgstr "公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks dwarf u1"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks dwarf u2"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks dwarf"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Human u1"
 msgstr "人类公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Human u2"
 msgstr "人类公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Human"
 msgstr "人类公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks mahirim u1"
 msgstr "狼人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks mahirim u2"
 msgstr "狼人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks mahirim"
 msgstr "狼人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mirdain u1"
 msgstr "精灵公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mirdain u2"
 msgstr "精灵公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mirdain"
 msgstr "精灵公会军营"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks ork u1"
 msgstr "兽人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks ork u2"
 msgstr "兽人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks ork"
 msgstr "兽人公会营房"
 
 msgid "display_name_r_Clan Barrels_01"
 msgstr "桶"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Alfar u1"
 msgstr "暗法公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Alfar u2"
 msgstr "暗法公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Alfar"
 msgstr "暗法公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church dwarf u1"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church dwarf u2"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church dwarf"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Human u1"
 msgstr "人类公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Human u2"
 msgstr "人类公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Human"
 msgstr "人类公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church mahirim u1"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church mahirim u2"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church mahirim"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mirdain u1"
 msgstr "精灵公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mirdain u2"
 msgstr "精灵公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mirdain"
 msgstr "精灵公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church ork u1"
 msgstr "兽人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church ork u2"
 msgstr "兽人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church ork"
 msgstr "兽人公会教堂"
 
@@ -2333,186 +2376,244 @@ msgstr "箱子"
 msgid "display_name_r_Clan Crates_03"
 msgstr "箱子"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Alfar"
 msgstr "暗法公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild dwarf"
 msgstr "矮人公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Human"
 msgstr "人类公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild mahirim"
 msgstr "狼人公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Mirdain"
 msgstr "精灵公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild ork"
 msgstr "兽人公会战士协会"
 
 msgid "display_name_r_Clan Foundry"
 msgstr "铸造厂"
 
+#, fuzzy
 msgid "display_name_r_Clan General Store"
 msgstr "公会综合商店"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower alfar"
 msgstr "暗法防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Dwarf"
 msgstr "矮人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower human"
 msgstr "人类防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower mahirim"
 msgstr "狼人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower mirdain"
 msgstr "精灵防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower ork"
 msgstr "兽人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower alfar"
 msgstr "暗法防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Dwarf"
 msgstr "矮人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Human"
 msgstr "人类防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Mahirim"
 msgstr "狼人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Mirdain"
 msgstr "精灵防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Ork"
 msgstr "兽人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Harbor Base Rubble"
 msgstr "港口"
 
 msgid "display_name_r_Clan Harbor Base"
 msgstr "港口"
 
+#, fuzzy
 msgid "display_name_r_Clan House Alfar_01"
 msgstr "暗法公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Alfar_02"
 msgstr "暗法公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Alfar_03"
 msgstr "暗法公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Alfar_04"
 msgstr "暗法公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House dwarf_01"
 msgstr "矮人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Human_01"
 msgstr "人类公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Human_02"
 msgstr "人类公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Human_03"
 msgstr "人类公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Human_04"
 msgstr "人类公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Human_05"
 msgstr "人类公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House mahirim_01"
 msgstr "狼人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Mirdain_01"
 msgstr "精灵公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Mirdain_02"
 msgstr "精灵公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Mirdain_03"
 msgstr "精灵公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Mirdain_04"
 msgstr "精灵公会房屋"
 
 msgid "display_name_r_Clan House Open Ork_01"
 msgstr "房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House ork_01"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House ork_02"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House ork_03"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House ork_04"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House ork_05"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Alfar u1"
 msgstr "暗法公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Alfar u2"
 msgstr "暗法公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Alfar"
 msgstr "暗法公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep dwarf u1"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep dwarf u2"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep dwarf"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Human u1"
 msgstr "人类公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Human u2"
 msgstr "人类公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Human"
 msgstr "人类公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep mahirim u1"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep mahirim u2"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep mahirim"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mirdain u1"
 msgstr "精灵公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mirdain u2"
 msgstr "精灵公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mirdain"
 msgstr "精灵公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep ork u1"
 msgstr "兽人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep ork u2"
 msgstr "兽人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep ork"
 msgstr "兽人公会房子"
 
@@ -2525,6 +2626,7 @@ msgstr "法师协会"
 msgid "display_name_r_Clan Mages Guild Alfar u2"
 msgstr "法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Alfar"
 msgstr "暗法公会法师协会"
 
@@ -2534,15 +2636,19 @@ msgstr "法师协会"
 msgid "display_name_r_Clan Mages Guild Dwarf u2"
 msgstr "法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild dwarf"
 msgstr "矮人公会法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Human u1"
 msgstr "Clan Mages Guild Human U1"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Human u2"
 msgstr "Clan Mages Guild Human U2"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Human"
 msgstr "人类公会法师协会"
 
@@ -2552,15 +2658,19 @@ msgstr "法师协会"
 msgid "display_name_r_Clan Mages Guild Mahirim u2"
 msgstr "法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild mahirim"
 msgstr "狼人公会法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Mirdain u1"
 msgstr "Clan Mages Guild Mirdain U1"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Mirdain u2"
 msgstr "Clan Mages Guild Mirdain U2"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Mirdain"
 msgstr "精灵公会法师协会"
 
@@ -2570,6 +2680,7 @@ msgstr "法师协会"
 msgid "display_name_r_Clan Mages Guild Ork u2"
 msgstr "法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild ork"
 msgstr "兽人公会法师协会"
 
@@ -2615,12 +2726,15 @@ msgstr "公会碎片"
 msgid "display_name_r_Clan Shipyard"
 msgstr "造船厂"
 
+#, fuzzy
 msgid "display_name_r_clan smelter"
 msgstr "公会冶炼厂"
 
+#, fuzzy
 msgid "display_name_r_Clan Smithy u1"
 msgstr "高级公会铁匠铺"
 
+#, fuzzy
 msgid "display_name_r_Clan Smithy"
 msgstr "公会铁匠铺"
 
@@ -2666,24 +2780,31 @@ msgstr "树林"
 msgid "display_name_r_clan spawn veilron"
 msgstr "Raven树林"
 
+#, fuzzy
 msgid "display_name_r_clan station"
 msgstr "公会工作站"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance Building U1"
 msgstr "传送室2"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance Building u2"
 msgstr "传送室3"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance Building"
 msgstr "传送室1"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance u1"
 msgstr "传送室2"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance u2"
 msgstr "传送室3级"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance"
 msgstr "传送室1"
 
@@ -2696,6 +2817,7 @@ msgstr "魔术师"
 msgid "display_name_r_Clan Tower Cannon Alfar Acid Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar acid"
 msgstr "暗法公会酸蚀炮"
 
@@ -2705,105 +2827,135 @@ msgstr "炮塔"
 msgid "display_name_r_Clan Tower Cannon Alfar Fireball Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar fireball"
 msgstr "暗法公会火球炮"
 
 msgid "display_name_r_Clan Tower Cannon Alfar Flamethrower Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar flamethrower"
 msgstr "暗法公会火焰炮"
 
 msgid "display_name_r_Clan Tower Cannon Alfar Lightning Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar lightning"
 msgstr "暗法公会闪电炮"
 
 msgid "display_name_r_Clan Tower Cannon Alfar Shrapnel Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar shrapnel"
 msgstr "暗法公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon alfar"
 msgstr "暗法公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf acid Base"
 msgstr "矮人公会酸蚀塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf acid"
 msgstr "矮人公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf Base"
 msgstr "矮人公会酸蚀炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf fireball Base"
 msgstr "矮人公会火球炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf fireball"
 msgstr "矮人公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf flamethrower Base"
 msgstr "矮人公会火焰炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf flamethrower"
 msgstr "矮人公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf lightning Base"
 msgstr "矮人公会闪电炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf lightning"
 msgstr "矮人公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon dwarf shrapnel Base"
 msgstr "矮人公会榴霰炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf shrapnel"
 msgstr "矮人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon dwarf"
 msgstr "矮人公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Acid Base"
 msgstr "人类公会酸蚀塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human acid"
 msgstr "人类公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Base"
 msgstr "人类公会火炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Fireball Base"
 msgstr "人类公会火球炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human fireball"
 msgstr "人类公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Flamethrower Base"
 msgstr "人类公会火焰炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human flamethrower"
 msgstr "人类公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Lightning Base"
 msgstr "人类公会闪电炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human lightning"
 msgstr "人类公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Shrapnel Base"
 msgstr "人类公会榴霰炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human shrapnel"
 msgstr "人类公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon human"
 msgstr "人类公会火炮"
 
 msgid "display_name_r_Clan Tower Cannon Mahirim Acid Base"
 msgstr "酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim acid"
 msgstr "狼人公会酸蚀炮"
 
@@ -2813,33 +2965,39 @@ msgstr "炮塔"
 msgid "display_name_r_Clan Tower Cannon Mahirim Fireball Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim fireball"
 msgstr "狼人公会火球炮"
 
 msgid "display_name_r_Clan Tower Cannon Mahirim Flamethrower Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim flamethrower"
 msgstr "狼人公会火焰炮"
 
 msgid "display_name_r_Clan Tower Cannon Mahirim Lightning Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim lightning"
 msgstr "狼人公会闪电炮"
 
 msgid "display_name_r_Clan Tower Cannon Mahirim Shrapnel Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim shrapnel"
 msgstr "狼人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mahirim"
 msgstr "狼人公会火炮"
 
 msgid "display_name_r_Clan Tower Cannon Mirdain Acid Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain acid"
 msgstr "精灵公会酸蚀炮"
 
@@ -2849,63 +3007,80 @@ msgstr "炮塔"
 msgid "display_name_r_Clan Tower Cannon Mirdain Fireball Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain fireball"
 msgstr "精灵公会火球炮"
 
 msgid "display_name_r_Clan Tower Cannon Mirdain Flamethrower Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain flamethrower"
 msgstr "精灵公会火焰炮"
 
 msgid "display_name_r_Clan Tower Cannon Mirdain Lightning Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain lightning"
 msgstr "精灵公会闪电炮"
 
 msgid "display_name_r_Clan Tower Cannon Mirdain Shrapnel Base"
 msgstr "炮塔"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain shrapnel"
 msgstr "精灵公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon mirdain"
 msgstr "精灵公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork acid Base"
 msgstr "兽人公会酸蚀塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork acid"
 msgstr "兽人公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork Base"
 msgstr "兽人公会塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork fireball Base"
 msgstr "兽人公会火球炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork fireball"
 msgstr "兽人公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork flamethrower Base"
 msgstr "兽人公会火焰炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork flamethrower"
 msgstr "兽人公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork lightning Base"
 msgstr "兽人公会闪电炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork lightning"
 msgstr "兽人公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon ork Shrapnel Base"
 msgstr "兽人公会榴霰塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork shrapnel"
 msgstr "兽人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon ork"
 msgstr "兽人公会火炮"
 
@@ -3500,6 +3675,7 @@ msgstr "瓦砾"
 msgid "display_name_r_Clan Wall Tower ork_02"
 msgstr "塔墙"
 
+#, fuzzy
 msgid "display_name_r_Clan Workbench"
 msgstr "公会工作台"
 
@@ -10094,6 +10270,7 @@ msgstr "铆钉项圈"
 msgid "display_name_r_Choker"
 msgstr "颈链"
 
+#, fuzzy
 msgid "display_name_r_Empty Bottle"
 msgstr "空瓶"
 
@@ -10517,138 +10694,182 @@ msgstr "肉饼"
 msgid "display_name_r_Clan Wall Mahirim_01 Rubble"
 msgstr "瓦砾"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar Shrapnel"
 msgstr "暗法公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mahirim Fireball"
 msgstr "狼人公会火球炮"
 
 msgid "display_name_r_Portal Vortex"
 msgstr "传送门户"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Shrapnel"
 msgstr "人类公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar Lightning"
 msgstr "暗法公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mahirim Lightning"
 msgstr "狼人公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mirdain Lightning"
 msgstr "精灵公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_clan tower cannon Mahirim Shrapnel"
 msgstr "狼人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_clan Tower Cannon Mirdain Shrapnel"
 msgstr "精灵公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Shrapnel"
 msgstr "兽人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Shrapnel"
 msgstr "矮人公会榴霰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mahirim Flamethrower"
 msgstr "狼人公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Flamethrower"
 msgstr "兽人公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Flamethrower"
 msgstr "矮人公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Lightning"
 msgstr "兽人公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Lightning"
 msgstr "矮人公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Lightning"
 msgstr "人类公会闪电炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar Flamethrower"
 msgstr "暗法公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Fireball"
 msgstr "人类公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Fireball"
 msgstr "矮人公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Acid"
 msgstr "矮人公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar Acid"
 msgstr "暗法公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar Fireball"
 msgstr "暗法公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Flamethrower"
 msgstr "人类公会火焰炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Fireball"
 msgstr "兽人公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mirdain Fireball"
 msgstr "精灵公会火球炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mirdain"
 msgstr "精灵公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Alfar"
 msgstr "暗法公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf"
 msgstr "矮人公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mahirim"
 msgstr "狼人公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mahirim Acid"
 msgstr "狼人公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Mirdain Acid"
 msgstr "精灵公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human Acid"
 msgstr "人类公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Acid"
 msgstr "兽人公会酸蚀炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Fireball Base"
 msgstr "矮人公会火球炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Flamethrower Base"
 msgstr "矮人公会火焰炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork"
 msgstr "兽人公会火炮"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Acid Base"
 msgstr "矮人公会酸蚀塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Acid Base"
 msgstr "兽人公会酸蚀塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Fireball Base"
 msgstr "兽人公会火球炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Lightning Base"
 msgstr "矮人公会闪电炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Shrapnel Base"
 msgstr "矮人公会榴霰炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Shrapnel Base"
 msgstr "兽人公会榴霰塔炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Flamethrower Base"
 msgstr "兽人公会火焰炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Lightning Base"
 msgstr "兽人公会闪电炮底座"
 
@@ -10694,93 +10915,123 @@ msgstr "建筑模块"
 msgid "display_name_r_Module Housing"
 msgstr "房屋模块"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Dwarf u1"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Dwarf"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Dwarf Base"
 msgstr "矮人公会酸蚀炮底座"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Dwarf u2"
 msgstr "矮人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Dwarf"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Dwarf u2"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Dwarf u1"
 msgstr "矮人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Dwarf u1"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Dwarf"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Dwarf u2"
 msgstr "矮人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Dwarf"
 msgstr "矮人公会法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Dwarf"
 msgstr "矮人公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan House Dwarf_01"
 msgstr "矮人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Ork"
 msgstr "兽人公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Ork u1"
 msgstr "兽人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Ork u2"
 msgstr "兽人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan House Ork_02"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Ork_03"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Ork"
 msgstr "兽人公会法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan House Ork_01"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Ork"
 msgstr "兽人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan House Ork_04"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan House Ork_05"
 msgstr "兽人公会房屋"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Ork u2"
 msgstr "兽人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Ork u1"
 msgstr "兽人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep human u2"
 msgstr "人类公会基地"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Ork"
 msgstr "兽人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Ork u2"
 msgstr "兽人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Ork u1"
 msgstr "兽人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Ork"
 msgstr "兽人公会营房"
 
@@ -10817,6 +11068,7 @@ msgstr "塔墙"
 msgid "display_name_r_Clan Wall Tower Ork_02 Rubble"
 msgstr "瓦砾"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Ork Base"
 msgstr "兽人公会塔炮底座"
 
@@ -11117,18 +11369,23 @@ msgstr "战舰模块"
 msgid "display_name_r_Module Ship"
 msgstr "船舶模块"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Mahirim"
 msgstr "狼人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Alfar"
 msgstr "暗法防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Ork"
 msgstr "兽人防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Mirdain"
 msgstr "精灵防御塔"
 
+#, fuzzy
 msgid "display_name_r_Clan Guardtower Human"
 msgstr "人类防御塔"
 
@@ -11168,6 +11425,7 @@ msgstr "瑞丹钢"
 msgid "display_name_r_Ogre Boss"
 msgstr "食人魔首领"
 
+#, fuzzy
 msgid "display_name_r_Clan Smelter"
 msgstr "公会冶炼厂"
 
@@ -11405,6 +11663,7 @@ msgstr "权利宝球"
 msgid "display_name_r_Orb of Might"
 msgstr "大力宝球"
 
+#, fuzzy
 msgid "display_name_r_Evil Eye Bile"
 msgstr "邪恶之眼胆汁"
 
@@ -11525,6 +11784,7 @@ msgstr "纸莎草"
 msgid "display_name_r_Flatsedge"
 msgstr "莎草"
 
+#, fuzzy
 msgid "display_name_r_Clan Tower Cannon Human"
 msgstr "人类公会火炮"
 
@@ -12194,30 +12454,39 @@ msgstr "地狱腰甲"
 msgid "display_name_r_Armor Infernal Torso"
 msgstr "地狱胸甲"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mahirim u2"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mahirim"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Keep Mahirim u1"
 msgstr "狼人公会房子"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mahirim u1"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mahirim"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Church Mahirim u2"
 msgstr "狼人公会教堂"
 
+#, fuzzy
 msgid "display_name_r_Clan Mages Guild Mahirim"
 msgstr "狼人公会法师协会"
 
+#, fuzzy
 msgid "display_name_r_Clan Fighters Guild Mahirim"
 msgstr "狼人公会战士协会"
 
+#, fuzzy
 msgid "display_name_r_Clan House Mahirim_01"
 msgstr "狼人公会房屋"
 
@@ -12233,12 +12502,15 @@ msgstr "瓦砾"
 msgid "display_name_r_Clan Wall Tower Mahirim_02 d2"
 msgstr "塔墙"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mahirim"
 msgstr "狼人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mahirim u2"
 msgstr "狼人公会营房"
 
+#, fuzzy
 msgid "display_name_r_Clan Barracks Mahirim u1"
 msgstr "狼人公会营房"
 
@@ -12326,6 +12598,7 @@ msgstr "矮人漩涡"
 msgid "display_name_r_Wonder Crystal Cave"
 msgstr "灰暗神迹"
 
+#, fuzzy
 msgid "display_name_r_Wonder Nightveil"
 msgstr "圣光神迹"
 
@@ -12344,12 +12617,14 @@ msgstr "回春药水"
 msgid "display_name_r_Quest The Amulet of Eiradan"
 msgstr "寻找埃兰德的护身符"
 
+#, fuzzy
 msgid "display_name_r_Wonder Tree of Life"
 msgstr "生命之源神迹"
 
 msgid "display_name_r_Wonder Anvil of Ice"
 msgstr "冰雪神迹"
 
+#, fuzzy
 msgid "display_name_r_Wonder Eye of the Moon"
 msgstr "夜之眼神迹"
 
@@ -12797,6 +13072,7 @@ msgstr "玩家老虎机"
 msgid "display_name_r_Player Slot Machine_02"
 msgstr "摇摇机"
 
+#, fuzzy
 msgid "display_name_r_Clan Hamlet Guardtower Alfar"
 msgstr "暗法防御塔"
 
@@ -12842,6 +13118,7 @@ msgstr "保险箱"
 msgid "display_name_r_Player House Ladder Item"
 msgstr "楼梯"
 
+#, fuzzy
 msgid "display_name_r_Clan Station"
 msgstr "公会工作站"
 
@@ -12899,6 +13176,7 @@ msgstr "不灭仆从"
 msgid "display_name_r_Spider Cave"
 msgstr "灰蜘蛛"
 
+#, fuzzy
 msgid "display_name_r_Clan Teleportation Chamber Entrance Building u1"
 msgstr "传送室2"
 
@@ -12998,6 +13276,7 @@ msgstr "破盾匕首手册"
 msgid "display_name_r_Ember Composite Bow"
 msgstr "宝石复合弓"
 
+#, fuzzy
 msgid "display_name_r_Ember Choppa"
 msgstr "宝石切斧"
 
@@ -13226,6 +13505,7 @@ msgstr "鞣革示意图"
 msgid "display_name_r_curio1"
 msgstr "第1排古董箱子"
 
+#, fuzzy
 msgid "display_name_r_Clan Billboard"
 msgstr "公会公告牌"
 
@@ -13265,6 +13545,7 @@ msgstr "梅莱克方尖碑"
 msgid "display_name_r_Metal Ore"
 msgstr "金属矿石"
 
+#, fuzzy
 msgid "display_name_r_Clan Market"
 msgstr "公会拍卖行"
 
@@ -13292,9 +13573,11 @@ msgstr "梅莱克方尖碑"
 msgid "display_name_r_Schematic Weaving"
 msgstr "纺织示意图"
 
+#, fuzzy
 msgid "display_name_r_Clan billboard"
 msgstr "公会公告牌"
 
+#, fuzzy
 msgid "display_name_r_Clan market"
 msgstr "公会拍卖行"
 

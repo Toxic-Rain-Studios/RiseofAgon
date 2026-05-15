@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-08 14:11+0000\n"
+"PO-Revision-Date: 2026-05-15 17:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/skills/zh_Hans/>\n"
@@ -3438,6 +3438,7 @@ msgstr "法术"
 msgid "desc_s_Spells"
 msgstr "持久死灵法术"
 
+#, fuzzy
 msgid "s_Air Magic_Spells"
 msgstr "空气魔法法术"
 
@@ -3666,6 +3667,7 @@ msgstr "Tornado_1"
 msgid "desc_s_Tornado_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Arcane Magic_Spells"
 msgstr "奥术魔法法术"
 
@@ -3828,12 +3830,14 @@ msgstr "Wall of Force_force"
 msgid "desc_s_Wall of Force_force"
 msgstr ""
 
+#, fuzzy
 msgid "s_Divine Magic_Spells"
 msgstr "神圣魔法法术"
 
 msgid "desc_s_Divine Magic_Spells"
 msgstr ""
 
+#, fuzzy
 msgid "s_Earth Magic_Spells"
 msgstr "土系魔法法术"
 
@@ -4146,6 +4150,7 @@ msgstr "Tarnish_1"
 msgid "desc_s_Tarnish_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Fire Magic_Spells"
 msgstr "火系魔法法术"
 
@@ -4338,6 +4343,7 @@ msgstr "Weakening Blaze_1"
 msgid "desc_s_Weakening Blaze_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Greater Magic_Spells"
 msgstr "高级魔法法术"
 
@@ -4590,6 +4596,7 @@ msgstr "毒液腐蚀"
 msgid "desc_s_Venom_Acid"
 msgstr ""
 
+#, fuzzy
 msgid "s_Lesser Magic_Spells"
 msgstr "初级魔法法术"
 
@@ -4788,6 +4795,7 @@ msgstr "Stamina to Health_1"
 msgid "desc_s_Stamina to Health_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Necromancy_Spells"
 msgstr "死灵法术"
 
@@ -5010,12 +5018,14 @@ msgstr "Vampiric Touch_1"
 msgid "desc_s_Vampiric Touch_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Ritual Magic_Spells"
 msgstr "仪式魔法法术"
 
 msgid "desc_s_Ritual Magic_Spells"
 msgstr ""
 
+#, fuzzy
 msgid "s_Spell Chanting_Spells"
 msgstr "咒语吟唱法术"
 
@@ -5238,6 +5248,7 @@ msgstr "Soothing Chant_1"
 msgid "desc_s_Soothing Chant_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Water Magic_Spells"
 msgstr "水系魔法法术"
 
@@ -5430,6 +5441,7 @@ msgstr "Weakening Chill_1"
 msgid "desc_s_Weakening Chill_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Wild Magic_Spells"
 msgstr "狂野魔法法术"
 
@@ -5640,6 +5652,7 @@ msgstr "Physics Test E_1"
 msgid "desc_s_Physics Test E_1"
 msgstr ""
 
+#, fuzzy
 msgid "s_Witchcraft_Spells"
 msgstr "巫术法术"
 

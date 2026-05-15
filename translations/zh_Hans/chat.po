@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-05-15 17:06+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "欢迎进入和平世界亚服."
@@ -6441,21 +6446,27 @@ msgstr "%1 %2正在从我们在%3的%4中收集资源."
 msgid "NOTIFICATION_CLAN_CITY_STATIONARY_CANNON_ENTERED"
 msgstr "我们的%1城市刚刚生成了一门固定大炮."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_CREATED"
 msgstr "%1已经在我们的城市%2中创建."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_DESTROYED"
 msgstr "位于我们城市%2的%1已经被摧毁了!"
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_DISABLED"
 msgstr "%1刚刚在我们的城市%2中被禁用.所有与此建筑相关的加成现在已被禁用!"
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_DOWNGRADED"
 msgstr "%1在我们的城市%2刚刚被降级."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_ENABLED"
 msgstr "%1刚刚在我们的城市%2中启用.所有与这个建筑相关的加成现在都被激活了!"
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_STRUCTURE_UPGRADED"
 msgstr "%1刚刚在我们的城市%2升级."
 
@@ -10877,4 +10888,3 @@ msgstr "无法升级已禁用的结构!"
 
 msgid "NOTIFICATION_OBELISK_ALTAR_USE_NO_OBELISK"
 msgstr "这祭坛上没有方尖碑!"
-
