@@ -3218,6 +3218,9 @@ msgstr "[Loot] Deposited %1 item(s) from your lootbag into the bank."
 msgid "loadout_market_btn_buy_all"
 msgstr "Buy All"
 
+msgid "loadout_market_btn_search"
+msgstr "Search"
+
 msgid "loadout_market_category_armor"
 msgstr "Armor"
 
@@ -3462,6 +3465,30 @@ msgstr "Default"
 
 msgid "loadout_name_new_loadout"
 msgstr "New Loadout"
+
+msgid "loadout_purchase_popup_balance"
+msgstr "You have: %1 gold"
+
+msgid "loadout_purchase_popup_btn_buy"
+msgstr "Buy"
+
+msgid "loadout_purchase_popup_btn_cancel"
+msgstr "Cancel"
+
+msgid "loadout_purchase_popup_btn_close"
+msgstr "Close"
+
+msgid "loadout_purchase_popup_empty"
+msgstr "Loadout is fully satisfied from your inventory - nothing to buy."
+
+msgid "loadout_purchase_popup_title_confirm"
+msgstr "Purchase Loadout"
+
+msgid "loadout_purchase_popup_title_result"
+msgstr "Purchase Result"
+
+msgid "loadout_purchase_popup_total"
+msgstr "Total: %1 gold"
 
 msgid "loadout_resupply_complete"
 msgstr "[Loadout] Resupply complete!"
