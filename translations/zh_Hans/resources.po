@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-15 17:06+0000\n"
+"PO-Revision-Date: 2026-05-16 08:38+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -8141,6 +8141,7 @@ msgstr "动态世界物品"
 msgid "desc_r_Dynamic World Items"
 msgstr "可以放置在世界里的各种物品."
 
+#, fuzzy
 msgid "r_Camp Fire Item"
 msgstr "营火物品"
 
@@ -8519,30 +8520,35 @@ msgstr "鳟鱼"
 msgid "desc_r_Trout"
 msgstr "一种小型淡水鱼,通常在溪流和湖泊中发现."
 
+#, fuzzy
 msgid "r_Fun Flags Items"
 msgstr "趣味旗帜"
 
 msgid "desc_r_Fun Flags Items"
 msgstr ""
 
+#, fuzzy
 msgid "r_Fun Flags End items"
 msgstr "趣味旗帜结束"
 
 msgid "desc_r_Fun Flags End items"
 msgstr " "
 
+#, fuzzy
 msgid "r_Fun Flag End Item"
 msgstr "趣味旗帜结束"
 
 msgid "desc_r_Fun Flag End Item"
 msgstr "双击以放置完成趣味旗帜."
 
+#, fuzzy
 msgid "r_Fun Flags Middle items"
 msgstr "趣味旗帜中间"
 
 msgid "desc_r_Fun Flags Middle items"
 msgstr " "
 
+#, fuzzy
 msgid "r_Fun Flag Middle_01 Item"
 msgstr "Fun Flag Middle_01 Item"
 
@@ -11141,6 +11147,7 @@ msgstr "铂金"
 msgid "desc_r_Platinum"
 msgstr "铂金用于各种公会管理活动."
 
+#, fuzzy
 msgid "r_foreboding crystal"
 msgstr "预言水晶"
 
@@ -11243,6 +11250,7 @@ msgstr "黑火药"
 msgid "desc_r_Black Powder"
 msgstr "发射大炮时使用的一种高度易燃的物质."
 
+#, fuzzy
 msgid "r_Chaldean Black Powder"
 msgstr "迦勒底黑火药"
 
@@ -12115,6 +12123,7 @@ msgstr "染液"
 msgid "desc_r_Dye Solution"
 msgstr "将其与各种资源混合,可为染料提供良好的基底."
 
+#, fuzzy
 msgid "r_pigments"
 msgstr "颜料"
 
@@ -19353,6 +19362,7 @@ msgstr "村庄公会石"
 msgid "desc_r_Clanstone Hamlet"
 msgstr "按F键使其成为您的重生点."
 
+#, fuzzy
 msgid "r_Dynamic Clan Bindstones"
 msgstr "动态公会绑定石"
 
@@ -22738,24 +22748,28 @@ msgstr "公会传送室入口大楼"
 msgid "desc_r_Clan Teleportation Chamber Entrance Building"
 msgstr " "
 
+#, fuzzy
 msgid "r_Clan Teleportation Chamber Entrance Building u1"
 msgstr "Clan Teleportation Chamber Entrance Building u1"
 
 msgid "desc_r_Clan Teleportation Chamber Entrance Building u1"
 msgstr "  "
 
+#, fuzzy
 msgid "r_Clan Teleportation Chamber Entrance Building u2"
 msgstr "Clan Teleportation Chamber Entrance Building u2"
 
 msgid "desc_r_Clan Teleportation Chamber Entrance Building u2"
 msgstr " "
 
+#, fuzzy
 msgid "r_Clan Teleportation Chamber Entrance u1"
 msgstr "Clan Teleportation Chamber Entrance u1"
 
 msgid "desc_r_Clan Teleportation Chamber Entrance u1"
 msgstr " "
 
+#, fuzzy
 msgid "r_Clan Teleportation Chamber Entrance u2"
 msgstr "Clan Teleportation Chamber Entrance u2"
 
