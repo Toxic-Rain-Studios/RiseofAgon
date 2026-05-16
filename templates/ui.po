@@ -203,6 +203,9 @@ msgstr "%3: %1 / %2"
 msgid "backpack_window_title"
 msgstr "Backpack"
 
+msgid "bank_deposit_loot_button"
+msgstr "Deposit Loot"
+
 msgid "bank_filter_placeholder"
 msgstr "Filter..."
 
@@ -3034,6 +3037,477 @@ msgstr "Browse Clans"
 
 msgid "legacy_clan_manage_clan"
 msgstr "Manage Clan"
+
+msgid "loadout_addbag_no_empty_bag"
+msgstr "[Loadout] No empty bag found in bank."
+
+msgid "loadout_addbag_no_empty_container"
+msgstr ""
+"[Loadout] Add to Bag: no empty container found in bank (or could not move it "
+"to your backpack)."
+
+msgid "loadout_addbag_packed"
+msgstr "[Loadout] Packed %1 item(s) into bag."
+
+msgid "loadout_blocked_outside_personal_bank"
+msgstr "[Loadout] Loadout actions only work at your personal bank."
+
+msgid "loadout_browser_header"
+msgstr "Add Items"
+
+msgid "loadout_btn_durability_cell"
+msgstr "Durability..."
+
+msgid "loadout_btn_enchant1_cell"
+msgstr "Enchant 1..."
+
+msgid "loadout_btn_enchant2_cell"
+msgstr "Enchant 2..."
+
+msgid "loadout_btn_equiv_off_short"
+msgstr "Equiv: OFF"
+
+msgid "loadout_btn_equiv_on_short"
+msgstr "Equiv: ON"
+
+msgid "loadout_button_resupply"
+msgstr "Resupply"
+
+msgid "loadout_button_save"
+msgstr "Save Loadout"
+
+msgid "loadout_button_sync"
+msgstr "Sync"
+
+msgid "loadout_col_durability"
+msgstr "Durability"
+
+msgid "loadout_col_enchant1"
+msgstr "Enchant 1"
+
+msgid "loadout_col_enchant2"
+msgstr "Enchant 2"
+
+msgid "loadout_col_qty"
+msgstr "Qty"
+
+msgid "loadout_col_resource_name"
+msgstr "Resource Name"
+
+msgid "loadout_dialog_cancel"
+msgstr "Cancel"
+
+msgid "loadout_dialog_enchant_range_label"
+msgstr "Enchant Quality Range:"
+
+msgid "loadout_dialog_enchant_type_label"
+msgstr "Enchant Type:"
+
+msgid "loadout_dialog_filter_mode_label"
+msgstr "Filter Mode:"
+
+msgid "loadout_dialog_max_durability"
+msgstr "Max durability %:"
+
+msgid "loadout_dialog_max_label"
+msgstr "Max:"
+
+msgid "loadout_dialog_min_durability"
+msgstr "Min durability %:"
+
+msgid "loadout_dialog_min_label"
+msgstr "Min:"
+
+msgid "loadout_dialog_mode_specific"
+msgstr "Specific"
+
+msgid "loadout_dialog_mode_unenchanted"
+msgstr "Unenchanted"
+
+msgid "loadout_dialog_new_name"
+msgstr "New loadout name:"
+
+msgid "loadout_dialog_no_limit_hint"
+msgstr "Leave 0 in either field for no limit."
+
+msgid "loadout_dialog_rename_to"
+msgstr "Rename '%1' to:"
+
+msgid "loadout_dialog_secondary_note"
+msgstr "Note: only applies if Primary is set to Specific."
+
+msgid "loadout_dialog_selected_enchant"
+msgstr "Selected: %1"
+
+msgid "loadout_dialog_title_durability"
+msgstr "Durability Filter:"
+
+msgid "loadout_dialog_title_enchant_primary"
+msgstr "Enchant Filter (Primary)"
+
+msgid "loadout_dialog_title_enchant_secondary"
+msgstr "Enchant Filter (Secondary)"
+
+msgid "loadout_empty_add_items_first"
+msgstr "[Loadout] The selected loadout has no items. Add items to it first."
+
+msgid "loadout_empty_no_entries"
+msgstr "No loadout entries. Add items from the browser on the right."
+
+msgid "loadout_empty_no_loadouts"
+msgstr "No saved loadouts yet. Right-click here to create one."
+
+msgid "loadout_empty_no_selection"
+msgstr "No loadout selected. Left-click a loadout above to select it."
+
+msgid "loadout_enchant_type_fallback"
+msgstr "Type %1"
+
+msgid "loadout_filter_any"
+msgstr "Any"
+
+msgid "loadout_filter_na"
+msgstr "N/A"
+
+msgid "loadout_filter_none"
+msgstr "None"
+
+msgid "loadout_generate_bag_empty"
+msgstr "[Loadout] Generate: bag is empty - no loadout to create."
+
+msgid "loadout_generate_bag_not_found"
+msgstr "[Loadout] Generate: bag not found in your bank."
+
+msgid "loadout_generate_blocked_combat"
+msgstr ""
+"[Loadout] Generate blocked while in combat - try again when out of combat."
+
+msgid "loadout_generate_no_valid_entries"
+msgstr "[Loadout] Generate: no valid entries after sanitize."
+
+msgid "loadout_generate_slot_cap"
+msgstr "[Loadout] Generate: at loadout slot cap (%1) - delete one first."
+
+msgid "loadout_generate_success"
+msgstr "[Loadout] Generated '%1' with %2 entries."
+
+msgid "loadout_header_none_selected"
+msgstr "Loadout (none selected)"
+
+msgid "loadout_header_selected"
+msgstr "Loadout: %1"
+
+msgid "loadout_info_slots"
+msgstr "Slots: %1/%2  |  Left-click to select. Right-click for options."
+
+msgid "loadout_label_loadout_singular"
+msgstr "Loadout"
+
+msgid "loadout_label_loadouts_list"
+msgstr "Loadouts"
+
+msgid "loadout_loot_deposit_blocked_combat"
+msgstr "[Loot] Deposit blocked while in combat - try again when out of combat."
+
+msgid "loadout_loot_deposit_partial"
+msgstr "[Loot] Deposited %1 item(s); %2 could not be placed (bank full)."
+
+msgid "loadout_loot_deposit_success"
+msgstr "[Loot] Deposited %1 item(s) from your lootbag into the bank."
+
+msgid "loadout_market_btn_buy_all"
+msgstr "Buy All"
+
+msgid "loadout_market_category_armor"
+msgstr "Armor"
+
+msgid "loadout_market_category_food"
+msgstr "Food"
+
+msgid "loadout_market_category_materials"
+msgstr "Materials"
+
+msgid "loadout_market_category_other"
+msgstr "Other"
+
+msgid "loadout_market_category_potions"
+msgstr "Potions"
+
+msgid "loadout_market_category_reagents"
+msgstr "Reagents"
+
+msgid "loadout_market_category_weapons"
+msgstr "Weapons"
+
+msgid "loadout_market_col_item"
+msgstr "Item"
+
+msgid "loadout_market_col_price_each"
+msgstr "Price/ea"
+
+msgid "loadout_market_col_qty"
+msgstr "Qty"
+
+msgid "loadout_market_col_status"
+msgstr "Status"
+
+msgid "loadout_market_col_total"
+msgstr "Total"
+
+msgid "loadout_market_dialog_confirm_title"
+msgstr "Confirm Loadout Purchase"
+
+msgid "loadout_market_dialog_heads_up_lines"
+msgstr "Heads-up: %1 line(s) can only be partially filled."
+
+msgid "loadout_market_dialog_heads_up_note"
+msgstr "Available items will be bought; missing pieces are flagged below."
+
+msgid "loadout_market_dialog_heads_up_per_line"
+msgstr "Per line:"
+
+msgid "loadout_market_dialog_partial_suffix"
+msgstr "(partial - see above)"
+
+msgid "loadout_market_dialog_partial_title"
+msgstr "PARTIAL PURCHASE - Confirm?"
+
+msgid "loadout_market_dialog_purchase_body"
+msgstr "Purchase %1 item line(s) for %2 gold"
+
+msgid "loadout_market_dialog_question_mark"
+msgstr "?"
+
+msgid "loadout_market_dialog_row_missing_gem_first"
+msgstr " missing %1/%2 %3"
+
+msgid "loadout_market_dialog_row_missing_gem_more"
+msgstr ", %1/%2 %3"
+
+msgid "loadout_market_dialog_row_missing_items"
+msgstr " missing %1/%2 item"
+
+msgid "loadout_market_dialog_row_name"
+msgstr ""
+"\r\n"
+"  - %1:"
+
+msgid "loadout_market_enchant_filter_fallback"
+msgstr "Enchant"
+
+msgid "loadout_market_header_empty"
+msgstr "Loadout is empty"
+
+msgid "loadout_market_header_no_entries"
+msgstr "Loadout '%1' has no entries"
+
+msgid "loadout_market_header_no_named"
+msgstr "No named loadouts saved"
+
+msgid "loadout_market_header_open_bank"
+msgstr "Open your bank first to sync loadouts"
+
+msgid "loadout_market_header_select_loadout"
+msgstr "Select a loadout on the left"
+
+msgid "loadout_market_header_selected"
+msgstr "Loadout: %1   (%2 items)"
+
+msgid "loadout_market_item_fallback_name"
+msgstr "(item)"
+
+msgid "loadout_market_result_body"
+msgstr ""
+"Sent %1 purchase request(s).\r\n"
+"%2 line(s) fully bought%3%4."
+
+msgid "loadout_market_result_footer"
+msgstr ""
+"\r\n"
+"\r\n"
+"Filled items land in your Receiving panel. Missing halves were NOT purchased "
+"- adjust the loadout or wait for new listings before retrying."
+
+msgid "loadout_market_result_fragment_partial"
+msgstr ", %1 partial"
+
+msgid "loadout_market_result_fragment_skipped"
+msgstr ", %1 skipped"
+
+msgid "loadout_market_result_partial_title"
+msgstr "Partial Purchase Result"
+
+msgid "loadout_market_result_row_gem_missing_first"
+msgstr " missing %2/%3 gem"
+
+msgid "loadout_market_result_row_gem_missing_more"
+msgstr ", %2/%3 gem"
+
+msgid "loadout_market_result_row_item_missing"
+msgstr ""
+"\r\n"
+"  - %1: missing %2/%3 item"
+
+msgid "loadout_market_result_row_skipped"
+msgstr ""
+"\r\n"
+"  - %1 x%2"
+
+msgid "loadout_market_result_section_partial"
+msgstr ""
+"\r\n"
+"\r\n"
+"Partially filled (some halves still missing):"
+
+msgid "loadout_market_result_section_skipped"
+msgstr ""
+"\r\n"
+"\r\n"
+"Out of stock (nothing purchased):"
+
+msgid "loadout_market_result_short"
+msgstr ""
+"Sent %1 purchase request(s): %2 filled%3%4. Items land in your Receiving "
+"panel."
+
+msgid "loadout_market_result_title"
+msgstr "Purchase Result"
+
+msgid "loadout_market_status_bought_gems_full"
+msgstr "Bought %1"
+
+msgid "loadout_market_status_bought_gems_partial"
+msgstr "Bought %1/%2"
+
+msgid "loadout_market_status_bought_items_full"
+msgstr "Bought %1 item"
+
+msgid "loadout_market_status_bought_items_partial"
+msgstr "Bought %1/%2 item"
+
+msgid "loadout_market_status_checking_inventory"
+msgstr "Checking inventory..."
+
+msgid "loadout_market_status_gem_unknown"
+msgstr "Gem unknown"
+
+msgid "loadout_market_status_in_stock"
+msgstr "In stock"
+
+msgid "loadout_market_status_out_of_stock"
+msgstr "Out of stock"
+
+msgid "loadout_market_status_partial"
+msgstr "Partial %1/%2 %3"
+
+msgid "loadout_market_status_querying"
+msgstr "Querying..."
+
+msgid "loadout_market_status_querying_gem1"
+msgstr "Querying primary gem..."
+
+msgid "loadout_market_status_querying_gem2"
+msgstr "Querying secondary gem..."
+
+msgid "loadout_market_status_queued"
+msgstr "Queued"
+
+msgid "loadout_market_status_refreshing"
+msgstr "Refreshing prices..."
+
+msgid "loadout_market_status_satisfied"
+msgstr "Satisfied"
+
+msgid "loadout_market_status_unknown_resource"
+msgstr "Unknown resource"
+
+msgid "loadout_market_unit_gem"
+msgstr "gem"
+
+msgid "loadout_market_unit_item"
+msgstr "item"
+
+msgid "loadout_menu_create_new"
+msgstr "Create New Loadout"
+
+msgid "loadout_menu_delete_named"
+msgstr "Delete: %1"
+
+msgid "loadout_menu_equiv_off"
+msgstr "Allow Equivalents: OFF (click to enable)"
+
+msgid "loadout_menu_equiv_on"
+msgstr "Allow Equivalents: ON (click to disable)"
+
+msgid "loadout_menu_remove_entry"
+msgstr "Remove from Loadout"
+
+msgid "loadout_menu_rename_named"
+msgstr "Rename: %1"
+
+msgid "loadout_menu_select_named"
+msgstr "Select: %1"
+
+msgid "loadout_menu_set_durability"
+msgstr "Set Durability Filter..."
+
+msgid "loadout_menu_set_enchant1"
+msgstr "Set Enchant 1 Filter..."
+
+msgid "loadout_menu_set_enchant2"
+msgstr "Set Enchant 2 Filter..."
+
+msgid "loadout_name_default"
+msgstr "Default"
+
+msgid "loadout_name_new_loadout"
+msgstr "New Loadout"
+
+msgid "loadout_resupply_complete"
+msgstr "[Loadout] Resupply complete!"
+
+msgid "loadout_resupply_low_durability"
+msgstr "[Loadout] Low durability: %1 at %2% - consider replacing."
+
+msgid "loadout_resupply_missing_item"
+msgstr "[Loadout] Missing %1x %2 - no replacement found in bank."
+
+msgid "loadout_resupply_missing_simple"
+msgstr "[Loadout] Missing %1x %2"
+
+msgid "loadout_sync_blocked_combat"
+msgstr "[Loadout] Sync blocked while in combat - try again when out of combat."
+
+msgid "loadout_sync_partial_full_bank"
+msgstr ""
+"[Loadout] Sync: %1 surplus item(s) left in your backpack - no bank space."
+
+msgid "loadout_toggle_addbag_off"
+msgstr "Add to Bag: OFF"
+
+msgid "loadout_toggle_addbag_on"
+msgstr "Add to Bag: ON"
+
+msgid "loadout_toggle_relax_off"
+msgstr "Relax: OFF"
+
+msgid "loadout_toggle_relax_on"
+msgstr "Relax: ON"
+
+msgid "loadout_tooltip_slot_cap_reached"
+msgstr "Slot cap reached (%1/%2) - use another token to expand"
+
+msgid "loadout_tooltip_token_hint"
+msgstr ""
+"Use a Loadout Slot token from your inventory. Each use adds 10 named loadout "
+"slots (separate from premium). Re-open the bank to refresh after using a "
+"token."
+
+msgid "loadout_tooltip_token_unlock"
+msgstr "Use a Loadout Slot Token to unlock more slots"
+
+msgid "loadout_unknown_resource"
+msgstr "Unknown (%1)"
 
 msgid "main_menu_window_title"
 msgstr ""
