@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-05-18 10:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/quests/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_quest_2370"
 msgstr "哥布林在{$t18}"
@@ -5421,8 +5426,15 @@ msgstr "向Sanguine出售魔法水晶"
 msgid "short_desc_quest_10066"
 msgstr "提供10个附魔水晶"
 
+#, fuzzy
 msgid "start_text_quest_10066"
-msgstr "对于冒险家或部落战士所组合的每一套装备,你可以打赌他们将需要一些附魔.我把附魔注入水晶在Sanguine卖,大赚了一笔,但是我想我还是分享一些财富吧\r\n  \r既然你看起来至少是一个胜任的魔法师,如果你能在几十个水晶上施展附魔,我会很高兴给它们我的认可标记,这样你就可以在Sanguine出售它们.这个附魔的成分顺序是牙齿,毒液囊,眼睛和尼斯的催化剂..\r\n  \r收集10个附魔水晶,并把它们带给法师乔恩.."
+msgstr ""
+"对于冒险家或部落战士所组合的每一套装备,你可以打赌他们将需要一些附魔.我把附魔"
+"注入水晶在Sanguine卖,大赚了一笔,但是我想我还是分享一些财富吧\r\n"
+"  \r既然你看起来至少是一个胜任的魔法师,如果你能在几十个水晶上施展附魔,我会很"
+"高兴给它们我的认可标记,这样你就可以在Sanguine出售它们.这个附魔的成分顺序是牙"
+"齿,毒液囊,眼睛和尼斯的催化剂..\r\n"
+"  \r收集10个附魔水晶,并把它们带给法师乔恩.."
 
 msgid "name_quest_10067"
 msgstr "向Sanguine出售平弓"
@@ -5603,4 +5615,3 @@ msgstr "制作5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼"
 
 msgid "start_text_quest_10055"
 msgstr "杀死哥布林确实会让你感到饥饿!\r\n  \r在离开战场时为我们的部队提供食物是我的首要任务之一.你能不能去西边的湖边,抓些鱼,煮熟给我,我好送给我们勇敢的民兵?\r\n  \r给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼.."
-
