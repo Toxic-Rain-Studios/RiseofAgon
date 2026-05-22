@@ -2039,11 +2039,32 @@ msgstr "Emotes"
 msgid "empty"
 msgstr ""
 
+msgid "enchanting_bulk_count_label"
+msgstr "Enchants:"
+
+msgid "enchanting_choose_item"
+msgstr "Choose an item:"
+
 msgid "enchanting_effect_none"
 msgstr "none"
 
 msgid "enchanting_enchant_button_text"
 msgstr "Enchant"
+
+msgid "enchanting_header_catalyst"
+msgstr "Catalyst"
+
+msgid "enchanting_header_components"
+msgstr "Components"
+
+msgid "enchanting_header_gem"
+msgstr "Gem"
+
+msgid "enchanting_header_weapon"
+msgstr "Weapon"
+
+msgid "enchanting_hide_unusable"
+msgstr "Hide unusable"
 
 msgid "enchanting_item_to_enchant"
 msgstr "Item to Enchant"
@@ -2051,8 +2072,53 @@ msgstr "Item to Enchant"
 msgid "enchanting_itemlist_text"
 msgstr "Enchantable items in backpack"
 
+msgid "enchanting_max_button"
+msgstr "Max"
+
 msgid "enchanting_no_item_to_enchant"
 msgstr "Select item or drag to window."
+
+msgid "enchanting_outcome_enchant"
+msgstr "Enchant: %1"
+
+msgid "enchanting_outcome_quality"
+msgstr "Quality: %1"
+
+msgid "enchanting_outcome_result"
+msgstr "Result: %1"
+
+msgid "enchanting_picker_no_gems"
+msgstr ""
+"You have no gemstones in your backpack. Enchanting needs a gemstone to hold "
+"the enchantment, so bring gemstones here to begin."
+
+msgid "enchanting_picker_no_materials"
+msgstr "You have no usable materials for this slot in your backpack."
+
+msgid "enchanting_picker_no_weapons"
+msgstr ""
+"You have no transmutable weapons in your backpack. Place a weapon here to "
+"change its element."
+
+msgid "enchanting_picker_select_enchant"
+msgstr ""
+"Select an enchant from the list on the right to see the materials it needs."
+
+msgid "enchanting_picker_select_transmute"
+msgstr ""
+"Select a transmute from the list on the right to see the materials it needs."
+
+msgid "enchanting_select_enchant_title"
+msgstr "Select an enchant"
+
+msgid "enchanting_select_transmute_title"
+msgstr "Select a transmute"
+
+msgid "enchanting_show_unusable"
+msgstr "Show unusable"
+
+msgid "enchanting_slot_click_hint"
+msgstr "Click"
 
 msgid "enchanting_slot_ingredient_1"
 msgstr "Ingredient 1"
@@ -2065,6 +2131,18 @@ msgstr "Ingredient 3"
 
 msgid "enchanting_slot_ingredient_rare"
 msgstr "Catalyst"
+
+msgid "enchanting_tab_enchant"
+msgstr "Enchant"
+
+msgid "enchanting_tab_transmute"
+msgstr "Transmute"
+
+msgid "enchanting_tier_max_enchant_level"
+msgstr "Max enchant level %1"
+
+msgid "enchanting_tier_quality"
+msgstr "Quality %1"
 
 msgid "enchanting_tips_text"
 msgstr ""
