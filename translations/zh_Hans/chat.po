@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-15 17:06+0000\n"
+"PO-Revision-Date: 2026-05-25 19:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
@@ -9230,33 +9230,43 @@ msgstr "你隐藏了你过去的名字."
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_WARNING"
 msgstr "目前这是一个免费帐户,存在某些限制."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CONTROL_POINT_CONQUEST_NOT_PERMITTED"
 msgstr "试用账户不允许征服一个村庄."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CITY_CONQUEST_NOT_PERMITTED"
 msgstr "试用账户不允许征服城市或村庄."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_FORTRESS_CONQUEST_NOT_PERMITTED"
 msgstr "试用账户不允许征服堡垒."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_BUY_EXTRA_SLOTS"
 msgstr "试用账户不允许购买额外的武器插槽."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_LEARN_THIS_SKILL"
 msgstr "试用帐户不允许学习此技能."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_OWN_HOUSE"
 msgstr "试用账户不允许拥有房屋."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_SKILL_EXTENSION_NOT_PERMITTED"
 msgstr "试用帐户不允许购买技能扩展."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_USE_CANNONS"
 msgstr "试用帐户不允许使用大炮."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_USE_BOATS"
 msgstr "试用帐户不允许使用船只."
 
+#, fuzzy
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_USE_WARHULKS"
 msgstr "试用帐户不允许使用战炮."
 
