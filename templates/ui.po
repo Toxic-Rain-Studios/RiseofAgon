@@ -218,6 +218,9 @@ msgstr "Consumables"
 msgid "bank_tabs_enchant_materials"
 msgstr "Enchant Materials"
 
+msgid "bank_tabs_loadout"
+msgstr "Loadout"
+
 msgid "barber_features_beard"
 msgstr "Beard"
 
@@ -3508,6 +3511,9 @@ msgstr "gem"
 msgid "loadout_market_unit_item"
 msgstr "item"
 
+msgid "loadout_menu_clear_tag"
+msgstr "Clear loadout tag"
+
 msgid "loadout_menu_create_new"
 msgstr "Create New Loadout"
 
@@ -3519,6 +3525,15 @@ msgstr "Allow Equivalents: OFF (click to enable)"
 
 msgid "loadout_menu_equiv_on"
 msgstr "Allow Equivalents: ON (click to disable)"
+
+msgid "loadout_menu_generate_from_bag"
+msgstr "Generate loadout from bag"
+
+msgid "loadout_menu_ignore_bag"
+msgstr "Ignore bag (loadouts)"
+
+msgid "loadout_menu_prioritize_bag"
+msgstr "Prioritize bag (loadouts)"
 
 msgid "loadout_menu_remove_entry"
 msgstr "Remove from Loadout"
@@ -4311,6 +4326,9 @@ msgstr "Sale orders"
 msgid "market_showing_most_recent"
 msgstr "Showing most recent orders"
 
+msgid "market_tabs_loadouts"
+msgstr "Loadouts"
+
 msgid "market_tabs_management"
 msgstr "Management"
 
@@ -4610,6 +4628,15 @@ msgstr "Defaults"
 
 msgid "options_gui_defaults_confirmation"
 msgstr "Are you sure you want to reset all GUI settings to their defaults?"
+
+msgid "options_gui_feature_tutorial_replay"
+msgstr "Replay"
+
+msgid "options_gui_feature_tutorials_header"
+msgstr "Feature Tutorials"
+
+msgid "options_gui_feature_tutorials_reset"
+msgstr "Reset Feature Tutorials"
 
 msgid "options_gui_gamemode_window_opacity"
 msgstr "Game Mode Window Opacity"
@@ -5320,6 +5347,12 @@ msgstr "Treasure Map"
 
 msgid "true"
 msgstr "true"
+
+msgid "tutorial_topic_enchant"
+msgstr "Enchant"
+
+msgid "tutorial_topic_loadout"
+msgstr "Loadout"
 
 msgid "unbound"
 msgstr "(unbound)"
