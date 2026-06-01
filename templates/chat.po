@@ -7312,6 +7312,21 @@ msgstr ""
 msgid "NOTIFICATION_CLAN_GUARDTOWER_KOS_POLICY_CHANGED"
 msgstr "%1 %2 has changed our GuardTower attack policy to %3."
 
+msgid "NOTIFICATION_CLAN_HOLDING_MAINTENANCE_WARNING_1HR"
+msgstr ""
+"The clan holding %1 will go neutral in 1 hour unless maintenance is paid."
+
+msgid "NOTIFICATION_CLAN_HOLDING_MAINTENANCE_WARNING_HR"
+msgstr ""
+"The clan holding %1 will go neutral in %2 hours unless maintenance is paid."
+
+msgid "NOTIFICATION_CLAN_HOLDING_NEUTRAL_WARNING_24H"
+msgstr "The clan holding %1 will be neutral in 24 hours."
+
+msgid "NOTIFICATION_CLAN_HOLDING_WENT_NEUTRAL"
+msgstr ""
+"The clan holding %1 has just gone neutral and is available for capture."
+
 msgid "NOTIFICATION_CLAN_INVITATION"
 msgstr "%1 %2 invites you to join clan %3."
 
