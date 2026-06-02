@@ -1032,6 +1032,11 @@ msgstr "Pay"
 msgid "citybuilding_window_title"
 msgstr "Citybuilding"
 
+msgid "clan_activity_window_active_explain"
+msgstr ""
+"The hour your harvesting nodes go live (server/UTC). This is when your clan "
+"is expected to be online - your busiest, most-defended time."
+
 msgid "clan_activity_window_active_start_time"
 msgstr "Active Start Time"
 
@@ -1047,6 +1052,11 @@ msgstr ""
 
 msgid "clan_activity_window_constraint_same_time_error"
 msgstr "Active hour and Invulnerable hour cannot be the same"
+
+msgid "clan_activity_window_cost_explain"
+msgstr ""
+"Changing your activity window costs %1 gold from the clan vault, and can "
+"only be done once per week."
 
 msgid "clan_activity_window_display_current_time"
 msgstr "Current time: %1"
@@ -1069,8 +1079,34 @@ msgstr "%1 from %2 to %3"
 msgid "clan_activity_window_display_title"
 msgstr "Activity windows"
 
+msgid "clan_activity_window_inactive_explain"
+msgstr ""
+"Every hour outside the two windows above is Inactive. Warning: your cities "
+"and structures CAN still be attacked and damaged while inactive - only the "
+"invulnerable window protects them."
+
+msgid "clan_activity_window_invuln_explain"
+msgstr ""
+"The start of your clan's %1-hour protected window (server/UTC hour, 0 = "
+"midnight). While invulnerable, your cities, structures and other assets are "
+"safe from sieges and destruction."
+
 msgid "clan_activity_window_invulnerable_start_time"
 msgstr "Invulnerable Start Time"
+
+msgid "clan_activity_window_local_time"
+msgstr "Your local time: %1"
+
+msgid "clan_activity_window_page_title"
+msgstr "Activity Window"
+
+msgid "clan_activity_window_server_time"
+msgstr "Server time (UTC): %1"
+
+msgid "clan_activity_window_time_basis_note"
+msgstr ""
+"The hours you set and the schedule above are in server time (UTC). Use the "
+"two clocks to convert to your own local time."
 
 msgid "clan_activity_window_window_description"
 msgstr ""
@@ -1087,6 +1123,36 @@ msgstr ""
 "\n"
 "The inactivity window will all the time outside your active and invulnerable "
 "periods"
+
+msgid "clan_activity_window_window_description_v2"
+msgstr ""
+"0 = Midnight (your local time).\n"
+"\n"
+"Invulnerable start: your clan's %2-hour protected window begins here - "
+"assets are safe from sieges and destruction.\n"
+"\n"
+"Active start: your harvesting nodes go live; your busiest hours.\n"
+"\n"
+"All other hours are inactive - cities and structures CAN still be attacked "
+"and damaged then.\n"
+"\n"
+"Changing costs %1 gold from the clan vault, once per week."
+
+msgid "clan_kos_result_already_on_list"
+msgstr "That player is already on your Kill On Sight list."
+
+msgid "clan_kos_result_is_clan_member"
+msgstr "You cannot add a member of your own clan to Kill On Sight."
+
+msgid "clan_kos_result_list_full"
+msgstr "Your Kill On Sight list is full."
+
+msgid "clan_kos_result_no_permission"
+msgstr "You do not have permission to change the Kill On Sight list."
+
+msgid "clan_kos_result_not_found"
+msgstr ""
+"No character by that first and last name was found - check the spelling."
 
 msgid "clan_political_relationship_standing_description_eight"
 msgstr "Can use all crafting stations and merchants."
@@ -1189,6 +1255,37 @@ msgstr ""
 
 msgid "clan_political_relationship_standing_value_0"
 msgstr "0 Neutral"
+
+msgid "clan_politics_result_already_set"
+msgstr "Your clan already has that relation with this clan."
+
+msgid "clan_politics_result_failed"
+msgstr "The politics change could not be completed."
+
+msgid "clan_politics_result_no_permission"
+msgstr "You need the Diplomat role to change clan politics."
+
+msgid "clan_politics_result_not_enough_gold"
+msgstr "Your clan vault needs 25000 gold to declare war."
+
+msgid "clan_politics_result_success"
+msgstr "Clan relation updated."
+
+msgid "clan_politics_result_time_frozen"
+msgstr "You must wait before changing your relation with this clan again."
+
+msgid "clan_politics_result_time_frozen_timed"
+msgstr "You must wait %1 before changing your relation with this clan again."
+
+msgid "clan_politics_result_war_pending"
+msgstr "A war declaration is already pending."
+
+msgid "clan_politics_result_war_started"
+msgstr "War timer started against this clan."
+
+msgid "clan_politics_result_wrong_state"
+msgstr ""
+"You can't set that relation from your clan's current relation with this clan."
 
 msgid "clan_role_description_auditor"
 msgstr "Auditor"
@@ -1342,11 +1439,23 @@ msgstr "Apply"
 msgid "clan_window_clan_info_clan_motto"
 msgstr "Clan Motto"
 
+msgid "clan_window_clan_info_current_relation"
+msgstr "Current relation: %1"
+
 msgid "clan_window_clan_info_member_count"
 msgstr "Number of Members"
 
+msgid "clan_window_clan_info_politics_relation"
+msgstr "Relation"
+
 msgid "clan_window_clan_info_politics_relations_standing"
 msgstr "Standing"
+
+msgid "clan_window_clan_info_set_relation"
+msgstr "Set Relation"
+
+msgid "clan_window_clan_info_set_standing"
+msgstr "Set Standing"
 
 msgid "clan_window_create_clan"
 msgstr "Create Clan"
@@ -1378,6 +1487,21 @@ msgstr "Never attack anyone"
 msgid "clan_window_diplomacy_guard_tower_policy_title"
 msgstr "Select the guard policy for your clan city guard towers."
 
+msgid "clan_window_diplomacy_kos_add"
+msgstr "Add"
+
+msgid "clan_window_diplomacy_kos_first_name"
+msgstr "First Name"
+
+msgid "clan_window_diplomacy_kos_last_name"
+msgstr "Last Name"
+
+msgid "clan_window_diplomacy_kos_remove"
+msgstr "Remove"
+
+msgid "clan_window_diplomacy_kos_title"
+msgstr "Kill On Sight List"
+
 msgid "clan_window_general_accept_new_members"
 msgstr "Accept New Members"
 
@@ -1401,6 +1525,10 @@ msgstr "Cities:"
 
 msgid "clan_window_general_members"
 msgstr "Members:"
+
+# Clan window: holdings maintenance, KOS, motto editing, activity window, politics
+msgid "clan_window_general_motto_save"
+msgstr "Save"
 
 msgid "clan_window_general_options"
 msgstr "Clan Options"
@@ -1464,6 +1592,12 @@ msgstr "Power"
 
 msgid "clan_window_holdings_vulnerable"
 msgstr "Vulnerable"
+
+msgid "clan_window_holdings_vulnerable_in"
+msgstr "Vulnerable In"
+
+msgid "clan_window_holdings_vulnerable_soon"
+msgstr "Now"
 
 msgid "clan_window_members_accept"
 msgstr "Accept"
