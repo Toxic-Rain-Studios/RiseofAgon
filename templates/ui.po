@@ -2155,6 +2155,54 @@ msgstr "%1 m"
 msgid "do_not_ask_again"
 msgstr "Do not ask me again"
 
+msgid "dye_panel_apply"
+msgstr "Apply"
+
+msgid "dye_panel_color_1"
+msgstr "Primary"
+
+msgid "dye_panel_color_2"
+msgstr "Secondary"
+
+msgid "dye_panel_none"
+msgstr "None"
+
+msgid "dye_panel_reset"
+msgstr "Reset"
+
+msgid "dye_panel_show_owned"
+msgstr "Owned only"
+
+msgid "dye_panel_slot_readout"
+msgstr "%1: %2"
+
+msgid "dye_panel_status_assign"
+msgstr "Select a dye to apply."
+
+msgid "dye_panel_status_cost_ready"
+msgstr "Ready to dye: %1"
+
+msgid "dye_panel_status_cost_short"
+msgstr "%1 (%2/%3)"
+
+msgid "dye_panel_status_dyeing"
+msgstr "Dyeing %1..."
+
+msgid "dye_panel_status_nothing"
+msgstr "No dyeable pieces equipped."
+
+msgid "dye_panel_status_short"
+msgstr "%1"
+
+msgid "dye_panel_tab_title"
+msgstr "Dyes"
+
+msgid "dye_panel_target_all"
+msgstr "All pieces"
+
+msgid "dye_panel_target_selected"
+msgstr "Selected piece"
+
 msgid "emote_panel_bind_prompt"
 msgstr "Press a key to bind to /%1 (Esc to cancel)"
 
