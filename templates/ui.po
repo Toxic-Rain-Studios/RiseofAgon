@@ -3973,6 +3973,9 @@ msgstr "Faction Cities"
 msgid "map_marker_oven"
 msgstr "Oven"
 
+msgid "map_marker_overlays_regions"
+msgstr "Regions"
+
 msgid "map_marker_overlays_tile_rating"
 msgstr "Tile Rating"
 
@@ -4053,6 +4056,33 @@ msgstr "Mage"
 
 msgid "map_marker_vendor_Merchant"
 msgstr "Merchant"
+
+msgid "map_marker_village_lawful_vulnerable"
+msgstr "Vulnerable"
+
+msgid "map_marker_village_subtitle_clanless"
+msgstr "Clanless party"
+
+msgid "map_marker_village_tooltip_owner"
+msgstr "Owned by %1"
+
+msgid "map_marker_village_tooltip_owner_clanless"
+msgstr "Owned by a clanless party"
+
+msgid "map_marker_village_tooltip_ownership_expires"
+msgstr "Ownership expires in %1"
+
+msgid "map_marker_village_tooltip_vulnerable_for"
+msgstr "Vulnerable for %1"
+
+msgid "map_marker_village_type_lawful"
+msgstr "Lawful village"
+
+msgid "map_marker_village_type_lawless_land"
+msgstr "Lawless village"
+
+msgid "map_marker_village_type_lawless_sea"
+msgstr "Sea village"
 
 msgid "map_marker_workbench"
 msgstr "Workbench"
@@ -4582,6 +4612,9 @@ msgstr "Resources"
 
 msgid "news_reel_filters_structures"
 msgstr "Structures"
+
+msgid "news_reel_filters_villages"
+msgstr "Villages"
 
 msgid "news_reel_filters_workstations"
 msgstr "WorkStations"
@@ -5115,6 +5148,24 @@ msgstr "Get Naked"
 msgid "paperdoll_button_refresh"
 msgstr "Refresh"
 
+msgid "paperdoll_effect_modifier_1"
+msgstr "Obelisk of Ragunius"
+
+msgid "paperdoll_effect_modifier_2"
+msgstr "Clan land villages defensive PVE bonus"
+
+msgid "paperdoll_effect_modifier_3"
+msgstr "Clan land villages offensive PVE bonus"
+
+msgid "paperdoll_effect_modifier_4"
+msgstr "Clan sea villages defensive PVE bonus"
+
+msgid "paperdoll_effect_modifier_5"
+msgstr "Clan sea villages offensive PVE bonus"
+
+msgid "paperdoll_effect_modifier_6"
+msgstr "Clan sea villages offensive siege bonus"
+
 msgid "paperdoll_item_attached_at"
 msgstr "Attached at %1"
 
@@ -5138,6 +5189,9 @@ msgstr "Clan"
 
 msgid "paperdoll_tabs_effects"
 msgstr "Effects"
+
+msgid "paperdoll_tabs_modifiers"
+msgstr "Modifiers"
 
 msgid "paperdoll_tabs_paperdoll"
 msgstr "Paperdoll"

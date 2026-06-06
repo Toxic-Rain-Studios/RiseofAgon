@@ -6042,6 +6042,21 @@ msgstr "%1"
 msgid "NOTIFICATION_ALIGNMENT_INCREASE_FROM_MOB"
 msgstr "You have gained alignment for your kill"
 
+msgid "NOTIFICATION_ALLIED_CLAN_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD"
+msgstr ""
+"Allied clan ^Cyellow^%1^N^'s village control point at ^Cyellow^%2^N^ is at "
+"^Cred^%3%%^N^ health!"
+
+msgid "NOTIFICATION_ALLIED_CLAN_VILLAGE_CONTROL_POINT_SHIELDED"
+msgstr ""
+"Allied clan ^Cyellow^%1^N^'s village control point at ^Cyellow^%2^N^ is "
+"^Cyellow^protected^N^ for %3 seconds."
+
+msgid "NOTIFICATION_ALLIED_CLAN_VILLAGE_CONTROL_POINT_SHIELD_LOST"
+msgstr ""
+"Allied clan ^Cyellow^%1^N^'s village control point at ^Cyellow^%2^N^ has "
+"^Cred^lost its protection^N^!"
+
 msgid "NOTIFICATION_ALREADY_A_PENDING_QUEST_OFFER_IN_PARTY"
 msgstr "Someone else has already made a quest offer to party members."
 
@@ -9813,6 +9828,21 @@ msgstr "You cannot pray at this time."
 msgid "NOTIFICATION_ONLY_ON_SCREEN_WELCOME_MESSAGE"
 msgstr "Report to the Councillor. (Interact using the F key button)."
 
+msgid "NOTIFICATION_OUR_CLAN_VILLAGE_CONTROL_POINT_OWNERSHIP_EXPIRED"
+msgstr ""
+"Our clan's ownership of the village control point at ^Cyellow^%1^N^ has "
+"^Cred^expired^N^."
+
+msgid "NOTIFICATION_OUR_CLAN_VILLAGE_CONTROL_POINT_SHIELDED"
+msgstr ""
+"Our clan's village control point at ^Cyellow^%1^N^ has become "
+"^Ccyan^protected^N^ for %2 seconds!"
+
+msgid "NOTIFICATION_OUR_CLAN_VILLAGE_CONTROL_POINT_SHIELD_LOST"
+msgstr ""
+"Our clan's village control point at ^Cyellow^%1^N^ has ^Cred^lost its "
+"protection^N^!"
+
 msgid "NOTIFICATION_OWNED_VENDOR_DISCONNECT_PLAYER_ISBUSY_0"
 msgstr ""
 "I'm afraid we'll have to do business sometime later. My Master has arrived."
@@ -11834,10 +11864,36 @@ msgstr "Village Reward: ^Ccyan^%1 %2^N^."
 msgid "NOTIFICATION_VILLAGE_CAPTURE_PARTY_TRIAL_CAPPED"
 msgstr "Non-Premium village loot is capped at Tier 3."
 
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_CAPTURED_BY_PARTY_GLOBAL"
+msgstr "A party has captured the village control point at ^Cyellow^%1^N^!"
+
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_CAPTURED_CLAN"
+msgstr ""
+"Our clan has ^Cyellow^captured^N^ the village control point at "
+"^Cyellow^%1^N^!"
+
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_CAPTURED_GLOBAL"
+msgstr "A clan has captured the village control point at ^Cyellow^%1^N^!"
+
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD"
 msgstr ""
 "Your village control point at ^Cyellow^%1^N^ has ^Cred^dropped below %2%^N^ "
 "health!"
+
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD_CLAN"
+msgstr ""
+"Our clan's village control point at ^Cyellow^%1^N^ is at ^Cred^%2%%^N^ "
+"health!"
+
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_LOST_CLAN"
+msgstr ""
+"Our clan has ^Cred^lost ownership^N^ of the village control point at "
+"^Cyellow^%1^N^!"
+
+msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_RE_CAPTURED_CLAN"
+msgstr ""
+"Our clan has ^Cyellow^renewed ownership^N^ of the village control point at "
+"^Cyellow^%1^N^!"
 
 msgid "NOTIFICATION_VILLAGE_GENERIC"
 msgstr "%1"
@@ -11882,6 +11938,26 @@ msgstr "%1"
 
 msgid "NOTIFICATION_YOUR_PARTY_DOES_NOT_HAVE_ANY_MEMBERS"
 msgstr "Party does not have any members."
+
+msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_CAPTURED"
+msgstr ""
+"You have ^Cyellow^taken ownership^N^ of the village control point at "
+"^Cyellow^%1^N^!"
+
+msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_LOST"
+msgstr ""
+"You have ^Cred^lost ownership^N^ of the village control point at "
+"^Cyellow^%1^N^ to another party!"
+
+msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_OWNERSHIP_EXPIRED"
+msgstr ""
+"Your ownership of the village control point at ^Cyellow^%1^N^ has "
+"^Cred^expired^N^."
+
+msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_RE_CAPTURED"
+msgstr ""
+"You have ^Cyellow^renewed your ownership^N^ of the village control point at "
+"^Cyellow^%1^N^!"
 
 msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_SHIELDED"
 msgstr ""
