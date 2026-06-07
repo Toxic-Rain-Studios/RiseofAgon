@@ -3892,8 +3892,11 @@ msgstr "Add annotation at cursor position"
 msgid "map_context_menu_delete_annotation"
 msgstr "Delete: %1"
 
+msgid "map_context_menu_gm_teleport_to_position"
+msgstr "[GM] Quick teleport to cursor position"
+
 msgid "map_context_menu_gm_teleport_to_tile"
-msgstr "[GM] Teleport to tile \"%1\""
+msgstr "[GM] Quick teleport to tile \"%1\""
 
 msgid "map_gm_tile_id"
 msgstr "Tile ID: %1"
