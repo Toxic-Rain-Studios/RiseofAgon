@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-06 09:15+0000\n"
+"PO-Revision-Date: 2026-06-08 17:11+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -3159,6 +3159,7 @@ msgstr "Añadir anotación en la posición del cursor"
 msgid "map_context_menu_delete_annotation"
 msgstr "Eliminar: %1"
 
+#, fuzzy
 msgid "map_context_menu_gm_teleport_to_tile"
 msgstr "[GM] Teletransportarse a la baldosa \"%1\""
 
