@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-06-08 17:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "browser_home"
 msgstr "烟雨"
@@ -3920,6 +3926,7 @@ msgstr "需要更多的金币!"
 msgid "clan_political_relationship_standing_description_four"
 msgstr "可以使用杂货商.\n不会被防御塔攻击."
 
+#, fuzzy
 msgid "map_context_menu_gm_teleport_to_tile"
 msgstr "[GM] Teleport to tile \"%1\""
 
