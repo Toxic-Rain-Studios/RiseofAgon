@@ -4345,6 +4345,12 @@ msgstr " "
 msgid "desc_r_Dynamic Loot"
 msgstr " "
 
+msgid "desc_r_Dynamic Portal Default"
+msgstr "A dynamically-spawned teleport portal."
+
+msgid "desc_r_Dynamic Portals"
+msgstr "A family of dynamically-spawned teleport portals."
+
 msgid "desc_r_Dynamic Workstations"
 msgstr " "
 
@@ -18926,6 +18932,12 @@ msgstr "Siegestones"
 
 msgid "r_Dynamic Loot"
 msgstr "Dynamic Loot"
+
+msgid "r_Dynamic Portal Default"
+msgstr "Dynamic Portal"
+
+msgid "r_Dynamic Portals"
+msgstr "Dynamic Portals"
 
 msgid "r_Dynamic Workstations"
 msgstr "Dynamic Workstations"
