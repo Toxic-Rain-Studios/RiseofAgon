@@ -1138,6 +1138,40 @@ msgstr ""
 "\n"
 "Changing costs %1 gold from the clan vault, once per week."
 
+msgid "clan_banned_add_button"
+msgstr "Ban Player"
+
+msgid "clan_banned_empty"
+msgstr "No players are banned from this clan."
+
+msgid "clan_banned_header_first"
+msgstr "First Name"
+
+msgid "clan_banned_header_last"
+msgstr "Last Name"
+
+msgid "clan_banned_remove_button"
+msgstr "Unban"
+
+msgid "clan_banned_result_already_banned"
+msgstr "That player is already on your clan's banned list."
+
+msgid "clan_banned_result_no_permission"
+msgstr "You do not have permission to change the banned list."
+
+msgid "clan_banned_result_not_banned"
+msgstr "That player is not on your clan's banned list."
+
+msgid "clan_banned_result_not_found"
+msgstr ""
+"No character by that first and last name was found - check the spelling."
+
+msgid "clan_banned_tab_title"
+msgstr "Banned Players"
+
+msgid "clan_kos_empty"
+msgstr "No players are on this clan's Kill On Sight list."
+
 msgid "clan_kos_result_already_on_list"
 msgstr "That player is already on your Kill On Sight list."
 
@@ -1259,14 +1293,35 @@ msgstr "0 Neutral"
 msgid "clan_politics_result_already_set"
 msgstr "Your clan already has that relation with this clan."
 
+msgid "clan_politics_result_conquest_locked"
+msgstr "Cannot make peace while a conquest is in progress."
+
 msgid "clan_politics_result_failed"
 msgstr "The politics change could not be completed."
+
+msgid "clan_politics_result_no_incoming_offer"
+msgstr "That clan has no peace offer pending for you."
+
+msgid "clan_politics_result_no_outgoing_offer"
+msgstr "You have no peace offer pending with that clan."
 
 msgid "clan_politics_result_no_permission"
 msgstr "You need the Diplomat role to change clan politics."
 
 msgid "clan_politics_result_not_enough_gold"
 msgstr "Your clan vault needs 25000 gold to declare war."
+
+msgid "clan_politics_result_peace_accepted"
+msgstr "Peace agreed - the war is over."
+
+msgid "clan_politics_result_peace_canceled"
+msgstr "Peace offer withdrawn."
+
+msgid "clan_politics_result_peace_offer_sent"
+msgstr "Peace offer sent."
+
+msgid "clan_politics_result_peace_rejected"
+msgstr "Peace offer rejected."
 
 msgid "clan_politics_result_success"
 msgstr "Clan relation updated."
@@ -1276,6 +1331,9 @@ msgstr "You must wait before changing your relation with this clan again."
 
 msgid "clan_politics_result_time_frozen_timed"
 msgstr "You must wait %1 before changing your relation with this clan again."
+
+msgid "clan_politics_result_war_cooldown"
+msgstr "You can only declare war on one clan every 24 hours."
 
 msgid "clan_politics_result_war_pending"
 msgstr "A war declaration is already pending."
@@ -1445,6 +1503,15 @@ msgstr "Current relation: %1"
 msgid "clan_window_clan_info_member_count"
 msgstr "Number of Members"
 
+msgid "clan_window_clan_info_peace_accept"
+msgstr "Accept Peace"
+
+msgid "clan_window_clan_info_peace_offer"
+msgstr "Offer Peace"
+
+msgid "clan_window_clan_info_peace_withdraw"
+msgstr "Withdraw Offer"
+
 msgid "clan_window_clan_info_politics_relation"
 msgstr "Relation"
 
@@ -1456,6 +1523,14 @@ msgstr "Set Relation"
 
 msgid "clan_window_clan_info_set_standing"
 msgstr "Set Standing"
+
+msgid "clan_window_clan_info_war_confirm_desc"
+msgstr ""
+"Declaring war on %1 will cost %2 gold, taken from your clan vault (Vault "
+"Three). Continue?"
+
+msgid "clan_window_clan_info_war_confirm_title"
+msgstr "Declare War"
 
 msgid "clan_window_create_clan"
 msgstr "Create Clan"
@@ -1501,6 +1576,9 @@ msgstr "Remove"
 
 msgid "clan_window_diplomacy_kos_title"
 msgstr "Kill On Sight List"
+
+msgid "clan_window_diplomacy_policies"
+msgstr "Policies"
 
 msgid "clan_window_general_accept_new_members"
 msgstr "Accept New Members"
@@ -1605,6 +1683,15 @@ msgstr "Accept"
 msgid "clan_window_members_applications"
 msgstr "Applications"
 
+msgid "clan_window_members_ban_confirm_desc"
+msgstr ""
+"Ban %1 from the clan? They will be banned immediately and removed in about "
+"%2 minutes."
+
+msgid "clan_window_members_ban_queued"
+msgstr ""
+"%1 has been banned and will be removed from the clan in about %2 minutes."
+
 msgid "clan_window_members_can_only_have_one_supreme_general"
 msgstr "You can only promote 1 member to Supreme General."
 
@@ -1634,6 +1721,13 @@ msgstr "Race"
 
 msgid "clan_window_members_headers_status"
 msgstr "Status"
+
+msgid "clan_window_members_kick_confirm_desc"
+msgstr "Kick %1 from the clan? They will be removed in about %2 minutes."
+
+msgid "clan_window_members_kick_queued"
+msgstr ""
+"%1 has been queued to leave the clan and will be removed in about %2 minutes."
 
 msgid "clan_window_members_members"
 msgstr "Members"
