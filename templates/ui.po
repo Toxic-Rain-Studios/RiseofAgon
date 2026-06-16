@@ -2312,6 +2312,9 @@ msgstr "You cannot open the emote panel while in combat."
 msgid "emote_panel_tab_base"
 msgstr "Base"
 
+msgid "emote_panel_tab_emotes"
+msgstr "Emotes"
+
 msgid "emote_panel_window_title"
 msgstr "Emotes"
 
@@ -3389,6 +3392,11 @@ msgstr "Shift"
 msgid "left_arrow"
 msgstr "<-"
 
+msgid "legacy_clan_advisory"
+msgstr ""
+"This is the old clan panel and is being phased out. Please use the Clans "
+"option in the Social menu instead - this panel will be removed soon."
+
 msgid "legacy_clan_browse_clans"
 msgstr "Browse Clans"
 
@@ -3908,11 +3916,20 @@ msgstr "Unknown (%1)"
 msgid "main_menu_window_title"
 msgstr ""
 
+msgid "mainmenu_admin"
+msgstr "Admin"
+
+msgid "mainmenu_announcements"
+msgstr "Announcements"
+
 msgid "mainmenu_backpack"
 msgstr "Backpack"
 
 msgid "mainmenu_boards"
 msgstr "Boards"
+
+msgid "mainmenu_character"
+msgstr "Character"
 
 msgid "mainmenu_chat"
 msgstr "Chat"
@@ -3920,8 +3937,23 @@ msgstr "Chat"
 msgid "mainmenu_clans"
 msgstr "Clans"
 
+msgid "mainmenu_combat"
+msgstr "Combat"
+
 msgid "mainmenu_conquest"
 msgstr "Conquest"
+
+msgid "mainmenu_crafting"
+msgstr "Crafting"
+
+msgid "mainmenu_deliveries"
+msgstr "Deliveries"
+
+msgid "mainmenu_effects"
+msgstr "Effects"
+
+msgid "mainmenu_emote_and_dye"
+msgstr "Emote and Dye"
 
 msgid "mainmenu_emotes"
 msgstr "Emotes"
@@ -3938,11 +3970,20 @@ msgstr "Hotbar"
 msgid "mainmenu_hotkeys"
 msgstr "Hotkeys"
 
+msgid "mainmenu_item_counter"
+msgstr "Item Counter"
+
 msgid "mainmenu_journal"
 msgstr "Journal"
 
+msgid "mainmenu_maps"
+msgstr "Maps"
+
 msgid "mainmenu_minimap"
 msgstr "Minimap"
+
+msgid "mainmenu_miscellaneous"
+msgstr "Miscellaneous"
 
 msgid "mainmenu_options"
 msgstr "Options"
@@ -3956,14 +3997,26 @@ msgstr "Player Stats"
 msgid "mainmenu_quit"
 msgstr "Quit"
 
+msgid "mainmenu_research"
+msgstr "Research"
+
 msgid "mainmenu_skills"
 msgstr "Skills"
+
+msgid "mainmenu_skins"
+msgstr "Skins"
+
+msgid "mainmenu_social"
+msgstr "Social"
 
 msgid "mainmenu_spells"
 msgstr "Spells"
 
 msgid "mainmenu_startbutton_tooltip"
 msgstr "Click to show/hide. Drag to move"
+
+msgid "mainmenu_tasks"
+msgstr "Tasks"
 
 msgid "mainmenu_titles"
 msgstr "Titles"
