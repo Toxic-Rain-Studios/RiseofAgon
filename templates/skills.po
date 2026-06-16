@@ -237,6 +237,9 @@ msgstr "Basic attack using bow and arrows."
 msgid "desc_s_Archery Attacks"
 msgstr ""
 
+msgid "desc_s_Archery Efficiency"
+msgstr "Passive. Reduces the stamina cost of every bow shot."
+
 msgid "desc_s_Archery Skills"
 msgstr ""
 
@@ -366,6 +369,11 @@ msgstr "Grants the caster protection against Malediction attacks."
 
 msgid "desc_s_Blessing_1"
 msgstr ""
+
+msgid "desc_s_Blinding Shot"
+msgstr ""
+"Fire an arrow that blinds the target on hit, impairing its vision for a "
+"short time."
 
 msgid "desc_s_Blizzard"
 msgstr "Launches a missile that explodes upon impact causing Cold damage. "
@@ -555,6 +563,11 @@ msgid "desc_s_Crafting Skills"
 msgstr ""
 "A group of skills for harvesting resources or using such items for creating, "
 "among other things weapons, armor and accessories."
+
+msgid "desc_s_Crippling Shot"
+msgstr ""
+"Fire a crippling arrow that wounds the target on hit, causing it to bleed "
+"for a short time."
 
 msgid "desc_s_Critical Shot"
 msgstr "Description of s_Critical Shot"
@@ -2087,6 +2100,11 @@ msgstr ""
 "for 3 seconds, weakening melee, magic and archery — commit to swings rather "
 "than tap-parrying between hits."
 
+msgid "desc_s_Penetrating Shot"
+msgstr ""
+"Fire a powerful arrow that travels in a straight line and pierces through "
+"every target in its path."
+
 msgid "desc_s_Perseverance"
 msgstr "Grants a small bonus to maximum Stamina. "
 
@@ -2664,6 +2682,9 @@ msgid "desc_s_Smelting"
 msgstr ""
 "Used when turning ore into ingots. Stand near a smelter and press Use button "
 "to start."
+
+msgid "desc_s_Smoke Bomb"
+msgstr "Throw down a smoke bomb that bursts into a concealing cloud of smoke."
 
 msgid "desc_s_Smoke Signal"
 msgstr "Creates a column of smoke rising from the target."
@@ -3365,6 +3386,9 @@ msgstr "Archery"
 msgid "s_Archery Attacks"
 msgstr "Archery Attacks"
 
+msgid "s_Archery Efficiency"
+msgstr "Archery Efficiency"
+
 msgid "s_Archery Skills"
 msgstr "Archery Skills"
 
@@ -3487,6 +3511,9 @@ msgstr "Blessing"
 
 msgid "s_Blessing_1"
 msgstr "Blessing_1"
+
+msgid "s_Blinding Shot"
+msgstr "Blinding Shot"
 
 msgid "s_Blizzard"
 msgstr "Blizzard"
@@ -3658,6 +3685,9 @@ msgstr "Corrosive Blast_2"
 
 msgid "s_Crafting Skills"
 msgstr "Crafting Skills"
+
+msgid "s_Crippling Shot"
+msgstr "Crippling Shot"
 
 msgid "s_Critical Shot"
 msgstr "Critical Shot"
@@ -5090,6 +5120,9 @@ msgstr "Palsy_1"
 msgid "s_Parry"
 msgstr "Parry"
 
+msgid "s_Penetrating Shot"
+msgstr "Penetrating Shot"
+
 msgid "s_Perseverance"
 msgstr "Perseverance"
 
@@ -5641,6 +5674,9 @@ msgstr "Smelter Skills"
 
 msgid "s_Smelting"
 msgstr "Smelting"
+
+msgid "s_Smoke Bomb"
+msgstr "Smoke Bomb"
 
 msgid "s_Smoke Signal"
 msgstr "Smoke Signal"
