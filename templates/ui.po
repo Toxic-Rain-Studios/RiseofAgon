@@ -3044,6 +3044,63 @@ msgstr "Weapon Rank"
 msgid "item_weight"
 msgstr "Weight"
 
+msgid "journal_achievements_activate_button"
+msgstr "Activate"
+
+msgid "journal_achievements_active_label"
+msgstr "Active"
+
+msgid "journal_achievements_active_none"
+msgstr "No active achievement"
+
+msgid "journal_achievements_active_row_button"
+msgstr "Active"
+
+msgid "journal_achievements_cooldown_label"
+msgstr "You can change again in"
+
+msgid "journal_achievements_disable_button"
+msgstr "Disable"
+
+msgid "journal_achievements_header"
+msgstr "Achievements"
+
+msgid "journal_achievements_list_empty"
+msgstr "You have not earned any achievements yet."
+
+msgid "journal_achievements_loading"
+msgstr "Loading..."
+
+msgid "journal_achievements_status_activated"
+msgstr "Achievement activated."
+
+msgid "journal_achievements_status_disabled"
+msgstr "Achievement disabled."
+
+msgid "journal_achievements_status_failed"
+msgstr "Could not change achievement."
+
+msgid "journal_achievements_status_missing_req"
+msgstr "You do not meet the requirements."
+
+msgid "journal_achievements_status_sending"
+msgstr "Sending..."
+
+msgid "journal_achievements_status_wait_more"
+msgstr "You must wait before you can change again."
+
+msgid "journal_achievements_tab_title"
+msgstr "Achievements"
+
+msgid "journal_crafting_stats_header"
+msgstr "Crafting Totals"
+
+msgid "journal_crafting_stats_tab_title"
+msgstr "Crafting Stats"
+
+msgid "journal_fights_tab_title"
+msgstr "PvP And PvE"
+
 msgid "journal_friends_accept_status_sent"
 msgstr "Accepting request..."
 
@@ -3166,6 +3223,72 @@ msgstr "Social"
 
 msgid "journal_friends_unblock_status_requested"
 msgstr "Unblock request sent..."
+
+msgid "journal_housing_bank_grant"
+msgstr "Grant bank"
+
+msgid "journal_housing_bank_label"
+msgstr "Bank"
+
+msgid "journal_housing_bank_no"
+msgstr "No"
+
+msgid "journal_housing_bank_revoke"
+msgstr "Revoke bank"
+
+msgid "journal_housing_bank_yes"
+msgstr "Yes"
+
+msgid "journal_housing_exteriors_label"
+msgstr "Exterior upgrades"
+
+msgid "journal_housing_header"
+msgstr "Housing"
+
+msgid "journal_housing_interiors_label"
+msgstr "Interior upgrades"
+
+msgid "journal_housing_kick_button"
+msgstr "Kick"
+
+msgid "journal_housing_leave_button"
+msgstr "Leave house"
+
+msgid "journal_housing_loading"
+msgstr "Loading..."
+
+msgid "journal_housing_no_house"
+msgstr "You do not own or live in a house."
+
+msgid "journal_housing_no_tenants"
+msgstr "No tenants."
+
+msgid "journal_housing_status_bank_done"
+msgstr "Bank access updated."
+
+msgid "journal_housing_status_kick_done"
+msgstr "Tenant removed."
+
+msgid "journal_housing_status_leave_done"
+msgstr "You left the house."
+
+msgid "journal_housing_status_sending"
+msgstr "Sending..."
+
+msgid "journal_housing_tab_title"
+msgstr "Housing"
+
+msgid "journal_housing_tax_due"
+msgstr "Tax due"
+
+msgid "journal_housing_tax_paid"
+msgstr "Tax: Paid"
+
+msgid "journal_housing_tenants_header"
+msgstr "Tenants"
+
+msgid "journal_housing_tile_label"
+msgstr "Tile"
 
 msgid "journal_meditation_active_label"
 msgstr "Currently training"
@@ -3341,6 +3464,33 @@ msgstr "ON"
 msgid "journal_more_options"
 msgstr "More options"
 
+msgid "journal_notes_delete"
+msgstr "Delete"
+
+msgid "journal_notes_empty"
+msgstr "No notes yet."
+
+msgid "journal_notes_header"
+msgstr "Notes"
+
+msgid "journal_notes_limit"
+msgstr "Note limit reached (max 40)."
+
+msgid "journal_notes_new"
+msgstr "New"
+
+msgid "journal_notes_save"
+msgstr "Save"
+
+msgid "journal_notes_saved"
+msgstr "Saved."
+
+msgid "journal_notes_tab_title"
+msgstr "Notes"
+
+msgid "journal_notes_title_label"
+msgstr "Title"
+
 msgid "journal_open_legacy"
 msgstr "Open legacy journal"
 
@@ -3367,6 +3517,57 @@ msgstr "View details"
 
 msgid "journal_quest_reward_meditation_points"
 msgstr "Meditation points: %1"
+
+msgid "journal_records_back"
+msgstr "< Back"
+
+msgid "journal_records_crafting"
+msgstr "Crafting"
+
+msgid "journal_records_crafting_log"
+msgstr "Crafting Log"
+
+msgid "journal_records_crafting_totals"
+msgstr "Crafting Totals"
+
+msgid "journal_records_destruction"
+msgstr "Destruction"
+
+msgid "journal_records_empty"
+msgstr "No records found."
+
+msgid "journal_records_enchanting"
+msgstr "Enchanting"
+
+msgid "journal_records_ganks"
+msgstr "Ganks"
+
+msgid "journal_records_next"
+msgstr "Next >"
+
+msgid "journal_records_prev"
+msgstr "< Prev"
+
+msgid "journal_records_pve"
+msgstr "Monster Kills"
+
+msgid "journal_records_pvp"
+msgstr "PvP Kills"
+
+msgid "journal_records_pvp_deaths"
+msgstr "PvP Deaths"
+
+msgid "journal_records_revives"
+msgstr "Revives"
+
+msgid "journal_records_tab_title"
+msgstr "Records"
+
+msgid "journal_records_trade_routes"
+msgstr "Trade Routes"
+
+msgid "journal_statistics_tab_title"
+msgstr "Personal Stats"
 
 msgid "journal_window_title"
 msgstr "Journal"
