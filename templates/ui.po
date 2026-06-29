@@ -1736,6 +1736,9 @@ msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
 msgstr ""
 "You do not have the required rank to promote a member to Supreme General."
 
+msgid "clan_window_members_rank_too_low"
+msgstr "You can't kick or ban %1 - they are an equal or higher rank than you."
+
 msgid "clan_window_members_reject"
 msgstr "Reject"
 
@@ -3518,6 +3521,9 @@ msgstr "View details"
 msgid "journal_quest_reward_meditation_points"
 msgstr "Meditation points: %1"
 
+msgid "journal_quest_search_placeholder"
+msgstr "Search quests"
+
 msgid "journal_records_back"
 msgstr "< Back"
 
@@ -3551,14 +3557,23 @@ msgstr "< Prev"
 msgid "journal_records_pve"
 msgstr "Monster Kills"
 
+msgid "journal_records_pve_totals"
+msgstr "Monster Totals"
+
 msgid "journal_records_pvp"
 msgstr "PvP Kills"
 
 msgid "journal_records_pvp_deaths"
 msgstr "PvP Deaths"
 
+msgid "journal_records_pvp_totals"
+msgstr "Player Totals"
+
 msgid "journal_records_revives"
 msgstr "Revives"
+
+msgid "journal_records_search_placeholder"
+msgstr "Search by name"
 
 msgid "journal_records_tab_title"
 msgstr "Records"
@@ -4005,6 +4020,9 @@ msgstr "Create New Loadout"
 msgid "loadout_menu_delete_named"
 msgstr "Delete: %1"
 
+msgid "loadout_menu_duplicate_named"
+msgstr "Duplicate: %1"
+
 msgid "loadout_menu_equiv_off"
 msgstr "Allow Equivalents: OFF (click to enable)"
 
@@ -4037,6 +4055,9 @@ msgstr "Set Enchant 1 Filter..."
 
 msgid "loadout_menu_set_enchant2"
 msgstr "Set Enchant 2 Filter..."
+
+msgid "loadout_name_copy_suffix"
+msgstr " (copy)"
 
 msgid "loadout_name_default"
 msgstr "Default"
