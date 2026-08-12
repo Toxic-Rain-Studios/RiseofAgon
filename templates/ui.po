@@ -5447,6 +5447,12 @@ msgstr "Enable Character Shadows."
 msgid "options_video_enable_drop_shadows"
 msgstr "Enable Drop Shadows"
 
+msgid "options_video_enable_filmic_tone"
+msgstr "Enable Filmic Tone Mapping"
+
+msgid "options_video_enable_godrays"
+msgstr "Enable God Rays"
+
 msgid "options_video_enable_post_process_effects"
 msgstr "Enable Post Process Effects."
 
@@ -5456,14 +5462,23 @@ msgstr "Enable Scenery Shadows."
 msgid "options_video_enable_shadows"
 msgstr "Enable Shadows."
 
+msgid "options_video_enable_ssao"
+msgstr "Enable Ambient Occlusion (SSAO)"
+
 msgid "options_video_enable_triple_buffering"
 msgstr "Enable triple buffering."
+
+msgid "options_video_filmic_tone_strength"
+msgstr "Filmic Tone Mapping Strength"
 
 msgid "options_video_fov"
 msgstr "Field of View: %1"
 
 msgid "options_video_gamma_correction"
 msgstr "Gamma Correction: %1"
+
+msgid "options_video_godray_intensity"
+msgstr "God Ray Intensity"
 
 msgid "options_video_label_resolution"
 msgstr "Screen resolution"
