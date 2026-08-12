@@ -5,6 +5,101 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "DUEL_STATUS_COUNTING_DOWN"
+msgstr "Duel about to start"
+
+msgid "DUEL_STATUS_FIGHTING"
+msgstr "Dueling"
+
+msgid "DUEL_STATUS_WAITING_FOR_MEMBERS_TO_JOIN_TEAMS"
+msgstr "Waiting for players to join teams"
+
+msgid "DUEL_STATUS_WAITING_FOR_TEAMS_TO_BE_READY"
+msgstr "Waiting for team members to be ready"
+
+msgid "abilities_detail_active"
+msgstr "Active"
+
+msgid "abilities_detail_cooldown_group_heading"
+msgstr "Cooldown Group"
+
+msgid "abilities_detail_crafting_bench"
+msgstr "Crafting Bench"
+
+msgid "abilities_detail_crafting_cost_heading"
+msgstr "Crafting Cost"
+
+msgid "abilities_detail_delivery"
+msgstr "Delivery"
+
+msgid "abilities_detail_description_heading"
+msgstr "Description"
+
+msgid "abilities_detail_individual_progression_heading"
+msgstr "Individual Progression"
+
+msgid "abilities_detail_locked"
+msgstr "Locked"
+
+msgid "abilities_detail_mana"
+msgstr "Mana Cost"
+
+msgid "abilities_detail_milestone_ability"
+msgstr "Improves at levels 20, 40, 60, 80, 100 - next: level %1."
+
+msgid "abilities_detail_milestone_ability_max"
+msgstr ""
+"Improves at levels 20, 40, 60, 80, 100 - currently at maximum strength."
+
+msgid "abilities_detail_milestone_crafting"
+msgstr "Improves at levels 25, 50, 75, 100 - next: level %1."
+
+msgid "abilities_detail_milestone_crafting_max"
+msgstr "Improves at levels 25, 50, 75, 100 - currently at maximum tier."
+
+msgid "abilities_detail_passive"
+msgstr "Passive"
+
+msgid "abilities_detail_school"
+msgstr "School"
+
+msgid "abilities_detail_school_requirement_heading"
+msgstr "School Requirement"
+
+msgid "abilities_detail_stamina"
+msgstr "Stamina Cost"
+
+msgid "abilities_detail_tags_heading"
+msgstr "Use Cost"
+
+msgid "abilities_detail_target"
+msgstr "Target"
+
+msgid "abilities_detail_untrained"
+msgstr "Untrained"
+
+msgid "abilities_detail_workstation_explainer"
+msgstr ""
+"This is the icon for the %1 crafting bench. Find it on your map to access it."
+
+msgid "abilities_filter_button"
+msgstr "Filters"
+
+msgid "abilities_list_level_label"
+msgstr "Level"
+
+msgid "abilities_list_school_level_label"
+msgstr "School Level"
+
+msgid "abilities_nav_categories_heading"
+msgstr "Categories"
+
+msgid "abilities_racial_description"
+msgstr "Abilities inherently granted due to being a %1."
+
+msgid "abilities_search_placeholder"
+msgstr "Search for an entry"
+
 msgid "accept"
 msgstr "Accept"
 
@@ -797,12 +892,24 @@ msgstr ""
 msgid "chat_server_cmd_gm_hide_param_hide_desc"
 msgstr "true to hide from whispers, false to disable"
 
+msgid "chat_server_cmd_gm_lock_recipe_desc"
+msgstr "locks a crafting recipe for the game master"
+
+msgid "chat_server_cmd_gm_lock_recipe_param_recipe_name_desc"
+msgstr "the resource name of the crafted item to lock"
+
 msgid "chat_server_cmd_gm_report_desc"
 msgstr "sends an abuse or bug report to all online GMs"
 
 msgid "chat_server_cmd_gm_report_param_text_desc"
 msgstr ""
 "a description of the issue, including relevant player names and positions"
+
+msgid "chat_server_cmd_gm_unlock_recipe_desc"
+msgstr "unlocks a crafting recipe for the game master"
+
+msgid "chat_server_cmd_gm_unlock_recipe_param_recipe_name_desc"
+msgstr "the resource name of the crafted item to unlock"
 
 msgid "chat_server_cmd_ignore_desc"
 msgstr "adds a nick to your ignore list"
@@ -1006,6 +1113,116 @@ msgstr "Choose Gender"
 msgid "choose_your_race"
 msgstr "Choose your character's race"
 
+msgid "citybuff_activate"
+msgstr "Activate"
+
+msgid "citybuff_activate_all"
+msgstr "Activate All"
+
+msgid "citybuff_active_count"
+msgstr "%1 / %2 Active"
+
+msgid "citybuff_active_header"
+msgstr "Active Buffs"
+
+msgid "citybuff_building_church"
+msgstr "Church"
+
+msgid "citybuff_building_fighters"
+msgstr "Fighters Guild"
+
+msgid "citybuff_building_keep"
+msgstr "Keep"
+
+msgid "citybuff_building_mages"
+msgstr "Mages Guild"
+
+msgid "citybuff_col_action"
+msgstr "Action"
+
+msgid "citybuff_col_buff"
+msgstr "Buff"
+
+msgid "citybuff_col_cost"
+msgstr "Platinum"
+
+msgid "citybuff_col_status"
+msgstr "Status"
+
+msgid "citybuff_cost"
+msgstr "%1 platinum"
+
+msgid "citybuff_effect_church"
+msgstr "Increases player protections"
+
+msgid "citybuff_effect_fighters"
+msgstr "Restores stamina over time"
+
+msgid "citybuff_effect_keep"
+msgstr "Restores health over time"
+
+msgid "citybuff_effect_mages"
+msgstr "Restores mana over time"
+
+msgid "citybuff_info_footer"
+msgstr "Changes apply to clan members inside the holding."
+
+msgid "citybuff_minutes"
+msgstr "%1m"
+
+msgid "citybuff_name_church"
+msgstr "Clan Protection (Church)"
+
+msgid "citybuff_name_fighters"
+msgstr "Stamina Regeneration (Fighters Guild)"
+
+msgid "citybuff_name_keep"
+msgstr "Health Regeneration (Keep)"
+
+msgid "citybuff_name_mages"
+msgstr "Mana Regeneration (Mages Guild)"
+
+msgid "citybuff_platinum"
+msgstr "Vault platinum: %1"
+
+msgid "citybuff_requires"
+msgstr "Requires %1"
+
+msgid "citybuff_row_all"
+msgstr "All eligible buffs"
+
+msgid "citybuff_rules"
+msgstr "Charges last %1 min, stack up to %2 min"
+
+msgid "citybuff_shortname_church"
+msgstr "Clan Protection"
+
+msgid "citybuff_shortname_fighters"
+msgstr "Stamina Regeneration"
+
+msgid "citybuff_shortname_keep"
+msgstr "Health Regeneration"
+
+msgid "citybuff_shortname_mages"
+msgstr "Mana Regeneration"
+
+msgid "citybuff_status_active"
+msgstr "Active - %1 min left"
+
+msgid "citybuff_status_inactive"
+msgstr "Inactive"
+
+msgid "citybuff_status_locked"
+msgstr "Building not constructed"
+
+msgid "citybuff_subtitle"
+msgstr ""
+"Spend platinum to activate holding buffs. Active buffs affect clan members "
+"inside the holding."
+
+msgid "citybuff_window_title"
+msgstr "Clan Buffs"
+
 msgid "citybuilding_categories_close"
 msgstr "Close"
 
@@ -1168,6 +1385,59 @@ msgstr ""
 
 msgid "clan_banned_tab_title"
 msgstr "Banned Players"
+
+msgid "clan_creation_form_cost_description"
+msgstr "2000 gold will be deducted from your global wallet upon creation"
+
+msgid "clan_creation_form_lawful_alignment_tooltip_1"
+msgstr ""
+"Since you are lawful, the clan will be created lawful. This cannot be "
+"changed after creation."
+
+msgid "clan_creation_form_lawful_alignment_tooltip_2"
+msgstr ""
+"As a lawful clan, you will not be able to accept lawless clan members into "
+"your clan, nor members of a different racial faction."
+
+msgid "clan_creation_form_lawful_alignment_tooltip_3"
+msgstr ""
+"You will also be unable to ally clans that are lawless or belong to a "
+"different racial faction."
+
+msgid "clan_creation_form_lawful_races_tooltip_1"
+msgstr ""
+"Since you are lawful, the clan will be created with your current racial "
+"faction."
+
+msgid "clan_creation_form_lawful_races_tooltip_2"
+msgstr ""
+"You can change which of these races are accepted at any time after clan "
+"creation, but you will never be able to accept races from a different "
+"faction."
+
+msgid "clan_creation_form_lawful_races_tooltip_3"
+msgstr "The clan's racial faction cannot be changed."
+
+msgid "clan_creation_form_lawless_alignment_tooltip_1"
+msgstr ""
+"Since you are lawless, the clan will be created lawless. This cannot be "
+"changed after creation."
+
+msgid "clan_creation_form_lawless_alignment_tooltip_2"
+msgstr "You will not be able to accept lawful players into your clan."
+
+msgid "clan_creation_form_lawless_alignment_tooltip_3"
+msgstr "You will be able to ally other lawless clans but not lawful clans."
+
+msgid "clan_creation_form_lawless_races_tooltip_1"
+msgstr "Lawless clans accept all races by default."
+
+msgid "clan_creation_form_lawless_races_tooltip_2"
+msgstr ""
+"You can change which races are accepted at any time after clan creation."
+
+msgid "clan_creation_form_name"
+msgstr "Clan name"
 
 msgid "clan_kos_empty"
 msgstr "No players are on this clan's Kill On Sight list."
@@ -1518,6 +1788,9 @@ msgstr "Relation"
 msgid "clan_window_clan_info_politics_relations_standing"
 msgstr "Standing"
 
+msgid "clan_window_clan_info_race_alliance"
+msgstr "Race Alliance"
+
 msgid "clan_window_clan_info_set_relation"
 msgstr "Set Relation"
 
@@ -1590,7 +1863,7 @@ msgid "clan_window_general_allow"
 msgstr "Allow"
 
 msgid "clan_window_general_allowed_alignment"
-msgstr "Allowed Alignment"
+msgstr "Clan Alignment"
 
 msgid "clan_window_general_allowed_races"
 msgstr "Allowed Races"
@@ -2114,6 +2387,9 @@ msgstr ""
 msgid "conquest_defend_stage_two_prefix"
 msgstr " "
 
+msgid "conquest_gateway_glyph_required"
+msgstr "Your clan must control the %1 rune glyph before it can challenge %2."
+
 msgid "conquest_label_no_challenges"
 msgstr ""
 "There are no active challenges\r\n"
@@ -2149,6 +2425,9 @@ msgstr "Invite to House"
 
 msgid "context_menu_invite_to_clan"
 msgstr "Invite to Clan"
+
+msgid "context_menu_invite_to_duel"
+msgstr "Invite to Duel"
 
 msgid "context_menu_invite_to_party"
 msgstr "Invite to Party"
@@ -2243,6 +2522,18 @@ msgstr "Full screen"
 msgid "display_modes_windowed"
 msgstr "Windowed"
 
+msgid "display_name_roa_faction_ALFAR"
+msgstr "Scourge of Nagast"
+
+msgid "display_name_roa_faction_HUMAN"
+msgstr "Righteous Trinity"
+
+msgid "display_name_roa_faction_UNKNOWN"
+msgstr "Unknown"
+
+msgid "display_name_roa_faction_WOLF"
+msgstr "Savage Raiders"
+
 msgid "distance_kilometers"
 msgstr "%1 km"
 
@@ -2251,6 +2542,51 @@ msgstr "%1 m"
 
 msgid "do_not_ask_again"
 msgstr "Do not ask me again"
+
+msgid "duel_abandon"
+msgstr "Abandon"
+
+msgid "duel_button_ready"
+msgstr "Ready"
+
+msgid "duel_button_surrender"
+msgstr "Surrender"
+
+msgid "duel_button_unready"
+msgstr "Unready"
+
+msgid "duel_create"
+msgstr "Create duel"
+
+msgid "duel_leave"
+msgstr "Leave"
+
+msgid "duel_title"
+msgstr "Duel"
+
+msgid "duel_tooltip_content"
+msgstr ""
+" \n"
+"Duel countdown starts when all members, excluding sidelines, are ready.\n"
+" \n"
+"You may crouch/stand up to set your status to ready/not ready instead of "
+"using the ready button.\n"
+" \n"
+"Duels have friendly fire enabled, but it won't count towards kill assists.\n"
+" \n"
+"Lawful players may attack other friendly lawful players during a duel, but "
+"damage will be non lethal. Be wary of enemy races and lawless players "
+"lurking about, though!\n"
+" \n"
+"You may invite other players via the /duel_invite chat command, or from the "
+"menu when right clicking on a player's name or pressing your alt-use key "
+"while looking at them."
+
+msgid "duel_tooltip_header"
+msgstr "Duel"
+
+msgid "duel_window_title"
+msgstr "Duel"
 
 msgid "dye_panel_apply"
 msgstr "Apply"
@@ -2482,6 +2818,34 @@ msgstr "Female"
 
 msgid "gender_male"
 msgstr "Male"
+
+msgid "glyph_cancel_not_entitled"
+msgstr "You are not entitled to defend this glyph right now."
+
+msgid "glyph_cancelled"
+msgstr "You successfully cancelled the challenge. The glyph is now immune."
+
+msgid "glyph_challenge_race_unknown"
+msgstr ""
+"Your race alliance could not be determined, so this lawful glyph cannot be "
+"challenged right now."
+
+msgid "glyph_challenge_running"
+msgstr "There is already an active challenge for this glyph."
+
+msgid "glyph_challenge_started_defend"
+msgstr ""
+"You have begun channelling to cancel the challenge on this glyph. Hold your "
+"ground!"
+
+msgid "glyph_flipped"
+msgstr "The rune glyph in %1 has fallen to a new faction!"
+
+msgid "glyph_immune"
+msgstr "This glyph is still immune to challenge."
+
+msgid "glyph_locked_by_siege"
+msgstr "The glyph cannot be contested while its holding is under siege."
 
 msgid "glyph_rule_description_allies"
 msgstr "Clan members and allies can use this Rune Glyph"
@@ -4228,6 +4592,9 @@ msgstr "Research"
 msgid "mainmenu_skills"
 msgstr "Skills"
 
+msgid "mainmenu_skills_unified"
+msgstr "Skills & Spells"
+
 msgid "mainmenu_skins"
 msgstr "Skins"
 
@@ -4321,6 +4688,9 @@ msgstr "Dungeons"
 msgid "map_marker_enchantment_station"
 msgstr "Enchantment Station"
 
+msgid "map_marker_faction_player_city"
+msgstr "Faction Cities"
+
 msgid "map_marker_fortress"
 msgstr "Fortress Markers"
 
@@ -4343,10 +4713,13 @@ msgid "map_marker_monster_spawn"
 msgstr "Mob Spawn"
 
 msgid "map_marker_npc_city"
-msgstr "Faction Cities"
+msgstr "NPC Cities"
 
 msgid "map_marker_oven"
 msgstr "Oven"
+
+msgid "map_marker_overlays_political"
+msgstr "Political"
 
 msgid "map_marker_overlays_regions"
 msgstr "Regions"
@@ -4940,6 +5313,9 @@ msgstr "Select order to change"
 msgid "messagebox_generic_title"
 msgstr "Message"
 
+msgid "minimap_button_tooltip_open_rune_book"
+msgstr "Open Rune Book"
+
 msgid "minimap_character_coordinates"
 msgstr "%1' %2'' %3   %4' %5'' %6"
 
@@ -5418,7 +5794,19 @@ msgid "options_video_animation_reduction_start"
 msgstr "Minimum distance to start animation quality reduction."
 
 msgid "options_video_antialiasing_quality"
-msgstr "AntiAliasing Quality: %1"
+msgstr "Anti-Aliasing (Supersampling): %1"
+
+msgid "options_video_antialiasing_tier_1_5x"
+msgstr "1.5x"
+
+msgid "options_video_antialiasing_tier_2x"
+msgstr "2x"
+
+msgid "options_video_antialiasing_tier_4x"
+msgstr "4x"
+
+msgid "options_video_antialiasing_tier_off"
+msgstr "Off"
 
 msgid "options_video_auto_optimize"
 msgstr "Enable Auto Optimization."
@@ -5449,6 +5837,9 @@ msgstr "Enable Drop Shadows"
 
 msgid "options_video_enable_filmic_tone"
 msgstr "Enable Filmic Tone Mapping"
+
+msgid "options_video_enable_fxaa"
+msgstr "Enable FXAA (fast antialiasing)."
 
 msgid "options_video_enable_godrays"
 msgstr "Enable God Rays"
@@ -5618,6 +6009,65 @@ msgstr "Quantity:"
 
 msgid "prompt_item_split_title"
 msgstr "Split Item"
+
+msgid "pvp_flag_change_to_lawless_dialog_body"
+msgstr ""
+"With lawless stance you will be turned rogue so any player can attack you "
+"anywhere. You can attack any other player and you will lose alignment for "
+"killing blues. You will also drop your entire inventory on death regardless "
+"of where it happens. Changing back to lawful will require you to visit a "
+"chaos church and cannot be done with negative alignment."
+
+msgid "pvp_flag_change_to_lawless_dialog_confirm"
+msgstr "Are you Sure?"
+
+msgid "pvp_flag_change_to_lawless_dialog_title"
+msgstr "Change to lawless stance?"
+
+msgid "pvp_flag_error_change_in_combat"
+msgstr "You cannot change alignment stance while in combat."
+
+msgid "pvp_flag_error_change_in_village"
+msgstr "You cannot change alignment stance in a village."
+
+msgid "pvp_flag_error_change_to_lawful"
+msgstr ""
+"To change back to lawful you must pray at a church or other appointed "
+"location."
+
+msgid "pvp_flag_error_change_to_lawless_in_npc_city"
+msgstr "This would turn you rogue and cannot be done while inside an NPC city."
+
+msgid "pvp_flag_error_change_to_same"
+msgstr "You are already on this alignment stance."
+
+msgid "pvp_flag_error_player_holding"
+msgstr "You cannot change your alignment stance in a player holding."
+
+msgid "pvp_flag_tooltip_lawful"
+msgstr ""
+"LAWFUL STANCE \n"
+"  \n"
+" You cannot attack other lawful players and they cannot attack you, \n"
+"unless you belong to different racial factions.\n"
+"  \n"
+" You also cannot associate with faction enemies or lawless players\n"
+"(this includes parties, healing, reviving, or joining clans)."
+
+msgid "pvp_flag_tooltip_lawless"
+msgstr ""
+"LAWLESS STANCE \n"
+"  \n"
+" You can attack anyone, anyone can attack you freely. \n"
+"  \n"
+" Killing lawful players of your same racial faction will cost alignment. "
+"Once \n"
+"below 0 alignment you will become red and cannot turn back to lawful until \n"
+"your alignment is no longer negative. \n"
+"  \n"
+" You may join lawless clans and parties of any race. \n"
+"  \n"
+" You will always drop your entire inventory regardless of where you die."
 
 msgid "quest_reward"
 msgstr "%1: %2"
@@ -5789,6 +6239,21 @@ msgstr "Ordered alphabetically"
 msgid "skills_ordered_by_level"
 msgstr "Ordered by level"
 
+msgid "skills_unified_category_bows"
+msgstr "Ranged"
+
+msgid "skills_unified_category_magic"
+msgstr "Magic"
+
+msgid "skills_unified_category_melee"
+msgstr "Melee"
+
+msgid "skills_unified_category_racial"
+msgstr "Racial Abilities"
+
+msgid "skills_unified_window_title"
+msgstr "Skills & Spells"
+
 msgid "skills_window_title"
 msgstr "Skills"
 
@@ -5839,6 +6304,24 @@ msgstr "Start"
 
 msgid "start_button"
 msgstr "Start"
+
+msgid "structure_status_disabled"
+msgstr "Disabled"
+
+msgid "structure_status_faction_bind_stone_counting_down"
+msgstr "Losing shield in %1"
+
+msgid "structure_status_faction_bind_stone_invulnerable"
+msgstr "Invulnerable - %1"
+
+msgid "structure_status_faction_bind_stone_shielded"
+msgstr "Shielded"
+
+msgid "structure_status_faction_bind_stone_vulnerable"
+msgstr "Vulnerable"
+
+msgid "structure_status_restoring"
+msgstr "Restoring - %1"
 
 msgid "subscription_status_expires"
 msgstr "Subscription expires: %1"

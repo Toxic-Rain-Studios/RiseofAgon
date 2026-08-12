@@ -3755,6 +3755,15 @@ msgstr "Description of r_Cottons"
 msgid "desc_r_Courtly Hennin"
 msgstr "The choice of a princess "
 
+msgid "desc_r_Cradle Dockworker"
+msgstr "A resident of Aernar's Cradle."
+
+msgid "desc_r_Cradle Fisherman"
+msgstr "A resident of Aernar's Cradle."
+
+msgid "desc_r_Cradle Villager"
+msgstr "A resident of Aernar's Cradle."
+
 msgid "desc_r_Crafting Tools"
 msgstr "Description of r_Academic Equipment"
 
@@ -4571,6 +4580,19 @@ msgstr ""
 "built for... it was no laughing matter to the warlord who struck him down "
 "for it!"
 
+msgid "desc_r_Emberwastes Beasthandler"
+msgstr "A beast-handler of the Emberwastes."
+
+msgid "desc_r_Emberwastes Bonecarver"
+msgstr "A bonecarver of the Emberwastes."
+
+# Emberwastes ork citizen descriptions
+msgid "desc_r_Emberwastes Smith"
+msgstr "A smith of the Emberwastes."
+
+msgid "desc_r_Emberwastes Thrall"
+msgstr "A thrall of the Emberwastes."
+
 msgid "desc_r_Emerald Throne"
 msgstr " "
 
@@ -4722,6 +4744,1428 @@ msgstr " "
 
 msgid "desc_r_Facial Variations"
 msgstr " "
+
+msgid "desc_r_Faction Bank"
+msgstr ""
+
+msgid "desc_r_Faction Bank Storage"
+msgstr ""
+
+msgid "desc_r_Faction Bank2 Storage"
+msgstr ""
+
+msgid "desc_r_Faction Bank3 Storage"
+msgstr ""
+
+msgid "desc_r_Faction Bank4 Storage"
+msgstr ""
+
+msgid "desc_r_Faction Bank5 Storage"
+msgstr ""
+
+msgid "desc_r_Faction Banks"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Alfar u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Alfar u2"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Dwarf u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Dwarf u2"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Human"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Human u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Human u2"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mahirim u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mahirim u2"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mirdain u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Mirdain u2"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Ork"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Ork u1"
+msgstr ""
+
+msgid "desc_r_Faction Barracks Ork u2"
+msgstr ""
+
+msgid "desc_r_Faction Barrels_01"
+msgstr ""
+
+msgid "desc_r_Faction Building Base"
+msgstr ""
+
+msgid "desc_r_Faction Buildings"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Human"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Buildings Ork"
+msgstr ""
+
+msgid "desc_r_Faction Church Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Church Alfar u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Alfar u2"
+msgstr ""
+
+msgid "desc_r_Faction Church Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Church Dwarf u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Dwarf u2"
+msgstr ""
+
+msgid "desc_r_Faction Church Human"
+msgstr ""
+
+msgid "desc_r_Faction Church Human u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Human u2"
+msgstr ""
+
+msgid "desc_r_Faction Church Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Church Mahirim u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Mahirim u2"
+msgstr ""
+
+msgid "desc_r_Faction Church Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Church Mirdain u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Mirdain u2"
+msgstr ""
+
+msgid "desc_r_Faction Church Ork"
+msgstr ""
+
+msgid "desc_r_Faction Church Ork u1"
+msgstr ""
+
+msgid "desc_r_Faction Church Ork u2"
+msgstr ""
+
+msgid "desc_r_Faction City Guardtowers"
+msgstr ""
+
+msgid "desc_r_Faction Crates_01"
+msgstr ""
+
+msgid "desc_r_Faction Crates_02"
+msgstr ""
+
+msgid "desc_r_Faction Crates_03"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Human"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Fighters Guild Ork"
+msgstr ""
+
+msgid "desc_r_Faction Foundry"
+msgstr ""
+
+msgid "desc_r_Faction Gate"
+msgstr ""
+
+msgid "desc_r_Faction General Store"
+msgstr ""
+
+msgid "desc_r_Faction Guardtower Alfar"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Guardtower Dwarf"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Guardtower Human"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Guardtower Mahirim"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Guardtower Mirdain"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Guardtower Ork"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Alfar"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Dwarf"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Human"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Mahirim"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Mirdain"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtower Ork"
+msgstr "Destructible."
+
+msgid "desc_r_Faction Hamlet Guardtowers"
+msgstr ""
+
+msgid "desc_r_Faction Harbor Base"
+msgstr ""
+
+msgid "desc_r_Faction Harbor Base Rubble"
+msgstr ""
+
+msgid "desc_r_Faction House Alfar_01"
+msgstr ""
+
+msgid "desc_r_Faction House Alfar_02"
+msgstr ""
+
+msgid "desc_r_Faction House Alfar_03"
+msgstr ""
+
+msgid "desc_r_Faction House Alfar_04"
+msgstr ""
+
+msgid "desc_r_Faction House Dwarf_01"
+msgstr ""
+
+msgid "desc_r_Faction House Human_01"
+msgstr ""
+
+msgid "desc_r_Faction House Human_02"
+msgstr ""
+
+msgid "desc_r_Faction House Human_03"
+msgstr ""
+
+msgid "desc_r_Faction House Human_04"
+msgstr ""
+
+msgid "desc_r_Faction House Human_05"
+msgstr ""
+
+msgid "desc_r_Faction House Mahirim_01"
+msgstr ""
+
+msgid "desc_r_Faction House Mirdain_01"
+msgstr ""
+
+msgid "desc_r_Faction House Mirdain_02"
+msgstr ""
+
+msgid "desc_r_Faction House Mirdain_03"
+msgstr ""
+
+msgid "desc_r_Faction House Mirdain_04"
+msgstr ""
+
+msgid "desc_r_Faction House Open Ork_01"
+msgstr ""
+
+msgid "desc_r_Faction House Ork_01"
+msgstr ""
+
+msgid "desc_r_Faction House Ork_02"
+msgstr ""
+
+msgid "desc_r_Faction House Ork_03"
+msgstr ""
+
+msgid "desc_r_Faction House Ork_04"
+msgstr ""
+
+msgid "desc_r_Faction House Ork_05"
+msgstr ""
+
+msgid "desc_r_Faction Keep Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Keep Alfar u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Alfar u2"
+msgstr ""
+
+msgid "desc_r_Faction Keep Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Keep Dwarf u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Dwarf u2"
+msgstr ""
+
+msgid "desc_r_Faction Keep Human"
+msgstr ""
+
+msgid "desc_r_Faction Keep Human u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mahirim u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mahirim u2"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mirdain u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Mirdain u2"
+msgstr ""
+
+msgid "desc_r_Faction Keep Ork"
+msgstr ""
+
+msgid "desc_r_Faction Keep Ork u1"
+msgstr ""
+
+msgid "desc_r_Faction Keep Ork u2"
+msgstr ""
+
+msgid "desc_r_Faction Keep human u2"
+msgstr ""
+
+msgid "desc_r_Faction Keeps"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Human"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Keeps Ork"
+msgstr ""
+
+msgid "desc_r_Faction Laboratory"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Alfar u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Alfar u2"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Dwarf u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Dwarf u2"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Human"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Human u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Human u2"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mahirim u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mahirim u2"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mirdain u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Mirdain u2"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Ork"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Ork u1"
+msgstr ""
+
+msgid "desc_r_Faction Mages Guild Ork u2"
+msgstr ""
+
+msgid "desc_r_Faction Obelisk Altar"
+msgstr ""
+
+msgid "desc_r_Faction Oven"
+msgstr ""
+
+msgid "desc_r_Faction Palisade Tower_01"
+msgstr ""
+
+msgid "desc_r_Faction Palisade Wall_01"
+msgstr ""
+
+msgid "desc_r_Faction Palisade Wall_02"
+msgstr ""
+
+msgid "desc_r_Faction Palisade Wall_03"
+msgstr ""
+
+msgid "desc_r_Faction Palisades"
+msgstr ""
+
+msgid "desc_r_Faction Post Office"
+msgstr ""
+
+msgid "desc_r_Faction Post Offices"
+msgstr ""
+
+msgid "desc_r_Faction Props"
+msgstr ""
+
+msgid "desc_r_Faction Resource Spawns"
+msgstr ""
+
+msgid "desc_r_Faction Scaffhold_01"
+msgstr ""
+
+msgid "desc_r_Faction Scaffhold_02"
+msgstr ""
+
+msgid "desc_r_Faction Scaffhold_03"
+msgstr ""
+
+msgid "desc_r_Faction Scaffhold_04"
+msgstr ""
+
+msgid "desc_r_Faction Shipyard"
+msgstr ""
+
+msgid "desc_r_Faction Smelter"
+msgstr ""
+
+msgid "desc_r_Faction Smithy"
+msgstr ""
+
+msgid "desc_r_Faction Smithy u1"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Farm"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Leenspar"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_01"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_02"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_03"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_04"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_05"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Metal_06"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Neithal"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Selentine"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Stone"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Theyril"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Timber"
+msgstr ""
+
+msgid "desc_r_Faction Spawn Veilron"
+msgstr ""
+
+msgid "desc_r_Faction Station"
+msgstr ""
+
+msgid "desc_r_Faction Stationary Guns"
+msgstr ""
+
+msgid "desc_r_Faction Stations"
+msgstr ""
+
+msgid "desc_r_Faction Structures"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance Building"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance Building u1"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance Building u2"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance u1"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrance u2"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Entrances"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chamber Exit"
+msgstr ""
+
+msgid "desc_r_Faction Teleportation Chambers"
+msgstr ""
+
+msgid "desc_r_Faction Thaumaturgist"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Flamethrower"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Alfar Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Flamethrower"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Dwarf Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Flamethrower"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Human Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Flamethrower"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mahirim Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Mirdain Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Acid"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Acid Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Fireball"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Fireball Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Flamethrower"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Flamethrower Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Lightning"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Lightning Base"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction Tower Cannon Ork Shrapnel Base"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Alfar_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Door Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Wall Door Ork"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Dwarf_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Alfar Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Alfar d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Alfar d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Door Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Door Human"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Door Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Dwarf Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Dwarf d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Dwarf d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Human"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Human Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Human d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Human d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mahirim Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mahirim d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mahirim d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mirdain Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mirdain d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Mirdain d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Ork"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Ork Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Ork d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Entrance Ork d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Human_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mahirim_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Mirdain_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_03"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_03 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_03 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_03 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_04"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_04 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_04 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Ork_04 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Alfar Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Alfar d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Alfar d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Dwarf Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Dwarf d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Dwarf d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Human"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Human Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Human d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Human d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mahirim Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mahirim d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mahirim d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mirdain Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mirdain d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Mirdain d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Ork"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Ork Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Ork d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Seam Ork d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Alfar_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Dwarf_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Human_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mahirim_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Mirdain_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_01"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_01 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_01 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_01 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_02"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_02 Rubble"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower Ork_02 d2"
+msgstr ""
+
+msgid "desc_r_Faction Wall Tower alfar_02 d1"
+msgstr ""
+
+msgid "desc_r_Faction Walls"
+msgstr ""
+
+msgid "desc_r_Faction Walls Alfar"
+msgstr ""
+
+msgid "desc_r_Faction Walls Dwarf"
+msgstr ""
+
+msgid "desc_r_Faction Walls Human"
+msgstr ""
+
+msgid "desc_r_Faction Walls Mahirim"
+msgstr ""
+
+msgid "desc_r_Faction Walls Mirdain"
+msgstr ""
+
+msgid "desc_r_Faction Walls Ork"
+msgstr ""
+
+msgid "desc_r_Faction Workbench"
+msgstr ""
+
+msgid "desc_r_Faction Workstations"
+msgstr ""
+
+msgid "desc_r_Faction billboard"
+msgstr ""
+
+msgid "desc_r_Faction market"
+msgstr ""
+
+msgid "desc_r_Faction tower cannon Mahirim Shrapnel"
+msgstr ""
+
+msgid "desc_r_Faction tower cannon mirdain flamethrower"
+msgstr ""
+
+msgid "desc_r_Factionstone City"
+msgstr "Destructible."
+
+msgid "desc_r_Factionstone Hamlet"
+msgstr "Destructible."
 
 msgid "desc_r_Farbow"
 msgstr ""
@@ -5233,6 +6677,19 @@ msgid "desc_r_Frostfall"
 msgstr ""
 "The steel in this weapon resembles ice, and an icy blue crystal constitutes "
 "its pommel."
+
+msgid "desc_r_Frostheld Brewer"
+msgstr "A brewer of Frostheld."
+
+# Frostheld dwarf citizens
+msgid "desc_r_Frostheld Miner"
+msgstr "A miner of Frostheld."
+
+msgid "desc_r_Frostheld Smith"
+msgstr "A smith of Frostheld."
+
+msgid "desc_r_Frostheld Stonemason"
+msgstr "A stonemason of Frostheld."
 
 msgid "desc_r_Frostjarl"
 msgstr " "
@@ -6219,6 +7676,9 @@ msgstr "Handle With Care."
 
 msgid "desc_r_Grenade_05"
 msgstr "A low powered bomb designed to displace rather than cause injury."
+
+msgid "desc_r_Grenade_Faction"
+msgstr "An enchanted grenade. Can only damage faction structures."
 
 msgid "desc_r_Grenades"
 msgstr " "
@@ -7837,6 +9297,12 @@ msgstr " "
 msgid "desc_r_Marker Enchantment Station"
 msgstr " "
 
+msgid "desc_r_Marker Faction Player City"
+msgstr "         "
+
+msgid "desc_r_Marker Faction Player Hamlet"
+msgstr "         "
+
 msgid "desc_r_Marker Foundry"
 msgstr " "
 
@@ -7928,6 +9394,9 @@ msgid "desc_r_Marker Vendor"
 msgstr " "
 
 msgid "desc_r_Marker Workbench"
+msgstr " "
+
+msgid "desc_r_Markers Faction Player City"
 msgstr " "
 
 msgid "desc_r_Markers Npc City"
@@ -10163,6 +11632,9 @@ msgstr "A fine gold accessory set with a large ruby."
 
 msgid "desc_r_Rune Books"
 msgstr " "
+
+msgid "desc_r_Runebreaker"
+msgstr "A one-handed sword etched with runes that surge with arcane power."
 
 msgid "desc_r_Runestone"
 msgstr ""
@@ -19274,6 +20746,1428 @@ msgstr "Face_20"
 msgid "r_Facial Variations"
 msgstr "Facial Variations"
 
+msgid "r_Faction Bank"
+msgstr "Faction Holding Bank"
+
+msgid "r_Faction Bank Storage"
+msgstr "Faction Bank Storage"
+
+msgid "r_Faction Bank2 Storage"
+msgstr "Faction Bank2 Storage"
+
+msgid "r_Faction Bank3 Storage"
+msgstr "Faction Bank3 Storage"
+
+msgid "r_Faction Bank4 Storage"
+msgstr "Faction Bank4 Storage"
+
+msgid "r_Faction Bank5 Storage"
+msgstr "Faction Bank5 Storage"
+
+msgid "r_Faction Banks"
+msgstr "Faction Holding Banks"
+
+msgid "r_Faction Barracks Alfar"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Alfar u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Alfar u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Dwarf"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Dwarf u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Dwarf u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Human"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Human u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Human u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mahirim"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mahirim u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mahirim u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mirdain"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mirdain u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Mirdain u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Ork"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Ork u1"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barracks Ork u2"
+msgstr "Faction Holding Barracks"
+
+msgid "r_Faction Barrels_01"
+msgstr "Faction Holding Barrels"
+
+msgid "r_Faction Building Base"
+msgstr "Faction Holding Building Base"
+
+msgid "r_Faction Buildings"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Alfar"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Dwarf"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Human"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Mahirim"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Mirdain"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Buildings Ork"
+msgstr "Faction Holding Buildings"
+
+msgid "r_Faction Church Alfar"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Alfar u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Alfar u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Dwarf"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Dwarf u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Dwarf u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Human"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Human u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Human u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mahirim"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mahirim u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mahirim u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mirdain"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mirdain u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Mirdain u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Ork"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Ork u1"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction Church Ork u2"
+msgstr "Faction Holding Church"
+
+msgid "r_Faction City Guardtowers"
+msgstr "Faction Holding Guardtowers"
+
+msgid "r_Faction Crates_01"
+msgstr "Faction Holding Crates"
+
+msgid "r_Faction Crates_02"
+msgstr "Faction Holding Crates"
+
+msgid "r_Faction Crates_03"
+msgstr "Faction Holding Crates"
+
+msgid "r_Faction Fighters Guild Alfar"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Fighters Guild Dwarf"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Fighters Guild Human"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Fighters Guild Mahirim"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Fighters Guild Mirdain"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Fighters Guild Ork"
+msgstr "Faction Holding Fighters Guild"
+
+msgid "r_Faction Foundry"
+msgstr "Faction Holding Foundry"
+
+msgid "r_Faction Gate"
+msgstr "Faction Holding Gate"
+
+msgid "r_Faction General Store"
+msgstr "Faction Holding General Store"
+
+msgid "r_Faction Guardtower Alfar"
+msgstr "Faction Guardtower Alfar"
+
+msgid "r_Faction Guardtower Dwarf"
+msgstr "Faction Guardtower Dwarf"
+
+msgid "r_Faction Guardtower Human"
+msgstr "Faction Guardtower Human"
+
+msgid "r_Faction Guardtower Mahirim"
+msgstr "Faction Guardtower Mahirim"
+
+msgid "r_Faction Guardtower Mirdain"
+msgstr "Faction Guardtower Mirdain"
+
+msgid "r_Faction Guardtower Ork"
+msgstr "Faction Guardtower Ork"
+
+msgid "r_Faction Hamlet Guardtower Alfar"
+msgstr "Faction Hamlet Guardtower Alfar"
+
+msgid "r_Faction Hamlet Guardtower Dwarf"
+msgstr "Faction Hamlet Guardtower Dwarf"
+
+msgid "r_Faction Hamlet Guardtower Human"
+msgstr "Faction Hamlet Guardtower Human"
+
+msgid "r_Faction Hamlet Guardtower Mahirim"
+msgstr "Faction Hamlet Guardtower Mahirim"
+
+msgid "r_Faction Hamlet Guardtower Mirdain"
+msgstr "Faction Hamlet Guardtower Mirdain"
+
+msgid "r_Faction Hamlet Guardtower Ork"
+msgstr "Faction Hamlet Guardtower Ork"
+
+msgid "r_Faction Hamlet Guardtowers"
+msgstr "Faction Hamlet Guardtowers"
+
+msgid "r_Faction Harbor Base"
+msgstr "Faction Holding Harbor Base"
+
+msgid "r_Faction Harbor Base Rubble"
+msgstr "Faction Holding Harbor Rubble"
+
+msgid "r_Faction House Alfar_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Alfar_02"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Alfar_03"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Alfar_04"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Dwarf_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Human_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Human_02"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Human_03"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Human_04"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Human_05"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Mahirim_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Mirdain_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Mirdain_02"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Mirdain_03"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Mirdain_04"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Open Ork_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Ork_01"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Ork_02"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Ork_03"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Ork_04"
+msgstr "Faction Holding House"
+
+msgid "r_Faction House Ork_05"
+msgstr "Faction Holding House"
+
+msgid "r_Faction Keep Alfar"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Alfar u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Alfar u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Dwarf"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Dwarf u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Dwarf u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Human"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Human u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mahirim"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mahirim u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mahirim u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mirdain"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mirdain u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Mirdain u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Ork"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Ork u1"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep Ork u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keep human u2"
+msgstr "Faction Holding Keep"
+
+msgid "r_Faction Keeps"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Alfar"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Dwarf"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Human"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Mahirim"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Mirdain"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Keeps Ork"
+msgstr "Faction Holding Keeps"
+
+msgid "r_Faction Laboratory"
+msgstr "Faction Holding Laboratory"
+
+msgid "r_Faction Mages Guild Alfar"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Alfar u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Alfar u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Dwarf"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Dwarf u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Dwarf u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Human"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Human u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Human u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mahirim"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mahirim u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mahirim u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mirdain"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mirdain u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Mirdain u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Ork"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Ork u1"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Mages Guild Ork u2"
+msgstr "Faction Holding Mages Guild"
+
+msgid "r_Faction Obelisk Altar"
+msgstr "Faction Holding Obelisk Altar"
+
+msgid "r_Faction Oven"
+msgstr "Faction Holding Oven"
+
+msgid "r_Faction Palisade Tower_01"
+msgstr "Faction Palisade Tower"
+
+msgid "r_Faction Palisade Wall_01"
+msgstr "Faction Palisade"
+
+msgid "r_Faction Palisade Wall_02"
+msgstr "Faction Palisade"
+
+msgid "r_Faction Palisade Wall_03"
+msgstr "Faction Palisade"
+
+msgid "r_Faction Palisades"
+msgstr "Faction Holding Palisades"
+
+msgid "r_Faction Post Office"
+msgstr "Faction Holding Post Office"
+
+msgid "r_Faction Post Offices"
+msgstr "Faction Holding Post Offices"
+
+msgid "r_Faction Props"
+msgstr "Faction Holding Props"
+
+msgid "r_Faction Resource Spawns"
+msgstr "Faction Holding Resource Spawns"
+
+msgid "r_Faction Scaffhold_01"
+msgstr "Faction Holding Scaffhold"
+
+msgid "r_Faction Scaffhold_02"
+msgstr "Faction Holding Scaffhold"
+
+msgid "r_Faction Scaffhold_03"
+msgstr "Faction Holding Scaffhold"
+
+msgid "r_Faction Scaffhold_04"
+msgstr "Faction Holding Scaffhold"
+
+msgid "r_Faction Shipyard"
+msgstr "Faction Holding Shipyard"
+
+msgid "r_Faction Smelter"
+msgstr "Faction Holding Smelter"
+
+msgid "r_Faction Smithy"
+msgstr "Faction Holding Smithy"
+
+msgid "r_Faction Smithy u1"
+msgstr "Faction Holding Advanced Smithy"
+
+msgid "r_Faction Spawn Farm"
+msgstr "Faction Holding Farm"
+
+msgid "r_Faction Spawn Leenspar"
+msgstr "Faction Holding Grove Rank 4"
+
+msgid "r_Faction Spawn Metal_01"
+msgstr "Faction Holding Mine Rank 0"
+
+msgid "r_Faction Spawn Metal_02"
+msgstr "Faction Holding Mine Rank 1"
+
+msgid "r_Faction Spawn Metal_03"
+msgstr "Faction Holding Mine Rank 2"
+
+msgid "r_Faction Spawn Metal_04"
+msgstr "Faction Holding Mine Rank 3"
+
+msgid "r_Faction Spawn Metal_05"
+msgstr "Faction Holding Mine Rank 4"
+
+msgid "r_Faction Spawn Metal_06"
+msgstr "Faction Holding Mine Rank 5"
+
+msgid "r_Faction Spawn Neithal"
+msgstr "Faction Holding Grove Rank 3"
+
+msgid "r_Faction Spawn Selentine"
+msgstr "Faction Holding Grove Rank 1"
+
+msgid "r_Faction Spawn Stone"
+msgstr "Faction Holding Quarry"
+
+msgid "r_Faction Spawn Theyril"
+msgstr "Faction Holding Grove Rank 5"
+
+msgid "r_Faction Spawn Timber"
+msgstr "Faction Holding Grove Rank 0"
+
+msgid "r_Faction Spawn Veilron"
+msgstr "Faction Holding Grove Rank 2"
+
+msgid "r_Faction Station"
+msgstr "Faction Holding Station"
+
+msgid "r_Faction Stationary Guns"
+msgstr "Faction Stationary Guns"
+
+msgid "r_Faction Stations"
+msgstr "Faction Holding Stations"
+
+msgid "r_Faction Structures"
+msgstr "Faction Holding Structures"
+
+msgid "r_Faction Teleportation Chamber Entrance"
+msgstr "Faction Holding Teleportation Chamber Entrance"
+
+msgid "r_Faction Teleportation Chamber Entrance Building"
+msgstr "Faction Holding Teleportation Chamber Entrance Building"
+
+msgid "r_Faction Teleportation Chamber Entrance Building u1"
+msgstr "Faction Holding Teleportation Chamber Entrance Building"
+
+msgid "r_Faction Teleportation Chamber Entrance Building u2"
+msgstr "Faction Holding Teleportation Chamber Entrance Building"
+
+msgid "r_Faction Teleportation Chamber Entrance u1"
+msgstr "Faction Holding Teleportation Chamber Entrance"
+
+msgid "r_Faction Teleportation Chamber Entrance u2"
+msgstr "Faction Holding Teleportation Chamber Entrance"
+
+msgid "r_Faction Teleportation Chamber Entrances"
+msgstr "Faction Holding Teleportation Chamber Entrances"
+
+msgid "r_Faction Teleportation Chamber Exit"
+msgstr "Faction Holding Teleportation Chamber Exit"
+
+msgid "r_Faction Teleportation Chambers"
+msgstr "Faction Holding Teleportation Chambers"
+
+msgid "r_Faction Thaumaturgist"
+msgstr "Faction Holding Thaumaturgist"
+
+msgid "r_Faction Tower Cannon Alfar"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Flamethrower"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Alfar Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Flamethrower"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Dwarf Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Flamethrower"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Human Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Flamethrower"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mahirim Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Mirdain Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Acid"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Acid Base"
+msgstr "Faction Holding Acid Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Base"
+msgstr "Faction Holding Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Fireball"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Fireball Base"
+msgstr "Faction Holding Fireball Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Flamethrower"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Flamethrower Base"
+msgstr "Faction Holding Flamethrower Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Lightning"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Lightning Base"
+msgstr "Faction Holding Lightning Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Tower Cannon Ork Shrapnel Base"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction Wall Alfar_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Alfar_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Alfar_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Alfar_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Alfar_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Alfar_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Door Dwarf"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Door Ork"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Dwarf_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Dwarf_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Dwarf_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Dwarf_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Dwarf_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Entrance Alfar"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Alfar Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Alfar d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Alfar d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Door Alfar"
+msgstr "Faction Holding Wall Entrance Door"
+
+msgid "r_Faction Wall Entrance Door Human"
+msgstr "Faction Holding Wall Entrance Door"
+
+msgid "r_Faction Wall Entrance Door Mahirim"
+msgstr "Faction Holding Wall Entrance Door"
+
+msgid "r_Faction Wall Entrance Dwarf"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Dwarf Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Dwarf d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Dwarf d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Human"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Human Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Human d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Human d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mahirim"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mahirim Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Mahirim d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mahirim d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mirdain"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mirdain Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Mirdain d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Mirdain d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Ork"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Ork Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Entrance Ork d1"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Entrance Ork d2"
+msgstr "Faction Holding Wall Entrance"
+
+msgid "r_Faction Wall Human_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Human_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Human_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Human_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Human_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Human_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mahirim_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mahirim_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mahirim_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mahirim_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mahirim_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mirdain_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mirdain_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mirdain_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Mirdain_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Mirdain_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_01"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Ork_01 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_01 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_02"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Ork_02 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_02 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_03"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_03 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Ork_03 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_03 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_04"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_04 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Ork_04 d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Ork_04 d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Alfar"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Alfar Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Alfar d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Alfar d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Dwarf"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Dwarf Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Dwarf d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Dwarf d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Human"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Human Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Human d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Human d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mahirim"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mahirim Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Mahirim d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mahirim d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mirdain"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mirdain Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Mirdain d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Mirdain d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Ork"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Ork Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Seam Ork d1"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Seam Ork d2"
+msgstr "Faction Holding Wall"
+
+msgid "r_Faction Wall Tower Alfar_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Alfar_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Alfar_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Alfar_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Alfar_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Alfar_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Alfar_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Dwarf_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Dwarf_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Dwarf_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Human_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Human_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Human_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Mahirim_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Mahirim_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mahirim_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Mirdain_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Mirdain_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Mirdain_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_01"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_01 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Ork_01 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_01 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_02"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_02 Rubble"
+msgstr "Faction Holding Rubble"
+
+msgid "r_Faction Wall Tower Ork_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower Ork_02 d2"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Wall Tower alfar_02 d1"
+msgstr "Faction Holding Wall Tower"
+
+msgid "r_Faction Walls"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Alfar"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Dwarf"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Human"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Mahirim"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Mirdain"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Walls Ork"
+msgstr "Faction Holding Walls"
+
+msgid "r_Faction Workbench"
+msgstr "Faction Holding Workbench"
+
+msgid "r_Faction Workstations"
+msgstr "Faction Holding Workstations"
+
+msgid "r_Faction billboard"
+msgstr "Faction Holding Billboard"
+
+msgid "r_Faction market"
+msgstr "Faction Holding Market"
+
+msgid "r_Faction tower cannon Mahirim Shrapnel"
+msgstr "Faction Holding Shrapnel Cannon Tower"
+
+msgid "r_Faction tower cannon mirdain flamethrower"
+msgstr "Faction Holding flamethrower Cannon Tower"
+
+msgid "r_Factionstone City"
+msgstr "Faction City Stone"
+
+msgid "r_Factionstone Hamlet"
+msgstr "Faction Hamlet Stone"
+
 msgid "r_Farbow"
 msgstr "Farbow"
 
@@ -20472,19 +23366,22 @@ msgid "r_Greenleaf"
 msgstr "Greenleaf"
 
 msgid "r_Grenade_01"
-msgstr "Grenade_01"
+msgstr "Light Battlespike"
 
 msgid "r_Grenade_02"
-msgstr "Grenade_02"
+msgstr "Battlespike"
 
 msgid "r_Grenade_03"
-msgstr "Grenade_03"
+msgstr "Heavy Battlespike"
 
 msgid "r_Grenade_04"
 msgstr "Grenade_04"
 
 msgid "r_Grenade_05"
-msgstr "Grenade_05"
+msgstr "Light Concussion Grenade"
+
+msgid "r_Grenade_Faction"
+msgstr "Infused Battlespike"
 
 msgid "r_Grenades"
 msgstr "Grenades"
@@ -21779,6 +24676,12 @@ msgstr "Marker Deliver"
 msgid "r_Marker Enchantment Station"
 msgstr "Marker Enchantment Station"
 
+msgid "r_Marker Faction Player City"
+msgstr "Marker Faction Player City"
+
+msgid "r_Marker Faction Player Hamlet"
+msgstr "Marker Faction Player Hamlet"
+
 msgid "r_Marker Foundry"
 msgstr "Marker Foundry"
 
@@ -21871,6 +24774,9 @@ msgstr "Marker Vendor"
 
 msgid "r_Marker Workbench"
 msgstr "Marker Workbench"
+
+msgid "r_Markers Faction Player City"
+msgstr "Markers Faction Player City"
 
 msgid "r_Markers Npc City"
 msgstr "Markers Npc City"

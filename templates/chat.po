@@ -5,8 +5,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "CANNOT_MERGE_LAWFUL_AND_LAWLESS_PARTIES"
+msgstr "^Cred^Merges between lawful and lawless parties are not allowed."
+
+msgid "LAWFUL_PLAYER_IN_LAWLESS_PARTY"
+msgstr "^Cred^You left your lawless party because you are lawful."
+
+msgid "LAWLESS_PLAYER_IN_LAWFUL_PARTY"
+msgstr "^Cred^You left your lawful party because you are lawless."
+
 msgid "NOTIFICATION_ACCEPTED_ANOTHER_INVITATION"
 msgstr "%1 accepted another party invitation."
+
+msgid "NOTIFICATION_ACCESS_DENIED_INSUFFICIENT_ALIGNMENT"
+msgstr ""
+"^Cred^Access denied!^N^ You cannot do this unless you have at least %1 "
+"alignment."
+
+msgid "NOTIFICATION_ACCESS_DENIED_NOT_RACE_ALLIANCE_MEMBER_OR_ROGUE"
+msgstr ""
+"^Cred^Access denied!^N^ You do not belong to the race alliance of %1 or are "
+"temporarily rogue."
 
 msgid "NOTIFICATION_ADDITIONAL_BANK_SPACE_ADD_FAIL"
 msgstr "Something went wrong and you were unable to add additional bank space!"
@@ -5241,6 +5260,123 @@ msgstr "Can people stop feeding the trolls please!"
 msgid "NOTIFICATION_AI_TALK_IDLE_r_ciel feys_9"
 msgstr "We are blessed to live here among the trees."
 
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_0"
+msgstr "Mind the ropes there."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_1"
+msgstr "That crate's bound for the mainland."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_2"
+msgstr "Another ship in on the morning tide."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_3"
+msgstr "Careful, that cargo's heavier than it looks."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_4"
+msgstr "Break your back for a copper, that's the docks."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle dockworker_5"
+msgstr "Ship won't load itself."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_0"
+msgstr "Tide's turning early today."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_1"
+msgstr "Good haul off the point this morning."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_2"
+msgstr "Deep water's no place for a green hand."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_3"
+msgstr "Nets run heavy when the shoals are in."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_4"
+msgstr "Storm's coming, I smell it on the wind."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle fisherman_5"
+msgstr "Fish bite best at the grey hour."
+
+# Cradle ambient citizen barks (#301)
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_0"
+msgstr "Fair morning to you."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_1"
+msgstr "Welcome to Dawnshore, stranger."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_2"
+msgstr "The Cradle's a fine place to find your feet."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_3"
+msgstr "Cold wind off the sea today."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_4"
+msgstr "Heard the market's short on salt again."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_cradle villager_5"
+msgstr "Mind the roads after dark."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes beasthandler_0"
+msgstr "A garmir will carry you or eat you - depends on the day."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes beasthandler_1"
+msgstr "Feed the beasts before they feed on you."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes beasthandler_2"
+msgstr "Break a mount young, or it breaks you old."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes beasthandler_3"
+msgstr "My scars are from teeth, not blades. I'm prouder of them."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes beasthandler_4"
+msgstr "A warrior on foot is meat. Mount up."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes bonecarver_0"
+msgstr "Every bone tells how a thing died. I read them."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes bonecarver_1"
+msgstr "Bring me the enemy's jaw and I'll make it sing on a warrior's belt."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes bonecarver_2"
+msgstr "Marrow for glue, bone for charms - nothing is wasted."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes bonecarver_3"
+msgstr ""
+"I carved the chief's totem from a giant's thighbone. He wears it still."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes bonecarver_4"
+msgstr "Flesh rots. Bone remembers."
+
+# Emberwastes ork citizen barks
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes smith_0"
+msgstr "The forge eats coal and spits blades. Feed it."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes smith_1"
+msgstr "Dull steel is a dead ork. Bring me your notched edges."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes smith_2"
+msgstr "Heat, hammer, fold - a blade is patience with a temper."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes smith_3"
+msgstr "Iron does not lie. It breaks or it holds."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes smith_4"
+msgstr "Every blade in this camp passed my anvil. Remember that."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes thrall_0"
+msgstr "Pot's always boiling, back's always bent. Such is the thrall's lot."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes thrall_1"
+msgstr "I was taken in a raid three winters gone. Now I stir the pot."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes thrall_2"
+msgstr "The chiefs feast, the warriors gorge, and I scrape the char."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes thrall_3"
+msgstr "Work, or the lash. That's the whole of it here."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_emberwastes thrall_4"
+msgstr "Grumble quiet - ears are everywhere in this camp."
+
 msgid "NOTIFICATION_AI_TALK_IDLE_r_forest prophets_0"
 msgstr "I walk in the forests is always pleasing."
 
@@ -5291,6 +5427,79 @@ msgstr "Its so calm and peaceful here. I might take a nap."
 
 msgid "NOTIFICATION_AI_TALK_IDLE_r_forest prophets_9"
 msgstr "Death, to the defilers of the lands."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_0"
+msgstr "Ale's on, if you've the coin."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_1"
+msgstr "Nothing warms the bones like a dark brew."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_2"
+msgstr "Barley's dear this far north, but worth it."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_3"
+msgstr "Drink up, the cold won't wait."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_4"
+msgstr "Best hall on the mountain, if I say so myself."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld brewer_5"
+msgstr "One more and you'll forget the frost."
+
+# Frostheld dwarf citizen barks
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_0"
+msgstr "Good vein in the deep cut today."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_1"
+msgstr "Ore doesn't hew itself."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_2"
+msgstr "Mind the low tunnels, tall one."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_3"
+msgstr "The rock sings when it's ready to break."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_4"
+msgstr "Cold up here, warmer down below."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld miner_5"
+msgstr "Found silver last week. Don't tell the assessor."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_0"
+msgstr "Forge is hot, mind yourself."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_1"
+msgstr "Good steel takes good time."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_2"
+msgstr "That blade'll hold, I stake my beard on it."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_3"
+msgstr "Nothing beats a dwarf-made edge."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_4"
+msgstr "Bellows and hammer, dawn to dusk."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld smith_5"
+msgstr "Bring me ore, I'll bring you a weapon."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_0"
+msgstr "Every stone here I set myself."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_1"
+msgstr "These walls'll outlast us all."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_2"
+msgstr "Straight lines and true joints, that's the craft."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_3"
+msgstr "Frost cracks soft stone. Not ours."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_4"
+msgstr "A dwarf builds for a hundred winters."
+
+msgid "NOTIFICATION_AI_TALK_IDLE_r_frostheld stonemason_5"
+msgstr "Mind the fresh mortar there."
 
 msgid "NOTIFICATION_AI_TALK_IDLE_r_goblins_0"
 msgstr "I need to get myself some new armor. And a hat too."
@@ -6650,6 +6859,15 @@ msgid "NOTIFICATION_BINDSTONE_CLAN_UNAVAILABLE"
 msgstr ""
 "You are not allowed to bind to the Clan City Bindstone of %1 because %2."
 
+msgid "NOTIFICATION_BINDSTONE_FACTIONSTONE_UNAVAILABLE"
+msgstr "You are not allowed to bind to the Faction Stone of %1 because %2."
+
+msgid "NOTIFICATION_BINDSTONE_FACTION_BOUND"
+msgstr "You are now bound to the Faction Stone of %1."
+
+msgid "NOTIFICATION_BINDSTONE_FACTION_LOST"
+msgstr "You lost access to the Faction Stone of %1 because %3."
+
 msgid "NOTIFICATION_BINDSTONE_GREATER_BOUND"
 msgstr "You are now bound to the Greater City Bindstone of %1."
 
@@ -6811,6 +7029,18 @@ msgstr "The %1 is empty"
 
 msgid "NOTIFICATION_CHEST_KEY_NOT_FOUND"
 msgstr "You need %1 to open %2"
+
+msgid "NOTIFICATION_CITY_BUFF_ACTIVATED"
+msgstr "^Cgreen^Holding buff activated!"
+
+msgid "NOTIFICATION_CITY_BUFF_NOTHING_TO_ACTIVATE"
+msgstr "^Cred^No selected buff can be activated right now!"
+
+msgid "NOTIFICATION_CITY_BUFF_NOT_ENOUGH_PLATINUM"
+msgstr "^Cred^The clan vault does not hold enough platinum!"
+
+msgid "NOTIFICATION_CITY_BUFF_NO_PERMISSION"
+msgstr "^Cred^You do not have clan vault rights to activate holding buffs!"
 
 msgid "NOTIFICATION_CITY_BUILDING_ADD_ADD_ON_ALREADY_PRESENT"
 msgstr "This structure already has an add on upgrade!"
@@ -7293,11 +7523,10 @@ msgstr "A Warhulk has been spotted in our city of %1."
 
 msgid "NOTIFICATION_CLAN_CITY_USE_STRUCTURE_ACCESS_DENIED"
 msgstr ""
-"^Cred^Access Denied! ^Cwhite^You are not allowed to access this clan "
-"structure!"
+"^Cred^Access Denied! ^Cwhite^You are not allowed to access this structure!"
 
 msgid "NOTIFICATION_CLAN_CITY_USE_STRUCTURE_DISABLED"
-msgstr "^Cred^Access Denied! ^Cwhite^Clan structure is disabled!"
+msgstr "^Cred^Access Denied! ^Cwhite^Structure is disabled!"
 
 msgid "NOTIFICATION_CLAN_CITY_VULNERABLE_ATTACKER"
 msgstr "%1 is now vulnerable! Attack it!"
@@ -7373,10 +7602,10 @@ msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ACCEPTED"
 msgstr "%1 is now a proud member of our clan."
 
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ALIGNMENT_TOO_HIGH"
-msgstr "%1's alignment is too high to be invited in your clan."
+msgstr "%1 is lawful and therefore cannot join your clan."
 
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ALIGNMENT_TOO_LOW"
-msgstr "%1's alignment is too low to be invited in your clan."
+msgstr "%1 is lawless and therefore cannot join your clan."
 
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ALREADY_INVITED"
 msgstr "%1 has currently a pending invitation to our clan."
@@ -8231,7 +8460,7 @@ msgid "NOTIFICATION_CONSTRAINT_CRAFTING_INGREDIENT_NOT_FOUND"
 msgstr "Could not find one or more ingredients for crafting the resource."
 
 msgid "NOTIFICATION_CONSTRAINT_CRAFTING_INVALID_NO_MASTERY_IN_THIS_TILE"
-msgstr "Mastery items cannot be crafted in capital NPC cities."
+msgstr "Mastery items cannot be crafted here."
 
 msgid "NOTIFICATION_CONSTRAINT_CRAFTING_INVALID_PLAYER"
 msgstr "You're not a %1 which is required for crafting the resource."
@@ -8241,6 +8470,9 @@ msgstr "You're missing skill %1 with minimum level %2."
 
 msgid "NOTIFICATION_CONSTRAINT_CRAFTING_INVALID_TRIAL_ACCOUNT"
 msgstr "Mastery items cannot be crafted on non-premium account"
+
+msgid "NOTIFICATION_CONSTRAINT_CRAFTING_RECIPE_LOCKED"
+msgstr "You have not unlocked the recipe for %1."
 
 msgid "NOTIFICATION_CONSTRAINT_CRAFTING_RECIPE_NOT_FOUND"
 msgstr "Could not find a recipe for crafting the resource."
@@ -8582,6 +8814,78 @@ msgstr "Your %1 was removed (TIMEOUT)."
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TOO_MANY_OBJECTS_PLACED_BY_PLAYER"
 msgstr "You cannot have more than %1 %2 placed in the world."
 
+msgid "NOTIFICATION_DUEL_ACCEPTED_ANOTHER_INVITE"
+msgstr "%1 accepted somebody else's duel invitation."
+
+msgid "NOTIFICATION_DUEL_ACCEPTED_YOUR_INVITE"
+msgstr "%1 accepted your duel invitation."
+
+msgid "NOTIFICATION_DUEL_ALREADY_CREATING"
+msgstr "Duel creation already in progress."
+
+msgid "NOTIFICATION_DUEL_ALREADY_IN_DUEL"
+msgstr "Cannot create duel, already in one."
+
+msgid "NOTIFICATION_DUEL_A_TEAM_WON"
+msgstr "%1 has won the duel!"
+
+msgid "NOTIFICATION_DUEL_INVITATION"
+msgstr "%1 has invited you to a duel."
+
+msgid "NOTIFICATION_DUEL_INVITE_ALREADY_IN_ANOTHER_DUEL"
+msgstr "%1 is already in another duel."
+
+msgid "NOTIFICATION_DUEL_INVITE_ALREADY_IN_SAME_DUEL"
+msgstr "%1 is already a member of this duel."
+
+msgid "NOTIFICATION_DUEL_INVITE_CANNOT_ACCEPT_AT_THIS_TIME"
+msgstr "%1 cannot accept a duel invitation at this time."
+
+msgid "NOTIFICATION_DUEL_INVITE_CANNOT_INVITE_YOURSELF"
+msgstr "Cannot invite yourself to a duel. DUH!"
+
+msgid "NOTIFICATION_DUEL_INVITE_COULD_NOT_FIND_PLAYER"
+msgstr "Failed to invite %1 to duel. No player found with that name."
+
+msgid "NOTIFICATION_DUEL_INVITE_DECLINED"
+msgstr "%1 declined your duel invitation."
+
+msgid "NOTIFICATION_DUEL_INVITE_JOINED_DIFFERENT_DUEL"
+msgstr "%1 accepted an invitation to a different duel."
+
+msgid "NOTIFICATION_DUEL_INVITE_NO_RESPONSE"
+msgstr "%1 did not respond to your duel invitation."
+
+msgid "NOTIFICATION_DUEL_INVITE_PLAYER_ADDED_YOU_TO_IGNORE_LIST"
+msgstr "%1 added you to their ignore list."
+
+msgid "NOTIFICATION_DUEL_INVITE_PLAYER_NOT_LOGGED_IN"
+msgstr "%1 is not logged in."
+
+msgid "NOTIFICATION_DUEL_INVITE_YOU_ARE_IN_IGNORE_LIST"
+msgstr "%1 has you in their ignore list."
+
+msgid "NOTIFICATION_DUEL_PLAYER_ABANDONED"
+msgstr "%1 has abandoned the duel!"
+
+msgid "NOTIFICATION_DUEL_PLAYER_DEFEATED_OTHER_PLAYER"
+msgstr "%1 took %2 out of the duel!"
+
+msgid "NOTIFICATION_DUEL_PLAYER_DEFEATED_THEMSELVES"
+msgstr "%1 took themselves out of the duel!"
+
+msgid "NOTIFICATION_DUEL_PLAYER_SURRENDERED"
+msgstr "%1 has surrendered and is out of the duel!"
+
+msgid "NOTIFICATION_DUEL_UNKNOWN_ERROR"
+msgstr "Unknown duel error."
+
+msgid "NOTIFICATION_DUEL_YOUR_TEAM_LOST"
+msgstr "You have lost the duel!"
+
+msgid "NOTIFICATION_DUEL_YOUR_TEAM_WON"
+msgstr "You have won the duel!"
+
 msgid "NOTIFICATION_EVENT_ALIGNMENT_EVIL_CHANGE"
 msgstr "You have become ^Cred^Evil!^N^"
 
@@ -8667,6 +8971,12 @@ msgid "NOTIFICATION_EVENT_DAMAGE_PRODUCED_TO_CLANSTONE_HAMLET"
 msgstr "You damaged %1 for %2 points of %3 (%4)"
 
 msgid "NOTIFICATION_EVENT_DAMAGE_PRODUCED_TO_CLAN_STRUCTURE"
+msgstr "You damaged %1 for %2 points of %3 (%4)"
+
+msgid "NOTIFICATION_EVENT_DAMAGE_PRODUCED_TO_FACTIONSTONE_CITY"
+msgstr "You damaged %1 for %2 points of %3 (%4)"
+
+msgid "NOTIFICATION_EVENT_DAMAGE_PRODUCED_TO_FACTIONSTONE_HAMLET"
 msgstr "You damaged %1 for %2 points of %3 (%4)"
 
 msgid "NOTIFICATION_EVENT_DAMAGE_PRODUCED_TO_MONSTER"
@@ -8875,7 +9185,7 @@ msgid "NOTIFICATION_FOUND_ITEM"
 msgstr "You found %1!"
 
 msgid "NOTIFICATION_FREE_CAPITAL_RECALL_REMAINING"
-msgstr "You have %1 free Capital Recalls remaining"
+msgstr "You have %1 free Faction Capital Recalls remaining"
 
 msgid "NOTIFICATION_GENERIC"
 msgstr "%1"
@@ -8936,6 +9246,15 @@ msgstr "%2"
 
 msgid "NOTIFICATION_GM_PERSONAL_POPUP"
 msgstr "%2"
+
+msgid "NOTIFICATION_GM_RECIPE_LOCKED"
+msgstr "Locked the recipe for %1."
+
+msgid "NOTIFICATION_GM_RECIPE_NOT_FOUND"
+msgstr "No recipe found for '%1'."
+
+msgid "NOTIFICATION_GM_RECIPE_UNLOCKED"
+msgstr "Unlocked the recipe for %1."
 
 msgid "NOTIFICATION_HOUSE_ALREADY_A_TENANT"
 msgstr "You are already a tenant in this house."
@@ -10438,6 +10757,9 @@ msgstr ""
 "You can not initiate a challenge because the Clan owning the City is already "
 "in a challenge."
 
+msgid "NOTIFICATION_PLAYER_CONQUEST_PLAYER_CANNOT_USE_PROTECTION_SHARDS_ON_FACTION_CITIES"
+msgstr "Protection shards cannot be used on faction holdings."
+
 msgid "NOTIFICATION_PLAYER_CONQUEST_PLAYER_NOT_CLAN_MEMBER"
 msgstr ""
 "You can not initiate a city conquest challenge because you are not a member "
@@ -10936,6 +11258,23 @@ msgstr "Too close to another object to place this vendor cart."
 msgid "NOTIFICATION_PLAY_MONSTER_NOT_ALLOWED_DUE_A_PARTY"
 msgstr "^Cred^You can not play as a monster while you are in a party."
 
+msgid "NOTIFICATION_PRAYING_ERROR_NO_NEED_TO_PRAY"
+msgstr "You do not need to pray."
+
+msgid "NOTIFICATION_PVP_FLAG_ERROR_CHURCH_REQUIRED"
+msgstr ""
+"To change back to lawful you must pray at a church or other appointed "
+"location."
+
+msgid "NOTIFICATION_PVP_FLAG_ERROR_IN_CLAN"
+msgstr "You cannot change alignment stance while in a clan."
+
+msgid "NOTIFICATION_PVP_FLAG_ERROR_IN_COMBAT"
+msgstr "You cannot change alignment stance while in combat."
+
+msgid "NOTIFICATION_PVP_FLAG_ERROR_SAME_VALUE"
+msgstr "You are already on this alignment stance."
+
 msgid "NOTIFICATION_QUEST_TAB_COMPLEX_QUESTS_UNLOCKED"
 msgstr ""
 "^Cacid^Congratulations! You have unlocked a new quest.Talk to ^Cyellow^%1 "
@@ -11104,6 +11443,29 @@ msgstr ""
 "Councillor, and interact using the use button (F key). Select the quest tab, "
 "and see what tasks the Councillor might have for you. To accept the quest, "
 "hit the accept button."
+
+msgid "NOTIFICATION_RACE_ALLIANCE_CITY_CONQUERED"
+msgstr "Our race alliance now owns %1!"
+
+msgid "NOTIFICATION_RACE_ALLIANCE_CITY_LOST"
+msgstr "Our race alliance has lost %1!"
+
+msgid "NOTIFICATION_RACE_ALLIANCE_CITY_MODIFY_ADD_ADDON_INSUFFICIENT_ALIGNMENT"
+msgstr "You do not have enough alignment to perform this operation."
+
+msgid "NOTIFICATION_RACE_ALLIANCE_CITY_MODIFY_NOT_RACE_ALLIANCE_MEMBER"
+msgstr ""
+"You cannot do this because you do not belong to the owning race alliance or "
+"are temporarily rogue."
+
+msgid "NOTIFICATION_RACE_ALLIANCE_CITY_NEW_OWNER_GLOBAL"
+msgstr "The race alliance %1 are the proud new owners of %2."
+
+msgid "NOTIFICATION_RACE_ALLIANCE_PLAYER_JOINED"
+msgstr "^Ccyan^%1^N^ is now part of our race alliance!"
+
+msgid "NOTIFICATION_RACE_ALLIANCE_PLAYER_LEFT"
+msgstr "Beware! ^Cred^%1^N^ is now an enemy of this race alliance!"
 
 msgid "NOTIFICATION_RED_ENTERING_LAW_LESS_AREA_WARNING"
 msgstr "^Cyellow^Attention! ^Cwhite^You are entering a lawless area!"
@@ -11975,6 +12337,9 @@ msgstr "All your requests are being ignored by  ^Cred^%1."
 msgid "NOTIFICATION_YOU_ARE_NOT_A_MEMBER_IN_A_PARTY"
 msgstr "You are not a member in a party."
 
+msgid "NOTIFICATION_YOU_CANNOT_REPAIR_THIS_FACTION_STRUCTURE"
+msgstr "Only lawful members of the owning faction can repair this structure."
+
 msgid "NOTIFICATION_YOU_CAN_NOT_OFFER_QUEST_TO_SELF"
 msgstr "You can not offer %1 quest to yourself."
 
@@ -11983,3 +12348,64 @@ msgstr "You do not have any active quests to offer."
 
 msgid "NOTIFICATION_YOU_HAVE_ALREADY_A_PENDING_OFFER"
 msgstr "You have already a pending offer."
+
+msgid "PLAYER_IS_ENEMY_CANNOT_JOIN_LAWFUL_PARTY"
+msgstr ""
+"^Cred^Player belongs to an enemy faction and cannot join this lawful party."
+
+msgid "PLAYER_IS_LAWFUL_CANNOT_JOIN_LAWLESS_PARTY"
+msgstr "^Cred^Player is lawful and cannot join lawless parties."
+
+msgid "PLAYER_IS_OUTLAW_CANNOT_JOIN_LAWFUL_PARTY"
+msgstr "^Cred^Player is lawless and cannot join lawful parties."
+
+msgid "RACE_ALLIANCE_CITY_ENEMY_BIND_STONE_INVULNERABLE"
+msgstr "The enemy bind stone at %1 is now invulnerable!"
+
+msgid "RACE_ALLIANCE_CITY_ENEMY_BIND_STONE_VULNERABLE"
+msgstr "The enemy bind stone of %1 is vulnerable!"
+
+msgid "RACE_ALLIANCE_CITY_GUARD_TOWER_DISABLED"
+msgstr ""
+"A tower protecting the bind stone at %1 has been ^Cred^disabled^N^! %2 out "
+"of %3 remaining"
+
+msgid "RACE_ALLIANCE_CITY_GUARD_TOWER_ENABLED"
+msgstr "A tower has been enabled at %1! %2 out of %3 enabled"
+
+msgid "RACE_ALLIANCE_CITY_OWN_BIND_STONE_INVULNERABLE"
+msgstr "Our bind stone at %1 is now invulnerable!"
+
+msgid "RACE_ALLIANCE_CITY_OWN_BIND_STONE_VULNERABLE"
+msgstr ""
+"Our bind stone at %1 is vulnerable! Defend it or the city will be lost!"
+
+msgid "RACE_ALLIANCE_CITY_OWN_GUARD_TOWER_DAMAGED_BELOW_THRESHOLD"
+msgstr "A guard tower at %1 is under attack and has fallen below %2% health!"
+
+msgid "RACE_ALLIANCE_CITY_VULNERABILITY_COUNTDOWN_STARTED"
+msgstr "The bind stone at %1 will become vulnerable in %2!"
+
+msgid "RACE_ALLIANCE_NEUTRAL_CITIES_CANNOT_BE_CAPTURED_BY_CLANS"
+msgstr "This is a race alliance holding and cannot be captured by a clan."
+
+msgid "RACE_ALLIANCE_OWNED_CITIES_CANNOT_BE_SIEGED_BY_CLANS"
+msgstr "This is a race alliance holding and cannot be sieged by a clan."
+
+msgid "RACE_CHANGE_ERROR_CLAN_RACE_CONFLICT"
+msgstr "Your clan does not accept players of the requested race."
+
+msgid "RACE_CHANGE_ERROR_ERROR_REMOVING_ITEM"
+msgstr "Item could not be removed from inventory."
+
+msgid "RACE_CHANGE_ERROR_INVALID_GENDER_TYPE"
+msgstr "Invalid gender type"
+
+msgid "RACE_CHANGE_ERROR_INVALID_RACE_TYPE"
+msgstr "Invalid race type"
+
+msgid "RACE_CHANGE_ERROR_NO_CHANGE"
+msgstr "You picked the same race and gender! Try a new combination."
+
+msgid "component_crafting_error_no_mastery_crafting_allowed_here"
+msgstr "You cannot craft mastery items here."

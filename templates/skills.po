@@ -470,8 +470,8 @@ msgstr "Description of s_Camp 01"
 
 msgid "desc_s_Capital Recall"
 msgstr ""
-"Press Action button to teleport to your racial capital city. Cooldown will "
-"vary depending on your alignment."
+"Press Action button to teleport to your faction's capital city. Cooldown "
+"will vary depending on your alignment."
 
 msgid "desc_s_Clear Thoughts"
 msgstr "Grants an Intelligence bonus to the caster."
@@ -3600,7 +3600,7 @@ msgid "s_Camp_1"
 msgstr "Camp_1"
 
 msgid "s_Capital Recall"
-msgstr "Capital Recall"
+msgstr "Faction Capitall Recall"
 
 msgid "s_Clear Thoughts"
 msgstr "Clear Thoughts"
