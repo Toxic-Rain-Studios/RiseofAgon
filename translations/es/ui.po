@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-16 09:31+0000\n"
+"PO-Revision-Date: 2026-08-13 20:11+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -1413,6 +1413,7 @@ msgstr "Alineación del Clan:"
 msgid "clan_window_general_allow"
 msgstr "Permitir"
 
+#, fuzzy
 msgid "clan_window_general_allowed_alignment"
 msgstr "Alineación Permitida"
 
@@ -3236,6 +3237,7 @@ msgstr "Botín Común"
 msgid "map_marker_monster_spawn"
 msgstr "Generación de Monstruo"
 
+#, fuzzy
 msgid "map_marker_npc_city"
 msgstr "Ciudades de Facción"
 
@@ -4272,6 +4274,7 @@ msgstr "Reducción de la calidad de animación por metro."
 msgid "options_video_animation_reduction_start"
 msgstr "Distancia mínima para comenzar la reducción de calidad de animación."
 
+#, fuzzy
 msgid "options_video_antialiasing_quality"
 msgstr "Calidad de Antialias: %1"
 
