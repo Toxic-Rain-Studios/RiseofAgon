@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-25 19:13+0000\n"
+"PO-Revision-Date: 2026-08-13 20:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
@@ -6083,6 +6083,7 @@ msgstr "因为%2您不允许绑定到初级绑定石%1."
 msgid "NOTIFICATION_BINDSTONE_SIEGESTONE_UNAVAILABLE"
 msgstr "因为%2您不允许绑定到攻城石%1."
 
+#, fuzzy
 msgid "NOTIFICATION_FREE_CAPITAL_RECALL_REMAINING"
 msgstr "您还有%1免费的主城召唤机会"
 
@@ -9513,9 +9514,11 @@ msgstr "您没有邀请公会中玩家所需的等级."
 msgid "NOTIFICATION_CLAN_INVITATION_CLAN_CLOSED"
 msgstr "此时此刻,您的公会不接受新成员."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ALIGNMENT_TOO_HIGH"
 msgstr "%1的正义值太高,不能被邀请到你的公会."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ALIGNMENT_TOO_LOW"
 msgstr "%1的正义值太低,无法被邀请参加你的公会."
 
@@ -10863,9 +10866,11 @@ msgstr "这个方尖碑已经受到挑战了!"
 msgid "NOTIFICATION_CONSTRAINT_CARRYING_OBELISK"
 msgstr "携带方尖碑时不能执行此操作."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_USE_STRUCTURE_ACCESS_DENIED"
 msgstr "^Cred^拒绝访问! ^Cwhite^你不能进入这个公会建筑!"
 
+#, fuzzy
 msgid "NOTIFICATION_CONSTRAINT_CRAFTING_INVALID_NO_MASTERY_IN_THIS_TILE"
 msgstr "高级物品不能在主城制作."
 
@@ -10884,6 +10889,7 @@ msgstr "你因为%1不能喝."
 msgid "NOTIFICATION_RESEARCH_ITEM_NOT_CRAFTED"
 msgstr "这个物品%1不能被研究,因为它是一个雕像,消耗品或者不是由玩家制作的!"
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_CITY_USE_STRUCTURE_DISABLED"
 msgstr "^Cred^拒绝访问! ^Cwhite^公会结构已被禁用!"
 

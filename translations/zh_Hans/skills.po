@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-15 17:06+0000\n"
+"PO-Revision-Date: 2026-08-13 20:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/skills/zh_Hans/>\n"
@@ -948,9 +948,11 @@ msgstr "召唤坐骑"
 msgid "desc_s_Summon Mount"
 msgstr "激活你的召唤雕像必须要放置在你的角色栏里."
 
+#, fuzzy
 msgid "s_Capital Recall"
 msgstr "主城召回"
 
+#, fuzzy
 msgid "desc_s_Capital Recall"
 msgstr "按下鼠标左键传送到你的种族主城城市.冷却时间取决于你的正义值."
 

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-16 09:31+0000\n"
+"PO-Revision-Date: 2026-08-13 20:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -974,6 +974,7 @@ msgstr "等待监视器上的垂直同步."
 msgid "options_video_enable_antialiasing"
 msgstr "启用反混叠."
 
+#, fuzzy
 msgid "options_video_antialiasing_quality"
 msgstr "反混叠质量:%1"
 
@@ -2598,6 +2599,7 @@ msgstr "冠军"
 msgid "clan_window_vault_inventory_type_names_singular_fortress"
 msgstr "堡垒"
 
+#, fuzzy
 msgid "clan_window_general_allowed_alignment"
 msgstr "允许正义值"
 
@@ -4180,6 +4182,7 @@ msgstr "公会正义值:"
 msgid "paperdoll_label_weapon_bar"
 msgstr "武器绑定"
 
+#, fuzzy
 msgid "map_marker_npc_city"
 msgstr "任务派系城市"
 
