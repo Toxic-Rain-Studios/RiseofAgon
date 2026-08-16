@@ -7113,6 +7113,9 @@ msgstr "%2 %1 is now offline."
 msgid "NOTIFICATION_CLANMEMBER_ONLINE"
 msgstr "%2 %1 is now online."
 
+msgid "NOTIFICATION_CLANTASK_COMPLETED"
+msgstr "^Cgreen^Clan task completed: %1 slain!"
+
 msgid "NOTIFICATION_CLAN_BANK_POLICY_CHANGED"
 msgstr "%1 %2 has changed our city bank policy to '%3'."
 
@@ -9609,6 +9612,16 @@ msgstr "You won %1 %2! Congratulations!"
 
 msgid "NOTIFICATION_LOTTERY_SMALL"
 msgstr "You won %1 %2... Don't spend it all in one place!"
+
+msgid "NOTIFICATION_MAINTENANCE_AUTOPAY_FAILED"
+msgstr ""
+"^Cred^Auto-pay failed: not enough Maintenance Points for holding maintenance!"
+
+msgid "NOTIFICATION_MAINTENANCE_NOT_ENOUGH_POINTS"
+msgstr "^Cred^Not enough Maintenance Points to pay holding maintenance!"
+
+msgid "NOTIFICATION_MAINTENANCE_PAID_POINTS"
+msgstr "^Cgreen^Holding maintenance paid with Maintenance Points."
 
 msgid "NOTIFICATION_MARKET"
 msgstr "Market: %1"

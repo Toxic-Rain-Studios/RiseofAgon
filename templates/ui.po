@@ -4683,6 +4683,83 @@ msgstr "Vital Stats"
 msgid "mainmenu_worldmap"
 msgstr "Worldmap"
 
+msgid "maint_autopay_off"
+msgstr "Auto-pay OFF"
+
+msgid "maint_autopay_on"
+msgstr "Auto-pay ON"
+
+msgid "maint_col_actions"
+msgstr "Actions"
+
+msgid "maint_col_due"
+msgstr "Next Due"
+
+msgid "maint_col_holding"
+msgstr "Holding"
+
+msgid "maint_col_status"
+msgstr "Status"
+
+msgid "maint_col_type"
+msgstr "Type"
+
+msgid "maint_col_upkeep"
+msgstr "Upkeep / Week"
+
+msgid "maint_due_now"
+msgstr "Due now"
+
+msgid "maint_info_footer"
+msgstr ""
+"Auto-pay settles upkeep automatically when a holding enters its final day - "
+"the clan is warned if points run short. Earn points from the Clan Tasks page "
+"in your Task Journal."
+
+msgid "maint_no_holdings"
+msgstr "Your clan owns no holdings."
+
+msgid "maint_pay"
+msgstr "Pay Upkeep"
+
+msgid "maint_pay_all"
+msgstr "Pay All Due: %1"
+
+msgid "maint_pay_all_hint"
+msgstr "Pays every holding currently inside its final day."
+
+msgid "maint_points_balance"
+msgstr "Maintenance Points: %1"
+
+msgid "maint_points_caption"
+msgstr "earned from clan tasks"
+
+msgid "maint_rights_hint"
+msgstr "Paying requires clan vault (take) rights."
+
+msgid "maint_status_due_soon"
+msgstr "DUE SOON"
+
+msgid "maint_status_paid"
+msgstr "Paid"
+
+msgid "maint_subtitle"
+msgstr ""
+"Holdings require weekly upkeep. Pay on time to keep control - an unpaid "
+"holding falls neutral and is razed."
+
+msgid "maint_type_city"
+msgstr "City"
+
+msgid "maint_type_hamlet"
+msgstr "Hamlet"
+
+msgid "maint_upkeep_cost"
+msgstr "%1"
+
+msgid "maint_window_title"
+msgstr "Holding Maintenance"
+
 msgid "mana"
 msgstr "Mana"
 
