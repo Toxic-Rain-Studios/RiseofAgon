@@ -2134,6 +2134,67 @@ msgstr "Vault"
 msgid "clans_window_title"
 msgstr "Clans"
 
+msgid "clantask_completed"
+msgstr "Completed"
+
+msgid "clantask_footer_daily_reset"
+msgstr "Daily tasks reset in:  %1"
+
+msgid "clantask_footer_info"
+msgstr ""
+"Kills by any clan member count toward these tasks. Maintenance Points pay "
+"your clan's holding upkeep; Platinum is deposited to the clan vault."
+
+msgid "clantask_footer_weekly_reset"
+msgstr "Weekly tasks reset in:  %1"
+
+msgid "clantask_journal_empty"
+msgstr ""
+"No clan task board available. Join a clan to receive clan tasks and start "
+"earning Maintenance Points."
+
+msgid "clantask_no_task"
+msgstr "No task available"
+
+msgid "clantask_points_balance"
+msgstr "Maintenance Points:  %1"
+
+msgid "clantask_progress"
+msgstr "%1 / %2"
+
+msgid "clantask_reward_platinum"
+msgstr "+%1 Platinum"
+
+msgid "clantask_reward_points"
+msgstr "+%1 MP"
+
+msgid "clantask_subtitle"
+msgstr ""
+"Slay the marked beasts to earn Maintenance Points and Platinum for your "
+"clan. Daily tasks reset each day, weekly tasks each week. Rewards are paid "
+"to the clan the moment a task completes."
+
+msgid "clantask_task_kill"
+msgstr "Kill %1 x %2"
+
+msgid "clantask_tier_champion"
+msgstr "Champion"
+
+msgid "clantask_tier_easy"
+msgstr "Easy"
+
+msgid "clantask_tier_elite"
+msgstr "Elite"
+
+msgid "clantask_tier_hard"
+msgstr "Hard"
+
+msgid "clantask_tier_medium"
+msgstr "Medium"
+
+msgid "clantask_window_title"
+msgstr "Clan Tasks"
+
 msgid "close"
 msgstr "Close"
 
@@ -3947,6 +4008,9 @@ msgstr "Records"
 
 msgid "journal_records_trade_routes"
 msgstr "Trade Routes"
+
+msgid "journal_repeatable_page_title"
+msgstr "Repeatable"
 
 msgid "journal_statistics_tab_title"
 msgstr "Personal Stats"
