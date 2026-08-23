@@ -12311,6 +12311,18 @@ msgstr ""
 msgid "NOTIFICATION_WORLD_EVENT_ANNOUNCEMENT"
 msgstr "%1"
 
+msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE"
+msgstr "^Cgold^%1^N^ is now %3 (+%2)"
+
+msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE_BOOSTED"
+msgstr "^Cgold^%1^N^ is now %3 (+%2, boosted +%4%)"
+
+msgid "NOTIFICATION_XP_GAIN_SKILL"
+msgstr "^Cacid^%1^N^ is now %3 (+%2)"
+
+msgid "NOTIFICATION_XP_GAIN_SKILL_BOOSTED"
+msgstr "^Cacid^%1^N^ is now %3 (+%2, boosted +%4%)"
+
 msgid "NOTIFICATION_YOUR_PARTY_DOES_NOT_HAVE_ANY_MEMBERS"
 msgstr "Party does not have any members."
 
@@ -12395,6 +12407,12 @@ msgstr ""
 
 msgid "RACE_ALLIANCE_CITY_OWN_GUARD_TOWER_DAMAGED_BELOW_THRESHOLD"
 msgstr "A guard tower at %1 is under attack and has fallen below %2% health!"
+
+msgid "RACE_ALLIANCE_CITY_PROSPERITY_MILESTONE"
+msgstr "^Cgold^%1^N^ has reached ^Cgold^%2^N^ prosperity."
+
+msgid "RACE_ALLIANCE_CITY_STRUCTURE_BUILT"
+msgstr "^Cgold^%1^N^ has constructed ^Cacid^%2^N^. (%3 prosperity unspent)"
 
 msgid "RACE_ALLIANCE_CITY_VULNERABILITY_COUNTDOWN_STARTED"
 msgstr "The bind stone at %1 will become vulnerable in %2!"

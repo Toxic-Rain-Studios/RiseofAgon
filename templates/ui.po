@@ -1791,6 +1791,9 @@ msgstr "Standing"
 msgid "clan_window_clan_info_race_alliance"
 msgstr "Race Alliance"
 
+msgid "clan_window_clan_info_race_alliance_none"
+msgstr "None"
+
 msgid "clan_window_clan_info_set_relation"
 msgstr "Set Relation"
 
@@ -3349,6 +3352,24 @@ msgstr "Critical Hit"
 msgid "item_damage"
 msgstr "Damage"
 
+msgid "item_damage_type_arrow"
+msgstr "Arrow"
+
+msgid "item_damage_type_bludgeoning"
+msgstr "Bludgeoning"
+
+msgid "item_damage_type_mundane"
+msgstr "Physical"
+
+msgid "item_damage_type_piercing"
+msgstr "Piercing"
+
+msgid "item_damage_type_slashing"
+msgstr "Slashing"
+
+msgid "item_damage_type_spells"
+msgstr "Magic"
+
 msgid "item_durability"
 msgstr "Durability"
 
@@ -3468,6 +3489,39 @@ msgstr "Volume"
 
 msgid "item_weapon_rank"
 msgstr "Weapon Rank"
+
+msgid "item_weapon_type_axe"
+msgstr "Axe"
+
+msgid "item_weapon_type_bow"
+msgstr "Bow"
+
+msgid "item_weapon_type_club"
+msgstr "Club"
+
+msgid "item_weapon_type_greataxe"
+msgstr "Greataxe"
+
+msgid "item_weapon_type_greatclub"
+msgstr "Greatclub"
+
+msgid "item_weapon_type_greatsword"
+msgstr "Greatsword"
+
+msgid "item_weapon_type_knife"
+msgstr "Knife"
+
+msgid "item_weapon_type_polearm"
+msgstr "Polearm"
+
+msgid "item_weapon_type_sithra"
+msgstr "Sithra"
+
+msgid "item_weapon_type_staff"
+msgstr "Staff"
+
+msgid "item_weapon_type_sword"
+msgstr "Sword"
 
 msgid "item_weight"
 msgstr "Weight"
