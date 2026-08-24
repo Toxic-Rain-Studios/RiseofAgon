@@ -4713,6 +4713,12 @@ msgstr "Character"
 msgid "mainmenu_playerstats"
 msgstr "Player Stats"
 
+msgid "mainmenu_progression"
+msgstr "Progression"
+
+msgid "mainmenu_pvemastery"
+msgstr "Mastery"
+
 msgid "mainmenu_quit"
 msgstr "Quit"
 
@@ -5517,6 +5523,289 @@ msgstr "Duration: "
 msgid "market_update_select_order"
 msgstr "Select order to change"
 
+msgid "mastery_active_header"
+msgstr "Active: %1"
+
+msgid "mastery_active_note"
+msgstr "Applies to monsters only."
+
+msgid "mastery_all_unlocked"
+msgstr "Everything unlocked."
+
+msgid "mastery_alt_arcane_focus"
+msgstr "Arcane Focus"
+
+msgid "mastery_alt_backstab"
+msgstr "Backstab"
+
+msgid "mastery_alt_battle_fortitude"
+msgstr "Battle Fortitude"
+
+msgid "mastery_alt_blood_drinker"
+msgstr "Blood Drinker"
+
+msgid "mastery_alt_blood_feast"
+msgstr "Blood Feast"
+
+msgid "mastery_alt_bulwark_depth"
+msgstr "Bulwark Depth"
+
+msgid "mastery_alt_corpse_explosion"
+msgstr "Corpse Explosion"
+
+msgid "mastery_alt_crimson_communion"
+msgstr "Crimson Communion"
+
+msgid "mastery_alt_damaging_blow"
+msgstr "Damaging Blow"
+
+msgid "mastery_alt_echo"
+msgstr "Echo"
+
+msgid "mastery_alt_ironskin"
+msgstr "Ironskin"
+
+msgid "mastery_alt_killers_momentum"
+msgstr "Killer's Momentum"
+
+msgid "mastery_alt_last_stand"
+msgstr "Last Stand"
+
+msgid "mastery_alt_mana_shield"
+msgstr "Mana Shield"
+
+msgid "mastery_alt_rank_bar_title"
+msgstr "%1 rank"
+
+msgid "mastery_alt_rank_label"
+msgstr "%1  %2/%3"
+
+msgid "mastery_alt_reactive_plating"
+msgstr "Reactive Plating"
+
+msgid "mastery_alt_resonant_echo"
+msgstr "Resonant Echo"
+
+msgid "mastery_alt_shadowstep"
+msgstr "Shadowstep"
+
+msgid "mastery_alt_soul_siphon"
+msgstr "Soul Siphon"
+
+msgid "mastery_alt_twin_blades"
+msgstr "Twin Blades"
+
+msgid "mastery_alt_vampiric_touch"
+msgstr "Vampiric Touch"
+
+msgid "mastery_alterations_caption"
+msgstr "Alterations"
+
+msgid "mastery_aura_effect_cutthroat"
+msgstr "bonus melee damage for your party against monsters"
+
+msgid "mastery_aura_effect_deadeye"
+msgstr "bonus ranged damage for your party against monsters"
+
+msgid "mastery_aura_effect_vanguard"
+msgstr "less monster damage taken by your party"
+
+msgid "mastery_aura_grant_desc"
+msgstr ""
+"Grants %1, a one-hour party aura bought with Ancient Essence. It gives %2 %3 "
+"and grows with every mastery level to %4 at level %5."
+
+msgid "mastery_aura_step_desc"
+msgstr "Aura +%1 - now %2 %3."
+
+msgid "mastery_aura_step_desc_capped"
+msgstr "Aura +%1 - now %2 %3 (at its cap)."
+
+msgid "mastery_detail_level_tier"
+msgstr "Level %1 / %2   -   Tier %3 of %4"
+
+msgid "mastery_detail_level_tier_mp"
+msgstr "Level %1 / %2   -   Tier %3 of %4   -   %5 MP"
+
+msgid "mastery_essence_caption"
+msgstr "ANCIENT ESSENCE"
+
+msgid "mastery_essence_value"
+msgstr "Essence %1"
+
+msgid "mastery_essence_value_capped"
+msgstr "Essence %1 / %2"
+
+msgid "mastery_max_level"
+msgstr "Maximum level reached"
+
+msgid "mastery_mp_amount"
+msgstr "%1 MP"
+
+msgid "mastery_name_berserker"
+msgstr "Berserker"
+
+msgid "mastery_name_blightcaller"
+msgstr "Blightcaller"
+
+msgid "mastery_name_cutthroat"
+msgstr "Cutthroat"
+
+msgid "mastery_name_deadeye"
+msgstr "Deadeye"
+
+msgid "mastery_name_elementalist"
+msgstr "Elementalist"
+
+msgid "mastery_name_oracle"
+msgstr "Oracle"
+
+msgid "mastery_name_vanguard"
+msgstr "Vanguard"
+
+msgid "mastery_next_unlock_blocked"
+msgstr "Level %1 - %2   (needs a Mastery Orb to pass level %3)"
+
+msgid "mastery_next_unlock_caption"
+msgstr "NEXT UNLOCK"
+
+msgid "mastery_next_unlock_entry"
+msgstr "Level %1 - %2"
+
+msgid "mastery_no_active"
+msgstr "No mastery active"
+
+msgid "mastery_no_active_header"
+msgstr "No mastery active"
+
+msgid "mastery_node_aura"
+msgstr "Aura"
+
+msgid "mastery_node_desc_aura_grant"
+msgstr ""
+"Grants %1, a one-hour party aura bought with Ancient Essence. It gives %2 %3 "
+"and grows with every mastery level to %4 at level %5."
+
+msgid "mastery_node_desc_aura_step"
+msgstr "Aura +%1 - now %2 %3."
+
+msgid "mastery_node_desc_aura_step_capped"
+msgstr "Aura +%1 - now %2 %3 (at its cap)."
+
+msgid "mastery_node_desc_rank"
+msgstr "Rank %1 of %2: %3"
+
+msgid "mastery_node_level"
+msgstr "Level %1"
+
+msgid "mastery_node_rank_name"
+msgstr "%1 %2"
+
+msgid "mastery_open_track_button"
+msgstr "Open Mastery Track"
+
+msgid "mastery_orb_needed"
+msgstr "Mastery Orb needed to advance past level %1"
+
+msgid "mastery_orb_sigil_hint"
+msgstr "Tier gates need a Mastery Orb; Sigils swap your active path."
+
+msgid "mastery_preview_note"
+msgstr "Preview - not your active mastery."
+
+msgid "mastery_primary_damage_reduction"
+msgstr "Damage reduction"
+
+msgid "mastery_primary_damage_vs_humanoids"
+msgstr "Damage vs humanoids"
+
+msgid "mastery_primary_damage_vs_monsters"
+msgstr "Damage vs monsters"
+
+msgid "mastery_primary_fallback"
+msgstr "Bonus vs monsters"
+
+msgid "mastery_primary_magic_damage"
+msgstr "Magic damage"
+
+msgid "mastery_roster_headline_bonus"
+msgstr "+%1% %2"
+
+msgid "mastery_roster_headline_reduction"
+msgstr "-%1% %2"
+
+msgid "mastery_row_active_suffix"
+msgstr "%1  (active)"
+
+msgid "mastery_row_level_tier"
+msgstr "Level %1   Tier %2"
+
+msgid "mastery_row_name_active"
+msgstr "%1  (active)"
+
+msgid "mastery_track_header"
+msgstr "%1 Track"
+
+msgid "mastery_tree_complete"
+msgstr "Mastery complete"
+
+msgid "mastery_tree_detail_hint"
+msgstr "Hover a node to read what it does."
+
+msgid "mastery_tree_detail_level"
+msgstr "%1  (level %2)"
+
+msgid "mastery_tree_detail_unlocked"
+msgstr "%1  (unlocked)"
+
+msgid "mastery_tree_mp_to_level"
+msgstr "%1 / %2 MP to level %3"
+
+msgid "mastery_tree_node_level"
+msgstr "level %1"
+
+msgid "mastery_tree_subheader"
+msgstr "Level %1 / %2   -   Tier %3 of %4"
+
+msgid "mastery_tree_subheader_active"
+msgstr "Level %1 / %2   -   Tier %3 of %4   -   ACTIVE"
+
+msgid "mastery_tree_test_apply"
+msgstr "Apply"
+
+msgid "mastery_tree_test_max_essence"
+msgstr "Max essence"
+
+msgid "mastery_tree_test_set_level"
+msgstr "Set level"
+
+msgid "mastery_tree_tier"
+msgstr "Tier %1"
+
+msgid "mastery_tree_tier_locked"
+msgstr "locked"
+
+msgid "mastery_tree_tier_needs_orb"
+msgstr "needs an Orb"
+
+msgid "mastery_tree_tier_unlocked"
+msgstr "unlocked %1-%2"
+
+msgid "mastery_tree_title"
+msgstr "Mastery Track"
+
+msgid "mastery_tree_track_header"
+msgstr "%1 Track"
+
+msgid "mastery_unlocks_at"
+msgstr "unlocks at level %1"
+
+msgid "mastery_window_title"
+msgstr "PvE Mastery"
+
+msgid "mastery_xp_to_next"
+msgstr "%1 / %2 to next level"
+
 msgid "messagebox_generic_title"
 msgstr "Message"
 
@@ -6235,6 +6524,9 @@ msgstr "Quantity:"
 msgid "prompt_item_split_title"
 msgstr "Split Item"
 
+msgid "pve_mastery_title"
+msgstr "PvE Mastery"
+
 msgid "pvp_flag_change_to_lawless_dialog_body"
 msgstr ""
 "With lawless stance you will be turned rogue so any player can attack you "
@@ -6853,8 +7145,14 @@ msgstr "Sticky"
 msgid "window_title_gmcall"
 msgstr "Request Help"
 
+msgid "window_title_masterytree"
+msgstr "Mastery Track"
+
 msgid "window_title_playerstats"
 msgstr "Player Stats"
+
+msgid "window_title_pvemastery"
+msgstr "PvE Mastery"
 
 msgid "working_progress_crafting"
 msgstr "Crafting..."

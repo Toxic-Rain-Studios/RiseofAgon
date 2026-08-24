@@ -11274,6 +11274,200 @@ msgstr "^Cred^You can not play as a monster while you are in a party."
 msgid "NOTIFICATION_PRAYING_ERROR_NO_NEED_TO_PRAY"
 msgstr "You do not need to pray."
 
+msgid "NOTIFICATION_PVE_MASTERY_ABILITIES_PVP_SEALED"
+msgstr "[Mastery] Mastery abilities are sealed while marked by PvP combat."
+
+msgid "NOTIFICATION_PVE_MASTERY_ACTIVATED"
+msgstr "[Mastery] %1 mastery activated."
+
+msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
+msgstr "[Mastery] %1 needs %2 essence - attune Ancient Essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ALREADY_UP"
+msgstr "[Mastery] Your aura is already up."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_CUTTHROAT"
+msgstr "party melee damage vs monsters."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_DEADEYE"
+msgstr "party ranged damage vs monsters."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_VANGUARD"
+msgstr "party protection vs monsters."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_CANNOT_AFFORD"
+msgstr ""
+"[Mastery] Aura costs %1 essence for one hour (you have %2) - attune Ancient "
+"Essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_HOUR_SPENT"
+msgstr "[Mastery] Your aura fades - its hour is spent. Reactivate when ready."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
+msgstr "[Mastery] %1 aura ignited for one hour (-%2 essence) - %3"
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_NOT_BUILT"
+msgstr ""
+"[Mastery] Aura: only the Vanguard, Cutthroat and Deadeye auras are built so "
+"far."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_NO_LONGER_REACHES"
+msgstr "[Mastery] The %1 aura no longer reaches you."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_OFF_NOT_BUILT"
+msgstr ""
+"[Mastery] Aura off - only the Vanguard, Cutthroat and Deadeye auras are "
+"built so far."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_SUPPRESSED_PVP"
+msgstr ""
+"[Mastery] Aura suppressed - PvP combat. It resumes when the mark fades; the "
+"hour keeps running."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_TOGGLED_OFF"
+msgstr "[Mastery] Aura off (no refund on the remaining time)."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_COLLAPSES_PVP"
+msgstr "[Mastery] %1 collapses - PvP combat."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_COOLDOWN"
+msgstr "[Mastery] %1 is on cooldown (%2s left)."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_FADES"
+msgstr "[Mastery] %1 fades."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_LEVEL_LOCKED"
+msgstr "[Mastery] %1 unlocks at level %2 (currently %3)."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_NOT_BUILT"
+msgstr ""
+"[Mastery] Capstone: only the Vanguard, Cutthroat and Deadeye capstones are "
+"built so far."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
+msgstr "[Mastery] Capstones are sealed while marked by PvP combat."
+
+msgid "NOTIFICATION_PVE_MASTERY_ESSENCE_ATTUNED"
+msgstr "[Mastery] Attuned %1 Ancient Essence (pool %2 / %3)."
+
+msgid "NOTIFICATION_PVE_MASTERY_ESSENCE_POOL_FULL"
+msgstr "[Mastery] Essence pool is full (%1)."
+
+msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_CONSUMED"
+msgstr "[Mastery] Free swap used."
+
+msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_GRANTED"
+msgstr "[Mastery] Your next mastery swap within 60s is free."
+
+msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
+msgstr "[Mastery] %1 mastery level %2! (%3)"
+
+msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
+msgstr "[Mastery] %1 is not part of this build."
+
+msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
+msgstr "[Mastery] %1 is already at the highest tier."
+
+msgid "NOTIFICATION_PVE_MASTERY_ORB_CONSUMED"
+msgstr "[Mastery] The orb shatters - %1 tier %2 unlocked (levels up to %3)."
+
+msgid "NOTIFICATION_PVE_MASTERY_ORB_LEVEL_TOO_LOW"
+msgstr ""
+"[Mastery] %1 must reach level %2 before the orb can be consumed (currently "
+"%3)."
+
+msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_FIRED"
+msgstr "[Mastery] PROVOKE - %1 monster(s) marked onto you."
+
+msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_LEVEL_LOCKED"
+msgstr "[Mastery] Provoke unlocks at level %1 (currently %2)."
+
+msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_ACTIVE"
+msgstr "[Mastery] QUICKDRAW - draw speed +%1% for %2s."
+
+msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_CANCELLED"
+msgstr "[Mastery] Quickdraw is broken off."
+
+msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_SPENT"
+msgstr "[Mastery] Quickdraw is spent."
+
+msgid "NOTIFICATION_PVE_MASTERY_RAIN_COOLDOWN"
+msgstr "[Mastery] Rain of Arrows on cooldown (%1s left)."
+
+msgid "NOTIFICATION_PVE_MASTERY_RAIN_READY"
+msgstr ""
+"[Mastery] Rain of Arrows is ready - use the hotbar ability to place the area."
+
+msgid "NOTIFICATION_PVE_MASTERY_RED_HARVEST_ACTIVE"
+msgstr ""
+"[Mastery] RED HARVEST - melee damage +%1% vs monsters for %2s. Kills refresh "
+"it."
+
+msgid "NOTIFICATION_PVE_MASTERY_RUPTURE"
+msgstr "[Mastery] RUPTURE - %1 damage."
+
+msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_SPLASH"
+msgstr "[Mastery] RUPTURE - %1 damage, splashing %2 nearby."
+
+msgid "NOTIFICATION_PVE_MASTERY_STATUS_ESSENCE"
+msgstr "[Mastery] Essence pool: %1 / %2"
+
+msgid "NOTIFICATION_PVE_MASTERY_STATUS_HEADER"
+msgstr "[Mastery] === %1 (active) ==="
+
+msgid "NOTIFICATION_PVE_MASTERY_STATUS_INACTIVE"
+msgstr "[Mastery] %1: level %2 (inactive)"
+
+msgid "NOTIFICATION_PVE_MASTERY_STATUS_LEVEL"
+msgstr "[Mastery] Level %1 / %2 (tier %3 of %4) - %5"
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_CANNOT_AFFORD"
+msgstr "[Mastery] Changing mastery costs %1 gold - you do not have enough."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_COOLDOWN"
+msgstr "[Mastery] You must wait %1 before changing mastery again."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_PAID"
+msgstr "[Mastery] Paid %1 gold to change mastery."
+
+msgid "NOTIFICATION_PVE_MASTERY_SYSTEM_DISABLED"
+msgstr "[Mastery] The mastery system is disabled."
+
+msgid "NOTIFICATION_PVE_MASTERY_TAUNT_COOLDOWN"
+msgstr "[Mastery] Taunt on cooldown (%1s left)."
+
+msgid "NOTIFICATION_PVE_MASTERY_TAUNT_NOT_BUILT"
+msgstr ""
+"[Mastery] Taunt: only the Vanguard taunt is built so far - activate Vanguard "
+"first."
+
+msgid "NOTIFICATION_PVE_MASTERY_TAUNT_PVP_SEALED"
+msgstr "[Mastery] Taunts are sealed while marked by PvP combat."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_COOLDOWN"
+msgstr "[Mastery] Test controls are catching up - %1s."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_ESSENCE_CLOSED"
+msgstr "[Mastery] Filling your own essence is not open right now."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_LEVEL_CLOSED"
+msgstr "[Mastery] Setting your own mastery level is not open right now."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_LEVEL_SET"
+msgstr "[Mastery] %1 set to level %2 and activated."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_LEVEL_SET_CLAMPED"
+msgstr "[Mastery] %1 set to level %2 and activated (levels run %3-%4)."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_NO_MASTERY"
+msgstr "[Mastery] No mastery under test to spend essence on."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_UNKNOWN_MASTERY"
+msgstr "[Mastery] Unknown mastery - use %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
+msgstr "[Mastery] UNBROKEN LINE - monster damage taken -60% for %1s."
+
 msgid "NOTIFICATION_PVP_FLAG_ERROR_CHURCH_REQUIRED"
 msgstr ""
 "To change back to lawful you must pray at a church or other appointed "

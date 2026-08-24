@@ -161,8 +161,14 @@ msgstr "Constitution Bonus"
 msgid "Constitution Penalty"
 msgstr "Constitution Penalty"
 
+msgid "Cutthroat Aura"
+msgstr "Cutthroat Aura"
+
 msgid "Damaging Blow"
 msgstr "Damaging Blow"
+
+msgid "Deadeye Aura"
+msgstr "Deadeye Aura"
 
 msgid "Decapitate"
 msgstr "Decapitate"
@@ -422,6 +428,9 @@ msgstr "Obelisk Haste Reviving"
 msgid "Obelisk Quickening Drink"
 msgstr "Obelisk Quickening Drink"
 
+msgid "Opening"
+msgstr "Opening"
+
 msgid "Paralysis"
 msgstr "Paralysis"
 
@@ -488,6 +497,9 @@ msgstr "Ranged Restart Bonus"
 msgid "Ranged Restart Penalty"
 msgstr "Ranged Restart Penalty"
 
+msgid "Red Harvest"
+msgstr "Red Harvest"
+
 msgid "Reflect Magic"
 msgstr "Reflect Magic"
 
@@ -509,8 +521,14 @@ msgstr "Resting"
 msgid "Scout"
 msgstr "Scout"
 
+msgid "Second Nature"
+msgstr "Second Nature"
+
 msgid "Sidestep"
 msgstr "Sidestep"
+
+msgid "Sighted"
+msgstr "Quickdraw"
 
 msgid "Slashing Damage"
 msgstr "Slashing Damage"
@@ -590,6 +608,9 @@ msgstr "Suppress Magic"
 msgid "Transformation"
 msgstr "Transformation"
 
+msgid "Unbroken Line"
+msgstr "Unbroken Line"
+
 msgid "Unfazed"
 msgstr "Unfazed"
 
@@ -604,6 +625,9 @@ msgstr "Unholy Protection Penalty"
 
 msgid "Untouchable"
 msgstr "Untouchable"
+
+msgid "Vanguard Aura"
+msgstr "Vanguard Aura"
 
 msgid "Visibility"
 msgstr "Visibility"
@@ -788,8 +812,14 @@ msgstr ""
 msgid "desc_Constitution Penalty"
 msgstr ""
 
+msgid "desc_Cutthroat Aura"
+msgstr " "
+
 msgid "desc_Damaging Blow"
 msgstr ""
+
+msgid "desc_Deadeye Aura"
+msgstr " "
 
 msgid "desc_Decapitate"
 msgstr " Off with their heads!"
@@ -1049,6 +1079,9 @@ msgstr " "
 msgid "desc_Obelisk Quickening Drink"
 msgstr " "
 
+msgid "desc_Opening"
+msgstr " "
+
 msgid "desc_Paralysis"
 msgstr ""
 
@@ -1115,6 +1148,9 @@ msgstr " "
 msgid "desc_Ranged Restart Penalty"
 msgstr " "
 
+msgid "desc_Red Harvest"
+msgstr " "
+
 msgid "desc_Reflect Magic"
 msgstr " "
 
@@ -1136,8 +1172,14 @@ msgstr " "
 msgid "desc_Scout"
 msgstr " "
 
+msgid "desc_Second Nature"
+msgstr "Your aim is settling - each arrow you land draws the next one faster."
+
 msgid "desc_Sidestep"
 msgstr " "
+
+msgid "desc_Sighted"
+msgstr "Your bow is drawing faster."
 
 msgid "desc_Slashing Damage"
 msgstr ""
@@ -1217,6 +1259,9 @@ msgstr ""
 msgid "desc_Transformation"
 msgstr ""
 
+msgid "desc_Unbroken Line"
+msgstr " "
+
 msgid "desc_Unfazed"
 msgstr " "
 
@@ -1230,6 +1275,9 @@ msgid "desc_Unholy Protection Penalty"
 msgstr " "
 
 msgid "desc_Untouchable"
+msgstr " "
+
+msgid "desc_Vanguard Aura"
 msgstr " "
 
 msgid "desc_Visibility"
