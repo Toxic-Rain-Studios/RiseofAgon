@@ -1106,6 +1106,11 @@ msgstr ""
 "Otredale, and delivered it to Skathi Shieldmaiden.  Apparently, this is an "
 "item of great importance to the Five Beards Trading Company."
 
+msgid "diary_text_quest_21127"
+msgstr ""
+"My training on the isles is done. Ebou the Councillor has signed my leave - "
+"the standing portal above Dawnshore will take me to the mainland."
+
 msgid "diary_text_quest_2113"
 msgstr ""
 "After recovering the Horn of the Five, Skathi Shieldmaiden instructed me to "
@@ -11338,8 +11343,10 @@ msgstr ""
 
 msgid "end_text_quest_21075"
 msgstr ""
-"That is a sail's worth of cotton and pitch enough for every seam. Your "
-"goods, your pack. She wants only one thing more now - hands on the keel."
+"That is a sail's worth of cotton and pitch enough for every seam. Here then "
+"- timber, cloth and iron, the whole making of a raft, and it is yours to "
+"carry. She wants only one thing more now: hands on the keel, and they are "
+"not mine."
 
 msgid "end_text_quest_21077"
 msgstr ""
@@ -11474,6 +11481,14 @@ msgstr ""
 
 msgid "end_text_quest_2112"
 msgstr "Excellent, you found it. Here, please accept this reward."
+
+msgid "end_text_quest_21127"
+msgstr ""
+"So the Frostheld sent you back to me. Good - that is the whole of it, then."
+"\r\n"
+"\r\n"
+"The portal stands ready above us. Step through when you are willing, and "
+"mind: out there no one hands you timber or grass or a second chance. Go well."
 
 msgid "end_text_quest_2113"
 msgstr ""
@@ -19545,6 +19560,9 @@ msgstr ""
 msgid "finished_text_quest_2112"
 msgstr "You have handed the horn to Skathi Shieldmaiden."
 
+msgid "finished_text_quest_21127"
+msgstr "Ebou the Councillor has signed your leave. The portal is waiting."
+
 msgid "finished_text_quest_2113"
 msgstr "You have made contact with Garn Runeshield."
 
@@ -27612,6 +27630,12 @@ msgstr "run down the hunt"
 
 msgid "name_quest_2112"
 msgstr "deliver the horn of the five"
+
+msgid "name_quest_21126"
+msgstr "Passage Home"
+
+msgid "name_quest_21127"
+msgstr "Passage Home"
 
 msgid "name_quest_2113"
 msgstr "go to five beards"
@@ -37278,6 +37302,12 @@ msgstr "Kill three bighorn on the north slope."
 
 msgid "short_desc_quest_2112"
 msgstr "Report to Skathi Shieldmaiden."
+
+msgid "short_desc_quest_21126"
+msgstr "Take the portal off the isles."
+
+msgid "short_desc_quest_21127"
+msgstr "See Ebou the Councillor, then take the portal."
 
 msgid "short_desc_quest_2113"
 msgstr "Report to Garn Runeshield."
@@ -48520,7 +48550,9 @@ msgstr ""
 "pack."
 
 msgid "start_text_quest_21075"
-msgstr "Cotton for the loom, fish for the try-pot. Both come back to you."
+msgstr ""
+"Cotton for the loom, fish for the try-pot. Bring me those and I will see the "
+"rest of her found out of my own racks - timber, cloth and iron."
 
 msgid "start_text_quest_21076"
 msgstr ""
@@ -48534,8 +48566,10 @@ msgstr ""
 
 msgid "start_text_quest_21077"
 msgstr ""
-"She is lashed, pitched and rigged. Walk the coast north over Crag Isle - the "
-"old man stands on the beach by the lantern-pole."
+"Timber, cloth and iron - that is a raft in pieces, and I am no ferryman. "
+"Carry the lot north over Crag Isle to Bound; the old man stands on the beach "
+"by the lantern-pole. Put it in his hands and he will lash her together for "
+"you."
 
 msgid "start_text_quest_21078"
 msgstr ""
@@ -48758,6 +48792,22 @@ msgid "start_text_quest_2112"
 msgstr ""
 "You have found the Horn of the Five. Bring it to Skathi Shieldmaiden, and "
 "claim your reward."
+
+msgid "start_text_quest_21126"
+msgstr ""
+"You came to us green and you leave with iron in your hands. There is nothing "
+"more the hold can teach you.\r\n"
+"\r\n"
+"Sail back over the strait and go up to the standing portal above Dawnshore - "
+"it is marked for you. Ebou the Councillor keeps the leave-papers; see him, "
+"then step through. The mainland is not kind like this isle is. Everything "
+"you learned here, you will need there."
+
+msgid "start_text_quest_21127"
+msgstr ""
+"Durnir the Oathkeeper says your training is finished. Cross back to "
+"Dawnshore and climb to the standing portal - Ebou the Councillor will see "
+"you off."
 
 msgid "start_text_quest_2113"
 msgstr ""
