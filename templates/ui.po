@@ -2183,6 +2183,9 @@ msgstr ""
 "clan. Daily tasks reset each day, weekly tasks each week. Rewards are paid "
 "to the clan the moment a task completes."
 
+msgid "clantask_task_gather"
+msgstr "Gather %1 x %2"
+
 msgid "clantask_task_kill"
 msgstr "Kill %1 x %2"
 
@@ -2194,6 +2197,12 @@ msgstr "Easy"
 
 msgid "clantask_tier_elite"
 msgstr "Elite"
+
+msgid "clantask_tier_gather_daily"
+msgstr "Gathering"
+
+msgid "clantask_tier_gather_weekly"
+msgstr "Rare Gathering"
 
 msgid "clantask_tier_hard"
 msgstr "Hard"
