@@ -1100,11 +1100,50 @@ msgstr ""
 "the shore stones to stand in front of Tygore Spinebreaker, who decides who "
 "leaves."
 
+msgid "diary_text_quest_21113"
+msgstr ""
+"I gathered steedgrass from the bushes for Tiikki TheCharming. She kept some "
+"for the pens and left me three bundles of my own, and a hint that I would be "
+"needing them."
+
+msgid "diary_text_quest_21115"
+msgstr ""
+"I tamed my own horse with the steedgrass I gathered and showed it to Tiikki "
+"TheCharming. She looked it over, handed it back, and paid me for the trouble."
+
+msgid "diary_text_quest_21117"
+msgstr ""
+"I tamed my own garmir with the steedgrass I gathered and showed it to Tiikki "
+"TheCharming. She looked it over, handed it back, and paid me for the trouble."
+
+msgid "diary_text_quest_21119"
+msgstr ""
+"I tamed my own death pig with the steedgrass I gathered and showed it to "
+"Tiikki TheCharming. She looked it over, handed it back, and paid me for the "
+"trouble."
+
 msgid "diary_text_quest_2112"
 msgstr ""
 "I successfully recovered the Horn of the Five from the kobold camp in "
 "Otredale, and delivered it to Skathi Shieldmaiden.  Apparently, this is an "
 "item of great importance to the Five Beards Trading Company."
+
+msgid "diary_text_quest_21121"
+msgstr ""
+"I tamed my own eradan with the steedgrass I gathered and showed it to Tiikki "
+"TheCharming. She looked it over, handed it back, and paid me for the trouble."
+
+msgid "diary_text_quest_21123"
+msgstr ""
+"I tamed my own shulgan drake with the steedgrass I gathered and showed it to "
+"Tiikki TheCharming. She looked it over, handed it back, and paid me for the "
+"trouble."
+
+msgid "diary_text_quest_21125"
+msgstr ""
+"I tamed my own tribeland bear with the steedgrass I gathered and showed it "
+"to Tiikki TheCharming. She looked it over, handed it back, and paid me for "
+"the trouble."
 
 msgid "diary_text_quest_21127"
 msgstr ""
@@ -11479,8 +11518,63 @@ msgstr ""
 "edge of the camp. He is the one who decides who leaves. Go and stand in "
 "front of him."
 
+msgid "end_text_quest_21113"
+msgstr ""
+"Five, and none of it bruised. You have a hand for this.\r\n"
+"\r\n"
+"Here - three bundles back, and coin for the walking. Keep the grass close. "
+"The next part is yours to do, not mine."
+
+msgid "end_text_quest_21115"
+msgstr ""
+"Well now. That is a horse with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
+
+msgid "end_text_quest_21117"
+msgstr ""
+"Well now. That is a garmir with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
+
+msgid "end_text_quest_21119"
+msgstr ""
+"Well now. That is a death pig with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
+
 msgid "end_text_quest_2112"
 msgstr "Excellent, you found it. Here, please accept this reward."
+
+msgid "end_text_quest_21121"
+msgstr ""
+"Well now. That is a eradan with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
+
+msgid "end_text_quest_21123"
+msgstr ""
+"Well now. That is a drake with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
+
+msgid "end_text_quest_21125"
+msgstr ""
+"Well now. That is a bear with your smell on it already.\r\n"
+"\r\n"
+"Take it back - I only wanted to see it done. That animal will carry you "
+"further than any road on this isle goes, and it is yours because you made "
+"it, not because someone handed it to you. Here is coin besides."
 
 msgid "end_text_quest_21127"
 msgstr ""
@@ -19557,8 +19651,29 @@ msgstr ""
 "The hunt is done and the camp eats. Sendog says to find Tygore Spinebreaker "
 "by the shore stones at the north edge of the camp - he decides who leaves."
 
+msgid "finished_text_quest_21113"
+msgstr "Tiikki has her steedgrass, and you have kept three bundles."
+
+msgid "finished_text_quest_21115"
+msgstr "Tiikki has seen your horse, and given it straight back."
+
+msgid "finished_text_quest_21117"
+msgstr "Tiikki has seen your garmir, and given it straight back."
+
+msgid "finished_text_quest_21119"
+msgstr "Tiikki has seen your death pig, and given it straight back."
+
 msgid "finished_text_quest_2112"
 msgstr "You have handed the horn to Skathi Shieldmaiden."
+
+msgid "finished_text_quest_21121"
+msgstr "Tiikki has seen your eradan, and given it straight back."
+
+msgid "finished_text_quest_21123"
+msgstr "Tiikki has seen your shulgan drake, and given it straight back."
+
+msgid "finished_text_quest_21125"
+msgstr "Tiikki has seen your tribeland bear, and given it straight back."
 
 msgid "finished_text_quest_21127"
 msgstr "Ebou the Councillor has signed your leave. The portal is waiting."
@@ -27628,8 +27743,50 @@ msgstr "Run Down the Hunt"
 msgid "name_quest_21111"
 msgstr "run down the hunt"
 
+msgid "name_quest_21112"
+msgstr "Steedgrass for the Pens"
+
+msgid "name_quest_21113"
+msgstr "Steedgrass for the Pens"
+
+msgid "name_quest_21114"
+msgstr "Break Your Own"
+
+msgid "name_quest_21115"
+msgstr "Break Your Own"
+
+msgid "name_quest_21116"
+msgstr "Break Your Own"
+
+msgid "name_quest_21117"
+msgstr "Break Your Own"
+
+msgid "name_quest_21118"
+msgstr "Break Your Own"
+
+msgid "name_quest_21119"
+msgstr "Break Your Own"
+
 msgid "name_quest_2112"
 msgstr "deliver the horn of the five"
+
+msgid "name_quest_21120"
+msgstr "Break Your Own"
+
+msgid "name_quest_21121"
+msgstr "Break Your Own"
+
+msgid "name_quest_21122"
+msgstr "Break Your Own"
+
+msgid "name_quest_21123"
+msgstr "Break Your Own"
+
+msgid "name_quest_21124"
+msgstr "Break Your Own"
+
+msgid "name_quest_21125"
+msgstr "Break Your Own"
 
 msgid "name_quest_21126"
 msgstr "Passage Home"
@@ -37300,8 +37457,50 @@ msgstr "Hunt three bighorn for Sendog."
 msgid "short_desc_quest_21111"
 msgstr "Kill three bighorn on the north slope."
 
+msgid "short_desc_quest_21112"
+msgstr "Gather steedgrass from the bushes."
+
+msgid "short_desc_quest_21113"
+msgstr "Bring Tiikki five bundles of steedgrass."
+
+msgid "short_desc_quest_21114"
+msgstr "Tame a horse and show it to Tiikki."
+
+msgid "short_desc_quest_21115"
+msgstr "Tame a horse, then show it to Tiikki."
+
+msgid "short_desc_quest_21116"
+msgstr "Tame a garmir and show it to Tiikki."
+
+msgid "short_desc_quest_21117"
+msgstr "Tame a garmir, then show it to Tiikki."
+
+msgid "short_desc_quest_21118"
+msgstr "Tame a death pig and show it to Tiikki."
+
+msgid "short_desc_quest_21119"
+msgstr "Tame a death pig, then show it to Tiikki."
+
 msgid "short_desc_quest_2112"
 msgstr "Report to Skathi Shieldmaiden."
+
+msgid "short_desc_quest_21120"
+msgstr "Tame a eradan and show it to Tiikki."
+
+msgid "short_desc_quest_21121"
+msgstr "Tame a eradan, then show it to Tiikki."
+
+msgid "short_desc_quest_21122"
+msgstr "Tame a shulgan drake and show it to Tiikki."
+
+msgid "short_desc_quest_21123"
+msgstr "Tame a shulgan drake, then show it to Tiikki."
+
+msgid "short_desc_quest_21124"
+msgstr "Tame a tribeland bear and show it to Tiikki."
+
+msgid "short_desc_quest_21125"
+msgstr "Tame a tribeland bear, then show it to Tiikki."
 
 msgid "short_desc_quest_21126"
 msgstr "Take the portal off the isles."
@@ -48788,10 +48987,130 @@ msgstr ""
 "Sendog wants three bighorn killed on the slope north of the pens. Ride them "
 "down."
 
+msgid "start_text_quest_21112"
+msgstr ""
+"You have carried enough iron and timber for other people. Now something that "
+"carries you.\r\n"
+"\r\n"
+"There is steedgrass growing in the bushes all over this isle - grey-green, "
+"low, easy to miss until you know it. Bring me five bundles for the pens and "
+"I will keep enough back for you to start a beast of your own."
+
+msgid "start_text_quest_21113"
+msgstr ""
+"Tiikki TheCharming wants five bundles of steedgrass. It grows in the bushes "
+"across the isle - harvest them and bring the grass back to her."
+
+msgid "start_text_quest_21114"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a horse - your own hands, your own "
+"beast. A Mercian horse is a patient animal. Treat it so.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21115"
+msgstr ""
+"Tiikki TheCharming wants to see a horse you tamed yourself. Use your "
+"steedgrass to make one, then bring it to her - check your paperdoll if you "
+"cannot find it in your pack."
+
+msgid "start_text_quest_21116"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a garmir - your own hands, your own "
+"beast. A garmir is all shoulder and stubbornness, like the folk who ride "
+"them.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21117"
+msgstr ""
+"Tiikki TheCharming wants to see a garmir you tamed yourself. Use your "
+"steedgrass to make one, then bring it to her - check your paperdoll if you "
+"cannot find it in your pack."
+
+msgid "start_text_quest_21118"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a death pig - your own hands, your "
+"own beast. A death pig will bite you once to see what you do about it. Do "
+"something about it.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21119"
+msgstr ""
+"Tiikki TheCharming wants to see a death pig you tamed yourself. Use your "
+"steedgrass to make one, then bring it to her - check your paperdoll if you "
+"cannot find it in your pack."
+
 msgid "start_text_quest_2112"
 msgstr ""
 "You have found the Horn of the Five. Bring it to Skathi Shieldmaiden, and "
 "claim your reward."
+
+msgid "start_text_quest_21120"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a eradan - your own hands, your own "
+"beast. An eradan is a nervous thing until it trusts you. Be still and it "
+"will come.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21121"
+msgstr ""
+"Tiikki TheCharming wants to see a eradan you tamed yourself. Use your "
+"steedgrass to make one, then bring it to her - check your paperdoll if you "
+"cannot find it in your pack."
+
+msgid "start_text_quest_21122"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a shulgan drake - your own hands, "
+"your own beast. A shulgan drake watches you longer than you watch it. Let it "
+"look its fill.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21123"
+msgstr ""
+"Tiikki TheCharming wants to see a shulgan drake you tamed yourself. Use your "
+"steedgrass to make one, then bring it to her - check your paperdoll if you "
+"cannot find it in your pack."
+
+msgid "start_text_quest_21124"
+msgstr ""
+"Grass is not a mount. What you do with it is.\r\n"
+"\r\n"
+"Take your steedgrass and tame yourself a tribeland bear - your own hands, "
+"your own beast. A tribeland bear respects weight and quiet. Give it both.\r\n"
+"\r\n"
+"Then bring it to me and let me see it. Mind, once it is made it may be "
+"sitting in your paperdoll rather than your pack - look there before you tell "
+"me you have nothing."
+
+msgid "start_text_quest_21125"
+msgstr ""
+"Tiikki TheCharming wants to see a tribeland bear you tamed yourself. Use "
+"your steedgrass to make one, then bring it to her - check your paperdoll if "
+"you cannot find it in your pack."
 
 msgid "start_text_quest_21126"
 msgstr ""
