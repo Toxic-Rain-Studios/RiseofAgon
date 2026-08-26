@@ -8865,8 +8865,14 @@ msgstr "%1 added you to their ignore list."
 msgid "NOTIFICATION_DUEL_INVITE_PLAYER_NOT_LOGGED_IN"
 msgstr "%1 is not logged in."
 
+msgid "NOTIFICATION_DUEL_INVITE_TOO_FAR_AWAY"
+msgstr "%1 is not in range to invite."
+
 msgid "NOTIFICATION_DUEL_INVITE_YOU_ARE_IN_IGNORE_LIST"
 msgstr "%1 has you in their ignore list."
+
+msgid "NOTIFICATION_DUEL_MEMBER_TOO_FAR_TO_START"
+msgstr "%1 is not in range to start."
 
 msgid "NOTIFICATION_DUEL_PLAYER_ABANDONED"
 msgstr "%1 has abandoned the duel!"
