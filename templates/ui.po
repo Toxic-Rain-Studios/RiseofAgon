@@ -1364,6 +1364,12 @@ msgstr ""
 msgid "clan_banned_add_button"
 msgstr "Ban Player"
 
+msgid "clan_banned_add_confirm_desc"
+msgstr "Ban %1 %2 from the clan?"
+
+msgid "clan_banned_add_confirm_title"
+msgstr "Ban Player"
+
 msgid "clan_banned_empty"
 msgstr "No players are banned from this clan."
 
@@ -1654,6 +1660,9 @@ msgstr "Personnel Auditor"
 msgid "clan_role_description_personnel_manager"
 msgstr "Personnel Manager"
 
+msgid "clan_role_description_personnel_notes"
+msgstr "Can read and write notes on clan members."
+
 msgid "clan_role_description_security_officer"
 msgstr "Security Officer"
 
@@ -1724,6 +1733,9 @@ msgstr "Can view the full list of clan members."
 
 msgid "clan_role_name_personnel_manager"
 msgstr "Can send clan invitations and accept applications."
+
+msgid "clan_role_name_personnel_notes"
+msgstr "Personnel Notes"
 
 msgid "clan_role_name_security_officer"
 msgstr "Can operate city gates"
@@ -1962,6 +1974,9 @@ msgstr "Now"
 msgid "clan_window_members_accept"
 msgstr "Accept"
 
+msgid "clan_window_members_application_staged"
+msgstr "Staged: %1"
+
 msgid "clan_window_members_applications"
 msgstr "Applications"
 
@@ -2011,8 +2026,23 @@ msgid "clan_window_members_kick_queued"
 msgstr ""
 "%1 has been queued to leave the clan and will be removed in about %2 minutes."
 
+msgid "clan_window_members_label_playtime"
+msgstr "Playtime"
+
+msgid "clan_window_members_label_previous_aliases"
+msgstr "Previous Aliases"
+
+msgid "clan_window_members_make_selection"
+msgstr "Select an entry to see details."
+
 msgid "clan_window_members_members"
 msgstr "Members"
+
+msgid "clan_window_members_no_aliases"
+msgstr "None"
+
+msgid "clan_window_members_no_applications"
+msgstr "No applications"
 
 msgid "clan_window_members_promote_to_supreme_general_insufficient_rank"
 msgstr ""
@@ -2559,8 +2589,14 @@ msgstr "Unspawn"
 msgid "context_menu_whisper_to_player"
 msgstr "Whisper"
 
+msgid "coordinates"
+msgstr "coordinates"
+
 msgid "craft_prompt_window_title"
 msgstr "Select Crafting Skill"
+
+msgid "crafting"
+msgstr "crafting"
 
 msgid "crafting_all_button_text"
 msgstr "Max"
@@ -2588,6 +2624,9 @@ msgstr "Crafting"
 
 msgid "create_char"
 msgstr "Create"
+
+msgid "crouching"
+msgstr "crouching"
 
 msgid "decline"
 msgstr "Decline"
@@ -3366,6 +3405,9 @@ msgstr "Critical Hit"
 
 msgid "item_damage"
 msgstr "Damage"
+
+msgid "item_damage_type"
+msgstr "Damage Type"
 
 msgid "item_damage_type_arrow"
 msgstr "Arrow"
@@ -4719,6 +4761,9 @@ msgstr "Options"
 msgid "mainmenu_paperdoll"
 msgstr "Character"
 
+msgid "mainmenu_party"
+msgstr "Party"
+
 msgid "mainmenu_playerstats"
 msgstr "Player Stats"
 
@@ -5815,6 +5860,9 @@ msgstr "PvE Mastery"
 msgid "mastery_xp_to_next"
 msgstr "%1 / %2 to next level"
 
+msgid "message"
+msgstr "message"
+
 msgid "messagebox_generic_title"
 msgstr "Message"
 
@@ -6288,6 +6336,9 @@ msgstr "Chat Options"
 
 msgid "options_title_chat_view"
 msgstr "Chat Tab '%1' Options"
+
+msgid "options_title_chat_view_categories"
+msgstr "%1 - Categories"
 
 msgid "options_title_chat_window"
 msgstr "Chat Window '%1' Options"
@@ -6831,6 +6882,9 @@ msgstr "Spells"
 msgid "stamina"
 msgstr "Stamina"
 
+msgid "standing"
+msgstr "standing"
+
 msgid "start"
 msgstr "Start"
 
@@ -6866,6 +6920,12 @@ msgstr "Freemium"
 
 msgid "supreme_general"
 msgstr "Supreme General"
+
+msgid "surrender"
+msgstr "surrender"
+
+msgid "swimming"
+msgstr "swimming"
 
 msgid "target_health"
 msgstr "Target Health"
@@ -6959,6 +7019,9 @@ msgstr "Teleportation Cost %1 Gold"
 
 msgid "territory_control_window_title"
 msgstr "Territory Control"
+
+msgid "text"
+msgstr "text"
 
 msgid "titles_change_confirm_dialog_description"
 msgstr ""
