@@ -8748,6 +8748,9 @@ msgstr "The Village Control Point of %1 is now vulnerable."
 msgid "NOTIFICATION_CONTROL_POINT_VULNERABLE_SOON_GLOBAL"
 msgstr "The Village Control Point of %1 will be vulnerable in %2 minutes."
 
+msgid "NOTIFICATION_CRAFTING_SESSION_CLOSED_FOR_MARKET"
+msgstr "Your crafting session was closed to open the marketplace."
+
 msgid "NOTIFICATION_CRAFTING_SKILLS_NOT_FOUND"
 msgstr "You are missing the crafting skills to use on the workstation"
 
@@ -9661,6 +9664,9 @@ msgstr "^Cgold^Return Buy Order #%1 - broker fee %2 - cash deposit %3"
 
 msgid "NOTIFICATION_MARKET_RETURNED_SELL_ORDER"
 msgstr "^Cgold^Return Sell Order #%1 - broker fee %2 - %3 %4"
+
+msgid "NOTIFICATION_MARKET_SESSION_CLOSED_FOR_CRAFTING"
+msgstr "The marketplace was closed to open your crafting session."
 
 msgid "NOTIFICATION_MARKET_UNCLAIMED_ITEMS"
 msgstr "^Cgold^Check the market! You have unclaimed items!"
