@@ -584,11 +584,31 @@ msgstr "Fires a missile inflicting Unholy damage."
 msgid "desc_s_Cursed Bolt_1"
 msgstr ""
 
+msgid "desc_s_Cutthroat Aura"
+msgstr ""
+"Party members near you deal more melee damage to monsters while it holds."
+
+msgid "desc_s_Cutthroat Aura_1"
+msgstr ""
+
+msgid "desc_s_Cutthroat Skills"
+msgstr "Abilities of the Cutthroat mastery."
+
 msgid "desc_s_Damaging Blow"
 msgstr "Extra Damage."
 
 msgid "desc_s_Damaging Blow_1"
 msgstr ""
+
+msgid "desc_s_Deadeye Aura"
+msgstr ""
+"Party members near you deal more ranged damage to monsters while it holds."
+
+msgid "desc_s_Deadeye Aura_1"
+msgstr ""
+
+msgid "desc_s_Deadeye Skills"
+msgstr "Abilities of the Deadeye mastery."
 
 msgid "desc_s_Death Fog"
 msgstr "Fires a magical ray which brings forth an Unholy mist. "
@@ -1741,6 +1761,9 @@ msgstr "Description of s_Manipulate Skills"
 msgid "desc_s_Manufacturing Skills"
 msgstr ""
 
+msgid "desc_s_Mastery"
+msgstr "Abilities granted by your active mastery."
+
 msgid "desc_s_Max Health Bonus"
 msgstr "Temporarily increases the caster's maximum Health."
 
@@ -2316,6 +2339,12 @@ msgstr "Fires a projectile that explodes upon impact causing Unholy damage. "
 msgid "desc_s_Proc Unholy Flames_area"
 msgstr ""
 
+msgid "desc_s_Provoke"
+msgstr "Monsters nearby turn on you instead of your allies."
+
+msgid "desc_s_Provoke_1"
+msgstr ""
+
 msgid "desc_s_Pungent Mist"
 msgstr "Shoots a cloud of corrosive vapors at your target."
 
@@ -2372,6 +2401,15 @@ msgstr ""
 msgid "desc_s_Rage_Healing"
 msgstr ""
 
+msgid "desc_s_Rain of Arrows"
+msgstr ""
+"Fires an arrow that calls down a rain of arrows where it strikes, wounding "
+"creatures beneath for a short time. Costs an arrow. The falling arrows do "
+"not count as arrows you land."
+
+msgid "desc_s_Rain of Arrows_1"
+msgstr ""
+
 msgid "desc_s_Ranged Skills"
 msgstr "Description of s_Ranged Skills"
 
@@ -2388,6 +2426,14 @@ msgid "desc_s_Reagent Conservation"
 msgstr ""
 "Gives a slight chance of spending one less reagent than usual when casting "
 "spells."
+
+msgid "desc_s_Red Harvest"
+msgstr ""
+"Your wounds tick twice as fast for a short time, and kills refresh it. "
+"Requires knives."
+
+msgid "desc_s_Red Harvest_1"
+msgstr ""
 
 msgid "desc_s_Reflect Spell"
 msgstr "Reflects the next damage spell back to its source."
@@ -2967,6 +3013,13 @@ msgstr "Gives a durability bonus to crafted apparel."
 msgid "desc_s_Trueforge Weapon"
 msgstr "Grants a durability bonus to crafted weapons and staffs."
 
+msgid "desc_s_Unbroken Line"
+msgstr ""
+"Take far less damage from monsters for a short time. Ends if you enter PvP."
+
+msgid "desc_s_Unbroken Line_1"
+msgstr ""
+
 msgid "desc_s_Unburden"
 msgstr "Reduces the caster's Encumbrance."
 
@@ -3013,6 +3066,15 @@ msgstr ""
 msgid "desc_s_Vampiric Touch_1"
 msgstr ""
 
+msgid "desc_s_Vanguard Aura"
+msgstr "Shields party members near you while it holds."
+
+msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "desc_s_Vanguard Skills"
+msgstr "Abilities of the Vanguard mastery."
+
 msgid "desc_s_Venom"
 msgstr ""
 "Fires a missile inflicting Poison damage on its target and lowering maximum "
@@ -3042,6 +3104,15 @@ msgstr ""
 "causing Fire damage."
 
 msgid "desc_s_Volcano_1"
+msgstr ""
+
+msgid "desc_s_Volley"
+msgstr ""
+"Grants full Second Nature stacks, and for a short time every arrow you land "
+"on a monster strikes with spectral force for heavy bonus damage. Ends if you "
+"enter PvP."
+
+msgid "desc_s_Volley_1"
 msgstr ""
 
 msgid "desc_s_Walk"
@@ -3704,11 +3775,29 @@ msgstr "Cursed Bolt"
 msgid "s_Cursed Bolt_1"
 msgstr "Cursed Bolt_1"
 
+msgid "s_Cutthroat Aura"
+msgstr "Cutthroat Aura"
+
+msgid "s_Cutthroat Aura_1"
+msgstr "Cutthroat Aura_1"
+
+msgid "s_Cutthroat Skills"
+msgstr "Cutthroat Skills"
+
 msgid "s_Damaging Blow"
 msgstr "Damaging Blow"
 
 msgid "s_Damaging Blow_1"
 msgstr "Damaging Blow_1"
+
+msgid "s_Deadeye Aura"
+msgstr "Deadeye Aura"
+
+msgid "s_Deadeye Aura_1"
+msgstr "Deadeye Aura_1"
+
+msgid "s_Deadeye Skills"
+msgstr "Deadeye Skills"
 
 msgid "s_Death Fog"
 msgstr "Death Fog"
@@ -4778,6 +4867,9 @@ msgstr "Manipulate Skills"
 msgid "s_Manufacturing Skills"
 msgstr "Manufacturing Skills"
 
+msgid "s_Mastery"
+msgstr "Mastery"
+
 msgid "s_Max Health Bonus"
 msgstr "Max Health Bonus"
 
@@ -5333,6 +5425,12 @@ msgstr "Proc Unholy Flames"
 msgid "s_Proc Unholy Flames_area"
 msgstr "Proc Unholy Flames_area"
 
+msgid "s_Provoke"
+msgstr "Provoke"
+
+msgid "s_Provoke_1"
+msgstr "Provoke_1"
+
 msgid "s_Pungent Mist"
 msgstr "Pungent Mist"
 
@@ -5387,6 +5485,12 @@ msgstr "Rage_1"
 msgid "s_Rage_Healing"
 msgstr "Rage_Healing"
 
+msgid "s_Rain of Arrows"
+msgstr "Rain of Arrows"
+
+msgid "s_Rain of Arrows_1"
+msgstr "Rain of Arrows_1"
+
 msgid "s_Ranged Skills"
 msgstr "Ranged Skills"
 
@@ -5401,6 +5505,12 @@ msgstr "Read"
 
 msgid "s_Reagent Conservation"
 msgstr "Reagent Conservation"
+
+msgid "s_Red Harvest"
+msgstr "Red Harvest"
+
+msgid "s_Red Harvest_1"
+msgstr "Red Harvest_1"
 
 msgid "s_Reflect Spell"
 msgstr "Reflect Spell"
@@ -5930,6 +6040,12 @@ msgstr "Trueforge Armor"
 msgid "s_Trueforge Weapon"
 msgstr "Trueforge Weapon"
 
+msgid "s_Unbroken Line"
+msgstr "Unbroken Line"
+
+msgid "s_Unbroken Line_1"
+msgstr "Unbroken Line_1"
+
 msgid "s_Unburden"
 msgstr "Unburden"
 
@@ -5972,6 +6088,15 @@ msgstr "Vampiric Touch"
 msgid "s_Vampiric Touch_1"
 msgstr "Vampiric Touch_1"
 
+msgid "s_Vanguard Aura"
+msgstr "Vanguard Aura"
+
+msgid "s_Vanguard Aura_1"
+msgstr "Vanguard Aura_1"
+
+msgid "s_Vanguard Skills"
+msgstr "Vanguard Skills"
+
 msgid "s_Venom"
 msgstr "Venom"
 
@@ -5998,6 +6123,12 @@ msgstr "Volcano"
 
 msgid "s_Volcano_1"
 msgstr "Volcano_1"
+
+msgid "s_Volley"
+msgstr "Phantom Quiver"
+
+msgid "s_Volley_1"
+msgstr "Phantom Quiver_1"
 
 msgid "s_Walk"
 msgstr "Walk"

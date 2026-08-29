@@ -518,6 +518,9 @@ msgstr "Resistance Penalty"
 msgid "Resting"
 msgstr "Resting"
 
+msgid "Rupture"
+msgstr "Rupture"
+
 msgid "Scout"
 msgstr "Scout"
 
@@ -528,7 +531,7 @@ msgid "Sidestep"
 msgstr "Sidestep"
 
 msgid "Sighted"
-msgstr "Quickdraw"
+msgstr "Phantom Quiver"
 
 msgid "Slashing Damage"
 msgstr "Slashing Damage"
@@ -813,13 +816,15 @@ msgid "desc_Constitution Penalty"
 msgstr ""
 
 msgid "desc_Cutthroat Aura"
-msgstr " "
+msgstr ""
+"Your party deals more melee damage to monsters while they stand with you."
 
 msgid "desc_Damaging Blow"
 msgstr ""
 
 msgid "desc_Deadeye Aura"
-msgstr " "
+msgstr ""
+"Your party deals more ranged damage to monsters while they stand with you."
 
 msgid "desc_Decapitate"
 msgstr " Off with their heads!"
@@ -1080,7 +1085,9 @@ msgid "desc_Obelisk Quickening Drink"
 msgstr " "
 
 msgid "desc_Opening"
-msgstr " "
+msgstr ""
+"This monster's back is exposed - every attacker hits it as if striking from "
+"behind."
 
 msgid "desc_Paralysis"
 msgstr ""
@@ -1149,7 +1156,8 @@ msgid "desc_Ranged Restart Penalty"
 msgstr " "
 
 msgid "desc_Red Harvest"
-msgstr " "
+msgstr ""
+"Your wounds tick twice as fast. Killing a monster refreshes the duration."
 
 msgid "desc_Reflect Magic"
 msgstr " "
@@ -1169,6 +1177,11 @@ msgstr ""
 msgid "desc_Resting"
 msgstr " "
 
+msgid "desc_Rupture"
+msgstr ""
+"A deeper wound, paid for with 10 Gore stacks. It lasts until the monster "
+"dies, you leave, or 2 minutes pass since your last spend."
+
 msgid "desc_Scout"
 msgstr " "
 
@@ -1179,7 +1192,7 @@ msgid "desc_Sidestep"
 msgstr " "
 
 msgid "desc_Sighted"
-msgstr "Your bow is drawing faster."
+msgstr "Every arrow you land on a monster strikes with spectral force."
 
 msgid "desc_Slashing Damage"
 msgstr ""
@@ -1260,7 +1273,7 @@ msgid "desc_Transformation"
 msgstr ""
 
 msgid "desc_Unbroken Line"
-msgstr " "
+msgstr "You take far less damage from monsters. Ends if you enter PvP."
 
 msgid "desc_Unfazed"
 msgstr " "
@@ -1278,7 +1291,7 @@ msgid "desc_Untouchable"
 msgstr " "
 
 msgid "desc_Vanguard Aura"
-msgstr " "
+msgstr "Your party takes less damage from monsters while they stand with you."
 
 msgid "desc_Visibility"
 msgstr ""

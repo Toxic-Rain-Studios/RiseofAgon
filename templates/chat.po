@@ -11323,16 +11323,16 @@ msgstr "[Mastery] %1 aura ignited for one hour (-%2 essence) - %3"
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_NOT_BUILT"
 msgstr ""
-"[Mastery] Aura: only the Vanguard, Cutthroat and Deadeye auras are built so "
-"far."
+"[Mastery] Aura: only the Vanguard, Cutthroat and Deadeye auras are available "
+"for now."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_NO_LONGER_REACHES"
 msgstr "[Mastery] The %1 aura no longer reaches you."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_OFF_NOT_BUILT"
 msgstr ""
-"[Mastery] Aura off - only the Vanguard, Cutthroat and Deadeye auras are "
-"built so far."
+"[Mastery] Aura: only the Vanguard, Cutthroat and Deadeye auras are available "
+"for now."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_SUPPRESSED_PVP"
 msgstr ""
@@ -11354,10 +11354,13 @@ msgstr "[Mastery] %1 fades."
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_LEVEL_LOCKED"
 msgstr "[Mastery] %1 unlocks at level %2 (currently %3)."
 
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_NEEDS_KNIVES"
+msgstr "[Mastery] Red Harvest needs knives in hand."
+
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_NOT_BUILT"
 msgstr ""
 "[Mastery] Capstone: only the Vanguard, Cutthroat and Deadeye capstones are "
-"built so far."
+"available for now."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
 msgstr "[Mastery] Capstones are sealed while marked by PvP combat."
@@ -11372,13 +11375,13 @@ msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_CONSUMED"
 msgstr "[Mastery] Free swap used."
 
 msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_GRANTED"
-msgstr "[Mastery] Your next mastery swap within 60s is free."
+msgstr "[Mastery] Your next mastery swap is free for a short time."
 
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Mastery] %1 mastery level %2! (%3)"
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
-msgstr "[Mastery] %1 is not part of this build."
+msgstr "[Mastery] %1 is not available yet."
 
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "[Mastery] %1 is already at the highest tier."
@@ -11398,13 +11401,15 @@ msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_LEVEL_LOCKED"
 msgstr "[Mastery] Provoke unlocks at level %1 (currently %2)."
 
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_ACTIVE"
-msgstr "[Mastery] QUICKDRAW - draw speed +%1% for %2s."
+msgstr ""
+"[Mastery] PHANTOM QUIVER - your arrows strike with spectral force (+%1%) for "
+"%2s."
 
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_CANCELLED"
-msgstr "[Mastery] Quickdraw is broken off."
+msgstr "[Mastery] Phantom Quiver collapses - PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_SPENT"
-msgstr "[Mastery] Quickdraw is spent."
+msgstr "[Mastery] Phantom Quiver fades."
 
 msgid "NOTIFICATION_PVE_MASTERY_RAIN_COOLDOWN"
 msgstr "[Mastery] Rain of Arrows on cooldown (%1s left)."
@@ -11415,14 +11420,16 @@ msgstr ""
 
 msgid "NOTIFICATION_PVE_MASTERY_RED_HARVEST_ACTIVE"
 msgstr ""
-"[Mastery] RED HARVEST - melee damage +%1% vs monsters for %2s. Kills refresh "
-"it."
+"[Mastery] RED HARVEST - your wounds tick twice as fast (%1x total) for %2s. "
+"Kills refresh it."
 
 msgid "NOTIFICATION_PVE_MASTERY_RUPTURE"
-msgstr "[Mastery] RUPTURE - %1 damage."
+msgstr "[Mastery] RUPTURE - deeper wound %1/%2, spending %3 Gore stacks."
 
-msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_SPLASH"
-msgstr "[Mastery] RUPTURE - %1 damage, splashing %2 nearby."
+msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_REFRESH"
+msgstr ""
+"[Mastery] RUPTURE - deeper wound %1/%2 refreshed; it will not run out for "
+"another 2 minutes."
 
 msgid "NOTIFICATION_PVE_MASTERY_STATUS_ESSENCE"
 msgstr "[Mastery] Essence pool: %1 / %2"
@@ -11453,8 +11460,7 @@ msgstr "[Mastery] Taunt on cooldown (%1s left)."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_NOT_BUILT"
 msgstr ""
-"[Mastery] Taunt: only the Vanguard taunt is built so far - activate Vanguard "
-"first."
+"[Mastery] Taunt: only Vanguard has one for now - activate Vanguard first."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_PVP_SEALED"
 msgstr "[Mastery] Taunts are sealed while marked by PvP combat."

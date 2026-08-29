@@ -5613,6 +5613,189 @@ msgstr "Backstab"
 msgid "mastery_alt_battle_fortitude"
 msgstr "Battle Fortitude"
 
+msgid "mastery_alt_berserker_bloodthirst_desc"
+msgstr ""
+"Steal life on every melee hit against monsters: up to 12% of damage dealt, "
+"scaling with your missing health."
+
+# BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
+#
+# Generated from pvemasteryconfig.xml. Do not hand-edit: re-run the script.
+# The English here IS the config prose, so the window and the .po cannot
+# disagree about what the ability says.
+msgid "mastery_alt_berserker_bloodthirst_name"
+msgstr "Bloodthirst"
+
+msgid "mastery_alt_berserker_bloodthirst_rank1"
+msgstr "Maximum lifesteal at low health raised to 16%."
+
+msgid "mastery_alt_berserker_bloodthirst_rank2"
+msgstr "Maximum lifesteal raised to 20%."
+
+msgid "mastery_alt_berserker_bloodthirst_rank3"
+msgstr "Maximum lifesteal raised to 25%."
+
+msgid "mastery_alt_berserker_frenzy_desc"
+msgstr "Attack speed rises with missing health: up to +20% at low health."
+
+msgid "mastery_alt_berserker_frenzy_name"
+msgstr "Frenzy"
+
+msgid "mastery_alt_berserker_frenzy_rank1"
+msgstr "Two-handed special cooldowns also drop at low health, up to -10%."
+
+msgid "mastery_alt_berserker_frenzy_rank2"
+msgstr "Special cooldowns drop up to -20%."
+
+msgid "mastery_alt_berserker_frenzy_rank3"
+msgstr "Special cooldowns drop up to -30%."
+
+msgid "mastery_alt_berserker_laststand_desc"
+msgstr ""
+"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_berserker_laststand_name"
+msgstr "Last Stand"
+
+msgid "mastery_alt_berserker_laststand_rank1"
+msgstr ""
+"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_berserker_laststand_rank2"
+msgstr ""
+"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_berserker_laststand_rank3"
+msgstr ""
+"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_berserker_maelstrom_desc"
+msgstr ""
+"Whirlwind Attack deals +8% damage per monster around you, counting up to 3 "
+"(+24%)."
+
+msgid "mastery_alt_berserker_maelstrom_name"
+msgstr "Maelstrom"
+
+msgid "mastery_alt_berserker_maelstrom_rank1"
+msgstr "Counts up to 4 monsters (max +32%)."
+
+msgid "mastery_alt_berserker_maelstrom_rank2"
+msgstr "Counts up to 5 monsters (max +40%)."
+
+msgid "mastery_alt_berserker_maelstrom_rank3"
+msgstr "Counts up to 6 monsters (max +48%)."
+
+msgid "mastery_alt_berserker_onslaught_desc"
+msgstr ""
+"+20% damage to monsters above 80% health, fading to nothing as the target "
+"drops to 30%."
+
+msgid "mastery_alt_berserker_onslaught_name"
+msgstr "Onslaught"
+
+msgid "mastery_alt_berserker_onslaught_rank1"
+msgstr "The bonus never fades below +5%."
+
+msgid "mastery_alt_berserker_onslaught_rank2"
+msgstr "The bonus never fades below +10%."
+
+msgid "mastery_alt_berserker_onslaught_rank3"
+msgstr "The bonus never fades below +15%."
+
+msgid "mastery_alt_blightcaller_blight_desc"
+msgstr ""
+"Cursed Bolt stacks a poison: 5 damage per stack over 4 seconds, up to 5 "
+"stacks."
+
+msgid "mastery_alt_blightcaller_blight_name"
+msgstr "Blight"
+
+msgid "mastery_alt_blightcaller_blight_rank1"
+msgstr "Poison stacks up to 8."
+
+msgid "mastery_alt_blightcaller_blight_rank2"
+msgstr "Stacks up to 12."
+
+msgid "mastery_alt_blightcaller_blight_rank3"
+msgstr "Stacks up to 16."
+
+msgid "mastery_alt_blightcaller_glut_desc"
+msgstr ""
+"Leeching health you are already full on converts the surplus into damage, 1 "
+"for 1."
+
+msgid "mastery_alt_blightcaller_glut_name"
+msgstr "Glut"
+
+msgid "mastery_alt_blightcaller_glut_rank1"
+msgstr "Also converts surplus mana."
+
+msgid "mastery_alt_blightcaller_glut_rank2"
+msgstr "Also converts surplus stamina."
+
+msgid "mastery_alt_blightcaller_glut_rank3"
+msgstr "Conversion rises to 1.5 damage per point."
+
+msgid "mastery_alt_blightcaller_miasma_desc"
+msgstr "Curses hit every monster within 5m of the target."
+
+msgid "mastery_alt_blightcaller_miasma_name"
+msgstr "Miasma"
+
+msgid "mastery_alt_blightcaller_miasma_rank1"
+msgstr "Curse effects are +10% stronger."
+
+msgid "mastery_alt_blightcaller_miasma_rank2"
+msgstr "+20% stronger."
+
+msgid "mastery_alt_blightcaller_miasma_rank3"
+msgstr "+30% stronger."
+
+msgid "mastery_alt_blightcaller_siphon_desc"
+msgstr ""
+"Leech spells - Vampiric Touch, Mana Leech and kin - drain +50% more and can "
+"stack twice."
+
+msgid "mastery_alt_blightcaller_siphon_name"
+msgstr "Siphon"
+
+msgid "mastery_alt_blightcaller_siphon_rank1"
+msgstr "Cursed Bolt has a 10% chance to reset a leech cooldown."
+
+msgid "mastery_alt_blightcaller_siphon_rank2"
+msgstr "A 15% chance."
+
+msgid "mastery_alt_blightcaller_siphon_rank3"
+msgstr "A 20% chance."
+
+msgid "mastery_alt_blightcaller_virulence_desc"
+msgstr ""
+"ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
+"3 minute cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_blightcaller_virulence_name"
+msgstr "Virulence"
+
+msgid "mastery_alt_blightcaller_virulence_rank1"
+msgstr ""
+"ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
+"3 minute cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_blightcaller_virulence_rank2"
+msgstr ""
+"ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
+"3 minute cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_blightcaller_virulence_rank3"
+msgstr ""
+"ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
+"3 minute cooldown. Drag it onto your hotbar from the Skills window."
+
 msgid "mastery_alt_blood_drinker"
 msgstr "Blood Drinker"
 
@@ -5628,11 +5811,285 @@ msgstr "Corpse Explosion"
 msgid "mastery_alt_crimson_communion"
 msgstr "Crimson Communion"
 
+msgid "mastery_alt_cutthroat_gore_desc"
+msgstr ""
+"Requires knives. Every hit from behind adds a Gore stack, up to 10. The "
+"wound deals 1.2% of that hit every second per stack - 12% a second at 10 "
+"stacks - and refreshes with each hit. Stop hitting for 10 seconds and every "
+"stack is lost."
+
+msgid "mastery_alt_cutthroat_gore_name"
+msgstr "Gore"
+
+msgid "mastery_alt_cutthroat_gore_rank1"
+msgstr "Each stack ticks for 1.5% instead of 1.2%."
+
+msgid "mastery_alt_cutthroat_gore_rank2"
+msgstr "Each stack ticks for 1.9%."
+
+msgid "mastery_alt_cutthroat_gore_rank3"
+msgstr "Each stack ticks for 2.4% - 24% a second at full stacks."
+
+msgid "mastery_alt_cutthroat_momentum_desc"
+msgstr ""
+"Requires knives. +2% melee damage per consecutive hit on monsters, up to "
+"+16%. Pause for 6 seconds or enter PvP and it resets."
+
+msgid "mastery_alt_cutthroat_momentum_name"
+msgstr "Momentum"
+
+msgid "mastery_alt_cutthroat_momentum_rank1"
+msgstr "Ramp cap raised to +20%."
+
+msgid "mastery_alt_cutthroat_momentum_rank2"
+msgstr "Ramp cap raised to +25%."
+
+msgid "mastery_alt_cutthroat_momentum_rank3"
+msgstr "Ramp cap raised to +30%."
+
+msgid "mastery_alt_cutthroat_opening_desc"
+msgstr ""
+"Requires knives. Disabling Blow exposes the monster for 4 seconds: ANYONE "
+"attacking it hits as if striking from behind (+40% damage), not just you or "
+"your party. It also opens the wound with 1 Gore stack."
+
+msgid "mastery_alt_cutthroat_opening_name"
+msgstr "Opening"
+
+msgid "mastery_alt_cutthroat_opening_rank1"
+msgstr "The opening blow grants 2 Gore stacks."
+
+msgid "mastery_alt_cutthroat_opening_rank2"
+msgstr "Grants 3 Gore stacks."
+
+msgid "mastery_alt_cutthroat_opening_rank3"
+msgstr "Grants 4 Gore stacks."
+
+msgid "mastery_alt_cutthroat_redharvest_desc"
+msgstr ""
+"ACTIVE: for 10 seconds your wounds tick TWICE AS FAST, and your Gore stacks "
+"do not decay. Kills refresh the duration. Worth nothing on a target you have "
+"not bled - it multiplies what you built. 3 minute cooldown. Needs knives in "
+"hand. Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_cutthroat_redharvest_name"
+msgstr "Red Harvest"
+
+msgid "mastery_alt_cutthroat_redharvest_rank1"
+msgstr "Each tick also hits 12.5% harder, cooldown 2 minutes 45 seconds."
+
+msgid "mastery_alt_cutthroat_redharvest_rank2"
+msgstr "Each tick hits 25% harder, cooldown 2 minutes 30 seconds."
+
+msgid "mastery_alt_cutthroat_redharvest_rank3"
+msgstr "Each tick hits 50% harder, cooldown 2 minutes 15 seconds."
+
+msgid "mastery_alt_cutthroat_rupture_desc"
+msgstr ""
+"Requires knives. A Power Attack FROM BEHIND at 10 Gore stacks spends them "
+"all and tears a deeper wound: a second bleed worth 6% of the hit every "
+"second. It needs no upkeep - it lasts until the monster dies, you move more "
+"than 30m away, or 2 minutes pass since your last spend. At the ceiling a "
+"Power Attack refreshes it instead. It stacks once, and each rank lets it "
+"stack once more. Both counts are shown on the target."
+
+msgid "mastery_alt_cutthroat_rupture_name"
+msgstr "Rupture"
+
+msgid "mastery_alt_cutthroat_rupture_rank1"
+msgstr "The deeper wound stacks up to 2 times."
+
+msgid "mastery_alt_cutthroat_rupture_rank2"
+msgstr "Up to 3 times."
+
+msgid "mastery_alt_cutthroat_rupture_rank3"
+msgstr "Up to 4 times."
+
 msgid "mastery_alt_damaging_blow"
 msgstr "Damaging Blow"
 
+msgid "mastery_alt_deadeye_breach_desc"
+msgstr ""
+"Disabling Shot strips up to 4 points of the monster's protection against the "
+"arrow you fired, for 30 seconds. While it lasts, arrows of that kind hit "
+"harder - yours and your allies' alike."
+
+msgid "mastery_alt_deadeye_breach_name"
+msgstr "Breach"
+
+msgid "mastery_alt_deadeye_breach_rank1"
+msgstr "Strips up to 5 points."
+
+msgid "mastery_alt_deadeye_breach_rank2"
+msgstr "Strips up to 6 points."
+
+msgid "mastery_alt_deadeye_breach_rank3"
+msgstr "Strips up to 7 points."
+
+msgid "mastery_alt_deadeye_cadence_desc"
+msgstr ""
+"Every 8th arrow you land on a monster is a critical hit for +100% damage. "
+"Switching targets keeps your count. It clears if you miss or go 6 seconds "
+"without a hit."
+
+msgid "mastery_alt_deadeye_cadence_name"
+msgstr "Bullseye"
+
+msgid "mastery_alt_deadeye_cadence_rank1"
+msgstr "Crits on every 7th arrow."
+
+msgid "mastery_alt_deadeye_cadence_rank2"
+msgstr "Crits on every 6th arrow."
+
+msgid "mastery_alt_deadeye_cadence_rank3"
+msgstr "Crits on every 5th arrow."
+
+msgid "mastery_alt_deadeye_precision_desc"
+msgstr ""
+"A miss takes only 4 hits off your Bullseye count and your Second Nature "
+"stacks, instead of clearing them."
+
+msgid "mastery_alt_deadeye_precision_name"
+msgstr "Forgiving Aim"
+
+msgid "mastery_alt_deadeye_precision_rank1"
+msgstr "A miss takes off 3 hits."
+
+msgid "mastery_alt_deadeye_precision_rank2"
+msgstr "A miss takes off 2 hits."
+
+msgid "mastery_alt_deadeye_precision_rank3"
+msgstr "A miss takes off 1 hit."
+
+msgid "mastery_alt_deadeye_ranging_desc"
+msgstr ""
+"Each arrow you land on a monster draws the next one faster, stacking 10 "
+"times to cut your draw time by up to 20%. The bonus survives Bullseye's "
+"critical hit and target switches. It fades if you miss or go 6 seconds "
+"without landing an arrow."
+
+msgid "mastery_alt_deadeye_ranging_name"
+msgstr "Second Nature"
+
+msgid "mastery_alt_deadeye_ranging_rank1"
+msgstr "Draw time cut rises to 26%."
+
+msgid "mastery_alt_deadeye_ranging_rank2"
+msgstr "Draw time cut rises to 32%."
+
+msgid "mastery_alt_deadeye_ranging_rank3"
+msgstr "Draw time cut rises to 40%."
+
+msgid "mastery_alt_deadeye_volley_desc"
+msgstr ""
+"ACTIVE: instantly grants full Second Nature stacks, and for 10 seconds every "
+"arrow you land on a monster strikes with spectral force - 50% bonus damage "
+"on top of the hit, critical hits included. 3 minute cooldown. Ends if you "
+"enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_deadeye_volley_name"
+msgstr "Phantom Quiver"
+
+msgid "mastery_alt_deadeye_volley_rank1"
+msgstr "Lasts 13 seconds, cooldown 2 minutes 45 seconds."
+
+msgid "mastery_alt_deadeye_volley_rank2"
+msgstr "Lasts 16 seconds, cooldown 2 minutes 30 seconds."
+
+msgid "mastery_alt_deadeye_volley_rank3"
+msgstr "Lasts 20 seconds, cooldown 2 minutes 15 seconds."
+
 msgid "mastery_alt_echo"
 msgstr "Echo"
+
+msgid "mastery_alt_elementalist_cascade_desc"
+msgstr ""
+"A STRONGER spell of the same school detonates your mark for 80% of its bolt "
+"damage: fire explodes, water freezes, air chains, earth shreds armour."
+
+msgid "mastery_alt_elementalist_cascade_name"
+msgstr "Cascade"
+
+msgid "mastery_alt_elementalist_cascade_rank1"
+msgstr "Payload strength +25%."
+
+msgid "mastery_alt_elementalist_cascade_rank2"
+msgstr "Payload strength +50%."
+
+msgid "mastery_alt_elementalist_cascade_rank3"
+msgstr "Payload strength +75%."
+
+msgid "mastery_alt_elementalist_chainreaction_desc"
+msgstr "Detonating a mark seeds marks at 40% strength on monsters within 4m."
+
+msgid "mastery_alt_elementalist_chainreaction_name"
+msgstr "Chain Reaction"
+
+msgid "mastery_alt_elementalist_chainreaction_rank1"
+msgstr "Seeded marks land at 60% strength."
+
+msgid "mastery_alt_elementalist_chainreaction_rank2"
+msgstr "At 80% strength."
+
+msgid "mastery_alt_elementalist_chainreaction_rank3"
+msgstr "At full strength."
+
+msgid "mastery_alt_elementalist_enduringstorms_desc"
+msgstr ""
+"Ground spells - storms, rains, walls - last twice as long when they hit at "
+"least one monster."
+
+msgid "mastery_alt_elementalist_enduringstorms_name"
+msgstr "Enduring Storms"
+
+msgid "mastery_alt_elementalist_enduringstorms_rank1"
+msgstr "Late storm ticks deal up to +30% more damage."
+
+msgid "mastery_alt_elementalist_enduringstorms_rank2"
+msgstr "Up to +60% more."
+
+msgid "mastery_alt_elementalist_enduringstorms_rank3"
+msgstr "Up to +90% more."
+
+msgid "mastery_alt_elementalist_overload_desc"
+msgstr ""
+"ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
+"cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_elementalist_overload_name"
+msgstr "Overload"
+
+msgid "mastery_alt_elementalist_overload_rank1"
+msgstr ""
+"ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
+"cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_elementalist_overload_rank2"
+msgstr ""
+"ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
+"cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_elementalist_overload_rank3"
+msgstr ""
+"ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
+"cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_elementalist_residue_desc"
+msgstr ""
+"Elemental bolts leave a mark dealing 15% of the bolt damage over 5 seconds: "
+"fire burns, water chills, air shocks, earth weakens armour."
+
+msgid "mastery_alt_elementalist_residue_name"
+msgstr "Residue"
+
+msgid "mastery_alt_elementalist_residue_rank1"
+msgstr "Mark damage raised to 20% of the bolt."
+
+msgid "mastery_alt_elementalist_residue_rank2"
+msgstr "Raised to 25% of the bolt."
+
+msgid "mastery_alt_elementalist_residue_rank3"
+msgstr "Raised to 30% of the bolt."
 
 msgid "mastery_alt_ironskin"
 msgstr "Ironskin"
@@ -5645,6 +6102,99 @@ msgstr "Last Stand"
 
 msgid "mastery_alt_mana_shield"
 msgstr "Mana Shield"
+
+msgid "mastery_alt_oracle_benediction_desc"
+msgstr "Healing Chant no longer heals monsters and heals players +100% more."
+
+msgid "mastery_alt_oracle_benediction_name"
+msgstr "Benediction"
+
+msgid "mastery_alt_oracle_benediction_rank1"
+msgstr "Healing bonus raised to +130%."
+
+msgid "mastery_alt_oracle_benediction_rank2"
+msgstr "Raised to +160%."
+
+msgid "mastery_alt_oracle_benediction_rank3"
+msgstr "Raised to +200%."
+
+msgid "mastery_alt_oracle_communion_desc"
+msgstr ""
+"Mana Blast charges your next Sacrifice: +25% healing per monster caught, "
+"counting up to 4 (+100%)."
+
+msgid "mastery_alt_oracle_communion_name"
+msgstr "Communion"
+
+msgid "mastery_alt_oracle_communion_rank1"
+msgstr "Counts up to 6 monsters (max +150% healing)."
+
+msgid "mastery_alt_oracle_communion_rank2"
+msgstr "Up to 8 monsters (max +200%)."
+
+msgid "mastery_alt_oracle_communion_rank3"
+msgstr "Up to 10 monsters (max +250%)."
+
+msgid "mastery_alt_oracle_overflow_desc"
+msgstr ""
+"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
+"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
+"window."
+
+msgid "mastery_alt_oracle_overflow_name"
+msgstr "Overflow"
+
+msgid "mastery_alt_oracle_overflow_rank1"
+msgstr ""
+"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
+"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
+"window."
+
+msgid "mastery_alt_oracle_overflow_rank2"
+msgstr ""
+"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
+"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
+"window."
+
+msgid "mastery_alt_oracle_overflow_rank3"
+msgstr ""
+"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
+"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
+"window."
+
+msgid "mastery_alt_oracle_quickening_desc"
+msgstr ""
+"Landing Missile Fury on a monster makes your next Heal Other cast instantly "
+"(within 8 seconds)."
+
+msgid "mastery_alt_oracle_quickening_name"
+msgstr "Quickening"
+
+msgid "mastery_alt_oracle_quickening_rank1"
+msgstr ""
+"Healing an ally marks them for 8s - Missile Fury also heals marked allies "
+"near its blast."
+
+msgid "mastery_alt_oracle_quickening_rank2"
+msgstr "The mark lasts 12s."
+
+msgid "mastery_alt_oracle_quickening_rank3"
+msgstr "The mark lasts 16s."
+
+msgid "mastery_alt_oracle_warding_desc"
+msgstr "Ward spells block +50% more monster damage."
+
+msgid "mastery_alt_oracle_warding_name"
+msgstr "Warding"
+
+msgid "mastery_alt_oracle_warding_rank1"
+msgstr "Ward bonus raised to +75%."
+
+msgid "mastery_alt_oracle_warding_rank2"
+msgstr "Raised to +100%."
+
+msgid "mastery_alt_oracle_warding_rank3"
+msgstr "Raised to +125%."
 
 msgid "mastery_alt_rank_bar_title"
 msgstr "%1 rank"
@@ -5669,6 +6219,97 @@ msgstr "Twin Blades"
 
 msgid "mastery_alt_vampiric_touch"
 msgstr "Vampiric Touch"
+
+msgid "mastery_alt_vanguard_aegis_desc"
+msgstr ""
+"With a shield equipped, monsters hitting you in melee take thorns damage "
+"scaling with shield rank: up to 3 per hit at rank 80."
+
+msgid "mastery_alt_vanguard_aegis_name"
+msgstr "Aegis"
+
+msgid "mastery_alt_vanguard_aegis_rank1"
+msgstr "Thorns at shield rank 80 raised to 5 per hit."
+
+msgid "mastery_alt_vanguard_aegis_rank2"
+msgstr "Raised to 7 per hit."
+
+msgid "mastery_alt_vanguard_aegis_rank3"
+msgstr "Raised to 9 per hit."
+
+msgid "mastery_alt_vanguard_coveringstance_desc"
+msgstr ""
+"With a shield, allies in a cone behind you take 20% less damage - that share "
+"is redirected to you."
+
+msgid "mastery_alt_vanguard_coveringstance_name"
+msgstr "Covering Stance"
+
+msgid "mastery_alt_vanguard_coveringstance_rank1"
+msgstr "Redirected share raised to 25%."
+
+msgid "mastery_alt_vanguard_coveringstance_rank2"
+msgstr "Raised to 30%."
+
+msgid "mastery_alt_vanguard_coveringstance_rank3"
+msgstr "Raised to 35%."
+
+msgid "mastery_alt_vanguard_provoke_desc"
+msgstr "Monsters are 2.4x as likely to attack you instead of your allies."
+
+msgid "mastery_alt_vanguard_provoke_name"
+msgstr "Provoke"
+
+msgid "mastery_alt_vanguard_provoke_rank1"
+msgstr "Monsters turn on you from +25% further away."
+
+msgid "mastery_alt_vanguard_provoke_rank2"
+msgstr "From +50% further away."
+
+msgid "mastery_alt_vanguard_provoke_rank3"
+msgstr "From +75% further away."
+
+msgid "mastery_alt_vanguard_sap_desc"
+msgstr ""
+"Power Attack with a one-handed weapon heals you for 22% of damage dealt, "
+"rising with weapon rank to 40% at rank 80."
+
+msgid "mastery_alt_vanguard_sap_name"
+msgstr "Sap"
+
+msgid "mastery_alt_vanguard_sap_rank1"
+msgstr ""
+"Overheal becomes temporary health, up to 50 - it absorbs monster damage "
+"before your health and lasts until spent."
+
+msgid "mastery_alt_vanguard_sap_rank2"
+msgstr "Temporary health cap raised to 75."
+
+msgid "mastery_alt_vanguard_sap_rank3"
+msgstr "Temporary health cap raised to 100."
+
+msgid "mastery_alt_vanguard_unbrokenline_desc"
+msgstr ""
+"ACTIVE: -60% damage taken from monsters for 20 seconds. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_vanguard_unbrokenline_name"
+msgstr "Unbroken Line"
+
+msgid "mastery_alt_vanguard_unbrokenline_rank1"
+msgstr ""
+"ACTIVE: -60% damage taken from monsters for 20 seconds. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_vanguard_unbrokenline_rank2"
+msgstr ""
+"ACTIVE: -60% damage taken from monsters for 20 seconds. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_vanguard_unbrokenline_rank3"
+msgstr ""
+"ACTIVE: -60% damage taken from monsters for 20 seconds. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
 
 msgid "mastery_alterations_caption"
 msgstr "Alterations"
@@ -5780,7 +6421,7 @@ msgid "mastery_orb_needed"
 msgstr "Mastery Orb needed to advance past level %1"
 
 msgid "mastery_orb_sigil_hint"
-msgstr "Tier gates need a Mastery Orb; Sigils swap your active path."
+msgstr "Tier gates need a Mastery Orb; Sigils swap your active mastery."
 
 msgid "mastery_preview_note"
 msgstr "Preview - not your active mastery."
@@ -7041,6 +7682,7 @@ msgstr "Page"
 msgid "taskbook_rare_rewards"
 msgstr "Possible Rare Rewards"
 
+# END generated mastery alteration strings
 msgid "taskbook_title"
 msgstr "Task Book"
 
