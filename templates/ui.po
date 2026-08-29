@@ -5947,8 +5947,14 @@ msgstr "Not attachable"
 msgid "not_attached"
 msgstr "Not attached"
 
+msgid "notification_tray_clear"
+msgstr "Clear"
+
 msgid "notification_tray_empty"
 msgstr "Nothing new."
+
+msgid "notification_tray_placement_title"
+msgstr "Notifications"
 
 msgid "notify_bodkin_requires_ranger"
 msgstr "You must be a Ranger to use Bodkin arrows."
