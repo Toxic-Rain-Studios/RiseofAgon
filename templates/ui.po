@@ -3286,6 +3286,12 @@ msgstr "Are you sure you want to destroy %2 %1?"
 msgid "inventory_item_split_drop_on_ground_confirmation"
 msgstr "Are you sure you want to drop %2 %1 on the ground?"
 
+msgid "inventory_menu_pin_container"
+msgstr "Pin (keep in place when sorting)"
+
+msgid "inventory_menu_unpin_container"
+msgstr "Unpin (allow sorting to move)"
+
 msgid "inventory_type_backpack"
 msgstr "Backpack"
 
