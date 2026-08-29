@@ -9498,6 +9498,9 @@ msgstr "Inventory item attached: %1"
 msgid "NOTIFICATION_INVENTORY_ITEM_COULD_NOT_BE_LOCKED"
 msgstr "Item could not be locked."
 
+msgid "NOTIFICATION_INVENTORY_ITEM_DESTROYED_ON_DEATH"
+msgstr "Your %1 was destroyed!"
+
 msgid "NOTIFICATION_INVENTORY_ITEM_DETACHED"
 msgstr "Inventory item detached: %1"
 
@@ -12402,6 +12405,15 @@ msgstr "You bought one or more items"
 
 msgid "NOTIFICATION_VENDOR_ITEMS_WERE_SOLD"
 msgstr "You sold one or more items"
+
+msgid "NOTIFICATION_VENDOR_REPAIR_COMPLETED"
+msgstr "Your items have been repaired for %1 gold."
+
+msgid "NOTIFICATION_VENDOR_REPAIR_NOTHING_TO_REPAIR"
+msgstr "Nothing needs repairing."
+
+msgid "NOTIFICATION_VENDOR_REPAIR_NOT_ENOUGH_GOLD"
+msgstr "You do not have enough gold in your bank to pay for repairs."
 
 msgid "NOTIFICATION_VENDOR_SKILL_EXTENSION_NOT_BOUGHT"
 msgstr "You were unable to buy the skill extension"

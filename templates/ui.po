@@ -6696,6 +6696,15 @@ msgstr "Mirdain"
 msgid "race_ork"
 msgstr "Ork"
 
+msgid "repair_bank_gold_label"
+msgstr "Bank: %1"
+
+msgid "repair_button"
+msgstr "Repair"
+
+msgid "repair_nothing_damaged"
+msgstr "Nothing needs repairing."
+
 msgid "research_drag_schematic_here_description"
 msgstr "Drag Schematic Here For Research"
 
@@ -7282,6 +7291,9 @@ msgstr "Skinning..."
 
 msgid "worldmap_window_title"
 msgstr "Worldmap (%1)"
+
+msgid "worn_out"
+msgstr "Worn Out"
 
 msgid "yes"
 msgstr "Yes"
