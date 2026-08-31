@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-08-31 23:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/character_creator/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "cc_phoneme_Alfar Female End_0"
 msgstr "帝国"
@@ -192,6 +197,7 @@ msgstr "雷映"
 msgid "cc_phoneme_Alfar Male Start_18"
 msgstr "撬动的"
 
+#, fuzzy
 msgid "cc_phoneme_Alfar Male Start_19"
 msgstr "猫腰的"
 
@@ -5069,4 +5075,3 @@ msgstr "精灵是一个杰出的古老森林种族,居住在Agon西南部的巨�
 
 msgid "cc_Mirdain_faction_description"
 msgstr "种族能力:\r\n射箭伤害增加.增加识别范围.耐力加成."
-
