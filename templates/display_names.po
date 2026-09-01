@@ -5,6 +5,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "display_name_Resource"
+msgstr "Resource"
+
 msgid "display_name_r_Achrid"
 msgstr "Achrid"
 
@@ -19,6 +22,15 @@ msgstr "Aernaran"
 
 msgid "display_name_r_Air Elemental"
 msgstr "Air Elemental"
+
+msgid "display_name_r_Air Elemental Lesser"
+msgstr "Air Elemental Lesser"
+
+msgid "display_name_r_Air Essence"
+msgstr "Air Essence"
+
+msgid "display_name_r_Air Magic Scrolls"
+msgstr "Air Magic Scrolls"
 
 msgid "display_name_r_Akathar"
 msgstr "Akathar"
@@ -68,6 +80,12 @@ msgstr "Alfar Mace"
 msgid "display_name_r_Alfar Mage Staff"
 msgstr "Ironstaff"
 
+msgid "display_name_r_Alfar Male"
+msgstr "Alfar Male"
+
+msgid "display_name_r_Alfar Monsters"
+msgstr "Alfar Monsters"
+
 msgid "display_name_r_Alfar Mutilator"
 msgstr "Alfar Mutilator"
 
@@ -82,6 +100,9 @@ msgstr "Alfar Widowmakers"
 
 msgid "display_name_r_Ambrosia"
 msgstr "Ambrosia"
+
+msgid "display_name_r_Ammo"
+msgstr "Ammo"
 
 msgid "display_name_r_Anathema"
 msgstr "Anathema"
@@ -110,8 +131,14 @@ msgstr "Angra Bow"
 msgid "display_name_r_Angra Ward"
 msgstr "Angra Ward"
 
+msgid "display_name_r_Animals"
+msgstr "Animals"
+
 msgid "display_name_r_Anvil Warhammer"
 msgstr "Anvil Warhammer"
+
+msgid "display_name_r_Apparel"
+msgstr "Apparel"
 
 msgid "display_name_r_Apple"
 msgstr "Apple"
@@ -137,6 +164,12 @@ msgstr "Arachnid Fang"
 msgid "display_name_r_Arachnid Venom Sac"
 msgstr "Baleful Venom Sac"
 
+msgid "display_name_r_Arcane Essence"
+msgstr "Arcane Essence"
+
+msgid "display_name_r_Arcane Magic Scrolls"
+msgstr "Arcane Magic Scrolls"
+
 msgid "display_name_r_Arcane Ring"
 msgstr "Arcane Ring"
 
@@ -151,6 +184,9 @@ msgstr "Archangelica Garden"
 
 msgid "display_name_r_Armadillo"
 msgstr "Armadillo"
+
+msgid "display_name_r_Armor"
+msgstr "Armor"
 
 msgid "display_name_r_Armor Angra Skeleton Bracers"
 msgstr "Khamset Wristbands"
@@ -200,17 +236,56 @@ msgstr "Banded Spaulders"
 msgid "display_name_r_Armor Banded Torso"
 msgstr "Banded Cuirass"
 
+msgid "display_name_r_Armor Barbaric"
+msgstr "Armor Barbaric"
+
+msgid "display_name_r_Armor Barbaric Elbows"
+msgstr "Armor Barbaric Elbows"
+
+msgid "display_name_r_Armor Barbaric Footwear"
+msgstr "Armor Barbaric Footwear"
+
+msgid "display_name_r_Armor Barbaric Girdle"
+msgstr "Armor Barbaric Girdle"
+
+msgid "display_name_r_Armor Barbaric Hands"
+msgstr "Armor Barbaric Hands"
+
+msgid "display_name_r_Armor Barbaric Helmet"
+msgstr "Armor Barbaric Helmet"
+
+msgid "display_name_r_Armor Barbaric Legs"
+msgstr "Armor Barbaric Legs"
+
+msgid "display_name_r_Armor Barbaric Pants"
+msgstr "Armor Barbaric Pants"
+
+msgid "display_name_r_Armor Barbaric Shoulders"
+msgstr "Armor Barbaric Shoulders"
+
+msgid "display_name_r_Armor Barbaric Torso"
+msgstr "Armor Barbaric Torso"
+
+msgid "display_name_r_Armor Beastman"
+msgstr "Armor Beastman"
+
 msgid "display_name_r_Armor Beastman Bracers"
 msgstr "Beastman Bracers"
 
 msgid "display_name_r_Armor Beastman Greaves"
 msgstr "Beastman Greaves"
 
+msgid "display_name_r_Armor Below"
+msgstr "Armor Below"
+
 msgid "display_name_r_Armor Belows Hood"
 msgstr "Below's Hood"
 
 msgid "display_name_r_Armor Belows Shoulders"
 msgstr "Below Pauldrons"
+
+msgid "display_name_r_Armor Black Knight"
+msgstr "Armor Black Knight"
 
 msgid "display_name_r_Armor Black Knight Boots"
 msgstr "Black Knight Boots"
@@ -275,6 +350,9 @@ msgstr "Chain Chausses"
 msgid "display_name_r_Armor Chain Torso"
 msgstr "Chain Hauberk"
 
+msgid "display_name_r_Armor Ciel Fey"
+msgstr "Armor Ciel Fey"
+
 msgid "display_name_r_Armor Ciel Fey Boots"
 msgstr "Ciel Fey Boots"
 
@@ -295,6 +373,9 @@ msgstr "Cloth Leggings"
 
 msgid "display_name_r_Armor Cloth Torso"
 msgstr "Cloth Vest"
+
+msgid "display_name_r_Armor Devil"
+msgstr "Armor Devil"
 
 msgid "display_name_r_Armor Devils Bracers"
 msgstr "Stygian Bracers"
@@ -365,6 +446,9 @@ msgstr "Full Plate Shoulder Guards"
 msgid "display_name_r_Armor Full Plate Torso"
 msgstr "Full Plate Cuirass"
 
+msgid "display_name_r_Armor Gnoll"
+msgstr "Armor Gnoll"
+
 msgid "display_name_r_Armor Gnoll Bracers"
 msgstr "Gnoll Bracers"
 
@@ -382,6 +466,12 @@ msgstr "Gray Ork Helmet"
 
 msgid "display_name_r_Armor Grey Ork Shoulders"
 msgstr "Gray Ork Pauldrons"
+
+msgid "display_name_r_Armor Grey ork"
+msgstr "Armor Grey ork"
+
+msgid "display_name_r_Armor Hobgoblin"
+msgstr "Armor Hobgoblin"
 
 msgid "display_name_r_Armor Hobgoblin Gauntlet"
 msgstr "Hobgoblin Gauntlets"
@@ -458,17 +548,26 @@ msgstr "Leather Shoulder Pads"
 msgid "display_name_r_Armor Leather Torso"
 msgstr "Leather Cuirass"
 
+msgid "display_name_r_Armor Melechar"
+msgstr "Armor Melechar"
+
 msgid "display_name_r_Armor Melechars Shoulders"
 msgstr "Melechar Pauldrons"
 
 msgid "display_name_r_Armor Melechars shoulders"
 msgstr "Melechar Pauldrons"
 
+msgid "display_name_r_Armor Minotaur"
+msgstr "Armor Minotaur"
+
 msgid "display_name_r_Armor Minotaur Bracers"
 msgstr "Minotaur Wristbands"
 
 msgid "display_name_r_Armor Minotaur Helmet"
 msgstr "Minotaur Helmet"
+
+msgid "display_name_r_Armor Monsters"
+msgstr "Armor Monsters"
 
 msgid "display_name_r_Armor Padded"
 msgstr "Padded"
@@ -518,11 +617,20 @@ msgstr "Plate Shoulder Guards"
 msgid "display_name_r_Armor Plate Torso"
 msgstr "Plate Cuirass"
 
+msgid "display_name_r_Armor Rack"
+msgstr "Armor Rack"
+
+msgid "display_name_r_Armor Revenant"
+msgstr "Armor Revenant"
+
 msgid "display_name_r_Armor Revenants Greaves"
 msgstr "Revenant Greaves"
 
 msgid "display_name_r_Armor Sadayel Chief Head Piece"
 msgstr "Sadayel Headpiece"
+
+msgid "display_name_r_Armor Sarlid"
+msgstr "Armor Sarlid"
 
 msgid "display_name_r_Armor Scale"
 msgstr "Scale"
@@ -560,6 +668,9 @@ msgstr "Scale Cuirass"
 msgid "display_name_r_Armor Servant Girdle"
 msgstr "Servant's Girdle"
 
+msgid "display_name_r_Armor Servant Malaut"
+msgstr "Armor Servant Malaut"
+
 msgid "display_name_r_Armor Servant Shoulders"
 msgstr "Servant's Pauldrons"
 
@@ -577,6 +688,9 @@ msgstr "Severii Shoulder Guards"
 
 msgid "display_name_r_Armor Severii Centurion Torso"
 msgstr "Severii Cuirass"
+
+msgid "display_name_r_Armor Skeleton"
+msgstr "Armor Skeleton"
 
 msgid "display_name_r_Armor Skeleton Warrior Bracers"
 msgstr "Ancient Bracers"
@@ -626,11 +740,17 @@ msgstr "Studded Shoulder Pads"
 msgid "display_name_r_Armor Studded Torso"
 msgstr "Studded Cuirass"
 
+msgid "display_name_r_Armor Troll"
+msgstr "Armor Troll"
+
 msgid "display_name_r_Armor Troll Lord Helmet"
 msgstr "Troll Lord's Sallet"
 
 msgid "display_name_r_Armor Vampire Counts Hood"
 msgstr "Oathbound Hood"
+
+msgid "display_name_r_Armor Zombie"
+msgstr "Armor Zombie"
 
 msgid "display_name_r_Armor Zombie Warrior Bracers"
 msgstr "Mail Bracers"
@@ -701,6 +821,9 @@ msgstr "Arthain Hunchback"
 msgid "display_name_r_Arthain Twoheaded"
 msgstr "Twoheaded Arthain"
 
+msgid "display_name_r_Arthains"
+msgstr "Arthains"
+
 msgid "display_name_r_Ashes"
 msgstr "Ashes"
 
@@ -724,6 +847,12 @@ msgstr "Astrolabe"
 
 msgid "display_name_r_Astrolabe Mariners"
 msgstr "Mariner's Astrolabe"
+
+msgid "display_name_r_Attribute Food"
+msgstr "Attribute Food"
+
+msgid "display_name_r_Axe Skills"
+msgstr "Axe Skills"
 
 msgid "display_name_r_Axeblade"
 msgstr "Axeblade"
@@ -773,6 +902,9 @@ msgstr "Bank Extension"
 msgid "display_name_r_Bank Local"
 msgstr "Bank"
 
+msgid "display_name_r_Bank Markers"
+msgstr "Bank Markers"
+
 msgid "display_name_r_Bar Counter"
 msgstr "Bar Counter"
 
@@ -796,6 +928,9 @@ msgstr "Basanite Golem"
 
 msgid "display_name_r_Basic Color Base"
 msgstr "Color Base"
+
+msgid "display_name_r_Basic Structure"
+msgstr "Basic Structure"
 
 msgid "display_name_r_Bass"
 msgstr "Bass"
@@ -857,14 +992,23 @@ msgstr "Beastman Tooth"
 msgid "display_name_r_Beastman Warlord"
 msgstr "Beastman Warlord"
 
+msgid "display_name_r_Beastmen"
+msgstr "Beastmen"
+
 msgid "display_name_r_Beaver"
 msgstr "Beaver"
+
+msgid "display_name_r_Bedroll"
+msgstr "Bedroll"
 
 msgid "display_name_r_Beef Broth"
 msgstr "Beef Broth"
 
 msgid "display_name_r_Beef Wellington"
 msgstr "Beef Wellington"
+
+msgid "display_name_r_Beermug"
+msgstr "Beermug"
 
 msgid "display_name_r_Beguilers Blade"
 msgstr "Beguiler's Blade"
@@ -911,6 +1055,12 @@ msgstr "Bilethrower"
 msgid "display_name_r_Biletooth"
 msgstr "Biletooth"
 
+msgid "display_name_r_Billboard"
+msgstr "Billboard"
+
+msgid "display_name_r_Bindstone Capital"
+msgstr "Bindstone Capital"
+
 msgid "display_name_r_Bindstone Capital Alfar"
 msgstr "Alfar Capital Bindstone"
 
@@ -938,6 +1088,9 @@ msgstr "Chaos City Bindstone"
 msgid "display_name_r_Bindstone Clan"
 msgstr "Clan Bindstone"
 
+msgid "display_name_r_Bindstone Greater"
+msgstr "Bindstone Greater"
+
 msgid "display_name_r_Bindstone Greater Alfar"
 msgstr "Alfar Greater Bindstone"
 
@@ -959,6 +1112,12 @@ msgstr "Ork Greater Bindstone"
 msgid "display_name_r_Bindstone Greater alfar"
 msgstr "Greater City Bindstone"
 
+msgid "display_name_r_Bindstone Markers"
+msgstr "Bindstone Markers"
+
+msgid "display_name_r_Bindstone Minor"
+msgstr "Bindstone Minor"
+
 msgid "display_name_r_Bindstone Minor Alfar"
 msgstr "Alfar Lesser Bindstone"
 
@@ -976,6 +1135,9 @@ msgstr "Mirdain Lesser Bindstone"
 
 msgid "display_name_r_Bindstone Minor Ork"
 msgstr "Ork Lesser Bindstone"
+
+msgid "display_name_r_Bindstones"
+msgstr "Bindstones"
 
 msgid "display_name_r_Black Knight"
 msgstr "Black Knight"
@@ -1015,6 +1177,9 @@ msgstr "Unholy Blade"
 
 msgid "display_name_r_Blank Manual"
 msgstr "Blank Manual"
+
+msgid "display_name_r_Blank Schematics"
+msgstr "Blank Schematics"
 
 msgid "display_name_r_Blank Scroll"
 msgstr "Blank Scroll"
@@ -1235,6 +1400,9 @@ msgstr "Bookshelf"
 msgid "display_name_r_Boulder"
 msgstr "Boulder"
 
+msgid "display_name_r_Bow Skills"
+msgstr "Bow Skills"
+
 msgid "display_name_r_Bread"
 msgstr "Bread"
 
@@ -1259,6 +1427,9 @@ msgstr "Cloudy Quartz"
 msgid "display_name_r_Brownie Rune Book"
 msgstr "Brownie Rune Book"
 
+msgid "display_name_r_Brownies"
+msgstr "Brownies"
+
 msgid "display_name_r_Brutal Mace"
 msgstr "Brutal Mace"
 
@@ -1271,11 +1442,17 @@ msgstr "House Decorations"
 msgid "display_name_r_Building Permit"
 msgstr "Building Permit"
 
+msgid "display_name_r_Buildings"
+msgstr "Buildings"
+
 msgid "display_name_r_Burrow Worm"
 msgstr "Burrow"
 
 msgid "display_name_r_Cairn Giant"
 msgstr "Cairn Giant"
+
+msgid "display_name_r_Cairn Giants"
+msgstr "Cairn Giants"
 
 msgid "display_name_r_Camp Fire"
 msgstr "Camp Fire"
@@ -1294,6 +1471,9 @@ msgstr "Headshot"
 
 msgid "display_name_r_Cannonball"
 msgstr "Cannonball"
+
+msgid "display_name_r_Cannonball Spider Scarab"
+msgstr "Cannonball Spider Scarab"
 
 msgid "display_name_r_Capturethehulk_01"
 msgstr "Super Fun Capture the Flag Hulk"
@@ -1361,6 +1541,9 @@ msgstr "Centaur Chieftain"
 msgid "display_name_r_Centaur Heart"
 msgstr "Centaur Heart"
 
+msgid "display_name_r_Centaur Hunter"
+msgstr "Centaur Hunter"
+
 msgid "display_name_r_Centaur Huntress"
 msgstr "Centaur Huntress"
 
@@ -1369,6 +1552,12 @@ msgstr "Centaur Reaver"
 
 msgid "display_name_r_Centaur Warrior"
 msgstr "Centaur Warrior"
+
+msgid "display_name_r_Centaurs"
+msgstr "Centaurs"
+
+msgid "display_name_r_Ceramic Vase"
+msgstr "Ceramic Vase"
 
 msgid "display_name_r_Chaldean Black Powder"
 msgstr "Void Powder"
@@ -1412,6 +1601,9 @@ msgstr "Cheese"
 msgid "display_name_r_Cheesesteak"
 msgstr "Cheesesteak"
 
+msgid "display_name_r_Chests"
+msgstr "Chests"
+
 msgid "display_name_r_Chicken Brown"
 msgstr "Chicken"
 
@@ -1453,6 +1645,12 @@ msgstr "Ciel Fey Forester"
 
 msgid "display_name_r_Cinder"
 msgstr "Cinder"
+
+msgid "display_name_r_City Element Add Ons"
+msgstr "City Element Add Ons"
+
+msgid "display_name_r_City Markers"
+msgstr "City Markers"
 
 msgid "display_name_r_Clan Bank"
 msgstr "Bank"
@@ -1561,6 +1759,24 @@ msgstr "Billboard"
 
 msgid "display_name_r_Clan Building Base"
 msgstr "Foundation"
+
+msgid "display_name_r_Clan Buildings"
+msgstr "Clan Buildings"
+
+msgid "display_name_r_Clan Buildings Dwarf"
+msgstr "Clan Buildings Dwarf"
+
+msgid "display_name_r_Clan Buildings Human"
+msgstr "Clan Buildings Human"
+
+msgid "display_name_r_Clan Buildings Mahirim"
+msgstr "Clan Buildings Mahirim"
+
+msgid "display_name_r_Clan Buildings Mirdain"
+msgstr "Clan Buildings Mirdain"
+
+msgid "display_name_r_Clan Buildings Ork"
+msgstr "Clan Buildings Ork"
 
 msgid "display_name_r_Clan Church Alfar"
 msgstr "Church"
@@ -1718,6 +1934,9 @@ msgstr "Guard Tower"
 msgid "display_name_r_Clan Guardtower ork"
 msgstr "Guard Tower"
 
+msgid "display_name_r_Clan Guardtowers"
+msgstr "Clan Guardtowers"
+
 msgid "display_name_r_Clan Hamlet Guardtower Alfar"
 msgstr "Guard Tower"
 
@@ -1738,6 +1957,9 @@ msgstr "Guard Tower"
 
 msgid "display_name_r_Clan Hamlet Guardtower alfar"
 msgstr "Guard Tower"
+
+msgid "display_name_r_Clan Hamlet Guardtowers"
+msgstr "Clan Hamlet Guardtowers"
 
 msgid "display_name_r_Clan Harbor Base"
 msgstr "Harbor"
@@ -1913,6 +2135,24 @@ msgstr "Keep"
 msgid "display_name_r_Clan Keep ork u2"
 msgstr "Keep"
 
+msgid "display_name_r_Clan Keeps"
+msgstr "Clan Keeps"
+
+msgid "display_name_r_Clan Keeps Dwarf"
+msgstr "Clan Keeps Dwarf"
+
+msgid "display_name_r_Clan Keeps Human"
+msgstr "Clan Keeps Human"
+
+msgid "display_name_r_Clan Keeps Mahirim"
+msgstr "Clan Keeps Mahirim"
+
+msgid "display_name_r_Clan Keeps Mirdain"
+msgstr "Clan Keeps Mirdain"
+
+msgid "display_name_r_Clan Keeps Ork"
+msgstr "Clan Keeps Ork"
+
 msgid "display_name_r_Clan Laboratory"
 msgstr "Laboratory"
 
@@ -1982,6 +2222,9 @@ msgstr "Mage's Guild"
 msgid "display_name_r_Clan Market"
 msgstr "Market"
 
+msgid "display_name_r_Clan Member Markers"
+msgstr "Clan Member Markers"
+
 msgid "display_name_r_Clan Obelisk Altar"
 msgstr "Obelisk Altar"
 
@@ -2000,8 +2243,20 @@ msgstr "Palisade Wall"
 msgid "display_name_r_Clan Palisade Wall_03"
 msgstr "Palisade Wall"
 
+msgid "display_name_r_Clan Palisades"
+msgstr "Clan Palisades"
+
 msgid "display_name_r_Clan Post Office"
 msgstr "Clan Mailbox"
+
+msgid "display_name_r_Clan Post Offices"
+msgstr "Clan Post Offices"
+
+msgid "display_name_r_Clan Props"
+msgstr "Clan Props"
+
+msgid "display_name_r_Clan Resource Spawns"
+msgstr "Clan Resource Spawns"
 
 msgid "display_name_r_Clan Scaffhold_01"
 msgstr "Scaffold"
@@ -2020,6 +2275,9 @@ msgstr "Clan Shard"
 
 msgid "display_name_r_Clan Shard Active"
 msgstr "Active Clan Shard"
+
+msgid "display_name_r_Clan Shards"
+msgstr "Clan Shards"
 
 msgid "display_name_r_Clan Shipyard"
 msgstr "Shipyard"
@@ -2078,6 +2336,12 @@ msgstr "Raven Grove"
 msgid "display_name_r_Clan Station"
 msgstr "Station"
 
+msgid "display_name_r_Clan Stationary Guns"
+msgstr "Clan Stationary Guns"
+
+msgid "display_name_r_Clan Stations"
+msgstr "Clan Stations"
+
 msgid "display_name_r_Clan Structures"
 msgstr "Clan Structures"
 
@@ -2104,6 +2368,9 @@ msgstr "Portal Chamber"
 
 msgid "display_name_r_Clan Teleportation Chamber Exit"
 msgstr "Portal Chamber Exit"
+
+msgid "display_name_r_Clan Teleportation Chambers"
+msgstr "Clan Teleportation Chambers"
 
 msgid "display_name_r_Clan Thaumaturgist"
 msgstr "Thaumaturgist"
@@ -3272,8 +3539,35 @@ msgstr "Wall"
 msgid "display_name_r_Clan Wall ork_04 rubble"
 msgstr "Rubble"
 
+msgid "display_name_r_Clan Walls"
+msgstr "Clan Walls"
+
+msgid "display_name_r_Clan Walls Alfar"
+msgstr "Clan Walls Alfar"
+
+msgid "display_name_r_Clan Walls Dwarf"
+msgstr "Clan Walls Dwarf"
+
+msgid "display_name_r_Clan Walls Human"
+msgstr "Clan Walls Human"
+
+msgid "display_name_r_Clan Walls Mahirim"
+msgstr "Clan Walls Mahirim"
+
+msgid "display_name_r_Clan Walls Mirdain"
+msgstr "Clan Walls Mirdain"
+
+msgid "display_name_r_Clan Walls Ork"
+msgstr "Clan Walls Ork"
+
+msgid "display_name_r_Clan Wonders"
+msgstr "Clan Wonders"
+
 msgid "display_name_r_Clan Workbench"
 msgstr "Workbench"
+
+msgid "display_name_r_Clan Workstations"
+msgstr "Clan Workstations"
 
 msgid "display_name_r_Clan billboard"
 msgstr "Billboard"
@@ -3281,11 +3575,32 @@ msgstr "Billboard"
 msgid "display_name_r_Clan market"
 msgstr "Market"
 
+msgid "display_name_r_ClanCityCannon Acid Cannonball"
+msgstr "ClanCityCannon Acid Cannonball"
+
+msgid "display_name_r_ClanCityCannon Fireball Cannonball"
+msgstr "ClanCityCannon Fireball Cannonball"
+
+msgid "display_name_r_ClanCityCannon Flamethrower Cannonball"
+msgstr "ClanCityCannon Flamethrower Cannonball"
+
+msgid "display_name_r_ClanCityCannon Lightning Cannonball"
+msgstr "ClanCityCannon Lightning Cannonball"
+
+msgid "display_name_r_ClanCityCannon Normal Cannonball"
+msgstr "ClanCityCannon Normal Cannonball"
+
+msgid "display_name_r_ClanCityCannon Shrapnel Cannonball"
+msgstr "ClanCityCannon Shrapnel Cannonball"
+
 msgid "display_name_r_Clanstone City"
 msgstr "Clanstone City"
 
 msgid "display_name_r_Clanstone Hamlet"
 msgstr "Clanstone Hamlet"
+
+msgid "display_name_r_Clanstones"
+msgstr "Clanstones"
 
 msgid "display_name_r_Claw"
 msgstr "Claw"
@@ -3301,6 +3616,21 @@ msgstr "Cleaver"
 
 msgid "display_name_r_Cloth"
 msgstr "Cloth"
+
+msgid "display_name_r_Clothing"
+msgstr "Clothing"
+
+msgid "display_name_r_Clothing Monsters"
+msgstr "Clothing Monsters"
+
+msgid "display_name_r_Cloths"
+msgstr "Cloths"
+
+msgid "display_name_r_Club Skills"
+msgstr "Club Skills"
+
+msgid "display_name_r_Clubs"
+msgstr "Clubs"
 
 msgid "display_name_r_Cobrastaff"
 msgstr "Cobrastaff"
@@ -3389,8 +3719,32 @@ msgstr "Composite Club"
 msgid "display_name_r_Conqueror"
 msgstr "Conqueror"
 
+msgid "display_name_r_Conquest Markers"
+msgstr "Conquest Markers"
+
 msgid "display_name_r_Conscript Bow"
 msgstr "Conscript Bow"
+
+msgid "display_name_r_Constructs"
+msgstr "Constructs"
+
+msgid "display_name_r_Consumables"
+msgstr "Consumables"
+
+msgid "display_name_r_Containers"
+msgstr "Containers"
+
+msgid "display_name_r_Control Platform Markers"
+msgstr "Control Platform Markers"
+
+msgid "display_name_r_Control Platforms"
+msgstr "Control Platforms"
+
+msgid "display_name_r_Control Point Markers"
+msgstr "Control Point Markers"
+
+msgid "display_name_r_Control Points"
+msgstr "Control Points"
 
 msgid "display_name_r_Cooked Cod"
 msgstr "Cooked Cod"
@@ -3410,6 +3764,9 @@ msgstr "Corpseflesh"
 msgid "display_name_r_Cotton"
 msgstr "Cotton"
 
+msgid "display_name_r_Cottons"
+msgstr "Cottons"
+
 msgid "display_name_r_Courtly Hennin"
 msgstr "Courtly Hennin"
 
@@ -3422,11 +3779,17 @@ msgstr "Fisherman"
 msgid "display_name_r_Cradle Villager"
 msgstr "Villager"
 
+msgid "display_name_r_Crafting Tools"
+msgstr "Crafting Tools"
+
 msgid "display_name_r_Crog"
 msgstr "Crog"
 
 msgid "display_name_r_Crog Slime"
 msgstr "Crog Slime"
+
+msgid "display_name_r_Crogs"
+msgstr "Crogs"
 
 msgid "display_name_r_Cronus"
 msgstr "Cronus"
@@ -3548,6 +3911,9 @@ msgstr "Decapitator"
 msgid "display_name_r_Decorated Ironhammer"
 msgstr "Decorated Ironhammer"
 
+msgid "display_name_r_Deeds"
+msgstr "Deeds"
+
 msgid "display_name_r_Deepblade"
 msgstr "Deepblade"
 
@@ -3560,11 +3926,59 @@ msgstr "Deer"
 msgid "display_name_r_Deer Stick"
 msgstr "Rebirth"
 
+msgid "display_name_r_Deer Trophy"
+msgstr "Deer Trophy"
+
+msgid "display_name_r_Default Axes"
+msgstr "Default Axes"
+
+msgid "display_name_r_Default Bows"
+msgstr "Default Bows"
+
+msgid "display_name_r_Default Clubs"
+msgstr "Default Clubs"
+
+msgid "display_name_r_Default Greataxes"
+msgstr "Default Greataxes"
+
+msgid "display_name_r_Default Greatclubs"
+msgstr "Default Greatclubs"
+
+msgid "display_name_r_Default Greatswords"
+msgstr "Default Greatswords"
+
+msgid "display_name_r_Default Knives Parent"
+msgstr "Default Knives Parent"
+
+msgid "display_name_r_Default Magic Staffs"
+msgstr "Default Magic Staffs"
+
+msgid "display_name_r_Default Polearms"
+msgstr "Default Polearms"
+
+msgid "display_name_r_Default Shields"
+msgstr "Default Shields"
+
+msgid "display_name_r_Default Swords"
+msgstr "Default Swords"
+
+msgid "display_name_r_Default Tools"
+msgstr "Default Tools"
+
+msgid "display_name_r_Defenders of the Swamp"
+msgstr "Defenders of the Swamp"
+
 msgid "display_name_r_Deinos Bone"
 msgstr "Corrupted Bone"
 
+msgid "display_name_r_Delete when Possible"
+msgstr "Delete when Possible"
+
 msgid "display_name_r_Demon"
 msgstr "Demon Lord"
+
+msgid "display_name_r_Demon Chest"
+msgstr "Demon Chest"
 
 msgid "display_name_r_Demon Chest Key"
 msgstr "Demon Chest Key"
@@ -3583,6 +3997,9 @@ msgstr "Demonic Dusty Plum Dye"
 
 msgid "display_name_r_Demonic Essence"
 msgstr "Demonic Essence"
+
+msgid "display_name_r_Demons"
+msgstr "Demons"
 
 msgid "display_name_r_Demons Ember"
 msgstr "Demon's Ember"
@@ -3607,6 +4024,9 @@ msgstr "Shock Charger"
 
 msgid "display_name_r_Deployable Depth Charger Item"
 msgstr "Shock Charger"
+
+msgid "display_name_r_Deployable Depth Chargers"
+msgstr "Deployable Depth Chargers"
 
 msgid "display_name_r_Deployable Lootable Clan StrongBox"
 msgstr "Lootable Clan Strongbox"
@@ -3668,17 +4088,32 @@ msgstr "Ship Strongbox"
 msgid "display_name_r_Deployable Ship Strongbox Item"
 msgstr "Ship Strongbox"
 
+msgid "display_name_r_Deployable Strongboxes"
+msgstr "Deployable Strongboxes"
+
 msgid "display_name_r_Deployable Sunk Ship Strongbox"
 msgstr "Sunk Ship"
 
+msgid "display_name_r_Destroyable Monster Structures"
+msgstr "Destroyable Monster Structures"
+
 msgid "display_name_r_Devil"
 msgstr "Demon"
+
+msgid "display_name_r_Devils"
+msgstr "Devils"
 
 msgid "display_name_r_Diamond Earrings"
 msgstr "Diamond Earrings"
 
 msgid "display_name_r_Dim Stormrune"
 msgstr "Dim Stormrune"
+
+msgid "display_name_r_Dinner Plate"
+msgstr "Dinner Plate"
+
+msgid "display_name_r_Dinosaurs"
+msgstr "Dinosaurs"
 
 msgid "display_name_r_Dirt"
 msgstr "Dirt"
@@ -3743,11 +4178,17 @@ msgstr "Dragon Tail"
 msgid "display_name_r_Dragonfire"
 msgstr "Dragonfire"
 
+msgid "display_name_r_Dragons Sylvan"
+msgstr "Dragons Sylvan"
+
 msgid "display_name_r_Draunadan"
 msgstr "Draunadan"
 
 msgid "display_name_r_Dream Blue Dye"
 msgstr "Dream Blue Dye"
+
+msgid "display_name_r_Drinking Horn"
+msgstr "Drinking Horn"
 
 msgid "display_name_r_Dropper"
 msgstr "Dropper"
@@ -3757,6 +4198,15 @@ msgstr "Dusk Creeper Mold"
 
 msgid "display_name_r_Dwarf Heart"
 msgstr "Staunch Heart"
+
+msgid "display_name_r_Dwarf Male"
+msgstr "Dwarf Male"
+
+msgid "display_name_r_Dwarf Monsters"
+msgstr "Dwarf Monsters"
+
+msgid "display_name_r_Dwarf Skull"
+msgstr "Dwarf Skull"
 
 msgid "display_name_r_Dwarven Battle Shield"
 msgstr "Dwarven Battle Shield"
@@ -3809,6 +4259,9 @@ msgstr "Dwarven Warbow"
 msgid "display_name_r_Dwarven Zweihander"
 msgstr "Dwarven Zweihander"
 
+msgid "display_name_r_Dwarves"
+msgstr "Dwarves"
+
 msgid "display_name_r_Dye Components"
 msgstr "Dye Components"
 
@@ -3818,11 +4271,38 @@ msgstr "Dye Solution"
 msgid "display_name_r_Dyes"
 msgstr "Dyes"
 
+msgid "display_name_r_Dynamic Chests"
+msgstr "Dynamic Chests"
+
+msgid "display_name_r_Dynamic Clan Bindstone Items"
+msgstr "Dynamic Clan Bindstone Items"
+
+msgid "display_name_r_Dynamic Clan Bindstones"
+msgstr "Siegestones"
+
+msgid "display_name_r_Dynamic Loot"
+msgstr "Dynamic Loot"
+
+msgid "display_name_r_Dynamic Portals"
+msgstr "Dynamic Portals"
+
+msgid "display_name_r_Dynamic Workstations"
+msgstr "Dynamic Workstations"
+
 msgid "display_name_r_Dynamic World Items"
 msgstr "Deployables"
 
+msgid "display_name_r_Ear Accessories"
+msgstr "Ear Accessories"
+
 msgid "display_name_r_Earth Elemental"
 msgstr "Earth Elemental"
+
+msgid "display_name_r_Earth Elementals"
+msgstr "Earth Elementals"
+
+msgid "display_name_r_Earth Magic Scrolls"
+msgstr "Earth Magic Scrolls"
 
 msgid "display_name_r_Earthrune"
 msgstr "Earthrune"
@@ -3845,6 +4325,9 @@ msgstr "Eldritch Cinder"
 msgid "display_name_r_Elemental Arrows"
 msgstr "Elemental Arrows"
 
+msgid "display_name_r_Elemental Blades"
+msgstr "Elemental Blades"
+
 msgid "display_name_r_Elemental Cinder"
 msgstr "Elemental Cinder"
 
@@ -3860,8 +4343,17 @@ msgstr "Elemental Quartz"
 msgid "display_name_r_Elemental Stormrune"
 msgstr "Elemental Stormrune"
 
+msgid "display_name_r_Elementals"
+msgstr "Elementals"
+
+msgid "display_name_r_Elevator"
+msgstr "Elevator"
+
 msgid "display_name_r_Elf Green Dye"
 msgstr "Elf Green Dye"
+
+msgid "display_name_r_Elf Monsters"
+msgstr "Elf Monsters"
 
 msgid "display_name_r_Elfshade"
 msgstr "Elfshade"
@@ -3935,11 +4427,23 @@ msgstr "Smith"
 msgid "display_name_r_Emberwastes Thrall"
 msgstr "Thrall"
 
+msgid "display_name_r_Emerald Throne"
+msgstr "Emerald Throne"
+
 msgid "display_name_r_Emet Lifeforce"
 msgstr "Emet Lifeforce"
 
 msgid "display_name_r_Empty Bottle"
 msgstr "Empty Bottle"
+
+msgid "display_name_r_Enchantable Gems"
+msgstr "Enchantable Gems"
+
+msgid "display_name_r_Enchantment Gems"
+msgstr "Enchantment Gems"
+
+msgid "display_name_r_Enchantment Station"
+msgstr "Enchantment Station"
 
 msgid "display_name_r_Enigma"
 msgstr "Enigma"
@@ -3950,11 +4454,17 @@ msgstr "Eodrin"
 msgid "display_name_r_Eodrin Eye"
 msgstr "Brood Eye"
 
+msgid "display_name_r_Eodrins"
+msgstr "Eodrins"
+
 msgid "display_name_r_Eradan"
 msgstr "Eradan"
 
 msgid "display_name_r_Erodach"
 msgstr "Erodach"
+
+msgid "display_name_r_Erodachs"
+msgstr "Erodachs"
 
 msgid "display_name_r_Eternal Jade Dye"
 msgstr "Eternal Jade Dye"
@@ -3986,11 +4496,32 @@ msgstr "Extension Shard Large"
 msgid "display_name_r_Extension Shard Small"
 msgstr "Extension Shard Small"
 
+msgid "display_name_r_Extension Shards"
+msgstr "Extension Shards"
+
 msgid "display_name_r_Eye"
 msgstr "Eye"
 
+msgid "display_name_r_Facial Variations"
+msgstr "Facial Variations"
+
 msgid "display_name_r_Faction Bank"
 msgstr "Faction Holding Bank"
+
+msgid "display_name_r_Faction Bank Storage"
+msgstr "Faction Bank Storage"
+
+msgid "display_name_r_Faction Bank2 Storage"
+msgstr "Faction Bank2 Storage"
+
+msgid "display_name_r_Faction Bank3 Storage"
+msgstr "Faction Bank3 Storage"
+
+msgid "display_name_r_Faction Bank4 Storage"
+msgstr "Faction Bank4 Storage"
+
+msgid "display_name_r_Faction Bank5 Storage"
+msgstr "Faction Bank5 Storage"
 
 msgid "display_name_r_Faction Banks"
 msgstr "Faction Holding Banks"
@@ -4181,11 +4712,17 @@ msgstr "Mercian Faction Guardtower"
 msgid "display_name_r_Faction Guardtower Mahirim"
 msgstr "Mahirim Faction Guardtower"
 
+msgid "display_name_r_Faction Guardtower Mirdain"
+msgstr "Faction Guardtower Mirdain"
+
 msgid "display_name_r_Faction Guardtower Ork"
 msgstr "Orkish Faction Guardtower"
 
 msgid "display_name_r_Faction Guardtower mirdain"
 msgstr "Mirdain Faction Guardtower"
+
+msgid "display_name_r_Faction Guardtowers"
+msgstr "Faction Guardtowers"
 
 msgid "display_name_r_Faction Hamlet Guardtower Alfar"
 msgstr "Alfar Faction Guardtower"
@@ -5396,11 +5933,17 @@ msgstr "Faction City Stone"
 msgid "display_name_r_Factionstone Hamlet"
 msgstr "Faction Hamlet Stone"
 
+msgid "display_name_r_Factionstones"
+msgstr "Factionstones"
+
 msgid "display_name_r_Farbow"
 msgstr "Farbow"
 
 msgid "display_name_r_Fauchard"
 msgstr "Fauchard"
+
+msgid "display_name_r_Fauna"
+msgstr "Fauna"
 
 msgid "display_name_r_Feeble Bow"
 msgstr "Feeble Bow"
@@ -5419,6 +5962,9 @@ msgstr "Dire Lifeforce"
 
 msgid "display_name_r_Festive Columbine"
 msgstr "Festive Columbine"
+
+msgid "display_name_r_Fey Kin"
+msgstr "Fey Kin"
 
 msgid "display_name_r_Fibula Acid"
 msgstr "Acid Fibula"
@@ -5440,6 +5986,9 @@ msgstr "Poison Fibula"
 
 msgid "display_name_r_Fibula Unholy"
 msgstr "Unholy Fibula"
+
+msgid "display_name_r_Fibulae"
+msgstr "Fibulae"
 
 msgid "display_name_r_Fiend Claw"
 msgstr "Fiend Claw"
@@ -5570,11 +6119,29 @@ msgstr "A super fun Capture the Flag Hulk Figurine!"
 msgid "display_name_r_Figurine capturethehulk_03"
 msgstr "A super fun Capture the Flag Hulk Figurine!"
 
+msgid "display_name_r_Figurines"
+msgstr "Figurines"
+
+msgid "display_name_r_Figurines Funhulks"
+msgstr "Figurines Funhulks"
+
+msgid "display_name_r_Figurines Guns"
+msgstr "Figurines Guns"
+
+msgid "display_name_r_Figurines Mounts"
+msgstr "Figurines Mounts"
+
+msgid "display_name_r_Figurines Rafts"
+msgstr "Figurines Rafts"
+
 msgid "display_name_r_Figurines Tier1 Boats"
 msgstr "Rafts, Small Boats and Ships"
 
 msgid "display_name_r_Figurines Tier2 Boats"
 msgstr "Large Ships and Warships"
+
+msgid "display_name_r_Figurines Warhulks"
+msgstr "Figurines Warhulks"
 
 msgid "display_name_r_Fine Hood"
 msgstr "Fine Hood"
@@ -5585,11 +6152,23 @@ msgstr "Fire Elemental"
 msgid "display_name_r_Fire Elemental Lesser"
 msgstr "Lesser Fire Elemental"
 
+msgid "display_name_r_Fire Elementals"
+msgstr "Fire Elementals"
+
+msgid "display_name_r_Fire Essence"
+msgstr "Fire Essence"
+
 msgid "display_name_r_Fire Giant"
 msgstr "Fire Giant"
 
 msgid "display_name_r_Fire Giant Cinder"
 msgstr "Molten Cinder"
+
+msgid "display_name_r_Fire Giants"
+msgstr "Fire Giants"
+
+msgid "display_name_r_Fire Magic Scrolls"
+msgstr "Fire Magic Scrolls"
 
 msgid "display_name_r_Fire Sithra"
 msgstr "Fire Sithra"
@@ -5599,6 +6178,9 @@ msgstr "Firescourge"
 
 msgid "display_name_r_Firestarter"
 msgstr "Firestarter"
+
+msgid "display_name_r_Fish"
+msgstr "Fish"
 
 msgid "display_name_r_Fish Cooked"
 msgstr "Cooked Fish"
@@ -5620,6 +6202,9 @@ msgstr "Fish and Chips"
 
 msgid "display_name_r_Fishing Pole"
 msgstr "Fishing Pole"
+
+msgid "display_name_r_Five Beards Trading Company"
+msgstr "Five Beards Trading Company"
 
 msgid "display_name_r_Flag Tax Paid"
 msgstr "Taxes Paid"
@@ -5651,6 +6236,9 @@ msgstr "Flesh Golem"
 msgid "display_name_r_Fleshclaws"
 msgstr "Fleshclaws"
 
+msgid "display_name_r_Flora"
+msgstr "Flora"
+
 msgid "display_name_r_Flower Pot Arrangement"
 msgstr "Flower Pot Arrangement"
 
@@ -5663,6 +6251,15 @@ msgstr "Fly with Me"
 msgid "display_name_r_Fly with Me Item"
 msgstr "Fly with Me"
 
+msgid "display_name_r_Flying Monsters"
+msgstr "Flying Monsters"
+
+msgid "display_name_r_Food"
+msgstr "Food"
+
+msgid "display_name_r_Food Crate"
+msgstr "Food Crate"
+
 msgid "display_name_r_Food Prep"
 msgstr "Food Prep"
 
@@ -5672,8 +6269,14 @@ msgstr "Fancy Shoes"
 msgid "display_name_r_Footwear Simple_01"
 msgstr "Shoes"
 
+msgid "display_name_r_Forehead Accessories"
+msgstr "Forehead Accessories"
+
 msgid "display_name_r_Forest Golem"
 msgstr "Forest Golem"
+
+msgid "display_name_r_Forest Golems"
+msgstr "Forest Golems"
 
 msgid "display_name_r_Forest Prophet Female"
 msgstr "Forest Prophet"
@@ -5681,8 +6284,23 @@ msgstr "Forest Prophet"
 msgid "display_name_r_Forest Prophet Male"
 msgstr "Forest Prophet"
 
+msgid "display_name_r_Forest Prophets"
+msgstr "Forest Prophets"
+
+msgid "display_name_r_Fork"
+msgstr "Fork"
+
 msgid "display_name_r_Fork Daggers"
 msgstr "Fork Daggers"
+
+msgid "display_name_r_Fortress"
+msgstr "Fortress"
+
+msgid "display_name_r_Fortress Mains"
+msgstr "Fortress Mains"
+
+msgid "display_name_r_Fortress Markers"
+msgstr "Fortress Markers"
 
 msgid "display_name_r_Foul Venom Sac"
 msgstr "Noxious Venom Sac"
@@ -5750,11 +6368,17 @@ msgstr "Kroshogo's stolen tears"
 msgid "display_name_r_Fruit Bush"
 msgstr "Fruit Bush"
 
+msgid "display_name_r_Fruit Tree"
+msgstr "Fruit Tree"
+
 msgid "display_name_r_Fun Flag End"
 msgstr "Finish Fun Flag"
 
 msgid "display_name_r_Fun Flag End Item"
 msgstr "Finish Fun Flag"
+
+msgid "display_name_r_Fun Flag Markers"
+msgstr "Fun Flag Markers"
 
 msgid "display_name_r_Fun Flag Middle_01"
 msgstr "Torch Middle Fun Flag"
@@ -5780,6 +6404,27 @@ msgstr "Start Fun Flag"
 msgid "display_name_r_Fun Flag Start Item"
 msgstr "Start Fun Flag"
 
+msgid "display_name_r_Fun Flags"
+msgstr "Fun Flags"
+
+msgid "display_name_r_Fun Flags End"
+msgstr "Fun Flags End"
+
+msgid "display_name_r_Fun Flags Items"
+msgstr "Fun Flags"
+
+msgid "display_name_r_Fun Flags Middle"
+msgstr "Fun Flags Middle"
+
+msgid "display_name_r_Fun Flags Middle items"
+msgstr "Fun Flags Middle"
+
+msgid "display_name_r_Fun Flags Start"
+msgstr "Fun Flags Start"
+
+msgid "display_name_r_Fun Flags Start items"
+msgstr "Fun Flags Start items"
+
 msgid "display_name_r_Funhulk_01"
 msgstr "Delightful FunHulk"
 
@@ -5798,6 +6443,9 @@ msgstr "Magnificent FunHulk"
 msgid "display_name_r_Funhulk_03 Cannon_01"
 msgstr "Funhulk"
 
+msgid "display_name_r_Funhulks"
+msgstr "Funhulks"
+
 msgid "display_name_r_GM Weapons"
 msgstr "GM Weapons"
 
@@ -5807,6 +6455,9 @@ msgstr "Game Time Token"
 msgid "display_name_r_Gankable Player"
 msgstr "Gankable_Player"
 
+msgid "display_name_r_Gankables"
+msgstr "Gankables"
+
 msgid "display_name_r_Gardoroc"
 msgstr "Gardoroc"
 
@@ -5815,6 +6466,9 @@ msgstr "Gargantua"
 
 msgid "display_name_r_Gargantua Horn"
 msgstr "Mythical Horn"
+
+msgid "display_name_r_Gargantuas"
+msgstr "Gargantuas"
 
 msgid "display_name_r_Garmir"
 msgstr "Garmir"
@@ -5840,6 +6494,9 @@ msgstr "Emerald"
 msgid "display_name_r_Gem Garnet"
 msgstr "Garnet"
 
+msgid "display_name_r_Gem Hades"
+msgstr "Gem Hades"
+
 msgid "display_name_r_Gem Ruby"
 msgstr "Ruby"
 
@@ -5849,8 +6506,347 @@ msgstr "Sapphire"
 msgid "display_name_r_Gem Turquoise"
 msgstr "Turquoise"
 
+msgid "display_name_r_Gem of Accuracy"
+msgstr "Gem of Accuracy"
+
+msgid "display_name_r_Gem of Acid Protection"
+msgstr "Gem of Acid Protection"
+
+msgid "display_name_r_Gem of Acid Weakness"
+msgstr "Gem of Acid Weakness"
+
+msgid "display_name_r_Gem of Agony"
+msgstr "Gem of Agony"
+
+msgid "display_name_r_Gem of Air Magic"
+msgstr "Gem of Air Magic"
+
+msgid "display_name_r_Gem of Alfarbane"
+msgstr "Gem of Alfarbane"
+
+msgid "display_name_r_Gem of Alteration Protection"
+msgstr "Gem of Alteration Protection"
+
+msgid "display_name_r_Gem of Antimagic"
+msgstr "Gem of Antimagic"
+
+msgid "display_name_r_Gem of Arcana"
+msgstr "Gem of Arcana"
+
+msgid "display_name_r_Gem of Arcane Magic"
+msgstr "Gem of Arcane Magic"
+
+msgid "display_name_r_Gem of Arcane Protection"
+msgstr "Gem of Arcane Protection"
+
+msgid "display_name_r_Gem of Attack Delay"
+msgstr "Gem of Attack Delay"
+
+msgid "display_name_r_Gem of Bludgeoning Protection"
+msgstr "Gem of Bludgeoning Protection"
+
+msgid "display_name_r_Gem of Bludgeoning Weakness"
+msgstr "Gem of Bludgeoning Weakness"
+
+msgid "display_name_r_Gem of Chaos"
+msgstr "Gem of Chaos"
+
+msgid "display_name_r_Gem of Cold Protection"
+msgstr "Gem of Cold Protection"
+
+msgid "display_name_r_Gem of Cold Weakness"
+msgstr "Gem of Cold Weakness"
+
+msgid "display_name_r_Gem of Concussion"
+msgstr "Gem of Concussion"
+
+msgid "display_name_r_Gem of Constitution"
+msgstr "Gem of Constitution"
+
+msgid "display_name_r_Gem of Corrosion"
+msgstr "Gem of Corrosion"
+
+msgid "display_name_r_Gem of Crippling"
+msgstr "Gem of Crippling"
+
+msgid "display_name_r_Gem of Decapitation"
+msgstr "Gem of Decapitation"
+
+msgid "display_name_r_Gem of Defense"
+msgstr "Gem of Defense"
+
+msgid "display_name_r_Gem of Degeneration"
+msgstr "Gem of Degeneration"
+
+msgid "display_name_r_Gem of Demonbane"
+msgstr "Gem of Demonbane"
+
+msgid "display_name_r_Gem of Dexterity"
+msgstr "Gem of Dexterity"
+
+msgid "display_name_r_Gem of Dexterity Drain"
+msgstr "Gem of Dexterity Drain"
+
+msgid "display_name_r_Gem of Divine Magic"
+msgstr "Gem of Divine Magic"
+
+msgid "display_name_r_Gem of Dragonbane"
+msgstr "Gem of Dragonbane"
+
+msgid "display_name_r_Gem of Durability"
+msgstr "Gem of Durability"
+
+msgid "display_name_r_Gem of Dwarfbane"
+msgstr "Gem of Dwarfbane"
+
+msgid "display_name_r_Gem of Earth Magic"
+msgstr "Gem of Earth Magic"
+
+msgid "display_name_r_Gem of Enfeeblement"
+msgstr "Gem of Enfeeblement"
+
+msgid "display_name_r_Gem of Facility"
+msgstr "Gem of Facility"
+
+msgid "display_name_r_Gem of Fire"
+msgstr "Gem of Fire"
+
+msgid "display_name_r_Gem of Fire Magic"
+msgstr "Gem of Fire Magic"
+
+msgid "display_name_r_Gem of Fire Protection"
+msgstr "Gem of Fire Protection"
+
+msgid "display_name_r_Gem of Fire Weakness"
+msgstr "Gem of Fire Weakness"
+
+msgid "display_name_r_Gem of Fortitude"
+msgstr "Gem of Fortitude"
+
+msgid "display_name_r_Gem of Frost"
+msgstr "Gem of Frost"
+
+msgid "display_name_r_Gem of Greater Magic"
+msgstr "Gem of Greater Magic"
+
+msgid "display_name_r_Gem of Haste"
+msgstr "Gem of Haste"
+
+msgid "display_name_r_Gem of Health"
+msgstr "Gem of Health"
+
+msgid "display_name_r_Gem of Health Gain"
+msgstr "Gem of Health Gain"
+
+msgid "display_name_r_Gem of Holy Protection"
+msgstr "Gem of Holy Protection"
+
+msgid "display_name_r_Gem of Humanbane"
+msgstr "Gem of Humanbane"
+
+msgid "display_name_r_Gem of Impact"
+msgstr "Gem of Impact"
+
+msgid "display_name_r_Gem of Impact Protection"
+msgstr "Gem of Impact Protection"
+
+msgid "display_name_r_Gem of Inaccuracy"
+msgstr "Gem of Inaccuracy"
+
+msgid "display_name_r_Gem of Intelligence"
+msgstr "Gem of Intelligence"
+
+msgid "display_name_r_Gem of Intelligence Drain"
+msgstr "Gem of Intelligence Drain"
+
+msgid "display_name_r_Gem of Knockdown"
+msgstr "Gem of Knockdown"
+
+msgid "display_name_r_Gem of Lesser Magic"
+msgstr "Gem of Lesser Magic"
+
+msgid "display_name_r_Gem of Lightning"
+msgstr "Gem of Lightning"
+
+msgid "display_name_r_Gem of Lightning Protection"
+msgstr "Gem of Lightning Protection"
+
+msgid "display_name_r_Gem of Lightning Weakness"
+msgstr "Gem of Lightning Weakness"
+
+msgid "display_name_r_Gem of Mahirimbane"
+msgstr "Gem of Mahirimbane"
+
+msgid "display_name_r_Gem of Maiming"
+msgstr "Gem of Maiming"
+
+msgid "display_name_r_Gem of Malediction Protection"
+msgstr "Gem of Malediction Protection"
+
+msgid "display_name_r_Gem of Mana"
+msgstr "Gem of Mana"
+
+msgid "display_name_r_Gem of Mana Drain"
+msgstr "Gem of Mana Drain"
+
+msgid "display_name_r_Gem of Mana Gain"
+msgstr "Gem of Mana Gain"
+
+msgid "display_name_r_Gem of Mana Theft"
+msgstr "Gem of Mana Theft"
+
+msgid "display_name_r_Gem of Mental Protection"
+msgstr "Gem of Mental Protection"
+
+msgid "display_name_r_Gem of Might"
+msgstr "Gem of Might"
+
+msgid "display_name_r_Gem of Mind Assault"
+msgstr "Gem of Mind Assault"
+
+msgid "display_name_r_Gem of Mirdainbane"
+msgstr "Gem of Mirdainbane"
+
+msgid "display_name_r_Gem of Necromancy"
+msgstr "Gem of Necromancy"
+
+msgid "display_name_r_Gem of Numbing"
+msgstr "Gem of Numbing"
+
+msgid "display_name_r_Gem of Orkbane"
+msgstr "Gem of Orkbane"
+
+msgid "display_name_r_Gem of Piercing Protection"
+msgstr "Gem of Piercing Protection"
+
+msgid "display_name_r_Gem of Piercing Weakness"
+msgstr "Gem of Piercing Weakness"
+
+msgid "display_name_r_Gem of Punishment"
+msgstr "Gem of Punishment"
+
+msgid "display_name_r_Gem of Quick Casting"
+msgstr "Gem of Quick Casting"
+
+msgid "display_name_r_Gem of Quickness"
+msgstr "Gem of Quickness"
+
+msgid "display_name_r_Gem of Quickness Drain"
+msgstr "Gem of Quickness Drain"
+
+msgid "display_name_r_Gem of Rending"
+msgstr "Gem of Rending"
+
+msgid "display_name_r_Gem of Righteousness"
+msgstr "Gem of Righteousness"
+
+msgid "display_name_r_Gem of Ritual Magic"
+msgstr "Gem of Ritual Magic"
+
+msgid "display_name_r_Gem of Sharpness"
+msgstr "Gem of Sharpness"
+
+msgid "display_name_r_Gem of Silence"
+msgstr "Gem of Silence"
+
+msgid "display_name_r_Gem of Slashing Protection"
+msgstr "Gem of Slashing Protection"
+
+msgid "display_name_r_Gem of Slashing Weakness"
+msgstr "Gem of Slashing Weakness"
+
+msgid "display_name_r_Gem of Speed"
+msgstr "Gem of Speed"
+
+msgid "display_name_r_Gem of Spell Chanting"
+msgstr "Gem of Spell Chanting"
+
+msgid "display_name_r_Gem of Spell Delay"
+msgstr "Gem of Spell Delay"
+
+msgid "display_name_r_Gem of Stamina"
+msgstr "Gem of Stamina"
+
+msgid "display_name_r_Gem of Stamina Drain"
+msgstr "Gem of Stamina Drain"
+
+msgid "display_name_r_Gem of Stamina Gain"
+msgstr "Gem of Stamina Gain"
+
+msgid "display_name_r_Gem of Stamina Theft"
+msgstr "Gem of Stamina Theft"
+
+msgid "display_name_r_Gem of Stealth"
+msgstr "Gem of Stealth"
+
+msgid "display_name_r_Gem of Strength"
+msgstr "Gem of Strength"
+
+msgid "display_name_r_Gem of Strength Drain"
+msgstr "Gem of Strength Drain"
+
+msgid "display_name_r_Gem of Unbalance Protection"
+msgstr "Gem of Unbalance Protection"
+
+msgid "display_name_r_Gem of Unholy Protection"
+msgstr "Gem of Unholy Protection"
+
+msgid "display_name_r_Gem of Vampiric Drain"
+msgstr "Gem of Vampiric Drain"
+
+msgid "display_name_r_Gem of Venom"
+msgstr "Gem of Venom"
+
+msgid "display_name_r_Gem of Vitality"
+msgstr "Gem of Vitality"
+
+msgid "display_name_r_Gem of Vitality Drain"
+msgstr "Gem of Vitality Drain"
+
+msgid "display_name_r_Gem of Water Breathing"
+msgstr "Gem of Water Breathing"
+
+msgid "display_name_r_Gem of Water Magic"
+msgstr "Gem of Water Magic"
+
+msgid "display_name_r_Gem of Weakening"
+msgstr "Gem of Weakening"
+
+msgid "display_name_r_Gem of Wild Magic"
+msgstr "Gem of Wild Magic"
+
+msgid "display_name_r_Gem of Willpower"
+msgstr "Gem of Willpower"
+
+msgid "display_name_r_Gem of Wisdom"
+msgstr "Gem of Wisdom"
+
+msgid "display_name_r_Gem of Wisdom Drain"
+msgstr "Gem of Wisdom Drain"
+
+msgid "display_name_r_Gem of Witchcraft"
+msgstr "Gem of Witchcraft"
+
+msgid "display_name_r_Gem of Wounding"
+msgstr "Gem of Wounding"
+
+msgid "display_name_r_Gem of the Feather"
+msgstr "Gem of the Feather"
+
+msgid "display_name_r_Gem of the Inferno"
+msgstr "Gem of the Inferno"
+
 msgid "display_name_r_Gemstone Carcanet"
 msgstr "Gemstone Carcanet"
+
+msgid "display_name_r_Gemstones"
+msgstr "Gemstones"
+
+msgid "display_name_r_Generic Prop"
+msgstr "Generic Prop"
+
+msgid "display_name_r_GenericSFX"
+msgstr "GenericSFX"
 
 msgid "display_name_r_Ghost"
 msgstr "Ghost"
@@ -5860,6 +6856,9 @@ msgstr "Ghost Claw"
 
 msgid "display_name_r_Ghostly Darktaint"
 msgstr "Ghostly Darktaint"
+
+msgid "display_name_r_Ghosts"
+msgstr "Ghosts"
 
 msgid "display_name_r_Ghostsong"
 msgstr "Ghostsong"
@@ -5873,6 +6872,9 @@ msgstr "Ghoul Fleshcrafter"
 msgid "display_name_r_Ghoul Hoarfrost"
 msgstr "Ghoul Hoarfrost"
 
+msgid "display_name_r_Ghouls"
+msgstr "Ghouls"
+
 msgid "display_name_r_Giant Bone"
 msgstr "Potent Bone"
 
@@ -5882,14 +6884,23 @@ msgstr "Vigilant Eye"
 msgid "display_name_r_Giant Skeleton"
 msgstr "Giant Skeleton"
 
+msgid "display_name_r_Giant Skeletons"
+msgstr "Giant Skeletons"
+
 msgid "display_name_r_Giant Tooth"
 msgstr "Spiky Tooth"
+
+msgid "display_name_r_Giants"
+msgstr "Giants"
 
 msgid "display_name_r_Glaive"
 msgstr "Glaive"
 
 msgid "display_name_r_Glass"
 msgstr "Glass"
+
+msgid "display_name_r_Global Currency"
+msgstr "Global Currency"
 
 msgid "display_name_r_Gloomblade"
 msgstr "Gloomblade"
@@ -5924,6 +6935,12 @@ msgstr "Gnoll Tribesman"
 msgid "display_name_r_Gnoll Vilegaunt"
 msgstr "Gnoll Vilegaunt"
 
+msgid "display_name_r_Gnolls"
+msgstr "Gnolls"
+
+msgid "display_name_r_Gnomes"
+msgstr "Gnomes"
+
 msgid "display_name_r_Goblin Angrystick"
 msgstr "Goblin Angrystick"
 
@@ -5939,6 +6956,9 @@ msgstr "Goblin Fighter"
 msgid "display_name_r_Goblin Marauder"
 msgstr "Goblin Marauder"
 
+msgid "display_name_r_Goblin Needler"
+msgstr "Goblin Needler"
+
 msgid "display_name_r_Goblin Scout"
 msgstr "Goblin Scout"
 
@@ -5953,6 +6973,9 @@ msgstr "Goblin Warlord"
 
 msgid "display_name_r_Goblinoid Shadowcrest"
 msgstr "Primitive Shadowcrest"
+
+msgid "display_name_r_Goblinoids"
+msgstr "Goblinoids"
 
 msgid "display_name_r_Goblins Common"
 msgstr "Goblins"
@@ -5983,6 +7006,9 @@ msgstr "Deep Quartz"
 
 msgid "display_name_r_Golem Sparkstone"
 msgstr "Wild Sparkstone"
+
+msgid "display_name_r_Golems"
+msgstr "Golems"
 
 msgid "display_name_r_Goreaxe"
 msgstr "Goreaxe"
@@ -6038,8 +7064,29 @@ msgstr "Gray Ork Warrior"
 msgid "display_name_r_Great Maul"
 msgstr "Great Maul"
 
+msgid "display_name_r_Greataxe Skills"
+msgstr "Greataxe Skills"
+
+msgid "display_name_r_Greataxes"
+msgstr "Greataxes"
+
+msgid "display_name_r_Greatclub Skills"
+msgstr "Greatclub Skills"
+
+msgid "display_name_r_Greatclubs"
+msgstr "Greatclubs"
+
+msgid "display_name_r_Greater Magic Scrolls"
+msgstr "Greater Magic Scrolls"
+
 msgid "display_name_r_Greater Matayin"
 msgstr "Greater Matayin"
+
+msgid "display_name_r_Greatsword Skills"
+msgstr "Greatsword Skills"
+
+msgid "display_name_r_Greatswords"
+msgstr "Greatswords"
 
 msgid "display_name_r_Greenleaf"
 msgstr "Greenleaf"
@@ -6071,6 +7118,9 @@ msgstr "Grilled Swordfish"
 msgid "display_name_r_Grimjaw"
 msgstr "Grimjaw"
 
+msgid "display_name_r_Grounded Monsters"
+msgstr "Grounded Monsters"
+
 msgid "display_name_r_Guard Tower Alfar"
 msgstr "Alfar Guard Tower"
 
@@ -6089,6 +7139,9 @@ msgstr "Mirdain Guard Tower"
 msgid "display_name_r_Guard Tower Ork"
 msgstr "Orkish Guard Tower"
 
+msgid "display_name_r_Guard Towers"
+msgstr "Guard Towers"
+
 msgid "display_name_r_Guardian"
 msgstr "Guardian"
 
@@ -6104,6 +7157,12 @@ msgstr "Guisarme"
 msgid "display_name_r_Hag Heart"
 msgstr "Hag Heart"
 
+msgid "display_name_r_Hags"
+msgstr "Hags"
+
+msgid "display_name_r_Hair"
+msgstr "Hair"
+
 msgid "display_name_r_Hammer"
 msgstr "Hammer"
 
@@ -6113,11 +7172,53 @@ msgstr "Hand of Khamset"
 msgid "display_name_r_Handaxe"
 msgstr "Handaxe"
 
+msgid "display_name_r_Harn Mandean"
+msgstr "Harn Mandean"
+
 msgid "display_name_r_Hatchet"
 msgstr "Hatchet"
 
+msgid "display_name_r_Hats"
+msgstr "Hats"
+
+msgid "display_name_r_Head Alfar Male"
+msgstr "Head Alfar Male"
+
+msgid "display_name_r_Head Dwarf Female"
+msgstr "Head Dwarf Female"
+
+msgid "display_name_r_Head Dwarf Male"
+msgstr "Head Dwarf Male"
+
+msgid "display_name_r_Head Human Female"
+msgstr "Head Human Female"
+
+msgid "display_name_r_Head Human Male"
+msgstr "Head Human Male"
+
+msgid "display_name_r_Head Mahirim Female"
+msgstr "Head Mahirim Female"
+
+msgid "display_name_r_Head Mahirim Male"
+msgstr "Head Mahirim Male"
+
+msgid "display_name_r_Head Mirdain Female"
+msgstr "Head Mirdain Female"
+
+msgid "display_name_r_Head Mirdain Male"
+msgstr "Head Mirdain Male"
+
+msgid "display_name_r_Head Ork Female"
+msgstr "Head Ork Female"
+
+msgid "display_name_r_Head Ork Male"
+msgstr "Head Ork Male"
+
 msgid "display_name_r_Headcrusher"
 msgstr "Headcrusher"
+
+msgid "display_name_r_Heads"
+msgstr "Heads"
 
 msgid "display_name_r_Heart"
 msgstr "Heart"
@@ -6146,6 +7247,9 @@ msgstr "Heavy War Club"
 msgid "display_name_r_Heielhim"
 msgstr "Heielhim"
 
+msgid "display_name_r_Heielhims"
+msgstr "Heielhims"
+
 msgid "display_name_r_Heimal Hoarfrost"
 msgstr "Heimal Hoarfrost"
 
@@ -6173,8 +7277,14 @@ msgstr "Herb Garden"
 msgid "display_name_r_Herb Spawn Standard"
 msgstr "Bush"
 
+msgid "display_name_r_Herb Spawns"
+msgstr "Herb Spawns"
+
 msgid "display_name_r_Herbal Tea"
 msgstr "Herbal Tea"
+
+msgid "display_name_r_Herbs"
+msgstr "Herbs"
 
 msgid "display_name_r_Herring"
 msgstr "Herring"
@@ -6185,11 +7295,17 @@ msgstr "Herring Sushi"
 msgid "display_name_r_Hexbringer"
 msgstr "Hexbringer"
 
+msgid "display_name_r_Hide Pillow"
+msgstr "Hide Pillow"
+
 msgid "display_name_r_Hill Giant Clobber"
 msgstr "Hill Giant Clobberer"
 
 msgid "display_name_r_Hill Giant Slugger"
 msgstr "Hill Giant Slugger"
+
+msgid "display_name_r_Hill Giants"
+msgstr "Hill Giants"
 
 msgid "display_name_r_Hivekin Broodguard"
 msgstr "Hivekin Broodguard"
@@ -6223,6 +7339,9 @@ msgstr "Hobgoblin Officer"
 
 msgid "display_name_r_Hobgoblin Veteran"
 msgstr "Hobgoblin Veteran"
+
+msgid "display_name_r_Hobgoblins"
+msgstr "Hobgoblins"
 
 msgid "display_name_r_Holiday Food"
 msgstr "Holiday Food"
@@ -6266,6 +7385,9 @@ msgstr "Simple Hood"
 msgid "display_name_r_Hooded One"
 msgstr "Hooded One"
 
+msgid "display_name_r_Hooded Ones"
+msgstr "Hooded Ones"
+
 msgid "display_name_r_Hookblade"
 msgstr "Hookblade"
 
@@ -6308,8 +7430,14 @@ msgstr "Keep Deed"
 msgid "display_name_r_House Door"
 msgstr "House"
 
+msgid "display_name_r_House Items"
+msgstr "House Items"
+
 msgid "display_name_r_House Key"
 msgstr "House Key"
+
+msgid "display_name_r_House Keys"
+msgstr "House Keys"
 
 msgid "display_name_r_House Tenant Extension_1"
 msgstr "Guest Room Furniture"
@@ -6322,6 +7450,9 @@ msgstr "Large Guest Room Furniture"
 
 msgid "display_name_r_House Tenant Extension_2 Item"
 msgstr "Large Guest Room Furniture"
+
+msgid "display_name_r_House Workstations"
+msgstr "House Workstations"
 
 msgid "display_name_r_House_01"
 msgstr "Cottage"
@@ -6353,6 +7484,9 @@ msgstr "Keep"
 msgid "display_name_r_House_05_Base"
 msgstr "Keep Base"
 
+msgid "display_name_r_Housing Markers"
+msgstr "Housing Markers"
+
 msgid "display_name_r_Human Brawler"
 msgstr "Mercian Brawler"
 
@@ -6365,11 +7499,26 @@ msgstr "Human Guildmaster"
 msgid "display_name_r_Human Highwayman"
 msgstr "Mercian Highwayman"
 
+msgid "display_name_r_Human Male"
+msgstr "Human Male"
+
 msgid "display_name_r_Human Man-at-arms"
 msgstr "Human Man-at-arms"
 
+msgid "display_name_r_Human Monsters"
+msgstr "Human Monsters"
+
 msgid "display_name_r_Human Outlaw"
 msgstr "Mercian Outlaw"
+
+msgid "display_name_r_Human Skull"
+msgstr "Human Skull"
+
+msgid "display_name_r_Humanoids"
+msgstr "Humanoids"
+
+msgid "display_name_r_Humans"
+msgstr "Humans"
 
 msgid "display_name_r_Hunters Olive Dye"
 msgstr "Hunters Olive Dye"
@@ -6383,14 +7532,23 @@ msgstr "Ice Dragon Blue Dye"
 msgid "display_name_r_Ice Dragon Blue Pigment"
 msgstr "Ice Dragon Blue Pigment"
 
+msgid "display_name_r_Ice Elementals"
+msgstr "Ice Elementals"
+
 msgid "display_name_r_Ice Giant"
 msgstr "Ice Giant"
+
+msgid "display_name_r_Ice Giants"
+msgstr "Ice Giants"
 
 msgid "display_name_r_Ice Golem Cage"
 msgstr "Ice Cage"
 
 msgid "display_name_r_Ice Golem Platform"
 msgstr "Ice Platform"
+
+msgid "display_name_r_Ice Golems"
+msgstr "Ice Golems"
 
 msgid "display_name_r_Iceclaw"
 msgstr "Iceclaw"
@@ -6412,6 +7570,9 @@ msgstr "Icy Aquamarine Pigment"
 
 msgid "display_name_r_Iklit Venom Sac"
 msgstr "Foul Venom Sac"
+
+msgid "display_name_r_Iklits"
+msgstr "Iklits"
 
 msgid "display_name_r_Ildhammer"
 msgstr "Ildhammer"
@@ -6443,11 +7604,17 @@ msgstr "Infernal"
 msgid "display_name_r_Infernal Greater"
 msgstr "Greater Infernal"
 
+msgid "display_name_r_Infernals"
+msgstr "Infernals"
+
 msgid "display_name_r_Inferno Dark Amber Dye"
 msgstr "Inferno Dark Amber Dye"
 
 msgid "display_name_r_Infinitus"
 msgstr "Infinitus"
+
+msgid "display_name_r_Ingots"
+msgstr "Ingots"
 
 msgid "display_name_r_Ink"
 msgstr "Cephalopod Ink"
@@ -6461,6 +7628,12 @@ msgstr "Inlaid Protector"
 msgid "display_name_r_Inlaid shield"
 msgstr "Inlaid Shield"
 
+msgid "display_name_r_Intelligence Titles"
+msgstr "Intelligence Titles"
+
+msgid "display_name_r_Interior Objects"
+msgstr "Interior Objects"
+
 msgid "display_name_r_Iron Enforcer"
 msgstr "Iron Enforcer"
 
@@ -6469,6 +7642,9 @@ msgstr "Iron Ingot"
 
 msgid "display_name_r_Iron Ore"
 msgstr "Iron Ore"
+
+msgid "display_name_r_Iron Orks"
+msgstr "Iron Orks"
 
 msgid "display_name_r_Iron Ring"
 msgstr "Iron Ring"
@@ -6500,6 +7676,9 @@ msgstr "Sealed Treasures"
 msgid "display_name_r_Item Skin Scroll"
 msgstr "Item Skin Scroll"
 
+msgid "display_name_r_Items"
+msgstr "Items"
+
 msgid "display_name_r_Jadetalons"
 msgstr "Jadetalons"
 
@@ -6515,14 +7694,29 @@ msgstr "Justicebringer"
 msgid "display_name_r_Kangaroo"
 msgstr "Kangaroo"
 
+msgid "display_name_r_Keys"
+msgstr "Keys"
+
 msgid "display_name_r_Khothar"
 msgstr "Khothar"
+
+msgid "display_name_r_Knife"
+msgstr "Knife"
+
+msgid "display_name_r_Knife Skills"
+msgstr "Knife Skills"
 
 msgid "display_name_r_Knightblade"
 msgstr "Knightblade"
 
 msgid "display_name_r_Knightblood"
 msgstr "Occult Blood"
+
+msgid "display_name_r_Knights of Malregard"
+msgstr "Knights of Malregard"
+
+msgid "display_name_r_Knives"
+msgstr "Knives"
 
 msgid "display_name_r_Kobold Bone"
 msgstr "Pungent Bone"
@@ -6542,17 +7736,29 @@ msgstr "Kobold Shaman"
 msgid "display_name_r_Kobold Strongman"
 msgstr "Kobold Strongman"
 
+msgid "display_name_r_Kobolds"
+msgstr "Kobolds"
+
 msgid "display_name_r_Kraken"
 msgstr "Kraken"
 
 msgid "display_name_r_Kreas"
 msgstr "Kre'as"
 
+msgid "display_name_r_Laboratory"
+msgstr "Laboratory"
+
+msgid "display_name_r_Ladders"
+msgstr "Ladders"
+
 msgid "display_name_r_Lady Grey"
 msgstr "Lady Grey"
 
 msgid "display_name_r_Lady Grey Item"
 msgstr "Lady Grey"
+
+msgid "display_name_r_Land Fortress Cannon"
+msgstr "Land Fortress Cannon"
 
 msgid "display_name_r_Large Bar Counter"
 msgstr "Large Bar Counter"
@@ -6581,8 +7787,14 @@ msgstr "Large Spiked Club"
 msgid "display_name_r_Large Treasure Map Item"
 msgstr "Large Treasure Map"
 
+msgid "display_name_r_Lava"
+msgstr "Lava"
+
 msgid "display_name_r_Lava Golem"
 msgstr "Lava Golem"
+
+msgid "display_name_r_Lava Golems"
+msgstr "Lava Golems"
 
 msgid "display_name_r_Lava Red Dye"
 msgstr "Lava Red Dye"
@@ -6598,6 +7810,12 @@ msgstr "Lean Meat"
 
 msgid "display_name_r_Leather"
 msgstr "Leather"
+
+msgid "display_name_r_Leathers"
+msgstr "Leathers"
+
+msgid "display_name_r_Leenspar Chest"
+msgstr "Leenspar Chest"
 
 msgid "display_name_r_Leenspar Chest Key"
 msgstr "Leenspar Chest Key"
@@ -6617,6 +7835,9 @@ msgstr "Leenspar Ingot"
 msgid "display_name_r_Leenspar Leather"
 msgstr "Mythical Leather"
 
+msgid "display_name_r_Leenspar Nugget"
+msgstr "Leenspar Nugget"
+
 msgid "display_name_r_Leenspar Ore"
 msgstr "Leenspar Ore"
 
@@ -6635,6 +7856,9 @@ msgstr "Leensword"
 msgid "display_name_r_Legbreaker"
 msgstr "Legbreaker"
 
+msgid "display_name_r_Lesser Magic Scrolls"
+msgstr "Lesser Magic Scrolls"
+
 msgid "display_name_r_Lifeforce"
 msgstr "Lifeforce"
 
@@ -6650,6 +7874,9 @@ msgstr "Lightning Cannon"
 msgid "display_name_r_Lightning Sithra"
 msgstr "Lightning Sithra"
 
+msgid "display_name_r_Lights"
+msgstr "Lights"
+
 msgid "display_name_r_Lightsplitter"
 msgstr "Lightsplitter"
 
@@ -6662,6 +7889,12 @@ msgstr "Lime Green Dye"
 msgid "display_name_r_Limestone"
 msgstr "Limestone"
 
+msgid "display_name_r_Liquid Planes"
+msgstr "Liquid Planes"
+
+msgid "display_name_r_Living Creatures"
+msgstr "Living Creatures"
+
 msgid "display_name_r_Lizard On Stick"
 msgstr "Lizard on Stick"
 
@@ -6670,6 +7903,9 @@ msgstr "Lizard on Stick"
 
 msgid "display_name_r_Lizardman"
 msgstr "Lizardman"
+
+msgid "display_name_r_Lizardmen"
+msgstr "Lizardmen"
 
 msgid "display_name_r_Loadout Slot Token"
 msgstr "Loadout Slot Token"
@@ -6698,6 +7934,12 @@ msgstr "Tree"
 msgid "display_name_r_Logging Spawn Tree Mahogany"
 msgstr "Mahogany Tree"
 
+msgid "display_name_r_Logging Spawns"
+msgstr "Logging Spawns"
+
+msgid "display_name_r_Long Claw"
+msgstr "Long Claw"
+
 msgid "display_name_r_Longbow"
 msgstr "Longbow"
 
@@ -6713,17 +7955,29 @@ msgstr "Lotus Yellow Pigment"
 msgid "display_name_r_Lovely Pink Dye"
 msgstr "Lovely Pink Dye"
 
+msgid "display_name_r_Lumber Mill"
+msgstr "Lumber Mill"
+
 msgid "display_name_r_Lush Lime Dye"
 msgstr "Lush Lime Dye"
 
 msgid "display_name_r_Lush Lime Pigment"
 msgstr "Lush Lime Pigment"
 
+msgid "display_name_r_Lycanthropes"
+msgstr "Lycanthropes"
+
 msgid "display_name_r_Mace Simple"
 msgstr "Simple Mace"
 
+msgid "display_name_r_Magic Essence"
+msgstr "Magic Essence"
+
 msgid "display_name_r_Magic Staffs"
 msgstr "Magic Staves"
+
+msgid "display_name_r_Magical Beasts"
+msgstr "Magical Beasts"
 
 msgid "display_name_r_Magical Gem Amethyst"
 msgstr "Magical Amethyst"
@@ -7025,8 +8279,17 @@ msgstr "Magical Sapphire"
 msgid "display_name_r_Magical Gem Turquoise"
 msgstr "Magical Turquoise"
 
+msgid "display_name_r_Magical Gems"
+msgstr "Magical Gems"
+
 msgid "display_name_r_Magical Pearl"
 msgstr "Magical Pearl"
+
+msgid "display_name_r_Magicians Box"
+msgstr "Magicians Box"
+
+msgid "display_name_r_Mahirim"
+msgstr "Mahirim"
 
 msgid "display_name_r_Mahirim Carvers"
 msgstr "Mahirim Carvers"
@@ -7046,6 +8309,9 @@ msgstr "Mahirim Heavy Axe"
 msgid "display_name_r_Mahirim Heavy Club"
 msgstr "Mahirim Heavy Club"
 
+msgid "display_name_r_Mahirim Hunter"
+msgstr "Mahirim Hunter"
+
 msgid "display_name_r_Mahirim Hunters Shield"
 msgstr "Mahirim Hunter Shield"
 
@@ -7055,17 +8321,32 @@ msgstr "Mahirim Hunting Daggers"
 msgid "display_name_r_Mahirim Knife"
 msgstr "Mahirim Knives"
 
+msgid "display_name_r_Mahirim Male"
+msgstr "Mahirim Male"
+
+msgid "display_name_r_Mahirim Monsters"
+msgstr "Mahirim Monsters"
+
 msgid "display_name_r_Mahirim Moonblade"
 msgstr "Mahirim Moonblade"
 
 msgid "display_name_r_Mahirim Preyfinder"
 msgstr "Mahirim Preyfinder"
 
+msgid "display_name_r_Mahirim Skull"
+msgstr "Mahirim Skull"
+
 msgid "display_name_r_Mahirim Staff"
 msgstr "Dark Gorgon"
 
 msgid "display_name_r_Mahirim Sword"
 msgstr "Mahirim Sword"
+
+msgid "display_name_r_Mahirim Taskmaster"
+msgstr "Mahirim Taskmaster"
+
+msgid "display_name_r_Mahirim Tracker"
+msgstr "Mahirim Tracker"
 
 msgid "display_name_r_Mahirim Tribal Staff"
 msgstr "Tribal Staff"
@@ -7082,6 +8363,9 @@ msgstr "Mahirim War Shield"
 msgid "display_name_r_Mahogany"
 msgstr "Mahogany Timber"
 
+msgid "display_name_r_Mailbox"
+msgstr "Mailbox"
+
 msgid "display_name_r_Maintenance Deed_City"
 msgstr "City Maintenance Deed"
 
@@ -7093,6 +8377,9 @@ msgstr "Malaut Acolyte"
 
 msgid "display_name_r_Malaut Beguiler"
 msgstr "Malaut Beguiler"
+
+msgid "display_name_r_Malaut Cultists"
+msgstr "Malaut Cultists"
 
 msgid "display_name_r_Mandrake"
 msgstr "Mandrake"
@@ -7106,14 +8393,134 @@ msgstr "Mandrake Garden"
 msgid "display_name_r_Manscorpion"
 msgstr "Manscorpion"
 
+msgid "display_name_r_Manscorpions"
+msgstr "Manscorpions"
+
+msgid "display_name_r_Manual Page"
+msgstr "Manual Page"
+
+msgid "display_name_r_Manuals"
+msgstr "Manuals"
+
 msgid "display_name_r_Manus Dei"
 msgstr "Manus Dei"
+
+msgid "display_name_r_Map Fragments"
+msgstr "Map Fragments"
+
+msgid "display_name_r_Map Markers"
+msgstr "Map Markers"
 
 msgid "display_name_r_Marauder Maroon Dye"
 msgstr "Marauder Maroon Dye"
 
 msgid "display_name_r_Marilis"
 msgstr "Marilis"
+
+msgid "display_name_r_Marker Anvil"
+msgstr "Marker Anvil"
+
+msgid "display_name_r_Marker Chaosstone"
+msgstr "Marker Chaosstone"
+
+msgid "display_name_r_Marker City Defend"
+msgstr "Marker City Defend"
+
+msgid "display_name_r_Marker Clan City"
+msgstr "Marker Clan City"
+
+msgid "display_name_r_Marker Clan Hamlet"
+msgstr "Marker Clan Hamlet"
+
+msgid "display_name_r_Marker Faction Player Hamlet"
+msgstr "Marker Faction Player Hamlet"
+
+msgid "display_name_r_Marker Foundry"
+msgstr "Marker Foundry"
+
+msgid "display_name_r_Marker Fun Flag Middle"
+msgstr "Marker Fun Flag Middle"
+
+msgid "display_name_r_Marker Fun Flag Start"
+msgstr "Marker Fun Flag Start"
+
+msgid "display_name_r_Marker Gather"
+msgstr "Marker Gather"
+
+msgid "display_name_r_Marker Greaterstone"
+msgstr "Marker Greaterstone"
+
+msgid "display_name_r_Marker Kill"
+msgstr "Marker Kill"
+
+msgid "display_name_r_Marker Laboratory"
+msgstr "Marker Laboratory"
+
+msgid "display_name_r_Marker Mine"
+msgstr "Marker Mine"
+
+msgid "display_name_r_Marker Npc City"
+msgstr "Marker Npc City"
+
+msgid "display_name_r_Marker Oven"
+msgstr "Marker Oven"
+
+msgid "display_name_r_Marker Party Waypoint"
+msgstr "Marker Party Waypoint"
+
+msgid "display_name_r_Marker Player Hamlet"
+msgstr "Marker Player Hamlet"
+
+msgid "display_name_r_Marker Player Use Flag"
+msgstr "Marker Player Use Flag"
+
+msgid "display_name_r_Marker Quest Available"
+msgstr "Marker Quest Available"
+
+msgid "display_name_r_Marker Quest Turnin"
+msgstr "Marker Quest Turnin"
+
+msgid "display_name_r_Marker Rabbit"
+msgstr "Marker Rabbit"
+
+msgid "display_name_r_Marker Reward"
+msgstr "Marker Reward"
+
+msgid "display_name_r_Marker Search"
+msgstr "Marker Search"
+
+msgid "display_name_r_Marker Shipyard"
+msgstr "Marker Shipyard"
+
+msgid "display_name_r_Marker Siegestone"
+msgstr "Marker Siegestone"
+
+msgid "display_name_r_Marker Smelter"
+msgstr "Marker Smelter"
+
+msgid "display_name_r_Marker Strongbox"
+msgstr "Marker Strongbox"
+
+msgid "display_name_r_Marker Talk"
+msgstr "Marker Talk"
+
+msgid "display_name_r_Marker Use Skill"
+msgstr "Marker Use Skill"
+
+msgid "display_name_r_Marker User Annotation"
+msgstr "Marker User Annotation"
+
+msgid "display_name_r_Marker Vendor Available"
+msgstr "Marker Vendor Available"
+
+msgid "display_name_r_Marker Workbench"
+msgstr "Marker Workbench"
+
+msgid "display_name_r_Markers Faction Player City"
+msgstr "Markers Faction Player City"
+
+msgid "display_name_r_Markers Player City"
+msgstr "Markers Player City"
 
 msgid "display_name_r_Market"
 msgstr "Market"
@@ -7130,6 +8537,9 @@ msgstr "Martinia Citizen"
 msgid "display_name_r_Martinia Citizen Item"
 msgstr "Martinia Citizen"
 
+msgid "display_name_r_Masks"
+msgstr "Masks"
+
 msgid "display_name_r_Masquerade"
 msgstr "Masquerade"
 
@@ -7145,6 +8555,9 @@ msgstr "Razor Claw"
 msgid "display_name_r_Materials"
 msgstr "Crafting Materials"
 
+msgid "display_name_r_Measuring Scale"
+msgstr "Measuring Scale"
+
 msgid "display_name_r_Meat"
 msgstr "Meat"
 
@@ -7159,6 +8572,9 @@ msgstr "Meat Stew"
 
 msgid "display_name_r_Medallion"
 msgstr "Medallion"
+
+msgid "display_name_r_Meditation"
+msgstr "Meditation"
 
 msgid "display_name_r_Medium Ship_01"
 msgstr "Junk"
@@ -7178,6 +8594,9 @@ msgstr "Melechar Shadowcrest"
 msgid "display_name_r_Melechar Shaman"
 msgstr "Melechar Shaman"
 
+msgid "display_name_r_Melee Weapons"
+msgstr "Melee Weapons"
+
 msgid "display_name_r_Menhir Aelder"
 msgstr "Menhir Aelder"
 
@@ -7192,6 +8611,9 @@ msgstr "Menhir Sentinel"
 
 msgid "display_name_r_Menhir Stoneguard"
 msgstr "Menhir Stoneguard"
+
+msgid "display_name_r_Menhirs"
+msgstr "Menhirs"
 
 msgid "display_name_r_Mercian Battlehammer"
 msgstr "Mercian Battlehammer"
@@ -7250,8 +8672,14 @@ msgstr "Mercian Waraxe"
 msgid "display_name_r_Mercian Wizard Staff"
 msgstr "Lightcatcher"
 
+msgid "display_name_r_Metal Golems"
+msgstr "Metal Golems"
+
 msgid "display_name_r_Metal Ore"
 msgstr "Metal Ore"
+
+msgid "display_name_r_Metal Props"
+msgstr "Metal Props"
 
 msgid "display_name_r_Metal Sparkstone"
 msgstr "Metal Sparkstone"
@@ -7283,6 +8711,9 @@ msgstr "Theyril Vein"
 msgid "display_name_r_Mining Spawn Veilron"
 msgstr "Veilron Vein"
 
+msgid "display_name_r_Mining Spawns"
+msgstr "Mining Spawns"
+
 msgid "display_name_r_Minotaur Brute"
 msgstr "Minotaur Brute"
 
@@ -7303,6 +8734,12 @@ msgstr "Minotaur King"
 
 msgid "display_name_r_Minotaur Shaman"
 msgstr "Minotaur Shaman"
+
+msgid "display_name_r_Minotaurs"
+msgstr "Minotaurs"
+
+msgid "display_name_r_Mirdain"
+msgstr "Mirdain"
 
 msgid "display_name_r_Mirdain Claymore"
 msgstr "Mirdain Claymore"
@@ -7337,6 +8774,9 @@ msgstr "Mirdain Longsword"
 msgid "display_name_r_Mirdain Mace"
 msgstr "Mirdain Mace"
 
+msgid "display_name_r_Mirdain Male"
+msgstr "Mirdain Male"
+
 msgid "display_name_r_Mirdain Protector"
 msgstr "Mirdain Protector"
 
@@ -7345,6 +8785,9 @@ msgstr "Mirdain Scimitar"
 
 msgid "display_name_r_Mirdain Seeker"
 msgstr "Mirdain Seeker"
+
+msgid "display_name_r_Mirdain Skull"
+msgstr "Mirdain Skull"
 
 msgid "display_name_r_Mirdain Spellstaff"
 msgstr "Spellstaff"
@@ -7357,6 +8800,15 @@ msgstr "Mirdain Twin Stillettos"
 
 msgid "display_name_r_Mirdain Waraxe"
 msgstr "Mirdain Waraxe"
+
+msgid "display_name_r_Misc Loot"
+msgstr "Misc Loot"
+
+msgid "display_name_r_Misc Skills"
+msgstr "Misc Skills"
+
+msgid "display_name_r_Misc move later on"
+msgstr "Misc move later on"
 
 msgid "display_name_r_Mjolnir"
 msgstr "Mjolnir"
@@ -7375,6 +8827,12 @@ msgstr "Ship Module"
 
 msgid "display_name_r_Module Warhulk"
 msgstr "Warhulk Module"
+
+msgid "display_name_r_Modules"
+msgstr "Modules"
+
+msgid "display_name_r_Monster Structures"
+msgstr "Monster Structures"
 
 msgid "display_name_r_Moon Axe"
 msgstr "Moon Axe"
@@ -7396,6 +8854,9 @@ msgstr "Moonbeast Ravager"
 
 msgid "display_name_r_Moonbeast Shaman"
 msgstr "Moonbeast Shaman"
+
+msgid "display_name_r_Moonbeasts"
+msgstr "Moonbeasts"
 
 msgid "display_name_r_Moonlight Lemon Dye"
 msgstr "Moonlight Lemon Dye"
@@ -7475,8 +8936,14 @@ msgstr "Mounted Wolf Head"
 msgid "display_name_r_Mounted Wolf Head Item"
 msgstr "Mounted Wolf Head"
 
+msgid "display_name_r_Mounts"
+msgstr "Mounts"
+
 msgid "display_name_r_Multi Tool"
 msgstr "Multi Tool"
+
+msgid "display_name_r_Mummies"
+msgstr "Mummies"
 
 msgid "display_name_r_Mummy"
 msgstr "Mummy"
@@ -7496,14 +8963,182 @@ msgstr "Mushroom Skies"
 msgid "display_name_r_Mushroom Skies Item"
 msgstr "Mushroom Skies"
 
+msgid "display_name_r_Mustaches"
+msgstr "Mustaches"
+
 msgid "display_name_r_Mysterious Essence"
 msgstr "Mysterious Essence"
 
 msgid "display_name_r_NPC"
 msgstr "NPC"
 
+msgid "display_name_r_NPC Alfar Big Male"
+msgstr "NPC Alfar Big Male"
+
+msgid "display_name_r_NPC Alfar Dress Female"
+msgstr "NPC Alfar Dress Female"
+
+msgid "display_name_r_NPC Alfar Elder Male"
+msgstr "NPC Alfar Elder Male"
+
+msgid "display_name_r_NPC Alfar Fighter Female"
+msgstr "NPC Alfar Fighter Female"
+
+msgid "display_name_r_NPC Alfar Fighter Male"
+msgstr "NPC Alfar Fighter Male"
+
+msgid "display_name_r_NPC Alfar Normal Female"
+msgstr "NPC Alfar Normal Female"
+
+msgid "display_name_r_NPC Alfar Normal Male"
+msgstr "NPC Alfar Normal Male"
+
+msgid "display_name_r_NPC Alfar Robe Female"
+msgstr "NPC Alfar Robe Female"
+
+msgid "display_name_r_NPC Dwarf Big Male"
+msgstr "NPC Dwarf Big Male"
+
+msgid "display_name_r_NPC Dwarf Dress Female"
+msgstr "NPC Dwarf Dress Female"
+
+msgid "display_name_r_NPC Dwarf Elder Male"
+msgstr "NPC Dwarf Elder Male"
+
+msgid "display_name_r_NPC Dwarf Fighter Female"
+msgstr "NPC Dwarf Fighter Female"
+
+msgid "display_name_r_NPC Dwarf Fighter Male"
+msgstr "NPC Dwarf Fighter Male"
+
+msgid "display_name_r_NPC Dwarf Normal Female"
+msgstr "NPC Dwarf Normal Female"
+
+msgid "display_name_r_NPC Dwarf Normal Male"
+msgstr "NPC Dwarf Normal Male"
+
+msgid "display_name_r_NPC Dwarf Robe Female"
+msgstr "NPC Dwarf Robe Female"
+
+msgid "display_name_r_NPC Dwarves"
+msgstr "NPC Dwarves"
+
+msgid "display_name_r_NPC Human Big Male"
+msgstr "NPC Human Big Male"
+
+msgid "display_name_r_NPC Human Dress Female"
+msgstr "NPC Human Dress Female"
+
+msgid "display_name_r_NPC Human Elder Male"
+msgstr "NPC Human Elder Male"
+
+msgid "display_name_r_NPC Human Fighter Female"
+msgstr "NPC Human Fighter Female"
+
+msgid "display_name_r_NPC Human Fighter Male"
+msgstr "NPC Human Fighter Male"
+
+msgid "display_name_r_NPC Human Normal Female"
+msgstr "NPC Human Normal Female"
+
+msgid "display_name_r_NPC Human Normal Male"
+msgstr "NPC Human Normal Male"
+
+msgid "display_name_r_NPC Human Robe Female"
+msgstr "NPC Human Robe Female"
+
+msgid "display_name_r_NPC Humans"
+msgstr "NPC Humans"
+
+msgid "display_name_r_NPC Mahirim Big Male"
+msgstr "NPC Mahirim Big Male"
+
+msgid "display_name_r_NPC Mahirim Dress Female"
+msgstr "NPC Mahirim Dress Female"
+
+msgid "display_name_r_NPC Mahirim Elder Male"
+msgstr "NPC Mahirim Elder Male"
+
+msgid "display_name_r_NPC Mahirim Fighter Female"
+msgstr "NPC Mahirim Fighter Female"
+
+msgid "display_name_r_NPC Mahirim Fighter Male"
+msgstr "NPC Mahirim Fighter Male"
+
+msgid "display_name_r_NPC Mahirim Normal Female"
+msgstr "NPC Mahirim Normal Female"
+
+msgid "display_name_r_NPC Mahirim Normal Male"
+msgstr "NPC Mahirim Normal Male"
+
+msgid "display_name_r_NPC Mahirim Robe Female"
+msgstr "NPC Mahirim Robe Female"
+
+msgid "display_name_r_NPC Mahirims"
+msgstr "NPC Mahirims"
+
+msgid "display_name_r_NPC Mirdain Big Male"
+msgstr "NPC Mirdain Big Male"
+
+msgid "display_name_r_NPC Mirdain Dress Female"
+msgstr "NPC Mirdain Dress Female"
+
+msgid "display_name_r_NPC Mirdain Elder Male"
+msgstr "NPC Mirdain Elder Male"
+
+msgid "display_name_r_NPC Mirdain Fighter Female"
+msgstr "NPC Mirdain Fighter Female"
+
+msgid "display_name_r_NPC Mirdain Fighter Male"
+msgstr "NPC Mirdain Fighter Male"
+
+msgid "display_name_r_NPC Mirdain Normal Female"
+msgstr "NPC Mirdain Normal Female"
+
+msgid "display_name_r_NPC Mirdain Normal Male"
+msgstr "NPC Mirdain Normal Male"
+
+msgid "display_name_r_NPC Mirdain Robe Female"
+msgstr "NPC Mirdain Robe Female"
+
+msgid "display_name_r_NPC Mirdain female"
+msgstr "NPC Mirdain female"
+
+msgid "display_name_r_NPC Mirdains"
+msgstr "NPC Mirdains"
+
+msgid "display_name_r_NPC Ork Big Male"
+msgstr "NPC Ork Big Male"
+
+msgid "display_name_r_NPC Ork Dress Female"
+msgstr "NPC Ork Dress Female"
+
+msgid "display_name_r_NPC Ork Elder Male"
+msgstr "NPC Ork Elder Male"
+
+msgid "display_name_r_NPC Ork Fighter Female"
+msgstr "NPC Ork Fighter Female"
+
+msgid "display_name_r_NPC Ork Fighter Male"
+msgstr "NPC Ork Fighter Male"
+
+msgid "display_name_r_NPC Ork Normal Female"
+msgstr "NPC Ork Normal Female"
+
+msgid "display_name_r_NPC Ork Normal Male"
+msgstr "NPC Ork Normal Male"
+
+msgid "display_name_r_NPC Ork Robe Female"
+msgstr "NPC Ork Robe Female"
+
+msgid "display_name_r_NPC Orks"
+msgstr "NPC Orks"
+
 msgid "display_name_r_Nacre"
 msgstr "Nacre"
+
+msgid "display_name_r_Nahdruk"
+msgstr "Nahdruk"
 
 msgid "display_name_r_Nahdruk Heretic"
 msgstr "Nahdruk Heretic"
@@ -7519,6 +9154,9 @@ msgstr "Nalaed"
 
 msgid "display_name_r_Nalaed Elder"
 msgstr "Nalaed Elder"
+
+msgid "display_name_r_Natural Ammo"
+msgstr "Natural Ammo"
 
 msgid "display_name_r_Natural Ammo Acid"
 msgstr "Natural Arrow"
@@ -7592,6 +9230,9 @@ msgstr "Reach Natural attack"
 msgid "display_name_r_Natural Melee Small"
 msgstr "Small Natural attack"
 
+msgid "display_name_r_Natural Melee Weapons"
+msgstr "Natural Melee Weapons"
+
 msgid "display_name_r_Natural Ranged Bow"
 msgstr "Natural Ranged Weapon"
 
@@ -7601,11 +9242,26 @@ msgstr "Natural Ranged Weapon L2"
 msgid "display_name_r_Natural Ranged Bow L3"
 msgstr "Natural Ranged Weapon L3"
 
+msgid "display_name_r_Natural Ranged Weapons"
+msgstr "Natural Ranged Weapons"
+
+msgid "display_name_r_Natural Weapons"
+msgstr "Natural Weapons"
+
+msgid "display_name_r_Necklaces"
+msgstr "Necklaces"
+
+msgid "display_name_r_Necromancy Magic Scrolls"
+msgstr "Necromancy Magic Scrolls"
+
 msgid "display_name_r_Nectar of the Gods"
 msgstr "Nectar of the Gods"
 
 msgid "display_name_r_Needle and Thread"
 msgstr "Needle and Thread"
+
+msgid "display_name_r_Neithal Chest"
+msgstr "Neithal Chest"
 
 msgid "display_name_r_Neithal Chest Key"
 msgstr "Neithal Chest Key"
@@ -7624,6 +9280,9 @@ msgstr "Neithal Ingot"
 
 msgid "display_name_r_Neithal Leather"
 msgstr "Chitin Leather"
+
+msgid "display_name_r_Neithal Nugget"
+msgstr "Neithal Nugget"
 
 msgid "display_name_r_Neithal Ore"
 msgstr "Neithal Ore"
@@ -7688,6 +9347,12 @@ msgstr "Nodachi"
 msgid "display_name_r_Northman Heart"
 msgstr "Spirited Heart"
 
+msgid "display_name_r_Nose Accessories"
+msgstr "Nose Accessories"
+
+msgid "display_name_r_Nospawn Prop"
+msgstr "Nospawn Prop"
+
 msgid "display_name_r_Numen"
 msgstr "Numen"
 
@@ -7699,6 +9364,9 @@ msgstr "Oak Cupboard"
 
 msgid "display_name_r_Oak Lord"
 msgstr "Oak Lord"
+
+msgid "display_name_r_Oak Lords"
+msgstr "Oak Lords"
 
 msgid "display_name_r_Oak Sage"
 msgstr "Oak Sage"
@@ -7721,11 +9389,17 @@ msgstr "Oathbound"
 msgid "display_name_r_Oathbound Corpseflesh"
 msgstr "Forlorn Corpseflesh"
 
+msgid "display_name_r_Oathbounds"
+msgstr "Oathbounds"
+
 msgid "display_name_r_Oathbreaker"
 msgstr "Oathbreaker"
 
 msgid "display_name_r_Oathliege"
 msgstr "Oathliege"
+
+msgid "display_name_r_Obelisk Chests"
+msgstr "Obelisk Chests"
 
 msgid "display_name_r_Obelisk Wand"
 msgstr "Usurper Wand"
@@ -7750,6 +9424,9 @@ msgstr "Ogre Boss"
 
 msgid "display_name_r_Ogre Bully"
 msgstr "Ogre Bully"
+
+msgid "display_name_r_Ogres"
+msgstr "Ogres"
 
 msgid "display_name_r_Old Barrel"
 msgstr "Old Barrel"
@@ -7787,6 +9464,9 @@ msgstr "Orb of Might"
 msgid "display_name_r_Ork Beastmaster"
 msgstr "Ork Beastmaster"
 
+msgid "display_name_r_Ork Berserker"
+msgstr "Ork Berserker"
+
 msgid "display_name_r_Ork Blood"
 msgstr "Savage Blood"
 
@@ -7796,8 +9476,20 @@ msgstr "Ork Bruiser"
 msgid "display_name_r_Ork Darktaint"
 msgstr "Ork Darktaint"
 
+msgid "display_name_r_Ork Male"
+msgstr "Ork Male"
+
+msgid "display_name_r_Ork Monsters"
+msgstr "Ork Monsters"
+
+msgid "display_name_r_Ork Outcasts"
+msgstr "Ork Outcasts"
+
 msgid "display_name_r_Ork Protector"
 msgstr "Ork Protector"
+
+msgid "display_name_r_Ork Skull"
+msgstr "Ork Skull"
 
 msgid "display_name_r_Ork Soldier"
 msgstr "Ork Soldier"
@@ -7871,6 +9563,9 @@ msgstr "Orkish Waraxe"
 msgid "display_name_r_Orkish Warhammer"
 msgstr "Orkish Warhammer"
 
+msgid "display_name_r_Orks"
+msgstr "Orks"
+
 msgid "display_name_r_Ornate Warhammer"
 msgstr "Ornate Warhammer"
 
@@ -7880,8 +9575,14 @@ msgstr "Ornate Ring"
 msgid "display_name_r_Orthus"
 msgstr "Orthus"
 
+msgid "display_name_r_Outerplanars"
+msgstr "Outerplanars"
+
 msgid "display_name_r_Outlaw"
 msgstr "Outlaw"
+
+msgid "display_name_r_Oven"
+msgstr "Oven"
 
 msgid "display_name_r_Pants Fine_01"
 msgstr "Fine Pants"
@@ -7898,6 +9599,9 @@ msgstr "Papyrus Plant"
 msgid "display_name_r_Partisan"
 msgstr "Partisan"
 
+msgid "display_name_r_Party Markers"
+msgstr "Party Markers"
+
 msgid "display_name_r_Pearl"
 msgstr "Pearl"
 
@@ -7907,11 +9611,656 @@ msgstr "Pearl Earrings"
 msgid "display_name_r_Peoplecrusher"
 msgstr "Peoplecrusher"
 
+msgid "display_name_r_Permits"
+msgstr "Permits"
+
 msgid "display_name_r_Personal Bank Extension"
 msgstr "Personal Bank Extension"
 
 msgid "display_name_r_Pester"
 msgstr "Pester"
+
+msgid "display_name_r_Pet Air Elemental"
+msgstr "Pet Air Elemental"
+
+msgid "display_name_r_Pet Akathar"
+msgstr "Pet Akathar"
+
+msgid "display_name_r_Pet Baradron"
+msgstr "Pet Baradron"
+
+msgid "display_name_r_Pet Basalt Golem"
+msgstr "Pet Basalt Golem"
+
+msgid "display_name_r_Pet Bear Arctic"
+msgstr "Pet Bear Arctic"
+
+msgid "display_name_r_Pet Bear Brown"
+msgstr "Pet Bear Brown"
+
+msgid "display_name_r_Pet Beastman Destroyer"
+msgstr "Pet Beastman Destroyer"
+
+msgid "display_name_r_Pet Beastman Devastator"
+msgstr "Pet Beastman Devastator"
+
+msgid "display_name_r_Pet Beastman Rampager"
+msgstr "Pet Beastman Rampager"
+
+msgid "display_name_r_Pet Beastman Warlord"
+msgstr "Pet Beastman Warlord"
+
+msgid "display_name_r_Pet Below"
+msgstr "Pet Below"
+
+msgid "display_name_r_Pet Black Knight"
+msgstr "Pet Black Knight"
+
+msgid "display_name_r_Pet Black Lord"
+msgstr "Pet Black Lord"
+
+msgid "display_name_r_Pet Blood Knight"
+msgstr "Pet Blood Knight"
+
+msgid "display_name_r_Pet Bone Knight"
+msgstr "Pet Bone Knight"
+
+msgid "display_name_r_Pet Bonecrew Captain"
+msgstr "Pet Bonecrew Captain"
+
+msgid "display_name_r_Pet Bonecrew Mariner"
+msgstr "Pet Bonecrew Mariner"
+
+msgid "display_name_r_Pet Bonecrew Mutineer"
+msgstr "Pet Bonecrew Mutineer"
+
+msgid "display_name_r_Pet Brownie"
+msgstr "Pet Brownie"
+
+msgid "display_name_r_Pet Cairn Giant"
+msgstr "Pet Cairn Giant"
+
+msgid "display_name_r_Pet Cave Hag"
+msgstr "Pet Cave Hag"
+
+msgid "display_name_r_Pet Celestial"
+msgstr "Pet Celestial"
+
+msgid "display_name_r_Pet Celestial Greater"
+msgstr "Pet Celestial Greater"
+
+msgid "display_name_r_Pet Centaur Chieftain"
+msgstr "Pet Centaur Chieftain"
+
+msgid "display_name_r_Pet Centaur Huntress"
+msgstr "Pet Centaur Huntress"
+
+msgid "display_name_r_Pet Centaur Reaver"
+msgstr "Pet Centaur Reaver"
+
+msgid "display_name_r_Pet Centaur Warrior"
+msgstr "Pet Centaur Warrior"
+
+msgid "display_name_r_Pet Chieftain Khalos"
+msgstr "Pet Chieftain Khalos"
+
+msgid "display_name_r_Pet Child Of Khamset"
+msgstr "Pet Child Of Khamset"
+
+msgid "display_name_r_Pet Chosen Of Khamset"
+msgstr "Pet Chosen Of Khamset"
+
+msgid "display_name_r_Pet Ciel Fey Defender"
+msgstr "Pet Ciel Fey Defender"
+
+msgid "display_name_r_Pet Ciel Fey Druid"
+msgstr "Pet Ciel Fey Druid"
+
+msgid "display_name_r_Pet Ciel Fey Forester"
+msgstr "Pet Ciel Fey Forester"
+
+msgid "display_name_r_Pet Crog"
+msgstr "Pet Crog"
+
+msgid "display_name_r_Pet Crypt Guard"
+msgstr "Pet Crypt Guard"
+
+msgid "display_name_r_Pet Deathless Mage"
+msgstr "Pet Deathless Mage"
+
+msgid "display_name_r_Pet Deathless Servant"
+msgstr "Pet Deathless Servant"
+
+msgid "display_name_r_Pet Demon Queen"
+msgstr "Pet Demon Queen"
+
+msgid "display_name_r_Pet Devil"
+msgstr "Pet Devil"
+
+msgid "display_name_r_Pet Dragon Dark"
+msgstr "Pet Dragon Dark"
+
+msgid "display_name_r_Pet Dragon Ice"
+msgstr "Pet Dragon Ice"
+
+msgid "display_name_r_Pet Earth Elemental"
+msgstr "Pet Earth Elemental"
+
+msgid "display_name_r_Pet Elfshade"
+msgstr "Pet Elfshade"
+
+msgid "display_name_r_Pet Elfwraith"
+msgstr "Pet Elfwraith"
+
+msgid "display_name_r_Pet Eodrin"
+msgstr "Pet Eodrin"
+
+msgid "display_name_r_Pet Evil Eye"
+msgstr "Pet Evil Eye"
+
+msgid "display_name_r_Pet Fenris Alpha"
+msgstr "Pet Fenris Alpha"
+
+msgid "display_name_r_Pet Fire Elemental"
+msgstr "Pet Fire Elemental"
+
+msgid "display_name_r_Pet Fire Elemental Lesser"
+msgstr "Pet Fire Elemental Lesser"
+
+msgid "display_name_r_Pet Fire Giant"
+msgstr "Pet Fire Giant"
+
+msgid "display_name_r_Pet Firescourge"
+msgstr "Pet Firescourge"
+
+msgid "display_name_r_Pet Flesh Golem"
+msgstr "Pet Flesh Golem"
+
+msgid "display_name_r_Pet Forest Golem"
+msgstr "Pet Forest Golem"
+
+msgid "display_name_r_Pet Forest Prophet Female"
+msgstr "Pet Forest Prophet Female"
+
+msgid "display_name_r_Pet Forest Prophet Male"
+msgstr "Pet Forest Prophet Male"
+
+msgid "display_name_r_Pet Frostjarl"
+msgstr "Pet Frostjarl"
+
+msgid "display_name_r_Pet Frostwalker"
+msgstr "Pet Frostwalker"
+
+msgid "display_name_r_Pet Gardoroc"
+msgstr "Pet Gardoroc"
+
+msgid "display_name_r_Pet Gargantua"
+msgstr "Pet Gargantua"
+
+msgid "display_name_r_Pet Ghost"
+msgstr "Pet Ghost"
+
+msgid "display_name_r_Pet Ghoul Devourer"
+msgstr "Pet Ghoul Devourer"
+
+msgid "display_name_r_Pet Giant Skeleton"
+msgstr "Pet Giant Skeleton"
+
+msgid "display_name_r_Pet Gnoll Butcher"
+msgstr "Pet Gnoll Butcher"
+
+msgid "display_name_r_Pet Gnoll Hunter"
+msgstr "Pet Gnoll Hunter"
+
+msgid "display_name_r_Pet Gnoll Shaman"
+msgstr "Pet Gnoll Shaman"
+
+msgid "display_name_r_Pet Gnoll Tribesman"
+msgstr "Pet Gnoll Tribesman"
+
+msgid "display_name_r_Pet Gnoll Vilegaunt"
+msgstr "Pet Gnoll Vilegaunt"
+
+msgid "display_name_r_Pet Goblin Fighter"
+msgstr "Pet Goblin Fighter"
+
+msgid "display_name_r_Pet Goblin Marauder"
+msgstr "Pet Goblin Marauder"
+
+msgid "display_name_r_Pet Goblin Shaman"
+msgstr "Pet Goblin Shaman"
+
+msgid "display_name_r_Pet Goblin Warlord"
+msgstr "Pet Goblin Warlord"
+
+msgid "display_name_r_Pet Gorra Dar"
+msgstr "Pet Gorra Dar"
+
+msgid "display_name_r_Pet Gorra Slave"
+msgstr "Pet Gorra Slave"
+
+msgid "display_name_r_Pet Grand Tikoloshe"
+msgstr "Pet Grand Tikoloshe"
+
+msgid "display_name_r_Pet Granite Golem"
+msgstr "Pet Granite Golem"
+
+msgid "display_name_r_Pet Gravelord"
+msgstr "Pet Gravelord"
+
+msgid "display_name_r_Pet Gray Ork Assassin"
+msgstr "Pet Gray Ork Assassin"
+
+msgid "display_name_r_Pet Gray Ork Chieftain"
+msgstr "Pet Gray Ork Chieftain"
+
+msgid "display_name_r_Pet Gray Ork Executioner"
+msgstr "Pet Gray Ork Executioner"
+
+msgid "display_name_r_Pet Gray Ork Mauler"
+msgstr "Pet Gray Ork Mauler"
+
+msgid "display_name_r_Pet Gray Ork Warrior"
+msgstr "Pet Gray Ork Warrior"
+
+msgid "display_name_r_Pet Hand Of Khamset"
+msgstr "Pet Hand Of Khamset"
+
+msgid "display_name_r_Pet Hellfire Juggernaught"
+msgstr "Pet Hellfire Juggernaught"
+
+msgid "display_name_r_Pet Hill Giant Clobber"
+msgstr "Pet Hill Giant Clobber"
+
+msgid "display_name_r_Pet Hill Giant Slugger"
+msgstr "Pet Hill Giant Slugger"
+
+msgid "display_name_r_Pet Hivekin Broodguard"
+msgstr "Pet Hivekin Broodguard"
+
+msgid "display_name_r_Pet Hivekin Forager"
+msgstr "Pet Hivekin Forager"
+
+msgid "display_name_r_Pet Hivekin Queen"
+msgstr "Pet Hivekin Queen"
+
+msgid "display_name_r_Pet Hivekin Soldier"
+msgstr "Pet Hivekin Soldier"
+
+msgid "display_name_r_Pet Hjor The Great"
+msgstr "Pet Hjor The Great"
+
+msgid "display_name_r_Pet Hobgoblin Grunt"
+msgstr "Pet Hobgoblin Grunt"
+
+msgid "display_name_r_Pet Hobgoblin Officer"
+msgstr "Pet Hobgoblin Officer"
+
+msgid "display_name_r_Pet Hobgoblin Veteran"
+msgstr "Pet Hobgoblin Veteran"
+
+msgid "display_name_r_Pet Icejarl"
+msgstr "Pet Icejarl"
+
+msgid "display_name_r_Pet Infernal"
+msgstr "Pet Infernal"
+
+msgid "display_name_r_Pet Infernal Greater"
+msgstr "Pet Infernal Greater"
+
+msgid "display_name_r_Pet Ironbark The Ancient"
+msgstr "Pet Ironbark The Ancient"
+
+msgid "display_name_r_Pet Ironbeard Heavyfist"
+msgstr "Pet Ironbeard Heavyfist"
+
+msgid "display_name_r_Pet Kobold Raider"
+msgstr "Pet Kobold Raider"
+
+msgid "display_name_r_Pet Kobold Scrapper"
+msgstr "Pet Kobold Scrapper"
+
+msgid "display_name_r_Pet Kobold Scrounger"
+msgstr "Pet Kobold Scrounger"
+
+msgid "display_name_r_Pet Kobold Shaman"
+msgstr "Pet Kobold Shaman"
+
+msgid "display_name_r_Pet Kobold Strongman"
+msgstr "Pet Kobold Strongman"
+
+msgid "display_name_r_Pet Kraken"
+msgstr "Pet Kraken"
+
+msgid "display_name_r_Pet Lava Golem"
+msgstr "Pet Lava Golem"
+
+msgid "display_name_r_Pet Leenspar Golem"
+msgstr "Pet Leenspar Golem"
+
+msgid "display_name_r_Pet Lizardman"
+msgstr "Pet Lizardman"
+
+msgid "display_name_r_Pet Malaut Acolyte"
+msgstr "Pet Malaut Acolyte"
+
+msgid "display_name_r_Pet Malaut Beguiler"
+msgstr "Pet Malaut Beguiler"
+
+msgid "display_name_r_Pet Melechar"
+msgstr "Pet Melechar"
+
+msgid "display_name_r_Pet Melechar Guard"
+msgstr "Pet Melechar Guard"
+
+msgid "display_name_r_Pet Melechar Shaman"
+msgstr "Pet Melechar Shaman"
+
+msgid "display_name_r_Pet Moonbeast Berserker"
+msgstr "Pet Moonbeast Berserker"
+
+msgid "display_name_r_Pet Moonbeast Commandant"
+msgstr "Pet Moonbeast Commandant"
+
+msgid "display_name_r_Pet Moonbeast Disciple"
+msgstr "Pet Moonbeast Disciple"
+
+msgid "display_name_r_Pet Moonbeast Officer"
+msgstr "Pet Moonbeast Officer"
+
+msgid "display_name_r_Pet Moonbeast Ravager"
+msgstr "Pet Moonbeast Ravager"
+
+msgid "display_name_r_Pet Moonbeast Shaman"
+msgstr "Pet Moonbeast Shaman"
+
+msgid "display_name_r_Pet Mummy"
+msgstr "Pet Mummy"
+
+msgid "display_name_r_Pet Mummy Greater"
+msgstr "Pet Mummy Greater"
+
+msgid "display_name_r_Pet Nahdruk Heretic"
+msgstr "Pet Nahdruk Heretic"
+
+msgid "display_name_r_Pet Nahdruk Outcast"
+msgstr "Pet Nahdruk Outcast"
+
+msgid "display_name_r_Pet Nalaed"
+msgstr "Pet Nalaed"
+
+msgid "display_name_r_Pet Nalaed Elder"
+msgstr "Pet Nalaed Elder"
+
+msgid "display_name_r_Pet Neithal Golem"
+msgstr "Pet Neithal Golem"
+
+msgid "display_name_r_Pet Night Hag"
+msgstr "Pet Night Hag"
+
+msgid "display_name_r_Pet Oak Lord"
+msgstr "Pet Oak Lord"
+
+msgid "display_name_r_Pet Oathbound"
+msgstr "Pet Oathbound"
+
+msgid "display_name_r_Pet Oathliege"
+msgstr "Pet Oathliege"
+
+msgid "display_name_r_Pet Obsidian Golem"
+msgstr "Pet Obsidian Golem"
+
+msgid "display_name_r_Pet Ogre Boss"
+msgstr "Pet Ogre Boss"
+
+msgid "display_name_r_Pet Ogre Bully"
+msgstr "Pet Ogre Bully"
+
+msgid "display_name_r_Pet Raptor"
+msgstr "Pet Raptor"
+
+msgid "display_name_r_Pet Raven Standard Grunt"
+msgstr "Pet Raven Standard Grunt"
+
+msgid "display_name_r_Pet Raven Standard Officer"
+msgstr "Pet Raven Standard Officer"
+
+msgid "display_name_r_Pet Raven Standard Veteran"
+msgstr "Pet Raven Standard Veteran"
+
+msgid "display_name_r_Pet Sadayel Chief"
+msgstr "Pet Sadayel Chief"
+
+msgid "display_name_r_Pet Sadayel Shaman"
+msgstr "Pet Sadayel Shaman"
+
+msgid "display_name_r_Pet Salamander"
+msgstr "Pet Salamander"
+
+msgid "display_name_r_Pet Sandstone Golem"
+msgstr "Pet Sandstone Golem"
+
+msgid "display_name_r_Pet Sarlid Darkweaver"
+msgstr "Pet Sarlid Darkweaver"
+
+msgid "display_name_r_Pet Sarlid Defender"
+msgstr "Pet Sarlid Defender"
+
+msgid "display_name_r_Pet Sarlid Guard"
+msgstr "Pet Sarlid Guard"
+
+msgid "display_name_r_Pet Sarlid Poison Adept"
+msgstr "Pet Sarlid Poison Adept"
+
+msgid "display_name_r_Pet Sarnakh"
+msgstr "Pet Sarnakh"
+
+msgid "display_name_r_Pet Sarnakh Minor"
+msgstr "Pet Sarnakh Minor"
+
+msgid "display_name_r_Pet Sarnakh Vile"
+msgstr "Pet Sarnakh Vile"
+
+msgid "display_name_r_Pet Scumling Guard"
+msgstr "Pet Scumling Guard"
+
+msgid "display_name_r_Pet Scumling Queen"
+msgstr "Pet Scumling Queen"
+
+msgid "display_name_r_Pet Scumling Worker"
+msgstr "Pet Scumling Worker"
+
+msgid "display_name_r_Pet Seidbound"
+msgstr "Pet Seidbound"
+
+msgid "display_name_r_Pet Selentine Golem"
+msgstr "Pet Selentine Golem"
+
+msgid "display_name_r_Pet Serpentine"
+msgstr "Pet Serpentine"
+
+msgid "display_name_r_Pet Servant Of Malaut"
+msgstr "Pet Servant Of Malaut"
+
+msgid "display_name_r_Pet Servant Of Malaut Greater"
+msgstr "Pet Servant Of Malaut Greater"
+
+msgid "display_name_r_Pet Severii Archer"
+msgstr "Pet Severii Archer"
+
+msgid "display_name_r_Pet Severii Centurion"
+msgstr "Pet Severii Centurion"
+
+msgid "display_name_r_Pet Severii Legionnaire"
+msgstr "Pet Severii Legionnaire"
+
+msgid "display_name_r_Pet Shadow Knight"
+msgstr "Pet Shadow Knight"
+
+msgid "display_name_r_Pet Shadow Spirit"
+msgstr "Pet Shadow Spirit"
+
+msgid "display_name_r_Pet Shark"
+msgstr "Pet Shark"
+
+msgid "display_name_r_Pet Shroud Knight"
+msgstr "Pet Shroud Knight"
+
+msgid "display_name_r_Pet Siharo Darkbinder"
+msgstr "Pet Siharo Darkbinder"
+
+msgid "display_name_r_Pet Skeleton Archer"
+msgstr "Pet Skeleton Archer"
+
+msgid "display_name_r_Pet Skeleton Warrior"
+msgstr "Pet Skeleton Warrior"
+
+msgid "display_name_r_Pet Slave Of Khamset"
+msgstr "Pet Slave Of Khamset"
+
+msgid "display_name_r_Pet Snowclan Elder"
+msgstr "Pet Snowclan Elder"
+
+msgid "display_name_r_Pet Snowclan Hunter"
+msgstr "Pet Snowclan Hunter"
+
+msgid "display_name_r_Pet Snowclan Oracle"
+msgstr "Pet Snowclan Oracle"
+
+msgid "display_name_r_Pet Snowclan Warrior"
+msgstr "Pet Snowclan Warrior"
+
+msgid "display_name_r_Pet Son Of Ochran"
+msgstr "Pet Son Of Ochran"
+
+msgid "display_name_r_Pet Spellgazer"
+msgstr "Pet Spellgazer"
+
+msgid "display_name_r_Pet Spider Bone"
+msgstr "Pet Spider Bone"
+
+msgid "display_name_r_Pet Spider Cave"
+msgstr "Pet Spider Cave"
+
+msgid "display_name_r_Pet Spider Dire"
+msgstr "Pet Spider Dire"
+
+msgid "display_name_r_Pet Spider Doom"
+msgstr "Pet Spider Doom"
+
+msgid "display_name_r_Pet Spider Ghost"
+msgstr "Pet Spider Ghost"
+
+msgid "display_name_r_Pet Spider Giant"
+msgstr "Pet Spider Giant"
+
+msgid "display_name_r_Pet Spider Hairy"
+msgstr "Pet Spider Hairy"
+
+msgid "display_name_r_Pet Sun Exarch"
+msgstr "Pet Sun Exarch"
+
+msgid "display_name_r_Pet Svartdvergir Doombringer"
+msgstr "Pet Svartdvergir Doombringer"
+
+msgid "display_name_r_Pet Svartdvergir General"
+msgstr "Pet Svartdvergir General"
+
+msgid "display_name_r_Pet Svartdvergir Initiate"
+msgstr "Pet Svartdvergir Initiate"
+
+msgid "display_name_r_Pet Svartdvergir Nightaxe"
+msgstr "Pet Svartdvergir Nightaxe"
+
+msgid "display_name_r_Pet Svartdvergir Summoner"
+msgstr "Pet Svartdvergir Summoner"
+
+msgid "display_name_r_Pet Swamp Hag"
+msgstr "Pet Swamp Hag"
+
+msgid "display_name_r_Pet Theyril Golem"
+msgstr "Pet Theyril Golem"
+
+msgid "display_name_r_Pet Tiger"
+msgstr "Pet Tiger"
+
+msgid "display_name_r_Pet Tomb Iklit"
+msgstr "Pet Tomb Iklit"
+
+msgid "display_name_r_Pet Troll"
+msgstr "Pet Troll"
+
+msgid "display_name_r_Pet Troll Cave"
+msgstr "Pet Troll Cave"
+
+msgid "display_name_r_Pet Troll Lord"
+msgstr "Pet Troll Lord"
+
+msgid "display_name_r_Pet Troll Shaman"
+msgstr "Pet Troll Shaman"
+
+msgid "display_name_r_Pet Undead Dwarf Foreman"
+msgstr "Pet Undead Dwarf Foreman"
+
+msgid "display_name_r_Pet Undead Dwarf Guardian"
+msgstr "Pet Undead Dwarf Guardian"
+
+msgid "display_name_r_Pet Undead Dwarf Miner"
+msgstr "Pet Undead Dwarf Miner"
+
+msgid "display_name_r_Pet Veilron Golem"
+msgstr "Pet Veilron Golem"
+
+msgid "display_name_r_Pet Vlad Duskward"
+msgstr "Pet Vlad Duskward"
+
+msgid "display_name_r_Pet Warlord Choppah"
+msgstr "Pet Warlord Choppah"
+
+msgid "display_name_r_Pet Wildtribe Chieftain"
+msgstr "Pet Wildtribe Chieftain"
+
+msgid "display_name_r_Pet Wildtribe Mage"
+msgstr "Pet Wildtribe Mage"
+
+msgid "display_name_r_Pet Wildtribe Pathfinder"
+msgstr "Pet Wildtribe Pathfinder"
+
+msgid "display_name_r_Pet Wildtribe Shaka"
+msgstr "Pet Wildtribe Shaka"
+
+msgid "display_name_r_Pet Wildtribe Warrior"
+msgstr "Pet Wildtribe Warrior"
+
+msgid "display_name_r_Pet Wildtribe Witch Doctor"
+msgstr "Pet Wildtribe Witch Doctor"
+
+msgid "display_name_r_Pet Windlord"
+msgstr "Pet Windlord"
+
+msgid "display_name_r_Pet Winterbound"
+msgstr "Pet Winterbound"
+
+msgid "display_name_r_Pet Yeti"
+msgstr "Pet Yeti"
+
+msgid "display_name_r_Pet Zombie"
+msgstr "Pet Zombie"
+
+msgid "display_name_r_Pet Zombie Dire"
+msgstr "Pet Zombie Dire"
+
+msgid "display_name_r_Pet Zombie Warrior"
+msgstr "Pet Zombie Warrior"
+
+msgid "display_name_r_Pet sadayel guardian"
+msgstr "Pet sadayel guardian"
+
+msgid "display_name_r_Pets"
+msgstr "Pets"
+
+msgid "display_name_r_Pets Flying"
+msgstr "Pets Flying"
 
 msgid "display_name_r_Pheasant"
 msgstr "Pheasant"
@@ -7949,8 +10298,32 @@ msgstr "Plaguebearer"
 msgid "display_name_r_Plank"
 msgstr "Mahogany Planks"
 
+msgid "display_name_r_Plant Monsters"
+msgstr "Plant Monsters"
+
 msgid "display_name_r_Platinum"
 msgstr "Platinum"
+
+msgid "display_name_r_Player Corpse"
+msgstr "Player Corpse"
+
+msgid "display_name_r_Player Deployables"
+msgstr "Player Deployables"
+
+msgid "display_name_r_Player Deployed Objects Markers"
+msgstr "Player Deployed Objects Markers"
+
+msgid "display_name_r_Player Dropped Container"
+msgstr "Player Dropped Container"
+
+msgid "display_name_r_Player House Banks"
+msgstr "Player House Banks"
+
+msgid "display_name_r_Player House Buildings"
+msgstr "Player House Buildings"
+
+msgid "display_name_r_Player House Extensions"
+msgstr "Player House Extensions"
 
 msgid "display_name_r_Player House Ladder"
 msgstr "Ladder"
@@ -7958,14 +10331,44 @@ msgstr "Ladder"
 msgid "display_name_r_Player House Ladder Item"
 msgstr "Keep Ladder"
 
+msgid "display_name_r_Player House Logging"
+msgstr "Player House Logging"
+
+msgid "display_name_r_Player House Markers"
+msgstr "Player House Markers"
+
+msgid "display_name_r_Player House Props"
+msgstr "Player House Props"
+
+msgid "display_name_r_Player House Resource Spawns"
+msgstr "Player House Resource Spawns"
+
 msgid "display_name_r_Player House Safe"
 msgstr "Safe"
 
 msgid "display_name_r_Player House Safe Item"
 msgstr "Safe"
 
+msgid "display_name_r_Player House Structures"
+msgstr "Player House Structures"
+
+msgid "display_name_r_Player House Tenant Extensions"
+msgstr "Player House Tenant Extensions"
+
 msgid "display_name_r_Player House Vendor Item"
 msgstr "Vendor Booth"
+
+msgid "display_name_r_Player House Vendors"
+msgstr "Player House Vendors"
+
+msgid "display_name_r_Player Houses"
+msgstr "Player Houses"
+
+msgid "display_name_r_Player Markers"
+msgstr "Player Markers"
+
+msgid "display_name_r_Player Races"
+msgstr "Player Races"
 
 msgid "display_name_r_Player Slot Machine"
 msgstr "Slot Machine"
@@ -7994,14 +10397,32 @@ msgstr "Large Player Flag"
 msgid "display_name_r_Player Use Flag 03 Item"
 msgstr "Large Player Flag"
 
+msgid "display_name_r_Player Use Flags"
+msgstr "Player Use Flags"
+
+msgid "display_name_r_Player Use Flags Items"
+msgstr "Player Use Flags Items"
+
 msgid "display_name_r_Player Vendor Cart"
 msgstr "Player Vendor Cart"
 
 msgid "display_name_r_Player Vendor Cart Item"
 msgstr "Player vendor cart"
 
+msgid "display_name_r_Player Vendor Items"
+msgstr "Player Vendor Items"
+
 msgid "display_name_r_Player slot Machine Item"
 msgstr "Player slot Machine"
+
+msgid "display_name_r_Poisons"
+msgstr "Poisons"
+
+msgid "display_name_r_Polearm Skills"
+msgstr "Polearm Skills"
+
+msgid "display_name_r_Polearms"
+msgstr "Polearms"
 
 msgid "display_name_r_Polehammer"
 msgstr "Pole Hammer"
@@ -8018,8 +10439,20 @@ msgstr "Portal"
 msgid "display_name_r_Portal Forest Gate"
 msgstr "Portal"
 
+msgid "display_name_r_Portal Hellgate"
+msgstr "Portal Hellgate"
+
 msgid "display_name_r_Portal Mainland"
 msgstr "Portal"
+
+msgid "display_name_r_Portal Marker Dungeon"
+msgstr "Portal Marker Dungeon"
+
+msgid "display_name_r_Portal Marker Exit"
+msgstr "Portal Marker Exit"
+
+msgid "display_name_r_Portal Markers"
+msgstr "Portal Markers"
 
 msgid "display_name_r_Portal Natural"
 msgstr "Portal"
@@ -8053,6 +10486,9 @@ msgstr "Portal"
 
 msgid "display_name_r_Portal Yssam"
 msgstr "Portal"
+
+msgid "display_name_r_Portals"
+msgstr "Portals"
 
 msgid "display_name_r_Potato Garden"
 msgstr "Potato Garden"
@@ -8114,6 +10550,9 @@ msgstr "Moderate Stamina Potion"
 msgid "display_name_r_Potion Suppress Weakness"
 msgstr "Quell Weakness Potion"
 
+msgid "display_name_r_Potions"
+msgstr "Potions"
+
 msgid "display_name_r_Pots and Pans"
 msgstr "Pots and pans"
 
@@ -8122,6 +10561,9 @@ msgstr "Potted Palm"
 
 msgid "display_name_r_Potted Palm Item"
 msgstr "Potted Palm"
+
+msgid "display_name_r_PrayAltar"
+msgstr "PrayAltar"
 
 msgid "display_name_r_Premium Color Base"
 msgstr "Premium Color Base"
@@ -8135,11 +10577,20 @@ msgstr "Primeval Quintessence"
 msgid "display_name_r_Pristine Bone"
 msgstr "Pristine Bone"
 
+msgid "display_name_r_Props"
+msgstr "Props"
+
+msgid "display_name_r_Protection Food"
+msgstr "Protection Food"
+
 msgid "display_name_r_Protection Shard Large"
 msgstr "Protection Shard Large"
 
 msgid "display_name_r_Protection Shard Small"
 msgstr "Protection Shard Small"
+
+msgid "display_name_r_Protection Shards"
+msgstr "Protection Shards"
 
 msgid "display_name_r_Pumpkin"
 msgstr "Pumpkin"
@@ -8171,6 +10622,9 @@ msgstr "Angor Spiteskull's Head"
 msgid "display_name_r_Quest Ardin Blackpeaks Blade"
 msgstr "Ardin Blackpeak's Blade"
 
+msgid "display_name_r_Quest Below head"
+msgstr "Quest Below head"
+
 msgid "display_name_r_Quest Breastplate"
 msgstr "Breastplate"
 
@@ -8195,6 +10649,9 @@ msgstr "Elflord's heart"
 msgid "display_name_r_Quest Exultant Mask"
 msgstr "Exultant Mask"
 
+msgid "display_name_r_Quest Factions"
+msgstr "Quest Factions"
+
 msgid "display_name_r_Quest Golden Egg"
 msgstr "Golden Egg"
 
@@ -8204,11 +10661,20 @@ msgstr "Hivekin plague vaccine"
 msgid "display_name_r_Quest Ingredients for a cure"
 msgstr "Ingredients for a cure"
 
+msgid "display_name_r_Quest Items"
+msgstr "Quest Items"
+
+msgid "display_name_r_Quest Large Human Shield"
+msgstr "Quest Large Human Shield"
+
 msgid "display_name_r_Quest Letter for Johan Langbough"
 msgstr "Letter for Johan Langbough"
 
 msgid "display_name_r_Quest Mail Package"
 msgstr "Mail Package"
+
+msgid "display_name_r_Quest Markers"
+msgstr "Quest Markers"
 
 msgid "display_name_r_Quest Missing ingredients"
 msgstr "Missing ingredients"
@@ -8225,11 +10691,17 @@ msgstr "Nithron Text Fragment"
 msgid "display_name_r_Quest Noonday Moon"
 msgstr "Noonday Moon"
 
+msgid "display_name_r_Quest Random Reward"
+msgstr "Quest Random Reward"
+
 msgid "display_name_r_Quest Signet ring"
 msgstr "DeQuincey family signet ring"
 
 msgid "display_name_r_Quest Strange mural"
 msgstr "Strange Mural"
+
+msgid "display_name_r_Quest Target Props"
+msgstr "Quest Target Props"
 
 msgid "display_name_r_Quest Temp Item_01"
 msgstr "Quest Temp Item_01"
@@ -8279,6 +10751,9 @@ msgstr "A barrel of Auld Harvest"
 msgid "display_name_r_Quest a coded message"
 msgstr "A coded message"
 
+msgid "display_name_r_Quickness Titles"
+msgstr "Quickness Titles"
+
 msgid "display_name_r_Quill"
 msgstr "Scriber's Quill"
 
@@ -8315,6 +10790,9 @@ msgstr "Raptor"
 msgid "display_name_r_Rat"
 msgstr "Rat"
 
+msgid "display_name_r_Ratlings"
+msgstr "Ratlings"
+
 msgid "display_name_r_Ravager"
 msgstr "Ravager"
 
@@ -8327,11 +10805,20 @@ msgstr "Raven Standard Officer"
 msgid "display_name_r_Raven Standard Veteran"
 msgstr "Raven Standard Veteran"
 
+msgid "display_name_r_Raven Standards"
+msgstr "Raven Standards"
+
 msgid "display_name_r_Ravenous"
 msgstr "Ravenous"
 
 msgid "display_name_r_Rawhide"
 msgstr "Rawhide"
+
+msgid "display_name_r_Rawhides"
+msgstr "Rawhides"
+
+msgid "display_name_r_Reagents"
+msgstr "Reagents"
 
 msgid "display_name_r_Reaper Black Dye"
 msgstr "Reaper Black Dye"
@@ -8369,6 +10856,9 @@ msgstr "Resource Container"
 msgid "display_name_r_Resource Markers"
 msgstr ""
 
+msgid "display_name_r_Resource Stash"
+msgstr "Resource Stash"
+
 msgid "display_name_r_Revenant Axe"
 msgstr "Revenant Axe"
 
@@ -8402,6 +10892,9 @@ msgstr "Snake Revenant"
 msgid "display_name_r_Revenant Wolf"
 msgstr "Wolf Revenant"
 
+msgid "display_name_r_Revenants"
+msgstr "Revenants"
+
 msgid "display_name_r_Riadan Steel"
 msgstr "Riadan Steel"
 
@@ -8410,6 +10903,9 @@ msgstr "Rib Cage"
 
 msgid "display_name_r_Ring"
 msgstr "Ring"
+
+msgid "display_name_r_Rings"
+msgstr "Rings"
 
 msgid "display_name_r_Ripper"
 msgstr "Ripper"
@@ -8450,6 +10946,9 @@ msgstr "Simple Robe"
 msgid "display_name_r_Robe Simple_01"
 msgstr "Simple Robe"
 
+msgid "display_name_r_Robes"
+msgstr "Robes"
+
 msgid "display_name_r_Robes Acolyte"
 msgstr "Acolyte Robes"
 
@@ -8477,11 +10976,17 @@ msgstr "Royal Purple Dye"
 msgid "display_name_r_Royal Purple Pigment"
 msgstr "Royal Purple Pigment"
 
+msgid "display_name_r_Rubaiyat"
+msgstr "Rubaiyat"
+
 msgid "display_name_r_Ruby Pyramid"
 msgstr "Miniature Ruby Pyramid"
 
 msgid "display_name_r_Ruby Ring"
 msgstr "Ruby Ring"
+
+msgid "display_name_r_Rune Books"
+msgstr "Rune Books"
 
 msgid "display_name_r_Runebreaker"
 msgstr "Runebreaker"
@@ -8540,6 +11045,9 @@ msgstr "Tribal Shield"
 msgid "display_name_r_Sadayel Tribal Spear"
 msgstr "Tribal Pike"
 
+msgid "display_name_r_Sadayels"
+msgstr "Sadayels"
+
 msgid "display_name_r_Sagaris"
 msgstr "Sagaris"
 
@@ -8558,11 +11066,17 @@ msgstr "sail3"
 msgid "display_name_r_Sailcloth"
 msgstr "Sailcloth"
 
+msgid "display_name_r_Sails"
+msgstr "Sails"
+
 msgid "display_name_r_Salamander"
 msgstr "Salamander"
 
 msgid "display_name_r_Salamander Shade"
 msgstr "Shade Salamander"
+
+msgid "display_name_r_Salamanders"
+msgstr "Salamanders"
 
 msgid "display_name_r_Salmon"
 msgstr "Salmon"
@@ -8597,6 +11111,9 @@ msgstr "Sarlid Poison Adept"
 msgid "display_name_r_Sarlid Sword"
 msgstr "Sarlid Sword"
 
+msgid "display_name_r_Sarlids"
+msgstr "Sarlids"
+
 msgid "display_name_r_Sarnakh"
 msgstr "Sarnakh"
 
@@ -8605,6 +11122,9 @@ msgstr "Minor Sarnakh"
 
 msgid "display_name_r_Sarnakh Vile"
 msgstr "Vile Sarnakh"
+
+msgid "display_name_r_Sarnakhs"
+msgstr "Sarnakhs"
 
 msgid "display_name_r_Sarracenia"
 msgstr "Sarracenia"
@@ -8702,6 +11222,9 @@ msgstr "Weaving Schematic"
 msgid "display_name_r_Schematic Woodcutting"
 msgstr "Woodcutting Schematic"
 
+msgid "display_name_r_Schematics"
+msgstr "Schematics"
+
 msgid "display_name_r_Scimitar"
 msgstr "Scimitar"
 
@@ -8710,6 +11233,9 @@ msgstr "Scorpio"
 
 msgid "display_name_r_Scorpion King"
 msgstr "Scorpion King"
+
+msgid "display_name_r_Scribing Materials"
+msgstr "Scribing Materials"
 
 msgid "display_name_r_Scroll"
 msgstr "Scroll"
@@ -9134,6 +11660,9 @@ msgstr "Scroll of Beacon"
 msgid "display_name_r_Scroll of Begone"
 msgstr "Scroll of Begone"
 
+msgid "display_name_r_Scroll of Blast"
+msgstr "Scroll of Blast"
+
 msgid "display_name_r_Scroll of Bless Other"
 msgstr "Scroll of Bless Other"
 
@@ -9194,6 +11723,9 @@ msgstr "Scroll of Earthquake"
 msgid "display_name_r_Scroll of Eldritch Sphere"
 msgstr "Scroll of Eldritch Sphere"
 
+msgid "display_name_r_Scroll of Evil Eye"
+msgstr "Scroll of Evil Eye"
+
 msgid "display_name_r_Scroll of Exhaust"
 msgstr "Scroll of Exhaust"
 
@@ -9220,6 +11752,9 @@ msgstr "Scroll of Flames of Vengeance"
 
 msgid "display_name_r_Scroll of Flesh Curse"
 msgstr "Scroll of Flesh Curse"
+
+msgid "display_name_r_Scroll of Frailty"
+msgstr "Scroll of Frailty"
 
 msgid "display_name_r_Scroll of Frostbite"
 msgstr "Scroll of Frostbite"
@@ -9383,6 +11918,9 @@ msgstr "Scroll of Max Mana Bonus"
 msgid "display_name_r_Scroll of Max Stamina Bonus"
 msgstr "Scroll of Max Stamina Bonus"
 
+msgid "display_name_r_Scroll of Mental Weakness"
+msgstr "Scroll of Mental Weakness"
+
 msgid "display_name_r_Scroll of Meteor Strike"
 msgstr "Scroll of Meteor Strike"
 
@@ -9436,6 +11974,9 @@ msgstr "Scroll of Sluggish"
 
 msgid "display_name_r_Scroll of Smoke Signal"
 msgstr "Scroll of Smoke Signal"
+
+msgid "display_name_r_Scroll of Spell Curse"
+msgstr "Scroll of Spell Curse"
 
 msgid "display_name_r_Scroll of Spell Immunity"
 msgstr "Scroll of Spell Immunity"
@@ -9515,6 +12056,9 @@ msgstr "Scroll of Weakening Chill"
 msgid "display_name_r_Scroll of Witches Brew"
 msgstr "Scroll of Witches Brew"
 
+msgid "display_name_r_Scrolls"
+msgstr "Scrolls"
+
 msgid "display_name_r_Scumling Guard"
 msgstr "Scumling Guard"
 
@@ -9523,6 +12067,9 @@ msgstr "Scumling Queen"
 
 msgid "display_name_r_Scumling Worker"
 msgstr "Scumling Worker"
+
+msgid "display_name_r_Scumlings"
+msgstr "Scumlings"
 
 msgid "display_name_r_Sea Fortress Base"
 msgstr "Fortress"
@@ -9593,6 +12140,9 @@ msgstr "Seeker"
 msgid "display_name_r_Seidbound"
 msgstr "Seidbound"
 
+msgid "display_name_r_Selentine Chest"
+msgstr "Selentine Chest"
+
 msgid "display_name_r_Selentine Chest Key"
 msgstr "Selentine Chest Key"
 
@@ -9610,6 +12160,9 @@ msgstr "Selentine Ingot"
 
 msgid "display_name_r_Selentine Leather"
 msgstr "Behemoth Leather"
+
+msgid "display_name_r_Selentine Nugget"
+msgstr "Selentine Nugget"
 
 msgid "display_name_r_Selentine Ore"
 msgstr "Selentine Ore"
@@ -9638,14 +12191,23 @@ msgstr "Serpentine"
 msgid "display_name_r_Serpentine Greenleaf"
 msgstr "Serpentine Greenleaf"
 
+msgid "display_name_r_Serpentines"
+msgstr "Serpentines"
+
 msgid "display_name_r_Serpents Kiss"
 msgstr "Serpent's Kiss"
+
+msgid "display_name_r_Servant of Khamset"
+msgstr "Servant of Khamset"
 
 msgid "display_name_r_Servant of Malaut"
 msgstr "Servant of Malaut"
 
 msgid "display_name_r_Servant of Malaut Greater"
 msgstr "Greater Servant"
+
+msgid "display_name_r_Servants of Malaut"
+msgstr "Servants of Malaut"
 
 msgid "display_name_r_Severii Archer"
 msgstr "Severii Archer"
@@ -9659,8 +12221,14 @@ msgstr "Severii Centurion"
 msgid "display_name_r_Severii Legionnaire"
 msgstr "Severii Legionnaire"
 
+msgid "display_name_r_Severiis"
+msgstr "Severiis"
+
 msgid "display_name_r_Shadebringer"
 msgstr "Shadebringer"
+
+msgid "display_name_r_Shades"
+msgstr "Shades"
 
 msgid "display_name_r_Shadesword"
 msgstr "Shadesword"
@@ -9691,6 +12259,12 @@ msgstr "Shearsword"
 
 msgid "display_name_r_Sheperds Pie"
 msgstr "Shepherd's Pie"
+
+msgid "display_name_r_Shields"
+msgstr "Shields"
+
+msgid "display_name_r_Shields Metal"
+msgstr "Shields Metal"
 
 msgid "display_name_r_Shingle"
 msgstr "Shingles"
@@ -9794,6 +12368,9 @@ msgstr "Large Siegestone"
 msgid "display_name_r_Siege Bindstone Large Item"
 msgstr "Large Siege Stone"
 
+msgid "display_name_r_Siege Bindstone Markers"
+msgstr "Siege Bindstone Markers"
+
 msgid "display_name_r_Siege Bindstone Medium"
 msgstr "Medium Siegestone"
 
@@ -9809,6 +12386,9 @@ msgstr "Small Siege Stone"
 msgid "display_name_r_Siege Hammer"
 msgstr "Siege Hammer"
 
+msgid "display_name_r_Siege Weapons"
+msgstr "Siege Weapons"
+
 msgid "display_name_r_Sigil"
 msgstr "Sigil"
 
@@ -9818,14 +12398,29 @@ msgstr "Signet Ring"
 msgid "display_name_r_Siharo Darkbinder"
 msgstr "Siharo Darkbinder"
 
+msgid "display_name_r_Silver Basin"
+msgstr "Silver Basin"
+
 msgid "display_name_r_Silver Birch"
 msgstr "Silver Birch"
 
 msgid "display_name_r_Silver Birch Item"
 msgstr "Silver Birch"
 
+msgid "display_name_r_Silver Bowl"
+msgstr "Silver Bowl"
+
+msgid "display_name_r_Silver Chalice"
+msgstr "Silver Chalice"
+
+msgid "display_name_r_Silver Cup"
+msgstr "Silver Cup"
+
 msgid "display_name_r_Silver Necklace"
 msgstr "Silver Necklace"
+
+msgid "display_name_r_Silver Plate"
+msgstr "Silver Plate"
 
 msgid "display_name_r_Silver Ring"
 msgstr "Silver Ring"
@@ -9836,17 +12431,29 @@ msgstr "Silverbranch"
 msgid "display_name_r_Silverswain"
 msgstr "Silverswain"
 
+msgid "display_name_r_Simple Bucket"
+msgstr "Simple Bucket"
+
 msgid "display_name_r_Simple Dwarven Daggers"
 msgstr "Simple Dwarven Daggers"
 
 msgid "display_name_r_Simple Earrings"
 msgstr "Simple Earrings"
 
+msgid "display_name_r_Simple Plate"
+msgstr "Simple Plate"
+
 msgid "display_name_r_Simple Ring"
 msgstr "Simple Ring"
 
 msgid "display_name_r_Simple Rune Book"
 msgstr "Simple Rune Book"
+
+msgid "display_name_r_Sithras"
+msgstr "Sithras"
+
+msgid "display_name_r_Sithras Skills"
+msgstr "Sithras Skills"
 
 msgid "display_name_r_Skeleton"
 msgstr "Brittle Skeleton"
@@ -9862,6 +12469,15 @@ msgstr "Skeleton Hand"
 
 msgid "display_name_r_Skeleton Warrior"
 msgstr "Skeleton Warrior"
+
+msgid "display_name_r_Skeletons"
+msgstr "Skeletons"
+
+msgid "display_name_r_Skeletons Regular"
+msgstr "Skeletons Regular"
+
+msgid "display_name_r_Skeletons Uncommon"
+msgstr "Skeletons Uncommon"
 
 msgid "display_name_r_Skin Bile"
 msgstr "Bile"
@@ -9983,6 +12599,9 @@ msgstr "Small Anvil"
 msgid "display_name_r_Small Cannon"
 msgstr "Pirate Cannon"
 
+msgid "display_name_r_Small Ceramic Vase"
+msgstr "Small Ceramic Vase"
+
 msgid "display_name_r_Small Earrings"
 msgstr "Small Earrings"
 
@@ -10030,6 +12649,9 @@ msgstr "Small Workbench"
 
 msgid "display_name_r_Small Workbench Item"
 msgstr "Small Workbench"
+
+msgid "display_name_r_Smelter"
+msgstr "Smelter"
 
 msgid "display_name_r_Smoked Bass"
 msgstr "Smoked Bass"
@@ -10082,11 +12704,38 @@ msgstr "Solar Sphere"
 msgid "display_name_r_Son of Ochran"
 msgstr "Son of Ochran"
 
+msgid "display_name_r_Sons of Riada"
+msgstr "Sons of Riada"
+
 msgid "display_name_r_Souleater"
 msgstr "Souleater"
 
 msgid "display_name_r_Sparkstone"
 msgstr "Sparkstone"
+
+msgid "display_name_r_Spawn Point Marker Boss"
+msgstr "Spawn Point Marker Boss"
+
+msgid "display_name_r_Spawn Point Marker Champion"
+msgstr "Spawn Point Marker Champion"
+
+msgid "display_name_r_Spawn Point Marker Dungeon"
+msgstr "Spawn Point Marker Dungeon"
+
+msgid "display_name_r_Spawn Point Marker Easy"
+msgstr "Spawn Point Marker Easy"
+
+msgid "display_name_r_Spawn Point Marker Hard"
+msgstr "Spawn Point Marker Hard"
+
+msgid "display_name_r_Spawn Point Marker Medium"
+msgstr "Spawn Point Marker Medium"
+
+msgid "display_name_r_Spawn Point Marker Very Hard"
+msgstr "Spawn Point Marker Very Hard"
+
+msgid "display_name_r_Spawn Point Markers"
+msgstr "Spawn Point Markers"
 
 msgid "display_name_r_Spearsword"
 msgstr "Spearsword"
@@ -10097,8 +12746,14 @@ msgstr "Help Me Special Effect"
 msgid "display_name_r_Special Effect Help Me Female"
 msgstr "Female Help Me Special Effect"
 
+msgid "display_name_r_Special Resource"
+msgstr "Special Resource"
+
 msgid "display_name_r_Specialty Scrolls"
 msgstr "Specialty Scrolls"
+
+msgid "display_name_r_Spellchanting Magic Scrolls"
+msgstr "Spellchanting Magic Scrolls"
 
 msgid "display_name_r_Spellgazer"
 msgstr "Spellgazer"
@@ -10142,6 +12797,9 @@ msgstr "Spider Scarab"
 msgid "display_name_r_Spider Scarab Cannon"
 msgstr "Spider Scarab"
 
+msgid "display_name_r_Spiders"
+msgstr "Spiders"
+
 msgid "display_name_r_Spiders Web"
 msgstr "Spider's Web"
 
@@ -10169,6 +12827,9 @@ msgstr "Spirit Club"
 msgid "display_name_r_Spiritchaser"
 msgstr "Spiritchaser"
 
+msgid "display_name_r_Spoon"
+msgstr "Spoon"
+
 msgid "display_name_r_Squid"
 msgstr "Squid"
 
@@ -10193,11 +12854,17 @@ msgstr "Star Silver Dye"
 msgid "display_name_r_Star of Eanna"
 msgstr "Star of Eanna"
 
+msgid "display_name_r_Stationary Guns"
+msgstr "Stationary Guns"
+
 msgid "display_name_r_Steedgrass"
 msgstr "Steedgrass"
 
 msgid "display_name_r_Steel Blue Dye"
 msgstr "Steel Blue Dye"
+
+msgid "display_name_r_Steering Wheels"
+msgstr "Steering Wheels"
 
 msgid "display_name_r_Stone"
 msgstr "Stone"
@@ -10205,8 +12872,17 @@ msgstr "Stone"
 msgid "display_name_r_Stone Golem Rock"
 msgstr "Rock"
 
+msgid "display_name_r_Stone Golems"
+msgstr "Stone Golems"
+
+msgid "display_name_r_Stone Props"
+msgstr "Stone Props"
+
 msgid "display_name_r_Stonewall"
 msgstr "Stonewall"
+
+msgid "display_name_r_Store Items"
+msgstr "Store Items"
 
 msgid "display_name_r_Stormcaller"
 msgstr "Stormcaller"
@@ -10238,8 +12914,14 @@ msgstr "Strawberry Garden"
 msgid "display_name_r_Strawberry Garden Item"
 msgstr "Strawberry Garden"
 
+msgid "display_name_r_Strength Titles"
+msgstr "Strength Titles"
+
 msgid "display_name_r_Structure Wall"
 msgstr "Wall"
+
+msgid "display_name_r_Structures"
+msgstr "Structures"
 
 msgid "display_name_r_Stuffed Mushrooms"
 msgstr "Stuffed Mushrooms"
@@ -10289,6 +12971,12 @@ msgstr "Svartdvergir Pickaxe"
 msgid "display_name_r_Svartdvergir Summoner"
 msgstr "Svartdvergir Summoner"
 
+msgid "display_name_r_Svartdvergirs"
+msgstr "Svartdvergirs"
+
+msgid "display_name_r_Swamp"
+msgstr "Swamp"
+
 msgid "display_name_r_Swamp Hag"
 msgstr "Swamp Hag"
 
@@ -10310,11 +12998,17 @@ msgstr "Swift Shulgan Drake"
 msgid "display_name_r_Swift Tribeland Bear"
 msgstr "Swift Tribeland Bear"
 
+msgid "display_name_r_Sword Skills"
+msgstr "Sword Skills"
+
 msgid "display_name_r_Swordfish"
 msgstr "Swordfish"
 
 msgid "display_name_r_Swordfish Sushi"
 msgstr "Swordfish Sushi"
+
+msgid "display_name_r_Swords"
+msgstr "Swords"
 
 msgid "display_name_r_Sylvan Greenleaf"
 msgstr "Sylvan Greenleaf"
@@ -10339,6 +13033,9 @@ msgstr "Talon Axe"
 
 msgid "display_name_r_Tamers Whistle"
 msgstr "Tamer's Whistle"
+
+msgid "display_name_r_Tankard"
+msgstr "Tankard"
 
 msgid "display_name_r_Tapestry Big_01"
 msgstr "Large Niflheim Tapestry"
@@ -10388,6 +13085,9 @@ msgstr "Rubaiyat Tapestry"
 msgid "display_name_r_Tapestry Small_04 Item"
 msgstr "Rubaiyat Tapestry"
 
+msgid "display_name_r_Tar"
+msgstr "Tar"
+
 msgid "display_name_r_Tarilis"
 msgstr "Tarilis"
 
@@ -10400,8 +13100,35 @@ msgstr "Teleport Rune"
 msgid "display_name_r_Teleport Runes"
 msgstr "Teleportation"
 
+msgid "display_name_r_Teleporter Entrances"
+msgstr "Teleporter Entrances"
+
+msgid "display_name_r_Teleporter Exit Items"
+msgstr "Teleporter Exit Items"
+
+msgid "display_name_r_Teleporter Exits"
+msgstr "Teleporter Exits"
+
+msgid "display_name_r_Teleporter Items"
+msgstr "Teleporter Items"
+
+msgid "display_name_r_Teleporters"
+msgstr "Teleporters"
+
+msgid "display_name_r_Temple of the God King"
+msgstr "Temple of the God King"
+
+msgid "display_name_r_Terrain"
+msgstr "Terrain"
+
 msgid "display_name_r_Terror"
 msgstr "Terror"
+
+msgid "display_name_r_Test Resources"
+msgstr "Test Resources"
+
+msgid "display_name_r_Test Workstation"
+msgstr "Test Workstation"
 
 msgid "display_name_r_Test_10 kg"
 msgstr "10 kg"
@@ -10475,11 +13202,38 @@ msgstr "Thainlich"
 msgid "display_name_r_Thainlord"
 msgstr "Thainlord"
 
+msgid "display_name_r_The Alfar of Nagast"
+msgstr "The Alfar of Nagast"
+
+msgid "display_name_r_The Arrowhead"
+msgstr "The Arrowhead"
+
+msgid "display_name_r_The Belows"
+msgstr "The Belows"
+
+msgid "display_name_r_The Blades of Tolenque"
+msgstr "The Blades of Tolenque"
+
 msgid "display_name_r_The Clearing"
 msgstr "The Clearing"
 
 msgid "display_name_r_The Clearing Item"
 msgstr "The Clearing"
+
+msgid "display_name_r_The Dextrous"
+msgstr "The Dextrous"
+
+msgid "display_name_r_The Dragonbound"
+msgstr "The Dragonbound"
+
+msgid "display_name_r_The Dwarves Of Dvergheim"
+msgstr "The Dwarves Of Dvergheim"
+
+msgid "display_name_r_The Elders of Red Moon"
+msgstr "The Elders of Red Moon"
+
+msgid "display_name_r_The Fangs of Ottenhal"
+msgstr "The Fangs of Ottenhal"
 
 msgid "display_name_r_The Forgotten One"
 msgstr "The Forgotten One"
@@ -10490,6 +13244,15 @@ msgstr "The Golden Talon"
 msgid "display_name_r_The Golden Talon Item"
 msgstr "The Golden Talon"
 
+msgid "display_name_r_The Hintenfau Sisterhood"
+msgstr "The Hintenfau Sisterhood"
+
+msgid "display_name_r_The Humans of Mercia"
+msgstr "The Humans of Mercia"
+
+msgid "display_name_r_The Jhali Raiders"
+msgstr "The Jhali Raiders"
+
 msgid "display_name_r_The Kraken"
 msgstr "The Kraken"
 
@@ -10499,11 +13262,92 @@ msgstr "The Kraken"
 msgid "display_name_r_The Leviathan"
 msgstr "The Leviathan"
 
+msgid "display_name_r_The Limber"
+msgstr "The Limber"
+
+msgid "display_name_r_The Lords of Espenhal"
+msgstr "The Lords of Espenhal"
+
+msgid "display_name_r_The Loremasters of Janhalek"
+msgstr "The Loremasters of Janhalek"
+
+msgid "display_name_r_The Mahirim Of The Tribelands"
+msgstr "The Mahirim Of The Tribelands"
+
+msgid "display_name_r_The Mirdain of Mirendil"
+msgstr "The Mirdain of Mirendil"
+
+msgid "display_name_r_The Mirrorsea Union"
+msgstr "The Mirrorsea Union"
+
+msgid "display_name_r_The Muscular"
+msgstr "The Muscular"
+
+msgid "display_name_r_The Order of The Axe"
+msgstr "The Order of The Axe"
+
+msgid "display_name_r_The Orks of Morak"
+msgstr "The Orks of Morak"
+
+msgid "display_name_r_The Quick"
+msgstr "The Quick"
+
+msgid "display_name_r_The Radiant Circle"
+msgstr "The Radiant Circle"
+
+msgid "display_name_r_The Serene Spire"
+msgstr "The Serene Spire"
+
+msgid "display_name_r_The Shadow Salient"
+msgstr "The Shadow Salient"
+
+msgid "display_name_r_The Sharp"
+msgstr "The Sharp"
+
+msgid "display_name_r_The Silverswords"
+msgstr "The Silverswords"
+
+msgid "display_name_r_The Simiran Order"
+msgstr "The Simiran Order"
+
+msgid "display_name_r_The Smart"
+msgstr "The Smart"
+
+msgid "display_name_r_The Stout"
+msgstr "The Stout"
+
+msgid "display_name_r_The Strong"
+msgstr "The Strong"
+
+msgid "display_name_r_The Swift"
+msgstr "The Swift"
+
+msgid "display_name_r_The Thoughtful"
+msgstr "The Thoughtful"
+
+msgid "display_name_r_The Tough"
+msgstr "The Tough"
+
 msgid "display_name_r_The Wax Dragon"
 msgstr "The Wax Dragon"
 
 msgid "display_name_r_The Wax Dragon Item"
 msgstr "The Wax Dragon"
+
+msgid "display_name_r_The White Hunters"
+msgstr "The White Hunters"
+
+msgid "display_name_r_The White Order"
+msgstr "The White Order"
+
+msgid "display_name_r_The Wise"
+msgstr "The Wise"
+
+msgid "display_name_r_The Wolfmasks"
+msgstr "The Wolfmasks"
+
+msgid "display_name_r_Theyril Chest"
+msgstr "Theyril Chest"
 
 msgid "display_name_r_Theyril Chest Key"
 msgstr "Theyril Chest Key"
@@ -10522,6 +13366,9 @@ msgstr "Theyril Ingot"
 
 msgid "display_name_r_Theyril Leather"
 msgstr "Royal Leather"
+
+msgid "display_name_r_Theyril Nugget"
+msgstr "Theyril Nugget"
 
 msgid "display_name_r_Theyril Ore"
 msgstr "Theyril Ore"
@@ -10550,6 +13397,12 @@ msgstr "Thornreaper"
 msgid "display_name_r_Throatripper"
 msgstr "Throatripper"
 
+msgid "display_name_r_Throwable Weapons"
+msgstr "Throwable Weapons"
+
+msgid "display_name_r_Thrown Bludgeoning"
+msgstr "Thrown Bludgeoning"
+
 msgid "display_name_r_Thunderbolt"
 msgstr "Thunderbolt"
 
@@ -10565,6 +13418,9 @@ msgstr "Tiger"
 msgid "display_name_r_Timber"
 msgstr "Oak Timber"
 
+msgid "display_name_r_Timbers"
+msgstr "Timbers"
+
 msgid "display_name_r_Tinkling Jester Cap"
 msgstr "Tinkling Jester Cap"
 
@@ -10574,8 +13430,14 @@ msgstr "Titan"
 msgid "display_name_r_Title Scroll"
 msgstr "Title Scroll"
 
+msgid "display_name_r_Titles"
+msgstr "Titles"
+
 msgid "display_name_r_Tomb Iklit"
 msgstr "Tomb Iklit"
+
+msgid "display_name_r_Tombstones"
+msgstr "Tombstones"
 
 msgid "display_name_r_Tome of Divinities"
 msgstr "Tome of Divinities"
@@ -10585,6 +13447,9 @@ msgstr "Tome of Wanderlust"
 
 msgid "display_name_r_Tongs"
 msgstr "Tongs"
+
+msgid "display_name_r_Tools"
+msgstr "Tools"
 
 msgid "display_name_r_Tooth"
 msgstr "Tooth"
@@ -10640,17 +13505,47 @@ msgstr "VENDOR START TRADEROUTE"
 msgid "display_name_r_Traderoute 2 Window"
 msgstr "START TRADEROUTE WINDOW"
 
+msgid "display_name_r_Traderoute End Vendors"
+msgstr "Traderoute End Vendors"
+
 msgid "display_name_r_Traderoute Item_01"
 msgstr "Traderoute Item_01"
 
 msgid "display_name_r_Traderoute Item_02"
 msgstr "Traderoute Item_02"
 
+msgid "display_name_r_Traderoute Items"
+msgstr "Traderoute Items"
+
+msgid "display_name_r_Traderoute Markers"
+msgstr "Traderoute Markers"
+
+msgid "display_name_r_Traderoute Middle Structures"
+msgstr "Traderoute Middle Structures"
+
+msgid "display_name_r_Traderoute Middle Vendors"
+msgstr "Traderoute Middle Vendors"
+
+msgid "display_name_r_Traderoute Start Marker"
+msgstr "Traderoute Start Marker"
+
+msgid "display_name_r_Traderoute Start Structures"
+msgstr "Traderoute Start Structures"
+
+msgid "display_name_r_Traderoute Start Vendors"
+msgstr "Traderoute Start Vendors"
+
+msgid "display_name_r_Traderoute Structures"
+msgstr "Traderoute Structures"
+
 msgid "display_name_r_Traitors Glory"
 msgstr "Lightspark"
 
 msgid "display_name_r_Treant"
 msgstr "Treant"
+
+msgid "display_name_r_Treasure Chest"
+msgstr "Treasure Chest"
 
 msgid "display_name_r_Treasure Map Fragment_01"
 msgstr "Map Fragment 1"
@@ -10682,11 +13577,20 @@ msgstr "Map Fragment 9"
 msgid "display_name_r_Treasure Map Item"
 msgstr "Treasure Map"
 
+msgid "display_name_r_Treasure Map Items"
+msgstr "Treasure Map Items"
+
+msgid "display_name_r_Tree Hugger"
+msgstr "Tree Hugger"
+
 msgid "display_name_r_Tree Sap"
 msgstr "Tree Sap"
 
 msgid "display_name_r_Tree Stump"
 msgstr "Tree Stump"
+
+msgid "display_name_r_Trees"
+msgstr "Trees"
 
 msgid "display_name_r_Tribeland Bear"
 msgstr "Tribeland Bear"
@@ -10706,6 +13610,9 @@ msgstr "Cave Troll"
 msgid "display_name_r_Troll Clubber"
 msgstr "Troll Clubber"
 
+msgid "display_name_r_Troll Ice"
+msgstr "Troll Ice"
+
 msgid "display_name_r_Troll Lord"
 msgstr "Troll Lord"
 
@@ -10718,6 +13625,9 @@ msgstr "Troll Tooth"
 msgid "display_name_r_Trollbane"
 msgstr "Trollbane"
 
+msgid "display_name_r_Trollkin"
+msgstr "Trollkin"
+
 msgid "display_name_r_Trollstaff"
 msgstr "Trollstaff"
 
@@ -10726,6 +13636,12 @@ msgstr "Trout"
 
 msgid "display_name_r_Trout Sushi"
 msgstr "Trout Sushi"
+
+msgid "display_name_r_Tusks"
+msgstr "Tusks"
+
+msgid "display_name_r_Twig Basket"
+msgstr "Twig Basket"
 
 msgid "display_name_r_Twilight Lavender Dye"
 msgstr "Twilight Lavender Dye"
@@ -10736,6 +13652,9 @@ msgstr "Twisted Sword"
 msgid "display_name_r_Tyrantsmight"
 msgstr "Tyrantsmight"
 
+msgid "display_name_r_Undead"
+msgstr "Undead"
+
 msgid "display_name_r_Undead Dwarf Foreman"
 msgstr "Undead Dwarf Foreman"
 
@@ -10745,11 +13664,23 @@ msgstr "Undead Dwarf Guardian"
 msgid "display_name_r_Undead Dwarf Miner"
 msgstr "Undead Dwarf Miner"
 
+msgid "display_name_r_Undead Dwarves"
+msgstr "Undead Dwarves"
+
+msgid "display_name_r_Undead Pirates"
+msgstr "Undead Pirates"
+
 msgid "display_name_r_Undeath Sparkstone"
 msgstr "Dull Sparkstone"
 
+msgid "display_name_r_Unique Materials"
+msgstr "Unique Materials"
+
 msgid "display_name_r_Vampiric Shadowcrest"
 msgstr "Stalker Shadowcrest"
+
+msgid "display_name_r_Vanilla Extract"
+msgstr "Vanilla Extract"
 
 msgid "display_name_r_Vanilla extract"
 msgstr "Vanilla Extract"
@@ -10766,8 +13697,20 @@ msgstr "Varangian Skjalgsblood"
 msgid "display_name_r_Varangian Warthane"
 msgstr "Varangian Warthane"
 
+msgid "display_name_r_Varangians"
+msgstr "Varangians"
+
+msgid "display_name_r_Vegetable Broth"
+msgstr "Vegetable Broth"
+
+msgid "display_name_r_Vehicles"
+msgstr "Vehicles"
+
 msgid "display_name_r_Veilcutter"
 msgstr "Veilcutter"
+
+msgid "display_name_r_Veilron Chest"
+msgstr "Veilron Chest"
 
 msgid "display_name_r_Veilron Chest Key"
 msgstr "Veilron Chest Key"
@@ -10787,6 +13730,9 @@ msgstr "Veilron Ingot"
 msgid "display_name_r_Veilron Leather"
 msgstr "Scorched Leather"
 
+msgid "display_name_r_Veilron Nugget"
+msgstr "Veilron Nugget"
+
 msgid "display_name_r_Veilron Ore"
 msgstr "Veilron Ore"
 
@@ -10799,8 +13745,20 @@ msgstr "Raven Timber"
 msgid "display_name_r_Veilron Wood"
 msgstr "Raven Wood"
 
+msgid "display_name_r_Vendor"
+msgstr "Vendor"
+
+msgid "display_name_r_Vendor Markers"
+msgstr "Vendor Markers"
+
 msgid "display_name_r_Venom Sac"
 msgstr "Venom Sac"
+
+msgid "display_name_r_Vermins"
+msgstr "Vermins"
+
+msgid "display_name_r_Vharkul"
+msgstr "Vharkul"
 
 msgid "display_name_r_Vile Spike"
 msgstr "Vile Horn"
@@ -10832,6 +13790,12 @@ msgstr "South West Control Platform"
 msgid "display_name_r_Village Control Point"
 msgstr "Village Control Point"
 
+msgid "display_name_r_Village Control Point Marker Lawless Land"
+msgstr "Village Control Point Marker Lawless Land"
+
+msgid "display_name_r_Village Control Point Marker Lawless Sea"
+msgstr "Village Control Point Marker Lawless Sea"
+
 msgid "display_name_r_Vintage Wine"
 msgstr "Vintage Wine"
 
@@ -10841,14 +13805,23 @@ msgstr "Vipertongue"
 msgid "display_name_r_Visage"
 msgstr "Visage"
 
+msgid "display_name_r_Visual Features"
+msgstr "Visual Features"
+
 msgid "display_name_r_Vital Quintessence"
 msgstr "Vital Quintessence"
+
+msgid "display_name_r_Vitality Titles"
+msgstr "Vitality Titles"
 
 msgid "display_name_r_Vlad Duskward"
 msgstr "Vlad Duskward"
 
 msgid "display_name_r_Vladan The Immortal"
 msgstr "Vladan The Immortal"
+
+msgid "display_name_r_Voice of Ymir"
+msgstr "Voice of Ymir"
 
 msgid "display_name_r_Void Breaker"
 msgstr "Void Breaker"
@@ -10910,6 +13883,9 @@ msgstr "Warhammer"
 msgid "display_name_r_Warhulk Battle Ark Ladder_01"
 msgstr "Battle Ark"
 
+msgid "display_name_r_Warhulk Cannons"
+msgstr "Warhulk Cannons"
+
 msgid "display_name_r_Warhulk Ladder_01"
 msgstr "Stormhammer"
 
@@ -10949,11 +13925,32 @@ msgstr "Manowar"
 msgid "display_name_r_Warship_04_Sail_01"
 msgstr ""
 
+msgid "display_name_r_Water"
+msgstr "Water"
+
+msgid "display_name_r_Water Dwellers"
+msgstr "Water Dwellers"
+
+msgid "display_name_r_Water Floaters"
+msgstr "Water Floaters"
+
+msgid "display_name_r_Water Magic Scrolls"
+msgstr "Water Magic Scrolls"
+
+msgid "display_name_r_Water Vessels"
+msgstr "Water Vessels"
+
 msgid "display_name_r_Wavechaser"
 msgstr "Wavechaser"
 
 msgid "display_name_r_Wax"
 msgstr "Carnauba Wax"
+
+msgid "display_name_r_Weapon Rack"
+msgstr "Weapon Rack"
+
+msgid "display_name_r_Weapons"
+msgstr "Weapons"
 
 msgid "display_name_r_Weather Vane"
 msgstr "Weather Vane"
@@ -10985,8 +13982,17 @@ msgstr "Wildberries"
 msgid "display_name_r_Wildberry Pie"
 msgstr "Wildberry Pie"
 
+msgid "display_name_r_Wildlife"
+msgstr "Wildlife"
+
 msgid "display_name_r_Wildlife Human Male_01"
 msgstr "Traveller"
+
+msgid "display_name_r_Wildlife Medium"
+msgstr "Wildlife Medium"
+
+msgid "display_name_r_Wildlife Small"
+msgstr "Wildlife Small"
 
 msgid "display_name_r_Wildtribe Chieftain"
 msgstr "Wildtribe Chieftain"
@@ -11006,6 +14012,9 @@ msgstr "Wildtribe Warrior"
 msgid "display_name_r_Wildtribe Witch Doctor"
 msgstr "Wildtribe Witch Doctor"
 
+msgid "display_name_r_Wildtribes"
+msgstr "Wildtribes"
+
 msgid "display_name_r_Wind Shadowcrest"
 msgstr "Wind Shadowcrest"
 
@@ -11018,8 +14027,17 @@ msgstr "Windlord"
 msgid "display_name_r_Winterbound"
 msgstr "Winterbound"
 
+msgid "display_name_r_Wisdom Titles"
+msgstr "Wisdom Titles"
+
 msgid "display_name_r_Wisp Lichen"
 msgstr "Wisp Lichen"
+
+msgid "display_name_r_Witchcraft Magic Scrolls"
+msgstr "Witchcraft Magic Scrolls"
+
+msgid "display_name_r_Wolf Trophy"
+msgstr "Wolf Trophy"
 
 msgid "display_name_r_Wonder Anvil of Ice"
 msgstr "The Anvil of Ice"
@@ -11063,14 +14081,29 @@ msgstr "Wooden Buckler"
 msgid "display_name_r_Wooden Kite Shield"
 msgstr "Wooden Kite Shield"
 
+msgid "display_name_r_Wooden Props"
+msgstr "Wooden Props"
+
 msgid "display_name_r_Wooden Tower Shield"
 msgstr "Wooden Tower Shield"
 
 msgid "display_name_r_Wooden Warhammer"
 msgstr "Wooden Warhammer"
 
+msgid "display_name_r_Woods"
+msgstr "Woods"
+
 msgid "display_name_r_Woodworking Knife"
 msgstr "Woodworking Knife"
+
+msgid "display_name_r_Workbench"
+msgstr "Workbench"
+
+msgid "display_name_r_Workstation Markers"
+msgstr "Workstation Markers"
+
+msgid "display_name_r_Workstations"
+msgstr "Workstations"
 
 msgid "display_name_r_Wormtooth"
 msgstr "Wormtooth"
@@ -11096,6 +14129,9 @@ msgstr "Yeti"
 msgid "display_name_r_Yeti brown"
 msgstr "Yeti"
 
+msgid "display_name_r_Yetis"
+msgstr "Yetis"
+
 msgid "display_name_r_Yggdrasil Leaf"
 msgstr "Yggdrasil Leaf"
 
@@ -11117,6 +14153,9 @@ msgstr "Viscid Corpseflesh"
 msgid "display_name_r_Zombie Dire"
 msgstr "Dire Zombie"
 
+msgid "display_name_r_Zombie Shamblers"
+msgstr "Zombie Shamblers"
+
 msgid "display_name_r_Zombie Sword"
 msgstr "Zombie Sword"
 
@@ -11132,6 +14171,9 @@ msgstr "Zombie Warrior"
 msgid "display_name_r_Zombie Warrior_03"
 msgstr "Zombie Warrior"
 
+msgid "display_name_r_Zombie Warriors"
+msgstr "Zombie Warriors"
+
 msgid "display_name_r_Zombie warrior_04"
 msgstr "Zombie Warrior"
 
@@ -11143,6 +14185,9 @@ msgstr "Zombie Shambler"
 
 msgid "display_name_r_Zombie_05"
 msgstr "Zombie Shambler"
+
+msgid "display_name_r_Zombies"
+msgstr "Zombies"
 
 msgid "display_name_r_air essence"
 msgstr "Air Essence"
@@ -13138,6 +16183,9 @@ msgstr "Magical Diamond"
 msgid "display_name_r_magical gem diamond dragonbane"
 msgstr "Magical Diamond"
 
+msgid "display_name_r_magical gem diamond dwarfbane"
+msgstr "Magical Gem Diamond Dwarf Bane"
+
 msgid "display_name_r_magical gem diamond fireprotection"
 msgstr "Magical Diamond"
 
@@ -13272,6 +16320,9 @@ msgstr "Magical Ruby"
 
 msgid "display_name_r_magical gem ruby dragonbane"
 msgstr "Magical Ruby"
+
+msgid "display_name_r_magical gem ruby dwarfbane"
+msgstr "Magical Gem Ruby Dwarf Bane"
 
 msgid "display_name_r_magical gem ruby fireprotection"
 msgstr "Magical Ruby"
