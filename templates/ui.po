@@ -3101,6 +3101,15 @@ msgstr "Trigger Weapon Bar Slot"
 msgid "hud_alignment_title"
 msgstr "%1"
 
+msgid "hud_arrange_banner_hint"
+msgstr "Drag a bar to move it, drag an edge to resize it."
+
+msgid "hud_arrange_banner_title"
+msgstr "Arranging HUD bars"
+
+msgid "hud_arrange_done"
+msgstr "Done"
+
 msgid "hud_full_name"
 msgstr "%1 %2"
 
@@ -6815,6 +6824,9 @@ msgstr "Active Window Opacity"
 
 msgid "options_gui_animation_speed"
 msgstr "Animation Speed"
+
+msgid "options_gui_arrange_hud_bars"
+msgstr "Arrange HUD bars..."
 
 msgid "options_gui_auto_tooltip_duration"
 msgstr "Automatic Tooltip Duration"
