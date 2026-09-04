@@ -1794,7 +1794,9 @@ msgstr ""
 "Useful for smelting as well as cooking food. Press Use button to interact."
 
 msgid "desc_r_Camp Fire Item"
-msgstr "Useful for cooking food. Double-click to place it on the ground."
+msgstr ""
+"Useful for cooking food. Double-click to place it on the ground. Lasts 2 "
+"minutes once placed."
 
 msgid "desc_r_Candy Cane"
 msgstr " For those with a sweet tooth."
@@ -4042,7 +4044,9 @@ msgid "desc_r_Deployable Clan Strongbox"
 msgstr " "
 
 msgid "desc_r_Deployable Clan Strongbox Item"
-msgstr " "
+msgstr ""
+"Double-click to place it on the ground. Lasts 2 hours once placed, then "
+"becomes lootable by everyone for 10 minutes."
 
 msgid "desc_r_Deployable Depth Charger"
 msgstr " Use the Ship Wheel and click Action button to fire shock charges."
@@ -4072,19 +4076,25 @@ msgid "desc_r_Deployable Party Strongbox"
 msgstr " "
 
 msgid "desc_r_Deployable Party Strongbox Item"
-msgstr "  "
+msgstr ""
+"Double-click to place it on the ground. Lasts 2 hours once placed, then "
+"becomes lootable by everyone for 10 minutes."
 
 msgid "desc_r_Deployable Personal Strongbox"
 msgstr " "
 
 msgid "desc_r_Deployable Personal Strongbox Item"
-msgstr " "
+msgstr ""
+"Double-click to place it on the ground. Lasts 2 hours once placed, then "
+"becomes lootable by everyone for 10 minutes."
 
 msgid "desc_r_Deployable Ship Clan Strongbox"
 msgstr " "
 
 msgid "desc_r_Deployable Ship Clan Strongbox Item"
-msgstr " "
+msgstr ""
+"Double-click to place it on a ship. Lasts 2 hours once placed, then becomes "
+"lootable by everyone for 2 minutes."
 
 msgid "desc_r_Deployable Ship FishBox Item"
 msgstr ""
@@ -4101,7 +4111,9 @@ msgid "desc_r_Deployable Ship Strongbox"
 msgstr ""
 
 msgid "desc_r_Deployable Ship Strongbox Item"
-msgstr "  "
+msgstr ""
+"Double-click to place it on a ship. Lasts 2 hours once placed, then becomes "
+"lootable by everyone for 2 minutes."
 
 msgid "desc_r_Deployable Strongboxes"
 msgstr " "
