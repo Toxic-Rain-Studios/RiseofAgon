@@ -8818,7 +8818,7 @@ msgid "NOTIFICATION_DEPLOYABLE_OBJECT_NOT_ALLOWED_IN_DUNGEON"
 msgstr "You cannot place a strongbox in a dungeon."
 
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TIMED_OUT"
-msgstr "Your %1 was removed (TIMEOUT)."
+msgstr "Your %1 expired and was removed."
 
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TOO_MANY_OBJECTS_PLACED_BY_PLAYER"
 msgstr "You cannot have more than %1 %2 placed in the world."
