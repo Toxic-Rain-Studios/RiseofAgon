@@ -8820,6 +8820,9 @@ msgstr "You cannot place a strongbox in a dungeon."
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TIMED_OUT"
 msgstr "Your %1 expired and was removed."
 
+msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TIMEOUT_WARNING"
+msgstr "Your %1 will expire in %2 minute(s)."
+
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TOO_MANY_OBJECTS_PLACED_BY_PLAYER"
 msgstr "You cannot have more than %1 %2 placed in the world."
 
@@ -12366,6 +12369,9 @@ msgstr "All your requests are being ignored by ^Cred^%1."
 
 msgid "NOTIFICATION_TRADING_REQUEST_REJECTED"
 msgstr "Player declined your trade request"
+
+msgid "NOTIFICATION_TRADING_REQUEST_TARGET_BUSY"
+msgstr "%1 is already in a trade."
 
 msgid "NOTIFICATION_TRADING_REQUEST_TIMED_OUT"
 msgstr "Player didn't respond to your request"
