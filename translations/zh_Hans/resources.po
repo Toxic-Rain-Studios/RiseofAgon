@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-13 20:11+0000\n"
+"PO-Revision-Date: 2026-09-04 22:21+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -8145,12 +8145,14 @@ msgstr "可以放置在世界里的各种物品."
 msgid "r_Camp Fire Item"
 msgstr "营火物品"
 
+#, fuzzy
 msgid "desc_r_Camp Fire Item"
 msgstr "用于熔化物品和烹饪食物.双击将其放在地面上."
 
 msgid "r_Deployable Clan Strongbox Item"
 msgstr "可部署的公会保险箱"
 
+#, fuzzy
 msgid "desc_r_Deployable Clan Strongbox Item"
 msgstr " "
 
@@ -8163,18 +8165,21 @@ msgstr " 双击以在造船厂制作的船上进行部署."
 msgid "r_Deployable Party Strongbox Item"
 msgstr "可部署的队伍保险箱"
 
+#, fuzzy
 msgid "desc_r_Deployable Party Strongbox Item"
 msgstr "  "
 
 msgid "r_Deployable Personal Strongbox Item"
 msgstr "可部署的个人保险箱"
 
+#, fuzzy
 msgid "desc_r_Deployable Personal Strongbox Item"
 msgstr " "
 
 msgid "r_Deployable Ship Clan Strongbox Item"
 msgstr "可部署的船舶公会保险箱"
 
+#, fuzzy
 msgid "desc_r_Deployable Ship Clan Strongbox Item"
 msgstr " "
 
@@ -8187,6 +8192,7 @@ msgstr "增加了拖网捕鱼能力.双击将其放置在中型船舶."
 msgid "r_Deployable Ship Strongbox Item"
 msgstr "可部署船舶保险箱"
 
+#, fuzzy
 msgid "desc_r_Deployable Ship Strongbox Item"
 msgstr "  "
 

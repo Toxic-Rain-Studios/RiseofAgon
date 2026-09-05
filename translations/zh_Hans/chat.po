@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-13 20:11+0000\n"
+"PO-Revision-Date: 2026-09-04 21:58+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
@@ -9654,6 +9654,7 @@ msgstr "这个地区的%1太多了.."
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TOO_MANY_OBJECTS_PLACED_BY_PLAYER"
 msgstr "你在这个世界上不能放置超过%1 %2."
 
+#, fuzzy
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TIMED_OUT"
 msgstr "您的%1已被删除(超时)."
 
