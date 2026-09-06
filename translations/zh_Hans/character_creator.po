@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-31 23:11+0000\n"
+"PO-Revision-Date: 2026-09-06 14:02+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/character_creator/zh_Hans/>\n"
@@ -5028,8 +5028,11 @@ msgstr "麦西亚的人类"
 msgid "cc_Human_description"
 msgstr "麦西亚的人类是所有种族中寿命最短的,他们多才多艺,适应能力强,以坚定的决心面对每一个挑战.人类的贸易和商业都非常繁荣,在相对较短的时间内,麦西亚人在Agon建立了最富有的帝国.他们的家乡坐落在Agon东南部碧绿的田野和森林中,也就是失落已久的迦勒底帝国的废墟中.在国王菲利普·马勒加德三世的带领下,人类成为久经沙场的勇士,他们一心要让他们的神奥罗斯的光芒照耀整个Agon."
 
+#, fuzzy
 msgid "cc_Human_faction_description"
-msgstr "种族能力:\r\n增加增益/减益的持续时间.增加营养持续时间.法力加成."
+msgstr ""
+"种族能力:\r\n"
+"增加增益/减益的持续时间.增加营养持续时间.法力加成."
 
 msgid "cc_Ork_title"
 msgstr "莫拉克的兽人"
@@ -5037,8 +5040,11 @@ msgstr "莫拉克的兽人"
 msgid "cc_Ork_description"
 msgstr "拥有任何其他种族都无法比拟的兽性力量和喜怒无常的脾气,愤怒的半兽人是Agon最可怕的景象之一.北部是活火山,南部是腐臭的沼泽,兽人所在地-莫拉克完美反映了兽人的激烈无情的个性.兽人非常看重力量,因为他们与人类和矮人保持着长期的战争状态.兽人崇拜瓦列莱斯卡巨龙,这是Agon世界上最古老的龙,也是所有龙族之母.对兽人来说,力量成就权力,其余的可以在巨龙之火中被燃烧殆尽."
 
+#, fuzzy
 msgid "cc_Ork_faction_description"
-msgstr "种族能力:\r\n增加了近战武器的伤害.增加重量容量.生命加成."
+msgstr ""
+"种族能力:\r\n"
+"增加了近战武器的伤害.增加重量容量.生命加成."
 
 msgid "cc_Dwarf_title"
 msgstr "德弗格海姆的矮人"
@@ -5046,8 +5052,11 @@ msgstr "德弗格海姆的矮人"
 msgid "cc_Dwarf_description"
 msgstr "矮人擅长所有的科技魔法,他们的古老智慧可以追溯到早期的Agon时代.这个由强壮的战士和工程师组成的国家遵循着大师伊米尔的古老教导.在他生命的最后日子里,他写了一本庞大的书,涵盖了矮人文明需要用1万年来超越其他文明的每一步计划.今天,矮人们只剩下这本书的最后一章要读了.矮人人强壮的力量和朴实的智慧结合在一起,使他们成为真正强大的盟友和令人难以置信的可怕敌人."
 
+#, fuzzy
 msgid "cc_Dwarf_faction_description"
-msgstr "种族能力:\n主动技能:减少耐力消耗.制作盔甲/武器耐用性加成.生命加成."
+msgstr ""
+"种族能力:\n"
+"主动技能:减少耐力消耗.制作盔甲/武器耐用性加成.生命加成."
 
 msgid "cc_Mahirim_title"
 msgstr "特里伯兰的狼人"
@@ -5055,8 +5064,11 @@ msgstr "特里伯兰的狼人"
 msgid "cc_Mahirim_description"
 msgstr "狼人结合了自然猎人的本能和精神,使他们成为一个真正自豪和强大的种族.这些狩猎勇士在Agon西北部的平原和草原上建立了他们的社会,这个地区被称为特里伯兰.狼人社会的起源被笼罩在神秘之中,大多数狼人对此会做出带有攻击性的回应.狼人猎人是敏捷而致命的战士,他们的猎物几乎总是……太慢了."
 
+#, fuzzy
 msgid "cc_Mahirim_faction_description"
-msgstr "种族能力:\r\n对近战和射箭伤害的自然保护.提高奔跑速度.生命加成."
+msgstr ""
+"种族能力:\r\n"
+"对近战和射箭伤害的自然保护.提高奔跑速度.生命加成."
 
 msgid "cc_Alfar_title"
 msgstr "纳加斯特的暗法"
@@ -5064,8 +5076,11 @@ msgstr "纳加斯特的暗法"
 msgid "cc_Alfar_description"
 msgstr "狡猾的暗法是一个残酷而扭曲的种族,他们的家乡那加斯特位于Agon南海岸.就像他们家乡荒凉和黑暗的景色一样,暗法无情地为他们疯狂的神王米莱克服务.暗法身材矮小,他们像是致命的疯子,会阴险地偷袭他们的敌人,然后消失在黑暗的夜晚.与其他种族不同,暗法一族既不拥有也不想要任何盟友,他们寻求的只是统治一切和实现他们主人扭曲阴谋."
 
+#, fuzzy
 msgid "cc_Alfar_faction_description"
-msgstr "种族能力:\r\n对魔法伤害的自然保护.制作法杖的耐久加成.法力加成."
+msgstr ""
+"种族能力:\r\n"
+"对魔法伤害的自然保护.制作法杖的耐久加成.法力加成."
 
 msgid "cc_Mirdain_title"
 msgstr "米伦迪尔的精灵"
@@ -5073,5 +5088,8 @@ msgstr "米伦迪尔的精灵"
 msgid "cc_Mirdain_description"
 msgstr "精灵是一个杰出的古老森林种族,居住在Agon西南部的巨树和广袤的山谷中.与公开的战争相比(除非武装冲突是唯一的选择),精灵更偏好高度的外交手腕,,他们以一种与生俱来的优雅和流畅作战,像风中的一片树叶一样在战斗中移动,以外科手术般的精准打击敌人.精灵的优雅和非凡的美丽特征只有与他们无尽的耐心相匹配.对他们来说,立即执行的好计划很容易失败.胜利是完美的计划,在完美的时刻执行."
 
+#, fuzzy
 msgid "cc_Mirdain_faction_description"
-msgstr "种族能力:\r\n射箭伤害增加.增加识别范围.耐力加成."
+msgstr ""
+"种族能力:\r\n"
+"射箭伤害增加.增加识别范围.耐力加成."
