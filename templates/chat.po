@@ -11305,6 +11305,12 @@ msgstr "[Mastery] Mastery abilities are sealed while marked by PvP combat."
 msgid "NOTIFICATION_PVE_MASTERY_ACTIVATED"
 msgstr "[Mastery] %1 mastery activated."
 
+msgid "NOTIFICATION_PVE_MASTERY_AEGIS_HURLED"
+msgstr "[Mastery] Aegis hurls the spell back."
+
+msgid "NOTIFICATION_PVE_MASTERY_AEGIS_MIRRORED"
+msgstr "[Mastery] Aegis throws the spell back at its caster."
+
 msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
 msgstr "[Mastery] %1 needs %2 essence - attune Ancient Essence."
 
@@ -11324,6 +11330,10 @@ msgid "NOTIFICATION_PVE_MASTERY_AURA_CANNOT_AFFORD"
 msgstr ""
 "[Mastery] Aura costs %1 essence for one hour (you have %2) - attune Ancient "
 "Essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_FOLLOWS"
+msgstr ""
+"[Mastery] Your aura follows you - %1 aura, %2 minutes of its hour left."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_HOUR_SPENT"
 msgstr "[Mastery] Your aura fades - its hour is spent. Reactivate when ready."
@@ -11387,8 +11397,14 @@ msgstr "[Mastery] Free swap used."
 msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_GRANTED"
 msgstr "[Mastery] Your next mastery swap is free for a short time."
 
+msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
+msgstr "[Mastery] +%1 MP %2 L%3 (%4)"
+
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Mastery] %1 mastery level %2! (%3)"
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_SHIELD"
+msgstr "[Mastery] %1 needs a shield."
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
 msgstr "[Mastery] %1 is not available yet."
@@ -11409,6 +11425,9 @@ msgstr "[Mastery] PROVOKE - %1 monster(s) marked onto you."
 
 msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_LEVEL_LOCKED"
 msgstr "[Mastery] Provoke unlocks at level %1 (currently %2)."
+
+msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_TAUNTED"
+msgstr "[Mastery] Provoke - monsters in front of you turn on you."
 
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_ACTIVE"
 msgstr ""
@@ -11498,6 +11517,9 @@ msgstr "[Mastery] Unknown mastery - use %1."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
 msgstr "[Mastery] UNBROKEN LINE - monster damage taken -60% for %1s."
+
+msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_TAUNTED"
+msgstr "[Mastery] Unbroken Line - everything nearby turns on you."
 
 msgid "NOTIFICATION_PVP_FLAG_ERROR_CHURCH_REQUIRED"
 msgstr ""

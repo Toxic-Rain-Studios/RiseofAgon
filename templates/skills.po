@@ -2340,7 +2340,7 @@ msgid "desc_s_Proc Unholy Flames_area"
 msgstr ""
 
 msgid "desc_s_Provoke"
-msgstr "Monsters nearby turn on you instead of your allies."
+msgstr "Monsters in front of you turn on you instead of your allies."
 
 msgid "desc_s_Provoke_1"
 msgstr ""
@@ -3018,6 +3018,9 @@ msgstr ""
 "Take far less damage from monsters for a short time. Ends if you enter PvP."
 
 msgid "desc_s_Unbroken Line_1"
+msgstr ""
+
+msgid "desc_s_Unbroken Line_2"
 msgstr ""
 
 msgid "desc_s_Unburden"
@@ -6081,6 +6084,9 @@ msgstr "Unbroken Line"
 
 msgid "s_Unbroken Line_1"
 msgstr "Unbroken Line_1"
+
+msgid "s_Unbroken Line_2"
+msgstr "Unbroken Line_2"
 
 msgid "s_Unburden"
 msgstr "Unburden"

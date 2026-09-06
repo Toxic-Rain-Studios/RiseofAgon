@@ -527,6 +527,9 @@ msgstr "Scout"
 msgid "Second Nature"
 msgstr "Second Nature"
 
+msgid "Shield Slam"
+msgstr "Shield Slam"
+
 msgid "Sidestep"
 msgstr "Sidestep"
 
@@ -1086,8 +1089,8 @@ msgstr " "
 
 msgid "desc_Opening"
 msgstr ""
-"This monster's back is exposed - every attacker hits it as if striking from "
-"behind."
+"This monster's back is exposed to the Cutthroat who opened it - their hits "
+"land as if from behind."
 
 msgid "desc_Paralysis"
 msgstr ""
@@ -1187,6 +1190,9 @@ msgstr " "
 
 msgid "desc_Second Nature"
 msgstr "Your aim is settling - each arrow you land draws the next one faster."
+
+msgid "desc_Shield Slam"
+msgstr "Slammed by a shield."
 
 msgid "desc_Sidestep"
 msgstr " "
