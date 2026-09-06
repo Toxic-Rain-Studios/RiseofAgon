@@ -5305,6 +5305,9 @@ msgstr "Price"
 msgid "market_button_quantity"
 msgstr "Quantity"
 
+msgid "market_button_region"
+msgstr "Region"
+
 msgid "market_button_seller"
 msgstr "Seller"
 
@@ -5580,6 +5583,45 @@ msgstr "Empty"
 msgid "market_receiving_refresh_items"
 msgstr "Refresh Items"
 
+msgid "market_region_alfarlands"
+msgstr "Alfarlands"
+
+msgid "market_region_cairn"
+msgstr "Cairn"
+
+msgid "market_region_center"
+msgstr "Center"
+
+msgid "market_region_dwarflands"
+msgstr "Dwarflands"
+
+msgid "market_region_elflands"
+msgstr "Elflands"
+
+msgid "market_region_humanlands"
+msgstr "Humanlands"
+
+msgid "market_region_mahirimlands"
+msgstr "Mahirimlands"
+
+msgid "market_region_niflheim"
+msgstr "Niflheim"
+
+msgid "market_region_orclands"
+msgstr "Orclands"
+
+msgid "market_region_rubaiyat"
+msgstr "Rubaiyat"
+
+msgid "market_region_sea"
+msgstr "Sea"
+
+msgid "market_region_unknown"
+msgstr "Unknown"
+
+msgid "market_region_yssam"
+msgstr "Yssam"
+
 msgid "market_reset_filter"
 msgstr "Reset Filter"
 
@@ -5618,6 +5660,12 @@ msgstr "Global market"
 
 msgid "market_title_global_market_sell_item"
 msgstr "Global Market: Sell Item"
+
+msgid "market_tooltip_wrong_region_buy"
+msgstr "Listed in %1. You must be in %1 to buy this item."
+
+msgid "market_tooltip_wrong_region_fill"
+msgstr "Order placed in %1. You must be in %1 to sell to it."
 
 msgid "market_update_duration"
 msgstr "Duration: "

@@ -9680,6 +9680,10 @@ msgstr "The marketplace was closed to open your crafting session."
 msgid "NOTIFICATION_MARKET_UNCLAIMED_ITEMS"
 msgstr "^Cgold^Check the market! You have unclaimed items!"
 
+msgid "NOTIFICATION_MARKET_WRONG_REGION"
+msgstr ""
+"^Cgold^This order was created in %1. You must be in %1 to trade with it."
+
 msgid "NOTIFICATION_MAX_ACTIVE_QUESTS_NUMBER_REACHED"
 msgstr "You have already reached the %1 active quests limit"
 
