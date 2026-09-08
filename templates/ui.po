@@ -1428,6 +1428,33 @@ msgstr ""
 msgid "clan_banned_tab_title"
 msgstr "Banned Players"
 
+msgid "clan_create_error_already_creating"
+msgstr "That clan is already being created. Give it a moment and try again."
+
+msgid "clan_create_error_already_in_clan"
+msgstr "You are already in a clan."
+
+msgid "clan_create_error_generic"
+msgstr "The clan could not be created."
+
+msgid "clan_create_error_invalid_name"
+msgstr "That clan name cannot be used. Try a different one."
+
+msgid "clan_create_error_name_locked"
+msgstr "That clan name is taken."
+
+msgid "clan_create_error_name_taken"
+msgstr "That clan name is already in use."
+
+msgid "clan_create_error_newbie_protection"
+msgstr "You cannot create a clan while newbie protection is active."
+
+msgid "clan_create_error_not_enough_gold"
+msgstr "You need 2000 gold in your global wallet to create a clan."
+
+msgid "clan_create_error_trial_account"
+msgstr "Trial accounts cannot create a clan."
+
 msgid "clan_creation_form_cost_description"
 msgstr "2000 gold will be deducted from your global wallet upon creation"
 
@@ -1601,6 +1628,11 @@ msgstr ""
 
 msgid "clan_political_relationship_standing_value_0"
 msgstr "0 Neutral"
+
+msgid "clan_politics_result_alliance_mismatch"
+msgstr ""
+"You can only ally or befriend a clan that shares your standing: both lawful "
+"and in the same race alliance, or both lawless."
 
 msgid "clan_politics_result_already_set"
 msgstr "Your clan already has that relation with this clan."
