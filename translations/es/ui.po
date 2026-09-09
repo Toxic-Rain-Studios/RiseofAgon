@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-13 20:11+0000\n"
+"PO-Revision-Date: 2026-09-09 18:30+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -1688,6 +1688,7 @@ msgstr "Alt-usa para interactuar y reclamar el glifo."
 msgid "component_targeting_glyph_attack_time_remaining"
 msgstr "Temporizador de Ataque: %1"
 
+#, fuzzy
 msgid "component_targeting_glyph_challenge_active"
 msgstr "¡Un desafío está activo, prepárate para reclamar este glifo!"
 
@@ -1697,6 +1698,7 @@ msgstr "El glifo está actualmente protegido"
 msgid "component_targeting_glyph_time_remaining"
 msgstr "Tiempo Restante: %1"
 
+#, fuzzy
 msgid "component_targeting_glyph_use_item_to_challenge"
 msgstr "Usa un %1 dentro del rango para iniciar un desafío."
 
