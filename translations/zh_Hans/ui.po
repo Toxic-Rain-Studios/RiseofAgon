@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-13 20:11+0000\n"
+"PO-Revision-Date: 2026-09-09 18:30+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -3374,6 +3374,7 @@ msgstr "默认成员状态允许使用设施."
 msgid "market_label_fee"
 msgstr "费用:"
 
+#, fuzzy
 msgid "component_targeting_glyph_use_item_to_challenge"
 msgstr "使用一个%1在此雕文范围内开始挑战!"
 
@@ -3981,6 +3982,7 @@ msgstr "地下城"
 msgid "barber_features_nose_accesory"
 msgstr "鼻饰"
 
+#, fuzzy
 msgid "component_targeting_glyph_challenge_active"
 msgstr "宣战已激活,请准备使用雕文glyph!"
 
