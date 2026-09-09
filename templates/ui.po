@@ -2336,9 +2336,10 @@ msgid "component_targeting_glyph_attack_time_remaining"
 msgstr "Attack Timer: %1"
 
 msgid "component_targeting_glyph_challenge_active"
-msgstr ""
-"A challenge is active, be prepared to claim this glyph! Interact with it to "
-"counter the challenge!"
+msgstr "A challenge is active, be prepared to claim this glyph!"
+
+msgid "component_targeting_glyph_challenge_counter"
+msgstr "Interact with the glyph to counter the challenge!"
 
 msgid "component_targeting_glyph_in_range"
 msgstr "Close enough to capture!"
