@@ -2340,6 +2340,12 @@ msgstr ""
 "A challenge is active, be prepared to claim this glyph! Interact with it to "
 "counter the challenge!"
 
+msgid "component_targeting_glyph_in_range"
+msgstr "Close enough to capture!"
+
+msgid "component_targeting_glyph_not_in_range"
+msgstr "Not in range to capture"
+
 msgid "component_targeting_glyph_not_vulnerable"
 msgstr "Glyph is currently protected"
 
@@ -2347,7 +2353,7 @@ msgid "component_targeting_glyph_time_remaining"
 msgstr "Time Remaining: %1"
 
 msgid "component_targeting_glyph_use_item_to_challenge"
-msgstr "Use a %1 within range to start a challenge."
+msgstr "Use a %1 to initiate a challenge!"
 
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
 msgstr "When the challenge completes, the glyph becomes vulnerable."
