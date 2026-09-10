@@ -11727,6 +11727,18 @@ msgstr "^Ccyan^%1^N^ is now part of our race alliance!"
 msgid "NOTIFICATION_RACE_ALLIANCE_PLAYER_LEFT"
 msgstr "Beware! ^Cred^%1^N^ is now an enemy of this race alliance!"
 
+msgid "NOTIFICATION_RECIPE_ALREADY_KNOWN"
+msgstr "You already know the recipe for %1."
+
+msgid "NOTIFICATION_RECIPE_CEILING_RAISED"
+msgstr "%1 can now be trained up to %2."
+
+msgid "NOTIFICATION_RECIPE_LEARNED"
+msgstr "You have learned the recipe for %1."
+
+msgid "NOTIFICATION_RECIPE_SKILL_MISSING"
+msgstr "You need the %2 skill to learn the recipe for %1."
+
 msgid "NOTIFICATION_RED_ENTERING_LAW_LESS_AREA_WARNING"
 msgstr "^Cyellow^Attention! ^Cwhite^You are entering a lawless area!"
 
@@ -11738,6 +11750,13 @@ msgstr "You can not initiate another trade.You have reached maximum trades."
 
 msgid "NOTIFICATION_REQUEST_TRADING_PLAYER_DEAD"
 msgstr "Trade canceled cause player died"
+
+msgid "NOTIFICATION_RESEARCH_AT_CEILING"
+msgstr ""
+"%1 is at its ceiling of %2. Learn a higher-tier recipe to research further."
+
+msgid "NOTIFICATION_RESEARCH_INSTANT_GAIN"
+msgstr "Research complete: %1 advanced from %2 to %3."
 
 msgid "NOTIFICATION_RESEARCH_ITEM_COMPLETED"
 msgstr "Your research item has completed!"
@@ -11754,6 +11773,9 @@ msgid "NOTIFICATION_RESEARCH_ITEM_NO_SKILL"
 msgstr ""
 "This skill %1 needs to be leveled by researching a crafted item with a blank "
 "schematic"
+
+msgid "NOTIFICATION_RESEARCH_QUEUED"
+msgstr "%1 is now researching. Each schematic takes five minutes."
 
 msgid "NOTIFICATION_RESOURCE_AREA_PVPFLAG_FORCED_CHANGE_GRACE_PERIOD"
 msgstr ""
@@ -11888,6 +11910,9 @@ msgstr "Your mastery of %1 has reached a new level!"
 
 msgid "NOTIFICATION_SKILL_READ_NOT_STARTED"
 msgstr "Skill %1 could not be started."
+
+msgid "NOTIFICATION_SKILL_RESEARCH_ONLY"
+msgstr "%1 only advances through research."
 
 msgid "NOTIFICATION_SKILL_STOPPED"
 msgstr "Skill %1 was stopped."
