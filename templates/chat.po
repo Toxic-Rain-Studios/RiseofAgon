@@ -10622,6 +10622,24 @@ msgstr "Peaceful players are not allowed to use cannons."
 msgid "NOTIFICATION_PEACEFUL_PLAYER_CAN_NOT_USE_WARHULKS"
 msgstr "Peaceful players are not allowed to use warhulks."
 
+msgid "NOTIFICATION_PET_DISMISSED"
+msgstr "%1 has been dismissed."
+
+msgid "NOTIFICATION_PET_NICKNAME_INVALID"
+msgstr "That name cannot be used for a pet."
+
+msgid "NOTIFICATION_PET_NOT_SUMMONED"
+msgstr "%1 could not be summoned here."
+
+msgid "NOTIFICATION_PET_SUMMONED"
+msgstr "%1 has been summoned."
+
+msgid "NOTIFICATION_PET_TOY_NOT_READY"
+msgstr "%1 has no companion yet."
+
+msgid "NOTIFICATION_PET_VANISHED"
+msgstr "%1 could not be kept and has vanished."
+
 msgid "NOTIFICATION_PICK_UP_ITEM"
 msgstr "You picked up %2 (%1)"
 
