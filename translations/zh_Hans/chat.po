@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-04 21:58+0000\n"
+"PO-Revision-Date: 2026-09-13 20:40+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
@@ -7647,9 +7647,11 @@ msgstr "你的公会已经控制了这个定点雕文石."
 msgid "NOTIFICATION_PLAYER_CONQUEST_GLYPH_IS_ALREADY_IN_ACTIVE_CHALLENGE_BY_CLAN"
 msgstr "对于这个定点雕文石已经有一个活跃的挑战."
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_GLYPH_UNDER_ATTACK"
 msgstr "由你的公会控制在%1的定点雕文石已经受到挑战.攻击将在5分钟后开始!"
 
+#, fuzzy
 msgid "NOTIFICATION_CLAN_GLYPH_ATTACK_START"
 msgstr "你的公会对%1的定点雕文石发起了挑战.攻击将在5分钟后开始!"
 
