@@ -7672,6 +7672,12 @@ msgstr "You are already on this alignment stance."
 msgid "pvp_flag_error_player_holding"
 msgstr "You cannot change your alignment stance in a player holding."
 
+msgid "pvp_flag_prompt_cancel"
+msgstr "Cancel"
+
+msgid "pvp_flag_prompt_confirm"
+msgstr "Confirm"
+
 msgid "pvp_flag_tooltip_lawful"
 msgstr ""
 "LAWFUL STANCE  \n"
