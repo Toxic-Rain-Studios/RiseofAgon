@@ -2342,13 +2342,14 @@ msgid "component_targeting_gem_enchantment"
 msgstr "Gem Enchantment:"
 
 msgid "component_targeting_glyph_alt_use_to_claim"
-msgstr "Alt-use to interact and claim the glyph."
+msgstr "Alt-use to cancel the challenge on this glyph."
 
 msgid "component_targeting_glyph_attack_time_remaining"
-msgstr "Attack Timer: %1"
+msgstr "Cancelling challenge: %1"
 
 msgid "component_targeting_glyph_challenge_active"
-msgstr "A challenge is active, be prepared to claim this glyph!"
+msgstr ""
+"A challenge is active. The glyph changes hands when the timer runs out."
 
 msgid "component_targeting_glyph_challenge_counter"
 msgstr "Interact with the glyph to counter the challenge!"
@@ -2362,6 +2363,12 @@ msgstr "Not in range to capture"
 msgid "component_targeting_glyph_not_vulnerable"
 msgstr "Glyph is currently protected"
 
+msgid "component_targeting_glyph_region_lawful"
+msgstr "Faction territory - captured by race alliances"
+
+msgid "component_targeting_glyph_region_lawless"
+msgstr "Clan territory - captured by clans"
+
 msgid "component_targeting_glyph_time_remaining"
 msgstr "Time Remaining: %1"
 
@@ -2369,13 +2376,18 @@ msgid "component_targeting_glyph_use_item_to_challenge"
 msgstr "Use a %1 to initiate a challenge!"
 
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
-msgstr "When the challenge completes, the glyph becomes vulnerable."
+msgstr ""
+"When the timer runs out the glyph changes hands, unless a defender cancels "
+"the challenge."
 
 msgid "component_targeting_glyph_vulnerable_for_attack"
 msgstr "Glyph is vulnerable"
 
 msgid "component_targeting_glyph_wait_for_timer_to_finish"
 msgstr "Stay close until the timer is finished!"
+
+msgid "component_targeting_guard_towers_standing"
+msgstr "%1 of %2 guard towers standing"
 
 msgid "component_targeting_obelisk_altar_restoring"
 msgstr "Restoring - %1"
@@ -3129,6 +3141,11 @@ msgid "glyph_challenge_started_defend"
 msgstr ""
 "You have begun channelling to cancel the challenge on this glyph. Hold your "
 "ground!"
+
+msgid "glyph_challenged"
+msgstr ""
+"The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
+"contest it."
 
 msgid "glyph_flipped"
 msgstr "The rune glyph in %1 has fallen to a new faction!"
@@ -8296,8 +8313,14 @@ msgstr "Invulnerable - %1"
 msgid "structure_status_faction_bind_stone_shielded"
 msgstr "Shielded"
 
+msgid "structure_status_faction_bind_stone_shielded_timed"
+msgstr "Shielded by guard towers - window closes in %1"
+
 msgid "structure_status_faction_bind_stone_vulnerable"
 msgstr "Vulnerable"
+
+msgid "structure_status_faction_bind_stone_vulnerable_timed"
+msgstr "Vulnerable - invulnerable again in %1"
 
 msgid "structure_status_restoring"
 msgstr "Restoring - %1"

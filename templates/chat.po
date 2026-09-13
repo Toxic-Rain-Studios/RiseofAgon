@@ -7548,13 +7548,13 @@ msgstr "%1 %2 is using our %4 in %3."
 
 msgid "NOTIFICATION_CLAN_GLYPH_ATTACK_START"
 msgstr ""
-"Your clan has initiated a challenge for the glyph in %1. The attack will "
-"begin in 5 minutes!"
+"Your clan has challenged the glyph in %1. It will be yours in %2 minutes "
+"unless a defender cancels the challenge."
 
 msgid "NOTIFICATION_CLAN_GLYPH_UNDER_ATTACK"
 msgstr ""
-"A glyph controlled by your clan in %1 has been challenged. The attack will "
-"begin in 5 minutes!"
+"A glyph controlled by your clan in %1 has been challenged! You have %2 "
+"minutes to contest it."
 
 msgid "NOTIFICATION_CLAN_GUARDTOWER_KOS_POLICY_CHANGED"
 msgstr "%1 %2 has changed our GuardTower attack policy to %3."
@@ -9222,6 +9222,11 @@ msgstr "%1"
 
 msgid "NOTIFICATION_GENERIC_QUEST_MESSAGE_ERROR"
 msgstr "Unknown response for your quest offer."
+
+msgid "NOTIFICATION_GLYPH_CHALLENGE_STARTED"
+msgstr ""
+"The rune glyph in %1 is now contested! It will be captured in %2 minutes "
+"unless the challenge is cancelled."
 
 msgid "NOTIFICATION_GLYPH_TAXES_CLAN"
 msgstr "The Rune Glyph of %1 has given us %2 Gold in Toll Fees."
