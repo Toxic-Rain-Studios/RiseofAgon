@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-09 18:30+0000\n"
+"PO-Revision-Date: 2026-09-13 20:40+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -1682,9 +1682,11 @@ msgstr "Encantamientos:"
 msgid "component_targeting_gem_enchantment"
 msgstr "Encantamiento de Gema:"
 
+#, fuzzy
 msgid "component_targeting_glyph_alt_use_to_claim"
 msgstr "Alt-usa para interactuar y reclamar el glifo."
 
+#, fuzzy
 msgid "component_targeting_glyph_attack_time_remaining"
 msgstr "Temporizador de Ataque: %1"
 
@@ -1702,6 +1704,7 @@ msgstr "Tiempo Restante: %1"
 msgid "component_targeting_glyph_use_item_to_challenge"
 msgstr "Usa un %1 dentro del rango para iniciar un desafío."
 
+#, fuzzy
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
 msgstr "Cuando el desafío se complete, el glifo se vuelve vulnerable."
 
