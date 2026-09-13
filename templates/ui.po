@@ -7713,6 +7713,80 @@ msgstr ""
 " Return to Lawful: \n"
 " You must have positive Alignment and pray at a church."
 
+msgid "pvp_flag_tt_lawful_grouping"
+msgstr ""
+"You cannot party, heal, revive, or join clans with Lawless players or "
+"faction enemies."
+
+msgid "pvp_flag_tt_lawful_inv_blue"
+msgstr "Blue - None"
+
+msgid "pvp_flag_tt_lawful_inv_red"
+msgstr "Red - Full inventory"
+
+msgid "pvp_flag_tt_lawful_inv_yellow"
+msgstr "Yellow - Bag contents"
+
+msgid "pvp_flag_tt_lawful_pvp"
+msgstr ""
+"Lawful players cannot attack each other, except between opposing racial "
+"factions."
+
+msgid "pvp_flag_tt_lawful_state"
+msgstr "YOU ARE IN LAWFUL STANCE!"
+
+msgid "pvp_flag_tt_lawful_switching"
+msgstr ""
+"Click this icon to switch to Lawless. You will be warned before the change "
+"is made."
+
+msgid "pvp_flag_tt_lawful_title"
+msgstr "LAWFUL STANCE"
+
+msgid "pvp_flag_tt_lawless_alignment"
+msgstr "Killing Lawful players of your racial faction reduces Alignment."
+
+msgid "pvp_flag_tt_lawless_group_can"
+msgstr "You may join Lawless clans and parties of any race."
+
+msgid "pvp_flag_tt_lawless_group_cant"
+msgstr ""
+"You cannot party, heal, revive, join clans, or otherwise participate with "
+"Lawful players."
+
+msgid "pvp_flag_tt_lawless_inv"
+msgstr "FULL INVENTORY - regardless of zone."
+
+msgid "pvp_flag_tt_lawless_pvp"
+msgstr "ANYONE CAN ATTACK YOU, ANYWHERE."
+
+msgid "pvp_flag_tt_lawless_return"
+msgstr "You must have positive Alignment and pray at a church."
+
+msgid "pvp_flag_tt_lawless_state"
+msgstr "YOU ARE IN LAWLESS STANCE!"
+
+msgid "pvp_flag_tt_lawless_title"
+msgstr "LAWLESS STANCE"
+
+msgid "pvp_flag_tt_sec_alignment"
+msgstr "Alignment:"
+
+msgid "pvp_flag_tt_sec_grouping"
+msgstr "Grouping:"
+
+msgid "pvp_flag_tt_sec_inventory"
+msgstr "Inventory Loss:"
+
+msgid "pvp_flag_tt_sec_pvp"
+msgstr "PvP:"
+
+msgid "pvp_flag_tt_sec_return"
+msgstr "Return to Lawful:"
+
+msgid "pvp_flag_tt_sec_switching"
+msgstr "Switching Stance:"
+
 msgid "quest_reward"
 msgstr "%1: %2"
 
