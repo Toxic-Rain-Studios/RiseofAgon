@@ -7265,6 +7265,12 @@ msgstr "Defaults"
 msgid "options_input_defaults_confirmation"
 msgstr "Are you sure you want to reset all input settings to their defaults?"
 
+msgid "options_input_first_person_sensitivity"
+msgstr "%1"
+
+msgid "options_input_first_person_sensitivity_text"
+msgstr "First Person Sensitivity (bow / staff)"
+
 msgid "options_input_joystick_x_sensitivity"
 msgstr "Joystick X Sensitivity"
 
@@ -7273,6 +7279,12 @@ msgstr "Joystick Y Sensitivity"
 
 msgid "options_input_joystick_z_sensitivity"
 msgstr "Joystick Z Sensitivity"
+
+msgid "options_input_melee_sensitivity"
+msgstr "%1"
+
+msgid "options_input_melee_sensitivity_text"
+msgstr "Melee Sensitivity (third person)"
 
 msgid "options_input_mouse_invert"
 msgstr "Invert Mouse Y Axis in Game Mode"
@@ -7294,6 +7306,9 @@ msgstr "%1"
 
 msgid "options_input_mouse_y_sensitivty_text"
 msgstr "Mouse Y Sensitivity"
+
+msgid "options_input_multiple_sensitivities"
+msgstr "TURN ON MULTIPLE SENSITIVITIES - EXPERIMENTAL"
 
 msgid "options_map_mini_title"
 msgstr "Minimap Options"
