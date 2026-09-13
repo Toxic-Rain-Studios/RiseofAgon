@@ -7790,7 +7790,8 @@ msgid "pvp_flag_tt_lawless_alignment2"
 msgstr "Alignment does not determine your current stance."
 
 msgid "pvp_flag_tt_lawless_faction"
-msgstr "You cannot attack or defend faction structures."
+msgstr ""
+"Cannot attack or defend faction structures, nor capture glyphs in blue zones."
 
 msgid "pvp_flag_tt_lawless_group_can"
 msgstr ""
@@ -7849,7 +7850,7 @@ msgstr "ANYONE CAN ATTACK YOU, ANYWHERE."
 msgid "pvp_flag_warn_cost_faction"
 msgstr ""
 "No part in racial faction warfare - you cannot attack or defend faction "
-"structures."
+"structures, nor capture glyphs in blue zones."
 
 msgid "pvp_flag_warn_cost_grouping"
 msgstr "No grouping, healing, reviving or clans with Lawful players."
