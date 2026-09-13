@@ -7793,7 +7793,8 @@ msgid "pvp_flag_tt_lawless_faction"
 msgstr "You cannot attack or defend faction structures."
 
 msgid "pvp_flag_tt_lawless_group_can"
-msgstr "May join Lawless clans and parties of any race."
+msgstr ""
+"Group, party and join clans with ANY Lawless player, regardless of race."
 
 msgid "pvp_flag_tt_lawless_group_cant"
 msgstr ""
@@ -7835,6 +7836,42 @@ msgstr "Return to Lawful:"
 
 msgid "pvp_flag_tt_sec_switching"
 msgstr "Switch Stance:"
+
+msgid "pvp_flag_warn_blank"
+msgstr " "
+
+msgid "pvp_flag_warn_cost_alignment"
+msgstr "Certain kills against protected Lawful players reduce Alignment."
+
+msgid "pvp_flag_warn_cost_attack"
+msgstr "ANYONE CAN ATTACK YOU, ANYWHERE."
+
+msgid "pvp_flag_warn_cost_faction"
+msgstr ""
+"No part in racial faction warfare - you cannot attack or defend faction "
+"structures."
+
+msgid "pvp_flag_warn_cost_grouping"
+msgstr "No grouping, healing, reviving or clans with Lawful players."
+
+msgid "pvp_flag_warn_cost_heading"
+msgstr "WHAT YOU GIVE UP"
+
+msgid "pvp_flag_warn_cost_inventory"
+msgstr "FULL INVENTORY LOSS ON DEATH, IN EVERY ZONE."
+
+msgid "pvp_flag_warn_gain_heading"
+msgstr "WHAT YOU GAIN"
+
+msgid "pvp_flag_warn_gain_races"
+msgstr ""
+"Group, party and join clans with ANY Lawless player, regardless of race."
+
+msgid "pvp_flag_warn_return_body"
+msgstr "Reach Alignment > 0, then pray at a church."
+
+msgid "pvp_flag_warn_return_heading"
+msgstr "RETURNING TO LAWFUL"
 
 msgid "quest_reward"
 msgstr "%1: %2"
