@@ -12770,5 +12770,10 @@ msgstr "Invalid race type"
 msgid "RACE_CHANGE_ERROR_NO_CHANGE"
 msgstr "You picked the same race and gender! Try a new combination."
 
+msgid "bank_withdraw_refunded"
+msgstr ""
+"Your withdrawal could not be placed in your backpack - the gold was returned "
+"to your bank account."
+
 msgid "component_crafting_error_no_mastery_crafting_allowed_here"
 msgstr "You cannot craft mastery items here."
