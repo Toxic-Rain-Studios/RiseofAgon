@@ -7548,7 +7548,7 @@ msgstr "%1 %2 is using our %4 in %3."
 
 msgid "NOTIFICATION_CLAN_GLYPH_ATTACK_START"
 msgstr ""
-"Your clan has challenged the glyph in %1. It will be captured in %2 minutes "
+"You have challenged the glyph in %1. It will be captured in %2 minutes "
 "unless a defender cancels the challenge."
 
 msgid "NOTIFICATION_CLAN_GLYPH_UNDER_ATTACK"
@@ -11349,6 +11349,9 @@ msgstr "party melee damage vs monsters."
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_DEADEYE"
 msgstr "party ranged damage vs monsters."
 
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_ORACLE"
+msgstr "faster mana regeneration for your party."
+
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_VANGUARD"
 msgstr "party protection vs monsters."
 
@@ -11429,8 +11432,14 @@ msgstr "[Mastery] +%1 MP %2 L%3 (%4)"
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Mastery] %1 mastery level %2! (%3)"
 
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_BOW"
+msgstr "[Mastery] %1 needs a bow."
+
 msgid "NOTIFICATION_PVE_MASTERY_NEEDS_SHIELD"
 msgstr "[Mastery] %1 needs a shield."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_STAFF"
+msgstr "[Mastery] %1 needs a staff."
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
 msgstr "[Mastery] %1 is not available yet."
@@ -11485,6 +11494,14 @@ msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_REFRESH"
 msgstr ""
 "[Mastery] RUPTURE - deeper wound %1/%2 refreshed; it will not run out for "
 "another 2 minutes."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_ACTIVE"
+msgstr ""
+"[Mastery] SANCTUARY - every player within %1m regains %2 mana and stamina "
+"every %3s for %4s."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_REFUSED"
+msgstr "[Mastery] Sanctuary reached someone marked by PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_STATUS_ESSENCE"
 msgstr "[Mastery] Essence pool: %1 / %2"

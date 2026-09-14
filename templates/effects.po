@@ -155,6 +155,9 @@ msgstr "Combat Bonus"
 msgid "Combat Penalty"
 msgstr "Combat Penalty"
 
+msgid "Communion"
+msgstr "Communion"
+
 msgid "Constitution Bonus"
 msgstr "Constitution Bonus"
 
@@ -431,6 +434,9 @@ msgstr "Obelisk Quickening Drink"
 msgid "Opening"
 msgstr "Opening"
 
+msgid "Oracle Aura"
+msgstr "Oracle Aura"
+
 msgid "Paralysis"
 msgstr "Paralysis"
 
@@ -479,6 +485,9 @@ msgstr "Protection Bonus"
 msgid "Protection Penalty"
 msgstr "Protection Penalty"
 
+msgid "PvP Combat"
+msgstr "PvP Combat"
+
 msgid "Quickness Bonus"
 msgstr "Quickness Bonus"
 
@@ -521,11 +530,17 @@ msgstr "Resting"
 msgid "Rupture"
 msgstr "Rupture"
 
+msgid "Sanctuary"
+msgstr "Sanctuary"
+
 msgid "Scout"
 msgstr "Scout"
 
 msgid "Second Nature"
 msgstr "Second Nature"
+
+msgid "Sheltered"
+msgstr "Sheltered"
 
 msgid "Shield Slam"
 msgstr "Shield Slam"
@@ -812,6 +827,9 @@ msgstr ""
 msgid "desc_Combat Penalty"
 msgstr ""
 
+msgid "desc_Communion"
+msgstr "Healed by an Oracle's Mana Blast."
+
 msgid "desc_Constitution Bonus"
 msgstr ""
 
@@ -1092,6 +1110,9 @@ msgstr ""
 "This monster's back is exposed to the Cutthroat who opened it - their hits "
 "land as if from behind."
 
+msgid "desc_Oracle Aura"
+msgstr "Your party regenerates mana faster while they stand with you."
+
 msgid "desc_Paralysis"
 msgstr ""
 
@@ -1140,6 +1161,10 @@ msgstr " "
 msgid "desc_Protection Penalty"
 msgstr " "
 
+msgid "desc_PvP Combat"
+msgstr ""
+"You are in PvP combat. Your mastery effects are suppressed until it fades."
+
 msgid "desc_Quickness Bonus"
 msgstr ""
 
@@ -1185,11 +1210,19 @@ msgstr ""
 "A deeper wound, paid for with 10 Gore stacks. It lasts until the monster "
 "dies, you leave, or 2 minutes pass since your last spend."
 
+msgid "desc_Sanctuary"
+msgstr ""
+"Restoring mana and stamina to every player inside the sanctuary. Monster "
+"spells and arrows cannot reach them."
+
 msgid "desc_Scout"
 msgstr " "
 
 msgid "desc_Second Nature"
 msgstr "Your aim is settling - each arrow you land draws the next one faster."
+
+msgid "desc_Sheltered"
+msgstr "Monster spells and arrows cannot reach you."
 
 msgid "desc_Shield Slam"
 msgstr "Slammed by a shield."

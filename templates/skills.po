@@ -1764,6 +1764,11 @@ msgstr ""
 msgid "desc_s_Mastery"
 msgstr "Abilities granted by your active mastery."
 
+msgid "desc_s_Mastery Swap"
+msgstr ""
+"Stand still for ten seconds to switch to another PvE mastery. Moving, being "
+"hit or entering PvP combat interrupts it and costs you nothing."
+
 msgid "desc_s_Max Health Bonus"
 msgstr "Temporarily increases the caster's maximum Health."
 
@@ -2091,6 +2096,15 @@ msgstr ""
 
 msgid "desc_s_Open Package"
 msgstr "Open a package"
+
+msgid "desc_s_Oracle Aura"
+msgstr "Quickens mana regeneration for party members near you while it holds."
+
+msgid "desc_s_Oracle Aura_1"
+msgstr ""
+
+msgid "desc_s_Oracle Skills"
+msgstr ""
 
 msgid "desc_s_Orkish Brutality"
 msgstr "Increased damage when using a melee weapon."
@@ -2542,6 +2556,17 @@ msgstr ""
 
 msgid "desc_s_Sail"
 msgstr "Description of s_Walk"
+
+msgid "desc_s_Sanctuary"
+msgstr ""
+"Place a sanctuary that restores mana and stamina to every player inside for "
+"a while. Ends if it reaches anyone marked by PvP combat."
+
+msgid "desc_s_Sanctuary_1"
+msgstr ""
+
+msgid "desc_s_Sanctuary_2"
+msgstr ""
 
 msgid "desc_s_Scan Resources"
 msgstr "View resource node quantity"
@@ -4873,6 +4898,9 @@ msgstr "Manufacturing Skills"
 msgid "s_Mastery"
 msgstr "Mastery"
 
+msgid "s_Mastery Swap"
+msgstr "Switch Mastery"
+
 msgid "s_Max Health Bonus"
 msgstr "Max Health Bonus"
 
@@ -5187,6 +5215,15 @@ msgstr "Ominous Drain_1"
 
 msgid "s_Open Package"
 msgstr "Open Package"
+
+msgid "s_Oracle Aura"
+msgstr "Oracle Aura"
+
+msgid "s_Oracle Aura_1"
+msgstr "Oracle Aura_1"
+
+msgid "s_Oracle Skills"
+msgstr "Oracle Skills"
 
 msgid "s_Orkish Brutality"
 msgstr "Orkish Brutality"
@@ -5631,6 +5668,15 @@ msgstr "Sacrifice_1"
 
 msgid "s_Sail"
 msgstr "Sail"
+
+msgid "s_Sanctuary"
+msgstr "Sanctuary"
+
+msgid "s_Sanctuary_1"
+msgstr "Sanctuary_1"
+
+msgid "s_Sanctuary_2"
+msgstr "Sanctuary_2"
 
 msgid "s_Scan Resources"
 msgstr "Scan Resources"

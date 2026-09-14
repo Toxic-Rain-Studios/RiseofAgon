@@ -20,6 +20,28 @@ msgstr "Waiting for team members to be ready"
 msgid "Filter:"
 msgstr "Filter:"
 
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_OTHER"
+msgstr "[Mastery] Purification cleansed %1 from %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_SELF"
+msgstr "[Mastery] Purification cleansed %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_YOU"
+msgstr "[Mastery] Purification cleansed %1 from you."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_ALREADY_ACTIVE"
+msgstr "[Mastery] You are already using %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_INTERRUPTED"
+msgstr "[Mastery] The switch was interrupted. Nothing was spent."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_IN_PVP"
+msgstr ""
+"[Mastery] You cannot switch mastery while you are marked by PvP combat."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
+msgstr "[Mastery] Switching to %1. Hold still for %2 seconds."
+
 msgid "Play"
 msgstr "Play"
 
@@ -5913,6 +5935,12 @@ msgstr "Duration: "
 msgid "market_update_select_order"
 msgstr "Select order to change"
 
+msgid "mastery_activate_button"
+msgstr "Activate %1"
+
+msgid "mastery_activate_current"
+msgstr "Active"
+
 msgid "mastery_active_header"
 msgstr "Active: %1"
 
@@ -6076,7 +6104,7 @@ msgstr "+30% stronger."
 
 msgid "mastery_alt_blightcaller_siphon_desc"
 msgstr ""
-"Leech spells - Vampiric Touch, Mana Leech and kin - drain +50% more and can "
+"Leech spells such as Vampiric Touch and Mana Leech drain +50% more and can "
 "stack twice."
 
 msgid "mastery_alt_blightcaller_siphon_name"
@@ -6309,6 +6337,12 @@ msgstr "Lasts 16 seconds, cooldown 2 minutes 30 seconds."
 msgid "mastery_alt_deadeye_volley_rank3"
 msgstr "Lasts 20 seconds, cooldown 2 minutes 15 seconds."
 
+msgid "mastery_alt_detail"
+msgstr "%1 (level %2). %3"
+
+msgid "mastery_alt_detail_locked"
+msgstr "%1. Unlocks at level %2. %3"
+
 msgid "mastery_alt_echo"
 msgstr "Echo"
 
@@ -6346,8 +6380,8 @@ msgstr "At full strength."
 
 msgid "mastery_alt_elementalist_enduringstorms_desc"
 msgstr ""
-"Ground spells - storms, rains, walls - last twice as long when they hit at "
-"least one monster."
+"Ground spells such as storms, rains and walls last twice as long when they "
+"hit at least one monster."
 
 msgid "mastery_alt_elementalist_enduringstorms_name"
 msgstr "Enduring Storms"
@@ -6414,97 +6448,103 @@ msgid "mastery_alt_mana_shield"
 msgstr "Mana Shield"
 
 msgid "mastery_alt_oracle_benediction_desc"
-msgstr "Healing Chant no longer heals monsters and heals players +100% more."
+msgstr ""
+"Healing Chant no longer heals monsters and heals you and your party +100% "
+"more, for +100% mana."
 
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Benediction"
 
 msgid "mastery_alt_oracle_benediction_rank1"
-msgstr "Healing bonus raised to +130%."
+msgstr "Raised to +130%, for +130% mana."
 
 msgid "mastery_alt_oracle_benediction_rank2"
-msgstr "Raised to +160%."
+msgstr "Raised to +160%, for +160% mana."
 
 msgid "mastery_alt_oracle_benediction_rank3"
-msgstr "Raised to +200%."
+msgstr "Raised to +200%, for +200% mana."
 
 msgid "mastery_alt_oracle_communion_desc"
 msgstr ""
-"Mana Blast charges your next Sacrifice: +25% healing per monster caught, "
-"counting up to 4 (+100%)."
+"Mana Blast heals you and your party for 40% of its damage instead of hurting "
+"you. Monsters take the full blast."
 
 msgid "mastery_alt_oracle_communion_name"
 msgstr "Communion"
 
 msgid "mastery_alt_oracle_communion_rank1"
-msgstr "Counts up to 6 monsters (max +150% healing)."
+msgstr "Heals for 60%."
 
 msgid "mastery_alt_oracle_communion_rank2"
-msgstr "Up to 8 monsters (max +200%)."
+msgstr "Heals for 80%."
 
 msgid "mastery_alt_oracle_communion_rank3"
-msgstr "Up to 10 monsters (max +250%)."
-
-msgid "mastery_alt_oracle_overflow_desc"
-msgstr ""
-"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
-"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
-"window."
-
-msgid "mastery_alt_oracle_overflow_name"
-msgstr "Overflow"
-
-msgid "mastery_alt_oracle_overflow_rank1"
-msgstr ""
-"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
-"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
-"window."
-
-msgid "mastery_alt_oracle_overflow_rank2"
-msgstr ""
-"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
-"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
-"window."
-
-msgid "mastery_alt_oracle_overflow_rank3"
-msgstr ""
-"ACTIVE: for 20 seconds, healing beyond full health becomes a shield, up to "
-"200 per ally. 3 minute cooldown. Drag it onto your hotbar from the Skills "
-"window."
+msgstr "Heals for 100%."
 
 msgid "mastery_alt_oracle_quickening_desc"
 msgstr ""
-"Landing Missile Fury on a monster makes your next Heal Other cast instantly "
-"(within 8 seconds)."
+"Bless Other and Adept also strip the newest debuff: bleeds, poison, "
+"blindness, burning, freezing or acid."
 
 msgid "mastery_alt_oracle_quickening_name"
-msgstr "Quickening"
+msgstr "Purification"
 
 msgid "mastery_alt_oracle_quickening_rank1"
-msgstr ""
-"Healing an ally marks them for 8s - Missile Fury also heals marked allies "
-"near its blast."
+msgstr "Also strips curses on stats and protections."
 
 msgid "mastery_alt_oracle_quickening_rank2"
-msgstr "The mark lasts 12s."
+msgstr "Strips any debuff, including slows, paralysis, mana penalties."
 
 msgid "mastery_alt_oracle_quickening_rank3"
-msgstr "The mark lasts 16s."
+msgstr "Strips 2 debuffs per cast."
+
+msgid "mastery_alt_oracle_sanctuary_desc"
+msgstr ""
+"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
+"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
+"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
+"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+
+msgid "mastery_alt_oracle_sanctuary_name"
+msgstr "Sanctuary"
+
+msgid "mastery_alt_oracle_sanctuary_rank1"
+msgstr ""
+"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
+"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
+"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
+"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+
+msgid "mastery_alt_oracle_sanctuary_rank2"
+msgstr ""
+"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
+"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
+"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
+"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+
+msgid "mastery_alt_oracle_sanctuary_rank3"
+msgstr ""
+"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
+"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
+"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
+"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
 
 msgid "mastery_alt_oracle_warding_desc"
-msgstr "Ward spells block +50% more monster damage."
+msgstr ""
+"Sacrifice costs you no health, and heals you for 25% of what it would have "
+"cost."
 
 msgid "mastery_alt_oracle_warding_name"
-msgstr "Warding"
+msgstr "Binding Heal"
 
 msgid "mastery_alt_oracle_warding_rank1"
-msgstr "Ward bonus raised to +75%."
+msgstr "Raised to 50%."
 
 msgid "mastery_alt_oracle_warding_rank2"
-msgstr "Raised to +100%."
+msgstr "Raised to 75%."
 
 msgid "mastery_alt_oracle_warding_rank3"
-msgstr "Raised to +125%."
+msgstr "Raised to 100%."
 
 msgid "mastery_alt_rank_bar_title"
 msgstr "%1 rank"
@@ -6631,6 +6671,9 @@ msgstr "bonus melee damage for your party against monsters"
 msgid "mastery_aura_effect_deadeye"
 msgstr "bonus ranged damage for your party against monsters"
 
+msgid "mastery_aura_effect_oracle"
+msgstr "faster mana regeneration for your party"
+
 msgid "mastery_aura_effect_vanguard"
 msgstr "less monster damage taken by your party"
 
@@ -6640,10 +6683,16 @@ msgstr ""
 "and grows with every mastery level to %4 at level %5."
 
 msgid "mastery_aura_step_desc"
-msgstr "Aura +%1 - now %2 %3."
+msgstr "Aura +%1. Now %2 %3."
 
 msgid "mastery_aura_step_desc_capped"
-msgstr "Aura +%1 - now %2 %3 (at its cap)."
+msgstr "Aura +%1. Now %2 %3 (at its cap)."
+
+msgid "mastery_detail_level"
+msgstr "Level %1 / %2"
+
+msgid "mastery_detail_level_mp"
+msgstr "Level %1 / %2   -   %3 MP"
 
 msgid "mastery_detail_level_tier"
 msgstr "Level %1 / %2   -   Tier %3 of %4"
@@ -6691,13 +6740,13 @@ msgid "mastery_name_vanguard"
 msgstr "Vanguard"
 
 msgid "mastery_next_unlock_blocked"
-msgstr "Level %1 - %2   (needs a Mastery Orb to pass level %3)"
+msgstr "Level %1: %2   (needs a Mastery Orb to pass level %3)"
 
 msgid "mastery_next_unlock_caption"
 msgstr "NEXT UNLOCK"
 
 msgid "mastery_next_unlock_entry"
-msgstr "Level %1 - %2"
+msgstr "Level %1: %2"
 
 msgid "mastery_no_active"
 msgstr "No mastery active"
@@ -6714,10 +6763,10 @@ msgstr ""
 "and grows with every mastery level to %4 at level %5."
 
 msgid "mastery_node_desc_aura_step"
-msgstr "Aura +%1 - now %2 %3."
+msgstr "Aura +%1. Now %2 %3."
 
 msgid "mastery_node_desc_aura_step_capped"
-msgstr "Aura +%1 - now %2 %3 (at its cap)."
+msgstr "Aura +%1. Now %2 %3 (at its cap)."
 
 msgid "mastery_node_desc_rank"
 msgstr "Rank %1 of %2: %3"
@@ -6738,7 +6787,7 @@ msgid "mastery_orb_sigil_hint"
 msgstr "Tier gates need a Mastery Orb; Sigils swap your active mastery."
 
 msgid "mastery_preview_note"
-msgstr "Preview - not your active mastery."
+msgstr "Preview. Not your active mastery."
 
 msgid "mastery_primary_damage_reduction"
 msgstr "Damage reduction"
@@ -6755,6 +6804,31 @@ msgstr "Bonus vs monsters"
 msgid "mastery_primary_magic_damage"
 msgstr "Magic damage"
 
+msgid "mastery_role_berserker"
+msgstr "Not yet built."
+
+msgid "mastery_role_blightcaller"
+msgstr "Not yet built."
+
+msgid "mastery_role_cutthroat"
+msgstr ""
+"Rewards attacking from behind with bleeds, a damage ramp, and a burst window."
+
+msgid "mastery_role_deadeye"
+msgstr "Ranged damage that scales with how reliably you land arrows."
+
+msgid "mastery_role_elementalist"
+msgstr "Not yet built."
+
+msgid "mastery_role_oracle"
+msgstr ""
+"Keeps the group alive. Stronger heals, debuff cleansing, and protected "
+"ground."
+
+msgid "mastery_role_vanguard"
+msgstr ""
+"Tanking spec built on taunts, parry, and damage reduction while shielded."
+
 msgid "mastery_roster_headline_bonus"
 msgstr "+%1% %2"
 
@@ -6764,26 +6838,49 @@ msgstr "-%1% %2"
 msgid "mastery_row_active_suffix"
 msgstr "%1  (active)"
 
+msgid "mastery_row_level"
+msgstr "Level %1"
+
 msgid "mastery_row_level_tier"
 msgstr "Level %1   Tier %2"
 
 msgid "mastery_row_name_active"
 msgstr "%1  (active)"
 
+msgid "mastery_swap_confirm"
+msgstr ""
+"Switch to %1 for %2 gold?\n"
+"\n"
+"It takes %3 seconds, and the gold is spent when it finishes. Being hit or "
+"entering PvP cancels it and costs you nothing."
+
+msgid "mastery_swap_confirm_free"
+msgstr ""
+"Switch to %1?\n"
+"\n"
+"It takes %3 seconds. Being hit or entering PvP cancels it and costs you "
+"nothing."
+
+msgid "mastery_swap_on_cooldown"
+msgstr ""
+"You cannot switch mastery yet.\n"
+"\n"
+"%1 left."
+
 msgid "mastery_track_header"
 msgstr "%1 Track"
 
 msgid "mastery_track_rule_cutthroat"
-msgstr ""
-"Requires knives. Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is sealed while you are marked by PvP combat."
 
 msgid "mastery_track_rule_deadeye"
-msgstr ""
-"Requires a bow. Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is sealed while you are marked by PvP combat."
+
+msgid "mastery_track_rule_oracle"
+msgstr "Every effect is sealed while you are marked by PvP combat."
 
 msgid "mastery_track_rule_vanguard"
-msgstr ""
-"Requires a shield. Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is sealed while you are marked by PvP combat."
 
 msgid "mastery_tree_complete"
 msgstr "Mastery complete"
@@ -6804,10 +6901,10 @@ msgid "mastery_tree_node_level"
 msgstr "level %1"
 
 msgid "mastery_tree_subheader"
-msgstr "Level %1 / %2   -   Tier %3 of %4"
+msgstr "Level %1 / %2. Gate %3 of %4."
 
 msgid "mastery_tree_subheader_active"
-msgstr "Level %1 / %2   -   Tier %3 of %4   -   ACTIVE"
+msgstr "Level %1 / %2. Gate %3 of %4. ACTIVE."
 
 msgid "mastery_tree_test_apply"
 msgstr "Apply"
@@ -6838,6 +6935,27 @@ msgstr "%1 Track"
 
 msgid "mastery_unlocks_at"
 msgstr "unlocks at level %1"
+
+msgid "mastery_weapon_berserker"
+msgstr ""
+
+msgid "mastery_weapon_blightcaller"
+msgstr ""
+
+msgid "mastery_weapon_cutthroat"
+msgstr "Requires knives."
+
+msgid "mastery_weapon_deadeye"
+msgstr "Requires a bow."
+
+msgid "mastery_weapon_elementalist"
+msgstr ""
+
+msgid "mastery_weapon_oracle"
+msgstr "Requires a staff. The aura works without one."
+
+msgid "mastery_weapon_vanguard"
+msgstr "Requires a shield."
 
 msgid "mastery_window_title"
 msgstr "PvE Mastery"
