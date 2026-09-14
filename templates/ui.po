@@ -3152,6 +3152,11 @@ msgstr "You are not entitled to defend this glyph right now."
 msgid "glyph_cancelled"
 msgstr "You successfully cancelled the challenge. The glyph is now immune."
 
+msgid "glyph_challenge_lawless"
+msgstr ""
+"Only lawful members of a race alliance can contest a faction glyph. Outlaws "
+"and rogues take no part in the faction war."
+
 msgid "glyph_challenge_race_unknown"
 msgstr ""
 "Your race alliance could not be determined, so this lawful glyph cannot be "
@@ -3169,6 +3174,11 @@ msgid "glyph_challenged"
 msgstr ""
 "The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
 "contest it."
+
+msgid "glyph_defend_lawless"
+msgstr ""
+"Only lawful members of the owning race alliance can defend a faction glyph. "
+"Outlaws and rogues take no part in the faction war."
 
 msgid "glyph_flipped"
 msgstr "The rune glyph in %1 has fallen to a new faction!"
