@@ -11274,6 +11274,10 @@ msgstr " "
 msgid "desc_r_Quest Golden Egg"
 msgstr "Description of r_Golden Egg"
 
+msgid "desc_r_Quest Herbal Tea"
+msgstr ""
+"A cup of herbal tea from the garrison, meant for Agent Gallius. Not for you."
+
 msgid "desc_r_Quest Hivekin plague vaccine"
 msgstr ""
 "A vaccine which can be used to inoculate against the plague carried by the "
@@ -11321,11 +11325,18 @@ msgstr " "
 msgid "desc_r_Quest Random Reward"
 msgstr " "
 
+msgid "desc_r_Quest Shipping Manifest"
+msgstr ""
+"A shipping manifest for Cormac the Shipwright, growing damper by the minute."
+
 msgid "desc_r_Quest Signet ring"
 msgstr " "
 
 msgid "desc_r_Quest Strange mural"
 msgstr " "
+
+msgid "desc_r_Quest Supply Crate"
+msgstr "A crate of supplies for the Dawnshore garrison."
 
 msgid "desc_r_Quest Target Props"
 msgstr " "
@@ -29861,6 +29872,9 @@ msgstr "Quest Signet ring"
 
 msgid "r_Quest Strange mural"
 msgstr "Quest Strange mural"
+
+msgid "r_Quest Supply Crate"
+msgstr "Quest Supply Crate"
 
 msgid "r_Quest Target Props"
 msgstr "Quest Target Props"
