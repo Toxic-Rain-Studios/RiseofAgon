@@ -179,6 +179,38 @@ msgstr "Set Bind"
 msgid "alignment"
 msgstr "Alignment"
 
+msgid "alignment_tt_header"
+msgstr "Alignment: %1 / %2"
+
+msgid "alignment_tt_losing"
+msgstr ""
+"Only killing someone of your own race reduces Alignment, and only while you "
+"are Lawless or Gray."
+
+msgid "alignment_tt_losing2"
+msgstr ""
+"Lawful players are forced Gray inside red zones, so they cannot lose "
+"Alignment."
+
+msgid "alignment_tt_range"
+msgstr ""
+"Ranges from -1000 to 1000. The bar's centre is zero, so a character at 0 "
+"sits halfway along it."
+
+msgid "alignment_tt_sec_losing"
+msgstr "Losing Alignment:"
+
+msgid "alignment_tt_sec_stance"
+msgstr "Stance:"
+
+msgid "alignment_tt_stance"
+msgstr ""
+"Your stance, not your Alignment, decides how guards and faction towers treat "
+"you."
+
+msgid "alignment_tt_stance2"
+msgstr "Lawless players are attacked regardless of their Alignment."
+
 msgid "alignmentbar_tooltip"
 msgstr "%3: %1 of %2"
 
@@ -7795,6 +7827,9 @@ msgstr "Protections"
 
 msgid "progressbar_tooltip"
 msgstr "%3: %1 of %2"
+
+msgid "progressbar_tooltip_pct"
+msgstr "%4: %1 / %2 (%3%)"
 
 msgid "prompt_item_split_quantity_label"
 msgstr "Quantity:"
