@@ -11575,6 +11575,9 @@ msgstr "You cannot change alignment stance while in a clan."
 msgid "NOTIFICATION_PVP_FLAG_ERROR_IN_COMBAT"
 msgstr "You cannot change alignment stance while in combat."
 
+msgid "NOTIFICATION_PVP_FLAG_ERROR_ON_TUTORIAL_ISLAND"
+msgstr "You cannot change your alignment stance while on the tutorial island."
+
 msgid "NOTIFICATION_PVP_FLAG_ERROR_SAME_VALUE"
 msgstr "You are already on this alignment stance."
 
