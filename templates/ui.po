@@ -5475,6 +5475,30 @@ msgstr "Structures"
 msgid "map_options_section_tooltips"
 msgstr "Tooltips"
 
+msgid "map_tooltip_faction_city_counting_down"
+msgstr "Shield dropping"
+
+msgid "map_tooltip_faction_city_invulnerable"
+msgstr "Invulnerable"
+
+msgid "map_tooltip_faction_city_shield_drops"
+msgstr "Shield drops in %1"
+
+msgid "map_tooltip_faction_city_shielded"
+msgstr "Shielded by guard towers"
+
+msgid "map_tooltip_faction_city_towers"
+msgstr "Guard towers %1 of %2"
+
+msgid "map_tooltip_faction_city_vulnerable"
+msgstr "VULNERABLE"
+
+msgid "map_tooltip_faction_city_window_closes"
+msgstr "Window closes in %1"
+
+msgid "map_tooltip_faction_city_window_opens"
+msgstr "Window opens in %1"
+
 msgid "map_tooltip_prefix_annotation"
 msgstr "Annotation: %1"
 
