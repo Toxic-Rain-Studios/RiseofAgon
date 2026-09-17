@@ -9223,6 +9223,11 @@ msgstr "%1"
 msgid "NOTIFICATION_GENERIC_QUEST_MESSAGE_ERROR"
 msgstr "Unknown response for your quest offer."
 
+msgid "NOTIFICATION_GLYPH_CHALLENGE_DEFENDER_WARNING"
+msgstr ""
+"The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
+"contest it."
+
 msgid "NOTIFICATION_GLYPH_CHALLENGE_STARTED"
 msgstr ""
 "The rune glyph in %1 is now contested! It will be captured in %2 minutes "
