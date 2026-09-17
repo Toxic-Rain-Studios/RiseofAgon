@@ -5482,7 +5482,7 @@ msgid "map_options_section_tooltips"
 msgstr "Tooltips"
 
 msgid "map_tooltip_faction_city_counting_down"
-msgstr "Shield dropping"
+msgstr "Vulnerable - shield dropping"
 
 msgid "map_tooltip_faction_city_invulnerable"
 msgstr "Invulnerable"
@@ -5491,13 +5491,13 @@ msgid "map_tooltip_faction_city_shield_drops"
 msgstr "Shield drops in %1"
 
 msgid "map_tooltip_faction_city_shielded"
-msgstr "Shielded by guard towers"
+msgstr "Vulnerable - kill the guard towers"
 
 msgid "map_tooltip_faction_city_towers"
 msgstr "Guard towers %1 of %2"
 
 msgid "map_tooltip_faction_city_vulnerable"
-msgstr "VULNERABLE"
+msgstr "VULNERABLE - bind stone exposed"
 
 msgid "map_tooltip_faction_city_window_closes"
 msgstr "Window closes in %1"
@@ -8508,22 +8508,22 @@ msgid "structure_status_disabled"
 msgstr "Disabled"
 
 msgid "structure_status_faction_bind_stone_counting_down"
-msgstr "Losing shield in %1"
+msgstr "Vulnerable - shield drops in %1"
 
 msgid "structure_status_faction_bind_stone_invulnerable"
 msgstr "Invulnerable - %1"
 
 msgid "structure_status_faction_bind_stone_shielded"
-msgstr "Shielded"
+msgstr "Vulnerable - guard towers standing"
 
 msgid "structure_status_faction_bind_stone_shielded_timed"
-msgstr "Shielded by guard towers - window closes in %1"
+msgstr "Vulnerable - kill the guard towers - window closes in %1"
 
 msgid "structure_status_faction_bind_stone_vulnerable"
-msgstr "Vulnerable"
+msgstr "VULNERABLE - bind stone exposed"
 
 msgid "structure_status_faction_bind_stone_vulnerable_timed"
-msgstr "Vulnerable - invulnerable again in %1"
+msgstr "VULNERABLE - bind stone exposed - window closes in %1"
 
 msgid "structure_status_restoring"
 msgstr "Restoring - %1"
