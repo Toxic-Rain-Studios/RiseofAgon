@@ -5497,7 +5497,7 @@ msgid "map_tooltip_faction_city_towers"
 msgstr "Guard towers %1 of %2"
 
 msgid "map_tooltip_faction_city_vulnerable"
-msgstr "VULNERABLE - bind stone exposed"
+msgstr "VULNERABLE - KILL THE BIND STONE!"
 
 msgid "map_tooltip_faction_city_window_closes"
 msgstr "Window closes in %1"
@@ -8520,10 +8520,10 @@ msgid "structure_status_faction_bind_stone_shielded_timed"
 msgstr "Vulnerable - kill the guard towers - window closes in %1"
 
 msgid "structure_status_faction_bind_stone_vulnerable"
-msgstr "VULNERABLE - bind stone exposed"
+msgstr "VULNERABLE - KILL THE BIND STONE!"
 
 msgid "structure_status_faction_bind_stone_vulnerable_timed"
-msgstr "VULNERABLE - bind stone exposed - window closes in %1"
+msgstr "VULNERABLE - KILL THE BIND STONE! Window closes in %1"
 
 msgid "structure_status_restoring"
 msgstr "Restoring - %1"
