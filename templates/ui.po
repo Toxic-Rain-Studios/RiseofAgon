@@ -179,6 +179,15 @@ msgstr "Set Bind"
 msgid "alignment"
 msgstr "Alignment"
 
+msgid "alignment_standing_lawful"
+msgstr "Lawful"
+
+msgid "alignment_standing_lawless"
+msgstr "Lawless"
+
+msgid "alignment_standing_rogue"
+msgstr "Rogue!"
+
 msgid "alignment_tt_header"
 msgstr "Alignment: %1 / %2"
 
@@ -8741,8 +8750,14 @@ msgstr "Stamina:"
 msgid "vital_stats_display_modes_blank"
 msgstr "Blank"
 
+msgid "vital_stats_display_modes_full"
+msgstr "Full"
+
 msgid "vital_stats_display_modes_percentage_only"
 msgstr "Percentage only"
+
+msgid "vital_stats_display_modes_state_only"
+msgstr "State only"
 
 msgid "vital_stats_display_modes_value_and_percentage"
 msgstr "Value and percentage"
