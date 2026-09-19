@@ -5819,6 +5819,14 @@ msgstr "Max"
 msgid "market_filter_price_min"
 msgstr "Price:       Min"
 
+msgid "market_filter_show_all_regions"
+msgstr "Show all regions"
+
+msgid "market_filter_show_all_regions_tooltip"
+msgstr ""
+"Orders from other regions cannot be bought or filled from here. Tick to list "
+"them anyway."
+
 msgid "market_filter_text"
 msgstr "Text Filter: "
 
