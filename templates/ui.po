@@ -1092,6 +1092,9 @@ msgstr "echoes a message to all online GMs"
 msgid "chat_server_cmd_say_gm_events_desc"
 msgstr "sends a GM Events announcement to all players"
 
+msgid "chat_server_cmd_say_gm_race_channel_desc"
+msgstr "echoes a staff message into that race or racial alliance chat"
+
 msgid "chat_server_cmd_say_mgm_desc"
 msgstr "echoes a message to all online Master GMs"
 
