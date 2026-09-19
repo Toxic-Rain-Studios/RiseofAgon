@@ -9481,6 +9481,11 @@ msgstr "Your house does not support this buildable extension."
 msgid "NOTIFICATION_HOUSE_UPGRADE_SUCCESSFULLY_INSTALLED"
 msgstr "Congratulations! You successfully installed an upgrade in your house!"
 
+msgid "NOTIFICATION_INSTANCE_SKILL_CAP_REACHED"
+msgstr ""
+"%1 cannot be trained past %2 on the tutorial islands. Leave through the "
+"Departure Arch to keep advancing."
+
 msgid "NOTIFICATION_INVALID_QUEST_NAME"
 msgstr "You do not have any active quest with this name."
 
