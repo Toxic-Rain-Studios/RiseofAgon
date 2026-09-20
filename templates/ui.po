@@ -7451,6 +7451,9 @@ msgstr "Show Party Overhead Icon"
 msgid "options_gui_show_target_health_percent"
 msgstr "Show percentage on target health bar"
 
+msgid "options_gui_show_target_use_hints"
+msgstr "Show use-key hints on target"
+
 msgid "options_gui_show_tutorial_next_time"
 msgstr "Show Tutorial next time"
 
@@ -8335,8 +8338,22 @@ msgstr "Racial Spells"
 msgid "screen08_title"
 msgstr "Choose starting spells"
 
+msgid "screen09_desc_capital"
+msgstr "The capital city of your race."
+
+msgid "screen09_desc_island"
+msgstr ""
+"A prosperous trading city, located along one of the few maritime trade "
+"routes that leave the continent of Agon. Dawnshore remained a predictable "
+"and uneventful place even after the war started - that is until they were "
+"dragged into the mess through a series of unusual events.\n"
+"\n"
+"The Dawnshore tutorial is recommended for new players to familiarize "
+"themselves with the basic gameplay loop. You will be rewarded a starter kit "
+"upon full completion of the quest line. You may leave at any time."
+
 msgid "screen09_title"
-msgstr "Select starting town"
+msgstr "Choose Starting Location"
 
 msgid "screen10_title"
 msgstr "Create this character?"

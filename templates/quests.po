@@ -1265,14 +1265,17 @@ msgstr ""
 
 msgid "diary_text_quest_21252"
 msgstr ""
-"I looted a Tooth from a goblin's grave and carried word of the raid back to "
-"Torvald."
+"I looted a pair of Teeth from the goblins' graves and carried word of the "
+"raid back to Torvald."
 
 msgid "diary_text_quest_21253"
 msgstr "I killed a goblin shaman in the inner ring of the camp."
 
 msgid "diary_text_quest_21254"
 msgstr "I destroyed the goblin shrine at the heart of the camp."
+
+msgid "diary_text_quest_21255"
+msgstr "I put a sack in my loot bag slot before raiding the goblin camp."
 
 msgid "diary_text_quest_21261"
 msgstr ""
@@ -1281,6 +1284,14 @@ msgstr ""
 
 msgid "diary_text_quest_21271"
 msgstr "I deposited the 500 gold Mary paid me, and it went into my wallet."
+
+msgid "diary_text_quest_21272"
+msgstr "I emptied my loot bag into the bank with the Deposit Loot button."
+
+msgid "diary_text_quest_21273"
+msgstr ""
+"I told Mary the Councillor my gold was banked and my loot bag emptied into "
+"the bank."
 
 msgid "diary_text_quest_21281"
 msgstr ""
@@ -1335,7 +1346,9 @@ msgid "diary_text_quest_21308"
 msgstr "I carried the city's supplies to Barnaby the Blacksmith."
 
 msgid "diary_text_quest_21311"
-msgstr "I tanned rawhide into leather at the workbench."
+msgstr ""
+"I tanned rawhide into leather at the workbench, and took the leather Barnaby "
+"had left there for me."
 
 msgid "diary_text_quest_21312"
 msgstr "I crafted three shortbows at the workbench with Bowyer."
@@ -1364,7 +1377,7 @@ msgstr ""
 "delivered the Ravager to Stranglar Bloodaks."
 
 msgid "diary_text_quest_21331"
-msgstr "I learned to fish from Cormac's ship and caught two cod."
+msgstr "I learned to fish from Cormac's ship and caught two fish."
 
 msgid "diary_text_quest_21332"
 msgstr "I cooked my catch at the oven in Dawnshore."
@@ -11903,6 +11916,9 @@ msgstr "A shaman. That is how they built so fast."
 msgid "end_text_quest_21254"
 msgstr "Without it they have nothing left to rally to."
 
+msgid "end_text_quest_21255"
+msgstr "Good. Now you have somewhere to put what you take off them."
+
 msgid "end_text_quest_21261"
 msgstr ""
 "I am very pleased, thank you for your service and helping to secure our "
@@ -11914,6 +11930,14 @@ msgstr ""
 "until taken out. Keep important items in here, as to not risk them or over "
 "encumber yourself. All banks are linked, and you can access your items in "
 "any bank globally."
+
+msgid "end_text_quest_21272"
+msgstr "That is the quickest way to unload after a fight."
+
+msgid "end_text_quest_21273"
+msgstr ""
+"Banked, and your bag emptied out on top of it. You have the habit now - keep "
+"it. What you carry can be taken from you; what you bank cannot."
 
 msgid "end_text_quest_21281"
 msgstr ""
@@ -12000,7 +12024,7 @@ msgstr ""
 "efforts."
 
 msgid "end_text_quest_21331"
-msgstr "You have caught the cod, how skilful."
+msgstr "Two fish landed. You have the knack."
 
 msgid "end_text_quest_21332"
 msgstr "Cooked food restores more than it does raw, and keeps."
@@ -20205,7 +20229,7 @@ msgid "finished_text_quest_21251"
 msgstr "You killed 5 goblin scouts and 3 goblin fighters."
 
 msgid "finished_text_quest_21252"
-msgstr "You looted a Tooth. Now report to Torvald the Fighter."
+msgstr "You looted 2 Teeth. Now report to Torvald the Fighter."
 
 msgid "finished_text_quest_21253"
 msgstr "You killed the goblin shaman."
@@ -20213,11 +20237,20 @@ msgstr "You killed the goblin shaman."
 msgid "finished_text_quest_21254"
 msgstr "The goblin shrine is destroyed."
 
+msgid "finished_text_quest_21255"
+msgstr "You equipped the sack as your loot bag."
+
 msgid "finished_text_quest_21261"
 msgstr "You reported to Mary the Councillor."
 
 msgid "finished_text_quest_21271"
 msgstr "Your gold is banked, and is now in your wallet."
+
+msgid "finished_text_quest_21272"
+msgstr "You emptied your loot bag into the bank."
+
+msgid "finished_text_quest_21273"
+msgstr "Mary the Councillor heard your report."
 
 msgid "finished_text_quest_21281"
 msgstr "You met Foreman Michael at the Quarry."
@@ -20266,7 +20299,9 @@ msgid "finished_text_quest_21308"
 msgstr "Barnaby the Blacksmith took the supplies."
 
 msgid "finished_text_quest_21311"
-msgstr "You tanned the rawhide into leather."
+msgstr ""
+"You tanned the rawhide into leather, and collected the rest Barnaby left at "
+"the workbench."
 
 msgid "finished_text_quest_21312"
 msgstr "You crafted 3 Shortbows."
@@ -20288,10 +20323,10 @@ msgstr ""
 "You now have a Ravager in your possession. Return to Stranglar Bloodaks."
 
 msgid "finished_text_quest_21331"
-msgstr "You caught 2 Cod."
+msgstr "You caught 2 fish."
 
 msgid "finished_text_quest_21332"
-msgstr "You cooked 2 Cooked Cod."
+msgstr "You cooked 2 fish."
 
 msgid "finished_text_quest_21333"
 msgstr "You spoke to Sorcha the Shopkeeper."
@@ -28533,6 +28568,9 @@ msgstr "Quest 5 - step 3 - the shaman"
 msgid "name_quest_21254"
 msgstr "Quest 5 - step 4 - the shrine"
 
+msgid "name_quest_21255"
+msgstr "Quest 5 - step 0 - the loot bag"
+
 msgid "name_quest_2126"
 msgstr "The power behind the kobolds"
 
@@ -28550,6 +28588,12 @@ msgstr "Quest 7"
 
 msgid "name_quest_21271"
 msgstr "Quest 7 - step 1 - bank your gold"
+
+msgid "name_quest_21272"
+msgstr "Quest 7 - step 2 - deposit your loot"
+
+msgid "name_quest_21273"
+msgstr "Quest 7 - step 3 - report to Mary"
 
 msgid "name_quest_2128"
 msgstr "The Order of the Axe"
@@ -37092,6 +37136,11 @@ msgstr "A New God?"
 msgid "name_quest_829"
 msgstr "The Legendary Fire"
 
+msgid "progress_text_quest_21332"
+msgstr ""
+"^Cdarkfall^You have cooked ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^Fish."
+
 msgid "short_desc_quest_10000"
 msgstr "Kill 10 Goblins"
 
@@ -38393,7 +38442,7 @@ msgid "short_desc_quest_21210"
 msgstr "Show Torvald your melee and archery skills at the War Camp."
 
 msgid "short_desc_quest_21211"
-msgstr "Equip the Shearsword."
+msgstr "Draw the Shearsword."
 
 msgid "short_desc_quest_21212"
 msgstr "Strike the training dummies 5 times."
@@ -38474,13 +38523,16 @@ msgid "short_desc_quest_21251"
 msgstr "Kill 5 goblin scouts and 3 goblin fighters."
 
 msgid "short_desc_quest_21252"
-msgstr "Loot a Tooth from a grave, then report to Torvald."
+msgstr "Loot 2 Teeth from graves, then report to Torvald."
 
 msgid "short_desc_quest_21253"
 msgstr "Kill 1 goblin shaman in the inner ring."
 
 msgid "short_desc_quest_21254"
 msgstr "Destroy the goblin shrine."
+
+msgid "short_desc_quest_21255"
+msgstr "Place the sack in your loot bag slot."
 
 msgid "short_desc_quest_2126"
 msgstr "Kill four trolls."
@@ -38499,6 +38551,12 @@ msgstr "Bank the gold Mary paid you."
 
 msgid "short_desc_quest_21271"
 msgstr "Deposit 500 gold in your bank."
+
+msgid "short_desc_quest_21272"
+msgstr "Empty your loot bag into the bank."
+
+msgid "short_desc_quest_21273"
+msgstr "Return to Mary the Councillor."
 
 msgid "short_desc_quest_2128"
 msgstr "Report to Thain Strongforge."
@@ -38564,7 +38622,7 @@ msgid "short_desc_quest_21310"
 msgstr "Fill the garrison's crafting order for Barnaby the Blacksmith."
 
 msgid "short_desc_quest_21311"
-msgstr "Tan the rawhide, for 15 Leather in all."
+msgstr "Tan the rawhide into Leather at the workbench."
 
 msgid "short_desc_quest_21312"
 msgstr "Craft 3 Shortbows."
@@ -38591,10 +38649,10 @@ msgid "short_desc_quest_21330"
 msgstr "Fish with Cormac, cook your catch, then speak to Sorcha."
 
 msgid "short_desc_quest_21331"
-msgstr "Catch 2 Cod."
+msgstr "Catch 2 fish."
 
 msgid "short_desc_quest_21332"
-msgstr "Cook 2 Cooked Cod at the oven."
+msgstr "Cook 2 fish at the oven."
 
 msgid "short_desc_quest_21333"
 msgstr "Speak to Sorcha the Shopkeeper."
@@ -50375,7 +50433,8 @@ msgstr ""
 "Welcome to Dawnshore. There is an incursion of goblins east of the city. "
 "Bind at our Bindstone, then deliver this crate to Torvald the Fighter. I "
 "have marked his location, as well as our Bindstone on your map. Open your "
-"map by pressing M."
+"map by pressing M, and your backpack by pressing B - the crate is waiting in "
+"there."
 
 msgid "start_text_quest_21201"
 msgstr ""
@@ -50398,8 +50457,8 @@ msgstr ""
 
 msgid "start_text_quest_21211"
 msgstr ""
-"Press Tab to bring out your Shearsword. Your weapon bar draws what it "
-"equips, so one key does both."
+"Press Tab to switch to your Shearsword, then press T to draw it. Tab only "
+"changes which weapon you have readied - it does not unsheathe it for you."
 
 msgid "start_text_quest_21212"
 msgstr "Strike the training dummies 5 times with your sword."
@@ -50527,7 +50586,8 @@ msgstr ""
 msgid "start_text_quest_21250"
 msgstr ""
 "Journey to the east and assault the goblin camp. Successfully kill 5 goblin "
-"scouts and 3 goblin fighters."
+"scouts and 3 goblin fighters. Take this sack with you - wear it in your loot "
+"bag slot and whatever you take off them collects in one place."
 
 msgid "start_text_quest_21251"
 msgstr ""
@@ -50537,8 +50597,9 @@ msgstr ""
 msgid "start_text_quest_21252"
 msgstr ""
 "Everything you kill leaves a grave. Look at one and press F to open it, then "
-"click an item to move it across to your backpack. Loot 1 Tooth, then report "
-"your success to Torvald at the war camp."
+"click an item to move it across to your backpack. Loot 2 Teeth, then report "
+"your success to Torvald at the war camp. He will want one of them; keep the "
+"other."
 
 msgid "start_text_quest_21253"
 msgstr ""
@@ -50547,6 +50608,12 @@ msgstr ""
 
 msgid "start_text_quest_21254"
 msgstr "The goblins pay respect to their shrine. Destroy it with your sword."
+
+msgid "start_text_quest_21255"
+msgstr ""
+"Before you march on the camp, put that sack in the loot bag slot of your "
+"paperdoll. Press P to open it. Anything you take from the dead collects in "
+"there, and a full loot bag empties into your bank in a single press later."
 
 msgid "start_text_quest_2126"
 msgstr ""
@@ -50599,9 +50666,21 @@ msgstr ""
 
 msgid "start_text_quest_21271"
 msgstr ""
-"Deposit 500 gold in your bank. Banked gold goes into your wallet, and can be "
-"used to purchase items or skills from vendors. The bank is marked on your "
-"map - face it and press F to open it, then move your gold across."
+"Deposit 500 gold in your bank. Banked gold goes into your wallet, and "
+"vendors will take payment from your wallet or from gold you are carrying in "
+"your backpack - either will do. The bank is marked on your map - face it and "
+"press F to open it, then move your gold across."
+
+msgid "start_text_quest_21272"
+msgstr ""
+"Now empty your loot bag. Open the bank and press Deposit Loot - everything "
+"in the bag goes straight into your bank in one press, instead of dragging it "
+"across piece by piece."
+
+msgid "start_text_quest_21273"
+msgstr ""
+"Your gold is banked and your loot bag is empty. Go back and tell Mary the "
+"Councillor it is done."
 
 msgid "start_text_quest_2128"
 msgstr ""
@@ -50724,7 +50803,8 @@ msgstr ""
 "I have a crafting order here from the garrison. I'd like you to take it up, "
 "as the experience will be valuable to you. The box of supplies you brought "
 "back has the materials you need inside it. First, take this rawhide and tan "
-"it at the workbench."
+"it at the workbench - I have left the rest of the leather you will need "
+"sitting there for you."
 
 msgid "start_text_quest_21311"
 msgstr "Refine the rawhide into leather at the workbench."
@@ -50775,15 +50855,16 @@ msgid "start_text_quest_21331"
 msgstr ""
 "Equip the fishing rod and use it on the water. Fish are stored on a per tile "
 "basis, shared with all players. Once a tile is emptied of fish, everyone "
-"must wait for it to regenerate. Catch 2 Cod."
+"must wait for it to regenerate. Catch 2 fish - any kind will do."
 
 msgid "start_text_quest_21332"
 msgstr ""
-"Now, swim back to Dawnshore and cook 2 Cod in the oven marked on your map."
+"Now, swim back to Dawnshore and cook your catch in the oven marked on your "
+"map. Two of them, whatever you landed."
 
 msgid "start_text_quest_21333"
 msgstr ""
-"The cod is cooked and your swimming lessons were successful. Speak with "
+"Your catch is cooked and your swimming lessons were successful. Speak with "
 "Sorcha the Merchant."
 
 msgid "start_text_quest_2134"
@@ -50819,8 +50900,9 @@ msgstr ""
 
 msgid "start_text_quest_21341"
 msgstr ""
-"Sorcha has given you steedgrass, a food favored by mounts. Open your remote "
-"crafting tab in your menu and use the Taming skill to craft a mount."
+"Sorcha has given you steedgrass, a food favored by mounts. Open the menu at "
+"the top of your screen, go to the remote crafting tab, and use the Taming "
+"skill to craft a mount."
 
 msgid "start_text_quest_21342"
 msgstr "To spawn your mount, use the Summon Mount skill from your hotbar."
@@ -79912,17 +79994,123 @@ msgstr ""
 "I want you to go to the Chamber of Fire, and retrieve the legendary artifact "
 "Durganon's Flame."
 
+msgid "use_skill_message_quest_21201"
+msgstr ""
+"^Cdarkfall^You have bound to the Dawnshore Bindstone ^Cwhite^%1 "
+"^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21211"
+msgstr ""
+"^Cdarkfall^You have drawn the Shearsword ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21212"
+msgstr ""
+"^Cdarkfall^You have struck the training dummies ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21213"
+msgstr ""
+"^Cdarkfall^You have stowed the Shearsword ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21214"
+msgstr ""
+"^Cdarkfall^You have sat down to rest ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21215"
+msgstr ""
+"^Cdarkfall^You have hit the archery targets ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
 msgid "use_skill_message_quest_21217"
-msgstr "You have equipped your arrows."
+msgstr ""
+"^Cdarkfall^You have equipped your arrows ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21222"
-msgstr "You have equipped %1 of 3 pieces of armor."
+msgstr ""
+"^Cdarkfall^You have equipped ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^pieces of armor."
 
 msgid "use_skill_message_quest_21231"
-msgstr "You have equipped your Leafblade."
+msgstr ""
+"^Cdarkfall^You have equipped your Leafblade ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21232"
-msgstr "You have equipped your Feeble Shield."
+msgstr ""
+"^Cdarkfall^You have equipped your Feeble Shield ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21233"
-msgstr "You have parried %1 of 3 missiles from the totem."
+msgstr ""
+"^Cdarkfall^You have parried ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^missiles from the totem."
+
+msgid "use_skill_message_quest_21234"
+msgstr ""
+"^Cdarkfall^You have struck the totem with Mana Missile ^Cwhite^%1 "
+"^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21235"
+msgstr ""
+"^Cdarkfall^You have cast Mana to Stamina ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21236"
+msgstr ""
+"^Cdarkfall^You have cast Stamina to Health ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21237"
+msgstr ""
+"^Cdarkfall^You have cast Health to Mana ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21238"
+msgstr ""
+"^Cdarkfall^You have healed yourself ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21239"
+msgstr ""
+"^Cdarkfall^You have eaten ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21254"
+msgstr ""
+"^Cdarkfall^You have struck the goblin shrine ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21255"
+msgstr ""
+"^Cdarkfall^You have equipped your loot bag ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21271"
+msgstr ""
+"^Cdarkfall^You have deposited your gold in the bank ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21272"
+msgstr ""
+"^Cdarkfall^You have emptied your loot bag into the bank ^Cwhite^%1 "
+"^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21305"
+msgstr ""
+"^Cdarkfall^You have recalled to the Dawnshore Bindstone ^Cwhite^%1 "
+"^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21342"
+msgstr ""
+"^Cdarkfall^You have summoned your mount ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21351"
+msgstr "^Cdarkfall^You have bought the Side Step upgrade."
+
+msgid "use_skill_message_quest_21371"
+msgstr "^Cdarkfall^You have bought a spell upgrade for Light."
