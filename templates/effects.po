@@ -401,6 +401,9 @@ msgstr "Mental Status Bonus"
 msgid "Missile Damage Bonus"
 msgstr "Missile Damage Bonus"
 
+msgid "Momentum"
+msgstr "Momentum"
+
 msgid "Mundane Damage"
 msgstr "Mundane Damage"
 
@@ -1074,6 +1077,10 @@ msgstr ""
 
 msgid "desc_Missile Damage Bonus"
 msgstr ""
+
+msgid "desc_Momentum"
+msgstr ""
+"Your blows are building - each consecutive hit on a monster lands harder."
 
 msgid "desc_Mundane Damage"
 msgstr ""

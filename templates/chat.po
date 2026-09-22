@@ -9699,6 +9699,15 @@ msgid "NOTIFICATION_MARKET_WRONG_REGION"
 msgstr ""
 "^Cgold^This order was created in %1. You must be in %1 to trade with it."
 
+msgid "NOTIFICATION_MASTERY"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_MILESTONE"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_PROGRESS"
+msgstr "%1"
+
 msgid "NOTIFICATION_MAX_ACTIVE_QUESTS_NUMBER_REACHED"
 msgstr "You have already reached the %1 active quests limit"
 
@@ -11336,7 +11345,7 @@ msgid "NOTIFICATION_PRAYING_ERROR_NO_NEED_TO_PRAY"
 msgstr "You do not need to pray."
 
 msgid "NOTIFICATION_PVE_MASTERY_ABILITIES_PVP_SEALED"
-msgstr "[Mastery] Mastery abilities are sealed while marked by PvP combat."
+msgstr "[Mastery] Mastery abilities are disabled while marked by PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_ACTIVATED"
 msgstr "[Mastery] %1 mastery activated."
@@ -11346,6 +11355,9 @@ msgstr "[Mastery] Aegis hurls the spell back."
 
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_MIRRORED"
 msgstr "[Mastery] Aegis throws the spell back at its caster."
+
+msgid "NOTIFICATION_PVE_MASTERY_ALREADY_LEARNED"
+msgstr "[Mastery] You already walk the path of the %1. The sigil is untouched."
 
 msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
 msgstr "[Mastery] %1 needs %2 essence - attune Ancient Essence."
@@ -11370,6 +11382,11 @@ msgstr ""
 "[Mastery] Aura costs %1 essence for one hour (you have %2) - attune Ancient "
 "Essence."
 
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
+msgstr ""
+"[Mastery] Your aura goes out - PvP combat. %1 essence returned for the time "
+"left."
+
 msgid "NOTIFICATION_PVE_MASTERY_AURA_FOLLOWS"
 msgstr ""
 "[Mastery] Your aura follows you - %1 aura, %2 minutes of its hour left."
@@ -11379,6 +11396,9 @@ msgstr "[Mastery] Your aura fades - its hour is spent. Reactivate when ready."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
 msgstr "[Mastery] %1 aura ignited for one hour (-%2 essence) - %3"
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
+msgstr "[Mastery] You cannot raise an aura while PvP combat has you."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_NOT_BUILT"
 msgstr ""
@@ -11393,6 +11413,9 @@ msgstr ""
 "[Mastery] Aura: only the Vanguard, Cutthroat and Deadeye auras are available "
 "for now."
 
+# Kept although the code no longer says it: the curated mastery MR branch still
+# carries the suppression-era manager, and a key deleted under a branch that is
+# still in flight is a line that renders as its own key id in game.
 msgid "NOTIFICATION_PVE_MASTERY_AURA_SUPPRESSED_PVP"
 msgstr ""
 "[Mastery] Aura suppressed - PvP combat. It resumes when the mark fades; the "
@@ -11400,6 +11423,9 @@ msgstr ""
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TOGGLED_OFF"
 msgstr "[Mastery] Aura off (no refund on the remaining time)."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
+msgstr "[Mastery] %1 needs %2 essence and you hold %3."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_COLLAPSES_PVP"
 msgstr "[Mastery] %1 collapses - PvP combat."
@@ -11422,7 +11448,7 @@ msgstr ""
 "available for now."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
-msgstr "[Mastery] Capstones are sealed while marked by PvP combat."
+msgstr "[Mastery] Capstones are disabled while marked by PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_ESSENCE_ATTUNED"
 msgstr "[Mastery] Attuned %1 Ancient Essence (pool %2 / %3)."
@@ -11436,8 +11462,20 @@ msgstr "[Mastery] Free swap used."
 msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_GRANTED"
 msgstr "[Mastery] Your next mastery swap is free for a short time."
 
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
+msgstr ""
+"[Mastery] The gate holds. You carry %1 of %2 Mastery Orbs and %3 of %4 "
+"Ancient Orbs, and hold %5 of %6 essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
+msgstr "[Mastery] You have no mastery active to break a gate for."
+
 msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
 msgstr "[Mastery] +%1 MP %2 L%3 (%4)"
+
+msgid "NOTIFICATION_PVE_MASTERY_LEARNED"
+msgstr ""
+"[Mastery] You take up the path of the %1. Levels 1 to %2 are open to you."
 
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Mastery] %1 mastery level %2! (%3)"
@@ -11453,6 +11491,11 @@ msgstr "[Mastery] %1 needs a staff."
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
 msgstr "[Mastery] %1 is not available yet."
+
+msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
+msgstr ""
+"[Mastery] You have not taken up the path of the %1. A Mastery Keeper sells "
+"its sigil."
 
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "[Mastery] %1 is already at the highest tier."
@@ -11545,13 +11588,18 @@ msgstr ""
 "[Mastery] Taunt: only Vanguard has one for now - activate Vanguard first."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_PVP_SEALED"
-msgstr "[Mastery] Taunts are sealed while marked by PvP combat."
+msgstr "[Mastery] Taunts are disabled while marked by PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_TEST_COOLDOWN"
 msgstr "[Mastery] Test controls are catching up - %1s."
 
 msgid "NOTIFICATION_PVE_MASTERY_TEST_ESSENCE_CLOSED"
 msgstr "[Mastery] Filling your own essence is not open right now."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_FORGOTTEN"
+msgstr ""
+"[Mastery] You have unlearned %1. Its levels and progress are gone, and you "
+"may take up another."
 
 msgid "NOTIFICATION_PVE_MASTERY_TEST_LEVEL_CLOSED"
 msgstr "[Mastery] Setting your own mastery level is not open right now."
@@ -11562,6 +11610,9 @@ msgstr "[Mastery] %1 set to level %2 and activated."
 msgid "NOTIFICATION_PVE_MASTERY_TEST_LEVEL_SET_CLAMPED"
 msgstr "[Mastery] %1 set to level %2 and activated (levels run %3-%4)."
 
+msgid "NOTIFICATION_PVE_MASTERY_TEST_NOT_LEARNED"
+msgstr "[Mastery] You have not learned %1."
+
 msgid "NOTIFICATION_PVE_MASTERY_TEST_NO_MASTERY"
 msgstr "[Mastery] No mastery under test to spend essence on."
 
@@ -11569,7 +11620,10 @@ msgid "NOTIFICATION_PVE_MASTERY_TEST_UNKNOWN_MASTERY"
 msgstr "[Mastery] Unknown mastery - use %1."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
-msgstr "[Mastery] UNBROKEN LINE - monster damage taken -60% for %1s."
+msgstr "[Mastery] UNBROKEN LINE - monster damage taken -%1% for %2s."
+
+msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_BROKEN"
+msgstr "[Mastery] Unbroken Line ends - you are no longer carrying a shield."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_TAUNTED"
 msgstr "[Mastery] Unbroken Line - everything nearby turns on you."
@@ -11984,6 +12038,15 @@ msgstr "You are too close to a player city to mark this rune."
 
 msgid "NOTIFICATION_SKINNING_ALREADY_PERFORMED"
 msgstr "This corpse has already been skinned."
+
+msgid "NOTIFICATION_SLAYER"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_MILESTONE"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_REWARD"
+msgstr "%1"
 
 msgid "NOTIFICATION_SLOT_MACHINE_IN_USE"
 msgstr "The slot machine is currently in use.."

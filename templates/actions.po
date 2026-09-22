@@ -26,6 +26,21 @@ msgstr "CoordinatorActions"
 msgid "a_Crouch"
 msgstr "Crouch"
 
+msgid "a_Director_Add_Keyframe"
+msgstr "Director: Add Keyframe"
+
+msgid "a_Director_Play_Pause"
+msgstr "Director: Play / Pause"
+
+msgid "a_Director_Roll_Left"
+msgstr "Director: Roll Left"
+
+msgid "a_Director_Roll_Right"
+msgstr "Director: Roll Right"
+
+msgid "a_Director_Stop"
+msgstr "Director: Stop"
+
 msgid "a_Do_Camera_Back_View"
 msgstr "Do_Camera_Back_View"
 
@@ -179,6 +194,9 @@ msgstr "Toggle_Camera_Relation"
 msgid "a_Toggle_Camera_View"
 msgstr "Toggle_Camera_View"
 
+msgid "a_Toggle_Director_Camera"
+msgstr "Toggle Director Camera"
+
 msgid "a_Toggle_Enable_Alternative_Attack"
 msgstr "Toggle_Enable_Alternative_Attack"
 
@@ -240,6 +258,21 @@ msgstr "SuperAction of coordinater actions"
 
 msgid "desc_a_Crouch"
 msgstr "Description of a_Crouch"
+
+msgid "desc_a_Director_Add_Keyframe"
+msgstr "Adds the current camera pose as a keyframe"
+
+msgid "desc_a_Director_Play_Pause"
+msgstr "Plays or pauses the current camera path"
+
+msgid "desc_a_Director_Roll_Left"
+msgstr "Rolls the director camera left while held"
+
+msgid "desc_a_Director_Roll_Right"
+msgstr "Rolls the director camera right while held"
+
+msgid "desc_a_Director_Stop"
+msgstr "Stops playback or orbit and returns to free flight"
 
 msgid "desc_a_Do_Camera_Back_View"
 msgstr "Description of a_Do Camera Back View"
@@ -395,6 +428,9 @@ msgstr "Description of a_Toggle Camerarelation"
 
 msgid "desc_a_Toggle_Camera_View"
 msgstr " "
+
+msgid "desc_a_Toggle_Director_Camera"
+msgstr "Turns the director (media) camera on or off"
 
 msgid "desc_a_Toggle_Enable_Alternative_Attack"
 msgstr " "

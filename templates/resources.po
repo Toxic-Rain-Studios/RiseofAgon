@@ -180,6 +180,15 @@ msgstr "A pigment used to add color to a dye base."
 msgid "desc_r_Ancient Dragon"
 msgstr " "
 
+msgid "desc_r_Ancient Essence"
+msgstr ""
+"Power drawn from the dead. Use it to attune the essence into your pool."
+
+msgid "desc_r_Ancient Orb"
+msgstr ""
+"Older and colder than the lesser orbs, and far rarer. Only the mightiest "
+"carry one."
+
 msgid "desc_r_Ancient Quintessence"
 msgstr "Ingredient used for enchanting."
 
@@ -9449,6 +9458,35 @@ msgstr ""
 "This beautifully crafted shield is apparently not looking forward to "
 "blocking attacks."
 
+msgid "desc_r_Mastery Items"
+msgstr "Orbs, essence and sigils for the mastery paths."
+
+msgid "desc_r_Mastery Orb"
+msgstr ""
+"A knot of bound power, prised from something strong enough to be worth "
+"killing."
+
+msgid "desc_r_Mastery Sigil Berserker"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Blightcaller"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Cutthroat"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Deadeye"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Elementalist"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Oracle"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
+msgid "desc_r_Mastery Sigil Vanguard"
+msgstr "Carry it to your mastery window to take up the path. It is consumed."
+
 msgid "desc_r_Matayin"
 msgstr " "
 
@@ -10223,6 +10261,9 @@ msgstr "Press Use button to interact with the NPC."
 
 msgid "desc_r_NPC Ork Robe Female"
 msgstr "Press Use button to interact with the NPC."
+
+msgid "desc_r_NPC Ork Slayer Master"
+msgstr "Slayer Master Aero."
 
 msgid "desc_r_NPC Orks"
 msgstr " "
@@ -13239,6 +13280,87 @@ msgid "desc_r_Slavemaster"
 msgstr ""
 "Blood is smeared all over this powerful greatclub, and several of its spikes "
 "are bent or broken in half. "
+
+msgid "desc_r_Slayer Cache"
+msgstr "Press Use to open it. This requires a Slayer Cache Key."
+
+msgid "desc_r_Slayer Cache Key"
+msgstr "Opens a Slayer Cache."
+
+msgid "desc_r_Slayer Talisman Carved"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Exceptional"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Fine"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Immaculate"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Mythic"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Peerless"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Runed"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Superior"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Unidentified Exceptional"
+msgstr ""
+"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
+"Right-click to identify it."
+
+msgid "desc_r_Slayer Talisman Unidentified Fine"
+msgstr ""
+"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
+"Right-click to identify it."
+
+msgid "desc_r_Slayer Talisman Unidentified Immaculate"
+msgstr ""
+"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
+"Right-click to identify it."
+
+msgid "desc_r_Slayer Talisman Unidentified Peerless"
+msgstr ""
+"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
+"Right-click to identify it."
+
+msgid "desc_r_Slayer Talisman Unidentified Superior"
+msgstr ""
+"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
+"Right-click to identify it."
+
+msgid "desc_r_Slayer Talisman Vaulted"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
+
+msgid "desc_r_Slayer Talisman Worn"
+msgstr ""
+"A slayer's charm, carried in the rune book slot. Its power is whatever it "
+"was forged with - no two are alike."
 
 msgid "desc_r_Slitblade"
 msgstr ""
@@ -19118,6 +19240,57 @@ msgstr ""
 "\n"
 "A laugh that could make anyone happy."
 
+msgid "display_name_r_Slayer Cache"
+msgstr "Slayer Cache"
+
+msgid "display_name_r_Slayer Cache Key"
+msgstr "Slayer Cache Key"
+
+msgid "display_name_r_Slayer Talisman Carved"
+msgstr "Carved Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Exceptional"
+msgstr "Exceptional Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Fine"
+msgstr "Fine Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Immaculate"
+msgstr "Immaculate Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Mythic"
+msgstr "Mythic Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Peerless"
+msgstr "Peerless Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Runed"
+msgstr "Runed Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Superior"
+msgstr "Superior Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
+msgstr "Sealed Exceptional Talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Fine"
+msgstr "Sealed Fine Talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
+msgstr "Sealed Immaculate Talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Peerless"
+msgstr "Sealed Peerless Talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Superior"
+msgstr "Sealed Superior Talisman"
+
+msgid "display_name_r_Slayer Talisman Vaulted"
+msgstr "Vaulted Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Worn"
+msgstr "Worn Slayer Talisman"
+
 msgid "r_Aberrations"
 msgstr "Aberrations"
 
@@ -19252,6 +19425,12 @@ msgstr "Ancient Copper Pigment"
 
 msgid "r_Ancient Dragon"
 msgstr "Ancient Dragon"
+
+msgid "r_Ancient Essence"
+msgstr "Ancient Essence"
+
+msgid "r_Ancient Orb"
+msgstr "Ancient Orb"
 
 msgid "r_Ancient Quintessence"
 msgstr "Ancient Quintessence"
@@ -27545,6 +27724,33 @@ msgstr "Masks"
 msgid "r_Masquerade"
 msgstr "Masquerade"
 
+msgid "r_Mastery Items"
+msgstr "Mastery Items"
+
+msgid "r_Mastery Orb"
+msgstr "Mastery Orb"
+
+msgid "r_Mastery Sigil Berserker"
+msgstr "Sigil of the Berserker"
+
+msgid "r_Mastery Sigil Blightcaller"
+msgstr "Sigil of the Blightcaller"
+
+msgid "r_Mastery Sigil Cutthroat"
+msgstr "Sigil of the Cutthroat"
+
+msgid "r_Mastery Sigil Deadeye"
+msgstr "Sigil of the Deadeye"
+
+msgid "r_Mastery Sigil Elementalist"
+msgstr "Sigil of the Elementalist"
+
+msgid "r_Mastery Sigil Oracle"
+msgstr "Sigil of the Oracle"
+
+msgid "r_Mastery Sigil Vanguard"
+msgstr "Sigil of the Vanguard"
+
 msgid "r_Matayin"
 msgstr "Matayin"
 
@@ -31348,6 +31554,57 @@ msgstr "Slave of Khamset"
 
 msgid "r_Slavemaster"
 msgstr "Slavemaster"
+
+msgid "r_Slayer Cache"
+msgstr "Slayer Cache"
+
+msgid "r_Slayer Cache Key"
+msgstr "Slayer Cache Key"
+
+msgid "r_Slayer Talisman Carved"
+msgstr "Carved Slayer Talisman"
+
+msgid "r_Slayer Talisman Exceptional"
+msgstr "Exceptional Slayer Talisman"
+
+msgid "r_Slayer Talisman Fine"
+msgstr "Fine Slayer Talisman"
+
+msgid "r_Slayer Talisman Immaculate"
+msgstr "Immaculate Slayer Talisman"
+
+msgid "r_Slayer Talisman Mythic"
+msgstr "Mythic Slayer Talisman"
+
+msgid "r_Slayer Talisman Peerless"
+msgstr "Peerless Slayer Talisman"
+
+msgid "r_Slayer Talisman Runed"
+msgstr "Runed Slayer Talisman"
+
+msgid "r_Slayer Talisman Superior"
+msgstr "Superior Slayer Talisman"
+
+msgid "r_Slayer Talisman Unidentified Exceptional"
+msgstr "Sealed Exceptional Talisman"
+
+msgid "r_Slayer Talisman Unidentified Fine"
+msgstr "Sealed Fine Talisman"
+
+msgid "r_Slayer Talisman Unidentified Immaculate"
+msgstr "Sealed Immaculate Talisman"
+
+msgid "r_Slayer Talisman Unidentified Peerless"
+msgstr "Sealed Peerless Talisman"
+
+msgid "r_Slayer Talisman Unidentified Superior"
+msgstr "Sealed Superior Talisman"
+
+msgid "r_Slayer Talisman Vaulted"
+msgstr "Vaulted Slayer Talisman"
+
+msgid "r_Slayer Talisman Worn"
+msgstr "Worn Slayer Talisman"
 
 msgid "r_Slitblade"
 msgstr "Slitblade"

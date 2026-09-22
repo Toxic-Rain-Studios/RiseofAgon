@@ -5,6 +5,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "DUEL_HUD_DEFEAT"
+msgstr "Defeat. Your team lost."
+
+msgid "DUEL_HUD_DRAW"
+msgstr "Round ended without a winner."
+
+msgid "DUEL_HUD_ELIMINATED"
+msgstr "Eliminated - wait for the round to finish."
+
+msgid "DUEL_HUD_FIGHT"
+msgstr "Fight!"
+
+msgid "DUEL_HUD_ROUND_OVER"
+msgstr "Round complete."
+
+msgid "DUEL_HUD_VICTORY"
+msgstr "Victory! Your team won."
+
+msgid "DUEL_HUD_WAITING"
+msgstr "Waiting for players..."
+
 msgid "DUEL_STATUS_COUNTING_DOWN"
 msgstr "Duel about to start"
 
@@ -742,6 +763,158 @@ msgstr "description of command ai_test"
 
 msgid "chat_ai_cmd_ai_test_param1_desc"
 msgstr "description of command ai_test, parameter param1"
+
+msgid "chat_cam_cmd_desc"
+msgstr ""
+"director camera for capturing footage (GM only). /cam help lists the sub-"
+"commands"
+
+msgid "chat_cam_disabled"
+msgstr "director camera off"
+
+msgid "chat_cam_enabled"
+msgstr ""
+"director camera on. Fly with WASD, Q/E for up/down, wheel to change speed. /"
+"cam help for more"
+
+msgid "chat_cam_err_access"
+msgstr "the director camera requires a GM account"
+
+msgid "chat_cam_err_file"
+msgstr "could not read or write camera path '%1'"
+
+msgid "chat_cam_err_name"
+msgstr "path names may only use letters, digits, - and _"
+
+msgid "chat_cam_err_need_keys"
+msgstr "playback needs at least one keyframe (/cam key add)"
+
+msgid "chat_cam_err_not_enabled"
+msgstr "director camera is off. Use /cam on first"
+
+msgid "chat_cam_err_number"
+msgstr "'%1' is not a number"
+
+msgid "chat_cam_err_playing"
+msgstr "not while a path is playing. /cam stop first"
+
+msgid "chat_cam_err_target"
+msgstr "no target found. Select an object or use /cam target self"
+
+msgid "chat_cam_err_unknown"
+msgstr "unknown /cam sub-command '%1'. Use /cam help"
+
+msgid "chat_cam_help_1"
+msgstr ""
+"/cam on|off|status|reset|help - /cam speed <units/s>, accel <s>, decel <s>, "
+"look <s>, roll reset"
+
+msgid "chat_cam_help_2"
+msgstr ""
+"/cam key add|undo|clear|list|hold <s> - /cam duration <s>, ease linear|"
+"smooth, loop on|off"
+
+msgid "chat_cam_help_3"
+msgstr "/cam play|pause|stop - /cam save <name>, load <name>, paths"
+
+msgid "chat_cam_help_4"
+msgstr ""
+"/cam orbit [radius] [height] [deg/s], follow [distance] [height], free, "
+"target self|selected"
+
+msgid "chat_cam_help_5"
+msgstr ""
+"/cam hud on|off, self on|off, fov <deg>, farplane <units>  (keys: F10 "
+"toggle, INSERT key, HOME play/pause, END stop, PgUp/PgDn roll)"
+
+msgid "chat_cam_key_added"
+msgstr "keyframe %1 added (%2 total)"
+
+msgid "chat_cam_key_line"
+msgstr "key %1: %2 fov %3 hold %4s"
+
+msgid "chat_cam_key_removed"
+msgstr "last keyframe removed"
+
+msgid "chat_cam_keys_cleared"
+msgstr "all keyframes cleared"
+
+msgid "chat_cam_loaded"
+msgstr "camera path '%1' loaded (%2 keyframes)"
+
+msgid "chat_cam_mode"
+msgstr "camera mode: %1"
+
+msgid "chat_cam_param_arg"
+msgstr "argument for the sub-command"
+
+msgid "chat_cam_param_sub"
+msgstr ""
+"sub-command, e.g. on, off, speed, key, play, orbit, follow, hud, fov, "
+"status, help"
+
+msgid "chat_cam_paths"
+msgstr "saved camera paths: %1"
+
+msgid "chat_cam_paused"
+msgstr "camera path paused"
+
+msgid "chat_cam_playing"
+msgstr "playing camera path"
+
+msgid "chat_cam_reset_done"
+msgstr ""
+"director camera tuning, fov, far plane, hud and character visibility reset"
+
+msgid "chat_cam_saved"
+msgstr "camera path saved as '%1'"
+
+msgid "chat_cam_set_value"
+msgstr "%1 set to %2"
+
+msgid "chat_cam_status"
+msgstr ""
+"mode %1, speed %2, accel %3s, decel %4s, look %5s, keys %6, duration %7s, "
+"target %8"
+
+msgid "chat_cam_stopped"
+msgstr "camera stopped, free flight"
+
+msgid "chat_cam_target_info"
+msgstr "target %1 at %2, camera at %3"
+
+msgid "chat_cam_word_follow"
+msgstr "follow"
+
+msgid "chat_cam_word_free"
+msgstr "free"
+
+msgid "chat_cam_word_linear"
+msgstr "linear"
+
+msgid "chat_cam_word_none"
+msgstr "none"
+
+msgid "chat_cam_word_off"
+msgstr "off"
+
+msgid "chat_cam_word_on"
+msgstr "on"
+
+msgid "chat_cam_word_orbit"
+msgstr "orbit"
+
+msgid "chat_cam_word_playback"
+msgstr "playback"
+
+msgid "chat_cam_word_selected"
+msgstr "selected"
+
+msgid "chat_cam_word_self"
+msgstr "self"
+
+msgid "chat_cam_word_smooth"
+msgstr "smooth"
 
 msgid "chat_city_cmd_create_city"
 msgstr "Create City"
@@ -2772,6 +2945,9 @@ msgstr "Max"
 msgid "crafting_amount_label_text"
 msgstr "Amount:"
 
+msgid "crafting_blocked_pvp_combat"
+msgstr "You cannot craft in PvP combat."
+
 msgid "crafting_chances_label_text"
 msgstr "Chance of Success:"
 
@@ -2983,6 +3159,9 @@ msgstr "Owned only"
 msgid "dye_panel_slot_readout"
 msgstr "%1: %2"
 
+msgid "dye_panel_status_already"
+msgstr "Already dyed those colors."
+
 msgid "dye_panel_status_assign"
 msgstr "Select a dye to apply."
 
@@ -3019,8 +3198,11 @@ msgstr "Bind"
 msgid "emote_panel_button_preview"
 msgstr "Preview"
 
-msgid "emote_panel_combat_refuse"
-msgstr "You cannot open the emote panel while in combat."
+msgid "emote_panel_pvp_combat_closed"
+msgstr "PvP combat closed the emote panel."
+
+msgid "emote_panel_pvp_combat_refuse"
+msgstr "You cannot open the emote panel in PvP combat."
 
 msgid "emote_panel_tab_base"
 msgstr "Base"
@@ -4674,9 +4856,8 @@ msgstr "[Loadout] Generate: bag is empty - no loadout to create."
 msgid "loadout_generate_bag_not_found"
 msgstr "[Loadout] Generate: bag not found in your bank."
 
-msgid "loadout_generate_blocked_combat"
-msgstr ""
-"[Loadout] Generate blocked while in combat - try again when out of combat."
+msgid "loadout_generate_blocked_pvp_combat"
+msgstr "[Loadout] Generate blocked in PvP combat. %1 seconds left."
 
 msgid "loadout_generate_no_valid_entries"
 msgstr "[Loadout] Generate: no valid entries after sanitize."
@@ -4702,8 +4883,8 @@ msgstr "Loadout"
 msgid "loadout_label_loadouts_list"
 msgstr "Loadouts"
 
-msgid "loadout_loot_deposit_blocked_combat"
-msgstr "[Loot] Deposit blocked while in combat - try again when out of combat."
+msgid "loadout_loot_deposit_blocked_pvp_combat"
+msgstr "[Loot] Deposit blocked in PvP combat. %1 seconds left."
 
 msgid "loadout_loot_deposit_partial"
 msgstr "[Loot] Deposited %1 item(s); %2 could not be placed (bank full)."
@@ -5016,8 +5197,8 @@ msgstr "[Loadout] Missing %1x %2 - no replacement found in bank."
 msgid "loadout_resupply_missing_simple"
 msgstr "[Loadout] Missing %1x %2"
 
-msgid "loadout_sync_blocked_combat"
-msgstr "[Loadout] Sync blocked while in combat - try again when out of combat."
+msgid "loadout_sync_blocked_pvp_combat"
+msgstr "[Loadout] Sync blocked in PvP combat. %1 seconds left."
 
 msgid "loadout_sync_partial_full_bank"
 msgstr ""
@@ -6048,6 +6229,9 @@ msgstr "Activate %1"
 msgid "mastery_activate_current"
 msgstr "Active"
 
+msgid "mastery_activate_unlearned"
+msgstr "Learn %1 from a Mastery Keeper"
+
 msgid "mastery_active_header"
 msgstr "Active: %1"
 
@@ -6266,9 +6450,8 @@ msgstr "Crimson Communion"
 
 msgid "mastery_alt_cutthroat_gore_desc"
 msgstr ""
-"Every hit from behind adds a Gore stack, up to 10, and the wound bleeds 1.2% "
-"of your last hit every second per stack. Ten seconds without a hit and every "
-"stack is lost."
+"Every hit from behind adds a Gore stack, up to 10. The wound bleeds 1.2% of "
+"your last hit each second per stack. Ten seconds without a hit clears them."
 
 msgid "mastery_alt_cutthroat_gore_name"
 msgstr "Gore"
@@ -6609,32 +6792,20 @@ msgid "mastery_alt_oracle_sanctuary_desc"
 msgstr ""
 "ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
 "away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
-"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
+"seconds for 10 seconds, and monster spells and arrows cannot reach them. "
 "Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
 
 msgid "mastery_alt_oracle_sanctuary_name"
 msgstr "Sanctuary"
 
 msgid "mastery_alt_oracle_sanctuary_rank1"
-msgstr ""
-"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
-"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
-"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
-"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+msgstr "Restores 12 every 2 seconds for 13 seconds. 165 second cooldown."
 
 msgid "mastery_alt_oracle_sanctuary_rank2"
-msgstr ""
-"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
-"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
-"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
-"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+msgstr "Restores 14 every 2 seconds for 16 seconds. 150 second cooldown."
 
 msgid "mastery_alt_oracle_sanctuary_rank3"
-msgstr ""
-"ACTIVE: Hold for 2 seconds and release to place a sanctuary up to 30 metres "
-"away. Every player within 9 metres of it regains 10 mana and stamina every 2 "
-"seconds for 20 seconds, and monster spells and arrows cannot reach them. "
-"Ends if it reaches anyone marked by PvP combat. 3 minute cooldown."
+msgstr "Restores 16 every 2 seconds for 20 seconds. 135 second cooldown."
 
 msgid "mastery_alt_oracle_warding_desc"
 msgstr ""
@@ -6749,25 +6920,19 @@ msgstr "60 bonus damage."
 msgid "mastery_alt_vanguard_unbrokenline_desc"
 msgstr ""
 "ACTIVE: Every monster within 20 metres turns on you, and their damage to you "
-"is cut by 60% for 20 seconds. 3 minute cooldown."
+"is cut by 60% for 10 seconds. 3 minute cooldown."
 
 msgid "mastery_alt_vanguard_unbrokenline_name"
 msgstr "Unbroken Line"
 
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
-msgstr ""
-"ACTIVE: Every monster within 20 metres turns on you, and their damage to you "
-"is cut by 60% for 20 seconds. 3 minute cooldown."
+msgstr "Cut by 65% for 13 seconds. 165 second cooldown."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
-msgstr ""
-"ACTIVE: Every monster within 20 metres turns on you, and their damage to you "
-"is cut by 60% for 20 seconds. 3 minute cooldown."
+msgstr "Cut by 70% for 16 seconds. 150 second cooldown."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
-msgstr ""
-"ACTIVE: Every monster within 20 metres turns on you, and their damage to you "
-"is cut by 60% for 20 seconds. 3 minute cooldown."
+msgstr "Cut by 75% for 20 seconds. 135 second cooldown."
 
 msgid "mastery_alterations_caption"
 msgstr "Alterations"
@@ -6815,6 +6980,12 @@ msgstr "Essence %1"
 
 msgid "mastery_essence_value_capped"
 msgstr "Essence %1 / %2"
+
+msgid "mastery_gate_button"
+msgstr "Break the gate: %1 Mastery Orbs, %2 Ancient Orbs, %3 essence"
+
+msgid "mastery_gate_button_locked"
+msgstr "Reach level %1 to break the gate"
 
 msgid "mastery_hotbar_hint"
 msgstr "Drag the aura and abilities below onto your hotbar."
@@ -6954,6 +7125,9 @@ msgstr "Level %1   Tier %2"
 msgid "mastery_row_name_active"
 msgstr "%1  (active)"
 
+msgid "mastery_row_not_learned"
+msgstr "Not learned"
+
 msgid "mastery_swap_confirm"
 msgstr ""
 "Switch to %1 for %2 gold?\n"
@@ -6978,16 +7152,16 @@ msgid "mastery_track_header"
 msgstr "%1 Track"
 
 msgid "mastery_track_rule_cutthroat"
-msgstr "Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is disabled while you are marked by PvP combat."
 
 msgid "mastery_track_rule_deadeye"
-msgstr "Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is disabled while you are marked by PvP combat."
 
 msgid "mastery_track_rule_oracle"
-msgstr "Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is disabled while you are marked by PvP combat."
 
 msgid "mastery_track_rule_vanguard"
-msgstr "Every effect is sealed while you are marked by PvP combat."
+msgstr "Every effect is disabled while you are marked by PvP combat."
 
 msgid "mastery_tree_complete"
 msgstr "Mastery complete"
@@ -7429,6 +7603,9 @@ msgstr "Horizontal Item Counter"
 
 msgid "options_gui_itemcounter_size"
 msgstr "Item Counter Slots"
+
+msgid "options_gui_mob_health_bars"
+msgstr "Show health bars over monsters you attack"
 
 msgid "options_gui_scale"
 msgstr "GUI Scale %: %1"
@@ -8376,8 +8553,9 @@ msgstr "Customize your appearance"
 msgid "selector_of"
 msgstr "of"
 
-msgid "session_blocked_combat"
-msgstr "You cannot use crafting stations or the marketplace while in combat."
+msgid "session_blocked_pvp_combat"
+msgstr ""
+"You cannot craft or use the marketplace in PvP combat. %1 seconds left."
 
 msgid "skill_advancement_rate"
 msgstr "Skill advancement rate"
@@ -8498,6 +8676,9 @@ msgstr "Rime Covenant"
 
 msgid "skin_justicebringer_solar_tribunal"
 msgstr "Solar Tribunal"
+
+msgid "slayer_board_title"
+msgstr "Slayer Contract Board"
 
 msgid "slot_position_eight"
 msgstr "8"
