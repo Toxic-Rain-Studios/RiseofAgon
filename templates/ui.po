@@ -7592,6 +7592,9 @@ msgstr "Add recalled lines to history"
 msgid "options_gui_hotbar_autocollapse"
 msgstr "Hotbar Autocollapse"
 
+msgid "options_gui_hotbar_horizontal"
+msgstr "Horizontal hotbar"
+
 msgid "options_gui_identify_distant_targets"
 msgstr "Identify Distant Targets"
 
@@ -7603,6 +7606,9 @@ msgstr "Horizontal Item Counter"
 
 msgid "options_gui_itemcounter_size"
 msgstr "Item Counter Slots"
+
+msgid "options_gui_mob_cast_bars"
+msgstr "Show cast bars over monsters that are casting"
 
 msgid "options_gui_mob_health_bars"
 msgstr "Show health bars over monsters you attack"
