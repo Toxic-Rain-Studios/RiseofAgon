@@ -30130,8 +30130,14 @@ msgstr "Greater Magic: Missile Fury"
 msgid "name_quest_11055"
 msgstr "Fish for the Garrison"
 
+msgid "name_quest_11056"
+msgstr "Shortbows for the Garrison"
+
 msgid "name_quest_11057"
 msgstr "Lesser Magic: Eldritch Sphere"
+
+msgid "name_quest_11058"
+msgstr "Healing Potions for the Garrison"
 
 msgid "name_quest_11059"
 msgstr "Selling Great Mauls to Shoal"
@@ -30210,6 +30216,9 @@ msgstr "Hivekin on the Road"
 
 msgid "name_quest_11084"
 msgstr "WitchCraft: Needles"
+
+msgid "name_quest_11085"
+msgstr "Ride Them Down"
 
 msgid "name_quest_12000"
 msgstr "Goblins East of Flaming Skull"
@@ -30358,8 +30367,14 @@ msgstr "Greater Magic: Missile Fury"
 msgid "name_quest_12055"
 msgstr "Fish for the Warband"
 
+msgid "name_quest_12056"
+msgstr "Shortbows for the Warband"
+
 msgid "name_quest_12057"
 msgstr "Lesser Magic: Eldritch Sphere"
+
+msgid "name_quest_12058"
+msgstr "Healing Potions for the Warband"
 
 msgid "name_quest_12059"
 msgstr "Selling Great Mauls to Flaming Skull"
@@ -30438,6 +30453,9 @@ msgstr "Trolls on the Road"
 
 msgid "name_quest_12084"
 msgstr "WitchCraft: Needles"
+
+msgid "name_quest_12085"
+msgstr "Ride Them Down"
 
 msgid "name_quest_20000"
 msgstr "Goblins South of Sanguine"
@@ -41036,8 +41054,14 @@ msgstr "Use Missile Fury 20 times against Monsters"
 msgid "short_desc_quest_11055"
 msgstr "Craft 10 Cooked Cod, 10 Cooked Trout, and 10 Tasty Herring"
 
+msgid "short_desc_quest_11056"
+msgstr "Collect 25 Shortbows"
+
 msgid "short_desc_quest_11057"
 msgstr "Use Eldritch Sphere 20 times against Monsters"
+
+msgid "short_desc_quest_11058"
+msgstr "Craft 25 Minor Healing Potions"
 
 msgid "short_desc_quest_11059"
 msgstr "Deliver 20 Great Mauls"
@@ -41116,6 +41140,9 @@ msgstr "Kill 10 Hivekin Soldiers"
 
 msgid "short_desc_quest_11084"
 msgstr "Cast Needles 20 times on monsters"
+
+msgid "short_desc_quest_11085"
+msgstr "Attack Goblins 8 Times While Mounted"
 
 msgid "short_desc_quest_12000"
 msgstr "Kill 10 Goblins"
@@ -41267,8 +41294,14 @@ msgstr "Use Missile Fury 20 times against Monsters"
 msgid "short_desc_quest_12055"
 msgstr "Craft 10 Cooked Cod, 10 Cooked Trout, and 10 Tasty Herring"
 
+msgid "short_desc_quest_12056"
+msgstr "Collect 25 Shortbows"
+
 msgid "short_desc_quest_12057"
 msgstr "Use Eldritch Sphere 20 times against Monsters"
+
+msgid "short_desc_quest_12058"
+msgstr "Craft 25 Minor Healing Potions"
 
 msgid "short_desc_quest_12059"
 msgstr "Deliver 20 Great Mauls"
@@ -41347,6 +41380,9 @@ msgstr "Kill 10 Trolls"
 
 msgid "short_desc_quest_12084"
 msgstr "Cast Needles 20 times on monsters"
+
+msgid "short_desc_quest_12085"
+msgstr "Attack Goblins 8 Times While Mounted"
 
 msgid "short_desc_quest_20000"
 msgstr "Kill 10 Goblins"
@@ -53167,6 +53203,14 @@ msgstr ""
 "  \rBring 10 Cooked Cod, 10 Cooked Trout, and 10 Tasty Herring to Kaelit the "
 "Merchant in Deep Yishku."
 
+msgid "start_text_quest_11056"
+msgstr ""
+"If the garrison is to drive these goblins back, it needs more bows than the "
+"armoury holds.\r\n"
+"  \rApply yourself at the woodworking bench and craft more. I may find "
+"further use for you afterwards.\r\n"
+"  \rCollect 25 Shortbows and bring them to Raenthar the Fighter."
+
 msgid "start_text_quest_11057"
 msgstr ""
 "Even though you can now cast some Greater Magic spells, you should still "
@@ -53175,6 +53219,14 @@ msgstr ""
 "requires no reagents to cast. It has saved many a mage caught at a "
 "disadvantage.\r\n"
 "  \rUse Eldritch Sphere 20 times against Monsters."
+
+msgid "start_text_quest_11058"
+msgstr ""
+"The garrison bleeds, and it will bleed more while these goblins persist. I "
+"will not have acolytes wasted on wounds a potion can close.\r\n"
+"  \rPrepare another batch of Minor Healing Potions for me to distribute "
+"among the troops.\r\n"
+"  \rCraft 25 Minor Healing Potions."
 
 msgid "start_text_quest_11059"
 msgstr ""
@@ -53428,6 +53480,15 @@ msgstr ""
 "  \rIt is best used against groups of enemies, and it will help you master "
 "WitchCraft so that you can learn more useful spells afterwards.\r\n"
 "  \rCast Needles 20 times on monsters"
+
+msgid "start_text_quest_11085"
+msgstr ""
+"The goblin army is broken, yet stragglers still haunt the roads and trouble "
+"our caravans.\r\n"
+"  \rTeach them what it means to raise a hand against Nagast. Stay mounted "
+"and ride straight through them, cutting them down as you pass. Then carry "
+"word of it south to Ensharra in Shoal.\r\n"
+"  \rAttack Goblins 8 Times While Mounted."
 
 msgid "start_text_quest_12000"
 msgstr ""
@@ -54025,6 +54086,13 @@ msgstr ""
 "  \rBring 10 Cooked Cod, 10 Cooked Trout, and 10 Tasty Herring to Azog the "
 "Merchant in Nerzok."
 
+msgid "start_text_quest_12056"
+msgstr ""
+"If the warband is going to push these goblins back, it needs more bows.\r\n"
+"  \rGet to the woodworking bench and craft them. I may have more work for "
+"you after, if you can handle it.\r\n"
+"  \rCollect 25 Shortbows and bring them to Biggor the Fighter."
+
 msgid "start_text_quest_12057"
 msgstr ""
 "Even though you can start casting some Greater Magic spells, you should "
@@ -54033,6 +54101,14 @@ msgstr ""
 "  \rEldritch Sphere a stronger damage spell than Mana Missile, and requires "
 "no reagents to cast. It has helped many a mage out in a bind!\r\n"
 "  \rUse Eldritch Sphere 20 times against Monsters."
+
+msgid "start_text_quest_12058"
+msgstr ""
+"The warband is taking wounds faster than I can close them, and the goblins "
+"are not done.\r\n"
+"  \rBrew another batch of Minor Healing Potions for me to hand out to the "
+"fighters.\r\n"
+"  \rCraft 25 Minor Healing Potions."
 
 msgid "start_text_quest_12059"
 msgstr ""
@@ -54285,6 +54361,15 @@ msgstr ""
 "  \rIt is best used against groups of enemies, and will help you master "
 "WitchCraft so you can learn more useful spells afterwards.\r\n"
 "  \rCast Needles 20 times on monsters"
+
+msgid "start_text_quest_12085"
+msgstr ""
+"The goblin army is smashed, but stragglers still prowl the roads and harass "
+"our traders.\r\n"
+"  \rShow them what happens to anyone who tests Morak. Stay mounted and "
+"charge straight through them, hacking and smashing the whole way. Then take "
+"word of it north-west to Izkruul in Flaming Skull.\r\n"
+"  \rAttack Goblins 8 Times While Mounted."
 
 msgid "start_text_quest_20000"
 msgstr "Go South and Kill 10 Goblins."
