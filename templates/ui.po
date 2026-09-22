@@ -7844,6 +7844,9 @@ msgstr "Enable Auto Optimization."
 msgid "options_video_auto_optimize_target_fps"
 msgstr "If FPS drop below %1 Auto Optimization will kick in."
 
+msgid "options_video_background_frame_cap"
+msgstr "Limit frame rate while the game is in the background (30 fps)"
+
 msgid "options_video_defaults_confirmation"
 msgstr "Are you sure you want to reset all Video settings to their defaults?"
 
