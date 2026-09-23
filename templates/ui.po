@@ -7840,10 +7840,22 @@ msgid "options_title_weapon_bar_entry"
 msgstr "Weapon Bar Entry Options"
 
 msgid "options_video_animation_reduction_per_meter"
-msgstr "Reduction of animation quality per meter."
+msgstr "Reduction of animation quality per meter. (inactive)"
+
+msgid "options_video_animation_reduction_per_meter_tooltip"
+msgstr "Has no effect at present - see Enable quality reduction of animations."
+
+msgid "options_video_animation_reduction_per_meter_tooltip_perf"
+msgstr "Performance: none"
 
 msgid "options_video_animation_reduction_start"
-msgstr "Minimum distance to start animation quality reduction."
+msgstr "Minimum distance to start animation quality reduction. (inactive)"
+
+msgid "options_video_animation_reduction_start_tooltip"
+msgstr "Has no effect at present - see Enable quality reduction of animations."
+
+msgid "options_video_animation_reduction_start_tooltip_perf"
+msgstr "Performance: none"
 
 msgid "options_video_antialiasing_quality"
 msgstr "Anti-Aliasing (Supersampling): %1"
@@ -7866,8 +7878,35 @@ msgstr "Enable Auto Optimization."
 msgid "options_video_auto_optimize_target_fps"
 msgstr "If FPS drop below %1 Auto Optimization will kick in."
 
+msgid "options_video_auto_optimize_target_fps_tooltip"
+msgstr ""
+"The frame rate Auto Optimization tries to hold. It only does anything while "
+"Enable Auto Optimization is ticked."
+
+msgid "options_video_auto_optimize_target_fps_tooltip_perf"
+msgstr "Performance: sets the target, no cost of its own"
+
+msgid "options_video_auto_optimize_tooltip"
+msgstr ""
+"Watches your frame rate and, when it falls below the figure set underneath, "
+"automatically becomes more aggressive about not drawing small distant "
+"objects. It relaxes again once the frame rate recovers."
+
+msgid "options_video_auto_optimize_tooltip_perf"
+msgstr "Performance: helps when struggling, costs nothing otherwise"
+
 msgid "options_video_background_frame_cap"
 msgstr "Limit frame rate while the game is in the background (30 fps)"
+
+msgid "options_video_background_frame_cap_tooltip"
+msgstr ""
+"Caps the frame rate to 30 while the game window is not focused, so the card "
+"is not running flat out for a window you are not looking at. Leave this on "
+"unless you are measuring performance, since it will hold you at 30 whenever "
+"you alt-tab away."
+
+msgid "options_video_background_frame_cap_tooltip_perf"
+msgstr "Performance: a saving while in the background"
 
 msgid "options_video_defaults_confirmation"
 msgstr "Are you sure you want to reset all Video settings to their defaults?"
@@ -7887,7 +7926,15 @@ msgid "options_video_displaymodelist"
 msgstr "Select display resolution."
 
 msgid "options_video_enable_animation_reduction"
-msgstr "Enable quality reduction of animations."
+msgstr "Enable quality reduction of animations. (inactive - no effect)"
+
+msgid "options_video_enable_animation_reduction_tooltip"
+msgstr ""
+"Has no effect at present. The setting is stored and remembered, but nothing "
+"reads it, so animations are not reduced at any distance."
+
+msgid "options_video_enable_animation_reduction_tooltip_perf"
+msgstr "Performance: none"
 
 msgid "options_video_enable_antialiasing"
 msgstr "Enable antialiasing."
@@ -7974,12 +8021,47 @@ msgstr "Enable Object Clipping"
 msgid "options_video_object_clipping_max_function_value"
 msgstr "Maximum function value to clip (Lower value=bigger chance to clip)."
 
+msgid "options_video_object_clipping_max_function_value_tooltip"
+msgstr ""
+"How aggressively objects are clipped. A lower value clips more, at the cost "
+"of objects disappearing closer to you. Only applies while Object Clipping is "
+"enabled."
+
+msgid "options_video_object_clipping_max_function_value_tooltip_perf"
+msgstr "Performance: lower saves more"
+
 msgid "options_video_object_clipping_max_size_to_clip"
 msgstr "Maximum Size of object to clip."
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip"
+msgstr ""
+"Objects larger than this are never clipped, however far away they are, so "
+"that landmarks and buildings do not vanish. Only applies while Object "
+"Clipping is enabled."
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip_perf"
+msgstr "Performance: higher clips more, so saves more"
+
+msgid "options_video_object_clipping_tooltip"
+msgstr ""
+"Stops drawing objects once they are small enough on screen not to be missed "
+"- a crate at a distance rather than a building. One of the cheapest ways to "
+"buy frame rate, and on by default."
+
+msgid "options_video_object_clipping_tooltip_perf"
+msgstr "Performance: a saving - turning this OFF costs frame rate"
 
 msgid "options_video_object_min_distance_to_clip"
 msgstr ""
 "Minimum distance an object has to be before it can potentially clipped."
+
+msgid "options_video_object_min_distance_to_clip_tooltip"
+msgstr ""
+"Nothing closer to you than this is ever clipped, so objects never vanish "
+"from under your feet. Only applies while Object Clipping is enabled."
+
+msgid "options_video_object_min_distance_to_clip_tooltip_perf"
+msgstr "Performance: lower saves more"
 
 msgid "options_video_shader_version"
 msgstr "Select Shader Version"
@@ -8071,6 +8153,15 @@ msgstr "Performance: major - HIGHER values cost more"
 
 msgid "options_video_view_distance"
 msgstr "View Distance: %1 m"
+
+msgid "options_video_view_distance_tooltip"
+msgstr ""
+"How far into the distance the world is drawn. The cost depends heavily on "
+"where you are - open terrain with a long sightline is far more expensive "
+"than a dungeon or a city street."
+
+msgid "options_video_view_distance_tooltip_perf"
+msgstr "Performance: medium, and varies by location"
 
 msgid "options_video_wait_for_vsync"
 msgstr "Wait for vertical sync on monitor."
