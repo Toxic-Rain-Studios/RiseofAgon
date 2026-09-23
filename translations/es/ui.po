@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-21 22:04+0000\n"
+"PO-Revision-Date: 2026-09-23 13:53+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -2868,6 +2868,7 @@ msgstr "Comprar"
 msgid "journal_meditation_buy_confirm_button"
 msgstr "Confirmar Compra"
 
+#, fuzzy
 msgid "journal_meditation_buy_label"
 msgstr "Comprar puntos de meditación (1 oro cada uno)"
 
@@ -4372,6 +4373,7 @@ msgstr "Seleccionar nivel de anisotropía de texturas"
 msgid "options_video_texture_filtering"
 msgstr "Seleccionar filtrado de texturas"
 
+#, fuzzy
 msgid "options_video_texture_quality"
 msgstr "Seleccionar calidad de textura (se recomienda el predeterminado)"
 
