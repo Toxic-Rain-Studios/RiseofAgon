@@ -12232,7 +12232,9 @@ msgstr ""
 "^Cdarkfall^You have been rewarded ^Cwhite^%1 ^Cdarkfall^Meditation Points."
 
 msgid "NOTIFICATION_TASK_TAB_REWARD"
-msgstr "^Cdarkfall^You have been rewarded ^Cwhite^%2 ^Cdarkfall^%1."
+msgstr ""
+"^Cdarkfall^You have been rewarded ^Cwhite^%2 ^Cdarkfall^%1. ^Cwhite^(sent to "
+"your bank)"
 
 msgid "NOTIFICATION_TASK_TAB_STAGE_COMPLETED"
 msgstr "You have completed stage ^Cdarkfall^%1 of task ^Cdarkfall^%2."
@@ -12241,7 +12243,8 @@ msgid "NOTIFICATION_TASK_TAB_TASK_COMPLETED"
 msgstr "Congratulations! You have completed task ^Cdarkfall^%1."
 
 msgid "NOTIFICATION_TASK_TAB_TASK_RARE_REWARD"
-msgstr "Congratulations, you received a rare reward!"
+msgstr ""
+"Congratulations, you received a rare reward! ^Cwhite^(sent to your bank)"
 
 msgid "NOTIFICATION_TASK_TAB_TASK_UNLOCKED"
 msgstr "^Cacid^Time has ran out! Task '%1' has been reset!"
