@@ -8188,6 +8188,67 @@ msgstr ""
 msgid "options_video_object_min_distance_to_clip_tooltip_perf"
 msgstr "Performance: lower saves more"
 
+msgid "options_video_preset_max"
+msgstr "Max"
+
+msgid "options_video_preset_max_tooltip"
+msgstr ""
+"Everything at maximum. Expect a large drop even on strong hardware. If it is "
+"too heavy, these are the settings that cost the most, in order - turn them "
+"down before anything else:"
+
+msgid "options_video_preset_max_tooltip_2"
+msgstr ""
+"1. Anti-Aliasing (Supersampling) - Effects tab. By far the largest: 4x costs "
+"roughly three quarters of your frame rate. Dropping to 2x recovers nearly "
+"all of it."
+
+msgid "options_video_preset_max_tooltip_3"
+msgstr ""
+"2. Enable Shadows and Shadow Quality - Lighting tab. Scenery shadows are the "
+"larger half."
+
+msgid "options_video_preset_max_tooltip_4"
+msgstr ""
+"3. Maximum Number of Dynamic Lights - Lighting tab. Costs more while "
+"supersampling is on."
+
+msgid "options_video_preset_max_tooltip_5"
+msgstr ""
+"4. Vegetation Density and Area Size - Quality tab. A smaller area costs "
+"MORE, not less."
+
+msgid "options_video_preset_max_tooltip_6"
+msgstr "5. View Distance - Performance tab. Matters most on open terrain."
+
+msgid "options_video_preset_max_tooltip_perf"
+msgstr "Performance: very demanding"
+
+msgid "options_video_preset_medium"
+msgstr "Medium"
+
+msgid "options_video_preset_medium_tooltip"
+msgstr ""
+"The recommended setting. Shadows, lighting and effects on at sensible "
+"quality, with supersampling at 2x - which costs little, unlike 4x. This is "
+"what most machines should run."
+
+msgid "options_video_preset_medium_tooltip_perf"
+msgstr "Performance: balanced"
+
+msgid "options_video_preset_minimum"
+msgstr "Minimum"
+
+msgid "options_video_preset_minimum_tooltip"
+msgstr ""
+"Everything at its cheapest: no supersampling, no shadows, no dynamic lights, "
+"minimal vegetation and effects off. FXAA stays on because it smooths edges "
+"for almost nothing. For the lowest-end machines, or when you want every "
+"frame you can get."
+
+msgid "options_video_preset_minimum_tooltip_perf"
+msgstr "Performance: fastest"
+
 msgid "options_video_shader_version"
 msgstr "Select Shader Version"
 
