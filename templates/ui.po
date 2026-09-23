@@ -7860,6 +7860,17 @@ msgstr "Performance: none"
 msgid "options_video_antialiasing_quality"
 msgstr "Anti-Aliasing (Supersampling): %1"
 
+msgid "options_video_antialiasing_quality_tooltip"
+msgstr ""
+"Smooths jagged edges by rendering the scene larger than your screen and "
+"shrinking it down. This is the single most expensive setting in the game: "
+"measured in a field test, 2x cost about 1.5ms a frame while 4x cost around "
+"14ms - roughly three quarters of the frame rate. Use FXAA instead if you "
+"want smooth edges cheaply."
+
+msgid "options_video_antialiasing_quality_tooltip_perf"
+msgstr "Performance: 2x medium, 4x MAJOR"
+
 msgid "options_video_antialiasing_tier_1_5x"
 msgstr "1.5x"
 
@@ -7942,29 +7953,106 @@ msgstr "Enable antialiasing."
 msgid "options_video_enable_character_shadows"
 msgstr "Enable Character Shadows."
 
+msgid "options_video_enable_character_shadows_tooltip"
+msgstr ""
+"Whether players, mounts and monsters cast shadows. Cheaper than scenery "
+"shadows in most places, but rises with the number of characters on screen, "
+"so it costs most in a crowded fight."
+
+msgid "options_video_enable_character_shadows_tooltip_perf"
+msgstr "Performance: medium"
+
 msgid "options_video_enable_drop_shadows"
 msgstr "Enable Drop Shadows"
+
+msgid "options_video_enable_drop_shadows_tooltip"
+msgstr ""
+"A separate, simpler shadow beneath objects, drawn by an older path than the "
+"shadow map above. Useful as a cheaper hint of grounding when the main "
+"shadows are off."
+
+msgid "options_video_enable_drop_shadows_tooltip_perf"
+msgstr "Performance: minor"
 
 msgid "options_video_enable_filmic_tone"
 msgstr "Enable Filmic Tone Mapping"
 
+msgid "options_video_enable_filmic_tone_tooltip"
+msgstr ""
+"Applies a film-like curve to the final image, pulling back blown-out "
+"highlights and deepening shadows rather than clipping them."
+
+msgid "options_video_enable_filmic_tone_tooltip_perf"
+msgstr "Performance: minor"
+
 msgid "options_video_enable_fxaa"
 msgstr "Enable FXAA (fast antialiasing)."
+
+msgid "options_video_enable_fxaa_tooltip"
+msgstr ""
+"A cheap edge smoothing pass applied after the scene is drawn. Much softer in "
+"effect than supersampling, and nearly free - it is the sensible choice on "
+"most machines."
+
+msgid "options_video_enable_fxaa_tooltip_perf"
+msgstr "Performance: minimal"
 
 msgid "options_video_enable_godrays"
 msgstr "Enable God Rays"
 
+msgid "options_video_enable_godrays_tooltip"
+msgstr ""
+"Visible shafts of light through gaps in geometry, such as sun through trees "
+"or a doorway."
+
+msgid "options_video_enable_godrays_tooltip_perf"
+msgstr "Performance: medium"
+
 msgid "options_video_enable_post_process_effects"
 msgstr "Enable Post Process Effects."
+
+msgid "options_video_enable_post_process_effects_tooltip"
+msgstr ""
+"The master switch for screen-space effects applied after the world is drawn, "
+"such as tone mapping and god rays. Turning it off skips that whole stage."
+
+msgid "options_video_enable_post_process_effects_tooltip_perf"
+msgstr "Performance: medium"
 
 msgid "options_video_enable_scenery_shadows"
 msgstr "Enable Scenery Shadows."
 
+msgid "options_video_enable_scenery_shadows_tooltip"
+msgstr ""
+"Whether world geometry - buildings, trees, terrain features - casts shadows. "
+"Usually the larger half of the shadow cost, since there is far more scenery "
+"than there are characters."
+
+msgid "options_video_enable_scenery_shadows_tooltip_perf"
+msgstr "Performance: medium to major"
+
 msgid "options_video_enable_shadows"
 msgstr "Enable Shadows."
 
+msgid "options_video_enable_shadows_tooltip"
+msgstr ""
+"The master switch for shadows cast into the world. Turning this off removes "
+"the whole shadow pass and is one of the largest single savings available, at "
+"an obvious cost to how the world looks."
+
+msgid "options_video_enable_shadows_tooltip_perf"
+msgstr "Performance: major"
+
 msgid "options_video_enable_ssao"
 msgstr "Enable Ambient Occlusion (SSAO)"
+
+msgid "options_video_enable_ssao_tooltip"
+msgstr ""
+"Adds soft contact shadowing where surfaces meet - under eaves, in corners, "
+"where objects touch the ground. Adds depth without affecting real shadows."
+
+msgid "options_video_enable_ssao_tooltip_perf"
+msgstr "Performance: minor"
 
 msgid "options_video_enable_triple_buffering"
 msgstr "Enable triple buffering."
@@ -7979,6 +8067,15 @@ msgstr "Performance: negligible"
 
 msgid "options_video_filmic_tone_strength"
 msgstr "Filmic Tone Mapping Strength"
+
+msgid "options_video_filmic_tone_strength_tooltip"
+msgstr ""
+"How strongly the filmic curve is applied. Higher means more contrast and a "
+"stronger rolloff in bright areas; lower keeps the image closer to how the "
+"engine rendered it. Purely a look preference."
+
+msgid "options_video_filmic_tone_strength_tooltip_perf"
+msgstr "Performance: none beyond the effect itself"
 
 msgid "options_video_fov"
 msgstr "Field of View: %1"
@@ -8003,6 +8100,14 @@ msgstr "Performance: none"
 msgid "options_video_godray_intensity"
 msgstr "God Ray Intensity"
 
+msgid "options_video_godray_intensity_tooltip"
+msgstr ""
+"How pronounced the light shafts are. Changes the look rather than the amount "
+"of work, so the cost is in having God Rays enabled at all."
+
+msgid "options_video_godray_intensity_tooltip_perf"
+msgstr "Performance: none beyond the effect itself"
+
 msgid "options_video_label_resolution"
 msgstr "Screen resolution"
 
@@ -8012,8 +8117,28 @@ msgstr "Maximum Number of Bloodstains: %1"
 msgid "options_video_maxnumdynamiclight"
 msgstr "Maximum Number of Dynamic Lights: %1"
 
+msgid "options_video_maxnumdynamiclight_tooltip"
+msgstr ""
+"How many nearby light sources - torches, lava, spells - can light the world "
+"at once. Only lights within about 350m of you count toward this, so empty "
+"areas cost nothing. Note that the cost rises with supersampling, because the "
+"lighting pass runs at the enlarged resolution."
+
+msgid "options_video_maxnumdynamiclight_tooltip_perf"
+msgstr "Performance: medium"
+
 msgid "options_video_maxnumparticles"
 msgstr "Maximum Number of Particle Effects: %1"
+
+msgid "options_video_maxnumparticles_tooltip"
+msgstr ""
+"How many particle effects can run at once - spell impacts, fire, blood, "
+"weather. Costs nothing while nothing is happening, and most during a busy "
+"fight, so lowering it mainly helps in the moments where frame rate matters "
+"most."
+
+msgid "options_video_maxnumparticles_tooltip_perf"
+msgstr "Performance: minor when quiet, higher in heavy combat"
 
 msgid "options_video_object_clipping"
 msgstr "Enable Object Clipping"
@@ -8069,8 +8194,26 @@ msgstr "Select Shader Version"
 msgid "options_video_shadow_quality"
 msgstr "Select Quality of Shadows"
 
+msgid "options_video_shadow_quality_tooltip"
+msgstr ""
+"The resolution of the shadow map, from 1024 at Low up to 8192 at Max. Higher "
+"means crisper shadow edges rather than blocky ones; each step up quadruples "
+"the number of shadow pixels drawn."
+
+msgid "options_video_shadow_quality_tooltip_perf"
+msgstr "Performance: medium to major at the top end"
+
 msgid "options_video_shadow_smoothing"
 msgstr "Select Quality of Shadowsmoothing"
+
+msgid "options_video_shadow_smoothing_tooltip"
+msgstr ""
+"How much work goes into softening the edge of a shadow. Higher settings "
+"sample the shadow map more times per pixel, trading frame rate for edges "
+"that look soft instead of jagged."
+
+msgid "options_video_shadow_smoothing_tooltip_perf"
+msgstr "Performance: medium"
 
 msgid "options_video_tab_display"
 msgstr "Display"
