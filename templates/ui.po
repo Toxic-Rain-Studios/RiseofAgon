@@ -7963,16 +7963,16 @@ msgid "options_video_enable_character_shadows_tooltip_perf"
 msgstr "Performance: medium"
 
 msgid "options_video_enable_drop_shadows"
-msgstr "Enable Drop Shadows"
+msgstr "Enable Drop Shadows (inactive - no effect)"
 
 msgid "options_video_enable_drop_shadows_tooltip"
 msgstr ""
-"A separate, simpler shadow beneath objects, drawn by an older path than the "
-"shadow map above. Useful as a cheaper hint of grounding when the main "
-"shadows are off."
+"Has no effect at present. The drop shadow system is still built and kept "
+"alive, but the call that would draw it is commented out in the renderer, so "
+"toggling this changes nothing you can see."
 
 msgid "options_video_enable_drop_shadows_tooltip_perf"
-msgstr "Performance: minor"
+msgstr "Performance: none"
 
 msgid "options_video_enable_filmic_tone"
 msgstr "Enable Filmic Tone Mapping"
