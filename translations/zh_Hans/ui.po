@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-21 22:04+0000\n"
+"PO-Revision-Date: 2026-09-23 13:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -1002,6 +1002,7 @@ msgstr "启用投下阴影"
 msgid "options_video_shader_version"
 msgstr "选择着色器版本"
 
+#, fuzzy
 msgid "options_video_texture_quality"
 msgstr "选择纹理质量(默认为推荐)"
 
