@@ -8008,17 +8008,66 @@ msgstr "Quality"
 msgid "options_video_texture_anisotropy_level"
 msgstr "Select Texture Anisotropy Level"
 
+msgid "options_video_texture_anisotropy_level_tooltip"
+msgstr ""
+"How sharp textures stay when viewed at a steep angle, such as ground "
+"stretching away from you. Higher keeps detail out to the horizon instead of "
+"blurring into mush a few paces ahead. Only applies while Texture Filtering "
+"is set to Anisotropic."
+
+msgid "options_video_texture_anisotropy_level_tooltip_perf"
+msgstr "Performance: minor"
+
 msgid "options_video_texture_filtering"
 msgstr "Select Texture Filtering"
+
+msgid "options_video_texture_filtering_tooltip"
+msgstr ""
+"How textures are sampled and blended between detail levels. Anisotropic is "
+"the sharpest and is the recommended setting."
+
+msgid "options_video_texture_filtering_tooltip_perf"
+msgstr "Performance: minor"
 
 msgid "options_video_texture_quality"
 msgstr "Select Texture Quality (inactive - no effect)"
 
+msgid "options_video_texture_quality_tooltip"
+msgstr ""
+"Has no effect at present. The setting is stored and remembered, but never "
+"reaches the renderer, so changing it will not alter how the game looks or "
+"runs."
+
+msgid "options_video_texture_quality_tooltip_perf"
+msgstr "Performance: none"
+
 msgid "options_video_vegetation_area_size"
 msgstr "Vegetation Area Size: %1"
 
+msgid "options_video_vegetation_area_size_tooltip"
+msgstr ""
+"The radius that grass is scattered over. This works together with Vegetation "
+"Density: the number of plants is capped, so a SMALLER area packs that same "
+"number closer to you - thicker grass, and a heavier load because more of it "
+"fills the screen. A larger area spreads the plants thinner but draws them "
+"further into the distance."
+
+msgid "options_video_vegetation_area_size_tooltip_perf"
+msgstr "Performance: major - LOWER values cost more"
+
 msgid "options_video_vegetation_density"
 msgstr "Vegetation Density: %1"
+
+msgid "options_video_vegetation_density_tooltip"
+msgstr ""
+"How many plants are scattered. This works together with Vegetation Area "
+"Size: more plants is a heavier load, and at the maximum the scatter stops "
+"placing any extra ones, so going higher would only cost memory. Combine with "
+"a small area for thick grass close by, or a large area for sparse grass that "
+"reaches further."
+
+msgid "options_video_vegetation_density_tooltip_perf"
+msgstr "Performance: major - HIGHER values cost more"
 
 msgid "options_video_view_distance"
 msgstr "View Distance: %1 m"
