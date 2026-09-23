@@ -7616,6 +7616,11 @@ msgstr "Monster health bars"
 msgid "options_gui_scale"
 msgstr "GUI Scale %: %1"
 
+msgid "options_gui_scale_tooltip"
+msgstr ""
+"Performance: negligible. Increases or decreases the size of GUI windows. "
+"Values other than 100% can push windows off screen."
+
 msgid "options_gui_show_buff_timers"
 msgstr "Show Buff Timers"
 
@@ -7750,6 +7755,11 @@ msgstr "Worldmap Options"
 
 msgid "options_maxfps"
 msgstr "Maximum FPS: %1"
+
+msgid "options_maxfps_tooltip"
+msgstr ""
+"Caps the frame rate at a chosen maximum. Useful to stop the card running "
+"flat out for frames you cannot see."
 
 msgid "options_private_message_sound_enabled"
 msgstr "Enabled Private Message Sounds."
@@ -7903,14 +7913,28 @@ msgstr "Enable Ambient Occlusion (SSAO)"
 msgid "options_video_enable_triple_buffering"
 msgstr "Enable triple buffering."
 
+msgid "options_video_enable_triple_buffering_tooltip"
+msgstr ""
+"Performance: negligible. Only has any effect while vertical sync is enabled, "
+"where it smooths out frames that miss the refresh, at the cost of slightly "
+"more input delay."
+
 msgid "options_video_filmic_tone_strength"
 msgstr "Filmic Tone Mapping Strength"
 
 msgid "options_video_fov"
 msgstr "Field of View: %1"
 
+msgid "options_video_fov_tooltip"
+msgstr "Performance: negligible. Widens the player's view."
+
 msgid "options_video_gamma_correction"
 msgstr "Gamma Correction: %1"
+
+msgid "options_video_gamma_correction_tooltip"
+msgstr ""
+"Brightens or darkens the whole image. Only works in full screen - Windows "
+"ignores the gamma ramp in windowed and borderless modes."
 
 msgid "options_video_godray_intensity"
 msgstr "God Ray Intensity"
@@ -7984,6 +8008,12 @@ msgstr "View Distance: %1 m"
 
 msgid "options_video_wait_for_vsync"
 msgstr "Wait for vertical sync on monitor."
+
+msgid "options_video_wait_for_vsync_tooltip"
+msgstr ""
+"Performance: minor. Matches the frame rate to your monitor's refresh rate, "
+"removing the horizontal tearing you see when the two drift apart. Costs a "
+"little input delay, and caps your frame rate at the refresh rate."
 
 msgid "options_window_title"
 msgstr "Options"
