@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-23 13:53+0000\n"
+"PO-Revision-Date: 2026-09-23 14:44+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -4272,9 +4272,11 @@ msgstr "Opciones de Vídeo"
 msgid "options_title_weapon_bar_entry"
 msgstr "Opciones de Entrada de Barra de Armas"
 
+#, fuzzy
 msgid "options_video_animation_reduction_per_meter"
 msgstr "Reducción de la calidad de animación por metro."
 
+#, fuzzy
 msgid "options_video_animation_reduction_start"
 msgstr "Distancia mínima para comenzar la reducción de calidad de animación."
 
@@ -4300,6 +4302,7 @@ msgstr "Seleccionar Modo de Pantalla"
 msgid "options_video_displaymodelist"
 msgstr "Seleccionar resolución de pantalla."
 
+#, fuzzy
 msgid "options_video_enable_animation_reduction"
 msgstr "Habilitar reducción de calidad de animaciones."
 
