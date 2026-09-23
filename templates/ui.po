@@ -6256,7 +6256,7 @@ msgstr ""
 "scaling with your missing health."
 
 # BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
-#
+# 
 # Generated from pvemasteryconfig.xml. Do not hand-edit: re-run the script.
 # The English here IS the config prose, so the window and the .po cannot
 # disagree about what the ability says.
@@ -7858,6 +7858,11 @@ msgstr "Are you sure you want to reset all Video settings to their defaults?"
 
 msgid "options_video_display_mode"
 msgstr "Select Display Mode"
+
+msgid "options_video_display_mode_tooltip"
+msgstr ""
+"Full screen and windowed allow resolution changes. Borderless window mode "
+"does not currently allow this."
 
 msgid "options_video_displaymodelist"
 msgstr "Select display resolution."
