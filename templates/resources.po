@@ -13293,6 +13293,18 @@ msgstr "Press Use to open it. This requires a Slayer Cache Key."
 msgid "desc_r_Slayer Cache Key"
 msgstr "Opens a Slayer Cache."
 
+msgid "desc_r_Slayer Contract Board"
+msgstr "Slayer Contract Board."
+
+msgid "desc_r_Slayer Contract Slot"
+msgstr "Lets you hold one more slayer contract at a time."
+
+msgid "desc_r_Slayer Services"
+msgstr "Unlocks a Slayer Master sells for slayer points."
+
+msgid "desc_r_Slayer Slow Recall"
+msgstr "Unlocks the Slayer's slow recall to your bindstone. Bought once."
+
 msgid "desc_r_Slayer Talisman Carved"
 msgstr ""
 "A slayer's charm, carried in the rune book slot. Its power is whatever it "
@@ -32025,6 +32037,15 @@ msgstr "Slayer Cache"
 
 msgid "r_Slayer Cache Key"
 msgstr "Slayer Cache Key"
+
+msgid "r_Slayer Contract Slot"
+msgstr "Contract Slot"
+
+msgid "r_Slayer Services"
+msgstr "Slayer Services"
+
+msgid "r_Slayer Slow Recall"
+msgstr "Slow Recall"
 
 msgid "r_Slayer Talisman Carved"
 msgstr "Carved Slayer Talisman"

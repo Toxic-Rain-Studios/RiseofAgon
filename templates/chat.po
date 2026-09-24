@@ -11467,6 +11467,11 @@ msgstr ""
 "[Mastery] The gate holds. You carry %1 of %2 Mastery Orbs and %3 of %4 "
 "Ancient Orbs, and hold %5 of %6 essence."
 
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
+msgstr ""
+"[Mastery] The gate holds. You carry %1 of %2 Mastery Orbs and hold %3 of %4 "
+"essence."
+
 msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
 msgstr "[Mastery] You have no mastery active to break a gate for."
 
@@ -11618,6 +11623,15 @@ msgstr "[Mastery] No mastery under test to spend essence on."
 
 msgid "NOTIFICATION_PVE_MASTERY_TEST_UNKNOWN_MASTERY"
 msgstr "[Mastery] Unknown mastery - use %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ACCEPTED"
+msgstr "[Mastery] %1 Trial %2 accepted. Bring its price to Slayer Master Aero."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ALREADY_ACCEPTED"
+msgstr "[Mastery] You already carry the %1 Trial %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
+msgstr "[Mastery] Accept the %1 Trial %2 at Slayer Master Aero first."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
 msgstr "[Mastery] UNBROKEN LINE - monster damage taken -%1% for %2s."
