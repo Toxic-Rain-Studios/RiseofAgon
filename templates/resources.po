@@ -9301,6 +9301,12 @@ msgstr " "
 msgid "desc_r_Marker Campfire"
 msgstr " Shows the position of a Camp Fire."
 
+msgid "desc_r_Marker Capital Invader"
+msgstr ""
+"An enemy of this capital's alliance, or an outlaw, has lingered inside the "
+"capital lands. The marker is anonymous and its position is refreshed "
+"periodically."
+
 msgid "desc_r_Marker Chaosstone"
 msgstr " "
 
@@ -27561,6 +27567,9 @@ msgstr "Marker Bindstone"
 
 msgid "r_Marker Campfire"
 msgstr "Marker Campfire"
+
+msgid "r_Marker Capital Invader"
+msgstr "Invader"
 
 msgid "r_Marker Chaosstone"
 msgstr "Marker Chaosstone"
