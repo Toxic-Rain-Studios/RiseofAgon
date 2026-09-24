@@ -10598,6 +10598,16 @@ msgstr "All your requests are being ignored by ^Cred^%1."
 msgid "NOTIFICATION_PARTY_IS_NOT_CREATED_YET"
 msgstr "Party is not created yet."
 
+msgid "NOTIFICATION_PARTY_LINK_ENEMY_FACTION"
+msgstr ""
+"^Cred^Cannot link with %1's party: lawful parties can only link within their "
+"own race alliance."
+
+msgid "NOTIFICATION_PARTY_LINK_LAWFUL_LAWLESS"
+msgstr ""
+"^Cred^Cannot link with %1's party: lawful and lawless parties cannot be "
+"linked."
+
 msgid "NOTIFICATION_PARTY_MEMBER_JOINED"
 msgstr "You joined the party."
 
