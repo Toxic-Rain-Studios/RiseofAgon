@@ -9004,6 +9004,27 @@ msgstr "Show gain log and rate"
 msgid "skill_tracker_unlearned"
 msgstr "Not learned"
 
+msgid "skillcard_cast"
+msgstr "Cast %1s"
+
+msgid "skillcard_cooldown"
+msgstr "Cooldown %1s"
+
+msgid "skillcard_cost_health"
+msgstr "Health %1"
+
+msgid "skillcard_cost_mana"
+msgstr "Mana %1"
+
+msgid "skillcard_cost_stamina"
+msgstr "Stamina %1"
+
+msgid "skillcard_level"
+msgstr "LV %1"
+
+msgid "skillcard_shared_cooldown"
+msgstr "Shared: %1"
+
 msgid "skills_by_preset_order"
 msgstr "By preset order"
 
