@@ -69,7 +69,7 @@ msgid "desc_jumpskill"
 msgstr ""
 
 msgid "desc_s_Acid Arrow"
-msgstr "Launches a projectile that explodes upon impact causing Acid damage."
+msgstr "Fires a bolt that deals Acid damage to its target."
 
 msgid "desc_s_Acid Arrow_1"
 msgstr ""
@@ -81,19 +81,19 @@ msgid "desc_s_Acid Explosion_1"
 msgstr ""
 
 msgid "desc_s_Acid Rain"
-msgstr "A magical ray which summons an Acid rainstorm upon hitting its target."
+msgstr "Fires a ray that brings Acid rain down on an area."
 
 msgid "desc_s_Acid Rain_1"
 msgstr ""
 
 msgid "desc_s_Acid Shield"
-msgstr "Gives the caster increased protection against Acid."
+msgstr "Increases your protection against Acid."
 
 msgid "desc_s_Acid Shield_1"
 msgstr ""
 
 msgid "desc_s_Acid Ward"
-msgstr "Aim at a target to grant protection against Acid."
+msgstr "Grants an ally protection against Acid."
 
 msgid "desc_s_Acid Ward_1"
 msgstr ""
@@ -111,7 +111,7 @@ msgid "desc_s_Add Effect Main"
 msgstr ""
 
 msgid "desc_s_Adept"
-msgstr "Decreases the caster's chance of spell failure."
+msgstr "Lowers your chance of spell failure."
 
 msgid "desc_s_Adept Shot"
 msgstr "Description of s_Adept Shot"
@@ -120,7 +120,7 @@ msgid "desc_s_Adept_1"
 msgstr ""
 
 msgid "desc_s_Agility"
-msgstr "Grants a Dexterity bonus to the caster."
+msgstr "Raises your Dexterity."
 
 msgid "desc_s_Agility_1"
 msgstr ""
@@ -271,13 +271,13 @@ msgid "desc_s_Armour and Shield Skills"
 msgstr "Description of s_Armour and Shield Skills"
 
 msgid "desc_s_Arrow Shield"
-msgstr "Gives the caster increased protection against arrows."
+msgstr "Raises your protection against arrows."
 
 msgid "desc_s_Arrow Shield_1"
 msgstr ""
 
 msgid "desc_s_Arrow Ward"
-msgstr "Aim at a target to grant protection against arrows."
+msgstr "Briefly grants a targeted player protection against arrows."
 
 msgid "desc_s_Arrow Ward_1"
 msgstr ""
@@ -315,7 +315,7 @@ msgid "desc_s_Backstab"
 msgstr "Description of s_Sneak"
 
 msgid "desc_s_Ball Lightning"
-msgstr "Fires a missile that inflicts Lightning damage."
+msgstr "Fires a ball of lightning that deals Lightning damage."
 
 msgid "desc_s_Ball Lightning_1"
 msgstr ""
@@ -324,19 +324,19 @@ msgid "desc_s_Basic Movement Skills"
 msgstr "Description of s_Basic Movement Skills"
 
 msgid "desc_s_Beacon"
-msgstr "A ray that creates a visual marker on its target."
+msgstr "Fires a ray that marks its target."
 
 msgid "desc_s_Beacon_1"
 msgstr ""
 
 msgid "desc_s_Begone"
-msgstr "Arcane blast is primarily used to push or pull targets."
+msgstr "Fires an arcane blast that pushes a target."
 
 msgid "desc_s_Begone_1"
 msgstr ""
 
 msgid "desc_s_Bindstone Recall"
-msgstr "Press Action button to teleport to your current bind point."
+msgstr "Teleports you to your bind point."
 
 msgid "desc_s_Blast"
 msgstr ""
@@ -359,7 +359,7 @@ msgid "desc_s_Bleeding Hit_1"
 msgstr ""
 
 msgid "desc_s_Bless Other"
-msgstr "Grants a target protection against Malediction attacks."
+msgstr "Grants a targeted player protection against Malediction."
 
 msgid "desc_s_Bless Other_1"
 msgstr ""
@@ -376,7 +376,7 @@ msgstr ""
 "short time."
 
 msgid "desc_s_Blizzard"
-msgstr "Launches a missile that explodes upon impact causing Cold damage. "
+msgstr "Hurls a missile that explodes on impact, dealing Cold damage."
 
 msgid "desc_s_Blizzard_1"
 msgstr ""
@@ -387,9 +387,7 @@ msgstr ""
 "to Health, but a penalty to Mana.  "
 
 msgid "desc_s_Bludgeoning Weakness"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Bludgeoning "
-"protection.  "
+msgstr "Hurls a missile that lowers the target's Bludgeoning protection."
 
 msgid "desc_s_Bludgeoning Weakness_1"
 msgstr ""
@@ -443,15 +441,14 @@ msgid "desc_s_Bowyer Mastery"
 msgstr "Allows the crafting of advanced bows."
 
 msgid "desc_s_Brawn"
-msgstr "Grants a Strength bonus to the caster."
+msgstr "Increases your Strength."
 
 msgid "desc_s_Brawn_1"
 msgstr ""
 
 msgid "desc_s_Burden"
 msgstr ""
-"Fires a missile inflicting an Encumbrance penalty on its target, interfering "
-"with their casting or archery."
+"Fires a missile that encumbers a target, hindering casting and archery."
 
 msgid "desc_s_Burden_1"
 msgstr ""
@@ -469,12 +466,10 @@ msgid "desc_s_Camp_1"
 msgstr "Description of s_Camp 01"
 
 msgid "desc_s_Capital Recall"
-msgstr ""
-"Press Action button to teleport to your faction's capital city. Cooldown "
-"will vary depending on your alignment."
+msgstr "Teleports you to your faction's capital city."
 
 msgid "desc_s_Clear Thoughts"
-msgstr "Grants an Intelligence bonus to the caster."
+msgstr "Increases your Intelligence."
 
 msgid "desc_s_Clear Thoughts_1"
 msgstr ""
@@ -501,13 +496,13 @@ msgid "desc_s_Clubs and Maces_1"
 msgstr ""
 
 msgid "desc_s_Cold Shield"
-msgstr "Grants the caster increased protection against Cold."
+msgstr "Increases your protection against Cold damage."
 
 msgid "desc_s_Cold Shield_prot"
 msgstr ""
 
 msgid "desc_s_Cold Ward"
-msgstr "Grants the target protection against Cold."
+msgstr "Grants a targeted player protection against Cold damage."
 
 msgid "desc_s_Cold Ward_1"
 msgstr ""
@@ -519,7 +514,7 @@ msgid "desc_s_Combat Skills"
 msgstr "Skills that passively improves your combat ability."
 
 msgid "desc_s_Come Hither"
-msgstr "Aim at a target to magically draw it closer."
+msgstr "Strongly pulls a target toward you."
 
 msgid "desc_s_Come Hither_1"
 msgstr ""
@@ -528,7 +523,7 @@ msgid "desc_s_Come Hither_2"
 msgstr ""
 
 msgid "desc_s_Confusion"
-msgstr "Missile that creates a flash, blinds onlookers on impact."
+msgstr "Fires a missile that flashes on impact, blinding those nearby."
 
 msgid "desc_s_Confusion_1"
 msgstr ""
@@ -551,7 +546,8 @@ msgstr ""
 "start."
 
 msgid "desc_s_Corrosive Blast"
-msgstr "Fires a projectile that explodes upon impact causing Acid damage. "
+msgstr ""
+"Fires a projectile that explodes for Acid damage and lowers Acid protection."
 
 msgid "desc_s_Corrosive Blast_1"
 msgstr ""
@@ -579,14 +575,14 @@ msgid "desc_s_Crouch walk"
 msgstr "Determines the movement speed while crouching."
 
 msgid "desc_s_Cursed Bolt"
-msgstr "Fires a missile inflicting Unholy damage."
+msgstr "Fires a bolt that deals Unholy damage."
 
 msgid "desc_s_Cursed Bolt_1"
 msgstr ""
 
 msgid "desc_s_Cutthroat Aura"
 msgstr ""
-"Party members near you deal more melee damage to monsters while it holds."
+"Party members near you deal more melee damage to monsters while active."
 
 msgid "desc_s_Cutthroat Aura_1"
 msgstr ""
@@ -605,7 +601,7 @@ msgstr ""
 
 msgid "desc_s_Deadeye Aura"
 msgstr ""
-"Party members near you deal more ranged damage to monsters while it holds."
+"Party members near you deal more ranged damage to monsters while active."
 
 msgid "desc_s_Deadeye Aura_1"
 msgstr ""
@@ -617,7 +613,9 @@ msgid "desc_s_Deadeye Skills"
 msgstr "Abilities of the Deadeye mastery."
 
 msgid "desc_s_Death Fog"
-msgstr "Fires a magical ray which brings forth an Unholy mist. "
+msgstr ""
+"Creates an Unholy mist that damages everything within it over time and "
+"obscures vision."
 
 msgid "desc_s_Death Fog_1"
 msgstr ""
@@ -629,16 +627,13 @@ msgid "desc_s_Defensive Stance"
 msgstr ""
 
 msgid "desc_s_Delayed Shot"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's attack speed with "
-"ranged weapons.  "
+msgstr "Hurls a missile that slows the target's ranged attacks."
 
 msgid "desc_s_Delayed Shot_1"
 msgstr ""
 
 msgid "desc_s_Desecration"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Unholy protection."
+msgstr "Hurls a missile that lowers the target's Unholy protection."
 
 msgid "desc_s_Desecration_1"
 msgstr ""
@@ -647,8 +642,7 @@ msgid "desc_s_Digging"
 msgstr "Equip a shovel and try to dig for the treasure.  "
 
 msgid "desc_s_Disabling Blow_Axe"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Axe_1"
 msgstr ""
@@ -657,8 +651,7 @@ msgid "desc_s_Disabling Blow_Axe_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Club"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Club_1"
 msgstr ""
@@ -667,8 +660,7 @@ msgid "desc_s_Disabling Blow_Club_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Greataxe"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Greataxe_1"
 msgstr ""
@@ -677,8 +669,7 @@ msgid "desc_s_Disabling Blow_Greataxe_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Greatclub"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Greatclub_1"
 msgstr ""
@@ -687,8 +678,7 @@ msgid "desc_s_Disabling Blow_Greatclub_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Greatsword"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Greatsword_1"
 msgstr ""
@@ -697,8 +687,7 @@ msgid "desc_s_Disabling Blow_Greatsword_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Knives"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Knives_1"
 msgstr ""
@@ -707,8 +696,7 @@ msgid "desc_s_Disabling Blow_Knives_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Polearm"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Polearm_1"
 msgstr ""
@@ -717,8 +705,7 @@ msgid "desc_s_Disabling Blow_Polearm_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Sithra"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Sithra_1"
 msgstr ""
@@ -727,8 +714,7 @@ msgid "desc_s_Disabling Blow_Sithra_2"
 msgstr ""
 
 msgid "desc_s_Disabling Blow_Sword"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Strikes the target, briefly preventing it from parrying."
 
 msgid "desc_s_Disabling Blow_Sword_1"
 msgstr ""
@@ -737,8 +723,7 @@ msgid "desc_s_Disabling Blow_Sword_2"
 msgstr ""
 
 msgid "desc_s_Disabling Bolt"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Fires a bolt that briefly stops a target from parrying."
 
 msgid "desc_s_Disabling Bolt_1"
 msgstr ""
@@ -747,8 +732,7 @@ msgid "desc_s_Disabling Bolt_2"
 msgstr ""
 
 msgid "desc_s_Disabling Shot"
-msgstr ""
-"An attack rendering your opponent unable to parry for a short duration."
+msgstr "Fires a shot that briefly prevents the target from parrying."
 
 msgid "desc_s_Disabling Shot_1"
 msgstr ""
@@ -757,13 +741,13 @@ msgid "desc_s_Disabling Shot_2"
 msgstr ""
 
 msgid "desc_s_Disease"
-msgstr "Fires a missile inflicting a penalty to its target's Strength."
+msgstr "Hurls a missile that lowers the target's Strength."
 
 msgid "desc_s_Disease_1"
 msgstr ""
 
 msgid "desc_s_Disintegrate"
-msgstr "Launches a projectile that explodes upon impact causing Acid damage."
+msgstr "Fires a projectile that explodes for Acid damage on impact."
 
 msgid "desc_s_Disintegrate_1"
 msgstr ""
@@ -838,7 +822,7 @@ msgid "desc_s_Dragon Lightning Breath_1"
 msgstr ""
 
 msgid "desc_s_Dragonbreath"
-msgstr "Fires a continuing barrage of fiery sparks at an enemy."
+msgstr "Fires a stream of fire at an enemy."
 
 msgid "desc_s_Dragonbreath_1"
 msgstr ""
@@ -886,7 +870,7 @@ msgid "desc_s_Dwarven Durability"
 msgstr "Gives a minor bonus to maximum Health. "
 
 msgid "desc_s_Dwarven Perseverance"
-msgstr "Allows the character to fight almost without draining stamina."
+msgstr "Lets you fight with almost no Stamina drain for a while."
 
 msgid "desc_s_Dwarven Perseverance_1"
 msgstr ""
@@ -918,9 +902,7 @@ msgstr ""
 "without donning cumbersome armor."
 
 msgid "desc_s_Earthquake"
-msgstr ""
-"Press and hold Action button to call forth an earthquake damaging everything "
-"close by, including the caster."
+msgstr "Hold to shake the ground, damaging everything nearby, including you."
 
 msgid "desc_s_Earthquake_1"
 msgstr ""
@@ -929,7 +911,7 @@ msgid "desc_s_Eat"
 msgstr ""
 
 msgid "desc_s_Eldritch Sphere"
-msgstr "Fires a missile that explodes upon impact causing Arcane damage."
+msgstr "Hurls a sphere that explodes on impact, dealing Arcane damage."
 
 msgid "desc_s_Eldritch Sphere_1"
 msgstr ""
@@ -974,28 +956,26 @@ msgid "desc_s_Examine Object"
 msgstr "Description of s_Examine Object"
 
 msgid "desc_s_Exhaust"
-msgstr ""
-"Fires a missile that reduces its target's natural Stamina regeneration."
+msgstr "Hurls a missile that reduces the target's Stamina regeneration."
 
 msgid "desc_s_Exhaust_1"
 msgstr ""
 
 msgid "desc_s_Exploding Charge"
-msgstr "Fires a missile that explodes upon impact causing Lightning damage. "
+msgstr "Fires a charge that explodes on impact, dealing Lightning damage."
 
 msgid "desc_s_Exploding Charge_Area"
 msgstr ""
 
 msgid "desc_s_Explosion"
-msgstr "Produces a fiery blast centered on the caster."
+msgstr ""
+"Deals small damage in a radius around the caster, and knocks the caster up."
 
 msgid "desc_s_Explosion_fire"
 msgstr ""
 
 msgid "desc_s_Eye Rot"
-msgstr ""
-"Missile that disturbs the target's coordination.  Causes Bleeding damage and "
-"a penalty to Dexterity and Intelligence."
+msgstr "Hurls a missile that severely blinds the target over a short duration."
 
 msgid "desc_s_Eye Rot_1"
 msgstr ""
@@ -1030,7 +1010,7 @@ msgstr ""
 "teaches some quickness enchancing magic."
 
 msgid "desc_s_Fire Shield"
-msgstr "Gives the caster increased protection against Fire."
+msgstr "Increases your protection against Fire."
 
 msgid "desc_s_Fire Shield_prot"
 msgstr ""
@@ -1041,13 +1021,15 @@ msgstr ""
 "Wheel. "
 
 msgid "desc_s_Fire Ward"
-msgstr "Grants a target protection against Fire."
+msgstr "Grants an ally protection against Fire."
 
 msgid "desc_s_Fire Ward_prot"
 msgstr ""
 
 msgid "desc_s_Fireball"
-msgstr "Launches a projectile that explodes upon impact causing Fire damage. "
+msgstr ""
+"Fires a projectile that explodes for Fire damage, lowers the player's "
+"protection, and knocks them up."
 
 msgid "desc_s_Fireball_2"
 msgstr ""
@@ -1056,7 +1038,7 @@ msgid "desc_s_Fireball_Area"
 msgstr ""
 
 msgid "desc_s_Firebolt"
-msgstr "Launches a projectile that explodes upon impact causing Fire damage. "
+msgstr "Fires a bolt that deals Fire damage to its target."
 
 msgid "desc_s_Firebolt_area"
 msgstr ""
@@ -1071,7 +1053,7 @@ msgid "desc_s_Fitness"
 msgstr "Determines the natural Health regeneration rate. "
 
 msgid "desc_s_Flames of Vengeance"
-msgstr "A magical ray which brings forth an inferno of holy flames."
+msgstr "Fires a ray that engulfs an area in holy flames."
 
 msgid "desc_s_Flames of Vengeance_1"
 msgstr ""
@@ -1080,7 +1062,7 @@ msgid "desc_s_Fleet"
 msgstr "Increases maximum Quickness."
 
 msgid "desc_s_Flesh Curse"
-msgstr "Launches a missile reducing its target's Infliction protection. "
+msgstr "Fires a missile that lowers a target's Infliction protection."
 
 msgid "desc_s_Flesh Curse_1"
 msgstr ""
@@ -1106,13 +1088,13 @@ msgid "desc_s_Frailty_1"
 msgstr ""
 
 msgid "desc_s_Frostbite"
-msgstr "Fires a ray of intense Cold damaging everything in its path."
+msgstr "Strikes a single target with a ray of Cold damage."
 
 msgid "desc_s_Frostbite_1"
 msgstr ""
 
 msgid "desc_s_Gank"
-msgstr "Slaughters a helpless opponent. "
+msgstr "Finishes off a helpless opponent."
 
 msgid "desc_s_Gank_1"
 msgstr "Description of s_Gank_1"
@@ -1124,7 +1106,7 @@ msgid "desc_s_General Skills"
 msgstr "Various abilities to improve your character. "
 
 msgid "desc_s_Gills"
-msgstr "Grants increased lung capacity to the caster."
+msgstr "Lets you breathe underwater for longer."
 
 msgid "desc_s_Gills_1"
 msgstr ""
@@ -1196,9 +1178,7 @@ msgid "desc_s_Greatswords_1"
 msgstr ""
 
 msgid "desc_s_Guiding Wind"
-msgstr ""
-"Launches a missile that inflicts a penalty to its target's protection "
-"against arrows. "
+msgstr "Fires a gust that lowers protection against arrows where it lands."
 
 msgid "desc_s_Guiding Wind_1"
 msgstr ""
@@ -1207,39 +1187,37 @@ msgid "desc_s_Harvesting Skills"
 msgstr ""
 
 msgid "desc_s_Haste"
-msgstr "Grants a target increased melee attack speed."
+msgstr "Increases an ally's melee attack speed."
 
 msgid "desc_s_Haste_1"
 msgstr ""
 
 msgid "desc_s_Hasten Spells"
-msgstr "Lessens the charging time of spellcasting for a time."
+msgstr "Shortens your spell charge time for a while."
 
 msgid "desc_s_Hasten Spells_1"
 msgstr ""
 
 msgid "desc_s_Heal Mount"
-msgstr "Fires a magical ray that replenishes a mount's health."
+msgstr "Heals a targeted mount."
 
 msgid "desc_s_Heal Mount_1"
 msgstr ""
 
 msgid "desc_s_Heal Other"
-msgstr "A healing ray that recovers Health of the target."
+msgstr "Fires a healing ray that restores an ally's Health."
 
 msgid "desc_s_Heal Other_1"
 msgstr ""
 
 msgid "desc_s_Heal Self"
-msgstr ""
-"Caster regains a small amount of Health. This spell does not require any "
-"reagents to cast."
+msgstr "Caster regains a small amount of Health."
 
 msgid "desc_s_Heal Self_1"
 msgstr ""
 
 msgid "desc_s_Healing Chant"
-msgstr "Creates a healing sphere around the caster."
+msgstr "Heals those around you over time while you chant."
 
 msgid "desc_s_Healing Chant_1"
 msgstr "Description of s_Healing Chant_1"
@@ -1248,7 +1226,7 @@ msgid "desc_s_Health"
 msgstr "Description of s_Endurance"
 
 msgid "desc_s_Health to Mana"
-msgstr "Caster increases his own Mana, at the cost of losing Health."
+msgstr "Converts some of your Health into Mana."
 
 msgid "desc_s_Health to Mana_1"
 msgstr ""
@@ -1262,26 +1240,25 @@ msgid "desc_s_Herb Gathering Mastery"
 msgstr "Decreases the time needed for gathering herbs. "
 
 msgid "desc_s_Holy Shield"
-msgstr "Grants increased protection against Holy damage."
+msgstr "Increases your protection against Holy damage."
 
 msgid "desc_s_Holy Shield_1"
 msgstr ""
 
 msgid "desc_s_Holy Ward"
-msgstr "Grants a target protection against Holy damage."
+msgstr "Grants an ally protection against Holy damage."
 
 msgid "desc_s_Holy Ward_1"
 msgstr ""
 
 msgid "desc_s_Holy Weakness"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Holy protection."
+msgstr "Fires a missile that lowers a target's Holy protection."
 
 msgid "desc_s_Holy Weakness_1"
 msgstr ""
 
 msgid "desc_s_House Recall"
-msgstr "Press Action button to teleport to your house. "
+msgstr "Teleports you to your house."
 
 msgid "desc_s_Human Ingenuity"
 msgstr ""
@@ -1295,45 +1272,44 @@ msgid "desc_s_Human Willpower"
 msgstr "Gives a minor bonus to maximum Mana."
 
 msgid "desc_s_Hymn of Intellect"
-msgstr "A ray which grants a bonus to the target's Intelligence."
+msgstr "Increases a targeted player's Intelligence."
 
 msgid "desc_s_Hymn of Intellect_1"
 msgstr ""
 
 msgid "desc_s_Hymn of Might"
-msgstr "A ray which grants a bonus to the target's Strength."
+msgstr "Increases a targeted player's Strength."
 
 msgid "desc_s_Hymn of Might_1"
 msgstr ""
 
 msgid "desc_s_Hymn of Skill"
-msgstr "A ray which grants a bonus to the target's Dexterity."
+msgstr "Increases a targeted player's Dexterity."
 
 msgid "desc_s_Hymn of Skill_1"
 msgstr ""
 
 msgid "desc_s_Hymn of Swiftness"
-msgstr "A ray which grants a bonus to the target's Quickness."
+msgstr "Increases a targeted player's Quickness."
 
 msgid "desc_s_Hymn of Swiftness_1"
 msgstr ""
 
 msgid "desc_s_Hymn of Vigor"
-msgstr "A magical ray which grants a bonus to the target's Vitality."
+msgstr "Increases a targeted player's Vitality."
 
 msgid "desc_s_Hymn of Vigor_1"
 msgstr ""
 
 msgid "desc_s_Ice Storm"
 msgstr ""
-"Fires a magical ray which summons a storm of intense Cold upon hitting its "
-"target."
+"Summons a storm of Cold that deals minor damage but heavily obscures vision."
 
 msgid "desc_s_Ice Storm_1"
 msgstr ""
 
 msgid "desc_s_Icicle"
-msgstr "Launches a missile inflicting Cold damage on its target."
+msgstr "Fires an icicle that deals Cold damage."
 
 msgid "desc_s_Icicle_Cold"
 msgstr "Description of s_Mana Missile_1"
@@ -1342,13 +1318,13 @@ msgid "desc_s_Ignore Pain"
 msgstr "Grants an inherent protection against weapon damage."
 
 msgid "desc_s_Impale"
-msgstr "Fires a magical ray which causes arcane spikes to pierce its target.  "
+msgstr "Fires a ray that impales a target on arcane spikes."
 
 msgid "desc_s_Impale_1"
 msgstr ""
 
 msgid "desc_s_Impetus"
-msgstr "Grants a Quickness bonus to the caster."
+msgstr "Increases your Quickness."
 
 msgid "desc_s_Impetus_1"
 msgstr ""
@@ -1357,7 +1333,7 @@ msgid "desc_s_Improvement Skills"
 msgstr "Description of s_Physical Enhancements"
 
 msgid "desc_s_Impulse"
-msgstr "A sphere of pure arcane power, primarily used to move targets."
+msgstr "Fires a sphere of arcane force that moves targets."
 
 msgid "desc_s_Impulse_1"
 msgstr ""
@@ -1366,31 +1342,31 @@ msgid "desc_s_Industry"
 msgstr "Reduces the time of all crafting."
 
 msgid "desc_s_Infernal Shield"
-msgstr "Grants increased protection against Unholy damage."
+msgstr "Increases your protection against Unholy damage."
 
 msgid "desc_s_Infernal Shield_1"
 msgstr ""
 
 msgid "desc_s_Infernal Ward"
-msgstr "Grants a target protection against Unholy damage."
+msgstr "Grants a targeted player protection against Unholy damage."
 
 msgid "desc_s_Infernal Ward_1"
 msgstr ""
 
 msgid "desc_s_Inferno"
-msgstr "Launches a projectile that explodes upon impact causing Fire damage."
+msgstr "Fires a projectile that explodes for Fire damage on impact."
 
 msgid "desc_s_Inferno_area"
 msgstr ""
 
 msgid "desc_s_Infliction Shield"
-msgstr "Grants the caster increased Infliction protection."
+msgstr "Increases your Infliction protection."
 
 msgid "desc_s_Infliction Shield_1"
 msgstr ""
 
 msgid "desc_s_Infliction Ward"
-msgstr "Grants target increased Infliction protection."
+msgstr "Grants an ally increased Infliction protection."
 
 msgid "desc_s_Infliction Ward_1"
 msgstr ""
@@ -1399,7 +1375,7 @@ msgid "desc_s_Ingenious"
 msgstr "Increases maximum Wisdom."
 
 msgid "desc_s_Insect Swarm"
-msgstr "Send forth a swarm of poisonous insects at the target."
+msgstr "Sends a poisonous swarm that damages the target and lowers Dexterity."
 
 msgid "desc_s_Insect Swarm_1"
 msgstr ""
@@ -1408,7 +1384,7 @@ msgid "desc_s_Insect Swarm_2"
 msgstr ""
 
 msgid "desc_s_Insight"
-msgstr "Grants a Wisdom bonus to the caster."
+msgstr "Increases your Wisdom."
 
 msgid "desc_s_Insight_1"
 msgstr ""
@@ -1456,7 +1432,7 @@ msgid "desc_s_Intensify_Witchcraft"
 msgstr "Increases the magnitude of Witchcraft spells."
 
 msgid "desc_s_Ironskin"
-msgstr "Grants a target protection against weapons."
+msgstr "Grants an ally protection against weapons."
 
 msgid "desc_s_Ironskin_1"
 msgstr ""
@@ -1491,55 +1467,55 @@ msgid "desc_s_Knives_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Axe"
-msgstr "An axe attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Axe_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Club"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Club_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Greataxe"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Greataxe_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Greatclub"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Greatclub_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Greatsword"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Greatsword_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Knife"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Knife_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Polearm"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Polearm_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Sithras"
-msgstr "A thrusting attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Sithras_1"
 msgstr ""
 
 msgid "desc_s_Knockback_Sword"
-msgstr "An attack which forcefully pushes your opponent away."
+msgstr "Strikes the target and knocks it back."
 
 msgid "desc_s_Knockback_Sword_1"
 msgstr ""
@@ -1548,19 +1524,19 @@ msgid "desc_s_Laboratory Skills"
 msgstr "Description of s_Dragoncraft Skills"
 
 msgid "desc_s_Launch"
-msgstr "Fires a magical ray that causes a burst of energy."
+msgstr "Releases a burst of air that launches the target upward."
 
 msgid "desc_s_Launch_1"
 msgstr ""
 
 msgid "desc_s_Lay on Hands"
-msgstr "Fires a magical ray which heals its target."
+msgstr "Heals a targeted player, but has a short range."
 
 msgid "desc_s_Lay on Hands_1"
 msgstr ""
 
 msgid "desc_s_Lend Mana"
-msgstr "Aim at a target to transfer part of your Mana pool."
+msgstr "Transfers some of your Mana to a target."
 
 msgid "desc_s_Lend Mana_1"
 msgstr ""
@@ -1589,25 +1565,26 @@ msgid "desc_s_Lie"
 msgstr "Description of s_Lie"
 
 msgid "desc_s_Light"
-msgstr "Conjures forth dancing spheres of light."
+msgstr "Conjures dancing spheres of light."
 
 msgid "desc_s_Light_1"
 msgstr ""
 
 msgid "desc_s_Lightning Bolt"
-msgstr "Fires a line of electrical energy shocking everything in its path. "
+msgstr "Fires a line of lightning that strikes everything in its path."
 
 msgid "desc_s_Lightning Bolt_1"
 msgstr "Description of s_Lightning Bolt_1"
 
 msgid "desc_s_Lightning Shield"
-msgstr "Grants a Lightning Protection bonus to the caster."
+msgstr "Raises your protection against Lightning."
 
 msgid "desc_s_Lightning Shield_1"
 msgstr ""
 
 msgid "desc_s_Lightning Strike"
-msgstr "Launches a missile that explodes upon impact causing Lightning damage."
+msgstr ""
+"Fires a missile that explodes with lightning and lowers Lightning protection."
 
 msgid "desc_s_Lightning Strike_1"
 msgstr ""
@@ -1616,15 +1593,13 @@ msgid "desc_s_Lightning Strike_2"
 msgstr ""
 
 msgid "desc_s_Lightning Ward"
-msgstr "Grants a target protection against Lightning damage."
+msgstr "Grants an ally protection against Lightning damage."
 
 msgid "desc_s_Lightning Ward_1"
 msgstr ""
 
 msgid "desc_s_Lightning Weakness"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Lightning "
-"protection.   "
+msgstr "Fires a missile that lowers a target's Lightning protection."
 
 msgid "desc_s_Lightning Weakness_1"
 msgstr ""
@@ -1657,9 +1632,7 @@ msgid "desc_s_Magic Ward_resist"
 msgstr ""
 
 msgid "desc_s_Magma Storm"
-msgstr ""
-"Launches a projectile that explodes upon impact causing Fire damage. This "
-"missile is affected by gravity."
+msgstr "Lobs a fiery projectile that explodes and knocks enemies back."
 
 msgid "desc_s_Magma Strom_fire"
 msgstr ""
@@ -1680,7 +1653,7 @@ msgid "desc_s_Maintenance"
 msgstr "Reduces your equipment's durability loss from combat."
 
 msgid "desc_s_Mana Blast"
-msgstr "Fires a magical ray which causes an Arcane explosion."
+msgstr "Causes an Arcane explosion at the target, damaging everything nearby."
 
 msgid "desc_s_Mana Blast_1"
 msgstr ""
@@ -1692,7 +1665,7 @@ msgid "desc_s_Mana Conservation"
 msgstr "Reduces the Mana needed to cast spells."
 
 msgid "desc_s_Mana Drain"
-msgstr "Fires a magical ray which drains its target's Mana."
+msgstr "Drains a target's Mana."
 
 msgid "desc_s_Mana Drain_Drain"
 msgstr ""
@@ -1734,8 +1707,7 @@ msgid "desc_s_Mana Efficiency_Witchcraft"
 msgstr "Decreases the Mana spent to cast Witchcraft spells."
 
 msgid "desc_s_Mana Leech"
-msgstr ""
-"Fires a ray that drains the target's Mana, transferring it to the caster."
+msgstr "Drains the target's Mana and gives it to you."
 
 msgid "desc_s_Mana Leech Hit"
 msgstr ""
@@ -1748,15 +1720,13 @@ msgid "desc_s_Mana Leech_1"
 msgstr ""
 
 msgid "desc_s_Mana Missile"
-msgstr ""
-"Fires a missile that inflicts Arcane damage. It is the weakest damage spell "
-"available, but does not require reagents. "
+msgstr "Fires a missile that explodes for Arcane damage."
 
 msgid "desc_s_Mana Missile_Arcane"
 msgstr "Description of s_Mana Missile_1"
 
 msgid "desc_s_Mana to Stamina"
-msgstr "Caster increases his own Stamina, at the cost of losing Mana."
+msgstr "Converts some of your Mana into Stamina."
 
 msgid "desc_s_Mana to Stamina_1"
 msgstr ""
@@ -1776,19 +1746,19 @@ msgstr ""
 "hit or entering PvP combat interrupts it and costs you nothing."
 
 msgid "desc_s_Max Health Bonus"
-msgstr "Temporarily increases the caster's maximum Health."
+msgstr "Temporarily raises your maximum Health."
 
 msgid "desc_s_Max Health Bonus_1"
 msgstr ""
 
 msgid "desc_s_Max Mana Bonus"
-msgstr "Temporarily increases the caster's maximum Mana."
+msgstr "Temporarily raises your maximum Mana."
 
 msgid "desc_s_Max Mana Bonus_1"
 msgstr ""
 
 msgid "desc_s_Max Stamina Bonus"
-msgstr "Temporarily increases the caster's maximum Stamina."
+msgstr "Temporarily raises your maximum Stamina."
 
 msgid "desc_s_Max Stamina Bonus_1"
 msgstr ""
@@ -1813,7 +1783,7 @@ msgid "desc_s_Mental Weakness_1"
 msgstr ""
 
 msgid "desc_s_Meteor Strike"
-msgstr "Summons a rain of meteors to bombard your foes."
+msgstr "Calls down a rain of meteors on your foes."
 
 msgid "desc_s_Meteor Strike_Impact"
 msgstr ""
@@ -1841,7 +1811,7 @@ msgstr ""
 "distance than others."
 
 msgid "desc_s_Missile Fury"
-msgstr "Launches a projectile that explodes upon impact causing Arcane damage."
+msgstr "Fires a projectile that explodes for Arcane damage on impact."
 
 msgid "desc_s_Missile Fury_1"
 msgstr ""
@@ -2086,7 +2056,7 @@ msgstr ""
 "attacks."
 
 msgid "desc_s_Needles"
-msgstr "Fires a missile that explodes upon impact causing Bleeding damage."
+msgstr "Hurls a missile that explodes on impact, causing Bleeding damage."
 
 msgid "desc_s_Needles_1"
 msgstr ""
@@ -2095,7 +2065,7 @@ msgid "desc_s_Nimble"
 msgstr "Increases maximum Dexterity."
 
 msgid "desc_s_Ominous Drain"
-msgstr "Fires a missile that may reduce all its target's Base Attributes."
+msgstr "Hurls a missile that may lower all of the target's base attributes."
 
 msgid "desc_s_Ominous Drain_1"
 msgstr ""
@@ -2104,7 +2074,7 @@ msgid "desc_s_Open Package"
 msgstr "Open a package"
 
 msgid "desc_s_Oracle Aura"
-msgstr "Quickens mana regeneration for party members near you while it holds."
+msgstr "Quickens Mana regeneration for party members near you while active."
 
 msgid "desc_s_Oracle Aura_1"
 msgstr ""
@@ -2134,7 +2104,7 @@ msgid "desc_s_Pack Mule"
 msgstr "Increases the maximum inventory weight allowed."
 
 msgid "desc_s_Palsy"
-msgstr "Launches a missile inflicting a penalty to its target's Dexterity."
+msgstr "Hurls a missile that lowers the target's Dexterity."
 
 msgid "desc_s_Palsy_1"
 msgstr ""
@@ -2155,7 +2125,7 @@ msgid "desc_s_Perseverance"
 msgstr "Grants a small bonus to maximum Stamina. "
 
 msgid "desc_s_Pestilence"
-msgstr "Launches a missile inflicting a penalty to its target's Vitality."
+msgstr "Hurls a missile that lowers the target's Vitality."
 
 msgid "desc_s_Pestilence_1"
 msgstr ""
@@ -2194,8 +2164,7 @@ msgid "desc_s_Pick Pockets"
 msgstr ""
 
 msgid "desc_s_Piercing Weakness"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Piercing protection."
+msgstr "Hurls a missile that lowers the target's Piercing protection."
 
 msgid "desc_s_Piercing Weakness_1"
 msgstr ""
@@ -2231,7 +2200,7 @@ msgid "desc_s_Positioning Skills"
 msgstr "Description of s_Positioning Skills"
 
 msgid "desc_s_Power Attack_Axe"
-msgstr "A strong attack that reduces the target's melee protections.   "
+msgstr "A heavy strike that lowers the target's melee protections."
 
 msgid "desc_s_Power Attack_Axe_1"
 msgstr ""
@@ -2246,7 +2215,7 @@ msgid "desc_s_Power Attack_Axe_4"
 msgstr ""
 
 msgid "desc_s_Power Attack_Club"
-msgstr "A powerful attack that drains extra stamina. "
+msgstr "A heavy strike that also drains the target's Stamina."
 
 msgid "desc_s_Power Attack_Club_1"
 msgstr ""
@@ -2255,7 +2224,7 @@ msgid "desc_s_Power Attack_Club_2"
 msgstr ""
 
 msgid "desc_s_Power Attack_Greataxe"
-msgstr "A powerful attack that reduces the target's melee protections."
+msgstr "A heavy strike that lowers the target's melee protections."
 
 msgid "desc_s_Power Attack_Greataxe_1"
 msgstr ""
@@ -2270,7 +2239,7 @@ msgid "desc_s_Power Attack_Greataxe_4"
 msgstr ""
 
 msgid "desc_s_Power Attack_Greatclub"
-msgstr "A powerful attack that drains extra stamina. "
+msgstr "A heavy strike that also drains the target's Stamina."
 
 msgid "desc_s_Power Attack_Greatclub_1"
 msgstr ""
@@ -2279,7 +2248,7 @@ msgid "desc_s_Power Attack_Greatclub_2"
 msgstr ""
 
 msgid "desc_s_Power Attack_Greatsword"
-msgstr "A thrusting attack that causes bleeding damage. "
+msgstr "A thrusting strike that makes the target bleed."
 
 msgid "desc_s_Power Attack_Greatsword_1"
 msgstr ""
@@ -2288,7 +2257,7 @@ msgid "desc_s_Power Attack_Greatsword_2"
 msgstr ""
 
 msgid "desc_s_Power Attack_Knife"
-msgstr "A thrusting attack with poisoned daggers. "
+msgstr "A thrusting strike that also poisons the target."
 
 msgid "desc_s_Power Attack_Knife_1"
 msgstr ""
@@ -2297,7 +2266,9 @@ msgid "desc_s_Power Attack_Knife_2"
 msgstr ""
 
 msgid "desc_s_Power Attack_Polearm"
-msgstr "A powerful, precise thrusting attack."
+msgstr ""
+"A precise thrust that weakens the target's Strength, Quickness and piercing "
+"protection."
 
 msgid "desc_s_Power Attack_Polearm_1"
 msgstr ""
@@ -2315,7 +2286,7 @@ msgid "desc_s_Power Attack_Sithra_2"
 msgstr ""
 
 msgid "desc_s_Power Attack_Sword"
-msgstr "A thrusting attack that causes bleeding damage. "
+msgstr "A thrusting strike that makes the target bleed."
 
 msgid "desc_s_Power Attack_Sword_2"
 msgstr ""
@@ -2324,7 +2295,7 @@ msgid "desc_s_Power Attack_Sword_sub"
 msgstr ""
 
 msgid "desc_s_Power Attack_sithra"
-msgstr "A thrusting attack that causes extra damage."
+msgstr "A thrusting strike that slows the target's melee attacks."
 
 msgid "desc_s_Pray"
 msgstr ""
@@ -2363,13 +2334,13 @@ msgid "desc_s_Proc Unholy Flames_area"
 msgstr ""
 
 msgid "desc_s_Provoke"
-msgstr "Monsters in front of you turn on you instead of your allies."
+msgstr "Turns monsters in front of you against you instead of your allies."
 
 msgid "desc_s_Provoke_1"
 msgstr ""
 
 msgid "desc_s_Pungent Mist"
-msgstr "Shoots a cloud of corrosive vapors at your target."
+msgstr "Sprays corrosive vapour that burns and blinds a target."
 
 msgid "desc_s_Pungent Mist_1"
 msgstr ""
@@ -2414,9 +2385,7 @@ msgid "desc_s_Quicken Spells_Witchcraft"
 msgstr "Decreases the casting time of Witchcraft spells."
 
 msgid "desc_s_Rage"
-msgstr ""
-"An adrenaline surge which grants protection against elemental attacks, as "
-"well as moderate healing."
+msgstr "Briefly heals you and grants protection against elemental attacks."
 
 msgid "desc_s_Rage_1"
 msgstr ""
@@ -2426,9 +2395,7 @@ msgstr ""
 
 msgid "desc_s_Rain of Arrows"
 msgstr ""
-"Fires an arrow that calls down a rain of arrows where it strikes, wounding "
-"creatures beneath for a short time. Costs an arrow. The falling arrows do "
-"not count as arrows you land."
+"Fires an arrow that calls down a rain of arrows, wounding those beneath."
 
 msgid "desc_s_Rain of Arrows_1"
 msgstr ""
@@ -2437,7 +2404,7 @@ msgid "desc_s_Ranged Skills"
 msgstr "Description of s_Ranged Skills"
 
 msgid "desc_s_Rapid Shot"
-msgstr "Grants a target increased ranged attack speed."
+msgstr "Increases an ally's ranged attack speed."
 
 msgid "desc_s_Rapid Shot_1"
 msgstr ""
@@ -2452,14 +2419,13 @@ msgstr ""
 
 msgid "desc_s_Red Harvest"
 msgstr ""
-"Your wounds tick twice as fast for a short time, and kills refresh it. "
-"Requires knives."
+"Your wounds tick twice as fast briefly, and kills refresh it. Needs knives."
 
 msgid "desc_s_Red Harvest_1"
 msgstr ""
 
 msgid "desc_s_Reflect Spell"
-msgstr "Reflects the next damage spell back to its source."
+msgstr "Reflects the next damage spell back at its caster."
 
 msgid "desc_s_Reflect Spell_1"
 msgstr ""
@@ -2468,9 +2434,7 @@ msgid "desc_s_Reflex"
 msgstr "Grants resistance against elemental area attacks."
 
 msgid "desc_s_Rend"
-msgstr ""
-"Fires a missile that explodes upon impact causing Bleeding damage, as well "
-"as granting a Piercing Protection penalty."
+msgstr "Fires a missile that causes bleeding and lowers Piercing protection."
 
 msgid "desc_s_Rend_1"
 msgstr ""
@@ -2511,15 +2475,13 @@ msgid "desc_s_Research Skills"
 msgstr ""
 
 msgid "desc_s_Rest"
-msgstr ""
-"While resting, Health, Mana and Stamina is regenerated quicker. The "
-"regeneration bonus of resting is doubled after 30 seconds."
+msgstr "Regenerates Health, Stamina and Mana faster while resting."
 
 msgid "desc_s_Rest_1"
 msgstr "Description of s_Healing Chant_1"
 
 msgid "desc_s_Revive"
-msgstr "Helps a dying character. Press Action button to start skill."
+msgstr "Revives a dying character."
 
 msgid "desc_s_Revive_1"
 msgstr "Description of s_Revive_1"
@@ -2552,13 +2514,13 @@ msgid "desc_s_Run"
 msgstr "Slightly increases the speed while running."
 
 msgid "desc_s_Sacred Missile"
-msgstr "Launches a projectile causing Holy damage to its target."
+msgstr "Fires a bolt that deals Holy damage to its target."
 
 msgid "desc_s_Sacred Missile_HolyDam"
 msgstr ""
 
 msgid "desc_s_Sacrifice"
-msgstr "A ray which transfers Health from the caster to the target."
+msgstr "Heals a targeted player at the cost of your own Health."
 
 msgid "desc_s_Sacrifice_1"
 msgstr ""
@@ -2567,9 +2529,7 @@ msgid "desc_s_Sail"
 msgstr "Description of s_Walk"
 
 msgid "desc_s_Sanctuary"
-msgstr ""
-"Place a sanctuary that restores mana and stamina to every player inside for "
-"a while. Ends if it reaches anyone marked by PvP combat."
+msgstr "Places a sanctuary that restores Mana and Stamina to players inside."
 
 msgid "desc_s_Sanctuary_1"
 msgstr ""
@@ -2590,55 +2550,55 @@ msgid "desc_s_Scribing"
 msgstr "Used for writing scrolls, books and manufacturing paper products."
 
 msgid "desc_s_Seize_Axe"
-msgstr "An attack that draws your opponent closer. "
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Axe_1"
 msgstr ""
 
 msgid "desc_s_Seize_Club"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Club_1"
 msgstr ""
 
 msgid "desc_s_Seize_Greataxe"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Greataxe_1"
 msgstr ""
 
 msgid "desc_s_Seize_Greatclub"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Greatclub_1"
 msgstr ""
 
 msgid "desc_s_Seize_Greatsword"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Greatsword_1"
 msgstr ""
 
 msgid "desc_s_Seize_Knife"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Knife_1"
 msgstr ""
 
 msgid "desc_s_Seize_Polearm"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Polearm_1"
 msgstr ""
 
 msgid "desc_s_Seize_Sithras"
-msgstr "An attack that draws your opponent closer."
+msgstr "Pulls the target toward you and drains its Mana."
 
 msgid "desc_s_Seize_Sithras_2"
 msgstr ""
 
 msgid "desc_s_Seize_Sword"
-msgstr "An attack that draws your opponent closer."
+msgstr "Strikes the target and pulls it toward you."
 
 msgid "desc_s_Seize_Sword_1"
 msgstr ""
@@ -2652,7 +2612,9 @@ msgstr ""
 "to Mana, but a penalty to Health."
 
 msgid "desc_s_Shards"
-msgstr "Launches a projectile that explodes upon impact causing Cold damage."
+msgstr ""
+"Hurls shards that explode on impact, dealing Cold damage and lowering Cold "
+"protection."
 
 msgid "desc_s_Shards_2"
 msgstr ""
@@ -2691,7 +2653,7 @@ msgid "desc_s_Shipyard Skills"
 msgstr ""
 
 msgid "desc_s_Siege Hammer"
-msgstr "Attack capable of damaging buildings, cannons and vehicles."
+msgstr "Strikes hard enough to damage buildings, cannons and vehicles."
 
 msgid "desc_s_Siege Hammer_1"
 msgstr ""
@@ -2735,8 +2697,7 @@ msgid "desc_s_Skinning_1"
 msgstr ""
 
 msgid "desc_s_Slashing Weakness"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Slashing protection."
+msgstr "Hurls a missile that lowers the target's Slashing protection."
 
 msgid "desc_s_Slashing Weakness_1"
 msgstr ""
@@ -2745,15 +2706,13 @@ msgid "desc_s_Slayer"
 msgstr "Take up the Slayer profession. Contracts, caches and talismans."
 
 msgid "desc_s_Slow"
-msgstr ""
-"Fires a missile inflicting a penalty to its target's attack speed when using "
-"melee weapons."
+msgstr "Hurls a missile that slows the target's melee attacks."
 
 msgid "desc_s_Slow_1"
 msgstr ""
 
 msgid "desc_s_Sluggish"
-msgstr "Launches a missile inflicting a penalty to its target's Quickness."
+msgstr "Hurls a missile that lowers the target's Quickness."
 
 msgid "desc_s_Sluggish_1"
 msgstr ""
@@ -2770,7 +2729,7 @@ msgid "desc_s_Smoke Bomb"
 msgstr "Throw down a smoke bomb that bursts into a concealing cloud of smoke."
 
 msgid "desc_s_Smoke Signal"
-msgstr "Creates a column of smoke rising from the target."
+msgstr "Raises a column of smoke from the target."
 
 msgid "desc_s_Smoke Signal_1"
 msgstr ""
@@ -2808,7 +2767,7 @@ msgid "desc_s_Spell Curse_Penalty"
 msgstr ""
 
 msgid "desc_s_Spell Immunity"
-msgstr "Increases caster's probability of resisting non-damage spells."
+msgstr "Improves your chance to resist non-damage spells."
 
 msgid "desc_s_Spell Immunity_1"
 msgstr ""
@@ -2842,9 +2801,7 @@ msgid "desc_s_Stamina"
 msgstr "Description of s_Stamina"
 
 msgid "desc_s_Stamina Leech"
-msgstr ""
-"Fires a magical ray that drains the target's Stamina, transferring it to the "
-"caster."
+msgstr "Drains a target's Stamina and gives it to you."
 
 msgid "desc_s_Stamina Leech Hit"
 msgstr ""
@@ -2858,7 +2815,7 @@ msgid "desc_s_Stamina Leech_1"
 msgstr ""
 
 msgid "desc_s_Stamina to Health"
-msgstr "Caster increases his own Health, at the cost of losing Stamina."
+msgstr "Converts some of your Stamina into Health."
 
 msgid "desc_s_Stamina to Health_1"
 msgstr ""
@@ -2870,13 +2827,14 @@ msgid "desc_s_Stealth Skills"
 msgstr "Description of s_Stealth Movement Skills"
 
 msgid "desc_s_Stoneskin"
-msgstr "Grants the caster protection against weapon attacks."
+msgstr "Increases your protection against weapon attacks."
 
 msgid "desc_s_Stoneskin_1"
 msgstr ""
 
 msgid "desc_s_Stormblast"
-msgstr "Conjures an explosion that sends all in its path flying."
+msgstr ""
+"Unleashes a lightning blast that sends enemies flying from the cast target."
 
 msgid "desc_s_Stormblast_1"
 msgstr ""
@@ -2891,7 +2849,7 @@ msgid "desc_s_Stuck"
 msgstr ""
 
 msgid "desc_s_Stupidity"
-msgstr "Launches a missile inflicting a penalty to its target's Intelligence."
+msgstr "Hurls a missile that lowers the target's Intelligence."
 
 msgid "desc_s_Stupidity_1"
 msgstr ""
@@ -2900,7 +2858,7 @@ msgid "desc_s_Sturdy"
 msgstr "Increases maximum Vitality."
 
 msgid "desc_s_Summon Mount"
-msgstr "Summon the active figurine on your paperdoll."
+msgstr "Summons the active figurine on your paperdoll."
 
 msgid "desc_s_Summon Player"
 msgstr ""
@@ -2961,14 +2919,15 @@ msgid "desc_s_Tanning Skills"
 msgstr ""
 
 msgid "desc_s_Tarnish"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Acid protection."
+msgstr "Fires a missile that lowers a target's Acid protection."
 
 msgid "desc_s_Tarnish_1"
 msgstr ""
 
 msgid "desc_s_Telekinesis"
-msgstr "A column of telekinetic force that raises anyone within."
+msgstr ""
+"Creates a column of telekinetic force that lifts anyone inside over a short "
+"duration."
 
 msgid "desc_s_Telekinesis_1"
 msgstr ""
@@ -2989,7 +2948,7 @@ msgid "desc_s_Test Crafting Skill"
 msgstr ""
 
 msgid "desc_s_Throwing"
-msgstr "Lobs a battlespike which explodes upon impact."
+msgstr "Lobs a battlespike that explodes on impact."
 
 msgid "desc_s_Throwing Impact_large"
 msgstr ""
@@ -3007,9 +2966,7 @@ msgid "desc_s_Thrown Weapons"
 msgstr "Description of s_Thrown Weapons"
 
 msgid "desc_s_Thunderstorm"
-msgstr ""
-"A magical ray which brings forth a storm of lightning upon hitting its "
-"target. "
+msgstr "Calls down a lightning storm where the ray hits."
 
 msgid "desc_s_Thunderstorm_1"
 msgstr ""
@@ -3022,14 +2979,13 @@ msgstr ""
 "Improves movement speed while slowed due to carrying too heavy an inventory."
 
 msgid "desc_s_Tongue Rot"
-msgstr ""
-"Launches a missile that decreases the spell success rate of its target."
+msgstr "Hurls a missile that raises the target's chance of spell failure."
 
 msgid "desc_s_Tongue Rot_Penalty"
 msgstr ""
 
 msgid "desc_s_Tornado"
-msgstr "Summons a tornado around the caster. "
+msgstr "Deals Lightning damage to anything within a radius around the caster."
 
 msgid "desc_s_Tornado_1"
 msgstr ""
@@ -3038,8 +2994,7 @@ msgid "desc_s_Toughness"
 msgstr "Gives a small bonus to maximum Health."
 
 msgid "desc_s_Toxic Rain"
-msgstr ""
-"Fires a ray that conjures forth a magical rainstorm dealing Poison damage."
+msgstr "Conjures a rainstorm that deals Poison damage over time in an area."
 
 msgid "desc_s_Toxic Rain_1"
 msgstr ""
@@ -3051,8 +3006,7 @@ msgid "desc_s_Trueforge Weapon"
 msgstr "Grants a durability bonus to crafted weapons and staffs."
 
 msgid "desc_s_Unbroken Line"
-msgstr ""
-"Take far less damage from monsters for a short time. Ends if you enter PvP."
+msgstr "Briefly reduces damage you take from monsters. Ends if you enter PvP."
 
 msgid "desc_s_Unbroken Line_1"
 msgstr ""
@@ -3061,27 +3015,26 @@ msgid "desc_s_Unbroken Line_2"
 msgstr ""
 
 msgid "desc_s_Unburden"
-msgstr "Reduces the caster's Encumbrance."
+msgstr "Reduces your Encumbrance for a short time."
 
 msgid "desc_s_Unburden_1"
 msgstr ""
 
 msgid "desc_s_Undeath"
 msgstr ""
-"Fires a missile that inflicts a curse on its target, reducing or even "
-"negating natural Health regeneration."
+"Hurls a curse that reduces the target's natural Health regeneration rate."
 
 msgid "desc_s_Undeath_1"
 msgstr ""
 
 msgid "desc_s_Unholy Caress"
-msgstr "Fires a line causing Unholy damage on a single target. "
+msgstr "Strikes a single target with a ray of Unholy damage."
 
 msgid "desc_s_Unholy Caress_1"
 msgstr ""
 
 msgid "desc_s_Unholy Flames"
-msgstr "Fires a projectile that explodes upon impact causing Unholy damage. "
+msgstr "Hurls a projectile that explodes on impact, dealing Unholy damage."
 
 msgid "desc_s_Unholy Flames_area"
 msgstr ""
@@ -3099,15 +3052,13 @@ msgid "desc_s_Use Object"
 msgstr "Description of s_Use Object"
 
 msgid "desc_s_Vampiric Touch"
-msgstr ""
-"Fires a magical ray that drains the target's Health, transferring it to the "
-"caster. "
+msgstr "Drains the target's Health and gives it to you."
 
 msgid "desc_s_Vampiric Touch_1"
 msgstr ""
 
 msgid "desc_s_Vanguard Aura"
-msgstr "Shields party members near you while it holds."
+msgstr "Shields party members near you while active."
 
 msgid "desc_s_Vanguard Aura_1"
 msgstr ""
@@ -3119,9 +3070,7 @@ msgid "desc_s_Vanguard Skills"
 msgstr "Abilities of the Vanguard mastery."
 
 msgid "desc_s_Venom"
-msgstr ""
-"Fires a missile inflicting Poison damage on its target and lowering maximum "
-"Health."
+msgstr "Fires a missile that poisons a target and lowers maximum Health."
 
 msgid "desc_s_Venom_2"
 msgstr ""
@@ -3136,24 +3085,20 @@ msgid "desc_s_Veteran Mage"
 msgstr "Reduces the Stamina cost of spells."
 
 msgid "desc_s_Virtuous Wrath"
-msgstr "Launches a projectile that explodes upon impact causing Holy damage."
+msgstr "Fires a projectile that explodes for Holy damage on impact."
 
 msgid "desc_s_Virtuous Wrath_1"
 msgstr ""
 
 msgid "desc_s_Volcano"
-msgstr ""
-"Fires a magical ray which causes molten rock to spring forth from the ground "
-"causing Fire damage."
+msgstr "Fires a ray that makes molten rock erupt from the ground."
 
 msgid "desc_s_Volcano_1"
 msgstr ""
 
 msgid "desc_s_Volley"
 msgstr ""
-"Grants full Second Nature stacks, and for a short time every arrow you land "
-"on a monster strikes with spectral force for heavy bonus damage. Ends if you "
-"enter PvP."
+"Grants full Second Nature and briefly empowers your arrows against monsters."
 
 msgid "desc_s_Volley_1"
 msgstr ""
@@ -3162,15 +3107,13 @@ msgid "desc_s_Walk"
 msgstr "Description of s_Walk"
 
 msgid "desc_s_Wall of Fire"
-msgstr ""
-"Fires a magical ray which creates a large sphere of fire upon hitting its "
-"target."
+msgstr "Fires a ray that creates a large sphere of fire where it hits."
 
 msgid "desc_s_Wall of Fire_1"
 msgstr ""
 
 msgid "desc_s_Wall of Force"
-msgstr "Creates a magical bubble that impedes all movement."
+msgstr "Creates a magical bubble that impedes movement."
 
 msgid "desc_s_Wall of Force_force"
 msgstr ""
@@ -3184,7 +3127,7 @@ msgstr ""
 "foundry and press Use button to start crafting."
 
 msgid "desc_s_Water Breathing"
-msgstr "Grants a target an increase to lung capacity."
+msgstr "Lets a targeted player breathe underwater for longer."
 
 msgid "desc_s_Water Breathing_1"
 msgstr ""
@@ -3200,14 +3143,13 @@ msgstr ""
 "supernaturally intense chill, as well as magic to slow targets."
 
 msgid "desc_s_Weakening Blaze"
-msgstr ""
-"Launches a missile inflicting a penalty to its target's Fire protection."
+msgstr "Fires a missile that lowers a target's Fire protection."
 
 msgid "desc_s_Weakening Blaze_1"
 msgstr ""
 
 msgid "desc_s_Weakening Chill"
-msgstr "Fires a missile inflicting a penalty to its target's Cold protection."
+msgstr "Hurls a missile that lowers the target's Cold protection."
 
 msgid "desc_s_Weakening Chill_1"
 msgstr ""
@@ -3232,52 +3174,52 @@ msgid "desc_s_Weaving Skills"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Axe"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Axe_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Club"
-msgstr "A spinning attack bludgeoning everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Club_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Greataxe"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Greataxe_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Greatclub"
-msgstr "A spinning attack bludgeoning everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Greatclub_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Greatsword"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Greatsword_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Knife"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Knife_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Polearm"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Polearm_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Sithra"
-msgstr "A spinning attack damaging everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Sword"
-msgstr "A spinning attack slashing everyone adjacent."
+msgstr "Spins to strike every enemy around you."
 
 msgid "desc_s_Whirlwind Attack_Sword_1"
 msgstr ""
@@ -3304,7 +3246,7 @@ msgstr ""
 "precision."
 
 msgid "desc_s_Witches Brew"
-msgstr "Creates an instant healing sphere centered on the caster."
+msgstr "Instantly heals players around you."
 
 msgid "desc_s_Witches Brew_1"
 msgstr ""
