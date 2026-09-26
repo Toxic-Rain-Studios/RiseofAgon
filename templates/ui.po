@@ -41,6 +41,14 @@ msgstr "Waiting for team members to be ready"
 msgid "Filter:"
 msgstr "Filter:"
 
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
+msgstr ""
+"[Mastery] Your aura goes out - %1 is below mastery level %2. %3 essence "
+"returned for the time left."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_LOCKED"
+msgstr "[Mastery] %1 aura unlocks at mastery level %2. You are level %3."
+
 msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_OTHER"
 msgstr "[Mastery] Purification cleansed %1 from %2."
 
@@ -6235,9 +6243,6 @@ msgstr "Activate %1"
 msgid "mastery_activate_current"
 msgstr "Active"
 
-msgid "mastery_activate_unlearned"
-msgstr "Learn %1 from a Mastery Keeper"
-
 msgid "mastery_active_header"
 msgstr "Active: %1"
 
@@ -6779,7 +6784,7 @@ msgstr "Heals for 100%."
 
 msgid "mastery_alt_oracle_quickening_desc"
 msgstr ""
-"Bless Other and Adept also strip the newest debuff: bleeds, poison, "
+"Bless Other and Adept also strip the newest monster debuff: bleeds, poison, "
 "blindness, burning, freezing or acid."
 
 msgid "mastery_alt_oracle_quickening_name"
@@ -6960,6 +6965,9 @@ msgstr ""
 "Grants %1, a one-hour party aura bought with Ancient Essence. It gives %2 %3 "
 "and grows with every mastery level to %4 at level %5."
 
+msgid "mastery_aura_locked"
+msgstr "Aura unlocks at level %1"
+
 msgid "mastery_aura_step_desc"
 msgstr "Aura +%1. Now %2 %3."
 
@@ -7001,6 +7009,9 @@ msgstr "Trial %1 is ready. Take it at Slayer Master Aero"
 
 msgid "mastery_hotbar_hint"
 msgstr "Drag the aura and abilities below onto your hotbar."
+
+msgid "mastery_learn_at_slayer_master"
+msgstr "Learn at the Slayer Master"
 
 msgid "mastery_max_level"
 msgstr "Maximum level reached"
@@ -7070,11 +7081,11 @@ msgstr "%1 %2"
 msgid "mastery_open_track_button"
 msgstr "Open Mastery Track"
 
+msgid "mastery_orb_hint"
+msgstr "Tier gates cost orbs and essence."
+
 msgid "mastery_orb_needed"
 msgstr "Mastery Orb needed to advance past level %1"
-
-msgid "mastery_orb_sigil_hint"
-msgstr "Tier gates need a Mastery Orb; Sigils swap your active mastery."
 
 msgid "mastery_preview_note"
 msgstr "Preview. Not your active mastery."
@@ -7684,6 +7695,18 @@ msgstr "Tutorials"
 msgid "options_gui_tab_windows"
 msgstr "Windows"
 
+msgid "options_gui_telegraph_color"
+msgstr "Telegraph outline colour"
+
+msgid "options_gui_telegraph_fill_color"
+msgstr "Telegraph fill colour"
+
+msgid "options_gui_telegraph_fill_opacity"
+msgstr "Telegraph fill opacity"
+
+msgid "options_gui_telegraph_outline_opacity"
+msgstr "Telegraph outline opacity"
+
 msgid "options_gui_tooltip_speed"
 msgstr "Tooltip Speed"
 
@@ -7808,6 +7831,27 @@ msgstr "Device default"
 
 msgid "options_shader_version_ps3"
 msgstr "PS3_0"
+
+msgid "options_telegraph_color_blue"
+msgstr "Blue"
+
+msgid "options_telegraph_color_orange"
+msgstr "Orange"
+
+msgid "options_telegraph_color_purple"
+msgstr "Purple"
+
+msgid "options_telegraph_color_red"
+msgstr "Red"
+
+msgid "options_telegraph_color_white"
+msgstr "White"
+
+msgid "options_telegraph_color_yellow"
+msgstr "Yellow"
+
+msgid "options_telegraph_fill_same"
+msgstr "Same as outline"
 
 msgid "options_texture_filtering_anisotropic"
 msgstr "Anisotropic"
@@ -8435,7 +8479,7 @@ msgid "paperdoll_label_loot_bag"
 msgstr "Loot Bag"
 
 msgid "paperdoll_label_rune_book"
-msgstr "Rune Book"
+msgstr "Talisman"
 
 msgid "paperdoll_label_weapon_bar"
 msgstr "WEAPON BAR"

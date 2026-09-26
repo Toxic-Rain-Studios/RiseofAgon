@@ -11433,7 +11433,7 @@ msgid "NOTIFICATION_PVE_MASTERY_AEGIS_MIRRORED"
 msgstr "[Mastery] Aegis throws the spell back at its caster."
 
 msgid "NOTIFICATION_PVE_MASTERY_ALREADY_LEARNED"
-msgstr "[Mastery] You already walk the path of the %1. The sigil is untouched."
+msgstr "[Mastery] You already walk the path of the %1."
 
 msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
 msgstr "[Mastery] %1 needs %2 essence - attune Ancient Essence."
@@ -11575,8 +11575,8 @@ msgstr "[Mastery] %1 is not available yet."
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
 msgstr ""
-"[Mastery] You have not taken up the path of the %1. A Mastery Keeper sells "
-"its sigil."
+"[Mastery] You have not taken up the path of the %1. The Slayer Master "
+"teaches it."
 
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "[Mastery] %1 is already at the highest tier."

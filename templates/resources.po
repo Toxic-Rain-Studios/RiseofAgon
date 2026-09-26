@@ -9465,33 +9465,12 @@ msgstr ""
 "blocking attacks."
 
 msgid "desc_r_Mastery Items"
-msgstr "Orbs, essence and sigils for the mastery paths."
+msgstr "Orbs and essence for the mastery paths."
 
 msgid "desc_r_Mastery Orb"
 msgstr ""
 "A knot of bound power, prised from something strong enough to be worth "
 "killing."
-
-msgid "desc_r_Mastery Sigil Berserker"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Blightcaller"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Cutthroat"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Deadeye"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Elementalist"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Oracle"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
-
-msgid "desc_r_Mastery Sigil Vanguard"
-msgstr "Carry it to your mastery window to take up the path. It is consumed."
 
 msgid "desc_r_Matayin"
 msgstr " "
@@ -13298,6 +13277,11 @@ msgstr "Slayer Contract Board."
 
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Lets you hold one more slayer contract at a time."
+
+msgid "desc_r_Slayer Extra Talisman Slot"
+msgstr ""
+"Lets you wear one more Slayer talisman at a time. Each slot needs a higher "
+"Slayer level."
 
 msgid "desc_r_Slayer Services"
 msgstr "Unlocks a Slayer Master sells for slayer points."
@@ -28186,27 +28170,6 @@ msgstr "Mastery Items"
 msgid "r_Mastery Orb"
 msgstr "Mastery Orb"
 
-msgid "r_Mastery Sigil Berserker"
-msgstr "Sigil of the Berserker"
-
-msgid "r_Mastery Sigil Blightcaller"
-msgstr "Sigil of the Blightcaller"
-
-msgid "r_Mastery Sigil Cutthroat"
-msgstr "Sigil of the Cutthroat"
-
-msgid "r_Mastery Sigil Deadeye"
-msgstr "Sigil of the Deadeye"
-
-msgid "r_Mastery Sigil Elementalist"
-msgstr "Sigil of the Elementalist"
-
-msgid "r_Mastery Sigil Oracle"
-msgstr "Sigil of the Oracle"
-
-msgid "r_Mastery Sigil Vanguard"
-msgstr "Sigil of the Vanguard"
-
 msgid "r_Matayin"
 msgstr "Matayin"
 
@@ -32040,6 +32003,9 @@ msgstr "Slayer Cache Key"
 
 msgid "r_Slayer Contract Slot"
 msgstr "Contract Slot"
+
+msgid "r_Slayer Extra Talisman Slot"
+msgstr "Talisman Slot"
 
 msgid "r_Slayer Services"
 msgstr "Slayer Services"
