@@ -1265,8 +1265,8 @@ msgstr ""
 
 msgid "diary_text_quest_21252"
 msgstr ""
-"I looted a pair of Teeth from the goblins' graves and carried word of the "
-"raid back to Torvald."
+"I looted five Teeth from the goblins' graves and carried word of the raid "
+"back to Torvald."
 
 msgid "diary_text_quest_21253"
 msgstr "I killed a goblin shaman in the inner ring of the camp."
@@ -1428,8 +1428,8 @@ msgstr "I took hoarfrost from the irtych graves."
 
 msgid "diary_text_quest_21383"
 msgstr ""
-"Gallius paid me in timeless blood, and hinted his colleagues elsewhere may "
-"want me."
+"Gallius paid me in venom sacs, eyes and a Nith - with my goblin teeth, the "
+"makings of an enchantment."
 
 msgid "diary_text_quest_2139"
 msgstr ""
@@ -1440,6 +1440,9 @@ msgstr ""
 
 msgid "diary_text_quest_21391"
 msgstr "My work on Dawnshore is done. Bound the Ferryman is waiting."
+
+msgid "diary_text_quest_21392"
+msgstr "I made my first enchantment, Magnitude, at the Enchantment Station."
 
 msgid "diary_text_quest_214"
 msgstr ""
@@ -12873,14 +12876,20 @@ msgstr "Reagents like these are what enchanting is built on."
 msgid "end_text_quest_21383"
 msgstr ""
 "You have done well, cleansing the ocean of these monsters. As a reward, take "
-"this timeless blood and make good use of it. My colleagues may have use for "
-"your services yet. Farewell."
+"these: five venom sacs, five eyes and a Nith. With the teeth you kept from "
+"the goblins, you hold everything a Magnitude enchantment asks for. Let me "
+"show you what to do with them."
 
 msgid "end_text_quest_2139"
 msgstr "Greeting, I am Ugruk Elfstabber."
 
 msgid "end_text_quest_21391"
 msgstr "Greetings sir."
+
+msgid "end_text_quest_21392"
+msgstr ""
+"The gem now holds a Magnitude enchantment. To set it into your staff, double-"
+"click the gem and then click the staff."
 
 msgid "end_text_quest_214"
 msgstr "Ah, fresh fuel for the pyres. Here is the reward I promised you."
@@ -21911,7 +21920,7 @@ msgid "finished_text_quest_21251"
 msgstr "You killed 5 goblin scouts and 3 goblin fighters."
 
 msgid "finished_text_quest_21252"
-msgstr "You looted 2 Teeth. Now report to Torvald the Fighter."
+msgstr "You looted 5 Teeth. Now report to Torvald the Fighter."
 
 msgid "finished_text_quest_21253"
 msgstr "You killed the goblin shaman."
@@ -22057,6 +22066,9 @@ msgstr "You have made contact with Ugruk Elfstabber."
 
 msgid "finished_text_quest_21391"
 msgstr "You met Bound the Ferryman."
+
+msgid "finished_text_quest_21392"
+msgstr "You made a Magnitude enchantment."
 
 msgid "finished_text_quest_214"
 msgstr ""
@@ -31574,7 +31586,7 @@ msgid "name_quest_21251"
 msgstr "Quest 5 - step 1 - the skirmish"
 
 msgid "name_quest_21252"
-msgstr "Quest 5 - step 4 - the tooth, and word to Torvald"
+msgstr "Quest 5 - step 4 - the teeth, and word to Torvald"
 
 msgid "name_quest_21253"
 msgstr "Quest 5 - step 3 - the shaman"
@@ -31778,7 +31790,10 @@ msgid "name_quest_21390"
 msgstr "Quest 19"
 
 msgid "name_quest_21391"
-msgstr "Quest 19 - step 1 - the ferryman"
+msgstr "Quest 19 - step 2 - the ferryman"
+
+msgid "name_quest_21392"
+msgstr "Quest 19 - step 1 - the enchantment"
 
 msgid "name_quest_214"
 msgstr "Five timber in Chopping Necks"
@@ -42545,7 +42560,7 @@ msgid "short_desc_quest_21251"
 msgstr "Kill 5 goblin scouts and 3 goblin fighters."
 
 msgid "short_desc_quest_21252"
-msgstr "Loot 2 Teeth from graves, then report to Torvald."
+msgstr "Loot 5 Teeth from graves, then report to Torvald."
 
 msgid "short_desc_quest_21253"
 msgstr "Kill 1 goblin shaman in the inner ring."
@@ -42751,10 +42766,15 @@ msgid "short_desc_quest_2139"
 msgstr "Report to Ugruk Elfstabber."
 
 msgid "short_desc_quest_21390"
-msgstr "Meet Bound the Ferryman at the north point of the island."
+msgstr ""
+"Make a Magnitude enchantment, then meet Bound the Ferryman at the north "
+"point of the island."
 
 msgid "short_desc_quest_21391"
 msgstr "Convene with the Ferryman."
+
+msgid "short_desc_quest_21392"
+msgstr "Make a Magnitude enchantment at the Enchantment Station."
 
 msgid "short_desc_quest_214"
 msgstr "Gather five units of timber."
@@ -56926,9 +56946,9 @@ msgstr ""
 msgid "start_text_quest_21252"
 msgstr ""
 "Everything you kill leaves a grave. Look at one and press F to open it, then "
-"click an item to move it across to your backpack. Loot 2 Teeth, then report "
-"your success to Torvald at the war camp. He will want one of them; keep the "
-"other."
+"click an item to move it across to your backpack. Loot 5 Teeth, then report "
+"your success to Torvald at the war camp. Keep them - teeth are an enchanting "
+"ingredient, and you will want them later."
 
 msgid "start_text_quest_21253"
 msgstr ""
@@ -57347,11 +57367,19 @@ msgstr ""
 
 msgid "start_text_quest_21390"
 msgstr ""
-"Meet Bound the Ferryman at the northmost point of the island, your work here "
-"is complete."
+"Those ingredients are meant to be used. Make a Magnitude enchantment at the "
+"Enchantment Station in town, then meet Bound the Ferryman at the northmost "
+"point of the island - your work here will be complete."
 
 msgid "start_text_quest_21391"
 msgstr "Convene with the Ferryman."
+
+msgid "start_text_quest_21392"
+msgstr ""
+"Go to the Enchantment Station in town and press F to use it. On the Enchant "
+"tab, pick Staves and then Magnitude. Put a gem in the Gem slot, then your 5 "
+"Teeth, 5 Venom Sacs and 5 Eyes in the Components slots and the Nith in the "
+"Catalyst slot, and press Enchant. Every enchant costs 100 gold."
 
 msgid "start_text_quest_214"
 msgstr ""
@@ -87040,3 +87068,8 @@ msgstr ""
 
 msgid "use_skill_message_quest_21371"
 msgstr "^Cdarkfall^You have bought a spell upgrade for Light."
+
+msgid "use_skill_message_quest_21392"
+msgstr ""
+"^Cdarkfall^You have made a Magnitude enchantment ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
