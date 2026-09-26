@@ -1227,7 +1227,7 @@ msgstr ""
 "of the Axe in {$p11}."
 
 msgid "diary_text_quest_21231"
-msgstr "I equipped the Leafblade for my lesson with James the Mage."
+msgstr "I equipped a sword for my lesson with James the Mage."
 
 msgid "diary_text_quest_21232"
 msgstr "I equipped my shield."
@@ -21858,7 +21858,7 @@ msgid "finished_text_quest_2123"
 msgstr "You have made contact with Thain Strongforge."
 
 msgid "finished_text_quest_21231"
-msgstr "Your Leafblade is drawn."
+msgstr "Your sword is drawn."
 
 msgid "finished_text_quest_21232"
 msgstr "Your shield is equipped. Approach the mage totem."
@@ -40640,6 +40640,11 @@ msgstr "A New God?"
 msgid "name_quest_829"
 msgstr "The Legendary Fire"
 
+msgid "progress_text_quest_21311"
+msgstr ""
+"^Cdarkfall^You have crafted ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^Leather."
+
 msgid "progress_text_quest_21332"
 msgstr ""
 "^Cdarkfall^You have cooked ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
@@ -42465,10 +42470,10 @@ msgid "short_desc_quest_21230"
 msgstr "Train with James the Mage at the mage totem outside the command tent."
 
 msgid "short_desc_quest_21231"
-msgstr "Equip the Leafblade."
+msgstr "Equip a one-handed sword, such as your Leafblade."
 
 msgid "short_desc_quest_21232"
-msgstr "Equip the Feeble Shield."
+msgstr "Equip a shield, such as your Feeble Shield."
 
 msgid "short_desc_quest_21233"
 msgstr "Block 3 shots from the mage totem."
@@ -56776,13 +56781,13 @@ msgstr ""
 
 msgid "start_text_quest_21231"
 msgstr ""
-"Right click to draw your Leafblade and shield together. One press brings out "
-"the whole set."
+"Right click to draw a sword and shield together - the Leafblade and Feeble "
+"Shield you were given will do. One press brings out the whole set."
 
 msgid "start_text_quest_21232"
 msgstr ""
-"Your Feeble Shield comes out with the sword on the same right click. Press P "
-"to open your paperdoll and check it is on your arm."
+"Your shield comes out with the sword on the same right click. Press P to "
+"open your paperdoll and check it is on your arm."
 
 msgid "start_text_quest_21233"
 msgstr ""
@@ -86872,13 +86877,13 @@ msgstr ""
 
 msgid "use_skill_message_quest_21231"
 msgstr ""
-"^Cdarkfall^You have equipped your Leafblade ^Cwhite^%1 ^Cdarkfall^of "
-"^Cwhite^%2 ^Cdarkfall^times."
+"^Cdarkfall^You have equipped a sword ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21232"
 msgstr ""
-"^Cdarkfall^You have equipped your Feeble Shield ^Cwhite^%1 ^Cdarkfall^of "
-"^Cwhite^%2 ^Cdarkfall^times."
+"^Cdarkfall^You have equipped a shield ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21233"
 msgstr ""
