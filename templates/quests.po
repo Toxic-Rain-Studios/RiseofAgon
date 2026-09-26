@@ -1314,6 +1314,11 @@ msgid "diary_text_quest_21293"
 msgstr ""
 "I carried word back to Foreman Michael that the trolls were driven off."
 
+msgid "diary_text_quest_21294"
+msgstr ""
+"Foreman Michael gave me healing potions, and I put one on my hotbar before "
+"facing the trolls."
+
 msgid "diary_text_quest_2130"
 msgstr ""
 "I have killed five trolls, according to Stranglar Bloodaks's orders. The "
@@ -1386,7 +1391,7 @@ msgid "diary_text_quest_21333"
 msgstr "I carried my cooked catch back to Sorcha in Dawnshore."
 
 msgid "diary_text_quest_21341"
-msgstr "I tamed my first mount from Sorcha's steedgrass."
+msgstr "I tamed my first mount from Mary's steedgrass."
 
 msgid "diary_text_quest_21342"
 msgstr ""
@@ -1402,6 +1407,9 @@ msgstr "I bought the Side Step upgrade from Captain Darkblade."
 
 msgid "diary_text_quest_21352"
 msgstr "Darkblade was impressed with how quickly I picked up the sidestep."
+
+msgid "diary_text_quest_21353"
+msgstr "Captain Darkblade had me try out my new side step."
 
 msgid "diary_text_quest_21361"
 msgstr "I carried the garrison's tea up the cliff to Agent Gallius."
@@ -12592,8 +12600,8 @@ msgstr ""
 msgid "end_text_quest_21201"
 msgstr ""
 "You are now bound to this city, and you will return here in the case of "
-"death or when recalling. Now head to the War Camp, marked on your map to the "
-"north east and speak with Torvald the Fighter."
+"death or when recalling. Now tame yourself a mount with the steedgrass Mary "
+"gave you."
 
 msgid "end_text_quest_21202"
 msgstr ""
@@ -12734,6 +12742,12 @@ msgstr "A shaman at the breach. That is what brought them through."
 msgid "end_text_quest_21293"
 msgstr "Soldier, we are in your debt for holding them off. Thank you."
 
+msgid "end_text_quest_21294"
+msgstr ""
+"Good. Keep it within reach, and drink it when a fight turns against you. Now "
+"head down to the lowest level of the southern quarry and deal with those "
+"trolls."
+
 msgid "end_text_quest_2130"
 msgstr ""
 "You return victorious and with the information we seek. It was as we "
@@ -12820,7 +12834,8 @@ msgstr ""
 "at it. You may despawn your mount back into figurine form at any time with "
 "the alternate use button, G, while looking at it. Heal Mount, found in "
 "Lesser Magic, can be cast on your mount to restore its health when it takes "
-"damage."
+"damage. Now ride the crate north east to the War Camp and speak with Torvald "
+"the Fighter."
 
 msgid "end_text_quest_21344"
 msgstr ""
@@ -12832,6 +12847,10 @@ msgstr "You have now learned the arts of the sidestep from Darkblade."
 
 msgid "end_text_quest_21352"
 msgstr "You are a fast learner soldier. I am impressed."
+
+msgid "end_text_quest_21353"
+msgstr ""
+"That is it. A well timed side step will carry you out of the way of a blow."
 
 msgid "end_text_quest_21361"
 msgstr "Tea, delightful. Thank you for bringing this to me."
@@ -21808,7 +21827,7 @@ msgstr ""
 "Return to Magnus Forkbeard."
 
 msgid "finished_text_quest_21201"
-msgstr "You are bound to Dawnshore. Take the crate north east to the War Camp."
+msgstr "You are bound to Dawnshore."
 
 msgid "finished_text_quest_21202"
 msgstr "Torvald the Fighter has taken the crate."
@@ -21931,6 +21950,9 @@ msgstr "You killed the troll shaman."
 msgid "finished_text_quest_21293"
 msgstr "You reported back to Foreman Michael."
 
+msgid "finished_text_quest_21294"
+msgstr "You put a Moderate Healing Potion on your hotbar."
+
 msgid "finished_text_quest_2130"
 msgstr ""
 "Another troll falls, uttering no sound. You have killed at least five "
@@ -22007,6 +22029,9 @@ msgstr "You learned Side Step."
 
 msgid "finished_text_quest_21352"
 msgstr "You spoke to Captain Darkblade."
+
+msgid "finished_text_quest_21353"
+msgstr "You side stepped."
 
 msgid "finished_text_quest_21361"
 msgstr "Agent Gallius took the tea."
@@ -31458,7 +31483,7 @@ msgid "name_quest_21201"
 msgstr "Quest 1 - step 1 - bind at the Bindstone"
 
 msgid "name_quest_21202"
-msgstr "Quest 1 - step 2 - deliver the crate"
+msgstr "Quest 1 - step 4 - deliver the crate"
 
 msgid "name_quest_2121"
 msgstr "trolls behind the kobolds"
@@ -31518,10 +31543,10 @@ msgid "name_quest_21234"
 msgstr "Quest 4 - step 4 - mana missile"
 
 msgid "name_quest_21235"
-msgstr "Quest 4 - step 5 - transfer: mana to stamina"
+msgstr "Quest 4 - step 6 - transfer: mana to stamina"
 
 msgid "name_quest_21236"
-msgstr "Quest 4 - step 6 - transfer: stamina to health"
+msgstr "Quest 4 - step 5 - transfer: stamina to health"
 
 msgid "name_quest_21237"
 msgstr "Quest 4 - step 7 - transfer: health to mana"
@@ -31599,13 +31624,16 @@ msgid "name_quest_21290"
 msgstr "Quest 9"
 
 msgid "name_quest_21291"
-msgstr "Quest 9 - step 1 - the southern quarry"
+msgstr "Quest 9 - step 2 - the southern quarry"
 
 msgid "name_quest_21292"
-msgstr "Quest 9 - step 2 - the breach"
+msgstr "Quest 9 - step 3 - the breach"
 
 msgid "name_quest_21293"
-msgstr "Quest 9 - step 3 - report to the foreman"
+msgstr "Quest 9 - step 4 - report to the foreman"
+
+msgid "name_quest_21294"
+msgstr "Quest 9 - step 1 - the potion"
 
 msgid "name_quest_213"
 msgstr "Stone for the Small Stair"
@@ -31686,13 +31714,13 @@ msgid "name_quest_21340"
 msgstr "Quest 14"
 
 msgid "name_quest_21341"
-msgstr "Quest 14 - step 1 - taming"
+msgstr "Quest 1 - step 2 - taming"
 
 msgid "name_quest_21342"
-msgstr "Quest 14 - step 2 - summoning"
+msgstr "Quest 1 - step 3 - summoning"
 
 msgid "name_quest_21344"
-msgstr "Quest 14 - step 4 - the Outpost"
+msgstr "Quest 14 - step 1 - the Outpost"
 
 msgid "name_quest_2135"
 msgstr "Strength of the trolls"
@@ -31704,7 +31732,10 @@ msgid "name_quest_21351"
 msgstr "Quest 15 - step 1 - the sidestep"
 
 msgid "name_quest_21352"
-msgstr "Quest 15 - step 2 - report"
+msgstr "Quest 15 - step 3 - report"
+
+msgid "name_quest_21353"
+msgstr "Quest 15 - step 2 - side step"
 
 msgid "name_quest_2136"
 msgstr "Choice of the Lords"
@@ -42416,7 +42447,8 @@ msgstr "Kill six kobolds."
 
 msgid "short_desc_quest_21200"
 msgstr ""
-"Bind at the Dawnshore Bindstone, then take the crate to Torvald the Fighter."
+"Bind at the Dawnshore Bindstone, tame a mount, then take the crate to "
+"Torvald the Fighter."
 
 msgid "short_desc_quest_21201"
 msgstr "Bind at the Dawnshore Bindstone."
@@ -42561,7 +42593,9 @@ msgid "short_desc_quest_2129"
 msgstr "Gather three units of troll blood."
 
 msgid "short_desc_quest_21290"
-msgstr "Drive the trolls out of the southern quarry for Foreman Michael."
+msgstr ""
+"Take Foreman Michael's healing potions, then drive the trolls out of the "
+"southern quarry."
 
 msgid "short_desc_quest_21291"
 msgstr "Kill 3 trolls in the southern quarry."
@@ -42571,6 +42605,9 @@ msgstr "Kill 1 troll shaman in the cave."
 
 msgid "short_desc_quest_21293"
 msgstr "Return to Foreman Michael."
+
+msgid "short_desc_quest_21294"
+msgstr "Drag a Moderate Healing Potion onto slot 7 of your hotbar."
 
 msgid "short_desc_quest_213"
 msgstr "Gather five units of stone."
@@ -42650,7 +42687,7 @@ msgid "short_desc_quest_2134"
 msgstr "Gather three units of troll blood."
 
 msgid "short_desc_quest_21340"
-msgstr "Tame a mount, then carry supplies to the Outpost."
+msgstr "Carry supplies to the Outpost."
 
 msgid "short_desc_quest_21341"
 msgstr "Tame a mount."
@@ -42665,13 +42702,16 @@ msgid "short_desc_quest_2135"
 msgstr "Kill five trolls."
 
 msgid "short_desc_quest_21350"
-msgstr "Learn a melee upgrade from Captain Darkblade."
+msgstr "Learn a melee upgrade from Captain Darkblade, and try it out."
 
 msgid "short_desc_quest_21351"
 msgstr "Buy the Side Step upgrade from Captain Darkblade."
 
 msgid "short_desc_quest_21352"
 msgstr "Speak to Captain Darkblade."
+
+msgid "short_desc_quest_21353"
+msgstr "Side step in any direction with a melee weapon drawn."
 
 msgid "short_desc_quest_2136"
 msgstr "Collect a Ravager from the Troll Lords."
@@ -56700,10 +56740,11 @@ msgstr ""
 msgid "start_text_quest_21200"
 msgstr ""
 "Welcome to Dawnshore. There is an incursion of goblins east of the city. "
-"Bind at our Bindstone, then deliver this crate to Torvald the Fighter. I "
-"have marked his location, as well as our Bindstone on your map. Open your "
-"map by pressing M, and your backpack by pressing B - the crate is waiting in "
-"there."
+"First, bind at our Bindstone. Then tame yourself a mount with this "
+"steedgrass, and ride this crate out to Torvald the Fighter. I have marked "
+"his location, as well as our Bindstone on your map. Open your map by "
+"pressing M, and your backpack by pressing B - the steedgrass and the crate "
+"are waiting in there."
 
 msgid "start_text_quest_21201"
 msgstr ""
@@ -56711,7 +56752,7 @@ msgstr ""
 
 msgid "start_text_quest_21202"
 msgstr ""
-"Head north east to the War Camp, marked on your map, and speak with Torvald "
+"Ride north east to the War Camp, marked on your map, and speak with Torvald "
 "the Fighter."
 
 msgid "start_text_quest_2121"
@@ -56803,13 +56844,13 @@ msgstr ""
 "then hit the mage totem with it 3 times."
 
 msgid "start_text_quest_21235"
-msgstr ""
-"Transfers are the most important spells you own. Each one spends part of one "
-"stat to refill another. You already have all three. Press 1 to cast Mana to "
-"Stamina."
+msgstr "Press 2 to cast Mana to Stamina."
 
 msgid "start_text_quest_21236"
-msgstr "Press 2 to cast Stamina to Health."
+msgstr ""
+"Transfers are the most important spells you own. Each one spends part of one "
+"stat to refill another. You already have all three. Press 1 to cast Stamina "
+"to Health."
 
 msgid "start_text_quest_21237"
 msgstr "Press 3 to cast Health to Mana."
@@ -56976,8 +57017,10 @@ msgstr ""
 
 msgid "start_text_quest_21290"
 msgstr ""
-"If you are capable, head down to the lowest level and fight off the trolls "
-"while we secure the upper level."
+"You will want these before you go down there. Take these healing potions, "
+"and keep one where you can reach it in a hurry. Then, if you are capable, "
+"head down to the lowest level and fight off the trolls while we secure the "
+"upper level."
 
 msgid "start_text_quest_21291"
 msgstr "Descend into the southern quarry and kill 3 trolls."
@@ -56988,6 +57031,12 @@ msgstr ""
 
 msgid "start_text_quest_21293"
 msgstr "You have weakened the trolls, return to Foreman Michael."
+
+msgid "start_text_quest_21294"
+msgstr ""
+"Foreman Michael has given you three Moderate Healing Potions. Open your "
+"backpack by pressing B, then drag one of them onto slot 7 of your hotbar, "
+"marked for you."
 
 msgid "start_text_quest_213"
 msgstr ""
@@ -57162,19 +57211,20 @@ msgstr ""
 msgid "start_text_quest_21340"
 msgstr ""
 "Hello soldier, how are you? You look like you need a cloth to dry off... "
-"anyway, Mary has instructed me to teach you how to tame a mount. Then, you "
-"can use that mount to ride over to the Outpost North West of the city and "
-"deliver these supplies to the soldiers stationed there. They are very eager "
-"to receive them."
+"anyway, Mary has asked me to send you to the Outpost North West of the city "
+"with these supplies. Ride your mount over and deliver them to the soldiers "
+"stationed there. They are very eager to receive them."
 
 msgid "start_text_quest_21341"
 msgstr ""
-"Sorcha has given you steedgrass, a food favored by mounts. Open the menu at "
+"Mary has given you steedgrass, a food favored by mounts. Open the menu at "
 "the top of your screen, go to the remote crafting tab, and use the Taming "
 "skill to craft a mount."
 
 msgid "start_text_quest_21342"
-msgstr "To spawn your mount, use the Summon Mount skill from your hotbar."
+msgstr ""
+"To spawn your mount, use the Summon Mount skill on your hotbar - key 8 by "
+"default."
 
 msgid "start_text_quest_21344"
 msgstr ""
@@ -57202,6 +57252,12 @@ msgstr ""
 
 msgid "start_text_quest_21352"
 msgstr "Speak to him again."
+
+msgid "start_text_quest_21353"
+msgstr ""
+"Now try it out. Take out a melee weapon, then double tap a movement key - W, "
+"A, S or D - to side step in that direction. You can also hold the movement "
+"key and press Left Alt."
 
 msgid "start_text_quest_2136"
 msgstr ""
@@ -86940,6 +86996,11 @@ msgstr ""
 "^Cdarkfall^You have emptied your loot bag into the bank ^Cwhite^%1 "
 "^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
 
+msgid "use_skill_message_quest_21294"
+msgstr ""
+"^Cdarkfall^You have put a Moderate Healing Potion on hotbar slot 7 "
+"^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
 msgid "use_skill_message_quest_21305"
 msgstr ""
 "^Cdarkfall^You have recalled to the Dawnshore Bindstone ^Cwhite^%1 "
@@ -86952,6 +87013,11 @@ msgstr ""
 
 msgid "use_skill_message_quest_21351"
 msgstr "^Cdarkfall^You have bought the Side Step upgrade."
+
+msgid "use_skill_message_quest_21353"
+msgstr ""
+"^Cdarkfall^You have side stepped ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
 
 msgid "use_skill_message_quest_21371"
 msgstr "^Cdarkfall^You have bought a spell upgrade for Light."

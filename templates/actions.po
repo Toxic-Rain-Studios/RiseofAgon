@@ -158,6 +158,9 @@ msgstr "Select_Previous_Skill"
 msgid "a_Select_Revive_Skill"
 msgstr "Select_Revive_Skill"
 
+msgid "a_Side_Step"
+msgstr "Side Step"
+
 msgid "a_SkillActions"
 msgstr "SkillActions"
 
@@ -392,6 +395,12 @@ msgstr " "
 
 msgid "desc_a_Select_Revive_Skill"
 msgstr " "
+
+msgid "desc_a_Side_Step"
+msgstr ""
+"With a melee weapon out, side step the way you are moving: press it while "
+"holding a movement key, or hold it and press one. Double tapping a movement "
+"key does the same."
 
 msgid "desc_a_SkillActions"
 msgstr "SuperAction of skill actions"
