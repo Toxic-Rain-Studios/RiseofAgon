@@ -6983,6 +6983,12 @@ msgstr "Chat message could not be sent: Access denied."
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN"
 msgstr "You are on cooldown in this channel for %1"
 
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_MINUTES"
+msgstr "You are on cooldown in this channel for %1 minutes and %2 seconds."
+
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_SECONDS"
+msgstr "You are on cooldown in this channel for %1 seconds."
+
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
 msgstr "You don't have access to the new player channel."
 
@@ -9792,6 +9798,66 @@ msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr ""
 "You were added to the new player channel because your alignment is greater "
 "than ^Ccyan^%1."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
+msgstr "You are already in the New Player channel."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
+msgstr ""
+"Your account still counts as a new player: you keep your place in the New "
+"Player channel and the helper message cooldown no longer applies to you."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
+msgstr ""
+"You joined the New Player channel as a helper for this session. Helpers can "
+"send one message every %1 seconds. Type /newplayer_leave to leave."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
+msgstr "%1 joined New Player chat as a helper."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
+msgstr "You left the New Player channel."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
+msgstr "%1 left New Player chat."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
+msgstr "You are not in the New Player channel as a helper."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
+msgstr "Checking whether you still count as a new player, one moment."
+
+msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
+msgstr ""
+"You are not in the New Player channel because you left it. Type /"
+"newplayer_helper to rejoin."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED"
+msgstr "You are muted in the New Player channel and cannot write in it."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
+msgstr ""
+"A Game Master has muted you in the New Player channel. You can still read "
+"it, but not write in it."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
+msgstr ""
+"A Game Master has muted you in the New Player channel. You can still read "
+"it, but not write in it. Reason: %1"
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
+msgstr "%1 was muted in New Player chat by %2."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
+msgstr "%1 was muted in New Player chat by %2. Reason: %3"
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
+msgstr ""
+"Your New Player channel mute has been lifted. You can write in the channel "
+"again."
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
+msgstr "%1 was unmuted in New Player chat by %2."
 
 msgid "NOTIFICATION_NICK_NOT_FOUND"
 msgstr "Could not find any '%1'"
