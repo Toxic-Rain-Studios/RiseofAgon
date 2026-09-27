@@ -5694,6 +5694,42 @@ msgstr "Structures"
 msgid "map_options_section_tooltips"
 msgstr "Tooltips"
 
+msgid "map_region_alfarlands"
+msgstr "Alfar lands"
+
+msgid "map_region_cairn"
+msgstr "Cairn"
+
+msgid "map_region_center"
+msgstr "Agon"
+
+msgid "map_region_dwarflands"
+msgstr "Dwarf lands"
+
+msgid "map_region_elflands"
+msgstr "Mirdain lands"
+
+msgid "map_region_humanlands"
+msgstr "Human lands"
+
+msgid "map_region_mahirimlands"
+msgstr "Mahirim lands"
+
+msgid "map_region_niflheim"
+msgstr "Niflheim"
+
+msgid "map_region_orclands"
+msgstr "Orc lands"
+
+msgid "map_region_rubaiyat"
+msgstr "Rubaiyat"
+
+msgid "map_region_sea"
+msgstr "Islands and seas"
+
+msgid "map_region_yssam"
+msgstr "Yssam"
+
 msgid "map_tooltip_contested_by"
 msgstr "%1 by %2"
 
@@ -5726,6 +5762,32 @@ msgstr "Window closes in %1"
 
 msgid "map_tooltip_faction_city_window_opens"
 msgstr "Window opens in %1"
+
+msgid "map_tooltip_overlay_political_legend"
+msgstr ""
+"Purple: Scourge of Nagast. Green: Righteous Trinity. Brown: Savage Raiders. "
+"Other colours are clans; grey is unowned."
+
+msgid "map_tooltip_overlay_region"
+msgstr "Region: %1"
+
+msgid "map_tooltip_overlay_region_desc"
+msgstr "The player market shows listings from the region you are in."
+
+msgid "map_tooltip_overlay_territory_contested"
+msgstr "A glyph here is being challenged."
+
+msgid "map_tooltip_overlay_territory_immune"
+msgstr "Recently captured - cannot be challenged yet."
+
+msgid "map_tooltip_overlay_territory_owned"
+msgstr "Territory of %1 (%2 bonus)"
+
+msgid "map_tooltip_overlay_territory_unowned"
+msgstr "Unowned territory"
+
+msgid "map_tooltip_overlay_tile_rating"
+msgstr "Tile rating: %1"
 
 msgid "map_tooltip_prefix_annotation"
 msgstr "Annotation: %1"
@@ -5822,6 +5884,31 @@ msgstr "%1"
 
 msgid "map_tooltip_tile_offset"
 msgstr "Local coords: %1x/%2y"
+
+msgid "map_tooltip_tile_rating_lawful"
+msgstr "Lawful (yellow)"
+
+msgid "map_tooltip_tile_rating_lawful_desc"
+msgstr ""
+"Lawful players keep their equipped gear on death, but drop their backpack."
+
+msgid "map_tooltip_tile_rating_lawless"
+msgstr "Lawless (red)"
+
+msgid "map_tooltip_tile_rating_lawless_desc"
+msgstr "Full loot: everyone drops their gear and backpack on death."
+
+msgid "map_tooltip_tile_rating_neutral"
+msgstr "Neutral (yellow)"
+
+msgid "map_tooltip_tile_rating_neutral_desc"
+msgstr "Full loot: everyone drops their gear and backpack on death."
+
+msgid "map_tooltip_tile_rating_protected"
+msgstr "Safe zone (blue)"
+
+msgid "map_tooltip_tile_rating_protected_desc"
+msgstr "Lawful players keep their gear and backpack on death."
 
 msgid "market_apply_filter"
 msgstr "Apply Filter"
