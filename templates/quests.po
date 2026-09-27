@@ -1264,9 +1264,7 @@ msgstr ""
 "the war camp."
 
 msgid "diary_text_quest_21252"
-msgstr ""
-"I looted five Teeth from the goblins' graves and carried word of the raid "
-"back to Torvald."
+msgstr "I carried word of the raid back to Torvald."
 
 msgid "diary_text_quest_21253"
 msgstr "I killed a goblin shaman in the inner ring of the camp."
@@ -1456,6 +1454,11 @@ msgstr ""
 "I have killed six of the lower ranking bandit orks that were hiding in the "
 "abandoned military outpost in {$u14}. Three Ork Thugs and tree Ork Bruisers. "
 "Their bandit raiding days will soon be over."
+
+msgid "diary_text_quest_21401"
+msgstr ""
+"I looted five Teeth from the goblins' graves and showed them to Torvald, who "
+"let me keep them."
 
 msgid "diary_text_quest_2141"
 msgstr ""
@@ -12899,6 +12902,12 @@ msgstr ""
 "Let this be a lesson to all who would turn against the might of the orks. "
 "You have done well."
 
+msgid "end_text_quest_21401"
+msgstr ""
+"Five, and not a chipped one among them. Keep them - teeth are an enchanting "
+"ingredient, and you will want them later. I only needed to know you could "
+"bring them back."
+
 msgid "end_text_quest_2141"
 msgstr ""
 "Well done. The hivekin are a plague. If we hadn't acted now, very soon this "
@@ -21920,7 +21929,7 @@ msgid "finished_text_quest_21251"
 msgstr "You killed 5 goblin scouts and 3 goblin fighters."
 
 msgid "finished_text_quest_21252"
-msgstr "You looted 5 Teeth. Now report to Torvald the Fighter."
+msgstr "You reported to Torvald the Fighter."
 
 msgid "finished_text_quest_21253"
 msgstr "You killed the goblin shaman."
@@ -22080,6 +22089,9 @@ msgstr ""
 "With a low growl, another bandit ork crushes to the ground. You have killed "
 "three Ork Thugs and three Ork Bruisers. Return to Ugruk Elfstabber and claim "
 "your reward."
+
+msgid "finished_text_quest_21401"
+msgstr "You looted 5 Teeth. Now take them to Torvald the Fighter."
 
 msgid "finished_text_quest_2141"
 msgstr ""
@@ -31586,7 +31598,7 @@ msgid "name_quest_21251"
 msgstr "Quest 5 - step 1 - the skirmish"
 
 msgid "name_quest_21252"
-msgstr "Quest 5 - step 4 - the teeth, and word to Torvald"
+msgstr "Quest 5 - step 5 - word to Torvald"
 
 msgid "name_quest_21253"
 msgstr "Quest 5 - step 3 - the shaman"
@@ -31800,6 +31812,12 @@ msgstr "Five timber in Chopping Necks"
 
 msgid "name_quest_2140"
 msgstr "kill ork bandits"
+
+msgid "name_quest_21400"
+msgstr "Quest 20"
+
+msgid "name_quest_21401"
+msgstr "Quest 20 - step 1 - the teeth"
 
 msgid "name_quest_2141"
 msgstr "stop the hivekin"
@@ -42560,7 +42578,7 @@ msgid "short_desc_quest_21251"
 msgstr "Kill 5 goblin scouts and 3 goblin fighters."
 
 msgid "short_desc_quest_21252"
-msgstr "Loot 5 Teeth from graves, then report to Torvald."
+msgstr "Report your success to Torvald the Fighter."
 
 msgid "short_desc_quest_21253"
 msgstr "Kill 1 goblin shaman in the inner ring."
@@ -42781,6 +42799,12 @@ msgstr "Gather five units of timber."
 
 msgid "short_desc_quest_2140"
 msgstr "Kill three Ork Thugs and three Ork Bruisers."
+
+msgid "short_desc_quest_21400"
+msgstr "Loot 5 Teeth from the goblins' graves for Torvald."
+
+msgid "short_desc_quest_21401"
+msgstr "Loot 5 Teeth from graves, then take them to Torvald."
 
 msgid "short_desc_quest_2141"
 msgstr "Kill five Hivekin Foragers."
@@ -56944,11 +56968,7 @@ msgstr ""
 "fighters. The camp is marked on your map."
 
 msgid "start_text_quest_21252"
-msgstr ""
-"Everything you kill leaves a grave. Look at one and press F to open it, then "
-"click an item to move it across to your backpack. Loot 5 Teeth, then report "
-"your success to Torvald at the war camp. Keep them - teeth are an enchanting "
-"ingredient, and you will want them later."
+msgstr "Carry word of the raid back to Torvald at the war camp."
 
 msgid "start_text_quest_21253"
 msgstr ""
@@ -57174,7 +57194,9 @@ msgstr ""
 msgid "start_text_quest_21313"
 msgstr ""
 "Go to the anvil and forge 3 Shortswords and 6 Chain Hauberks with "
-"Weaponsmithing and Armorsmithing."
+"Weaponsmithing and Armorsmithing. The crate holds exactly what the order "
+"takes, so make nothing else with it - if you do run short of iron or timber, "
+"the quarry and the woods have more."
 
 msgid "start_text_quest_21314"
 msgstr ""
@@ -57390,6 +57412,18 @@ msgid "start_text_quest_2140"
 msgstr ""
 "You have accepted a quest from Ugruk Elfstabber. Kill three Ork Thugs and "
 "three Ork Bruisers in {$u14}."
+
+msgid "start_text_quest_21400"
+msgstr ""
+"One more thing, while you are out there. Every goblin you put down leaves a "
+"grave, and every grave has teeth in it. Bring me five. I will not ask what "
+"for."
+
+msgid "start_text_quest_21401"
+msgstr ""
+"Everything you kill leaves a grave. Look at one and press F to open it, then "
+"click an item to move it across to your backpack. Loot 5 Teeth and take them "
+"to Torvald at the war camp."
 
 msgid "start_text_quest_2141"
 msgstr ""
