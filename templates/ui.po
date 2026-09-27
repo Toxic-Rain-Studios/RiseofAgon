@@ -5682,6 +5682,35 @@ msgstr "Max"
 msgid "map_option_advanced_coordinates"
 msgstr "Advanced coordinates"
 
+msgid "map_options_overlay_hover_hint"
+msgstr "Hover the map for details on any tile."
+
+msgid "map_options_overlay_political_tooltip_1"
+msgstr "Who holds each territory through its glyph, and the bonus it gives."
+
+msgid "map_options_overlay_political_tooltip_2"
+msgstr "A pulsing territory has a glyph under challenge."
+
+msgid "map_options_overlay_regions_tooltip_1"
+msgstr ""
+"Market regions: the player market shows listings from the region you are in."
+
+msgid "map_options_overlay_regions_tooltip_2"
+msgstr ""
+"Niflheim, Yssam, Rubaiyat, Cairn, Agon and the seas. The pink areas are the "
+"race homelands."
+
+msgid "map_options_overlay_tile_rating_tooltip_1"
+msgstr "Blue: safe zone. Lawful players keep their gear and backpack on death."
+
+msgid "map_options_overlay_tile_rating_tooltip_2"
+msgstr ""
+"Yellow: lawful. Lawful players keep their equipped gear, but the backpack "
+"drops."
+
+msgid "map_options_overlay_tile_rating_tooltip_3"
+msgstr "Red: lawless. Full loot for everyone."
+
 msgid "map_options_section_monster_types"
 msgstr "Monster Types"
 
