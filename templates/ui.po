@@ -5896,6 +5896,14 @@ msgstr "Safe zone"
 msgid "map_tooltip_tile_rating_protected_desc"
 msgstr "Lawful players keep their gear and backpack on death."
 
+msgid "map_tt_advanced_coordinates"
+msgstr "Shows positions in the map tooltip as longitude and latitude."
+
+msgid "map_tt_advanced_coordinates_off"
+msgstr ""
+"When off, positions are metres inside the tile, measured from its bottom-"
+"left corner."
+
 msgid "map_tt_alliance_nagast"
 msgstr "Purple - Scourge of Nagast"
 
@@ -5936,6 +5944,46 @@ msgstr "Territory:"
 
 msgid "map_tt_sec_tile_rating"
 msgstr "Tile Rating:"
+
+msgid "map_tt_spawn_boss"
+msgstr "Shows boss spawn points."
+
+msgid "map_tt_spawn_champion"
+msgstr "Shows champion spawn points."
+
+msgid "map_tt_spawn_difficulty"
+msgstr "Shows monster spawn points of this difficulty."
+
+msgid "map_tt_spawn_dungeon"
+msgstr "Shows monster spawn points inside dungeons."
+
+msgid "map_tt_spawn_range"
+msgstr "Only spawns within the Monster Location Range are shown."
+
+msgid "map_tt_struct_clan_cities"
+msgstr "Shows cities and hamlets held by player clans."
+
+msgid "map_tt_struct_dungeons"
+msgstr "Shows dungeon entrances."
+
+msgid "map_tt_struct_faction_cities"
+msgstr ""
+"Shows the holdings the race alliances fight over, in the owner's colour:"
+
+msgid "map_tt_struct_faction_cities_click"
+msgstr "Click one on the map to see its status."
+
+msgid "map_tt_struct_glyphs"
+msgstr "Shows the rune glyphs. Holding a glyph claims its territory and bonus."
+
+msgid "map_tt_struct_glyphs_political"
+msgstr "Turn on the Political overlay to see who holds each territory."
+
+msgid "map_tt_struct_npc_cities"
+msgstr "Shows cities and capitals run by NPCs."
+
+msgid "map_tt_struct_villages"
+msgstr "Shows villages that clans can capture and hold."
 
 msgid "map_tt_territory_body"
 msgstr "Holding a territory's glyph grants its bonus to the owner."
