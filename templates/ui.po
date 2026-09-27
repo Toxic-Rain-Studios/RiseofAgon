@@ -5698,7 +5698,7 @@ msgid "map_tooltip_contested_by"
 msgstr "%1 by %2"
 
 msgid "map_tooltip_faction_city_counting_down"
-msgstr "Vulnerable - shield dropping"
+msgstr "Towers down - bind stone still shielded"
 
 msgid "map_tooltip_faction_city_invulnerable"
 msgstr "Invulnerable"
@@ -5710,10 +5710,10 @@ msgid "map_tooltip_faction_city_protection_ends"
 msgstr "Protection ends in %1"
 
 msgid "map_tooltip_faction_city_shield_drops"
-msgstr "Shield drops in %1"
+msgstr "Bind stone attackable in %1"
 
 msgid "map_tooltip_faction_city_shielded"
-msgstr "Vulnerable - kill the guard towers"
+msgstr "Siege open - destroy the guard towers"
 
 msgid "map_tooltip_faction_city_towers"
 msgstr "Guard towers %1 of %2"
@@ -9233,7 +9233,7 @@ msgid "structure_status_disabled"
 msgstr "Disabled"
 
 msgid "structure_status_faction_bind_stone_counting_down"
-msgstr "Vulnerable - shield drops in %1"
+msgstr "Towers down - bind stone attackable in %1"
 
 msgid "structure_status_faction_bind_stone_invulnerable"
 msgstr "Invulnerable - %1"
@@ -9242,16 +9242,16 @@ msgid "structure_status_faction_bind_stone_protected"
 msgstr "Recently captured - %1"
 
 msgid "structure_status_faction_bind_stone_shielded"
-msgstr "Vulnerable - guard towers standing"
+msgstr "Destroy the guard towers"
 
 msgid "structure_status_faction_bind_stone_shielded_timed"
-msgstr "Vulnerable - window closes in %1"
+msgstr "Destroy the guard towers - window closes in %1"
 
 msgid "structure_status_faction_bind_stone_vulnerable"
-msgstr "VULNERABLE - KILL THE BIND STONE!"
+msgstr "KILL THE BIND STONE!"
 
 msgid "structure_status_faction_bind_stone_vulnerable_timed"
-msgstr "VULNERABLE - KILL THE BIND STONE! %1"
+msgstr "KILL THE BIND STONE! - window closes in %1"
 
 msgid "structure_status_restoring"
 msgstr "Restoring - %1"
