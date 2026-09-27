@@ -9247,6 +9247,30 @@ msgstr "LV %1"
 msgid "skillcard_shared_cooldown"
 msgstr "Shared cooldown: %1"
 
+msgid "skillext_header"
+msgstr "Choose upgrade to apply to %1 - one upgrade per slot"
+
+msgid "skillext_name_blocked"
+msgstr "%1 (blocked)"
+
+msgid "skillext_tt_blocked"
+msgstr "You own %1. Remove it before buying this."
+
+msgid "skillext_tt_owned"
+msgstr "You own this upgrade."
+
+msgid "skillext_tt_replaces"
+msgstr "Buying this replaces %1."
+
+msgid "skillext_tt_sec_conflict"
+msgstr "Cannot Combine With:"
+
+msgid "skillext_tt_sec_slot"
+msgstr "Slot:"
+
+msgid "skillext_tt_slot_members"
+msgstr "You can hold one upgrade from this slot: %1."
+
 msgid "skills_by_preset_order"
 msgstr "By preset order"
 
