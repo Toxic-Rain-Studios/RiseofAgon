@@ -5700,6 +5700,12 @@ msgstr "Vulnerable - shield dropping"
 msgid "map_tooltip_faction_city_invulnerable"
 msgstr "Invulnerable"
 
+msgid "map_tooltip_faction_city_protected"
+msgstr "Protected - recently captured"
+
+msgid "map_tooltip_faction_city_protection_ends"
+msgstr "Protection ends in %1"
+
 msgid "map_tooltip_faction_city_shield_drops"
 msgstr "Shield drops in %1"
 
@@ -9228,6 +9234,9 @@ msgstr "Vulnerable - shield drops in %1"
 
 msgid "structure_status_faction_bind_stone_invulnerable"
 msgstr "Invulnerable - %1"
+
+msgid "structure_status_faction_bind_stone_protected"
+msgstr "Protected - %1"
 
 msgid "structure_status_faction_bind_stone_shielded"
 msgstr "Vulnerable - guard towers standing"
