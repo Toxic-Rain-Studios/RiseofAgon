@@ -5682,35 +5682,6 @@ msgstr "Max"
 msgid "map_option_advanced_coordinates"
 msgstr "Advanced coordinates"
 
-msgid "map_options_overlay_hover_hint"
-msgstr "Hover the map for details on any tile."
-
-msgid "map_options_overlay_political_tooltip_1"
-msgstr "Who holds each territory through its glyph, and the bonus it gives."
-
-msgid "map_options_overlay_political_tooltip_2"
-msgstr "A pulsing territory has a glyph under challenge."
-
-msgid "map_options_overlay_regions_tooltip_1"
-msgstr ""
-"Market regions: the player market shows listings from the region you are in."
-
-msgid "map_options_overlay_regions_tooltip_2"
-msgstr ""
-"Niflheim, Yssam, Rubaiyat, Cairn, Agon and the seas. The pink areas are the "
-"race homelands."
-
-msgid "map_options_overlay_tile_rating_tooltip_1"
-msgstr "Blue: safe zone. Lawful players keep their gear and backpack on death."
-
-msgid "map_options_overlay_tile_rating_tooltip_2"
-msgstr ""
-"Yellow: lawful. Lawful players keep their equipped gear, but the backpack "
-"drops."
-
-msgid "map_options_overlay_tile_rating_tooltip_3"
-msgstr "Red: lawless. Full loot for everyone."
-
 msgid "map_options_section_monster_types"
 msgstr "Monster Types"
 
@@ -5792,14 +5763,6 @@ msgstr "Window closes in %1"
 msgid "map_tooltip_faction_city_window_opens"
 msgstr "Window opens in %1"
 
-msgid "map_tooltip_overlay_political_legend"
-msgstr ""
-"Purple: Scourge of Nagast. Green: Righteous Trinity. Brown: Savage Raiders. "
-"Other colours are clans; grey is unowned."
-
-msgid "map_tooltip_overlay_region"
-msgstr "Region: %1"
-
 msgid "map_tooltip_overlay_region_desc"
 msgstr "The player market shows listings from the region you are in."
 
@@ -5809,14 +5772,8 @@ msgstr "A glyph here is being challenged."
 msgid "map_tooltip_overlay_territory_immune"
 msgstr "Recently captured - cannot be challenged yet."
 
-msgid "map_tooltip_overlay_territory_owned"
-msgstr "Territory of %1 (%2 bonus)"
-
 msgid "map_tooltip_overlay_territory_unowned"
 msgstr "Unowned territory"
-
-msgid "map_tooltip_overlay_tile_rating"
-msgstr "Tile rating: %1"
 
 msgid "map_tooltip_prefix_annotation"
 msgstr "Annotation: %1"
@@ -5915,29 +5872,79 @@ msgid "map_tooltip_tile_offset"
 msgstr "Local coords: %1x/%2y"
 
 msgid "map_tooltip_tile_rating_lawful"
-msgstr "Lawful (yellow)"
+msgstr "Lawful"
 
 msgid "map_tooltip_tile_rating_lawful_desc"
 msgstr ""
 "Lawful players keep their equipped gear on death, but drop their backpack."
 
 msgid "map_tooltip_tile_rating_lawless"
-msgstr "Lawless (red)"
+msgstr "Lawless"
 
 msgid "map_tooltip_tile_rating_lawless_desc"
 msgstr "Full loot: everyone drops their gear and backpack on death."
 
 msgid "map_tooltip_tile_rating_neutral"
-msgstr "Neutral (yellow)"
+msgstr "Neutral"
 
 msgid "map_tooltip_tile_rating_neutral_desc"
 msgstr "Full loot: everyone drops their gear and backpack on death."
 
 msgid "map_tooltip_tile_rating_protected"
-msgstr "Safe zone (blue)"
+msgstr "Safe zone"
 
 msgid "map_tooltip_tile_rating_protected_desc"
 msgstr "Lawful players keep their gear and backpack on death."
+
+msgid "map_tt_alliance_nagast"
+msgstr "Purple - Scourge of Nagast"
+
+msgid "map_tt_alliance_savages"
+msgstr "Brown - Savage Raiders"
+
+msgid "map_tt_alliance_trinity"
+msgstr "Green - Righteous Trinity"
+
+msgid "map_tt_clans_body"
+msgstr "Every clan has its own colour. Grey is unowned."
+
+msgid "map_tt_hover_hint"
+msgstr "Hover the map for details on any tile."
+
+msgid "map_tt_lawless_players"
+msgstr "Lawless players lose their full inventory in every zone."
+
+msgid "map_tt_regions_body"
+msgstr ""
+"Niflheim, Yssam, Rubaiyat, Cairn, Agon and the seas. The pink areas are the "
+"race homelands."
+
+msgid "map_tt_sec_alliances"
+msgstr "Alliances:"
+
+msgid "map_tt_sec_clans"
+msgstr "Clans:"
+
+msgid "map_tt_sec_market"
+msgstr "Market:"
+
+msgid "map_tt_sec_region"
+msgstr "Region:"
+
+msgid "map_tt_sec_territory"
+msgstr "Territory:"
+
+msgid "map_tt_sec_tile_rating"
+msgstr "Tile Rating:"
+
+msgid "map_tt_territory_body"
+msgstr "Holding a territory's glyph grants its bonus to the owner."
+
+msgid "map_tt_territory_bonus"
+msgstr "Bonus: %1"
+
+msgid "map_tt_territory_pulse"
+msgstr "A pulsing territory has a glyph under challenge."
 
 msgid "market_apply_filter"
 msgstr "Apply Filter"
