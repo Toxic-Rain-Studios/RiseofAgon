@@ -2947,6 +2947,54 @@ msgstr "Whisper"
 msgid "coordinates"
 msgstr "coordinates"
 
+msgid "cosmetic_active"
+msgstr "Active"
+
+msgid "cosmetic_already_owned"
+msgstr "You already own this cosmetic. Your scroll has not been consumed."
+
+msgid "cosmetic_default"
+msgstr "Use Default"
+
+msgid "cosmetic_empty"
+msgstr "No spell skins are available."
+
+msgid "cosmetic_error_locked"
+msgstr "You have not unlocked this cosmetic."
+
+msgid "cosmetic_error_retry"
+msgstr "Cosmetics could not be updated. Please try again."
+
+msgid "cosmetic_error_scroll"
+msgstr "This scroll does not contain an available cosmetic."
+
+msgid "cosmetic_loading"
+msgstr "Loading cosmetics..."
+
+msgid "cosmetic_locked"
+msgstr "Locked"
+
+msgid "cosmetic_owned"
+msgstr "Owned"
+
+msgid "cosmetic_refresh"
+msgstr "Refresh"
+
+msgid "cosmetic_scroll_help"
+msgstr "Use a spell skin scroll to unlock an appearance permanently."
+
+msgid "cosmetic_select"
+msgstr "Activate"
+
+msgid "cosmetic_selection_saved"
+msgstr "Spell appearance saved."
+
+msgid "cosmetic_spell_skins"
+msgstr "Spell Skins"
+
+msgid "cosmetic_unlocked"
+msgstr "Cosmetic unlocked."
+
 msgid "craft_prompt_window_title"
 msgstr "Select Crafting Skill"
 
