@@ -223,6 +223,16 @@ msgstr "Lawless"
 msgid "alignment_standing_rogue"
 msgstr "Rogue!"
 
+msgid "alignment_tt_gaining"
+msgstr "+1 every 20 minutes while you are online in Lawful stance, up to 1000."
+
+msgid "alignment_tt_gaining2"
+msgstr ""
+"Lawless stance pauses it, and losing Alignment restarts the 20 minutes."
+
+msgid "alignment_tt_gaining3"
+msgstr "Killing monsters and praying do not grant Alignment."
+
 msgid "alignment_tt_header"
 msgstr "Alignment: %1 / %2"
 
@@ -240,6 +250,9 @@ msgid "alignment_tt_range"
 msgstr ""
 "Ranges from -1000 to 1000. The bar's centre is zero, so a character at 0 "
 "sits halfway along it."
+
+msgid "alignment_tt_sec_gaining"
+msgstr "Gaining Alignment:"
 
 msgid "alignment_tt_sec_losing"
 msgstr "Losing Alignment:"
