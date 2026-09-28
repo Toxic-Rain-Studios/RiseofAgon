@@ -5332,6 +5332,9 @@ msgstr "Character"
 msgid "mainmenu_party"
 msgstr "Party"
 
+msgid "mainmenu_pets"
+msgstr "Pets"
+
 msgid "mainmenu_playerstats"
 msgstr "Player Stats"
 
@@ -8711,6 +8714,43 @@ msgstr " \n"
 
 msgid "party_loot_roll_all"
 msgstr "Roll All"
+
+msgid "pet_collection_dismiss"
+msgstr "Dismiss"
+
+msgid "pet_collection_locked"
+msgstr "Not collected"
+
+msgid "pet_collection_locked_hint"
+msgstr "Use a %1 to collect this pet."
+
+msgid "pet_collection_owned_only"
+msgstr "Collected only"
+
+msgid "pet_collection_progress"
+msgstr "%1 / %2 collected"
+
+msgid "pet_collection_rename"
+msgstr "Rename"
+
+msgid "pet_collection_search"
+msgstr "Search"
+
+msgid "pet_collection_summon"
+msgstr "Summon"
+
+# Pet collection page: window chrome, per-pet actions, locked state, error notices
+msgid "pet_collection_title"
+msgstr "Pets"
+
+msgid "pet_error_locked"
+msgstr "You have not collected that pet."
+
+msgid "pet_error_retry"
+msgstr "Your pet collection is unavailable right now. Please try again."
+
+msgid "pet_error_toy"
+msgstr "That toy cannot be used."
 
 msgid "playerstats_armor_penalties"
 msgstr "Armor Penalties"

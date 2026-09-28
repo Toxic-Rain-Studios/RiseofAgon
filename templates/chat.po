@@ -10722,6 +10722,12 @@ msgstr "Peaceful players are not allowed to use cannons."
 msgid "NOTIFICATION_PEACEFUL_PLAYER_CAN_NOT_USE_WARHULKS"
 msgstr "Peaceful players are not allowed to use warhulks."
 
+msgid "NOTIFICATION_PET_ALREADY_COLLECTED"
+msgstr "You have already collected %1. The toy has not been used."
+
+msgid "NOTIFICATION_PET_COLLECTED"
+msgstr "%1 has been added to your pet collection."
+
 msgid "NOTIFICATION_PET_DISMISSED"
 msgstr "%1 has been dismissed."
 
