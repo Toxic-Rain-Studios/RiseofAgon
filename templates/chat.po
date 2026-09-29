@@ -11910,6 +11910,9 @@ msgstr ""
 "and see what tasks the Councillor might have for you. To accept the quest, "
 "hit the accept button."
 
+msgid "NOTIFICATION_QUEST_TRIGGER_PROMPT"
+msgstr "%1"
+
 msgid "NOTIFICATION_RACE_ALLIANCE_CITY_CONQUERED"
 msgstr "Our race alliance now owns %1!"
 
@@ -12958,3 +12961,19 @@ msgstr ""
 
 msgid "component_crafting_error_no_mastery_crafting_allowed_here"
 msgstr "You cannot craft mastery items here."
+
+msgid "trigger_ff32_archaeus_cave"
+msgstr ""
+"Agent Archaeus: \"Gallius sends me another one. Show me Light - from memory. "
+"I will not show you how.\""
+
+msgid "trigger_ff32_warcamp_dismount"
+msgstr ""
+"You have arrived. Nobody rides into a war camp - get down and stow your "
+"mount before you go in."
+
+msgid "tutorial_graduation_reward"
+msgstr ""
+"For completing your training on Dawnshore you have been given a set of "
+"armour, weapons, tools, potions, reagents, food and a mount of your people. "
+"Everything is in your backpack."

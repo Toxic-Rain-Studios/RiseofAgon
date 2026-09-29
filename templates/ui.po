@@ -7894,9 +7894,6 @@ msgstr "Horizontal Item Counter"
 msgid "options_gui_itemcounter_size"
 msgstr "Item Counter Slots"
 
-msgid "options_gui_legacy_skill_tooltips"
-msgstr "Legacy hotbar tooltips for skills and spells"
-
 msgid "options_gui_mob_cast_bars"
 msgstr "Monster cast bars"
 
@@ -9295,11 +9292,16 @@ msgstr ""
 "dragged into the mess through a series of unusual events.\n"
 "\n"
 "The Dawnshore tutorial is recommended for new players to familiarize "
-"themselves with the basic gameplay loop. You will be rewarded a starter kit "
-"upon full completion of the quest line. You may leave at any time."
+"themselves with the basic gameplay loop. You may leave at any time."
 
 msgid "screen09_title"
 msgstr "Choose Starting Location"
+
+msgid "screen09_warn_island"
+msgstr ""
+"NO ITEMS GAINED DURING THE TUTORIAL CARRY OVER TO THE MAINLAND. YOU WILL BE "
+"GIVEN A PREDETERMINED SET OF GEAR FOR FULL COMPLETION OF ALL TUTORIAL "
+"QUESTS. LEAVING BEFORE FULL COMPLETION WILL FORFEIT THIS REWARD."
 
 msgid "screen10_title"
 msgstr "Create this character?"

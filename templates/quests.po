@@ -1258,10 +1258,16 @@ msgstr ""
 "James the Mage taught me parrying, magic, transfers and healing, then sent "
 "me back to Torvald."
 
+msgid "diary_text_quest_21241"
+msgstr "I found Mana Missile in my spell book and put it on my hotbar."
+
+msgid "diary_text_quest_21242"
+msgstr "I put a Berry Oatmeal on my hotbar."
+
 msgid "diary_text_quest_21251"
 msgstr ""
-"I killed five goblin scouts and three goblin fighters at the camp east of "
-"the war camp."
+"I killed three goblin scouts and two goblin fighters at the camp east of the "
+"war camp."
 
 msgid "diary_text_quest_21252"
 msgstr "I carried word of the raid back to Torvald."
@@ -1393,10 +1399,16 @@ msgid "diary_text_quest_21342"
 msgstr ""
 "I summoned my mount for the first time, and learned to ride and stow it."
 
+msgid "diary_text_quest_21343"
+msgstr "I packed my mount away outside the War Camp before going in."
+
 msgid "diary_text_quest_21344"
 msgstr ""
 "I rode out to the Outpost and delivered Sorcha's supplies to Captain "
 "Darkblade."
+
+msgid "diary_text_quest_21345"
+msgstr "I rode out to the War Camp with the Councillor's crate."
 
 msgid "diary_text_quest_21351"
 msgstr "I bought the Side Step upgrade from Captain Darkblade."
@@ -1426,8 +1438,13 @@ msgstr "I took hoarfrost from the irtych graves."
 
 msgid "diary_text_quest_21383"
 msgstr ""
-"Gallius paid me in venom sacs, eyes and a Nith - with my goblin teeth, the "
+"Gallius paid me in venom sacs and eyes - with my goblin teeth, most of the "
 "makings of an enchantment."
+
+msgid "diary_text_quest_21384"
+msgstr ""
+"I followed the light to the top of the cliff and Gallius threw me across the "
+"water on a storm."
 
 msgid "diary_text_quest_2139"
 msgstr ""
@@ -1437,10 +1454,23 @@ msgstr ""
 "great ork empire."
 
 msgid "diary_text_quest_21391"
-msgstr "My work on Dawnshore is done. Bound the Ferryman is waiting."
+msgstr "My work on Dawnshore is done. Bound was waiting for me."
 
 msgid "diary_text_quest_21392"
 msgstr "I made my first enchantment, Magnitude, at the Enchantment Station."
+
+msgid "diary_text_quest_21393"
+msgstr "Archaeus renewed my recall, and I used it to return to Dawnshore."
+
+msgid "diary_text_quest_21394"
+msgstr "I found Agent Archaeus kneeling in the dark of his cave."
+
+msgid "diary_text_quest_21395"
+msgstr ""
+"Archaeus challenged me to cast Light without being shown how, and I did."
+
+msgid "diary_text_quest_21396"
+msgstr "Archaeus was satisfied, and gave me the key to his chest."
 
 msgid "diary_text_quest_214"
 msgstr ""
@@ -1465,6 +1495,20 @@ msgstr ""
 "The hivekin are doing a excellent job in {$u14}of stripping the lands of all "
 "vegetation. I can see why Ugruk Elfstabber considers the hivekin the plague "
 "of the lands. I have successfully killed five Hivekin Foragers."
+
+msgid "diary_text_quest_21411"
+msgstr ""
+"I opened Archaeus' Chest with his key and took a Nith, a Crystal and some "
+"gold."
+
+msgid "diary_text_quest_21412"
+msgstr "I took the goblin teeth back out of the bank."
+
+msgid "diary_text_quest_21413"
+msgstr "I set my Magnitude enchantment into my staff."
+
+msgid "diary_text_quest_21414"
+msgstr "I told Mary the Councillor my staff was enchanted."
 
 msgid "diary_text_quest_2142"
 msgstr ""
@@ -12664,7 +12708,9 @@ msgid "end_text_quest_21232"
 msgstr "Good. Now go and stand in front of the totem."
 
 msgid "end_text_quest_21233"
-msgstr "Held. A shield only covers what you are looking at."
+msgstr ""
+"Held. A shield only covers what you are looking at. Now for magic - but your "
+"spells are not on your bar yet."
 
 msgid "end_text_quest_21234"
 msgstr "Crude, but it will put down a goblin."
@@ -12681,13 +12727,25 @@ msgstr ""
 "will outlast better fighters."
 
 msgid "end_text_quest_21238"
-msgstr "Cast it early. A man who waits until he is nearly dead usually is."
+msgstr ""
+"Cast it early. A man who waits until he is nearly dead usually is. One last "
+"thing before you go back."
 
 msgid "end_text_quest_21239"
 msgstr "Never walk out to a fight hungry."
 
 msgid "end_text_quest_21240"
 msgstr "I am impressed, but now the real challenge begins."
+
+msgid "end_text_quest_21241"
+msgstr ""
+"Every spell you learn arrives the same way. The bar is yours to lay out as "
+"you like - this is only where we will be pointing."
+
+msgid "end_text_quest_21242"
+msgstr ""
+"Food, bandages, potions - whatever you would rather not be hunting for with "
+"a goblin on you."
 
 msgid "end_text_quest_21251"
 msgstr "Then the line holds a while longer. Keep going."
@@ -12841,8 +12899,11 @@ msgstr ""
 "at it. You may despawn your mount back into figurine form at any time with "
 "the alternate use button, G, while looking at it. Heal Mount, found in "
 "Lesser Magic, can be cast on your mount to restore its health when it takes "
-"damage. Now ride the crate north east to the War Camp and speak with Torvald "
-"the Fighter."
+"damage. Now ride north east to the War Camp."
+
+msgid "end_text_quest_21343"
+msgstr ""
+"Your mount is back in its figurine and out of the way. Torvald is waiting."
 
 msgid "end_text_quest_21344"
 msgstr ""
@@ -12879,20 +12940,35 @@ msgstr "Reagents like these are what enchanting is built on."
 msgid "end_text_quest_21383"
 msgstr ""
 "You have done well, cleansing the ocean of these monsters. As a reward, take "
-"these: five venom sacs, five eyes and a Nith. With the teeth you kept from "
-"the goblins, you hold everything a Magnitude enchantment asks for. Let me "
-"show you what to do with them."
+"these: five venom sacs and five eyes. With the teeth you kept from the "
+"goblins you hold most of what a Magnitude enchantment asks for - but not all "
+"of it."
 
 msgid "end_text_quest_2139"
 msgstr "Greeting, I am Ugruk Elfstabber."
 
 msgid "end_text_quest_21391"
-msgstr "Greetings sir."
+msgstr ""
+"Greetings. Dawnshore has nothing more to teach you - your homeland is "
+"waiting."
 
 msgid "end_text_quest_21392"
 msgstr ""
-"The gem now holds a Magnitude enchantment. To set it into your staff, double-"
-"click the gem and then click the staff."
+"The Crystal now holds a Magnitude enchantment. An enchantment does nothing "
+"until it is set into an item."
+
+msgid "end_text_quest_21393"
+msgstr ""
+"Back in Dawnshore. The bank and the Enchantment Station are marked on your "
+"map."
+
+msgid "end_text_quest_21395"
+msgstr "So you do remember. Good."
+
+msgid "end_text_quest_21396"
+msgstr ""
+"You remember your lessons. Take this key - it opens my chest at the back of "
+"this cave. What is inside will finish what Gallius started."
 
 msgid "end_text_quest_214"
 msgstr "Ah, fresh fuel for the pyres. Here is the reward I promised you."
@@ -12913,6 +12989,22 @@ msgstr ""
 "Well done. The hivekin are a plague. If we hadn't acted now, very soon this "
 "area would be filled with the disgusting hivekin. Yes, you have earned this "
 "reward."
+
+msgid "end_text_quest_21411"
+msgstr ""
+"A Nith, a Crystal and the gold for the Enchantment Station. That is "
+"everything your enchantment still lacked."
+
+msgid "end_text_quest_21412"
+msgstr ""
+"Teeth, venom sacs, eyes, a Nith and a Crystal. Everything is in your pack."
+
+msgid "end_text_quest_21413"
+msgstr "Your staff carries the Magnitude enchantment now."
+
+msgid "end_text_quest_21414"
+msgstr ""
+"An enchanted staff already. Dawnshore has taught you all it can, soldier."
 
 msgid "end_text_quest_2142"
 msgstr ""
@@ -21925,8 +22017,14 @@ msgstr "You ate the Berry Oatmeal."
 msgid "finished_text_quest_21240"
 msgstr "You reported back to Torvald the Fighter."
 
+msgid "finished_text_quest_21241"
+msgstr "You put Mana Missile on hotbar key 5."
+
+msgid "finished_text_quest_21242"
+msgstr "You put a Berry Oatmeal on hotbar key 6."
+
 msgid "finished_text_quest_21251"
-msgstr "You killed 5 goblin scouts and 3 goblin fighters."
+msgstr "You killed 3 goblin scouts and 2 goblin fighters."
 
 msgid "finished_text_quest_21252"
 msgstr "You reported to Torvald the Fighter."
@@ -21961,7 +22059,7 @@ msgstr ""
 "Stranglar Bloodaks."
 
 msgid "finished_text_quest_21291"
-msgstr "You killed 3 trolls in the southern quarry."
+msgstr "You killed 2 trolls in the southern quarry."
 
 msgid "finished_text_quest_21292"
 msgstr "You killed the troll shaman."
@@ -22040,8 +22138,14 @@ msgstr "You tamed a mount."
 msgid "finished_text_quest_21342"
 msgstr "Your mount is summoned."
 
+msgid "finished_text_quest_21343"
+msgstr "You packed your mount away."
+
 msgid "finished_text_quest_21344"
 msgstr "Captain Darkblade took the supplies."
+
+msgid "finished_text_quest_21345"
+msgstr "You reached the War Camp."
 
 msgid "finished_text_quest_21351"
 msgstr "You learned Side Step."
@@ -22070,14 +22174,29 @@ msgstr "You gathered 2 Hoarfrost."
 msgid "finished_text_quest_21383"
 msgstr "Agent Gallius rewarded you."
 
+msgid "finished_text_quest_21384"
+msgstr "You reached the light at the top of the cliff."
+
 msgid "finished_text_quest_2139"
 msgstr "You have made contact with Ugruk Elfstabber."
 
 msgid "finished_text_quest_21391"
-msgstr "You met Bound the Ferryman."
+msgstr "You met Bound."
 
 msgid "finished_text_quest_21392"
 msgstr "You made a Magnitude enchantment."
+
+msgid "finished_text_quest_21393"
+msgstr "You recalled to Dawnshore."
+
+msgid "finished_text_quest_21394"
+msgstr "You found Agent Archaeus."
+
+msgid "finished_text_quest_21395"
+msgstr "You cast Light."
+
+msgid "finished_text_quest_21396"
+msgstr "Agent Archaeus gave you his key."
 
 msgid "finished_text_quest_214"
 msgstr ""
@@ -22096,6 +22215,18 @@ msgstr "You looted 5 Teeth. Now take them to Torvald the Fighter."
 msgid "finished_text_quest_2141"
 msgstr ""
 "You have killed at least five Hivekin Foragers. Report to  Ugruk Elfstabber."
+
+msgid "finished_text_quest_21411"
+msgstr "You opened Archaeus' Chest."
+
+msgid "finished_text_quest_21412"
+msgstr "You have your 5 Teeth."
+
+msgid "finished_text_quest_21413"
+msgstr "You set the enchantment into your staff."
+
+msgid "finished_text_quest_21414"
+msgstr "You reported to Mary the Councillor."
 
 msgid "finished_text_quest_2142"
 msgstr ""
@@ -31508,7 +31639,7 @@ msgid "name_quest_21201"
 msgstr "Quest 1 - step 1 - bind at the Bindstone"
 
 msgid "name_quest_21202"
-msgstr "Quest 1 - step 4 - deliver the crate"
+msgstr "Quest 1 - step 6 - deliver the crate"
 
 msgid "name_quest_2121"
 msgstr "trolls behind the kobolds"
@@ -31565,28 +31696,34 @@ msgid "name_quest_21233"
 msgstr "Quest 4 - step 3 - parry the totem"
 
 msgid "name_quest_21234"
-msgstr "Quest 4 - step 4 - mana missile"
+msgstr "Quest 4 - step 5 - mana missile"
 
 msgid "name_quest_21235"
-msgstr "Quest 4 - step 6 - transfer: mana to stamina"
+msgstr "Quest 4 - step 7 - transfer: mana to stamina"
 
 msgid "name_quest_21236"
-msgstr "Quest 4 - step 5 - transfer: stamina to health"
+msgstr "Quest 4 - step 6 - transfer: stamina to health"
 
 msgid "name_quest_21237"
-msgstr "Quest 4 - step 7 - transfer: health to mana"
+msgstr "Quest 4 - step 8 - transfer: health to mana"
 
 msgid "name_quest_21238"
-msgstr "Quest 4 - step 8 - heal yourself"
+msgstr "Quest 4 - step 9 - heal yourself"
 
 msgid "name_quest_21239"
-msgstr "Quest 4 - step 9 - eat before a fight"
+msgstr "Quest 4 - step 11 - eat before a fight"
 
 msgid "name_quest_2124"
 msgstr "After the goblins"
 
 msgid "name_quest_21240"
-msgstr "Quest 4 - step 10 - report to Torvald"
+msgstr "Quest 4 - step 12 - report to Torvald"
+
+msgid "name_quest_21241"
+msgstr "Quest 4 - step 4 - put Mana Missile on your bar"
+
+msgid "name_quest_21242"
+msgstr "Quest 4 - step 10 - put the oatmeal on your bar"
 
 msgid "name_quest_2125"
 msgstr "Kobolds and great plans"
@@ -31744,8 +31881,14 @@ msgstr "Quest 1 - step 2 - taming"
 msgid "name_quest_21342"
 msgstr "Quest 1 - step 3 - summoning"
 
+msgid "name_quest_21343"
+msgstr "Quest 1 - step 5 - pack your mount"
+
 msgid "name_quest_21344"
 msgstr "Quest 14 - step 1 - the Outpost"
+
+msgid "name_quest_21345"
+msgstr "Quest 1 - step 4 - ride to the War Camp"
 
 msgid "name_quest_2135"
 msgstr "Strength of the trolls"
@@ -31787,13 +31930,16 @@ msgid "name_quest_21380"
 msgstr "Quest 18"
 
 msgid "name_quest_21381"
-msgstr "Quest 18 - step 1 - the irtych"
+msgstr "Quest 18 - step 2 - the irtych"
 
 msgid "name_quest_21382"
-msgstr "Quest 18 - step 2 - hoarfrost"
+msgstr "Quest 18 - step 3 - hoarfrost"
 
 msgid "name_quest_21383"
-msgstr "Quest 18 - step 3 - report"
+msgstr "Quest 18 - step 4 - report"
+
+msgid "name_quest_21384"
+msgstr "Quest 18 - step 1 - the light on the cliff"
 
 msgid "name_quest_2139"
 msgstr "report to ugruk"
@@ -31802,10 +31948,22 @@ msgid "name_quest_21390"
 msgstr "Quest 19"
 
 msgid "name_quest_21391"
-msgstr "Quest 19 - step 2 - the ferryman"
+msgstr "Quest 22 - step 1 - Bound"
 
 msgid "name_quest_21392"
-msgstr "Quest 19 - step 1 - the enchantment"
+msgstr "Quest 21 - step 4 - the enchantment"
+
+msgid "name_quest_21393"
+msgstr "Quest 21 - step 2 - recall to town"
+
+msgid "name_quest_21394"
+msgstr "Quest 19 - step 1 - the cave"
+
+msgid "name_quest_21395"
+msgstr "Quest 19 - step 2 - Light"
+
+msgid "name_quest_21396"
+msgstr "Quest 19 - step 3 - Archaeus"
 
 msgid "name_quest_214"
 msgstr "Five timber in Chopping Necks"
@@ -31822,8 +31980,26 @@ msgstr "Quest 20 - step 1 - the teeth"
 msgid "name_quest_2141"
 msgstr "stop the hivekin"
 
+msgid "name_quest_21410"
+msgstr "Quest 21"
+
+msgid "name_quest_21411"
+msgstr "Quest 21 - step 1 - Archaeus' Chest"
+
+msgid "name_quest_21412"
+msgstr "Quest 21 - step 3 - the teeth"
+
+msgid "name_quest_21413"
+msgstr "Quest 21 - step 5 - the staff"
+
+msgid "name_quest_21414"
+msgstr "Quest 21 - step 6 - report to Mary"
+
 msgid "name_quest_2142"
 msgstr "kill the bandit leaders"
+
+msgid "name_quest_21420"
+msgstr "Quest 22"
 
 msgid "name_quest_2143"
 msgstr "go to the defenders"
@@ -40715,6 +40891,16 @@ msgstr ""
 "^Cdarkfall^You have cooked ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
 "^Cdarkfall^Fish."
 
+msgid "progress_text_quest_21341"
+msgstr ""
+"^Cdarkfall^You have tamed ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^Mount."
+
+msgid "progress_text_quest_21412"
+msgstr ""
+"^Cdarkfall^You have retrieved ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^Teeth from your bank."
+
 msgid "short_desc_quest_10000"
 msgstr "Kill 10 Goblins"
 
@@ -42488,7 +42674,7 @@ msgid "short_desc_quest_21201"
 msgstr "Bind at the Dawnshore Bindstone."
 
 msgid "short_desc_quest_21202"
-msgstr "Deliver the crate to Torvald the Fighter at the War Camp."
+msgstr "Deliver the crate to Torvald the Fighter."
 
 msgid "short_desc_quest_2121"
 msgstr "Kill four trolls."
@@ -42568,6 +42754,12 @@ msgstr "Report to Magnus Forkbeard."
 msgid "short_desc_quest_21240"
 msgstr "Report back to Torvald the Fighter."
 
+msgid "short_desc_quest_21241"
+msgstr "Drag Mana Missile onto hotbar key 5."
+
+msgid "short_desc_quest_21242"
+msgstr "Drag a Berry Oatmeal onto hotbar key 6."
+
 msgid "short_desc_quest_2125"
 msgstr "Kill six kobolds."
 
@@ -42575,7 +42767,7 @@ msgid "short_desc_quest_21250"
 msgstr "Raid the goblin camp east of the war camp."
 
 msgid "short_desc_quest_21251"
-msgstr "Kill 5 goblin scouts and 3 goblin fighters."
+msgstr "Kill 3 goblin scouts and 2 goblin fighters."
 
 msgid "short_desc_quest_21252"
 msgstr "Report your success to Torvald the Fighter."
@@ -42632,7 +42824,7 @@ msgstr ""
 "southern quarry."
 
 msgid "short_desc_quest_21291"
-msgstr "Kill 3 trolls in the southern quarry."
+msgstr "Kill 2 trolls in the southern quarry."
 
 msgid "short_desc_quest_21292"
 msgstr "Kill 1 troll shaman in the cave."
@@ -42729,8 +42921,14 @@ msgstr "Tame a mount."
 msgid "short_desc_quest_21342"
 msgstr "Summon your mount."
 
+msgid "short_desc_quest_21343"
+msgstr "Pack your mount away."
+
 msgid "short_desc_quest_21344"
 msgstr "Deliver the supplies to Captain Darkblade."
+
+msgid "short_desc_quest_21345"
+msgstr "Ride north east to the War Camp."
 
 msgid "short_desc_quest_2135"
 msgstr "Kill five trolls."
@@ -42780,19 +42978,32 @@ msgstr "Gather 2 Hoarfrost."
 msgid "short_desc_quest_21383"
 msgstr "Return to Agent Gallius."
 
+msgid "short_desc_quest_21384"
+msgstr "Approach the light at the top of the cliff, marked on your map."
+
 msgid "short_desc_quest_2139"
 msgstr "Report to Ugruk Elfstabber."
 
 msgid "short_desc_quest_21390"
-msgstr ""
-"Make a Magnitude enchantment, then meet Bound the Ferryman at the north "
-"point of the island."
+msgstr "Find Agent Archaeus in his cave and cast Light for him."
 
 msgid "short_desc_quest_21391"
-msgstr "Convene with the Ferryman."
+msgstr "Meet Bound."
 
 msgid "short_desc_quest_21392"
 msgstr "Make a Magnitude enchantment at the Enchantment Station."
+
+msgid "short_desc_quest_21393"
+msgstr "Recall to the Dawnshore Bindstone."
+
+msgid "short_desc_quest_21394"
+msgstr "Find Agent Archaeus in his cave, marked on your map."
+
+msgid "short_desc_quest_21395"
+msgstr "Cast Light for Agent Archaeus."
+
+msgid "short_desc_quest_21396"
+msgstr "Speak to Agent Archaeus."
 
 msgid "short_desc_quest_214"
 msgstr "Gather five units of timber."
@@ -42809,8 +43020,28 @@ msgstr "Loot 5 Teeth from graves, then take them to Torvald."
 msgid "short_desc_quest_2141"
 msgstr "Kill five Hivekin Foragers."
 
+msgid "short_desc_quest_21410"
+msgstr ""
+"Open Archaeus' Chest, recall to town, make a Magnitude enchantment and set "
+"it into your staff, then report to Mary the Councillor."
+
+msgid "short_desc_quest_21411"
+msgstr "Open Archaeus' Chest with the key he gave you."
+
+msgid "short_desc_quest_21412"
+msgstr "Take your 5 Teeth out of the bank."
+
+msgid "short_desc_quest_21413"
+msgstr "Set the enchanted gem into your staff."
+
+msgid "short_desc_quest_21414"
+msgstr "Report to Mary the Councillor."
+
 msgid "short_desc_quest_2142"
 msgstr "Kill two Ork Thug and two Ork Beastmasters."
+
+msgid "short_desc_quest_21420"
+msgstr "Meet Bound. Your time on Dawnshore is done."
 
 msgid "short_desc_quest_2143"
 msgstr "Report to Bigclubs Trollmangler."
@@ -56814,9 +57045,7 @@ msgstr ""
 "Locate the Bindstone on your map, walk up to it and hold F to bind to it."
 
 msgid "start_text_quest_21202"
-msgstr ""
-"Ride north east to the War Camp, marked on your map, and speak with Torvald "
-"the Fighter."
+msgstr "Speak with Torvald the Fighter and hand over the Councillor's crate."
 
 msgid "start_text_quest_2121"
 msgstr ""
@@ -56902,9 +57131,9 @@ msgstr ""
 
 msgid "start_text_quest_21234"
 msgstr ""
-"Now your offensive magic. Press Caps Lock to bring out your Dawnstaff - "
-"magic can only be cast with a staff in hand. Press 5 to select Mana Missile, "
-"then hit the mage totem with it 3 times."
+"Press Caps Lock to bring out your Dawnstaff - magic can only be cast with a "
+"staff in hand. Press 5 for Mana Missile, then hit the mage totem with it 3 "
+"times."
 
 msgid "start_text_quest_21235"
 msgstr "Press 2 to cast Mana to Stamina."
@@ -56925,8 +57154,8 @@ msgstr ""
 
 msgid "start_text_quest_21239"
 msgstr ""
-"Eat before you fight. Food regenerates your stats at a raised rate for a "
-"good while after. Press 6 to eat the Berry Oatmeal."
+"Food regenerates your stats at a raised rate for a good while after. Press 6 "
+"to eat the Berry Oatmeal."
 
 msgid "start_text_quest_2124"
 msgstr ""
@@ -56944,6 +57173,18 @@ msgstr ""
 msgid "start_text_quest_21240"
 msgstr "That is everything I can teach you standing still. Go back to Torvald."
 
+msgid "start_text_quest_21241"
+msgstr ""
+"Spells are not carried, they are known, and they live in your Skill & Spell "
+"Book rather than your backpack. Open it from the menu bar, then Magic, then "
+"Lesser Magic - or type the name into the search. Drag Mana Missile onto "
+"hotbar key 5."
+
+msgid "start_text_quest_21242"
+msgstr ""
+"Anything you carry can go on the bar as well, so it is one key away in a "
+"fight. Open your backpack and drag a Berry Oatmeal onto hotbar key 6."
+
 msgid "start_text_quest_2125"
 msgstr ""
 "So, you helped Valfarther's Edge deal with the goblins that were attacking "
@@ -56958,13 +57199,13 @@ msgstr ""
 
 msgid "start_text_quest_21250"
 msgstr ""
-"Journey to the east and assault the goblin camp. Successfully kill 5 goblin "
-"scouts and 3 goblin fighters. Take this sack with you - wear it in your loot "
+"Journey to the east and assault the goblin camp. Successfully kill 3 goblin "
+"scouts and 2 goblin fighters. Take this sack with you - wear it in your loot "
 "bag slot and whatever you take off them collects in one place."
 
 msgid "start_text_quest_21251"
 msgstr ""
-"Journey east and assault the goblin camp. Kill 5 goblin scouts and 3 goblin "
+"Journey east and assault the goblin camp. Kill 3 goblin scouts and 2 goblin "
 "fighters. The camp is marked on your map."
 
 msgid "start_text_quest_21252"
@@ -57082,7 +57323,7 @@ msgstr ""
 "upper level."
 
 msgid "start_text_quest_21291"
-msgstr "Descend into the southern quarry and kill 3 trolls."
+msgstr "Descend into the southern quarry and kill 2 trolls."
 
 msgid "start_text_quest_21292"
 msgstr ""
@@ -57287,10 +57528,20 @@ msgstr ""
 "To spawn your mount, use the Summon Mount skill on your hotbar - key 8 by "
 "default."
 
+msgid "start_text_quest_21343"
+msgstr ""
+"Get off your mount, look at it and press the alternate use button - G by "
+"default - to pack it back into its figurine."
+
 msgid "start_text_quest_21344"
 msgstr ""
 "Now, ride out to the Outpost marked on your map, and deliver the supplies to "
 "Captain Darkblade."
+
+msgid "start_text_quest_21345"
+msgstr ""
+"Ride north east to the War Camp, marked on your map. Torvald the Fighter is "
+"waiting on the crate."
 
 msgid "start_text_quest_2135"
 msgstr ""
@@ -57367,8 +57618,9 @@ msgstr ""
 msgid "start_text_quest_21380"
 msgstr ""
 "Look to the west. Do you feel it? Evil lurks beneath the waves. You were "
-"given a bow by the Captain, now is the time to put it to use. Swim out there "
-"and kill 4 Irtych. They are marked on your map."
+"given a bow by the Captain, now is the time to put it to use. Approach the "
+"light at the top of the cliff, marked on your map, and I will send you "
+"across the water on the storm itself. Kill 4 Irtych out there."
 
 msgid "start_text_quest_21381"
 msgstr ""
@@ -57382,6 +57634,11 @@ msgstr "Gather 2 Hoarfrost from their graves."
 msgid "start_text_quest_21383"
 msgstr "Return to Agent Gallius and report on your success."
 
+msgid "start_text_quest_21384"
+msgstr ""
+"Approach the light at the top of the cliff, marked on your map. Step into it "
+"and I will send you across the water on the storm itself."
+
 msgid "start_text_quest_2139"
 msgstr ""
 "You have accepted a quest from Bossork the Councillor. Report to Ugruk "
@@ -57389,19 +57646,35 @@ msgstr ""
 
 msgid "start_text_quest_21390"
 msgstr ""
-"Those ingredients are meant to be used. Make a Magnitude enchantment at the "
-"Enchantment Station in town, then meet Bound the Ferryman at the northmost "
-"point of the island - your work here will be complete."
+"Your enchantment still lacks a catalyst, and I carry none. Agent Archaeus "
+"does. He is meditating in a cave - I have marked it on your map. Be warned: "
+"he gives nothing to a student who cannot remember his lessons."
 
 msgid "start_text_quest_21391"
-msgstr "Convene with the Ferryman."
+msgstr "Meet Bound. He is marked on your map."
 
 msgid "start_text_quest_21392"
 msgstr ""
-"Go to the Enchantment Station in town and press F to use it. On the Enchant "
-"tab, pick Staves and then Magnitude. Put a gem in the Gem slot, then your 5 "
+"Go to the Enchantment Station and press F to use it. On the Enchant tab, "
+"pick Staves and then Magnitude. Put the Crystal in the Gem slot, then your 5 "
 "Teeth, 5 Venom Sacs and 5 Eyes in the Components slots and the Nith in the "
 "Catalyst slot, and press Enchant. Every enchant costs 100 gold."
+
+msgid "start_text_quest_21393"
+msgstr ""
+"Your recall is ready again. Click the Bindstone Recall icon below your "
+"Minimap, and stand still while it charges."
+
+msgid "start_text_quest_21394"
+msgstr "Find Agent Archaeus. He is meditating in a cave, marked on your map."
+
+msgid "start_text_quest_21395"
+msgstr ""
+"Archaeus wants to see you cast Light. Nothing will point the way this time - "
+"you will have to remember how to put a spell on your hotbar."
+
+msgid "start_text_quest_21396"
+msgstr "Speak to Archaeus."
 
 msgid "start_text_quest_214"
 msgstr ""
@@ -57430,10 +57703,45 @@ msgstr ""
 "You have accepted a quest form Ugruk Elfstabber. Kill five Hivekin Foragers "
 "in {$u14}."
 
+msgid "start_text_quest_21410"
+msgstr ""
+"Open my chest and take what is inside: a Nith, the catalyst your enchantment "
+"lacks, a Crystal to hold it, and the gold the Enchantment Station will ask "
+"for. Then go back to town, make the enchantment at the Enchantment Station "
+"and set it into your staff. Mary the Councillor will want to hear that it is "
+"done."
+
+msgid "start_text_quest_21411"
+msgstr ""
+"Open Archaeus' Chest, marked on your map, with the key he gave you. Face the "
+"chest and press F, then stand still with your weapon put away while the lock "
+"turns. Whatever is inside goes straight into your backpack."
+
+msgid "start_text_quest_21412"
+msgstr ""
+"The 5 Teeth you kept from the goblins went into the bank with your loot bag. "
+"Go to the bank, marked on your map, face it and press F, and take the Teeth "
+"out into your backpack. The Enchantment Station is marked as well - that is "
+"where you are going next."
+
+msgid "start_text_quest_21413"
+msgstr ""
+"Double-click the enchanted Crystal in your backpack, then click your staff "
+"to set the enchantment into it."
+
+msgid "start_text_quest_21414"
+msgstr "Your staff is enchanted. Report to Mary the Councillor."
+
 msgid "start_text_quest_2142"
 msgstr ""
 "You have accepted a quest from Ugruk Elfstabber. Kill two Ork Thug and two "
 "Ork Beastmasters in {$u14}."
+
+msgid "start_text_quest_21420"
+msgstr ""
+"There is nothing more we can teach you here. Bound is waiting for you - he "
+"will see you off Dawnshore and on to your homeland. I have marked where to "
+"find him on your map. Go well."
 
 msgid "start_text_quest_2143"
 msgstr ""
@@ -87057,6 +87365,16 @@ msgstr ""
 "^Cdarkfall^You have eaten ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
 "^Cdarkfall^times."
 
+msgid "use_skill_message_quest_21241"
+msgstr ""
+"^Cdarkfall^Drag ^Cwhite^Mana Missile ^Cdarkfall^from your spell book onto "
+"hotbar key ^Cwhite^5^Cdarkfall^."
+
+msgid "use_skill_message_quest_21242"
+msgstr ""
+"^Cdarkfall^Drag a ^Cwhite^Berry Oatmeal ^Cdarkfall^from your backpack onto "
+"hotbar key ^Cwhite^6^Cdarkfall^."
+
 msgid "use_skill_message_quest_21254"
 msgstr ""
 "^Cdarkfall^You have struck the goblin shrine ^Cwhite^%1 ^Cdarkfall^of "
@@ -87092,6 +87410,11 @@ msgstr ""
 "^Cdarkfall^You have summoned your mount ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
 "^Cdarkfall^times."
 
+msgid "use_skill_message_quest_21343"
+msgstr ""
+"^Cdarkfall^You have packed away ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^Mount."
+
 msgid "use_skill_message_quest_21351"
 msgstr "^Cdarkfall^You have bought the Side Step upgrade."
 
@@ -87106,4 +87429,24 @@ msgstr "^Cdarkfall^You have bought a spell upgrade for Light."
 msgid "use_skill_message_quest_21392"
 msgstr ""
 "^Cdarkfall^You have made a Magnitude enchantment ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21393"
+msgstr ""
+"^Cdarkfall^You have recalled to the Dawnshore Bindstone ^Cwhite^%1 "
+"^Cdarkfall^of ^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21395"
+msgstr ""
+"^Cdarkfall^You have cast Light ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21411"
+msgstr ""
+"^Cdarkfall^You have opened Archaeus' Chest ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2 ^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21413"
+msgstr ""
+"^Cdarkfall^You have set a gem into your staff ^Cwhite^%1 ^Cdarkfall^of "
 "^Cwhite^%2 ^Cdarkfall^times."
