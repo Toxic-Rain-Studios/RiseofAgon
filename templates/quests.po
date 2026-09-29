@@ -1431,7 +1431,7 @@ msgid "diary_text_quest_21372"
 msgstr "Gallius was pleased with how quickly I learned."
 
 msgid "diary_text_quest_21381"
-msgstr "I cleared four irtych out of the water west of the outpost."
+msgstr "I cleared three irtych out of the water west of the outpost."
 
 msgid "diary_text_quest_21382"
 msgstr "I took hoarfrost from the irtych graves."
@@ -22166,7 +22166,7 @@ msgid "finished_text_quest_21372"
 msgstr "You spoke to Agent Gallius."
 
 msgid "finished_text_quest_21381"
-msgstr "You killed 4 Irtych."
+msgstr "You killed 3 Irtych."
 
 msgid "finished_text_quest_21382"
 msgstr "You gathered 2 Hoarfrost."
@@ -31660,10 +31660,10 @@ msgid "name_quest_21214"
 msgstr "Quest 2 - step 4 - take a rest"
 
 msgid "name_quest_21215"
-msgstr "Quest 2 - step 5 - the archery targets"
+msgstr "Quest 2 - step 6 - the archery targets"
 
 msgid "name_quest_21216"
-msgstr "Quest 2 - step 6 - report to Torvald"
+msgstr "Quest 2 - step 7 - report to Torvald"
 
 msgid "name_quest_21217"
 msgstr "Quest 2 - step 5 - equip your arrows"
@@ -31675,7 +31675,7 @@ msgid "name_quest_21220"
 msgstr "Quest 3"
 
 msgid "name_quest_21221"
-msgstr "Quest 3 - step 1 - armour, and James the Mage"
+msgstr "Quest 3 - step 2 - armour, and James the Mage"
 
 msgid "name_quest_21222"
 msgstr "Quest 3 - step 1 - equip your armour"
@@ -31729,22 +31729,22 @@ msgid "name_quest_2125"
 msgstr "Kobolds and great plans"
 
 msgid "name_quest_21250"
-msgstr "Quest 5"
+msgstr "Quest 5A"
 
 msgid "name_quest_21251"
-msgstr "Quest 5 - step 1 - the skirmish"
+msgstr "Quest 5A - step 2 - the skirmish"
 
 msgid "name_quest_21252"
-msgstr "Quest 5 - step 5 - word to Torvald"
+msgstr "Quest 5A - step 5 - word to Torvald"
 
 msgid "name_quest_21253"
-msgstr "Quest 5 - step 3 - the shaman"
+msgstr "Quest 5A - step 3 - the shaman"
 
 msgid "name_quest_21254"
-msgstr "Quest 5 - step 4 - the shrine"
+msgstr "Quest 5A - step 4 - the shrine"
 
 msgid "name_quest_21255"
-msgstr "Quest 5 - step 0 - the loot bag"
+msgstr "Quest 5A - step 1 - the loot bag"
 
 msgid "name_quest_2126"
 msgstr "The power behind the kobolds"
@@ -31948,13 +31948,13 @@ msgid "name_quest_21390"
 msgstr "Quest 19"
 
 msgid "name_quest_21391"
-msgstr "Quest 22 - step 1 - Bound"
+msgstr "Quest 21 - step 1 - Bound"
 
 msgid "name_quest_21392"
-msgstr "Quest 21 - step 4 - the enchantment"
+msgstr "Quest 20 - step 4 - the enchantment"
 
 msgid "name_quest_21393"
-msgstr "Quest 21 - step 2 - recall to town"
+msgstr "Quest 20 - step 2 - recall to town"
 
 msgid "name_quest_21394"
 msgstr "Quest 19 - step 1 - the cave"
@@ -31972,34 +31972,34 @@ msgid "name_quest_2140"
 msgstr "kill ork bandits"
 
 msgid "name_quest_21400"
-msgstr "Quest 20"
+msgstr "Quest 5B"
 
 msgid "name_quest_21401"
-msgstr "Quest 20 - step 1 - the teeth"
+msgstr "Quest 5B - step 1 - the teeth"
 
 msgid "name_quest_2141"
 msgstr "stop the hivekin"
 
 msgid "name_quest_21410"
-msgstr "Quest 21"
+msgstr "Quest 20"
 
 msgid "name_quest_21411"
-msgstr "Quest 21 - step 1 - Archaeus' Chest"
+msgstr "Quest 20 - step 1 - Archaeus' Chest"
 
 msgid "name_quest_21412"
-msgstr "Quest 21 - step 3 - the teeth"
+msgstr "Quest 20 - step 3 - the teeth"
 
 msgid "name_quest_21413"
-msgstr "Quest 21 - step 5 - the staff"
+msgstr "Quest 20 - step 5 - the staff"
 
 msgid "name_quest_21414"
-msgstr "Quest 21 - step 6 - report to Mary"
+msgstr "Quest 20 - step 6 - report to Mary"
 
 msgid "name_quest_2142"
 msgstr "kill the bandit leaders"
 
 msgid "name_quest_21420"
-msgstr "Quest 22"
+msgstr "Quest 21"
 
 msgid "name_quest_2143"
 msgstr "go to the defenders"
@@ -40901,6 +40901,45 @@ msgstr ""
 "^Cdarkfall^You have retrieved ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
 "^Cdarkfall^Teeth from your bank."
 
+msgid "quest_marker_21212"
+msgstr "Strike the training dummies"
+
+msgid "quest_marker_21215"
+msgstr "Hit the archery targets"
+
+msgid "quest_marker_21233"
+msgstr "Block the mage totem's shots"
+
+msgid "quest_marker_21234"
+msgstr "Hit the mage totem with Mana Missile"
+
+msgid "quest_marker_21253"
+msgstr "Enter the inner ring"
+
+msgid "quest_marker_21254"
+msgstr "Destroy the goblin shrine"
+
+msgid "quest_marker_21291"
+msgstr "Kill trolls in the southern quarry"
+
+msgid "quest_marker_21292"
+msgstr "Kill the troll shaman in the cave"
+
+msgid "quest_marker_21345"
+msgstr "Ride to the War Camp"
+
+msgid "quest_marker_21371"
+msgstr "Buy the Light upgrade from Agent Gallius"
+
+msgid "quest_marker_21382"
+msgstr "Gather Hoarfrost"
+
+msgid "quest_marker_21384"
+msgstr "Approach the light on the cliff"
+
+msgid "quest_marker_21394"
+msgstr "Find Agent Archaeus in his cave"
+
 msgid "short_desc_quest_10000"
 msgstr "Kill 10 Goblins"
 
@@ -42701,7 +42740,7 @@ msgid "short_desc_quest_21216"
 msgstr "Report back to Torvald the Fighter."
 
 msgid "short_desc_quest_21217"
-msgstr "Equip arrows in your paperdoll."
+msgstr "Press B to open your backpack and equip your arrows."
 
 msgid "short_desc_quest_2122"
 msgstr "Gather three units of Timeless Blood."
@@ -42970,7 +43009,7 @@ msgid "short_desc_quest_21380"
 msgstr "Clear the irtych from the water west of the outpost."
 
 msgid "short_desc_quest_21381"
-msgstr "Kill 4 Irtych."
+msgstr "Kill 3 Irtych."
 
 msgid "short_desc_quest_21382"
 msgstr "Gather 2 Hoarfrost."
@@ -57081,7 +57120,8 @@ msgstr "Report back to Torvald."
 
 msgid "start_text_quest_21217"
 msgstr ""
-"Double click the arrows in your backpack to equip them in your paperdoll."
+"Press B to open your backpack, then double click the arrows to equip them in "
+"your paperdoll."
 
 msgid "start_text_quest_2122"
 msgstr ""

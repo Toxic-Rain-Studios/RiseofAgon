@@ -1719,6 +1719,11 @@ msgstr "You need 2000 gold in your global wallet to create a clan."
 msgid "clan_create_error_trial_account"
 msgstr "Trial accounts cannot create a clan."
 
+msgid "clan_create_error_tutorial_island"
+msgstr ""
+"Clans cannot be founded on Dawnshore. You can found one once you reach the "
+"mainland."
+
 msgid "clan_creation_form_cost_description"
 msgstr "2000 gold will be deducted from your global wallet upon creation"
 

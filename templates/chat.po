@@ -7122,6 +7122,11 @@ msgstr "%2 %1 is now online."
 msgid "NOTIFICATION_CLANTASK_COMPLETED"
 msgstr "^Cgreen^Clan task completed: %1 slain!"
 
+msgid "NOTIFICATION_CLAN_APPLICATION_TARGET_ON_TUTORIAL_ISLAND"
+msgstr ""
+"%1 is still on Dawnshore and cannot join a clan yet. Their application stays "
+"on file; accept it again once they reach the mainland."
+
 msgid "NOTIFICATION_CLAN_BANK_POLICY_CHANGED"
 msgstr "%1 %2 has changed our city bank policy to '%3'."
 
@@ -7636,6 +7641,11 @@ msgstr "%1 has been banned from your clan. You cannot invite a banned player."
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_NOT_LOGGED_IN"
 msgstr "%1 is not logged in."
 
+msgid "NOTIFICATION_CLAN_INVITATION_TARGET_ON_TUTORIAL_ISLAND"
+msgstr ""
+"%1 is still on Dawnshore and cannot join a clan until they reach the "
+"mainland."
+
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_PLAYER_HAS_ANOTHER_ACTIVE_CHECK"
 msgstr "%1 already processing another application to the clan."
 
@@ -7649,6 +7659,11 @@ msgstr ""
 
 msgid "NOTIFICATION_CLAN_INVULNERABLE"
 msgstr "This clan is currently invulnerable."
+
+msgid "NOTIFICATION_CLAN_JOIN_REFUSED_ON_TUTORIAL_ISLAND"
+msgstr ""
+"You cannot join a clan on Dawnshore. You can apply once you reach the "
+"mainland."
 
 msgid "NOTIFICATION_CLAN_KOSLIST_NOCLAN_PLAYER_ADDED"
 msgstr "%4 has been added to the KOS list of the %3 by %1 %2."
@@ -13031,3 +13046,8 @@ msgstr ""
 "For completing your training on Dawnshore you have been given a set of "
 "armour, weapons, tools, potions, reagents, food and a mount of your people. "
 "Everything is in your backpack."
+
+msgid "upgrade_not_on_tutorial_island"
+msgstr ""
+"Only Side Step can be bought on Dawnshore. Melee and archery upgrades are "
+"sold once you reach the mainland."
