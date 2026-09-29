@@ -1,1266 +1,1341 @@
+#
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-04 07:23+0000\n"
-"Last-Translator: Weblate Admin <danielr@toxicrainstudios.com>\n"
-"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
-"effects/de/>\n"
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: German\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
 
-msgid "Acid Damage"
-msgstr "Säureschaden"
+msgid "Shield Slam"
+msgstr "Schildmuschel"
 
-msgid "Acid Protection Bonus"
-msgstr ""
-
-msgid "Acid Protection Penalty"
-msgstr ""
-
-msgid "Aquatic Shot"
-msgstr ""
-
-msgid "Arcane Bonus"
-msgstr ""
-
-msgid "Arcane Damage"
-msgstr ""
-
-msgid "Arcane Protection Bonus"
-msgstr ""
-
-msgid "Arcane Protection Penalty"
-msgstr ""
-
-msgid "Armor Bonus"
-msgstr ""
-
-msgid "Arrow Damage"
-msgstr ""
-
-msgid "Arrow Protection Bonus"
-msgstr ""
-
-msgid "Arrow Protection Penalty"
-msgstr ""
-
-msgid "Base Attribute Bonus"
-msgstr ""
-
-msgid "Base Attribute Penalty"
-msgstr ""
-
-msgid "Benefaction"
-msgstr ""
-
-msgid "Bleeding Damage"
-msgstr ""
-
-msgid "Bleeding Hit"
-msgstr ""
-
-msgid "Blindness"
-msgstr ""
-
-msgid "Bludgeoning Damage"
-msgstr ""
-
-msgid "Bludgeoning Protection Bonus"
-msgstr ""
-
-msgid "Bludgeoning Protection Penalty"
-msgstr ""
-
-msgid "Boon of Agony"
-msgstr ""
-
-msgid "Boon of Blight"
-msgstr ""
-
-msgid "Boon of Domination"
-msgstr ""
-
-msgid "Boon of Mutilation"
-msgstr ""
-
-msgid "Boon of Storms"
-msgstr ""
-
-msgid "Boon of Waves"
-msgstr ""
-
-msgid "Burden"
-msgstr ""
-
-msgid "Camping"
-msgstr ""
-
-msgid "Casting Bonus"
-msgstr ""
-
-msgid "Casting Penalty"
-msgstr ""
-
-msgid "Clan Bonus"
-msgstr ""
-
-msgid "Clan Dexterity Bonus"
-msgstr ""
-
-msgid "Clan Health Bonus"
-msgstr ""
-
-msgid "Clan Health Regeneration"
-msgstr ""
-
-msgid "Clan Intelligence Bonus"
-msgstr ""
-
-msgid "Clan Mana Bonus"
-msgstr ""
-
-msgid "Clan Mana Regeneration"
-msgstr ""
-
-msgid "Clan Protection"
-msgstr ""
-
-msgid "Clan Quickness Bonus"
-msgstr ""
-
-msgid "Clan Stamina Bonus"
-msgstr ""
-
-msgid "Clan Stamina Regeneration"
-msgstr ""
-
-msgid "Clan Strength Bonus"
-msgstr ""
-
-msgid "Clan Vitality Bonus"
-msgstr ""
-
-msgid "Clan Wisdom Bonus"
-msgstr ""
-
-msgid "Cold Damage"
-msgstr ""
-
-msgid "Cold Protection Bonus"
-msgstr ""
-
-msgid "Cold Protection Penalty"
-msgstr ""
-
-msgid "Combat Bonus"
-msgstr ""
-
-msgid "Combat Penalty"
-msgstr ""
-
-msgid "Constitution Bonus"
-msgstr ""
-
-msgid "Constitution Penalty"
-msgstr ""
-
-msgid "Damaging Blow"
-msgstr ""
-
-msgid "Decapitate"
-msgstr ""
-
-msgid "Defense Bonus"
-msgstr ""
-
-msgid "Defense Penalty"
-msgstr ""
-
-msgid "Destroyer"
-msgstr ""
-
-msgid "Dexterity Bonus"
-msgstr ""
-
-msgid "Dexterity Penalty"
-msgstr ""
-
-msgid "Double Jump"
-msgstr ""
-
-msgid "Dwarven Perseverance"
-msgstr ""
+msgid "desc_Shield Slam"
+msgstr "Mit einem Schild zugeschlagen."
 
 msgid "Effect"
-msgstr ""
-
-msgid "Efficient Archery"
-msgstr ""
-
-msgid "Extension Effects"
-msgstr ""
-
-msgid "Feather Fall"
-msgstr ""
-
-msgid "Fire Damage"
-msgstr ""
-
-msgid "Fire Protection Bonus"
-msgstr ""
-
-msgid "Fire Protection Penalty"
-msgstr ""
-
-msgid "Fortitude Bonus"
-msgstr ""
-
-msgid "Fortitude Penalty"
-msgstr ""
-
-msgid "General Damage"
-msgstr ""
-
-msgid "Guardsman"
-msgstr ""
-
-msgid "Haste"
-msgstr ""
-
-msgid "Haste Casting"
-msgstr ""
-
-msgid "Haste Melee"
-msgstr ""
-
-msgid "Haste Ranged"
-msgstr ""
-
-msgid "Health Bonus"
-msgstr ""
-
-msgid "Health Degeneration"
-msgstr ""
-
-msgid "Health Penalty"
-msgstr ""
-
-msgid "Health Regeneration"
-msgstr ""
-
-msgid "Holy Damage"
-msgstr ""
-
-msgid "Holy Protection Bonus"
-msgstr ""
-
-msgid "Holy Protection Penalty"
-msgstr ""
-
-msgid "Impact Damage"
-msgstr ""
-
-msgid "In Combat"
-msgstr ""
-
-msgid "Increased Damage"
-msgstr ""
-
-msgid "Increased Distance"
-msgstr ""
-
-msgid "Increased Velocity"
-msgstr ""
-
-msgid "Infliction"
-msgstr ""
-
-msgid "Infliction Protection Bonus"
-msgstr ""
-
-msgid "Infliction Protection Penalty"
-msgstr ""
-
-msgid "Intelligence Bonus"
-msgstr ""
-
-msgid "Intelligence Penalty"
-msgstr ""
-
-msgid "Jump Shot"
-msgstr ""
-
-msgid "Lighten"
-msgstr ""
-
-msgid "Lightning Damage"
-msgstr ""
-
-msgid "Lightning Protection Bonus"
-msgstr ""
-
-msgid "Lightning Protection Penalty"
-msgstr ""
-
-msgid "Mage Killer"
-msgstr ""
-
-msgid "Magic Penalty"
-msgstr ""
-
-msgid "Malediction"
-msgstr ""
-
-msgid "Malediction Protection Bonus"
-msgstr ""
-
-msgid "Malediction Protection Penalty"
-msgstr ""
-
-msgid "Mana Bonus"
-msgstr ""
-
-msgid "Mana Conservation"
-msgstr ""
-
-msgid "Mana Degeneration"
-msgstr ""
-
-msgid "Mana Penalty"
-msgstr ""
-
-msgid "Mana Regeneration"
-msgstr ""
-
-msgid "Mana Shield"
-msgstr ""
-
-msgid "Mana Waste"
-msgstr ""
-
-msgid "Master Scout"
-msgstr ""
-
-msgid "Max Health Bonus"
-msgstr ""
-
-msgid "Max Health Penalty"
-msgstr ""
-
-msgid "Max Mana Bonus"
-msgstr ""
-
-msgid "Max Mana Penalty"
-msgstr ""
-
-msgid "Max Stamina Bonus"
-msgstr ""
-
-msgid "Max Stamina Penalty"
-msgstr ""
-
-msgid "Melee Damage Bonus"
-msgstr ""
-
-msgid "Melee Damage Penalty"
-msgstr ""
-
-msgid "Melee Power Effects"
-msgstr ""
-
-msgid "Melee Protection Bonus"
-msgstr ""
-
-msgid "Melee Restart Bonus"
-msgstr ""
-
-msgid "Melee Restart Penalty"
-msgstr ""
-
-msgid "Mental Ailment"
-msgstr ""
-
-msgid "Mental Protection Bonus"
-msgstr ""
-
-msgid "Mental Protection Penalty"
-msgstr ""
-
-msgid "Mental Status Attack"
-msgstr ""
-
-msgid "Mental Status Bonus"
-msgstr ""
-
-msgid "Missile Damage Bonus"
-msgstr ""
-
-msgid "Mundane Damage"
-msgstr ""
-
-msgid "Negative Effect"
-msgstr ""
-
-msgid "Negative Effect Protection Bonus"
-msgstr ""
-
-msgid "Nourishment"
-msgstr ""
-
-msgid "Obelisk City Stealth Bonus"
-msgstr ""
-
-msgid "Obelisk Decapitation Boost"
-msgstr ""
-
-msgid "Obelisk Demolition Bonus"
-msgstr ""
-
-msgid "Obelisk Haste Ganking"
-msgstr ""
-
-msgid "Obelisk Haste Reviving"
-msgstr ""
-
-msgid "Obelisk Quickening Drink"
-msgstr ""
-
-msgid "Paralysis"
-msgstr ""
-
-msgid "Parry Disabled"
-msgstr ""
-
-msgid "Physical Ailment"
-msgstr ""
-
-msgid "Physical Alteration"
-msgstr ""
-
-msgid "Physical Attack"
-msgstr ""
-
-msgid "Physical Attack Protection Bonus"
-msgstr ""
-
-msgid "Physical Drain"
-msgstr ""
-
-msgid "Physical Gain"
-msgstr ""
-
-msgid "Piercing Damage"
-msgstr ""
-
-msgid "Piercing Protection Bonus"
-msgstr ""
-
-msgid "Piercing Protection Penalty"
-msgstr ""
-
-msgid "Poison"
-msgstr ""
-
-msgid "Poison Damage"
-msgstr ""
-
-msgid "Positive Effect"
-msgstr ""
-
-msgid "Protection Bonus"
-msgstr ""
-
-msgid "Protection Penalty"
-msgstr ""
-
-msgid "Quickness Bonus"
-msgstr ""
-
-msgid "Quickness Penalty"
-msgstr ""
-
-msgid "Rage"
-msgstr ""
-
-msgid "Ranged Damage Penalty"
-msgstr ""
-
-msgid "Ranged Restart Bonus"
-msgstr ""
-
-msgid "Ranged Restart Penalty"
-msgstr ""
-
-msgid "Reflect Magic"
-msgstr ""
-
-msgid "Reflex Bonus"
-msgstr ""
-
-msgid "Reflex Penalty"
-msgstr ""
-
-msgid "Resistance Bonus"
-msgstr ""
-
-msgid "Resistance Penalty"
-msgstr ""
-
-msgid "Resting"
-msgstr ""
-
-msgid "Scout"
-msgstr ""
-
-msgid "Sidestep"
-msgstr ""
-
-msgid "Slashing Damage"
-msgstr ""
-
-msgid "Slashing Protection Bonus"
-msgstr ""
-
-msgid "Slashing Protection Penalty"
-msgstr ""
-
-msgid "Slow"
-msgstr ""
-
-msgid "Slow Casting"
-msgstr ""
-
-msgid "Slow Melee"
-msgstr ""
-
-msgid "Slow Movement"
-msgstr ""
-
-msgid "Slow Ranged"
-msgstr ""
-
-msgid "Spell Duration Bonus"
-msgstr ""
-
-msgid "Spell Immunity Bonus"
-msgstr ""
-
-msgid "Spell Immunity Penalty"
-msgstr ""
-
-msgid "Spell Magnitude Bonus"
-msgstr ""
-
-msgid "Spell Restart Bonus"
-msgstr ""
-
-msgid "Spell Restart Penalty"
-msgstr ""
-
-msgid "Sprain"
-msgstr ""
-
-msgid "Stamina Bonus"
-msgstr ""
-
-msgid "Stamina Conservation"
-msgstr ""
-
-msgid "Stamina Degeneration"
-msgstr ""
-
-msgid "Stamina Penalty"
-msgstr ""
-
-msgid "Stamina Regeneration"
-msgstr ""
-
-msgid "Stamina Waste"
-msgstr ""
-
-msgid "Strength Bonus"
-msgstr ""
-
-msgid "Strength Penalty"
-msgstr ""
-
-msgid "Supernatural Damage"
-msgstr ""
-
-msgid "Suppress Magic"
-msgstr ""
-
-msgid "Transformation"
-msgstr ""
-
-msgid "Unfazed"
-msgstr ""
-
-msgid "Unholy Damage"
-msgstr ""
-
-msgid "Unholy Protection Bonus"
-msgstr ""
-
-msgid "Unholy Protection Penalty"
-msgstr ""
-
-msgid "Untouchable"
-msgstr ""
-
-msgid "Visibility"
-msgstr ""
-
-msgid "Vitality Bonus"
-msgstr ""
-
-msgid "Vitality Penalty"
-msgstr ""
-
-msgid "Water Breathing"
-msgstr ""
-
-msgid "Weapon Damage"
-msgstr ""
-
-msgid "Willpower Bonus"
-msgstr ""
-
-msgid "Willpower Penalty"
-msgstr ""
-
-msgid "Wisdom Bonus"
-msgstr ""
-
-msgid "Wisdom Penalty"
-msgstr ""
-
-msgid "desc_Acid Damage"
-msgstr ""
-
-msgid "desc_Acid Protection Bonus"
-msgstr ""
-
-msgid "desc_Acid Protection Penalty"
-msgstr ""
-
-msgid "desc_Aquatic Shot"
-msgstr ""
-
-msgid "desc_Arcane Bonus"
-msgstr ""
-
-msgid "desc_Arcane Damage"
-msgstr ""
-
-msgid "desc_Arcane Protection Bonus"
-msgstr ""
-
-msgid "desc_Arcane Protection Penalty"
-msgstr ""
-
-msgid "desc_Armor Bonus"
-msgstr ""
-
-msgid "desc_Arrow Damage"
-msgstr ""
-
-msgid "desc_Arrow Protection Bonus"
-msgstr ""
-
-msgid "desc_Arrow Protection Penalty"
-msgstr ""
-
-msgid "desc_Base Attribute Bonus"
-msgstr ""
-
-msgid "desc_Base Attribute Penalty"
-msgstr ""
-
-msgid "desc_Benefaction"
-msgstr ""
-
-msgid "desc_Bleeding Damage"
-msgstr ""
-
-msgid "desc_Bleeding Hit"
-msgstr ""
-
-msgid "desc_Blindness"
-msgstr ""
-
-msgid "desc_Bludgeoning Damage"
-msgstr ""
-
-msgid "desc_Bludgeoning Protection Bonus"
-msgstr ""
-
-msgid "desc_Bludgeoning Protection Penalty"
-msgstr ""
-
-msgid "desc_Boon of Agony"
-msgstr ""
-
-msgid "desc_Boon of Blight"
-msgstr ""
-
-msgid "desc_Boon of Domination"
-msgstr ""
-
-msgid "desc_Boon of Mutilation"
-msgstr ""
-
-msgid "desc_Boon of Storms"
-msgstr ""
-
-msgid "desc_Boon of Waves"
-msgstr ""
-
-msgid "desc_Burden"
-msgstr ""
-
-msgid "desc_Camping"
-msgstr ""
-
-msgid "desc_Casting Bonus"
-msgstr ""
-
-msgid "desc_Casting Penalty"
-msgstr ""
-
-msgid "desc_Clan Bonus"
-msgstr ""
-
-msgid "desc_Clan Dexterity Bonus"
-msgstr ""
-
-msgid "desc_Clan Health Bonus"
-msgstr ""
-
-msgid "desc_Clan Health Regeneration"
-msgstr ""
-
-msgid "desc_Clan Intelligence Bonus"
-msgstr ""
-
-msgid "desc_Clan Mana Bonus"
-msgstr ""
-
-msgid "desc_Clan Mana Regeneration"
-msgstr ""
-
-msgid "desc_Clan Protection"
-msgstr ""
-
-msgid "desc_Clan Quickness Bonus"
-msgstr ""
-
-msgid "desc_Clan Stamina Bonus"
-msgstr ""
-
-msgid "desc_Clan Stamina Regeneration"
-msgstr ""
-
-msgid "desc_Clan Strength Bonus"
-msgstr ""
-
-msgid "desc_Clan Vitality Bonus"
-msgstr ""
-
-msgid "desc_Clan Wisdom Bonus"
-msgstr ""
-
-msgid "desc_Cold Damage"
-msgstr ""
-
-msgid "desc_Cold Protection Bonus"
-msgstr ""
-
-msgid "desc_Cold Protection Penalty"
-msgstr ""
-
-msgid "desc_Combat Bonus"
-msgstr ""
-
-msgid "desc_Combat Penalty"
-msgstr ""
-
-msgid "desc_Constitution Bonus"
-msgstr ""
-
-msgid "desc_Constitution Penalty"
-msgstr ""
-
-msgid "desc_Damaging Blow"
-msgstr ""
-
-msgid "desc_Decapitate"
-msgstr ""
-
-msgid "desc_Defense Bonus"
-msgstr ""
-
-msgid "desc_Defense Penalty"
-msgstr ""
-
-msgid "desc_Destroyer"
-msgstr ""
-
-msgid "desc_Dexterity Bonus"
-msgstr ""
-
-msgid "desc_Dexterity Penalty"
-msgstr ""
-
-msgid "desc_Double Jump"
-msgstr ""
-
-msgid "desc_Dwarven Perseverance"
-msgstr ""
+msgstr "Wirkung"
 
 msgid "desc_Effect"
 msgstr ""
 
-msgid "desc_Efficient Archery"
-msgstr ""
-
-msgid "desc_Extension Effects"
-msgstr ""
-
-msgid "desc_Feather Fall"
-msgstr ""
-
-msgid "desc_Fire Damage"
-msgstr ""
-
-msgid "desc_Fire Protection Bonus"
-msgstr ""
-
-msgid "desc_Fire Protection Penalty"
-msgstr ""
-
-msgid "desc_Fortitude Bonus"
-msgstr ""
-
-msgid "desc_Fortitude Penalty"
-msgstr ""
-
-msgid "desc_General Damage"
-msgstr ""
-
-msgid "desc_Guardsman"
-msgstr ""
-
-msgid "desc_Haste"
-msgstr ""
-
-msgid "desc_Haste Casting"
-msgstr ""
-
-msgid "desc_Haste Melee"
-msgstr ""
-
-msgid "desc_Haste Ranged"
-msgstr ""
-
-msgid "desc_Health Bonus"
-msgstr ""
-
-msgid "desc_Health Degeneration"
-msgstr ""
-
-msgid "desc_Health Penalty"
-msgstr ""
-
-msgid "desc_Health Regeneration"
-msgstr ""
-
-msgid "desc_Holy Damage"
-msgstr ""
-
-msgid "desc_Holy Protection Bonus"
-msgstr ""
-
-msgid "desc_Holy Protection Penalty"
-msgstr ""
-
-msgid "desc_Impact Damage"
-msgstr ""
-
-msgid "desc_In Combat"
-msgstr ""
-
-msgid "desc_Increased Damage"
-msgstr ""
-
-msgid "desc_Increased Distance"
-msgstr ""
-
-msgid "desc_Increased Velocity"
-msgstr ""
-
-msgid "desc_Infliction"
-msgstr ""
-
-msgid "desc_Infliction Protection Bonus"
-msgstr ""
-
-msgid "desc_Infliction Protection Penalty"
-msgstr ""
-
-msgid "desc_Intelligence Bonus"
-msgstr ""
-
-msgid "desc_Intelligence Penalty"
-msgstr ""
-
-msgid "desc_Jump Shot"
-msgstr ""
-
-msgid "desc_Lighten"
-msgstr ""
-
-msgid "desc_Lightning Damage"
-msgstr ""
-
-msgid "desc_Lightning Protection Bonus"
-msgstr ""
-
-msgid "desc_Lightning Protection Penalty"
-msgstr ""
-
-msgid "desc_Mage Killer"
-msgstr ""
-
-msgid "desc_Magic Penalty"
-msgstr ""
-
-msgid "desc_Malediction"
-msgstr ""
-
-msgid "desc_Malediction Protection Bonus"
-msgstr ""
-
-msgid "desc_Malediction Protection Penalty"
-msgstr ""
-
-msgid "desc_Mana Bonus"
-msgstr ""
-
-msgid "desc_Mana Conservation"
-msgstr ""
-
-msgid "desc_Mana Degeneration"
-msgstr ""
-
-msgid "desc_Mana Penalty"
-msgstr ""
-
-msgid "desc_Mana Regeneration"
-msgstr ""
-
-msgid "desc_Mana Shield"
-msgstr ""
-
-msgid "desc_Mana Waste"
-msgstr ""
-
-msgid "desc_Master Scout"
-msgstr ""
-
-msgid "desc_Max Health Bonus"
-msgstr ""
-
-msgid "desc_Max Health Penalty"
-msgstr ""
-
-msgid "desc_Max Mana Bonus"
-msgstr ""
-
-msgid "desc_Max Mana Penalty"
-msgstr ""
-
-msgid "desc_Max Stamina Bonus"
-msgstr ""
-
-msgid "desc_Max Stamina Penalty"
-msgstr ""
-
-msgid "desc_Melee Damage Bonus"
-msgstr ""
-
-msgid "desc_Melee Damage Penalty"
-msgstr ""
-
-msgid "desc_Melee Power Effects"
-msgstr ""
-
-msgid "desc_Melee Protection Bonus"
-msgstr ""
-
-msgid "desc_Melee Restart Bonus"
-msgstr ""
-
-msgid "desc_Melee Restart Penalty"
-msgstr ""
-
-msgid "desc_Mental Ailment"
-msgstr ""
-
-msgid "desc_Mental Protection Bonus"
-msgstr ""
-
-msgid "desc_Mental Protection Penalty"
-msgstr ""
-
-msgid "desc_Mental Status Attack"
-msgstr ""
-
-msgid "desc_Mental Status Bonus"
-msgstr ""
-
-msgid "desc_Missile Damage Bonus"
-msgstr ""
-
-msgid "desc_Mundane Damage"
-msgstr ""
+msgid "Negative Effect"
+msgstr "Negative Auswirkungen"
 
 msgid "desc_Negative Effect"
 msgstr ""
 
-msgid "desc_Negative Effect Protection Bonus"
+msgid "Infliction"
+msgstr "Zufälligkeit"
+
+msgid "desc_Infliction"
 msgstr ""
 
-msgid "desc_Nourishment"
-msgstr ""
-
-msgid "desc_Obelisk City Stealth Bonus"
-msgstr ""
-
-msgid "desc_Obelisk Decapitation Boost"
-msgstr ""
-
-msgid "desc_Obelisk Demolition Bonus"
-msgstr ""
-
-msgid "desc_Obelisk Haste Ganking"
-msgstr ""
-
-msgid "desc_Obelisk Haste Reviving"
-msgstr ""
-
-msgid "desc_Obelisk Quickening Drink"
-msgstr ""
-
-msgid "desc_Paralysis"
-msgstr ""
-
-msgid "desc_Parry Disabled"
-msgstr ""
-
-msgid "desc_Physical Ailment"
-msgstr ""
+msgid "Physical Alteration"
+msgstr "Physikalische Veränderung"
 
 msgid "desc_Physical Alteration"
 msgstr ""
 
-msgid "desc_Physical Attack"
+msgid "Physical Ailment"
+msgstr "Körperliche Beschwerden"
+
+msgid "desc_Physical Ailment"
 msgstr ""
 
-msgid "desc_Physical Attack Protection Bonus"
+msgid "Bleeding Damage"
+msgstr "Blutungsschäden"
+
+msgid "desc_Bleeding Damage"
 msgstr ""
 
-msgid "desc_Physical Drain"
+msgid "Blindness"
+msgstr "Blindheit"
+
+msgid "desc_Blindness"
 msgstr ""
 
-msgid "desc_Physical Gain"
+msgid "Health Degeneration"
+msgstr "Gesundheitsdegeneration"
+
+msgid "desc_Health Degeneration"
 msgstr ""
 
-msgid "desc_Piercing Damage"
-msgstr ""
+msgid "Stamina Degeneration"
+msgstr "Ausdauerdegeneration"
 
-msgid "desc_Piercing Protection Bonus"
-msgstr ""
+msgid "desc_Stamina Degeneration"
+msgstr "  "
 
-msgid "desc_Piercing Protection Penalty"
-msgstr ""
-
-msgid "desc_Poison"
-msgstr ""
-
-msgid "desc_Poison Damage"
-msgstr ""
-
-msgid "desc_Positive Effect"
-msgstr ""
-
-msgid "desc_Protection Bonus"
-msgstr ""
-
-msgid "desc_Protection Penalty"
-msgstr ""
-
-msgid "desc_Quickness Bonus"
-msgstr ""
-
-msgid "desc_Quickness Penalty"
-msgstr ""
-
-msgid "desc_Rage"
-msgstr ""
-
-msgid "desc_Ranged Damage Penalty"
-msgstr ""
-
-msgid "desc_Ranged Restart Bonus"
-msgstr ""
-
-msgid "desc_Ranged Restart Penalty"
-msgstr ""
-
-msgid "desc_Reflect Magic"
-msgstr ""
-
-msgid "desc_Reflex Bonus"
-msgstr ""
-
-msgid "desc_Reflex Penalty"
-msgstr ""
-
-msgid "desc_Resistance Bonus"
-msgstr ""
+msgid "Resistance Penalty"
+msgstr "Widerstandsstrafe"
 
 msgid "desc_Resistance Penalty"
 msgstr ""
 
-msgid "desc_Resting"
+msgid "Constitution Penalty"
+msgstr "Verfassungsstrafe"
+
+msgid "desc_Constitution Penalty"
 msgstr ""
 
-msgid "desc_Scout"
+msgid "Defense Penalty"
+msgstr "Verteidigungsstrafe"
+
+msgid "desc_Defense Penalty"
 msgstr ""
 
-msgid "desc_Sidestep"
+msgid "Fortitude Penalty"
+msgstr "Strafvollstreckung"
+
+msgid "desc_Fortitude Penalty"
 msgstr ""
 
-msgid "desc_Slashing Damage"
+msgid "Reflex Penalty"
+msgstr "Reflexstrafe"
+
+msgid "desc_Reflex Penalty"
 msgstr ""
 
-msgid "desc_Slashing Protection Bonus"
-msgstr ""
-
-msgid "desc_Slashing Protection Penalty"
-msgstr ""
-
-msgid "desc_Slow"
-msgstr ""
-
-msgid "desc_Slow Casting"
-msgstr ""
-
-msgid "desc_Slow Melee"
-msgstr ""
-
-msgid "desc_Slow Movement"
-msgstr ""
-
-msgid "desc_Slow Ranged"
-msgstr ""
-
-msgid "desc_Spell Duration Bonus"
-msgstr ""
-
-msgid "desc_Spell Immunity Bonus"
-msgstr ""
-
-msgid "desc_Spell Immunity Penalty"
-msgstr ""
-
-msgid "desc_Spell Magnitude Bonus"
-msgstr ""
-
-msgid "desc_Spell Restart Bonus"
-msgstr ""
-
-msgid "desc_Spell Restart Penalty"
-msgstr ""
-
-msgid "desc_Sprain"
-msgstr ""
-
-msgid "desc_Stamina Bonus"
-msgstr ""
-
-msgid "desc_Stamina Conservation"
-msgstr ""
-
-msgid "desc_Stamina Degeneration"
-msgstr ""
-
-msgid "desc_Stamina Penalty"
-msgstr ""
-
-msgid "desc_Stamina Regeneration"
-msgstr ""
-
-msgid "desc_Stamina Waste"
-msgstr ""
-
-msgid "desc_Strength Bonus"
-msgstr ""
-
-msgid "desc_Strength Penalty"
-msgstr ""
-
-msgid "desc_Supernatural Damage"
-msgstr ""
-
-msgid "desc_Suppress Magic"
-msgstr ""
-
-msgid "desc_Transformation"
-msgstr ""
-
-msgid "desc_Unfazed"
-msgstr ""
-
-msgid "desc_Unholy Damage"
-msgstr ""
-
-msgid "desc_Unholy Protection Bonus"
-msgstr ""
-
-msgid "desc_Unholy Protection Penalty"
-msgstr ""
-
-msgid "desc_Untouchable"
-msgstr ""
+msgid "Visibility"
+msgstr "Sichtbarkeit"
 
 msgid "desc_Visibility"
 msgstr ""
 
-msgid "desc_Vitality Bonus"
-msgstr ""
-
-msgid "desc_Vitality Penalty"
-msgstr ""
-
-msgid "desc_Water Breathing"
-msgstr ""
-
-msgid "desc_Weapon Damage"
-msgstr ""
-
-msgid "desc_Willpower Bonus"
-msgstr ""
+msgid "Willpower Penalty"
+msgstr "Willenskraftstrafe"
 
 msgid "desc_Willpower Penalty"
 msgstr ""
 
-msgid "desc_Wisdom Bonus"
+msgid "Transformation"
+msgstr "Umwandlung"
+
+msgid "desc_Transformation"
 msgstr ""
+
+msgid "Burden"
+msgstr "Belastung"
+
+msgid "desc_Burden"
+msgstr ""
+
+msgid "Physical Drain"
+msgstr "Physikalische Abflüsse"
+
+msgid "desc_Physical Drain"
+msgstr ""
+
+msgid "Health Penalty"
+msgstr "Gesundheitsstrafe"
+
+msgid "desc_Health Penalty"
+msgstr ""
+
+msgid "Max Health Penalty"
+msgstr "Max. Gesundheitsstrafe"
+
+msgid "desc_Max Health Penalty"
+msgstr ""
+
+msgid "Max Stamina Penalty"
+msgstr "Max Ausdauerstrafe"
+
+msgid "desc_Max Stamina Penalty"
+msgstr ""
+
+msgid "Stamina Penalty"
+msgstr "Ausdauerstrafe"
+
+msgid "desc_Stamina Penalty"
+msgstr ""
+
+msgid "Stamina Waste"
+msgstr "Ausdauerabfälle"
+
+msgid "desc_Stamina Waste"
+msgstr ""
+
+msgid "Poison"
+msgstr "Gift"
+
+msgid "desc_Poison"
+msgstr ""
+
+msgid "Poison Damage"
+msgstr "Giftschäden"
+
+msgid "desc_Poison Damage"
+msgstr "  "
+
+msgid "Malediction"
+msgstr "Bösartigkeit"
+
+msgid "desc_Malediction"
+msgstr ""
+
+msgid "Base Attribute Penalty"
+msgstr "Base Attribut Penalty"
+
+msgid "desc_Base Attribute Penalty"
+msgstr ""
+
+msgid "Dexterity Penalty"
+msgstr "Geschicklichkeitsstrafe"
+
+msgid "desc_Dexterity Penalty"
+msgstr ""
+
+msgid "Intelligence Penalty"
+msgstr "Intelligenzstrafe"
+
+msgid "desc_Intelligence Penalty"
+msgstr ""
+
+msgid "Quickness Penalty"
+msgstr "Schnelligkeitsstrafe"
+
+msgid "desc_Quickness Penalty"
+msgstr ""
+
+msgid "Strength Penalty"
+msgstr "Schwere Strafe"
+
+msgid "desc_Strength Penalty"
+msgstr ""
+
+msgid "Vitality Penalty"
+msgstr "Vitalitätsstrafe"
+
+msgid "desc_Vitality Penalty"
+msgstr ""
+
+msgid "Wisdom Penalty"
+msgstr "Weisheitsstrafe"
 
 msgid "desc_Wisdom Penalty"
 msgstr ""
+
+msgid "Combat Penalty"
+msgstr "Kampfstrafe"
+
+msgid "desc_Combat Penalty"
+msgstr ""
+
+msgid "Melee Damage Penalty"
+msgstr "Nahkampfschadensstrafe"
+
+msgid "desc_Melee Damage Penalty"
+msgstr ""
+
+msgid "Ranged Damage Penalty"
+msgstr "Entfernungsschadensstrafe"
+
+msgid "desc_Ranged Damage Penalty"
+msgstr ""
+
+msgid "Protection Penalty"
+msgstr "Schutzstrafe"
+
+msgid "desc_Protection Penalty"
+msgstr " "
+
+msgid "Acid Protection Penalty"
+msgstr "Säureschutzstrafe"
+
+msgid "desc_Acid Protection Penalty"
+msgstr "  "
+
+msgid "Arcane Protection Penalty"
+msgstr "Arkane Schutzstrafe"
+
+msgid "desc_Arcane Protection Penalty"
+msgstr " "
+
+msgid "Arrow Protection Penalty"
+msgstr "Pfeilschutzstrafe"
+
+msgid "desc_Arrow Protection Penalty"
+msgstr " "
+
+msgid "Bludgeoning Protection Penalty"
+msgstr "Verprügelungsschutzstrafe"
+
+msgid "desc_Bludgeoning Protection Penalty"
+msgstr " "
+
+msgid "Cold Protection Penalty"
+msgstr "Kälteschutzstrafe"
+
+msgid "desc_Cold Protection Penalty"
+msgstr " "
+
+msgid "Fire Protection Penalty"
+msgstr "Brandschutzstrafe"
+
+msgid "desc_Fire Protection Penalty"
+msgstr " "
+
+msgid "Holy Protection Penalty"
+msgstr "Heilige Schutzstrafe"
+
+msgid "desc_Holy Protection Penalty"
+msgstr " "
+
+msgid "Infliction Protection Penalty"
+msgstr "Strafe für den Schadensersatz"
+
+msgid "desc_Infliction Protection Penalty"
+msgstr " "
+
+msgid "Lightning Protection Penalty"
+msgstr "Blitzschutzstrafe"
+
+msgid "desc_Lightning Protection Penalty"
+msgstr " "
+
+msgid "Malediction Protection Penalty"
+msgstr "Strafe für den Böswilligkeitsschutz"
+
+msgid "desc_Malediction Protection Penalty"
+msgstr " "
+
+msgid "Mental Protection Penalty"
+msgstr "Psychische Schutzstrafe"
+
+msgid "desc_Mental Protection Penalty"
+msgstr " "
+
+msgid "Piercing Protection Penalty"
+msgstr "Piercing-Schutzstrafe"
+
+msgid "desc_Piercing Protection Penalty"
+msgstr " "
+
+msgid "Slashing Protection Penalty"
+msgstr "Kürzung der Schutzstrafe"
+
+msgid "desc_Slashing Protection Penalty"
+msgstr " "
+
+msgid "Unholy Protection Penalty"
+msgstr "Unheilige Schutzstrafe"
+
+msgid "desc_Unholy Protection Penalty"
+msgstr " "
+
+msgid "Mental Status Attack"
+msgstr "Mentaler Status Angriff"
+
+msgid "desc_Mental Status Attack"
+msgstr ""
+
+msgid "Magic Penalty"
+msgstr "Magische Strafe"
+
+msgid "desc_Magic Penalty"
+msgstr ""
+
+msgid "Casting Penalty"
+msgstr "Gussstrafe"
+
+msgid "desc_Casting Penalty"
+msgstr ""
+
+msgid "Mana Degeneration"
+msgstr "Manaverfall"
+
+msgid "desc_Mana Degeneration"
+msgstr " "
+
+msgid "Mana Penalty"
+msgstr "Mana-Strafe"
+
+msgid "desc_Mana Penalty"
+msgstr ""
+
+msgid "Mana Waste"
+msgstr "Manaabfälle"
+
+msgid "desc_Mana Waste"
+msgstr ""
+
+msgid "Max Mana Penalty"
+msgstr "Max. Mana Strafe"
+
+msgid "desc_Max Mana Penalty"
+msgstr ""
+
+msgid "Spell Immunity Penalty"
+msgstr "Spruchimmunitätsstrafe"
+
+msgid "desc_Spell Immunity Penalty"
+msgstr " "
+
+msgid "Suppress Magic"
+msgstr "Unterdrücken Sie die Magie"
+
+msgid "desc_Suppress Magic"
+msgstr ""
+
+msgid "Mental Ailment"
+msgstr "Seelische Beschwerden"
+
+msgid "desc_Mental Ailment"
+msgstr ""
+
+msgid "Paralysis"
+msgstr "Lähmung"
+
+msgid "desc_Paralysis"
+msgstr ""
+
+msgid "Slow"
+msgstr "Langsam"
+
+msgid "desc_Slow"
+msgstr ""
+
+msgid "Melee Restart Penalty"
+msgstr "Nahkampf-Neustartstrafe"
+
+msgid "desc_Melee Restart Penalty"
+msgstr "  "
+
+msgid "Ranged Restart Penalty"
+msgstr "Range Restart Penalty"
+
+msgid "desc_Ranged Restart Penalty"
+msgstr " "
+
+msgid "Slow Casting"
+msgstr "Verlangsamtes Zaubern"
+
+msgid "desc_Slow Casting"
+msgstr ""
+
+msgid "Slow Melee"
+msgstr "Slow Mele"
+
+msgid "desc_Slow Melee"
+msgstr ""
+
+msgid "Slow Movement"
+msgstr "Langsame Bewegung"
+
+msgid "desc_Slow Movement"
+msgstr ""
+
+msgid "Slow Ranged"
+msgstr "Slow Range"
+
+msgid "desc_Slow Ranged"
+msgstr ""
+
+msgid "Spell Restart Penalty"
+msgstr "Strafe für den Neustart"
+
+msgid "desc_Spell Restart Penalty"
+msgstr ""
+
+msgid "Physical Attack"
+msgstr "Physischer Angriff"
+
+msgid "desc_Physical Attack"
+msgstr ""
+
+msgid "General Damage"
+msgstr "Allgemeiner Schaden"
+
+msgid "desc_General Damage"
+msgstr ""
+
+msgid "Mundane Damage"
+msgstr "Weltliche Schäden"
+
+msgid "desc_Mundane Damage"
+msgstr ""
+
+msgid "Acid Damage"
+msgstr "Säureschädigung"
+
+msgid "desc_Acid Damage"
+msgstr ""
+
+msgid "Cold Damage"
+msgstr "Kälteschäden"
+
+msgid "desc_Cold Damage"
+msgstr ""
+
+msgid "Decapitate"
+msgstr "Dekapitat"
+
+msgid "desc_Decapitate"
+msgstr " Raus mit ihren Köpfen!"
+
+msgid "Fire Damage"
+msgstr "Brandschaden"
+
+msgid "desc_Fire Damage"
+msgstr ""
+
+msgid "Lightning Damage"
+msgstr "Blitzschäden"
+
+msgid "desc_Lightning Damage"
+msgstr ""
+
+msgid "Weapon Damage"
+msgstr "Waffenschaden"
+
+msgid "desc_Weapon Damage"
+msgstr " "
+
+msgid "Bludgeoning Damage"
+msgstr "Verprügelungsschaden"
+
+msgid "desc_Bludgeoning Damage"
+msgstr ""
+
+msgid "Impact Damage"
+msgstr "Aufprallschaden"
+
+msgid "desc_Impact Damage"
+msgstr ""
+
+msgid "Piercing Damage"
+msgstr "Piercing-Schäden"
+
+msgid "desc_Piercing Damage"
+msgstr ""
+
+msgid "Arrow Damage"
+msgstr "Pfeilschaden"
+
+msgid "desc_Arrow Damage"
+msgstr " "
+
+msgid "Damaging Blow"
+msgstr "Schädlicher Schlag"
+
+msgid "desc_Damaging Blow"
+msgstr ""
+
+msgid "Bleeding Hit"
+msgstr "Blutungsschlag"
+
+msgid "desc_Bleeding Hit"
+msgstr ""
+
+msgid "Slashing Damage"
+msgstr "Schadensreduzierung"
+
+msgid "desc_Slashing Damage"
+msgstr ""
+
+msgid "Supernatural Damage"
+msgstr "Übernatürliche Schäden"
+
+msgid "desc_Supernatural Damage"
+msgstr ""
+
+msgid "Arcane Damage"
+msgstr "Arkane Schäden"
+
+msgid "desc_Arcane Damage"
+msgstr ""
+
+msgid "Holy Damage"
+msgstr "Heiliger Schaden"
+
+msgid "desc_Holy Damage"
+msgstr ""
+
+msgid "Unholy Damage"
+msgstr "Unheilige Schäden"
+
+msgid "desc_Unholy Damage"
+msgstr ""
+
+msgid "Parry Disabled"
+msgstr "Parry behindert"
+
+msgid "desc_Parry Disabled"
+msgstr " "
+
+msgid "Sprain"
+msgstr "Verstauchung"
+
+msgid "desc_Sprain"
+msgstr " "
+
+msgid "Positive Effect"
+msgstr "Positive Wirkung"
+
+msgid "desc_Positive Effect"
+msgstr ""
+
+msgid "In Combat"
+msgstr "Im Kampf"
+
+msgid "desc_In Combat"
+msgstr " "
+
+msgid "Benefaction"
+msgstr "Begünstigung"
+
+msgid "desc_Benefaction"
+msgstr ""
+
+msgid "Base Attribute Bonus"
+msgstr "Basisattributbonus"
+
+msgid "desc_Base Attribute Bonus"
+msgstr ""
+
+msgid "Dexterity Bonus"
+msgstr "Geschicklichkeitsbonus"
+
+msgid "desc_Dexterity Bonus"
+msgstr ""
+
+msgid "Intelligence Bonus"
+msgstr "Intelligenz Bonus"
+
+msgid "desc_Intelligence Bonus"
+msgstr ""
+
+msgid "Quickness Bonus"
+msgstr "Schnelligkeitsbonus"
+
+msgid "desc_Quickness Bonus"
+msgstr ""
+
+msgid "Strength Bonus"
+msgstr "Stärkebonus"
+
+msgid "desc_Strength Bonus"
+msgstr ""
+
+msgid "Vitality Bonus"
+msgstr "Vitalitätsbonus"
+
+msgid "desc_Vitality Bonus"
+msgstr ""
+
+msgid "Wisdom Bonus"
+msgstr "Weisheitsbonus"
+
+msgid "desc_Wisdom Bonus"
+msgstr ""
+
+msgid "Combat Bonus"
+msgstr "Kampfbonus"
+
+msgid "desc_Combat Bonus"
+msgstr ""
+
+msgid "Melee Damage Bonus"
+msgstr "Nahkampfschadensbonus"
+
+msgid "desc_Melee Damage Bonus"
+msgstr ""
+
+msgid "Missile Damage Bonus"
+msgstr "Schadenersatz für Flugkörper"
+
+msgid "desc_Missile Damage Bonus"
+msgstr ""
+
+msgid "Physical Gain"
+msgstr "Physischer Gewinn"
+
+msgid "desc_Physical Gain"
+msgstr ""
+
+msgid "Health Bonus"
+msgstr "Gesundheitsbonus"
+
+msgid "desc_Health Bonus"
+msgstr ""
+
+msgid "Health Regeneration"
+msgstr "Gesundheitsregeneration"
+
+msgid "desc_Health Regeneration"
+msgstr "   "
+
+msgid "Lighten"
+msgstr "Heller"
+
+msgid "desc_Lighten"
+msgstr ""
+
+msgid "Max Health Bonus"
+msgstr "Maximaler Gesundheitsbonus"
+
+msgid "desc_Max Health Bonus"
+msgstr ""
+
+msgid "Max Stamina Bonus"
+msgstr "Maximaler Ausdauerbonus"
+
+msgid "desc_Max Stamina Bonus"
+msgstr ""
+
+msgid "Nourishment"
+msgstr "Ernährung"
+
+msgid "desc_Nourishment"
+msgstr " "
+
+msgid "Resting"
+msgstr "Ruhend"
+
+msgid "desc_Resting"
+msgstr " "
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "desc_Camping"
+msgstr " "
+
+msgid "Stamina Bonus"
+msgstr "Ausdauerbonus"
+
+msgid "desc_Stamina Bonus"
+msgstr ""
+
+msgid "Stamina Conservation"
+msgstr "Ausdauererhaltung"
+
+msgid "desc_Stamina Conservation"
+msgstr ""
+
+msgid "Stamina Regeneration"
+msgstr "Ausdauerregeneration"
+
+msgid "desc_Stamina Regeneration"
+msgstr "  "
+
+msgid "Water Breathing"
+msgstr "Wasseratmung"
+
+msgid "desc_Water Breathing"
+msgstr " "
+
+msgid "Protection Bonus"
+msgstr "Schutzbonus"
+
+msgid "desc_Protection Bonus"
+msgstr " "
+
+msgid "Acid Protection Bonus"
+msgstr "Säureschutzbonus"
+
+msgid "desc_Acid Protection Bonus"
+msgstr " "
+
+msgid "Arcane Protection Bonus"
+msgstr "Arkaner Schutzbonus"
+
+msgid "desc_Arcane Protection Bonus"
+msgstr " "
+
+msgid "Armor Bonus"
+msgstr "Rüstungsbonus"
+
+msgid "desc_Armor Bonus"
+msgstr " "
+
+msgid "Arrow Protection Bonus"
+msgstr "Pfeilschutzbonus"
+
+msgid "desc_Arrow Protection Bonus"
+msgstr " "
+
+msgid "Bludgeoning Protection Bonus"
+msgstr "Verprügelungsschutzbonus"
+
+msgid "desc_Bludgeoning Protection Bonus"
+msgstr " "
+
+msgid "Cold Protection Bonus"
+msgstr "Kälteschutzbonus"
+
+msgid "desc_Cold Protection Bonus"
+msgstr " "
+
+msgid "Fire Protection Bonus"
+msgstr "Brandschutzprämie"
+
+msgid "desc_Fire Protection Bonus"
+msgstr " "
+
+msgid "Holy Protection Bonus"
+msgstr "Heiliger Schutzbonus"
+
+msgid "desc_Holy Protection Bonus"
+msgstr " "
+
+msgid "Infliction Protection Bonus"
+msgstr "Zuschlag auf den Schadensschutz"
+
+msgid "desc_Infliction Protection Bonus"
+msgstr " "
+
+msgid "Lightning Protection Bonus"
+msgstr "Blitzschutzbonus"
+
+msgid "desc_Lightning Protection Bonus"
+msgstr " "
+
+msgid "Malediction Protection Bonus"
+msgstr "Bonus zum Schutz vor Bösartigkeit"
+
+msgid "desc_Malediction Protection Bonus"
+msgstr " "
+
+msgid "Melee Protection Bonus"
+msgstr "Nahkampf-Schutzbonus"
+
+msgid "desc_Melee Protection Bonus"
+msgstr " "
+
+msgid "Mental Protection Bonus"
+msgstr "Psychischer Schutzbonus"
+
+msgid "desc_Mental Protection Bonus"
+msgstr " "
+
+msgid "Negative Effect Protection Bonus"
+msgstr "Negativer Effekt-Schutzbonus"
+
+msgid "desc_Negative Effect Protection Bonus"
+msgstr " "
+
+msgid "Physical Attack Protection Bonus"
+msgstr "Physischer Angriffsschutzbonus"
+
+msgid "desc_Physical Attack Protection Bonus"
+msgstr " "
+
+msgid "Piercing Protection Bonus"
+msgstr "Piercing-Schutzbonus"
+
+msgid "desc_Piercing Protection Bonus"
+msgstr " "
+
+msgid "Slashing Protection Bonus"
+msgstr "Kürzung des Schutzbonus"
+
+msgid "desc_Slashing Protection Bonus"
+msgstr " "
+
+msgid "Unholy Protection Bonus"
+msgstr "Unheiliger Schutzbonus"
+
+msgid "desc_Unholy Protection Bonus"
+msgstr " "
+
+msgid "Resistance Bonus"
+msgstr "Widerstandsbonus"
+
+msgid "desc_Resistance Bonus"
+msgstr ""
+
+msgid "Constitution Bonus"
+msgstr "Verfassungszuschlag"
+
+msgid "desc_Constitution Bonus"
+msgstr ""
+
+msgid "Defense Bonus"
+msgstr "Abwehrbonus"
+
+msgid "desc_Defense Bonus"
+msgstr ""
+
+msgid "Fortitude Bonus"
+msgstr "Festungsbonus"
+
+msgid "desc_Fortitude Bonus"
+msgstr ""
+
+msgid "Reflex Bonus"
+msgstr "Reflexbonus"
+
+msgid "desc_Reflex Bonus"
+msgstr ""
+
+msgid "Willpower Bonus"
+msgstr "Willenskraftbonus"
+
+msgid "desc_Willpower Bonus"
+msgstr ""
+
+msgid "Clan Bonus"
+msgstr "Clanbonus"
+
+msgid "desc_Clan Bonus"
+msgstr " "
+
+msgid "Clan Dexterity Bonus"
+msgstr "Clan-Geschicklichkeitsbonus"
+
+msgid "desc_Clan Dexterity Bonus"
+msgstr " "
+
+msgid "Clan Health Bonus"
+msgstr "Clan-Gesundheitsbonus"
+
+msgid "desc_Clan Health Bonus"
+msgstr "  "
+
+msgid "Clan Health Regeneration"
+msgstr "Clan Gesundheit Regeneration"
+
+msgid "desc_Clan Health Regeneration"
+msgstr " "
+
+msgid "Clan Intelligence Bonus"
+msgstr "Intelligenzbonus des Clans"
+
+msgid "desc_Clan Intelligence Bonus"
+msgstr " "
+
+msgid "Clan Mana Bonus"
+msgstr "Manabonus des Clans"
+
+msgid "desc_Clan Mana Bonus"
+msgstr " "
+
+msgid "Clan Mana Regeneration"
+msgstr "Manaregeneration des Clans"
+
+msgid "desc_Clan Mana Regeneration"
+msgstr " "
+
+msgid "Clan Protection"
+msgstr "Clanschutz"
+
+msgid "desc_Clan Protection"
+msgstr " "
+
+msgid "Clan Quickness Bonus"
+msgstr "Schnelligkeitsbonus des Clans"
+
+msgid "desc_Clan Quickness Bonus"
+msgstr " "
+
+msgid "Clan Stamina Bonus"
+msgstr "Clan-Ausdauerbonus"
+
+msgid "desc_Clan Stamina Bonus"
+msgstr " "
+
+msgid "Clan Stamina Regeneration"
+msgstr "Clan Ausdauer Regeneration"
+
+msgid "desc_Clan Stamina Regeneration"
+msgstr " "
+
+msgid "Clan Strength Bonus"
+msgstr "Clanstärkebonus"
+
+msgid "desc_Clan Strength Bonus"
+msgstr " "
+
+msgid "Clan Vitality Bonus"
+msgstr "Clan Vitalitätsbonus"
+
+msgid "desc_Clan Vitality Bonus"
+msgstr " "
+
+msgid "Clan Wisdom Bonus"
+msgstr "Clan Weisheit Bonus"
+
+msgid "desc_Clan Wisdom Bonus"
+msgstr " "
+
+msgid "Extension Effects"
+msgstr "Verlängerungseffekte"
+
+msgid "desc_Extension Effects"
+msgstr " "
+
+msgid "Aquatic Shot"
+msgstr "Wasserschuß"
+
+msgid "desc_Aquatic Shot"
+msgstr " "
+
+msgid "Destroyer"
+msgstr "Zerstörer"
+
+msgid "desc_Destroyer"
+msgstr " "
+
+msgid "Double Jump"
+msgstr "Doppelsprung"
+
+msgid "desc_Double Jump"
+msgstr "  "
+
+msgid "Efficient Archery"
+msgstr "Effizientes Bogenschießen"
+
+msgid "desc_Efficient Archery"
+msgstr " "
+
+msgid "Guardsman"
+msgstr "Wachmann"
+
+msgid "desc_Guardsman"
+msgstr "  "
+
+msgid "Increased Damage"
+msgstr "Mehr Schadensersatz"
+
+msgid "desc_Increased Damage"
+msgstr " "
+
+msgid "Increased Distance"
+msgstr "Vergrößerter Abstand"
+
+msgid "desc_Increased Distance"
+msgstr " "
+
+msgid "Increased Velocity"
+msgstr "Erhöhte Geschwindigkeit"
+
+msgid "desc_Increased Velocity"
+msgstr " "
+
+msgid "Jump Shot"
+msgstr "Sprungschuss"
+
+msgid "desc_Jump Shot"
+msgstr " "
+
+msgid "Mage Killer"
+msgstr "Magier-Killer"
+
+msgid "desc_Mage Killer"
+msgstr " "
+
+msgid "Mana Shield"
+msgstr "Mana-Schild"
+
+msgid "desc_Mana Shield"
+msgstr " "
+
+msgid "Master Scout"
+msgstr "Meisterspäher"
+
+msgid "desc_Master Scout"
+msgstr " "
+
+msgid "Scout"
+msgstr "Späher"
+
+msgid "desc_Scout"
+msgstr " "
+
+msgid "Sidestep"
+msgstr "Ausweichschritt"
+
+msgid "desc_Sidestep"
+msgstr " "
+
+msgid "Unfazed"
+msgstr "Unbeeindruckt"
+
+msgid "desc_Unfazed"
+msgstr " "
+
+msgid "Melee Power Effects"
+msgstr "Nahkampfeffekte"
+
+msgid "desc_Melee Power Effects"
+msgstr " "
+
+msgid "Dwarven Perseverance"
+msgstr "Zwergenbeharrlichkeit"
+
+msgid "desc_Dwarven Perseverance"
+msgstr " "
+
+msgid "Rage"
+msgstr "Riefen"
+
+msgid "desc_Rage"
+msgstr " "
+
+msgid "Mental Status Bonus"
+msgstr "Mentaler Status Bonus"
+
+msgid "desc_Mental Status Bonus"
+msgstr ""
+
+msgid "Arcane Bonus"
+msgstr "Arkaner Bonus"
+
+msgid "desc_Arcane Bonus"
+msgstr ""
+
+msgid "Casting Bonus"
+msgstr "Casting-Bonus"
+
+msgid "desc_Casting Bonus"
+msgstr ""
+
+msgid "Mana Bonus"
+msgstr "Manabonus"
+
+msgid "desc_Mana Bonus"
+msgstr ""
+
+msgid "Mana Conservation"
+msgstr "Mana-Erhaltung"
+
+msgid "desc_Mana Conservation"
+msgstr ""
+
+msgid "Mana Regeneration"
+msgstr "Mana-Regeneration"
+
+msgid "desc_Mana Regeneration"
+msgstr "  "
+
+msgid "Max Mana Bonus"
+msgstr "Max. Manabonus"
+
+msgid "desc_Max Mana Bonus"
+msgstr ""
+
+msgid "Reflect Magic"
+msgstr "Reflektieren Sie Magie"
+
+msgid "desc_Reflect Magic"
+msgstr " "
+
+msgid "Feather Fall"
+msgstr "Federfall"
+
+msgid "desc_Feather Fall"
+msgstr " "
+
+msgid "Obelisk Haste Ganking"
+msgstr "Obelisk haste ganking"
+
+msgid "desc_Obelisk Haste Ganking"
+msgstr " "
+
+msgid "Obelisk Haste Reviving"
+msgstr "Obelisk haste Revival"
+
+msgid "desc_Obelisk Haste Reviving"
+msgstr " "
+
+msgid "Obelisk Decapitation Boost"
+msgstr "Dekapitationsschub bei Obelisken"
+
+msgid "desc_Obelisk Decapitation Boost"
+msgstr " "
+
+msgid "Obelisk City Stealth Bonus"
+msgstr "Tarnungsbonus des Stadtobelisken"
+
+msgid "desc_Obelisk City Stealth Bonus"
+msgstr " "
+
+msgid "Obelisk Quickening Drink"
+msgstr "Obeliskenbeschleunigungsgetränk"
+
+msgid "desc_Obelisk Quickening Drink"
+msgstr " "
+
+msgid "Obelisk Demolition Bonus"
+msgstr "Abbruchbonus für Obelisken"
+
+msgid "desc_Obelisk Demolition Bonus"
+msgstr " "
+
+msgid "Spell Duration Bonus"
+msgstr "Bonus für die Dauer der Laufzeit"
+
+msgid "desc_Spell Duration Bonus"
+msgstr "  "
+
+msgid "Spell Immunity Bonus"
+msgstr "Speer-Immunitätsbonus"
+
+msgid "desc_Spell Immunity Bonus"
+msgstr " "
+
+msgid "Spell Magnitude Bonus"
+msgstr "Speerhöhen-Bonus"
+
+msgid "desc_Spell Magnitude Bonus"
+msgstr " "
+
+msgid "Haste"
+msgstr "Eile"
+
+msgid "desc_Haste"
+msgstr ""
+
+msgid "Haste Casting"
+msgstr "Eilgießen"
+
+msgid "desc_Haste Casting"
+msgstr ""
+
+msgid "Haste Melee"
+msgstr "Haste melee"
+
+msgid "desc_Haste Melee"
+msgstr ""
+
+msgid "Haste Ranged"
+msgstr "Eile Range"
+
+msgid "desc_Haste Ranged"
+msgstr ""
+
+msgid "Melee Restart Bonus"
+msgstr "Melee-Neustartbonus"
+
+msgid "desc_Melee Restart Bonus"
+msgstr " "
+
+msgid "Ranged Restart Bonus"
+msgstr "Range-Neustartbonus"
+
+msgid "desc_Ranged Restart Bonus"
+msgstr " "
+
+msgid "Spell Restart Bonus"
+msgstr "Zauber-Neustart-Bonus"
+
+msgid "desc_Spell Restart Bonus"
+msgstr ""
+
+msgid "Untouchable"
+msgstr "Unberührbar"
+
+msgid "desc_Untouchable"
+msgstr " "
+
+msgid "Boon of Storms"
+msgstr "Segen der Stürme"
+
+msgid "desc_Boon of Storms"
+msgstr ""
+
+msgid "Boon of Domination"
+msgstr "Segen der Herrschaft"
+
+msgid "desc_Boon of Domination"
+msgstr " "
+
+msgid "Boon of Blight"
+msgstr "Blauenbrand"
+
+msgid "desc_Boon of Blight"
+msgstr " "
+
+msgid "Boon of Agony"
+msgstr "Segen der Agonie"
+
+msgid "desc_Boon of Agony"
+msgstr " "
+
+msgid "Boon of Mutilation"
+msgstr "Segen der Verstümmelung"
+
+msgid "desc_Boon of Mutilation"
+msgstr " "
+
+msgid "Boon of Waves"
+msgstr "Wellenboon"
+
+msgid "desc_Boon of Waves"
+msgstr " "
+
+msgid "Vanguard Aura"
+msgstr "Avantgarde-Aura"
+
+msgid "Cutthroat Aura"
+msgstr "Cutthroat-Aura"
+
+msgid "Deadeye Aura"
+msgstr "Deadeye-Aura"
+
+msgid "desc_Vanguard Aura"
+msgstr ""
+"Deine Partei nimmt weniger Schaden von Monstern, während sie bei dir stehen."
+
+msgid "desc_Cutthroat Aura"
+msgstr ""
+"Deine Gruppe fügt Monstern mehr Nahkampfschaden zu, während sie bei dir "
+"stehen."
+
+msgid "desc_Deadeye Aura"
+msgstr ""
+"Deine Gruppe fügt Monstern mehr Distanzschaden zu, während sie bei dir "
+"stehen."
+
+msgid "Sighted"
+msgstr "Phantomköcher"
+
+msgid "desc_Sighted"
+msgstr ""
+"Jeder Pfeil, den du auf einem Monster landest, schlägt mit spektraler Kraft."
+
+msgid "Second Nature"
+msgstr "Zweite Natur"
+
+msgid "desc_Second Nature"
+msgstr ""
+"Ihr Ziel ist es, sich niederzulassen - jeder Pfeil, den Sie landen, zieht "
+"den nächsten schneller."
+
+msgid "Rupture"
+msgstr "Bruch"
+
+msgid "desc_Rupture"
+msgstr ""
+"Eine tiefere Wunde, bezahlt mit 10 Gore Stapel. Es dauert, bis das Monster "
+"stirbt, du gehst oder 2 Minuten seit deinem letzten Aufenthalt vergehen."
+
+msgid "Opening"
+msgstr "Öffnung"
+
+msgid "desc_Opening"
+msgstr ""
+"Der Rücken dieses Monsters ist dem Cutthroat ausgesetzt, der es geöffnet hat"
+" - ihre Treffer landen wie von hinten."
+
+msgid "Red Harvest"
+msgstr "Rote Ernte"
+
+msgid "desc_Red Harvest"
+msgstr ""
+"Ihre Wunden ticken doppelt so schnell. Das Töten eines Monsters erfrischt "
+"die Dauer."
+
+msgid "Unbroken Line"
+msgstr "Durchgezogene Linie"
+
+msgid "desc_Unbroken Line"
+msgstr ""
+"Sie nehmen weit weniger Schaden von Monstern. Endet, wenn Sie PvP betreten."

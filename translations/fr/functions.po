@@ -1,0 +1,411 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "Empty Function"
+msgstr "Fonction vide"
+
+msgid "desc_Empty Function"
+msgstr "Description de la fonction vide"
+
+msgid "f_CombatFunction"
+msgstr "Fonction de combat"
+
+msgid "desc_f_CombatFunction"
+msgstr "Description de f_combatfunction"
+
+msgid "f_Apply Boolean Modifier"
+msgstr "Appliquer un modificateur booléen"
+
+msgid "desc_f_Apply Boolean Modifier"
+msgstr " "
+
+msgid "f_Gank Creature"
+msgstr "Gank créature"
+
+msgid "desc_f_Gank Creature"
+msgstr ""
+
+msgid "f_Perform Advanced Effect"
+msgstr "Effectuer un effet avancé"
+
+msgid "desc_f_Perform Advanced Effect"
+msgstr " "
+
+msgid "f_Perform Leech Effect"
+msgstr "Effectuer l'effet des sangsues"
+
+msgid "desc_f_Perform Leech Effect"
+msgstr " "
+
+msgid "f_Perform Marking Effect"
+msgstr "Effectuer l'effet de marquage"
+
+msgid "desc_f_Perform Marking Effect"
+msgstr " "
+
+msgid "f_Perform Reflect Effect"
+msgstr "Exécuter un effet de réflexion"
+
+msgid "desc_f_Perform Reflect Effect"
+msgstr " "
+
+msgid "f_Perform Feather Fall Effect"
+msgstr "Effectuer l'effet de chute des plumes"
+
+msgid "desc_f_Perform Feather Fall Effect"
+msgstr " "
+
+msgid "f_Perform Resting Effect"
+msgstr "Effectuer l'effet de repos"
+
+msgid "desc_f_Perform Resting Effect"
+msgstr " "
+
+msgid "f_Perform Camping Effect"
+msgstr "Effectuer l'effet camping"
+
+msgid "desc_f_Perform Camping Effect"
+msgstr " "
+
+msgid "f_Perform Simple Effect"
+msgstr "Effectuer un effet simple"
+
+msgid "desc_f_Perform Simple Effect"
+msgstr " "
+
+msgid "f_Revive Creature"
+msgstr "Réanimer la créature"
+
+msgid "desc_f_Revive Creature"
+msgstr ""
+
+msgid "f_Mug Creature"
+msgstr "Créature de la tasse"
+
+msgid "desc_f_Mug Creature"
+msgstr ""
+
+msgid "f_Start Area Infinite Effect"
+msgstr "Effet infini zone de départ"
+
+msgid "desc_f_Start Area Infinite Effect"
+msgstr " "
+
+msgid "f_Start Area Timed Effect"
+msgstr "Effet timed de la zone de départ"
+
+msgid "desc_f_Start Area Timed Effect"
+msgstr " "
+
+msgid "f_Start AreaDurationEffect"
+msgstr "Effet de duration de la zone de départ"
+
+msgid "desc_f_Start AreaDurationEffect"
+msgstr "Description de f_start areaeffect"
+
+msgid "f_Start AreaInstantEffect"
+msgstr "Effet de départ de l'aire"
+
+msgid "desc_f_Start AreaInstantEffect"
+msgstr " "
+
+msgid "f_Start FlameThrower Effect"
+msgstr "Effet de lance-flammes de démarrage"
+
+msgid "desc_f_Start FlameThrower Effect"
+msgstr " "
+
+msgid "f_Start LineInstantEffect"
+msgstr "Effet instantané de la ligne de départ"
+
+msgid "desc_f_Start LineInstantEffect"
+msgstr " "
+
+msgid "f_Trigger GuardTower"
+msgstr "Gâchette de protection"
+
+msgid "desc_f_Trigger GuardTower"
+msgstr " "
+
+msgid "f_CraftingFunction"
+msgstr "Fonction d'artisanat"
+
+msgid "desc_f_CraftingFunction"
+msgstr "Description de la fonction f_crafting"
+
+msgid "f_Craft Object"
+msgstr "Objet de métier"
+
+msgid "desc_f_Craft Object"
+msgstr "Description de l'objet f_craft"
+
+msgid "f_Enchant Object"
+msgstr "Objet enchanteur"
+
+msgid "desc_f_Enchant Object"
+msgstr "Description de l'objet f_enchant"
+
+msgid "f_Slot Gem Object"
+msgstr "Objet gemme de fente"
+
+msgid "desc_f_Slot Gem Object"
+msgstr "Description de l'objet gemme f_slot"
+
+msgid "f_Skin Object"
+msgstr "Objet cutané"
+
+msgid "desc_f_Skin Object"
+msgstr " "
+
+msgid "f_InventoryFunction"
+msgstr "Fonction d'inventaire"
+
+msgid "desc_f_InventoryFunction"
+msgstr "Description de la fonction f_inventory"
+
+msgid "f_Remove InventoryItem"
+msgstr "Supprimer le poste d ' inventaire"
+
+msgid "desc_f_Remove InventoryItem"
+msgstr "Description de l'inventaire f_supprimer"
+
+msgid "f_Sheathe InventoryItem"
+msgstr "Sous forme de gaine d'inventaire"
+
+msgid "desc_f_Sheathe InventoryItem"
+msgstr "Description de l'inventaire"
+
+msgid "f_Unsheathe InventoryItem"
+msgstr "D'inventaire"
+
+msgid "desc_f_Unsheathe InventoryItem"
+msgstr "Description de l'inventaire"
+
+msgid "f_ManipulateFunction"
+msgstr "Fonction de manipulation"
+
+msgid "desc_f_ManipulateFunction"
+msgstr "Description de la fonction f_manipulate"
+
+msgid "f_Consume Drink"
+msgstr "Consommer de la boisson"
+
+msgid "desc_f_Consume Drink"
+msgstr " "
+
+msgid "f_Consume Food"
+msgstr "Consommer des aliments"
+
+msgid "desc_f_Consume Food"
+msgstr " "
+
+msgid "f_Read Manual"
+msgstr "Lire manuel"
+
+msgid "desc_f_Read Manual"
+msgstr " "
+
+msgid "f_Research"
+msgstr "Recherche"
+
+msgid "desc_f_Research"
+msgstr " "
+
+msgid "f_Schematic"
+msgstr "Schématique"
+
+msgid "desc_f_Schematic"
+msgstr " "
+
+msgid "f_Summon Object"
+msgstr "Objet de la convocation"
+
+msgid "desc_f_Summon Object"
+msgstr " "
+
+msgid "f_Use Item"
+msgstr "Utiliser l'élément"
+
+msgid "desc_f_Use Item"
+msgstr " "
+
+msgid "f_Ping Waypoint"
+msgstr "Point de départ du ping"
+
+msgid "desc_f_Ping Waypoint"
+msgstr " "
+
+msgid "desc_f_Ping Clan Waypoint"
+msgstr "Point de départ du clan ping"
+
+msgid "f_Use Object"
+msgstr "Utiliser l'objet"
+
+msgid "desc_f_Use Object"
+msgstr "Description de l'objet f_use"
+
+msgid "f_Open Package"
+msgstr "Emballage ouvert"
+
+msgid "desc_f_Open Package"
+msgstr " "
+
+msgid "f_Resource Functions"
+msgstr "Fonctions relatives aux ressources"
+
+msgid "desc_f_Resource Functions"
+msgstr "Description des fonctions f_resource"
+
+msgid "f_Change Visual Feature"
+msgstr "Modifier la fonction visuelle"
+
+msgid "desc_f_Change Visual Feature"
+msgstr ""
+
+msgid "f_Create Construct"
+msgstr "Créer une construction"
+
+msgid "desc_f_Create Construct"
+msgstr " "
+
+msgid "f_Create Corpse"
+msgstr "Créer un cadavre"
+
+msgid "desc_f_Create Corpse"
+msgstr " "
+
+msgid "f_Create Equipment"
+msgstr "Créer des équipements"
+
+msgid "desc_f_Create Equipment"
+msgstr " "
+
+msgid "f_Create Resource"
+msgstr "Créer une ressource"
+
+msgid "desc_f_Create Resource"
+msgstr " "
+
+msgid "f_Create Skill"
+msgstr "Créer des compétences"
+
+msgid "desc_f_Create Skill"
+msgstr " "
+
+msgid "f_Spawn Ammunition"
+msgstr "Munitions"
+
+msgid "desc_f_Spawn Ammunition"
+msgstr "Description des munitions de f_spawn"
+
+msgid "f_Spawn Resource"
+msgstr "Ressources de frai"
+
+msgid "desc_f_Spawn Resource"
+msgstr "Description de la ressource f_spawn"
+
+msgid "f_Spawn Resource Mesh"
+msgstr "Maillage des ressources de frai"
+
+msgid "desc_f_Spawn Resource Mesh"
+msgstr " "
+
+msgid "f_Spawn Weapon"
+msgstr "Arme de frayage"
+
+msgid "desc_f_Spawn Weapon"
+msgstr "Description de l'arme f_spawn"
+
+msgid "f_Start Area Pickup Spawner"
+msgstr "Pick-up de la zone de départ"
+
+msgid "desc_f_Start Area Pickup Spawner"
+msgstr " "
+
+msgid "f_Unspawn Object"
+msgstr "Objet non fraiche"
+
+msgid "desc_f_Unspawn Object"
+msgstr " "
+
+msgid "f_Session Functions"
+msgstr "Fonctions des sessions"
+
+msgid "desc_f_Session Functions"
+msgstr " "
+
+msgid "f_Start Monster Session"
+msgstr "Démarrer la session de monstre"
+
+msgid "desc_f_Start Monster Session"
+msgstr " "
+
+msgid "f_Start Player Session"
+msgstr "Démarrer la session du lecteur"
+
+msgid "desc_f_Start Player Session"
+msgstr " "
+
+msgid "f_Start Wildlife Session"
+msgstr "Début de la séance sur la faune"
+
+msgid "desc_f_Start Wildlife Session"
+msgstr " "
+
+msgid "f_System Functions"
+msgstr "Fonctions du système"
+
+msgid "desc_f_System Functions"
+msgstr " "
+
+msgid "f_Recall of Player"
+msgstr "Rappel du joueur"
+
+msgid "desc_f_Recall of Player"
+msgstr " "
+
+msgid "f_Set GodMode of Player"
+msgstr "Définir le mode dieu du joueur"
+
+msgid "desc_f_Set GodMode of Player"
+msgstr " "
+
+msgid "f_Set Player Access Level"
+msgstr "Définir le niveau d'accès du lecteur"
+
+msgid "desc_f_Set Player Access Level"
+msgstr " "
+
+msgid "f_Summon Player"
+msgstr "Lecteur d'appel"
+
+msgid "desc_f_Summon Player"
+msgstr " "
+
+msgid "f_Teleport to Player"
+msgstr "Téléporter vers le lecteur"
+
+msgid "desc_f_Teleport to Player"
+msgstr " "
+
+msgid "f_Teleport to Position"
+msgstr "Téléportation en position"
+
+msgid "desc_f_Teleport to Position"
+msgstr " "
+
+msgid "f_Play Monster"
+msgstr "Jouer le monstre"
+
+msgid "desc_f_Play Monster"
+msgstr " "

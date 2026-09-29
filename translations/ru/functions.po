@@ -1,0 +1,411 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "Empty Function"
+msgstr "Пустая функция"
+
+msgid "desc_Empty Function"
+msgstr "Описание пустой функции"
+
+msgid "f_CombatFunction"
+msgstr "Боевая функция"
+
+msgid "desc_f_CombatFunction"
+msgstr "Описание f_combatfunction"
+
+msgid "f_Apply Boolean Modifier"
+msgstr "Применять булевой модификатор"
+
+msgid "desc_f_Apply Boolean Modifier"
+msgstr " "
+
+msgid "f_Gank Creature"
+msgstr "Гангстерское существо"
+
+msgid "desc_f_Gank Creature"
+msgstr ""
+
+msgid "f_Perform Advanced Effect"
+msgstr "Продвинутый эффект"
+
+msgid "desc_f_Perform Advanced Effect"
+msgstr " "
+
+msgid "f_Perform Leech Effect"
+msgstr "Выполнять эффект пиявки"
+
+msgid "desc_f_Perform Leech Effect"
+msgstr " "
+
+msgid "f_Perform Marking Effect"
+msgstr "Осуществлять эффект маркировки"
+
+msgid "desc_f_Perform Marking Effect"
+msgstr " "
+
+msgid "f_Perform Reflect Effect"
+msgstr "Производить эффект отражения"
+
+msgid "desc_f_Perform Reflect Effect"
+msgstr " "
+
+msgid "f_Perform Feather Fall Effect"
+msgstr "Выполнить эффект падения пера"
+
+msgid "desc_f_Perform Feather Fall Effect"
+msgstr " "
+
+msgid "f_Perform Resting Effect"
+msgstr "Выполнять эффект покоя"
+
+msgid "desc_f_Perform Resting Effect"
+msgstr " "
+
+msgid "f_Perform Camping Effect"
+msgstr "Выполнение эффекта кемпинга"
+
+msgid "desc_f_Perform Camping Effect"
+msgstr " "
+
+msgid "f_Perform Simple Effect"
+msgstr "Выполните простой эффект"
+
+msgid "desc_f_Perform Simple Effect"
+msgstr " "
+
+msgid "f_Revive Creature"
+msgstr "Оживляющее существо"
+
+msgid "desc_f_Revive Creature"
+msgstr ""
+
+msgid "f_Mug Creature"
+msgstr "Кулачное существо"
+
+msgid "desc_f_Mug Creature"
+msgstr ""
+
+msgid "f_Start Area Infinite Effect"
+msgstr "Начальная зона бесконечный эффект"
+
+msgid "desc_f_Start Area Infinite Effect"
+msgstr " "
+
+msgid "f_Start Area Timed Effect"
+msgstr "Эффект времени старта"
+
+msgid "desc_f_Start Area Timed Effect"
+msgstr " "
+
+msgid "f_Start AreaDurationEffect"
+msgstr "Начало действия Areaduration"
+
+msgid "desc_f_Start AreaDurationEffect"
+msgstr "Обозначение эффекта f_start"
+
+msgid "f_Start AreaInstantEffect"
+msgstr "Начало действия Areastanteffect"
+
+msgid "desc_f_Start AreaInstantEffect"
+msgstr " "
+
+msgid "f_Start FlameThrower Effect"
+msgstr "Запуск огнеметного эффекта"
+
+msgid "desc_f_Start FlameThrower Effect"
+msgstr " "
+
+msgid "f_Start LineInstantEffect"
+msgstr "Начальный линейный эффект"
+
+msgid "desc_f_Start LineInstantEffect"
+msgstr " "
+
+msgid "f_Trigger GuardTower"
+msgstr "Спусковой крючок"
+
+msgid "desc_f_Trigger GuardTower"
+msgstr " "
+
+msgid "f_CraftingFunction"
+msgstr "Крафтовая функция"
+
+msgid "desc_f_CraftingFunction"
+msgstr "Описание функции f_crafting"
+
+msgid "f_Craft Object"
+msgstr "Космический объект"
+
+msgid "desc_f_Craft Object"
+msgstr "Описание объекта f_craft"
+
+msgid "f_Enchant Object"
+msgstr "Очаровательный объект"
+
+msgid "desc_f_Enchant Object"
+msgstr "Описание объекта f_enchant"
+
+msgid "f_Slot Gem Object"
+msgstr "Слот драгоценный объект"
+
+msgid "desc_f_Slot Gem Object"
+msgstr "Описание объекта f_slot gem"
+
+msgid "f_Skin Object"
+msgstr "Кожный объект"
+
+msgid "desc_f_Skin Object"
+msgstr " "
+
+msgid "f_InventoryFunction"
+msgstr "Инвентаризация"
+
+msgid "desc_f_InventoryFunction"
+msgstr "Описание функции f_inventory"
+
+msgid "f_Remove InventoryItem"
+msgstr "Убрать инвентаризацию"
+
+msgid "desc_f_Remove InventoryItem"
+msgstr "Описание f_remove inventoryitem"
+
+msgid "f_Sheathe InventoryItem"
+msgstr "Перечислить инвентарь"
+
+msgid "desc_f_Sheathe InventoryItem"
+msgstr "Описание f_sheathe inventoryitem"
+
+msgid "f_Unsheathe InventoryItem"
+msgstr "Унифицировать инвентаризацию"
+
+msgid "desc_f_Unsheathe InventoryItem"
+msgstr "Описание f_unsheathe inventoryitem"
+
+msgid "f_ManipulateFunction"
+msgstr "Манипулирование"
+
+msgid "desc_f_ManipulateFunction"
+msgstr "Описание функции f_manipulate"
+
+msgid "f_Consume Drink"
+msgstr "Потреблять напиток"
+
+msgid "desc_f_Consume Drink"
+msgstr " "
+
+msgid "f_Consume Food"
+msgstr "Потреблять пищу"
+
+msgid "desc_f_Consume Food"
+msgstr " "
+
+msgid "f_Read Manual"
+msgstr "Читать руководство"
+
+msgid "desc_f_Read Manual"
+msgstr " "
+
+msgid "f_Research"
+msgstr "Исследование"
+
+msgid "desc_f_Research"
+msgstr " "
+
+msgid "f_Schematic"
+msgstr "Схематический"
+
+msgid "desc_f_Schematic"
+msgstr " "
+
+msgid "f_Summon Object"
+msgstr "Объект вызова"
+
+msgid "desc_f_Summon Object"
+msgstr " "
+
+msgid "f_Use Item"
+msgstr "Использовать элемент"
+
+msgid "desc_f_Use Item"
+msgstr " "
+
+msgid "f_Ping Waypoint"
+msgstr "Пинг путаница"
+
+msgid "desc_f_Ping Waypoint"
+msgstr " "
+
+msgid "desc_f_Ping Clan Waypoint"
+msgstr "Пинг клан Waypoint"
+
+msgid "f_Use Object"
+msgstr "Использовать объект"
+
+msgid "desc_f_Use Object"
+msgstr "Описание объекта f_use"
+
+msgid "f_Open Package"
+msgstr "Открытый пакет"
+
+msgid "desc_f_Open Package"
+msgstr " "
+
+msgid "f_Resource Functions"
+msgstr "Ресурсные функции"
+
+msgid "desc_f_Resource Functions"
+msgstr "Описание функций f_resource"
+
+msgid "f_Change Visual Feature"
+msgstr "Изменить визуальную функцию"
+
+msgid "desc_f_Change Visual Feature"
+msgstr ""
+
+msgid "f_Create Construct"
+msgstr "Создать конструкцию"
+
+msgid "desc_f_Create Construct"
+msgstr " "
+
+msgid "f_Create Corpse"
+msgstr "Создавать трупы"
+
+msgid "desc_f_Create Corpse"
+msgstr " "
+
+msgid "f_Create Equipment"
+msgstr "Создавать оборудование"
+
+msgid "desc_f_Create Equipment"
+msgstr " "
+
+msgid "f_Create Resource"
+msgstr "Создать ресурс"
+
+msgid "desc_f_Create Resource"
+msgstr " "
+
+msgid "f_Create Skill"
+msgstr "Создавайте навыки"
+
+msgid "desc_f_Create Skill"
+msgstr " "
+
+msgid "f_Spawn Ammunition"
+msgstr "Нерест боеприпасов"
+
+msgid "desc_f_Spawn Ammunition"
+msgstr "Описание боеприпасов f_spawn"
+
+msgid "f_Spawn Resource"
+msgstr "Ресурс нереста"
+
+msgid "desc_f_Spawn Resource"
+msgstr "Описание ресурса f_spawn"
+
+msgid "f_Spawn Resource Mesh"
+msgstr "Ресурсная сетка"
+
+msgid "desc_f_Spawn Resource Mesh"
+msgstr " "
+
+msgid "f_Spawn Weapon"
+msgstr "Нерестовое оружие"
+
+msgid "desc_f_Spawn Weapon"
+msgstr "Описание оружия f_spawn"
+
+msgid "f_Start Area Pickup Spawner"
+msgstr "Старт-зона пикап нерест"
+
+msgid "desc_f_Start Area Pickup Spawner"
+msgstr " "
+
+msgid "f_Unspawn Object"
+msgstr "Невозбужденный объект"
+
+msgid "desc_f_Unspawn Object"
+msgstr " "
+
+msgid "f_Session Functions"
+msgstr "Функции сессии"
+
+msgid "desc_f_Session Functions"
+msgstr " "
+
+msgid "f_Start Monster Session"
+msgstr "Начало сеанса монстров"
+
+msgid "desc_f_Start Monster Session"
+msgstr " "
+
+msgid "f_Start Player Session"
+msgstr "Начало сеанса игрока"
+
+msgid "desc_f_Start Player Session"
+msgstr " "
+
+msgid "f_Start Wildlife Session"
+msgstr "Начать сессию дикой природы"
+
+msgid "desc_f_Start Wildlife Session"
+msgstr " "
+
+msgid "f_System Functions"
+msgstr "Системные функции"
+
+msgid "desc_f_System Functions"
+msgstr " "
+
+msgid "f_Recall of Player"
+msgstr "Отзывы игроков"
+
+msgid "desc_f_Recall of Player"
+msgstr " "
+
+msgid "f_Set GodMode of Player"
+msgstr "Обсуждение Godmode of Player"
+
+msgid "desc_f_Set GodMode of Player"
+msgstr " "
+
+msgid "f_Set Player Access Level"
+msgstr "Настройка уровня доступа игрока"
+
+msgid "desc_f_Set Player Access Level"
+msgstr " "
+
+msgid "f_Summon Player"
+msgstr "Игрок вызова"
+
+msgid "desc_f_Summon Player"
+msgstr " "
+
+msgid "f_Teleport to Player"
+msgstr "Телепортироваться к игроку"
+
+msgid "desc_f_Teleport to Player"
+msgstr " "
+
+msgid "f_Teleport to Position"
+msgstr "Телепортировать на позицию"
+
+msgid "desc_f_Teleport to Position"
+msgstr " "
+
+msgid "f_Play Monster"
+msgstr "Играть монстра"
+
+msgid "desc_f_Play Monster"
+msgstr " "

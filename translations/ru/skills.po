@@ -1,0 +1,6388 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "Skill"
+msgstr "Мастерство"
+
+msgid "desc_Skill"
+msgstr "Описание мастерства"
+
+msgid "s_Other Skills"
+msgstr "Другие навыки"
+
+msgid "desc_s_Other Skills"
+msgstr "Описание других навыков s_other"
+
+msgid "s_Basic Movement Skills"
+msgstr "Основные навыки движения"
+
+msgid "desc_s_Basic Movement Skills"
+msgstr "S_basic двигательные навыки"
+
+msgid "s_Climb"
+msgstr "Подниматься"
+
+msgid "desc_s_Climb"
+msgstr ""
+
+msgid "s_Fly"
+msgstr "Летать"
+
+msgid "desc_s_Fly"
+msgstr ""
+
+msgid "s_Glide"
+msgstr "Скользить"
+
+msgid "desc_s_Glide"
+msgstr ""
+
+msgid "s_Jog"
+msgstr "Бег"
+
+msgid "desc_s_Jog"
+msgstr "Описание s_jog"
+
+msgid "s_Mahirim Run"
+msgstr "Пробег Mahirim"
+
+msgid "desc_s_Mahirim Run"
+msgstr "Выберите навык и нажмите кнопку Действия, чтобы начать."
+
+msgid "s_Mount Swim"
+msgstr "Плавать на горах"
+
+msgid "desc_s_Mount Swim"
+msgstr ""
+
+msgid "s_Riding Skills"
+msgstr "Навыки верховой езды"
+
+msgid "desc_s_Riding Skills"
+msgstr ""
+
+msgid "s_Riding Jump"
+msgstr "Прыжок верхом"
+
+msgid "desc_s_Riding Jump"
+msgstr ""
+
+msgid "s_Riding Run"
+msgstr "Беговая дорожка"
+
+msgid "desc_s_Riding Run"
+msgstr ""
+
+msgid "s_Riding Walk"
+msgstr "Прогулка верхом"
+
+msgid "desc_s_Riding Walk"
+msgstr ""
+
+msgid "s_Sail"
+msgstr "Парусник"
+
+msgid "desc_s_Sail"
+msgstr "Описание игры s_walk"
+
+msgid "s_Strafe Left"
+msgstr "Левый бродяга"
+
+msgid "desc_s_Strafe Left"
+msgstr "Обсуждение s_strafe Left"
+
+msgid "s_Strafe Right"
+msgstr "Правый траф"
+
+msgid "desc_s_Strafe Right"
+msgstr "Описание права s_strafe"
+
+msgid "s_Swim"
+msgstr "Плавать"
+
+msgid "desc_s_Swim"
+msgstr ""
+
+msgid "s_Walk"
+msgstr "Ходить"
+
+msgid "desc_s_Walk"
+msgstr "Описание игры s_walk"
+
+msgid "s_Warhulk"
+msgstr "Warhulk"
+
+msgid "desc_s_Warhulk"
+msgstr ""
+
+msgid "s_Enchantment Add Effects"
+msgstr "Волшебство добавляет эффекты"
+
+msgid "desc_s_Enchantment Add Effects"
+msgstr ""
+
+msgid "s_Add Effect DOT"
+msgstr "Добавить эффект точка"
+
+msgid "desc_s_Add Effect DOT"
+msgstr ""
+
+msgid "s_Add Effect Duration"
+msgstr "Добавить эффект продолжительности"
+
+msgid "desc_s_Add Effect Duration"
+msgstr ""
+
+msgid "s_Add Effect Main"
+msgstr "Добавить эффект Главный"
+
+msgid "desc_s_Add Effect Main"
+msgstr ""
+
+msgid "s_Environmental Skills"
+msgstr "Экологические навыки"
+
+msgid "desc_s_Environmental Skills"
+msgstr ""
+
+msgid "s_environmental damage"
+msgstr "экологический ущерб"
+
+msgid "desc_s_environmental damage"
+msgstr ""
+
+msgid "s_Manipulate Skills"
+msgstr "Манипулирование навыками"
+
+msgid "desc_s_Manipulate Skills"
+msgstr "Описание навыков s_manipulate"
+
+msgid "s_Drink"
+msgstr "Пить"
+
+msgid "desc_s_Drink"
+msgstr "Описание объекта s_consume"
+
+msgid "s_Eat"
+msgstr "Есть"
+
+msgid "desc_s_Eat"
+msgstr ""
+
+msgid "s_Examine Object"
+msgstr "Исследовать объект"
+
+msgid "desc_s_Examine Object"
+msgstr "Описание объекта s_examine"
+
+msgid "s_Fire Cannon"
+msgstr "Огневая пушка"
+
+msgid "desc_s_Fire Cannon"
+msgstr ""
+"Нажмите кнопку «Действие» для выстрела или кнопку «Использовать», чтобы "
+"прекратить управление пушкой."
+
+msgid "s_Fire Cannon_02"
+msgstr "Огнеметная пушка_02"
+
+msgid "desc_s_Fire Cannon_02"
+msgstr ""
+"Нажмите кнопку «Действие», чтобы выстрелить, или кнопку «Использовать», "
+"чтобы прекратить управление этой дорогой пушкой."
+
+msgid "s_Fire Shock Charge"
+msgstr "Пожарный ударный заряд"
+
+msgid "desc_s_Fire Shock Charge"
+msgstr ""
+"Нажмите кнопку Действия, чтобы запустить развернутый Глубинное зарядное "
+"устройство при использовании Колеса Корабля. "
+
+msgid "s_Placement Skills"
+msgstr "Навыки размещения"
+
+msgid "desc_s_Placement Skills"
+msgstr "Описание навыков s_placement"
+
+msgid "s_Place Object"
+msgstr "Объект размещения"
+
+msgid "desc_s_Place Object"
+msgstr "Описание объекта s_place"
+
+msgid "s_Sheathe Object"
+msgstr "Сбрасывать объект"
+
+msgid "desc_s_Sheathe Object"
+msgstr "Описание объекта s_sheathe"
+
+msgid "s_Unsheathe Object"
+msgstr "Размягчать предмет"
+
+msgid "desc_s_Unsheathe Object"
+msgstr "Описание объекта s_unsheathe"
+
+msgid "s_Take Object"
+msgstr "Выбрать объект"
+
+msgid "desc_s_Take Object"
+msgstr "Описание объекта s_take"
+
+msgid "s_Take Object_1"
+msgstr "Возьмем объект_1"
+
+msgid "desc_s_Take Object_1"
+msgstr "Описание объекта s_take_1"
+
+msgid "s_Ping Waypoint"
+msgstr "Пинг путаница"
+
+msgid "desc_s_Ping Waypoint"
+msgstr ""
+
+msgid "s_Use Item"
+msgstr "Использовать элемент"
+
+msgid "desc_s_Use Item"
+msgstr ""
+
+msgid "s_Use Object"
+msgstr "Использовать объект"
+
+msgid "desc_s_Use Object"
+msgstr "Описание объекта s_use"
+
+msgid "s_Positioning Skills"
+msgstr "Навыки позиционирования"
+
+msgid "desc_s_Positioning Skills"
+msgstr "Описание навыков s_позиционирования"
+
+msgid "s_Crouch"
+msgstr "Присесть"
+
+msgid "desc_s_Crouch"
+msgstr "Описание игры s_crouch"
+
+msgid "s_Kneel"
+msgstr "Коленный сустав"
+
+msgid "desc_s_Kneel"
+msgstr "Описание s_kneel"
+
+msgid "s_Lie"
+msgstr "Лгать"
+
+msgid "desc_s_Lie"
+msgstr "Описание игры s_lie"
+
+msgid "s_Special Skills"
+msgstr "Специальные навыки"
+
+msgid "desc_s_Special Skills"
+msgstr ""
+
+msgid "s_Stuck"
+msgstr "Застрял"
+
+msgid "desc_s_Stuck"
+msgstr ""
+
+msgid "s_Teleport"
+msgstr "Телепортация"
+
+msgid "desc_s_Teleport"
+msgstr "Описание игры s_teleport"
+
+msgid "s_Teleport Runebook"
+msgstr "Телепорт Runebook"
+
+msgid "desc_s_Teleport Runebook"
+msgstr "Описание игры s_teleport"
+
+msgid "s_Skills"
+msgstr "Навыки"
+
+msgid "desc_s_Skills"
+msgstr "Описание s_skills"
+
+msgid "s_Combat Skills"
+msgstr "Боевые навыки"
+
+msgid "desc_s_Combat Skills"
+msgstr "Навыки, пассивно повышающие боевые способности."
+
+msgid "s_Armor Proficiency"
+msgstr "Мастерство брони"
+
+msgid "desc_s_Armor Proficiency"
+msgstr "Снижает любые штрафы за ближний бой."
+
+msgid "s_Armored Archery"
+msgstr "Бронированная стрельба"
+
+msgid "desc_s_Armored Archery"
+msgstr "Уменьшает любые штрафы за стрельбу из брони."
+
+msgid "s_Armored Casting"
+msgstr "Бронированное литье"
+
+msgid "desc_s_Armored Casting"
+msgstr "Уменьшает штраф за орфографию. "
+
+msgid "s_Armour and Shield Skills"
+msgstr "Броня и навыки щита"
+
+msgid "desc_s_Armour and Shield Skills"
+msgstr "Описание навыков s_armour и щита"
+
+msgid "s_Shield Skills"
+msgstr "Щитовые навыки"
+
+msgid "desc_s_Shield Skills"
+msgstr "Описание навыков s_shield"
+
+msgid "s_Axe Mastery"
+msgstr "Мастерство топора"
+
+msgid "desc_s_Axe Mastery"
+msgstr "Увеличивает ущерб, нанесенный при владении одноручными топорами. "
+
+msgid "s_Club Mastery"
+msgstr "Клубное мастерство"
+
+msgid "desc_s_Club Mastery"
+msgstr "Увеличивает ущерб, нанесенный при владении одноручным тупым оружием."
+
+msgid "s_Combat Enhancements"
+msgstr "Улучшение боевых действий"
+
+msgid "desc_s_Combat Enhancements"
+msgstr "Обсуждение s_combat Enhancements"
+
+msgid "s_Parry"
+msgstr "Парировать"
+
+msgid "desc_s_Parry"
+msgstr ""
+"Нажмите и удерживайте кнопку Parry (по умолчанию «V»), чтобы войти в режим "
+"блокировки, что значительно уменьшает ущерб от большинства атак. "
+"Освобождение пари накладывает +100 обременений в течение 3 секунды, ослабляя"
+" ближнего боя, магию и стрельбу из лука — совершайте качели, а не подбивайте"
+" между ударами."
+
+msgid "s_Greataxe Mastery"
+msgstr "Великое мастерство"
+
+msgid "desc_s_Greataxe Mastery"
+msgstr "Увеличивает ущерб, нанесенный при владении двуручными топорами."
+
+msgid "s_Greatclub Mastery"
+msgstr "Мастерство в большом клубе"
+
+msgid "desc_s_Greatclub Mastery"
+msgstr ""
+"Увеличивает ущерб, нанесенный при владении двуручными клубами и молотками."
+
+msgid "s_Greatsword Mastery"
+msgstr "Мастерство великих слов"
+
+msgid "desc_s_Greatsword Mastery"
+msgstr "Увеличивает урон, нанесенный при владении двуручными мечами."
+
+msgid "s_Knife Mastery"
+msgstr "Мастерство ножа"
+
+msgid "desc_s_Knife Mastery"
+msgstr "Увеличивает ущерб, нанесенный при ношении ножей."
+
+msgid "s_Maintenance"
+msgstr "Техническое обслуживание"
+
+msgid "desc_s_Maintenance"
+msgstr "Уменьшает потери прочности вашего оборудования в бою."
+
+msgid "s_Orkish Brutality"
+msgstr "Оркишская жестокость"
+
+msgid "desc_s_Orkish Brutality"
+msgstr "Увеличение урона при использовании оружия ближнего боя."
+
+msgid "s_Alfar Resilience"
+msgstr "Alfar Устойчивость"
+
+msgid "desc_s_Alfar Resilience"
+msgstr "Естественная защита от магических повреждений."
+
+msgid "s_Human Longevity"
+msgstr "Человеческое долголетие"
+
+msgid "desc_s_Human Longevity"
+msgstr "Повышенная продолжительность баффов и дебаффов."
+
+msgid "s_Mirdain Precision"
+msgstr "Точность Mirdain"
+
+msgid "desc_s_Mirdain Precision"
+msgstr "Увеличение повреждений при использовании лука."
+
+msgid "s_Mahirim Reflexes"
+msgstr "Mahirim рефлексы"
+
+msgid "desc_s_Mahirim Reflexes"
+msgstr "Естественная защита от ближнего боя и повреждения луком."
+
+msgid "s_Polearm Mastery"
+msgstr "Мастерство полевого оружия"
+
+msgid "desc_s_Polearm Mastery"
+msgstr "Увеличивает ущерб, нанесенный при владении оружием."
+
+msgid "s_Sharpshooter"
+msgstr "Стрелок"
+
+msgid "desc_s_Sharpshooter"
+msgstr "Увеличивает повреждения от стрельбы."
+
+msgid "s_Sithra Mastery"
+msgstr "Мастерство Sithra"
+
+msgid "desc_s_Sithra Mastery"
+msgstr "Увеличивает ущерб, нанесенный при владении ситхрами."
+
+msgid "s_Sniper"
+msgstr "Снайпер"
+
+msgid "desc_s_Sniper"
+msgstr ""
+
+msgid "s_Spirited Archer"
+msgstr "Энергичный лучник"
+
+msgid "desc_s_Spirited Archer"
+msgstr "Уменьшает время, необходимое для нокаутирования стрелы."
+
+msgid "s_Sword Mastery"
+msgstr "Мастерство меча"
+
+msgid "desc_s_Sword Mastery"
+msgstr "Увеличивает урон, нанесенный при владении одноручными мечами."
+
+msgid "s_Veteran Archer"
+msgstr "Ветеран лучников"
+
+msgid "desc_s_Veteran Archer"
+msgstr "Уменьшает затраты на выносливость при стрельбе из лука."
+
+msgid "s_Crafting Skills"
+msgstr "Мастерство крафта"
+
+msgid "desc_s_Crafting Skills"
+msgstr ""
+"Группа навыков сбора ресурсов или использования таких предметов для "
+"создания, среди прочего, оружия, брони и аксессуаров."
+
+msgid "s_Dwarven Steelmaster"
+msgstr "Карликовый сталелитейщик"
+
+msgid "desc_s_Dwarven Steelmaster"
+msgstr ""
+"Премия за долговечность для созданного оружия ближнего боя и доспехов."
+
+msgid "s_Alfar Intellect"
+msgstr "Alfar Интеллект"
+
+msgid "desc_s_Alfar Intellect"
+msgstr "Премия за долговечность к изготовленным плитам."
+
+msgid "s_Dyeing Skills"
+msgstr "Навыки окрашивания"
+
+msgid "desc_s_Dyeing Skills"
+msgstr ""
+
+msgid "s_Dyeing"
+msgstr "Окрашивание"
+
+msgid "desc_s_Dyeing"
+msgstr ""
+
+msgid "s_Enchantment Skills"
+msgstr "Очаровательные навыки"
+
+msgid "desc_s_Enchantment Skills"
+msgstr ""
+
+msgid "s_Enchantment"
+msgstr "Очарование"
+
+msgid "desc_s_Enchantment"
+msgstr ""
+"Позволяет очаровывать оружием, магестами, ожерельями, кольцами и доспехами."
+
+msgid "s_Gem Enchanting"
+msgstr "Завораживающий камень"
+
+msgid "desc_s_Gem Enchanting"
+msgstr ""
+"Развяжите силу волшебных драгоценных камней, чтобы очаровать части "
+"оборудования"
+
+msgid "s_Harvesting Skills"
+msgstr "Навыки сбора урожая"
+
+msgid "desc_s_Harvesting Skills"
+msgstr ""
+
+msgid "s_Digging"
+msgstr "Копать"
+
+msgid "desc_s_Digging"
+msgstr "Оборудуйте лопату и попытайтесь выкопать сокровище.  "
+
+msgid "s_Fishing"
+msgstr "Рыбалка"
+
+msgid "desc_s_Fishing"
+msgstr ""
+"Оснастите рыболовный столб и нажмите кнопку Действия возле воды, чтобы "
+"ловить рыбу."
+
+msgid "s_Fishing Mastery"
+msgstr "Мастерство рыбалки"
+
+msgid "desc_s_Fishing Mastery"
+msgstr "Сокращение времени, необходимого для ловли рыбы."
+
+msgid "s_Herb Gathering"
+msgstr "Сбор трав"
+
+msgid "desc_s_Herb Gathering"
+msgstr ""
+"Нажмите клавишу «Использовать» при нацеливании на кусты и растения, чтобы "
+"оборудовать серп и нажать кнопку «Действие», чтобы собрать травы. "
+
+msgid "s_Herb Gathering Mastery"
+msgstr "Мастерство по сбору трав"
+
+msgid "desc_s_Herb Gathering Mastery"
+msgstr "Уменьшает время, необходимое для сбора трав. "
+
+msgid "s_Logging"
+msgstr "Лесозаготовка"
+
+msgid "desc_s_Logging"
+msgstr ""
+"Нажмите клавишу «Использовать» при нацеливании на большие деревья, чтобы "
+"оборудовать древесный топор и нажать кнопку «Действие», чтобы рубить "
+"древесину."
+
+msgid "s_Logging Mastery"
+msgstr "Мастерство лесозаготовки"
+
+msgid "desc_s_Logging Mastery"
+msgstr "Уменьшает время, необходимое для лесозаготовок."
+
+msgid "s_Mining"
+msgstr "Горное дело"
+
+msgid "desc_s_Mining"
+msgstr ""
+"Нажмите клавишу «Использовать» при нацеливании на определенные камни, чтобы "
+"оборудовать кирку и нажать кнопку «Действие» для добычи камня или металлов."
+
+msgid "s_Mining Mastery"
+msgstr "Горное мастерство"
+
+msgid "desc_s_Mining Mastery"
+msgstr "Уменьшает время, необходимое для добычи."
+
+msgid "s_Skinning"
+msgstr "Снятие шкур"
+
+msgid "desc_s_Skinning"
+msgstr ""
+"Нажмите клавишу «Использовать» при нацеливании на надгробия монстров, чтобы "
+"оборудовать скиннер и нажать кнопку «Действие» для извлечения ресурсов. "
+
+msgid "s_Skinning_1"
+msgstr "Skinning_1"
+
+msgid "desc_s_Skinning_1"
+msgstr ""
+
+msgid "s_Industry"
+msgstr "Промышленность"
+
+msgid "desc_s_Industry"
+msgstr "Уменьшает время всех крафтов."
+
+msgid "s_Manufacturing Skills"
+msgstr "Производственные навыки"
+
+msgid "desc_s_Manufacturing Skills"
+msgstr ""
+
+msgid "s_Anvil Skills"
+msgstr "Навыки наковальни"
+
+msgid "desc_s_Anvil Skills"
+msgstr "Описание навыков работы с s_metal"
+
+msgid "s_Armorsmithing"
+msgstr "Изготовление доспехов"
+
+msgid "desc_s_Armorsmithing"
+msgstr ""
+"Используется для создания металлических доспехов. Встаньте рядом с кузнецом "
+"и нажмите кнопку «Использовать», чтобы начать ремесло. "
+
+msgid "s_Armorsmithing Mastery"
+msgstr "Мастерство оружейника"
+
+msgid "desc_s_Armorsmithing Mastery"
+msgstr "Позволяет изготовление брони с использованием редких металлов. "
+
+msgid "s_Engineering"
+msgstr "Инженерное дело"
+
+msgid "desc_s_Engineering"
+msgstr ""
+"Проектирование, строительство и использование двигателей, машин и "
+"конструкций.  Встаньте рядом с кузнецом и нажмите кнопку «Использовать», "
+"чтобы начать ремесло."
+
+msgid "s_Artillery Construction"
+msgstr "Артиллерийское строительство"
+
+msgid "desc_s_Artillery Construction"
+msgstr ""
+"Позволяет создавать различные машины и орудия войны. Встаньте рядом с "
+"кузнецом и нажмите кнопку «Использовать», чтобы начать ремесло."
+
+msgid "s_Bloodcraft"
+msgstr "Bloodcraft"
+
+msgid "desc_s_Bloodcraft"
+msgstr ""
+"Мастерство крафта одежды с присущими ей заклинаниями, предоставление бонуса "
+"Здоровью, но пенальти Мане.  "
+
+msgid "s_Shadecraft"
+msgstr "Shadecraft"
+
+msgid "desc_s_Shadecraft"
+msgstr ""
+"Мастерство крафта одежды с присущими ей заклинаниями, предоставление бонуса "
+"Мане, но штрафа Здоровью."
+
+msgid "s_Weaponsmithing"
+msgstr "Изготовление оружия"
+
+msgid "desc_s_Weaponsmithing"
+msgstr ""
+"Используется при создании оружия ближнего боя. Встаньте рядом с кузнецом и "
+"нажмите кнопку «Использовать», чтобы начать ремесло."
+
+msgid "s_Weaponsmithing Mastery"
+msgstr "Оружейное мастерство"
+
+msgid "desc_s_Weaponsmithing Mastery"
+msgstr "Позволяет использовать редкие металлы при изготовлении оружия."
+
+msgid "s_Foundry Skills"
+msgstr "Навыки литейного мастерства"
+
+msgid "desc_s_Foundry Skills"
+msgstr ""
+
+msgid "s_Engineering Mastery"
+msgstr "Инженерное мастерство"
+
+msgid "desc_s_Engineering Mastery"
+msgstr ""
+"Проектирование, строительство и использование двигателей, машин и "
+"конструкций.  Встаньте рядом с литейным заводом и нажмите кнопку "
+"«Использовать», чтобы начать крафт."
+
+msgid "s_Warhulk Construction"
+msgstr "Строительство Warhulk"
+
+msgid "desc_s_Warhulk Construction"
+msgstr ""
+"Позволяет создавать различные машины и орудия войны. Встаньте рядом с "
+"литейным заводом и нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Laboratory Skills"
+msgstr "Лабораторные навыки"
+
+msgid "desc_s_Laboratory Skills"
+msgstr "Описание навыков s_dragoncraft"
+
+msgid "s_Alchemy"
+msgstr "Алхимия"
+
+msgid "desc_s_Alchemy"
+msgstr ""
+"Магический процесс, используемый для преобразования, создания и объединения "
+"предметов. Встаньте рядом с лабораторией и нажмите кнопку «Использовать», "
+"чтобы начать крафт."
+
+msgid "s_Alchemy Mastery"
+msgstr "Мастерство алхимии"
+
+msgid "desc_s_Alchemy Mastery"
+msgstr ""
+"Магический процесс, используемый для преобразования, создания и объединения "
+"предметов. Встаньте рядом с лабораторией и нажмите кнопку «Использовать», "
+"чтобы начать крафт."
+
+msgid "s_Scribing"
+msgstr "Начертание"
+
+msgid "desc_s_Scribing"
+msgstr ""
+"Используется для написания свитков, книг и изготовления бумажных изделий."
+
+msgid "s_Jewelsmithing"
+msgstr "Ювелирное дело"
+
+msgid "desc_s_Jewelsmithing"
+msgstr ""
+"Используется для создания аксессуаров, таких как кольца или ожерелья. "
+"Встаньте рядом с лабораторией и нажмите кнопку «Использовать», чтобы начать "
+"крафт."
+
+msgid "s_Mortar and Pestle Skills"
+msgstr "Навыки минометного и пестле"
+
+msgid "desc_s_Mortar and Pestle Skills"
+msgstr ""
+
+msgid "s_Mixing"
+msgstr "Смешивание"
+
+msgid "desc_s_Mixing"
+msgstr ""
+"Используется для комбинирования зелий. Встаньте рядом с лабораторией и "
+"нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Dye Crafting"
+msgstr "Изготовление красителей"
+
+msgid "desc_s_Dye Crafting"
+msgstr ""
+"Используется для создания новых красителей. Встаньте рядом с лабораторией и "
+"нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Schematics"
+msgstr "Схематика"
+
+msgid "desc_s_Schematics"
+msgstr "Используется для создания схем для исследований."
+
+msgid "s_Oven Skills"
+msgstr "Мастерство печи"
+
+msgid "desc_s_Oven Skills"
+msgstr "Описание s_общих крафтовых навыков"
+
+msgid "s_Cooking"
+msgstr "Кулинария"
+
+msgid "desc_s_Cooking"
+msgstr ""
+"Используется при приготовлении пищи. Встаньте рядом с духовкой и нажмите "
+"кнопку «Использовать», чтобы начать."
+
+msgid "s_Cooking Mastery"
+msgstr "Мастерство приготовления пищи"
+
+msgid "desc_s_Cooking Mastery"
+msgstr ""
+"Используется при приготовлении продвинутых продуктов. Встаньте рядом с "
+"духовкой и нажмите кнопку «Использовать», чтобы начать."
+
+msgid "s_Shipyard Skills"
+msgstr "Навыки верфи"
+
+msgid "desc_s_Shipyard Skills"
+msgstr ""
+
+msgid "s_Shipbuilding"
+msgstr "Кораблестроение"
+
+msgid "desc_s_Shipbuilding"
+msgstr ""
+"Используется при создании кораблей или крупных плотов. Встаньте рядом с "
+"рабочим столом и нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Shipbuilding Mastery"
+msgstr "Мастерство судостроения"
+
+msgid "desc_s_Shipbuilding Mastery"
+msgstr ""
+"Используется при создании кораблей или крупных плотов. Встаньте рядом с "
+"верфью и нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Smelter Skills"
+msgstr "Навыки плавильщика"
+
+msgid "desc_s_Smelter Skills"
+msgstr ""
+
+msgid "s_Smelting"
+msgstr "Плавка"
+
+msgid "desc_s_Smelting"
+msgstr ""
+"Используется при превращении руды в слитки. Встаньте рядом с плавильщиком и "
+"нажмите кнопку «Использовать», чтобы начать."
+
+msgid "s_Tanning Skills"
+msgstr "Навыки загара"
+
+msgid "desc_s_Tanning Skills"
+msgstr ""
+
+msgid "s_Tanning"
+msgstr "Дубление кожи"
+
+msgid "desc_s_Tanning"
+msgstr ""
+"Используется при превращении сырой кожи в кожу. Встаньте рядом с рабочим "
+"столом и нажмите кнопку «Использовать», чтобы начать."
+
+msgid "s_Weaving Skills"
+msgstr "Ткацкие навыки"
+
+msgid "desc_s_Weaving Skills"
+msgstr ""
+
+msgid "s_Weaving"
+msgstr "Ткачество"
+
+msgid "desc_s_Weaving"
+msgstr ""
+"Используется при превращении хлопка в ткань. Встаньте рядом с рабочим столом"
+" и нажмите кнопку «Использовать», чтобы начать."
+
+msgid "s_Taming Skills"
+msgstr "Навыки укрощения"
+
+msgid "desc_s_Taming Skills"
+msgstr ""
+
+msgid "s_Taming"
+msgstr "Приручение"
+
+msgid "desc_s_Taming"
+msgstr ""
+"Используется при вызове креплений. Откройте окно крафта и выберите "
+"укрощение, чтобы начать."
+
+msgid "s_Test Crafting Skill"
+msgstr "Тест мастерства крафта"
+
+msgid "desc_s_Test Crafting Skill"
+msgstr ""
+
+msgid "s_Workbench Skills"
+msgstr "Навыки рабочего стола"
+
+msgid "desc_s_Workbench Skills"
+msgstr "Описание s_wood рабочих навыков"
+
+msgid "s_Staff Crafting"
+msgstr "Мастерить персонал"
+
+msgid "desc_s_Staff Crafting"
+msgstr ""
+"Используется при создании штанг. Встаньте рядом с рабочим столом и нажмите "
+"кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Staff Crafting Mastery"
+msgstr "Мастерство крафта персонала"
+
+msgid "desc_s_Staff Crafting Mastery"
+msgstr ""
+"Используется при создании штанг. Встаньте рядом с рабочим столом и нажмите "
+"кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Bowyer"
+msgstr "Изготовление луков"
+
+msgid "desc_s_Bowyer"
+msgstr ""
+"Используется при создании луков или стрел. Встаньте рядом с рабочим столом и"
+" нажмите кнопку «Использовать», чтобы начать крафт."
+
+msgid "s_Bowyer Mastery"
+msgstr "Мастерство в боуьере"
+
+msgid "desc_s_Bowyer Mastery"
+msgstr "Позволяет изготавливать передовые луки."
+
+msgid "s_Construction"
+msgstr "Строительство"
+
+msgid "desc_s_Construction"
+msgstr ""
+"Используется для изготовления модулей дома и других различных предметов. "
+"Встаньте рядом с рабочим столом и нажмите кнопку «Использовать», чтобы "
+"начать крафт."
+
+msgid "s_Tailoring"
+msgstr "Портняжное дело"
+
+msgid "desc_s_Tailoring"
+msgstr ""
+"Используется для создания одежды и неметаллической брони. Встаньте рядом с "
+"рабочим столом и нажмите кнопку «Использовать», чтобы начать крафт. "
+
+msgid "s_Tailoring Mastery"
+msgstr "Мастерство пошива"
+
+msgid "desc_s_Tailoring Mastery"
+msgstr ""
+"Позволяет изготавливать доспехи и халаты с использованием редкой кожи и "
+"ткани."
+
+msgid "s_Tinkering"
+msgstr "Возиться"
+
+msgid "desc_s_Tinkering"
+msgstr "Описание s_tinkering"
+
+msgid "s_Woodcutting"
+msgstr "Резка по дереву"
+
+msgid "desc_s_Woodcutting"
+msgstr ""
+"Используется при переработке древесины в древесину. Встаньте рядом с рабочим"
+" столом и нажмите кнопку «Использовать», чтобы начать."
+
+msgid "s_Woodworking"
+msgstr "Деревообработка"
+
+msgid "desc_s_Woodworking"
+msgstr "Описание работы s_wood"
+
+msgid "s_Repair Skills"
+msgstr "Ремонтные навыки"
+
+msgid "desc_s_Repair Skills"
+msgstr ""
+
+msgid "s_Repair"
+msgstr "Ремонт"
+
+msgid "desc_s_Repair"
+msgstr ""
+"Оборудовать средства ремонта и нажать кнопку Action для ремонта конструкций."
+" Потребуется один ремонтный осколок."
+
+msgid "s_Trueforge Armor"
+msgstr "Броня TrueForge"
+
+msgid "desc_s_Trueforge Armor"
+msgstr "Дает бонус за долговечность к изготовленной одежде."
+
+msgid "s_Trueforge Weapon"
+msgstr "Истинное кузнечное оружие"
+
+msgid "desc_s_Trueforge Weapon"
+msgstr ""
+"Предоставляет бонус за долговечность к изготовленному оружию и персоналу."
+
+msgid "s_General Skills"
+msgstr "Общие навыки"
+
+msgid "desc_s_General Skills"
+msgstr "Различные способности, чтобы улучшить свой характер. "
+
+msgid "s_Scan Resources"
+msgstr "Сканирование ресурсов"
+
+msgid "desc_s_Scan Resources"
+msgstr "Просмотреть количество ресурсных узлов"
+
+msgid "s_Acrobatics"
+msgstr "Акробатика"
+
+msgid "desc_s_Acrobatics"
+msgstr "Уменьшает ущерб, полученный от падения."
+
+msgid "s_Alfar Cunning"
+msgstr "Alfar хитрость"
+
+msgid "desc_s_Alfar Cunning"
+msgstr "Дает небольшой бонус максимуму Мана."
+
+msgid "s_Bindstone Recall"
+msgstr "Bindstone отзыв"
+
+msgid "desc_s_Bindstone Recall"
+msgstr ""
+"Нажмите кнопку Действия, чтобы телепортироваться в вашу текущую точку "
+"связывания."
+
+msgid "s_Summon Mount"
+msgstr "Гора вызова"
+
+msgid "desc_s_Summon Mount"
+msgstr "Пригласите активную фигурку на свою куклу."
+
+msgid "s_Capital Recall"
+msgstr "Фракция капитальный отзыв"
+
+msgid "desc_s_Capital Recall"
+msgstr ""
+"Нажмите кнопку «Действие», чтобы телепортироваться в столицу вашей фракции. "
+"Охлаждение будет варьироваться в зависимости от вашего выравнивания."
+
+msgid "s_House Recall"
+msgstr "Домой Воспоминания"
+
+msgid "desc_s_House Recall"
+msgstr "Нажмите кнопку «Действие», чтобы телепортироваться в ваш дом. "
+
+msgid "s_Orkish Capacity"
+msgstr "Способность орки"
+
+msgid "desc_s_Orkish Capacity"
+msgstr "Повышенный вес рюкзака."
+
+msgid "s_Athletic Skills"
+msgstr "Атлетические навыки"
+
+msgid "desc_s_Athletic Skills"
+msgstr "Описание s_athletic навыков"
+
+msgid "s_Falling Technique"
+msgstr "Падающая техника"
+
+msgid "desc_s_Falling Technique"
+msgstr "Описание техники s_falling"
+
+msgid "s_Clever"
+msgstr "Умный"
+
+msgid "desc_s_Clever"
+msgstr "Увеличивает максимальный интеллект."
+
+msgid "s_Set Pvp"
+msgstr "Установить pvp"
+
+msgid "desc_s_Set Pvp"
+msgstr "Устанавливает игрокам pvp-флаг.  "
+
+msgid "s_Constitution"
+msgstr "Конституция"
+
+msgid "desc_s_Constitution"
+msgstr "Предоставляет устойчивость к яду, болезням и подобным атакам.  "
+
+msgid "s_Defense"
+msgstr "Оборона"
+
+msgid "desc_s_Defense"
+msgstr "Предоставляет сопротивление стрелам и атакам ближнего боя. "
+
+msgid "s_Diving"
+msgstr "Дайвинг"
+
+msgid "desc_s_Diving"
+msgstr "Увеличивает максимальную емкость легких."
+
+msgid "s_Dwarven Durability"
+msgstr "Карликовая долговечность"
+
+msgid "desc_s_Dwarven Durability"
+msgstr "Незначительный бонус для максимального здоровья. "
+
+msgid "s_Mirdain Sight"
+msgstr "Прицел Mirdain"
+
+msgid "desc_s_Mirdain Sight"
+msgstr ""
+"Увлеченное зрение Mirdain позволяет им идентифицировать людей с большего "
+"расстояния, чем другие."
+
+msgid "s_Endurance"
+msgstr "Выносливость"
+
+msgid "desc_s_Endurance"
+msgstr "Определяет естественную скорость регенерации Stamina."
+
+msgid "s_Fitness"
+msgstr "Фитнес"
+
+msgid "desc_s_Fitness"
+msgstr "Определяет естественный коэффициент регенерации здоровья. "
+
+msgid "s_Fleet"
+msgstr "Флот"
+
+msgid "desc_s_Fleet"
+msgstr "Увеличивает максимальную скорость."
+
+msgid "s_Fortitude"
+msgstr "Сила духа"
+
+msgid "desc_s_Fortitude"
+msgstr "Дает сопротивление проклятиям. "
+
+msgid "s_Health"
+msgstr "Здоровье"
+
+msgid "desc_s_Health"
+msgstr "Описание s_endurance"
+
+msgid "s_Human Ingenuity"
+msgstr "Человеческая изобретательность"
+
+msgid "desc_s_Human Ingenuity"
+msgstr ""
+"Делает лучше использование некоторых продуктов питания, эффективно "
+"увеличивая продолжительность питательного бонуса."
+
+msgid "s_Human Willpower"
+msgstr "Сила воли человека"
+
+msgid "desc_s_Human Willpower"
+msgstr "Дает небольшой бонус максимуму Мана."
+
+msgid "s_Ignore Pain"
+msgstr "Игнорировать боль"
+
+msgid "desc_s_Ignore Pain"
+msgstr "Обеспечивает неотъемлемую защиту от повреждения оружием."
+
+msgid "s_Ingenious"
+msgstr "Гениальный"
+
+msgid "desc_s_Ingenious"
+msgstr "Увеличивает максимальную мудрость."
+
+msgid "s_Jump"
+msgstr "Прыгнуть"
+
+msgid "desc_s_Jump"
+msgstr "Нажмите Пространство, чтобы прыгать."
+
+msgid "s_Mahirim Endurance"
+msgstr "Mahirim выносливость"
+
+msgid "desc_s_Mahirim Endurance"
+msgstr "Дает небольшой бонус к максимуму Стамина. "
+
+msgid "s_Mahirim Huntspeed"
+msgstr "Mahirim скорость охоты"
+
+msgid "desc_s_Mahirim Huntspeed"
+msgstr "Дает небольшое увеличение нормальной скорости бега."
+
+msgid "s_Medical Skills"
+msgstr "Медицинские навыки"
+
+msgid "desc_s_Medical Skills"
+msgstr ""
+
+msgid "s_Revive"
+msgstr "Реанимировать"
+
+msgid "desc_s_Revive"
+msgstr ""
+"Помогает умирающему персонажу. Нажмите кнопку Действия, чтобы начать "
+"мастерство."
+
+msgid "s_Revive_1"
+msgstr "Revive_1"
+
+msgid "desc_s_Revive_1"
+msgstr "Обсуждение s_revive_1"
+
+msgid "s_Mugging"
+msgstr "Грабеж"
+
+msgid "desc_s_Mugging"
+msgstr "Беспомощный противник.     "
+
+msgid "s_Might"
+msgstr "Мог бы"
+
+msgid "desc_s_Might"
+msgstr "Описание игры s_might"
+
+msgid "s_Mirdain Insight"
+msgstr "Mirdain Проницательность"
+
+msgid "desc_s_Mirdain Insight"
+msgstr "Дает небольшой бонус к максимуму Стамина."
+
+msgid "s_Movement Skills"
+msgstr "Двигательные навыки"
+
+msgid "desc_s_Movement Skills"
+msgstr "Описание навыков s_movement"
+
+msgid "s_Crouch walk"
+msgstr "Прогулка на кресле"
+
+msgid "desc_s_Crouch walk"
+msgstr "Определяет скорость движения при приседаниях."
+
+msgid "s_Riding"
+msgstr "Верховая езда"
+
+msgid "desc_s_Riding"
+msgstr "Уменьшает стоимость Stamina для верховой езды."
+
+msgid "s_Run"
+msgstr "Бегать"
+
+msgid "desc_s_Run"
+msgstr "Немного увеличивает скорость во время бега."
+
+msgid "s_Sprint"
+msgstr "Спринт"
+
+msgid "desc_s_Sprint"
+msgstr "Уменьшает потерю стамины при спринте."
+
+msgid "s_Swimming"
+msgstr "Плавать"
+
+msgid "desc_s_Swimming"
+msgstr ""
+"Нажмите C, чтобы погрузиться под воду. Перестаньте двигаться, чтобы "
+"автоматически дрейфовать вверх. "
+
+msgid "s_Muscular"
+msgstr "Мускулистый"
+
+msgid "desc_s_Muscular"
+msgstr "Увеличивает максимальную силу."
+
+msgid "s_Nimble"
+msgstr "Проворный"
+
+msgid "desc_s_Nimble"
+msgstr "Увеличивает максимальную жесткость."
+
+msgid "s_Orkish Toughness"
+msgstr "Оркисская жесткость"
+
+msgid "desc_s_Orkish Toughness"
+msgstr "Незначительный бонус для максимального здоровья."
+
+msgid "s_Pack Mule"
+msgstr "Пачка мулов"
+
+msgid "desc_s_Pack Mule"
+msgstr "Увеличивает максимально допустимый вес инвентаря."
+
+msgid "s_Perseverance"
+msgstr "Настойчивость"
+
+msgid "desc_s_Perseverance"
+msgstr "Предоставляет небольшой бонус к максимуму Stamina. "
+
+msgid "s_Poison Resistance"
+msgstr "Ядовитость"
+
+msgid "desc_s_Poison Resistance"
+msgstr ""
+
+msgid "s_Pray"
+msgstr "Молиться"
+
+msgid "desc_s_Pray"
+msgstr ""
+
+msgid "s_Push"
+msgstr "Толкать"
+
+msgid "desc_s_Push"
+msgstr "Описание s_push"
+
+msgid "s_Read"
+msgstr "Читать"
+
+msgid "desc_s_Read"
+msgstr "Позволяет изучать руководства по навыкам или свитки заклинаний."
+
+msgid "s_Open Package"
+msgstr "Открытый пакет"
+
+msgid "desc_s_Open Package"
+msgstr "Откройте пакет"
+
+msgid "s_Reflex"
+msgstr "Рефлекс"
+
+msgid "desc_s_Reflex"
+msgstr "Предоставляет сопротивление атакам стихийной зоны."
+
+msgid "s_Rest"
+msgstr "Отдыхать"
+
+msgid "desc_s_Rest"
+msgstr ""
+"Во время отдыха Здоровье, Мана и Стамина восстанавливаются быстрее. Бонус "
+"регенерации покоя удваивается через 30 секунд."
+
+msgid "s_Rest_1"
+msgstr "Rest_1"
+
+msgid "desc_s_Rest_1"
+msgstr "Описание s_healing chant_1"
+
+msgid "s_Camp"
+msgstr "Лагерь"
+
+msgid "desc_s_Camp"
+msgstr "Установите лагерь! (уходите)"
+
+msgid "s_Camp_1"
+msgstr "Camp_1"
+
+msgid "desc_s_Camp_1"
+msgstr "Описание s_camp 01"
+
+msgid "s_Rigor"
+msgstr "Строгость"
+
+msgid "desc_s_Rigor"
+msgstr "Неотъемлемая защита от всех типов повреждений. "
+
+msgid "s_Scout"
+msgstr "Разведчик"
+
+msgid "desc_s_Scout"
+msgstr ""
+
+msgid "s_Spotter"
+msgstr "Споттер"
+
+msgid "desc_s_Spotter"
+msgstr "Увеличивает диапазон идентификации."
+
+msgid "s_Stamina"
+msgstr "Выносливость"
+
+msgid "desc_s_Stamina"
+msgstr "Описание s_stamina"
+
+msgid "s_Sturdy"
+msgstr "Крепкий"
+
+msgid "desc_s_Sturdy"
+msgstr "Повышает максимальную жизнеспособность."
+
+msgid "s_Survivalist"
+msgstr "Выживший"
+
+msgid "desc_s_Survivalist"
+msgstr ""
+"Увеличивает продолжительность питательного бонуса, полученного от некоторых "
+"продуктов питания."
+
+msgid "s_Tireless"
+msgstr "Неутомимый"
+
+msgid "desc_s_Tireless"
+msgstr ""
+"Улучшает скорость движения при замедлении из-за переноса слишком тяжелого "
+"инвентаря."
+
+msgid "s_Toughness"
+msgstr "Жесткость"
+
+msgid "desc_s_Toughness"
+msgstr "Это небольшой бонус к максимальному здоровью."
+
+msgid "s_Unspawn Object"
+msgstr "Невозбужденный объект"
+
+msgid "desc_s_Unspawn Object"
+msgstr "Описание объекта s_use"
+
+msgid "s_Willpower"
+msgstr "Сила воли"
+
+msgid "desc_s_Willpower"
+msgstr "Предоставляет сопротивление психическим атакам. "
+
+msgid "s_Improvement Skills"
+msgstr "Улучшение навыков"
+
+msgid "desc_s_Improvement Skills"
+msgstr "Описание s_физических улучшений"
+
+msgid "s_Mana Bonus"
+msgstr "Мана Бонус"
+
+msgid "desc_s_Mana Bonus"
+msgstr ""
+
+msgid "s_Magic Skills"
+msgstr "Магические навыки"
+
+msgid "desc_s_Magic Skills"
+msgstr ""
+"Метамагические способности, улучшающие все заклинания, относящиеся к "
+"конкретным школам. "
+
+msgid "s_Archmage"
+msgstr "Архетип"
+
+msgid "desc_s_Archmage"
+msgstr "Только истинный мастер магических искусств заработает звание Архмага!"
+
+msgid "s_Esoteric"
+msgstr "Эзотерический"
+
+msgid "desc_s_Esoteric"
+msgstr "Предоставляет небольшой бонус к максимуму. "
+
+msgid "s_Focus"
+msgstr "Фокус"
+
+msgid "desc_s_Focus"
+msgstr "Определяет естественную скорость регенерации маны."
+
+msgid "s_Magic Schools_Skills"
+msgstr "Магические школы_навыки"
+
+msgid "desc_s_Magic Schools_Skills"
+msgstr "Оригинальное название: s_magic schools_skills"
+
+msgid "s_Air Magic"
+msgstr "Магия воздуха"
+
+msgid "desc_s_Air Magic"
+msgstr ""
+"Школа Air Magic предоставляет своим пользователям силу молний и штормов. Как"
+" правило, эти заклинания наносят несколько скромный ущерб, но все еще очень "
+"эффективны, так как от них трудно защититься. "
+
+msgid "s_Durable Spells_Air Magic"
+msgstr "Длительные заклинания - Воздушная магия"
+
+msgid "desc_s_Durable Spells_Air Magic"
+msgstr "Увеличивает продолжительность заклинаний воздушной магии."
+
+msgid "s_Intensify_Air Magic"
+msgstr "Воздушная магия"
+
+msgid "desc_s_Intensify_Air Magic"
+msgstr "Увеличивает величину заклинаний воздушной магии."
+
+msgid "s_Mana Efficiency_Air Magic"
+msgstr "Магия воздуха (Air Magic)"
+
+msgid "desc_s_Mana Efficiency_Air Magic"
+msgstr "Уменьшает ману, потраченную на создание заклинаний магии воздуха."
+
+msgid "s_Quicken Spells_Air Magic"
+msgstr "Волшебство воздуха (Air Magic)"
+
+msgid "desc_s_Quicken Spells_Air Magic"
+msgstr "Уменьшает время кастинга заклинаний Воздушной Магии."
+
+msgid "s_Arcane Magic"
+msgstr "Тайная магия"
+
+msgid "desc_s_Arcane Magic"
+msgstr ""
+"Магия Арканов имеет дело с божественными заклинаниями и самой природой "
+"магии. Таким образом, его наступательные заклинания причиняют святой ущерб, "
+"в то время как защитные заклинания защищают от психических заболеваний или "
+"могут даже обратить магию врагов против него. "
+
+msgid "s_Durable Spells_Arcane Magic"
+msgstr "Длительные заклинания_arcane magic"
+
+msgid "desc_s_Durable Spells_Arcane Magic"
+msgstr "Увеличивает продолжительность магических заклинаний Аркана."
+
+msgid "s_Intensify_Arcane Magic"
+msgstr "Исполнитель: Arcane Magic"
+
+msgid "desc_s_Intensify_Arcane Magic"
+msgstr "Увеличивает величину магических заклинаний Аркана."
+
+msgid "s_Mana Efficiency_Arcane Magic"
+msgstr "Мана эффективность_аркановая магия"
+
+msgid "desc_s_Mana Efficiency_Arcane Magic"
+msgstr "Уменьшает ману, потраченную на создание магических заклинаний."
+
+msgid "s_Quicken Spells_Arcane Magic"
+msgstr "Ускорьте заклинания_arcane magic"
+
+msgid "desc_s_Quicken Spells_Arcane Magic"
+msgstr "Уменьшает время кастинга заклинаний Arcane Magic."
+
+msgid "s_Divine Magic"
+msgstr "Божественная магия"
+
+msgid "desc_s_Divine Magic"
+msgstr ""
+
+msgid "s_Earth Magic"
+msgstr "Магия земли"
+
+msgid "desc_s_Earth Magic"
+msgstr ""
+"Адепты Земной Магии контролируют как силу силы, так и коррозию.  Они "
+"уникальны в том, что знают способы эффективной защиты от оружия ближнего боя"
+" без использования громоздкой брони.   "
+
+msgid "s_Durable Spells_Earth Magic"
+msgstr "Длительные заклинания_Земная магия"
+
+msgid "desc_s_Durable Spells_Earth Magic"
+msgstr "Увеличивает продолжительность заклинаний Земной Магии."
+
+msgid "s_Intensify_Earth Magic"
+msgstr "Английское название: Earth Magic"
+
+msgid "desc_s_Intensify_Earth Magic"
+msgstr "Увеличивает величину заклинаний Магии Земли."
+
+msgid "s_Mana Efficiency_Earth Magic"
+msgstr "Мана Эффективность Земля магия"
+
+msgid "desc_s_Mana Efficiency_Earth Magic"
+msgstr "Уменьшает ману, потраченную на то, чтобы заклинать Землю магией."
+
+msgid "s_Quicken Spells_Earth Magic"
+msgstr "Ускорьте заклинания - Земная магия"
+
+msgid "desc_s_Quicken Spells_Earth Magic"
+msgstr "Уменьшает время литья колдовских заклинаний Земли."
+
+msgid "s_Fire Magic"
+msgstr "Магия огня"
+
+msgid "desc_s_Fire Magic"
+msgstr ""
+"Школа, состоящая в основном из заклинаний, вызывающих огненное разрушение. "
+"Это также учит некоторой быстроте, завораживающей магию. "
+
+msgid "s_Durable Spells_Fire Magic"
+msgstr "Длительные заклинания_волшебство огня"
+
+msgid "desc_s_Durable Spells_Fire Magic"
+msgstr "Увеличивает продолжительность огненных заклинаний."
+
+msgid "s_Intensify_Fire Magic"
+msgstr "Огненная магия / Fire Magic"
+
+msgid "desc_s_Intensify_Fire Magic"
+msgstr "Увеличивает величину огненных магических заклинаний."
+
+msgid "s_Mana Efficiency_Fire Magic"
+msgstr "Магия огня / Fire Magic"
+
+msgid "desc_s_Mana Efficiency_Fire Magic"
+msgstr "Уменьшает ману, потраченную на заклинания Огненной Магии."
+
+msgid "s_Quicken Spells_Fire Magic"
+msgstr "Ускорьте заклинания - Огненная магия"
+
+msgid "desc_s_Quicken Spells_Fire Magic"
+msgstr "Уменьшает время кастинга заклинаний Огненной Магии."
+
+msgid "s_Greater Magic"
+msgstr "Высшая магия"
+
+msgid "desc_s_Greater Magic"
+msgstr ""
+"Большая Магия - это универсальная школа, состоящая из наступательных и "
+"оборонительных заклинаний различного характера. Среди прочего, он учит, как "
+"нанести врагу яд или раны, которые чрезмерно кровоточат.  "
+
+msgid "s_Durable Spells_Greater Magic"
+msgstr "Длительные заклинания Большая магия"
+
+msgid "desc_s_Durable Spells_Greater Magic"
+msgstr "Увеличивает продолжительность заклинаний Великой Магии."
+
+msgid "s_Intensify_Greater Magic"
+msgstr "Больше магии / Greater Magic"
+
+msgid "desc_s_Intensify_Greater Magic"
+msgstr "Увеличивает величину заклинаний Великой Магии."
+
+msgid "s_Mana Efficiency_Greater Magic"
+msgstr "Мана эффективность — великая магия"
+
+msgid "desc_s_Mana Efficiency_Greater Magic"
+msgstr "Уменьшает ману, потраченную на создание заклинаний Великой Магии."
+
+msgid "s_Quicken Spells_Greater Magic"
+msgstr "Ускорьте заклинания Большая магия"
+
+msgid "desc_s_Quicken Spells_Greater Magic"
+msgstr "Уменьшает время кастинга Больших Магических заклинаний."
+
+msgid "s_Lesser Magic"
+msgstr "Малая магия"
+
+msgid "desc_s_Lesser Magic"
+msgstr ""
+"Вводную школу магии должны изучать все начинающие заклинатели заклинаний. "
+"Малая магия предлагает широкий спектр заклинаний, и хотя они относительно "
+"просты, они часто полезны даже для ветерана магии."
+
+msgid "s_Durable Spells_Lesser Magic"
+msgstr "Бесконечная магия / Lesser Magic"
+
+msgid "desc_s_Durable Spells_Lesser Magic"
+msgstr "Увеличивает продолжительность заклинаний Малой Магии."
+
+msgid "s_Intensify_Lesser Magic"
+msgstr "Меньше магии / Lesser Magic"
+
+msgid "desc_s_Intensify_Lesser Magic"
+msgstr "Увеличивает величину Малых Магических заклинаний."
+
+msgid "s_Mana Efficiency_Lesser Magic"
+msgstr "Мана эффективность_меньше магия"
+
+msgid "desc_s_Mana Efficiency_Lesser Magic"
+msgstr "Уменьшает ману, потраченную на заклинания Малой Магии."
+
+msgid "s_Quicken Spells_Lesser Magic"
+msgstr "Ускорьте заклинания - Меньше магии"
+
+msgid "desc_s_Quicken Spells_Lesser Magic"
+msgstr "Уменьшает время кастинга Малых Магических заклинаний."
+
+msgid "s_Necromancy"
+msgstr "Некромантия"
+
+msgid "desc_s_Necromancy"
+msgstr ""
+"Некромантия черпает силу из владений мертвых, чтобы подпитывать свою "
+"нечестивую магию. Его наступательные заклинания очень сильны, как и его "
+"изнурительные атаки.  "
+
+msgid "s_Durable Spells_Necromancy"
+msgstr "Долгосрочные заклинания_некромантия"
+
+msgid "desc_s_Durable Spells_Necromancy"
+msgstr "Увеличивает продолжительность заклинаний некромантии."
+
+msgid "s_Intensify_Necromancy"
+msgstr "Intensify_Necromancy"
+
+msgid "desc_s_Intensify_Necromancy"
+msgstr "Увеличивает величину заклинаний некромантии."
+
+msgid "s_Mana Efficiency_Necromancy"
+msgstr "Мана эффективность_некромантия"
+
+msgid "desc_s_Mana Efficiency_Necromancy"
+msgstr "Уменьшает Ману, потраченную на заклинания Некромантии."
+
+msgid "s_Quicken Spells_Necromancy"
+msgstr "Ускорить заклинания_necromancy"
+
+msgid "desc_s_Quicken Spells_Necromancy"
+msgstr "Уменьшает время кастинга заклинаний Некромантия."
+
+msgid "s_Ritual Magic"
+msgstr "Ритуальная магия"
+
+msgid "desc_s_Ritual Magic"
+msgstr "Оригинальное название: S_ritual Magic"
+
+msgid "s_Durable Spells_Ritual Magic"
+msgstr "Длительные заклинания_ритуальная магия"
+
+msgid "desc_s_Durable Spells_Ritual Magic"
+msgstr "Описание s_durable spells_ritual magic"
+
+msgid "s_Intensify_Ritual Magic"
+msgstr "Интенсивная_ритуальная магия"
+
+msgid "desc_s_Intensify_Ritual Magic"
+msgstr "Обсуждение s_empower spells_ritual magic"
+
+msgid "s_Mana Efficiency_Ritual Magic"
+msgstr "Мана эффективность_ритуальная магия"
+
+msgid "desc_s_Mana Efficiency_Ritual Magic"
+msgstr "Описание s_mana efficiency_ритуальная магия"
+
+msgid "s_Quicken Spells_Ritual Magic"
+msgstr "Ускорьте заклинания_ритуальная магия"
+
+msgid "desc_s_Quicken Spells_Ritual Magic"
+msgstr "Обсуждение s_quicken spells_ritual magic"
+
+msgid "s_Spell Chanting"
+msgstr "Воспевание заклинаний"
+
+msgid "desc_s_Spell Chanting"
+msgstr ""
+"Эта школа специализируется на предоставлении бонусов компаньонам, а не "
+"нанесении ущерба врагам. Таким образом, воспевание заклинаний ценно в "
+"вечеринке, но гораздо меньше - самостоятельно. "
+
+msgid "s_Durable Spells_Spell Chanting"
+msgstr "Прочные заклинания_заклинание"
+
+msgid "desc_s_Durable Spells_Spell Chanting"
+msgstr "Увеличивает продолжительность заклинаний Spell Chanting."
+
+msgid "s_Intensify_Spell Chanting"
+msgstr "Исполнитель: Intensite_spell Chanting"
+
+msgid "desc_s_Intensify_Spell Chanting"
+msgstr "Увеличивает величину заклинаний Заклинания."
+
+msgid "s_Mana Efficiency_Spell Chanting"
+msgstr "Mana efficiency_spell скандирование"
+
+msgid "desc_s_Mana Efficiency_Spell Chanting"
+msgstr "Уменьшает Ману, потраченную на заклинание Заклинания."
+
+msgid "s_Quicken Spells_Spell Chanting"
+msgstr "Скачать торрент-версию Spell Schanting"
+
+msgid "desc_s_Quicken Spells_Spell Chanting"
+msgstr "Уменьшает время кастинга заклинаний Spell Chanting."
+
+msgid "s_Water Magic"
+msgstr "Магия воды"
+
+msgid "desc_s_Water Magic"
+msgstr ""
+"Школа воды дарит заклинания, которые наносят ущерб от ледяных осколков или "
+"сверхъестественно интенсивного охлаждения, а также магию для замедления "
+"целей."
+
+msgid "s_Durable Spells_Water Magic"
+msgstr "Длительные заклинания_водная магия"
+
+msgid "desc_s_Durable Spells_Water Magic"
+msgstr "Увеличивает продолжительность заклинаний Водяной Магии."
+
+msgid "s_Intensify_Water Magic"
+msgstr "Водная магия / Water Magic"
+
+msgid "desc_s_Intensify_Water Magic"
+msgstr "Увеличивает величину водяных магических заклинаний."
+
+msgid "s_Mana Efficiency_Water Magic"
+msgstr "Магия воды / Water Magic"
+
+msgid "desc_s_Mana Efficiency_Water Magic"
+msgstr "Уменьшает ману, потраченную на бросок Волшебных заклинаний."
+
+msgid "s_Quicken Spells_Water Magic"
+msgstr "Волшебство воды / Water Magic"
+
+msgid "desc_s_Quicken Spells_Water Magic"
+msgstr "Уменьшает время кастинга водяных заклинаний."
+
+msgid "s_Wild Magic"
+msgstr "Дикая магия"
+
+msgid "desc_s_Wild Magic"
+msgstr "Оригинальное название: S_Wild Magic"
+
+msgid "s_Durable Spells_Wild Magic"
+msgstr "Длительные заклинания - дикая магия"
+
+msgid "desc_s_Durable Spells_Wild Magic"
+msgstr "Описание s_durable spells_wild magic"
+
+msgid "s_Intensify_Wild Magic"
+msgstr "Исполнитель: Wild Magic"
+
+msgid "desc_s_Intensify_Wild Magic"
+msgstr "Обсуждение s_empower spells_wild magic"
+
+msgid "s_Mana Efficiency_Wild Magic"
+msgstr "Мана эффективность - дикая магия"
+
+msgid "desc_s_Mana Efficiency_Wild Magic"
+msgstr "Описание игры s_mana efficiency_wild magic"
+
+msgid "s_Quicken Spells_Wild Magic"
+msgstr "Ускорьте заклинания - дикая магия"
+
+msgid "desc_s_Quicken Spells_Wild Magic"
+msgstr "Описание s_quicken spells_wild magic"
+
+msgid "s_Witchcraft"
+msgstr "Колдовство"
+
+msgid "desc_s_Witchcraft"
+msgstr ""
+"Колдовство имеет дело главным образом с проклятиями, которые ослабляют "
+"способности их цели, будь то сила воина, умственные способности волшебника "
+"или точность лучника."
+
+msgid "s_Durable Spells_Witchcraft"
+msgstr "Долгосрочные заклинания_witchcraft"
+
+msgid "desc_s_Durable Spells_Witchcraft"
+msgstr "Увеличивает продолжительность заклинаний колдовства."
+
+msgid "s_Intensify_Witchcraft"
+msgstr "Intensify_Witchcraft"
+
+msgid "desc_s_Intensify_Witchcraft"
+msgstr "Увеличивает величину заклинаний колдовства."
+
+msgid "s_Mana Efficiency_Witchcraft"
+msgstr "Манафактность_колдовство"
+
+msgid "desc_s_Mana Efficiency_Witchcraft"
+msgstr "Уменьшает ману, потраченную на заклинания колдовства."
+
+msgid "s_Quicken Spells_Witchcraft"
+msgstr "Обсуждение Quicken spells_witchcraft"
+
+msgid "desc_s_Quicken Spells_Witchcraft"
+msgstr "Уменьшает время кастинга заклинаний колдовства."
+
+msgid "s_Mana Conservation"
+msgstr "Сохранение маны"
+
+msgid "desc_s_Mana Conservation"
+msgstr "Уменьшает ману, необходимую для заклинания."
+
+msgid "s_Reagent Conservation"
+msgstr "Консервация реагентов"
+
+msgid "desc_s_Reagent Conservation"
+msgstr ""
+"Дает небольшой шанс потратить на один реагент меньше, чем обычно при "
+"заклинании."
+
+msgid "s_Summon Player"
+msgstr "Игрок вызова"
+
+msgid "desc_s_Summon Player"
+msgstr ""
+
+msgid "s_Teleport Anchor"
+msgstr "Якорь телепортации"
+
+msgid "desc_s_Teleport Anchor"
+msgstr "Допускается использование Runestones."
+
+msgid "s_Veteran Mage"
+msgstr "Ветеранский маг"
+
+msgid "desc_s_Veteran Mage"
+msgstr "Снижает стоимость заклинаний Stamina."
+
+msgid "s_Stealth Skills"
+msgstr "Навыки стелс"
+
+msgid "desc_s_Stealth Skills"
+msgstr "Описание навыков движения s_stealth"
+
+msgid "s_Backstab"
+msgstr "Нож для спины"
+
+msgid "desc_s_Backstab"
+msgstr "Описание игры s_sneak"
+
+msgid "s_Pick Pockets"
+msgstr "Собирать карманы"
+
+msgid "desc_s_Pick Pockets"
+msgstr ""
+
+msgid "s_Stealth"
+msgstr "Скрытность"
+
+msgid "desc_s_Stealth"
+msgstr "Описание игры s_stealth"
+
+msgid "s_Weapon Skills"
+msgstr "Оружейные навыки"
+
+msgid "desc_s_Weapon Skills"
+msgstr ""
+"Навыки атаки с использованием оружия ближнего боя, луков или battlespikes."
+
+msgid "s_Melee Skills"
+msgstr "Навыки ближнего боя"
+
+msgid "desc_s_Melee Skills"
+msgstr "Нападения и силы, используемые при оснащении оружием ближнего боя. "
+
+msgid "s_Axe Skills"
+msgstr "Навыки топора"
+
+msgid "desc_s_Axe Skills"
+msgstr "Описание навыков s_axe"
+
+msgid "s_Axe Attacks"
+msgstr "Топорные атаки"
+
+msgid "desc_s_Axe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Axes"
+msgstr "Противотанковая атака_оси"
+
+msgid "desc_s_Antitank Attack_Axes"
+msgstr ""
+
+msgid "s_Antitank_Attack_Axes_1"
+msgstr "Antitank_Attack_Axes_1"
+
+msgid "desc_s_Antitank_Attack_Axes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe"
+msgstr "Отключение blow_axe"
+
+msgid "desc_s_Disabling Blow_Axe"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Axe_1"
+msgstr "Отключение blow_axe_1"
+
+msgid "desc_s_Disabling Blow_Axe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe_2"
+msgstr "Отключение blow_axe_2"
+
+msgid "desc_s_Disabling Blow_Axe_2"
+msgstr ""
+
+msgid "s_Knockback_Axe"
+msgstr "Knockback_Axe"
+
+msgid "desc_s_Knockback_Axe"
+msgstr "Атака топором, которая силой отталкивает противника."
+
+msgid "s_Knockback_Axe_1"
+msgstr "Knockback_Axe_1"
+
+msgid "desc_s_Knockback_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe"
+msgstr "Силовая атака_axe"
+
+msgid "desc_s_Power Attack_Axe"
+msgstr "Сильная атака, которая снижает защиту цели от ближнего боя.   "
+
+msgid "s_Power Attack_Axe_1"
+msgstr "Силовая атака_axe_1"
+
+msgid "desc_s_Power Attack_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe_2"
+msgstr "Силовая атака_axe_2"
+
+msgid "desc_s_Power Attack_Axe_2"
+msgstr ""
+
+msgid "s_Power Attack_Axe_3"
+msgstr "Силовая атака_axe_3"
+
+msgid "desc_s_Power Attack_Axe_3"
+msgstr ""
+
+msgid "s_Power Attack_Axe_4"
+msgstr "Силовая атака_axe_4"
+
+msgid "desc_s_Power Attack_Axe_4"
+msgstr ""
+
+msgid "s_Seize_Axe"
+msgstr "Seize_Axe"
+
+msgid "desc_s_Seize_Axe"
+msgstr "Атака, которая сближает противника. "
+
+msgid "s_Seize_Axe_1"
+msgstr "Seize_Axe_1"
+
+msgid "desc_s_Seize_Axe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Axe"
+msgstr "Обсуждение Wirlwind Attack_axe"
+
+msgid "desc_s_Whirlwind Attack_Axe"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Axe_1"
+msgstr "Вихревая атака_axe_1"
+
+msgid "desc_s_Whirlwind Attack_Axe_1"
+msgstr ""
+
+msgid "s_Axes"
+msgstr "Топоры"
+
+msgid "desc_s_Axes"
+msgstr "Базовая атака с одноручными топорами. "
+
+msgid "s_Axes_1"
+msgstr "Axes_1"
+
+msgid "desc_s_Axes_1"
+msgstr ""
+
+msgid "s_Club and Mace Skills"
+msgstr "Клубные и булавочные навыки"
+
+msgid "desc_s_Club and Mace Skills"
+msgstr "Описание навыков s_club и mace"
+
+msgid "s_Club Attacks"
+msgstr "Клубные атаки"
+
+msgid "desc_s_Club Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Club"
+msgstr "Противотанковая атака_клуб"
+
+msgid "desc_s_Antitank Attack_Club"
+msgstr ""
+
+msgid "s_Antitank Attack_Club_1"
+msgstr "Противотанковая атака_клуб_1"
+
+msgid "desc_s_Antitank Attack_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club"
+msgstr "Отключение blow_club"
+
+msgid "desc_s_Disabling Blow_Club"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Club_1"
+msgstr "Отключение blow_club_1"
+
+msgid "desc_s_Disabling Blow_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club_2"
+msgstr "Отключение blow_club_2"
+
+msgid "desc_s_Disabling Blow_Club_2"
+msgstr ""
+
+msgid "s_Knockback_Club"
+msgstr "Knockback_Club"
+
+msgid "desc_s_Knockback_Club"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Club_1"
+msgstr "Knockback_Club_1"
+
+msgid "desc_s_Knockback_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club"
+msgstr "Силовая атака_клуб"
+
+msgid "desc_s_Power Attack_Club"
+msgstr "Мощная атака, которая истощает дополнительную выносливость. "
+
+msgid "s_Power Attack_Club_1"
+msgstr "Силовая атака_клуб_1"
+
+msgid "desc_s_Power Attack_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club_2"
+msgstr "Силовая атака_клуб_2"
+
+msgid "desc_s_Power Attack_Club_2"
+msgstr ""
+
+msgid "s_Seize_Club"
+msgstr "Seize_Club"
+
+msgid "desc_s_Seize_Club"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Club_1"
+msgstr "Seize_Club_1"
+
+msgid "desc_s_Seize_Club_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Club"
+msgstr "Вихревая атака_клуб"
+
+msgid "desc_s_Whirlwind Attack_Club"
+msgstr "Вращающаяся атака, избивающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Club_1"
+msgstr "Вихревая атака_club_1"
+
+msgid "desc_s_Whirlwind Attack_Club_1"
+msgstr ""
+
+msgid "s_Clubs and Maces"
+msgstr "Клубы и булавы"
+
+msgid "desc_s_Clubs and Maces"
+msgstr "Базовая атака с одноручным тупым оружием. "
+
+msgid "s_Clubs and Maces_1"
+msgstr "Клубы и булавы_1"
+
+msgid "desc_s_Clubs and Maces_1"
+msgstr ""
+
+msgid "s_Greataxe Skills"
+msgstr "Великие навыки"
+
+msgid "desc_s_Greataxe Skills"
+msgstr "Описание навыков s_Greataxe"
+
+msgid "s_Greataxe Attacks"
+msgstr "Атака \"великодушие\""
+
+msgid "desc_s_Greataxe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes"
+msgstr "Противотанковая атака_Greataxs"
+
+msgid "desc_s_Antitank Attack_Greataxes"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes_1"
+msgstr "Противотанковая атака_Greatax_1"
+
+msgid "desc_s_Antitank Attack_Greataxes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe"
+msgstr "Отключение blow_Greatax"
+
+msgid "desc_s_Disabling Blow_Greataxe"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Greataxe_1"
+msgstr "Отключение blow_Greataxe_1"
+
+msgid "desc_s_Disabling Blow_Greataxe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe_2"
+msgstr "Отключение blow_Greataxe_2"
+
+msgid "desc_s_Disabling Blow_Greataxe_2"
+msgstr ""
+
+msgid "s_Knockback_Greataxe"
+msgstr "Knockback_Greataxe"
+
+msgid "desc_s_Knockback_Greataxe"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Greataxe_1"
+msgstr "Knockback_Greataxe_1"
+
+msgid "desc_s_Knockback_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe"
+msgstr "Силовая атака_Greataxe"
+
+msgid "desc_s_Power Attack_Greataxe"
+msgstr "Мощная атака, которая снижает защиту цели от ближнего боя."
+
+msgid "s_Power Attack_Greataxe_1"
+msgstr "Силовая атака_Greataxe_1"
+
+msgid "desc_s_Power Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_2"
+msgstr "Силовая атака_Greataxe_2"
+
+msgid "desc_s_Power Attack_Greataxe_2"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_3"
+msgstr "Силовая атака_Greataxe_3"
+
+msgid "desc_s_Power Attack_Greataxe_3"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_4"
+msgstr "Силовая атака_Greataxe_4"
+
+msgid "desc_s_Power Attack_Greataxe_4"
+msgstr ""
+
+msgid "s_Seize_Greataxe"
+msgstr "Seize_Greataxe"
+
+msgid "desc_s_Seize_Greataxe"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Greataxe_1"
+msgstr "Seize_Greataxe_1"
+
+msgid "desc_s_Seize_Greataxe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greataxe"
+msgstr "Обсуждение Wirlwind Attack_Greatax"
+
+msgid "desc_s_Whirlwind Attack_Greataxe"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Greataxe_1"
+msgstr "Вихревая атака_Greataxe_1"
+
+msgid "desc_s_Whirlwind Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Greataxes"
+msgstr "Великакс"
+
+msgid "desc_s_Greataxes"
+msgstr "Базовая атака с двуручными топорами."
+
+msgid "s_Greataxes_1"
+msgstr "Greataxes_1"
+
+msgid "desc_s_Greataxes_1"
+msgstr ""
+
+msgid "s_Greatclub Skills"
+msgstr "Мастерство Great Club"
+
+msgid "desc_s_Greatclub Skills"
+msgstr ""
+
+msgid "s_Greatclub Attacks"
+msgstr "Нападения на большие клубы"
+
+msgid "desc_s_Greatclub Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs"
+msgstr "Противотанковая атака_Greatclubs"
+
+msgid "desc_s_Antitank Attack_Greatclubs"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs_1"
+msgstr "Противотанковая атака_Greatclubs_1"
+
+msgid "desc_s_Antitank Attack_Greatclubs_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub"
+msgstr "Отключение blow_Greatclub"
+
+msgid "desc_s_Disabling Blow_Greatclub"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Greatclub_1"
+msgstr "Отключение blow_Greatclub_1"
+
+msgid "desc_s_Disabling Blow_Greatclub_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub_2"
+msgstr "Отключение blow_Greatclub_2"
+
+msgid "desc_s_Disabling Blow_Greatclub_2"
+msgstr ""
+
+msgid "s_Knockback_Greatclub"
+msgstr "Knockback_Greatclub"
+
+msgid "desc_s_Knockback_Greatclub"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Greatclub_1"
+msgstr "Knockback_Greatclub_1"
+
+msgid "desc_s_Knockback_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub"
+msgstr "Силовая атака_GreatCub"
+
+msgid "desc_s_Power Attack_Greatclub"
+msgstr "Мощная атака, которая истощает дополнительную выносливость. "
+
+msgid "s_Power Attack_Greatclub_1"
+msgstr "Силовая атака_GreatCub_1"
+
+msgid "desc_s_Power Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub_2"
+msgstr "Силовая атака_GreatCub_2"
+
+msgid "desc_s_Power Attack_Greatclub_2"
+msgstr ""
+
+msgid "s_Seize_Greatclub"
+msgstr "Seize_Greatclub"
+
+msgid "desc_s_Seize_Greatclub"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Greatclub_1"
+msgstr "Seize_Greatclub_1"
+
+msgid "desc_s_Seize_Greatclub_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatclub"
+msgstr "Вихревая атака_Greatclub"
+
+msgid "desc_s_Whirlwind Attack_Greatclub"
+msgstr "Вращающаяся атака, избивающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Greatclub_1"
+msgstr "Вихревая атака_Greatclub_1"
+
+msgid "desc_s_Whirlwind Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Greatclubs"
+msgstr "Большие клубы"
+
+msgid "desc_s_Greatclubs"
+msgstr "Базовая атака с двуручным тупым оружием."
+
+msgid "s_Greatclubs_1"
+msgstr "Greatclubs_1"
+
+msgid "desc_s_Greatclubs_1"
+msgstr ""
+
+msgid "s_Greatsword Skills"
+msgstr "Отличные навыки меча"
+
+msgid "desc_s_Greatsword Skills"
+msgstr "Описание навыков s_Greatsword"
+
+msgid "s_Greatsword Attacks"
+msgstr "Большие мечи атакуют"
+
+msgid "desc_s_Greatsword Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords"
+msgstr "Противотанковая атака_большие мечи"
+
+msgid "desc_s_Antitank Attack_Greatswords"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords_1"
+msgstr "Противотанковая атака_большие мечи_1"
+
+msgid "desc_s_Antitank Attack_Greatswords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword"
+msgstr "Отключение blow_Greatsword"
+
+msgid "desc_s_Disabling Blow_Greatsword"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Greatsword_1"
+msgstr "Отключение blow_Greatsword_1"
+
+msgid "desc_s_Disabling Blow_Greatsword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword_2"
+msgstr "Отключение blow_Greatsword_2"
+
+msgid "desc_s_Disabling Blow_Greatsword_2"
+msgstr ""
+
+msgid "s_Knockback_Greatsword"
+msgstr "Knockback_Greatsword"
+
+msgid "desc_s_Knockback_Greatsword"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Greatsword_1"
+msgstr "Knockback_Greatsword_1"
+
+msgid "desc_s_Knockback_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword"
+msgstr "Силовая атака_большой меч"
+
+msgid "desc_s_Power Attack_Greatsword"
+msgstr "Толкающая атака, которая вызывает кровотечение. "
+
+msgid "s_Power Attack_Greatsword_1"
+msgstr "Силовая атака_большой меч_1"
+
+msgid "desc_s_Power Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword_2"
+msgstr "Обсуждение Power Attack_Greatsword_2"
+
+msgid "desc_s_Power Attack_Greatsword_2"
+msgstr ""
+
+msgid "s_Seize_Greatsword"
+msgstr "Seize_Greatsword"
+
+msgid "desc_s_Seize_Greatsword"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Greatsword_1"
+msgstr "Seize_Greatsword_1"
+
+msgid "desc_s_Seize_Greatsword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatsword"
+msgstr "Скриншоты из игры Wirlwind Attack_Greatsword"
+
+msgid "desc_s_Whirlwind Attack_Greatsword"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Greatsword_1"
+msgstr "Скриншоты из игры Wirlwind Attack_Greatsword_1"
+
+msgid "desc_s_Whirlwind Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Greatswords"
+msgstr "Великие мечи"
+
+msgid "desc_s_Greatswords"
+msgstr "Основная атака с двуручными мечами."
+
+msgid "s_Greatswords_1"
+msgstr "Greatswords_1"
+
+msgid "desc_s_Greatswords_1"
+msgstr ""
+
+msgid "s_Knife Skills"
+msgstr "Навыки ножа"
+
+msgid "desc_s_Knife Skills"
+msgstr "Обсуждение S_Knife Fighting"
+
+msgid "s_Knife Attacks"
+msgstr "Ножевые атаки"
+
+msgid "desc_s_Knife Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives"
+msgstr "Противотанковая атака_knives"
+
+msgid "desc_s_Antitank Attack_Knives"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives_1"
+msgstr "Противотанковая атака_knives_1"
+
+msgid "desc_s_Antitank Attack_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives"
+msgstr "Отключение blow_knives"
+
+msgid "desc_s_Disabling Blow_Knives"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Knives_1"
+msgstr "Отключение blow_knives_1"
+
+msgid "desc_s_Disabling Blow_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives_2"
+msgstr "Отключение blow_knives_2"
+
+msgid "desc_s_Disabling Blow_Knives_2"
+msgstr ""
+
+msgid "s_Knockback_Knife"
+msgstr "Knockback_Knife"
+
+msgid "desc_s_Knockback_Knife"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Knife_1"
+msgstr "Knockback_Knife_1"
+
+msgid "desc_s_Knockback_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife"
+msgstr "Силовая атака_нож"
+
+msgid "desc_s_Power Attack_Knife"
+msgstr "Толкающая атака отравленными кинжалами. "
+
+msgid "s_Power Attack_Knife_1"
+msgstr "Силовая атака_нож_1"
+
+msgid "desc_s_Power Attack_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife_2"
+msgstr "Силовая атака_Нож_2"
+
+msgid "desc_s_Power Attack_Knife_2"
+msgstr ""
+
+msgid "s_Seize_Knife"
+msgstr "Seize_Knife"
+
+msgid "desc_s_Seize_Knife"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Knife_1"
+msgstr "Seize_Knife_1"
+
+msgid "desc_s_Seize_Knife_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Knife"
+msgstr "Обсуждение Attack_knife"
+
+msgid "desc_s_Whirlwind Attack_Knife"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Knife_1"
+msgstr "Обсуждение Attack_knife_1"
+
+msgid "desc_s_Whirlwind Attack_Knife_1"
+msgstr ""
+
+msgid "s_Knives"
+msgstr "Нож"
+
+msgid "desc_s_Knives"
+msgstr "Базовая атака с двойными ножами."
+
+msgid "s_Knives_1"
+msgstr "Knives_1"
+
+msgid "desc_s_Knives_1"
+msgstr ""
+
+msgid "s_Melee General Skills"
+msgstr "Общие навыки ближнего боя"
+
+msgid "desc_s_Melee General Skills"
+msgstr ""
+
+msgid "s_Defensive Stance"
+msgstr "Оборонительная позиция"
+
+msgid "desc_s_Defensive Stance"
+msgstr ""
+
+msgid "s_Gank"
+msgstr "Добить"
+
+msgid "desc_s_Gank"
+msgstr "Убивает беспомощного противника. "
+
+msgid "s_Gank_1"
+msgstr "Gank_1"
+
+msgid "desc_s_Gank_1"
+msgstr "Описание игры s_gank_1"
+
+msgid "s_Melee Powers"
+msgstr "Силы ближнего боя"
+
+msgid "desc_s_Melee Powers"
+msgstr ""
+
+msgid "s_Dwarven Perseverance"
+msgstr "Стойкость гнома"
+
+msgid "desc_s_Dwarven Perseverance"
+msgstr "Позволяет персонажу сражаться практически без истощения выносливости."
+
+msgid "s_Dwarven Perseverance_1"
+msgstr "Упорство гнома_1"
+
+msgid "desc_s_Dwarven Perseverance_1"
+msgstr ""
+
+msgid "s_Rage"
+msgstr "Ярость"
+
+msgid "desc_s_Rage"
+msgstr ""
+"Скачок адреналина, который обеспечивает защиту от элементарных атак, а также"
+" умеренное заживление."
+
+msgid "s_Rage_1"
+msgstr "Rage_1"
+
+msgid "desc_s_Rage_1"
+msgstr ""
+
+msgid "s_Rage_Healing"
+msgstr "Rage_Healing"
+
+msgid "desc_s_Rage_Healing"
+msgstr ""
+
+msgid "s_Mount Attacks"
+msgstr "Нарастающие атаки"
+
+msgid "desc_s_Mount Attacks"
+msgstr ""
+
+msgid "s_Mount Attack"
+msgstr "Форсировать атаку"
+
+msgid "desc_s_Mount Attack"
+msgstr ""
+
+msgid "s_Mount Attack_1"
+msgstr "Нападение на гору_1"
+
+msgid "desc_s_Mount Attack_1"
+msgstr ""
+
+msgid "s_Polearm Skills"
+msgstr "Навыки полармирования"
+
+msgid "desc_s_Polearm Skills"
+msgstr "Описание s_polearms"
+
+msgid "s_Polearm Attacks"
+msgstr "Стрельба из шеста"
+
+msgid "desc_s_Polearm Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms"
+msgstr "Противотанковая атака_polearms"
+
+msgid "desc_s_Antitank Attack_Polearms"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms_1"
+msgstr "Противотанковая атака_polearms_1"
+
+msgid "desc_s_Antitank Attack_Polearms_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm"
+msgstr "Отключение blow_polearm"
+
+msgid "desc_s_Disabling Blow_Polearm"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Polearm_1"
+msgstr "Отключение blow_polearm_1"
+
+msgid "desc_s_Disabling Blow_Polearm_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm_2"
+msgstr "Отключение blow_polearm_2"
+
+msgid "desc_s_Disabling Blow_Polearm_2"
+msgstr ""
+
+msgid "s_Knockback_Polearm"
+msgstr "Knockback_Polearm"
+
+msgid "desc_s_Knockback_Polearm"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Polearm_1"
+msgstr "Knockback_Polearm_1"
+
+msgid "desc_s_Knockback_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm"
+msgstr "Силовая атака_polearm"
+
+msgid "desc_s_Power Attack_Polearm"
+msgstr "Мощная, точная атака."
+
+msgid "s_Power Attack_Polearm_1"
+msgstr "Power Attack_polearm_1"
+
+msgid "desc_s_Power Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_2"
+msgstr "Power Attack_polearm_2"
+
+msgid "desc_s_Power Attack_Polearm_2"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_3"
+msgstr "Power Attack_polearm_3"
+
+msgid "desc_s_Power Attack_Polearm_3"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_4"
+msgstr "Power Attack_polearm_4"
+
+msgid "desc_s_Power Attack_Polearm_4"
+msgstr ""
+
+msgid "s_Seize_Polearm"
+msgstr "Seize_Polearm"
+
+msgid "desc_s_Seize_Polearm"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Polearm_1"
+msgstr "Seize_Polearm_1"
+
+msgid "desc_s_Seize_Polearm_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Polearm"
+msgstr "Вихревая атака_polearm"
+
+msgid "desc_s_Whirlwind Attack_Polearm"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Polearm_1"
+msgstr "Вихревой удар_polearm_1"
+
+msgid "desc_s_Whirlwind Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Polearms"
+msgstr "Полевое оружие"
+
+msgid "desc_s_Polearms"
+msgstr "Основная атака с полиармами. "
+
+msgid "s_Polearms_1"
+msgstr "Polearms_1"
+
+msgid "desc_s_Polearms_1"
+msgstr ""
+
+msgid "s_Siege Weapon Skills"
+msgstr "Навыки осадного оружия"
+
+msgid "desc_s_Siege Weapon Skills"
+msgstr ""
+
+msgid "s_Siege Hammer"
+msgstr "Осадный молоток"
+
+msgid "desc_s_Siege Hammer"
+msgstr "Атака способна повредить здания, пушки и транспортные средства."
+
+msgid "s_Siege Hammer_1"
+msgstr "Осадный молоток_1"
+
+msgid "desc_s_Siege Hammer_1"
+msgstr ""
+
+msgid "s_Sithra Skills"
+msgstr "Sithra навыков"
+
+msgid "desc_s_Sithra Skills"
+msgstr ""
+
+msgid "s_Sithra Attacks"
+msgstr "Sithra атак"
+
+msgid "desc_s_Sithra Attacks"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra"
+msgstr "Отключение blow_sithra"
+
+msgid "desc_s_Disabling Blow_Sithra"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Sithra_1"
+msgstr "Отключение blow_sithra_1"
+
+msgid "desc_s_Disabling Blow_Sithra_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra_2"
+msgstr "Отключение blow_sithra_2"
+
+msgid "desc_s_Disabling Blow_Sithra_2"
+msgstr ""
+
+msgid "s_Knockback_Sithras"
+msgstr "Knockback_Sithras"
+
+msgid "desc_s_Knockback_Sithras"
+msgstr "Тяжёлая атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Sithras_1"
+msgstr "Knockback_Sithras_1"
+
+msgid "desc_s_Knockback_Sithras_1"
+msgstr ""
+
+msgid "s_Power Attack_sithra"
+msgstr "Силовая атака_ситра"
+
+msgid "desc_s_Power Attack_sithra"
+msgstr "Толкающая атака, которая наносит дополнительный ущерб."
+
+msgid "s_Power Attack_Sithra_2"
+msgstr "Силовая атака_sithra2"
+
+msgid "desc_s_Power Attack_Sithra_2"
+msgstr ""
+
+msgid "s_Sithras_Stab_1"
+msgstr "Sithras_Stab_1"
+
+msgid "desc_s_Sithras_Stab_1"
+msgstr ""
+
+msgid "s_Seize_Sithras"
+msgstr "Seize_Sithras"
+
+msgid "desc_s_Seize_Sithras"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Sithras_2"
+msgstr "Seize_Sithras_2"
+
+msgid "desc_s_Seize_Sithras_2"
+msgstr ""
+
+msgid "s_Sieze_Sithras_1"
+msgstr "Sieze_Sithras_1"
+
+msgid "desc_s_Sieze_Sithras_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sithra"
+msgstr "Обсуждение Attack_sithra"
+
+msgid "desc_s_Whirlwind Attack_Sithra"
+msgstr "Вращающаяся атака, повреждающая всех, кто рядом."
+
+msgid "s_Sithras_Whirlwind_1"
+msgstr "Sithras_Whirlwind_1"
+
+msgid "desc_s_Sithras_Whirlwind_1"
+msgstr ""
+
+msgid "s_Sithras"
+msgstr "Ситхры"
+
+msgid "desc_s_Sithras"
+msgstr "Основная атака с помощью ситхр.   "
+
+msgid "s_Sithras_1"
+msgstr "Sithras_1"
+
+msgid "desc_s_Sithras_1"
+msgstr ""
+
+msgid "s_Sword Skills"
+msgstr "Навыки меча"
+
+msgid "desc_s_Sword Skills"
+msgstr "Описание навыков s_sword"
+
+msgid "s_Sword Attacks"
+msgstr "Нападение на меч"
+
+msgid "desc_s_Sword Attacks"
+msgstr "Описание атак s_sword"
+
+msgid "s_Antitank Attack_Swords"
+msgstr "Противотанковая атака_swords"
+
+msgid "desc_s_Antitank Attack_Swords"
+msgstr ""
+
+msgid "s_Antitank Attack_Swords_1"
+msgstr "Противотанковая атака_мечи_1"
+
+msgid "desc_s_Antitank Attack_Swords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword"
+msgstr "Отключение blow_sword"
+
+msgid "desc_s_Disabling Blow_Sword"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Blow_Sword_1"
+msgstr "Отключение blow_sword_1"
+
+msgid "desc_s_Disabling Blow_Sword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword_2"
+msgstr "Отключение blow_sword_2"
+
+msgid "desc_s_Disabling Blow_Sword_2"
+msgstr ""
+
+msgid "s_Knockback_Sword"
+msgstr "Knockback_Sword"
+
+msgid "desc_s_Knockback_Sword"
+msgstr "Атака, которая силой отталкивает противника."
+
+msgid "s_Knockback_Sword_1"
+msgstr "Knockback_Sword_1"
+
+msgid "desc_s_Knockback_Sword_1"
+msgstr ""
+
+msgid "s_Power Attack_Sword"
+msgstr "Силовая атака_Меч"
+
+msgid "desc_s_Power Attack_Sword"
+msgstr "Толкающая атака, которая вызывает кровотечение. "
+
+msgid "s_Power Attack_Sword_2"
+msgstr "Силовая атака_sword_2"
+
+msgid "desc_s_Power Attack_Sword_2"
+msgstr ""
+
+msgid "s_Power Attack_Sword_sub"
+msgstr "Обсуждение Power Attack_sword_sub"
+
+msgid "desc_s_Power Attack_Sword_sub"
+msgstr ""
+
+msgid "s_Seize_Sword"
+msgstr "Seize_Sword"
+
+msgid "desc_s_Seize_Sword"
+msgstr "Атака, которая сближает противника."
+
+msgid "s_Seize_Sword_1"
+msgstr "Seize_Sword_1"
+
+msgid "desc_s_Seize_Sword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sword"
+msgstr "Обсуждение Wirlwind Attack_Sword"
+
+msgid "desc_s_Whirlwind Attack_Sword"
+msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+
+msgid "s_Whirlwind Attack_Sword_1"
+msgstr "Обсуждение Wirlwind Attack_Sword_1"
+
+msgid "desc_s_Whirlwind Attack_Sword_1"
+msgstr ""
+
+msgid "s_Swords"
+msgstr "Мечи"
+
+msgid "desc_s_Swords"
+msgstr "Основная атака одноручными мечами."
+
+msgid "s_Swords_1"
+msgstr "Swords_1"
+
+msgid "desc_s_Swords_1"
+msgstr "Описание игры s_swordplay_1"
+
+msgid "s_Natural Attacks"
+msgstr "Естественные атаки"
+
+msgid "desc_s_Natural Attacks"
+msgstr ""
+
+msgid "s_Natural Epic Attacks"
+msgstr "Естественные эпические атаки"
+
+msgid "desc_s_Natural Epic Attacks"
+msgstr ""
+
+msgid "s_Natural Melee"
+msgstr "Естественный ближний"
+
+msgid "desc_s_Natural Melee"
+msgstr ""
+
+msgid "s_Natural Basic Attacks"
+msgstr "Естественные базовые атаки"
+
+msgid "desc_s_Natural Basic Attacks"
+msgstr ""
+
+msgid "s_Natural Attack Blunt"
+msgstr "Природная атака тупая"
+
+msgid "desc_s_Natural Attack Blunt"
+msgstr ""
+
+msgid "s_Natural Attack Demon"
+msgstr "Естественный демон нападения"
+
+msgid "desc_s_Natural Attack Demon"
+msgstr ""
+
+msgid "s_Natural Attack Impact"
+msgstr "Естественный ударный эффект"
+
+msgid "desc_s_Natural Attack Impact"
+msgstr ""
+
+msgid "s_Natural Attack Kraken"
+msgstr "Естественная атака Кракена"
+
+msgid "desc_s_Natural Attack Kraken"
+msgstr ""
+
+msgid "s_Natural Attack Metal Golem"
+msgstr "Природный атакующий металл голем"
+
+msgid "desc_s_Natural Attack Metal Golem"
+msgstr ""
+
+msgid "s_Natural Attack Pierce"
+msgstr "Природная атака пронзает"
+
+msgid "desc_s_Natural Attack Pierce"
+msgstr ""
+
+msgid "s_Natural Attack Primary"
+msgstr "Природная атака первичная"
+
+msgid "desc_s_Natural Attack Primary"
+msgstr ""
+
+msgid "s_Natural Attack Slash"
+msgstr "Естественная атака Slash"
+
+msgid "desc_s_Natural Attack Slash"
+msgstr ""
+
+msgid "s_Natural Attack Slash Executioner"
+msgstr "Естественная атака слэш палач"
+
+msgid "desc_s_Natural Attack Slash Executioner"
+msgstr ""
+
+msgid "s_Natural Attack Stone Golem"
+msgstr "Природная атака каменного голема"
+
+msgid "desc_s_Natural Attack Stone Golem"
+msgstr ""
+
+msgid "s_Natural Mageblast"
+msgstr "Натуральный магебласт"
+
+msgid "desc_s_Natural Mageblast"
+msgstr ""
+
+msgid "s_Natural Special Attacks"
+msgstr "Природные специальные атаки"
+
+msgid "desc_s_Natural Special Attacks"
+msgstr ""
+
+msgid "s_Natural Alt Special Gorra"
+msgstr "Специальный природный альт Gorra"
+
+msgid "desc_s_Natural Alt Special Gorra"
+msgstr ""
+
+msgid "s_Natural Antitank"
+msgstr "Природный противотанковый"
+
+msgid "desc_s_Natural Antitank"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken"
+msgstr "Природный противотанковый кракен"
+
+msgid "desc_s_Natural Antitank Kraken"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_1"
+msgstr "Природный противотанковый кракен_1"
+
+msgid "desc_s_Natural Antitank Kraken_1"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_2"
+msgstr "Природный противотанковый кракен_2"
+
+msgid "desc_s_Natural Antitank Kraken_2"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_3"
+msgstr "Природный противотанковый кракен_3"
+
+msgid "desc_s_Natural Antitank Kraken_3"
+msgstr ""
+
+msgid "s_Natural Antitank Metal Golem"
+msgstr "Природный противотанковый металл голем"
+
+msgid "desc_s_Natural Antitank Metal Golem"
+msgstr ""
+
+msgid "s_Natural Antitank Stone Golem"
+msgstr "Природный противотанковый камень голем"
+
+msgid "desc_s_Natural Antitank Stone Golem"
+msgstr ""
+
+msgid "s_Natural Attack Crush"
+msgstr "Природная атака"
+
+msgid "desc_s_Natural Attack Crush"
+msgstr ""
+
+msgid "s_Natural Bleeding"
+msgstr "Естественное кровотечение"
+
+msgid "desc_s_Natural Bleeding"
+msgstr ""
+
+msgid "s_Natural Bleeding Executioner"
+msgstr "Естественный кровоточащий палач"
+
+msgid "desc_s_Natural Bleeding Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Demon"
+msgstr "Естественный демон"
+
+msgid "desc_s_Natural Crush Demon"
+msgstr ""
+
+msgid "s_Natural Crush Doombringer"
+msgstr "Природный дробилка Dombringer"
+
+msgid "desc_s_Natural Crush Doombringer"
+msgstr ""
+
+msgid "s_Natural Crush Executioner"
+msgstr "Естественный дробилка палач"
+
+msgid "desc_s_Natural Crush Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Metal Golem"
+msgstr "Натуральный дробильный металл голем"
+
+msgid "desc_s_Natural Crush Metal Golem"
+msgstr ""
+
+msgid "s_Natural Crush Stone Golem"
+msgstr "Природный камень голем"
+
+msgid "desc_s_Natural Crush Stone Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Blunt"
+msgstr "Естественный отключающий тупой"
+
+msgid "desc_s_Natural Disabling Blunt"
+msgstr ""
+
+msgid "s_Natural Disabling Kraken"
+msgstr "Естественный отключающий кракен"
+
+msgid "desc_s_Natural Disabling Kraken"
+msgstr ""
+
+msgid "s_Natural Disabling Metal Golem"
+msgstr "Естественный отключающий металл голем"
+
+msgid "desc_s_Natural Disabling Metal Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Stone Golem"
+msgstr "Природный отключающий каменный голем"
+
+msgid "desc_s_Natural Disabling Stone Golem"
+msgstr ""
+
+msgid "s_Natural Elemental Whirlwind"
+msgstr "Естественный элементальный вихрь"
+
+msgid "desc_s_Natural Elemental Whirlwind"
+msgstr ""
+
+msgid "s_Natural Poison"
+msgstr "Естественный яд"
+
+msgid "desc_s_Natural Poison"
+msgstr ""
+
+msgid "s_Natural Stamina Drain"
+msgstr "Натуральный дренаж выносливости"
+
+msgid "desc_s_Natural Stamina Drain"
+msgstr ""
+
+msgid "s_Natural Strength Penalty"
+msgstr "Естественный штраф за прочность"
+
+msgid "desc_s_Natural Strength Penalty"
+msgstr ""
+
+msgid "s_Natural Whirlwind Poison"
+msgstr "Натуральный вихревой яд"
+
+msgid "desc_s_Natural Whirlwind Poison"
+msgstr ""
+
+msgid "s_Natural Ranged"
+msgstr "Естественный диапазон"
+
+msgid "desc_s_Natural Ranged"
+msgstr ""
+
+msgid "s_natural ranged ammo"
+msgstr "натуральные боеприпасы"
+
+msgid "desc_s_natural ranged ammo"
+msgstr ""
+
+msgid "s_Natural Ranged Bow"
+msgstr "Натуральный бант"
+
+msgid "desc_s_Natural Ranged Bow"
+msgstr ""
+
+msgid "s_natural ranged noammo"
+msgstr "натуральный ноаммо"
+
+msgid "desc_s_natural ranged noammo"
+msgstr ""
+
+msgid "s_Natural Subskills"
+msgstr "Естественные поднавыки"
+
+msgid "desc_s_Natural Subskills"
+msgstr ""
+
+msgid "s_Natural Attack Acid_1"
+msgstr "Природная кислота-атака_1"
+
+msgid "desc_s_Natural Attack Acid_1"
+msgstr ""
+
+msgid "s_Natural Attack Arcane_1"
+msgstr "Природная атака Arcan_1"
+
+msgid "desc_s_Natural Attack Arcane_1"
+msgstr ""
+
+msgid "s_Natural Attack Bleed_1"
+msgstr "Естественная атака кровотечение_1"
+
+msgid "desc_s_Natural Attack Bleed_1"
+msgstr ""
+
+msgid "s_Natural Attack Blunt_1"
+msgstr "Природная атака тупой_1"
+
+msgid "desc_s_Natural Attack Blunt_1"
+msgstr ""
+
+msgid "s_Natural Attack Bow_1"
+msgstr "Природная атака на лук-1"
+
+msgid "desc_s_Natural Attack Bow_1"
+msgstr ""
+
+msgid "s_Natural Attack Disabling_1"
+msgstr "Природная атака отключает_1"
+
+msgid "desc_s_Natural Attack Disabling_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_1"
+msgstr "Взрыв естественной атаки1"
+
+msgid "desc_s_Natural Attack Explosion_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_2"
+msgstr "Взрыв естественной атаки2"
+
+msgid "desc_s_Natural Attack Explosion_2"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_3"
+msgstr "Взрыв естественной атаки3"
+
+msgid "desc_s_Natural Attack Explosion_3"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_4"
+msgstr "Взрыв естественной атаки 4"
+
+msgid "desc_s_Natural Attack Explosion_4"
+msgstr ""
+
+msgid "s_Natural Attack Impact_1"
+msgstr "Природное воздействие на человека1"
+
+msgid "desc_s_Natural Attack Impact_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_1"
+msgstr "Столкновение с естественными атаками1"
+
+msgid "desc_s_Natural Attack Knockback_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_2"
+msgstr "Природная атака нокдаун_2"
+
+msgid "desc_s_Natural Attack Knockback_2"
+msgstr ""
+
+msgid "s_Natural Attack Pierce_1"
+msgstr "Природная атака Пирс_1"
+
+msgid "desc_s_Natural Attack Pierce_1"
+msgstr ""
+
+msgid "s_Natural Attack Poison_1"
+msgstr "Естественный яд (1)"
+
+msgid "desc_s_Natural Attack Poison_1"
+msgstr ""
+
+msgid "s_Natural Attack Slash_1"
+msgstr "Природная атака Slash_1"
+
+msgid "desc_s_Natural Attack Slash_1"
+msgstr ""
+
+msgid "s_Natural Attack Stamina_1"
+msgstr "Природная выносливость атаки_1"
+
+msgid "desc_s_Natural Attack Stamina_1"
+msgstr ""
+
+msgid "s_Natural Attack Strength_1"
+msgstr "Природная сила атаки_1"
+
+msgid "desc_s_Natural Attack Strength_1"
+msgstr ""
+
+msgid "s_Ranged Skills"
+msgstr "Диапазон навыков"
+
+msgid "desc_s_Ranged Skills"
+msgstr "Описание s_ranged навыков"
+
+msgid "s_Archery Skills"
+msgstr "Навыки стрельбы из лука"
+
+msgid "desc_s_Archery Skills"
+msgstr ""
+
+msgid "s_Archery"
+msgstr "Стрельба из лука"
+
+msgid "desc_s_Archery"
+msgstr "Базовая атака с использованием лука и стрел."
+
+msgid "s_Archery_1"
+msgstr "Archery_1"
+
+msgid "desc_s_Archery_1"
+msgstr "Описание игры s_archery_1"
+
+msgid "s_Archery Attacks"
+msgstr "Стрельба из лука"
+
+msgid "desc_s_Archery Attacks"
+msgstr ""
+
+msgid "s_Adept Shot"
+msgstr "Адепт стрелял"
+
+msgid "desc_s_Adept Shot"
+msgstr "Обсуждение s_adept shot"
+
+msgid "s_Antitank Archery"
+msgstr "Противотанковая стрельба"
+
+msgid "desc_s_Antitank Archery"
+msgstr ""
+
+msgid "s_Antitank Archery_1"
+msgstr "Противотанковая стрельба_1"
+
+msgid "desc_s_Antitank Archery_1"
+msgstr ""
+
+msgid "s_Attack_Archery"
+msgstr "Attack_Archery"
+
+msgid "desc_s_Attack_Archery"
+msgstr "Обсуждение s_attack_archery"
+
+msgid "s_Critical Shot"
+msgstr "Критический выстрел"
+
+msgid "desc_s_Critical Shot"
+msgstr "Обсуждение s_critic Shot"
+
+msgid "s_Disabling Shot"
+msgstr "Обезвреживающий выстрел"
+
+msgid "desc_s_Disabling Shot"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Shot_1"
+msgstr "Отключение Shot_1"
+
+msgid "desc_s_Disabling Shot_1"
+msgstr ""
+
+msgid "s_Disabling Shot_2"
+msgstr "Отключение Shot_2"
+
+msgid "desc_s_Disabling Shot_2"
+msgstr ""
+
+msgid "s_Precise Shot"
+msgstr "Точный выстрел"
+
+msgid "desc_s_Precise Shot"
+msgstr "Обсуждение s_precise shot"
+
+msgid "s_Thrown Weapons"
+msgstr "Брошенное оружие"
+
+msgid "desc_s_Thrown Weapons"
+msgstr "Описание оружия s_thrown"
+
+msgid "s_Throwing"
+msgstr "Бросать"
+
+msgid "desc_s_Throwing"
+msgstr "Лобс battlespike, который взрывается при ударе."
+
+msgid "s_Throwing Impact_large"
+msgstr "Бросающий удар_большой"
+
+msgid "desc_s_Throwing Impact_large"
+msgstr ""
+
+msgid "s_Throwing Impact_medium"
+msgstr "Бросающий удар_средний"
+
+msgid "desc_s_Throwing Impact_medium"
+msgstr "Описание игры s_swordplay_1"
+
+msgid "s_Throwing Impact_small"
+msgstr "Исполнитель: Impact_Small"
+
+msgid "desc_s_Throwing Impact_small"
+msgstr ""
+
+msgid "s_Throwing Impact_tiny"
+msgstr "Исполнитель: Impact_tiny"
+
+msgid "desc_s_Throwing Impact_tiny"
+msgstr ""
+
+msgid "ts_Test Skills"
+msgstr "ts_test навыки"
+
+msgid "desc_ts_Test Skills"
+msgstr "Описание навыков ts_test"
+
+msgid "ts_Feel free to comment"
+msgstr "ts_feel free to comment смотреть онлайн"
+
+msgid "desc_ts_Feel free to comment"
+msgstr "Описание ts_feel free to comment"
+
+msgid "ts_Get the idea?"
+msgstr "Ts_Get The Ideas (альбом)"
+
+msgid "desc_ts_Get the idea?"
+msgstr "Описание ts_Get идеи?"
+
+msgid "ts_Movement Skills"
+msgstr "ts_movement навыки"
+
+msgid "desc_ts_Movement Skills"
+msgstr "Описание навыков ts_movement"
+
+msgid "ts_Walk"
+msgstr "ts_Walk"
+
+msgid "desc_ts_Walk"
+msgstr "Описание игры ts_walk"
+
+msgid "s_Research Skills"
+msgstr "Исследовательские навыки"
+
+msgid "desc_s_Research Skills"
+msgstr ""
+
+msgid "s_Research"
+msgstr "Исследование"
+
+msgid "desc_s_Research"
+msgstr ""
+
+msgid "s_Spells"
+msgstr "Заклинания"
+
+msgid "desc_s_Spells"
+msgstr "Описание s_spells"
+
+msgid "s_Air Magic_Spells"
+msgstr "Волшебные заклинания воздуха"
+
+msgid "desc_s_Air Magic_Spells"
+msgstr ""
+"Школа Air Magic предоставляет своим пользователям силу молний и штормов. Как"
+" правило, эти заклинания наносят несколько скромный ущерб, но все еще очень "
+"эффективны, так как от них трудно защититься."
+
+msgid "s_Agility"
+msgstr "Ловкость"
+
+msgid "desc_s_Agility"
+msgstr "Награждает заклинателя бонусом \"Декстери\"."
+
+msgid "s_Agility_1"
+msgstr "Agility_1"
+
+msgid "desc_s_Agility_1"
+msgstr ""
+
+msgid "s_Arrow Shield"
+msgstr "Щит со стрелами"
+
+msgid "desc_s_Arrow Shield"
+msgstr "Дает кастеру повышенную защиту от стрел."
+
+msgid "s_Arrow Shield_1"
+msgstr "Стрелковый щит_1"
+
+msgid "desc_s_Arrow Shield_1"
+msgstr ""
+
+msgid "s_Arrow Ward"
+msgstr "Стрелковая палата"
+
+msgid "desc_s_Arrow Ward"
+msgstr "Стремитесь к цели, чтобы обеспечить защиту от стрел."
+
+msgid "s_Arrow Ward_1"
+msgstr "Стрелка ward_1"
+
+msgid "desc_s_Arrow Ward_1"
+msgstr ""
+
+msgid "s_Boon of Storms"
+msgstr "Благодатный шторм"
+
+msgid "desc_s_Boon of Storms"
+msgstr ""
+"Направьте град стрел на ваших врагов, исцеляющих себя от успешных ударов."
+
+msgid "s_Boon of Storms_1"
+msgstr "Скриншоты игры Boon of Storms_1"
+
+msgid "desc_s_Boon of Storms_1"
+msgstr ""
+
+msgid "s_Boon of Storms_2"
+msgstr "Скриншоты игры Boon of Storms_2"
+
+msgid "desc_s_Boon of Storms_2"
+msgstr ""
+
+msgid "s_Ball Lightning"
+msgstr "Шаровая молния"
+
+msgid "desc_s_Ball Lightning"
+msgstr "Запускает ракету, которая наносит молниеносный ущерб."
+
+msgid "s_Ball Lightning_1"
+msgstr "Шаровая молния1"
+
+msgid "desc_s_Ball Lightning_1"
+msgstr ""
+
+msgid "s_Come Hither"
+msgstr "Прийти сюда"
+
+msgid "desc_s_Come Hither"
+msgstr "Стремитесь к цели, чтобы волшебным образом приблизить ее."
+
+msgid "s_Come Hither_1"
+msgstr "Приходи сюда! 1"
+
+msgid "desc_s_Come Hither_1"
+msgstr ""
+
+msgid "s_Come Hither_2"
+msgstr "Приходи сюда! 2"
+
+msgid "desc_s_Come Hither_2"
+msgstr ""
+
+msgid "s_Exploding Charge"
+msgstr "Взрывной заряд"
+
+msgid "desc_s_Exploding Charge"
+msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб молнии. "
+
+msgid "s_Exploding Charge_Area"
+msgstr "Взрывной заряд_область"
+
+msgid "desc_s_Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Proc Exploding Charge"
+msgstr "Взрывной заряд Proc"
+
+msgid "desc_s_Proc Exploding Charge"
+msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб молнии. "
+
+msgid "s_Proc Exploding Charge_Area"
+msgstr "Обсуждение Proc Exploding Charge_area"
+
+msgid "desc_s_Proc Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Guiding Wind"
+msgstr "Направляющий ветер"
+
+msgid "desc_s_Guiding Wind"
+msgstr ""
+"Запускает ракету, которая наносит удар по защите своей цели от стрел. "
+
+msgid "s_Guiding Wind_1"
+msgstr "Путеводный ветер_1"
+
+msgid "desc_s_Guiding Wind_1"
+msgstr ""
+
+msgid "s_Lightning Bolt"
+msgstr "Молния болт"
+
+msgid "desc_s_Lightning Bolt"
+msgstr "Пожарная линия электрической энергии шокирует все на своем пути. "
+
+msgid "s_Lightning Bolt_1"
+msgstr "Молния болт_1"
+
+msgid "desc_s_Lightning Bolt_1"
+msgstr "Обсуждение s_lightning bolt_1"
+
+msgid "s_Lightning Shield"
+msgstr "Громовой щит"
+
+msgid "desc_s_Lightning Shield"
+msgstr "Предоставляет заклинателю бонус Lightning Protection."
+
+msgid "s_Lightning Shield_1"
+msgstr "Молниеносный щит_1"
+
+msgid "desc_s_Lightning Shield_1"
+msgstr ""
+
+msgid "s_Lightning Strike"
+msgstr "Удар молнии"
+
+msgid "desc_s_Lightning Strike"
+msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб молнии."
+
+msgid "s_Lightning Strike_1"
+msgstr "Удар молнии_1"
+
+msgid "desc_s_Lightning Strike_1"
+msgstr ""
+
+msgid "s_Lightning Strike_2"
+msgstr "Удар молнии_2"
+
+msgid "desc_s_Lightning Strike_2"
+msgstr ""
+
+msgid "s_Lightning Ward"
+msgstr "Молниеносная палата"
+
+msgid "desc_s_Lightning Ward"
+msgstr "Обеспечивает защиту от повреждения молнией."
+
+msgid "s_Lightning Ward_1"
+msgstr "Молния ward_1"
+
+msgid "desc_s_Lightning Ward_1"
+msgstr ""
+
+msgid "s_Lightning Weakness"
+msgstr "Слабость молнии"
+
+msgid "desc_s_Lightning Weakness"
+msgstr "Запускает ракету, нанося удар по защите своей цели молнией.   "
+
+msgid "s_Lightning Weakness_1"
+msgstr "Слабость молнии_1"
+
+msgid "desc_s_Lightning Weakness_1"
+msgstr ""
+
+msgid "s_Stormblast"
+msgstr "Stormblast"
+
+msgid "desc_s_Stormblast"
+msgstr "Возникает взрыв, который посылает все на своем пути."
+
+msgid "s_Stormblast_1"
+msgstr "Stormblast_1"
+
+msgid "desc_s_Stormblast_1"
+msgstr ""
+
+msgid "s_Thunderstorm"
+msgstr "Гроза"
+
+msgid "desc_s_Thunderstorm"
+msgstr "Волшебный луч, который вызывает грозу молнии при попадании в цель. "
+
+msgid "s_Thunderstorm_1"
+msgstr "Thunderstorm_1"
+
+msgid "desc_s_Thunderstorm_1"
+msgstr ""
+
+msgid "s_Tornado"
+msgstr "Смерч"
+
+msgid "desc_s_Tornado"
+msgstr "Сводит торнадо вокруг кастера. "
+
+msgid "s_Tornado_1"
+msgstr "Tornado_1"
+
+msgid "desc_s_Tornado_1"
+msgstr ""
+
+msgid "s_Arcane Magic_Spells"
+msgstr "Волшебные заклинания"
+
+msgid "desc_s_Arcane Magic_Spells"
+msgstr ""
+"Магия Арканов имеет дело с божественными заклинаниями и самой природой "
+"магии. Таким образом, его наступательные заклинания причиняют святой ущерб, "
+"в то время как защитные заклинания защищают от психических заболеваний или "
+"могут даже обратить магию врагов против него."
+
+msgid "s_Flames of Vengeance"
+msgstr "Огонь мести"
+
+msgid "desc_s_Flames of Vengeance"
+msgstr "Волшебный луч, который приносит ад святого пламени."
+
+msgid "s_Flames of Vengeance_1"
+msgstr "Огни мести1"
+
+msgid "desc_s_Flames of Vengeance_1"
+msgstr ""
+
+msgid "s_Hasten Spells"
+msgstr "Ускорение заклинаний"
+
+msgid "desc_s_Hasten Spells"
+msgstr "Уменьшите время зарядки орфографии на некоторое время."
+
+msgid "s_Hasten Spells_1"
+msgstr "Поспешные заклинания_1"
+
+msgid "desc_s_Hasten Spells_1"
+msgstr ""
+
+msgid "s_Holy Shield"
+msgstr "Священный щит"
+
+msgid "desc_s_Holy Shield"
+msgstr "Гранты усиливают защиту от священных повреждений."
+
+msgid "s_Holy Shield_1"
+msgstr "Священный щит 1"
+
+msgid "desc_s_Holy Shield_1"
+msgstr ""
+
+msgid "s_Holy Ward"
+msgstr "Святой подопечный"
+
+msgid "desc_s_Holy Ward"
+msgstr "Предоставляет целевую защиту от священных повреждений."
+
+msgid "s_Holy Ward_1"
+msgstr "Святое Отечество_1"
+
+msgid "desc_s_Holy Ward_1"
+msgstr ""
+
+msgid "s_Holy Weakness"
+msgstr "Святая слабость"
+
+msgid "desc_s_Holy Weakness"
+msgstr "Запускает ракету, нанося удар по святой защите своей цели."
+
+msgid "s_Holy Weakness_1"
+msgstr "Святая слабость1"
+
+msgid "desc_s_Holy Weakness_1"
+msgstr ""
+
+msgid "s_Lend Mana"
+msgstr "Маньяк ленда"
+
+msgid "desc_s_Lend Mana"
+msgstr "Стремитесь к цели, чтобы передать часть вашего бассейна Мана."
+
+msgid "s_Lend Mana_1"
+msgstr "Аренда Mana_1"
+
+msgid "desc_s_Lend Mana_1"
+msgstr ""
+
+msgid "s_Mystic Shield"
+msgstr "Мистический щит"
+
+msgid "desc_s_Mystic Shield"
+msgstr "Гранты усиливают защиту от психических атак."
+
+msgid "s_Mystic Shield_1"
+msgstr "Мистический щит_1"
+
+msgid "desc_s_Mystic Shield_1"
+msgstr ""
+
+msgid "s_Mystic Ward"
+msgstr "Мистическая палата"
+
+msgid "desc_s_Mystic Ward"
+msgstr "Предоставляет целевую защиту от психических атак."
+
+msgid "s_Mystic Ward_1"
+msgstr "Мистик подопечный_1"
+
+msgid "desc_s_Mystic Ward_1"
+msgstr ""
+
+msgid "s_Reflect Spell"
+msgstr "Отразить заклинание"
+
+msgid "desc_s_Reflect Spell"
+msgstr "Отражает следующее заклинание повреждения обратно к его источнику."
+
+msgid "s_Reflect Spell_1"
+msgstr "Отражение орфографии_1"
+
+msgid "desc_s_Reflect Spell_1"
+msgstr ""
+
+msgid "s_Sacred Missile"
+msgstr "Священная ракета"
+
+msgid "desc_s_Sacred Missile"
+msgstr "Запускает снаряд, нанося святой урон своей цели."
+
+msgid "s_Sacred Missile_HolyDam"
+msgstr "Священная ракета - Голыдам"
+
+msgid "desc_s_Sacred Missile_HolyDam"
+msgstr ""
+
+msgid "s_Spell Immunity"
+msgstr "Заклинание иммунитета"
+
+msgid "desc_s_Spell Immunity"
+msgstr "Увеличивает вероятность сопротивления заклинаниям неповреждения."
+
+msgid "s_Spell Immunity_1"
+msgstr "Иммунитет1"
+
+msgid "desc_s_Spell Immunity_1"
+msgstr ""
+
+msgid "s_Virtuous Wrath"
+msgstr "Добродетельный гнев"
+
+msgid "desc_s_Virtuous Wrath"
+msgstr "Запускает снаряд, который взрывается при ударе, нанося святой урон."
+
+msgid "s_Virtuous Wrath_1"
+msgstr "Добродетельный гнев1"
+
+msgid "desc_s_Virtuous Wrath_1"
+msgstr ""
+
+msgid "s_Wall of Force"
+msgstr "Стена силы"
+
+msgid "desc_s_Wall of Force"
+msgstr "Создает волшебный пузырь, который препятствует всем движениям."
+
+msgid "s_Wall of Force_force"
+msgstr "Стена Силы_Силы"
+
+msgid "desc_s_Wall of Force_force"
+msgstr ""
+
+msgid "s_Divine Magic_Spells"
+msgstr "Божественные магические заклинания"
+
+msgid "desc_s_Divine Magic_Spells"
+msgstr ""
+
+msgid "s_Earth Magic_Spells"
+msgstr "Земные волшебные заклинания"
+
+msgid "desc_s_Earth Magic_Spells"
+msgstr ""
+"Адепты Земной Магии контролируют как силу силы, так и коррозию.  Они "
+"уникальны в том, что знают способы эффективной защиты от оружия ближнего боя"
+" без использования громоздкой брони."
+
+msgid "s_Acid Arrow"
+msgstr "Кислотная стрела"
+
+msgid "desc_s_Acid Arrow"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
+"кислотой."
+
+msgid "s_Acid Arrow_1"
+msgstr "Кислотная стрелка_1"
+
+msgid "desc_s_Acid Arrow_1"
+msgstr ""
+
+msgid "s_Acid Rain"
+msgstr "Кислотные дожди"
+
+msgid "desc_s_Acid Rain"
+msgstr "Волшебный луч, который вызывает кислотную бурю при попадании в цель."
+
+msgid "s_Acid Rain_1"
+msgstr "Кислотные дожди1"
+
+msgid "desc_s_Acid Rain_1"
+msgstr ""
+
+msgid "s_Acid Shield"
+msgstr "Кислотный щит"
+
+msgid "desc_s_Acid Shield"
+msgstr "Дает кастеру повышенную защиту от кислоты."
+
+msgid "s_Acid Shield_1"
+msgstr "Кислотный щиток1"
+
+msgid "desc_s_Acid Shield_1"
+msgstr ""
+
+msgid "s_Acid Ward"
+msgstr "Кислая палата"
+
+msgid "desc_s_Acid Ward"
+msgstr "Стремитесь к цели, чтобы обеспечить защиту от кислоты."
+
+msgid "s_Acid Ward_1"
+msgstr "Кислота ward_1"
+
+msgid "desc_s_Acid Ward_1"
+msgstr ""
+
+msgid "s_Boon of Domination"
+msgstr "Благо господства"
+
+msgid "desc_s_Boon of Domination"
+msgstr "Пополняйте выносливость успешными хитами."
+
+msgid "s_Boon of Domination_1"
+msgstr "Благо господство_1"
+
+msgid "desc_s_Boon of Domination_1"
+msgstr ""
+
+msgid "s_Boon of Blight"
+msgstr "Благословение Blight"
+
+msgid "desc_s_Boon of Blight"
+msgstr "Пополняйте выносливость успешными хитами."
+
+msgid "s_Boon of Blight_1"
+msgstr "Скриншоты Blight_1"
+
+msgid "desc_s_Boon of Blight_1"
+msgstr ""
+
+msgid "s_Boon of Agony"
+msgstr "Благость агонии"
+
+msgid "desc_s_Boon of Agony"
+msgstr "Пополняйте выносливость успешными хитами."
+
+msgid "s_Boon of Agony_1"
+msgstr "Благодать агонии_1"
+
+msgid "desc_s_Boon of Agony_1"
+msgstr ""
+
+msgid "s_Boon of Mutilation"
+msgstr "Благо увечья"
+
+msgid "desc_s_Boon of Mutilation"
+msgstr "Пополняйте выносливость успешными хитами."
+
+msgid "s_Boon of Mutilation_1"
+msgstr "Благо от увечья_1"
+
+msgid "desc_s_Boon of Mutilation_1"
+msgstr ""
+
+msgid "s_Boon of Waves"
+msgstr "Благовещение волн"
+
+msgid "desc_s_Boon of Waves"
+msgstr "Пополняйте выносливость успешными хитами."
+
+msgid "s_Boon of Waves_1"
+msgstr "Скриншоты из Boon of Waves_1"
+
+msgid "desc_s_Boon of Waves_1"
+msgstr ""
+
+msgid "s_Brawn"
+msgstr "Мускулистый"
+
+msgid "desc_s_Brawn"
+msgstr "Награждает заклинателя бонусом за силу."
+
+msgid "s_Brawn_1"
+msgstr "Brawn_1"
+
+msgid "desc_s_Brawn_1"
+msgstr ""
+
+msgid "s_Corrosive Blast"
+msgstr "Коррозионный взрыв"
+
+msgid "desc_s_Corrosive Blast"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
+"кислотой. "
+
+msgid "s_Corrosive Blast_1"
+msgstr "Коррозионный взрыв_1"
+
+msgid "desc_s_Corrosive Blast_1"
+msgstr ""
+
+msgid "s_Corrosive Blast_2"
+msgstr "Коррозионный взрыв_2"
+
+msgid "desc_s_Corrosive Blast_2"
+msgstr ""
+
+msgid "s_Disintegrate"
+msgstr "Распадаться"
+
+msgid "desc_s_Disintegrate"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
+"кислотой."
+
+msgid "s_Disintegrate_1"
+msgstr "Disintegrate_1"
+
+msgid "desc_s_Disintegrate_1"
+msgstr ""
+
+msgid "s_Earthquake"
+msgstr "Землетрясение"
+
+msgid "desc_s_Earthquake"
+msgstr ""
+"Нажмите и удерживайте кнопку Действия, чтобы вызвать землетрясение, "
+"повреждающее все рядом, включая заклинателя."
+
+msgid "s_Earthquake_1"
+msgstr "Earthquake_1"
+
+msgid "desc_s_Earthquake_1"
+msgstr ""
+
+msgid "s_Gravity"
+msgstr "Гравитация"
+
+msgid "desc_s_Gravity"
+msgstr "Описание на стадии"
+
+msgid "s_Gravity_1"
+msgstr "Gravity_1"
+
+msgid "desc_s_Gravity_1"
+msgstr ""
+
+msgid "s_Impale"
+msgstr "Непроходимый"
+
+msgid "desc_s_Impale"
+msgstr ""
+"Огонь волшебный луч, который заставляет тайные шипы пронзать свою цель.  "
+
+msgid "s_Impale_1"
+msgstr "Impale_1"
+
+msgid "desc_s_Impale_1"
+msgstr ""
+
+msgid "s_Ironskin"
+msgstr "Железная кожа"
+
+msgid "desc_s_Ironskin"
+msgstr "Обеспечивает защиту от оружия."
+
+msgid "s_Ironskin_1"
+msgstr "Ironskin_1"
+
+msgid "desc_s_Ironskin_1"
+msgstr ""
+
+msgid "s_Meteor Strike"
+msgstr "Метеорный удар"
+
+msgid "desc_s_Meteor Strike"
+msgstr "Подводит дождь метеоров, чтобы бомбардировать своих врагов."
+
+msgid "s_Meteor Strike_Impact"
+msgstr "Метеорный удар - воздействие"
+
+msgid "desc_s_Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Proc Meteor Strike"
+msgstr "Метеоритный удар"
+
+msgid "desc_s_Proc Meteor Strike"
+msgstr "Подводит дождь метеоров, чтобы бомбардировать своих врагов."
+
+msgid "s_Proc Meteor Strike_Impact"
+msgstr "Метеорный удар_impact"
+
+msgid "desc_s_Proc Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Pungent Mist"
+msgstr "Острый туман"
+
+msgid "desc_s_Pungent Mist"
+msgstr "Стреляет облако агрессивных паров по вашей цели."
+
+msgid "s_Pungent Mist_1"
+msgstr "Туманный туман_1"
+
+msgid "desc_s_Pungent Mist_1"
+msgstr ""
+
+msgid "s_Stamina Leech"
+msgstr "Стойкая пиявка"
+
+msgid "desc_s_Stamina Leech"
+msgstr ""
+"Огнет волшебный луч, который осушает Стамину цели, передавая ее заклинателю."
+
+msgid "s_Stamina Leech_1"
+msgstr "Выносливость пиявки_1"
+
+msgid "desc_s_Stamina Leech_1"
+msgstr ""
+
+msgid "s_Stamina Leech Hit"
+msgstr "Удар пиявкой по выносливости"
+
+msgid "desc_s_Stamina Leech Hit"
+msgstr ""
+"Огнет волшебный луч, который осушает Стамину цели, передавая ее заклинателю."
+
+msgid "s_Stamina Leech Hit_1"
+msgstr "Стойкость пиявки hit_1"
+
+msgid "desc_s_Stamina Leech Hit_1"
+msgstr ""
+
+msgid "s_Damaging Blow"
+msgstr "Повреждающий удар"
+
+msgid "desc_s_Damaging Blow"
+msgstr "Дополнительный ущерб."
+
+msgid "s_Damaging Blow_1"
+msgstr "Повреждающий удар (1)"
+
+msgid "desc_s_Damaging Blow_1"
+msgstr ""
+
+msgid "s_Bleeding Hit"
+msgstr "Кровоточащий"
+
+msgid "desc_s_Bleeding Hit"
+msgstr "Дополнительный ущерб."
+
+msgid "s_Bleeding Hit_1"
+msgstr "Кровоточащий удар1"
+
+msgid "desc_s_Bleeding Hit_1"
+msgstr ""
+
+msgid "s_Stoneskin"
+msgstr "Каменная ткань"
+
+msgid "desc_s_Stoneskin"
+msgstr "Обеспечивает защиту от атак с применением оружия."
+
+msgid "s_Stoneskin_1"
+msgstr "Stoneskin_1"
+
+msgid "desc_s_Stoneskin_1"
+msgstr ""
+
+msgid "s_Tarnish"
+msgstr "Запятнать"
+
+msgid "desc_s_Tarnish"
+msgstr "Запускает ракету, нанося удар по защите своей цели кислотой."
+
+msgid "s_Tarnish_1"
+msgstr "Tarnish_1"
+
+msgid "desc_s_Tarnish_1"
+msgstr ""
+
+msgid "s_Fire Magic_Spells"
+msgstr "Волшебные заклинания"
+
+msgid "desc_s_Fire Magic_Spells"
+msgstr ""
+"Школа, состоящая в основном из заклинаний, вызывающих огненное разрушение. "
+"Это также учит некоторой быстроте, завораживающей магию."
+
+msgid "s_Dragonbreath"
+msgstr "Dragonbreath"
+
+msgid "desc_s_Dragonbreath"
+msgstr "Продолжающийся шквал огненных искр стреляет в врага."
+
+msgid "s_Dragonbreath_1"
+msgstr "Dragonbreath_1"
+
+msgid "desc_s_Dragonbreath_1"
+msgstr ""
+
+msgid "s_Explosion"
+msgstr "Взрыв"
+
+msgid "desc_s_Explosion"
+msgstr "Производит огненный взрыв, сосредоточенный на заклинателе."
+
+msgid "s_Explosion_fire"
+msgstr "Explosion_fire"
+
+msgid "desc_s_Explosion_fire"
+msgstr ""
+
+msgid "s_Fire Shield"
+msgstr "Огненный щит"
+
+msgid "desc_s_Fire Shield"
+msgstr "Дает кастеру повышенную защиту от огня."
+
+msgid "s_Fire Shield_prot"
+msgstr "Огненный щит_prot"
+
+msgid "desc_s_Fire Shield_prot"
+msgstr ""
+
+msgid "s_Fire Ward"
+msgstr "Пожарная часть"
+
+msgid "desc_s_Fire Ward"
+msgstr "Обеспечивает защиту от огня."
+
+msgid "s_Fire Ward_prot"
+msgstr "Огонь ward_prot"
+
+msgid "desc_s_Fire Ward_prot"
+msgstr ""
+
+msgid "s_Fireball"
+msgstr "Огненный шар"
+
+msgid "desc_s_Fireball"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, нанося огненный урон. "
+
+msgid "s_Fireball_2"
+msgstr "Fireball_2"
+
+msgid "desc_s_Fireball_2"
+msgstr ""
+
+msgid "s_Fireball_Area"
+msgstr "Fireball_Area"
+
+msgid "desc_s_Fireball_Area"
+msgstr ""
+
+msgid "s_Firebolt"
+msgstr "Firebolt"
+
+msgid "desc_s_Firebolt"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, нанося огненный урон. "
+
+msgid "s_Firebolt_area"
+msgstr "Firebolt_area"
+
+msgid "desc_s_Firebolt_area"
+msgstr ""
+
+msgid "s_Haste"
+msgstr "Спешка"
+
+msgid "desc_s_Haste"
+msgstr "Предоставляет цели повышенную скорость атаки ближнего боя."
+
+msgid "s_Haste_1"
+msgstr "Haste_1"
+
+msgid "desc_s_Haste_1"
+msgstr ""
+
+msgid "s_Impetus"
+msgstr "Импульс"
+
+msgid "desc_s_Impetus"
+msgstr "Предоставляет быстрый бонус кастеру."
+
+msgid "s_Impetus_1"
+msgstr "Impetus_1"
+
+msgid "desc_s_Impetus_1"
+msgstr ""
+
+msgid "s_Inferno"
+msgstr "Ад"
+
+msgid "desc_s_Inferno"
+msgstr "Запускает снаряд, который взрывается при ударе, нанося огненный урон."
+
+msgid "s_Inferno_area"
+msgstr "Inferno_area"
+
+msgid "desc_s_Inferno_area"
+msgstr ""
+
+msgid "s_Magma Storm"
+msgstr "Магматический шторм"
+
+msgid "desc_s_Magma Storm"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, нанося огненный урон. Эта "
+"ракета находится под действием гравитации."
+
+msgid "s_Magma Strom_fire"
+msgstr "Магма Стром_Огонь"
+
+msgid "desc_s_Magma Strom_fire"
+msgstr ""
+
+msgid "s_Rapid Shot"
+msgstr "Быстрый выстрел"
+
+msgid "desc_s_Rapid Shot"
+msgstr "Предоставляет цели повышенную дистанционную скорость атаки."
+
+msgid "s_Rapid Shot_1"
+msgstr "Быстрый выстрел1"
+
+msgid "desc_s_Rapid Shot_1"
+msgstr ""
+
+msgid "s_Smoke Signal"
+msgstr "Дымовой сигнал"
+
+msgid "desc_s_Smoke Signal"
+msgstr "Создает столб дыма, поднимающийся от цели."
+
+msgid "s_Smoke Signal_1"
+msgstr "Сигнал дыма1"
+
+msgid "desc_s_Smoke Signal_1"
+msgstr ""
+
+msgid "s_Volcano"
+msgstr "Вулкан"
+
+msgid "desc_s_Volcano"
+msgstr ""
+"Волшебный луч, который заставляет расплавленную скалу выпрыгивать из земли, "
+"нанося ущерб Огню."
+
+msgid "s_Volcano_1"
+msgstr "Volcano_1"
+
+msgid "desc_s_Volcano_1"
+msgstr ""
+
+msgid "s_Wall of Fire"
+msgstr "Стена огня"
+
+msgid "desc_s_Wall of Fire"
+msgstr ""
+"Огонь — это волшебный луч, который создает большую сферу огня при попадании "
+"в цель."
+
+msgid "s_Wall of Fire_1"
+msgstr "Огненная стена_1"
+
+msgid "desc_s_Wall of Fire_1"
+msgstr ""
+
+msgid "s_Weakening Blaze"
+msgstr "Ослабление пламени"
+
+msgid "desc_s_Weakening Blaze"
+msgstr "Запускает ракету, нанося удар по противопожарной защите своей цели."
+
+msgid "s_Weakening Blaze_1"
+msgstr "Ослабление пламени_1"
+
+msgid "desc_s_Weakening Blaze_1"
+msgstr ""
+
+msgid "s_Greater Magic_Spells"
+msgstr "Большие волшебные заклинания"
+
+msgid "desc_s_Greater Magic_Spells"
+msgstr ""
+"Большая Магия - это универсальная школа, состоящая из наступательных и "
+"оборонительных заклинаний различного характера. Среди прочего, он учит, как "
+"нанести врагу яд или раны, которые чрезмерно кровоточат."
+
+msgid "s_Beacon"
+msgstr "Маяк"
+
+msgid "desc_s_Beacon"
+msgstr "Луч, который создает визуальный маркер на своей цели."
+
+msgid "s_Beacon_1"
+msgstr "Beacon_1"
+
+msgid "desc_s_Beacon_1"
+msgstr ""
+
+msgid "s_Begone"
+msgstr "Упущенный"
+
+msgid "desc_s_Begone"
+msgstr ""
+"Взрыв вулкана в основном используется для толкания или вытягивания целей."
+
+msgid "s_Begone_1"
+msgstr "Begone_1"
+
+msgid "desc_s_Begone_1"
+msgstr ""
+
+msgid "s_Confusion"
+msgstr "Путаница"
+
+msgid "desc_s_Confusion"
+msgstr "Ракета, создающая вспышку, ослепляет зрителей при ударе."
+
+msgid "s_Confusion_1"
+msgstr "Confusion_1"
+
+msgid "desc_s_Confusion_1"
+msgstr ""
+
+msgid "s_Disabling Bolt"
+msgstr "Отключающий болт"
+
+msgid "desc_s_Disabling Bolt"
+msgstr ""
+"Атака, из-за которой ваш противник не может парировать в течение короткого "
+"времени."
+
+msgid "s_Disabling Bolt_1"
+msgstr "Отключение болта_1"
+
+msgid "desc_s_Disabling Bolt_1"
+msgstr ""
+
+msgid "s_Disabling Bolt_2"
+msgstr "Отключение болта_2"
+
+msgid "desc_s_Disabling Bolt_2"
+msgstr ""
+
+msgid "s_Flesh Curse"
+msgstr "Плоть проклятие"
+
+msgid "desc_s_Flesh Curse"
+msgstr "Запускает ракету, снижающую защиту от заражения цели. "
+
+msgid "s_Flesh Curse_1"
+msgstr "Проклятие плоти1"
+
+msgid "desc_s_Flesh Curse_1"
+msgstr ""
+
+msgid "s_Frailty"
+msgstr "Слабость"
+
+msgid "desc_s_Frailty"
+msgstr "Запускает ракету, нанося удар по сопротивлению цели от повреждений."
+
+msgid "s_Frailty_1"
+msgstr "Frailty_1"
+
+msgid "desc_s_Frailty_1"
+msgstr ""
+
+msgid "s_Heal Other"
+msgstr "Исцеление другого"
+
+msgid "desc_s_Heal Other"
+msgstr "Исцеляющий луч, который восстанавливает здоровье цели."
+
+msgid "s_Heal Other_1"
+msgstr "Исцелять других_1"
+
+msgid "desc_s_Heal Other_1"
+msgstr ""
+
+msgid "s_Infliction Shield"
+msgstr "Нанесение щита"
+
+msgid "desc_s_Infliction Shield"
+msgstr "Предоставляет кастеру повышенную защиту от инфекций."
+
+msgid "s_Infliction Shield_1"
+msgstr "Нанесение щита_1"
+
+msgid "desc_s_Infliction Shield_1"
+msgstr ""
+
+msgid "s_Infliction Ward"
+msgstr "Нанесение удара"
+
+msgid "desc_s_Infliction Ward"
+msgstr "Гранты нацелены на усиление защиты от инфекций."
+
+msgid "s_Infliction Ward_1"
+msgstr "Причинение вреда ward_1"
+
+msgid "desc_s_Infliction Ward_1"
+msgstr ""
+
+msgid "s_Insight"
+msgstr "Проницательность"
+
+msgid "desc_s_Insight"
+msgstr "Награждает заклинателя бонусом Мудрости."
+
+msgid "s_Insight_1"
+msgstr "Insight_1"
+
+msgid "desc_s_Insight_1"
+msgstr ""
+
+msgid "s_Levitation"
+msgstr "Левитация"
+
+msgid "desc_s_Levitation"
+msgstr ""
+"Создает временную колонну силы, которая будет левитировать любого в пределах"
+" своей области."
+
+msgid "s_Levitation_1"
+msgstr "Levitation_1"
+
+msgid "desc_s_Levitation_1"
+msgstr ""
+
+msgid "s_Missile Fury"
+msgstr "Ракетная ярость"
+
+msgid "desc_s_Missile Fury"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, вызывая повреждение Аркана."
+
+msgid "s_Missile Fury_1"
+msgstr "Ракета Фьюри_1"
+
+msgid "desc_s_Missile Fury_1"
+msgstr ""
+
+msgid "s_Rend"
+msgstr "Сгибать"
+
+msgid "desc_s_Rend"
+msgstr ""
+"Запускает ракету, которая взрывается при ударе, нанося кровоточащий ущерб, а"
+" также налагая штраф за пирсинг."
+
+msgid "s_Rend_1"
+msgstr "Rend_1"
+
+msgid "desc_s_Rend_1"
+msgstr ""
+
+msgid "s_Rend_2"
+msgstr "Rend_2"
+
+msgid "desc_s_Rend_2"
+msgstr ""
+
+msgid "s_Proc Rend"
+msgstr "Прок-ранд"
+
+msgid "desc_s_Proc Rend"
+msgstr "Прок-эффектная версия ренда."
+
+msgid "s_Proc Rend_1"
+msgstr "Proc rend_1"
+
+msgid "desc_s_Proc Rend_1"
+msgstr ""
+
+msgid "s_Shield of Protection"
+msgstr "Щит защиты"
+
+msgid "desc_s_Shield of Protection"
+msgstr ""
+"Возникает мистический барьер, защищающий заклинателя от нападения оружия. Не"
+" складывается ни с какой другой подобной защитой, включая броню."
+
+msgid "s_Shield of Protection_1"
+msgstr "Щит защиты_1"
+
+msgid "desc_s_Shield of Protection_1"
+msgstr ""
+
+msgid "s_Impulse"
+msgstr "Импульс"
+
+msgid "desc_s_Impulse"
+msgstr ""
+"Сфера чистой тайной силы, в первую очередь используемая для перемещения "
+"целей."
+
+msgid "s_Impulse_1"
+msgstr "Impulse_1"
+
+msgid "desc_s_Impulse_1"
+msgstr ""
+
+msgid "s_Telekinesis"
+msgstr "Телекинез"
+
+msgid "desc_s_Telekinesis"
+msgstr "Колонна телекинетической силы, которая поднимает любого внутри."
+
+msgid "s_Telekinesis_1"
+msgstr "Telekinesis_1"
+
+msgid "desc_s_Telekinesis_1"
+msgstr ""
+
+msgid "s_Unburden"
+msgstr "Непогружать"
+
+msgid "desc_s_Unburden"
+msgstr "Уменьшает обременение заклинателя."
+
+msgid "s_Unburden_1"
+msgstr "Unburden_1"
+
+msgid "desc_s_Unburden_1"
+msgstr ""
+
+msgid "s_Venom"
+msgstr "Яд"
+
+msgid "desc_s_Venom"
+msgstr ""
+"Запускает ракету, нанося ядовитый урон своей цели и понижая максимальное "
+"здоровье."
+
+msgid "s_Venom_2"
+msgstr "Venom_2"
+
+msgid "desc_s_Venom_2"
+msgstr ""
+
+msgid "s_Venom_Acid"
+msgstr "Venom_Acid"
+
+msgid "desc_s_Venom_Acid"
+msgstr ""
+
+msgid "s_Lesser Magic_Spells"
+msgstr "Меньшие магические заклинания"
+
+msgid "desc_s_Lesser Magic_Spells"
+msgstr ""
+"Ваша первая школа магии состоит из основных заклинаний поддержки, "
+"необходимых для вашего выживания. Он предлагает различные заклинания "
+"исцеления и некоторые оскорбительные и полезные заклинания.  "
+
+msgid "s_Blast"
+msgstr "Взрыв"
+
+msgid "desc_s_Blast"
+msgstr ""
+"Запускает ракету, нанося Аркану ущерб своей цели и снижая его упругость."
+
+msgid "s_Blast_1"
+msgstr "Blast_1"
+
+msgid "desc_s_Blast_1"
+msgstr ""
+
+msgid "s_Blast_2"
+msgstr "Blast_2"
+
+msgid "desc_s_Blast_2"
+msgstr ""
+
+msgid "s_Blast_3"
+msgstr "Blast_3"
+
+msgid "desc_s_Blast_3"
+msgstr ""
+
+msgid "s_Burden"
+msgstr "Бремя"
+
+msgid "desc_s_Burden"
+msgstr ""
+"Запускает ракету, наносящую пенальти Обременения своей цели, мешая их литью "
+"или стрельбе из лука."
+
+msgid "s_Burden_1"
+msgstr "Burden_1"
+
+msgid "desc_s_Burden_1"
+msgstr ""
+
+msgid "s_Eldritch Sphere"
+msgstr "Сфера эльдрич"
+
+msgid "desc_s_Eldritch Sphere"
+msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб Аркану."
+
+msgid "s_Eldritch Sphere_1"
+msgstr "Элдрич Сфера_1"
+
+msgid "desc_s_Eldritch Sphere_1"
+msgstr ""
+
+msgid "s_Heal Mount"
+msgstr "Исцелить гору"
+
+msgid "desc_s_Heal Mount"
+msgstr "Огнет волшебный луч, который пополняет здоровье горы."
+
+msgid "s_Heal Mount_1"
+msgstr "Выздоравливающий mount_1"
+
+msgid "desc_s_Heal Mount_1"
+msgstr ""
+
+msgid "s_Heal Self"
+msgstr "Самоисцеление"
+
+msgid "desc_s_Heal Self"
+msgstr ""
+"Кастер восстанавливает небольшое количество здоровья. Это заклинание не "
+"требует никаких реагентов для литья."
+
+msgid "s_Heal Self_1"
+msgstr "Исцеление себя_1"
+
+msgid "desc_s_Heal Self_1"
+msgstr ""
+
+msgid "s_Health to Mana"
+msgstr "Здоровье для маны"
+
+msgid "desc_s_Health to Mana"
+msgstr "Кастер увеличивает свою собственную ману, ценой потери здоровья."
+
+msgid "s_Health to Mana_1"
+msgstr "Здравоохранение в Мана-1"
+
+msgid "desc_s_Health to Mana_1"
+msgstr ""
+
+msgid "s_Launch"
+msgstr "Запуск"
+
+msgid "desc_s_Launch"
+msgstr "Огонь волшебного луча, который вызывает всплеск энергии."
+
+msgid "s_Launch_1"
+msgstr "Launch_1"
+
+msgid "desc_s_Launch_1"
+msgstr ""
+
+msgid "s_Lay on Hands"
+msgstr "Лежать на руках"
+
+msgid "desc_s_Lay on Hands"
+msgstr "Волшебный луч, который исцеляет свою цель."
+
+msgid "s_Lay on Hands_1"
+msgstr "Положитесь на руки_1"
+
+msgid "desc_s_Lay on Hands_1"
+msgstr ""
+
+msgid "s_Light"
+msgstr "Свет"
+
+msgid "desc_s_Light"
+msgstr "Заклинает танцующие сферы света."
+
+msgid "s_Light_1"
+msgstr "Light_1"
+
+msgid "desc_s_Light_1"
+msgstr ""
+
+msgid "s_Magic Shield"
+msgstr "Магический щит"
+
+msgid "desc_s_Magic Shield"
+msgstr "Создает магический барьер вокруг заклинателя."
+
+msgid "s_Magic Shield_resist"
+msgstr "Магический щит_сопротивление"
+
+msgid "desc_s_Magic Shield_resist"
+msgstr ""
+
+msgid "s_Magic Ward"
+msgstr "Волшебное отделение"
+
+msgid "desc_s_Magic Ward"
+msgstr "Луч, создающий защитный барьер вокруг цели."
+
+msgid "s_Magic Ward_resist"
+msgstr "Магия ward_resist"
+
+msgid "desc_s_Magic Ward_resist"
+msgstr ""
+
+msgid "s_Mana Drain"
+msgstr "Утечка маны"
+
+msgid "desc_s_Mana Drain"
+msgstr "Огнет волшебный луч, который истощает Ману своей цели."
+
+msgid "s_Mana Drain_Drain"
+msgstr "Mana drain_drain"
+
+msgid "desc_s_Mana Drain_Drain"
+msgstr ""
+
+msgid "s_Mana Missile"
+msgstr "Снаряд маны"
+
+msgid "desc_s_Mana Missile"
+msgstr ""
+"Запускает ракету, которая наносит ущерб Аркану. Это самое слабое заклинание "
+"повреждения, но не требует реагентов. "
+
+msgid "s_Mana Missile_Arcane"
+msgstr "Мана ракета_arcane"
+
+msgid "desc_s_Mana Missile_Arcane"
+msgstr "Описание ракеты s_mana_1"
+
+msgid "s_Mana to Stamina"
+msgstr "Мана для выносливости"
+
+msgid "desc_s_Mana to Stamina"
+msgstr "Кастер увеличивает свою собственную Стамину, ценой потери Маны."
+
+msgid "s_Mana to Stamina_1"
+msgstr "Мана для выносливости_1"
+
+msgid "desc_s_Mana to Stamina_1"
+msgstr ""
+
+msgid "s_Stamina to Health"
+msgstr "Выносливость к здоровью"
+
+msgid "desc_s_Stamina to Health"
+msgstr "Кастер укрепляет свое здоровье ценой потери Стамины."
+
+msgid "s_Stamina to Health_1"
+msgstr "Выносливость к здоровью_1"
+
+msgid "desc_s_Stamina to Health_1"
+msgstr ""
+
+msgid "s_Necromancy_Spells"
+msgstr "Заклинания некромантии"
+
+msgid "desc_s_Necromancy_Spells"
+msgstr ""
+"Некромантия черпает силу из владений мертвых, чтобы подпитывать свою "
+"нечестивую магию. Его наступательные заклинания очень сильны, как и его "
+"изнурительные атаки."
+
+msgid "s_Bludgeoning Weakness"
+msgstr "Слабость кашля"
+
+msgid "desc_s_Bludgeoning Weakness"
+msgstr "Запускает ракету, нанося пенальти защите своей цели.  "
+
+msgid "s_Bludgeoning Weakness_1"
+msgstr "Слабость кашля_1"
+
+msgid "desc_s_Bludgeoning Weakness_1"
+msgstr ""
+
+msgid "s_Cake and Fine Wine"
+msgstr "Торт и прекрасное вино"
+
+msgid "desc_s_Cake and Fine Wine"
+msgstr "Тестовый навык без случайности к повреждению."
+
+msgid "s_Cake and Fine Wine_1"
+msgstr "Пирог и прекрасное вино1"
+
+msgid "desc_s_Cake and Fine Wine_1"
+msgstr ""
+
+msgid "s_Cursed Bolt"
+msgstr "Проклятый болт"
+
+msgid "desc_s_Cursed Bolt"
+msgstr "Запускает ракету, нанося нечестивый урон."
+
+msgid "s_Cursed Bolt_1"
+msgstr "Проклятый болт_1"
+
+msgid "desc_s_Cursed Bolt_1"
+msgstr ""
+
+msgid "s_Death Fog"
+msgstr "Туман смерти"
+
+msgid "desc_s_Death Fog"
+msgstr "Огонь – это волшебный луч, который приносит нечестивый туман. "
+
+msgid "s_Death Fog_1"
+msgstr "Туман смерти_1"
+
+msgid "desc_s_Death Fog_1"
+msgstr ""
+
+msgid "s_Desecration"
+msgstr "Осквернение"
+
+msgid "desc_s_Desecration"
+msgstr "Запускает ракету, нанося пенальти нечестивой защите своей цели."
+
+msgid "s_Desecration_1"
+msgstr "Desecration_1"
+
+msgid "desc_s_Desecration_1"
+msgstr ""
+
+msgid "s_Evil Eye"
+msgstr "Злой глаз"
+
+msgid "desc_s_Evil Eye"
+msgstr ""
+"Запускает ракету, которая уменьшает вероятность того, что ее цель сведет на "
+"нет эффект заклинания."
+
+msgid "s_Evil Eye_1"
+msgstr "Злой глаз (1)"
+
+msgid "desc_s_Evil Eye_1"
+msgstr ""
+
+msgid "s_Eye Rot"
+msgstr "Глаз гнилой"
+
+msgid "desc_s_Eye Rot"
+msgstr ""
+"Ракета, нарушающая координацию цели.  Это приводит к кровоизлиянию и "
+"наказанию Декстерити и Интеллекта."
+
+msgid "s_Eye Rot_1"
+msgstr "Глазная гниль 1"
+
+msgid "desc_s_Eye Rot_1"
+msgstr ""
+
+msgid "s_Eye Rot_2"
+msgstr "Глазная гниль 2"
+
+msgid "desc_s_Eye Rot_2"
+msgstr ""
+
+msgid "s_Eye Rot_3"
+msgstr "Глазная гниль 3"
+
+msgid "desc_s_Eye Rot_3"
+msgstr ""
+
+msgid "s_Infernal Shield"
+msgstr "Адский щит"
+
+msgid "desc_s_Infernal Shield"
+msgstr "Гранты усиливают защиту от нечестивых повреждений."
+
+msgid "s_Infernal Shield_1"
+msgstr "Адский щит_1"
+
+msgid "desc_s_Infernal Shield_1"
+msgstr ""
+
+msgid "s_Infernal Ward"
+msgstr "Адская палата"
+
+msgid "desc_s_Infernal Ward"
+msgstr "Предоставляет целевую защиту от нечестивых повреждений."
+
+msgid "s_Infernal Ward_1"
+msgstr "Адская палата_1"
+
+msgid "desc_s_Infernal Ward_1"
+msgstr ""
+
+msgid "s_Mental Weakness"
+msgstr "Психическая слабость"
+
+msgid "desc_s_Mental Weakness"
+msgstr "Запускает ракету, наносящую пенальти психической защите цели."
+
+msgid "s_Mental Weakness_1"
+msgstr "Психическая слабость1"
+
+msgid "desc_s_Mental Weakness_1"
+msgstr ""
+
+msgid "s_Piercing Weakness"
+msgstr "Пронзительная слабость"
+
+msgid "desc_s_Piercing Weakness"
+msgstr "Запускает ракету, нанося пенальти защите своей цели."
+
+msgid "s_Piercing Weakness_1"
+msgstr "Пронзительная слабость_1"
+
+msgid "desc_s_Piercing Weakness_1"
+msgstr ""
+
+msgid "s_Slashing Weakness"
+msgstr "Сокращение слабости"
+
+msgid "desc_s_Slashing Weakness"
+msgstr "Запускает ракету, нанося пенальти защите своей цели."
+
+msgid "s_Slashing Weakness_1"
+msgstr "Сокращение слабости_1"
+
+msgid "desc_s_Slashing Weakness_1"
+msgstr ""
+
+msgid "s_Undeath"
+msgstr "Несмерть"
+
+msgid "desc_s_Undeath"
+msgstr ""
+"Запускает ракету, которая наносит проклятие своей цели, уменьшая или даже "
+"отрицая естественную регенерацию здоровья."
+
+msgid "s_Undeath_1"
+msgstr "Undeath_1"
+
+msgid "desc_s_Undeath_1"
+msgstr ""
+
+msgid "s_Unholy Caress"
+msgstr "Нечестивая ласка"
+
+msgid "desc_s_Unholy Caress"
+msgstr "Пожарная линия наносит нечестивый урон одной цели. "
+
+msgid "s_Unholy Caress_1"
+msgstr "Нечестивая ласка_1"
+
+msgid "desc_s_Unholy Caress_1"
+msgstr ""
+
+msgid "s_Unholy Flames"
+msgstr "Нечестивое пламя"
+
+msgid "desc_s_Unholy Flames"
+msgstr ""
+"Стреляет снаряд, который взрывается при ударе, нанося нечестивый урон. "
+
+msgid "s_Unholy Flames_area"
+msgstr "Нечестивое пламя"
+
+msgid "desc_s_Unholy Flames_area"
+msgstr ""
+
+msgid "s_Proc Unholy Flames"
+msgstr "Альбом: Unholy Fires"
+
+msgid "desc_s_Proc Unholy Flames"
+msgstr ""
+"Стреляет снаряд, который взрывается при ударе, нанося нечестивый урон. "
+
+msgid "s_Proc Unholy Flames_area"
+msgstr "Исполнитель: Unholy Fires"
+
+msgid "desc_s_Proc Unholy Flames_area"
+msgstr ""
+
+msgid "s_Vampiric Touch"
+msgstr "Вампирское прикосновение"
+
+msgid "desc_s_Vampiric Touch"
+msgstr ""
+"Огнет волшебный луч, который истощает здоровье цели, передавая его "
+"заклинателю. "
+
+msgid "s_Vampiric Touch_1"
+msgstr "Вампирическое прикосновение_1"
+
+msgid "desc_s_Vampiric Touch_1"
+msgstr ""
+
+msgid "s_Ritual Magic_Spells"
+msgstr "Ритуальные магические заклинания"
+
+msgid "desc_s_Ritual Magic_Spells"
+msgstr ""
+
+msgid "s_Spell Chanting_Spells"
+msgstr "Заклинания скандирования"
+
+msgid "desc_s_Spell Chanting_Spells"
+msgstr ""
+"Эта школа специализируется на предоставлении бонусов компаньонам, а не "
+"нанесении ущерба врагам. Таким образом, воспевание заклинаний ценно в "
+"вечеринке, но гораздо меньше - самостоятельно."
+
+msgid "s_Adept"
+msgstr "Адепт"
+
+msgid "desc_s_Adept"
+msgstr "Уменьшает шансы заклинателя на провал."
+
+msgid "s_Adept_1"
+msgstr "Adept_1"
+
+msgid "desc_s_Adept_1"
+msgstr ""
+
+msgid "s_Bless Other"
+msgstr "Благослови других"
+
+msgid "desc_s_Bless Other"
+msgstr "Обеспечивает целевую защиту от атак."
+
+msgid "s_Bless Other_1"
+msgstr "Благослови других_1"
+
+msgid "desc_s_Bless Other_1"
+msgstr ""
+
+msgid "s_Blessing"
+msgstr "Благословение"
+
+msgid "desc_s_Blessing"
+msgstr "Обеспечивает защиту от атак Malediction."
+
+msgid "s_Blessing_1"
+msgstr "Blessing_1"
+
+msgid "desc_s_Blessing_1"
+msgstr ""
+
+msgid "s_Healing Chant"
+msgstr "Исцеляющий песнь"
+
+msgid "desc_s_Healing Chant"
+msgstr "Создает целительную сферу вокруг заклинателя."
+
+msgid "s_Healing Chant_1"
+msgstr "Исцеляющий песнь_1"
+
+msgid "desc_s_Healing Chant_1"
+msgstr "Описание s_healing chant_1"
+
+msgid "s_Hymn of Intellect"
+msgstr "Гимн интеллекта"
+
+msgid "desc_s_Hymn of Intellect"
+msgstr "Луч, который дает бонус к интеллекту цели."
+
+msgid "s_Hymn of Intellect_1"
+msgstr "Гимн интеллекта_1"
+
+msgid "desc_s_Hymn of Intellect_1"
+msgstr ""
+
+msgid "s_Hymn of Might"
+msgstr "Гимн могущества"
+
+msgid "desc_s_Hymn of Might"
+msgstr "Луч, который дает бонус к силе цели."
+
+msgid "s_Hymn of Might_1"
+msgstr "Песня «Might_1»"
+
+msgid "desc_s_Hymn of Might_1"
+msgstr ""
+
+msgid "s_Hymn of Skill"
+msgstr "Гимн мастерства"
+
+msgid "desc_s_Hymn of Skill"
+msgstr "Луч, который дает бонус к ловкости цели."
+
+msgid "s_Hymn of Skill_1"
+msgstr "Гимн мастерства_1"
+
+msgid "desc_s_Hymn of Skill_1"
+msgstr ""
+
+msgid "s_Hymn of Swiftness"
+msgstr "Гимн стремительности"
+
+msgid "desc_s_Hymn of Swiftness"
+msgstr "Луч, который дает бонус к быстроте цели."
+
+msgid "s_Hymn of Swiftness_1"
+msgstr "Гимн быстроты_1"
+
+msgid "desc_s_Hymn of Swiftness_1"
+msgstr ""
+
+msgid "s_Hymn of Vigor"
+msgstr "Гимн бодрости"
+
+msgid "desc_s_Hymn of Vigor"
+msgstr "Волшебный луч, который дает бонус к Жизнеспособности цели."
+
+msgid "s_Hymn of Vigor_1"
+msgstr "Гимн бодрости_1"
+
+msgid "desc_s_Hymn of Vigor_1"
+msgstr ""
+
+msgid "s_Mana Blast"
+msgstr "Взрыв маны"
+
+msgid "desc_s_Mana Blast"
+msgstr "Огонь волшебного луча, который вызывает взрыв Аркана."
+
+msgid "s_Mana Blast_1"
+msgstr "Мануальный взрыв_1"
+
+msgid "desc_s_Mana Blast_1"
+msgstr ""
+
+msgid "s_Max Health Bonus"
+msgstr "Максимальный бонус за здоровье"
+
+msgid "desc_s_Max Health Bonus"
+msgstr "Временно повышает максимальное здоровье заклинателя."
+
+msgid "s_Max Health Bonus_1"
+msgstr "Максимальный бонус здоровья_1"
+
+msgid "desc_s_Max Health Bonus_1"
+msgstr ""
+
+msgid "s_Max Mana Bonus"
+msgstr "Макс Мана Бонус"
+
+msgid "desc_s_Max Mana Bonus"
+msgstr "Временно увеличивает максимальную ману заклинателя."
+
+msgid "s_Max Mana Bonus_1"
+msgstr "Макс Мана Бонус_1"
+
+msgid "desc_s_Max Mana Bonus_1"
+msgstr ""
+
+msgid "s_Max Stamina Bonus"
+msgstr "Максимальная выносливость бонус"
+
+msgid "desc_s_Max Stamina Bonus"
+msgstr "Временно увеличивает максимальную Стамину заклинателя."
+
+msgid "s_Max Stamina Bonus_1"
+msgstr "Максимальная выносливость бонус_1"
+
+msgid "desc_s_Max Stamina Bonus_1"
+msgstr ""
+
+msgid "s_Sacrifice"
+msgstr "Жертва"
+
+msgid "desc_s_Sacrifice"
+msgstr "Луч, который передает здоровье от заклинателя к цели."
+
+msgid "s_Sacrifice_1"
+msgstr "Sacrifice_1"
+
+msgid "desc_s_Sacrifice_1"
+msgstr ""
+
+msgid "s_Replenish"
+msgstr "Пополнять"
+
+msgid "desc_s_Replenish"
+msgstr ""
+"единичный лечебный эффект, используемый с пополнением ударных эффектов."
+
+msgid "s_Replenish_1"
+msgstr "Replenish_1"
+
+msgid "desc_s_Replenish_1"
+msgstr ""
+
+msgid "s_Replenish all"
+msgstr "Пополнить все"
+
+msgid "desc_s_Replenish all"
+msgstr ""
+"исцелять все атрибуты эффекта, используемые с пополнением ударных эффектов."
+
+msgid "s_Replenish all_1"
+msgstr "Пополнить все_1"
+
+msgid "desc_s_Replenish all_1"
+msgstr ""
+
+msgid "s_Replenish all_2"
+msgstr "Пополнить все_2"
+
+msgid "desc_s_Replenish all_2"
+msgstr ""
+
+msgid "s_Replenish all_3"
+msgstr "Пополнить все_3"
+
+msgid "desc_s_Replenish all_3"
+msgstr ""
+
+msgid "s_Soothing Chant"
+msgstr "Успокаивающее пение"
+
+msgid "desc_s_Soothing Chant"
+msgstr ""
+"Нажмите и удерживайте кнопку Действия, чтобы исцелить близлежащие крепления."
+
+msgid "s_Soothing Chant_1"
+msgstr "Успокаивающее песнопение_1"
+
+msgid "desc_s_Soothing Chant_1"
+msgstr ""
+
+msgid "s_Water Magic_Spells"
+msgstr "Волшебные заклинания воды"
+
+msgid "desc_s_Water Magic_Spells"
+msgstr ""
+"Школа воды дарит заклинания, которые наносят ущерб от ледяных осколков или "
+"сверхъестественно интенсивного охлаждения, а также магию для замедления "
+"целей."
+
+msgid "s_Blizzard"
+msgstr "Метель"
+
+msgid "desc_s_Blizzard"
+msgstr ""
+"Запускает ракету, которая взрывается при ударе, нанося холодный ущерб. "
+
+msgid "s_Blizzard_1"
+msgstr "Blizzard_1"
+
+msgid "desc_s_Blizzard_1"
+msgstr ""
+
+msgid "s_Proc Blizzard"
+msgstr "Проклятая метель"
+
+msgid "desc_s_Proc Blizzard"
+msgstr ""
+"Запускает ракету, которая взрывается при ударе, нанося холодный ущерб. "
+
+msgid "s_Proc Blizzard_1"
+msgstr "Исполнитель: Blizzard_1"
+
+msgid "desc_s_Proc Blizzard_1"
+msgstr ""
+
+msgid "s_Clear Thoughts"
+msgstr "Ясные мысли"
+
+msgid "desc_s_Clear Thoughts"
+msgstr "Предоставляет разведывательную премию кастеру."
+
+msgid "s_Clear Thoughts_1"
+msgstr "Ясные мысли1"
+
+msgid "desc_s_Clear Thoughts_1"
+msgstr ""
+
+msgid "s_Cold Shield"
+msgstr "Холодный щит"
+
+msgid "desc_s_Cold Shield"
+msgstr "Предоставляет кастеру повышенную защиту от холода."
+
+msgid "s_Cold Shield_prot"
+msgstr "Холодный щит_prot"
+
+msgid "desc_s_Cold Shield_prot"
+msgstr ""
+
+msgid "s_Cold Ward"
+msgstr "Холодная палата"
+
+msgid "desc_s_Cold Ward"
+msgstr "Обеспечивает защиту от холода."
+
+msgid "s_Cold Ward_1"
+msgstr "Холодный гардероб_1"
+
+msgid "desc_s_Cold Ward_1"
+msgstr ""
+
+msgid "s_Delayed Shot"
+msgstr "Задержка выстрела"
+
+msgid "desc_s_Delayed Shot"
+msgstr ""
+"Запускает ракету, нанося пенальти скорости атаки цели с помощью оружия "
+"дальнего радиуса действия.  "
+
+msgid "s_Delayed Shot_1"
+msgstr "Задержка выстрела_1"
+
+msgid "desc_s_Delayed Shot_1"
+msgstr ""
+
+msgid "s_Frostbite"
+msgstr "Обморожение"
+
+msgid "desc_s_Frostbite"
+msgstr "Огненный луч сильного холода повреждает все на своем пути."
+
+msgid "s_Frostbite_1"
+msgstr "Frostbite_1"
+
+msgid "desc_s_Frostbite_1"
+msgstr ""
+
+msgid "s_Gills"
+msgstr "Жабры"
+
+msgid "desc_s_Gills"
+msgstr "Гранты увеличили емкость легких для заклинателя."
+
+msgid "s_Gills_1"
+msgstr "Gills_1"
+
+msgid "desc_s_Gills_1"
+msgstr ""
+
+msgid "s_Ice Storm"
+msgstr "Ледяной шторм"
+
+msgid "desc_s_Ice Storm"
+msgstr ""
+"Огнет волшебный луч, который вызывает бурю сильного холода при попадании в "
+"цель."
+
+msgid "s_Ice Storm_1"
+msgstr "Ледяной шторм1"
+
+msgid "desc_s_Ice Storm_1"
+msgstr ""
+
+msgid "s_Icicle"
+msgstr "Сосулька"
+
+msgid "desc_s_Icicle"
+msgstr "Запускает ракету, нанося холодный урон своей цели."
+
+msgid "s_Icicle_Cold"
+msgstr "Icicle_Cold"
+
+msgid "desc_s_Icicle_Cold"
+msgstr "Описание ракеты s_mana_1"
+
+msgid "s_Shards"
+msgstr "Осколки"
+
+msgid "desc_s_Shards"
+msgstr ""
+"Запускает снаряд, который взрывается при ударе, вызывая повреждение холодом."
+
+msgid "s_Shards_2"
+msgstr "Shards_2"
+
+msgid "desc_s_Shards_2"
+msgstr ""
+
+msgid "s_Shards_Cold"
+msgstr "Shards_Cold"
+
+msgid "desc_s_Shards_Cold"
+msgstr ""
+
+msgid "s_Slow"
+msgstr "Медленный"
+
+msgid "desc_s_Slow"
+msgstr ""
+"Запускает ракету, нанося удар по скорости атаки своей цели при использовании"
+" оружия ближнего боя."
+
+msgid "s_Slow_1"
+msgstr "Slow_1"
+
+msgid "desc_s_Slow_1"
+msgstr ""
+
+msgid "s_Toxic Rain"
+msgstr "Токсичный дождь"
+
+msgid "desc_s_Toxic Rain"
+msgstr ""
+"Пожарный луч, который вызывает в воображении волшебный ливень, наносящий "
+"ущерб яду."
+
+msgid "s_Toxic Rain_1"
+msgstr "Токсичные дожди1"
+
+msgid "desc_s_Toxic Rain_1"
+msgstr ""
+
+msgid "s_Water Breathing"
+msgstr "Вода дышит"
+
+msgid "desc_s_Water Breathing"
+msgstr "Предоставляет мишени увеличение емкости легких."
+
+msgid "s_Water Breathing_1"
+msgstr "Дыхание водой1"
+
+msgid "desc_s_Water Breathing_1"
+msgstr ""
+
+msgid "s_Weakening Chill"
+msgstr "Ослабление холода"
+
+msgid "desc_s_Weakening Chill"
+msgstr "Запускает ракету, нанося пенальти холодной защите цели."
+
+msgid "s_Weakening Chill_1"
+msgstr "Ослабление холода_1"
+
+msgid "desc_s_Weakening Chill_1"
+msgstr ""
+
+msgid "s_Wild Magic_Spells"
+msgstr "Волшебные заклинания"
+
+msgid "desc_s_Wild Magic_Spells"
+msgstr "Описание игры s_wild magic_spells"
+
+msgid "s_Acid Explosion"
+msgstr "Кислотный взрыв"
+
+msgid "desc_s_Acid Explosion"
+msgstr ""
+
+msgid "s_Acid Explosion_1"
+msgstr "Кислотный взрыв1"
+
+msgid "desc_s_Acid Explosion_1"
+msgstr ""
+
+msgid "s_Antitank Spell"
+msgstr "Противотанковое заклинание"
+
+msgid "desc_s_Antitank Spell"
+msgstr ""
+
+msgid "s_Antitank Spell_1"
+msgstr "Противотанковое заклинание_1"
+
+msgid "desc_s_Antitank Spell_1"
+msgstr ""
+
+msgid "s_Dragon Acid Blast"
+msgstr "Драконовая кислота"
+
+msgid "desc_s_Dragon Acid Blast"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_acid"
+msgstr "Dragon acid blast_acid - Драконовая кислота"
+
+msgid "desc_s_Dragon Acid Blast_acid"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_impact"
+msgstr "Драконовая кислота blast_act"
+
+msgid "desc_s_Dragon Acid Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Acid Breath"
+msgstr "Дыхание драконовой кислоты"
+
+msgid "desc_s_Dragon Acid Breath"
+msgstr ""
+
+msgid "s_Dragon Acid Breath_1"
+msgstr "Дыхание драконовой кислоты1"
+
+msgid "desc_s_Dragon Acid Breath_1"
+msgstr ""
+
+msgid "s_Dragon Cold Blast"
+msgstr "Дракон холодный"
+
+msgid "desc_s_Dragon Cold Blast"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_cold"
+msgstr "Дракон холодный взрыв"
+
+msgid "desc_s_Dragon Cold Blast_cold"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_impact"
+msgstr "Дракон холодный взрыв"
+
+msgid "desc_s_Dragon Cold Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Cold Breath"
+msgstr "Дракон холодное дыхание"
+
+msgid "desc_s_Dragon Cold Breath"
+msgstr ""
+
+msgid "s_Dragon Cold Breath_1"
+msgstr "Драконово дыхание1"
+
+msgid "desc_s_Dragon Cold Breath_1"
+msgstr ""
+
+msgid "s_Dragon Fire Blast"
+msgstr "Огонь дракона"
+
+msgid "desc_s_Dragon Fire Blast"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_fire"
+msgstr "Огонь дракона / Fire Fire"
+
+msgid "desc_s_Dragon Fire Blast_fire"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_impact"
+msgstr "Огонь дракона - Воздействие"
+
+msgid "desc_s_Dragon Fire Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Fire Breath"
+msgstr "Дракон огненный дыхание"
+
+msgid "desc_s_Dragon Fire Breath"
+msgstr ""
+
+msgid "s_Dragon Fire Breath_1"
+msgstr "Дыхание дракона (1)"
+
+msgid "desc_s_Dragon Fire Breath_1"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast"
+msgstr "Громовая молния дракона"
+
+msgid "desc_s_Dragon Lightning Blast"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_impact"
+msgstr "Удар молнии дракона"
+
+msgid "desc_s_Dragon Lightning Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_lightning"
+msgstr "Обсуждение Dragon Lightning Blast_lightning"
+
+msgid "desc_s_Dragon Lightning Blast_lightning"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath"
+msgstr "Дыхание дракона молния"
+
+msgid "desc_s_Dragon Lightning Breath"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath_1"
+msgstr "Дыхание драконовой молнии1"
+
+msgid "desc_s_Dragon Lightning Breath_1"
+msgstr ""
+
+msgid "s_Physics Test A"
+msgstr "Физика тестирует"
+
+msgid "desc_s_Physics Test A"
+msgstr ""
+
+msgid "s_Physics Test A_1"
+msgstr "Тест физики _1"
+
+msgid "desc_s_Physics Test A_1"
+msgstr ""
+
+msgid "s_Physics Test B"
+msgstr "Тест на физику b"
+
+msgid "desc_s_Physics Test B"
+msgstr ""
+
+msgid "s_Physics Test B_1"
+msgstr "Тест на физику b_1"
+
+msgid "desc_s_Physics Test B_1"
+msgstr ""
+
+msgid "s_Physics Test C"
+msgstr "Тест на физику c"
+
+msgid "desc_s_Physics Test C"
+msgstr ""
+
+msgid "s_Physics Test C_1"
+msgstr "Физический тест c_1"
+
+msgid "desc_s_Physics Test C_1"
+msgstr ""
+
+msgid "s_Physics Test D"
+msgstr "Тест на физику d"
+
+msgid "desc_s_Physics Test D"
+msgstr ""
+
+msgid "s_Physics Test D_1"
+msgstr "Тест на физику d_1"
+
+msgid "desc_s_Physics Test D_1"
+msgstr ""
+
+msgid "s_Physics Test E"
+msgstr "Физический тест e"
+
+msgid "desc_s_Physics Test E"
+msgstr ""
+
+msgid "s_Physics Test E_1"
+msgstr "Тест на физику e_1"
+
+msgid "desc_s_Physics Test E_1"
+msgstr ""
+
+msgid "s_Witchcraft_Spells"
+msgstr "Колдовские заклинания"
+
+msgid "desc_s_Witchcraft_Spells"
+msgstr ""
+"Колдовство имеет дело главным образом с проклятиями, которые ослабляют "
+"способности их цели, будь то сила воина, умственные способности волшебника "
+"или точность лучника."
+
+msgid "s_Disease"
+msgstr "Болезнь"
+
+msgid "desc_s_Disease"
+msgstr "Запускает ракету, нанося удар по Силе своей цели."
+
+msgid "s_Disease_1"
+msgstr "Disease_1"
+
+msgid "desc_s_Disease_1"
+msgstr ""
+
+msgid "s_Exhaust"
+msgstr "Выхлоп"
+
+msgid "desc_s_Exhaust"
+msgstr "Запускает ракету, которая уменьшает естественную регенерацию Stamina."
+
+msgid "s_Exhaust_1"
+msgstr "Exhaust_1"
+
+msgid "desc_s_Exhaust_1"
+msgstr ""
+
+msgid "s_Insect Swarm"
+msgstr "Рой насекомых"
+
+msgid "desc_s_Insect Swarm"
+msgstr "Отправьте рой ядовитых насекомых в цель."
+
+msgid "s_Insect Swarm_1"
+msgstr "Насекомое рой_1"
+
+msgid "desc_s_Insect Swarm_1"
+msgstr ""
+
+msgid "s_Insect Swarm_2"
+msgstr "Насекомое рой_2"
+
+msgid "desc_s_Insect Swarm_2"
+msgstr ""
+
+msgid "s_Mana Leech"
+msgstr "Мана пиявка"
+
+msgid "desc_s_Mana Leech"
+msgstr "Выпускает луч, который осушает Ману цели, передавая его заклинателю."
+
+msgid "s_Mana Leech_1"
+msgstr "Мана Пиявка_1"
+
+msgid "desc_s_Mana Leech_1"
+msgstr ""
+
+msgid "s_Mana Leech Hit"
+msgstr "Удар пиявкой"
+
+msgid "desc_s_Mana Leech Hit"
+msgstr "Выпускает луч, который осушает Ману цели, передавая его заклинателю."
+
+msgid "s_Mana Leech Hit_1"
+msgstr "Мана Пиявка Хит_1"
+
+msgid "desc_s_Mana Leech Hit_1"
+msgstr ""
+
+msgid "s_Needles"
+msgstr "Иголки"
+
+msgid "desc_s_Needles"
+msgstr ""
+"Запускает ракету, которая взрывается при ударе, вызывая кровоизлияние."
+
+msgid "s_Needles_1"
+msgstr "Needles_1"
+
+msgid "desc_s_Needles_1"
+msgstr ""
+
+msgid "s_Ominous Drain"
+msgstr "Зловещий дренаж"
+
+msgid "desc_s_Ominous Drain"
+msgstr "Запускает ракету, которая может уменьшить все базовые атрибуты цели."
+
+msgid "s_Ominous Drain_1"
+msgstr "Зловещий дренаж_1"
+
+msgid "desc_s_Ominous Drain_1"
+msgstr ""
+
+msgid "s_Palsy"
+msgstr "Бледный"
+
+msgid "desc_s_Palsy"
+msgstr "Запускает ракету, нанося пенальти своей цели Dexterity."
+
+msgid "s_Palsy_1"
+msgstr "Palsy_1"
+
+msgid "desc_s_Palsy_1"
+msgstr ""
+
+msgid "s_Pestilence"
+msgstr "Чума"
+
+msgid "desc_s_Pestilence"
+msgstr "Запускает ракету, нанося пенальти жизненной силе цели."
+
+msgid "s_Pestilence_1"
+msgstr "Pestilence_1"
+
+msgid "desc_s_Pestilence_1"
+msgstr ""
+
+msgid "s_Sluggish"
+msgstr "Вялый"
+
+msgid "desc_s_Sluggish"
+msgstr "Запускает ракету, нанося пенальти быстроте цели."
+
+msgid "s_Sluggish_1"
+msgstr "Sluggish_1"
+
+msgid "desc_s_Sluggish_1"
+msgstr ""
+
+msgid "s_Spell Curse"
+msgstr "Проклятие"
+
+msgid "desc_s_Spell Curse"
+msgstr "Запускает ракету, наносящую удар по защите своей цели."
+
+msgid "s_Spell Curse_Penalty"
+msgstr "Заклинание Проклятие_наказание"
+
+msgid "desc_s_Spell Curse_Penalty"
+msgstr ""
+
+msgid "s_Spellturn"
+msgstr "Заклинание"
+
+msgid "desc_s_Spellturn"
+msgstr ""
+
+msgid "s_Stupidity"
+msgstr "Глупость"
+
+msgid "desc_s_Stupidity"
+msgstr "Запускает ракету, нанося пенальти разведке цели."
+
+msgid "s_Stupidity_1"
+msgstr "Stupidity_1"
+
+msgid "desc_s_Stupidity_1"
+msgstr ""
+
+msgid "s_Tongue Rot"
+msgstr "Язык гниет"
+
+msgid "desc_s_Tongue Rot"
+msgstr ""
+"Запускает ракету, которая снижает скорость успеха заклинания своей цели."
+
+msgid "s_Tongue Rot_Penalty"
+msgstr "Язык гнилой_пенальти"
+
+msgid "desc_s_Tongue Rot_Penalty"
+msgstr ""
+
+msgid "s_Witches Brew"
+msgstr "Ведьмы варят"
+
+msgid "desc_s_Witches Brew"
+msgstr "Создает мгновенную исцеляющую сферу, сосредоточенную на заклинателе."
+
+msgid "s_Witches Brew_1"
+msgstr "Ведьмы варят_1"
+
+msgid "desc_s_Witches Brew_1"
+msgstr ""
+
+msgid "s_Test"
+msgstr "Испытание"
+
+msgid "desc_s_Test"
+msgstr "Описание s_test"
+
+msgid "DEBUG_TESTING"
+msgstr "DEBUG_TESTING"
+
+msgid "desc_DEBUG_TESTING"
+msgstr "Обсуждение debug_testing"
+
+msgid "AttachObjectSkill"
+msgstr "Атташеобъектный навык"
+
+msgid "desc_AttachObjectSkill"
+msgstr "Оригинальное название: attachobjectskill"
+
+msgid "DetachObjectSkill"
+msgstr "Детахобъективный навык"
+
+msgid "desc_DetachObjectSkill"
+msgstr "Описание detachobjectskill"
+
+msgid "DropObjectSkill"
+msgstr "Меткость"
+
+msgid "desc_DropObjectSkill"
+msgstr "Описание dropobjectskill"
+
+msgid "jumpskill"
+msgstr "умение прыгать"
+
+msgid "desc_jumpskill"
+msgstr ""
+
+msgid "PickupObjectSkill"
+msgstr "Пикапобъективность"
+
+msgid "desc_PickupObjectSkill"
+msgstr "Описание пикапобъектскилл"
+
+msgid "RunSkill"
+msgstr "Бегущий"
+
+msgid "desc_RunSkill"
+msgstr "Описание Runskill"
+
+msgid "SlashingCombatSkill"
+msgstr "Слэшингкомбатскилл"
+
+msgid "desc_SlashingCombatSkill"
+msgstr "Описание игры Slashingcombatskill"
+
+msgid "SprintSkill"
+msgstr "Спринтскилл"
+
+msgid "desc_SprintSkill"
+msgstr "Описание игры Sprintskill"
+
+msgid "s_AttributeModification"
+msgstr "Атрибутемодификация"
+
+msgid "desc_s_AttributeModification"
+msgstr "Описание s_attributemodification"
+
+msgid "s_InstaGib"
+msgstr "Инстагиб"
+
+msgid "desc_s_InstaGib"
+msgstr "Описание s_instagib"
+
+msgid "s_InstaGib_1"
+msgstr "InstaGib_1"
+
+msgid "desc_s_InstaGib_1"
+msgstr "Описание s_instagib_1"
+
+msgid "WalkSkill"
+msgstr "Умение ходить"
+
+msgid "desc_WalkSkill"
+msgstr "Описание Walkskill"
+
+msgid "s_Archery Efficiency"
+msgstr "Эффективность стрельбы из лука"
+
+msgid "desc_s_Archery Efficiency"
+msgstr "Пассивный. Уменьшает стоимость выносливости каждого удара луком."
+
+msgid "s_Crippling Shot"
+msgstr "Калечащий выстрел"
+
+msgid "desc_s_Crippling Shot"
+msgstr ""
+"Огнестрельная стрела, которая ранит цель при попадании, заставляя ее "
+"истекать кровью в течение короткого времени."
+
+msgid "s_Blinding Shot"
+msgstr "Слепой выстрел"
+
+msgid "desc_s_Blinding Shot"
+msgstr ""
+"Стрела, которая ослепляет цель при попадании, ухудшая ее зрение на короткое "
+"время."
+
+msgid "s_Penetrating Shot"
+msgstr "Проникающий выстрел"
+
+msgid "desc_s_Penetrating Shot"
+msgstr ""
+"Огонь — это мощная стрела, которая движется по прямой линии и пронзает "
+"каждую цель на своем пути."
+
+msgid "s_Smoke Bomb"
+msgstr "Дымовая бомба"
+
+msgid "desc_s_Smoke Bomb"
+msgstr "Бросьте дымовую бомбу, которая врывается в скрытое облако дыма."
+
+msgid "s_Mastery"
+msgstr "Мастерство"
+
+msgid "desc_s_Mastery"
+msgstr "Способности, предоставляемые вашим активным мастерством."
+
+msgid "s_Deadeye Skills"
+msgstr "Мастерство мертвеца"
+
+msgid "desc_s_Deadeye Skills"
+msgstr "Способности мастерства Deadeye."
+
+msgid "s_Cutthroat Skills"
+msgstr "Беспощадные навыки"
+
+msgid "desc_s_Cutthroat Skills"
+msgstr "Способности беспощадного мастерства."
+
+msgid "s_Vanguard Skills"
+msgstr "Навыки авангарда"
+
+msgid "desc_s_Vanguard Skills"
+msgstr "Способности авангардного мастерства."
+
+msgid "s_Deadeye Aura"
+msgstr "Аура мертвого глаза"
+
+msgid "desc_s_Deadeye Aura"
+msgstr ""
+"Партийцы рядом с вами наносят больший урон монстрам, пока он держится."
+
+msgid "s_Cutthroat Aura"
+msgstr "Беспощадная аура"
+
+msgid "desc_s_Cutthroat Aura"
+msgstr ""
+"Партийцы рядом с вами наносят больше вреда монстрам, пока он держится."
+
+msgid "s_Vanguard Aura"
+msgstr "Авангардная аура"
+
+msgid "desc_s_Vanguard Aura"
+msgstr "Щиты членов партии рядом с вами, пока она держится."
+
+msgid "s_Rain of Arrows"
+msgstr "Дождь из стрел"
+
+msgid "desc_s_Rain of Arrows"
+msgstr ""
+"Огнет стрела, которая вызывает дождь из стрел, где она ударяет, раня существ"
+" под ним в течение короткого времени. Цена стрелы. Падающие стрелы не "
+"считаются стрелами, которые вы приземляете."
+
+msgid "s_Volley"
+msgstr "Фантомный колчан"
+
+msgid "desc_s_Volley"
+msgstr ""
+"Позволяет полные стопки Второй Природы, и в течение короткого времени каждая"
+" стрела, которую вы приземляете на монстра, поражает спектральной силой за "
+"тяжелые бонусные повреждения. Заканчивается, если вы входите в PvP."
+
+msgid "s_Provoke"
+msgstr "Провокация"
+
+msgid "desc_s_Provoke"
+msgstr "Монстры перед вами нападают на вас, а не на ваших союзников."
+
+msgid "s_Red Harvest"
+msgstr "Красный урожай"
+
+msgid "desc_s_Red Harvest"
+msgstr ""
+"Ваши раны тикают в два раза быстрее в течение короткого времени, и убивает "
+"освежить его. Нужны ножи."
+
+msgid "s_Unbroken Line"
+msgstr "Неразрывная линия"
+
+msgid "desc_s_Unbroken Line"
+msgstr ""
+"Нанесите гораздо меньше вреда монстрам в течение короткого времени. "
+"Заканчивается, если вы входите в PvP."
+
+msgid "s_Provoke_1"
+msgstr "Provoke_1"
+
+msgid "desc_s_Provoke_1"
+msgstr ""
+
+msgid "s_Unbroken Line_1"
+msgstr "Неразрывная линия_1"
+
+msgid "desc_s_Unbroken Line_1"
+msgstr ""
+
+msgid "s_Unbroken Line_2"
+msgstr "Неразрывная линия_2"
+
+msgid "desc_s_Unbroken Line_2"
+msgstr ""
+
+msgid "s_Vanguard Aura_1"
+msgstr "Авангард аура_1"
+
+msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "s_Red Harvest_1"
+msgstr "Красный урожай 1"
+
+msgid "desc_s_Red Harvest_1"
+msgstr ""
+
+msgid "s_Cutthroat Aura_1"
+msgstr "Беспощадная аура_1"
+
+msgid "desc_s_Cutthroat Aura_1"
+msgstr ""
+
+msgid "s_Deadeye Aura_1"
+msgstr "Дэдли аура_1"
+
+msgid "desc_s_Deadeye Aura_1"
+msgstr ""
+
+msgid "s_Volley_1"
+msgstr "Фантомный quiver_1"
+
+msgid "desc_s_Volley_1"
+msgstr ""
+
+msgid "s_Rain of Arrows_1"
+msgstr "Дождь из стрелок_1"
+
+msgid "desc_s_Rain of Arrows_1"
+msgstr ""
+
+msgid "s_Ping Clan Waypoint 1"
+msgstr "Пинг-клан Waypoint 1"
+
+msgid "s_Ping Clan Waypoint 2"
+msgstr "Пинг-клан Waypoint 2"
+
+msgid "s_Ping Clan Waypoint 3"
+msgstr "Пинг-клан Waypoint 3"
+
+msgid "s_Ping Clan Waypoint 4"
+msgstr "Пинг-клан Waypoint 4"
+
+msgid "s_Ping Clan Waypoint 5"
+msgstr "Пинг-клан Waypoint 5"
+
+msgid "s_Sithra Acid Weakness"
+msgstr "Sithra кислотная слабость"
+
+msgid "s_Sithra Cold Weakness"
+msgstr "Sithra Холодная слабость"
+
+msgid "s_Sithra Fire Weakness"
+msgstr "Sithra Огневая слабость"
+
+msgid "s_Sithra Holy Weakness"
+msgstr "Sithra Святая слабость"
+
+msgid "s_Sithra Infliction Weakness"
+msgstr "Sithra Нанесение слабости"
+
+msgid "s_Sithra Lightning Weakness"
+msgstr "Sithra слабость молнии"
+
+msgid "s_Sithra Unholy Weakness"
+msgstr "Sithra Нечестивая слабость"

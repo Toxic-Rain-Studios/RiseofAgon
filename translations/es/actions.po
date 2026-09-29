@@ -1,435 +1,477 @@
+#
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Spanish\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
 
 msgid "Action"
-msgstr ""
-
-msgid "a_Add_fixed_modifier"
-msgstr ""
-
-msgid "a_Add_random_modifier"
-msgstr ""
-
-msgid "a_Alternative_Use"
-msgstr ""
-
-msgid "a_Camp"
-msgstr ""
-
-msgid "a_CoordinatorActions"
-msgstr ""
-
-msgid "a_Crouch"
-msgstr ""
-
-msgid "a_Do_Camera_Back_View"
-msgstr ""
-
-msgid "a_Do_Camera_Front_View"
-msgstr ""
-
-msgid "a_Do_Camera_Left_View"
-msgstr ""
-
-msgid "a_Do_Camera_Right_View"
-msgstr ""
-
-msgid "a_Gank"
-msgstr ""
-
-msgid "a_Jump"
-msgstr ""
-
-msgid "a_Lean_Left"
-msgstr ""
-
-msgid "a_Lean_Right"
-msgstr ""
-
-msgid "a_Move_Backward"
-msgstr ""
-
-msgid "a_Move_Down"
-msgstr ""
-
-msgid "a_Move_Faster"
-msgstr ""
-
-msgid "a_Move_Forward"
-msgstr ""
-
-msgid "a_Move_Left"
-msgstr ""
-
-msgid "a_Move_Right"
-msgstr ""
-
-msgid "a_Move_Slower"
-msgstr ""
-
-msgid "a_Move_Up"
-msgstr ""
-
-msgid "a_MovementActions"
-msgstr ""
-
-msgid "a_Parry"
-msgstr ""
-
-msgid "a_Ping_Waypoint"
-msgstr ""
-
-msgid "a_Request_EngineData"
-msgstr ""
-
-msgid "a_Rest"
-msgstr ""
-
-msgid "a_Revive"
-msgstr ""
-
-msgid "a_Rotate_Along_X_Axis"
-msgstr ""
-
-msgid "a_Rotate_Along_Y_Axis"
-msgstr ""
-
-msgid "a_Rotate_Along_Z_Axis"
-msgstr ""
-
-msgid "a_Rotate_Down"
-msgstr ""
-
-msgid "a_Rotate_Left"
-msgstr ""
-
-msgid "a_Rotate_Right"
-msgstr ""
-
-msgid "a_Rotate_Up"
-msgstr ""
-
-msgid "a_RotationActions"
-msgstr ""
-
-msgid "a_Run_Backward"
-msgstr ""
-
-msgid "a_Run_Forward"
-msgstr ""
-
-msgid "a_Run_Left"
-msgstr ""
-
-msgid "a_Run_Right"
-msgstr ""
-
-msgid "a_Screenshot"
-msgstr ""
-
-msgid "a_Select_Default_Skill"
-msgstr ""
-
-msgid "a_Select_Gank_Skill"
-msgstr ""
-
-msgid "a_Select_Previous_Skill"
-msgstr ""
-
-msgid "a_Select_Revive_Skill"
-msgstr ""
-
-msgid "a_SkillActions"
-msgstr ""
-
-msgid "a_Sprint"
-msgstr ""
-
-msgid "a_TestAction1"
-msgstr ""
-
-msgid "a_TestAction2"
-msgstr ""
-
-msgid "a_TestAction3"
-msgstr ""
-
-msgid "a_TestAction4"
-msgstr ""
-
-msgid "a_TestActions"
-msgstr ""
-
-msgid "a_Toggle_AutoCrouch"
-msgstr ""
-
-msgid "a_Toggle_AutoRun"
-msgstr ""
-
-msgid "a_Toggle_AutoSprint"
-msgstr ""
-
-msgid "a_Toggle_Camera_Relation"
-msgstr ""
-
-msgid "a_Toggle_Camera_View"
-msgstr ""
-
-msgid "a_Toggle_Enable_Alternative_Attack"
-msgstr ""
-
-msgid "a_Toggle_First_Person_Hands"
-msgstr ""
-
-msgid "a_Toggle_Invert_Mouse"
-msgstr ""
-
-msgid "a_Toggle_MouseSmoothing"
-msgstr ""
-
-msgid "a_Toggle_Move_Camera"
-msgstr ""
-
-msgid "a_Toggle_Third_Person_View"
-msgstr ""
-
-msgid "a_Toggle_Unsheathe_Object"
-msgstr ""
-
-msgid "a_Trigger_Current_Item"
-msgstr ""
-
-msgid "a_Unsheathe_Object"
-msgstr ""
-
-msgid "a_Use"
-msgstr ""
-
-msgid "a_Walk"
-msgstr ""
-
-msgid "a_Zoom_In"
-msgstr ""
-
-msgid "a_Zoom_Out"
-msgstr ""
+msgstr "Acción"
 
 msgid "desc_Action"
-msgstr ""
+msgstr "Root of the actiontree"
 
-msgid "desc_a_Add_fixed_modifier"
-msgstr ""
-
-msgid "desc_a_Add_random_modifier"
-msgstr ""
-
-msgid "desc_a_Alternative_Use"
-msgstr ""
-
-msgid "desc_a_Camp"
-msgstr ""
+msgid "a_CoordinatorActions"
+msgstr "Coordinación de las actividades"
 
 msgid "desc_a_CoordinatorActions"
-msgstr ""
+msgstr "Superacción de acciones coordinadoras"
 
-msgid "desc_a_Crouch"
-msgstr ""
-
-msgid "desc_a_Do_Camera_Back_View"
-msgstr ""
-
-msgid "desc_a_Do_Camera_Front_View"
-msgstr ""
-
-msgid "desc_a_Do_Camera_Left_View"
-msgstr ""
-
-msgid "desc_a_Do_Camera_Right_View"
-msgstr ""
-
-msgid "desc_a_Gank"
-msgstr ""
-
-msgid "desc_a_Jump"
-msgstr ""
-
-msgid "desc_a_Lean_Left"
-msgstr ""
-
-msgid "desc_a_Lean_Right"
-msgstr ""
-
-msgid "desc_a_Move_Backward"
-msgstr ""
-
-msgid "desc_a_Move_Down"
-msgstr ""
-
-msgid "desc_a_Move_Faster"
-msgstr ""
-
-msgid "desc_a_Move_Forward"
-msgstr ""
-
-msgid "desc_a_Move_Left"
-msgstr ""
-
-msgid "desc_a_Move_Right"
-msgstr ""
-
-msgid "desc_a_Move_Slower"
-msgstr ""
-
-msgid "desc_a_Move_Up"
-msgstr ""
-
-msgid "desc_a_MovementActions"
-msgstr ""
-
-msgid "desc_a_Parry"
-msgstr ""
-
-msgid "desc_a_Ping_Waypoint"
-msgstr ""
+msgid "a_Request_EngineData"
+msgstr "Request_enginedata"
 
 msgid "desc_a_Request_EngineData"
 msgstr ""
 
-msgid "desc_a_Rest"
-msgstr ""
-
-msgid "desc_a_Revive"
-msgstr ""
-
-msgid "desc_a_Rotate_Along_X_Axis"
-msgstr ""
-
-msgid "desc_a_Rotate_Along_Y_Axis"
-msgstr ""
-
-msgid "desc_a_Rotate_Along_Z_Axis"
-msgstr ""
-
-msgid "desc_a_Rotate_Down"
-msgstr ""
-
-msgid "desc_a_Rotate_Left"
-msgstr ""
-
-msgid "desc_a_Rotate_Right"
-msgstr ""
-
-msgid "desc_a_Rotate_Up"
-msgstr ""
-
-msgid "desc_a_RotationActions"
-msgstr ""
-
-msgid "desc_a_Run_Backward"
-msgstr ""
-
-msgid "desc_a_Run_Forward"
-msgstr ""
-
-msgid "desc_a_Run_Left"
-msgstr ""
-
-msgid "desc_a_Run_Right"
-msgstr ""
+msgid "a_Screenshot"
+msgstr "Screenshot"
 
 msgid "desc_a_Screenshot"
-msgstr ""
+msgstr "Descripción de a_screenshot"
+
+msgid "a_Select_Default_Skill"
+msgstr "Select_default_skill"
 
 msgid "desc_a_Select_Default_Skill"
-msgstr ""
+msgstr " "
+
+msgid "a_Select_Gank_Skill"
+msgstr "Select_gank_skill"
 
 msgid "desc_a_Select_Gank_Skill"
-msgstr ""
+msgstr " "
+
+msgid "a_Select_Previous_Skill"
+msgstr "Select_previous_skill"
 
 msgid "desc_a_Select_Previous_Skill"
-msgstr ""
+msgstr " "
+
+msgid "a_Select_Revive_Skill"
+msgstr "Select_revive_skill"
 
 msgid "desc_a_Select_Revive_Skill"
-msgstr ""
+msgstr " "
 
-msgid "desc_a_SkillActions"
-msgstr ""
+msgid "a_Zoom_In"
+msgstr "Zoom_in"
 
-msgid "desc_a_Sprint"
-msgstr ""
+msgid "desc_a_Zoom_In"
+msgstr " "
 
-msgid "desc_a_TestAction1"
-msgstr ""
+msgid "a_Zoom_Out"
+msgstr "Zoom_out"
 
-msgid "desc_a_TestAction2"
-msgstr ""
+msgid "desc_a_Zoom_Out"
+msgstr " "
 
-msgid "desc_a_TestAction3"
-msgstr ""
-
-msgid "desc_a_TestAction4"
-msgstr ""
-
-msgid "desc_a_TestActions"
-msgstr ""
-
-msgid "desc_a_Toggle_AutoCrouch"
-msgstr ""
-
-msgid "desc_a_Toggle_AutoRun"
-msgstr ""
-
-msgid "desc_a_Toggle_AutoSprint"
-msgstr ""
+msgid "a_Toggle_Camera_Relation"
+msgstr "Toggle_camera_relation"
 
 msgid "desc_a_Toggle_Camera_Relation"
-msgstr ""
+msgstr "Descripción de a_toggle camerarelation"
+
+msgid "a_Toggle_Camera_View"
+msgstr "Toggle_camera_view"
 
 msgid "desc_a_Toggle_Camera_View"
-msgstr ""
+msgstr " "
+
+msgid "a_Toggle_Enable_Alternative_Attack"
+msgstr "Toggle_enable_alternative_attack"
 
 msgid "desc_a_Toggle_Enable_Alternative_Attack"
-msgstr ""
+msgstr " "
 
-msgid "desc_a_Toggle_First_Person_Hands"
-msgstr ""
+msgid "a_Toggle_Invert_Mouse"
+msgstr "Toggle_invert_mouse"
 
 msgid "desc_a_Toggle_Invert_Mouse"
-msgstr ""
+msgstr "Descripción de a_toggle invert mouse"
+
+msgid "a_Toggle_MouseSmoothing"
+msgstr "Toggle_mousesmoothing"
 
 msgid "desc_a_Toggle_MouseSmoothing"
-msgstr ""
+msgstr " "
+
+msgid "a_Toggle_Move_Camera"
+msgstr "Toggle_move_camera"
 
 msgid "desc_a_Toggle_Move_Camera"
-msgstr ""
+msgstr "Descripción de la cámara de movimiento a_toggle"
+
+msgid "a_Toggle_Third_Person_View"
+msgstr "Toggle_third_person_view"
 
 msgid "desc_a_Toggle_Third_Person_View"
-msgstr ""
+msgstr "Descripción de a_toggle_third_person_view"
+
+msgid "a_Toggle_Unsheathe_Object"
+msgstr "Toggle_unsheathe_object"
 
 msgid "desc_a_Toggle_Unsheathe_Object"
 msgstr ""
 
-msgid "desc_a_Trigger_Current_Item"
-msgstr ""
+msgid "a_Unsheathe_Object"
+msgstr "Unsheathe_object"
 
 msgid "desc_a_Unsheathe_Object"
 msgstr ""
 
-msgid "desc_a_Use"
-msgstr ""
+msgid "a_Trigger_Current_Item"
+msgstr "Trigger_current_item"
+
+msgid "desc_a_Trigger_Current_Item"
+msgstr " "
+
+msgid "a_SkillActions"
+msgstr "Destrezas"
+
+msgid "desc_a_SkillActions"
+msgstr "Superacción de las acciones de habilidad"
+
+msgid "a_MovementActions"
+msgstr "Movimientoacciones"
+
+msgid "desc_a_MovementActions"
+msgstr "Superacción de las acciones de movimiento"
+
+msgid "a_Move_Forward"
+msgstr "Move_forward"
+
+msgid "desc_a_Move_Forward"
+msgstr "Descripción de a_move adelante"
+
+msgid "a_Run_Forward"
+msgstr "Run_forward"
+
+msgid "desc_a_Run_Forward"
+msgstr "Descripción de a_run hacia adelante"
+
+msgid "a_Move_Backward"
+msgstr "Move_backward"
+
+msgid "desc_a_Move_Backward"
+msgstr "Descripción de a_move hacia atrás"
+
+msgid "a_Run_Backward"
+msgstr "Run_backward"
+
+msgid "desc_a_Run_Backward"
+msgstr "Descripción de a_run hacia atrás"
+
+msgid "a_Move_Left"
+msgstr "Move_left"
+
+msgid "desc_a_Move_Left"
+msgstr "Descripción de a_move izquierda"
+
+msgid "a_Run_Left"
+msgstr "Run_left"
+
+msgid "desc_a_Run_Left"
+msgstr "Descripción de a_run izquierda"
+
+msgid "a_Move_Right"
+msgstr "Move_right"
+
+msgid "desc_a_Move_Right"
+msgstr "Descripción de a_move right"
+
+msgid "a_Run_Right"
+msgstr "Run_right"
+
+msgid "desc_a_Run_Right"
+msgstr "Descripción de a_run right"
+
+msgid "a_Move_Up"
+msgstr "Move_up"
+
+msgid "desc_a_Move_Up"
+msgstr "Descripción de a_move up"
+
+msgid "a_Jump"
+msgstr "Saltar"
+
+msgid "desc_a_Jump"
+msgstr "Descripción de a_jump"
+
+msgid "a_Move_Down"
+msgstr "Move_down"
+
+msgid "desc_a_Move_Down"
+msgstr "Descripción de a_move abajo"
+
+msgid "a_Crouch"
+msgstr "Agacharse"
+
+msgid "desc_a_Crouch"
+msgstr "Descripción de a_crouch"
+
+msgid "a_Move_Faster"
+msgstr "Move_faster"
+
+msgid "desc_a_Move_Faster"
+msgstr "Descripción de a_move más rápido"
+
+msgid "a_Sprint"
+msgstr "Esprintar"
+
+msgid "desc_a_Sprint"
+msgstr "Descripción de a_sprint"
+
+msgid "a_Move_Slower"
+msgstr "Move_slower"
+
+msgid "desc_a_Move_Slower"
+msgstr "Descripción de a_move más lento"
+
+msgid "a_Walk"
+msgstr "Caminar"
 
 msgid "desc_a_Walk"
+msgstr "Descripción de a_walk"
+
+msgid "a_Toggle_AutoCrouch"
+msgstr "Toggle_autocrouch"
+
+msgid "desc_a_Toggle_AutoCrouch"
+msgstr "   "
+
+msgid "a_Toggle_AutoRun"
+msgstr "Toggle_autorun"
+
+msgid "desc_a_Toggle_AutoRun"
+msgstr "Descripción de a_toggle autorun"
+
+msgid "a_Lean_Left"
+msgstr "Lean_left"
+
+msgid "desc_a_Lean_Left"
 msgstr ""
 
-msgid "desc_a_Zoom_In"
+msgid "a_Lean_Right"
+msgstr "Lean_right"
+
+msgid "desc_a_Lean_Right"
 msgstr ""
 
-msgid "desc_a_Zoom_Out"
+msgid "a_Toggle_AutoSprint"
+msgstr "Toggle_autosprint"
+
+msgid "desc_a_Toggle_AutoSprint"
+msgstr "Descripción de a_toggle_autosprint"
+
+msgid "a_RotationActions"
+msgstr "Rotaciones"
+
+msgid "desc_a_RotationActions"
+msgstr "Superacción de las acciones de rotación"
+
+msgid "a_Rotate_Along_X_Axis"
+msgstr "Rotate_along_x_axis"
+
+msgid "desc_a_Rotate_Along_X_Axis"
+msgstr "Descripción de a_rotate a lo largo x eje"
+
+msgid "a_Rotate_Along_Y_Axis"
+msgstr "Rotate_along_y_axis"
+
+msgid "desc_a_Rotate_Along_Y_Axis"
+msgstr "Descripción de a_rotate a lo largo y eje"
+
+msgid "a_Rotate_Along_Z_Axis"
+msgstr "Rotate_along_z_axis"
+
+msgid "desc_a_Rotate_Along_Z_Axis"
+msgstr "Descripción de a_rotate along z axis"
+
+msgid "a_Rotate_Up"
+msgstr "Rotar_up"
+
+msgid "desc_a_Rotate_Up"
+msgstr "Descripción de a_rotate"
+
+msgid "a_Rotate_Down"
+msgstr "Rotate_down"
+
+msgid "desc_a_Rotate_Down"
+msgstr "Descripción de a_rotate abajo"
+
+msgid "a_Rotate_Left"
+msgstr "Rotate_left"
+
+msgid "desc_a_Rotate_Left"
+msgstr "Descripción de a_rotate izquierda"
+
+msgid "a_Rotate_Right"
+msgstr "Girar_derecha"
+
+msgid "desc_a_Rotate_Right"
+msgstr "Descripción de a_rotate derecha"
+
+msgid "a_Alternative_Use"
+msgstr "Alternative_use"
+
+msgid "desc_a_Alternative_Use"
+msgstr " "
+
+msgid "a_Gank"
+msgstr "Rematar"
+
+msgid "desc_a_Gank"
+msgstr " "
+
+msgid "a_Parry"
+msgstr "Parar"
+
+msgid "desc_a_Parry"
+msgstr " "
+
+msgid "a_Revive"
+msgstr "Reanimar"
+
+msgid "desc_a_Revive"
+msgstr " "
+
+msgid "a_Rest"
+msgstr "Descansar"
+
+msgid "desc_a_Rest"
 msgstr ""
+"Vierte cualquier elemento equipado y comienza el resto de la habilidad, "
+"entrando así al resto del estado"
+
+msgid "a_Camp"
+msgstr "Campamento"
+
+msgid "desc_a_Camp"
+msgstr ""
+"Vierte cualquier elemento equipado y comienza el resto de la habilidad, "
+"entrando así al resto del estado"
+
+msgid "a_Use"
+msgstr "Usar"
+
+msgid "desc_a_Use"
+msgstr "Descripción del objeto a_use"
+
+msgid "a_Ping_Waypoint"
+msgstr "Ping_waypoint"
+
+msgid "desc_a_Ping_Waypoint"
+msgstr "Descripción del objeto a_ping_waypoint"
+
+msgid "a_TestActions"
+msgstr "Testacciones"
+
+msgid "desc_a_TestActions"
+msgstr "Acciones utilizadas para la prueba"
+
+msgid "a_Add_fixed_modifier"
+msgstr "Add_fixed_modifier"
+
+msgid "desc_a_Add_fixed_modifier"
+msgstr "Descripción del modificador fijo a_add"
+
+msgid "a_Add_random_modifier"
+msgstr "Add_random_modifier"
+
+msgid "desc_a_Add_random_modifier"
+msgstr "Descripción de a_add modificador aleatorio"
+
+msgid "a_Do_Camera_Front_View"
+msgstr "Do_camera_front_view"
+
+msgid "desc_a_Do_Camera_Front_View"
+msgstr "Descripción de la vista frontal de la cámara a_do"
+
+msgid "a_Do_Camera_Back_View"
+msgstr "Do_camera_back_view"
+
+msgid "desc_a_Do_Camera_Back_View"
+msgstr "Descripción de la vista trasera de la cámara a_do"
+
+msgid "a_Do_Camera_Left_View"
+msgstr "Do_camera_left_view"
+
+msgid "desc_a_Do_Camera_Left_View"
+msgstr "Descripción de la vista izquierda a_do cámara"
+
+msgid "a_Do_Camera_Right_View"
+msgstr "Do_camera_right_view"
+
+msgid "desc_a_Do_Camera_Right_View"
+msgstr "Descripción de la vista derecha de la cámara a_do"
+
+msgid "a_TestAction1"
+msgstr "Testacción1"
+
+msgid "desc_a_TestAction1"
+msgstr "Descripción de a_testaction1"
+
+msgid "a_TestAction2"
+msgstr "Testacción2"
+
+msgid "desc_a_TestAction2"
+msgstr "Descripción de a_testaction2"
+
+msgid "a_TestAction3"
+msgstr "Testacción3"
+
+msgid "desc_a_TestAction3"
+msgstr "Descripción de a_testaction3"
+
+msgid "a_TestAction4"
+msgstr "Testacción4"
+
+msgid "desc_a_TestAction4"
+msgstr "Descripción de a_testaction4"
+
+msgid "a_Toggle_First_Person_Hands"
+msgstr "Toggle_first_person_hands"
+
+msgid "desc_a_Toggle_First_Person_Hands"
+msgstr "Descripción de a_toggle_first_person_hands"
+
+msgid "a_Toggle_Director_Camera"
+msgstr "Toggle director camera"
+
+msgid "desc_a_Toggle_Director_Camera"
+msgstr "La cámara del director (media) encendido o apagado"
+
+msgid "a_Director_Add_Keyframe"
+msgstr "Director: añadir keyframe"
+
+msgid "desc_a_Director_Add_Keyframe"
+msgstr "Añade la posición actual de la cámara como marco clave"
+
+msgid "a_Director_Play_Pause"
+msgstr "Director: jugar / pausa"
+
+msgid "desc_a_Director_Play_Pause"
+msgstr "Juega o detiene el camino actual de la cámara"
+
+msgid "a_Director_Stop"
+msgstr "Director: para"
+
+msgid "desc_a_Director_Stop"
+msgstr "Detiene la reproducción o la órbita y regresa al vuelo libre"
+
+msgid "a_Director_Roll_Left"
+msgstr "Director: Roll left"
+
+msgid "desc_a_Director_Roll_Left"
+msgstr "Roda la cámara de director izquierda mientras se mantiene"
+
+msgid "a_Director_Roll_Right"
+msgstr "Director: Roll right"
+
+msgid "desc_a_Director_Roll_Right"
+msgstr "Roda la cámara de director justo mientras se mantiene"

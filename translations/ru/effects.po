@@ -1,0 +1,1340 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "Shield Slam"
+msgstr "Щитовой шлем"
+
+msgid "desc_Shield Slam"
+msgstr "Столкнулись с щитом."
+
+msgid "Effect"
+msgstr "Эффект"
+
+msgid "desc_Effect"
+msgstr ""
+
+msgid "Negative Effect"
+msgstr "Отрицательный эффект"
+
+msgid "desc_Negative Effect"
+msgstr ""
+
+msgid "Infliction"
+msgstr "Причинение вреда"
+
+msgid "desc_Infliction"
+msgstr ""
+
+msgid "Physical Alteration"
+msgstr "Физические изменения"
+
+msgid "desc_Physical Alteration"
+msgstr ""
+
+msgid "Physical Ailment"
+msgstr "Физический недуг"
+
+msgid "desc_Physical Ailment"
+msgstr ""
+
+msgid "Bleeding Damage"
+msgstr "Кровоточащие повреждения"
+
+msgid "desc_Bleeding Damage"
+msgstr ""
+
+msgid "Blindness"
+msgstr "Слепота"
+
+msgid "desc_Blindness"
+msgstr ""
+
+msgid "Health Degeneration"
+msgstr "Дегенерация здоровья"
+
+msgid "desc_Health Degeneration"
+msgstr ""
+
+msgid "Stamina Degeneration"
+msgstr "Дегенерация выносливости"
+
+msgid "desc_Stamina Degeneration"
+msgstr "  "
+
+msgid "Resistance Penalty"
+msgstr "Наказание за сопротивление"
+
+msgid "desc_Resistance Penalty"
+msgstr ""
+
+msgid "Constitution Penalty"
+msgstr "Конституционный штраф"
+
+msgid "desc_Constitution Penalty"
+msgstr ""
+
+msgid "Defense Penalty"
+msgstr "Защитный штраф"
+
+msgid "desc_Defense Penalty"
+msgstr ""
+
+msgid "Fortitude Penalty"
+msgstr "Штраф за силу духа"
+
+msgid "desc_Fortitude Penalty"
+msgstr ""
+
+msgid "Reflex Penalty"
+msgstr "Рефлекторный штраф"
+
+msgid "desc_Reflex Penalty"
+msgstr ""
+
+msgid "Visibility"
+msgstr "Видимость"
+
+msgid "desc_Visibility"
+msgstr ""
+
+msgid "Willpower Penalty"
+msgstr "Наказание силой воли"
+
+msgid "desc_Willpower Penalty"
+msgstr ""
+
+msgid "Transformation"
+msgstr "Преобразование"
+
+msgid "desc_Transformation"
+msgstr ""
+
+msgid "Burden"
+msgstr "Бремя"
+
+msgid "desc_Burden"
+msgstr ""
+
+msgid "Physical Drain"
+msgstr "Физический дренаж"
+
+msgid "desc_Physical Drain"
+msgstr ""
+
+msgid "Health Penalty"
+msgstr "Санитарное наказание"
+
+msgid "desc_Health Penalty"
+msgstr ""
+
+msgid "Max Health Penalty"
+msgstr "Максимальное наказание за здоровье"
+
+msgid "desc_Max Health Penalty"
+msgstr ""
+
+msgid "Max Stamina Penalty"
+msgstr "Максимальный штраф за выносливость"
+
+msgid "desc_Max Stamina Penalty"
+msgstr ""
+
+msgid "Stamina Penalty"
+msgstr "Штраф за выносливость"
+
+msgid "desc_Stamina Penalty"
+msgstr ""
+
+msgid "Stamina Waste"
+msgstr "Отходы выносливости"
+
+msgid "desc_Stamina Waste"
+msgstr ""
+
+msgid "Poison"
+msgstr "Яд"
+
+msgid "desc_Poison"
+msgstr ""
+
+msgid "Poison Damage"
+msgstr "Отравление"
+
+msgid "desc_Poison Damage"
+msgstr "  "
+
+msgid "Malediction"
+msgstr "Злословие"
+
+msgid "desc_Malediction"
+msgstr ""
+
+msgid "Base Attribute Penalty"
+msgstr "Штраф за базовый атрибут"
+
+msgid "desc_Base Attribute Penalty"
+msgstr ""
+
+msgid "Dexterity Penalty"
+msgstr "Штраф за ловкость"
+
+msgid "desc_Dexterity Penalty"
+msgstr ""
+
+msgid "Intelligence Penalty"
+msgstr "Штраф за разведку"
+
+msgid "desc_Intelligence Penalty"
+msgstr ""
+
+msgid "Quickness Penalty"
+msgstr "Штраф за скорость"
+
+msgid "desc_Quickness Penalty"
+msgstr ""
+
+msgid "Strength Penalty"
+msgstr "Штрафной штраф"
+
+msgid "desc_Strength Penalty"
+msgstr ""
+
+msgid "Vitality Penalty"
+msgstr "Пенальти за жизненные силы"
+
+msgid "desc_Vitality Penalty"
+msgstr ""
+
+msgid "Wisdom Penalty"
+msgstr "Мудрость наказания"
+
+msgid "desc_Wisdom Penalty"
+msgstr ""
+
+msgid "Combat Penalty"
+msgstr "Боевое наказание"
+
+msgid "desc_Combat Penalty"
+msgstr ""
+
+msgid "Melee Damage Penalty"
+msgstr "Штраф за повреждение ближнего боя"
+
+msgid "desc_Melee Damage Penalty"
+msgstr ""
+
+msgid "Ranged Damage Penalty"
+msgstr "Диапазонный штраф за ущерб"
+
+msgid "desc_Ranged Damage Penalty"
+msgstr ""
+
+msgid "Protection Penalty"
+msgstr "Наказание за защиту"
+
+msgid "desc_Protection Penalty"
+msgstr " "
+
+msgid "Acid Protection Penalty"
+msgstr "Наказание за защиту от кислоты"
+
+msgid "desc_Acid Protection Penalty"
+msgstr "  "
+
+msgid "Arcane Protection Penalty"
+msgstr "Смертная защита"
+
+msgid "desc_Arcane Protection Penalty"
+msgstr " "
+
+msgid "Arrow Protection Penalty"
+msgstr "Штраф за защиту от стрел"
+
+msgid "desc_Arrow Protection Penalty"
+msgstr " "
+
+msgid "Bludgeoning Protection Penalty"
+msgstr "Наказание за нарушение защиты"
+
+msgid "desc_Bludgeoning Protection Penalty"
+msgstr " "
+
+msgid "Cold Protection Penalty"
+msgstr "Наказание за холодную защиту"
+
+msgid "desc_Cold Protection Penalty"
+msgstr " "
+
+msgid "Fire Protection Penalty"
+msgstr "Наказание за противопожарную защиту"
+
+msgid "desc_Fire Protection Penalty"
+msgstr " "
+
+msgid "Holy Protection Penalty"
+msgstr "Святая защита"
+
+msgid "desc_Holy Protection Penalty"
+msgstr " "
+
+msgid "Infliction Protection Penalty"
+msgstr "Наказание в виде меры защиты"
+
+msgid "desc_Infliction Protection Penalty"
+msgstr " "
+
+msgid "Lightning Protection Penalty"
+msgstr "Защита от молнии"
+
+msgid "desc_Lightning Protection Penalty"
+msgstr " "
+
+msgid "Malediction Protection Penalty"
+msgstr "Наказание за защиту от злоупотреблений"
+
+msgid "desc_Malediction Protection Penalty"
+msgstr " "
+
+msgid "Mental Protection Penalty"
+msgstr "Наказание за психическую защиту"
+
+msgid "desc_Mental Protection Penalty"
+msgstr " "
+
+msgid "Piercing Protection Penalty"
+msgstr "Наказание в виде пронзительной защиты"
+
+msgid "desc_Piercing Protection Penalty"
+msgstr " "
+
+msgid "Slashing Protection Penalty"
+msgstr "Сокращение штрафа за защиту"
+
+msgid "desc_Slashing Protection Penalty"
+msgstr " "
+
+msgid "Unholy Protection Penalty"
+msgstr "Наказание за нечестивую защиту"
+
+msgid "desc_Unholy Protection Penalty"
+msgstr " "
+
+msgid "Mental Status Attack"
+msgstr "Нападение на психическое состояние"
+
+msgid "desc_Mental Status Attack"
+msgstr ""
+
+msgid "Magic Penalty"
+msgstr "Волшебное наказание"
+
+msgid "desc_Magic Penalty"
+msgstr ""
+
+msgid "Casting Penalty"
+msgstr "Наказание за кастинг"
+
+msgid "desc_Casting Penalty"
+msgstr ""
+
+msgid "Mana Degeneration"
+msgstr "Перерождение маны"
+
+msgid "desc_Mana Degeneration"
+msgstr " "
+
+msgid "Mana Penalty"
+msgstr "Пенальти"
+
+msgid "desc_Mana Penalty"
+msgstr ""
+
+msgid "Mana Waste"
+msgstr "Отходы маны"
+
+msgid "desc_Mana Waste"
+msgstr ""
+
+msgid "Max Mana Penalty"
+msgstr "Макс Мана Штраф"
+
+msgid "desc_Max Mana Penalty"
+msgstr ""
+
+msgid "Spell Immunity Penalty"
+msgstr "Заклинание Иммунитет"
+
+msgid "desc_Spell Immunity Penalty"
+msgstr " "
+
+msgid "Suppress Magic"
+msgstr "Подавить магию"
+
+msgid "desc_Suppress Magic"
+msgstr ""
+
+msgid "Mental Ailment"
+msgstr "Психический недуг"
+
+msgid "desc_Mental Ailment"
+msgstr ""
+
+msgid "Paralysis"
+msgstr "Паралич"
+
+msgid "desc_Paralysis"
+msgstr ""
+
+msgid "Slow"
+msgstr "Медленный"
+
+msgid "desc_Slow"
+msgstr ""
+
+msgid "Melee Restart Penalty"
+msgstr "Штраф за возобновление ближнего боя"
+
+msgid "desc_Melee Restart Penalty"
+msgstr "  "
+
+msgid "Ranged Restart Penalty"
+msgstr "Штраф за перезапуск"
+
+msgid "desc_Ranged Restart Penalty"
+msgstr " "
+
+msgid "Slow Casting"
+msgstr "Медленное литье"
+
+msgid "desc_Slow Casting"
+msgstr ""
+
+msgid "Slow Melee"
+msgstr "Медленный ближний"
+
+msgid "desc_Slow Melee"
+msgstr ""
+
+msgid "Slow Movement"
+msgstr "Медленное движение"
+
+msgid "desc_Slow Movement"
+msgstr ""
+
+msgid "Slow Ranged"
+msgstr "Медленный"
+
+msgid "desc_Slow Ranged"
+msgstr ""
+
+msgid "Spell Restart Penalty"
+msgstr "Штраф за возобновление орфографии"
+
+msgid "desc_Spell Restart Penalty"
+msgstr ""
+
+msgid "Physical Attack"
+msgstr "Физическая атака"
+
+msgid "desc_Physical Attack"
+msgstr ""
+
+msgid "General Damage"
+msgstr "Общий ущерб"
+
+msgid "desc_General Damage"
+msgstr ""
+
+msgid "Mundane Damage"
+msgstr "Земное повреждение"
+
+msgid "desc_Mundane Damage"
+msgstr ""
+
+msgid "Acid Damage"
+msgstr "Кислотное повреждение"
+
+msgid "desc_Acid Damage"
+msgstr ""
+
+msgid "Cold Damage"
+msgstr "Холодное повреждение"
+
+msgid "desc_Cold Damage"
+msgstr ""
+
+msgid "Decapitate"
+msgstr "Обезглавить"
+
+msgid "desc_Decapitate"
+msgstr " Убирайся с головой!"
+
+msgid "Fire Damage"
+msgstr "Пожарный ущерб"
+
+msgid "desc_Fire Damage"
+msgstr ""
+
+msgid "Lightning Damage"
+msgstr "Повреждение молнии"
+
+msgid "desc_Lightning Damage"
+msgstr ""
+
+msgid "Weapon Damage"
+msgstr "Повреждение оружия"
+
+msgid "desc_Weapon Damage"
+msgstr " "
+
+msgid "Bludgeoning Damage"
+msgstr "Ущерб от затухания"
+
+msgid "desc_Bludgeoning Damage"
+msgstr ""
+
+msgid "Impact Damage"
+msgstr "Ущерб от воздействия"
+
+msgid "desc_Impact Damage"
+msgstr ""
+
+msgid "Piercing Damage"
+msgstr "Пронзительный ущерб"
+
+msgid "desc_Piercing Damage"
+msgstr ""
+
+msgid "Arrow Damage"
+msgstr "Повреждение стрелы"
+
+msgid "desc_Arrow Damage"
+msgstr " "
+
+msgid "Damaging Blow"
+msgstr "Повреждающий удар"
+
+msgid "desc_Damaging Blow"
+msgstr ""
+
+msgid "Bleeding Hit"
+msgstr "Кровоточащий"
+
+msgid "desc_Bleeding Hit"
+msgstr ""
+
+msgid "Slashing Damage"
+msgstr "Урезание повреждений"
+
+msgid "desc_Slashing Damage"
+msgstr ""
+
+msgid "Supernatural Damage"
+msgstr "Сверхъестественные повреждения"
+
+msgid "desc_Supernatural Damage"
+msgstr ""
+
+msgid "Arcane Damage"
+msgstr "Подкожный ущерб"
+
+msgid "desc_Arcane Damage"
+msgstr ""
+
+msgid "Holy Damage"
+msgstr "Святое Ущерб"
+
+msgid "desc_Holy Damage"
+msgstr ""
+
+msgid "Unholy Damage"
+msgstr "Нечестивый ущерб"
+
+msgid "desc_Unholy Damage"
+msgstr ""
+
+msgid "Parry Disabled"
+msgstr "Пари инвалид"
+
+msgid "desc_Parry Disabled"
+msgstr " "
+
+msgid "Sprain"
+msgstr "Растяжение"
+
+msgid "desc_Sprain"
+msgstr " "
+
+msgid "Positive Effect"
+msgstr "Положительный эффект"
+
+msgid "desc_Positive Effect"
+msgstr ""
+
+msgid "In Combat"
+msgstr "В бою"
+
+msgid "desc_In Combat"
+msgstr " "
+
+msgid "Benefaction"
+msgstr "Благодеяние"
+
+msgid "desc_Benefaction"
+msgstr ""
+
+msgid "Base Attribute Bonus"
+msgstr "Базовый атрибут Бонус"
+
+msgid "desc_Base Attribute Bonus"
+msgstr ""
+
+msgid "Dexterity Bonus"
+msgstr "Бонус ловкости"
+
+msgid "desc_Dexterity Bonus"
+msgstr ""
+
+msgid "Intelligence Bonus"
+msgstr "Интеллектуальный бонус"
+
+msgid "desc_Intelligence Bonus"
+msgstr ""
+
+msgid "Quickness Bonus"
+msgstr "Быстрый бонус"
+
+msgid "desc_Quickness Bonus"
+msgstr ""
+
+msgid "Strength Bonus"
+msgstr "Бонусный бонус"
+
+msgid "desc_Strength Bonus"
+msgstr ""
+
+msgid "Vitality Bonus"
+msgstr "Бонус жизненной силы"
+
+msgid "desc_Vitality Bonus"
+msgstr ""
+
+msgid "Wisdom Bonus"
+msgstr "Мудрость бонус"
+
+msgid "desc_Wisdom Bonus"
+msgstr ""
+
+msgid "Combat Bonus"
+msgstr "Боевой бонус"
+
+msgid "desc_Combat Bonus"
+msgstr ""
+
+msgid "Melee Damage Bonus"
+msgstr "Повреждение ближнего боя бонус"
+
+msgid "desc_Melee Damage Bonus"
+msgstr ""
+
+msgid "Missile Damage Bonus"
+msgstr "Премия за ракетный ущерб"
+
+msgid "desc_Missile Damage Bonus"
+msgstr ""
+
+msgid "Physical Gain"
+msgstr "Физическая выгода"
+
+msgid "desc_Physical Gain"
+msgstr ""
+
+msgid "Health Bonus"
+msgstr "Медицинский бонус"
+
+msgid "desc_Health Bonus"
+msgstr ""
+
+msgid "Health Regeneration"
+msgstr "Регенерация здоровья"
+
+msgid "desc_Health Regeneration"
+msgstr "   "
+
+msgid "Lighten"
+msgstr "Осветлять"
+
+msgid "desc_Lighten"
+msgstr ""
+
+msgid "Max Health Bonus"
+msgstr "Максимальный бонус за здоровье"
+
+msgid "desc_Max Health Bonus"
+msgstr ""
+
+msgid "Max Stamina Bonus"
+msgstr "Максимальная выносливость бонус"
+
+msgid "desc_Max Stamina Bonus"
+msgstr ""
+
+msgid "Nourishment"
+msgstr "Питание"
+
+msgid "desc_Nourishment"
+msgstr " "
+
+msgid "Resting"
+msgstr "Отдыхать"
+
+msgid "desc_Resting"
+msgstr " "
+
+msgid "Camping"
+msgstr "Кемпинг"
+
+msgid "desc_Camping"
+msgstr " "
+
+msgid "Stamina Bonus"
+msgstr "Стойкий бонус"
+
+msgid "desc_Stamina Bonus"
+msgstr ""
+
+msgid "Stamina Conservation"
+msgstr "Сохранение выносливости"
+
+msgid "desc_Stamina Conservation"
+msgstr ""
+
+msgid "Stamina Regeneration"
+msgstr "Регенерация выносливости"
+
+msgid "desc_Stamina Regeneration"
+msgstr "  "
+
+msgid "Water Breathing"
+msgstr "Вода дышит"
+
+msgid "desc_Water Breathing"
+msgstr " "
+
+msgid "Protection Bonus"
+msgstr "Бонус за защиту"
+
+msgid "desc_Protection Bonus"
+msgstr " "
+
+msgid "Acid Protection Bonus"
+msgstr "Премия за кислотную защиту"
+
+msgid "desc_Acid Protection Bonus"
+msgstr " "
+
+msgid "Arcane Protection Bonus"
+msgstr "Премия за защиту от дуги"
+
+msgid "desc_Arcane Protection Bonus"
+msgstr " "
+
+msgid "Armor Bonus"
+msgstr "Броня бонус"
+
+msgid "desc_Armor Bonus"
+msgstr " "
+
+msgid "Arrow Protection Bonus"
+msgstr "Бонус за защиту от стрел"
+
+msgid "desc_Arrow Protection Bonus"
+msgstr " "
+
+msgid "Bludgeoning Protection Bonus"
+msgstr "Бонус за защиту от помех"
+
+msgid "desc_Bludgeoning Protection Bonus"
+msgstr " "
+
+msgid "Cold Protection Bonus"
+msgstr "Бонус за холодную защиту"
+
+msgid "desc_Cold Protection Bonus"
+msgstr " "
+
+msgid "Fire Protection Bonus"
+msgstr "Пожарная защита бонус"
+
+msgid "desc_Fire Protection Bonus"
+msgstr " "
+
+msgid "Holy Protection Bonus"
+msgstr "Премия за святую защиту"
+
+msgid "desc_Holy Protection Bonus"
+msgstr " "
+
+msgid "Infliction Protection Bonus"
+msgstr "Бонус за защиту от причинения вреда"
+
+msgid "desc_Infliction Protection Bonus"
+msgstr " "
+
+msgid "Lightning Protection Bonus"
+msgstr "Бонус за молниезащиту"
+
+msgid "desc_Lightning Protection Bonus"
+msgstr " "
+
+msgid "Malediction Protection Bonus"
+msgstr "Бонус за защиту от злоупотреблений"
+
+msgid "desc_Malediction Protection Bonus"
+msgstr " "
+
+msgid "Melee Protection Bonus"
+msgstr "Бонус за защиту от ближнего боя"
+
+msgid "desc_Melee Protection Bonus"
+msgstr " "
+
+msgid "Mental Protection Bonus"
+msgstr "Бонус за психическую защиту"
+
+msgid "desc_Mental Protection Bonus"
+msgstr " "
+
+msgid "Negative Effect Protection Bonus"
+msgstr "Бонус за защиту от негативного воздействия"
+
+msgid "desc_Negative Effect Protection Bonus"
+msgstr " "
+
+msgid "Physical Attack Protection Bonus"
+msgstr "Бонус за защиту от физических атак"
+
+msgid "desc_Physical Attack Protection Bonus"
+msgstr " "
+
+msgid "Piercing Protection Bonus"
+msgstr "Премия за защиту пирсинга"
+
+msgid "desc_Piercing Protection Bonus"
+msgstr " "
+
+msgid "Slashing Protection Bonus"
+msgstr "Премия за защиту от урезания"
+
+msgid "desc_Slashing Protection Bonus"
+msgstr " "
+
+msgid "Unholy Protection Bonus"
+msgstr "Премия за нечестивую защиту"
+
+msgid "desc_Unholy Protection Bonus"
+msgstr " "
+
+msgid "Resistance Bonus"
+msgstr "Бонус сопротивления"
+
+msgid "desc_Resistance Bonus"
+msgstr ""
+
+msgid "Constitution Bonus"
+msgstr "Конституционный бонус"
+
+msgid "desc_Constitution Bonus"
+msgstr ""
+
+msgid "Defense Bonus"
+msgstr "Оборонительный бонус"
+
+msgid "desc_Defense Bonus"
+msgstr ""
+
+msgid "Fortitude Bonus"
+msgstr "Стойкость бонус"
+
+msgid "desc_Fortitude Bonus"
+msgstr ""
+
+msgid "Reflex Bonus"
+msgstr "Рефлекторный бонус"
+
+msgid "desc_Reflex Bonus"
+msgstr ""
+
+msgid "Willpower Bonus"
+msgstr "Бонус за силу воли"
+
+msgid "desc_Willpower Bonus"
+msgstr ""
+
+msgid "Clan Bonus"
+msgstr "Клановый бонус"
+
+msgid "desc_Clan Bonus"
+msgstr " "
+
+msgid "Clan Dexterity Bonus"
+msgstr "Бонус за ловкость клана"
+
+msgid "desc_Clan Dexterity Bonus"
+msgstr " "
+
+msgid "Clan Health Bonus"
+msgstr "Премия за здоровье клана"
+
+msgid "desc_Clan Health Bonus"
+msgstr "  "
+
+msgid "Clan Health Regeneration"
+msgstr "Регенерация здоровья клана"
+
+msgid "desc_Clan Health Regeneration"
+msgstr " "
+
+msgid "Clan Intelligence Bonus"
+msgstr "Бонус за клановую разведку"
+
+msgid "desc_Clan Intelligence Bonus"
+msgstr " "
+
+msgid "Clan Mana Bonus"
+msgstr "Премия Mana Bonus"
+
+msgid "desc_Clan Mana Bonus"
+msgstr " "
+
+msgid "Clan Mana Regeneration"
+msgstr "Регенерация клановой маны"
+
+msgid "desc_Clan Mana Regeneration"
+msgstr " "
+
+msgid "Clan Protection"
+msgstr "Защита кланов"
+
+msgid "desc_Clan Protection"
+msgstr " "
+
+msgid "Clan Quickness Bonus"
+msgstr "Быстрый бонус клана"
+
+msgid "desc_Clan Quickness Bonus"
+msgstr " "
+
+msgid "Clan Stamina Bonus"
+msgstr "Клановая выносливость бонус"
+
+msgid "desc_Clan Stamina Bonus"
+msgstr " "
+
+msgid "Clan Stamina Regeneration"
+msgstr "Регенерация клановой выносливости"
+
+msgid "desc_Clan Stamina Regeneration"
+msgstr " "
+
+msgid "Clan Strength Bonus"
+msgstr "Бонус за силу клана"
+
+msgid "desc_Clan Strength Bonus"
+msgstr " "
+
+msgid "Clan Vitality Bonus"
+msgstr "Бонус жизненной силы клана"
+
+msgid "desc_Clan Vitality Bonus"
+msgstr " "
+
+msgid "Clan Wisdom Bonus"
+msgstr "Премия клановой мудрости"
+
+msgid "desc_Clan Wisdom Bonus"
+msgstr " "
+
+msgid "Extension Effects"
+msgstr "Эффекты расширения"
+
+msgid "desc_Extension Effects"
+msgstr " "
+
+msgid "Aquatic Shot"
+msgstr "Водный выстрел"
+
+msgid "desc_Aquatic Shot"
+msgstr " "
+
+msgid "Destroyer"
+msgstr "Эсминец"
+
+msgid "desc_Destroyer"
+msgstr " "
+
+msgid "Double Jump"
+msgstr "Двойной прыжок"
+
+msgid "desc_Double Jump"
+msgstr "  "
+
+msgid "Efficient Archery"
+msgstr "Эффективная стрельба из лука"
+
+msgid "desc_Efficient Archery"
+msgstr " "
+
+msgid "Guardsman"
+msgstr "Стражник"
+
+msgid "desc_Guardsman"
+msgstr "  "
+
+msgid "Increased Damage"
+msgstr "Увеличение повреждений"
+
+msgid "desc_Increased Damage"
+msgstr " "
+
+msgid "Increased Distance"
+msgstr "Увеличенная дистанция"
+
+msgid "desc_Increased Distance"
+msgstr " "
+
+msgid "Increased Velocity"
+msgstr "Увеличение скорости"
+
+msgid "desc_Increased Velocity"
+msgstr " "
+
+msgid "Jump Shot"
+msgstr "Прыжок"
+
+msgid "desc_Jump Shot"
+msgstr " "
+
+msgid "Mage Killer"
+msgstr "Убийца магов"
+
+msgid "desc_Mage Killer"
+msgstr " "
+
+msgid "Mana Shield"
+msgstr "Щит маны"
+
+msgid "desc_Mana Shield"
+msgstr " "
+
+msgid "Master Scout"
+msgstr "Мастер-разведчик"
+
+msgid "desc_Master Scout"
+msgstr " "
+
+msgid "Scout"
+msgstr "Разведчик"
+
+msgid "desc_Scout"
+msgstr " "
+
+msgid "Sidestep"
+msgstr "Сбоку"
+
+msgid "desc_Sidestep"
+msgstr " "
+
+msgid "Unfazed"
+msgstr "Невозмутимый"
+
+msgid "desc_Unfazed"
+msgstr " "
+
+msgid "Melee Power Effects"
+msgstr "Силовые эффекты ближнего боя"
+
+msgid "desc_Melee Power Effects"
+msgstr " "
+
+msgid "Dwarven Perseverance"
+msgstr "Стойкость гнома"
+
+msgid "desc_Dwarven Perseverance"
+msgstr " "
+
+msgid "Rage"
+msgstr "Ярость"
+
+msgid "desc_Rage"
+msgstr " "
+
+msgid "Mental Status Bonus"
+msgstr "Бонус за психическое состояние"
+
+msgid "desc_Mental Status Bonus"
+msgstr ""
+
+msgid "Arcane Bonus"
+msgstr "Тайный бонус"
+
+msgid "desc_Arcane Bonus"
+msgstr ""
+
+msgid "Casting Bonus"
+msgstr "Кастинговый бонус"
+
+msgid "desc_Casting Bonus"
+msgstr ""
+
+msgid "Mana Bonus"
+msgstr "Мана Бонус"
+
+msgid "desc_Mana Bonus"
+msgstr ""
+
+msgid "Mana Conservation"
+msgstr "Сохранение маны"
+
+msgid "desc_Mana Conservation"
+msgstr ""
+
+msgid "Mana Regeneration"
+msgstr "Регенерация маны"
+
+msgid "desc_Mana Regeneration"
+msgstr "  "
+
+msgid "Max Mana Bonus"
+msgstr "Макс Мана Бонус"
+
+msgid "desc_Max Mana Bonus"
+msgstr ""
+
+msgid "Reflect Magic"
+msgstr "Отражать магию"
+
+msgid "desc_Reflect Magic"
+msgstr " "
+
+msgid "Feather Fall"
+msgstr "Падение пера"
+
+msgid "desc_Feather Fall"
+msgstr " "
+
+msgid "Obelisk Haste Ganking"
+msgstr "Поспешность обелиска"
+
+msgid "desc_Obelisk Haste Ganking"
+msgstr " "
+
+msgid "Obelisk Haste Reviving"
+msgstr "Обелиск поспешно возрождается"
+
+msgid "desc_Obelisk Haste Reviving"
+msgstr " "
+
+msgid "Obelisk Decapitation Boost"
+msgstr "Обелиск Обезглавливание Повышение"
+
+msgid "desc_Obelisk Decapitation Boost"
+msgstr " "
+
+msgid "Obelisk City Stealth Bonus"
+msgstr "Обелиск Город Стелс Бонус"
+
+msgid "desc_Obelisk City Stealth Bonus"
+msgstr " "
+
+msgid "Obelisk Quickening Drink"
+msgstr "Обелиск Ускоряющий напиток"
+
+msgid "desc_Obelisk Quickening Drink"
+msgstr " "
+
+msgid "Obelisk Demolition Bonus"
+msgstr "Бонус за снос обелиска"
+
+msgid "desc_Obelisk Demolition Bonus"
+msgstr " "
+
+msgid "Spell Duration Bonus"
+msgstr "Длительность заклинания бонус"
+
+msgid "desc_Spell Duration Bonus"
+msgstr "  "
+
+msgid "Spell Immunity Bonus"
+msgstr "Заклинание Иммунный бонус"
+
+msgid "desc_Spell Immunity Bonus"
+msgstr " "
+
+msgid "Spell Magnitude Bonus"
+msgstr "Заклинание магнитуда бонус"
+
+msgid "desc_Spell Magnitude Bonus"
+msgstr " "
+
+msgid "Haste"
+msgstr "Спешка"
+
+msgid "desc_Haste"
+msgstr ""
+
+msgid "Haste Casting"
+msgstr "Поспешное литье"
+
+msgid "desc_Haste Casting"
+msgstr ""
+
+msgid "Haste Melee"
+msgstr "Поспешный ближний"
+
+msgid "desc_Haste Melee"
+msgstr ""
+
+msgid "Haste Ranged"
+msgstr "Поспешность в диапазоне"
+
+msgid "desc_Haste Ranged"
+msgstr ""
+
+msgid "Melee Restart Bonus"
+msgstr "Благотворительный бонус"
+
+msgid "desc_Melee Restart Bonus"
+msgstr " "
+
+msgid "Ranged Restart Bonus"
+msgstr "Диапазонный бонус для перезапуска"
+
+msgid "desc_Ranged Restart Bonus"
+msgstr " "
+
+msgid "Spell Restart Bonus"
+msgstr "Заклинание Перезапуск Бонус"
+
+msgid "desc_Spell Restart Bonus"
+msgstr ""
+
+msgid "Untouchable"
+msgstr "Неприкасаемый"
+
+msgid "desc_Untouchable"
+msgstr " "
+
+msgid "Boon of Storms"
+msgstr "Благодатный шторм"
+
+msgid "desc_Boon of Storms"
+msgstr ""
+
+msgid "Boon of Domination"
+msgstr "Благо господства"
+
+msgid "desc_Boon of Domination"
+msgstr " "
+
+msgid "Boon of Blight"
+msgstr "Благословение Blight"
+
+msgid "desc_Boon of Blight"
+msgstr " "
+
+msgid "Boon of Agony"
+msgstr "Благость агонии"
+
+msgid "desc_Boon of Agony"
+msgstr " "
+
+msgid "Boon of Mutilation"
+msgstr "Благо увечья"
+
+msgid "desc_Boon of Mutilation"
+msgstr " "
+
+msgid "Boon of Waves"
+msgstr "Благовещение волн"
+
+msgid "desc_Boon of Waves"
+msgstr " "
+
+msgid "Vanguard Aura"
+msgstr "Авангардная аура"
+
+msgid "Cutthroat Aura"
+msgstr "Беспощадная аура"
+
+msgid "Deadeye Aura"
+msgstr "Аура мертвого глаза"
+
+msgid "desc_Vanguard Aura"
+msgstr "Ваша партия получает меньше вреда от монстров, пока они стоят с вами."
+
+msgid "desc_Cutthroat Aura"
+msgstr ""
+"Ваша вечеринка наносит больше вреда монстрам, пока они стоят рядом с вами."
+
+msgid "desc_Deadeye Aura"
+msgstr "Ваша партия наносит больший урон монстрам, пока они стоят с вами."
+
+msgid "Sighted"
+msgstr "Фантомный колчан"
+
+msgid "desc_Sighted"
+msgstr ""
+"Каждая стрела, которую вы приземляете на монстра, поражает спектральной "
+"силой."
+
+msgid "Second Nature"
+msgstr "Вторая природа"
+
+msgid "desc_Second Nature"
+msgstr ""
+"Ваша цель - успокоиться - каждая стрела, которую вы приземляете, быстрее "
+"рисует следующую."
+
+msgid "Rupture"
+msgstr "Разрыв"
+
+msgid "desc_Rupture"
+msgstr ""
+"Более глубокая рана, оплаченная 10 стопками Гора. Это длится до тех пор, "
+"пока монстр не умрет, вы уйдете, или пройдет 2 минут с момента вашего "
+"последнего траты."
+
+msgid "Opening"
+msgstr "Открытие"
+
+msgid "desc_Opening"
+msgstr ""
+"Спина этого монстра выставлена напоказ Каттроату, который его открыл — их "
+"попадания приземляются как бы сзади."
+
+msgid "Red Harvest"
+msgstr "Красный урожай"
+
+msgid "desc_Red Harvest"
+msgstr ""
+"Ваши раны тикают в два раза быстрее. Убийство монстра освежает "
+"продолжительность."
+
+msgid "Unbroken Line"
+msgstr "Неразрывная линия"
+
+msgid "desc_Unbroken Line"
+msgstr ""
+"Вы получаете гораздо меньше вреда от монстров. Заканчивается, если вы "
+"входите в PvP."

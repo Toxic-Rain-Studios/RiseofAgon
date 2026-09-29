@@ -1,0 +1,6367 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "Skill"
+msgstr "Habilidade"
+
+msgid "desc_Skill"
+msgstr "Descrição da habilidade"
+
+msgid "s_Other Skills"
+msgstr "Outras competências"
+
+msgid "desc_s_Other Skills"
+msgstr "Descrição das outras competências"
+
+msgid "s_Basic Movement Skills"
+msgstr "Habilidades básicas de movimento"
+
+msgid "desc_s_Basic Movement Skills"
+msgstr "Descrição das habilidades de movimento s_basic"
+
+msgid "s_Climb"
+msgstr "Subir"
+
+msgid "desc_s_Climb"
+msgstr ""
+
+msgid "s_Fly"
+msgstr "Voar"
+
+msgid "desc_s_Fly"
+msgstr ""
+
+msgid "s_Glide"
+msgstr "Planar"
+
+msgid "desc_s_Glide"
+msgstr ""
+
+msgid "s_Jog"
+msgstr "Correr"
+
+msgid "desc_s_Jog"
+msgstr "Descrição de s_jog"
+
+msgid "s_Mahirim Run"
+msgstr "Mahirim corrida"
+
+msgid "desc_s_Mahirim Run"
+msgstr "Selecione habilidade e pressione o botão Ação para iniciar."
+
+msgid "s_Mount Swim"
+msgstr "Monte nado"
+
+msgid "desc_s_Mount Swim"
+msgstr ""
+
+msgid "s_Riding Skills"
+msgstr "Habilidades de equitação"
+
+msgid "desc_s_Riding Skills"
+msgstr ""
+
+msgid "s_Riding Jump"
+msgstr "Equitação salto"
+
+msgid "desc_s_Riding Jump"
+msgstr ""
+
+msgid "s_Riding Run"
+msgstr "Equitação corrida"
+
+msgid "desc_s_Riding Run"
+msgstr ""
+
+msgid "s_Riding Walk"
+msgstr "Andar de bicicleta"
+
+msgid "desc_s_Riding Walk"
+msgstr ""
+
+msgid "s_Sail"
+msgstr "Velar"
+
+msgid "desc_s_Sail"
+msgstr "Descrição de s_walk"
+
+msgid "s_Strafe Left"
+msgstr "Strafe esquerda"
+
+msgid "desc_s_Strafe Left"
+msgstr "Descrição de s_strafe esquerda"
+
+msgid "s_Strafe Right"
+msgstr "Strafe right"
+
+msgid "desc_s_Strafe Right"
+msgstr "Descrição de s_strafe right"
+
+msgid "s_Swim"
+msgstr "Nadar"
+
+msgid "desc_s_Swim"
+msgstr ""
+
+msgid "s_Walk"
+msgstr "Andar"
+
+msgid "desc_s_Walk"
+msgstr "Descrição de s_walk"
+
+msgid "s_Warhulk"
+msgstr "Warhulk"
+
+msgid "desc_s_Warhulk"
+msgstr ""
+
+msgid "s_Enchantment Add Effects"
+msgstr "Encantamento adicionar efeitos"
+
+msgid "desc_s_Enchantment Add Effects"
+msgstr ""
+
+msgid "s_Add Effect DOT"
+msgstr "Adicionar o ponto de efeito"
+
+msgid "desc_s_Add Effect DOT"
+msgstr ""
+
+msgid "s_Add Effect Duration"
+msgstr "Adicionar a duração do efeito"
+
+msgid "desc_s_Add Effect Duration"
+msgstr ""
+
+msgid "s_Add Effect Main"
+msgstr "Adicionar o efeito principal"
+
+msgid "desc_s_Add Effect Main"
+msgstr ""
+
+msgid "s_Environmental Skills"
+msgstr "Competências ambientais"
+
+msgid "desc_s_Environmental Skills"
+msgstr ""
+
+msgid "s_environmental damage"
+msgstr "danos ambientais"
+
+msgid "desc_s_environmental damage"
+msgstr ""
+
+msgid "s_Manipulate Skills"
+msgstr "Manipular as competências"
+
+msgid "desc_s_Manipulate Skills"
+msgstr "Descrição das habilidades de s_manipulate"
+
+msgid "s_Drink"
+msgstr "Bebida"
+
+msgid "desc_s_Drink"
+msgstr "Descrição do objeto s_consume"
+
+msgid "s_Eat"
+msgstr "Comer"
+
+msgid "desc_s_Eat"
+msgstr ""
+
+msgid "s_Examine Object"
+msgstr "Examinar objeto"
+
+msgid "desc_s_Examine Object"
+msgstr "Descrição do objeto s_examine"
+
+msgid "s_Fire Cannon"
+msgstr "Canhão de fogo"
+
+msgid "desc_s_Fire Cannon"
+msgstr ""
+"Pressione o botão Ação para disparar, ou o botão Usar para cessar o controle"
+" do canhão."
+
+msgid "s_Fire Cannon_02"
+msgstr "Fogo cannon_02"
+
+msgid "desc_s_Fire Cannon_02"
+msgstr ""
+"Pressione o botão Ação para disparar, ou o botão Usar para cessar o controle"
+" deste canhão caro."
+
+msgid "s_Fire Shock Charge"
+msgstr "Carga de choque de fogo"
+
+msgid "desc_s_Fire Shock Charge"
+msgstr ""
+"Pressione o botão Ação para disparar Implantado Carregador de Profundidade "
+"ao usar a Roda de Nave. "
+
+msgid "s_Placement Skills"
+msgstr "Competências de colocação"
+
+msgid "desc_s_Placement Skills"
+msgstr "Descrição das competências de colocação"
+
+msgid "s_Place Object"
+msgstr "Colocar o objeto"
+
+msgid "desc_s_Place Object"
+msgstr "Descrição do objeto s_place"
+
+msgid "s_Sheathe Object"
+msgstr "Objeto de sheathe"
+
+msgid "desc_s_Sheathe Object"
+msgstr "Descrição do objeto s_sheathe"
+
+msgid "s_Unsheathe Object"
+msgstr "Objeto unheathhe"
+
+msgid "desc_s_Unsheathe Object"
+msgstr "Descrição do objeto s_unsheathhe"
+
+msgid "s_Take Object"
+msgstr "Tomar o objeto"
+
+msgid "desc_s_Take Object"
+msgstr "Descrição do objeto_take"
+
+msgid "s_Take Object_1"
+msgstr "Tomar objeto_ 1"
+
+msgid "desc_s_Take Object_1"
+msgstr "Descrição do objeto_take_1"
+
+msgid "s_Ping Waypoint"
+msgstr "Ping waypoint"
+
+msgid "desc_s_Ping Waypoint"
+msgstr ""
+
+msgid "s_Use Item"
+msgstr "Item de uso"
+
+msgid "desc_s_Use Item"
+msgstr ""
+
+msgid "s_Use Object"
+msgstr "Usar objeto"
+
+msgid "desc_s_Use Object"
+msgstr "Descrição do objeto s_use"
+
+msgid "s_Positioning Skills"
+msgstr "Competências de posicionamento"
+
+msgid "desc_s_Positioning Skills"
+msgstr "Descrição das competências de posicionamento"
+
+msgid "s_Crouch"
+msgstr "Agachar"
+
+msgid "desc_s_Crouch"
+msgstr "Descrição de s_crouch"
+
+msgid "s_Kneel"
+msgstr "Ajoelhar"
+
+msgid "desc_s_Kneel"
+msgstr "Descrição de s_kneel"
+
+msgid "s_Lie"
+msgstr "Mentira"
+
+msgid "desc_s_Lie"
+msgstr "Descrição de s_lie"
+
+msgid "s_Special Skills"
+msgstr "Competências especiais"
+
+msgid "desc_s_Special Skills"
+msgstr ""
+
+msgid "s_Stuck"
+msgstr "Preso"
+
+msgid "desc_s_Stuck"
+msgstr ""
+
+msgid "s_Teleport"
+msgstr "Teletransporte"
+
+msgid "desc_s_Teleport"
+msgstr "Descrição de s_teleport"
+
+msgid "s_Teleport Runebook"
+msgstr "Teletransporte Runebook"
+
+msgid "desc_s_Teleport Runebook"
+msgstr "Descrição de s_teleport"
+
+msgid "s_Skills"
+msgstr "Habilidades"
+
+msgid "desc_s_Skills"
+msgstr "Descrição de s_skills"
+
+msgid "s_Combat Skills"
+msgstr "Competências de combate"
+
+msgid "desc_s_Combat Skills"
+msgstr "Habilidades que melhora passivamente sua capacidade de combate."
+
+msgid "s_Armor Proficiency"
+msgstr "Proficiência da armadura"
+
+msgid "desc_s_Armor Proficiency"
+msgstr "Reduz as penalidades da armadura para combate melee."
+
+msgid "s_Armored Archery"
+msgstr "Arco e flecha blindado"
+
+msgid "desc_s_Armored Archery"
+msgstr "Reduz quaisquer penalidades de armadura ao arco e flecha."
+
+msgid "s_Armored Casting"
+msgstr "Fundição blindada"
+
+msgid "desc_s_Armored Casting"
+msgstr "Reduz a pena da armadura para o feitiço. "
+
+msgid "s_Armour and Shield Skills"
+msgstr "Habilidades de armadura e escudo"
+
+msgid "desc_s_Armour and Shield Skills"
+msgstr "Descrição das capacidades de armor e escudo"
+
+msgid "s_Shield Skills"
+msgstr "Competências em escudos"
+
+msgid "desc_s_Shield Skills"
+msgstr "Descrição das competências do escudo"
+
+msgid "s_Axe Mastery"
+msgstr "Domínio do machado"
+
+msgid "desc_s_Axe Mastery"
+msgstr "Aumenta os danos causados ao empunhar eixos de mão única. "
+
+msgid "s_Club Mastery"
+msgstr "Domínio do clube"
+
+msgid "desc_s_Club Mastery"
+msgstr "Aumenta os danos causados ao manusear armas sem corte."
+
+msgid "s_Combat Enhancements"
+msgstr "Combater melhorias"
+
+msgid "desc_s_Combat Enhancements"
+msgstr "Descrição das melhorias s_combat"
+
+msgid "s_Parry"
+msgstr "Aparar"
+
+msgid "desc_s_Parry"
+msgstr ""
+"Pressione e segure o botão Parry (padrão 'V') para entrar no modo de bloco, "
+"reduzindo grandemente os danos da maioria dos ataques. Libertando parry "
+"inflige +100 escuso por 3 segundos, enfraquecendo melee, magia e arco - "
+"comprometer-se a balançar em vez de bater-parrying entre hits."
+
+msgid "s_Greataxe Mastery"
+msgstr "Maestria de greataxe"
+
+msgid "desc_s_Greataxe Mastery"
+msgstr "Aumenta os danos causados ao empunhar eixos de duas mãos."
+
+msgid "s_Greatclub Mastery"
+msgstr "Mastery greatclub"
+
+msgid "desc_s_Greatclub Mastery"
+msgstr "Aumenta os danos causados ao empunhar tacos e martelos de duas mãos."
+
+msgid "s_Greatsword Mastery"
+msgstr "Mastery de grande espada"
+
+msgid "desc_s_Greatsword Mastery"
+msgstr "Aumenta os danos causados ao empunhar espadas de duas mãos."
+
+msgid "s_Knife Mastery"
+msgstr "Maestria da faca"
+
+msgid "desc_s_Knife Mastery"
+msgstr "Aumenta os danos causados ao manejar facas."
+
+msgid "s_Maintenance"
+msgstr "Manutenção"
+
+msgid "desc_s_Maintenance"
+msgstr "Reduz a perda de durabilidade do seu equipamento em combate."
+
+msgid "s_Orkish Brutality"
+msgstr "Brutalidade orkish"
+
+msgid "desc_s_Orkish Brutality"
+msgstr "Aumento dos danos quando se usa uma arma."
+
+msgid "s_Alfar Resilience"
+msgstr "Alfar resiliência"
+
+msgid "desc_s_Alfar Resilience"
+msgstr "Proteções naturais para danos mágicos."
+
+msgid "s_Human Longevity"
+msgstr "Longevidade humana"
+
+msgid "desc_s_Human Longevity"
+msgstr "Aumento da duração de buffs e debuffs."
+
+msgid "s_Mirdain Precision"
+msgstr "Precisão Mirdain"
+
+msgid "desc_s_Mirdain Precision"
+msgstr "Aumento dos danos quando se usa um arco."
+
+msgid "s_Mahirim Reflexes"
+msgstr "Mahirim reflexos"
+
+msgid "desc_s_Mahirim Reflexes"
+msgstr "Proteções naturais para melee e danos ao arco e flecha."
+
+msgid "s_Polearm Mastery"
+msgstr "Mastery polearm"
+
+msgid "desc_s_Polearm Mastery"
+msgstr "Aumenta os danos causados ao empunhar armas."
+
+msgid "s_Sharpshooter"
+msgstr "Atirador de elite"
+
+msgid "desc_s_Sharpshooter"
+msgstr "Aumenta os danos ao arco e flecha."
+
+msgid "s_Sithra Mastery"
+msgstr "Domínio Sithra"
+
+msgid "desc_s_Sithra Mastery"
+msgstr "Aumenta os danos causados ao empunhar sithras."
+
+msgid "s_Sniper"
+msgstr "Atirador de elite"
+
+msgid "desc_s_Sniper"
+msgstr ""
+
+msgid "s_Spirited Archer"
+msgstr "Arqueiro espirituoso"
+
+msgid "desc_s_Spirited Archer"
+msgstr "Reduz o tempo necessário para acenar a flecha."
+
+msgid "s_Sword Mastery"
+msgstr "Domínio da espada"
+
+msgid "desc_s_Sword Mastery"
+msgstr "Aumenta os danos causados ao empunhar espadas de mão única."
+
+msgid "s_Veteran Archer"
+msgstr "Arqueiro veterano"
+
+msgid "desc_s_Veteran Archer"
+msgstr "Reduz o custo de resistência para arco e flecha."
+
+msgid "s_Crafting Skills"
+msgstr "Competências de artesanato"
+
+msgid "desc_s_Crafting Skills"
+msgstr ""
+"Um grupo de habilidades para colher recursos ou usar tais itens para criar, "
+"entre outras coisas armas, armaduras e acessórios."
+
+msgid "s_Dwarven Steelmaster"
+msgstr "Mestre de aço anões"
+
+msgid "desc_s_Dwarven Steelmaster"
+msgstr "Bónus de durabilidade para criar armas e armaduras."
+
+msgid "s_Alfar Intellect"
+msgstr "Alfar intelecto"
+
+msgid "desc_s_Alfar Intellect"
+msgstr "Bónus de durabilidade para pautas crafted."
+
+msgid "s_Dyeing Skills"
+msgstr "Habilidades de coloração"
+
+msgid "desc_s_Dyeing Skills"
+msgstr ""
+
+msgid "s_Dyeing"
+msgstr "Tintura"
+
+msgid "desc_s_Dyeing"
+msgstr ""
+
+msgid "s_Enchantment Skills"
+msgstr "Habilidades de encantamento"
+
+msgid "desc_s_Enchantment Skills"
+msgstr ""
+
+msgid "s_Enchantment"
+msgstr "Encantamento"
+
+msgid "desc_s_Enchantment"
+msgstr ""
+"Permite o encantamento de armas, magestaffs, colares, anéis e armaduras."
+
+msgid "s_Gem Enchanting"
+msgstr "Encantador de gemas"
+
+msgid "desc_s_Gem Enchanting"
+msgstr ""
+"Libertar o poder de pedras preciosas mágicas para encantar peças de "
+"equipamento"
+
+msgid "s_Harvesting Skills"
+msgstr "Competências de colheita"
+
+msgid "desc_s_Harvesting Skills"
+msgstr ""
+
+msgid "s_Digging"
+msgstr "Escavação"
+
+msgid "desc_s_Digging"
+msgstr "Equipar uma pá e tentar cavar para o tesouro.  "
+
+msgid "s_Fishing"
+msgstr "Pesca"
+
+msgid "desc_s_Fishing"
+msgstr ""
+"Equip uma vara de pesca e pressione o botão Ação perto da água para pescar."
+
+msgid "s_Fishing Mastery"
+msgstr "Domínio da pesca"
+
+msgid "desc_s_Fishing Mastery"
+msgstr "Reduz o tempo necessário para capturar peixes."
+
+msgid "s_Herb Gathering"
+msgstr "Recolha de ervas"
+
+msgid "desc_s_Herb Gathering"
+msgstr ""
+"Pressione Use a tecla enquanto mira arbustos e plantas para equipar foice e "
+"pressione o botão Ação para coletar ervas. "
+
+msgid "s_Herb Gathering Mastery"
+msgstr "Domínio de coleta de ervas"
+
+msgid "desc_s_Herb Gathering Mastery"
+msgstr "Diminui o tempo necessário para colher ervas. "
+
+msgid "s_Logging"
+msgstr "Corte de madeira"
+
+msgid "desc_s_Logging"
+msgstr ""
+"Pressione Use a tecla enquanto mira árvores grandes para equipar machado de "
+"madeira e pressione o botão Ação para cortar madeira."
+
+msgid "s_Logging Mastery"
+msgstr "Maestria de registro"
+
+msgid "desc_s_Logging Mastery"
+msgstr "Diminui o tempo necessário para o registo."
+
+msgid "s_Mining"
+msgstr "Mineração"
+
+msgid "desc_s_Mining"
+msgstr ""
+"Pressione Use a tecla enquanto mira certas rochas para equipar picareta e "
+"pressione o botão Ação para minar pedra ou metais."
+
+msgid "s_Mining Mastery"
+msgstr "Domínio da mineração"
+
+msgid "desc_s_Mining Mastery"
+msgstr "Diminui o tempo necessário para a mineração."
+
+msgid "s_Skinning"
+msgstr "Esfolar"
+
+msgid "desc_s_Skinning"
+msgstr ""
+"Pressione Use a tecla enquanto direciona as lápides do monstro para equipar "
+"o skinner e pressione o botão Ação para extrair recursos. "
+
+msgid "s_Skinning_1"
+msgstr "Skinning_1"
+
+msgid "desc_s_Skinning_1"
+msgstr ""
+
+msgid "s_Industry"
+msgstr "Indústria"
+
+msgid "desc_s_Industry"
+msgstr "Reduz o tempo de todos os trabalhos."
+
+msgid "s_Manufacturing Skills"
+msgstr "Competências de fabrico"
+
+msgid "desc_s_Manufacturing Skills"
+msgstr ""
+
+msgid "s_Anvil Skills"
+msgstr "Competências das bigornas"
+
+msgid "desc_s_Anvil Skills"
+msgstr "Descrição das competências de trabalho s_metal"
+
+msgid "s_Armorsmithing"
+msgstr "Fabricação de armaduras"
+
+msgid "desc_s_Armorsmithing"
+msgstr ""
+"Usado para criar peças de armadura de metal. Fique perto de um ferreiro e "
+"pressione Use o botão para começar a crafting. "
+
+msgid "s_Armorsmithing Mastery"
+msgstr "Mastery armsmithing"
+
+msgid "desc_s_Armorsmithing Mastery"
+msgstr "Permite o fabrico de armaduras usando metais raros. "
+
+msgid "s_Engineering"
+msgstr "Engenharia"
+
+msgid "desc_s_Engineering"
+msgstr ""
+"O projeto, construção e uso de motores, máquinas e estruturas.  Fique perto "
+"de um ferreiro e pressione Use o botão para começar a crafting."
+
+msgid "s_Artillery Construction"
+msgstr "Construção de artilharia"
+
+msgid "desc_s_Artillery Construction"
+msgstr ""
+"Permite a criação de várias máquinas e implementos de guerra. Fique perto de"
+" um ferreiro e pressione Use o botão para começar a crafting."
+
+msgid "s_Bloodcraft"
+msgstr "Bloodcraft"
+
+msgid "desc_s_Bloodcraft"
+msgstr ""
+"A habilidade de criar vestuário com encantamentos inerentes, concedendo um "
+"bônus à Saúde, mas uma penalidade para Mana.  "
+
+msgid "s_Shadecraft"
+msgstr "Shadecraft"
+
+msgid "desc_s_Shadecraft"
+msgstr ""
+"A habilidade de criar vestuário com encantamentos inerentes, concedendo um "
+"bônus a Mana, mas uma penalidade para a Saúde."
+
+msgid "s_Weaponsmithing"
+msgstr "Fabricação de armas"
+
+msgid "desc_s_Weaponsmithing"
+msgstr ""
+"Usado na criação de armas. Fique perto de um ferreiro e pressione Use o "
+"botão para começar a crafting."
+
+msgid "s_Weaponsmithing Mastery"
+msgstr "Mastery armsmithing"
+
+msgid "desc_s_Weaponsmithing Mastery"
+msgstr "Permite o uso de metais raros na fabricação de armas."
+
+msgid "s_Foundry Skills"
+msgstr "Competências de fundição"
+
+msgid "desc_s_Foundry Skills"
+msgstr ""
+
+msgid "s_Engineering Mastery"
+msgstr "Domínio da engenharia"
+
+msgid "desc_s_Engineering Mastery"
+msgstr ""
+"O projeto, construção e uso de motores, máquinas e estruturas.  Fique perto "
+"de uma fundição e pressione Use botão para começar a crafting."
+
+msgid "s_Warhulk Construction"
+msgstr "Warhulk construção civil"
+
+msgid "desc_s_Warhulk Construction"
+msgstr ""
+"Permite a criação de várias máquinas e implementos de guerra. Fique perto de"
+" uma fundição e pressione Use botão para começar a crafting."
+
+msgid "s_Laboratory Skills"
+msgstr "Competências laboratoriais"
+
+msgid "desc_s_Laboratory Skills"
+msgstr "Descrição das habilidades de s_dragoncraft"
+
+msgid "s_Alchemy"
+msgstr "Alquimia"
+
+msgid "desc_s_Alchemy"
+msgstr ""
+"Um processo mágico usado para transformar, criar e combinar itens. Fique "
+"perto de um laboratório e pressione Use o botão para começar a crafting."
+
+msgid "s_Alchemy Mastery"
+msgstr "Domínio da alquimia"
+
+msgid "desc_s_Alchemy Mastery"
+msgstr ""
+"Um processo mágico usado para transformar, criar e combinar itens. Fique "
+"perto de um laboratório e pressione Use o botão para começar a crafting."
+
+msgid "s_Scribing"
+msgstr "Inscrição"
+
+msgid "desc_s_Scribing"
+msgstr "Usado para escrever rolos, livros e fabricação de produtos de papel."
+
+msgid "s_Jewelsmithing"
+msgstr "Joalheria"
+
+msgid "desc_s_Jewelsmithing"
+msgstr ""
+"Usado para criar acessórios como anéis ou colares. Fique perto de um "
+"laboratório e pressione Use o botão para começar a crafting."
+
+msgid "s_Mortar and Pestle Skills"
+msgstr "Argamassa e pilão"
+
+msgid "desc_s_Mortar and Pestle Skills"
+msgstr ""
+
+msgid "s_Mixing"
+msgstr "Mistura"
+
+msgid "desc_s_Mixing"
+msgstr ""
+"Usado para combinar poções. Fique perto de um laboratório e pressione Use o "
+"botão para começar a crafting."
+
+msgid "s_Dye Crafting"
+msgstr "Fabrico de corantes"
+
+msgid "desc_s_Dye Crafting"
+msgstr ""
+"Usado para criar novos corantes. Fique perto de um laboratório e pressione "
+"Use o botão para começar a crafting."
+
+msgid "s_Schematics"
+msgstr "Esquemas"
+
+msgid "desc_s_Schematics"
+msgstr "Usado para criar a Esquemática para pesquisa."
+
+msgid "s_Oven Skills"
+msgstr "Competências em forno"
+
+msgid "desc_s_Oven Skills"
+msgstr "Descrição das competências de artesanato geral"
+
+msgid "s_Cooking"
+msgstr "Culinária"
+
+msgid "desc_s_Cooking"
+msgstr ""
+"Usado quando se faz comida. Fique perto de um forno e pressione Use o botão "
+"para iniciar."
+
+msgid "s_Cooking Mastery"
+msgstr "Domínio da cozinha"
+
+msgid "desc_s_Cooking Mastery"
+msgstr ""
+"Usado na fabricação de alimentos avançados. Fique perto de um forno e "
+"pressione Use o botão para iniciar."
+
+msgid "s_Shipyard Skills"
+msgstr "Competências do estaleiro naval"
+
+msgid "desc_s_Shipyard Skills"
+msgstr ""
+
+msgid "s_Shipbuilding"
+msgstr "Construção naval"
+
+msgid "desc_s_Shipbuilding"
+msgstr ""
+"Usado na criação de navios ou grandes jangadas. Fique perto de uma bancada e"
+" pressione Use o botão para começar a crafting."
+
+msgid "s_Shipbuilding Mastery"
+msgstr "Domínio da construção naval"
+
+msgid "desc_s_Shipbuilding Mastery"
+msgstr ""
+"Usado na criação de navios ou grandes jangadas. Fique perto de um estaleiro "
+"e pressione Use o botão para começar a crafting."
+
+msgid "s_Smelter Skills"
+msgstr "Competências de fundição"
+
+msgid "desc_s_Smelter Skills"
+msgstr ""
+
+msgid "s_Smelting"
+msgstr "Fundição"
+
+msgid "desc_s_Smelting"
+msgstr ""
+"Usado ao transformar minério em lingotes. Fique perto de uma fundição e "
+"pressione Use o botão para iniciar."
+
+msgid "s_Tanning Skills"
+msgstr "Habilidades de bronzeamento"
+
+msgid "desc_s_Tanning Skills"
+msgstr ""
+
+msgid "s_Tanning"
+msgstr "Curtimento"
+
+msgid "desc_s_Tanning"
+msgstr ""
+"Usado ao transformar couro cru em couro. Fique perto de uma bancada de "
+"trabalho e pressione Use o botão para iniciar."
+
+msgid "s_Weaving Skills"
+msgstr "Habilidades de tecelagem"
+
+msgid "desc_s_Weaving Skills"
+msgstr ""
+
+msgid "s_Weaving"
+msgstr "Tecelagem"
+
+msgid "desc_s_Weaving"
+msgstr ""
+"Usado ao transformar algodão em pano. Fique perto de uma bancada de trabalho"
+" e pressione Use o botão para iniciar."
+
+msgid "s_Taming Skills"
+msgstr "Habilidades de domagem"
+
+msgid "desc_s_Taming Skills"
+msgstr ""
+
+msgid "s_Taming"
+msgstr "Domesticação"
+
+msgid "desc_s_Taming"
+msgstr ""
+"Usado ao convocar montagens. Abra a janela de crafting e selecione doming "
+"para iniciar."
+
+msgid "s_Test Crafting Skill"
+msgstr "Habilidade de crafting de teste"
+
+msgid "desc_s_Test Crafting Skill"
+msgstr ""
+
+msgid "s_Workbench Skills"
+msgstr "Competências na bancada de trabalho"
+
+msgid "desc_s_Workbench Skills"
+msgstr "Descrição das competências de trabalho s_wood"
+
+msgid "s_Staff Crafting"
+msgstr "Artesanato de pessoal"
+
+msgid "desc_s_Staff Crafting"
+msgstr ""
+"Usado ao criar pautas. Fique perto de uma bancada e pressione Use o botão "
+"para começar a crafting."
+
+msgid "s_Staff Crafting Mastery"
+msgstr "Mestria de artesanato de pessoal"
+
+msgid "desc_s_Staff Crafting Mastery"
+msgstr ""
+"Usado ao criar pautas. Fique perto de uma bancada e pressione Use o botão "
+"para começar a crafting."
+
+msgid "s_Bowyer"
+msgstr "Fabricação de arcos"
+
+msgid "desc_s_Bowyer"
+msgstr ""
+"Usado na criação de arcos ou flechas. Fique perto de uma bancada e pressione"
+" Use o botão para começar a crafting."
+
+msgid "s_Bowyer Mastery"
+msgstr "Mastery bowyer"
+
+msgid "desc_s_Bowyer Mastery"
+msgstr "Permite o crafting de arcos avançados."
+
+msgid "s_Construction"
+msgstr "Construção"
+
+msgid "desc_s_Construction"
+msgstr ""
+"Usado para crafting módulos de casa e outros itens diversos. Fique perto de "
+"uma bancada e pressione Use o botão para começar a crafting."
+
+msgid "s_Tailoring"
+msgstr "Alfaiataria"
+
+msgid "desc_s_Tailoring"
+msgstr ""
+"Usado para criar roupas e armadura não-metal. Fique perto de uma bancada de "
+"trabalho e pressione o botão Usar para começar a crafting. "
+
+msgid "s_Tailoring Mastery"
+msgstr "Maestria de alfaiataria"
+
+msgid "desc_s_Tailoring Mastery"
+msgstr "Permite o crafting de armaduras e vestes usando couro raro e pano."
+
+msgid "s_Tinkering"
+msgstr "Engenhocas"
+
+msgid "desc_s_Tinkering"
+msgstr "Descrição de s_tinkering"
+
+msgid "s_Woodcutting"
+msgstr "Corte de madeira"
+
+msgid "desc_s_Woodcutting"
+msgstr ""
+"Usado para refinar madeira em madeira. Fique perto de uma bancada de "
+"trabalho e pressione Use o botão para iniciar."
+
+msgid "s_Woodworking"
+msgstr "Trabalho de madeira"
+
+msgid "desc_s_Woodworking"
+msgstr "Descrição do trabalho em madeira"
+
+msgid "s_Repair Skills"
+msgstr "Competências de reparação"
+
+msgid "desc_s_Repair Skills"
+msgstr ""
+
+msgid "s_Repair"
+msgstr "Reparação"
+
+msgid "desc_s_Repair"
+msgstr ""
+"Equip ferramentas de reparo e pressione o botão Ação para reparar "
+"estruturas. Isto consome um fragmento de reparação."
+
+msgid "s_Trueforge Armor"
+msgstr "Armadura forja verdadeira"
+
+msgid "desc_s_Trueforge Armor"
+msgstr "Dá um bônus de durabilidade para vestuário artesanal."
+
+msgid "s_Trueforge Weapon"
+msgstr "Arma trueforge"
+
+msgid "desc_s_Trueforge Weapon"
+msgstr "Dá um bônus de durabilidade para armas e funcionários artesanais."
+
+msgid "s_General Skills"
+msgstr "Competências gerais"
+
+msgid "desc_s_General Skills"
+msgstr "Várias habilidades para melhorar o seu caráter. "
+
+msgid "s_Scan Resources"
+msgstr "Recursos de digitalização"
+
+msgid "desc_s_Scan Resources"
+msgstr "Ver a quantidade do nó do recurso"
+
+msgid "s_Acrobatics"
+msgstr "Acrobacias"
+
+msgid "desc_s_Acrobatics"
+msgstr "Reduz os danos causados pela queda."
+
+msgid "s_Alfar Cunning"
+msgstr "Alfar astúcia"
+
+msgid "desc_s_Alfar Cunning"
+msgstr "Dá um pequeno bónus ao máximo Mana."
+
+msgid "s_Bindstone Recall"
+msgstr "Bindstone recall"
+
+msgid "desc_s_Bindstone Recall"
+msgstr ""
+"Pressione o botão Ação para teletransportar para o seu ponto de ligação "
+"atual."
+
+msgid "s_Summon Mount"
+msgstr "Convocar o monte"
+
+msgid "desc_s_Summon Mount"
+msgstr "Invoque a estatueta ativa na sua boneca de papel."
+
+msgid "s_Capital Recall"
+msgstr "Faction capitall remember"
+
+msgid "desc_s_Capital Recall"
+msgstr ""
+"Pressione o botão Ação para teletransportar para a capital da sua facção. O "
+"arrefecimento irá variar dependendo do seu alinhamento."
+
+msgid "s_House Recall"
+msgstr "Recall da casa"
+
+msgid "desc_s_House Recall"
+msgstr "Pressione o botão Ação para teletransportar para sua casa. "
+
+msgid "s_Orkish Capacity"
+msgstr "Capacidade orkish"
+
+msgid "desc_s_Orkish Capacity"
+msgstr "Aumento do limite de peso da mochila."
+
+msgid "s_Athletic Skills"
+msgstr "Habilidades atléticas"
+
+msgid "desc_s_Athletic Skills"
+msgstr "Descrição das competências s_atléticas"
+
+msgid "s_Falling Technique"
+msgstr "Técnica de queda"
+
+msgid "desc_s_Falling Technique"
+msgstr "Descrição da técnica s_falling"
+
+msgid "s_Clever"
+msgstr "Inteligente"
+
+msgid "desc_s_Clever"
+msgstr "Aumenta o máximo de inteligência."
+
+msgid "s_Set Pvp"
+msgstr "Definir pvp"
+
+msgid "desc_s_Set Pvp"
+msgstr "Define a bandeira pvp dos jogadores.  "
+
+msgid "s_Constitution"
+msgstr "Constituição"
+
+msgid "desc_s_Constitution"
+msgstr "Dá resistência a venenos, doenças e ataques semelhantes.  "
+
+msgid "s_Defense"
+msgstr "Defesa"
+
+msgid "desc_s_Defense"
+msgstr "Concede resistência contra flechas e ataques melee. "
+
+msgid "s_Diving"
+msgstr "Mergulho"
+
+msgid "desc_s_Diving"
+msgstr "Aumenta a capacidade pulmonar máxima."
+
+msgid "s_Dwarven Durability"
+msgstr "Durabilidade de anões"
+
+msgid "desc_s_Dwarven Durability"
+msgstr "Dá um pequeno bônus para o máximo de saúde. "
+
+msgid "s_Mirdain Sight"
+msgstr "Mirdain visão"
+
+msgid "desc_s_Mirdain Sight"
+msgstr ""
+"A visão aguçada dos Mirdain permite-lhes identificar pessoas de uma "
+"distância mais distante do que outras."
+
+msgid "s_Endurance"
+msgstr "Resistência"
+
+msgid "desc_s_Endurance"
+msgstr "Determina a taxa natural de regeneração da resistência."
+
+msgid "s_Fitness"
+msgstr "Fitness"
+
+msgid "desc_s_Fitness"
+msgstr "Determina a taxa natural de regeneração da saúde. "
+
+msgid "s_Fleet"
+msgstr "Frota"
+
+msgid "desc_s_Fleet"
+msgstr "Aumenta a rapidez máxima."
+
+msgid "s_Fortitude"
+msgstr "Fortaleza"
+
+msgid "desc_s_Fortitude"
+msgstr "Concede resistência contra maldições. "
+
+msgid "s_Health"
+msgstr "Vida"
+
+msgid "desc_s_Health"
+msgstr "Descrição de s_endurance"
+
+msgid "s_Human Ingenuity"
+msgstr "Engenhosidade humana"
+
+msgid "desc_s_Human Ingenuity"
+msgstr ""
+"Faz melhor uso de alguns alimentos, efetivamente aumentando a duração do "
+"bônus de nutrição."
+
+msgid "s_Human Willpower"
+msgstr "Força de vontade humana"
+
+msgid "desc_s_Human Willpower"
+msgstr "Dá um pequeno bónus ao máximo Mana."
+
+msgid "s_Ignore Pain"
+msgstr "Ignorar a dor"
+
+msgid "desc_s_Ignore Pain"
+msgstr "Concede uma proteção inerente contra danos causados por armas."
+
+msgid "s_Ingenious"
+msgstr "Engenhoso"
+
+msgid "desc_s_Ingenious"
+msgstr "Aumenta a sabedoria máxima."
+
+msgid "s_Jump"
+msgstr "Pular"
+
+msgid "desc_s_Jump"
+msgstr "Pressione espaço para saltar."
+
+msgid "s_Mahirim Endurance"
+msgstr "Mahirim resistência"
+
+msgid "desc_s_Mahirim Endurance"
+msgstr "Dá um pequeno bónus ao máximo de resistência. "
+
+msgid "s_Mahirim Huntspeed"
+msgstr "Mahirim velocidade de caça"
+
+msgid "desc_s_Mahirim Huntspeed"
+msgstr "Dá um ligeiro aumento na velocidade normal de corrida."
+
+msgid "s_Medical Skills"
+msgstr "Competências médicas"
+
+msgid "desc_s_Medical Skills"
+msgstr ""
+
+msgid "s_Revive"
+msgstr "Reanimar"
+
+msgid "desc_s_Revive"
+msgstr ""
+"Ajuda um personagem moribundo. Pressione o botão Ação para iniciar a "
+"habilidade."
+
+msgid "s_Revive_1"
+msgstr "Revive_1"
+
+msgid "desc_s_Revive_1"
+msgstr "Descrição de s_revive_1"
+
+msgid "s_Mugging"
+msgstr "Assalto"
+
+msgid "desc_s_Mugging"
+msgstr "Esfregar um adversário indefeso.     "
+
+msgid "s_Might"
+msgstr "Pode"
+
+msgid "desc_s_Might"
+msgstr "Descrição de s_ might"
+
+msgid "s_Mirdain Insight"
+msgstr "Mirdain insight"
+
+msgid "desc_s_Mirdain Insight"
+msgstr "Dá um pequeno bónus ao máximo de resistência."
+
+msgid "s_Movement Skills"
+msgstr "Competências em movimentos"
+
+msgid "desc_s_Movement Skills"
+msgstr "Descrição das competências s_movimento"
+
+msgid "s_Crouch walk"
+msgstr "Caminhada agachada"
+
+msgid "desc_s_Crouch walk"
+msgstr "Determina a velocidade de movimento enquanto se agacha."
+
+msgid "s_Riding"
+msgstr "Equitação"
+
+msgid "desc_s_Riding"
+msgstr "Reduz o custo de resistência para montar montagens."
+
+msgid "s_Run"
+msgstr "Executar"
+
+msgid "desc_s_Run"
+msgstr "Aumenta ligeiramente a velocidade durante a corrida."
+
+msgid "s_Sprint"
+msgstr "Correr"
+
+msgid "desc_s_Sprint"
+msgstr "Reduz a resistência perdida ao correr."
+
+msgid "s_Swimming"
+msgstr "Natação"
+
+msgid "desc_s_Swimming"
+msgstr ""
+"Pressione C para mergulhar debaixo d'água. Pare de se mover para derivar "
+"automaticamente para cima. "
+
+msgid "s_Muscular"
+msgstr "Músculo"
+
+msgid "desc_s_Muscular"
+msgstr "Aumenta a força máxima."
+
+msgid "s_Nimble"
+msgstr "Ágil"
+
+msgid "desc_s_Nimble"
+msgstr "Aumenta o máximo de destreza."
+
+msgid "s_Orkish Toughness"
+msgstr "Tenacidade orkish"
+
+msgid "desc_s_Orkish Toughness"
+msgstr "Dá um pequeno bônus para o máximo de saúde."
+
+msgid "s_Pack Mule"
+msgstr "Embalar mula"
+
+msgid "desc_s_Pack Mule"
+msgstr "Aumenta o peso máximo de inventário permitido."
+
+msgid "s_Perseverance"
+msgstr "Perseverança"
+
+msgid "desc_s_Perseverance"
+msgstr "Concede um pequeno bónus ao máximo de resistência. "
+
+msgid "s_Poison Resistance"
+msgstr "Resistência ao veneno"
+
+msgid "desc_s_Poison Resistance"
+msgstr ""
+
+msgid "s_Pray"
+msgstr "Rezar"
+
+msgid "desc_s_Pray"
+msgstr ""
+
+msgid "s_Push"
+msgstr "Empurrar"
+
+msgid "desc_s_Push"
+msgstr "Descrição do s_push"
+
+msgid "s_Read"
+msgstr "Ler"
+
+msgid "desc_s_Read"
+msgstr ""
+"Permite o estudo de manuais de habilidade ou pergaminhos ortográficos."
+
+msgid "s_Open Package"
+msgstr "Pacote aberto"
+
+msgid "desc_s_Open Package"
+msgstr "Abrir um pacote"
+
+msgid "s_Reflex"
+msgstr "Reflexo"
+
+msgid "desc_s_Reflex"
+msgstr "Dá resistência aos ataques de áreas elementares."
+
+msgid "s_Rest"
+msgstr "Descansar"
+
+msgid "desc_s_Rest"
+msgstr ""
+"Enquanto descansa, Health, Mana e Stamina são regenerados mais rápido. O "
+"bônus de regeneração do repouso é dobrado após 30 segundos."
+
+msgid "s_Rest_1"
+msgstr "Rest_1"
+
+msgid "desc_s_Rest_1"
+msgstr "Descrição de s_ healing chant_1"
+
+msgid "s_Camp"
+msgstr "Acampamento"
+
+msgid "desc_s_Camp"
+msgstr "Preparem-se para acampar!"
+
+msgid "s_Camp_1"
+msgstr "Camp_1"
+
+msgid "desc_s_Camp_1"
+msgstr "Descrição de s_camp 01"
+
+msgid "s_Rigor"
+msgstr "Rigor"
+
+msgid "desc_s_Rigor"
+msgstr "Proteção inerente contra todos os tipos de danos. "
+
+msgid "s_Scout"
+msgstr "Batedor"
+
+msgid "desc_s_Scout"
+msgstr ""
+
+msgid "s_Spotter"
+msgstr "Localizador"
+
+msgid "desc_s_Spotter"
+msgstr "Aumenta o alcance de identificação."
+
+msgid "s_Stamina"
+msgstr "Vigor"
+
+msgid "desc_s_Stamina"
+msgstr "Descrição de s_stamina"
+
+msgid "s_Sturdy"
+msgstr "Resistente"
+
+msgid "desc_s_Sturdy"
+msgstr "Aumenta a máxima Vitalidade."
+
+msgid "s_Survivalist"
+msgstr "Sobrevivencialista"
+
+msgid "desc_s_Survivalist"
+msgstr "Aumenta a duração do bônus de nutrição obtido de alguns alimentos."
+
+msgid "s_Tireless"
+msgstr "Incansável"
+
+msgid "desc_s_Tireless"
+msgstr ""
+"Melhora a velocidade de movimento enquanto lento devido ao transporte de um "
+"inventário muito pesado."
+
+msgid "s_Toughness"
+msgstr "Tenacidade"
+
+msgid "desc_s_Toughness"
+msgstr "Dá um pequeno bônus para a saúde máxima."
+
+msgid "s_Unspawn Object"
+msgstr "Objeto unspawn"
+
+msgid "desc_s_Unspawn Object"
+msgstr "Descrição do objeto s_use"
+
+msgid "s_Willpower"
+msgstr "Força de vontade"
+
+msgid "desc_s_Willpower"
+msgstr "Concede resistência contra ataques mentais. "
+
+msgid "s_Improvement Skills"
+msgstr "Competências de melhoria"
+
+msgid "desc_s_Improvement Skills"
+msgstr "Descrição das melhorias s_physical"
+
+msgid "s_Mana Bonus"
+msgstr "Bônus mana"
+
+msgid "desc_s_Mana Bonus"
+msgstr ""
+
+msgid "s_Magic Skills"
+msgstr "Habilidades mágicas"
+
+msgid "desc_s_Magic Skills"
+msgstr ""
+"Capacidades metamágicas que melhoram todos os feitiços pertencentes a "
+"escolas específicas. "
+
+msgid "s_Archmage"
+msgstr "Arquemagem"
+
+msgid "desc_s_Archmage"
+msgstr ""
+"Só um verdadeiro mestre das artes da magia ganhará o título de Arquimago!"
+
+msgid "s_Esoteric"
+msgstr "Esotérico"
+
+msgid "desc_s_Esoteric"
+msgstr "Dá um pequeno bónus ao máximo de Mana. "
+
+msgid "s_Focus"
+msgstr "Foco"
+
+msgid "desc_s_Focus"
+msgstr "Determina a taxa natural de regeneração de Mana."
+
+msgid "s_Magic Schools_Skills"
+msgstr "Escolas mágicas_skills"
+
+msgid "desc_s_Magic Schools_Skills"
+msgstr "Descrição de s_magic schools_skills"
+
+msgid "s_Air Magic"
+msgstr "Magia do ar"
+
+msgid "desc_s_Air Magic"
+msgstr ""
+"A escola de Air Magic concede ao seu usuário o poder de relâmpagos e "
+"tempestades. Geralmente estes feitiços lidam com uma quantidade um pouco "
+"modesta de danos, mas ainda são altamente eficazes, uma vez que são difíceis"
+" de defender. "
+
+msgid "s_Durable Spells_Air Magic"
+msgstr "Magia enfeites _ar durável"
+
+msgid "desc_s_Durable Spells_Air Magic"
+msgstr "Aumenta a duração dos feitiços Air Magic."
+
+msgid "s_Intensify_Air Magic"
+msgstr "Intensificar_ar magia"
+
+msgid "desc_s_Intensify_Air Magic"
+msgstr "Aumenta a magnitude dos feitiços Air Magic."
+
+msgid "s_Mana Efficiency_Air Magic"
+msgstr "Mana efficiency_air magic"
+
+msgid "desc_s_Mana Efficiency_Air Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços Air Magic."
+
+msgid "s_Quicken Spells_Air Magic"
+msgstr "Acelerar feitiços_ar magia"
+
+msgid "desc_s_Quicken Spells_Air Magic"
+msgstr "Diminui o tempo de fundição dos feitiços Air Magic."
+
+msgid "s_Arcane Magic"
+msgstr "Magia arcana"
+
+msgid "desc_s_Arcane Magic"
+msgstr ""
+"Arcane Magic lida com feitiços divinos e com a própria natureza da magia. "
+"Como tal, seus feitiços ofensivos causam danos sagrados enquanto os feitiços"
+" defensivos protegem contra doenças mentais ou podem até mesmo virar a magia"
+" de um inimigo contra ele. "
+
+msgid "s_Durable Spells_Arcane Magic"
+msgstr "Magia enfeitiçada durável_arcane"
+
+msgid "desc_s_Durable Spells_Arcane Magic"
+msgstr "Aumenta a duração dos feitiços Arcane Magic."
+
+msgid "s_Intensify_Arcane Magic"
+msgstr "Intensificar a magia_arcane"
+
+msgid "desc_s_Intensify_Arcane Magic"
+msgstr "Aumenta a magnitude dos feitiços Arcane Magic."
+
+msgid "s_Mana Efficiency_Arcane Magic"
+msgstr "Magia mana efficiency_arcane"
+
+msgid "desc_s_Mana Efficiency_Arcane Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços Arcane Magic."
+
+msgid "s_Quicken Spells_Arcane Magic"
+msgstr "Quicken feitiços_arcane magia"
+
+msgid "desc_s_Quicken Spells_Arcane Magic"
+msgstr "Diminui o tempo de fundição dos feitiços Arcane Magic."
+
+msgid "s_Divine Magic"
+msgstr "Magia divina"
+
+msgid "desc_s_Divine Magic"
+msgstr ""
+
+msgid "s_Earth Magic"
+msgstr "Magia da terra"
+
+msgid "desc_s_Earth Magic"
+msgstr ""
+"Adeptos da Terra Magia controla tanto o poder de resistência e corrosão.  "
+"Eles são únicos em saber maneiras de proteger eficientemente contra armas "
+"melee sem vestir armadura pesada.   "
+
+msgid "s_Durable Spells_Earth Magic"
+msgstr "Feitiços duráveis_terra mágica"
+
+msgid "desc_s_Durable Spells_Earth Magic"
+msgstr "Aumenta a duração dos feitiços de magia da Terra."
+
+msgid "s_Intensify_Earth Magic"
+msgstr "Intensificar a magia_terra"
+
+msgid "desc_s_Intensify_Earth Magic"
+msgstr "Aumenta a magnitude dos feitiços mágicos da Terra."
+
+msgid "s_Mana Efficiency_Earth Magic"
+msgstr "Mana efficiency_earth magic"
+
+msgid "desc_s_Mana Efficiency_Earth Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços mágicos da Terra."
+
+msgid "s_Quicken Spells_Earth Magic"
+msgstr "Acelerar feitiços_terra mágica"
+
+msgid "desc_s_Quicken Spells_Earth Magic"
+msgstr "Diminui o tempo de lançamento dos feitiços de magia da Terra."
+
+msgid "s_Fire Magic"
+msgstr "Magia do fogo"
+
+msgid "desc_s_Fire Magic"
+msgstr ""
+"Uma escola composta principalmente por feitiços que causam destruição "
+"ardente. Também ensina alguma rapidez a encantar a magia. "
+
+msgid "s_Durable Spells_Fire Magic"
+msgstr "Magia de fogo de feitiços duráveis"
+
+msgid "desc_s_Durable Spells_Fire Magic"
+msgstr "Aumenta a duração dos feitiços de magia de fogo."
+
+msgid "s_Intensify_Fire Magic"
+msgstr "Intensificar a magia_ fogo"
+
+msgid "desc_s_Intensify_Fire Magic"
+msgstr "Aumenta a magnitude dos feitiços de magia do fogo."
+
+msgid "s_Mana Efficiency_Fire Magic"
+msgstr "Mana efficiency_fire magic"
+
+msgid "desc_s_Mana Efficiency_Fire Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços de magia de fogo."
+
+msgid "s_Quicken Spells_Fire Magic"
+msgstr "Acelerar feitiços_fire magic"
+
+msgid "desc_s_Quicken Spells_Fire Magic"
+msgstr "Diminui o tempo de lançamento dos feitiços de magia de fogo."
+
+msgid "s_Greater Magic"
+msgstr "Magia maior"
+
+msgid "desc_s_Greater Magic"
+msgstr ""
+"Magia Maior é uma escola versátil, consistindo em feitiços ofensivos e "
+"defensivos de natureza variada. Entre outras coisas, ensina como infligir "
+"veneno ou feridas a um inimigo que sangram excessivamente.  "
+
+msgid "s_Durable Spells_Greater Magic"
+msgstr "Feitiços duráveis_maior magia"
+
+msgid "desc_s_Durable Spells_Greater Magic"
+msgstr "Aumenta a duração dos feitiços de Magia Maior."
+
+msgid "s_Intensify_Greater Magic"
+msgstr "Intensificar_maior magia"
+
+msgid "desc_s_Intensify_Greater Magic"
+msgstr "Aumenta a magnitude dos feitiços de Magia Maior."
+
+msgid "s_Mana Efficiency_Greater Magic"
+msgstr "Mana efficiency_maior magia"
+
+msgid "desc_s_Mana Efficiency_Greater Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços de Magia Maior."
+
+msgid "s_Quicken Spells_Greater Magic"
+msgstr "Acelerar feitiços_maior magia"
+
+msgid "desc_s_Quicken Spells_Greater Magic"
+msgstr "Diminui o tempo de fundição dos feitiços da Magia Maior."
+
+msgid "s_Lesser Magic"
+msgstr "Magia menor"
+
+msgid "desc_s_Lesser Magic"
+msgstr ""
+"A escola introdutória de magia todos os lançadores de feitiços novatos devem"
+" aprender. A Magia Menor oferece uma variedade variada de feitiços, e embora"
+" sejam relativamente simples, eles são muitas vezes úteis mesmo para um mago"
+" veterano."
+
+msgid "s_Durable Spells_Lesser Magic"
+msgstr "Magia enfeitiços_menos durável"
+
+msgid "desc_s_Durable Spells_Lesser Magic"
+msgstr "Aumenta a duração dos feitiços de Magia Menor."
+
+msgid "s_Intensify_Lesser Magic"
+msgstr "Intensificar_menos a magia"
+
+msgid "desc_s_Intensify_Lesser Magic"
+msgstr "Aumenta a magnitude dos feitiços de Magia Menor."
+
+msgid "s_Mana Efficiency_Lesser Magic"
+msgstr "Mana efficiency_lesser magic"
+
+msgid "desc_s_Mana Efficiency_Lesser Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços de menor magia."
+
+msgid "s_Quicken Spells_Lesser Magic"
+msgstr "Acelerar feitiços_menos magia"
+
+msgid "desc_s_Quicken Spells_Lesser Magic"
+msgstr "Diminui o tempo de lançamento dos feitiços de Magia Menor."
+
+msgid "s_Necromancy"
+msgstr "Necromancia"
+
+msgid "desc_s_Necromancy"
+msgstr ""
+"A necromancia tira o poder dos domínios dos mortos para alimentar a sua "
+"magia profana. Seus feitiços ofensivos são altamente potentes, assim como "
+"seus ataques debilitantes.  "
+
+msgid "s_Durable Spells_Necromancy"
+msgstr "Feitiços duráveis_necromancia"
+
+msgid "desc_s_Durable Spells_Necromancy"
+msgstr "Aumenta a duração dos feitiços de necromancia."
+
+msgid "s_Intensify_Necromancy"
+msgstr "Intensify_Necromancy"
+
+msgid "desc_s_Intensify_Necromancy"
+msgstr "Aumenta a magnitude dos feitiços de Necromancia."
+
+msgid "s_Mana Efficiency_Necromancy"
+msgstr "Mana efficiency_necromancy"
+
+msgid "desc_s_Mana Efficiency_Necromancy"
+msgstr "Diminui o Mana gasto para lançar feitiços de Necromancia."
+
+msgid "s_Quicken Spells_Necromancy"
+msgstr "Acelerar feitiços_necromancia"
+
+msgid "desc_s_Quicken Spells_Necromancy"
+msgstr "Diminui o tempo de lançamento dos feitiços de Necromancia."
+
+msgid "s_Ritual Magic"
+msgstr "Magia ritual"
+
+msgid "desc_s_Ritual Magic"
+msgstr "Descrição de s_ritual magic"
+
+msgid "s_Durable Spells_Ritual Magic"
+msgstr "Feitiços duráveis_mágica ritual"
+
+msgid "desc_s_Durable Spells_Ritual Magic"
+msgstr "Descrição de feitiços duráveis_magia ritual"
+
+msgid "s_Intensify_Ritual Magic"
+msgstr "Intensifique_ritual magic"
+
+msgid "desc_s_Intensify_Ritual Magic"
+msgstr "Descrição de s_empower spells_ritual magic"
+
+msgid "s_Mana Efficiency_Ritual Magic"
+msgstr "Mana efficiency_ritual magic"
+
+msgid "desc_s_Mana Efficiency_Ritual Magic"
+msgstr "Descrição de s_mana efficiency_ritual magic"
+
+msgid "s_Quicken Spells_Ritual Magic"
+msgstr "Acelerar feitiços_ritual magic"
+
+msgid "desc_s_Quicken Spells_Ritual Magic"
+msgstr "Descrição de s_quicken spells_ritual magic"
+
+msgid "s_Spell Chanting"
+msgstr "Canto de feitiço"
+
+msgid "desc_s_Spell Chanting"
+msgstr ""
+"Esta escola é especializada em conceder bônus aos companheiros, em vez de "
+"causar danos aos inimigos. Como tal, um cantor de feitiços é valioso numa "
+"festa, mas muito menos sozinho. "
+
+msgid "s_Durable Spells_Spell Chanting"
+msgstr "Feitiços duráveis_feitiço de canto"
+
+msgid "desc_s_Durable Spells_Spell Chanting"
+msgstr "Aumenta a duração dos feitiços de canto."
+
+msgid "s_Intensify_Spell Chanting"
+msgstr "Intensificar_espelhar o canto"
+
+msgid "desc_s_Intensify_Spell Chanting"
+msgstr "Aumenta a magnitude dos feitiços de canto."
+
+msgid "s_Mana Efficiency_Spell Chanting"
+msgstr "Canto mana efficiency_spell"
+
+msgid "desc_s_Mana Efficiency_Spell Chanting"
+msgstr "Diminui o Mana gasto para lançar feitiços de canto."
+
+msgid "s_Quicken Spells_Spell Chanting"
+msgstr "Rapizen feitiços_spell cantando"
+
+msgid "desc_s_Quicken Spells_Spell Chanting"
+msgstr "Diminui o tempo de lançamento de feitiços de canto."
+
+msgid "s_Water Magic"
+msgstr "Magia da água"
+
+msgid "desc_s_Water Magic"
+msgstr ""
+"A escola de água concede feitiços que causam danos de fragmentos de gelo ou "
+"um frio sobrenaturalmente intenso, bem como magia para alvos lentos."
+
+msgid "s_Durable Spells_Water Magic"
+msgstr "Magia de água _ feitiços duráveis"
+
+msgid "desc_s_Durable Spells_Water Magic"
+msgstr "Aumenta a duração dos feitiços Water Magic."
+
+msgid "s_Intensify_Water Magic"
+msgstr "Intensificar a magia_ da água"
+
+msgid "desc_s_Intensify_Water Magic"
+msgstr "Aumenta a magnitude dos feitiços Water Magic."
+
+msgid "s_Mana Efficiency_Water Magic"
+msgstr "Mana efficiency_water magic"
+
+msgid "desc_s_Mana Efficiency_Water Magic"
+msgstr "Diminui o Mana gasto para lançar feitiços de magia da água."
+
+msgid "s_Quicken Spells_Water Magic"
+msgstr "Acelerar feitiços_ magia de água"
+
+msgid "desc_s_Quicken Spells_Water Magic"
+msgstr "Diminui o tempo de fundição dos feitiços Water Magic."
+
+msgid "s_Wild Magic"
+msgstr "Magia selvagem"
+
+msgid "desc_s_Wild Magic"
+msgstr "Descrição de s_wild magic"
+
+msgid "s_Durable Spells_Wild Magic"
+msgstr "Feitiços duráveis_magia selvagem"
+
+msgid "desc_s_Durable Spells_Wild Magic"
+msgstr "Descrição de magia s_durable feitiços_wild"
+
+msgid "s_Intensify_Wild Magic"
+msgstr "Intensificar_selvagem mágica"
+
+msgid "desc_s_Intensify_Wild Magic"
+msgstr "Descrição de s_empower feitiços_wild magia"
+
+msgid "s_Mana Efficiency_Wild Magic"
+msgstr "Mana efficiency_wild magic"
+
+msgid "desc_s_Mana Efficiency_Wild Magic"
+msgstr "Descrição de s_mana efficiency_wild magic"
+
+msgid "s_Quicken Spells_Wild Magic"
+msgstr "Vivificar magia_selvagem"
+
+msgid "desc_s_Quicken Spells_Wild Magic"
+msgstr "Descrição de s_quicken spells_wild magic"
+
+msgid "s_Witchcraft"
+msgstr "Bruxaria"
+
+msgid "desc_s_Witchcraft"
+msgstr ""
+"A feitiçaria lida principalmente com maldições que enfraquecem as "
+"habilidades de seu alvo, seja a força de um guerreiro, os poderes mentais de"
+" um feiticeiro ou a precisão de um arqueiro."
+
+msgid "s_Durable Spells_Witchcraft"
+msgstr "Feitiços duráveis_witchcraft"
+
+msgid "desc_s_Durable Spells_Witchcraft"
+msgstr "Aumenta a duração dos feitiços de bruxaria."
+
+msgid "s_Intensify_Witchcraft"
+msgstr "Intensify_Witchcraft"
+
+msgid "desc_s_Intensify_Witchcraft"
+msgstr "Aumenta a magnitude dos feitiços de bruxaria."
+
+msgid "s_Mana Efficiency_Witchcraft"
+msgstr "Mana efficiency_witchcraft"
+
+msgid "desc_s_Mana Efficiency_Witchcraft"
+msgstr "Diminui o Mana gasto para lançar feitiços de bruxaria."
+
+msgid "s_Quicken Spells_Witchcraft"
+msgstr "Acelerar feitiços_witchcraft"
+
+msgid "desc_s_Quicken Spells_Witchcraft"
+msgstr "Diminui o tempo de lançamento dos feitiços de bruxaria."
+
+msgid "s_Mana Conservation"
+msgstr "Conservação de mana"
+
+msgid "desc_s_Mana Conservation"
+msgstr "Reduz a Mana necessária para lançar feitiços."
+
+msgid "s_Reagent Conservation"
+msgstr "Conservação de reagentes"
+
+msgid "desc_s_Reagent Conservation"
+msgstr ""
+"Dá uma pequena chance de gastar um reagente a menos do que o normal quando "
+"lança feitiços."
+
+msgid "s_Summon Player"
+msgstr "Convocar o jogador"
+
+msgid "desc_s_Summon Player"
+msgstr ""
+
+msgid "s_Teleport Anchor"
+msgstr "Âncora de teletransporte"
+
+msgid "desc_s_Teleport Anchor"
+msgstr "Permite o uso de Runestones."
+
+msgid "s_Veteran Mage"
+msgstr "Mago veterano"
+
+msgid "desc_s_Veteran Mage"
+msgstr "Reduz o custo da resistência dos feitiços."
+
+msgid "s_Stealth Skills"
+msgstr "Competências furtivas"
+
+msgid "desc_s_Stealth Skills"
+msgstr "Descrição das habilidades de movimento s_stealth"
+
+msgid "s_Backstab"
+msgstr "Apunhalamento nas costas"
+
+msgid "desc_s_Backstab"
+msgstr "Descrição de s_sneak"
+
+msgid "s_Pick Pockets"
+msgstr "Bolsos de picaretas"
+
+msgid "desc_s_Pick Pockets"
+msgstr ""
+
+msgid "s_Stealth"
+msgstr "Furtivo"
+
+msgid "desc_s_Stealth"
+msgstr "Descrição de s_stealth"
+
+msgid "s_Weapon Skills"
+msgstr "Competências em armas"
+
+msgid "desc_s_Weapon Skills"
+msgstr "Habilidades de ataque usando armas, arcos ou battlespikes."
+
+msgid "s_Melee Skills"
+msgstr "Habilidades melee"
+
+msgid "desc_s_Melee Skills"
+msgstr "Ataques e poderes usados para equipar armas. "
+
+msgid "s_Axe Skills"
+msgstr "Competências em machado"
+
+msgid "desc_s_Axe Skills"
+msgstr "Descrição das competências s_axe"
+
+msgid "s_Axe Attacks"
+msgstr "Ataques de machado"
+
+msgid "desc_s_Axe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Axes"
+msgstr "Antitank attack_axes"
+
+msgid "desc_s_Antitank Attack_Axes"
+msgstr ""
+
+msgid "s_Antitank_Attack_Axes_1"
+msgstr "Antitank_Attack_Axes_1"
+
+msgid "desc_s_Antitank_Attack_Axes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe"
+msgstr "Desativar a_xa_ sopro"
+
+msgid "desc_s_Disabling Blow_Axe"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Axe_1"
+msgstr "Desactivando blow_axe_1"
+
+msgid "desc_s_Disabling Blow_Axe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Axe_2"
+msgstr "Desactivando blow_axe_2"
+
+msgid "desc_s_Disabling Blow_Axe_2"
+msgstr ""
+
+msgid "s_Knockback_Axe"
+msgstr "Knockback_Axe"
+
+msgid "desc_s_Knockback_Axe"
+msgstr "Um ataque de machado que força o seu oponente para longe."
+
+msgid "s_Knockback_Axe_1"
+msgstr "Knockback_Axe_1"
+
+msgid "desc_s_Knockback_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe"
+msgstr "Ataque_eixo de energia"
+
+msgid "desc_s_Power Attack_Axe"
+msgstr "Um forte ataque que reduz as protecções do alvo.   "
+
+msgid "s_Power Attack_Axe_1"
+msgstr "Ataque de energia_axe_1"
+
+msgid "desc_s_Power Attack_Axe_1"
+msgstr ""
+
+msgid "s_Power Attack_Axe_2"
+msgstr "Ataque de energia_axe_2"
+
+msgid "desc_s_Power Attack_Axe_2"
+msgstr ""
+
+msgid "s_Power Attack_Axe_3"
+msgstr "Ataque de energia_axe_3"
+
+msgid "desc_s_Power Attack_Axe_3"
+msgstr ""
+
+msgid "s_Power Attack_Axe_4"
+msgstr "Ataque de energia_axe_4"
+
+msgid "desc_s_Power Attack_Axe_4"
+msgstr ""
+
+msgid "s_Seize_Axe"
+msgstr "Seize_Axe"
+
+msgid "desc_s_Seize_Axe"
+msgstr "Um ataque que aproxima o seu oponente. "
+
+msgid "s_Seize_Axe_1"
+msgstr "Seize_Axe_1"
+
+msgid "desc_s_Seize_Axe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Axe"
+msgstr "Ataque de redemoinho_axe"
+
+msgid "desc_s_Whirlwind Attack_Axe"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Axe_1"
+msgstr "Ataque de redemoinho_ axe_ 1"
+
+msgid "desc_s_Whirlwind Attack_Axe_1"
+msgstr ""
+
+msgid "s_Axes"
+msgstr "Eixos"
+
+msgid "desc_s_Axes"
+msgstr "Ataque básico com machados de uma mão. "
+
+msgid "s_Axes_1"
+msgstr "Axes_1"
+
+msgid "desc_s_Axes_1"
+msgstr ""
+
+msgid "s_Club and Mace Skills"
+msgstr "Habilidades clube e maça"
+
+msgid "desc_s_Club and Mace Skills"
+msgstr "Descrição das competências s_club e mace"
+
+msgid "s_Club Attacks"
+msgstr "Ataques de clube"
+
+msgid "desc_s_Club Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Club"
+msgstr "Antitank attack_club"
+
+msgid "desc_s_Antitank Attack_Club"
+msgstr ""
+
+msgid "s_Antitank Attack_Club_1"
+msgstr "Antitank attack_club_1"
+
+msgid "desc_s_Antitank Attack_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club"
+msgstr "Desativar o _clube de sopro"
+
+msgid "desc_s_Disabling Blow_Club"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Club_1"
+msgstr "Desactivando blow_club_1"
+
+msgid "desc_s_Disabling Blow_Club_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Club_2"
+msgstr "Desactivando blow_club_2"
+
+msgid "desc_s_Disabling Blow_Club_2"
+msgstr ""
+
+msgid "s_Knockback_Club"
+msgstr "Knockback_Club"
+
+msgid "desc_s_Knockback_Club"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Club_1"
+msgstr "Knockback_Club_1"
+
+msgid "desc_s_Knockback_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club"
+msgstr "Ataque_clube de energia"
+
+msgid "desc_s_Power Attack_Club"
+msgstr "Um ataque poderoso que drena resistência extra. "
+
+msgid "s_Power Attack_Club_1"
+msgstr "Ataque_clube_1"
+
+msgid "desc_s_Power Attack_Club_1"
+msgstr ""
+
+msgid "s_Power Attack_Club_2"
+msgstr "Ataque_clube_2"
+
+msgid "desc_s_Power Attack_Club_2"
+msgstr ""
+
+msgid "s_Seize_Club"
+msgstr "Seize_Club"
+
+msgid "desc_s_Seize_Club"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Club_1"
+msgstr "Seize_Club_1"
+
+msgid "desc_s_Seize_Club_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Club"
+msgstr "Attack_club de redemoinho"
+
+msgid "desc_s_Whirlwind Attack_Club"
+msgstr "Um ataque giratório a bater em todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Club_1"
+msgstr "Ataque ao redemoinho_ club_ 1"
+
+msgid "desc_s_Whirlwind Attack_Club_1"
+msgstr ""
+
+msgid "s_Clubs and Maces"
+msgstr "Paus e açafrões"
+
+msgid "desc_s_Clubs and Maces"
+msgstr "Ataque básico com uma mão de armas brutas. "
+
+msgid "s_Clubs and Maces_1"
+msgstr "Clubes e maces_1"
+
+msgid "desc_s_Clubs and Maces_1"
+msgstr ""
+
+msgid "s_Greataxe Skills"
+msgstr "Habilidades de greataxe"
+
+msgid "desc_s_Greataxe Skills"
+msgstr "Descrição das habilidades de s_grexaxe"
+
+msgid "s_Greataxe Attacks"
+msgstr "Ataques de greataxe"
+
+msgid "desc_s_Greataxe Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes"
+msgstr "Antitank attack_gragaxes"
+
+msgid "desc_s_Antitank Attack_Greataxes"
+msgstr ""
+
+msgid "s_Antitank Attack_Greataxes_1"
+msgstr "Antitank attack_gragaxes_1"
+
+msgid "desc_s_Antitank Attack_Greataxes_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe"
+msgstr "Desactivando o blow_grandexe"
+
+msgid "desc_s_Disabling Blow_Greataxe"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Greataxe_1"
+msgstr "Desabilitando blow_grandexaxe_1"
+
+msgid "desc_s_Disabling Blow_Greataxe_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greataxe_2"
+msgstr "Desabilitando blow_grandexaxe_2"
+
+msgid "desc_s_Disabling Blow_Greataxe_2"
+msgstr ""
+
+msgid "s_Knockback_Greataxe"
+msgstr "Knockback_Greataxe"
+
+msgid "desc_s_Knockback_Greataxe"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Greataxe_1"
+msgstr "Knockback_Greataxe_1"
+
+msgid "desc_s_Knockback_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe"
+msgstr "Ataque_grandexa de energia"
+
+msgid "desc_s_Power Attack_Greataxe"
+msgstr "Um ataque poderoso que reduz as protecções do alvo."
+
+msgid "s_Power Attack_Greataxe_1"
+msgstr "Ataque_grandexa_1"
+
+msgid "desc_s_Power Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_2"
+msgstr "Ataque de potência_grandexa_2"
+
+msgid "desc_s_Power Attack_Greataxe_2"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_3"
+msgstr "Ataque de energia_grandexa_3"
+
+msgid "desc_s_Power Attack_Greataxe_3"
+msgstr ""
+
+msgid "s_Power Attack_Greataxe_4"
+msgstr "Ataque de energia_grandexa_4"
+
+msgid "desc_s_Power Attack_Greataxe_4"
+msgstr ""
+
+msgid "s_Seize_Greataxe"
+msgstr "Seize_Greataxe"
+
+msgid "desc_s_Seize_Greataxe"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Greataxe_1"
+msgstr "Seize_Greataxe_1"
+
+msgid "desc_s_Seize_Greataxe_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greataxe"
+msgstr "Ataque de redemoinho_grandeaxe"
+
+msgid "desc_s_Whirlwind Attack_Greataxe"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Greataxe_1"
+msgstr "Ataque de turbilhão_ greataxe_ 1"
+
+msgid "desc_s_Whirlwind Attack_Greataxe_1"
+msgstr ""
+
+msgid "s_Greataxes"
+msgstr "Machados grandes"
+
+msgid "desc_s_Greataxes"
+msgstr "Ataque básico com machados de duas mãos."
+
+msgid "s_Greataxes_1"
+msgstr "Greataxes_1"
+
+msgid "desc_s_Greataxes_1"
+msgstr ""
+
+msgid "s_Greatclub Skills"
+msgstr "Habilidades greatclub"
+
+msgid "desc_s_Greatclub Skills"
+msgstr ""
+
+msgid "s_Greatclub Attacks"
+msgstr "Ataques de grande clube"
+
+msgid "desc_s_Greatclub Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs"
+msgstr "Antitank attack_greatclubs"
+
+msgid "desc_s_Antitank Attack_Greatclubs"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatclubs_1"
+msgstr "Antitank attack_greatclubs_1"
+
+msgid "desc_s_Antitank Attack_Greatclubs_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub"
+msgstr "Desactivando o par_ grande"
+
+msgid "desc_s_Disabling Blow_Greatclub"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Greatclub_1"
+msgstr "Desabilitando blow_greatclub_1"
+
+msgid "desc_s_Disabling Blow_Greatclub_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatclub_2"
+msgstr "Desabilitando blow_greatclub_2"
+
+msgid "desc_s_Disabling Blow_Greatclub_2"
+msgstr ""
+
+msgid "s_Knockback_Greatclub"
+msgstr "Knockback_Greatclub"
+
+msgid "desc_s_Knockback_Greatclub"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Greatclub_1"
+msgstr "Knockback_Greatclub_1"
+
+msgid "desc_s_Knockback_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub"
+msgstr "Ataque_grande clube"
+
+msgid "desc_s_Power Attack_Greatclub"
+msgstr "Um ataque poderoso que drena resistência extra. "
+
+msgid "s_Power Attack_Greatclub_1"
+msgstr "Ataque_grandeclub_1"
+
+msgid "desc_s_Power Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatclub_2"
+msgstr "Ataque de potência_grandeclub_2"
+
+msgid "desc_s_Power Attack_Greatclub_2"
+msgstr ""
+
+msgid "s_Seize_Greatclub"
+msgstr "Seize_Greatclub"
+
+msgid "desc_s_Seize_Greatclub"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Greatclub_1"
+msgstr "Seize_Greatclub_1"
+
+msgid "desc_s_Seize_Greatclub_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatclub"
+msgstr "Ataque ao turbilhão_grande clube"
+
+msgid "desc_s_Whirlwind Attack_Greatclub"
+msgstr "Um ataque giratório a bater em todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Greatclub_1"
+msgstr "Ataque ao turbilhão_ grande clube_ 1"
+
+msgid "desc_s_Whirlwind Attack_Greatclub_1"
+msgstr ""
+
+msgid "s_Greatclubs"
+msgstr "Grandes clubes"
+
+msgid "desc_s_Greatclubs"
+msgstr "Ataque básico com armas de duas mãos."
+
+msgid "s_Greatclubs_1"
+msgstr "Greatclubs_1"
+
+msgid "desc_s_Greatclubs_1"
+msgstr ""
+
+msgid "s_Greatsword Skills"
+msgstr "Habilidades de grande espada"
+
+msgid "desc_s_Greatsword Skills"
+msgstr "Descrição das habilidades de s_greatsword"
+
+msgid "s_Greatsword Attacks"
+msgstr "Grandes ataques de espada"
+
+msgid "desc_s_Greatsword Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords"
+msgstr "Antitank attack_greatswords"
+
+msgid "desc_s_Antitank Attack_Greatswords"
+msgstr ""
+
+msgid "s_Antitank Attack_Greatswords_1"
+msgstr "Antitank attack_greatswords_1"
+
+msgid "desc_s_Antitank Attack_Greatswords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword"
+msgstr "Desactivando a palavra-chave"
+
+msgid "desc_s_Disabling Blow_Greatsword"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Greatsword_1"
+msgstr "Desactivando a palavra_ grande_ palavra_ 1"
+
+msgid "desc_s_Disabling Blow_Greatsword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Greatsword_2"
+msgstr "Desactivando a palavra-chave_ grande_ 2"
+
+msgid "desc_s_Disabling Blow_Greatsword_2"
+msgstr ""
+
+msgid "s_Knockback_Greatsword"
+msgstr "Knockback_Greatsword"
+
+msgid "desc_s_Knockback_Greatsword"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Greatsword_1"
+msgstr "Knockback_Greatsword_1"
+
+msgid "desc_s_Knockback_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword"
+msgstr "Ataque_grandessword"
+
+msgid "desc_s_Power Attack_Greatsword"
+msgstr "Um ataque de impulso que causa danos a sangue. "
+
+msgid "s_Power Attack_Greatsword_1"
+msgstr "Ataque_grandessword_1"
+
+msgid "desc_s_Power Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Power Attack_Greatsword_2"
+msgstr "Ataque_grandessword_2"
+
+msgid "desc_s_Power Attack_Greatsword_2"
+msgstr ""
+
+msgid "s_Seize_Greatsword"
+msgstr "Seize_Greatsword"
+
+msgid "desc_s_Seize_Greatsword"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Greatsword_1"
+msgstr "Seize_Greatsword_1"
+
+msgid "desc_s_Seize_Greatsword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Greatsword"
+msgstr "Turbilhão ataque_grande espada"
+
+msgid "desc_s_Whirlwind Attack_Greatsword"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Greatsword_1"
+msgstr "Ataque de redemoinho_grande espada_1"
+
+msgid "desc_s_Whirlwind Attack_Greatsword_1"
+msgstr ""
+
+msgid "s_Greatswords"
+msgstr "Grandesswords"
+
+msgid "desc_s_Greatswords"
+msgstr "Ataque básico com espadas de duas mãos."
+
+msgid "s_Greatswords_1"
+msgstr "Greatswords_1"
+
+msgid "desc_s_Greatswords_1"
+msgstr ""
+
+msgid "s_Knife Skills"
+msgstr "Habilidades de faca"
+
+msgid "desc_s_Knife Skills"
+msgstr "Descrição do combate s_knife"
+
+msgid "s_Knife Attacks"
+msgstr "Ataques de faca"
+
+msgid "desc_s_Knife Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives"
+msgstr "Antitank attack_ knives"
+
+msgid "desc_s_Antitank Attack_Knives"
+msgstr ""
+
+msgid "s_Antitank Attack_Knives_1"
+msgstr "Antitank attack_ knives_ 1"
+
+msgid "desc_s_Antitank Attack_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives"
+msgstr "Desativar as facas de sopro"
+
+msgid "desc_s_Disabling Blow_Knives"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Knives_1"
+msgstr "Desativar as facas_ 1"
+
+msgid "desc_s_Disabling Blow_Knives_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Knives_2"
+msgstr "Desativar as facas_2"
+
+msgid "desc_s_Disabling Blow_Knives_2"
+msgstr ""
+
+msgid "s_Knockback_Knife"
+msgstr "Knockback_Knife"
+
+msgid "desc_s_Knockback_Knife"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Knife_1"
+msgstr "Knockback_Knife_1"
+
+msgid "desc_s_Knockback_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife"
+msgstr "Ataque_ faca de força"
+
+msgid "desc_s_Power Attack_Knife"
+msgstr "Um ataque com punhais envenenados. "
+
+msgid "s_Power Attack_Knife_1"
+msgstr "Ataque de poder_ knife_ 1"
+
+msgid "desc_s_Power Attack_Knife_1"
+msgstr ""
+
+msgid "s_Power Attack_Knife_2"
+msgstr "Ataque de energia_knife_2"
+
+msgid "desc_s_Power Attack_Knife_2"
+msgstr ""
+
+msgid "s_Seize_Knife"
+msgstr "Seize_Knife"
+
+msgid "desc_s_Seize_Knife"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Knife_1"
+msgstr "Seize_Knife_1"
+
+msgid "desc_s_Seize_Knife_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Knife"
+msgstr "Attack_ knife de redemoinho"
+
+msgid "desc_s_Whirlwind Attack_Knife"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Knife_1"
+msgstr "Ataque de redemoinho_ knife_ 1"
+
+msgid "desc_s_Whirlwind Attack_Knife_1"
+msgstr ""
+
+msgid "s_Knives"
+msgstr "Facas"
+
+msgid "desc_s_Knives"
+msgstr "Ataque básico com facas duplas."
+
+msgid "s_Knives_1"
+msgstr "Knives_1"
+
+msgid "desc_s_Knives_1"
+msgstr ""
+
+msgid "s_Melee General Skills"
+msgstr "Competências gerais melee"
+
+msgid "desc_s_Melee General Skills"
+msgstr ""
+
+msgid "s_Defensive Stance"
+msgstr "Posição defensiva"
+
+msgid "desc_s_Defensive Stance"
+msgstr ""
+
+msgid "s_Gank"
+msgstr "Executar"
+
+msgid "desc_s_Gank"
+msgstr "Mata um adversário indefeso. "
+
+msgid "s_Gank_1"
+msgstr "Gank_1"
+
+msgid "desc_s_Gank_1"
+msgstr "Descrição de s_gank_1"
+
+msgid "s_Melee Powers"
+msgstr "Poderes melee"
+
+msgid "desc_s_Melee Powers"
+msgstr ""
+
+msgid "s_Dwarven Perseverance"
+msgstr "Perseverança anões"
+
+msgid "desc_s_Dwarven Perseverance"
+msgstr "Permite que o personagem lutar quase sem drenar resistência."
+
+msgid "s_Dwarven Perseverance_1"
+msgstr "Perseverança de anões_1"
+
+msgid "desc_s_Dwarven Perseverance_1"
+msgstr ""
+
+msgid "s_Rage"
+msgstr "Raiva"
+
+msgid "desc_s_Rage"
+msgstr ""
+"Uma onda de adrenalina que dá proteção contra ataques elementares, bem como "
+"cura moderada."
+
+msgid "s_Rage_1"
+msgstr "Rage_1"
+
+msgid "desc_s_Rage_1"
+msgstr ""
+
+msgid "s_Rage_Healing"
+msgstr "Rage_Healing"
+
+msgid "desc_s_Rage_Healing"
+msgstr ""
+
+msgid "s_Mount Attacks"
+msgstr "Montar ataques"
+
+msgid "desc_s_Mount Attacks"
+msgstr ""
+
+msgid "s_Mount Attack"
+msgstr "Montar ataque"
+
+msgid "desc_s_Mount Attack"
+msgstr ""
+
+msgid "s_Mount Attack_1"
+msgstr "Montar ataque_ 1"
+
+msgid "desc_s_Mount Attack_1"
+msgstr ""
+
+msgid "s_Polearm Skills"
+msgstr "Polearm skills"
+
+msgid "desc_s_Polearm Skills"
+msgstr "Descrição de s_polearms"
+
+msgid "s_Polearm Attacks"
+msgstr "Ataques de polearm"
+
+msgid "desc_s_Polearm Attacks"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms"
+msgstr "Antitank attack_polearms"
+
+msgid "desc_s_Antitank Attack_Polearms"
+msgstr ""
+
+msgid "s_Antitank Attack_Polearms_1"
+msgstr "Antitank attack_polearms_1"
+
+msgid "desc_s_Antitank Attack_Polearms_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm"
+msgstr "Desactivando blow_polearm"
+
+msgid "desc_s_Disabling Blow_Polearm"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Polearm_1"
+msgstr "Desabilitando blow_polearm_1"
+
+msgid "desc_s_Disabling Blow_Polearm_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Polearm_2"
+msgstr "Desabilitando blow_polearm_2"
+
+msgid "desc_s_Disabling Blow_Polearm_2"
+msgstr ""
+
+msgid "s_Knockback_Polearm"
+msgstr "Knockback_Polearm"
+
+msgid "desc_s_Knockback_Polearm"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Polearm_1"
+msgstr "Knockback_Polearm_1"
+
+msgid "desc_s_Knockback_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm"
+msgstr "Ataque_polearm"
+
+msgid "desc_s_Power Attack_Polearm"
+msgstr "Um ataque poderoso e preciso."
+
+msgid "s_Power Attack_Polearm_1"
+msgstr "Ataque_polearm_1"
+
+msgid "desc_s_Power Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_2"
+msgstr "Ataque_polearm_2"
+
+msgid "desc_s_Power Attack_Polearm_2"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_3"
+msgstr "Ataque_polearm_3"
+
+msgid "desc_s_Power Attack_Polearm_3"
+msgstr ""
+
+msgid "s_Power Attack_Polearm_4"
+msgstr "Ataque_polearm_4"
+
+msgid "desc_s_Power Attack_Polearm_4"
+msgstr ""
+
+msgid "s_Seize_Polearm"
+msgstr "Seize_Polearm"
+
+msgid "desc_s_Seize_Polearm"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Polearm_1"
+msgstr "Seize_Polearm_1"
+
+msgid "desc_s_Seize_Polearm_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Polearm"
+msgstr "Turbilhão ataque_polearm"
+
+msgid "desc_s_Whirlwind Attack_Polearm"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Polearm_1"
+msgstr "Ataque de turbilhão_polearm_1"
+
+msgid "desc_s_Whirlwind Attack_Polearm_1"
+msgstr ""
+
+msgid "s_Polearms"
+msgstr "Armas de haste"
+
+msgid "desc_s_Polearms"
+msgstr "Ataque básico com armas. "
+
+msgid "s_Polearms_1"
+msgstr "Polearms_1"
+
+msgid "desc_s_Polearms_1"
+msgstr ""
+
+msgid "s_Siege Weapon Skills"
+msgstr "Habilidades em armas de cerco"
+
+msgid "desc_s_Siege Weapon Skills"
+msgstr ""
+
+msgid "s_Siege Hammer"
+msgstr "Martelo de cerco"
+
+msgid "desc_s_Siege Hammer"
+msgstr "Ataque capaz de danificar edifícios, canhões e veículos."
+
+msgid "s_Siege Hammer_1"
+msgstr "Martelo de cerco_ 1"
+
+msgid "desc_s_Siege Hammer_1"
+msgstr ""
+
+msgid "s_Sithra Skills"
+msgstr "Sithra competências"
+
+msgid "desc_s_Sithra Skills"
+msgstr ""
+
+msgid "s_Sithra Attacks"
+msgstr "Sithra ataques"
+
+msgid "desc_s_Sithra Attacks"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra"
+msgstr "Desabilitando blow_sithra"
+
+msgid "desc_s_Disabling Blow_Sithra"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Sithra_1"
+msgstr "Desabilitando blow_sithra_1"
+
+msgid "desc_s_Disabling Blow_Sithra_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sithra_2"
+msgstr "Desabilitando blow_sithra_2"
+
+msgid "desc_s_Disabling Blow_Sithra_2"
+msgstr ""
+
+msgid "s_Knockback_Sithras"
+msgstr "Knockback_Sithras"
+
+msgid "desc_s_Knockback_Sithras"
+msgstr "Um ataque empurrando que força o seu oponente para longe."
+
+msgid "s_Knockback_Sithras_1"
+msgstr "Knockback_Sithras_1"
+
+msgid "desc_s_Knockback_Sithras_1"
+msgstr ""
+
+msgid "s_Power Attack_sithra"
+msgstr "Ataque de energia_ sithra"
+
+msgid "desc_s_Power Attack_sithra"
+msgstr "Um ataque de impulso que causa danos adicionais."
+
+msgid "s_Power Attack_Sithra_2"
+msgstr "Ataque_sithra_2"
+
+msgid "desc_s_Power Attack_Sithra_2"
+msgstr ""
+
+msgid "s_Sithras_Stab_1"
+msgstr "Sithras_Stab_1"
+
+msgid "desc_s_Sithras_Stab_1"
+msgstr ""
+
+msgid "s_Seize_Sithras"
+msgstr "Seize_Sithras"
+
+msgid "desc_s_Seize_Sithras"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Sithras_2"
+msgstr "Seize_Sithras_2"
+
+msgid "desc_s_Seize_Sithras_2"
+msgstr ""
+
+msgid "s_Sieze_Sithras_1"
+msgstr "Sieze_Sithras_1"
+
+msgid "desc_s_Sieze_Sithras_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sithra"
+msgstr "Turbilhão ataque_ sithra"
+
+msgid "desc_s_Whirlwind Attack_Sithra"
+msgstr "Um ataque giratório a danificar todos os adjacentes."
+
+msgid "s_Sithras_Whirlwind_1"
+msgstr "Sithras_Whirlwind_1"
+
+msgid "desc_s_Sithras_Whirlwind_1"
+msgstr ""
+
+msgid "s_Sithras"
+msgstr "Sithras"
+
+msgid "desc_s_Sithras"
+msgstr "Ataque básico com sithras.   "
+
+msgid "s_Sithras_1"
+msgstr "Sithras_1"
+
+msgid "desc_s_Sithras_1"
+msgstr ""
+
+msgid "s_Sword Skills"
+msgstr "Habilidades de espada"
+
+msgid "desc_s_Sword Skills"
+msgstr "Descrição das competências de s_sword"
+
+msgid "s_Sword Attacks"
+msgstr "Ataques de espada"
+
+msgid "desc_s_Sword Attacks"
+msgstr "Descrição dos ataques de s_sword"
+
+msgid "s_Antitank Attack_Swords"
+msgstr "Antitank attack_swords"
+
+msgid "desc_s_Antitank Attack_Swords"
+msgstr ""
+
+msgid "s_Antitank Attack_Swords_1"
+msgstr "Antitank attack_swords_1"
+
+msgid "desc_s_Antitank Attack_Swords_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword"
+msgstr "Desativar a_espada de sopro"
+
+msgid "desc_s_Disabling Blow_Sword"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Blow_Sword_1"
+msgstr "Desactivando a_ espada_ 1"
+
+msgid "desc_s_Disabling Blow_Sword_1"
+msgstr ""
+
+msgid "s_Disabling Blow_Sword_2"
+msgstr "Desactivando a_ espada_ 2"
+
+msgid "desc_s_Disabling Blow_Sword_2"
+msgstr ""
+
+msgid "s_Knockback_Sword"
+msgstr "Knockback_Sword"
+
+msgid "desc_s_Knockback_Sword"
+msgstr "Um ataque que empurra o seu oponente para longe."
+
+msgid "s_Knockback_Sword_1"
+msgstr "Knockback_Sword_1"
+
+msgid "desc_s_Knockback_Sword_1"
+msgstr ""
+
+msgid "s_Power Attack_Sword"
+msgstr "Ataca_espada de ataque de potência"
+
+msgid "desc_s_Power Attack_Sword"
+msgstr "Um ataque de impulso que causa danos a sangue. "
+
+msgid "s_Power Attack_Sword_2"
+msgstr "Ataque_espada_2"
+
+msgid "desc_s_Power Attack_Sword_2"
+msgstr ""
+
+msgid "s_Power Attack_Sword_sub"
+msgstr "Ataque_espada_sub"
+
+msgid "desc_s_Power Attack_Sword_sub"
+msgstr ""
+
+msgid "s_Seize_Sword"
+msgstr "Seize_Sword"
+
+msgid "desc_s_Seize_Sword"
+msgstr "Um ataque que aproxima o seu oponente."
+
+msgid "s_Seize_Sword_1"
+msgstr "Seize_Sword_1"
+
+msgid "desc_s_Seize_Sword_1"
+msgstr ""
+
+msgid "s_Whirlwind Attack_Sword"
+msgstr "Attack_sword do turbilhão"
+
+msgid "desc_s_Whirlwind Attack_Sword"
+msgstr "Um ataque giratório a cortar todos os adjacentes."
+
+msgid "s_Whirlwind Attack_Sword_1"
+msgstr "Ataque de redemoinho_ espada_ 1"
+
+msgid "desc_s_Whirlwind Attack_Sword_1"
+msgstr ""
+
+msgid "s_Swords"
+msgstr "Espadas"
+
+msgid "desc_s_Swords"
+msgstr "Ataque básico com espadas de uma mão só."
+
+msgid "s_Swords_1"
+msgstr "Swords_1"
+
+msgid "desc_s_Swords_1"
+msgstr "Descrição de s_swordplay_1"
+
+msgid "s_Natural Attacks"
+msgstr "Ataques naturais"
+
+msgid "desc_s_Natural Attacks"
+msgstr ""
+
+msgid "s_Natural Epic Attacks"
+msgstr "Ataques épicos naturais"
+
+msgid "desc_s_Natural Epic Attacks"
+msgstr ""
+
+msgid "s_Natural Melee"
+msgstr "Melee natural"
+
+msgid "desc_s_Natural Melee"
+msgstr ""
+
+msgid "s_Natural Basic Attacks"
+msgstr "Ataques básicos naturais"
+
+msgid "desc_s_Natural Basic Attacks"
+msgstr ""
+
+msgid "s_Natural Attack Blunt"
+msgstr "Ataque natural contundente"
+
+msgid "desc_s_Natural Attack Blunt"
+msgstr ""
+
+msgid "s_Natural Attack Demon"
+msgstr "Demônio ataque natural"
+
+msgid "desc_s_Natural Attack Demon"
+msgstr ""
+
+msgid "s_Natural Attack Impact"
+msgstr "Impacto de ataque natural"
+
+msgid "desc_s_Natural Attack Impact"
+msgstr ""
+
+msgid "s_Natural Attack Kraken"
+msgstr "Kraken ataque natural"
+
+msgid "desc_s_Natural Attack Kraken"
+msgstr ""
+
+msgid "s_Natural Attack Metal Golem"
+msgstr "Golem de metal de ataque natural"
+
+msgid "desc_s_Natural Attack Metal Golem"
+msgstr ""
+
+msgid "s_Natural Attack Pierce"
+msgstr "Perfuração de ataque natural"
+
+msgid "desc_s_Natural Attack Pierce"
+msgstr ""
+
+msgid "s_Natural Attack Primary"
+msgstr "Ataque natural primário"
+
+msgid "desc_s_Natural Attack Primary"
+msgstr ""
+
+msgid "s_Natural Attack Slash"
+msgstr "Ataque natural slash"
+
+msgid "desc_s_Natural Attack Slash"
+msgstr ""
+
+msgid "s_Natural Attack Slash Executioner"
+msgstr "Carrasco de ataque natural"
+
+msgid "desc_s_Natural Attack Slash Executioner"
+msgstr ""
+
+msgid "s_Natural Attack Stone Golem"
+msgstr "Golem de pedra de ataque natural"
+
+msgid "desc_s_Natural Attack Stone Golem"
+msgstr ""
+
+msgid "s_Natural Mageblast"
+msgstr "Mageblasto natural"
+
+msgid "desc_s_Natural Mageblast"
+msgstr ""
+
+msgid "s_Natural Special Attacks"
+msgstr "Ataques especiais naturais"
+
+msgid "desc_s_Natural Special Attacks"
+msgstr ""
+
+msgid "s_Natural Alt Special Gorra"
+msgstr "Natural alt especial Gorra"
+
+msgid "desc_s_Natural Alt Special Gorra"
+msgstr ""
+
+msgid "s_Natural Antitank"
+msgstr "Antitanque natural"
+
+msgid "desc_s_Natural Antitank"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken"
+msgstr "Kraken antitanque natural"
+
+msgid "desc_s_Natural Antitank Kraken"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_1"
+msgstr "Antitanque natural kraken_1"
+
+msgid "desc_s_Natural Antitank Kraken_1"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_2"
+msgstr "Antitanque natural kraken_2"
+
+msgid "desc_s_Natural Antitank Kraken_2"
+msgstr ""
+
+msgid "s_Natural Antitank Kraken_3"
+msgstr "Antitanque natural kraken_3"
+
+msgid "desc_s_Natural Antitank Kraken_3"
+msgstr ""
+
+msgid "s_Natural Antitank Metal Golem"
+msgstr "Golem de metal antitanque natural"
+
+msgid "desc_s_Natural Antitank Metal Golem"
+msgstr ""
+
+msgid "s_Natural Antitank Stone Golem"
+msgstr "Golem de pedra antitanque natural"
+
+msgid "desc_s_Natural Antitank Stone Golem"
+msgstr ""
+
+msgid "s_Natural Attack Crush"
+msgstr "Esmagamento de ataque natural"
+
+msgid "desc_s_Natural Attack Crush"
+msgstr ""
+
+msgid "s_Natural Bleeding"
+msgstr "Hemorragia natural"
+
+msgid "desc_s_Natural Bleeding"
+msgstr ""
+
+msgid "s_Natural Bleeding Executioner"
+msgstr "Executor de hemorragia natural"
+
+msgid "desc_s_Natural Bleeding Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Demon"
+msgstr "Demônio esmagamento natural"
+
+msgid "desc_s_Natural Crush Demon"
+msgstr ""
+
+msgid "s_Natural Crush Doombringer"
+msgstr "Doombringer de esmagamento natural"
+
+msgid "desc_s_Natural Crush Doombringer"
+msgstr ""
+
+msgid "s_Natural Crush Executioner"
+msgstr "Carrasco de esmagamento natural"
+
+msgid "desc_s_Natural Crush Executioner"
+msgstr ""
+
+msgid "s_Natural Crush Metal Golem"
+msgstr "Golem de metal de esmagamento natural"
+
+msgid "desc_s_Natural Crush Metal Golem"
+msgstr ""
+
+msgid "s_Natural Crush Stone Golem"
+msgstr "Golem de pedra de esmagamento natural"
+
+msgid "desc_s_Natural Crush Stone Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Blunt"
+msgstr "Desactivação natural contundente"
+
+msgid "desc_s_Natural Disabling Blunt"
+msgstr ""
+
+msgid "s_Natural Disabling Kraken"
+msgstr "Kraken incapacitante natural"
+
+msgid "desc_s_Natural Disabling Kraken"
+msgstr ""
+
+msgid "s_Natural Disabling Metal Golem"
+msgstr "Golem metal incapacitante natural"
+
+msgid "desc_s_Natural Disabling Metal Golem"
+msgstr ""
+
+msgid "s_Natural Disabling Stone Golem"
+msgstr "Golem de pedra incapacitante natural"
+
+msgid "desc_s_Natural Disabling Stone Golem"
+msgstr ""
+
+msgid "s_Natural Elemental Whirlwind"
+msgstr "Turbilhão elementar natural"
+
+msgid "desc_s_Natural Elemental Whirlwind"
+msgstr ""
+
+msgid "s_Natural Poison"
+msgstr "Veneno natural"
+
+msgid "desc_s_Natural Poison"
+msgstr ""
+
+msgid "s_Natural Stamina Drain"
+msgstr "Dreno de resistência natural"
+
+msgid "desc_s_Natural Stamina Drain"
+msgstr ""
+
+msgid "s_Natural Strength Penalty"
+msgstr "Penalização por resistência natural"
+
+msgid "desc_s_Natural Strength Penalty"
+msgstr ""
+
+msgid "s_Natural Whirlwind Poison"
+msgstr "Veneno natural do turbilhão"
+
+msgid "desc_s_Natural Whirlwind Poison"
+msgstr ""
+
+msgid "s_Natural Ranged"
+msgstr "Variação natural"
+
+msgid "desc_s_Natural Ranged"
+msgstr ""
+
+msgid "s_natural ranged ammo"
+msgstr "munição natural variada"
+
+msgid "desc_s_natural ranged ammo"
+msgstr ""
+
+msgid "s_Natural Ranged Bow"
+msgstr "Arco natural variado"
+
+msgid "desc_s_Natural Ranged Bow"
+msgstr ""
+
+msgid "s_natural ranged noammo"
+msgstr "variação natural de noammo"
+
+msgid "desc_s_natural ranged noammo"
+msgstr ""
+
+msgid "s_Natural Subskills"
+msgstr "Subcompetências naturais"
+
+msgid "desc_s_Natural Subskills"
+msgstr ""
+
+msgid "s_Natural Attack Acid_1"
+msgstr "Ácido de ataque natural_1"
+
+msgid "desc_s_Natural Attack Acid_1"
+msgstr ""
+
+msgid "s_Natural Attack Arcane_1"
+msgstr "Ataque natural arcano_1"
+
+msgid "desc_s_Natural Attack Arcane_1"
+msgstr ""
+
+msgid "s_Natural Attack Bleed_1"
+msgstr "Ataque natural sangra_1"
+
+msgid "desc_s_Natural Attack Bleed_1"
+msgstr ""
+
+msgid "s_Natural Attack Blunt_1"
+msgstr "Ataque natural contundente_1"
+
+msgid "desc_s_Natural Attack Blunt_1"
+msgstr ""
+
+msgid "s_Natural Attack Bow_1"
+msgstr "Arco de ataque natural_1"
+
+msgid "desc_s_Natural Attack Bow_1"
+msgstr ""
+
+msgid "s_Natural Attack Disabling_1"
+msgstr "Ataque natural desativando_1"
+
+msgid "desc_s_Natural Attack Disabling_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_1"
+msgstr "Explosão de ataque natural_1"
+
+msgid "desc_s_Natural Attack Explosion_1"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_2"
+msgstr "Explosão de ataque natural_2"
+
+msgid "desc_s_Natural Attack Explosion_2"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_3"
+msgstr "Explosão de ataque natural_3"
+
+msgid "desc_s_Natural Attack Explosion_3"
+msgstr ""
+
+msgid "s_Natural Attack Explosion_4"
+msgstr "Explosão de ataque natural_4"
+
+msgid "desc_s_Natural Attack Explosion_4"
+msgstr ""
+
+msgid "s_Natural Attack Impact_1"
+msgstr "Impacto natural do ataque_1"
+
+msgid "desc_s_Natural Attack Impact_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_1"
+msgstr "Nocaute de ataque natural_1"
+
+msgid "desc_s_Natural Attack Knockback_1"
+msgstr ""
+
+msgid "s_Natural Attack Knockback_2"
+msgstr "Nocaute de ataque natural_2"
+
+msgid "desc_s_Natural Attack Knockback_2"
+msgstr ""
+
+msgid "s_Natural Attack Pierce_1"
+msgstr "Perfuração de ataque natural_1"
+
+msgid "desc_s_Natural Attack Pierce_1"
+msgstr ""
+
+msgid "s_Natural Attack Poison_1"
+msgstr "Veneno natural de ataque_1"
+
+msgid "desc_s_Natural Attack Poison_1"
+msgstr ""
+
+msgid "s_Natural Attack Slash_1"
+msgstr "Ataque natural slash_1"
+
+msgid "desc_s_Natural Attack Slash_1"
+msgstr ""
+
+msgid "s_Natural Attack Stamina_1"
+msgstr "Resistência de ataque natural_1"
+
+msgid "desc_s_Natural Attack Stamina_1"
+msgstr ""
+
+msgid "s_Natural Attack Strength_1"
+msgstr "Força natural de ataque_1"
+
+msgid "desc_s_Natural Attack Strength_1"
+msgstr ""
+
+msgid "s_Ranged Skills"
+msgstr "Competências variadas"
+
+msgid "desc_s_Ranged Skills"
+msgstr "Descrição de competências_ranged"
+
+msgid "s_Archery Skills"
+msgstr "Competências em arco e flecha"
+
+msgid "desc_s_Archery Skills"
+msgstr ""
+
+msgid "s_Archery"
+msgstr "Arquearia"
+
+msgid "desc_s_Archery"
+msgstr "Ataque básico usando arco e flechas."
+
+msgid "s_Archery_1"
+msgstr "Archery_1"
+
+msgid "desc_s_Archery_1"
+msgstr "Descrição de s_archery_1"
+
+msgid "s_Archery Attacks"
+msgstr "Ataques de arco e flecha"
+
+msgid "desc_s_Archery Attacks"
+msgstr ""
+
+msgid "s_Adept Shot"
+msgstr "Adept shot"
+
+msgid "desc_s_Adept Shot"
+msgstr "Descrição do s_adept shot"
+
+msgid "s_Antitank Archery"
+msgstr "Arco e flecha antitanque"
+
+msgid "desc_s_Antitank Archery"
+msgstr ""
+
+msgid "s_Antitank Archery_1"
+msgstr "Arco e flecha antitanque_ 1"
+
+msgid "desc_s_Antitank Archery_1"
+msgstr ""
+
+msgid "s_Attack_Archery"
+msgstr "Attack_Archery"
+
+msgid "desc_s_Attack_Archery"
+msgstr "Descrição de s_atack_archery"
+
+msgid "s_Critical Shot"
+msgstr "Tiro crítico"
+
+msgid "desc_s_Critical Shot"
+msgstr "Descrição do tiro s_crítico"
+
+msgid "s_Disabling Shot"
+msgstr "Tiro incapacitante"
+
+msgid "desc_s_Disabling Shot"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Shot_1"
+msgstr "Desativar o tiro_ 1"
+
+msgid "desc_s_Disabling Shot_1"
+msgstr ""
+
+msgid "s_Disabling Shot_2"
+msgstr "Desativar o 'shot_ 2'"
+
+msgid "desc_s_Disabling Shot_2"
+msgstr ""
+
+msgid "s_Precise Shot"
+msgstr "Tiro preciso"
+
+msgid "desc_s_Precise Shot"
+msgstr "Descrição de s_precise shot"
+
+msgid "s_Thrown Weapons"
+msgstr "Armas lançadas"
+
+msgid "desc_s_Thrown Weapons"
+msgstr "Descrição das armas lançadas"
+
+msgid "s_Throwing"
+msgstr "Lançamento"
+
+msgid "desc_s_Throwing"
+msgstr "Lobs um battlespike que explode após o impacto."
+
+msgid "s_Throwing Impact_large"
+msgstr "Lançando impact_large"
+
+msgid "desc_s_Throwing Impact_large"
+msgstr ""
+
+msgid "s_Throwing Impact_medium"
+msgstr "Arremesso de impacto_medium"
+
+msgid "desc_s_Throwing Impact_medium"
+msgstr "Descrição de s_swordplay_1"
+
+msgid "s_Throwing Impact_small"
+msgstr "Lançando impacto_pequeno"
+
+msgid "desc_s_Throwing Impact_small"
+msgstr ""
+
+msgid "s_Throwing Impact_tiny"
+msgstr "Jogando impact_tiny"
+
+msgid "desc_s_Throwing Impact_tiny"
+msgstr ""
+
+msgid "ts_Test Skills"
+msgstr "ts_test skills"
+
+msgid "desc_ts_Test Skills"
+msgstr "Descrição das competências do teste ts_test"
+
+msgid "ts_Feel free to comment"
+msgstr "ts_feel livre para comentar"
+
+msgid "desc_ts_Feel free to comment"
+msgstr "Descrição de ts_feel livre para comentar"
+
+msgid "ts_Get the idea?"
+msgstr "Percebeste a ideia?"
+
+msgid "desc_ts_Get the idea?"
+msgstr "Descrição de ts_Obter a ideia?"
+
+msgid "ts_Movement Skills"
+msgstr "Competências em matéria de movimento"
+
+msgid "desc_ts_Movement Skills"
+msgstr "Descrição das competências ts_movimento"
+
+msgid "ts_Walk"
+msgstr "ts_Walk"
+
+msgid "desc_ts_Walk"
+msgstr "Descrição de ts_walk"
+
+msgid "s_Research Skills"
+msgstr "Competências em investigação"
+
+msgid "desc_s_Research Skills"
+msgstr ""
+
+msgid "s_Research"
+msgstr "Investigação"
+
+msgid "desc_s_Research"
+msgstr ""
+
+msgid "s_Spells"
+msgstr "Feitiços"
+
+msgid "desc_s_Spells"
+msgstr "Descrição de s_spells"
+
+msgid "s_Air Magic_Spells"
+msgstr "Feitiços de magia do ar"
+
+msgid "desc_s_Air Magic_Spells"
+msgstr ""
+"A escola de Air Magic concede ao seu usuário o poder de relâmpagos e "
+"tempestades. Geralmente estes feitiços lidam com uma quantidade um pouco "
+"modesta de danos, mas ainda são altamente eficazes, uma vez que são difíceis"
+" de defender."
+
+msgid "s_Agility"
+msgstr "Agilidade"
+
+msgid "desc_s_Agility"
+msgstr "Dá um bónus de Dexterity ao lançador."
+
+msgid "s_Agility_1"
+msgstr "Agility_1"
+
+msgid "desc_s_Agility_1"
+msgstr ""
+
+msgid "s_Arrow Shield"
+msgstr "Escudo de setas"
+
+msgid "desc_s_Arrow Shield"
+msgstr "Dá ao lançador maior proteção contra flechas."
+
+msgid "s_Arrow Shield_1"
+msgstr "Escudo da seta_ 1"
+
+msgid "desc_s_Arrow Shield_1"
+msgstr ""
+
+msgid "s_Arrow Ward"
+msgstr "Ala de setas"
+
+msgid "desc_s_Arrow Ward"
+msgstr "Apontar para um alvo para garantir proteção contra flechas."
+
+msgid "s_Arrow Ward_1"
+msgstr "Ala de setas_ 1"
+
+msgid "desc_s_Arrow Ward_1"
+msgstr ""
+
+msgid "s_Boon of Storms"
+msgstr "Boon de tempestades"
+
+msgid "desc_s_Boon of Storms"
+msgstr "Envie uma salva de flechas para seus inimigos curando-se em sucesso."
+
+msgid "s_Boon of Storms_1"
+msgstr "Boon of storms_1"
+
+msgid "desc_s_Boon of Storms_1"
+msgstr ""
+
+msgid "s_Boon of Storms_2"
+msgstr "Boon of storms_2"
+
+msgid "desc_s_Boon of Storms_2"
+msgstr ""
+
+msgid "s_Ball Lightning"
+msgstr "Relâmpagos de esfera"
+
+msgid "desc_s_Ball Lightning"
+msgstr "Dispara um míssil que inflige danos ao Lightning."
+
+msgid "s_Ball Lightning_1"
+msgstr "Bola relâmpago_ 1"
+
+msgid "desc_s_Ball Lightning_1"
+msgstr ""
+
+msgid "s_Come Hither"
+msgstr "Vem cá, vem cá."
+
+msgid "desc_s_Come Hither"
+msgstr "Mire num alvo para o aproximar magicamente."
+
+msgid "s_Come Hither_1"
+msgstr "Venha aqui_ 1"
+
+msgid "desc_s_Come Hither_1"
+msgstr ""
+
+msgid "s_Come Hither_2"
+msgstr "Venha aqui_ 2"
+
+msgid "desc_s_Come Hither_2"
+msgstr ""
+
+msgid "s_Exploding Charge"
+msgstr "Taxa de explosão"
+
+msgid "desc_s_Exploding Charge"
+msgstr ""
+"Dispara um míssil que explode com o impacto causando danos ao Relâmpago. "
+
+msgid "s_Exploding Charge_Area"
+msgstr "Área_carga explosiva"
+
+msgid "desc_s_Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Proc Exploding Charge"
+msgstr "Proc taxa de explosão"
+
+msgid "desc_s_Proc Exploding Charge"
+msgstr ""
+"Dispara um míssil que explode com o impacto causando danos ao Relâmpago. "
+
+msgid "s_Proc Exploding Charge_Area"
+msgstr "Proc exploding charge_area"
+
+msgid "desc_s_Proc Exploding Charge_Area"
+msgstr ""
+
+msgid "s_Guiding Wind"
+msgstr "Vento guia"
+
+msgid "desc_s_Guiding Wind"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à proteção do alvo contra "
+"flechas. "
+
+msgid "s_Guiding Wind_1"
+msgstr "Vento guia_1"
+
+msgid "desc_s_Guiding Wind_1"
+msgstr ""
+
+msgid "s_Lightning Bolt"
+msgstr "Relâmpagos"
+
+msgid "desc_s_Lightning Bolt"
+msgstr "Dispara uma linha de energia elétrica chocando tudo em seu caminho. "
+
+msgid "s_Lightning Bolt_1"
+msgstr "Relâmpago_ 1"
+
+msgid "desc_s_Lightning Bolt_1"
+msgstr "Descrição do parafuso de iluminação_1"
+
+msgid "s_Lightning Shield"
+msgstr "Escudo de raios"
+
+msgid "desc_s_Lightning Shield"
+msgstr "Concede um bônus de proteção relâmpago para o lançador."
+
+msgid "s_Lightning Shield_1"
+msgstr "Escudo relâmpago_ 1"
+
+msgid "desc_s_Lightning Shield_1"
+msgstr ""
+
+msgid "s_Lightning Strike"
+msgstr "Relâmpagos"
+
+msgid "desc_s_Lightning Strike"
+msgstr ""
+"Lança um míssil que explode com o impacto causando danos aos relâmpagos."
+
+msgid "s_Lightning Strike_1"
+msgstr "Relâmpagos _ 1"
+
+msgid "desc_s_Lightning Strike_1"
+msgstr ""
+
+msgid "s_Lightning Strike_2"
+msgstr "Relâmpagos _ 2"
+
+msgid "desc_s_Lightning Strike_2"
+msgstr ""
+
+msgid "s_Lightning Ward"
+msgstr "Ala de raios"
+
+msgid "desc_s_Lightning Ward"
+msgstr "Concede uma proteção contra os danos do Lightning."
+
+msgid "s_Lightning Ward_1"
+msgstr "Ala de raios_ 1"
+
+msgid "desc_s_Lightning Ward_1"
+msgstr ""
+
+msgid "s_Lightning Weakness"
+msgstr "Fraqueza do relâmpago"
+
+msgid "desc_s_Lightning Weakness"
+msgstr "Lança um míssil que inflige uma penalidade à proteção do seu alvo.   "
+
+msgid "s_Lightning Weakness_1"
+msgstr "Fraqueza do relâmpago_ 1"
+
+msgid "desc_s_Lightning Weakness_1"
+msgstr ""
+
+msgid "s_Stormblast"
+msgstr "Stormblast"
+
+msgid "desc_s_Stormblast"
+msgstr "Conjura uma explosão que envia todos em seu caminho voando."
+
+msgid "s_Stormblast_1"
+msgstr "Stormblast_1"
+
+msgid "desc_s_Stormblast_1"
+msgstr ""
+
+msgid "s_Thunderstorm"
+msgstr "Trovoada"
+
+msgid "desc_s_Thunderstorm"
+msgstr ""
+"Um raio mágico que produz uma tempestade de raios ao atingir o seu alvo. "
+
+msgid "s_Thunderstorm_1"
+msgstr "Thunderstorm_1"
+
+msgid "desc_s_Thunderstorm_1"
+msgstr ""
+
+msgid "s_Tornado"
+msgstr "Tornado"
+
+msgid "desc_s_Tornado"
+msgstr "Invoca um tornado à volta do lançador. "
+
+msgid "s_Tornado_1"
+msgstr "Tornado_1"
+
+msgid "desc_s_Tornado_1"
+msgstr ""
+
+msgid "s_Arcane Magic_Spells"
+msgstr "Magia arcana feitiços"
+
+msgid "desc_s_Arcane Magic_Spells"
+msgstr ""
+"Arcane Magic lida com feitiços divinos e com a própria natureza da magia. "
+"Como tal, seus feitiços ofensivos causam danos sagrados enquanto os feitiços"
+" defensivos protegem contra doenças mentais ou podem até mesmo virar a magia"
+" de um inimigo contra ele."
+
+msgid "s_Flames of Vengeance"
+msgstr "Chamas de vingança"
+
+msgid "desc_s_Flames of Vengeance"
+msgstr "Um raio mágico que produz um inferno de chamas sagradas."
+
+msgid "s_Flames of Vengeance_1"
+msgstr "Chamas de vingança_1"
+
+msgid "desc_s_Flames of Vengeance_1"
+msgstr ""
+
+msgid "s_Hasten Spells"
+msgstr "Feitiços apressados"
+
+msgid "desc_s_Hasten Spells"
+msgstr "Reduz o tempo de carga de feitiços por um tempo."
+
+msgid "s_Hasten Spells_1"
+msgstr "Apressar feitiços_1"
+
+msgid "desc_s_Hasten Spells_1"
+msgstr ""
+
+msgid "s_Holy Shield"
+msgstr "Escudo sagrado"
+
+msgid "desc_s_Holy Shield"
+msgstr "Concede maior proteção contra danos sagrados."
+
+msgid "s_Holy Shield_1"
+msgstr "Escudo sagrado_1"
+
+msgid "desc_s_Holy Shield_1"
+msgstr ""
+
+msgid "s_Holy Ward"
+msgstr "Holy ala"
+
+msgid "desc_s_Holy Ward"
+msgstr "Concede uma proteção contra danos sagrados."
+
+msgid "s_Holy Ward_1"
+msgstr "Ala santa_1"
+
+msgid "desc_s_Holy Ward_1"
+msgstr ""
+
+msgid "s_Holy Weakness"
+msgstr "Santa fraqueza"
+
+msgid "desc_s_Holy Weakness"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à proteção sagrada do seu alvo."
+
+msgid "s_Holy Weakness_1"
+msgstr "Santa fraqueza_1"
+
+msgid "desc_s_Holy Weakness_1"
+msgstr ""
+
+msgid "s_Lend Mana"
+msgstr "Emprestar mana"
+
+msgid "desc_s_Lend Mana"
+msgstr "Apontar a um alvo para transferir parte da sua piscina Mana."
+
+msgid "s_Lend Mana_1"
+msgstr "Emprestar mana_ 1"
+
+msgid "desc_s_Lend Mana_1"
+msgstr ""
+
+msgid "s_Mystic Shield"
+msgstr "Escudo místico"
+
+msgid "desc_s_Mystic Shield"
+msgstr "Os subsídios aumentaram a proteção contra ataques mentais."
+
+msgid "s_Mystic Shield_1"
+msgstr "Escudo místico_ 1"
+
+msgid "desc_s_Mystic Shield_1"
+msgstr ""
+
+msgid "s_Mystic Ward"
+msgstr "Ala mística"
+
+msgid "desc_s_Mystic Ward"
+msgstr "Concede uma proteção contra ataques mentais."
+
+msgid "s_Mystic Ward_1"
+msgstr "Ala mística_ 1"
+
+msgid "desc_s_Mystic Ward_1"
+msgstr ""
+
+msgid "s_Reflect Spell"
+msgstr "Refletir o feitiço"
+
+msgid "desc_s_Reflect Spell"
+msgstr "Reflete o próximo feitiço de dano de volta à sua fonte."
+
+msgid "s_Reflect Spell_1"
+msgstr "Refletir o feitiço_ 1"
+
+msgid "desc_s_Reflect Spell_1"
+msgstr ""
+
+msgid "s_Sacred Missile"
+msgstr "Míssil sagrado"
+
+msgid "desc_s_Sacred Missile"
+msgstr "Lança um projéctil que causa danos sagrados ao seu alvo."
+
+msgid "s_Sacred Missile_HolyDam"
+msgstr "Missil_holydam sagrado"
+
+msgid "desc_s_Sacred Missile_HolyDam"
+msgstr ""
+
+msgid "s_Spell Immunity"
+msgstr "Soletrar imunidade"
+
+msgid "desc_s_Spell Immunity"
+msgstr "Aumenta a probabilidade do lançador de resistir a feitiços sem danos."
+
+msgid "s_Spell Immunity_1"
+msgstr "Soletrar imunidade_ 1"
+
+msgid "desc_s_Spell Immunity_1"
+msgstr ""
+
+msgid "s_Virtuous Wrath"
+msgstr "Ira virtuosa"
+
+msgid "desc_s_Virtuous Wrath"
+msgstr ""
+"Lança um projéctil que explode sobre o impacto causando danos sagrados."
+
+msgid "s_Virtuous Wrath_1"
+msgstr "Ira virtuosa_1"
+
+msgid "desc_s_Virtuous Wrath_1"
+msgstr ""
+
+msgid "s_Wall of Force"
+msgstr "Parede de força"
+
+msgid "desc_s_Wall of Force"
+msgstr "Cria uma bolha mágica que impede todo o movimento."
+
+msgid "s_Wall of Force_force"
+msgstr "Parede de força_ força"
+
+msgid "desc_s_Wall of Force_force"
+msgstr ""
+
+msgid "s_Divine Magic_Spells"
+msgstr "Magia divina feitiços"
+
+msgid "desc_s_Divine Magic_Spells"
+msgstr ""
+
+msgid "s_Earth Magic_Spells"
+msgstr "Magia da terra feitiços"
+
+msgid "desc_s_Earth Magic_Spells"
+msgstr ""
+"Adeptos da Terra Magia controla tanto o poder de resistência e corrosão.  "
+"Eles são únicos em saber maneiras de proteger eficientemente contra armas "
+"melee sem vestir armadura pesada."
+
+msgid "s_Acid Arrow"
+msgstr "Seta ácida"
+
+msgid "desc_s_Acid Arrow"
+msgstr "Lança um projéctil que explode sobre o impacto causando danos ácidos."
+
+msgid "s_Acid Arrow_1"
+msgstr "Seta ácida_ 1"
+
+msgid "desc_s_Acid Arrow_1"
+msgstr ""
+
+msgid "s_Acid Rain"
+msgstr "Chuva ácida"
+
+msgid "desc_s_Acid Rain"
+msgstr "Um raio mágico que invoca uma tempestade ácida ao atingir o seu alvo."
+
+msgid "s_Acid Rain_1"
+msgstr "Chuva ácida_ 1"
+
+msgid "desc_s_Acid Rain_1"
+msgstr ""
+
+msgid "s_Acid Shield"
+msgstr "Escudo ácido"
+
+msgid "desc_s_Acid Shield"
+msgstr "Dá à rodízio uma maior proteção contra o ácido."
+
+msgid "s_Acid Shield_1"
+msgstr "Escudo ácido_ 1"
+
+msgid "desc_s_Acid Shield_1"
+msgstr ""
+
+msgid "s_Acid Ward"
+msgstr "Ala ácida"
+
+msgid "desc_s_Acid Ward"
+msgstr "Destinar-se a um objectivo de concessão de proteção contra o ácido."
+
+msgid "s_Acid Ward_1"
+msgstr "Ala ácida_ 1"
+
+msgid "desc_s_Acid Ward_1"
+msgstr ""
+
+msgid "s_Boon of Domination"
+msgstr "Boon de dominação"
+
+msgid "desc_s_Boon of Domination"
+msgstr "Reabasteça a resistência com sucesso."
+
+msgid "s_Boon of Domination_1"
+msgstr "Boon of domination_1"
+
+msgid "desc_s_Boon of Domination_1"
+msgstr ""
+
+msgid "s_Boon of Blight"
+msgstr "Bôon de praga"
+
+msgid "desc_s_Boon of Blight"
+msgstr "Reabasteça a resistência com sucesso."
+
+msgid "s_Boon of Blight_1"
+msgstr "Boon of blight_ 1"
+
+msgid "desc_s_Boon of Blight_1"
+msgstr ""
+
+msgid "s_Boon of Agony"
+msgstr "Bôon de agonia"
+
+msgid "desc_s_Boon of Agony"
+msgstr "Reabasteça a resistência com sucesso."
+
+msgid "s_Boon of Agony_1"
+msgstr "Boon de agonia_1"
+
+msgid "desc_s_Boon of Agony_1"
+msgstr ""
+
+msgid "s_Boon of Mutilation"
+msgstr "Bôon de mutilação"
+
+msgid "desc_s_Boon of Mutilation"
+msgstr "Reabasteça a resistência com sucesso."
+
+msgid "s_Boon of Mutilation_1"
+msgstr "Boon de mutilação_ 1"
+
+msgid "desc_s_Boon of Mutilation_1"
+msgstr ""
+
+msgid "s_Boon of Waves"
+msgstr "Boon de ondas"
+
+msgid "desc_s_Boon of Waves"
+msgstr "Reabasteça a resistência com sucesso."
+
+msgid "s_Boon of Waves_1"
+msgstr "Boon of waves_1"
+
+msgid "desc_s_Boon of Waves_1"
+msgstr ""
+
+msgid "s_Brawn"
+msgstr "Músculo"
+
+msgid "desc_s_Brawn"
+msgstr "Dá um bónus de força ao lançador."
+
+msgid "s_Brawn_1"
+msgstr "Brawn_1"
+
+msgid "desc_s_Brawn_1"
+msgstr ""
+
+msgid "s_Corrosive Blast"
+msgstr "Explosão corrosiva"
+
+msgid "desc_s_Corrosive Blast"
+msgstr ""
+"Dispara um projéctil que explode sobre o impacto causando danos ácidos. "
+
+msgid "s_Corrosive Blast_1"
+msgstr "Explosão corrosiva_1"
+
+msgid "desc_s_Corrosive Blast_1"
+msgstr ""
+
+msgid "s_Corrosive Blast_2"
+msgstr "Explosão corrosiva_2"
+
+msgid "desc_s_Corrosive Blast_2"
+msgstr ""
+
+msgid "s_Disintegrate"
+msgstr "Desintegrar"
+
+msgid "desc_s_Disintegrate"
+msgstr "Lança um projéctil que explode sobre o impacto causando danos ácidos."
+
+msgid "s_Disintegrate_1"
+msgstr "Disintegrate_1"
+
+msgid "desc_s_Disintegrate_1"
+msgstr ""
+
+msgid "s_Earthquake"
+msgstr "Sismo"
+
+msgid "desc_s_Earthquake"
+msgstr ""
+"Pressione e segure o botão Ação para chamar um terremoto que danifica tudo "
+"por perto, incluindo o rodízio."
+
+msgid "s_Earthquake_1"
+msgstr "Earthquake_1"
+
+msgid "desc_s_Earthquake_1"
+msgstr ""
+
+msgid "s_Gravity"
+msgstr "Gravidade"
+
+msgid "desc_s_Gravity"
+msgstr "Descrição pendente"
+
+msgid "s_Gravity_1"
+msgstr "Gravity_1"
+
+msgid "desc_s_Gravity_1"
+msgstr ""
+
+msgid "s_Impale"
+msgstr "Empale"
+
+msgid "desc_s_Impale"
+msgstr ""
+"Dispara um raio mágico que provoca picos arcanos a perfurar o seu alvo.  "
+
+msgid "s_Impale_1"
+msgstr "Impale_1"
+
+msgid "desc_s_Impale_1"
+msgstr ""
+
+msgid "s_Ironskin"
+msgstr "Pele de ferro"
+
+msgid "desc_s_Ironskin"
+msgstr "Concede uma proteção contra as armas."
+
+msgid "s_Ironskin_1"
+msgstr "Ironskin_1"
+
+msgid "desc_s_Ironskin_1"
+msgstr ""
+
+msgid "s_Meteor Strike"
+msgstr "Ataque de meteoros"
+
+msgid "desc_s_Meteor Strike"
+msgstr "Invoca uma chuva de meteoros para bombardear os inimigos."
+
+msgid "s_Meteor Strike_Impact"
+msgstr "Impacto_ meteoro"
+
+msgid "desc_s_Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Proc Meteor Strike"
+msgstr "Golpe de meteorito proc"
+
+msgid "desc_s_Proc Meteor Strike"
+msgstr "Invoca uma chuva de meteoros para bombardear os inimigos."
+
+msgid "s_Proc Meteor Strike_Impact"
+msgstr "Proc meteoro strike_impact"
+
+msgid "desc_s_Proc Meteor Strike_Impact"
+msgstr ""
+
+msgid "s_Pungent Mist"
+msgstr "Névoa pungente"
+
+msgid "desc_s_Pungent Mist"
+msgstr "Atira uma nuvem de vapores corrosivos no seu alvo."
+
+msgid "s_Pungent Mist_1"
+msgstr "Neblina pungente_ 1"
+
+msgid "desc_s_Pungent Mist_1"
+msgstr ""
+
+msgid "s_Stamina Leech"
+msgstr "Sanguessuga resistente"
+
+msgid "desc_s_Stamina Leech"
+msgstr ""
+"Dispara um raio mágico que drena a energia do alvo, transferindo-o para o "
+"caster."
+
+msgid "s_Stamina Leech_1"
+msgstr "Resistência à sanguessuga_ 1"
+
+msgid "desc_s_Stamina Leech_1"
+msgstr ""
+
+msgid "s_Stamina Leech Hit"
+msgstr "Resistência sanguessuga hit"
+
+msgid "desc_s_Stamina Leech Hit"
+msgstr ""
+"Dispara um raio mágico que drena a energia do alvo, transferindo-o para o "
+"caster."
+
+msgid "s_Stamina Leech Hit_1"
+msgstr "Resistência à sanguessuga hit_ 1"
+
+msgid "desc_s_Stamina Leech Hit_1"
+msgstr ""
+
+msgid "s_Damaging Blow"
+msgstr "Golpe prejudicial"
+
+msgid "desc_s_Damaging Blow"
+msgstr "Danos extra."
+
+msgid "s_Damaging Blow_1"
+msgstr "Danoso golpe_1"
+
+msgid "desc_s_Damaging Blow_1"
+msgstr ""
+
+msgid "s_Bleeding Hit"
+msgstr "Hemorragia atingida"
+
+msgid "desc_s_Bleeding Hit"
+msgstr "Danos extra."
+
+msgid "s_Bleeding Hit_1"
+msgstr "Hemorragia atingida_ 1"
+
+msgid "desc_s_Bleeding Hit_1"
+msgstr ""
+
+msgid "s_Stoneskin"
+msgstr "Pele de pedra"
+
+msgid "desc_s_Stoneskin"
+msgstr "Concede proteção ao lançador contra ataques de armas."
+
+msgid "s_Stoneskin_1"
+msgstr "Stoneskin_1"
+
+msgid "desc_s_Stoneskin_1"
+msgstr ""
+
+msgid "s_Tarnish"
+msgstr "Manchar"
+
+msgid "desc_s_Tarnish"
+msgstr ""
+"Lança um míssil que inflige uma penalização à proteção do ácido do alvo."
+
+msgid "s_Tarnish_1"
+msgstr "Tarnish_1"
+
+msgid "desc_s_Tarnish_1"
+msgstr ""
+
+msgid "s_Fire Magic_Spells"
+msgstr "Feitiços mágicos de fogo"
+
+msgid "desc_s_Fire Magic_Spells"
+msgstr ""
+"Uma escola composta principalmente por feitiços que causam destruição "
+"ardente. Também ensina alguma rapidez a encantar a magia."
+
+msgid "s_Dragonbreath"
+msgstr "Dragonbreath"
+
+msgid "desc_s_Dragonbreath"
+msgstr "Dispara uma contínua barragem de faíscas de fogo contra um inimigo."
+
+msgid "s_Dragonbreath_1"
+msgstr "Dragonbreath_1"
+
+msgid "desc_s_Dragonbreath_1"
+msgstr ""
+
+msgid "s_Explosion"
+msgstr "Explosão"
+
+msgid "desc_s_Explosion"
+msgstr "Produz uma explosão de fogo centrada no lançador."
+
+msgid "s_Explosion_fire"
+msgstr "Explosion_fire"
+
+msgid "desc_s_Explosion_fire"
+msgstr ""
+
+msgid "s_Fire Shield"
+msgstr "Escudo de fogo"
+
+msgid "desc_s_Fire Shield"
+msgstr "Dá ao lançador uma maior proteção contra o fogo."
+
+msgid "s_Fire Shield_prot"
+msgstr "Escudo de fogo_prot"
+
+msgid "desc_s_Fire Shield_prot"
+msgstr ""
+
+msgid "s_Fire Ward"
+msgstr "Ala de incêndio"
+
+msgid "desc_s_Fire Ward"
+msgstr "Concede um alvo de proteção contra o Fogo."
+
+msgid "s_Fire Ward_prot"
+msgstr "Ala de incêndio_ protet"
+
+msgid "desc_s_Fire Ward_prot"
+msgstr ""
+
+msgid "s_Fireball"
+msgstr "Bola de fogo"
+
+msgid "desc_s_Fireball"
+msgstr "Lança um projéctil que explode com o impacto causando danos ao fogo. "
+
+msgid "s_Fireball_2"
+msgstr "Fireball_2"
+
+msgid "desc_s_Fireball_2"
+msgstr ""
+
+msgid "s_Fireball_Area"
+msgstr "Fireball_Area"
+
+msgid "desc_s_Fireball_Area"
+msgstr ""
+
+msgid "s_Firebolt"
+msgstr "Firebolt"
+
+msgid "desc_s_Firebolt"
+msgstr "Lança um projéctil que explode com o impacto causando danos ao fogo. "
+
+msgid "s_Firebolt_area"
+msgstr "Firebolt_area"
+
+msgid "desc_s_Firebolt_area"
+msgstr ""
+
+msgid "s_Haste"
+msgstr "Pressa"
+
+msgid "desc_s_Haste"
+msgstr "Concede um alvo a aumentar a velocidade de ataque."
+
+msgid "s_Haste_1"
+msgstr "Haste_1"
+
+msgid "desc_s_Haste_1"
+msgstr ""
+
+msgid "s_Impetus"
+msgstr "Impulso"
+
+msgid "desc_s_Impetus"
+msgstr "Dá um bónus de rapidez ao lançador."
+
+msgid "s_Impetus_1"
+msgstr "Impetus_1"
+
+msgid "desc_s_Impetus_1"
+msgstr ""
+
+msgid "s_Inferno"
+msgstr "Inferno"
+
+msgid "desc_s_Inferno"
+msgstr "Lança um projéctil que explode com o impacto causando danos ao fogo."
+
+msgid "s_Inferno_area"
+msgstr "Inferno_area"
+
+msgid "desc_s_Inferno_area"
+msgstr ""
+
+msgid "s_Magma Storm"
+msgstr "Tempestade de magma"
+
+msgid "desc_s_Magma Storm"
+msgstr ""
+"Lança um projéctil que explode com o impacto causando danos ao fogo. Este "
+"míssil é afectado pela gravidade."
+
+msgid "s_Magma Strom_fire"
+msgstr "Magma strom_ fire"
+
+msgid "desc_s_Magma Strom_fire"
+msgstr ""
+
+msgid "s_Rapid Shot"
+msgstr "Tiro rápido"
+
+msgid "desc_s_Rapid Shot"
+msgstr "O alvo aumentou a velocidade de ataque."
+
+msgid "s_Rapid Shot_1"
+msgstr "Tiro rápido_ 1"
+
+msgid "desc_s_Rapid Shot_1"
+msgstr ""
+
+msgid "s_Smoke Signal"
+msgstr "Sinal de fumo"
+
+msgid "desc_s_Smoke Signal"
+msgstr "Cria uma coluna de fumo a subir do alvo."
+
+msgid "s_Smoke Signal_1"
+msgstr "Sinal de fumo_ 1"
+
+msgid "desc_s_Smoke Signal_1"
+msgstr ""
+
+msgid "s_Volcano"
+msgstr "Vulcão"
+
+msgid "desc_s_Volcano"
+msgstr ""
+"Dispara um raio mágico que faz a rocha derretida brotar do solo causando "
+"danos ao fogo."
+
+msgid "s_Volcano_1"
+msgstr "Volcano_1"
+
+msgid "desc_s_Volcano_1"
+msgstr ""
+
+msgid "s_Wall of Fire"
+msgstr "Parede de fogo"
+
+msgid "desc_s_Wall of Fire"
+msgstr ""
+"Dispara um raio mágico que cria uma grande esfera de fogo ao atingir o seu "
+"alvo."
+
+msgid "s_Wall of Fire_1"
+msgstr "Parede de fogo_1"
+
+msgid "desc_s_Wall of Fire_1"
+msgstr ""
+
+msgid "s_Weakening Blaze"
+msgstr "Clarão enfraquecedor"
+
+msgid "desc_s_Weakening Blaze"
+msgstr ""
+"Lança um míssil que inflige uma pena à proteção contra incêndios do alvo."
+
+msgid "s_Weakening Blaze_1"
+msgstr "Enfraquecendo blaze_ 1"
+
+msgid "desc_s_Weakening Blaze_1"
+msgstr ""
+
+msgid "s_Greater Magic_Spells"
+msgstr "Feitiços mágicos maiores"
+
+msgid "desc_s_Greater Magic_Spells"
+msgstr ""
+"Magia Maior é uma escola versátil, consistindo em feitiços ofensivos e "
+"defensivos de natureza variada. Entre outras coisas, ensina como infligir "
+"veneno ou feridas a um inimigo que sangram excessivamente."
+
+msgid "s_Beacon"
+msgstr "Farol"
+
+msgid "desc_s_Beacon"
+msgstr "Um raio que cria um marcador visual no seu alvo."
+
+msgid "s_Beacon_1"
+msgstr "Beacon_1"
+
+msgid "desc_s_Beacon_1"
+msgstr ""
+
+msgid "s_Begone"
+msgstr "Vá embora"
+
+msgid "desc_s_Begone"
+msgstr ""
+"A explosão Arcane é usada principalmente para empurrar ou puxar alvos."
+
+msgid "s_Begone_1"
+msgstr "Begone_1"
+
+msgid "desc_s_Begone_1"
+msgstr ""
+
+msgid "s_Confusion"
+msgstr "Confusão"
+
+msgid "desc_s_Confusion"
+msgstr "Míssil que cria um flash, persianas no impacto."
+
+msgid "s_Confusion_1"
+msgstr "Confusion_1"
+
+msgid "desc_s_Confusion_1"
+msgstr ""
+
+msgid "s_Disabling Bolt"
+msgstr "Desativar o parafuso"
+
+msgid "desc_s_Disabling Bolt"
+msgstr ""
+"Um ataque que torna o seu oponente incapaz de parar por uma curta duração."
+
+msgid "s_Disabling Bolt_1"
+msgstr "Desativar o parafuso_ 1"
+
+msgid "desc_s_Disabling Bolt_1"
+msgstr ""
+
+msgid "s_Disabling Bolt_2"
+msgstr "Desativar o parafuso_ 2"
+
+msgid "desc_s_Disabling Bolt_2"
+msgstr ""
+
+msgid "s_Flesh Curse"
+msgstr "Maldição da carne"
+
+msgid "desc_s_Flesh Curse"
+msgstr "Lança um míssil a reduzir a proteção contra infligições do alvo. "
+
+msgid "s_Flesh Curse_1"
+msgstr "Amaldiçoação da carne_1"
+
+msgid "desc_s_Flesh Curse_1"
+msgstr ""
+
+msgid "s_Frailty"
+msgstr "Fragilidade"
+
+msgid "desc_s_Frailty"
+msgstr ""
+"Dispara um míssil que inflige uma penalidade à resistência do alvo contra "
+"danos."
+
+msgid "s_Frailty_1"
+msgstr "Frailty_1"
+
+msgid "desc_s_Frailty_1"
+msgstr ""
+
+msgid "s_Heal Other"
+msgstr "Curar outro"
+
+msgid "desc_s_Heal Other"
+msgstr "Um raio de cura que recupera a saúde do alvo."
+
+msgid "s_Heal Other_1"
+msgstr "Curar outras_1"
+
+msgid "desc_s_Heal Other_1"
+msgstr ""
+
+msgid "s_Infliction Shield"
+msgstr "Escudo de inflição"
+
+msgid "desc_s_Infliction Shield"
+msgstr "Concede ao lançador maior proteção contra infligições."
+
+msgid "s_Infliction Shield_1"
+msgstr "Escudo de inflição_1"
+
+msgid "desc_s_Infliction Shield_1"
+msgstr ""
+
+msgid "s_Infliction Ward"
+msgstr "Ala de infligições"
+
+msgid "desc_s_Infliction Ward"
+msgstr "O objectivo dos subsídios é aumentar a proteção contra infligições."
+
+msgid "s_Infliction Ward_1"
+msgstr "Ala de infligições_1"
+
+msgid "desc_s_Infliction Ward_1"
+msgstr ""
+
+msgid "s_Insight"
+msgstr "Discernimento"
+
+msgid "desc_s_Insight"
+msgstr "Dá um bónus de Sabedoria ao lançador."
+
+msgid "s_Insight_1"
+msgstr "Insight_1"
+
+msgid "desc_s_Insight_1"
+msgstr ""
+
+msgid "s_Levitation"
+msgstr "Levitação"
+
+msgid "desc_s_Levitation"
+msgstr ""
+"Cria uma coluna temporária de força que levita qualquer pessoa dentro da sua"
+" área."
+
+msgid "s_Levitation_1"
+msgstr "Levitation_1"
+
+msgid "desc_s_Levitation_1"
+msgstr ""
+
+msgid "s_Missile Fury"
+msgstr "Fúria de mísseis"
+
+msgid "desc_s_Missile Fury"
+msgstr ""
+"Lança um projéctil que explode com o impacto causando danos ao Arcane."
+
+msgid "s_Missile Fury_1"
+msgstr "Fúria de mísseis_ 1"
+
+msgid "desc_s_Missile Fury_1"
+msgstr ""
+
+msgid "s_Rend"
+msgstr "Dilacerar"
+
+msgid "desc_s_Rend"
+msgstr ""
+"Dispara um míssil que explode sobre o impacto causando danos ao sangramento,"
+" bem como concede uma penalidade de proteção Piercing."
+
+msgid "s_Rend_1"
+msgstr "Rend_1"
+
+msgid "desc_s_Rend_1"
+msgstr ""
+
+msgid "s_Rend_2"
+msgstr "Rend_2"
+
+msgid "desc_s_Rend_2"
+msgstr ""
+
+msgid "s_Proc Rend"
+msgstr "Proc rend"
+
+msgid "desc_s_Proc Rend"
+msgstr "Versão do efeito Proc de rend."
+
+msgid "s_Proc Rend_1"
+msgstr "Proc rend_ 1"
+
+msgid "desc_s_Proc Rend_1"
+msgstr ""
+
+msgid "s_Shield of Protection"
+msgstr "Escudo de proteção"
+
+msgid "desc_s_Shield of Protection"
+msgstr ""
+"Conjura uma barreira mística protegendo o lançador dos ataques de armas. Não"
+" empilha com quaisquer outras proteções, incluindo armaduras."
+
+msgid "s_Shield of Protection_1"
+msgstr "Escudo de proteção_1"
+
+msgid "desc_s_Shield of Protection_1"
+msgstr ""
+
+msgid "s_Impulse"
+msgstr "Impulso"
+
+msgid "desc_s_Impulse"
+msgstr ""
+"Uma esfera de puro poder arcano, usada principalmente para mover alvos."
+
+msgid "s_Impulse_1"
+msgstr "Impulse_1"
+
+msgid "desc_s_Impulse_1"
+msgstr ""
+
+msgid "s_Telekinesis"
+msgstr "Telecinese"
+
+msgid "desc_s_Telekinesis"
+msgstr "Uma coluna de força telecinética que levanta qualquer um dentro."
+
+msgid "s_Telekinesis_1"
+msgstr "Telekinesis_1"
+
+msgid "desc_s_Telekinesis_1"
+msgstr ""
+
+msgid "s_Unburden"
+msgstr "Desembaraçar"
+
+msgid "desc_s_Unburden"
+msgstr "Reduz o Encumprimento da Roda."
+
+msgid "s_Unburden_1"
+msgstr "Unburden_1"
+
+msgid "desc_s_Unburden_1"
+msgstr ""
+
+msgid "s_Venom"
+msgstr "Veneno"
+
+msgid "desc_s_Venom"
+msgstr ""
+"Dispara um míssil que inflige danos ao veneno no seu alvo e reduz a saúde "
+"máxima."
+
+msgid "s_Venom_2"
+msgstr "Venom_2"
+
+msgid "desc_s_Venom_2"
+msgstr ""
+
+msgid "s_Venom_Acid"
+msgstr "Venom_Acid"
+
+msgid "desc_s_Venom_Acid"
+msgstr ""
+
+msgid "s_Lesser Magic_Spells"
+msgstr "Feitiços mágicos menores"
+
+msgid "desc_s_Lesser Magic_Spells"
+msgstr ""
+"Sua primeira escola de Magia consistindo em feitiços básicos de apoio "
+"essenciais para sua sobrevivência. Oferece vários feitiços de cura e alguns "
+"feitiços ofensivos e utilitários.  "
+
+msgid "s_Blast"
+msgstr "Explosão"
+
+msgid "desc_s_Blast"
+msgstr ""
+"Dispara um míssil que inflige danos em Arcane ao seu alvo e reduz a sua "
+"destreza."
+
+msgid "s_Blast_1"
+msgstr "Blast_1"
+
+msgid "desc_s_Blast_1"
+msgstr ""
+
+msgid "s_Blast_2"
+msgstr "Blast_2"
+
+msgid "desc_s_Blast_2"
+msgstr ""
+
+msgid "s_Blast_3"
+msgstr "Blast_3"
+
+msgid "desc_s_Blast_3"
+msgstr ""
+
+msgid "s_Burden"
+msgstr "Carga"
+
+msgid "desc_s_Burden"
+msgstr ""
+"Dispara um míssil que inflige uma penalização de Encumbrance ao seu alvo, "
+"interferindo na sua fundição ou tiro com arco."
+
+msgid "s_Burden_1"
+msgstr "Burden_1"
+
+msgid "desc_s_Burden_1"
+msgstr ""
+
+msgid "s_Eldritch Sphere"
+msgstr "Esfera de eldritch"
+
+msgid "desc_s_Eldritch Sphere"
+msgstr "Dispara um míssil que explode com o impacto causando danos ao Arcane."
+
+msgid "s_Eldritch Sphere_1"
+msgstr "Esfera de eldritch_ 1"
+
+msgid "desc_s_Eldritch Sphere_1"
+msgstr ""
+
+msgid "s_Heal Mount"
+msgstr "Curar montagem"
+
+msgid "desc_s_Heal Mount"
+msgstr "Dispara um raio mágico que reabastece a saúde de uma montanha."
+
+msgid "s_Heal Mount_1"
+msgstr "Curar a montagem_ 1"
+
+msgid "desc_s_Heal Mount_1"
+msgstr ""
+
+msgid "s_Heal Self"
+msgstr "Curar a si mesmo"
+
+msgid "desc_s_Heal Self"
+msgstr ""
+"Caster recupera uma pequena quantidade de Saúde. Este feitiço não requer "
+"nenhum reagente para fundir."
+
+msgid "s_Heal Self_1"
+msgstr "Curar o eu_ 1"
+
+msgid "desc_s_Heal Self_1"
+msgstr ""
+
+msgid "s_Health to Mana"
+msgstr "Saúde a mana"
+
+msgid "desc_s_Health to Mana"
+msgstr "Caster aumenta seu próprio Mana, ao custo de perder a Saúde."
+
+msgid "s_Health to Mana_1"
+msgstr "Saúde a mana_1"
+
+msgid "desc_s_Health to Mana_1"
+msgstr ""
+
+msgid "s_Launch"
+msgstr "Lançamento"
+
+msgid "desc_s_Launch"
+msgstr "Dispara um raio mágico que provoca uma explosão de energia."
+
+msgid "s_Launch_1"
+msgstr "Launch_1"
+
+msgid "desc_s_Launch_1"
+msgstr ""
+
+msgid "s_Lay on Hands"
+msgstr "Colocar as mãos nas mãos"
+
+msgid "desc_s_Lay on Hands"
+msgstr "Dispara um raio mágico que cura o seu alvo."
+
+msgid "s_Lay on Hands_1"
+msgstr "Colocar sobre as mãos_1"
+
+msgid "desc_s_Lay on Hands_1"
+msgstr ""
+
+msgid "s_Light"
+msgstr "Luz"
+
+msgid "desc_s_Light"
+msgstr "Conjura as esferas dançantes da luz."
+
+msgid "s_Light_1"
+msgstr "Light_1"
+
+msgid "desc_s_Light_1"
+msgstr ""
+
+msgid "s_Magic Shield"
+msgstr "Escudo mágico"
+
+msgid "desc_s_Magic Shield"
+msgstr "Cria uma barreira mágica à volta do caster."
+
+msgid "s_Magic Shield_resist"
+msgstr "Magic shield_ resist"
+
+msgid "desc_s_Magic Shield_resist"
+msgstr ""
+
+msgid "s_Magic Ward"
+msgstr "Ala mágica"
+
+msgid "desc_s_Magic Ward"
+msgstr "Um raio que cria uma barreira defensiva em torno do seu alvo."
+
+msgid "s_Magic Ward_resist"
+msgstr "Magic ward_ resist"
+
+msgid "desc_s_Magic Ward_resist"
+msgstr ""
+
+msgid "s_Mana Drain"
+msgstr "Mana dreno"
+
+msgid "desc_s_Mana Drain"
+msgstr "Dispara um raio mágico que drena o Mana do seu alvo."
+
+msgid "s_Mana Drain_Drain"
+msgstr "Mana dreno_ dreno"
+
+msgid "desc_s_Mana Drain_Drain"
+msgstr ""
+
+msgid "s_Mana Missile"
+msgstr "Projétil de mana"
+
+msgid "desc_s_Mana Missile"
+msgstr ""
+"Dispara um míssil que inflige danos ao Arcane. É o feitiço de dano mais "
+"fraco disponível, mas não requer reagentes. "
+
+msgid "s_Mana Missile_Arcane"
+msgstr "Mana misseis_ arcane"
+
+msgid "desc_s_Mana Missile_Arcane"
+msgstr "Descrição de s_mana misseis_1"
+
+msgid "s_Mana to Stamina"
+msgstr "Mana a resistência"
+
+msgid "desc_s_Mana to Stamina"
+msgstr "Caster aumenta sua própria resistência, ao custo de perder Mana."
+
+msgid "s_Mana to Stamina_1"
+msgstr "Mana to stamina_ 1"
+
+msgid "desc_s_Mana to Stamina_1"
+msgstr ""
+
+msgid "s_Stamina to Health"
+msgstr "Resistência à saúde"
+
+msgid "desc_s_Stamina to Health"
+msgstr "Caster aumenta sua própria saúde, ao custo de perder a resistência."
+
+msgid "s_Stamina to Health_1"
+msgstr "Resistência à saúde_1"
+
+msgid "desc_s_Stamina to Health_1"
+msgstr ""
+
+msgid "s_Necromancy_Spells"
+msgstr "Feitiços de necromancia"
+
+msgid "desc_s_Necromancy_Spells"
+msgstr ""
+"A necromancia tira o poder dos domínios dos mortos para alimentar a sua "
+"magia profana. Seus feitiços ofensivos são altamente potentes, assim como "
+"seus ataques debilitantes."
+
+msgid "s_Bludgeoning Weakness"
+msgstr "Flagelamento fraqueza"
+
+msgid "desc_s_Bludgeoning Weakness"
+msgstr "Lança um míssil que inflige uma pena à proteção do alvo.  "
+
+msgid "s_Bludgeoning Weakness_1"
+msgstr "Quebrando fraqueza_ 1"
+
+msgid "desc_s_Bludgeoning Weakness_1"
+msgstr ""
+
+msgid "s_Cake and Fine Wine"
+msgstr "Bolo e vinho fino"
+
+msgid "desc_s_Cake and Fine Wine"
+msgstr "Capacidade de teste sem aleatoriedade para os danos."
+
+msgid "s_Cake and Fine Wine_1"
+msgstr "Bolo e vinho fino_1"
+
+msgid "desc_s_Cake and Fine Wine_1"
+msgstr ""
+
+msgid "s_Cursed Bolt"
+msgstr "Parafuso amaldiçoado"
+
+msgid "desc_s_Cursed Bolt"
+msgstr "Dispara um míssil que inflige danos profanos."
+
+msgid "s_Cursed Bolt_1"
+msgstr "Parafuso amaldiçoado_1"
+
+msgid "desc_s_Cursed Bolt_1"
+msgstr ""
+
+msgid "s_Death Fog"
+msgstr "Nevoeiro da morte"
+
+msgid "desc_s_Death Fog"
+msgstr "Dispara um raio mágico que produz uma névoa profana. "
+
+msgid "s_Death Fog_1"
+msgstr "Neblina mortal_1"
+
+msgid "desc_s_Death Fog_1"
+msgstr ""
+
+msgid "s_Desecration"
+msgstr "Profanação"
+
+msgid "desc_s_Desecration"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à proteção profana do seu alvo."
+
+msgid "s_Desecration_1"
+msgstr "Desecration_1"
+
+msgid "desc_s_Desecration_1"
+msgstr ""
+
+msgid "s_Evil Eye"
+msgstr "Olho mau"
+
+msgid "desc_s_Evil Eye"
+msgstr ""
+"Dispara um míssil que diminui as hipóteses do seu alvo de negar os efeitos "
+"do feitiço."
+
+msgid "s_Evil Eye_1"
+msgstr "Olho mau_ 1"
+
+msgid "desc_s_Evil Eye_1"
+msgstr ""
+
+msgid "s_Eye Rot"
+msgstr "Podridão ocular"
+
+msgid "desc_s_Eye Rot"
+msgstr ""
+"Mísseis que perturbam a coordenação do alvo.  Causa danos ao sangue e uma "
+"penalidade para a Dexteridade e Inteligência."
+
+msgid "s_Eye Rot_1"
+msgstr "Rot_ 1 ocular"
+
+msgid "desc_s_Eye Rot_1"
+msgstr ""
+
+msgid "s_Eye Rot_2"
+msgstr "Rot_ 2 ocular"
+
+msgid "desc_s_Eye Rot_2"
+msgstr ""
+
+msgid "s_Eye Rot_3"
+msgstr "Rot_ 3 ocular"
+
+msgid "desc_s_Eye Rot_3"
+msgstr ""
+
+msgid "s_Infernal Shield"
+msgstr "Escudo infernal"
+
+msgid "desc_s_Infernal Shield"
+msgstr "Concede maior proteção contra danos profanos."
+
+msgid "s_Infernal Shield_1"
+msgstr "Escudo infernal_1"
+
+msgid "desc_s_Infernal Shield_1"
+msgstr ""
+
+msgid "s_Infernal Ward"
+msgstr "Enfermaria infernal"
+
+msgid "desc_s_Infernal Ward"
+msgstr "Concede uma proteção contra danos profanos."
+
+msgid "s_Infernal Ward_1"
+msgstr "Ala infernal_ 1"
+
+msgid "desc_s_Infernal Ward_1"
+msgstr ""
+
+msgid "s_Mental Weakness"
+msgstr "Fraqueza mental"
+
+msgid "desc_s_Mental Weakness"
+msgstr "Lança um míssil que inflige uma pena à proteção mental do alvo."
+
+msgid "s_Mental Weakness_1"
+msgstr "Fraqueza mental_1"
+
+msgid "desc_s_Mental Weakness_1"
+msgstr ""
+
+msgid "s_Piercing Weakness"
+msgstr "Fraqueza penetrante"
+
+msgid "desc_s_Piercing Weakness"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à proteção perfurante do alvo."
+
+msgid "s_Piercing Weakness_1"
+msgstr "Fraqueza penetrante_ 1"
+
+msgid "desc_s_Piercing Weakness_1"
+msgstr ""
+
+msgid "s_Slashing Weakness"
+msgstr "Quebrando a fraqueza"
+
+msgid "desc_s_Slashing Weakness"
+msgstr "Lança um míssil que inflige uma pena à proteção do alvo."
+
+msgid "s_Slashing Weakness_1"
+msgstr "Quebrando fraqueza_ 1"
+
+msgid "desc_s_Slashing Weakness_1"
+msgstr ""
+
+msgid "s_Undeath"
+msgstr "Não- morte"
+
+msgid "desc_s_Undeath"
+msgstr ""
+"Dispara um míssil que inflige uma maldição ao seu alvo, reduzindo ou mesmo "
+"negando a regeneração natural da Saúde."
+
+msgid "s_Undeath_1"
+msgstr "Undeath_1"
+
+msgid "desc_s_Undeath_1"
+msgstr ""
+
+msgid "s_Unholy Caress"
+msgstr "Carícias profanas"
+
+msgid "desc_s_Unholy Caress"
+msgstr "Dispara uma linha que causa danos profanos num único alvo. "
+
+msgid "s_Unholy Caress_1"
+msgstr "Carícia profana_1"
+
+msgid "desc_s_Unholy Caress_1"
+msgstr ""
+
+msgid "s_Unholy Flames"
+msgstr "Chamas profanas"
+
+msgid "desc_s_Unholy Flames"
+msgstr ""
+"Dispara um projéctil que explode com o impacto causando danos profanos. "
+
+msgid "s_Unholy Flames_area"
+msgstr "Área_de-chamas profanas"
+
+msgid "desc_s_Unholy Flames_area"
+msgstr ""
+
+msgid "s_Proc Unholy Flames"
+msgstr "Proc chamas profanas"
+
+msgid "desc_s_Proc Unholy Flames"
+msgstr ""
+"Dispara um projéctil que explode com o impacto causando danos profanos. "
+
+msgid "s_Proc Unholy Flames_area"
+msgstr "Proc fogos profanos_área"
+
+msgid "desc_s_Proc Unholy Flames_area"
+msgstr ""
+
+msgid "s_Vampiric Touch"
+msgstr "Toque vampírico"
+
+msgid "desc_s_Vampiric Touch"
+msgstr ""
+"Dispara um raio mágico que drena a saúde do alvo, transferindo-o para o "
+"caster. "
+
+msgid "s_Vampiric Touch_1"
+msgstr "Toque vampírico_ 1"
+
+msgid "desc_s_Vampiric Touch_1"
+msgstr ""
+
+msgid "s_Ritual Magic_Spells"
+msgstr "Feitiços mágicos rituais"
+
+msgid "desc_s_Ritual Magic_Spells"
+msgstr ""
+
+msgid "s_Spell Chanting_Spells"
+msgstr "Feitiços de canto"
+
+msgid "desc_s_Spell Chanting_Spells"
+msgstr ""
+"Esta escola é especializada em conceder bônus aos companheiros, em vez de "
+"causar danos aos inimigos. Como tal, um cantor de feitiços é valioso numa "
+"festa, mas muito menos sozinho."
+
+msgid "s_Adept"
+msgstr "Adepto"
+
+msgid "desc_s_Adept"
+msgstr "Diminui a hipótese do lançador falhar o feitiço."
+
+msgid "s_Adept_1"
+msgstr "Adept_1"
+
+msgid "desc_s_Adept_1"
+msgstr ""
+
+msgid "s_Bless Other"
+msgstr "Abençoar outros"
+
+msgid "desc_s_Bless Other"
+msgstr "Concede uma proteção contra ataques de Maledição."
+
+msgid "s_Bless Other_1"
+msgstr "Abençoe outros_1"
+
+msgid "desc_s_Bless Other_1"
+msgstr ""
+
+msgid "s_Blessing"
+msgstr "Benção"
+
+msgid "desc_s_Blessing"
+msgstr "Concede proteção ao lançador contra ataques de Malediction."
+
+msgid "s_Blessing_1"
+msgstr "Blessing_1"
+
+msgid "desc_s_Blessing_1"
+msgstr ""
+
+msgid "s_Healing Chant"
+msgstr "Canto de cura"
+
+msgid "desc_s_Healing Chant"
+msgstr "Cria uma esfera curativa à volta do castor."
+
+msgid "s_Healing Chant_1"
+msgstr "Curando canto_ 1"
+
+msgid "desc_s_Healing Chant_1"
+msgstr "Descrição de s_ healing chant_1"
+
+msgid "s_Hymn of Intellect"
+msgstr "Hino do intelecto"
+
+msgid "desc_s_Hymn of Intellect"
+msgstr "Um raio que dá um bónus à Inteligência do alvo."
+
+msgid "s_Hymn of Intellect_1"
+msgstr "Hino do intelecto_1"
+
+msgid "desc_s_Hymn of Intellect_1"
+msgstr ""
+
+msgid "s_Hymn of Might"
+msgstr "Hino de poder"
+
+msgid "desc_s_Hymn of Might"
+msgstr "Um raio que dá um bónus à Força do alvo."
+
+msgid "s_Hymn of Might_1"
+msgstr "Hino de poder_ 1"
+
+msgid "desc_s_Hymn of Might_1"
+msgstr ""
+
+msgid "s_Hymn of Skill"
+msgstr "Hino de habilidade"
+
+msgid "desc_s_Hymn of Skill"
+msgstr "Um raio que dá um bónus à Dexteridade do alvo."
+
+msgid "s_Hymn of Skill_1"
+msgstr "Hino de habilidade_1"
+
+msgid "desc_s_Hymn of Skill_1"
+msgstr ""
+
+msgid "s_Hymn of Swiftness"
+msgstr "Hino de rapidez"
+
+msgid "desc_s_Hymn of Swiftness"
+msgstr "Um raio que dá um bónus à rapidez do alvo."
+
+msgid "s_Hymn of Swiftness_1"
+msgstr "Hino de rapidez_1"
+
+msgid "desc_s_Hymn of Swiftness_1"
+msgstr ""
+
+msgid "s_Hymn of Vigor"
+msgstr "Hino de vigor"
+
+msgid "desc_s_Hymn of Vigor"
+msgstr "Um raio mágico que dá um bónus à Vitalidade do alvo."
+
+msgid "s_Hymn of Vigor_1"
+msgstr "Hino de vigor_1"
+
+msgid "desc_s_Hymn of Vigor_1"
+msgstr ""
+
+msgid "s_Mana Blast"
+msgstr "Mana blast"
+
+msgid "desc_s_Mana Blast"
+msgstr "Dispara um raio mágico que provoca uma explosão Arcane."
+
+msgid "s_Mana Blast_1"
+msgstr "Mana blast_ 1"
+
+msgid "desc_s_Mana Blast_1"
+msgstr ""
+
+msgid "s_Max Health Bonus"
+msgstr "Bónus máximo de saúde"
+
+msgid "desc_s_Max Health Bonus"
+msgstr "Aumenta temporariamente a saúde máxima do lançador."
+
+msgid "s_Max Health Bonus_1"
+msgstr "Bónus máximo de saúde_1"
+
+msgid "desc_s_Max Health Bonus_1"
+msgstr ""
+
+msgid "s_Max Mana Bonus"
+msgstr "Bônus max mana"
+
+msgid "desc_s_Max Mana Bonus"
+msgstr "Aumenta temporariamente o máximo de Mana do lançador."
+
+msgid "s_Max Mana Bonus_1"
+msgstr "Max mana bonus_1"
+
+msgid "desc_s_Max Mana Bonus_1"
+msgstr ""
+
+msgid "s_Max Stamina Bonus"
+msgstr "Bônus de resistência máxima"
+
+msgid "desc_s_Max Stamina Bonus"
+msgstr "Aumenta temporariamente o máximo de resistência do lançador."
+
+msgid "s_Max Stamina Bonus_1"
+msgstr "Bônus de resistência máxima_1"
+
+msgid "desc_s_Max Stamina Bonus_1"
+msgstr ""
+
+msgid "s_Sacrifice"
+msgstr "Sacrifício"
+
+msgid "desc_s_Sacrifice"
+msgstr "Um raio que transfere a Saúde do lançador para o alvo."
+
+msgid "s_Sacrifice_1"
+msgstr "Sacrifice_1"
+
+msgid "desc_s_Sacrifice_1"
+msgstr ""
+
+msgid "s_Replenish"
+msgstr "Reabastecer"
+
+msgid "desc_s_Replenish"
+msgstr "um único efeito de cura utilizado com efeitos de reposição."
+
+msgid "s_Replenish_1"
+msgstr "Replenish_1"
+
+msgid "desc_s_Replenish_1"
+msgstr ""
+
+msgid "s_Replenish all"
+msgstr "Reabastecer tudo"
+
+msgid "desc_s_Replenish all"
+msgstr "curar todos os atributos efeito usado com efeitos de repor hit."
+
+msgid "s_Replenish all_1"
+msgstr "Reabastecer tudo_ 1"
+
+msgid "desc_s_Replenish all_1"
+msgstr ""
+
+msgid "s_Replenish all_2"
+msgstr "Reabastecer tudo_ 2"
+
+msgid "desc_s_Replenish all_2"
+msgstr ""
+
+msgid "s_Replenish all_3"
+msgstr "Reabastecer tudo_ 3"
+
+msgid "desc_s_Replenish all_3"
+msgstr ""
+
+msgid "s_Soothing Chant"
+msgstr "Canto calmante"
+
+msgid "desc_s_Soothing Chant"
+msgstr "Pressione e segure o botão Ação para curar montagens próximas."
+
+msgid "s_Soothing Chant_1"
+msgstr "Calmante canto_ 1"
+
+msgid "desc_s_Soothing Chant_1"
+msgstr ""
+
+msgid "s_Water Magic_Spells"
+msgstr "Magia da água feitiços"
+
+msgid "desc_s_Water Magic_Spells"
+msgstr ""
+"A escola de água concede feitiços que causam danos de fragmentos de gelo ou "
+"um frio sobrenaturalmente intenso, bem como magia para alvos lentos."
+
+msgid "s_Blizzard"
+msgstr "Nevasca"
+
+msgid "desc_s_Blizzard"
+msgstr "Lança um míssil que explode com o impacto causando danos frios. "
+
+msgid "s_Blizzard_1"
+msgstr "Blizzard_1"
+
+msgid "desc_s_Blizzard_1"
+msgstr ""
+
+msgid "s_Proc Blizzard"
+msgstr "Nevasca proc"
+
+msgid "desc_s_Proc Blizzard"
+msgstr "Lança um míssil que explode com o impacto causando danos frios. "
+
+msgid "s_Proc Blizzard_1"
+msgstr "Proc nevasca_ 1"
+
+msgid "desc_s_Proc Blizzard_1"
+msgstr ""
+
+msgid "s_Clear Thoughts"
+msgstr "Pensamentos claros"
+
+msgid "desc_s_Clear Thoughts"
+msgstr "Dá um bónus aos Serviços Secretos."
+
+msgid "s_Clear Thoughts_1"
+msgstr "Pensamentos claros_1"
+
+msgid "desc_s_Clear Thoughts_1"
+msgstr ""
+
+msgid "s_Cold Shield"
+msgstr "Escudo frio"
+
+msgid "desc_s_Cold Shield"
+msgstr "Concede ao lançador maior proteção contra o frio."
+
+msgid "s_Cold Shield_prot"
+msgstr "Blindagem fria_prot"
+
+msgid "desc_s_Cold Shield_prot"
+msgstr ""
+
+msgid "s_Cold Ward"
+msgstr "Ala fria"
+
+msgid "desc_s_Cold Ward"
+msgstr "Concede a proteção do alvo contra o Cold."
+
+msgid "s_Cold Ward_1"
+msgstr "Ala fria_1"
+
+msgid "desc_s_Cold Ward_1"
+msgstr ""
+
+msgid "s_Delayed Shot"
+msgstr "Tiro atrasado"
+
+msgid "desc_s_Delayed Shot"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à velocidade de ataque do alvo "
+"com armas.  "
+
+msgid "s_Delayed Shot_1"
+msgstr "Tiro atrasado_ 1"
+
+msgid "desc_s_Delayed Shot_1"
+msgstr ""
+
+msgid "s_Frostbite"
+msgstr "Frozenbite"
+
+msgid "desc_s_Frostbite"
+msgstr "Dispara um raio de Frio intenso que danifica tudo no seu caminho."
+
+msgid "s_Frostbite_1"
+msgstr "Frostbite_1"
+
+msgid "desc_s_Frostbite_1"
+msgstr ""
+
+msgid "s_Gills"
+msgstr "Guelras"
+
+msgid "desc_s_Gills"
+msgstr "Concede aumento da capacidade pulmonar para o castro."
+
+msgid "s_Gills_1"
+msgstr "Gills_1"
+
+msgid "desc_s_Gills_1"
+msgstr ""
+
+msgid "s_Ice Storm"
+msgstr "Tempestade de gelo"
+
+msgid "desc_s_Ice Storm"
+msgstr ""
+"Dispara um raio mágico que invoca uma tempestade de frio intenso ao atingir "
+"o seu alvo."
+
+msgid "s_Ice Storm_1"
+msgstr "Tempestade de gelo_ 1"
+
+msgid "desc_s_Ice Storm_1"
+msgstr ""
+
+msgid "s_Icicle"
+msgstr "Icículo"
+
+msgid "desc_s_Icicle"
+msgstr "Lança um míssil que inflige danos frios ao alvo."
+
+msgid "s_Icicle_Cold"
+msgstr "Icicle_Cold"
+
+msgid "desc_s_Icicle_Cold"
+msgstr "Descrição de s_mana misseis_1"
+
+msgid "s_Shards"
+msgstr "Cacos"
+
+msgid "desc_s_Shards"
+msgstr "Lança um projéctil que explode com o impacto causando danos frios."
+
+msgid "s_Shards_2"
+msgstr "Shards_2"
+
+msgid "desc_s_Shards_2"
+msgstr ""
+
+msgid "s_Shards_Cold"
+msgstr "Shards_Cold"
+
+msgid "desc_s_Shards_Cold"
+msgstr ""
+
+msgid "s_Slow"
+msgstr "Lento"
+
+msgid "desc_s_Slow"
+msgstr ""
+"Dispara um míssil que inflige uma penalização à velocidade de ataque do alvo"
+" ao usar armas melee."
+
+msgid "s_Slow_1"
+msgstr "Slow_1"
+
+msgid "desc_s_Slow_1"
+msgstr ""
+
+msgid "s_Toxic Rain"
+msgstr "Chuva tóxica"
+
+msgid "desc_s_Toxic Rain"
+msgstr ""
+"Dispara um raio que evoca uma tempestade mágica que causa danos aos venenos."
+
+msgid "s_Toxic Rain_1"
+msgstr "Chuva tóxica_1"
+
+msgid "desc_s_Toxic Rain_1"
+msgstr ""
+
+msgid "s_Water Breathing"
+msgstr "Respiração de água"
+
+msgid "desc_s_Water Breathing"
+msgstr "Dá ao alvo um aumento na capacidade pulmonar."
+
+msgid "s_Water Breathing_1"
+msgstr "Respiração de água_ 1"
+
+msgid "desc_s_Water Breathing_1"
+msgstr ""
+
+msgid "s_Weakening Chill"
+msgstr "Enfraquecimento do frio"
+
+msgid "desc_s_Weakening Chill"
+msgstr "Dispara um míssil que inflige uma pena à proteção fria do alvo."
+
+msgid "s_Weakening Chill_1"
+msgstr "Enfraquecimento do chill_ 1"
+
+msgid "desc_s_Weakening Chill_1"
+msgstr ""
+
+msgid "s_Wild Magic_Spells"
+msgstr "Feitiços mágicos selvagens"
+
+msgid "desc_s_Wild Magic_Spells"
+msgstr "Descrição de s_wild magic_spells"
+
+msgid "s_Acid Explosion"
+msgstr "Explosão ácida"
+
+msgid "desc_s_Acid Explosion"
+msgstr ""
+
+msgid "s_Acid Explosion_1"
+msgstr "Explosão ácida_ 1"
+
+msgid "desc_s_Acid Explosion_1"
+msgstr ""
+
+msgid "s_Antitank Spell"
+msgstr "Feitiço antitanque"
+
+msgid "desc_s_Antitank Spell"
+msgstr ""
+
+msgid "s_Antitank Spell_1"
+msgstr "Feitiço antitanque_ 1"
+
+msgid "desc_s_Antitank Spell_1"
+msgstr ""
+
+msgid "s_Dragon Acid Blast"
+msgstr "Explosão de ácido dragão"
+
+msgid "desc_s_Dragon Acid Blast"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_acid"
+msgstr "Ácido dragão blast_ acid"
+
+msgid "desc_s_Dragon Acid Blast_acid"
+msgstr ""
+
+msgid "s_Dragon Acid Blast_impact"
+msgstr "Ácido dragão blast_ impact"
+
+msgid "desc_s_Dragon Acid Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Acid Breath"
+msgstr "Respiração ácido dragão"
+
+msgid "desc_s_Dragon Acid Breath"
+msgstr ""
+
+msgid "s_Dragon Acid Breath_1"
+msgstr "Sopro de ácido dragão_ 1"
+
+msgid "desc_s_Dragon Acid Breath_1"
+msgstr ""
+
+msgid "s_Dragon Cold Blast"
+msgstr "Dragão explosão fria"
+
+msgid "desc_s_Dragon Cold Blast"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_cold"
+msgstr "Dragão frio blast_ cold"
+
+msgid "desc_s_Dragon Cold Blast_cold"
+msgstr ""
+
+msgid "s_Dragon Cold Blast_impact"
+msgstr "Dragão frio blast_ impact"
+
+msgid "desc_s_Dragon Cold Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Cold Breath"
+msgstr "Respiração fria do dragão"
+
+msgid "desc_s_Dragon Cold Breath"
+msgstr ""
+
+msgid "s_Dragon Cold Breath_1"
+msgstr "Respiração fria do dragão_1"
+
+msgid "desc_s_Dragon Cold Breath_1"
+msgstr ""
+
+msgid "s_Dragon Fire Blast"
+msgstr "Explosão de fogo dragão"
+
+msgid "desc_s_Dragon Fire Blast"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_fire"
+msgstr "Fogo de dragão"
+
+msgid "desc_s_Dragon Fire Blast_fire"
+msgstr ""
+
+msgid "s_Dragon Fire Blast_impact"
+msgstr "Dragão fogo blast_ impact"
+
+msgid "desc_s_Dragon Fire Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Fire Breath"
+msgstr "Sopro de fogo de dragão"
+
+msgid "desc_s_Dragon Fire Breath"
+msgstr ""
+
+msgid "s_Dragon Fire Breath_1"
+msgstr "Sopro de fogo de dragão_ 1"
+
+msgid "desc_s_Dragon Fire Breath_1"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast"
+msgstr "Explosão relâmpago dragão"
+
+msgid "desc_s_Dragon Lightning Blast"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_impact"
+msgstr "Dragão relâmpago blast_ impact"
+
+msgid "desc_s_Dragon Lightning Blast_impact"
+msgstr ""
+
+msgid "s_Dragon Lightning Blast_lightning"
+msgstr "Dragão relâmpago blash_lightning"
+
+msgid "desc_s_Dragon Lightning Blast_lightning"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath"
+msgstr "Sopro de relâmpago dragão"
+
+msgid "desc_s_Dragon Lightning Breath"
+msgstr ""
+
+msgid "s_Dragon Lightning Breath_1"
+msgstr "Respiração relâmpago dragão_ 1"
+
+msgid "desc_s_Dragon Lightning Breath_1"
+msgstr ""
+
+msgid "s_Physics Test A"
+msgstr "Teste de física a"
+
+msgid "desc_s_Physics Test A"
+msgstr ""
+
+msgid "s_Physics Test A_1"
+msgstr "Teste de física a_1"
+
+msgid "desc_s_Physics Test A_1"
+msgstr ""
+
+msgid "s_Physics Test B"
+msgstr "Teste de física b"
+
+msgid "desc_s_Physics Test B"
+msgstr ""
+
+msgid "s_Physics Test B_1"
+msgstr "Teste de física b_1"
+
+msgid "desc_s_Physics Test B_1"
+msgstr ""
+
+msgid "s_Physics Test C"
+msgstr "Teste de física c"
+
+msgid "desc_s_Physics Test C"
+msgstr ""
+
+msgid "s_Physics Test C_1"
+msgstr "Teste de física c_1"
+
+msgid "desc_s_Physics Test C_1"
+msgstr ""
+
+msgid "s_Physics Test D"
+msgstr "Teste de física d"
+
+msgid "desc_s_Physics Test D"
+msgstr ""
+
+msgid "s_Physics Test D_1"
+msgstr "Teste de física d_1"
+
+msgid "desc_s_Physics Test D_1"
+msgstr ""
+
+msgid "s_Physics Test E"
+msgstr "Teste de física e"
+
+msgid "desc_s_Physics Test E"
+msgstr ""
+
+msgid "s_Physics Test E_1"
+msgstr "Teste de física e_1"
+
+msgid "desc_s_Physics Test E_1"
+msgstr ""
+
+msgid "s_Witchcraft_Spells"
+msgstr "Feitiços de feitiçaria"
+
+msgid "desc_s_Witchcraft_Spells"
+msgstr ""
+"A feitiçaria lida principalmente com maldições que enfraquecem as "
+"habilidades de seu alvo, seja a força de um guerreiro, os poderes mentais de"
+" um feiticeiro ou a precisão de um arqueiro."
+
+msgid "s_Disease"
+msgstr "Doença"
+
+msgid "desc_s_Disease"
+msgstr "Dispara um míssil que inflige uma penalidade à Força do seu alvo."
+
+msgid "s_Disease_1"
+msgstr "Disease_1"
+
+msgid "desc_s_Disease_1"
+msgstr ""
+
+msgid "s_Exhaust"
+msgstr "Gases de escape"
+
+msgid "desc_s_Exhaust"
+msgstr ""
+"Dispara um míssil que reduz a regeneração natural da resistência do alvo."
+
+msgid "s_Exhaust_1"
+msgstr "Exhaust_1"
+
+msgid "desc_s_Exhaust_1"
+msgstr ""
+
+msgid "s_Insect Swarm"
+msgstr "Enxame de insetos"
+
+msgid "desc_s_Insect Swarm"
+msgstr "Enviem um enxame de insectos venenosos ao alvo."
+
+msgid "s_Insect Swarm_1"
+msgstr "Enxame de insetos_ 1"
+
+msgid "desc_s_Insect Swarm_1"
+msgstr ""
+
+msgid "s_Insect Swarm_2"
+msgstr "Insecto enxame_ 2"
+
+msgid "desc_s_Insect Swarm_2"
+msgstr ""
+
+msgid "s_Mana Leech"
+msgstr "Mana sanguessuga"
+
+msgid "desc_s_Mana Leech"
+msgstr ""
+"Dispara um raio que drena o Mana do alvo, transferindo-o para o caster."
+
+msgid "s_Mana Leech_1"
+msgstr "Mana sanguessuga_ 1"
+
+msgid "desc_s_Mana Leech_1"
+msgstr ""
+
+msgid "s_Mana Leech Hit"
+msgstr "Mana sanguessuga atingido"
+
+msgid "desc_s_Mana Leech Hit"
+msgstr ""
+"Dispara um raio que drena o Mana do alvo, transferindo-o para o caster."
+
+msgid "s_Mana Leech Hit_1"
+msgstr "Mana sanguessuga hit_ 1"
+
+msgid "desc_s_Mana Leech Hit_1"
+msgstr ""
+
+msgid "s_Needles"
+msgstr "Agulhas"
+
+msgid "desc_s_Needles"
+msgstr "Dispara um míssil que explode com o impacto causando danos ao sangue."
+
+msgid "s_Needles_1"
+msgstr "Needles_1"
+
+msgid "desc_s_Needles_1"
+msgstr ""
+
+msgid "s_Ominous Drain"
+msgstr "Dreno ominosos"
+
+msgid "desc_s_Ominous Drain"
+msgstr ""
+"Dispara um míssil que pode reduzir todos os atributos de base do alvo."
+
+msgid "s_Ominous Drain_1"
+msgstr "Dreno sinistral_ 1"
+
+msgid "desc_s_Ominous Drain_1"
+msgstr ""
+
+msgid "s_Palsy"
+msgstr "Paralisia"
+
+msgid "desc_s_Palsy"
+msgstr "Lança um míssil que inflige uma penalidade à Dexteridade do seu alvo."
+
+msgid "s_Palsy_1"
+msgstr "Palsy_1"
+
+msgid "desc_s_Palsy_1"
+msgstr ""
+
+msgid "s_Pestilence"
+msgstr "Pestilência"
+
+msgid "desc_s_Pestilence"
+msgstr "Lança um míssil que inflige uma penalidade à Vitalidade do alvo."
+
+msgid "s_Pestilence_1"
+msgstr "Pestilence_1"
+
+msgid "desc_s_Pestilence_1"
+msgstr ""
+
+msgid "s_Sluggish"
+msgstr "Lento"
+
+msgid "desc_s_Sluggish"
+msgstr "Lança um míssil que inflige uma penalidade à rapidez do alvo."
+
+msgid "s_Sluggish_1"
+msgstr "Sluggish_1"
+
+msgid "desc_s_Sluggish_1"
+msgstr ""
+
+msgid "s_Spell Curse"
+msgstr "Feitiço maldição"
+
+msgid "desc_s_Spell Curse"
+msgstr ""
+"Lança um míssil que inflige uma pena à proteção contra a Maledição do alvo."
+
+msgid "s_Spell Curse_Penalty"
+msgstr "Soletrar maldição_ pena"
+
+msgid "desc_s_Spell Curse_Penalty"
+msgstr ""
+
+msgid "s_Spellturn"
+msgstr "Turno ortográfico"
+
+msgid "desc_s_Spellturn"
+msgstr ""
+
+msgid "s_Stupidity"
+msgstr "Estupidez"
+
+msgid "desc_s_Stupidity"
+msgstr ""
+"Lança um míssil que inflige uma penalidade à Inteligência do seu alvo."
+
+msgid "s_Stupidity_1"
+msgstr "Stupidity_1"
+
+msgid "desc_s_Stupidity_1"
+msgstr ""
+
+msgid "s_Tongue Rot"
+msgstr "Podridão da língua"
+
+msgid "desc_s_Tongue Rot"
+msgstr "Lança um míssil que diminui a taxa de sucesso do feitiço do seu alvo."
+
+msgid "s_Tongue Rot_Penalty"
+msgstr "Rot_penalty da língua"
+
+msgid "desc_s_Tongue Rot_Penalty"
+msgstr ""
+
+msgid "s_Witches Brew"
+msgstr "Feiticeiras"
+
+msgid "desc_s_Witches Brew"
+msgstr "Cria uma esfera de cura instantânea centrada no lançador."
+
+msgid "s_Witches Brew_1"
+msgstr "Feiticeiras_ 1"
+
+msgid "desc_s_Witches Brew_1"
+msgstr ""
+
+msgid "s_Test"
+msgstr "Teste"
+
+msgid "desc_s_Test"
+msgstr "Descrição do teste s_ test"
+
+msgid "DEBUG_TESTING"
+msgstr "DEBUG_TESTING"
+
+msgid "desc_DEBUG_TESTING"
+msgstr "Descrição do debug_testing"
+
+msgid "AttachObjectSkill"
+msgstr "Anexobjectskill"
+
+msgid "desc_AttachObjectSkill"
+msgstr "Descrição do anexoobjectskill"
+
+msgid "DetachObjectSkill"
+msgstr "Detachobjectskill"
+
+msgid "desc_DetachObjectSkill"
+msgstr "Descrição do detachobjectskill"
+
+msgid "DropObjectSkill"
+msgstr "Dropobjectskill"
+
+msgid "desc_DropObjectSkill"
+msgstr "Descrição de dropobjectskill"
+
+msgid "jumpskill"
+msgstr "saltoskill"
+
+msgid "desc_jumpskill"
+msgstr ""
+
+msgid "PickupObjectSkill"
+msgstr "Capturadoobjectskill"
+
+msgid "desc_PickupObjectSkill"
+msgstr "Descrição da habilidade de recolha de objetos"
+
+msgid "RunSkill"
+msgstr "Runskill"
+
+msgid "desc_RunSkill"
+msgstr "Descrição de runskill"
+
+msgid "SlashingCombatSkill"
+msgstr "Reduçãocombatescompetência"
+
+msgid "desc_SlashingCombatSkill"
+msgstr "Descrição do combate ao cortecompetência"
+
+msgid "SprintSkill"
+msgstr "Sprintskill"
+
+msgid "desc_SprintSkill"
+msgstr "Descrição de sprintskill"
+
+msgid "s_AttributeModification"
+msgstr "Modificador de atributos"
+
+msgid "desc_s_AttributeModification"
+msgstr "Descrição de s_attributemodification"
+
+msgid "s_InstaGib"
+msgstr "Instagibe"
+
+msgid "desc_s_InstaGib"
+msgstr "Descrição de s_instagib"
+
+msgid "s_InstaGib_1"
+msgstr "InstaGib_1"
+
+msgid "desc_s_InstaGib_1"
+msgstr "Descrição de s_instagib_1"
+
+msgid "WalkSkill"
+msgstr "Walkskill"
+
+msgid "desc_WalkSkill"
+msgstr "Descrição de walkkill"
+
+msgid "s_Archery Efficiency"
+msgstr "Eficiência do arco e flecha"
+
+msgid "desc_s_Archery Efficiency"
+msgstr "Passivo. Reduz o custo da resistência de cada tiro de arco."
+
+msgid "s_Crippling Shot"
+msgstr "Tiro paralisante"
+
+msgid "desc_s_Crippling Shot"
+msgstr ""
+"Dispara uma flecha que fere o alvo, fazendo com que sangre por pouco tempo."
+
+msgid "s_Blinding Shot"
+msgstr "Tiro ofuscante"
+
+msgid "desc_s_Blinding Shot"
+msgstr ""
+"Dispare uma seta que cega o alvo ao bater, prejudicando sua visão por um "
+"curto período de tempo."
+
+msgid "s_Penetrating Shot"
+msgstr "Tiro penetrante"
+
+msgid "desc_s_Penetrating Shot"
+msgstr ""
+"Dispare uma seta poderosa que viaja em linha reta e atravessa cada alvo em "
+"seu caminho."
+
+msgid "s_Smoke Bomb"
+msgstr "Bomba de fumo"
+
+msgid "desc_s_Smoke Bomb"
+msgstr "Jogue uma bomba de fumaça que explode em uma nuvem oculta de fumaça."
+
+msgid "s_Mastery"
+msgstr "Maestria"
+
+msgid "desc_s_Mastery"
+msgstr "Habilidades concedidas pelo seu domínio ativo."
+
+msgid "s_Deadeye Skills"
+msgstr "Competências de olho morto"
+
+msgid "desc_s_Deadeye Skills"
+msgstr "Habilidades do domínio Deadeye."
+
+msgid "s_Cutthroat Skills"
+msgstr "Competências de garganta cortada"
+
+msgid "desc_s_Cutthroat Skills"
+msgstr "Habilidades do domínio da garganta cortada."
+
+msgid "s_Vanguard Skills"
+msgstr "Competências de vanguarda"
+
+msgid "desc_s_Vanguard Skills"
+msgstr "Habilidades do domínio Vanguard."
+
+msgid "s_Deadeye Aura"
+msgstr "Aura de olho morto"
+
+msgid "desc_s_Deadeye Aura"
+msgstr ""
+"Membros do partido perto de você lidar mais variou danos aos monstros "
+"enquanto ele mantém."
+
+msgid "s_Cutthroat Aura"
+msgstr "Aura de garganta cortada"
+
+msgid "desc_s_Cutthroat Aura"
+msgstr ""
+"Os membros do partido perto de ti dão mais estragos aos monstros enquanto "
+"aguentam."
+
+msgid "s_Vanguard Aura"
+msgstr "Vanguarda aura"
+
+msgid "desc_s_Vanguard Aura"
+msgstr "Escudos membros do partido perto de você enquanto ele segura."
+
+msgid "s_Rain of Arrows"
+msgstr "Chuva de flechas"
+
+msgid "desc_s_Rain of Arrows"
+msgstr ""
+"Dispara uma flecha que chama para baixo uma chuva de flechas onde bate, "
+"ferindo criaturas abaixo por um curto período de tempo. Custa uma seta. As "
+"flechas que caem não contam como flechas que você pousa."
+
+msgid "s_Volley"
+msgstr "Tremendo fantasma"
+
+msgid "desc_s_Volley"
+msgstr ""
+"Concede pilhas completas da Segunda Natureza, e por um curto período de "
+"tempo cada seta que você pousar em um monstro ataca com força espectral para"
+" danos bônus pesados. Termina se você entrar em PvP."
+
+msgid "s_Provoke"
+msgstr "Provocar"
+
+msgid "desc_s_Provoke"
+msgstr "Monstros à sua frente voltam-se contra ti em vez dos seus aliados."
+
+msgid "s_Red Harvest"
+msgstr "Colheita vermelha"
+
+msgid "desc_s_Red Harvest"
+msgstr ""
+"Suas feridas batem duas vezes mais rápido por um curto período de tempo, e "
+"mata refrescá-lo. Requer facas."
+
+msgid "s_Unbroken Line"
+msgstr "Linha não quebrada"
+
+msgid "desc_s_Unbroken Line"
+msgstr ""
+"Tirar muito menos danos de monstros por um curto período de tempo. Termina "
+"se você entrar em PvP."
+
+msgid "s_Provoke_1"
+msgstr "Provoke_1"
+
+msgid "desc_s_Provoke_1"
+msgstr ""
+
+msgid "s_Unbroken Line_1"
+msgstr "Linha não quebrada_ 1"
+
+msgid "desc_s_Unbroken Line_1"
+msgstr ""
+
+msgid "s_Unbroken Line_2"
+msgstr "Linha não quebrada_ 2"
+
+msgid "desc_s_Unbroken Line_2"
+msgstr ""
+
+msgid "s_Vanguard Aura_1"
+msgstr "Vanguarda aura_ 1"
+
+msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "s_Red Harvest_1"
+msgstr "Colheita vermelha_ 1"
+
+msgid "desc_s_Red Harvest_1"
+msgstr ""
+
+msgid "s_Cutthroat Aura_1"
+msgstr "Aura de garganta cortante_ 1"
+
+msgid "desc_s_Cutthroat Aura_1"
+msgstr ""
+
+msgid "s_Deadeye Aura_1"
+msgstr "Aura_ 1 de olho morto"
+
+msgid "desc_s_Deadeye Aura_1"
+msgstr ""
+
+msgid "s_Volley_1"
+msgstr "Quiver_ 1 fantasma"
+
+msgid "desc_s_Volley_1"
+msgstr ""
+
+msgid "s_Rain of Arrows_1"
+msgstr "Chuva de setas_1"
+
+msgid "desc_s_Rain of Arrows_1"
+msgstr ""
+
+msgid "s_Ping Clan Waypoint 1"
+msgstr "Ping clan point 1"
+
+msgid "s_Ping Clan Waypoint 2"
+msgstr "Ping clan point 2"
+
+msgid "s_Ping Clan Waypoint 3"
+msgstr "Ping clan point 3"
+
+msgid "s_Ping Clan Waypoint 4"
+msgstr "Ping clan point 4"
+
+msgid "s_Ping Clan Waypoint 5"
+msgstr "Ping clan point 5"
+
+msgid "s_Sithra Acid Weakness"
+msgstr "Sithra fraqueza ácida"
+
+msgid "s_Sithra Cold Weakness"
+msgstr "Sithra fraqueza fria"
+
+msgid "s_Sithra Fire Weakness"
+msgstr "Sithra fraqueza de fogo"
+
+msgid "s_Sithra Holy Weakness"
+msgstr "Sithra fraqueza santa"
+
+msgid "s_Sithra Infliction Weakness"
+msgstr "Sithra fraqueza na inflição"
+
+msgid "s_Sithra Lightning Weakness"
+msgstr "Sithra fraqueza do relâmpago"
+
+msgid "s_Sithra Unholy Weakness"
+msgstr "Sithra Fraqueza profana"

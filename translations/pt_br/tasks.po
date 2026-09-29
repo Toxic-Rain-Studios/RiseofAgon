@@ -1,0 +1,5419 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Darkfall Reforged\n"
+"Last-Translator: Local machine translation; editorial review pending\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Argos / CTranslate2; protected game names\n"
+
+msgid "name_task_1"
+msgstr "Noções básicas de combate"
+
+msgid "short_desc_task_1"
+msgstr ""
+"Teste suas habilidades contra os duendes locais para começar sua jornada no "
+"mundo de Agon!"
+
+msgid "short_desc_task_1_stage_1"
+msgstr "Mate 10 duendes."
+
+msgid "desc_task_1_stage_1"
+msgstr ""
+"Os duendes perto de sua cidade inicial aumentaram em número, vá testar sua "
+"coragem contra esses inimigos! Mate 10 duendes para receber a sua "
+"recompensa."
+
+msgid "short_desc_task_1_stage_2"
+msgstr "Mate 50 duendes."
+
+msgid "desc_task_1_stage_2"
+msgstr ""
+"Os duendes estão de volta causando problemas e precisam aprender uma lição!"
+"  Mate 50 mais duendes para receber a sua recompensa."
+
+msgid "short_desc_task_1_stage_3"
+msgstr "Mate 100 duendes."
+
+msgid "desc_task_1_stage_3"
+msgstr ""
+"É hora de ir tudo para fora e dar aos duendes tudo que você tem!  Mate 100 "
+"mais duendes para receber a sua recompensa."
+
+msgid "name_task_2"
+msgstr "Noções básicas de colheita"
+
+msgid "short_desc_task_2"
+msgstr ""
+"Usando as ferramentas que fornecemos em sua mochila, reunir vários recursos "
+"dos muitos nós em torno de Agon."
+
+msgid "short_desc_task_2_stage_1"
+msgstr "Colheita 10 ervas."
+
+msgid "desc_task_2_stage_1"
+msgstr ""
+"Há muitos recursos para colher em Agon. Vamos recolher cerca de "
+"archangelica, baneberry, Hellbore e snakeweed de arbustos próximos usando "
+"nossa foice."
+
+msgid "short_desc_task_2_stage_2"
+msgstr "Colheita 10 madeira."
+
+msgid "desc_task_2_stage_2"
+msgstr ""
+"Agora você deve pegar um machado de madeira e começar a cortar em algumas "
+"árvores para recolher 10 pedaços de madeira."
+
+msgid "short_desc_task_2_stage_3"
+msgstr "Colheita 10 pedra."
+
+msgid "desc_task_2_stage_3"
+msgstr ""
+"Em seguida, procuramos pedras para que possamos recolher alguma pedra usando"
+" a nossa picareta."
+
+msgid "short_desc_task_2_stage_4"
+msgstr "Colheita 10 minério de ferro."
+
+msgid "desc_task_2_stage_4"
+msgstr ""
+"O ferro é um recurso muito valioso usado na fabricação de todos os tipos de "
+"itens, incluindo armas e armaduras. Usando sua picareta coletar 10 peças de "
+"ferro de um nó de metal."
+
+msgid "short_desc_task_2_stage_5"
+msgstr "Colheita 10 peixe."
+
+msgid "desc_task_2_stage_5"
+msgstr ""
+"Por último, mas não menos importante, vamos para as águas. Usando sua vara "
+"de pesca coletar 10 peixe que você pode usar para fazer alguma comida "
+"deliciosa!"
+
+msgid "name_task_3"
+msgstr "Minério de ferro mineiro"
+
+msgid "short_desc_task_3"
+msgstr ""
+"Use sua picareta para minar minério de ferro a partir de nós de metal que "
+"você encontrar!"
+
+msgid "short_desc_task_3_stage_1"
+msgstr "Colheita 20 minério de ferro."
+
+msgid "desc_task_3_stage_1"
+msgstr ""
+"É hora de ir à procura de minério de ferro para que você possa fazer armas e"
+" armadura. Use sua picareta e mina 20 minério de ferro de nós de metal."
+
+msgid "short_desc_task_3_stage_2"
+msgstr "Colheita 50 minério de ferro."
+
+msgid "desc_task_3_stage_2"
+msgstr ""
+"Continue adicionando ao seu estoque de minério de ferro por mineração 50 "
+"mais de nós de metal para fora do mundo."
+
+msgid "short_desc_task_3_stage_3"
+msgstr "Colheita 100 minério de ferro."
+
+msgid "desc_task_3_stage_3"
+msgstr ""
+"Dê-se um pouco de rede de segurança ou use-a para criar outro conjunto de "
+"armaduras, e minar outro minério de ferro 100 para completar esta tarefa."
+
+msgid "name_task_4"
+msgstr "Pedra de mineração"
+
+msgid "short_desc_task_4"
+msgstr "Use sua picareta para minar para pedra de rochas que você encontrar!"
+
+msgid "short_desc_task_4_stage_1"
+msgstr "Colheita 20 pedra."
+
+msgid "desc_task_4_stage_1"
+msgstr ""
+"Enquanto pedra é um dos recursos mais comuns de Agon, ainda é usado em "
+"muitas receitas."
+
+msgid "short_desc_task_4_stage_2"
+msgstr "Colheita 50 pedra."
+
+msgid "desc_task_4_stage_2"
+msgstr ""
+"Não só a pedra é usada em muitas receitas, há outros materiais que podem ser"
+" coletados durante a coleta de uma rocha."
+
+msgid "short_desc_task_4_stage_3"
+msgstr "Colheita 100 pedra."
+
+msgid "desc_task_4_stage_3"
+msgstr ""
+"Termine de adicionar ao seu estoque inicial por mineração 100 mais pedra de "
+"rochas que você encontra no mundo de Agon."
+
+msgid "name_task_5"
+msgstr "Colheita de ervas"
+
+msgid "short_desc_task_5"
+msgstr "Use sua foice para colher ervas de arbustos no mundo!"
+
+msgid "short_desc_task_5_stage_1"
+msgstr "Colheita 20 ervas."
+
+msgid "desc_task_5_stage_1"
+msgstr ""
+"Os arbustos são a principal fonte de ervas. Há uma variedade de ervas "
+"encontradas em arbustos e todos têm usos muito diferentes na crafting."
+
+msgid "short_desc_task_5_stage_2"
+msgstr "Colheita 50 ervas."
+
+msgid "desc_task_5_stage_2"
+msgstr ""
+"Não só são as ervas usadas na fabricação, Mandrake uma erva usada fortemente"
+" como um reagente de feitiço."
+
+msgid "short_desc_task_5_stage_3"
+msgstr "Colheita 100 ervas."
+
+msgid "desc_task_5_stage_3"
+msgstr ""
+"Nunca dói apanhar mais ervas! Steegrass para montarias, alga de cobra para o"
+" pessoal de artesanato, bagas para torta! A lista continua."
+
+msgid "name_task_6"
+msgstr "Cortar madeira"
+
+msgid "short_desc_task_6"
+msgstr ""
+"Usando seu machado de madeira, recolher madeira das várias árvores "
+"espalhadas por Agon."
+
+msgid "short_desc_task_6_stage_1"
+msgstr "Colheita 20 madeira."
+
+msgid "desc_task_6_stage_1"
+msgstr ""
+"Madeira é um recurso valioso. Use para criar muitos itens, incluindo armas, "
+"setas e módulos de construção para navios e cidades jogadoras."
+
+msgid "short_desc_task_6_stage_2"
+msgstr "Colheita 50 madeira."
+
+msgid "desc_task_6_stage_2"
+msgstr ""
+"A madeira é refinada em madeira usando uma serra na bancada de trabalho."
+
+msgid "short_desc_task_6_stage_3"
+msgstr "Colheita 100 madeira."
+
+msgid "desc_task_6_stage_3"
+msgstr ""
+"Mesmo que você mesmo não craft itens, coleta e venda de madeira pode ser um "
+"comércio muito rentável."
+
+msgid "name_task_7"
+msgstr "Ir pescar"
+
+msgid "short_desc_task_7"
+msgstr "Use sua vara de pesca para capturar peixes nas águas!"
+
+msgid "short_desc_task_7_stage_1"
+msgstr "Colheita 20 peixe."
+
+msgid "desc_task_7_stage_1"
+msgstr ""
+"O peixe é uma excelente fonte de alimento. Usando panelas e panelas em um "
+"forno irá produzir alguns guloseimas de tasy. Combine peixes com outros "
+"itens colhidos para guloseimas ainda mais saborosas!"
+
+msgid "short_desc_task_7_stage_2"
+msgstr "Colheita 50 peixe."
+
+msgid "desc_task_7_stage_2"
+msgstr "Use sua vara de pesca para enrolar em 50 mais peixes das águas."
+
+msgid "short_desc_task_7_stage_3"
+msgstr "Colheita 100 peixe."
+
+msgid "desc_task_7_stage_3"
+msgstr ""
+"Como você reunir mais peixes você vai notar um monte de outros recursos "
+"podem ser coletados enquanto na água."
+
+msgid "name_task_8"
+msgstr "Combatendo kobolds"
+
+msgid "short_desc_task_8"
+msgstr ""
+"Mate esses Kobolds chatos para aguçar suas habilidades e aumentar sua "
+"riqueza!"
+
+msgid "short_desc_task_8_stage_1"
+msgstr "Mate 10 kobolds."
+
+msgid "desc_task_8_stage_1"
+msgstr ""
+"Parece que descobriste alguns kobolds! Eles são pestinhas pestinhas, por "
+"isso tentem diminuir algumas das suas fileiras! Mate qualquer 10 kobolds "
+"para receber a sua recompensa."
+
+msgid "short_desc_task_8_stage_2"
+msgstr "Mate 50 kobolds."
+
+msgid "desc_task_8_stage_2"
+msgstr ""
+"Assim como ratos, apareceram mais kobolds, o que significa que é hora de "
+"matar mais alguns! Mate 50 mais kobolds para receber sua recompensa."
+
+msgid "short_desc_task_8_stage_3"
+msgstr "Mate 150 kobolds."
+
+msgid "desc_task_8_stage_3"
+msgstr ""
+"Destroçar as massas kobold e tomar uma posição contra seus parentes! Mate "
+"150 mais kobolds para receber sua recompensa."
+
+msgid "name_task_9"
+msgstr "Trolls combatentes"
+
+msgid "short_desc_task_9"
+msgstr "Lute contra os trolls problemáticos para colher suas recompensas!"
+
+msgid "short_desc_task_9_stage_1"
+msgstr "Matem 10 trolls."
+
+msgid "desc_task_9_stage_1"
+msgstr ""
+"Agora que você matou seu primeiro troll, é hora de matar mais alguns! Matem "
+"qualquer troll 10 para receber a vossa recompensa."
+
+msgid "short_desc_task_9_stage_2"
+msgstr "Matem 50 trolls."
+
+msgid "desc_task_9_stage_2"
+msgstr ""
+"Os trolls foram iludidos pelo seu ataque mais recente! Mate 50 mais trolls "
+"para receber sua recompensa."
+
+msgid "short_desc_task_9_stage_3"
+msgstr "Matem 150 trolls."
+
+msgid "desc_task_9_stage_3"
+msgstr ""
+"Leva a luta aos trolls e destroi os seus parentes! Mate 150 mais trolls para"
+" receber sua recompensa."
+
+msgid "name_task_11"
+msgstr "Avançando como arqueiro"
+
+msgid "short_desc_task_11"
+msgstr "Progrida seu caráter, aumentando suas habilidades de arco e flecha!"
+
+msgid "short_desc_task_11_stage_1"
+msgstr "Acerte monstros 10 vezes com uma flecha."
+
+msgid "desc_task_11_stage_1"
+msgstr ""
+"Comece sua jornada como um arqueiro e bata monstros 10 vezes com uma seta."
+
+msgid "short_desc_task_11_stage_2"
+msgstr "Acerte monstros 50 mais vezes com uma flecha."
+
+msgid "desc_task_11_stage_2"
+msgstr ""
+"Continue o seu progresso como um arqueiro, batendo monstros 50 mais vezes "
+"com uma seta."
+
+msgid "short_desc_task_11_stage_3"
+msgstr "Acerte monstros 200 mais vezes com uma flecha."
+
+msgid "desc_task_11_stage_3"
+msgstr ""
+"Prove o valor de suas habilidades de arco e flecha, batendo monstros mais "
+"200 vezes com uma seta."
+
+msgid "name_task_12"
+msgstr "Mago iniciante"
+
+msgid "short_desc_task_12"
+msgstr "Progrida seu caráter, aumentando suas habilidades de mago!"
+
+msgid "short_desc_task_12_stage_1"
+msgstr "Atacar monstros com magia x10"
+
+msgid "desc_task_12_stage_1"
+msgstr ""
+"Comece sua jornada como um mago e pratique suas habilidades mágicas em "
+"alguns monstros!"
+
+msgid "short_desc_task_12_stage_2"
+msgstr "Atacar monstros com magia x50"
+
+msgid "desc_task_12_stage_2"
+msgstr "Níveis mágicos ofensivos como você usá-lo novamente monstros."
+
+msgid "short_desc_task_12_stage_3"
+msgstr "Atacar monstros com magia x200"
+
+msgid "desc_task_12_stage_3"
+msgstr ""
+"Lembre-se de verificar de volta com o mago enquanto você progride para ver "
+"se você desbloqueou novos feitiços ou habilidades!"
+
+msgid "name_task_13"
+msgstr "Avançando como um guerreiro"
+
+msgid "short_desc_task_13"
+msgstr "Progrida seu caráter, aumentando suas habilidades de guerreiro!"
+
+msgid "short_desc_task_13_stage_1"
+msgstr "Atacar monstros com melee x10"
+
+msgid "desc_task_13_stage_1"
+msgstr ""
+"Comece sua jornada como um guerreiro e bata em monstros 10 vezes com uma "
+"arma melee."
+
+msgid "short_desc_task_13_stage_2"
+msgstr "Atacar monstros com melee x50"
+
+msgid "desc_task_13_stage_2"
+msgstr ""
+"Continue o seu progresso como um guerreiro, batendo monstros 50 mais vezes "
+"com uma arma melee."
+
+msgid "short_desc_task_13_stage_3"
+msgstr "Atacar monstros com melee x200"
+
+msgid "desc_task_13_stage_3"
+msgstr ""
+"Prove o valor de sua habilidade guerreira, batendo monstros mais 200 vezes "
+"com uma arma melee."
+
+msgid "name_task_16"
+msgstr "Caçador de demônios"
+
+msgid "short_desc_task_16"
+msgstr "Caçar monstros da família demoníaca para completar esta tarefa!"
+
+msgid "short_desc_task_16_stage_1"
+msgstr "Mate 50 Espíritos das Sombras."
+
+msgid "desc_task_16_stage_1"
+msgstr ""
+"Para começar sua jornada como um matador de demônios matar 50 Espíritos das "
+"Sombras."
+
+msgid "short_desc_task_16_stage_2"
+msgstr "Matem os 25 com capuz."
+
+msgid "desc_task_16_stage_2"
+msgstr ""
+"Agora você precisa matar 25 Encapuzados para completar esta fase de matança "
+"de demônios."
+
+msgid "short_desc_task_16_stage_3"
+msgstr "Mate 20 Cavaleiros das Sombras."
+
+msgid "desc_task_16_stage_3"
+msgstr ""
+"Em seguida, matar 20 Cavaleiros das Sombras para passar para a fase final da"
+" matança de Demônios."
+
+msgid "short_desc_task_16_stage_4"
+msgstr "Matem 5 demónios."
+
+msgid "desc_task_16_stage_4"
+msgstr ""
+"Termine a vida de 5 Demônio para completar sua tarefa de matar demônios e "
+"colher suas recompensas finais."
+
+msgid "name_task_19"
+msgstr "Caça-Vampiros"
+
+msgid "short_desc_task_19"
+msgstr "Caçar monstros da família Gigante para completar esta tarefa!"
+
+msgid "short_desc_task_19_stage_1"
+msgstr "Matar 30 ogre rufias"
+
+msgid "desc_task_19_stage_1"
+msgstr ""
+"Para começar sua jornada como um matador gigante matar 30 Ogre Bullies."
+
+msgid "short_desc_task_19_stage_2"
+msgstr "Matar 10 Ogre Bosses."
+
+msgid "desc_task_19_stage_2"
+msgstr ""
+"Agora você precisa matar 10 Ogre Bosses para completar esta fase de "
+"assassinato gigante."
+
+msgid "short_desc_task_19_stage_3"
+msgstr "Matem os Giant Sluggers 30."
+
+msgid "desc_task_19_stage_3"
+msgstr ""
+"Descarte para 30 Hill Giant Sluggers para passar para o próximo estágio da "
+"matança Gigante."
+
+msgid "short_desc_task_19_stage_4"
+msgstr "Matem os Giant Clobbers 25."
+
+msgid "desc_task_19_stage_4"
+msgstr ""
+"Em seguida, matar 25 Hill Giant Clobblers para passar para o estágio final "
+"da morte de Giant."
+
+msgid "short_desc_task_19_stage_5"
+msgstr "Mate 20 Cairn Giants."
+
+msgid "desc_task_19_stage_5"
+msgstr ""
+"Termine a vida de 20 Cairn Giants para completar sua tarefa de matar "
+"gigantes e colher suas recompensas finais."
+
+msgid "name_task_21"
+msgstr "Assassino Malaut"
+
+msgid "short_desc_task_21"
+msgstr "Caça monstros da família Malaut para completar esta tarefa!"
+
+msgid "short_desc_task_21_stage_1"
+msgstr "Matar 60 Servos ou Servidores Maiores de Malaut."
+
+msgid "desc_task_21_stage_1"
+msgstr ""
+"Para iniciar sua jornada como um assassino Malaut matar 60 Servos de Malaut "
+"ou Servidores Maiores de Malaut."
+
+msgid "short_desc_task_21_stage_2"
+msgstr "Mate 40 Malaut Acólitos, Beguilers."
+
+msgid "desc_task_21_stage_2"
+msgstr ""
+"Descarte para 40 Malaut Acólitos, Malaut Beguilers, para passar para a "
+"próxima fase de Malaut assassinatos."
+
+msgid "short_desc_task_21_stage_3"
+msgstr "Mate o 15 Greater Unders."
+
+msgid "desc_task_21_stage_3"
+msgstr ""
+"Em seguida, matar 15 Greater Unders para passar para o próximo estágio da "
+"matança Malaut."
+
+msgid "short_desc_task_21_stage_4"
+msgstr "Mate 15 Cavaleiros Negros."
+
+msgid "desc_task_21_stage_4"
+msgstr ""
+"Em seguida, matar 15 Cavaleiros Negros para passar para o estágio final da "
+"morte Malaut."
+
+msgid "short_desc_task_21_stage_5"
+msgstr "Matem os Senhores Negros 20."
+
+msgid "desc_task_21_stage_5"
+msgstr ""
+"Termine a vida de 20 Senhores Negros para completar sua tarefa de Malaut "
+"matando e colher suas recompensas finais."
+
+msgid "name_task_22"
+msgstr "Caçador de minotauros"
+
+msgid "short_desc_task_22"
+msgstr "Caça monstros da família Minotaur para completar esta tarefa!"
+
+msgid "short_desc_task_22_stage_1"
+msgstr "Mate 30 Minotauro Brutes."
+
+msgid "desc_task_22_stage_1"
+msgstr ""
+"Para começar sua jornada como um assassino Minotauro matar 30 Minotauro "
+"Brutes."
+
+msgid "short_desc_task_22_stage_2"
+msgstr "Matar 25 Xamãs Minotauros."
+
+msgid "desc_task_22_stage_2"
+msgstr ""
+"Desperdício para 25 Xamãs Minotauros para passar para a próxima fase da "
+"matança Minotauro."
+
+msgid "short_desc_task_22_stage_3"
+msgstr "Matar 20 Heróis Minotauros."
+
+msgid "desc_task_22_stage_3"
+msgstr ""
+"Em seguida, matar 20 Minotaur Heros para passar para a fase final da matança"
+" de Minotaur."
+
+msgid "short_desc_task_22_stage_4"
+msgstr "Matar 10 Reis Minotauros."
+
+msgid "desc_task_22_stage_4"
+msgstr ""
+"Termine a vida de 10 Reis Minotauros para completar sua tarefa de matar "
+"Minotauros e colher suas recompensas finais."
+
+msgid "name_task_23"
+msgstr "Caçador de monstruosidade"
+
+msgid "short_desc_task_23"
+msgstr "Caça monstros da família Monstrosity para completar esta tarefa!"
+
+msgid "short_desc_task_23_stage_1"
+msgstr "Mate 50 Arthains."
+
+msgid "desc_task_23_stage_1"
+msgstr ""
+"Para começar sua jornada como um assassino de monstruosidade matar 50 "
+"Arthains, Arthain Corcundas, ou duas cabeças Arthains."
+
+msgid "short_desc_task_23_stage_2"
+msgstr "Matar 30 Carne Golem."
+
+msgid "desc_task_23_stage_2"
+msgstr ""
+"Em seguida, matar 30 Carne Golem para passar para a fase final da matança de"
+" Monstrosity."
+
+msgid "short_desc_task_23_stage_3"
+msgstr "Mate 25 Filhos de Ochran."
+
+msgid "desc_task_23_stage_3"
+msgstr ""
+"Acabai com a vida de 25 Filhos de Ochran para completar a vossa tarefa de "
+"matar a Monstrosidade e colher as vossas recompensas finais."
+
+msgid "name_task_24"
+msgstr "Matador da natureza"
+
+msgid "short_desc_task_24"
+msgstr "Caçar monstros da família Natureza para completar esta tarefa!"
+
+msgid "short_desc_task_24_stage_1"
+msgstr "Mate 60 Heilheims."
+
+msgid "desc_task_24_stage_1"
+msgstr "Começar sua jornada como um matador da natureza matar 60 Heielhims."
+
+msgid "short_desc_task_24_stage_2"
+msgstr "Mate 40 Profetas Florestais."
+
+msgid "desc_task_24_stage_2"
+msgstr ""
+"Agora você precisa matar 40 Profetas Floresta para completar esta fase da "
+"natureza matando."
+
+msgid "short_desc_task_24_stage_3"
+msgstr "Matar 30 Oaklords."
+
+msgid "desc_task_24_stage_3"
+msgstr ""
+"Desperdícios para 30 Oaklords para passar para a próxima fase do assassinato"
+" da Natureza."
+
+msgid "short_desc_task_24_stage_4"
+msgstr "Matar 20 Golems da Floresta."
+
+msgid "desc_task_24_stage_4"
+msgstr ""
+"Em seguida, matar 20 Golems Floresta para mover-se para a fase final da "
+"morte Natureza."
+
+msgid "short_desc_task_24_stage_5"
+msgstr "Matem os Baradrons 10."
+
+msgid "desc_task_24_stage_5"
+msgstr ""
+"Termine a vida de 10 Baradrons para completar sua tarefa de matar a Natureza"
+" e colher suas recompensas finais."
+
+msgid "name_task_26"
+msgstr "Caçador de esqueletos"
+
+msgid "short_desc_task_26"
+msgstr "Caça monstros da família Esqueleto para completar esta tarefa!"
+
+msgid "short_desc_task_26_stage_1"
+msgstr "Matar 60 Brittle, Archer ou Guerreiro Esqueletos."
+
+msgid "desc_task_26_stage_1"
+msgstr ""
+"Para começar sua jornada como um matador de esqueletos matar 60 Esqueletos "
+"Brittle, Esqueleto Arqueiros ou Guerreiros Esqueletos."
+
+msgid "short_desc_task_26_stage_2"
+msgstr "Mate 50 mais esqueletos."
+
+msgid "desc_task_26_stage_2"
+msgstr ""
+"Agora você precisa matar 50 Severii para completar esta fase de Esqueleto "
+"matando."
+
+msgid "short_desc_task_26_stage_3"
+msgstr "Mate 40 Guardas Criptas, Gravelords e outros Esqueletos."
+
+msgid "desc_task_26_stage_3"
+msgstr ""
+"Desperdícios para 40 Crypt Guards, Cavaleiros Sudário ou Deadeye para passar"
+" para o próximo estágio de Esqueleto matando."
+
+msgid "short_desc_task_26_stage_4"
+msgstr "Matar 30 Khamsets."
+
+msgid "desc_task_26_stage_4"
+msgstr ""
+"Em seguida, matar 30 Escravos, Crianças, Escolhidos, ou Mãos de Khamset para"
+" passar para a fase final da matança do esqueleto."
+
+msgid "short_desc_task_26_stage_5"
+msgstr "Matar 25 Magos Sem Morte."
+
+msgid "desc_task_26_stage_5"
+msgstr ""
+"Termine a vida de 25 Magos Sem Morte para completar sua tarefa de matar "
+"esqueletos e colher suas recompensas finais."
+
+msgid "name_task_29"
+msgstr "Caçador de vulcões"
+
+msgid "short_desc_task_29"
+msgstr "Caça monstros da família Vulcânica para completar esta tarefa!"
+
+msgid "short_desc_task_29_stage_1"
+msgstr "Matar 25 Gigantes de Fogo."
+
+msgid "desc_task_29_stage_1"
+msgstr ""
+"Para começar a sua jornada como uma Caçadora Vulcânica matar 25 Gigantes de "
+"Fogo."
+
+msgid "short_desc_task_29_stage_2"
+msgstr "Mate 20 Lava Golems ou Firescourges."
+
+msgid "desc_task_29_stage_2"
+msgstr ""
+"Em seguida, matar 20 Lava Golems ou Firescourges para passar para o estágio "
+"final da matança vulcânica."
+
+msgid "short_desc_task_29_stage_3"
+msgstr "Mate 10 Erodachs."
+
+msgid "desc_task_29_stage_3"
+msgstr ""
+"Termine a vida de 10 Erodachs para completar sua tarefa de matar Vulcânico e"
+" colher suas recompensas finais."
+
+msgid "name_task_31"
+msgstr "Caçador de zumbis"
+
+msgid "short_desc_task_31"
+msgstr "Caça monstros da família Zombie para completar esta tarefa!"
+
+msgid "short_desc_task_31_stage_1"
+msgstr "Matem 60 zombies."
+
+msgid "desc_task_31_stage_1"
+msgstr "Para começar sua jornada como um Zombie matador matar 60 Zombies."
+
+msgid "short_desc_task_31_stage_2"
+msgstr "Mate 50 Ghoul Fleshcrafters ou Devours."
+
+msgid "desc_task_31_stage_2"
+msgstr ""
+"Agora você precisa matar 50 Ghoul Fleshcrafters ou Ghoul Devours para "
+"completar esta fase de assassinato de zumbis."
+
+msgid "short_desc_task_31_stage_3"
+msgstr "Matem 40 piratas mortos-vivos!"
+
+msgid "desc_task_31_stage_3"
+msgstr ""
+"Jogue lixo para 40 Bonecrew Mutineers, Bonecrew Mariners ou Bonecrew "
+"Captains para passar para o próximo estágio de Zombie Killing."
+
+msgid "short_desc_task_31_stage_4"
+msgstr "Matem 30 múmias."
+
+msgid "desc_task_31_stage_4"
+msgstr ""
+"Em seguida, matar 30 múmias para passar para o estágio final de Zombie "
+"Killing."
+
+msgid "short_desc_task_31_stage_5"
+msgstr "Matar 30 Grandes Múmias."
+
+msgid "desc_task_31_stage_5"
+msgstr ""
+"Termine a vida de 30 Grandes Múmias para completar sua tarefa de matar "
+"zumbis e colher suas recompensas finais."
+
+msgid "name_task_32"
+msgstr "Matador de dragões"
+
+msgid "short_desc_task_32"
+msgstr "Caça monstros da família Dragon para completar esta tarefa!"
+
+msgid "short_desc_task_32_stage_1"
+msgstr "Matar 20 Exarchs de ossos."
+
+msgid "desc_task_32_stage_1"
+msgstr ""
+"Para começar sua jornada como um matador de dragões matar 20 Exarchs ossos."
+
+msgid "short_desc_task_32_stage_2"
+msgstr "Matar 10 Dragões Negros."
+
+msgid "desc_task_32_stage_2"
+msgstr ""
+"Em seguida, matar 10 Dark Dragons para mover-se para o estágio final de "
+"Dragon Killing."
+
+msgid "short_desc_task_32_stage_3"
+msgstr "Matar 5 Fogo ou Dragões de Gelo."
+
+msgid "desc_task_32_stage_3"
+msgstr ""
+"Acabe com a vida de 5 Dragões de Fogo ou Dragões de Gelo para completar sua "
+"tarefa de matar Dragão e colher suas recompensas finais."
+
+msgid "name_task_34"
+msgstr "Busca de todas as coisas valiosas - título"
+
+msgid "short_desc_task_34"
+msgstr ""
+"Caçar e matar os raros golems de minério para se tornar o matador de golem"
+
+msgid "short_desc_task_34_stage_1"
+msgstr "Matar 50 Selentine golems"
+
+msgid "desc_task_34_stage_1"
+msgstr "Mate 50 Selentine Golems."
+
+msgid "short_desc_task_34_stage_2"
+msgstr "Matar 40 Veilron golems"
+
+msgid "desc_task_34_stage_2"
+msgstr "Mate 40 Veilron Golems."
+
+msgid "short_desc_task_34_stage_3"
+msgstr "Matar 30 Neithal golems"
+
+msgid "desc_task_34_stage_3"
+msgstr "Mate 30 Neithal Golems."
+
+msgid "short_desc_task_34_stage_4"
+msgstr "Matar 20 Leenspar golems"
+
+msgid "desc_task_34_stage_4"
+msgstr "Mate 20 Leenspar Golems."
+
+msgid "short_desc_task_34_stage_5"
+msgstr "Matar 10 Theyril golems"
+
+msgid "desc_task_34_stage_5"
+msgstr "Mate 10 Theyril Golems."
+
+msgid "name_task_38"
+msgstr "Cutelo de castor - título"
+
+msgid "short_desc_task_38"
+msgstr "Caça castores para ser o cutelo final"
+
+msgid "short_desc_task_38_stage_1"
+msgstr "Matar 100 castores"
+
+msgid "desc_task_38_stage_1"
+msgstr "Massacre um total de 100 castores bonitos!"
+
+msgid "name_task_39"
+msgstr "O maldito título da verdade"
+
+msgid "short_desc_task_39"
+msgstr ""
+"Caçar monstros da família de vampiros para se tornar o matador de vampiros"
+
+msgid "short_desc_task_39_stage_1"
+msgstr "Mate 60 Melechars."
+
+msgid "desc_task_39_stage_1"
+msgstr ""
+"Para começar sua jornada como um matador de vampiros matar 60 Melechars, "
+"Melechar Guardas, ou Melechar Xamãs."
+
+msgid "short_desc_task_39_stage_2"
+msgstr "Matar 40 Juramentos."
+
+msgid "desc_task_39_stage_2"
+msgstr ""
+"Agora você precisa matar 40 Juramentos para completar esta fase de "
+"assassinato de vampiros."
+
+msgid "short_desc_task_39_stage_3"
+msgstr "Matar 30 Thainlich."
+
+msgid "desc_task_39_stage_3"
+msgstr ""
+"Desperdício para 30 Thainlich para passar para a próxima fase da matança de "
+"Vampiros."
+
+msgid "short_desc_task_39_stage_4"
+msgstr "Matar 25 juramentos."
+
+msgid "desc_task_39_stage_4"
+msgstr ""
+"Em seguida, matar 25 Oathlieges para passar para o estágio final da matança "
+"de Vampiros."
+
+msgid "short_desc_task_39_stage_5"
+msgstr "Mate 20 Thainlords."
+
+msgid "desc_task_39_stage_5"
+msgstr ""
+"Termine a vida de 20 Thainlords para completar sua tarefa de matar vampiros "
+"e colher suas recompensas finais."
+
+msgid "name_task_40"
+msgstr "Recuperando o Tribelands - título"
+
+msgid "short_desc_task_40"
+msgstr ""
+"Comece sua busca para recuperar o Tribelands para desbloquear o título "
+"Tribelands Defender."
+
+msgid "short_desc_task_40_stage_1"
+msgstr "Matar 300 bestas lunares"
+
+msgid "desc_task_40_stage_1"
+msgstr ""
+"Os tribelands estão em extrema necessidade de ajuda, você será bem "
+"compensado por seus esforços. Matar 300 membros da tribo da Besta da Lua."
+
+msgid "short_desc_task_40_stage_2"
+msgstr "Matar 200 berserkers de besta lunar"
+
+msgid "desc_task_40_stage_2"
+msgstr ""
+"Quebraste as linhas da frente deles, tempo para enfrentar inimigos mais "
+"perigosos. Mate 200 berserkers de besta lunar. Esta missão é crítica."
+
+msgid "short_desc_task_40_stage_3"
+msgstr "Matar 100 devastantes da besta lunar"
+
+msgid "desc_task_40_stage_3"
+msgstr ""
+"Em seguida, você deve eliminar 100 devastantes da besta lunar. Se falhares "
+"agora, o Red Moon poderá cair em breve. Não desistas, o destino espera-te."
+
+msgid "short_desc_task_40_stage_4"
+msgstr "Matar 5 fenris campeões alfa"
+
+msgid "desc_task_40_stage_4"
+msgstr ""
+"Mate 5 Fenris Alphas para pôr fim ao ataque das bestas lunares. Se sairdes "
+"vitoriosos, as vossas recompensas serão vastas."
+
+msgid "name_task_41"
+msgstr "Hora final - título"
+
+msgid "short_desc_task_41"
+msgstr ""
+"Comece sua busca para erradicar os homens-feras e desbloquear o título da "
+"Guarda Viridiana."
+
+msgid "short_desc_task_41_stage_1"
+msgstr "Matar 300 homens bestas"
+
+msgid "desc_task_41_stage_1"
+msgstr ""
+"Os homens-feras representam uma ameaça maior agora do que nunca, temos de "
+"reduzir o número deles numa série de assaltos. Matem 300 homens-feras."
+
+msgid "short_desc_task_41_stage_2"
+msgstr "Matar 200 bestas senhores da guerra"
+
+msgid "desc_task_41_stage_2"
+msgstr ""
+"Uma grande oportunidade se apresenta, com seus guerreiros massacrados os "
+"líderes são expostos. Mate 200 senhores da guerra."
+
+msgid "short_desc_task_41_stage_3"
+msgstr "Matar 100 devastadores besta homem"
+
+msgid "desc_task_41_stage_3"
+msgstr ""
+"Guardamos o mais mortal para o fim, pousámo-los e podemos começar a fase "
+"final do nosso ataque. Matem os devastadores do Homem-Mata 100."
+
+msgid "short_desc_task_41_stage_4"
+msgstr "Matar 5 ferrobark o antigo"
+
+msgid "desc_task_41_stage_4"
+msgstr ""
+"Localizamos a fonte de corrupção que os homens-feras estavam guardando, "
+"apressem-se antes que seja tarde demais. Matar 5 Ironbark os Antigos."
+
+msgid "name_task_42"
+msgstr "Carga do desonrado - título"
+
+msgid "short_desc_task_42"
+msgstr ""
+"Comece sua busca para matar os traidores e desbloquear o título Exalted "
+"Vindicator."
+
+msgid "short_desc_task_42_stage_1"
+msgstr "Matar 300 Svartdvergir"
+
+msgid "desc_task_42_stage_1"
+msgstr ""
+"Os anões abandonados estão fazendo prisioneiros para sacrificar, certamente "
+"em direção a um fim escuro. Decima as suas fileiras. Mate 300 svartdvergir."
+
+msgid "short_desc_task_42_stage_2"
+msgstr "Matar 200 Svartdvergir generais"
+
+msgid "desc_task_42_stage_2"
+msgstr ""
+"Libertaste muitos prisioneiros, mas o enredo continua a ser um mistério, "
+"interrogas e matas 200 svartdvergir generais."
+
+msgid "short_desc_task_42_stage_3"
+msgstr "Matar 100 Svartdvergir destruidores"
+
+msgid "desc_task_42_stage_3"
+msgstr ""
+"Acredita-se que os adversários svartdvergir conheçam a natureza do ritual, "
+"matem 100 deles e descubram a verdade."
+
+msgid "short_desc_task_42_stage_4"
+msgstr "Matar 5 barba de ferro punho pesado"
+
+msgid "desc_task_42_stage_4"
+msgstr ""
+"É tarde demais, eles convocaram um campeão de imenso poder. Elimine 5 "
+"Heavyfists Barba de Ferro."
+
+msgid "name_task_43"
+msgstr "Queda do senhor da guerra - título"
+
+msgid "short_desc_task_43"
+msgstr "Acabar com a guerra e desbloquear o título Mão de Sangue."
+
+msgid "short_desc_task_43_stage_1"
+msgstr "Matar 300 cinza Orks"
+
+msgid "desc_task_43_stage_1"
+msgstr ""
+"A guerra está próxima, o cinzento orks tornou-se uma séria ameaça sob o "
+"comando de um novo senhor da guerra. Mate 300 cinza orks."
+
+msgid "short_desc_task_43_stage_2"
+msgstr "Matar 200 cinza Ork chefes"
+
+msgid "desc_task_43_stage_2"
+msgstr ""
+"Bom trabalho, mas ainda há muito a fazer. É vital que mates os chefes deles "
+"antes que eles se mobilizem, 200 devem fazê-lo."
+
+msgid "short_desc_task_43_stage_3"
+msgstr "Matar 100 cinzento Ork executores"
+
+msgid "desc_task_43_stage_3"
+msgstr ""
+"Os guerreiros de elite dos cinzentos orks continuam a ser uma séria ameaça, "
+"matando 100 carrascos ork carrascos."
+
+msgid "short_desc_task_43_stage_4"
+msgstr "Matar 5 senhor da guerra choppa"
+
+msgid "desc_task_43_stage_4"
+msgstr ""
+"Isolamos o senhor da guerra e seus homens, matamos 5 o senhor da guerra "
+"Choppas para pôr fim a esta guerra e aproveitar a glória que você merece."
+
+msgid "name_task_44"
+msgstr "Chamar ao título das armas"
+
+msgid "short_desc_task_44"
+msgstr "Defender Mercia e desbloquear Campeão de Mercia título."
+
+msgid "short_desc_task_44_stage_1"
+msgstr "Matar 300 malats"
+
+msgid "desc_task_44_stage_1"
+msgstr ""
+"Os malaut estão tramando e encontraram um novo campeão de intenções "
+"questionáveis. Matar 300 malats."
+
+msgid "short_desc_task_44_stage_2"
+msgstr "Matar 200 maiores abaixo"
+
+msgid "desc_task_44_stage_2"
+msgstr ""
+"Com os malats fora do caminho, é hora de matar 200 abaixo, que deve "
+"prejudicar suas forças."
+
+msgid "short_desc_task_44_stage_3"
+msgstr "Matar 100 cavaleiros negros"
+
+msgid "desc_task_44_stage_3"
+msgstr ""
+"Cavaleiros negros bloqueiam o caminho para o seu mestre, encontramo-los com "
+"força, não mostram misericórdia, e matar 100 antes de voltar."
+
+msgid "short_desc_task_44_stage_4"
+msgstr "Matar 5 vlad crepúsculo"
+
+msgid "desc_task_44_stage_4"
+msgstr ""
+"Vlad Duskward é uma figura polarizante, ele representa uma séria ameaça se "
+"ele for autorizado a viver. Matar 5 vlad crepúsculo"
+
+msgid "name_task_45"
+msgstr "Fim do mal - título"
+
+msgid "short_desc_task_45"
+msgstr "Limpe o Agast e destrave o título de Portador da Dor."
+
+msgid "short_desc_task_45_stage_1"
+msgstr "Matar 300 severii"
+
+msgid "desc_task_45_stage_1"
+msgstr ""
+"Forças do mal nas alfar terras se uniram para escravizar cidades vizinhas. "
+"Você pode começar matando 300 severii."
+
+msgid "short_desc_task_45_stage_2"
+msgstr "Matar 200 arthains"
+
+msgid "desc_task_45_stage_2"
+msgstr ""
+"Arthains são os próximos na linha para a justiça, dispor de 200 deles antes "
+"que eles possam tecer sua magia negra mais longe."
+
+msgid "short_desc_task_45_stage_3"
+msgstr "Matar 100 herege nahdruk"
+
+msgid "desc_task_45_stage_3"
+msgstr ""
+"100 hereges nahdruk acredita-se saber a localização do cérebro por trás da "
+"trama, acabar com suas vidas e ver a verdade."
+
+msgid "short_desc_task_45_stage_4"
+msgstr "Matar 5 siharo Darkbinders"
+
+msgid "desc_task_45_stage_4"
+msgstr ""
+"Muitas vidas foram perdidas, mas não é tarde demais para proteger as "
+"cidades. Mate 5 Siharo Darkbinders."
+
+msgid "name_task_46"
+msgstr "Terras desoladas, tempos desesperados - título"
+
+msgid "short_desc_task_46"
+msgstr "Limpe Cairn e desbloqueie o título Twilight Vanguard."
+
+msgid "short_desc_task_46_stage_1"
+msgstr "Matar 300 ogres"
+
+msgid "desc_task_46_stage_1"
+msgstr ""
+"Os gigantes de Cairn uniram-se sob um só chefe. Moradores de Cairn vivem com"
+" medo da dominação Matem 300 ogres."
+
+msgid "short_desc_task_46_stage_2"
+msgstr "Matar 200 colina gigante batedores"
+
+msgid "desc_task_46_stage_2"
+msgstr ""
+"Os gigantes da Colina começaram a dizimar as muralhas da cidade com as "
+"pedras, matar 200 antes de invadirem as cidades."
+
+msgid "short_desc_task_46_stage_3"
+msgstr "Matar 100 Cairn gigantes"
+
+msgid "desc_task_46_stage_3"
+msgstr ""
+"Cairn gigantes estão saqueando a terra, aldeias e cidades foram destruídas. "
+"Matem o 100 e procurem o líder deles."
+
+msgid "short_desc_task_46_stage_4"
+msgstr "Matar 5 chefe de cálos"
+
+msgid "desc_task_46_stage_4"
+msgstr ""
+"Você localizou o mestre deles, matar 5 Chefe Khalos para devolver os "
+"gigantes a um estado de caos."
+
+msgid "name_task_47"
+msgstr "Gelo, vento, sangue e esperança - título"
+
+msgid "short_desc_task_47"
+msgstr "Vencer o frio e desbloquear o título Icewind Executioner."
+
+msgid "short_desc_task_47_stage_1"
+msgstr "Matar 300 winterbound ou seidbound"
+
+msgid "desc_task_47_stage_1"
+msgstr ""
+"Niflheim nunca foi sobre justiça, é sobre domínio e glória. Matem o 300 que "
+"se encontra no Inverno."
+
+msgid "short_desc_task_47_stage_2"
+msgstr "Matar 200 glaciares"
+
+msgid "desc_task_47_stage_2"
+msgstr ""
+"200 jarros de gelo é o suficiente para se notar, trazer seus companheiros "
+"mais qualificados e levá-los para baixo."
+
+msgid "short_desc_task_47_stage_3"
+msgstr "Matar 100 icejarls"
+
+msgid "desc_task_47_stage_3"
+msgstr ""
+"100 jarros de gelo estão no seu caminho, para derrotar o seu campeão você "
+"deve primeiro se livrar deles. Não lhes mostre piedade."
+
+msgid "short_desc_task_47_stage_4"
+msgstr "Matar 5 hjor o grande"
+
+msgid "desc_task_47_stage_4"
+msgstr ""
+"Mate 5 Hjor, o Grande, para aproveitar a glória e o abundante tesouro que "
+"tanto merece."
+
+msgid "name_task_48"
+msgstr "Areias do desespero - título"
+
+msgid "short_desc_task_48"
+msgstr "Conquistar o deserto e desbloquear o título de Roubador de Almas."
+
+msgid "short_desc_task_48_stage_1"
+msgstr "Matar 300 acrids"
+
+msgid "desc_task_48_stage_1"
+msgstr ""
+"Lava flui profundamente sob a areia, perturbada por uma mente sinistra. Lute"
+" através de 300 acrids para encontrar o culpado."
+
+msgid "short_desc_task_48_stage_2"
+msgstr "Matar 200 bombeiros"
+
+msgid "desc_task_48_stage_2"
+msgstr ""
+"Alguém está a tentar destruir o Rubaiyat. Slaughter 200 dispara gigantes e "
+"procura por respostas através de acampamentos."
+
+msgid "short_desc_task_48_stage_3"
+msgstr "Matar 100 incendiários"
+
+msgid "desc_task_48_stage_3"
+msgstr ""
+"Juntamente com o Hellfire juggarnaut, 100 incendiários estimulam a lava "
+"abaixo, destruí-los antes que seja tarde demais."
+
+msgid "short_desc_task_48_stage_4"
+msgstr "Matar 5 inferno fogo juggernaut"
+
+msgid "desc_task_48_stage_4"
+msgstr ""
+"Mate 5 Hellfire Juggernauts para salvar Rubaiyat de ser enterrado em cinzas "
+"vulcânicas, é história e as pessoas perderam para sempre."
+
+msgid "name_task_49"
+msgstr "Problemas no título do paraíso"
+
+msgid "short_desc_task_49"
+msgstr "Vencer a selva e desbloquear o título Apex Predator."
+
+msgid "short_desc_task_49_stage_1"
+msgstr "Matar 300 tribos selvagens"
+
+msgid "desc_task_49_stage_1"
+msgstr ""
+"Chegou a hora de desafiar o governante da tribo selvagem Grand Tikoloshe, "
+"mas antes que você tenha a chance você deve primeiro matar 300 tribos "
+"selvagens."
+
+msgid "short_desc_task_49_stage_2"
+msgstr "Matar 200 wildtribe mages"
+
+msgid "desc_task_49_stage_2"
+msgstr ""
+"Grande Tikolosh depende fortemente de seus magos, devasta suas fileiras, um "
+"mínimo de 200 precisa morrer."
+
+msgid "short_desc_task_49_stage_3"
+msgstr "Matar 100 chefes de tribo selvagem"
+
+msgid "desc_task_49_stage_3"
+msgstr ""
+"Com os magos mortos é hora de derrotar os chefes, matar 100 antes de você "
+"fazer o seu caminho para grande tikoloshe"
+
+msgid "short_desc_task_49_stage_4"
+msgstr "Matar 5 grandes tikoloshes"
+
+msgid "desc_task_49_stage_4"
+msgstr ""
+"Você venceu as hordas de tribo selvagem, agora matar 5 Grand Tikoloshes e "
+"reivindicar o tesouro de tribo selvagem."
+
+msgid "name_task_50"
+msgstr "Sangue na areia - título"
+
+msgid "short_desc_task_50"
+msgstr ""
+"Derrube o khamset para salvar o Rubaiyat e receba o título de Mártir de "
+"Sangue!"
+
+msgid "short_desc_task_50_stage_1"
+msgstr ""
+"Derrube o khamset para salvar o Rubaiyat e receba o título de Mártir de "
+"Sangue!"
+
+msgid "desc_task_50_stage_1"
+msgstr ""
+"Rubaiyat já foi uma terra fértil e muito mais civilizada, mas depois que o "
+"rio Angra secou, o khamset levantou-se da areia para recuperar sua terra. O "
+"derramamento de sangue foi imenso, foi um massacre. Tem de decidir se estás "
+"disposto a derrotar o khamset, vais arriscar o seu próprio sangue para "
+"restaurar a paz à terra?"
+
+msgid "short_desc_task_50_stage_2"
+msgstr ""
+"Derrube o khamset para salvar o Rubaiyat e receba o título de Mártir de "
+"Sangue!"
+
+msgid "desc_task_50_stage_2"
+msgstr ""
+"Você eliminou os escravos, mas muito trabalho ainda está para ser feito."
+
+msgid "short_desc_task_50_stage_3"
+msgstr ""
+"Derrube o khamset para salvar o Rubaiyat e receba o título de Mártir de "
+"Sangue!"
+
+msgid "desc_task_50_stage_3"
+msgstr ""
+"Sobreviveste... por enquanto. Enfrente o escolhido para prosseguir para a "
+"fase final."
+
+msgid "short_desc_task_50_stage_4"
+msgstr ""
+"Derrube o khamset para salvar o Rubaiyat e receba o título de Mártir de "
+"Sangue!"
+
+msgid "desc_task_50_stage_4"
+msgstr ""
+"Sem as mãos de khamset em torno das coisas será muito mais fácil em "
+"Rubaiyat, fazer o seu melhor para derrotá-los."
+
+msgid "name_task_51"
+msgstr "Não mostre medo - título"
+
+msgid "short_desc_task_51"
+msgstr ""
+"Proteger os civis da ameaça crescente de fantasmas. És corajoso o suficiente"
+" para ganhares o título de Coração de Leão?"
+
+msgid "short_desc_task_51_stage_1"
+msgstr ""
+"Proteger os civis da ameaça crescente de fantasmas. És corajoso o suficiente"
+" para ganhares o título de Coração de Leão?"
+
+msgid "desc_task_51_stage_1"
+msgstr ""
+"Não importa qual seja a ameaça, já viste tudo antes. Ontem eram goblins, "
+"hoje seus ghouls, amanhã será outra coisa, e você estará pronto. Corajosa é "
+"só uma palavra porque a maioria das pessoas não é, mas sabem que podem "
+"contar contigo quando o perigo se aproxima."
+
+msgid "name_task_52"
+msgstr "Alguém tem que fazê-lo - título"
+
+msgid "short_desc_task_52"
+msgstr ""
+"Está na hora de sujar as mãos e acabar com a escória. Você pode ganhar o "
+"título Exterminador?"
+
+msgid "short_desc_task_52_stage_1"
+msgstr ""
+"Está na hora de sujar as mãos e acabar com a escória. Você pode ganhar o "
+"título Exterminador?"
+
+msgid "desc_task_52_stage_1"
+msgstr ""
+"Não é para todos, isso é certo. Sujeira, desperdício e vômito jazem abaixo "
+"das ruas da cidade, este é o último lugar onde um nobre se aventuraria, mas "
+"você não é nobre, você gosta de sujar as mãos e nada, nada entra no seu "
+"caminho. Está uma confusão lá em baixo, para ter a certeza, e só está a "
+"piorar. Escória procria a um ritmo assustador, um dia eles se levantarão nas"
+" ruas da cidade e você simplesmente não pode deixar isso acontecer. É hora "
+"de testar a si mesmo, descer pela escotilha e levá-los, para acabar com eles"
+" de uma vez por todas."
+
+msgid "name_task_53"
+msgstr "Algo perverso assim vem - título"
+
+msgid "short_desc_task_53"
+msgstr ""
+"Partir em uma busca do destino, sua vela apagará ou dançará com as chamas da"
+" escuridão? Retorne inteiro para receber o título de Arauto da Perdição!"
+
+msgid "short_desc_task_53_stage_1"
+msgstr ""
+"Partir em uma busca do destino, sua vela apagará ou dançará com as chamas da"
+" escuridão? Retorne inteiro para receber o título de Arauto da Perdição!"
+
+msgid "desc_task_53_stage_1"
+msgstr ""
+"Para compreender plenamente a perdição, é preciso abraçá-la, uma vez que ela"
+" deve se tornar. Segurar as vidas dos mortais nas suas mãos e decidir o "
+"destino deles, isso é poder verdadeiro. Mas antes que esse poder seja seu "
+"para contemplar, uma tarefa assustadora está à frente."
+
+msgid "name_task_54"
+msgstr "História de um herói - título"
+
+msgid "short_desc_task_54"
+msgstr ""
+"Pessoas inocentes estão a ser massacradas, só você pode salvá-las! O título "
+"de guerreiro pacífico aguarda-vos!"
+
+msgid "short_desc_task_54_stage_1"
+msgstr ""
+"Pessoas inocentes estão a ser massacradas, só você pode salvá-las! O título "
+"de guerreiro pacífico aguarda-vos!"
+
+msgid "desc_task_54_stage_1"
+msgstr ""
+"Nunca foi de criar problemas, mas sempre soubeste como lidar com isso. "
+"Superaste as dificuldades que acabariam com quase qualquer um. Perseverança,"
+" bravura e bondade são apenas algumas das qualidades que as pessoas "
+"respeitam em você. Sua habilidade na batalha é famosa e você só luta quando "
+"é necessário, outro tal tempo chegou. Recentemente, houve um grande número "
+"de mortes de ursos árcticos que procuraram presas em cidades vizinhas, "
+"matando inúmeros civis inocentes. Não se sabe o que aconteceu aos ursos "
+"árticos, pode ser magia, pode ser uma maldição, mas têm de ser parados. Com "
+"a milícia local em ruínas, és o único capaz de eliminar esta ameaça."
+
+msgid "name_task_55"
+msgstr "A limpeza - título"
+
+msgid "short_desc_task_55"
+msgstr ""
+"Lutar contra sarlids em busca de uma cura. O título Adversário Intrépido "
+"espera por você!"
+
+msgid "short_desc_task_55_stage_1"
+msgstr ""
+"Lutar contra sarlids em busca de uma cura. O título Adversário Intrépido "
+"espera por você!"
+
+msgid "desc_task_55_stage_1"
+msgstr ""
+"Todos os dias alguém morre de veneno, às vezes é de uma cobra, outras vezes "
+"é um monstro. A medicina não é barata, quanto mais mortal o veneno, mais "
+"cara a cura, é a dura realidade em que vivemos. Tem de haver uma forma de "
+"curar toda a gente, só tem de encontrá-la. Isso não vai acontecer "
+"rapidamente, será perigoso, você deve arriscar sua própria vida para salvar "
+"as vidas dos outros, um comércio justo."
+
+msgid "name_task_56"
+msgstr "Andando no caminho da guerra - título"
+
+msgid "short_desc_task_56"
+msgstr ""
+"Wage guerra contra os bandidos da terra, adquirir os despojos da guerra, e "
+"ganhar uma reputação feroz no processo. É suficientemente poderoso para "
+"ganhar o título de Warmonger?"
+
+msgid "short_desc_task_56_stage_1"
+msgstr ""
+"Wage guerra contra os bandidos da terra, adquirir os despojos da guerra, e "
+"ganhar uma reputação feroz no processo. É suficientemente poderoso para "
+"ganhar o título de Warmonger?"
+
+msgid "desc_task_56_stage_1"
+msgstr ""
+"Agon tem sido uma terra devastada pela guerra desde os tempos antigos. Com "
+"tantas personalidades e interesses em conflito, é entendido e esperado. Não "
+"há falta de oportunidades para subir através das fileiras de soldados e "
+"oficiais, um dia você pode ser conhecido como o Warmonger. Use táticas e "
+"planejamento, aprenda as fraquezas de seus inimigos, e quando chegar a hora,"
+" mostre-lhes o que a guerra realmente significa."
+
+msgid "short_desc_task_56_stage_2"
+msgstr ""
+"Wage guerra contra os bandidos da terra, adquirir os despojos da guerra, e "
+"ganhar uma reputação feroz no processo. É suficientemente poderoso para "
+"ganhar o título de Warmonger?"
+
+msgid "desc_task_56_stage_2"
+msgstr ""
+"Os hobgoblins são bem conhecidos por sua brutalidade e respeitados por sua "
+"habilidade marcial. Por mais habilidosos que sejam, não te pode dar ao luxo "
+"de deixar que eles te atrasem. São apenas um trampolim para todos os que "
+"desejais."
+
+msgid "short_desc_task_56_stage_3"
+msgstr ""
+"Wage guerra contra os bandidos da terra, adquirir os despojos da guerra, e "
+"ganhar uma reputação feroz no processo. É suficientemente poderoso para "
+"ganhar o título de Warmonger?"
+
+msgid "desc_task_56_stage_3"
+msgstr ""
+"Primos dos hobgoblins, os corvos são conhecidos por serem ainda mais "
+"habilidosos e possuírem grande capacidade tática e liderança. Será uma luta "
+"difícil, ser cauteloso com a sua elite de pontaria e saber quando voltar "
+"para fora de mim antes que eles obter uma conta em sua defesa e arrancar "
+"suas entranhas."
+
+msgid "short_desc_task_56_stage_4"
+msgstr ""
+"Wage guerra contra os bandidos da terra, adquirir os despojos da guerra, e "
+"ganhar uma reputação feroz no processo. É suficientemente poderoso para "
+"ganhar o título de Warmonger?"
+
+msgid "desc_task_56_stage_4"
+msgstr ""
+"Varangianos são guerreiros de elite e invasores, bem conhecidos por saquear "
+"aldeias e contestar áreas ricas em recursos. Se conseguirdes superá-los, não"
+" só ganhareis grande respeito entre os vossos pares, mas o vosso nome "
+"tornar-se-á lenda."
+
+msgid "name_task_57"
+msgstr "Arrancando barbas - título"
+
+msgid "short_desc_task_57"
+msgstr ""
+"Destruam o trabalho árduo dos anões mortos-vivos para receber o título "
+"Gangster!"
+
+msgid "short_desc_task_57_stage_1"
+msgstr ""
+"Destruam o trabalho árduo dos anões mortos-vivos para receber o título "
+"Gangster!"
+
+msgid "desc_task_57_stage_1"
+msgstr ""
+"Anões mortos-vivos, o escárnio dos anões, vagueiam por toda a parte deixando"
+" nuvens de poeira no seu rastro, enquanto rasgam a terra e cortam a rocha "
+"com persistência incansável. É bem conhecido que eles encontram muitos "
+"tesouros em sua eterna busca. Diz - se que mesmo na morte sua ganância "
+"crescia a cada dia que passava, desperdiçando a beleza da terra e matando "
+"qualquer um que entrasse no seu caminho. Se ao menos houvesse alguém "
+"disposto a tirar essas riquezas das suas mãos gananciosas..."
+
+msgid "name_task_58"
+msgstr "Cortando - título"
+
+msgid "short_desc_task_58"
+msgstr ""
+"A vida de um lenhador é recompensadora, mas tem o que é preciso? Complete "
+"esta tarefa para receber o título Lumberjack!"
+
+msgid "short_desc_task_58_stage_1"
+msgstr ""
+"A vida de um lenhador é recompensadora, mas tem o que é preciso? Complete "
+"esta tarefa para receber o título Lumberjack!"
+
+msgid "desc_task_58_stage_1"
+msgstr ""
+"Um verdadeiro cavalo de trabalho. Acordas todos os dias, vestes-te, tomas o "
+"pequeno-almoço e começas o seu trabalho. Cortando, fornecendo a madeira "
+"necessária para abrigar seus amigos e familiares, os moradores, e qualquer "
+"um com sorte suficiente para receber sua madeira no comércio. Com o tempo, "
+"seus músculos começaram a inchar, as pessoas olhavam para você de forma "
+"diferente, com respeito. Até onde irá para prover os necessitados?"
+
+msgid "name_task_59"
+msgstr "Presença demoníaca - título"
+
+msgid "short_desc_task_59"
+msgstr ""
+"Aventure-se no abismo para enfrentar o mal supremo e receber o título de "
+"Caçador de Demônios!"
+
+msgid "short_desc_task_59_stage_1"
+msgstr ""
+"Aventure-se no abismo para enfrentar o mal supremo e receber o título de "
+"Caçador de Demônios!"
+
+msgid "desc_task_59_stage_1"
+msgstr ""
+"Sempre foi diferente, sempre percorreste o seu próprio caminho, às vezes "
+"isso leva-te a lugares escuros. Começou com curiosidade, você contorceu os "
+"resíduos do observador no centro do mundo, você deu um vislumbre. Um "
+"vislumbre tornou-se um passo em frente, e aumentou de lá. Mais fundo e mais "
+"fundo você viajou, atos tanto profano e cruel flashed em seus olhos até que "
+"você não poderia tomar mais, você tinha que fazer alguma coisa, quem mais "
+"faria? Os demônios que habitam nos dejetos são uma grande parte desta "
+"máquina infernal, e você deve pôr um fim a isso. Isto é sensato? Certamente "
+"que não, mas depois de conquistar seus próprios demônios, quão difícil pode "
+"ser vencer mais alguns?"
+
+msgid "name_task_60"
+msgstr "Ascensão divina - título"
+
+msgid "short_desc_task_60"
+msgstr ""
+"Embarque em uma busca tão mortal e intensa que você vai se tornar lendário "
+"se você tiver sucesso. Comece sua jornada para adquirir o título Celestial "
+"Skirmisher!"
+
+msgid "short_desc_task_60_stage_1"
+msgstr ""
+"Embarque em uma busca tão mortal e intensa que você vai se tornar lendário "
+"se você tiver sucesso. Comece sua jornada para adquirir o título Celestial "
+"Skirmisher!"
+
+msgid "desc_task_60_stage_1"
+msgstr ""
+"Está escrito que, nos tempos antigos, os eodrins eram uma ameaça tão tremenda que os deuses atribuíam poder aos que os destruíam. Mais tarde descobriu-se que este era um estratagema do deus Melek. Não só foi a recompensa uma fachada, mas muitos aventureiros foram mortos e comidos pelos eodrins, e nem sempre nessa ordem.\n"
+" Apesar da mentira, aqueles que foram bem sucedidos tornaram-se conhecidos como Celestial Skirmishers e ganharam fama lendária. Esta busca pode levar uma vida inteira e os horrores que os eodrins vão fazer você suportar podem provar muito, mas se você pode fortalecer a sua coragem, manter a sua sanidade, e voltar vivo, você será conhecido como o Celestial Skirmisher."
+
+msgid "name_task_61"
+msgstr "Pescando até uma tempestade - título"
+
+msgid "short_desc_task_61"
+msgstr ""
+"Pegue sua vara de pesca e mostre a esses peixes do que você é feito! Só "
+"então você vai adquirir o título Angler!"
+
+msgid "short_desc_task_61_stage_1"
+msgstr ""
+"Pegue sua vara de pesca e mostre a esses peixes do que você é feito! Só "
+"então você vai adquirir o título Angler!"
+
+msgid "desc_task_61_stage_1"
+msgstr ""
+"Às vezes os peixes mordem imediatamente, outras vezes você precisa exercer "
+"paciência. É a natureza imprevisível do comércio que te faz voltar para "
+"mais. Lembras-te da primeira vez que apanhaste um idiota como se fosse "
+"ontem, e desde então já apanhaste mais alguns."
+
+msgid "name_task_62"
+msgstr "Escondendo-se à vista de todos - título"
+
+msgid "short_desc_task_62"
+msgstr ""
+"Espíritos de batalha para aprimorar sua precisão e discrição. Consegue "
+"adquirir o título de Lâmina Invisível?"
+
+msgid "short_desc_task_62_stage_1"
+msgstr ""
+"Espíritos de batalha para aprimorar sua precisão e discrição. Consegue "
+"adquirir o título de Lâmina Invisível?"
+
+msgid "desc_task_62_stage_1"
+msgstr ""
+"O melhor ataque é aquele que o seu oponente não vê. Através de treinamento "
+"consistente, você melhorou suas técnicas, mas praticar em lugares seguros "
+"não prepara uma para a batalha real, e então você decidiu realmente testar a"
+" si mesmo. Após cuidadosa contemplação, decidistes que o melhor caminho de "
+"ação seria combater a oposição mais esquiva que poderiais encontrar, "
+"observando os seus movimentos fluidos e eliminando-os com precisão e "
+"discrição, um dia alcançareis os resultados que desejais."
+
+msgid "short_desc_task_62_stage_2"
+msgstr ""
+"Espíritos de batalha para aprimorar sua precisão e discrição. Consegue "
+"adquirir o título de Lâmina Invisível?"
+
+msgid "desc_task_62_stage_2"
+msgstr ""
+"Procure fantasmas, estude seus movimentos e pratique suas habilidades. "
+"Consegue mover - se como o vento e evitar cada pedra perdida que possa trair"
+" sua posição? Prova-o."
+
+msgid "short_desc_task_62_stage_3"
+msgstr ""
+"Espíritos de batalha para aprimorar sua precisão e discrição. Consegue "
+"adquirir o título de Lâmina Invisível?"
+
+msgid "desc_task_62_stage_3"
+msgstr ""
+"Elfshades representam uma ameaça ainda maior, e assim apresentam maior "
+"oportunidade de aprendizagem. Consegues manter a calma na presença de "
+"inimigos tão perigosos?"
+
+msgid "short_desc_task_62_stage_4"
+msgstr ""
+"Espíritos de batalha para aprimorar sua precisão e discrição. Consegue "
+"adquirir o título de Lâmina Invisível?"
+
+msgid "desc_task_62_stage_4"
+msgstr ""
+"Os Elfwraiths serão o teste final das suas habilidades. Ataquem das sombras "
+"e tenham cuidado com a sua magia mortal."
+
+msgid "name_task_63"
+msgstr "Homem de ferro - título"
+
+msgid "short_desc_task_63"
+msgstr "Prove o seu valor para receber o título Miner!"
+
+msgid "short_desc_task_63_stage_1"
+msgstr "Prove o seu valor para receber o título Miner!"
+
+msgid "desc_task_63_stage_1"
+msgstr ""
+"Ninguém conhece melhor o cheiro de carvão do que você. Poeira. Ash. Enxofre."
+" Dizem que os seus pulmões são feitos de ferro, e não lhes dizes o "
+"contrário. Você encontrou uma boa quantidade de curiosidades ao longo dos "
+"anos, minérios raros, pedras preciosas, e o artefato ocasional. Mas você "
+"sempre quis algo mais: Reputação. Tem sido um longo caminho para chegar a "
+"este ponto, mas você está começando a fechar. Vai forjar o seu nome?"
+
+msgid "name_task_64"
+msgstr "Passeio pela escuridão - título"
+
+msgid "short_desc_task_64"
+msgstr ""
+"Assuma o desafio final nesta árdua jornada.Se você tiver sucesso, receberá o"
+" título de Vanquisher das Trevas."
+
+msgid "short_desc_task_64_stage_1"
+msgstr ""
+"Assuma o desafio final nesta árdua jornada.Se você tiver sucesso, receberá o"
+" título de Vanquisher das Trevas."
+
+msgid "desc_task_64_stage_1"
+msgstr ""
+"Eles ouviram a sua busca. Eles avisaram-te contra isso. Pediram-te para não "
+"ires. Disseram-te que era uma missão suicida. Ignoraste-os a todos. É hora "
+"de começar sua jornada, colocar sua vida em risco e perseguir a grandeza "
+"como poucos outros já sonharam, muito menos ousaram. Serás lembrado como um "
+"tolo ou viverás para contar a história?"
+
+msgid "name_task_67"
+msgstr "Carnificina impiedosa - título"
+
+msgid "short_desc_task_67"
+msgstr ""
+"Aniquilem os vermes que assassinam sem piedade. Se sobreviveres, receberás o"
+" título de Avatar da Carnificina!"
+
+msgid "short_desc_task_67_stage_1"
+msgstr ""
+"Aniquilem os vermes que assassinam sem piedade. Se sobreviveres, receberás o"
+" título de Avatar da Carnificina!"
+
+msgid "desc_task_67_stage_1"
+msgstr ""
+"Carnificina. Não há outra palavra para descrevê-lo. Você prospera em "
+"batalha, é quando você se sente mais vivo. A adrenalina é um vício que não "
+"consegues resistir. Antes de você aguarda um teste assustador, para destruir"
+" os vermes que não fazem nada além de prejudicar, neste ato você não sentirá"
+" culpa e se deleitará no prazer da batalha."
+
+msgid "short_desc_task_67_stage_2"
+msgstr ""
+"Aniquilem os vermes que assassinam sem piedade. Se sobreviveres, receberás o"
+" título de Avatar da Carnificina!"
+
+msgid "desc_task_67_stage_2"
+msgstr ""
+"Viaje para regiões de areia para caçar iklits de areia. Muitos ossos estão "
+"enterrados na areia, não deixe que a sua própria companhia lhes forneça."
+
+msgid "short_desc_task_67_stage_3"
+msgstr ""
+"Aniquilem os vermes que assassinam sem piedade. Se sobreviveres, receberás o"
+" título de Avatar da Carnificina!"
+
+msgid "desc_task_67_stage_3"
+msgstr ""
+"Os iklits de túmulo podem enganar na aparência, podem parecer apenas "
+"perigosos, mas estão entre os predadores mais impiedosos em Agon. Não os "
+"subestimes."
+
+msgid "name_task_68"
+msgstr "Chamada misteriosa - título"
+
+msgid "short_desc_task_68"
+msgstr ""
+"Elimine aqueles que ameaçam a civilização para receber o título de Diretor "
+"de Alabaster!"
+
+msgid "short_desc_task_68_stage_1"
+msgstr ""
+"Elimine aqueles que ameaçam a civilização para receber o título de Diretor "
+"de Alabaster!"
+
+msgid "desc_task_68_stage_1"
+msgstr ""
+"Conhecidos por seus trajes brancos de assinatura, Alabaster Wardens não são uma organização e geralmente trabalham sozinhos. É seu dever monitorar a atividade de monstros que representam uma ameaça à civilização e lidar com eles de acordo. \n"
+" \n"
+" Eles tendem a se especializar em caçar monstros maiores e são conhecidos por suas habilidades de sobrevivência incomparáveis e conhecimento de astrologia. É desconhecido quando Alabaster Wardens começou seu trabalho ou por que eles escolhem trabalhar sozinhos. Suspeita-se que estejam afiliados uns aos outros, mas ainda não foi revelada qualquer prova."
+
+msgid "short_desc_task_68_stage_2"
+msgstr ""
+"Elimine aqueles que ameaçam a civilização para receber o título de Diretor "
+"de Alabaster!"
+
+msgid "desc_task_68_stage_2"
+msgstr ""
+"Caçar golems obsidianas antes que matem mais pessoas. Embora sejam inimigos "
+"formidáveis, tem de encontrar uma saída."
+
+msgid "short_desc_task_68_stage_3"
+msgstr ""
+"Elimine aqueles que ameaçam a civilização para receber o título de Diretor "
+"de Alabaster!"
+
+msgid "desc_task_68_stage_3"
+msgstr ""
+"Para sua tarefa final, descarte sandstone golems. Embora possam parecer "
+"semelhantes aos golems que você derrotou anteriormente, a variedade "
+"sandstone é ainda mais perigosa e imprevisível."
+
+msgid "name_task_69"
+msgstr "Mal necessário - título"
+
+msgid "short_desc_task_69"
+msgstr ""
+"Pega no que precisas e não deixes ninguém ficar no seu caminho. É assim que "
+"receberás o título de Cavaleiro Vile!"
+
+msgid "short_desc_task_69_stage_1"
+msgstr ""
+"Pega no que precisas e não deixes ninguém ficar no seu caminho. É assim que "
+"receberás o título de Cavaleiro Vile!"
+
+msgid "desc_task_69_stage_1"
+msgstr ""
+"\"Decisões difíceis\" nunca foi difícil para você, desde cedo você aprendeu "
+"que às vezes é necessário pisar em alguns dedos dos pés para chegar à "
+"frente, e isso é algo que você nunca teve um problema com. Você não é uma "
+"pessoa ruim, você só consegue o que quer e não se importa com o que as "
+"pessoas pensam sobre seus métodos. Talvez seja por isso que você é um "
+"natural em comandar bestas selvagens, domesticando-os, e montando-os para a "
+"batalha. Ultimamente, você tem obtido uma reputação, você se tornou notório,"
+" mas você sabe que isso é apenas o começo."
+
+msgid "short_desc_task_69_stage_2"
+msgstr ""
+"Pega no que precisas e não deixes ninguém ficar no seu caminho. É assim que "
+"receberás o título de Cavaleiro Vile!"
+
+msgid "desc_task_69_stage_2"
+msgstr ""
+"Nalaeds são inimigos perigosos, use cobertura quando necessário e evite "
+"lutar contra múltiplos simultaneamente, pois se você falhar em fazê-lo, "
+"provavelmente não sobreviverá."
+
+msgid "short_desc_task_69_stage_3"
+msgstr ""
+"Pega no que precisas e não deixes ninguém ficar no seu caminho. É assim que "
+"receberás o título de Cavaleiro Vile!"
+
+msgid "desc_task_69_stage_3"
+msgstr ""
+"Os anciãos de Nalaed são os mais perigosos da sua espécie, apenas mais um "
+"passo."
+
+msgid "short_desc_task_69_stage_4"
+msgstr ""
+"Pega no que precisas e não deixes ninguém ficar no seu caminho. É assim que "
+"receberás o título de Cavaleiro Vile!"
+
+msgid "desc_task_69_stage_4"
+msgstr ""
+"Poucos se envolvem com serpentina em combate e vivem para contar a história,"
+" se você for um deles, garantirá sua reputação como alguém a ser temido."
+
+msgid "name_task_70"
+msgstr "Sobre a caça - título"
+
+msgid "short_desc_task_70"
+msgstr ""
+"Cace feras para provar sua habilidade como caçador e receba o título de "
+"Mestre da Caça!"
+
+msgid "short_desc_task_70_stage_1"
+msgstr ""
+"Cace feras para provar sua habilidade como caçador e receba o título de "
+"Mestre da Caça!"
+
+msgid "desc_task_70_stage_1"
+msgstr ""
+"Predadores da natureza vagam pelas terras reivindicando a carne que podem, "
+"tanto animais como pessoas. Essas criaturas são temidas pelo homem comum, "
+"elas não se atrevem a ir em lugares que essas bestas pisam. Mas você não é "
+"um homem comum, você olha o rosto da morte nos olhos e não vacilar, mas "
+"sorrir. Pois vocês sabem como é ser o predador, matar e caçar são o que "
+"melhor fazem, nada ficará em seu caminho."
+
+msgid "short_desc_task_70_stage_2"
+msgstr ""
+"Cace feras para provar sua habilidade como caçador e receba o título de "
+"Mestre da Caça!"
+
+msgid "desc_task_70_stage_2"
+msgstr ""
+"Tempo para um jogo mais desafiador, procure ursos árticos para melhorar "
+"ainda mais suas habilidades."
+
+msgid "short_desc_task_70_stage_3"
+msgstr ""
+"Cace feras para provar sua habilidade como caçador e receba o título de "
+"Mestre da Caça!"
+
+msgid "desc_task_70_stage_3"
+msgstr ""
+"Raptores são predadores extremamente mortais, façam o que fazem de melhor."
+
+msgid "short_desc_task_70_stage_4"
+msgstr ""
+"Cace feras para provar sua habilidade como caçador e receba o título de "
+"Mestre da Caça!"
+
+msgid "desc_task_70_stage_4"
+msgstr ""
+"Está na hora de enfrentar o desafio final. Você deve matar crogs para ganhar"
+" a sua fama, todos devem saber a habilidade que você possui como um caçador!"
+
+msgid "name_task_71"
+msgstr "Caminho para a cavalaria - título"
+
+msgid "short_desc_task_71"
+msgstr ""
+"Prove que você tem o que é preciso para se juntar aos Cavaleiros Ceruleanos "
+"e ganhar o título de Cavaleiro Ceruleano."
+
+msgid "short_desc_task_71_stage_1"
+msgstr ""
+"Prove que você tem o que é preciso para se juntar aos Cavaleiros Ceruleanos "
+"e ganhar o título de Cavaleiro Ceruleano!"
+
+msgid "desc_task_71_stage_1"
+msgstr ""
+"Os Cavaleiros Ceruleanos são uma ordem relativamente nova operando em "
+"Nagast, embora eles enviem seus cavaleiros por toda a terra, se necessário. "
+"Eles exemplificam valor, equilíbrio e habilidade. A aceitação na ordem "
+"envolve treinamento extensivo em mão para combate manual.Os cavaleiros estão"
+" altamente envolvidos na busca dos túneis antigos em Nagast, seu objetivo "
+"final é recuperar o círculo de prata, um artefato de imenso poder de mudança"
+" mundial do deus Melek. Para isso, terão de adquirir as melhores armas, "
+"armaduras e talentos que puderem. Atualmente, os Cavaleiros Ceruleanos são "
+"32 fortes e procuram expandir suas fileiras com algumas perspectivas mais "
+"excepcionais."
+
+msgid "short_desc_task_71_stage_2"
+msgstr ""
+"Prove que você tem o que é preciso para se juntar aos Cavaleiros Ceruleanos "
+"e ganhar o título de Cavaleiro Ceruleano!"
+
+msgid "desc_task_71_stage_2"
+msgstr ""
+"Continue sua iniciação testando suas habilidades contra as habilidades "
+"finamente aperfeiçoadas dos melhores guerreiros varangianos."
+
+msgid "short_desc_task_71_stage_3"
+msgstr ""
+"Prove que você tem o que é preciso para se juntar aos Cavaleiros Ceruleanos "
+"e ganhar o título de Cavaleiro Ceruleano!"
+
+msgid "desc_task_71_stage_3"
+msgstr ""
+"Você está tão perto, se você completar a tarefa de derrotar muitos neithal "
+"golems você será aceito nos Cavaleiros Ceruleanos!"
+
+msgid "name_task_72"
+msgstr "Jogando deus - título"
+
+msgid "short_desc_task_72"
+msgstr ""
+"Viajai pelo mundo e trazei justiça àqueles de quem desaprovais, somente "
+"então recebereis o título de Guardião dos Destinos."
+
+msgid "short_desc_task_72_stage_1"
+msgstr ""
+"Viajai pelo mundo e trazei justiça àqueles de quem desaprovais, somente "
+"então recebereis o título de Guardião dos Destinos."
+
+msgid "desc_task_72_stage_1"
+msgstr ""
+"Todos têm o seu papel na vida, alguns apenas desempenham um papel mais "
+"importante. As leis variam de lugar para lugar, mas uma coisa que todos têm "
+"em comum é que elas apenas funcionam parcialmente. Isso é algo que te "
+"incomodou muito quando eras criança, ver amigos injustamente punidos, "
+"criminosos a ganhar em tribunal, a lista continua. Eventualmente, fartaste-"
+"te de tudo e decidiste que algo tinha de ser feito se outros não "
+"conseguissem gerir as pessoas correctamente, você... à sua maneira. Não te "
+"consideras um assassino, nem te consideras um benfeitor, apenas consideras-"
+"te necessário. Não há limites para onde vais ou o que vais fazer, mas haverá"
+" justiça."
+
+msgid "short_desc_task_72_stage_2"
+msgstr ""
+"Viajai pelo mundo e trazei justiça àqueles de quem desaprovais, somente "
+"então recebereis o título de Guardião dos Destinos."
+
+msgid "desc_task_72_stage_2"
+msgstr "Viaje para a casa dos goblins da tribo selvagem e faça justiça."
+
+msgid "short_desc_task_72_stage_3"
+msgstr ""
+"Viajai pelo mundo e trazei justiça àqueles de quem desaprovais, somente "
+"então recebereis o título de Guardião dos Destinos."
+
+msgid "desc_task_72_stage_3"
+msgstr ""
+"Os anões de neve são um incómodo constante, mas mesmo em regiões bárbaras "
+"deve ser feita justiça."
+
+msgid "short_desc_task_72_stage_4"
+msgstr ""
+"Viajai pelo mundo e trazei justiça àqueles de quem desaprovais, somente "
+"então recebereis o título de Guardião dos Destinos."
+
+msgid "desc_task_72_stage_4"
+msgstr ""
+"Se ninguém vai enfrentar os minotauros e fazê-los pagar pelas suas más "
+"ações, você não tem escolha senão fazê-lo você mesmo."
+
+msgid "name_task_73"
+msgstr "Predadores do título profundo"
+
+msgid "short_desc_task_73"
+msgstr ""
+"Lute contra os habitantes das profundezas para receber o título Tide Chaser!"
+
+msgid "short_desc_task_73_stage_1"
+msgstr ""
+"Lute contra os habitantes das profundezas para receber o título Tide Chaser!"
+
+msgid "desc_task_73_stage_1"
+msgstr ""
+"Nas profundezas da água do oceano e do sangue entrelaçam-se. Os destroços "
+"decoram o fundo do oceano, dentro de suas cabanas aguardam um tesouro "
+"esquecido há muito tempo, tudo o que resta é para alguém com uma vontade "
+"forte o suficiente para enfrentar as profundezas, superar seus denizens, e "
+"recuperar o que é dele."
+
+msgid "short_desc_task_73_stage_2"
+msgstr ""
+"Lute contra os habitantes das profundezas para receber o título Tide Chaser!"
+
+msgid "desc_task_73_stage_2"
+msgstr "Matayins são muito perigosos na água, caminhe com cuidado."
+
+msgid "short_desc_task_73_stage_3"
+msgstr ""
+"Lute contra os habitantes das profundezas para receber o título Tide Chaser!"
+
+msgid "desc_task_73_stage_3"
+msgstr ""
+"Antes que você possa tentar o desafio náutico final você deve primeiro "
+"superar as serpentes do mar."
+
+msgid "short_desc_task_73_stage_4"
+msgstr ""
+"Lute contra os habitantes das profundezas para receber o título Tide Chaser!"
+
+msgid "desc_task_73_stage_4"
+msgstr ""
+"Está na hora de um verdadeiro desafio, Krakens. Espadas e magia não "
+"servirão, para derrotá-los você precisará de uma nave e tripulação. Preparem"
+" os canhões!"
+
+msgid "name_task_74"
+msgstr "Regicídio em nome da glória - título"
+
+msgid "short_desc_task_74"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "short_desc_task_74_stage_1"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "desc_task_74_stage_1"
+msgstr ""
+"Nem todos os reis governam de forma justa, especialmente quando são "
+"monstros. Sua tarefa é simples, lutar seu caminho através de muitos "
+"cavaleiros e eventualmente matar o rei."
+
+msgid "short_desc_task_74_stage_2"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "desc_task_74_stage_2"
+msgstr ""
+"Cavaleiros negros são construções do mal que ficam no seu caminho, encontrar"
+" uma maneira de dispor deles para continuar a sua busca."
+
+msgid "short_desc_task_74_stage_3"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "desc_task_74_stage_3"
+msgstr ""
+"Cavaleiros das sombras são espadachins de elite e possuem magia negra, não "
+"deixe suas táticas inteligentes enganar você e sempre ter um plano de fuga "
+"pronto."
+
+msgid "short_desc_task_74_stage_4"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "desc_task_74_stage_4"
+msgstr ""
+"Para completar a próxima parte da sua missão, você viajará para uma das "
+"áreas mais perigosas de toda a Agon, o calabouço que procura encontra-se em "
+"algum lugar nos Resíduos Observadores, a região escura no centro do seu "
+"mapa."
+
+msgid "short_desc_task_74_stage_5"
+msgstr ""
+"Faz o que puderes para derrotar o rei e ganhar o título de Kingslayer, mas "
+"não percas um braço no processo."
+
+msgid "desc_task_74_stage_5"
+msgstr ""
+"Os seus braços ainda estão intactos? Ainda bem, vais precisar deles. Cace "
+"reis minotauros para ganhar seu título e recompensas luxuosas. Podem ser "
+"mortais, mas às vezes temos de combater fogo com fogo."
+
+msgid "name_task_75"
+msgstr "Restaurar o equilíbrio - título"
+
+msgid "short_desc_task_75"
+msgstr "Preservar a natureza em sua busca para alcançar o título Tree Hugger."
+
+msgid "short_desc_task_75_stage_1"
+msgstr "Preservar a natureza em sua busca para alcançar o título Tree Hugger."
+
+msgid "desc_task_75_stage_1"
+msgstr ""
+"A natureza é linda. Você adoras pássaros cantigas e cantas ao som deles. "
+"Você encontra comunalidade com as criaturas da floresta e nunca as "
+"prejudica. A paz e a serenidade estão na vanguarda da vossa mente, razão "
+"pela qual lutais com a tarefa à mão. De vez em quando, a natureza está "
+"contaminada, só para piorar com o tempo, à medida que a corrupção se espalha"
+" como uma praga, despojando tudo o que vos é querido. Por mais que você não "
+"goste dele, você tem tomado sobre si mesmo para restaurar o equilíbrio."
+
+msgid "short_desc_task_75_stage_2"
+msgstr "."
+
+msgid "desc_task_75_stage_2"
+msgstr "O próximo passo da vossa missão é eliminar os senhores dos carvalhos."
+
+msgid "short_desc_task_75_stage_3"
+msgstr "."
+
+msgid "desc_task_75_stage_3"
+msgstr ""
+"Os golems florestais são muito perigosos, tenham cuidado e encontrem uma "
+"forma segura de os eliminar."
+
+msgid "short_desc_task_75_stage_4"
+msgstr "."
+
+msgid "desc_task_75_stage_4"
+msgstr ""
+"É isto, tudo aquilo por que trabalhaste. Encontrar e destruir baradrons para"
+" restaurar o equilíbrio da natureza."
+
+msgid "name_task_76"
+msgstr "Estrada de valiance - título"
+
+msgid "short_desc_task_76"
+msgstr ""
+"Enfrente as forças do mal em seu caminho para receber o título de Silver "
+"Star Paladino!"
+
+msgid "short_desc_task_76_stage_1"
+msgstr ""
+"Enfrente as forças do mal em seu caminho para receber o título de Silver "
+"Star Paladino!"
+
+msgid "desc_task_76_stage_1"
+msgstr ""
+"As Estrelas de Prata são um grupo de paladinos conhecidos por serem caridosos, cuidar dos pobres, cuidar dos doentes e manter o mal afastado. A organização é dirigida em grande parte com base na confiança e requer recrutas para reunir riquezas de forças do mal para financiar seus atos de boa vontade.\n"
+" Quando você vê uma estrela de prata acima de uma porta, você sabe que você veio ao lugar certo para receber ajuda, se a sua causa for considerada digna. As Estrelas de Prata são mantidas em alta consideração entre as pessoas e muitas vezes recebem presentes generosos da nobreza."
+
+msgid "short_desc_task_76_stage_2"
+msgstr ""
+"Enfrente as forças do mal em seu caminho para receber o título de Silver "
+"Star Paladino!"
+
+msgid "desc_task_76_stage_2"
+msgstr ""
+"Você tem feito muito para se tornar um membro pleno, tudo o que resta é se "
+"opor aos Filhos de Ochran, colocá-los para descansar, e recuperar riqueza "
+"suficiente para ajudar a causa."
+
+msgid "name_task_77"
+msgstr "Balançando e rolando"
+
+msgid "short_desc_task_77"
+msgstr ""
+"Pedras obliteradas em abundância para receber o título de Quebra-Pedras!"
+
+msgid "short_desc_task_77_stage_1"
+msgstr ""
+"Pedras obliteradas em abundância para receber o título de Quebra-Pedras!"
+
+msgid "desc_task_77_stage_1"
+msgstr ""
+"Há algo de satisfatório em esmagar coisas. Não entraste neste negócio pelo "
+"dinheiro, mas para provar um ponto. És a pessoa mais forte por perto, a mais"
+" dura, e a última que alguém deve perturbar."
+
+msgid "name_task_78"
+msgstr "Campanha selvagem - título"
+
+msgid "short_desc_task_78"
+msgstr "Mostre sua brutalidade para ganhar o título de Gut Spiller."
+
+msgid "short_desc_task_78_stage_1"
+msgstr "Mostre sua brutalidade para ganhar o título de Gut Spiller."
+
+msgid "desc_task_78_stage_1"
+msgstr ""
+"Dizem que o combate traz à tona o pior nas pessoas, sangue, violência e "
+"morte. Há aqueles que o levam a novos extremos, encontrando as formas mais "
+"selvagens de se livrarem de seus inimigos, com uma brutalidade que poucos "
+"conseguem entender. Decapitações, esfolando a carne de inimigos caídos, até "
+"mesmo arrancando suas entranhas para fora e elevando-as acima de sua cabeça "
+"enquanto você grita em pura raiva e felicidade vitoriosa."
+
+msgid "short_desc_task_78_stage_2"
+msgstr "Mostre sua brutalidade para ganhar o título de Gut Spiller."
+
+msgid "desc_task_78_stage_2"
+msgstr ""
+"Guardas de pedra são ainda mais perigosos do que o que encontraram até "
+"agora, estejam prontos para tudo e preparados para o pior."
+
+msgid "short_desc_task_78_stage_3"
+msgstr "Mostre sua brutalidade para ganhar o título de Gut Spiller."
+
+msgid "desc_task_78_stage_3"
+msgstr ""
+"Menhir sentinelas são os adversários perfeitos para testar suas habilidades "
+"e colocar em uma exibição brutal que todos devem lembrar."
+
+msgid "name_task_79"
+msgstr "Solavanco no título da noite"
+
+msgid "short_desc_task_79"
+msgstr ""
+"Mate as criaturas da noite para receber recompensas sombrias, incluindo o "
+"título Night Stalker!"
+
+msgid "short_desc_task_79_stage_1"
+msgstr ""
+"Mate as criaturas da noite para receber recompensas sombrias, incluindo o "
+"título Night Stalker!"
+
+msgid "desc_task_79_stage_1"
+msgstr ""
+"Sob o cobertor de criaturas noturnas noturnas emergem para banquetear - se "
+"de presas insuspeitas. Você deve esperar até que o sol se acalme, atraí-los "
+"para fora, e matá-los. Só então serás recompensado com um presente bem "
+"escuro."
+
+msgid "short_desc_task_79_stage_2"
+msgstr ""
+"Mate as criaturas da noite para receber recompensas sombrias, incluindo o "
+"título Night Stalker!"
+
+msgid "desc_task_79_stage_2"
+msgstr ""
+"As bruxas da noite são criaturas sinuosas cheias de ódio, não lhes mostrem "
+"misericórdia."
+
+msgid "short_desc_task_79_stage_3"
+msgstr ""
+"Mate as criaturas da noite para receber recompensas sombrias, incluindo o "
+"título Night Stalker!"
+
+msgid "desc_task_79_stage_3"
+msgstr ""
+"Os Thainlords são bem treinados e utilizam táticas passadas por gerações. Se"
+" você puder se livrar deles você terá ganhado o título de Perseguidor "
+"Noturno."
+
+msgid "name_task_66"
+msgstr "Agenda malévola - título"
+
+msgid "short_desc_task_66"
+msgstr ""
+"Vingue as mortes de guerreiros caídos e inocentes, só então você receberá o "
+"título de Vingador Pesadelo."
+
+msgid "short_desc_task_66_stage_1"
+msgstr ""
+"Vingue as mortes de guerreiros caídos e inocentes, só então você receberá o "
+"título de Vingador Pesadelo."
+
+msgid "desc_task_66_stage_1"
+msgstr ""
+"Agon é um lugar escuro e distorcido. Um lugar cheio de criaturas más que não"
+" mostram misericórdia ou remorso. Viajar para os lugares selvagens vilgaunts"
+" chamar casa, descartá-los e acabar com o pesadelo."
+
+msgid "name_task_33"
+msgstr "Ocupação perigosa - título"
+
+msgid "short_desc_task_33"
+msgstr ""
+"Vá em uma aventura de caça ao túmulo para desbloquear o título Tomb Raider!"
+
+msgid "short_desc_task_33_stage_1"
+msgstr ""
+"Vá em uma aventura de caça ao túmulo para desbloquear o título Tomb Raider!"
+
+msgid "desc_task_33_stage_1"
+msgstr ""
+"Nos tempos antigos, os faraós eram colocados em túmulos, trancados longe do "
+"mundo para descansar com o vasto tesouro que acumulavam durante o seu "
+"governo. Este é exatamente o tipo de oportunidade que você prospera. Você "
+"conhece os truques do comércio, onde olhar, com quem falar, que tipo de "
+"perigo espreita no túmulo. Nunca é, nunca uma tarefa simples, túmulos são "
+"altamente perigosos, mas altamente rentável, bem como se você jogar suas "
+"cartas direito."
+
+msgid "name_task_80"
+msgstr "Amizade com animais"
+
+msgid "short_desc_task_80"
+msgstr ""
+"Colhe arbustos de ervas para encontrar steedgrass e ganhar o título "
+"Bushwhacker!"
+
+msgid "short_desc_task_80_stage_1"
+msgstr ""
+"Colhe arbustos de ervas para encontrar steedgrass e ganhar o título "
+"Bushwhacker!"
+
+msgid "desc_task_80_stage_1"
+msgstr ""
+"Os animais adoram comer grass. Não é fácil de encontrar, mas com paciência, "
+"você sempre consegue. Ver e ouvir o prazer dos animais comerem seu lanche "
+"favorito é uma experiência maravilhosa, da qual você pretende desfrutar o "
+"mais frequentemente possível."
+
+msgid "name_task_81"
+msgstr "Escavando artefatos"
+
+msgid "short_desc_task_81"
+msgstr "Vá cavar para ganhar o título de arqueólogo!"
+
+msgid "short_desc_task_81_stage_1"
+msgstr "Vá cavar para ganhar o título de \"Arqueólogo\"!"
+
+msgid "desc_task_81_stage_1"
+msgstr ""
+"Como as raízes de uma árvore velha, a história de Agon é vasta. Os "
+"remanescentes de civilizações antigas e batalhas há muito esquecidas ainda "
+"jazem sob o solo em que caminhamos, aguardando a descoberta..."
+
+msgid "short_desc_task_81_stage_2"
+msgstr "Vá cavar para ganhar o título de \"Arqueólogo\"!"
+
+msgid "desc_task_81_stage_2"
+msgstr ""
+"Muitas guloseimas são varridas para terra, fazendo das praias um local ideal"
+" para cavar."
+
+msgid "short_desc_task_81_stage_3"
+msgstr "Vá cavar para ganhar o título de \"Arqueólogo\"!"
+
+msgid "desc_task_81_stage_3"
+msgstr ""
+"Cairn é o único lugar onde encontrará argila. Tenha cuidado, porém, você "
+"pode achar que os habitantes não são tão amigáveis..."
+
+msgid "name_task_82"
+msgstr "Vivendo fora da terra"
+
+msgid "short_desc_task_82"
+msgstr "Colete mirtilos para ganhar o título Forager!"
+
+msgid "short_desc_task_82_stage_1"
+msgstr "Colete mirtilos para ganhar o título Forager!"
+
+msgid "desc_task_82_stage_1"
+msgstr ""
+"Pegar bagas é muito divertido, e ver sua cesta lentamente encher-se é "
+"incrível. Por que gastar seu ouro duramente ganho em algo que você pode "
+"adquirir de graça?"
+
+msgid "name_task_83"
+msgstr "Milagreiro"
+
+msgid "short_desc_task_83"
+msgstr "Colete ervas para ganhar o título de herbalista!"
+
+msgid "short_desc_task_83_stage_1"
+msgstr "Colete ervas para ganhar o título de herbalista!"
+
+msgid "desc_task_83_stage_1"
+msgstr ""
+"As ervas são coisas maravilhosas. Quer alguém esteja doente, deprimido ou "
+"nervoso, tudo pode desaparecer com a mistura certa. Você fornece o que as "
+"pessoas precisam e quer gostem de seus preços ou não, elas dependem de você "
+"para cuidar deles."
+
+msgid "name_task_84"
+msgstr "Só o melhor"
+
+msgid "short_desc_task_84"
+msgstr ""
+"Hora de ir para a floresta e recolher mogno, recolher o suficiente e ganhar "
+"o título de Guardião do Grove!"
+
+msgid "short_desc_task_84_stage_1"
+msgstr ""
+"Hora de ir para a floresta e recolher mogno, recolher o suficiente e ganhar "
+"o título de Guardião do Grove!"
+
+msgid "desc_task_84_stage_1"
+msgstr ""
+"O mogno parece crescer apenas nos lugares mais perigosos, mas isso nunca te "
+"dissuadiu. Dizem que vale a pena lutar pelo que vale a pena, você sempre "
+"achou isso verdade. Não se deve apenas ao fato de que o mogno é uma "
+"mercadoria preciosa, mas também porque você encontra consolo na floresta."
+
+msgid "name_task_85"
+msgstr "Captura premiada"
+
+msgid "short_desc_task_85"
+msgstr "Vá pescar lagosta para ganhar o título Pescador Mar Profundo!"
+
+msgid "short_desc_task_85_stage_1"
+msgstr "Vá pescar lagosta para ganhar o título Pescador Mar Profundo!"
+
+msgid "desc_task_85_stage_1"
+msgstr ""
+"Lagostas são uma comida favorita em todo Agon, e lagostas tendem a fazer bem"
+" para si mesmos financeiramente. Seja sua ocupação ou hobby, requer grande "
+"aptidão e diligência do homem da água."
+
+msgid "name_task_86"
+msgstr "Depósitos ricos"
+
+msgid "short_desc_task_86"
+msgstr ""
+"Pegue sua picareta e colhe algum calcário para ganhar o título Rockhound!"
+
+msgid "short_desc_task_86_stage_1"
+msgstr ""
+"Pegue sua picareta e colhe algum calcário para ganhar o título Rockhound!"
+
+msgid "desc_task_86_stage_1"
+msgstr ""
+"Nos velhos tempos, isto era apenas um hobby. Você começou coletando pedras "
+"brilhantes e construindo sua coleção, mas uma vez que você percebeu o valor "
+"do calcário tornou-se uma transição rápida e óbvia. Um dos aspectos mais "
+"satisfatórios é que seus esforços ajudam outros a construir suas casas, "
+"tornando toda a experiência mais recompensadora do que apenas o lucro, mas o"
+" lucro nunca dói."
+
+msgid "name_task_87"
+msgstr "Dente doce"
+
+msgid "short_desc_task_87"
+msgstr "Colete morangos para ganhar o título Sweet!"
+
+msgid "short_desc_task_87_stage_1"
+msgstr "Colete morangos para ganhar o título Sweet!"
+
+msgid "desc_task_87_stage_1"
+msgstr ""
+"Tortas, tartes, bolos... A alegria de comer sobremesas é pura felicidade. Se"
+" você está cozinhando para si mesmo ou fornecendo um petisco salgado para "
+"seus amigos, você tem o cuidado de adquirir os ingredientes da mais alta "
+"qualidade."
+
+msgid "name_task_88"
+msgstr "Uma alma corajosa"
+
+msgid "short_desc_task_88"
+msgstr "Levante-se para o desafio de ganhar o título de Lobo Branco!"
+
+msgid "short_desc_task_88_stage_1"
+msgstr "Levante-se para o desafio de ganhar o título de Lobo Branco!"
+
+msgid "desc_task_88_stage_1"
+msgstr ""
+"Sua educação foi uma mistura de bênçãos e maldições, levando-o a viver uma "
+"vida caótica, mas emocionante. Conseguistes ganhar o respeito das massas e o"
+" vosso nome é de grande reputação, mas em breve poderá tornar-se lendário."
+
+msgid "short_desc_task_88_stage_2"
+msgstr "Levante-se para o desafio de ganhar o título de Lobo Branco!"
+
+msgid "desc_task_88_stage_2"
+msgstr ""
+"Procurem e destruam os Senhores da Sepultura, o seu mal tem de acabar!"
+
+msgid "short_desc_task_88_stage_3"
+msgstr "Levante-se para o desafio de ganhar o título de Lobo Branco!"
+
+msgid "desc_task_88_stage_3"
+msgstr ""
+"Derrota os homens do seu maior inimigo, mas tem cuidado com a sua "
+"depravação."
+
+msgid "short_desc_task_88_stage_4"
+msgstr "Levante-se para o desafio de ganhar o título de Lobo Branco!"
+
+msgid "desc_task_88_stage_4"
+msgstr ""
+"Superar probabilidades aparentemente impossíveis por derrubar o gigante!"
+
+msgid "name_task_89"
+msgstr "Arte da espada"
+
+msgid "short_desc_task_89"
+msgstr ""
+"Lute seu caminho através de grupos de snowclans para receber o título de "
+"Artista de Espada."
+
+msgid "short_desc_task_89_stage_1"
+msgstr ""
+"Lute seu caminho através de grupos de snowclans para receber o título de "
+"Artista de Espada."
+
+msgid "desc_task_89_stage_1"
+msgstr ""
+"A vida é cheia de surpresas, às vezes parece um jogo, outras vezes você se "
+"sente preso e procura escapar. Ao longo de tudo, você descobriu que o "
+"domínio da espada é a sua verdadeira vocação, e não há ninguém lá fora que "
+"possa corresponder ao seu grau de domínio. Cada ataque bem sucedido com "
+"grandes espadas dará progresso."
+
+msgid "name_task_90"
+msgstr "Coroação bárbara"
+
+msgid "short_desc_task_90"
+msgstr ""
+"Minotauros de abate para ganhar o título de Rei da Vaca! (ou Rainha da "
+"Vaca!)"
+
+msgid "short_desc_task_90_stage_1"
+msgstr ""
+"Minotauros de abate para ganhar o título de Rei da Vaca! (ou Rainha da "
+"Vaca!)"
+
+msgid "desc_task_90_stage_1"
+msgstr ""
+"Fica um pouco e ouve. Houve rumores de um lugar secreto cheio de saques e "
+"insanidade total. Embora não tenha nenhum problema com os habitantes, "
+"decidiu ordenhá - lo para todo o bem. No final, fazes o que te compete."
+
+msgid "name_task_91"
+msgstr "Beleza no campo de batalha"
+
+msgid "short_desc_task_91"
+msgstr "Elimine Akatars para receber o título de Anjo da Guerra."
+
+msgid "short_desc_task_91_stage_1"
+msgstr "Elimine Akatars para receber o título de Anjo da Guerra."
+
+msgid "desc_task_91_stage_1"
+msgstr ""
+"Você é conhecido por sua beleza e graça, muitos pensam que você não "
+"machucaria uma mosca. Muitos estão errados. A batalha pode não ser bonita, "
+"mas é o que faz você se sentir vivo, não há maior pressa do que lutar por "
+"uma causa em que você acredita e viver para contar a história."
+
+msgid "name_task_92"
+msgstr "Cérebros sobre músculos"
+
+msgid "short_desc_task_92"
+msgstr ""
+"Prove que o cérebro supera os músculos para ganhar o título de Mastermind!"
+
+msgid "short_desc_task_92_stage_1"
+msgstr ""
+"Prove que o cérebro supera os músculos para ganhar o título de Matermind!"
+
+msgid "desc_task_92_stage_1"
+msgstr ""
+"Você é zombado por sua pequena estatura e duvidado por muitos, mas isso "
+"nunca o impediu de conseguir o que quer. Na verdade, você aprecia o desafio "
+"e quando é tudo dito e feito, geralmente é você que faz a zombaria. Cada "
+"ataque bem sucedido com parafuso amaldiçoado dará progresso."
+
+msgid "name_task_93"
+msgstr "Chamas de destruição"
+
+msgid "short_desc_task_93"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "short_desc_task_93_stage_1"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "desc_task_93_stage_1"
+msgstr ""
+"Você tem um temperamento ardente e uma reputação de ser destrutivo. "
+"Diplomacia e razão não são seus pontos fortes, em vez disso, você prefere "
+"jogar desperdício para qualquer pessoa ou qualquer coisa que fica no seu "
+"caminho."
+
+msgid "short_desc_task_93_stage_2"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "desc_task_93_stage_2"
+msgstr "Atenção ao desafio dos golems de lava!"
+
+msgid "short_desc_task_93_stage_3"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "desc_task_93_stage_3"
+msgstr ""
+"Os Firescourges são os próximos, pode provar as suas proezas de combate?"
+
+msgid "short_desc_task_93_stage_4"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "desc_task_93_stage_4"
+msgstr ""
+"Sobreviver contra os erodachs, ver o que você pode aprender, e voltar para "
+"casa com ainda maior poder."
+
+msgid "short_desc_task_93_stage_5"
+msgstr "Liberte sua ira para ganhar o título de Flameweaver!"
+
+msgid "desc_task_93_stage_5"
+msgstr ""
+"O jogo acabou de se tornar muito mais mortal. Combater o dragão de fogo, só "
+"então você ganhará o verdadeiro domínio da chama."
+
+msgid "name_task_94"
+msgstr "Naufrágio"
+
+msgid "short_desc_task_94"
+msgstr "Persevere através de vários desafios para ganhar o título Pirate!"
+
+msgid "short_desc_task_94_stage_1"
+msgstr "Persevere através de vários desafios para ganhar o título Pirate!"
+
+msgid "desc_task_94_stage_1"
+msgstr ""
+"A sua vida está cheia de perigo e excitação. Destruir navios comerciais e "
+"invadir cidades costeiras são alguns dos seus passatempos favoritos, você "
+"também gosta de contar o seu ouro. Depois de perder seu navio em uma batalha"
+" particularmente desagradável você decidiu fazer alguns favores em troca de "
+"materiais para construir um novo navio, e o primeiro favor envolve a caça de"
+" brownie, o que vem a seguir é o palpite de alguém."
+
+msgid "short_desc_task_94_stage_2"
+msgstr "Persevere através de vários desafios para ganhar o título Pirate!"
+
+msgid "desc_task_94_stage_2"
+msgstr ""
+"Não foi preciso muito para convencê-lo a ensinar uma lição a alguns dos seus"
+" inimigos mais odiados, a tripulação de ossos é tudo o que está entre você e"
+" uma enorme pilha de materiais de construção de navios."
+
+msgid "short_desc_task_94_stage_3"
+msgstr "Persevere através de vários desafios para ganhar o título Pirate!"
+
+msgid "desc_task_94_stage_3"
+msgstr ""
+"A sua próxima missão deu-te uma pausa, os Seaerpents são muito perigosos, "
+"mas não são nada comparados com a sua tripulação, por isso, se conseguires "
+"lidar com eles, isto não deve ser um desafio."
+
+msgid "short_desc_task_94_stage_4"
+msgstr "Persevere através de vários desafios para ganhar o título Pirate!"
+
+msgid "desc_task_94_stage_4"
+msgstr ""
+"Está na hora de enfrentar a monstruosidade final do mar aberto. Está na hora"
+" de reunires a sua equipe e veres do que és capaz!"
+
+msgid "name_task_95"
+msgstr "Segredos da chama"
+
+msgid "short_desc_task_95"
+msgstr ""
+"Descubra os segredos dentro da chama e faça o que deve ser feito, só então "
+"você vai adquirir o título de Sacerdotisa Vermelha! (ou Sacerdote Vermelho!)"
+
+msgid "short_desc_task_95_stage_1"
+msgstr ""
+"Descubra os segredos dentro da chama e faça o que deve ser feito, só então "
+"você vai adquirir o título de Sacerdotisa Vermelha! (ou Sacerdote Vermelho!)"
+
+msgid "desc_task_95_stage_1"
+msgstr ""
+"Há aqueles que duvidam de seus métodos, mas você é geralmente bem recebido. "
+"É verdade que, para alcançar as maiores vitórias, é preciso fazer "
+"sacrifícios. Tais meios não são para os fracos de coração, são precisamente "
+"para aqueles com grande coragem interior. Cada ataque bem sucedido com "
+"firebolt dará progresso."
+
+msgid "name_task_96"
+msgstr "Caça à presa"
+
+msgid "short_desc_task_96"
+msgstr ""
+"Melhore suas habilidades no Nahdruk para ganhar o título de Assassino!"
+
+msgid "short_desc_task_96_stage_1"
+msgstr ""
+"Melhore suas habilidades no Nahdruk para ganhar o título de Assassino!"
+
+msgid "desc_task_96_stage_1"
+msgstr ""
+"Ah, os nahdruk, eles pensam tão bem de si mesmos. Poderoso em combate "
+"marcial, magia impressionante, táticas bem organizadas... os alvos perfeitos"
+" para aprimorar suas habilidades. Não será fácil, não será seguro, mas será "
+"glorioso. Se conseguires assassinar o Nahdruk, pode assassinar qualquer um. "
+"Não há tempo como o presente. Cada ataque bem sucedido com facas trará "
+"progresso."
+
+msgid "name_task_97"
+msgstr "Espada para alugar"
+
+msgid "short_desc_task_97"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "short_desc_task_97_stage_1"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_1"
+msgstr ""
+"A vida em fuga é difícil, especialmente sem lugar para chamar de casa e "
+"poucas pessoas em quem você pode confiar. Passa-se simplesmente por meios "
+"criminosos e, com o tempo, sente-se cada vez menos remorso pelas vidas que "
+"tirou."
+
+msgid "short_desc_task_97_stage_2"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_2"
+msgstr ""
+"A vida de um mercenário nunca é fácil. Você será bem pago por lutar contra "
+"os Profetas da Floresta."
+
+msgid "short_desc_task_97_stage_3"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_3"
+msgstr ""
+"Descobriste uma recompensa sedutora por matar Ork párias, recolhe-a antes "
+"que outra pessoa o faça."
+
+msgid "short_desc_task_97_stage_4"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_4"
+msgstr ""
+"Os Svartdvergirs não estão a tramar nada de bom, mas o que mais é novo? "
+"Caça-os para recolher a recompensa e encher-te a barriga."
+
+msgid "short_desc_task_97_stage_5"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_5"
+msgstr ""
+"As oportunidades estão sempre disponíveis para aqueles dispostos a sujar as "
+"mãos, essas bestas da Lua não merecem viver de qualquer maneira."
+
+msgid "short_desc_task_97_stage_6"
+msgstr "Faça trabalho mercenário em seu caminho para o título Outlaw!"
+
+msgid "desc_task_97_stage_6"
+msgstr ""
+"Outra recompensa está disponível, desta vez para matar Melechars. Cuidado, "
+"eles são conhecidos por serem inimigos traiçoeiros."
+
+msgid "name_task_98"
+msgstr "Dança com dragões"
+
+msgid "short_desc_task_98"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "short_desc_task_98_stage_1"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_1"
+msgstr ""
+"Embora tenham sido duvidados muitas vezes, sempre emergem vitoriosos e "
+"provam que aqueles que os questionam são tolos. Você é um dos indivíduos "
+"muito raros capazes de se associar com dragões, uma qualidade que tem "
+"provado ser uma bênção tremenda em suas buscas. Embora tenham realizado "
+"muito, há muito a ser feito antes de realizarem os vossos maiores sonhos."
+
+msgid "short_desc_task_98_stage_2"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_2"
+msgstr "Mostre aos Exarchs do Sol que eles não são páreos para você."
+
+msgid "short_desc_task_98_stage_3"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_3"
+msgstr ""
+"Os Dragões Negros são verdadeiramente ameaçadores, mas certamente não se "
+"meterão no vosso caminho."
+
+msgid "short_desc_task_98_stage_4"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_4"
+msgstr ""
+"Viaje para o lugar onde os Gardorocs residem e faça-os curvar-se diante de "
+"sua grandeza."
+
+msgid "short_desc_task_98_stage_5"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_5"
+msgstr ""
+"Mostre ao dragão de fogo que nenhuma chama é intensa o suficiente para "
+"queimá-lo."
+
+msgid "short_desc_task_98_stage_6"
+msgstr "Domine dragões para receber o título Dragon Tamer!"
+
+msgid "desc_task_98_stage_6"
+msgstr ""
+"Foi uma longa viagem, mas é hora de lutar contra Kroshogo, o Dragão de Gelo "
+"e reivindicar tudo o que é seu!"
+
+msgid "name_task_99"
+msgstr "Força imparável"
+
+msgid "short_desc_task_99"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "short_desc_task_99_stage_1"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "desc_task_99_stage_1"
+msgstr ""
+"Você é bem conhecido por seu incrível físico e estatura maciça, mas também "
+"por sua tendência para brutalidade. Vocês superaram muitos desafios épicos, "
+"mas ainda há mais por vir."
+
+msgid "short_desc_task_99_stage_2"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "desc_task_99_stage_2"
+msgstr ""
+"Poucos são capazes de dominar os Escolhidos de Khamset, mas eles não devem "
+"ser nenhum desafio para você."
+
+msgid "short_desc_task_99_stage_3"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "desc_task_99_stage_3"
+msgstr ""
+"Icejarls são alguns dos seres mais maus e poderosos da terra. És "
+"suficientemente poderoso para derrubá-los?"
+
+msgid "short_desc_task_99_stage_4"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "desc_task_99_stage_4"
+msgstr "Cairn gigantes serão inimigos assustadores... aniquilá-los."
+
+msgid "short_desc_task_99_stage_5"
+msgstr ""
+"Triunfo como um gigante entre gigantes para ganhar o título de Montanha!"
+
+msgid "desc_task_99_stage_5"
+msgstr ""
+"O seu teste final será ir aos dedos dos pés com gigantes de fogo, consegues "
+"superar a ira deles?"
+
+msgid "name_task_100"
+msgstr "Iniciante - Akathar caça"
+
+msgid "short_desc_task_100"
+msgstr "Matai akathars!"
+
+msgid "short_desc_task_100_stage_1"
+msgstr "Matai akathars!"
+
+msgid "desc_task_100_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_101"
+msgstr "Carnificina de aracnídeo"
+
+msgid "short_desc_task_101"
+msgstr "Matem rainhas demoníacas para ganhar o título de Aranha!"
+
+msgid "short_desc_task_101_stage_1"
+msgstr "Matem rainhas demoníacas para ganhar o título de Aranha!"
+
+msgid "desc_task_101_stage_1"
+msgstr ""
+"Nenhuma pessoa normal aceitaria esta missão. As rainhas demoníacas são "
+"metade demónios, metade aranhas, 100% mortais. Existindo desde a antiga era "
+"de Agon, são sobreviventes com grande adaptabilidade. Inteligentes e "
+"sinistras, rainhas demoníacas caçam agonianos e se banqueteiam com seu "
+"terror. É preciso uma compreensão profunda das aranhas para derrotá-las no "
+"seu domínio. Matar 400 deles parece natural para você, isso vai provar que "
+"você é digno do título de \"A Aranha\"."
+
+msgid "name_task_102"
+msgstr "Expiação - título"
+
+msgid "short_desc_task_102"
+msgstr "Mate os olhos maus para receber o título Redentor!"
+
+msgid "short_desc_task_102_stage_1"
+msgstr "Mate os olhos maus para receber o título Redentor!"
+
+msgid "desc_task_102_stage_1"
+msgstr ""
+"Há muito tempo que cometeu um crime horrível, a sua reputação parecia estar "
+"permanentemente manchada. Tudo isso mudou quando monstros começaram a matar "
+"pessoas inocentes na sua comunidade. Sem mais ninguém para se voltar para os"
+" outros, percebeu que eras a única esperança deles. Esta é a sua "
+"oportunidade de expiar os seus crimes, tudo o que tem de fazer é caçar e "
+"matar os monstros conhecidos como olhos maus."
+
+msgid "name_task_103"
+msgstr "Caça grande jogo"
+
+msgid "short_desc_task_103"
+msgstr "Mata alce para ganhar o título de Moose Mangler!"
+
+msgid "short_desc_task_103_stage_1"
+msgstr "Mata alce para ganhar o título de Moose Mangler!"
+
+msgid "desc_task_103_stage_1"
+msgstr ""
+"A caça ao alce pode ser bastante agradável, quanto maior o rack, mais bem "
+"sucedida a caça."
+
+msgid "name_task_104"
+msgstr "Iniciante - osso cavaleiro caça"
+
+msgid "short_desc_task_104"
+msgstr "Matem cavaleiros de ossos!"
+
+msgid "short_desc_task_104_stage_1"
+msgstr "Matem cavaleiros de ossos!"
+
+msgid "desc_task_104_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_105"
+msgstr "Iniciante - quebradiço esqueleto caça"
+
+msgid "short_desc_task_105"
+msgstr "Matem esqueletos quebradiços!"
+
+msgid "short_desc_task_105_stage_1"
+msgstr "Matem esqueletos quebradiços!"
+
+msgid "desc_task_105_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_106"
+msgstr "Iniciante - caça de brownie"
+
+msgid "short_desc_task_106"
+msgstr "Mata brownies!"
+
+msgid "short_desc_task_106_stage_1"
+msgstr "Mata brownies!"
+
+msgid "desc_task_106_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_107"
+msgstr "Frango espancado"
+
+msgid "short_desc_task_107"
+msgstr "Mate galinhas para ganhar o título de Caçador de Frango!"
+
+msgid "short_desc_task_107_stage_1"
+msgstr "Mate galinhas para ganhar o título de Caçador de Frango!"
+
+msgid "desc_task_107_stage_1"
+msgstr ""
+"Uma ninhada maliciosa de galinhas marrons entrou em sua casa e sujou seu "
+"tapete. Esta não foi a primeira vez que atacaram, mas será a última."
+
+msgid "name_task_108"
+msgstr "Conforto e apelência"
+
+msgid "short_desc_task_108"
+msgstr "Colete algodão para ganhar o título Clothier!"
+
+msgid "short_desc_task_108_stage_1"
+msgstr "Colete algodão para ganhar o título Clothier!"
+
+msgid "desc_task_108_stage_1"
+msgstr ""
+"Você é um especialista em roupas, sabendo como se vestir bem e "
+"confortavelmente. Roupas são a sua paixão e você gosta de fazer roupas finas"
+" para si mesmo, bem como outros. Para continuar sua perseguição, você "
+"decidiu ir em uma viagem para coletar uma abundância de suprimentos. Recolha"
+" de vinte mil algodão de seus arbustos não é tarefa fácil, mas para você, só"
+" parece natural. Prove que você ama o que você faz, as pessoas em todo Agon "
+"vão conhecê-lo como o Clothier."
+
+msgid "name_task_109"
+msgstr "Desejo de morte"
+
+msgid "short_desc_task_109"
+msgstr "Mate cairn gigantes para ganhar o título de Dançarino da Morte!"
+
+msgid "short_desc_task_109_stage_1"
+msgstr "Mate cairn gigantes para ganhar o título de Dançarino da Morte!"
+
+msgid "desc_task_109_stage_1"
+msgstr ""
+"Muitas pessoas em Agon consideram um desejo de morte desafiar um gigante "
+"cairn mas você não é um lutador comum, você é um veterano. É preciso "
+"astúcia, agilidade e poder para derrotar um gigante cairn, tudo o que você "
+"possui. Uma tarefa perigosa está à frente, você deve procurar seus "
+"acampamentos e diminuir sua população. Matar 400 cairn gigantes pode ser uma"
+" viagem cedo para a sepultura, mas você é destemido. O sucesso será uma "
+"grande conquista, ganhando-lhe uma reputação como \"O Dançarino da Morte\"."
+
+msgid "name_task_110"
+msgstr "Iniciante - terrível caça zumbi"
+
+msgid "short_desc_task_110"
+msgstr "Matam zombies terríveis!"
+
+msgid "short_desc_task_110_stage_1"
+msgstr "Matam zombies terríveis!"
+
+msgid "desc_task_110_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_111"
+msgstr "Iniciante - caça aranha fantasma"
+
+msgid "short_desc_task_111"
+msgstr "Matem aranhas fantasmas!"
+
+msgid "short_desc_task_111_stage_1"
+msgstr "Matem aranhas fantasmas!"
+
+msgid "desc_task_111_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_112"
+msgstr "Iniciante - caça devorador de ghoul"
+
+msgid "short_desc_task_112"
+msgstr "Devoradores de ghouls!"
+
+msgid "short_desc_task_112_stage_1"
+msgstr "Devoradores de ghouls!"
+
+msgid "desc_task_112_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_113"
+msgstr "Iniciante - caça aranha gigante"
+
+msgid "short_desc_task_113"
+msgstr "Matem aranhas gigantes!"
+
+msgid "short_desc_task_113_stage_1"
+msgstr "Matem aranhas gigantes!"
+
+msgid "desc_task_113_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_114"
+msgstr "Iniciante - caça marauder goblin"
+
+msgid "short_desc_task_114"
+msgstr "Saqueadores de duendes!"
+
+msgid "short_desc_task_114_stage_1"
+msgstr "Saqueadores de duendes!"
+
+msgid "desc_task_114_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_115"
+msgstr "Iniciante - maior caça ao servo"
+
+msgid "short_desc_task_115"
+msgstr "Matem servos maiores!"
+
+msgid "short_desc_task_115_stage_1"
+msgstr "Matem servos maiores!"
+
+msgid "desc_task_115_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_116"
+msgstr "Iniciante - caça à aranha peluda"
+
+msgid "short_desc_task_116"
+msgstr "Matem aranhas peludas!"
+
+msgid "short_desc_task_116_stage_1"
+msgstr "Matem aranhas peludas!"
+
+msgid "desc_task_116_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_117"
+msgstr "A meio caminho da insanidade - título"
+
+msgid "short_desc_task_117"
+msgstr "Caçar os encapuzados numa tentativa de roubar o seu poder."
+
+msgid "short_desc_task_117_stage_1"
+msgstr "Caçar os encapuzados numa tentativa de roubar o seu poder."
+
+msgid "desc_task_117_stage_1"
+msgstr ""
+"Há muita especulação sobre a origem dos encapuzados. Estas almas abandonadas"
+" estão condenadas para a eternidade. Há aqueles que crêem que, se olharem "
+"para seus olhos mortos - vivos, serão capazes de roubar o poder profano que "
+"os encapuzados possuem. Aqueles que têm a sorte de sobreviver são sempre "
+"distorcidos e se a sua busca foi ou não bem sucedida é o palpite de alguém."
+
+msgid "name_task_118"
+msgstr "Iniciante - heielhim caça"
+
+msgid "short_desc_task_118"
+msgstr "Matem Heielhims!"
+
+msgid "short_desc_task_118_stage_1"
+msgstr "Matem Heielhims!"
+
+msgid "desc_task_118_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_119"
+msgstr "Iniciante - caça ao soldado colmeia"
+
+msgid "short_desc_task_119"
+msgstr "Matem soldados hivekins!"
+
+msgid "short_desc_task_119_stage_1"
+msgstr "Matem soldados hivekins!"
+
+msgid "desc_task_119_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_120"
+msgstr "Iniciante - hivekin ninhada caça"
+
+msgid "short_desc_task_120"
+msgstr "Matem as crias de colmeias!"
+
+msgid "short_desc_task_120_stage_1"
+msgstr "Matem as crias de colmeias!"
+
+msgid "desc_task_120_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_121"
+msgstr "Iniciante - hivekin caça forrageira"
+
+msgid "short_desc_task_121"
+msgstr "Forrageiros de colmeias!"
+
+msgid "short_desc_task_121_stage_1"
+msgstr "Forrageiros de colmeias!"
+
+msgid "desc_task_121_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_122"
+msgstr "Iniciante - caça rainha colmeia"
+
+msgid "short_desc_task_122"
+msgstr "Matem as rainhas colmeias!"
+
+msgid "short_desc_task_122_stage_1"
+msgstr "Matem as rainhas colmeias!"
+
+msgid "desc_task_122_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_123"
+msgstr "Iniciante - hobgoblin grunhido caça"
+
+msgid "short_desc_task_123"
+msgstr "Matem o Hobgoblin!"
+
+msgid "short_desc_task_123_stage_1"
+msgstr "Matem o Hobgoblin!"
+
+msgid "desc_task_123_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_124"
+msgstr "Honra e valor - título"
+
+msgid "short_desc_task_124"
+msgstr "Matem gigantes de fogo para receber o título de Samurai!"
+
+msgid "short_desc_task_124_stage_1"
+msgstr "Matem gigantes de fogo para receber o título de Samurai!"
+
+msgid "desc_task_124_stage_1"
+msgstr ""
+"Coragem, compaixão e lealdade são algumas de suas virtudes. Superar "
+"probabilidades impossíveis é algo pelo qual você é bem conhecido. Devido a "
+"isso, não foi nenhuma surpresa para ninguém quando você avançou para "
+"desafiar uma tribo particularmente temível de saqueadores gigantes de fogo. "
+"Mostra-lhes a habilidade que tem e a nitidez da sua lâmina."
+
+msgid "name_task_125"
+msgstr "No seu elemento"
+
+msgid "short_desc_task_125"
+msgstr "Mate elementares para ganhar o título de Mestre dos Elementos!"
+
+msgid "short_desc_task_125_stage_1"
+msgstr "Mate elementares para ganhar o título de Mestre dos Elementos!"
+
+msgid "desc_task_125_stage_1"
+msgstr ""
+"Ar, terra, fogo e água, os quatro elementos. Diz - se que todas as "
+"características de caráter podem ser rastreadas até um destes quatro, "
+"incluindo traços negativos, tais como gula e ódio. Superar as fragilidades "
+"da humanidade só pode ser alcançado por enfrentá - las diretamente. Por "
+"eliminar os próprios elementos, você pode assim se livrar de todas as "
+"falhas, ou assim foi dito."
+
+msgid "short_desc_task_125_stage_2"
+msgstr "Mate elementares para ganhar o título de Mestre dos Elementos!"
+
+msgid "desc_task_125_stage_2"
+msgstr ""
+"Ar, terra, fogo e água, os quatro elementos. Diz - se que todas as "
+"características de caráter podem ser rastreadas até um destes quatro, "
+"incluindo traços negativos, tais como gula e ódio. Superar as fragilidades "
+"da humanidade só pode ser alcançado por enfrentá - las diretamente. Por "
+"eliminar os próprios elementos, você pode assim se livrar de todas as "
+"falhas, ou assim foi dito."
+
+msgid "short_desc_task_125_stage_3"
+msgstr "Mate elementares para ganhar o título de Mestre dos Elementos!"
+
+msgid "desc_task_125_stage_3"
+msgstr ""
+"Ar, terra, fogo e água, os quatro elementos. Diz - se que todas as "
+"características de caráter podem ser rastreadas até um destes quatro, "
+"incluindo traços negativos, tais como gula e ódio. Superar as fragilidades "
+"da humanidade só pode ser alcançado por enfrentá - las diretamente. Por "
+"eliminar os próprios elementos, você pode assim se livrar de todas as "
+"falhas, ou assim foi dito."
+
+msgid "short_desc_task_125_stage_4"
+msgstr "Mate elementares para ganhar o título de Mestre dos Elementos!"
+
+msgid "desc_task_125_stage_4"
+msgstr ""
+"Ar, terra, fogo e água, os quatro elementos. Diz - se que todas as "
+"características de caráter podem ser rastreadas até um destes quatro, "
+"incluindo traços negativos, tais como gula e ódio. Superar as fragilidades "
+"da humanidade só pode ser alcançado por enfrentá - las diretamente. Por "
+"eliminar os próprios elementos, você pode assim se livrar de todas as "
+"falhas, ou assim foi dito."
+
+msgid "name_task_126"
+msgstr "Iniciante - kobold raider caça"
+
+msgid "short_desc_task_126"
+msgstr "Ataquem os invasores kobold!"
+
+msgid "short_desc_task_126_stage_1"
+msgstr "Ataquem os invasores kobold!"
+
+msgid "desc_task_126_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_127"
+msgstr "Iniciante - kobold scrapper caça"
+
+msgid "short_desc_task_127"
+msgstr "Mate os brigões kobolds!"
+
+msgid "short_desc_task_127_stage_1"
+msgstr "Mate os brigões kobolds!"
+
+msgid "desc_task_127_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_128"
+msgstr "Iniciante - kobold scrounger caça"
+
+msgid "short_desc_task_128"
+msgstr "Escroque de Kobold!"
+
+msgid "short_desc_task_128_stage_1"
+msgstr "Escroque de Kobold!"
+
+msgid "desc_task_128_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_129"
+msgstr "Iniciante - caça xamã kobold"
+
+msgid "short_desc_task_129"
+msgstr "Matem os xamãs kobold!"
+
+msgid "short_desc_task_129_stage_1"
+msgstr "Matem os xamãs kobold!"
+
+msgid "desc_task_129_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_130"
+msgstr "Iniciante - caça ao lagarto"
+
+msgid "short_desc_task_130"
+msgstr "Matem os lagartos!"
+
+msgid "short_desc_task_130_stage_1"
+msgstr "Matem os lagartos!"
+
+msgid "desc_task_130_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_131"
+msgstr "A sorte acaba"
+
+msgid "short_desc_task_131"
+msgstr "Mata raposas para ganhar o título de Raposa!"
+
+msgid "short_desc_task_131_stage_1"
+msgstr "Mata raposas para ganhar o título de Raposa!"
+
+msgid "desc_task_131_stage_1"
+msgstr ""
+"As raposas são conhecidas por serem bonitas, sortudas e inteligentes. Ser "
+"capaz de vencê-los em seu próprio jogo é uma tarefa assustadora, você está "
+"pronto para isso?"
+
+msgid "name_task_132"
+msgstr "Iniciante - caça manscorpion"
+
+msgid "short_desc_task_132"
+msgstr "Manscorpiões mortos!"
+
+msgid "short_desc_task_132_stage_1"
+msgstr "Manscorpiões mortos!"
+
+msgid "desc_task_132_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_133"
+msgstr "Dominar as artes das trevas"
+
+msgid "short_desc_task_133"
+msgstr ""
+"Atire varangianos com parafuso amaldiçoado para ganhar o título de "
+"Necromante!"
+
+msgid "short_desc_task_133_stage_1"
+msgstr ""
+"Atire varangianos com parafuso amaldiçoado para ganhar o título de "
+"Necromante!"
+
+msgid "desc_task_133_stage_1"
+msgstr ""
+"Você é uma pessoa com muitos pensamentos sombrios, tornando-o um natural "
+"para manipular energia profana. Durante o crepúsculo você está mais "
+"confortável e você se sente em casa nas sombras. Muitos consideram-te um "
+"génio, mas isso não é suficiente. Desejas poder e respeito. Está ao seu "
+"alcance, tudo o que tem de fazer é tomá-lo. Viaje para a casa dos "
+"varangianos e necromancia perfeita, batendo-lhes com setenta e quinhentos "
+"parafusos amaldiçoados. Então, as pessoas o conhecerão como \"O "
+"Necromante\"."
+
+msgid "name_task_134"
+msgstr "Iniciante - caça merciano brigão"
+
+msgid "short_desc_task_134"
+msgstr "Lutas contra mercenários!"
+
+msgid "short_desc_task_134_stage_1"
+msgstr "Lutas contra mercenários!"
+
+msgid "desc_task_134_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_135"
+msgstr "Iniciante - mercian estradaman caça"
+
+msgid "short_desc_task_135"
+msgstr "Slay Mercian Roadmen!"
+
+msgid "short_desc_task_135_stage_1"
+msgstr "Slay Mercian Roadmen!"
+
+msgid "desc_task_135_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_136"
+msgstr "Iniciante - caça fora-da-lei merciano"
+
+msgid "short_desc_task_136"
+msgstr "Matam foras-da-lei mercenários!"
+
+msgid "short_desc_task_136_stage_1"
+msgstr "Matam foras-da-lei mercenários!"
+
+msgid "desc_task_136_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_137"
+msgstr "Mineração para ametistas"
+
+msgid "short_desc_task_137"
+msgstr "O meu por ametistas."
+
+msgid "short_desc_task_137_stage_1"
+msgstr "O meu por ametistas."
+
+msgid "desc_task_137_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez anmetistas."
+
+msgid "name_task_138"
+msgstr "Exploração mineira de aventurinas"
+
+msgid "short_desc_task_138"
+msgstr "O meu para aventurinas."
+
+msgid "short_desc_task_138_stage_1"
+msgstr "O meu para aventurinas."
+
+msgid "desc_task_138_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez aventurinos."
+
+msgid "name_task_139"
+msgstr "Mineração de cristais"
+
+msgid "short_desc_task_139"
+msgstr "O meu por cristais."
+
+msgid "short_desc_task_139_stage_1"
+msgstr "O meu por cristais."
+
+msgid "desc_task_139_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez cristais."
+
+msgid "name_task_140"
+msgstr "Mineração de diamantes"
+
+msgid "short_desc_task_140"
+msgstr "O meu por diamantes."
+
+msgid "short_desc_task_140_stage_1"
+msgstr "O meu por diamantes."
+
+msgid "desc_task_140_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez diamantes."
+
+msgid "name_task_141"
+msgstr "Mineração de esmeraldas"
+
+msgid "short_desc_task_141"
+msgstr "O meu por esmeraldas."
+
+msgid "short_desc_task_141_stage_1"
+msgstr "O meu por esmeraldas."
+
+msgid "desc_task_141_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez esmeraldas."
+
+msgid "name_task_142"
+msgstr "Mineração de granadas"
+
+msgid "short_desc_task_142"
+msgstr "O meu por granadas."
+
+msgid "short_desc_task_142_stage_1"
+msgstr "O meu por granadas."
+
+msgid "desc_task_142_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. Seu objetivo é encontrar dez "
+"granadas."
+
+msgid "name_task_143"
+msgstr "Mineração para Leenspar minério"
+
+msgid "short_desc_task_143"
+msgstr "Ir à mineração para leenspar minérios."
+
+msgid "short_desc_task_143_stage_1"
+msgstr "Ir à mineração para leenspar minérios."
+
+msgid "desc_task_143_stage_1"
+msgstr ""
+"Leenspar minério pode ser encontrado na natureza ou em explorações de "
+"jogadores. Vê se consegues recolher 40."
+
+msgid "name_task_144"
+msgstr "Mineração para Neithal minério"
+
+msgid "short_desc_task_144"
+msgstr "Ir à mineração para neithal minérios."
+
+msgid "short_desc_task_144_stage_1"
+msgstr "Ir à mineração para neithal minérios."
+
+msgid "desc_task_144_stage_1"
+msgstr ""
+"Neithal minério pode ser encontrado na natureza ou em explorações de "
+"jogadores. Vê se consegues recolher 40."
+
+msgid "name_task_145"
+msgstr "Mineração para rubis"
+
+msgid "short_desc_task_145"
+msgstr "O meu por rubis."
+
+msgid "short_desc_task_145_stage_1"
+msgstr "O meu por rubis."
+
+msgid "desc_task_145_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez rubis."
+
+msgid "name_task_146"
+msgstr "Mineração para safiras"
+
+msgid "short_desc_task_146"
+msgstr "O meu para safiras."
+
+msgid "short_desc_task_146_stage_1"
+msgstr "O meu para safiras."
+
+msgid "desc_task_146_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez safiras."
+
+msgid "name_task_147"
+msgstr "Mineração para Selentine minério"
+
+msgid "short_desc_task_147"
+msgstr "Ir à mineração para selentine minérios."
+
+msgid "short_desc_task_147_stage_1"
+msgstr "Ir à mineração para selentine minérios."
+
+msgid "desc_task_147_stage_1"
+msgstr ""
+"Selentine minério pode ser encontrado na natureza ou em explorações de "
+"jogadores. Vê se consegues recolher 40."
+
+msgid "name_task_148"
+msgstr "Mineração para Theyril minério"
+
+msgid "short_desc_task_148"
+msgstr "Ir à mineração para theyril minérios."
+
+msgid "short_desc_task_148_stage_1"
+msgstr "Ir à mineração para theyril minérios."
+
+msgid "desc_task_148_stage_1"
+msgstr ""
+"Theyril minério pode ser encontrado na natureza ou em explorações de "
+"jogadores. Vê se consegues recolher 40."
+
+msgid "name_task_149"
+msgstr "Mineração para turquesa"
+
+msgid "short_desc_task_149"
+msgstr "O meu é turquesa."
+
+msgid "short_desc_task_149_stage_1"
+msgstr "O meu é turquesa."
+
+msgid "desc_task_149_stage_1"
+msgstr ""
+"Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
+"dez turquesa."
+
+msgid "name_task_150"
+msgstr "Mineração para Veilron minério"
+
+msgid "short_desc_task_150"
+msgstr "Ir à mineração para veilron minérios."
+
+msgid "short_desc_task_150_stage_1"
+msgstr "Ir à mineração para veilron minérios."
+
+msgid "desc_task_150_stage_1"
+msgstr ""
+"Veilron minério pode ser encontrado na natureza ou em explorações de "
+"jogadores. Vê se consegues recolher 40."
+
+msgid "name_task_151"
+msgstr "Iniciante - menor Sarnakh caça"
+
+msgid "short_desc_task_151"
+msgstr "Matem o pequeno Sarnakhs!"
+
+msgid "short_desc_task_151_stage_1"
+msgstr "Matem o pequeno Sarnakhs!"
+
+msgid "desc_task_151_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_152"
+msgstr "Iniciante - caça ao díciplo da besta lunar"
+
+msgid "short_desc_task_152"
+msgstr "Discípulos de besta-da-lua!"
+
+msgid "short_desc_task_152_stage_1"
+msgstr "Discípulos de besta-da-lua!"
+
+msgid "desc_task_152_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_153"
+msgstr "Um troll para governar todos eles"
+
+msgid "short_desc_task_153"
+msgstr ""
+"Matem os senhores dos trolls para ganhar os títulos de Troll King e Troll "
+"Queen!"
+
+msgid "short_desc_task_153_stage_1"
+msgstr ""
+"Matem os senhores dos trolls para ganhar os títulos de Troll King e Troll "
+"Queen!"
+
+msgid "desc_task_153_stage_1"
+msgstr "Só há espaço para um troll, mais vale seres você."
+
+msgid "name_task_154"
+msgstr "Iniciante - Ork bestestmaster caça"
+
+msgid "short_desc_task_154"
+msgstr "Matem ork monstros!"
+
+msgid "short_desc_task_154_stage_1"
+msgstr "Matem ork monstros!"
+
+msgid "desc_task_154_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_155"
+msgstr "Iniciante - Ork hematomar caça"
+
+msgid "short_desc_task_155"
+msgstr "Matem ork feridos!"
+
+msgid "short_desc_task_155_stage_1"
+msgstr "Matem ork feridos!"
+
+msgid "desc_task_155_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_156"
+msgstr "Iniciante - Ork caça protetora"
+
+msgid "short_desc_task_156"
+msgstr "Matem ork protectores!"
+
+msgid "short_desc_task_156_stage_1"
+msgstr "Matem ork protectores!"
+
+msgid "desc_task_156_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_157"
+msgstr "Iniciante - Ork caça ao soldado"
+
+msgid "short_desc_task_157"
+msgstr "Matem ork soldados!"
+
+msgid "short_desc_task_157_stage_1"
+msgstr "Matem ork soldados!"
+
+msgid "desc_task_157_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_158"
+msgstr "Iniciante - Ork caça bandido"
+
+msgid "short_desc_task_158"
+msgstr "Matem ork bandidos!"
+
+msgid "short_desc_task_158_stage_1"
+msgstr "Matem ork bandidos!"
+
+msgid "desc_task_158_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_159"
+msgstr "Caça aos predadores"
+
+msgid "short_desc_task_159"
+msgstr ""
+"Mata os raptores para ganhar os títulos de Caçador de Dinossauros e "
+"Caçadores de Dinossauros!"
+
+msgid "short_desc_task_159_stage_1"
+msgstr ""
+"Mate monstros para ganhar os títulos de Caçador de Dinossauros e Caçador de "
+"Dinossauros!"
+
+msgid "desc_task_159_stage_1"
+msgstr ""
+"Quando se trata da selva selvagem de Yssam, os raptores são os caçadores "
+"mais impiedosos a serem encontrados. Possuindo garras afiadas e dentes "
+"afiados, raptores cortaram suas presas em pedaços sangrentos e banquetearam-"
+"se em sua carne. Eles estão crescendo rapidamente, expandindo seu domínio, e"
+" como resultado, estão matando muitas pessoas por dia. É aqui que entras. "
+"Pelo preço certo, você provará que está acima das criaturas mais perigosas "
+"da selva ou da cadeia alimentar. Provarás que és digno de ser chamado "
+"Caçador de Dinossauros."
+
+msgid "short_desc_task_159_stage_2"
+msgstr ""
+"Mate monstros para ganhar os títulos de Caçador de Dinossauros e Caçador de "
+"Dinossauros!"
+
+msgid "desc_task_159_stage_2"
+msgstr ""
+"Caçaste os raptores e reduziste muito o número deles. Está na hora do teste "
+"final, muito perigoso. Agora, vão procurar os alfas da alcateia, os raptores"
+" dos mortíferos. Pega na ferocidade de um raptor e dobra-a, é assim que se "
+"deve descrever um falante da morte. Suas habilidades de caça serão muito "
+"postas à prova, você pode não sobreviver para contar a história. Se "
+"conseguires, ninguém pode dizer nada, és o Caçador de Dinossauros."
+
+msgid "name_task_160"
+msgstr "Apanhador de ratos"
+
+msgid "short_desc_task_160"
+msgstr "Mata ratos para ganhar os títulos de Rei Rato e Rainha Ratazana!"
+
+msgid "short_desc_task_160_stage_1"
+msgstr "Mata ratos para ganhar os títulos de Rei Rato e Rainha Ratazana!"
+
+msgid "desc_task_160_stage_1"
+msgstr ""
+"Porque não usar uma armadilha, disseram eles? É bárbaro, disseram eles. "
+"Todos temos os nossos métodos, os seus envolvem explodir vermes, o que há de"
+" errado nisso?"
+
+msgid "name_task_161"
+msgstr "Repelindo a invasão do coelho"
+
+msgid "short_desc_task_161"
+msgstr "Caça coelhos para ganhar o título de Coelho Rampager!"
+
+msgid "short_desc_task_161_stage_1"
+msgstr "Caça coelhos para ganhar o título de Coelho Rampager!"
+
+msgid "desc_task_161_stage_1"
+msgstr ""
+"Coelhos são um problema maior do que as pessoas pensam, se alguém não "
+"colocá-los em cheque sua criação rápida vai ficar fora de controle.  "
+"Primeiro vão dominar a cidade, depois a terra e depois o mundo. Felizmente "
+"para os civis que estão aqui para garantir que isso não aconteça. Está na "
+"hora de ir caçar coelhos."
+
+msgid "name_task_162"
+msgstr "Montando a tempestade"
+
+msgid "short_desc_task_162"
+msgstr ""
+"Mate monstros com feitiço de raio de bola para ganhar o título de Tempestade"
+" Magus!"
+
+msgid "short_desc_task_162_stage_1"
+msgstr ""
+"Mate monstros com seu feitiço de raio de bola em sua jornada para ganhar o "
+"título Tempestade Magus!"
+
+msgid "desc_task_162_stage_1"
+msgstr ""
+"Com o poder do relâmpago, você golpeia seus inimigos, ferindo sua carne e "
+"soprando-os para longe como a tempestade furiosa. Há muitos tipos de magia "
+"em Agon, mas nenhum tão violento ou destrutivo como a energia que você "
+"aproveita. Flutuando no caos e na destruição, varreis as terras daqueles que"
+" se atrevem a ficar no vosso caminho, chegando cada vez mais perto de "
+"desvendar os segredos mais profundos da vossa arte. Tempestade Magi são "
+"conhecidos como wildcards entre feiticeiros. Muito poucos mortais têm este "
+"título e aqueles que o fazem são tidos em alta consideração, mas também se "
+"encontraram com medo. Para começar, mata os lagartos com o seu feitiço de "
+"relâmpago."
+
+msgid "short_desc_task_162_stage_2"
+msgstr ""
+"Mate monstros com seu feitiço de raio de bola em sua jornada para ganhar o "
+"título Tempestade Magus!"
+
+msgid "desc_task_162_stage_2"
+msgstr ""
+"Em seguida, você deve matar elementos da terra com o seu feitiço de "
+"relâmpago bola."
+
+msgid "short_desc_task_162_stage_3"
+msgstr ""
+"Mate monstros com seu feitiço de raio de bola em sua jornada para ganhar o "
+"título Tempestade Magus!"
+
+msgid "desc_task_162_stage_3"
+msgstr "A seguir, tem de matar os olhos maus com o seu feitiço de relâmpago."
+
+msgid "short_desc_task_162_stage_4"
+msgstr ""
+"Mate monstros com seu feitiço de raio de bola em sua jornada para ganhar o "
+"título Tempestade Magus!"
+
+msgid "desc_task_162_stage_4"
+msgstr ""
+"Para sua tarefa final, mate cairn gigantes com seu feitiço de raio de bola. "
+"Boa sorte."
+
+msgid "name_task_163"
+msgstr "Ritos de fogo"
+
+msgid "short_desc_task_163"
+msgstr "Mate monstros com magia de fogo para ganhar o título Wildfire Shaman!"
+
+msgid "short_desc_task_163_stage_1"
+msgstr "Mate monstros com magia de fogo para ganhar o título Wildfire Shaman!"
+
+msgid "desc_task_163_stage_1"
+msgstr ""
+"Fogo. Por mais fascinante que seja maravilhosa, pode tanto criar como destruir. Passaste anos a aprender a moldar e controlar a chama, tornou-se o seu brinquedo. Apesar de sua incrível habilidade, você tem espaço para melhorias. Depois de ler através de um tom empoeirado que você encontrou na prateleira superior da guilda mages você leu histórias de magos capazes de se tornar um com a chama através de práticas xamânicas. \n"
+"Foi estranho no início, sua habilidade de dançar era pobre e cantar era um talento que você nunca possuía. Com o tempo, suas habilidades cresceram e assim como você começou a duvidar dos métodos do xamanismo você sentiu uma faísca de energia no fundo, foi nesse momento que você percebeu que tinha encontrado sua vocação."
+
+msgid "short_desc_task_163_stage_2"
+msgstr "Mate monstros com magia de fogo para ganhar o título Wildfire Shaman!"
+
+msgid "desc_task_163_stage_2"
+msgstr ""
+"Fogo. Por mais fascinante que seja maravilhosa, pode tanto criar como destruir. Passaste anos a aprender a moldar e controlar a chama, tornou-se o seu brinquedo. Apesar de sua incrível habilidade, você tem espaço para melhorias. Depois de ler através de um tom empoeirado que você encontrou na prateleira superior da guilda mages você leu histórias de magos capazes de se tornar um com a chama através de práticas xamânicas. \n"
+"Foi estranho no início, sua habilidade de dançar era pobre e cantar era um talento que você nunca possuía. Com o tempo, suas habilidades cresceram e assim como você começou a duvidar dos métodos do xamanismo você sentiu uma faísca de energia no fundo, foi nesse momento que você percebeu que tinha encontrado sua vocação."
+
+msgid "short_desc_task_163_stage_3"
+msgstr "Mate monstros com magia de fogo para ganhar o título Wildfire Shaman!"
+
+msgid "desc_task_163_stage_3"
+msgstr ""
+"Fogo. Por mais fascinante que seja maravilhosa, pode tanto criar como destruir. Passaste anos a aprender a moldar e controlar a chama, tornou-se o seu brinquedo. Apesar de sua incrível habilidade, você tem espaço para melhorias. Depois de ler através de um tom empoeirado que você encontrou na prateleira superior da guilda mages você leu histórias de magos capazes de se tornar um com a chama através de práticas xamânicas. \n"
+"Foi estranho no início, sua habilidade de dançar era pobre e cantar era um talento que você nunca possuía. Com o tempo, suas habilidades cresceram e assim como você começou a duvidar dos métodos do xamanismo você sentiu uma faísca de energia no fundo, foi nesse momento que você percebeu que tinha encontrado sua vocação."
+
+msgid "short_desc_task_163_stage_4"
+msgstr "Mate monstros com magia de fogo para ganhar o título Wildfire Shaman!"
+
+msgid "desc_task_163_stage_4"
+msgstr ""
+"Fogo. Por mais fascinante que seja maravilhosa, pode tanto criar como destruir. Passaste anos a aprender a moldar e controlar a chama, tornou-se o seu brinquedo. Apesar de sua incrível habilidade, você tem espaço para melhorias. Depois de ler através de um tom empoeirado que você encontrou na prateleira superior da guilda mages você leu histórias de magos capazes de se tornar um com a chama através de práticas xamânicas. \n"
+"Foi estranho no início, sua habilidade de dançar era pobre e cantar era um talento que você nunca possuía. Com o tempo, suas habilidades cresceram e assim como você começou a duvidar dos métodos do xamanismo você sentiu uma faísca de energia no fundo, foi nesse momento que você percebeu que tinha encontrado sua vocação."
+
+msgid "name_task_164"
+msgstr "Iniciante - Sadayel caça ao guardião"
+
+msgid "short_desc_task_164"
+msgstr "Matem sadayel guardiões!"
+
+msgid "short_desc_task_164_stage_1"
+msgstr "Matem sadayel guardiões!"
+
+msgid "desc_task_164_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_165"
+msgstr "Iniciante - Sadayel caça ao xamã"
+
+msgid "short_desc_task_165"
+msgstr "Mata sadayel xamãs!"
+
+msgid "short_desc_task_165_stage_1"
+msgstr "Mata sadayel xamãs!"
+
+msgid "desc_task_165_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_166"
+msgstr "Iniciante - caça salamandra"
+
+msgid "short_desc_task_166"
+msgstr "Salamandras de caça!"
+
+msgid "short_desc_task_166_stage_1"
+msgstr "Salamandras de caça!"
+
+msgid "desc_task_166_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_167"
+msgstr "Iniciante - Sarnakh caça"
+
+msgid "short_desc_task_167"
+msgstr "Matem os sarnakhs!"
+
+msgid "short_desc_task_167_stage_1"
+msgstr "Matem os sarnakhs!"
+
+msgid "desc_task_167_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_168"
+msgstr "Iniciante - servo de Malaut caça"
+
+msgid "short_desc_task_168"
+msgstr "Servos mortos de malaut!"
+
+msgid "short_desc_task_168_stage_1"
+msgstr "Servos mortos de malaut!"
+
+msgid "desc_task_168_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_169"
+msgstr "Tiro para o topo"
+
+msgid "short_desc_task_169"
+msgstr ""
+"Pratique seu arco e flecha em padrões corvos para receber os títulos de "
+"Raven God e Raven Goddess!"
+
+msgid "short_desc_task_169_stage_1"
+msgstr ""
+"Pratique seu arco e flecha em padrões corvos para receber os títulos de "
+"Raven God e Raven Goddess!"
+
+msgid "desc_task_169_stage_1"
+msgstr ""
+"Nos velhos tempos, os melhores arqueiros da Caldéia eram chamados de Raven "
+"Gods e Goddeses. Esta tradição se espalhou por Agon e muito poucos ganharam "
+"o título. Como a raça mais forte de hobgoblins, os corvos são considerados o"
+" teste final em arco para o combate de arco, um verdadeiro teste de "
+"habilidade de tiro ao alvo. Muitos arqueiros esperançosos procuravam provar "
+"sua habilidade, mas para cada um que conseguiu, uma dúzia falhou. É uma "
+"tradição brutal e mortal."
+
+msgid "name_task_170"
+msgstr "Iniciante - esqueleto caça arqueiro"
+
+msgid "short_desc_task_170"
+msgstr "Matem arqueiros de esqueleto!"
+
+msgid "short_desc_task_170_stage_1"
+msgstr "Matem arqueiros de esqueleto!"
+
+msgid "desc_task_170_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_171"
+msgstr "Iniciante - esqueleto caça ao guerreiro"
+
+msgid "short_desc_task_171"
+msgstr "Matem guerreiros esqueletos!"
+
+msgid "short_desc_task_171_stage_1"
+msgstr "Matem guerreiros esqueletos!"
+
+msgid "desc_task_171_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_172"
+msgstr "Iniciante - caça às bruxas do pântano"
+
+msgid "short_desc_task_172"
+msgstr "Bruxas do pântano!"
+
+msgid "short_desc_task_172_stage_1"
+msgstr "Bruxas do pântano!"
+
+msgid "desc_task_172_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_173"
+msgstr "A catástrofe"
+
+msgid "short_desc_task_173"
+msgstr "Mate gatos pretos para ganhar o título Kitty Cat."
+
+msgid "short_desc_task_173_stage_1"
+msgstr "Mate gatos pretos para ganhar o título Kitty Cat."
+
+msgid "desc_task_173_stage_1"
+msgstr ""
+"Os gatos são conhecidos por temer e respeitar o alfa, é apenas uma questão "
+"de tempo até que você estabeleça quem é..."
+
+msgid "name_task_174"
+msgstr "O lado escuro de Agon"
+
+msgid "short_desc_task_174"
+msgstr ""
+"Embarque no caminho perigoso do ninja, testando suas habilidades contra "
+"serpentinas."
+
+msgid "short_desc_task_174_stage_1"
+msgstr ""
+"Embarque no caminho perigoso do ninja, testando suas habilidades contra "
+"serpentinas."
+
+msgid "desc_task_174_stage_1"
+msgstr ""
+"Espionar, roubar, assassinar, pode fazer tudo. Seja sob o véu da noite ou a "
+"luz do dia, você é a pessoa certa para o trabalho. Você joga jogos perigosos"
+" e tem a vontade e coragem de tentar o aparentemente impossível, que está "
+"prestes a ser útil mais uma vez. Estás pronto para te provares?"
+
+msgid "name_task_175"
+msgstr "Emoção da caça"
+
+msgid "short_desc_task_175"
+msgstr ""
+"Mata veados para ganhar os títulos de Caçador de Cervos e Caçadores de "
+"Cervos!"
+
+msgid "short_desc_task_175_stage_1"
+msgstr ""
+"Mata veados para ganhar os títulos de Caçador de Cervos e Caçadores de "
+"Cervos!"
+
+msgid "desc_task_175_stage_1"
+msgstr ""
+"Não há melhor jogo para caçar do que veado. Não só as peles são valiosas, "
+"mas a carne é deliciosa."
+
+msgid "name_task_176"
+msgstr "Sob o título de lua de sangue"
+
+msgid "short_desc_task_176"
+msgstr ""
+"Caça cavaleiros de sangue para se tornarem uma Lâmina da Lua de Sangue."
+
+msgid "short_desc_task_176_stage_1"
+msgstr ""
+"Caça cavaleiros de sangue para se tornarem uma Lâmina da Lua de Sangue."
+
+msgid "desc_task_176_stage_1"
+msgstr ""
+"As luas de Agon são conhecidas como Leen e Neith. Leen é o red moon e uma "
+"vez por ano, torna-se vermelho sangue. Durante este dia nascem centenas de "
+"monstros conhecidos como cavaleiros. As lâminas da lua de sangue são "
+"incumbidas da busca da erradicação dos cavaleiros do sangue. A sua iniciação"
+" na ordem é lutar pela causa deles e provar o seu valor."
+
+msgid "name_task_177"
+msgstr "Andando a prancha"
+
+msgid "short_desc_task_177"
+msgstr "Matem piratas para ganhar o título de Darkblade Buccaneer!"
+
+msgid "short_desc_task_177_stage_1"
+msgstr "Matem piratas para ganhar o título de Darkblade Buccaneer!"
+
+msgid "desc_task_177_stage_1"
+msgstr ""
+"Navios mercantes trabalham duro para encontrar as rotas mais seguras do "
+"outro lado do mar. Eles sabem como evitar os Krakens... na maioria das "
+"vezes, mas os piratas são mais espertos e imprevisíveis. Uma tripulação "
+"lendária conhecida como Darkblade Buccaneers provou estar entre as mais "
+"assustadoras vistas para encontrar. Impiedosamente saqueando tanto a terra "
+"como o mar, esses piratas são ricos e ameaçadores. Eles só selecionam os "
+"piratas mais de elite para se juntarem às suas fileiras e para provar o seu "
+"valor você deve massacrar muitos, muitos trabalhadores, seus inimigos "
+"jurados. Só então poderás juntar-te às suas fileiras."
+
+msgid "name_task_178"
+msgstr "Guerreiro da luz"
+
+msgid "short_desc_task_178"
+msgstr "Mate cavaleiros-sombra para ganhar o título de Cavaleiro Branco!"
+
+msgid "short_desc_task_178_stage_1"
+msgstr "Mate cavaleiros-sombra para ganhar o título de Cavaleiro Branco!"
+
+msgid "desc_task_178_stage_1"
+msgstr ""
+"Em Agon, muitas pessoas se referem aos cavaleiros das sombras como "
+"guerreiros das trevas. Eles são sinistros, perversos e caóticos, verdadeiros"
+" seres do mal. Conhecidos por assassinato, roubo, espionagem e sabotagem, os"
+" seus motivos são para uma causa profana. O povo precisa de um guerreiro que"
+" possa enfrentá-los, você és o herói que pode. Você é uma pessoa de honra, "
+"glória e bondade, um guerreiro da luz. Prove para as pessoas que você é o "
+"seu campeão, eles vão conhecê-lo para sempre como O Cavaleiro Branco."
+
+msgid "name_task_179"
+msgstr "Iniciante - caça zumbi"
+
+msgid "short_desc_task_179"
+msgstr "Matem zombies!"
+
+msgid "short_desc_task_179_stage_1"
+msgstr "Matem zombies!"
+
+msgid "desc_task_179_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_180"
+msgstr "Iniciante - zombie shambler caça"
+
+msgid "short_desc_task_180"
+msgstr "Matem os zombies!"
+
+msgid "short_desc_task_180_stage_1"
+msgstr "Matem os zombies!"
+
+msgid "desc_task_180_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_181"
+msgstr "Iniciante - caça ao guerreiro zumbi"
+
+msgid "short_desc_task_181"
+msgstr "Matar guerreiros zombies!"
+
+msgid "short_desc_task_181_stage_1"
+msgstr "Matar guerreiros zombies!"
+
+msgid "desc_task_181_stage_1"
+msgstr ""
+"Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
+
+msgid "name_task_182"
+msgstr "Achrid caça - diariamente"
+
+msgid "short_desc_task_182"
+msgstr "Achrids slay nesta tarefa diária."
+
+msgid "short_desc_task_182_stage_1"
+msgstr "Achrids slay nesta tarefa diária."
+
+msgid "desc_task_182_stage_1"
+msgstr ""
+"Cacem os ácrides, mas cuidado com outros caçadores, para que não se tornem "
+"os caçados!"
+
+msgid "name_task_183"
+msgstr "Caça ao urso artico - diariamente"
+
+msgid "short_desc_task_183"
+msgstr "Caça Bears nesta tarefa diária."
+
+msgid "short_desc_task_183_stage_1"
+msgstr "Matar ursos árcticos nesta tarefa diária."
+
+msgid "desc_task_183_stage_1"
+msgstr ""
+"Caçar Ursos Árticos, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_184"
+msgstr "Caça ao centauro - diariamente"
+
+msgid "short_desc_task_184"
+msgstr "Matar centauros nesta tarefa diária."
+
+msgid "short_desc_task_184_stage_1"
+msgstr "Matar centauros nesta tarefa diária."
+
+msgid "desc_task_184_stage_1"
+msgstr ""
+"Caça centauros, mas tem cuidado com outros caçadores, para que não te tornes"
+" o caçado!"
+
+msgid "name_task_185"
+msgstr "Coleta de algodão - diariamente"
+
+msgid "short_desc_task_185"
+msgstr "Recolher algodão."
+
+msgid "short_desc_task_185_stage_1"
+msgstr "Recolher algodão."
+
+msgid "desc_task_185_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de recolher algodão."
+
+msgid "name_task_186"
+msgstr "Crog caça - diariamente"
+
+msgid "short_desc_task_186"
+msgstr "Mata crogs nesta tarefa diária."
+
+msgid "short_desc_task_186_stage_1"
+msgstr "Mata crogs nesta tarefa diária."
+
+msgid "desc_task_186_stage_1"
+msgstr ""
+"Caçai crocodilos, mas guardai-vos de outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_187"
+msgstr "Pesca - diariamente"
+
+msgid "short_desc_task_187"
+msgstr "Vai pescar."
+
+msgid "short_desc_task_187_stage_1"
+msgstr "Vai pescar."
+
+msgid "desc_task_187_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Hora de ir pescar."
+
+msgid "name_task_188"
+msgstr "Caça fantasma - diariamente"
+
+msgid "short_desc_task_188"
+msgstr "Matar fantasmas nesta tarefa diária."
+
+msgid "short_desc_task_188_stage_1"
+msgstr "Matar fantasmas nesta tarefa diária."
+
+msgid "desc_task_188_stage_1"
+msgstr ""
+"Caçar fantasmas, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_189"
+msgstr "Caça do senhor do túmulo - diariamente"
+
+msgid "short_desc_task_189"
+msgstr "Matem os Senhores Graves nesta tarefa diária."
+
+msgid "short_desc_task_189_stage_1"
+msgstr "Matem os Senhores Graves nesta tarefa diária."
+
+msgid "desc_task_189_stage_1"
+msgstr ""
+"Caçai os Senhores do Sepulto, mas temei a outros caçadores, para que não vos"
+" torneis os caçados!"
+
+msgid "name_task_190"
+msgstr "Cinza Ork caça - diariamente"
+
+msgid "short_desc_task_190"
+msgstr "Mate o cinza orks nesta tarefa diária."
+
+msgid "short_desc_task_190_stage_1"
+msgstr "Mate o cinza orks nesta tarefa diária."
+
+msgid "desc_task_190_stage_1"
+msgstr ""
+"Caçar cinza orks, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_191"
+msgstr "Caça de colmeias - diariamente"
+
+msgid "short_desc_task_191"
+msgstr "Matem os hivekins nesta tarefa diária."
+
+msgid "short_desc_task_191_stage_1"
+msgstr "Matem os hivekins nesta tarefa diária."
+
+msgid "desc_task_191_stage_1"
+msgstr ""
+"Caçai colmeias, mas guardai-vos de outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_192"
+msgstr "Caça hobgoblin - diariamente"
+
+msgid "short_desc_task_192"
+msgstr "Slay hobgoblins nesta tarefa diária."
+
+msgid "short_desc_task_192_stage_1"
+msgstr "Slay hobgoblins nesta tarefa diária."
+
+msgid "desc_task_192_stage_1"
+msgstr ""
+"Caçar hobgoblins, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_193"
+msgstr "Humano guildmaster caça - diariamente"
+
+msgid "short_desc_task_193"
+msgstr "Mate os mestres humanos nesta tarefa diária."
+
+msgid "short_desc_task_193_stage_1"
+msgstr "Mate os mestres humanos nesta tarefa diária."
+
+msgid "desc_task_193_stage_1"
+msgstr ""
+"Caçai os mestres humanos, mas guardai-vos de outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_194"
+msgstr "Coleta de ferro - diariamente"
+
+msgid "short_desc_task_194"
+msgstr "Recolher minério de ferro."
+
+msgid "short_desc_task_194_stage_1"
+msgstr "Recolher minério de ferro."
+
+msgid "desc_task_194_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Hora de recolher minério de ferro."
+
+msgid "name_task_195"
+msgstr "Caça matayin - diariamente"
+
+msgid "short_desc_task_195"
+msgstr "Matem as matayins nesta tarefa diária."
+
+msgid "short_desc_task_195_stage_1"
+msgstr "Matem as matayins nesta tarefa diária."
+
+msgid "desc_task_195_stage_1"
+msgstr ""
+"Caçai os mataínos, mas cuidado com os outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_196"
+msgstr "Caça ao minotauro - diariamente"
+
+msgid "short_desc_task_196"
+msgstr "Mata minotauros nesta tarefa diária."
+
+msgid "short_desc_task_196_stage_1"
+msgstr "Mata minotauros nesta tarefa diária."
+
+msgid "desc_task_196_stage_1"
+msgstr ""
+"Cace minotauros, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_197"
+msgstr "Coleta de madeira de carvalho - diariamente"
+
+msgid "short_desc_task_197"
+msgstr "Recolha madeira de carvalho."
+
+msgid "short_desc_task_197_stage_1"
+msgstr "Recolha madeira de carvalho."
+
+msgid "desc_task_197_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Hora de recolher madeira de carvalho."
+
+msgid "name_task_198"
+msgstr "Caça ao ogre - diariamente"
+
+msgid "short_desc_task_198"
+msgstr "Matar ogros nesta tarefa diária."
+
+msgid "short_desc_task_198_stage_1"
+msgstr "Matar ogros nesta tarefa diária."
+
+msgid "desc_task_198_stage_1"
+msgstr ""
+"Caçai ogros, mas cuidado com outros caçadores, para que não vos torneis os "
+"caçados!"
+
+msgid "name_task_199"
+msgstr "Caça ao raptor - diariamente"
+
+msgid "short_desc_task_199"
+msgstr "Matar raptores nesta tarefa diária."
+
+msgid "short_desc_task_199_stage_1"
+msgstr "Matar raptores nesta tarefa diária."
+
+msgid "desc_task_199_stage_1"
+msgstr ""
+"Caça os raptores, mas tem cuidado com outros caçadores, para que não te "
+"tornes na caçada!"
+
+msgid "name_task_200"
+msgstr "Caça aos retornados - diariamente"
+
+msgid "short_desc_task_200"
+msgstr "Matar os retornados nesta tarefa diária."
+
+msgid "short_desc_task_200_stage_1"
+msgstr "Matar os retornados nesta tarefa diária."
+
+msgid "desc_task_200_stage_1"
+msgstr ""
+"Caçai os retornados, mas temei a outros caçadores, para que não vos torneis "
+"os caçados!"
+
+msgid "name_task_201"
+msgstr "Snowclan caça arquimage - diariamente"
+
+msgid "short_desc_task_201"
+msgstr "Slay Snowclan Arcmages nesta tarefa diária."
+
+msgid "short_desc_task_201_stage_1"
+msgstr "Slay Snowclan Arcmages nesta tarefa diária."
+
+msgid "desc_task_201_stage_1"
+msgstr ""
+"Caçar Arquemas de Snowclan, mas cuidado com outros caçadores, para que você "
+"não se torne o caçado!"
+
+msgid "name_task_202"
+msgstr "Caça à aranha - diariamente"
+
+msgid "short_desc_task_202"
+msgstr "Matar aranhas nesta tarefa diária."
+
+msgid "short_desc_task_202_stage_1"
+msgstr "Matar aranhas nesta tarefa diária."
+
+msgid "desc_task_202_stage_1"
+msgstr ""
+"Caçar aranhas, mas cuidado com outros caçadores, para que você não se torne "
+"o caçado!"
+
+msgid "name_task_203"
+msgstr "Coleta de pedra - diariamente"
+
+msgid "short_desc_task_203"
+msgstr "Reúna o Stone."
+
+msgid "short_desc_task_203_stage_1"
+msgstr "Reúna o Stone."
+
+msgid "desc_task_203_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de juntar o Stone."
+
+msgid "name_task_204"
+msgstr "Thain Hunt - diariamente"
+
+msgid "short_desc_task_204"
+msgstr "Mate Thains nesta tarefa diária."
+
+msgid "short_desc_task_204_stage_1"
+msgstr "Matar Thain guardas nesta tarefa diária."
+
+msgid "desc_task_204_stage_1"
+msgstr ""
+"Caçai os guardas de Thain, mas acautelai-vos de outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_205"
+msgstr "Caça varangiana - diariamente"
+
+msgid "short_desc_task_205"
+msgstr "Mate varangianos nesta tarefa diária."
+
+msgid "short_desc_task_205_stage_1"
+msgstr "Mate varangianos nesta tarefa diária."
+
+msgid "desc_task_205_stage_1"
+msgstr ""
+"Caça varangianos, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_206"
+msgstr "Caça às tribos - diariamente"
+
+msgid "short_desc_task_206"
+msgstr "Mate tribos selvagens nesta tarefa diária."
+
+msgid "short_desc_task_206_stage_1"
+msgstr "Mate tribos selvagens nesta tarefa diária."
+
+msgid "desc_task_206_stage_1"
+msgstr ""
+"Caçai tribos selvagens, mas guardai-vos de outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_207"
+msgstr "Caça zumbi - diariamente"
+
+msgid "short_desc_task_207"
+msgstr "Matar zumbis nesta tarefa diária."
+
+msgid "short_desc_task_207_stage_1"
+msgstr "Matar zumbis nesta tarefa diária."
+
+msgid "desc_task_207_stage_1"
+msgstr ""
+"Caçar zumbis, mas cuidado com outros caçadores, para que você não se torne o"
+" caçado!"
+
+msgid "name_task_208"
+msgstr "Caça antiga - diariamente"
+
+msgid "short_desc_task_208"
+msgstr "Mate os antigos nesta tarefa diária."
+
+msgid "short_desc_task_208_stage_1"
+msgstr "Mate os antigos nesta tarefa diária."
+
+msgid "desc_task_208_stage_1"
+msgstr ""
+"Caçai os antigos, mas acautelai-vos de outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_209"
+msgstr "Baradron caça - diariamente"
+
+msgid "short_desc_task_209"
+msgstr "Slay baradrons nesta tarefa diária."
+
+msgid "short_desc_task_209_stage_1"
+msgstr "Slay baradrons nesta tarefa diária."
+
+msgid "desc_task_209_stage_1"
+msgstr ""
+"Caçai baradrons, mas cuidado com outros caçadores, para que não vos torneis "
+"os caçados!"
+
+msgid "name_task_210"
+msgstr "Caça de behemoth - diariamente"
+
+msgid "short_desc_task_210"
+msgstr "Mate os behemoths nesta tarefa diária."
+
+msgid "short_desc_task_210_stage_1"
+msgstr "Mate os behemoths nesta tarefa diária."
+
+msgid "desc_task_210_stage_1"
+msgstr ""
+"Caçai behemotes, mas temei a outros caçadores, para que não vos torneis os "
+"caçados!"
+
+msgid "name_task_211"
+msgstr "Eodrin caça - diariamente"
+
+msgid "short_desc_task_211"
+msgstr "Matar eodrins nesta tarefa diária."
+
+msgid "short_desc_task_211_stage_1"
+msgstr "Matar eodrins nesta tarefa diária."
+
+msgid "desc_task_211_stage_1"
+msgstr ""
+"Caçai eodrins, mas cuidado com outros caçadores, para que não vos torneis os"
+" caçados!"
+
+msgid "name_task_212"
+msgstr "Caça erodach - diariamente"
+
+msgid "short_desc_task_212"
+msgstr "Slay erodachs nesta tarefa diária."
+
+msgid "short_desc_task_212_stage_1"
+msgstr "Slay erodachs nesta tarefa diária."
+
+msgid "desc_task_212_stage_1"
+msgstr ""
+"Caçai os erodachs, mas cuidado com outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_213"
+msgstr "Caça ao golem florestal - diariamente"
+
+msgid "short_desc_task_213"
+msgstr "Mate golems florestais nesta tarefa diária."
+
+msgid "short_desc_task_213_stage_1"
+msgstr "Mate golems florestais nesta tarefa diária."
+
+msgid "desc_task_213_stage_1"
+msgstr ""
+"Caçai os golems da floresta, mas guardai-vos de outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_214"
+msgstr "Caça de jotunn - diariamente"
+
+msgid "short_desc_task_214"
+msgstr "Matar jotunns nesta tarefa diária."
+
+msgid "short_desc_task_214_stage_1"
+msgstr "Matar jotunns nesta tarefa diária."
+
+msgid "desc_task_214_stage_1"
+msgstr ""
+"Caçai jôtuns, mas cuidado com outros caçadores, para que não vos torneis os "
+"caçados!"
+
+msgid "name_task_215"
+msgstr "Leenspar caça ao golem - diariamente"
+
+msgid "short_desc_task_215"
+msgstr "Mate leenspar golems nesta tarefa diária."
+
+msgid "short_desc_task_215_stage_1"
+msgstr "Mate leenspar golems nesta tarefa diária."
+
+msgid "desc_task_215_stage_1"
+msgstr ""
+"Caça leenspar golems, mas cuidado com outros caçadores, para que você não se"
+" torne o caçado!"
+
+msgid "name_task_216"
+msgstr "Minotauro rei caça - diariamente"
+
+msgid "short_desc_task_216"
+msgstr "Matar reis minotauros nesta tarefa diária."
+
+msgid "short_desc_task_216_stage_1"
+msgstr "Matar reis minotauros nesta tarefa diária."
+
+msgid "desc_task_216_stage_1"
+msgstr ""
+"Caçai reis minotauros, mas guardai-vos de outros caçadores, para que não vos"
+" torneis os caçados!"
+
+msgid "name_task_217"
+msgstr "Neithal caça ao golem - diariamente"
+
+msgid "short_desc_task_217"
+msgstr "Mate neithal golems nesta tarefa diária."
+
+msgid "short_desc_task_217_stage_1"
+msgstr "Mate neithal golems nesta tarefa diária."
+
+msgid "desc_task_217_stage_1"
+msgstr ""
+"Caça neithal golems, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_218"
+msgstr "Caça de sálvia de carvalho - diariamente"
+
+msgid "short_desc_task_218"
+msgstr "Slay carvalho sábios nesta tarefa diária."
+
+msgid "short_desc_task_218_stage_1"
+msgstr "Slay carvalho sábios nesta tarefa diária."
+
+msgid "desc_task_218_stage_1"
+msgstr ""
+"Caçai sábios de carvalho, mas cuidado com outros caçadores, para que não vos"
+" torneis os caçados!"
+
+msgid "name_task_219"
+msgstr "Caça do rei do escorpião - diariamente"
+
+msgid "short_desc_task_219"
+msgstr "Matar reis escorpiões nesta tarefa diária."
+
+msgid "short_desc_task_219_stage_1"
+msgstr "Matar reis escorpiões nesta tarefa diária."
+
+msgid "desc_task_219_stage_1"
+msgstr ""
+"Caçai reis escorpiões, mas guardai-vos de outros caçadores, para que não vos"
+" torneis os caçados!"
+
+msgid "name_task_220"
+msgstr "Caça ao flagelo - diariamente"
+
+msgid "short_desc_task_220"
+msgstr "Matar flagelos nesta tarefa diária."
+
+msgid "short_desc_task_220_stage_1"
+msgstr "Matar flagelos nesta tarefa diária."
+
+msgid "desc_task_220_stage_1"
+msgstr ""
+"Caçai açoites, mas cuidado com outros caçadores, para que não vos torneis os"
+" caçados!"
+
+msgid "name_task_221"
+msgstr "Selentine caça ao golem - diariamente"
+
+msgid "short_desc_task_221"
+msgstr "Mate selentine golems nesta tarefa diária."
+
+msgid "short_desc_task_221_stage_1"
+msgstr "Mate selentine golems nesta tarefa diária."
+
+msgid "desc_task_221_stage_1"
+msgstr ""
+"Caça selentine golems, mas cuidado com outros caçadores, para que você não "
+"se torne o caçado!"
+
+msgid "name_task_222"
+msgstr "Caça oráculo de neve - diariamente"
+
+msgid "short_desc_task_222"
+msgstr "Mate os oráculos de neve nesta tarefa diária."
+
+msgid "short_desc_task_222_stage_1"
+msgstr "Mate os oráculos de neve nesta tarefa diária."
+
+msgid "desc_task_222_stage_1"
+msgstr ""
+"Caçai oráculos de neve, mas guardai-vos de outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_223"
+msgstr "Theyril caça ao golem - diariamente"
+
+msgid "short_desc_task_223"
+msgstr "Mate theyril golems nesta tarefa diária."
+
+msgid "short_desc_task_223_stage_1"
+msgstr "Mate theyril golems nesta tarefa diária."
+
+msgid "desc_task_223_stage_1"
+msgstr ""
+"Caça theyril golems, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_224"
+msgstr "Caça de titã - diariamente"
+
+msgid "short_desc_task_224"
+msgstr "Mate os titãs nesta tarefa diária."
+
+msgid "short_desc_task_224_stage_1"
+msgstr "Mate os titãs nesta tarefa diária."
+
+msgid "desc_task_224_stage_1"
+msgstr ""
+"Caçai os titãs, mas cuidado com os outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_225"
+msgstr "Veilron caça ao golem - diariamente"
+
+msgid "short_desc_task_225"
+msgstr "Mate veilron golems nesta tarefa diária."
+
+msgid "short_desc_task_225_stage_1"
+msgstr "Mate veilron golems nesta tarefa diária."
+
+msgid "desc_task_225_stage_1"
+msgstr ""
+"Caça veilron golems, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_226"
+msgstr "Caça shaka windtribe - diariamente"
+
+msgid "short_desc_task_226"
+msgstr "Slay windtribe shakas nesta tarefa diária."
+
+msgid "short_desc_task_226_stage_1"
+msgstr "Slay windtribe shakas nesta tarefa diária."
+
+msgid "desc_task_226_stage_1"
+msgstr ""
+"Caçai açoites, mas cuidado com outros caçadores, para que não vos torneis os"
+" caçados!"
+
+msgid "name_task_227"
+msgstr "Caça aos wraiths - diariamente"
+
+msgid "short_desc_task_227"
+msgstr "Matam wraiths nesta tarefa diária."
+
+msgid "short_desc_task_227_stage_1"
+msgstr "Matam wraiths nesta tarefa diária."
+
+msgid "desc_task_227_stage_1"
+msgstr ""
+"Caça os wraiths, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_228"
+msgstr "Arthain caça aos corcundas - diariamente"
+
+msgid "short_desc_task_228"
+msgstr "Mate arthain corcundas nesta tarefa diária."
+
+msgid "short_desc_task_228_stage_1"
+msgstr "Mate arthain corcundas nesta tarefa diária."
+
+msgid "desc_task_228_stage_1"
+msgstr ""
+"Caçar arthain corcundas, mas cuidado com outros caçadores, para que você não"
+" se torne o caçado!"
+
+msgid "name_task_229"
+msgstr "Arthain caça - diariamente"
+
+msgid "short_desc_task_229"
+msgstr "Matar arthains nesta tarefa diária."
+
+msgid "short_desc_task_229_stage_1"
+msgstr "Matar arthains nesta tarefa diária."
+
+msgid "desc_task_229_stage_1"
+msgstr ""
+"Caçai arthains, mas cuidado com outros caçadores, para que não vos torneis "
+"os caçados!"
+
+msgid "name_task_230"
+msgstr "Basanite golem caça - diariamente"
+
+msgid "short_desc_task_230"
+msgstr "Slay Basanite Golems nesta tarefa diária."
+
+msgid "short_desc_task_230_stage_1"
+msgstr "Slay Basanite Golems nesta tarefa diária."
+
+msgid "desc_task_230_stage_1"
+msgstr ""
+"Caçai os Golems de Basanite, mas cuidado com outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_231"
+msgstr "Caça cavaleiro preto - diariamente"
+
+msgid "short_desc_task_231"
+msgstr "Mate cavaleiros negros nesta tarefa diária."
+
+msgid "short_desc_task_231_stage_1"
+msgstr "Mate cavaleiros negros nesta tarefa diária."
+
+msgid "desc_task_231_stage_1"
+msgstr ""
+"Caça cavaleiros negros, mas cuidado com outros caçadores, para que você não "
+"se torne o caçado!"
+
+msgid "name_task_232"
+msgstr "Preto Senhor caça - diariamente"
+
+msgid "short_desc_task_232"
+msgstr "Matem os senhores negros nesta tarefa diária."
+
+msgid "short_desc_task_232_stage_1"
+msgstr "Matem os senhores negros nesta tarefa diária."
+
+msgid "desc_task_232_stage_1"
+msgstr ""
+"Caçai os senhores negros, mas cuidado com os outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_233"
+msgstr "Criança de Khamset caça - diariamente"
+
+msgid "short_desc_task_233"
+msgstr "Mate o filho de khamsets nesta tarefa diária."
+
+msgid "short_desc_task_233_stage_1"
+msgstr "Mate o filho de khamsets nesta tarefa diária."
+
+msgid "desc_task_233_stage_1"
+msgstr ""
+"Caçai o filho dos khamsets, mas guardai-vos de outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_234"
+msgstr "Escolhido de Khamset caça - diariamente"
+
+msgid "short_desc_task_234"
+msgstr "Slay escolhido de khamset nesta tarefa diária."
+
+msgid "short_desc_task_234_stage_1"
+msgstr "Slay escolhido de khamset nesta tarefa diária."
+
+msgid "desc_task_234_stage_1"
+msgstr ""
+"Caçado escolhido de khamset, mas cuidado com outros caçadores, para que você"
+" não se torne o caçado!"
+
+msgid "name_task_235"
+msgstr "Caça dragão escuro - diariamente"
+
+msgid "short_desc_task_235"
+msgstr "Mate dragões negros nesta tarefa diária."
+
+msgid "short_desc_task_235_stage_1"
+msgstr "Mate dragões negros nesta tarefa diária."
+
+msgid "desc_task_235_stage_1"
+msgstr ""
+"Caça dragões escuros, mas cuidado com outros caçadores, para que você não se"
+" torne o caçado!"
+
+msgid "name_task_236"
+msgstr "Caça de sombra escura - diariamente"
+
+msgid "short_desc_task_236"
+msgstr "Mate Darkshade nesta tarefa diária."
+
+msgid "short_desc_task_236_stage_1"
+msgstr "Mate Darkshade nesta tarefa diária."
+
+msgid "desc_task_236_stage_1"
+msgstr ""
+"Caçar Sombra Negra, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_237"
+msgstr "Caça fêmea profeta floresta - diariamente"
+
+msgid "short_desc_task_237"
+msgstr "Matem as fêmeas profetaas da floresta nesta tarefa diária."
+
+msgid "short_desc_task_237_stage_1"
+msgstr "Matem as fêmeas profetaas da floresta nesta tarefa diária."
+
+msgid "desc_task_237_stage_1"
+msgstr ""
+"Caçar as fêmeas profeta floresta, mas cuidado com outros caçadores, para que"
+" você não se tornar o caçado!"
+
+msgid "name_task_238"
+msgstr "Caça gardoroc - diariamente"
+
+msgid "short_desc_task_238"
+msgstr "Mate gardorocs nesta tarefa diária."
+
+msgid "short_desc_task_238_stage_1"
+msgstr "Mate gardorocs nesta tarefa diária."
+
+msgid "desc_task_238_stage_1"
+msgstr ""
+"Caçar gardorocs, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_239"
+msgstr "Caça gargantua - diariamente"
+
+msgid "short_desc_task_239"
+msgstr "Matem gargantuas nesta tarefa diária."
+
+msgid "short_desc_task_239_stage_1"
+msgstr "Matem gargantuas nesta tarefa diária."
+
+msgid "desc_task_239_stage_1"
+msgstr ""
+"Caçar gargantuas, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_240"
+msgstr "Caça celestial maior - diariamente"
+
+msgid "short_desc_task_240"
+msgstr "Matem celestes maiores nesta tarefa diária."
+
+msgid "short_desc_task_240_stage_1"
+msgstr "Matem celestes maiores nesta tarefa diária."
+
+msgid "desc_task_240_stage_1"
+msgstr ""
+"Caçai celestes maiores, mas cuidado com outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_241"
+msgstr "Caça infernal maior - diariamente"
+
+msgid "short_desc_task_241"
+msgstr "Mate infernais maiores nesta tarefa diária."
+
+msgid "short_desc_task_241_stage_1"
+msgstr "Mate infernais maiores nesta tarefa diária."
+
+msgid "desc_task_241_stage_1"
+msgstr ""
+"Caçai infernais maiores, mas guardai-vos de outros caçadores, para que não "
+"vos torneis os caçados!"
+
+msgid "name_task_242"
+msgstr "Caça de múmia maior - diariamente"
+
+msgid "short_desc_task_242"
+msgstr "Mate múmias maiores nesta tarefa diária."
+
+msgid "short_desc_task_242_stage_1"
+msgstr "Mate nummies maiores nesta tarefa diária."
+
+msgid "desc_task_242_stage_1"
+msgstr ""
+"Caçar múmias maiores, mas cuidado com outros caçadores, para que você não se"
+" torne o caçado!"
+
+msgid "name_task_243"
+msgstr "Caça guardião - diariamente"
+
+msgid "short_desc_task_243"
+msgstr "Matem os guardiões nesta tarefa diária."
+
+msgid "short_desc_task_243_stage_1"
+msgstr "Matem os guardiões nesta tarefa diária."
+
+msgid "desc_task_243_stage_1"
+msgstr ""
+"Caçai guardiões, mas temei a outros caçadores, para que não vos torneis os "
+"caçados!"
+
+msgid "name_task_244"
+msgstr "Menhir caça ao guardião - diariamente"
+
+msgid "short_desc_task_244"
+msgstr "Mate menhir guardas nesta tarefa diária."
+
+msgid "short_desc_task_244_stage_1"
+msgstr "Mate menhir guardas nesta tarefa diária."
+
+msgid "desc_task_244_stage_1"
+msgstr ""
+"Cace menhir guardas, mas cuidado com outros caçadores, para que não se "
+"tornem os caçados!"
+
+msgid "name_task_245"
+msgstr "Menhir caça - diariamente"
+
+msgid "short_desc_task_245"
+msgstr "Matar menires nesta tarefa diária."
+
+msgid "short_desc_task_245_stage_1"
+msgstr "Matar menires nesta tarefa diária."
+
+msgid "desc_task_245_stage_1"
+msgstr ""
+"Caçai menires, mas guardai-vos de outros caçadores, para que não vos torneis"
+" os caçados!"
+
+msgid "name_task_246"
+msgstr "Caça bruta de minotauro - diariamente"
+
+msgid "short_desc_task_246"
+msgstr "Mata o minotauro bruto nesta tarefa diária."
+
+msgid "short_desc_task_246_stage_1"
+msgstr "Mata o minotauro bruto nesta tarefa diária."
+
+msgid "desc_task_246_stage_1"
+msgstr ""
+"Caçar os brutos minotauros, mas cuidado com outros caçadores, para que você "
+"não se torne o caçado!"
+
+msgid "name_task_247"
+msgstr "Caça nalaed - diariamente"
+
+msgid "short_desc_task_247"
+msgstr "Matar nalaeds nesta tarefa diária."
+
+msgid "short_desc_task_247_stage_1"
+msgstr "Matar nalaeds nesta tarefa diária."
+
+msgid "desc_task_247_stage_1"
+msgstr ""
+"Caçai nalaeds, mas cuidado com outros caçadores, para que não vos torneis os"
+" caçados!"
+
+msgid "name_task_248"
+msgstr "Oaklord Hunt - diariamente"
+
+msgid "short_desc_task_248"
+msgstr "Matai senhores de carvalho nesta tarefa diária."
+
+msgid "short_desc_task_248_stage_1"
+msgstr "Matai senhores de carvalho nesta tarefa diária."
+
+msgid "desc_task_248_stage_1"
+msgstr ""
+"Caçai senhores de carvalho, mas guardai-vos de outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_249"
+msgstr "Areia Iklit caça - diariamente"
+
+msgid "short_desc_task_249"
+msgstr "Slay areia iklits nesta tarefa diária."
+
+msgid "short_desc_task_249_stage_1"
+msgstr "Slay areia iklits nesta tarefa diária."
+
+msgid "desc_task_249_stage_1"
+msgstr ""
+"Caçai iklits de areia, mas cuidado com outros caçadores, para que não vos "
+"torneis os caçados!"
+
+msgid "name_task_250"
+msgstr "Sudário cavaleiro caça - diariamente"
+
+msgid "short_desc_task_250"
+msgstr "Matar cavaleiros envoltos nesta tarefa diária."
+
+msgid "short_desc_task_250_stage_1"
+msgstr "Matar cavaleiros envoltos nesta tarefa diária."
+
+msgid "desc_task_250_stage_1"
+msgstr ""
+"Caçai cavaleiros da mortalha, mas guardai-vos de outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_251"
+msgstr "Snowclan striker caça - diariamente"
+
+msgid "short_desc_task_251"
+msgstr "Slay Snowclan Striker nesta tarefa diária."
+
+msgid "short_desc_task_251_stage_1"
+msgstr "Slay Snowclan Strikers nesta tarefa diária."
+
+msgid "desc_task_251_stage_1"
+msgstr ""
+"Caçar Strikers Snowclan, mas cuidado com outros caçadores, para que você não"
+" se torne o caçado!"
+
+msgid "name_task_252"
+msgstr "Caça ao exarco do sol - diariamente"
+
+msgid "short_desc_task_252"
+msgstr "Slay sol exarchs nesta tarefa diária."
+
+msgid "short_desc_task_252_stage_1"
+msgstr "Slay sol exarchs nesta tarefa diária."
+
+msgid "desc_task_252_stage_1"
+msgstr ""
+"Caçai exarchs do sol para baixo, mas cuidado com outros caçadores, para que "
+"você não se torne o caçado!"
+
+msgid "name_task_253"
+msgstr "Caça ao tigre - diariamente"
+
+msgid "short_desc_task_253"
+msgstr "Matar tigres nesta tarefa diária."
+
+msgid "short_desc_task_253_stage_1"
+msgstr "Matar tigres nesta tarefa diária."
+
+msgid "desc_task_253_stage_1"
+msgstr ""
+"Caçai tigres, mas cuidado com outros caçadores, para que não vos torneis os "
+"caçados!"
+
+msgid "name_task_254"
+msgstr "Caça ao treant - diariamente"
+
+msgid "short_desc_task_254"
+msgstr "Mate os recrutas nesta tarefa diária."
+
+msgid "short_desc_task_254_stage_1"
+msgstr "Mate os recrutas nesta tarefa diária."
+
+msgid "desc_task_254_stage_1"
+msgstr ""
+"Caçai treants, mas cuidado com outros caçadores, para que não vos torneis os"
+" caçados!"
+
+msgid "name_task_255"
+msgstr "Varangian warthane caça - diariamente"
+
+msgid "short_desc_task_255"
+msgstr "Matem os varangianos nesta tarefa diária."
+
+msgid "short_desc_task_255_stage_1"
+msgstr "Matem os varangianos nesta tarefa diária."
+
+msgid "desc_task_255_stage_1"
+msgstr ""
+"Caçar varangianos, mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_256"
+msgstr "Vil Sarnakh caça - diariamente"
+
+msgid "short_desc_task_256"
+msgstr "Matar sarnakhs vil nesta tarefa diária."
+
+msgid "short_desc_task_256_stage_1"
+msgstr "Matar sarnakhs vil nesta tarefa diária."
+
+msgid "desc_task_256_stage_1"
+msgstr ""
+"Caçar sarnakhs vil mas cuidado com outros caçadores, para que você não se "
+"torne o caçado!"
+
+msgid "name_task_257"
+msgstr "Caça ao chefe de tribo selvagem - diariamente"
+
+msgid "short_desc_task_257"
+msgstr "Matar chefes de tribo selvagem nesta tarefa diária."
+
+msgid "short_desc_task_257_stage_1"
+msgstr "Matar chefes de tribo selvagem nesta tarefa diária."
+
+msgid "desc_task_257_stage_1"
+msgstr ""
+"Caçai chefes de tribo selvagem, mas cuidado com outros caçadores, para que "
+"não vos torneis os caçados!"
+
+msgid "name_task_258"
+msgstr "Cacique-chefe Khalos - semanal"
+
+msgid "short_desc_task_258"
+msgstr "Chefe Khalos nesta tarefa semanal."
+
+msgid "short_desc_task_258_stage_1"
+msgstr "Chefe Khalos."
+
+msgid "desc_task_258_stage_1"
+msgstr "Entra no domínio do Chefe Khalos e mata-o."
+
+msgid "name_task_259"
+msgstr "Coleta de algodão - semanal"
+
+msgid "short_desc_task_259"
+msgstr "Recolher algodão."
+
+msgid "short_desc_task_259_stage_1"
+msgstr "Recolher algodão."
+
+msgid "desc_task_259_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de recolher algodão."
+
+msgid "name_task_260"
+msgstr "Fenris caça alfa - semanal"
+
+msgid "short_desc_task_260"
+msgstr "Mata o Fenris Alpha nesta tarefa semanal."
+
+msgid "short_desc_task_260_stage_1"
+msgstr "Mate Fenris Alpha."
+
+msgid "desc_task_260_stage_1"
+msgstr "Entra no domínio de Fenris Alpha e mata-o."
+
+msgid "name_task_261"
+msgstr "Pesca - semanal"
+
+msgid "short_desc_task_261"
+msgstr "Reúna os peixes."
+
+msgid "short_desc_task_261_stage_1"
+msgstr "Reúna os peixes."
+
+msgid "desc_task_261_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de apanhar peixes."
+
+msgid "name_task_262"
+msgstr "Grande caça tikoloshe - semanal"
+
+msgid "short_desc_task_262"
+msgstr "Slay Grand Tikoloshe nesta tarefa semanal."
+
+msgid "short_desc_task_262_stage_1"
+msgstr "Mate Grand Tikoloshe."
+
+msgid "desc_task_262_stage_1"
+msgstr "Entre no domínio de Grand Tikoloshe e mate-o."
+
+msgid "name_task_263"
+msgstr "Inferno fogo juggernaught caça - semanal"
+
+msgid "short_desc_task_263"
+msgstr "Hellfire Juggernaught nesta tarefa semanal."
+
+msgid "short_desc_task_263_stage_1"
+msgstr "Mata Hellfire Juggernaught."
+
+msgid "desc_task_263_stage_1"
+msgstr "Entra no domínio de Hellfire Juggernaught e mata-o."
+
+msgid "name_task_264"
+msgstr "Hjor a grande caça - semanal"
+
+msgid "short_desc_task_264"
+msgstr "Hjor, o Grande, nesta tarefa semanal."
+
+msgid "short_desc_task_264_stage_1"
+msgstr "Slay Hjor, o Grande."
+
+msgid "desc_task_264_stage_1"
+msgstr "Entra no domínio de Hjor, o Grande, e mata-o."
+
+msgid "name_task_265"
+msgstr "A caçada antiga - semanalmente"
+
+msgid "short_desc_task_265"
+msgstr "Slay Ironbark, o Antigo, nesta tarefa semanal."
+
+msgid "short_desc_task_265_stage_1"
+msgstr "Mata o Ironbark, o Antigo."
+
+msgid "desc_task_265_stage_1"
+msgstr "Entra no domínio de Ironbark, o Antigo, e mata-o."
+
+msgid "name_task_266"
+msgstr "Caça ao punho pesado - semanalmente"
+
+msgid "short_desc_task_266"
+msgstr "Slay Ironbeard Heavyfist nesta tarefa semanal."
+
+msgid "short_desc_task_266_stage_1"
+msgstr "Mate Ironbeard Heavyfist."
+
+msgid "desc_task_266_stage_1"
+msgstr "Entra no domínio do Barba de Ferro Heavyfist e mata-o."
+
+msgid "name_task_267"
+msgstr "Coleta de ferro - semanal"
+
+msgid "short_desc_task_267"
+msgstr "Recolher minério de ferro."
+
+msgid "short_desc_task_267_stage_1"
+msgstr "Recolher minério de ferro."
+
+msgid "desc_task_267_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Hora de recolher minério de ferro."
+
+msgid "name_task_268"
+msgstr "Siharo darkbinder cash - semanal"
+
+msgid "short_desc_task_268"
+msgstr "Mate Siharo Darkbinder nesta tarefa semanal."
+
+msgid "short_desc_task_268_stage_1"
+msgstr "Mate Siharo Darkbinder."
+
+msgid "desc_task_268_stage_1"
+msgstr "Entre no domínio de Siharo Darkbinder e mate-a."
+
+msgid "name_task_269"
+msgstr "Coleta de pedra - semanal"
+
+msgid "short_desc_task_269"
+msgstr "Reúna a pedra."
+
+msgid "short_desc_task_269_stage_1"
+msgstr "Reúna a pedra."
+
+msgid "desc_task_269_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de juntar pedras."
+
+msgid "name_task_270"
+msgstr "Coleta de madeira - semanal"
+
+msgid "short_desc_task_270"
+msgstr "Recolha madeira."
+
+msgid "short_desc_task_270_stage_1"
+msgstr "Recolha madeira."
+
+msgid "desc_task_270_stage_1"
+msgstr ""
+"O trabalho está sempre disponível para aqueles dispostos a obter recursos. "
+"Está na hora de recolher madeira."
+
+msgid "name_task_271"
+msgstr "Vlad caça ao anoitecer - semanal"
+
+msgid "short_desc_task_271"
+msgstr "Mate vlad ao anoitecer nesta tarefa semanal."
+
+msgid "short_desc_task_271_stage_1"
+msgstr "Mata o Vlad Duskward."
+
+msgid "desc_task_271_stage_1"
+msgstr "Entra no domínio de Vlad Duskward e mata-o."
+
+msgid "name_task_272"
+msgstr "Warlord choppah cash - semanal"
+
+msgid "short_desc_task_272"
+msgstr "Matar o Warlord Choppah nesta tarefa semanal."
+
+msgid "short_desc_task_272_stage_1"
+msgstr "Mate o senhor da guerra Choppah."
+
+msgid "desc_task_272_stage_1"
+msgstr "Entrai no domínio do Senhor da Guerra Choppa e matai-o."
