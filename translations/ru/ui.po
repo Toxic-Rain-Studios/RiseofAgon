@@ -152,6 +152,21 @@ msgstr "Злословие"
 msgid "item_negative_effect_protection"
 msgstr "Защита от всего"
 
+msgid "item_scroll_name"
+msgstr "Имя"
+
+msgid "item_scroll_applied_to"
+msgstr "Применяемый к"
+
+msgid "item_scroll_rank"
+msgstr "Ранг"
+
+msgid "item_skin_name_suffix"
+msgstr "Кожа"
+
+msgid "item_emote_name_suffix"
+msgstr "Одурманивать"
+
 msgid "item_one_handed"
 msgstr "Одной рукой"
 
@@ -475,6 +490,10 @@ msgstr "Послание, чтобы сказать"
 
 msgid "chat_server_cmd_say_gm_events_desc"
 msgstr "Отправляет объявление о GM-событиях всем игрокам"
+
+msgid "chat_server_cmd_say_gm_race_channel_desc"
+msgstr ""
+"перекликается с сообщением персонала в этом чате о расе или расовом союзе"
 
 msgid "chat_server_cmd_say_gm_desc"
 msgstr "Эхо-сообщение для всех онлайн gms"
@@ -920,6 +939,24 @@ msgstr "Количество сглаживания мыши"
 msgid "options_input_mouse_invert"
 msgstr "Инвертировать мышь и ось в игровом режиме"
 
+msgid "options_input_experimental_section"
+msgstr "Экспериментальный"
+
+msgid "options_input_multiple_sensitivities"
+msgstr "Включите множественную чувствительность - экспериментальная"
+
+msgid "options_input_melee_sensitivity_text"
+msgstr "Чувствительность к ближнему (третий человек)"
+
+msgid "options_input_melee_sensitivity"
+msgstr "%1"
+
+msgid "options_input_first_person_sensitivity_text"
+msgstr "Чувствительность первого лица (лук/сотрудник)"
+
+msgid "options_input_first_person_sensitivity"
+msgstr "%1"
+
 msgid "options_input_joystick_x_sensitivity"
 msgstr "Чувствительность джойстика x"
 
@@ -944,6 +981,9 @@ msgstr "Время затухания"
 msgid "options_gui_confirm_item_drops"
 msgstr "Подтвердить пункт капли"
 
+msgid "options_gui_show_target_use_hints"
+msgstr "Показать подсказки Use-Key на целевой"
+
 msgid "options_gui_confirm_item_drop_on_ground"
 msgstr "Подтвердить падение предмета на землю"
 
@@ -967,6 +1007,9 @@ msgstr "Скорость набора инструментов"
 
 msgid "options_gui_auto_tooltip_duration"
 msgstr "Автоматическая продолжительность набора инструментов"
+
+msgid "options_gui_selected_skill_auto_tooltip"
+msgstr "Показать инструментарий при выборе навыка"
 
 msgid "options_gui_active_window_opacity"
 msgstr "Активная непрозрачность окон"
@@ -1022,6 +1065,12 @@ msgstr "Горизонтальный счетчик"
 msgid "options_gui_show_buff_timers"
 msgstr "Шоу-таймеры"
 
+msgid "options_gui_show_party_overhead_icon"
+msgstr "Показывать значок группы над головой"
+
+msgid "options_gui_show_clan_overhead_icon"
+msgstr "Показывать значок клана над головой"
+
 msgid "options_gui_buff_timer_display_in_seconds"
 msgstr "Дисплей таймера в секундах"
 
@@ -1030,6 +1079,12 @@ msgstr "Используйте компактный диск для здоров
 
 msgid "options_gui_use_legacy_health_bar_targeting"
 msgstr "Используйте компактную целевую панель здоровья"
+
+msgid "options_gui_show_target_health_percent"
+msgstr "Показать процент от целевого бара здоровья"
+
+msgid "options_gui_mob_health_bars"
+msgstr "Монстровые батончики здоровья"
 
 msgid "options_gui_hide_paperdoll_cooldown_ring"
 msgstr "Кольцо хладнокровия / Paperdoll"
@@ -1040,78 +1095,299 @@ msgstr "Иконки скрытого баффа, если курсор не п�
 msgid "options_video_maxnumdynamiclight"
 msgstr "Максимальное количество динамических огней: %1"
 
+msgid "options_video_maxnumdynamiclight_tooltip_perf"
+msgstr "Производительность: средний"
+
+msgid "options_video_maxnumdynamiclight_tooltip"
+msgstr ""
+"Сколько близлежащих источников света — факелы, лава, заклинания — могут "
+"осветить мир сразу. Только огни в пределах 350 м от вас засчитываются, "
+"поэтому пустые участки ничего не стоят. Обратите внимание, что стоимость "
+"повышается при сверхотборе проб, потому что пропуск освещения проходит при "
+"увеличенном разрешении."
+
 msgid "options_video_maxnumbloodstains"
 msgstr "Максимальное количество пятен крови: %1"
 
 msgid "options_video_maxnumparticles"
 msgstr "Максимальное количество эффектов частиц: %1"
 
+msgid "options_video_maxnumparticles_tooltip_perf"
+msgstr "Выступление: незначительное, когда тихое, выше в тяжелом бою"
+
+msgid "options_video_maxnumparticles_tooltip"
+msgstr ""
+"Сколько эффектов частиц может протекать одновременно — удары заклинания, "
+"огонь, кровь, погода. Ничего не стоит, пока ничего не происходит, и больше "
+"всего во время напряженного боя, поэтому снижение его в основном помогает в "
+"моменты, когда частота кадров имеет наибольшее значение."
+
 msgid "options_video_auto_optimize"
 msgstr "Включить автоматическую оптимизацию."
+
+msgid "options_video_auto_optimize_tooltip_perf"
+msgstr "Производительность: помогает в борьбе, ничего не стоит иначе"
+
+msgid "options_video_auto_optimize_tooltip"
+msgstr ""
+"Наблюдает за частотой кадров и, когда она падает ниже фигуры, установленной "
+"под ней, автоматически становится более агрессивным в том, чтобы не рисовать"
+" маленькие удаленные объекты. Он снова расслабляется, как только частота "
+"кадров восстанавливается."
 
 msgid "options_video_auto_optimize_target_fps"
 msgstr "Если FPS опустится ниже %1, начнется автоматическая оптимизация."
 
+msgid "options_video_auto_optimize_target_fps_tooltip_perf"
+msgstr "Производительность: устанавливает цель, без собственных затрат"
+
+msgid "options_video_auto_optimize_target_fps_tooltip"
+msgstr ""
+"Скорость кадров Auto Optimization пытается удержать. Он делает только то, "
+"что включает автоматическую оптимизацию."
+
 msgid "options_video_object_clipping"
 msgstr "Позволяет срезать объект"
 
+msgid "options_video_object_clipping_tooltip_perf"
+msgstr "Производительность: экономия - выключение этой частоты кадров затрат"
+
+msgid "options_video_object_clipping_tooltip"
+msgstr ""
+"Прекратите рисовать объекты, когда они достаточно малы на экране, чтобы их "
+"не пропустить - ящик на расстоянии, а не здание. Один из самых дешевых "
+"способов купить частоту кадров, причем по умолчанию."
+
 msgid "options_video_object_clipping_max_size_to_clip"
 msgstr "Максимальный размер объекта к клипу."
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip_perf"
+msgstr ""
+"Производительность: более высокие клипы больше, поэтому экономит больше"
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip"
+msgstr ""
+"Объекты большего размера никогда не обрезаются, как бы далеко они ни "
+"находились, так что достопримечательности и здания не исчезают. Применяется "
+"только при включенном объектном клиппинге."
 
 msgid "options_video_object_clipping_max_function_value"
 msgstr ""
 "Максимальное значение функции для клипа (нижнее значение = большая "
 "вероятность клипа)."
 
+msgid "options_video_object_clipping_max_function_value_tooltip_perf"
+msgstr "Производительность: ниже экономит больше"
+
+msgid "options_video_object_clipping_max_function_value_tooltip"
+msgstr ""
+"Как агрессивно обрезаются предметы. Более низкое значение клипов больше, за "
+"счет предметов, исчезающих ближе к вам. Применяется только при включенном "
+"объектном клиппинге."
+
 msgid "options_video_object_min_distance_to_clip"
 msgstr ""
 "Минимальное расстояние, на которое должен находиться объект, прежде чем он "
 "может быть обрезан."
 
+msgid "options_video_object_min_distance_to_clip_tooltip_perf"
+msgstr "Производительность: ниже экономит больше"
+
+msgid "options_video_object_min_distance_to_clip_tooltip"
+msgstr ""
+"Нет ничего ближе к вам, чем это когда-либо обрезано, поэтому предметы "
+"никогда не исчезают из-под ног. Применяется только при включенном объектном "
+"клиппинге."
+
 msgid "options_video_enable_ssao"
 msgstr "Включить окружающую окклюзию (ssao)"
+
+msgid "options_video_enable_ssao_tooltip_perf"
+msgstr "Производительность: minor"
+
+msgid "options_video_enable_ssao_tooltip"
+msgstr ""
+"Добавляет мягкое контактное затенение там, где встречаются поверхности — под"
+" карнизами, в углах, где предметы касаются земли. Добавляет глубину, не "
+"затрагивая реальных теней."
 
 msgid "options_video_enable_filmic_tone"
 msgstr "Позволяет отображать кинематографический тон"
 
+msgid "options_video_enable_filmic_tone_tooltip_perf"
+msgstr "Производительность: minor"
+
+msgid "options_video_enable_filmic_tone_tooltip"
+msgstr ""
+"Применяет пленочную кривую к окончательному изображению, оттягивая "
+"выдуваемые блики и углубляя тени, а не обрезая их."
+
 msgid "options_video_filmic_tone_strength"
 msgstr "Фильмическая сила отображения тона"
+
+msgid "options_video_filmic_tone_strength_tooltip_perf"
+msgstr "Производительность: никто, кроме самого эффекта"
+
+msgid "options_video_filmic_tone_strength_tooltip"
+msgstr ""
+"Насколько сильно применяется пленочная кривая. Более высокое означает "
+"большую контрастность и более сильный откат в ярких областях; более низкое "
+"держит изображение ближе к тому, как двигатель его визуализировал. Чисто "
+"внешнее предпочтение."
 
 msgid "options_video_enable_godrays"
 msgstr "Дай Бог лучей"
 
+msgid "options_video_enable_godrays_tooltip_perf"
+msgstr "Производительность: средний"
+
+msgid "options_video_enable_godrays_tooltip"
+msgstr ""
+"Видимые валы света через пробелы в геометрии, такие как солнце через деревья"
+" или дверной проем."
+
 msgid "options_video_godray_intensity"
 msgstr "Интенсивность божественного луча"
 
+msgid "options_video_godray_intensity_tooltip_perf"
+msgstr "Производительность: никто, кроме самого эффекта"
+
+msgid "options_video_godray_intensity_tooltip"
+msgstr ""
+"Насколько ярко выражены световые валы. Меняет внешний вид, а не объем "
+"работы, поэтому стоимость заключается в том, чтобы включить God Rays."
+
 msgid "options_video_enable_animation_reduction"
-msgstr "Обеспечить снижение качества анимации."
+msgstr "Обеспечить снижение качества анимации. (неактивно - никакого эффекта)"
+
+msgid "options_video_enable_animation_reduction_tooltip_perf"
+msgstr "Исполнитель: None"
+
+msgid "options_video_enable_animation_reduction_tooltip"
+msgstr ""
+"В настоящее время не имеет эффекта. Настройка сохраняется и запоминается, но"
+" ничего не читается, поэтому анимация не уменьшается на любом расстоянии."
 
 msgid "options_video_animation_reduction_start"
-msgstr "Минимальное расстояние для начала снижения качества анимации."
+msgstr ""
+"Минимальное расстояние для начала снижения качества анимации. (неактивно)"
+
+msgid "options_video_animation_reduction_start_tooltip_perf"
+msgstr "Исполнитель: None"
+
+msgid "options_video_animation_reduction_start_tooltip"
+msgstr ""
+"В настоящее время не имеет эффекта - см. Возможность снижения качества "
+"анимации."
 
 msgid "options_video_animation_reduction_per_meter"
-msgstr "Снижение качества анимации на метр."
+msgstr "Снижение качества анимации на метр. (неактивный)"
+
+msgid "options_video_animation_reduction_per_meter_tooltip_perf"
+msgstr "Исполнитель: None"
+
+msgid "options_video_animation_reduction_per_meter_tooltip"
+msgstr ""
+"В настоящее время не имеет эффекта - см. Возможность снижения качества "
+"анимации."
 
 msgid "options_video_vegetation_area_size"
 msgstr "Площадь растительности: %1"
 
+msgid "options_video_vegetation_area_size_tooltip_perf"
+msgstr "Производительность: основные - более низкие значения стоят дороже"
+
+msgid "options_video_vegetation_area_size_tooltip"
+msgstr ""
+"Радиус, по которому разбросана трава. Это работает вместе с плотностью "
+"растительности: количество растений ограничено, поэтому МЕНЬШАЯ область "
+"упаковывает то же самое число ближе к вам - более толстую траву и более "
+"тяжелую нагрузку, потому что больше ее заполняет экран. Большая площадь "
+"распространяет растения тоньше, но притягивает их дальше на расстояние."
+
 msgid "options_video_vegetation_density"
 msgstr "Плотность растительности: %1"
+
+msgid "options_video_vegetation_density_tooltip_perf"
+msgstr "Производительность: основные - более высокие значения стоят дороже"
+
+msgid "options_video_vegetation_density_tooltip"
+msgstr ""
+"Сколько растений разбросано. Это работает вместе с размером растительной "
+"зоны: больше растений является более тяжелой нагрузкой, и при максимальном "
+"разбросе останавливается размещение каких-либо дополнительных, поэтому "
+"повышение будет стоить только памяти. Объедините с небольшой площадью для "
+"густой травы рядом или большой площадью для разреженной травы, которая "
+"достигает дальше."
 
 msgid "options_video_enable_triple_buffering"
 msgstr "Включите тройной буфер."
 
+msgid "options_video_enable_triple_buffering_tooltip"
+msgstr ""
+"Только имеет какой-либо эффект, когда включена вертикальная синхронизация, "
+"где она сглаживает кадры, которые пропускают обновление, за счет немного "
+"большей задержки ввода."
+
+msgid "options_video_enable_triple_buffering_tooltip_perf"
+msgstr "Производительность: незначительный"
+
+msgid "options_video_legacy_third_person_camera"
+msgstr "3-я камера от третьего лица"
+
 msgid "options_video_wait_for_vsync"
 msgstr "Дождитесь вертикальной синхронизации на мониторе."
 
+msgid "options_video_wait_for_vsync_tooltip"
+msgstr ""
+"Сопоставляет частоту кадров с частотой обновления вашего монитора, удаляя "
+"горизонтальное разрывание, которое вы видите, когда они расходятся. Затраты "
+"на небольшую задержку ввода и ограничивают частоту кадров с частотой "
+"обновления."
+
+msgid "options_video_wait_for_vsync_tooltip_perf"
+msgstr "Производительность: minor"
+
 msgid "options_maxfps"
 msgstr "Максимальный fps: %1"
+
+msgid "options_maxfps_tooltip"
+msgstr ""
+"Ограничивает частоту кадров по выбранному максимуму. Полезно остановить "
+"карточку, идущую ровно для кадров, которые вы не можете видеть."
+
+msgid "options_maxfps_tooltip_perf"
+msgstr "Производительность: уменьшает нагрузку при ограничении"
+
+msgid "options_video_background_frame_cap"
+msgstr "Ограниченная частота кадров во время игры в фоновом режиме (30 fps)"
+
+msgid "options_video_background_frame_cap_tooltip_perf"
+msgstr "Производительность: экономия на фоне"
+
+msgid "options_video_background_frame_cap_tooltip"
+msgstr ""
+"Размещает частоту кадров до 30, в то время как окно игры не сфокусировано, "
+"поэтому карта не работает ровно для окна, на которое вы не смотрите. "
+"Оставьте это, если вы не измеряете производительность, так как он будет "
+"удерживать вас на уровне 30 каждый раз, когда вы удаляетесь."
 
 msgid "options_video_enable_antialiasing"
 msgstr "Позволяет противопоказания."
 
 msgid "options_video_antialiasing_quality"
 msgstr "Сглаживание (суперотбор проб): %1"
+
+msgid "options_video_antialiasing_quality_tooltip_perf"
+msgstr "Производительность: 2x средний, 4x крупный"
+
+msgid "options_video_antialiasing_quality_tooltip"
+msgstr ""
+"Сглаживает ступенчатые края: сцена рассчитывается в разрешении выше "
+"экранного, а затем уменьшается. Это самая требовательная настройка игры: в "
+"практическом тесте режим 2x добавлял около 1.5ms на кадр, а 4x — около 14ms,"
+" что снижало частоту кадров примерно на три четверти. Используйте FXAA, если"
+" хотите сгладить края с небольшими затратами производительности."
 
 msgid "options_video_antialiasing_tier_off"
 msgstr "Выключать"
@@ -1128,50 +1404,193 @@ msgstr "4xx"
 msgid "options_video_enable_fxaa"
 msgstr "Включить FXAA (быстрое сглаживание)."
 
+msgid "options_video_enable_fxaa_tooltip_perf"
+msgstr "Производительность: минимальная"
+
+msgid "options_video_enable_fxaa_tooltip"
+msgstr ""
+"Дешевый сглаживающий проход, применяемый после того, как сцена нарисована. "
+"Гораздо мягче по эффекту, чем суперсэмплирование, и почти бесплатно — это "
+"разумный выбор на большинстве машин."
+
 msgid "options_video_gamma_correction"
 msgstr "Гамма-коррекция: %1"
+
+msgid "options_video_gamma_correction_tooltip"
+msgstr ""
+"Яркость или омрачает весь образ. Работает только на полном экране - Windows "
+"игнорирует гамма-рампу в оконном и безграничном режимах."
+
+msgid "options_video_gamma_correction_tooltip_perf"
+msgstr "Исполнитель: None"
 
 msgid "options_video_enable_shadows"
 msgstr "Включите тень."
 
+msgid "options_video_enable_shadows_tooltip_perf"
+msgstr "Производительность: Major"
+
+msgid "options_video_enable_shadows_tooltip"
+msgstr ""
+"Мастер переключается на тени, отбрасываемые в мир. Отключение этого снимает "
+"весь теневой проход и является одной из крупнейших доступных сбережений, при"
+" очевидной стоимости того, как выглядит мир."
+
 msgid "options_video_enable_scenery_shadows"
 msgstr "Включите Scenery Shadows"
+
+msgid "options_video_enable_scenery_shadows_tooltip_perf"
+msgstr "Производительность: средне- и крупная"
+
+msgid "options_video_enable_scenery_shadows_tooltip"
+msgstr ""
+"Отбрасывает ли геометрия мира - здания, деревья, особенности местности - "
+"тени. Обычно большая половина стоимости теней, так как декораций гораздо "
+"больше, чем персонажей."
 
 msgid "options_video_enable_character_shadows"
 msgstr "Включите тень персонажей."
 
+msgid "options_video_enable_character_shadows_tooltip_perf"
+msgstr "Производительность: средний"
+
+msgid "options_video_enable_character_shadows_tooltip"
+msgstr ""
+"Игроки, горы и монстры отбрасывают тени. Дешевле, чем декорации теней в "
+"большинстве мест, но растет с количеством персонажей на экране, поэтому он "
+"стоит больше всего в многолюдном бою."
+
 msgid "options_video_shadow_quality"
 msgstr "Выбираем качество теней"
+
+msgid "options_video_shadow_quality_tooltip_perf"
+msgstr "Производительность: от среднего до крупного на верхнем конце"
+
+msgid "options_video_shadow_quality_tooltip"
+msgstr ""
+"Разрешение теневой карты, от 1024 на Лоу до 8192 на Максе. Более высокие "
+"означают более четкие края тени, а не блочные; каждый шаг вверх в четыре "
+"раза увеличивает количество нарисованных теневых пикселей."
 
 msgid "options_video_shadow_smoothing"
 msgstr "Выберите качество Shadowsmoothing"
 
+msgid "options_video_shadow_smoothing_tooltip_perf"
+msgstr "Производительность: средний"
+
+msgid "options_video_shadow_smoothing_tooltip"
+msgstr ""
+"Сколько работы уходит на смягчение края тени. Более высокие настройки "
+"пробуют теневую карту больше раз на пиксель, торгуя частотой кадров для "
+"краев, которые выглядят мягкими вместо зазубренных."
+
 msgid "options_video_enable_drop_shadows"
-msgstr "Позволяет отбрасывать тени"
+msgstr "Включите падающие тени (неактивный - никакого эффекта)"
+
+msgid "options_video_enable_drop_shadows_tooltip_perf"
+msgstr "Исполнитель: None"
+
+msgid "options_video_enable_drop_shadows_tooltip"
+msgstr ""
+"В настоящее время не имеет эффекта. Система «падающей тени» все еще "
+"построена и поддерживается в живых, но вызов, который ее вызовет, "
+"комментируется в рендере, поэтому перетасовка этого не меняет ничего, что вы"
+" можете увидеть."
 
 msgid "options_video_shader_version"
 msgstr "Выберите версию Shadowr"
 
 msgid "options_video_texture_quality"
-msgstr "Выберите качество текстуры (рекомендуется по умолчанию)"
+msgstr "Выберите качество текстуры (неактивное - никакого эффекта)"
+
+msgid "options_video_texture_quality_tooltip_perf"
+msgstr "Исполнитель: None"
+
+msgid "options_video_texture_quality_tooltip"
+msgstr ""
+"В настоящее время не имеет эффекта. Настройка сохраняется и запоминается, но"
+" никогда не достигает рендерера, поэтому ее изменение не изменит внешний вид"
+" игры."
 
 msgid "options_video_texture_filtering"
 msgstr "Выберите фильтрацию текстуры"
 
+msgid "options_video_texture_filtering_tooltip_perf"
+msgstr "Производительность: minor"
+
+msgid "options_video_texture_filtering_tooltip"
+msgstr ""
+"Как текстуры отбираются и смешиваются между уровнями детализации "
+"Анизотропный является самым острым и рекомендуемой установкой."
+
 msgid "options_video_texture_anisotropy_level"
 msgstr "Выберите уровень текстуры анизотропии"
+
+msgid "options_video_texture_anisotropy_level_tooltip_perf"
+msgstr "Производительность: minor"
+
+msgid "options_video_texture_anisotropy_level_tooltip"
+msgstr ""
+"Как острые текстуры остаются при взгляде под крутым углом, таким как земля, "
+"простирающаяся от вас. Выше держит детали на горизонте вместо того, чтобы "
+"размываться в кашу на несколько шагов вперед. Применяется только тогда, "
+"когда фильтрация текстур настроена на анизотроп."
 
 msgid "options_video_enable_post_process_effects"
 msgstr "Включите эффекты пост-процесса."
 
+msgid "options_video_enable_post_process_effects_tooltip_perf"
+msgstr "Производительность: средний"
+
+msgid "options_video_enable_post_process_effects_tooltip"
+msgstr ""
+"Главный переключатель для эффектов пространства экрана, применяемых после "
+"того, как нарисован мир, таких как отображение тонов и божественные лучи. "
+"Выключая его, пропускаешь всю сцену."
+
 msgid "options_video_display_mode"
 msgstr "Выберите режим отображения"
+
+msgid "options_video_display_mode_tooltip"
+msgstr ""
+"Полный экран и окно позволяют изменять разрешение. Безграничный оконный "
+"режим в настоящее время этого не позволяет."
+
+msgid "options_video_display_mode_tooltip_perf"
+msgstr "Исполнитель: None"
 
 msgid "options_gui_scale"
 msgstr "Шкала гуй %: %1"
 
+msgid "options_gui_scale_tooltip"
+msgstr ""
+"Увеличивает или уменьшает размер окон GUI. Значения, отличные от 100%, могут"
+" выталкивать окна с экрана."
+
+msgid "options_gui_scale_tooltip_perf"
+msgstr "Производительность: незначительный"
+
 msgid "options_video_fov"
 msgstr "Поле зрения: %1"
+
+msgid "options_video_fov_tooltip"
+msgstr "Расширяет взгляд игрока."
+
+msgid "options_video_fov_tooltip_perf"
+msgstr "Производительность: незначительный"
+
+msgid "options_video_view_distance"
+msgstr "Расстояние обзора: %1 м"
+
+msgid "options_video_view_distance_tooltip_perf"
+msgstr ""
+"Производительность: средняя и варьируется в зависимости от местоположения"
+
+msgid "options_video_view_distance_tooltip"
+msgstr ""
+"Как далеко вдалеке простирается мир. Стоимость сильно зависит от того, где "
+"вы находитесь - открытая местность с длинной прицельной линией намного "
+"дороже подземелья или городской улицы."
 
 msgid "options_video_displaymodelist"
 msgstr "Выберите разрешение отображения."
@@ -1391,6 +1810,30 @@ msgstr "Стоимость мана"
 msgid "abilities_detail_stamina"
 msgstr "Стоимость выносливости"
 
+msgid "abilities_detail_health"
+msgstr "Медицинские расходы"
+
+msgid "skillcard_level"
+msgstr "Lv %1"
+
+msgid "skillcard_cost_health"
+msgstr "Здоровье %1"
+
+msgid "skillcard_cost_stamina"
+msgstr "Выносливость %1"
+
+msgid "skillcard_cost_mana"
+msgstr "Мана %1"
+
+msgid "skillcard_cooldown"
+msgstr "Охлаждение %1s"
+
+msgid "skillcard_shared_cooldown"
+msgstr "Общее охлаждение: %1"
+
+msgid "skillcard_cast"
+msgstr "Литье %1s"
+
 msgid "abilities_detail_reagents"
 msgstr "Реагенты"
 
@@ -1410,6 +1853,9 @@ msgstr "Крафтовая скамья"
 
 msgid "abilities_search_placeholder"
 msgstr "Поиск для входа"
+
+msgid "abilities_search_in_selected"
+msgstr "Поиск по выбору"
 
 msgid "abilities_filter_button"
 msgstr "Фильтры"
@@ -2075,6 +2521,56 @@ msgstr "%3: %1 из %2"
 msgid "alignmentbar_tooltip"
 msgstr "%3: %1 из %2"
 
+msgid "progressbar_tooltip_pct"
+msgstr "%4: %1 / %2 (%3%)"
+
+msgid "alignment_tt_header"
+msgstr "Репутация: %1 / %2"
+
+msgid "alignment_tt_range"
+msgstr ""
+"Диапазон: от -1000 до 1000. Центр шкалы соответствует нулю, поэтому персонаж"
+" со значением 0 находится посередине."
+
+msgid "alignment_tt_sec_losing"
+msgstr "Потеря репутации:"
+
+msgid "alignment_tt_losing"
+msgstr ""
+"Репутация снижается только за убийство представителя своей расы и только в "
+"статусе «Вне закона»."
+
+msgid "alignment_tt_losing2"
+msgstr ""
+"Законопослушные игроки принудительно получают серый статус в красных зонах и"
+" потому не могут терять репутацию. Это уравнивает их там с игроками вне "
+"закона."
+
+msgid "alignment_tt_sec_stance"
+msgstr "Статус:"
+
+msgid "alignment_tt_stance"
+msgstr ""
+"Отношение стражников и башен фракций определяется вашим статусом, а не "
+"репутацией."
+
+msgid "alignment_tt_stance2"
+msgstr "Игроков вне закона атакуют независимо от их репутации."
+
+msgid "alignment_tt_sec_gaining"
+msgstr "Получение репутации:"
+
+msgid "alignment_tt_gaining"
+msgstr "+1 каждые 20 минут в сети в законопослушном статусе, до 1000."
+
+msgid "alignment_tt_gaining2"
+msgstr ""
+"Статус «Вне закона» приостанавливает этот процесс, а потеря репутации заново"
+" запускает отсчёт 20 минут."
+
+msgid "alignment_tt_gaining3"
+msgstr "Убийство монстров и молитвы не повышают репутацию."
+
 msgid "minimap_character_coordinates"
 msgstr "%1' %2'' %3   %4' %5'' %6"
 
@@ -2697,6 +3193,229 @@ msgstr "Площадь: %1"
 msgid "map_tooltip_prefix_distance"
 msgstr "Расстояние: %1"
 
+msgid "map_tt_sec_tile_rating"
+msgstr "Рейтинг территории:"
+
+msgid "map_tt_sec_region"
+msgstr "Регион:"
+
+msgid "map_tt_sec_market"
+msgstr "Рынок:"
+
+msgid "map_tt_sec_territory"
+msgstr "Территория:"
+
+msgid "map_tt_sec_alliances"
+msgstr "Альянсы:"
+
+msgid "map_tt_sec_clans"
+msgstr "Кланы:"
+
+msgid "map_tt_lawless_players"
+msgstr "Беззаконные игроки теряют полный инвентарь в каждой зоне."
+
+msgid "map_tt_alliance_nagast"
+msgstr "Пурпурный - бич нагаста"
+
+msgid "map_tt_alliance_trinity"
+msgstr "Зеленый - праведная троица"
+
+msgid "map_tt_alliance_savages"
+msgstr "Коричневый - дикие рейдеры"
+
+msgid "map_tt_clans_body"
+msgstr "У каждого клана свой цвет. Грей не принадлежит."
+
+msgid "map_tt_regions_body"
+msgstr ""
+"Niflheim, Yssam, Rubaiyat, Cairn, Agon и моря. Розовые области являются "
+"родиной расы."
+
+msgid "map_tt_territory_body"
+msgstr "Хранение глифов территории дает свой бонус владельцу."
+
+msgid "map_tt_territory_pulse"
+msgstr "Пульсирующая территория имеет глиф под угрозой."
+
+msgid "map_tt_territory_bonus"
+msgstr "Бонус: %1"
+
+msgid "map_tt_hover_hint"
+msgstr "Наведите карту для деталей на любой плитке."
+
+msgid "skillext_header"
+msgstr "Выберите обновление для применения к %1 - одно обновление на слот"
+
+msgid "skillext_name_blocked"
+msgstr "%1 (заблокировано)"
+
+msgid "skillext_tt_sec_slot"
+msgstr "Ячейка:"
+
+msgid "skillext_tt_slot_members"
+msgstr "Вы можете провести одно обновление из этого слота: %1."
+
+msgid "skillext_tt_replaces"
+msgstr "Покупка заменяет %1."
+
+msgid "skillext_tt_owned"
+msgstr "Вы владеете этим обновлением."
+
+msgid "skillext_tt_sec_conflict"
+msgstr "Не может сочетаться с:"
+
+msgid "skillext_tt_blocked"
+msgstr "Вы владеете %1. Удалите его перед покупкой."
+
+msgid "tooltip_enchant_ingredient_section"
+msgstr "Очаровательно:"
+
+msgid "tooltip_enchant_ingredient_quality"
+msgstr "Качество"
+
+msgid "tooltip_enchant_ingredient_requires"
+msgstr "Требуется очарование"
+
+msgid "tooltip_enchant_ingredient_gems"
+msgstr "Драгоценные камни"
+
+msgid "tooltip_enchant_ingredient_gems_value"
+msgstr "%1 или лучше"
+
+msgid "tooltip_enchant_ingredient_used_enchants"
+msgstr "Используется в заклинаниях:"
+
+msgid "tooltip_enchant_ingredient_used_transmutes"
+msgstr "Используется в трансмутациях:"
+
+msgid "map_tt_spawn_difficulty"
+msgstr "Показывает монстра, порождающего точки этой трудности."
+
+msgid "map_tt_spawn_boss"
+msgstr "Показаны очки босса."
+
+msgid "map_tt_spawn_champion"
+msgstr "Показаны очки чемпиона."
+
+msgid "map_tt_spawn_dungeon"
+msgstr "Показаны точки нереста монстров внутри подземелий."
+
+msgid "map_tt_spawn_range"
+msgstr ""
+"Показаны только нерестовые породы в пределах диапазона местоположений "
+"монстров."
+
+msgid "map_tt_struct_dungeons"
+msgstr "Показаны подземелья."
+
+msgid "map_tt_struct_npc_cities"
+msgstr "Показаны города и столицы, управляемые NPC."
+
+msgid "map_tt_struct_faction_cities"
+msgstr ""
+"Показаны холдинги, за которые борются расовые альянсы, в цвете владельца:"
+
+msgid "map_tt_struct_faction_cities_click"
+msgstr "Нажмите один на карте, чтобы увидеть его статус."
+
+msgid "map_tt_struct_clan_cities"
+msgstr "Показывает города и деревни, принадлежащие кланам игроков."
+
+msgid "map_tt_struct_glyphs"
+msgstr ""
+"Показывает рунические глифы. Держащий глиф претендует на свою территорию и "
+"бонус."
+
+msgid "map_tt_struct_glyphs_political"
+msgstr ""
+"Включите политическое наложение, чтобы увидеть, кто владеет каждой "
+"территорией."
+
+msgid "map_tt_struct_villages"
+msgstr "Показывает деревни, которые кланы могут захватить и удержать."
+
+msgid "map_tt_advanced_coordinates"
+msgstr ""
+"Показывает позиции на карте инструментальной подсказки как долгота и широта."
+
+msgid "map_tt_advanced_coordinates_off"
+msgstr ""
+"При выключении положения находятся в метрах внутри плитки, измеренные из ее "
+"нижнего левого угла."
+
+msgid "map_tooltip_tile_rating_protected"
+msgstr "Зона безопасности"
+
+msgid "map_tooltip_tile_rating_protected_desc"
+msgstr "Законные игроки держат свое снаряжение и рюкзак на смерти."
+
+msgid "map_tooltip_tile_rating_lawful"
+msgstr "Законопослушный"
+
+msgid "map_tooltip_tile_rating_lawful_desc"
+msgstr ""
+"Законные игроки держат снаряженное снаряжение на смерти, но бросают рюкзак."
+
+msgid "map_tooltip_tile_rating_neutral"
+msgstr "Нейтральный"
+
+msgid "map_tooltip_tile_rating_neutral_desc"
+msgstr "Полная добыча: все бросают свое снаряжение и рюкзак на смерть."
+
+msgid "map_tooltip_tile_rating_lawless"
+msgstr "Вне закона"
+
+msgid "map_tooltip_tile_rating_lawless_desc"
+msgstr "Полная добыча: все бросают свое снаряжение и рюкзак на смерть."
+
+msgid "map_tooltip_overlay_region_desc"
+msgstr "Рынок игроков показывает списки из региона, в котором вы находитесь."
+
+msgid "map_region_niflheim"
+msgstr "Niflheim"
+
+msgid "map_region_yssam"
+msgstr "Yssam"
+
+msgid "map_region_rubaiyat"
+msgstr "Rubaiyat"
+
+msgid "map_region_cairn"
+msgstr "Cairn"
+
+msgid "map_region_center"
+msgstr "Agon"
+
+msgid "map_region_sea"
+msgstr "Острова и моря"
+
+msgid "map_region_humanlands"
+msgstr "Человеческие земли"
+
+msgid "map_region_alfarlands"
+msgstr "Alfar земель"
+
+msgid "map_region_elflands"
+msgstr "Mirdain земель"
+
+msgid "map_region_mahirimlands"
+msgstr "Mahirim земель"
+
+msgid "map_region_dwarflands"
+msgstr "Карликовые земли"
+
+msgid "map_region_orclands"
+msgstr "Орковые земли"
+
+msgid "map_tooltip_overlay_territory_unowned"
+msgstr "Непринадлежащая территория"
+
+msgid "map_tooltip_overlay_territory_contested"
+msgstr "Глиф здесь оспаривается."
+
+msgid "map_tooltip_overlay_territory_immune"
+msgstr "Недавно пойманные - пока не могут быть оспорены."
+
 msgid "map_tooltip_prefix_spawn"
 msgstr "%1"
 
@@ -2707,7 +3426,7 @@ msgid "map_tooltip_prefix_dungeons"
 msgstr "%1"
 
 msgid "map_tooltip_prefix_quest"
-msgstr "%1"
+msgstr "Квест: %1"
 
 msgid "map_tooltip_prefix_stone_bind"
 msgstr "Bindstone: %1"
@@ -2905,6 +3624,14 @@ msgstr "Цена: мин."
 
 msgid "market_filter_location"
 msgstr "Местоположение:"
+
+msgid "market_filter_show_all_regions"
+msgstr "Показать все регионы"
+
+msgid "market_filter_show_all_regions_tooltip"
+msgstr ""
+"Заказы из других регионов не могут быть куплены или заполнены здесь. "
+"Перечислите их в любом случае."
 
 msgid "market_section_select"
 msgstr "Выберите элемент для просмотра доступных элементов"
@@ -3264,6 +3991,9 @@ msgstr "Да (у)"
 msgid "quit_dialog_no_button"
 msgstr "Нет (n)"
 
+msgid "map_marker_capital_invader"
+msgstr "Захватчик"
+
 msgid "map_marker_spawn_very_easy"
 msgstr "Очень легко"
 
@@ -3393,11 +4123,59 @@ msgstr "Рейтинг плитки"
 msgid "map_marker_overlays_regions"
 msgstr "Регионы"
 
+msgid "map_option_advanced_coordinates"
+msgstr "Передовые координаты"
+
+msgid "map_tooltip_tile_offset"
+msgstr "Местные корды: %1x/%2y"
+
 msgid "map_marker_overlays_political"
 msgstr "Политический"
 
 msgid "map_options_section_monster_types"
 msgstr "Типы монстров"
+
+msgid "holding_section_vulnerability"
+msgstr "Уязвимость"
+
+msgid "holding_vulnerability_schedule"
+msgstr "Уязвимость ежедневно %1 (%2)"
+
+msgid "map_tooltip_contested_by"
+msgstr "%1 — %2"
+
+msgid "map_tooltip_faction_city_invulnerable"
+msgstr "Неуязвимый"
+
+msgid "map_tooltip_faction_city_protected"
+msgstr "Недавно захваченный"
+
+msgid "map_tooltip_faction_city_shielded"
+msgstr "Осада открыта - разрушайте сторожевые башни"
+
+msgid "map_tooltip_faction_city_counting_down"
+msgstr "Башни вниз - связующий камень все еще экранирован"
+
+msgid "map_tooltip_faction_city_vulnerable"
+msgstr "Вульнерабль - Убей двойной камень!"
+
+msgid "map_tooltip_faction_city_window_opens"
+msgstr "Окно открывается в %1"
+
+msgid "map_tooltip_faction_city_protection_ends"
+msgstr "Защита заканчивается в %1"
+
+msgid "map_tooltip_faction_city_window_closes"
+msgstr "Окно закрывается в %1"
+
+msgid "map_tooltip_faction_city_shield_drops"
+msgstr "Связывающий камень, атакуемый в %1"
+
+msgid "map_tooltip_faction_city_towers"
+msgstr "Сторожевые башни %1 из %2"
+
+msgid "map_options_section_tooltips"
+msgstr "Подсказки"
 
 msgid "map_options_section_overlays"
 msgstr "Накладки"
@@ -3445,13 +4223,16 @@ msgid "paperdoll_label_loot_bag"
 msgstr "Сумка для добычи"
 
 msgid "paperdoll_label_rune_book"
-msgstr "Руническая книга"
+msgstr "Талисман"
 
 msgid "paperdoll_label_figurine"
 msgstr "Фигурка"
 
 msgid "paperdoll_label_equipment_tier"
 msgstr "Уровень оснащения: %1"
+
+msgid "paperdoll_label_character_id"
+msgstr "Id: %1"
 
 msgid "paperdoll_button_refresh"
 msgstr "Освежить"
@@ -3479,6 +4260,24 @@ msgstr "Кожа"
 
 msgid "paperdoll_tabs_modifiers"
 msgstr "Модификаторы"
+
+msgid "paperdoll_territory_section_title"
+msgstr "Контроль над территорией"
+
+msgid "paperdoll_territory_owner_line"
+msgstr "Территория %1 (%2)"
+
+msgid "paperdoll_territory_bonus_pve_xp"
+msgstr "Опыт пве"
+
+msgid "paperdoll_territory_bonus_pve_loot"
+msgstr "Пве Лоут"
+
+msgid "paperdoll_territory_bonus_harvest_eff"
+msgstr "Скорость сбора урожая"
+
+msgid "paperdoll_territory_bonus_yield"
+msgstr "Урожайность"
 
 msgid "paperdoll_effect_modifier_1"
 msgstr "Обелиск Рагуниуса"
@@ -3878,7 +4677,23 @@ msgid "screen08_title"
 msgstr "Выберите начальные заклинания"
 
 msgid "screen09_title"
-msgstr "Выберите стартовый город"
+msgstr "Выберите место старта"
+
+msgid "screen09_desc_capital"
+msgstr "Столица вашей расы."
+
+msgid "screen09_desc_island"
+msgstr ""
+"Процветающий торговый город, расположенный вдоль одного из немногих морских торговых путей, которые покидают континент Agon. Dawnshore оставались предсказуемым и беспорядочным местом даже после начала войны — то есть до тех пор, пока их не втянули в беспорядок через череду необычных событий.\n"
+"\n"
+"Учебник Dawnshore рекомендуется для новых игроков, чтобы ознакомиться с основным циклом геймплея. Вы можете уехать в любое время."
+
+msgid "screen09_warn_island"
+msgstr ""
+"Никаких документов не было получено во время гастрольной кареты по "
+"континенту. Вам будет предоставлено прекрасное место для полного заполнения "
+"всех уроков истории. Уход до полного завершения приведет к прекращению этой "
+"перезагрузки."
 
 msgid "screen10_title"
 msgstr "Создать этого персонажа?"
@@ -4014,6 +4829,21 @@ msgstr "Величина и процент"
 
 msgid "vital_stats_display_modes_value_over_max"
 msgstr "Значение свыше max"
+
+msgid "vital_stats_display_modes_full"
+msgstr "Полный"
+
+msgid "vital_stats_display_modes_state_only"
+msgstr "Только государство"
+
+msgid "alignment_standing_lawful"
+msgstr "Законопослушный"
+
+msgid "alignment_standing_lawless"
+msgstr "Вне закона"
+
+msgid "alignment_standing_rogue"
+msgstr "Отступник!"
 
 msgid "options_shader_version_default"
 msgstr "Устройство по умолчанию"
@@ -4659,6 +5489,19 @@ msgstr "Активный час и неуязвимый час не могут �
 msgid "clan_window_browse_clans_headers_clan_name"
 msgstr "Название клана"
 
+msgid "clan_window_browse_clans_header_hint"
+msgstr ""
+"Нажмите на заголовок для сортировки. Выравнивание, гонки и теги фильтр."
+
+msgid "clan_window_browse_clans_alignment_filter_title"
+msgstr "ФИЛЬТР ПО РЕПУТАЦИИ"
+
+msgid "clan_window_browse_clans_alignment_lawful"
+msgstr "Законопослушный"
+
+msgid "clan_window_browse_clans_alignment_lawless"
+msgstr "Вне закона"
+
 msgid "supreme_general"
 msgstr "Верховный генерал"
 
@@ -4815,6 +5658,9 @@ msgstr "Городской камень хаоса"
 msgid "component_targeting_owned_by"
 msgstr "Принадлежит %1"
 
+msgid "component_targeting_unowned"
+msgstr "Принадлежащий"
+
 msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
 msgstr "Уязвимый (восстановление - %1)"
 
@@ -4831,28 +5677,47 @@ msgid "component_targeting_glyph_time_remaining"
 msgstr "Оставшееся время: %1"
 
 msgid "component_targeting_glyph_attack_time_remaining"
-msgstr "Таймер атаки: %1"
+msgstr "Отмена вызова: %1"
+
+msgid "component_targeting_glyph_immune_remaining"
+msgstr "Иммунный: %1"
 
 msgid "component_targeting_glyph_not_vulnerable"
 msgstr "Глиф в настоящее время защищен"
 
 msgid "component_targeting_glyph_challenge_active"
-msgstr "Вызов активен, будьте готовы претендовать на этот глиф!"
+msgstr ""
+"Вызов является активным. Глиф меняет руки, когда таймер заканчивается."
+
+msgid "component_targeting_glyph_challenge_counter"
+msgstr "Взаимодействуйте с глифом, чтобы противостоять вызову!"
 
 msgid "component_targeting_glyph_use_item_to_challenge"
-msgstr "Используйте %1 в пределах досягаемости, чтобы начать испытание."
+msgstr "Используйте %1, чтобы начать захват этого глифа."
 
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
-msgstr "Когда задача завершается, глиф становится уязвимым."
+msgstr "Когда таймер заканчивается, глиф меняет руки."
+
+msgid "component_targeting_glyph_not_in_range"
+msgstr "Не в пределах досягаемости для захвата"
+
+msgid "component_targeting_glyph_in_range"
+msgstr "Достаточно близко для захвата!"
 
 msgid "component_targeting_glyph_vulnerable_for_attack"
 msgstr "Глиф уязвим"
+
+msgid "component_targeting_glyph_region_lawful"
+msgstr "Территория фракции - ее могут удерживать только расовые альянсы"
+
+msgid "component_targeting_glyph_region_lawless"
+msgstr "Территория клана - только кланы могут ее удерживать"
 
 msgid "component_targeting_glyph_wait_for_timer_to_finish"
 msgstr "Оставайтесь рядом, пока таймер не закончится!"
 
 msgid "component_targeting_glyph_alt_use_to_claim"
-msgstr "Альт-использование для взаимодействия и утверждения глифа."
+msgstr "Alt-use отменяет вызов на этом глифе."
 
 msgid "glyph_immune"
 msgstr "Этот глиф все еще невосприимчив к вызову."
@@ -4873,10 +5738,25 @@ msgstr "Вы успешно отменили вызов. Теперь глиф �
 msgid "glyph_flipped"
 msgstr "Рунный глиф в %1 году попал в новую фракцию!"
 
+msgid "glyph_challenged"
+msgstr ""
+"Глиф руны в %1 находится под угрозой! У вашего альянса есть %2 минут, чтобы "
+"оспорить это."
+
 msgid "glyph_challenge_race_unknown"
 msgstr ""
 "Ваш расовый союз не может быть определен, поэтому этот законный глиф не "
 "может быть оспорен прямо сейчас."
+
+msgid "glyph_challenge_lawless"
+msgstr ""
+"Только законные члены расового альянса могут оспаривать глиф фракции. "
+"Преступники и изгои не принимают участия в войне фракций."
+
+msgid "glyph_defend_lawless"
+msgstr ""
+"Только законные члены владеющего расовым альянсом могут защитить глиф "
+"фракции. Преступники и изгои не принимают участия в войне фракций."
 
 msgid "conquest_gateway_glyph_required"
 msgstr ""
@@ -4981,6 +5861,9 @@ msgstr "Покорять Руну Глиф"
 
 msgid "context_menu_bind_to_chaos_stone"
 msgstr "Связь с городом хаоса"
+
+msgid "context_menu_chaos_bindstone_cancel_challenge"
+msgstr "Отменить вызов"
 
 msgid "chat_window_fps"
 msgstr " - fps: %1"
@@ -5158,8 +6041,11 @@ msgstr "Предварительный просмотр"
 msgid "emote_panel_button_bind"
 msgstr "Связывание"
 
-msgid "emote_panel_combat_refuse"
-msgstr "Вы не можете открыть панель эмота во время боя."
+msgid "emote_panel_pvp_combat_refuse"
+msgstr "Вы не можете открыть панель эмотов в PvP-бое."
+
+msgid "emote_panel_pvp_combat_closed"
+msgstr "PvP-бои закрыли панель эмотов."
 
 msgid "emote_panel_bind_prompt"
 msgstr "Нажмите клавишу для привязки к /%1 (esc для отмены)"
@@ -5196,6 +6082,9 @@ msgstr "Выберите краситель для применения."
 
 msgid "dye_panel_status_nothing"
 msgstr "Никаких крашеных осколков."
+
+msgid "dye_panel_status_already"
+msgstr "Уже покрасили эти цвета."
 
 msgid "dye_panel_slot_readout"
 msgstr "%1: %2"
@@ -5404,7 +6293,7 @@ msgid "journal_meditation_stats_gold_label"
 msgstr "Банковское золото"
 
 msgid "journal_meditation_buy_label"
-msgstr "Покупка точек для медитации (1 золотых)"
+msgstr "Покупка точек для медитации (2 золотых)"
 
 msgid "journal_meditation_buy_button"
 msgstr "Покупать"
@@ -5565,9 +6454,8 @@ msgstr "Система медитации отключена"
 msgid "bank_deposit_loot_button"
 msgstr "Депозитная добыча"
 
-msgid "loadout_loot_deposit_blocked_combat"
-msgstr ""
-"Депозит заблокирован во время боя - попробуйте снова, когда выходите из боя."
+msgid "loadout_loot_deposit_blocked_pvp_combat"
+msgstr "Депозит заблокирован в PvP-бое. Осталось %1 секунд."
 
 msgid "loadout_loot_deposit_success"
 msgstr "[Лут] Депонировал %1 единиц(ов) из вашего мешка с добычей в банк."
@@ -5594,23 +6482,24 @@ msgstr ""
 "[Загрузка] Выбранная загрузка не имеет элементов. Сначала добавьте в него "
 "элементы."
 
-msgid "session_blocked_combat"
-msgstr "Вы не можете использовать крафтовые станции или рынок во время боя."
-
-msgid "loadout_sync_blocked_combat"
+msgid "session_blocked_pvp_combat"
 msgstr ""
-"Синхронизация заблокирована во время боя - попробуйте снова, когда выходите "
-"из боя."
+"Вы не можете создавать или использовать рынок в PvP-сражении. Осталось %1 "
+"секунд."
+
+msgid "crafting_blocked_pvp_combat"
+msgstr "Вы не можете играть в PvP-бои."
+
+msgid "loadout_sync_blocked_pvp_combat"
+msgstr "Синхронизация заблокирована в PvP бою. Осталось %1 секунд."
 
 msgid "loadout_sync_partial_full_bank"
 msgstr ""
 "Синхронизация: %1 излишков, оставленных в рюкзаке - без банковского "
 "пространства."
 
-msgid "loadout_generate_blocked_combat"
-msgstr ""
-"[Loadout] Генерировать заблокированы во время боя - попробовать еще раз, "
-"когда вне боя."
+msgid "loadout_generate_blocked_pvp_combat"
+msgstr "[Загрузка] Генерировать блокирован в PvP бою. Осталось %1 секунд."
 
 msgid "loadout_generate_bag_not_found"
 msgstr "[Выгрузка] Генерировать: сумка не найдена в вашем банке."
@@ -5749,6 +6638,9 @@ msgstr "Unpin (разрешить сортировку для перемещен
 msgid "notification_tray_clear"
 msgstr "Ясный"
 
+msgid "notification_tray_clear_all"
+msgstr "Четкие уведомления"
+
 msgid "notification_tray_placement_title"
 msgstr "Уведомления"
 
@@ -5781,6 +6673,12 @@ msgstr "Навыков еще не отследили. Откройте Skills &
 
 msgid "skill_tracker_unlearned"
 msgstr "Не научился"
+
+msgid "quest_tracker_compact_on"
+msgstr "Компактный"
+
+msgid "quest_tracker_compact_off"
+msgstr "Компактный режим выкл."
 
 msgid "quest_tracker_quests"
 msgstr "Задания"
@@ -6291,6 +7189,12 @@ msgstr "Вам нужна роль дипломата, чтобы изменит
 msgid "clan_politics_result_war_pending"
 msgstr "Декларация о войне уже находится на рассмотрении."
 
+msgid "clan_politics_result_alliance_mismatch"
+msgstr ""
+"Вы можете только объединиться или подружиться с кланом, который разделяет "
+"ваше положение: как законный, так и в одном расовом союзе, или оба "
+"беззаконные."
+
 msgid "clan_politics_result_failed"
 msgstr "Политические изменения не могут быть завершены."
 
@@ -6478,29 +7382,204 @@ msgstr "Вы сможете объединить другие беззаконн
 msgid "clan_creation_form_cost_description"
 msgstr "Золото 2000 будет вычтено из вашего глобального кошелька при создании"
 
+msgid "pvp_flag_tt_sec_pvp"
+msgstr "Защита от огня союзников:"
+
+msgid "pvp_flag_tt_sec_inventory"
+msgstr "Потеря инвентаря:"
+
+msgid "pvp_flag_tt_sec_grouping"
+msgstr "Объединение в группы:"
+
+msgid "pvp_flag_tt_sec_alignment"
+msgstr "Репутация:"
+
+msgid "pvp_flag_tt_sec_switching"
+msgstr "Смена статуса:"
+
+msgid "pvp_flag_tt_sec_return"
+msgstr "Возврат к законопослушному статусу:"
+
+msgid "pvp_flag_warn_gain_heading"
+msgstr "ЧТО ВЫ ПОЛУЧАЕТЕ"
+
+msgid "pvp_flag_warn_gain_races"
+msgstr ""
+"Вы можете объединяться в группы и кланы с ЛЮБЫМИ игроками вне закона "
+"независимо от расы."
+
+msgid "pvp_flag_warn_blank"
+msgstr " "
+
+msgid "pvp_flag_warn_cost_heading"
+msgstr "ОТ ЧЕГО ВЫ ОТКАЗЫВАЕТЕСЬ"
+
+msgid "pvp_flag_warn_cost_attack"
+msgstr "ВАС МОЖЕТ АТАКОВАТЬ КТО УГОДНО И ГДЕ УГОДНО."
+
+msgid "pvp_flag_warn_cost_inventory"
+msgstr "ПРИ СМЕРТИ ВЫ ТЕРЯЕТЕ ВЕСЬ ИНВЕНТАРЬ В ЛЮБОЙ ЗОНЕ."
+
+msgid "pvp_flag_warn_cost_faction"
+msgstr ""
+"Вы не участвуете в войне расовых фракций: нельзя атаковать и защищать "
+"сооружения фракций или захватывать глифы в синих зонах."
+
+msgid "pvp_flag_warn_cost_grouping"
+msgstr ""
+"Нельзя объединяться в группы и кланы с законопослушными игроками, лечить или"
+" оживлять их."
+
+msgid "pvp_flag_warn_cost_alignment"
+msgstr ""
+"Некоторые убийства защищённых законопослушных игроков снижают репутацию."
+
+msgid "pvp_flag_warn_return_heading"
+msgstr "ВОЗВРАТ К ЗАКОНОПОСЛУШНОМУ СТАТУСУ"
+
+msgid "pvp_flag_warn_return_body"
+msgstr "Достигните репутации > 0, затем помолитесь в церкви."
+
+msgid "pvp_flag_tt_sec_faction"
+msgstr "Война фракций:"
+
+msgid "pvp_flag_tt_lawful_faction"
+msgstr "Вы можете атаковать и защищать сооружения фракций."
+
+msgid "pvp_flag_tt_lawless_faction"
+msgstr ""
+"Нельзя атаковать и защищать сооружения фракций или захватывать глифы в синих"
+" зонах."
+
+msgid "pvp_flag_prompt_confirm"
+msgstr "Подтвердить"
+
+msgid "pvp_flag_prompt_cancel"
+msgstr "Отмена"
+
+msgid "pvp_flag_change_to_lawless_ack"
+msgstr ""
+"Я понимаю: меня могут атаковать где угодно, и при смерти я потеряю весь "
+"инвентарь."
+
+msgid "pvp_flag_tt_lawful_ff_blue"
+msgstr "Синяя - ВКЛ."
+
+msgid "pvp_flag_tt_lawful_ff_yellow"
+msgstr "Жёлтая - ВКЛ."
+
+msgid "pvp_flag_tt_lawful_ff_red"
+msgstr "Красная - ВЫКЛ."
+
+msgid "pvp_flag_tt_lawful_grouping2"
+msgstr ""
+"Нельзя объединяться в группы и кланы с игроками вне закона или врагами "
+"фракции, лечить или оживлять их."
+
+msgid "pvp_flag_tt_lawful_alignment"
+msgstr "Репутация не зависит от вашего текущего статуса."
+
+msgid "pvp_flag_tt_lawless_alignment2"
+msgstr "Репутация не определяет ваш текущий статус."
+
+msgid "pvp_flag_tt_lawful_title"
+msgstr "ЗАКОНОПОСЛУШНЫЙ СТАТУС"
+
+msgid "pvp_flag_tt_lawful_state"
+msgstr "ВЫ В ЗАКОНОПОСЛУШНОМ СТАТУСЕ!"
+
+msgid "pvp_flag_tt_lawful_pvp"
+msgstr ""
+"Законопослушные игроки не могут атаковать друг друга, кроме представителей "
+"враждующих расовых фракций."
+
+msgid "pvp_flag_tt_lawful_inv_blue"
+msgstr "Синяя - Нет потери"
+
+msgid "pvp_flag_tt_lawful_inv_yellow"
+msgstr "Жёлтая - Содержимое сумки"
+
+msgid "pvp_flag_tt_lawful_inv_red"
+msgstr "Красная - Весь инвентарь"
+
+msgid "pvp_flag_tt_lawful_grouping"
+msgstr "Только законопослушные кланы и группы."
+
+msgid "pvp_flag_tt_lawful_switching"
+msgstr ""
+"Нажмите на этот значок, чтобы стать вне закона. Перед сменой статуса "
+"появится предупреждение."
+
+msgid "pvp_flag_tt_lawless_title"
+msgstr "СТАТУС «ВНЕ ЗАКОНА»"
+
+msgid "pvp_flag_tt_lawless_state"
+msgstr "ВЫ ВНЕ ЗАКОНА!"
+
+msgid "pvp_flag_tt_lawless_pvp"
+msgstr "ВЫКЛ. - во всех зонах"
+
+msgid "pvp_flag_tt_lawless_inv"
+msgstr "ПОЛНАЯ - во всех зонах"
+
+msgid "pvp_flag_tt_lawless_group_can"
+msgstr ""
+"Вы можете объединяться в группы и кланы с ЛЮБЫМИ игроками вне закона "
+"независимо от расы."
+
+msgid "pvp_flag_tt_lawless_group_cant"
+msgstr ""
+"Нельзя объединяться в группы и кланы с законопослушными игроками, лечить или"
+" оживлять их или сотрудничать с ними иным образом."
+
+msgid "pvp_flag_tt_lawless_alignment"
+msgstr "Убийство защищённых законопослушных игроков может снижать репутацию."
+
+msgid "pvp_flag_tt_lawless_return"
+msgstr "Достигните репутации > 0 и помолитесь в церкви."
+
 msgid "pvp_flag_tooltip_lawful"
 msgstr ""
-"Законная позиция \n"
+"ЗАКОНОПОСЛУШНЫЙ СТАТУС  \n"
 "  \n"
-" Вы не можете атаковать других законных игроков, и они не могут атаковать вас. \n"
-"Если вы не принадлежите к разным расовым группам.\n"
+" ВЫ В ЗАКОНОПОСЛУШНОМ СТАТУСЕ! \n"
 "  \n"
-" Вы также не можете ассоциироваться с врагами фракции или беззаконными игроками.\n"
-"(Это включает в себя вечеринки, исцеление, возрождение или присоединение к кланам)."
+" Pvp: \n"
+" Законопослушные игроки не могут атаковать друг друга, кроме представителей враждующих расовых фракций. \n"
+"  \n"
+" Потеря инвентаря: \n"
+" Синяя - Нет потери \n"
+" Жёлтая - Содержимое сумки \n"
+" Красная - Весь инвентарь \n"
+"  \n"
+" Объединение в группы: \n"
+" Вы не можете объединяться в группы и кланы с игроками вне закона или врагами фракции, лечить или оживлять их. \n"
+"  \n"
+" Смена статуса: \n"
+" Нажмите на этот значок, чтобы стать вне закона. \n"
+" Перед сменой статуса появится предупреждение."
 
 msgid "pvp_flag_tooltip_lawless"
 msgstr ""
-"Беззаконная позиция \n"
+"СТАТУС «ВНЕ ЗАКОНА»  \n"
 "  \n"
-" Вы можете напасть на кого угодно, любой может напасть на вас свободно. \n"
+" ВЫ ВНЕ ЗАКОНА! \n"
 "  \n"
-" Убийства законных игроков одной и той же расовой фракции обойдется вам недешево. Один раз \n"
-"ниже 0 вы станете красным и не сможете вернуться к законному до тех пор, пока вы не станете красным. \n"
-"Выравнивание больше не является отрицательным. \n"
+" Pvp: \n"
+" ВАС МОЖЕТ АТАКОВАТЬ КТО УГОДНО И ГДЕ УГОДНО. \n"
 "  \n"
-" Вы можете вступить в беззаконные кланы и партии любой расы. \n"
+" Потеря инвентаря: \n"
+" ВЕСЬ ИНВЕНТАРЬ - независимо от зоны. \n"
 "  \n"
-" Вы всегда будете сбрасывать весь свой инвентарь, независимо от того, где вы умрете."
+" Объединение в группы: \n"
+" Вы можете вступать в кланы и группы вне закона любой расы. \n"
+" Вы не можете объединяться в группы и кланы с законопослушными игроками, лечить или оживлять их или сотрудничать с ними иным образом. \n"
+"  \n"
+" Репутация: \n"
+" Убийство законопослушных игроков своей расовой фракции снижает репутацию. \n"
+"  \n"
+" Возврат к законопослушному статусу: \n"
+" Нужно иметь положительную репутацию и помолиться в церкви."
 
 msgid "pvp_flag_error_player_holding"
 msgstr ""
@@ -6508,8 +7587,10 @@ msgstr ""
 
 msgid "pvp_flag_error_change_to_lawful"
 msgstr ""
-"Чтобы вернуться к законным, вы должны молиться в церкви или другом "
-"назначенном месте."
+"Здесь нельзя вернуться к законопослушному статусу. \n"
+"  \n"
+" Достигните репутации > 0, затем помолитесь в церкви или другом предназначенном для этого месте. \n"
+" Репутация — отдельная от статуса величина. Статус «Вне закона» сам по себе не означает отрицательную репутацию."
 
 msgid "pvp_flag_error_change_to_same"
 msgstr "Вы уже находитесь на этой выравнивающей позиции."
@@ -6521,19 +7602,29 @@ msgid "pvp_flag_error_change_in_village"
 msgstr "Вы не можете изменить свою позицию в деревне."
 
 msgid "pvp_flag_change_to_lawless_dialog_title"
-msgstr "Переход на беззаконную позицию?"
+msgstr "Вы собираетесь перейти в статус «ВНЕ ЗАКОНА»."
 
 msgid "pvp_flag_change_to_lawless_dialog_body"
 msgstr ""
-"С беззаконной позицией вы станете изгоем, поэтому любой игрок может "
-"атаковать вас в любом месте. Вы можете атаковать любого другого игрока, и вы"
-" потеряете выравнивание за убийство блюза. Вы также будете сбрасывать весь "
-"свой инвентарь на смерть, независимо от того, где это происходит. "
-"Возвращение к законному потребует от вас посещения церкви хаоса и не может "
-"быть сделано с отрицательным выравниванием."
+"ЧТО ВЫ ПОЛУЧАЕТЕ \n"
+"  \n"
+" Вы можете объединяться в группы и кланы с представителями ЛЮБОЙ расы. \n"
+"  \n"
+" ОТ ЧЕГО ВЫ ОТКАЗЫВАЕТЕСЬ \n"
+"  \n"
+" ВАС МОЖЕТ АТАКОВАТЬ КТО УГОДНО И ГДЕ УГОДНО. \n"
+" ПРИ СМЕРТИ ВЫ ТЕРЯЕТЕ ВЕСЬ ИНВЕНТАРЬ В ЛЮБОЙ ЗОНЕ. \n"
+"  \n"
+" Вы не участвуете в войне расовых фракций: нельзя атаковать и защищать сооружения фракций. \n"
+" Нельзя объединяться в группы и кланы с законопослушными игроками, лечить или оживлять их. \n"
+" Некоторые убийства защищённых законопослушных игроков снижают репутацию. \n"
+"  \n"
+" ВОЗВРАТ К ЗАКОНОПОСЛУШНОМУ СТАТУСУ \n"
+"  \n"
+" Достигните репутации > 0, затем помолитесь в церкви."
 
 msgid "pvp_flag_change_to_lawless_dialog_confirm"
-msgstr "Ты уверена?"
+msgstr "Перейти в статус «Вне закона»?"
 
 msgid "pvp_flag_error_change_to_lawless_in_npc_city"
 msgstr "Это сделает вас изгоем и не может быть сделано в городе NPC."
@@ -6550,14 +7641,26 @@ msgstr "Восстановление - %1"
 msgid "structure_status_faction_bind_stone_invulnerable"
 msgstr "Неуязвимые - %1"
 
+msgid "structure_status_faction_bind_stone_protected"
+msgstr "Недавно захваченный - %1"
+
 msgid "structure_status_faction_bind_stone_shielded"
-msgstr "Защищенный"
+msgstr "Уничтожить сторожевые башни"
+
+msgid "structure_status_faction_bind_stone_shielded_timed"
+msgstr "Разрушить сторожевые башни - окно закрывается в %1"
 
 msgid "structure_status_faction_bind_stone_counting_down"
-msgstr "Потеря щита в %1"
+msgstr "Башни вниз - свяжит камень, атакуемый в %1"
 
 msgid "structure_status_faction_bind_stone_vulnerable"
-msgstr "Уязвимый"
+msgstr "Убей двойной камень!"
+
+msgid "structure_status_faction_bind_stone_vulnerable_timed"
+msgstr "Убей двойной камень! - окно закрывается в %1"
+
+msgid "component_targeting_guard_towers_standing"
+msgstr "башни %1/%2"
 
 msgid "display_name_roa_faction_ALFAR"
 msgstr "Бич Нагаста"
@@ -6628,6 +7731,9 @@ msgstr "Характер"
 
 msgid "mainmenu_item_counter"
 msgstr "Счетчик"
+
+msgid "mainmenu_pets"
+msgstr "Питомцы"
 
 msgid "mainmenu_crafting"
 msgstr "Ремесло"
@@ -7187,6 +8293,9 @@ msgstr "Мертвец"
 msgid "mastery_aura_effect_vanguard"
 msgstr "Меньше чудовищного ущерба, нанесенного вашей партией"
 
+msgid "mastery_aura_effect_oracle"
+msgstr "Быстрая регенерация маны для вашей партии"
+
 msgid "mastery_aura_effect_cutthroat"
 msgstr "Бонусный ближний урон для вашей вечеринки против монстров"
 
@@ -7199,10 +8308,10 @@ msgstr ""
 "%3 и растет с каждым уровнем мастерства до %4 на уровне %5."
 
 msgid "mastery_aura_step_desc"
-msgstr "Аура +%1 - сейчас %2 %3."
+msgstr "Аура +%1. Сейчас %2 %3."
 
 msgid "mastery_aura_step_desc_capped"
-msgstr "Аура +%1 - сейчас %2 %3 (на ее шапке)."
+msgstr "Аура +%1. Сейчас %2 %3 (на его шапке)."
 
 msgid "mastery_track_header"
 msgstr "Трасса %1"
@@ -7315,10 +8424,8 @@ msgstr "Древняя сущность"
 msgid "mastery_next_unlock_caption"
 msgstr "Следующая разблокировка"
 
-msgid "mastery_orb_sigil_hint"
-msgstr ""
-"Ворота уровня нуждаются в Сфере Мастерства; Сигилы меняют ваше активное "
-"мастерство."
+msgid "mastery_orb_hint"
+msgstr "Ворота уровня стоят шаров и эссенции."
 
 msgid "mastery_no_active_header"
 msgstr "Никакого мастерства активного"
@@ -7326,20 +8433,11 @@ msgstr "Никакого мастерства активного"
 msgid "mastery_row_name_active"
 msgstr "%1 (активный)"
 
-msgid "mastery_row_level_tier"
-msgstr "Уровень %1 уровень %2"
-
 msgid "mastery_roster_headline_bonus"
 msgstr "+%1% %2"
 
 msgid "mastery_roster_headline_reduction"
 msgstr "-%1% %2"
-
-msgid "mastery_detail_level_tier"
-msgstr "Уровень %1/%2 - уровень %3 %4"
-
-msgid "mastery_detail_level_tier_mp"
-msgstr "Уровень %1 / %2 - уровень %3 из %4 - %5 mp"
 
 msgid "mastery_orb_needed"
 msgstr "Сфера освоения, необходимая для повышения уровня %1"
@@ -7361,10 +8459,10 @@ msgstr "Сущность %1"
 
 msgid "mastery_next_unlock_blocked"
 msgstr ""
-"Уровень %1 - %2 (нуждается в овладении шаром для прохождения уровня %3)"
+"Уровень %1: %2 (нуждается в овладении шаром для прохождения уровня %3)"
 
 msgid "mastery_next_unlock_entry"
-msgstr "Уровень %1 - %2"
+msgstr "Уровень %1: %2"
 
 msgid "mastery_all_unlocked"
 msgstr "Все разблокировано."
@@ -7376,7 +8474,7 @@ msgid "mastery_active_note"
 msgstr "Применяется только для монстров."
 
 msgid "mastery_preview_note"
-msgstr "Превью - не ваше активное мастерство."
+msgstr "Предварительный просмотр. Не ваше активное мастерство."
 
 msgid "mastery_alt_rank_label"
 msgstr "%1  %2/%3"
@@ -7402,10 +8500,10 @@ msgstr ""
 "%3 и растет с каждым уровнем мастерства до %4 на уровне %5."
 
 msgid "mastery_node_desc_aura_step"
-msgstr "Аура +%1 - сейчас %2 %3."
+msgstr "Аура +%1. Сейчас %2 %3."
 
 msgid "mastery_node_desc_aura_step_capped"
-msgstr "Аура +%1 - сейчас %2 %3 (на ее шапке)."
+msgstr "Аура +%1. Сейчас %2 %3 (на его шапке)."
 
 msgid "mastery_node_desc_rank"
 msgstr "%1 из %2: %3"
@@ -7421,12 +8519,6 @@ msgstr "Уровень %1"
 
 msgid "mastery_tree_track_header"
 msgstr "Трасса %1"
-
-msgid "mastery_tree_subheader"
-msgstr "Уровень %1/%2 - уровень %3 %4"
-
-msgid "mastery_tree_subheader_active"
-msgstr "Уровень %1 / %2 - уровень %3 из %4 - активный"
 
 msgid "mastery_tree_node_level"
 msgstr "Уровень %1"
@@ -7465,18 +8557,22 @@ msgid "mastery_tree_test_apply"
 msgstr "Применить"
 
 msgid "mastery_track_rule_cutthroat"
-msgstr "Нужны ножи. Каждый эффект запечатывается, пока вы отмечены PvP-боем."
+msgstr "Каждый эффект отключается, пока вы отмечены PvP-боем."
 
 msgid "mastery_track_rule_deadeye"
-msgstr ""
-"Требуется лук. Каждый эффект запечатывается, пока вы отмечены PvP-боем."
+msgstr "Каждый эффект отключается, пока вы отмечены PvP-боем."
+
+msgid "mastery_track_rule_oracle"
+msgstr "Каждый эффект отключается, пока вы отмечены PvP-боем."
 
 msgid "mastery_track_rule_vanguard"
-msgstr ""
-"Требуется щит. Каждый эффект запечатывается, пока вы отмечены PvP-боем."
+msgstr "Каждый эффект отключается, пока вы отмечены PvP-боем."
 
 msgid "mastery_hotbar_hint"
 msgstr "Перетащите ауру и способности ниже на горячую панель."
+
+msgid "mastery_aura_locked"
+msgstr "Аура разблокируется на уровне %1"
 
 # BEGIN generated mastery alteration strings
 # (scripts/apply_mastery_alteration_strings.py)
@@ -7604,9 +8700,9 @@ msgstr "Горох"
 
 msgid "mastery_alt_cutthroat_gore_desc"
 msgstr ""
-"Каждый удар сзади добавляет стопку Гора, до 10, и рана кровоточит 1.2% "
-"вашего последнего удара каждую секунду за стопку. Десять секунд без "
-"попадания и каждый стек потерян."
+"Каждый удар сзади добавляет стек Гора, до 10. Рана кровоточит 1.2% от вашего"
+" последнего удара каждую секунду на стопку. Десять секунд без попадания "
+"очищают их."
 
 msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Каждая стопка кровоточит 1.5% в секунду."
@@ -7746,26 +8842,17 @@ msgstr "Неразрывная линия"
 msgid "mastery_alt_vanguard_unbrokenline_desc"
 msgstr ""
 "ДЕЙСТВИТЕЛЬНО: Каждый монстр в пределах 20 метров поворачивается на вас, и "
-"их повреждение вам сокращается на 60% в течение 20 секунд. 3 минуты "
+"их повреждение вам сокращается на 60% в течение 10 секунд. 3 минуты "
 "охлаждения."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
-msgstr ""
-"ДЕЙСТВИТЕЛЬНО: Каждый монстр в пределах 20 метров поворачивается на вас, и "
-"их повреждение вам сокращается на 60% в течение 20 секунд. 3 минуты "
-"охлаждения."
+msgstr "Снижение на 65% на 13 секунд. Перезарядка: 165 секунд."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
-msgstr ""
-"ДЕЙСТВИТЕЛЬНО: Каждый монстр в пределах 20 метров поворачивается на вас, и "
-"их повреждение вам сокращается на 60% в течение 20 секунд. 3 минуты "
-"охлаждения."
+msgstr "Снижение на 70% на 16 секунд. Перезарядка: 150 секунд."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
-msgstr ""
-"ДЕЙСТВИТЕЛЬНО: Каждый монстр в пределах 20 метров поворачивается на вас, и "
-"их повреждение вам сокращается на 60% в течение 20 секунд. 3 минуты "
-"охлаждения."
+msgstr "Снижение на 75% на 20 секунд. Перезарядка: 135 секунд."
 
 msgid "mastery_alt_elementalist_residue_name"
 msgstr "Остаток"
@@ -7807,8 +8894,8 @@ msgstr "Непрекращающиеся штормы"
 
 msgid "mastery_alt_elementalist_enduringstorms_desc"
 msgstr ""
-"Наземные заклинания — бури, дожди, стены — длятся в два раза дольше, когда "
-"поражают хотя бы одного монстра."
+"Наземные заклинания, такие как штормы, дожди и стены, длятся вдвое дольше, "
+"когда они ударяют по крайней мере одного монстра."
 
 msgid "mastery_alt_elementalist_enduringstorms_rank1"
 msgstr "Поздние штормовые клещи наносят еще +30% повреждений."
@@ -7862,101 +8949,103 @@ msgstr "Причастие"
 
 msgid "mastery_alt_oracle_communion_desc"
 msgstr ""
-"Мана Взрыв взимает следующую Жертву: +25% исцелений за пойманного монстра, "
-"считая до 4 (+100%)."
+"Мана Взрыв исцеляет вас и вашу партию за 40% повреждений вместо того, чтобы "
+"причинить вам боль. Монстры принимают полный взрыв."
 
 msgid "mastery_alt_oracle_communion_rank1"
-msgstr "Насчитывается до 6 монстров (максимум +150% исцеления)."
+msgstr "Лечится за 60%."
 
 msgid "mastery_alt_oracle_communion_rank2"
-msgstr "До 8 монстров (макс +200%)."
+msgstr "Лечится за 80%."
 
 msgid "mastery_alt_oracle_communion_rank3"
-msgstr "До 10 монстров (макс +250%)."
+msgstr "Лечится за 100%."
 
 msgid "mastery_alt_oracle_quickening_name"
-msgstr "Ускорение"
+msgstr "Очищение"
 
 msgid "mastery_alt_oracle_quickening_desc"
 msgstr ""
-"Высадка ракетной ярости на монстра делает ваш следующий «Исцели другого» "
-"мгновенно (в течение 8 секунд)."
+"Благослови Другого и Адепта также раздеть новейшего монстра: кровотечение, "
+"яд, слепота, жжение, замерзание или кислота."
 
 msgid "mastery_alt_oracle_quickening_rank1"
-msgstr ""
-"Исцеление союзника отмечает их на 8-е годы - Ракетная ярость также исцеляет "
-"отмеченных союзников возле своего взрыва."
+msgstr "Также снимает проклятия на статистику и защиту."
 
 msgid "mastery_alt_oracle_quickening_rank2"
-msgstr "Отметка длится 12."
+msgstr ""
+"Стриптизирует любые дебаффы, в том числе замедления, паралич, мана-штрафы."
 
 msgid "mastery_alt_oracle_quickening_rank3"
-msgstr "Отметка длится 16."
+msgstr "Полосы 2 дебаффов на литье."
 
 msgid "mastery_alt_oracle_warding_name"
-msgstr "Предохранительный"
+msgstr "Связывающее исцеление"
 
 msgid "mastery_alt_oracle_warding_desc"
-msgstr "Заклинания Уорда блокируют еще +50% повреждений монстров."
+msgstr ""
+"Жертвоприношение не стоит вам здоровья и исцеляет вас за 25% того, что "
+"стоило бы."
 
 msgid "mastery_alt_oracle_warding_rank1"
-msgstr "Бонус Уорда повышен до +75%."
+msgstr "Поднят до 50%."
 
 msgid "mastery_alt_oracle_warding_rank2"
-msgstr "Поднят до +100%."
+msgstr "Поднят до 75%."
 
 msgid "mastery_alt_oracle_warding_rank3"
-msgstr "Поднят до +125%."
+msgstr "Поднят до 100%."
 
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Благословение"
 
 msgid "mastery_alt_oracle_benediction_desc"
-msgstr "Healing Chant больше не лечит монстров и исцеляет игроков +100%."
+msgstr ""
+"Исцеляющий Песнь больше не исцеляет монстров и исцеляет вас и вашу партию "
+"+100% больше, за +100% ману."
 
 msgid "mastery_alt_oracle_benediction_rank1"
-msgstr "Бонус за исцеление повышен до +130%."
+msgstr "Поднят до +130%, за +130% ману."
 
 msgid "mastery_alt_oracle_benediction_rank2"
-msgstr "Поднят до +160%."
+msgstr "Поднят до +160%, за +160% ману."
 
 msgid "mastery_alt_oracle_benediction_rank3"
-msgstr "Поднят до +200%."
+msgstr "Поднят до +200%, за +200% ману."
 
-msgid "mastery_alt_oracle_overflow_name"
-msgstr "Переполнение"
+msgid "mastery_alt_oracle_sanctuary_name"
+msgstr "Святилище"
 
-msgid "mastery_alt_oracle_overflow_desc"
+msgid "mastery_alt_oracle_sanctuary_desc"
 msgstr ""
-"ДЕЙСТВИТЕЛЬНО: в течение 20 секунд исцеление за пределами полного здоровья "
-"становится щитом, до 200 на союзника. 3 минута охлаждения. Перетащите его на"
-" горячую панель из окна Skills."
+"ДЕЙСТВИТЕЛЬНОСТЬ: Удерживайте 2 секунд и отпустите, чтобы разместить "
+"святилище до 30 метра. Каждый игрок в пределах 9 метров от него "
+"восстанавливает 10 ману и выносливость каждые 2 секунды в течение 10 секунд,"
+" и заклинания монстров и стрелы не могут достичь их. Заканчивается, если "
+"дойдет до кого-нибудь отмеченного PvP-боем. 3 минут остывания."
 
-msgid "mastery_alt_oracle_overflow_rank1"
+msgid "mastery_alt_oracle_sanctuary_rank1"
 msgstr ""
-"ДЕЙСТВИТЕЛЬНО: в течение 20 секунд исцеление за пределами полного здоровья "
-"становится щитом, до 200 на союзника. 3 минута охлаждения. Перетащите его на"
-" горячую панель из окна Skills."
+"Восстанавливает 12 каждые 2 секунды в течение 13 секунд. Перезарядка: 165 "
+"секунд."
 
-msgid "mastery_alt_oracle_overflow_rank2"
+msgid "mastery_alt_oracle_sanctuary_rank2"
 msgstr ""
-"ДЕЙСТВИТЕЛЬНО: в течение 20 секунд исцеление за пределами полного здоровья "
-"становится щитом, до 200 на союзника. 3 минута охлаждения. Перетащите его на"
-" горячую панель из окна Skills."
+"Восстанавливает 14 каждые 2 секунды в течение 16 секунд. Перезарядка: 150 "
+"секунд."
 
-msgid "mastery_alt_oracle_overflow_rank3"
+msgid "mastery_alt_oracle_sanctuary_rank3"
 msgstr ""
-"ДЕЙСТВИТЕЛЬНО: в течение 20 секунд исцеление за пределами полного здоровья "
-"становится щитом, до 200 на союзника. 3 минута охлаждения. Перетащите его на"
-" горячую панель из окна Skills."
+"Восстанавливает 16 каждые 2 секунды в течение 20 секунд. Перезарядка: 135 "
+"секунд."
 
 msgid "mastery_alt_blightcaller_siphon_name"
 msgstr "Сифон"
 
 msgid "mastery_alt_blightcaller_siphon_desc"
 msgstr ""
-"Заклинания Лича — Vampiric Touch, Мана Лич и родственник — сливают еще +50% "
-"и могут складываться дважды."
+"Заклинания Лича, такие как Vampiric Touch и Mana Leech, сливают еще +50% и "
+"могут складываться дважды."
 
 msgid "mastery_alt_blightcaller_siphon_rank1"
 msgstr "У Проклятого Болта есть шанс 10% сбросить охлаждение пиявок."
@@ -8172,6 +9261,37 @@ msgstr "Возможные редкие награды"
 msgid "options_chat_overhead_bubbles"
 msgstr "Скачать Overhead Chat Bubbles"
 
+msgid "clan_create_error_already_creating"
+msgstr "Этот клан уже создается. Дайте ему минуту и попробуйте еще раз."
+
+msgid "clan_create_error_already_in_clan"
+msgstr "Ты уже в клане."
+
+msgid "clan_create_error_invalid_name"
+msgstr "Имя этого клана использовать нельзя. Попробуйте другой."
+
+msgid "clan_create_error_name_locked"
+msgstr "Это название клана взято."
+
+msgid "clan_create_error_trial_account"
+msgstr "Пробные счета не могут создать клан."
+
+msgid "clan_create_error_not_enough_gold"
+msgstr ""
+"Вам нужно 2000 золота в вашем глобальном кошельке, чтобы создать клан."
+
+msgid "clan_create_error_name_taken"
+msgstr "Это название клана уже используется."
+
+msgid "clan_create_error_newbie_protection"
+msgstr "Нельзя создать клан, пока активна защита новичков."
+
+msgid "clan_create_error_generic"
+msgstr "Клан создать не удалось."
+
+msgid "options_chat_overhead_bubble_opacity"
+msgstr "Непрозрачность пузырьков (%)"
+
 msgid "options_chat_overhead_bubble_seconds"
 msgstr "Секунды пузырь чата остается на экране"
 
@@ -8182,7 +9302,7 @@ msgid "clantask_tier_gather_daily"
 msgstr "Собирать"
 
 msgid "clantask_tier_gather_weekly"
-msgstr "Редкое собрание"
+msgstr "Собирать"
 
 msgid "clan_window_members_no_applications"
 msgstr "Нет приложений"
@@ -8247,6 +9367,141 @@ msgstr "плавать"
 msgid "surrender"
 msgstr "капитуляция"
 
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_YOU"
+msgstr "Очищение очистило от тебя %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_OTHER"
+msgstr "Очищение очищено %1 от %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_SELF"
+msgstr "[Мастерство] Очищение очищено %1."
+
+msgid "mastery_row_level"
+msgstr "Уровень %1"
+
+msgid "mastery_detail_level"
+msgstr "Уровень %1/%2"
+
+msgid "mastery_detail_level_mp"
+msgstr "Уровень %1 / %2 - %3 mp"
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
+msgstr "[Мастерство] Переключение на %1. Оставайтесь на месте %2 секунд."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_INTERRUPTED"
+msgstr "Переключатель был прерван. Ничего не было потрачено."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_IN_PVP"
+msgstr "Вы не можете изменить мастерство, пока вы отмечены PvP-боем."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_ALREADY_ACTIVE"
+msgstr "Вы уже используете %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_LOCKED"
+msgstr ""
+"[Мастерство] %1 аура разблокируется на уровне мастерства %2. Вы находитесь "
+"на уровне %3."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
+msgstr ""
+"Ваша аура выходит наружу - %1 ниже уровня мастерства %2. %3 эссенция "
+"вернулась на оставшееся время."
+
+msgid "mastery_swap_on_cooldown"
+msgstr ""
+"Вы пока не можете сменить мастерство.\n"
+"\n"
+"Осталось %1."
+
+msgid "mastery_role_cutthroat"
+msgstr ""
+"Вознаграждение атакует сзади с кровотечением, повреждающим пандусом и "
+"разрывным окном."
+
+msgid "mastery_role_vanguard"
+msgstr ""
+"Спецификация танкинга построена на насмешках, парировании и уменьшении "
+"повреждений при экранировании."
+
+msgid "mastery_role_oracle"
+msgstr ""
+"Сохраняет группу живой. Более сильные заживляют, отлаживают очищение и "
+"защищают землю."
+
+msgid "mastery_role_deadeye"
+msgstr ""
+"Диапазон повреждений, который масштабируется с тем, насколько надежно вы "
+"приземляете стрелы."
+
+msgid "mastery_role_berserker"
+msgstr "Еще не построено."
+
+msgid "mastery_role_elementalist"
+msgstr "Еще не построено."
+
+msgid "mastery_role_blightcaller"
+msgstr "Еще не построено."
+
+msgid "mastery_weapon_cutthroat"
+msgstr "Нужны ножи."
+
+msgid "mastery_weapon_vanguard"
+msgstr "Требуется щит."
+
+msgid "mastery_weapon_oracle"
+msgstr "Требуется персонал. Аура работает без нее."
+
+msgid "mastery_weapon_deadeye"
+msgstr "Требуется лук."
+
+msgid "mastery_weapon_berserker"
+msgstr ""
+
+msgid "mastery_weapon_elementalist"
+msgstr ""
+
+msgid "mastery_weapon_blightcaller"
+msgstr ""
+
+msgid "mastery_detail_level_tier"
+msgstr "Уровень %1/%2 - уровень %3 %4"
+
+msgid "mastery_detail_level_tier_mp"
+msgstr "Уровень %1 / %2 - уровень %3 из %4 - %5 mp"
+
+msgid "mastery_row_level_tier"
+msgstr "Уровень %1 уровень %2"
+
+msgid "mastery_tree_subheader"
+msgstr "Уровень %1/%2. Ворота %3 из %4."
+
+msgid "mastery_tree_subheader_active"
+msgstr "Уровень %1/%2. Ворота %3 из %4. Действуй."
+
+msgid "mastery_alt_detail"
+msgstr "%1 (уровень %2) %3"
+
+msgid "mastery_alt_detail_locked"
+msgstr "%1. Разблокировка на уровне %2. %3"
+
+msgid "mastery_activate_button"
+msgstr "Активировать %1"
+
+msgid "mastery_activate_current"
+msgstr "Активен"
+
+msgid "mastery_swap_confirm"
+msgstr ""
+"Переход на %1 за %2 золото?\n"
+"\n"
+"Это занимает %3 секунд, и золото тратится, когда оно заканчивается. Нанесение удара или вход в PvP отменяет его и ничего не стоит."
+
+msgid "mastery_swap_confirm_free"
+msgstr ""
+"Переход на %1?\n"
+"\n"
+"Это занимает %3 секунд. Нанесение удара или вход в PvP отменяет его и ничего не стоит."
+
 msgid "Play Sound on Player"
 msgstr "Звук игры на плеере"
 
@@ -8303,6 +9558,12 @@ msgstr "Идеальный пердеж"
 
 msgid "gm_sound_se_gm_good_boy"
 msgstr "Какой хороший мальчик"
+
+msgid "gm_sound_se_gm_knocking"
+msgstr "Стучать"
+
+msgid "gm_sound_se_gm_messenger"
+msgstr "Посланник"
 
 msgid "skin_justicebringer_solar_tribunal"
 msgstr "Солнечный суд"
@@ -8443,6 +9704,58 @@ msgid "desc_skin_gs_mercian_rime_covenant"
 msgstr ""
 "Серебряная ланцетная святыня и текущая морозная трассировка украшают эту "
 "кожу Мерсиана Фламберга."
+
+msgid "skin_blackbolt_niffleheim"
+msgstr "Ниффлехайм Blackbolt"
+
+msgid "desc_skin_blackbolt_niffleheim"
+msgstr ""
+"Замороженное серебро и синий лед украшают кожу, вдохновленную Ниффлехаймом "
+"Blackbolt."
+
+msgid "skin_blackbolt_yssam"
+msgstr "Yssam Blackbolt"
+
+msgid "desc_skin_blackbolt_yssam"
+msgstr ""
+"Мох и выветрившаяся бронза украшают эту Yssam-вдохновленную кожу Blackbolt."
+
+msgid "skin_blackbolt_rubyayat"
+msgstr "Рубият Blackbolt"
+
+msgid "desc_skin_blackbolt_rubyayat"
+msgstr ""
+"Песчаная латунь и отбеленные солнцем обертывания украшают эту кожу, "
+"вдохновленную Рубьяятом Blackbolt."
+
+msgid "skin_blackbolt_cairn"
+msgstr "Cairn Blackbolt"
+
+msgid "desc_skin_blackbolt_cairn"
+msgstr ""
+"Вулканический камень, бронзовая резьба и бирюзовые вставки украшают эту "
+"Cairn-вдохновленную кожу Blackbolt."
+
+msgid "mastery_gate_button"
+msgstr "Сломать ворота: %1 овладение шарами, %2 древние шары, %3 сущность"
+
+msgid "mastery_gate_button_locked"
+msgstr "Достигнуть уровня %1, чтобы сломать ворота"
+
+msgid "mastery_gate_trial_locked"
+msgstr "Испытание %1 открывается на уровне %2 у мастера-убийцы Aero"
+
+msgid "mastery_gate_trial_ready"
+msgstr "Испытание %1 готово. Скриншоты из игры Slayer Master Aero"
+
+msgid "mastery_learn_at_slayer_master"
+msgstr "Учиться у мастера-истребителя"
+
+msgid "mastery_row_not_learned"
+msgstr "Не научился"
+
+msgid "slayer_board_title"
+msgstr "Контрактная доска убийцы"
 
 msgid "chat_cam_cmd_desc"
 msgstr ""
@@ -8600,41 +9913,238 @@ msgstr "линейный"
 msgid "chat_cam_word_smooth"
 msgstr "гладкий"
 
-msgid "skin_blackbolt_niffleheim"
-msgstr "Ниффлехайм Blackbolt"
+msgid "DUEL_HUD_WAITING"
+msgstr "В ожидании игроков..."
 
-msgid "desc_skin_blackbolt_niffleheim"
+msgid "DUEL_HUD_FIGHT"
+msgstr "Бой!"
+
+msgid "DUEL_HUD_VICTORY"
+msgstr "Победа! Твоя команда победила."
+
+msgid "DUEL_HUD_DEFEAT"
+msgstr "Поражение. Твоя команда проиграла."
+
+msgid "DUEL_HUD_DRAW"
+msgstr "Завершился раунд без победителя."
+
+msgid "DUEL_HUD_ROUND_OVER"
+msgstr "Круг закончен."
+
+msgid "DUEL_HUD_ELIMINATED"
+msgstr "Устранено — дождитесь окончания раунда."
+
+msgid "options_gui_hotbar_horizontal"
+msgstr "Горизонтальный горячий"
+
+msgid "options_gui_mob_cast_bars"
+msgstr "Монстр бросает решётки"
+
+msgid "options_gui_telegraph_color"
+msgstr "Телеграфный цвет"
+
+msgid "options_gui_telegraph_fill_color"
+msgstr "Телеграф заполняет цвет"
+
+msgid "options_telegraph_fill_same"
+msgstr "То же, что и контур"
+
+msgid "options_telegraph_color_red"
+msgstr "Красный"
+
+msgid "options_telegraph_color_orange"
+msgstr "Оранжевый"
+
+msgid "options_telegraph_color_yellow"
+msgstr "Желтый"
+
+msgid "options_telegraph_color_blue"
+msgstr "Синий"
+
+msgid "options_telegraph_color_purple"
+msgstr "Фиолетовый"
+
+msgid "options_telegraph_color_white"
+msgstr "Белый"
+
+msgid "options_gui_telegraph_outline_opacity"
+msgstr "Телеграф показывает непрозрачность"
+
+msgid "options_gui_telegraph_fill_opacity"
+msgstr "Телеграф заполняет непрозрачность"
+
+msgid "options_video_preset_minimum"
+msgstr "Минимальный"
+
+msgid "options_video_preset_medium"
+msgstr "Средний"
+
+msgid "options_video_preset_max"
+msgstr "Макс"
+
+msgid "options_video_preset_minimum_tooltip"
 msgstr ""
-"Замороженное серебро и синий лед украшают кожу, вдохновленную Ниффлехаймом "
-"Blackbolt."
+"Все самое дешевое: нет супер-отбора проб, нет теней, нет динамических огней,"
+" минимальная растительность и эффекты. FXAA остается на, потому что он "
+"сглаживает края почти ничего. Для самых дешевых машин или когда вы хотите "
+"каждый кадр, который вы можете получить."
 
-msgid "skin_blackbolt_yssam"
-msgstr "Yssam Blackbolt"
+msgid "options_video_preset_minimum_tooltip_perf"
+msgstr "Производительность: быстрая"
 
-msgid "desc_skin_blackbolt_yssam"
+msgid "options_video_preset_medium_tooltip"
 msgstr ""
-"Мох и выветрившаяся бронза украшают эту Yssam-вдохновленную кожу Blackbolt."
+"Рекомендуемая установка. Тени, освещение и эффекты при разумном качестве, с "
+"FXAA, сглаживающим края и суперсэмплированием. Именно этим и должно "
+"заниматься большинство машин."
 
-msgid "skin_blackbolt_rubyayat"
-msgstr "Рубият Blackbolt"
+msgid "options_video_preset_medium_tooltip_perf"
+msgstr "Производительность: сбалансированная"
 
-msgid "desc_skin_blackbolt_rubyayat"
+msgid "options_video_preset_max_tooltip"
 msgstr ""
-"Песчаная латунь и отбеленные солнцем обертывания украшают эту кожу, "
-"вдохновленную Рубьяятом Blackbolt."
+"Все по максимуму, кроме суперсэмплирования, которое не включается "
+"предустановленным - установите его самостоятельно под вкладкой «Анти-"
+"алиасинг» (Supersampling) на вкладке «Эффекты», если у вас есть кадры, чтобы"
+" сэкономить. Если это слишком тяжело, вот настройки, которые стоят больше "
+"всего, по порядку - отключите их перед чем-либо еще:"
 
-msgid "skin_blackbolt_cairn"
-msgstr "Cairn Blackbolt"
+msgid "options_video_preset_max_tooltip_perf"
+msgstr "Производительность: очень требовательная"
 
-msgid "desc_skin_blackbolt_cairn"
+msgid "options_video_preset_max_tooltip_2"
 msgstr ""
-"Вулканический камень, бронзовая резьба и бирюзовые вставки украшают эту "
-"Cairn-вдохновленную кожу Blackbolt."
+"1. Включить Shadows and Shadow Quality - Lighting tab. Сценарные тени — это "
+"большая половина."
 
-msgid "skin_aspis_cairn_refined"
-msgstr "Прототип Aspis Cairn"
-
-msgid "desc_skin_aspis_cairn_refined"
+msgid "options_video_preset_max_tooltip_3"
 msgstr ""
-"Бронзовое солнце и бирюзовая резьба украшают этот вулканический каменный "
-"щит."
+"2. Максимальное количество динамических огней - вкладка «Осветление». "
+"Затраты больше, пока идет суперсэмплирование."
+
+msgid "options_video_preset_max_tooltip_4"
+msgstr ""
+"3. Плотность растительности и площадь - Таблица качества. Меньшая площадь "
+"стоит дороже, а не меньше."
+
+msgid "options_video_preset_max_tooltip_5"
+msgstr ""
+"4. View Distance - Скриншоты из игры Performance Tab. Больше всего это "
+"касается открытой местности."
+
+# Pet collection page: window chrome, per-pet actions, locked state, error
+# notices
+msgid "pet_collection_title"
+msgstr "Питомцы"
+
+msgid "pet_collection_progress"
+msgstr "%1 / %2 собрано"
+
+msgid "pet_collection_search"
+msgstr "Поиск"
+
+msgid "pet_collection_owned_only"
+msgstr "Только собранный"
+
+msgid "pet_collection_summon"
+msgstr "Вызов"
+
+msgid "pet_collection_dismiss"
+msgstr "Увольнение"
+
+msgid "pet_collection_rename"
+msgstr "Переименование"
+
+msgid "pet_collection_locked"
+msgstr "Не собранные"
+
+msgid "pet_collection_locked_hint"
+msgstr "Используйте %1 для сбора этого питомца."
+
+msgid "pet_error_locked"
+msgstr "Вы не собирали этого питомца."
+
+msgid "pet_error_retry"
+msgstr ""
+"Коллекция домашних животных сейчас недоступна. Пожалуйста, попробуйте еще "
+"раз."
+
+msgid "pet_error_toy"
+msgstr "Эту игрушку нельзя использовать."
+
+msgid "skin_founder_tempered_dawn"
+msgstr "Закаленный рассвет"
+
+msgid "desc_skin_founder_tempered_dawn"
+msgstr ""
+"Reforged синяя сталь, золотые змеиные чешуйки и кожаная рукоятка украшают "
+"эту кожу Leafblade."
+
+msgid "skin_founder_legends_gold"
+msgstr "Лезвие легенды"
+
+msgid "desc_skin_founder_legends_gold"
+msgstr ""
+"Сатиновое золото, полированные края и кожаная рукоятка украшают эту кожу "
+"Leafblade."
+
+msgid "skin_shield_tempered_dawn"
+msgstr "Закаленный щит рассвета"
+
+msgid "desc_skin_shield_tempered_dawn"
+msgstr ""
+"Голубые стальные панели, серебряный орнамент и золотое солнце украшают эту "
+"щитовую кожу."
+
+msgid "cosmetic_spell_skins"
+msgstr "Облики заклинаний"
+
+msgid "cosmetic_scroll_help"
+msgstr "Используйте свиток облика заклинания, чтобы навсегда открыть облик."
+
+msgid "cosmetic_empty"
+msgstr "Нет доступных обликов заклинаний."
+
+msgid "cosmetic_refresh"
+msgstr "Обновить"
+
+msgid "cosmetic_active"
+msgstr "Активен"
+
+msgid "cosmetic_owned"
+msgstr "Приобретён"
+
+msgid "cosmetic_locked"
+msgstr "Заблокирован"
+
+msgid "cosmetic_default"
+msgstr "Использовать стандартный"
+
+msgid "cosmetic_select"
+msgstr "Активировать"
+
+msgid "cosmetic_loading"
+msgstr "Загрузка косметических предметов..."
+
+msgid "cosmetic_error_retry"
+msgstr "Не удалось обновить косметические предметы. Попробуйте ещё раз."
+
+msgid "cosmetic_error_scroll"
+msgstr "Этот свиток не содержит доступного косметического предмета."
+
+msgid "cosmetic_error_locked"
+msgstr "Вы ещё не открыли этот косметический предмет."
+
+msgid "cosmetic_unlocked"
+msgstr "Косметический предмет открыт."
+
+msgid "cosmetic_already_owned"
+msgstr ""
+"У вас уже есть этот косметический предмет. Свиток не был израсходован."
+
+msgid "cosmetic_selection_saved"
+msgstr "Облик заклинания сохранён."
+
+msgid "emote_locked"
+msgstr ""
+"Вы ещё не открыли %1. Свиток эмоции открывает её для вашей учётной записи."

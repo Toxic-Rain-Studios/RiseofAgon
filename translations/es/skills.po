@@ -1025,8 +1025,7 @@ msgid "s_Bindstone Recall"
 msgstr "Bindstone revocación"
 
 msgid "desc_s_Bindstone Recall"
-msgstr ""
-"Presione el botón Acción para teletransportar a su punto de unión actual."
+msgstr "Te teletransporta a tu punto de acceso."
 
 msgid "s_Summon Mount"
 msgstr "Convocación de montaje"
@@ -1035,18 +1034,16 @@ msgid "desc_s_Summon Mount"
 msgstr "Invoca la figura activa en tu papelera."
 
 msgid "s_Capital Recall"
-msgstr "De la facción capital"
+msgstr "Capital de la facción"
 
 msgid "desc_s_Capital Recall"
-msgstr ""
-"Presione el botón Acción para teletransportar a la ciudad capital de su "
-"facción. tiempo de reutilización variará dependiendo de su alineamiento."
+msgstr "Te teletransporta a la capital de tu facción."
 
 msgid "s_House Recall"
 msgstr "Casa de recuerdo"
 
 msgid "desc_s_House Recall"
-msgstr "Presione el botón Acción para teletransportar a su casa. "
+msgstr "Te teletransporta a tu casa."
 
 msgid "s_Orkish Capacity"
 msgstr "Capacidad de orquedad"
@@ -1074,6 +1071,15 @@ msgstr "Aumenta la inteligencia máxima."
 
 msgid "s_Set Pvp"
 msgstr "Set pvp"
+
+msgid "s_Mastery Swap"
+msgstr "Interruptor mastery"
+
+msgid "desc_s_Mastery Swap"
+msgstr ""
+"Quédate quieto durante diez segundos para cambiar a otro dominio de PvE. "
+"Mover, ser golpeado o entrar en combate PvP lo interrumpe y no le cuesta "
+"nada."
 
 msgid "desc_s_Set Pvp"
 msgstr "Establece la bandera de los jugadores pvp.  "
@@ -1194,9 +1200,7 @@ msgid "s_Revive"
 msgstr "Reanimar"
 
 msgid "desc_s_Revive"
-msgstr ""
-"Ayuda a un personaje moribundo. Presione el botón Acción para iniciar la "
-"habilidad."
+msgstr "Revive un personaje moribundo."
 
 msgid "s_Revive_1"
 msgstr "Revive_1"
@@ -1330,9 +1334,7 @@ msgid "s_Rest"
 msgstr "Descansar"
 
 msgid "desc_s_Rest"
-msgstr ""
-"Mientras descansa, salud, maná y aguante se regenera más rápido. El bono de "
-"regeneración del descanso se duplica después de 30 segundos."
+msgstr "Regenera salud, resistencia y maná más rápido mientras descansa."
 
 msgid "s_Rest_1"
 msgstr "Rest_1"
@@ -1954,9 +1956,7 @@ msgid "s_Disabling Blow_Axe"
 msgstr "Desactivar el golpe_axe"
 
 msgid "desc_s_Disabling Blow_Axe"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Axe_1"
 msgstr "Desactivar el golpe_axe_1"
@@ -1974,7 +1974,7 @@ msgid "s_Knockback_Axe"
 msgstr "Knockback_axe"
 
 msgid "desc_s_Knockback_Axe"
-msgstr "Un ataque de hacha que empuja enérgicamente a su oponente lejos."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Axe_1"
 msgstr "Knockback_axe_1"
@@ -1986,7 +1986,8 @@ msgid "s_Power Attack_Axe"
 msgstr "Power attack_axe"
 
 msgid "desc_s_Power Attack_Axe"
-msgstr "Un fuerte ataque que reduce las protecciones del objetivo.   "
+msgstr ""
+"Una huelga pesada que reduce las protecciones de la melee del objetivo."
 
 msgid "s_Power Attack_Axe_1"
 msgstr "Power attack_axe_1"
@@ -2016,7 +2017,7 @@ msgid "s_Seize_Axe"
 msgstr "Seize_axe"
 
 msgid "desc_s_Seize_Axe"
-msgstr "Un ataque que acerca a tu oponente. "
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Axe_1"
 msgstr "Seize_axe_1"
@@ -2028,7 +2029,7 @@ msgid "s_Whirlwind Attack_Axe"
 msgstr "Torbellino attack_axe"
 
 msgid "desc_s_Whirlwind Attack_Axe"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Axe_1"
 msgstr "Ataque contra el torbellino_axe_1"
@@ -2076,9 +2077,7 @@ msgid "s_Disabling Blow_Club"
 msgstr "Discapacidad de soplar_club"
 
 msgid "desc_s_Disabling Blow_Club"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Club_1"
 msgstr "Discapacidad de soplar_club_1"
@@ -2096,7 +2095,7 @@ msgid "s_Knockback_Club"
 msgstr "Knockback_club"
 
 msgid "desc_s_Knockback_Club"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Club_1"
 msgstr "Knockback_club_1"
@@ -2108,7 +2107,7 @@ msgid "s_Power Attack_Club"
 msgstr "Power attack_club"
 
 msgid "desc_s_Power Attack_Club"
-msgstr "Un poderoso ataque que drena extra aguante. "
+msgstr "Una huelga pesada que también drena la resistencia del objetivo."
 
 msgid "s_Power Attack_Club_1"
 msgstr "Power attack_club_1"
@@ -2126,7 +2125,7 @@ msgid "s_Seize_Club"
 msgstr "Seize_club"
 
 msgid "desc_s_Seize_Club"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Club_1"
 msgstr "Seize_club_1"
@@ -2138,7 +2137,7 @@ msgid "s_Whirlwind Attack_Club"
 msgstr "Torbellino attack_club"
 
 msgid "desc_s_Whirlwind Attack_Club"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Club_1"
 msgstr "Torbellino attack_club_1"
@@ -2186,9 +2185,7 @@ msgid "s_Disabling Blow_Greataxe"
 msgstr "Discapacidad de golpe_greataxe"
 
 msgid "desc_s_Disabling Blow_Greataxe"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Greataxe_1"
 msgstr "Discapacidad de soplar_greataxe_1"
@@ -2206,7 +2203,7 @@ msgid "s_Knockback_Greataxe"
 msgstr "Knockback_greataxe"
 
 msgid "desc_s_Knockback_Greataxe"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Greataxe_1"
 msgstr "Knockback_greataxe_1"
@@ -2219,7 +2216,7 @@ msgstr "Power attack_greataxe"
 
 msgid "desc_s_Power Attack_Greataxe"
 msgstr ""
-"Un poderoso ataque que reduce las protecciones de la melee del blanco."
+"Una huelga pesada que reduce las protecciones de la melee del objetivo."
 
 msgid "s_Power Attack_Greataxe_1"
 msgstr "Power attack_greataxe_1"
@@ -2249,7 +2246,7 @@ msgid "s_Seize_Greataxe"
 msgstr "Seize_greataxe"
 
 msgid "desc_s_Seize_Greataxe"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Greataxe_1"
 msgstr "Seize_greataxe_1"
@@ -2261,7 +2258,7 @@ msgid "s_Whirlwind Attack_Greataxe"
 msgstr "Torbellino attack_greataxe"
 
 msgid "desc_s_Whirlwind Attack_Greataxe"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Greataxe_1"
 msgstr "Ataque al torbellino_greataxe_1"
@@ -2309,9 +2306,7 @@ msgid "s_Disabling Blow_Greatclub"
 msgstr "Discapacidad de soplar_greatclub"
 
 msgid "desc_s_Disabling Blow_Greatclub"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Greatclub_1"
 msgstr "Discapacidad de soplar_greatclub_1"
@@ -2329,7 +2324,7 @@ msgid "s_Knockback_Greatclub"
 msgstr "Knockback_greatclub"
 
 msgid "desc_s_Knockback_Greatclub"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Greatclub_1"
 msgstr "Knockback_greatclub_1"
@@ -2341,7 +2336,7 @@ msgid "s_Power Attack_Greatclub"
 msgstr "Power attack_greatclub"
 
 msgid "desc_s_Power Attack_Greatclub"
-msgstr "Un poderoso ataque que drena extra aguante. "
+msgstr "Una huelga pesada que también drena la resistencia del objetivo."
 
 msgid "s_Power Attack_Greatclub_1"
 msgstr "Power attack_greatclub_1"
@@ -2359,7 +2354,7 @@ msgid "s_Seize_Greatclub"
 msgstr "Seize_greatclub"
 
 msgid "desc_s_Seize_Greatclub"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Greatclub_1"
 msgstr "Seize_greatclub_1"
@@ -2371,7 +2366,7 @@ msgid "s_Whirlwind Attack_Greatclub"
 msgstr "Torbellino attack_greatclub"
 
 msgid "desc_s_Whirlwind Attack_Greatclub"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Greatclub_1"
 msgstr "Torbellino attack_greatclub_1"
@@ -2419,9 +2414,7 @@ msgid "s_Disabling Blow_Greatsword"
 msgstr "Discapacidad de soplar_greatsword"
 
 msgid "desc_s_Disabling Blow_Greatsword"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Greatsword_1"
 msgstr "Desactivar el golpe_greatsword_1"
@@ -2439,7 +2432,7 @@ msgid "s_Knockback_Greatsword"
 msgstr "Knockback_greatsword"
 
 msgid "desc_s_Knockback_Greatsword"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Greatsword_1"
 msgstr "Knockback_greatsword_1"
@@ -2451,7 +2444,7 @@ msgid "s_Power Attack_Greatsword"
 msgstr "Power attack_greatsword"
 
 msgid "desc_s_Power Attack_Greatsword"
-msgstr "Un ataque de empuje que causa daños hemorrágicos. "
+msgstr "Una huelga de empuje que hace sangrar al objetivo."
 
 msgid "s_Power Attack_Greatsword_1"
 msgstr "Power attack_greatsword_1"
@@ -2469,7 +2462,7 @@ msgid "s_Seize_Greatsword"
 msgstr "Seize_greatsword"
 
 msgid "desc_s_Seize_Greatsword"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Greatsword_1"
 msgstr "Seize_greatsword_1"
@@ -2481,7 +2474,7 @@ msgid "s_Whirlwind Attack_Greatsword"
 msgstr "Torbellino attack_greatsword"
 
 msgid "desc_s_Whirlwind Attack_Greatsword"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Greatsword_1"
 msgstr "Torbellino attack_greatsword_1"
@@ -2529,9 +2522,7 @@ msgid "s_Disabling Blow_Knives"
 msgstr "Desactivando los golpes."
 
 msgid "desc_s_Disabling Blow_Knives"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Knives_1"
 msgstr "Disabling blow_knives_1"
@@ -2549,7 +2540,7 @@ msgid "s_Knockback_Knife"
 msgstr "Knockback_knife"
 
 msgid "desc_s_Knockback_Knife"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Knife_1"
 msgstr "Knockback_knife_1"
@@ -2561,7 +2552,7 @@ msgid "s_Power Attack_Knife"
 msgstr "Power attack_knife"
 
 msgid "desc_s_Power Attack_Knife"
-msgstr "Un ataque con dagas envenenadas. "
+msgstr "Una huelga de empuje que también envenena al objetivo."
 
 msgid "s_Power Attack_Knife_1"
 msgstr "Power attack_knife_1"
@@ -2579,7 +2570,7 @@ msgid "s_Seize_Knife"
 msgstr "Seize_knife"
 
 msgid "desc_s_Seize_Knife"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Knife_1"
 msgstr "Seize_knife_1"
@@ -2591,7 +2582,7 @@ msgid "s_Whirlwind Attack_Knife"
 msgstr "Torbellino attack_knife"
 
 msgid "desc_s_Whirlwind Attack_Knife"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Knife_1"
 msgstr "Torbellino attack_knife_1"
@@ -2627,7 +2618,7 @@ msgid "s_Gank"
 msgstr "Rematar"
 
 msgid "desc_s_Gank"
-msgstr "Mata a un oponente indefenso. "
+msgstr "Termina con un oponente indefenso."
 
 msgid "s_Gank_1"
 msgstr "Gank_1"
@@ -2645,7 +2636,8 @@ msgid "s_Dwarven Perseverance"
 msgstr "Perseverancia enana"
 
 msgid "desc_s_Dwarven Perseverance"
-msgstr "Permite al personaje luchar casi sin drenar aguante."
+msgstr ""
+"Te permite luchar con casi ningún drenaje de resistencia por un tiempo."
 
 msgid "s_Dwarven Perseverance_1"
 msgstr "Perseverancia enana_1"
@@ -2657,9 +2649,7 @@ msgid "s_Rage"
 msgstr "Rabia"
 
 msgid "desc_s_Rage"
-msgstr ""
-"Una subida de adrenalina que otorga protección contra ataques elementales, "
-"así como curación moderada."
+msgstr "Brevemente te cura y otorga protección contra ataques elementales."
 
 msgid "s_Rage_1"
 msgstr "Rage_1"
@@ -2719,9 +2709,7 @@ msgid "s_Disabling Blow_Polearm"
 msgstr "Desactivar el soplo_polearm"
 
 msgid "desc_s_Disabling Blow_Polearm"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Polearm_1"
 msgstr "Discapacidad de soplar_polearm_1"
@@ -2739,7 +2727,7 @@ msgid "s_Knockback_Polearm"
 msgstr "Knockback_polearm"
 
 msgid "desc_s_Knockback_Polearm"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Polearm_1"
 msgstr "Knockback_polearm_1"
@@ -2751,7 +2739,9 @@ msgid "s_Power Attack_Polearm"
 msgstr "Power attack_polearm"
 
 msgid "desc_s_Power Attack_Polearm"
-msgstr "Un ataque de empuje potente y preciso."
+msgstr ""
+"Un empuje preciso que debilita la protección de fuerza, rapidez y "
+"perforación del objetivo."
 
 msgid "s_Power Attack_Polearm_1"
 msgstr "Power attack_polearm_1"
@@ -2781,7 +2771,7 @@ msgid "s_Seize_Polearm"
 msgstr "Seize_polearm"
 
 msgid "desc_s_Seize_Polearm"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Polearm_1"
 msgstr "Seize_polearm_1"
@@ -2793,7 +2783,7 @@ msgid "s_Whirlwind Attack_Polearm"
 msgstr "Ataque contra el torbellino_polearm"
 
 msgid "desc_s_Whirlwind Attack_Polearm"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Polearm_1"
 msgstr "Ataque contra el torbellino_polearm_1"
@@ -2823,7 +2813,8 @@ msgid "s_Siege Hammer"
 msgstr "Martillo de asedio"
 
 msgid "desc_s_Siege Hammer"
-msgstr "Ataque capaz de dañar edificios, cañones y vehículos."
+msgstr ""
+"Huelga lo suficientemente duro para dañar edificios, cañones y vehículos."
 
 msgid "s_Siege Hammer_1"
 msgstr "Siege hammer_1"
@@ -2847,9 +2838,7 @@ msgid "s_Disabling Blow_Sithra"
 msgstr "Discapacidad de soplar"
 
 msgid "desc_s_Disabling Blow_Sithra"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Sithra_1"
 msgstr "Discapacidad de soplo_sithra_1"
@@ -2867,7 +2856,7 @@ msgid "s_Knockback_Sithras"
 msgstr "Knockback_sithras"
 
 msgid "desc_s_Knockback_Sithras"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Sithras_1"
 msgstr "Knockback_sithras_1"
@@ -2879,7 +2868,7 @@ msgid "s_Power Attack_sithra"
 msgstr "Power attack_sithra"
 
 msgid "desc_s_Power Attack_sithra"
-msgstr "Un ataque de empuje que causa daños adicionales."
+msgstr "Una huelga de empuje que ralentiza los ataques del objetivo."
 
 msgid "s_Power Attack_Sithra_2"
 msgstr "Power attack_sithra_2"
@@ -2897,7 +2886,7 @@ msgid "s_Seize_Sithras"
 msgstr "Seize_sithras"
 
 msgid "desc_s_Seize_Sithras"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Tire el objetivo hacia ti y drena su Mana."
 
 msgid "s_Seize_Sithras_2"
 msgstr "Seize_sithras_2"
@@ -2915,7 +2904,7 @@ msgid "s_Whirlwind Attack_Sithra"
 msgstr "Torbellino attack_sithra"
 
 msgid "desc_s_Whirlwind Attack_Sithra"
-msgstr "Un ataque de spinning dañando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Sithras_Whirlwind_1"
 msgstr "Sithras_whirlwind_1"
@@ -2963,9 +2952,7 @@ msgid "s_Disabling Blow_Sword"
 msgstr "Desactivar el golpe_espacio"
 
 msgid "desc_s_Disabling Blow_Sword"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Ataque el objetivo, impidiendo brevemente que pare."
 
 msgid "s_Disabling Blow_Sword_1"
 msgstr "Discapacidad de soplar_sword_1"
@@ -2983,7 +2970,7 @@ msgid "s_Knockback_Sword"
 msgstr "Knockback_sword"
 
 msgid "desc_s_Knockback_Sword"
-msgstr "Un ataque que empuja enérgicamente a tu oponente."
+msgstr "Ataque el objetivo y lo golpee."
 
 msgid "s_Knockback_Sword_1"
 msgstr "Knockback_sword_1"
@@ -2995,7 +2982,7 @@ msgid "s_Power Attack_Sword"
 msgstr "Power attack_sword"
 
 msgid "desc_s_Power Attack_Sword"
-msgstr "Un ataque de empuje que causa daños hemorrágicos. "
+msgstr "Una huelga de empuje que hace sangrar al objetivo."
 
 msgid "s_Power Attack_Sword_2"
 msgstr "Power attack_sword_2"
@@ -3013,7 +3000,7 @@ msgid "s_Seize_Sword"
 msgstr "Seize_sword"
 
 msgid "desc_s_Seize_Sword"
-msgstr "Un ataque que acerca a tu oponente."
+msgstr "Ataque el objetivo y lo tire hacia usted."
 
 msgid "s_Seize_Sword_1"
 msgstr "Seize_sword_1"
@@ -3025,7 +3012,7 @@ msgid "s_Whirlwind Attack_Sword"
 msgstr "Torbellino attack_sword"
 
 msgid "desc_s_Whirlwind Attack_Sword"
-msgstr "Un ataque hirviendo golpeando a todos los vecinos."
+msgstr "Gira para atacar a todos los enemigos que te rodean."
 
 msgid "s_Whirlwind Attack_Sword_1"
 msgstr "Torbellino attack_sword_1"
@@ -3493,9 +3480,7 @@ msgid "s_Disabling Shot"
 msgstr "Disparo incapacitante"
 
 msgid "desc_s_Disabling Shot"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Dispara un disparo que brevemente impide que el objetivo se pare."
 
 msgid "s_Disabling Shot_1"
 msgstr "Disabling shot_1"
@@ -3525,7 +3510,7 @@ msgid "s_Throwing"
 msgstr "Lanzando"
 
 msgid "desc_s_Throwing"
-msgstr "Lobs a battlespike que explota sobre el impacto."
+msgstr "Lobs a battlespike que explota en el impacto."
 
 msgid "s_Throwing Impact_large"
 msgstr "Impacto de lanzamiento_grande"
@@ -3612,7 +3597,7 @@ msgid "s_Agility"
 msgstr "Agilidad"
 
 msgid "desc_s_Agility"
-msgstr "Otorga un bono de Dexterity a la castra."
+msgstr "Levanta tu Dexteridad."
 
 msgid "s_Agility_1"
 msgstr "Agility_1"
@@ -3624,7 +3609,7 @@ msgid "s_Arrow Shield"
 msgstr "Escudo de flecha"
 
 msgid "desc_s_Arrow Shield"
-msgstr "Da a la castra mayor protección contra las flechas."
+msgstr "Aumenta su protección contra las flechas."
 
 msgid "s_Arrow Shield_1"
 msgstr "Escudo de flecha_1"
@@ -3636,7 +3621,7 @@ msgid "s_Arrow Ward"
 msgstr "Flecha Ward"
 
 msgid "desc_s_Arrow Ward"
-msgstr "Apunta a un objetivo para otorgar protección contra flechas."
+msgstr "Brevemente otorga a un jugador objetivo protección contra flechas."
 
 msgid "s_Arrow Ward_1"
 msgstr "Flecha ward_1"
@@ -3666,7 +3651,7 @@ msgid "s_Ball Lightning"
 msgstr "Bola de relámpago"
 
 msgid "desc_s_Ball Lightning"
-msgstr "Dispara un misil que inflige daño a Lightning."
+msgstr "Dispara una bola de relámpago que se ocupa del daño de relámpago."
 
 msgid "s_Ball Lightning_1"
 msgstr "Bola de relámpago_1"
@@ -3678,7 +3663,7 @@ msgid "s_Come Hither"
 msgstr "Ven aquí."
 
 msgid "desc_s_Come Hither"
-msgstr "Apunta a un objetivo para acercarlo mágicamente."
+msgstr "Fuertemente tira un objetivo hacia ti."
 
 msgid "s_Come Hither_1"
 msgstr "Ven aquí."
@@ -3696,8 +3681,7 @@ msgid "s_Exploding Charge"
 msgstr "Cargo explosivo"
 
 msgid "desc_s_Exploding Charge"
-msgstr ""
-"Dispara un misil que explote sobre el impacto causando daño a Lightning. "
+msgstr "Dispara una carga que explote en el impacto, lidiando daños."
 
 msgid "s_Exploding Charge_Area"
 msgstr "Carga explosiva_área"
@@ -3723,8 +3707,7 @@ msgstr "El viento guía"
 
 msgid "desc_s_Guiding Wind"
 msgstr ""
-"Lanza un misil que inflige una penalización a la protección de su objetivo "
-"contra las flechas. "
+"Dispara una ráfaga que baja la protección contra las flechas donde aterriza."
 
 msgid "s_Guiding Wind_1"
 msgstr "Viento guía_1"
@@ -3736,7 +3719,7 @@ msgid "s_Lightning Bolt"
 msgstr "Relámpago"
 
 msgid "desc_s_Lightning Bolt"
-msgstr "Dispara una línea de energía eléctrica impactando todo en su camino. "
+msgstr "Dispara una línea de relámpago que golpea todo en su camino."
 
 msgid "s_Lightning Bolt_1"
 msgstr "Relámpago_1"
@@ -3748,7 +3731,7 @@ msgid "s_Lightning Shield"
 msgstr "Escudo de relámpago"
 
 msgid "desc_s_Lightning Shield"
-msgstr "Concede un bono de protección de relámpago a la castra."
+msgstr "Aumenta su protección contra el Rayo."
 
 msgid "s_Lightning Shield_1"
 msgstr "Escudo de relámpago_1"
@@ -3761,7 +3744,7 @@ msgstr "Rayo de luz"
 
 msgid "desc_s_Lightning Strike"
 msgstr ""
-"Lanza un misil que explota sobre el impacto causando daño a Lightning."
+"Dispara un misil que explota con relámpago y baja la protección del rayo."
 
 msgid "s_Lightning Strike_1"
 msgstr "Rayo huelga_1"
@@ -3779,7 +3762,7 @@ msgid "s_Lightning Ward"
 msgstr "Resguardo contra rayos"
 
 msgid "desc_s_Lightning Ward"
-msgstr "Otorga una protección contra el daño de Lightning."
+msgstr "Protege un aliado contra el daño de Lightning."
 
 msgid "s_Lightning Ward_1"
 msgstr "Lightning ward_1"
@@ -3791,9 +3774,7 @@ msgid "s_Lightning Weakness"
 msgstr "Debilidad relámpago"
 
 msgid "desc_s_Lightning Weakness"
-msgstr ""
-"Lanza un misil infligiendo una pena a la protección de Lightning de su "
-"objetivo.   "
+msgstr "Dispara un misil que reduce la protección del rayo de un blanco."
 
 msgid "s_Lightning Weakness_1"
 msgstr "Debilidad relámpago_1"
@@ -3805,7 +3786,9 @@ msgid "s_Stormblast"
 msgstr "Stormblast"
 
 msgid "desc_s_Stormblast"
-msgstr "Conjura una explosión que envía a todos en su camino volando."
+msgstr ""
+"Libera una explosión de relámpago que envía enemigos volando desde el blanco"
+" del yeso."
 
 msgid "s_Stormblast_1"
 msgstr "Stormblast_1"
@@ -3817,9 +3800,7 @@ msgid "s_Thunderstorm"
 msgstr "Tormenta"
 
 msgid "desc_s_Thunderstorm"
-msgstr ""
-"Un rayo mágico que produce una tormenta de relámpago sobre golpear su "
-"objetivo. "
+msgstr "Llama a una tormenta de relámpagos donde golpea el rayo."
 
 msgid "s_Thunderstorm_1"
 msgstr "Truenos_1"
@@ -3831,7 +3812,9 @@ msgid "s_Tornado"
 msgstr "Tornado"
 
 msgid "desc_s_Tornado"
-msgstr "Invoca un tornado alrededor de la castra. "
+msgstr ""
+"Ofertas Relámpago dañino a cualquier cosa dentro de un radio alrededor de la"
+" fundición."
 
 msgid "s_Tornado_1"
 msgstr "Tornado_1"
@@ -3853,7 +3836,7 @@ msgid "s_Flames of Vengeance"
 msgstr "Llamas de venganza"
 
 msgid "desc_s_Flames of Vengeance"
-msgstr "Un rayo mágico que produce un infierno de llamas santas."
+msgstr "Dispara un rayo que envuelve una zona en llamas santas."
 
 msgid "s_Flames of Vengeance_1"
 msgstr "Llamas de venganza_1"
@@ -3865,7 +3848,7 @@ msgid "s_Hasten Spells"
 msgstr "Hechizos apresurados"
 
 msgid "desc_s_Hasten Spells"
-msgstr "Menos el tiempo de carga de la ortografía por un tiempo."
+msgstr "Acorta el tiempo de carga del hechizo por un tiempo."
 
 msgid "s_Hasten Spells_1"
 msgstr "Hasten spells_1"
@@ -3877,7 +3860,7 @@ msgid "s_Holy Shield"
 msgstr "Escudo santo"
 
 msgid "desc_s_Holy Shield"
-msgstr "Aumenta la protección contra el daño santo."
+msgstr "Aumenta su protección contra el daño santo."
 
 msgid "s_Holy Shield_1"
 msgstr "Escudo santo_1"
@@ -3889,7 +3872,7 @@ msgid "s_Holy Ward"
 msgstr "Santa sala"
 
 msgid "desc_s_Holy Ward"
-msgstr "Concede una protección dirigida contra el daño santo."
+msgstr "Concede una protección aliada contra el daño santo."
 
 msgid "s_Holy Ward_1"
 msgstr "Santa sala_1"
@@ -3901,8 +3884,7 @@ msgid "s_Holy Weakness"
 msgstr "Debilidad santa"
 
 msgid "desc_s_Holy Weakness"
-msgstr ""
-"Lanza un misil infligiendo una pena a la Santa protección de su objetivo."
+msgstr "Dispara un misil que baja la protección de un blanco."
 
 msgid "s_Holy Weakness_1"
 msgstr "Santa debilidad_1"
@@ -3914,7 +3896,7 @@ msgid "s_Lend Mana"
 msgstr "Préstamos maná"
 
 msgid "desc_s_Lend Mana"
-msgstr "Apunta a un objetivo para transferir parte de su piscina maná."
+msgstr "Transfiere algo de tu Mana a un objetivo."
 
 msgid "s_Lend Mana_1"
 msgstr "Prestar mana_1"
@@ -3950,7 +3932,7 @@ msgid "s_Reflect Spell"
 msgstr "Reflectante"
 
 msgid "desc_s_Reflect Spell"
-msgstr "Refleja el siguiente hechizo de daño de vuelta a su fuente."
+msgstr "Refleja el siguiente hechizo de daño en su fundición."
 
 msgid "s_Reflect Spell_1"
 msgstr "Reflectar el hechizo_1"
@@ -3962,7 +3944,7 @@ msgid "s_Sacred Missile"
 msgstr "Misil sagrado"
 
 msgid "desc_s_Sacred Missile"
-msgstr "Lanza un proyectil causando daño Santo a su objetivo."
+msgstr "Dispara un perno que se ocupa del daño Santo a su objetivo."
 
 msgid "s_Sacred Missile_HolyDam"
 msgstr "Sagrado misil_holydam"
@@ -3974,8 +3956,7 @@ msgid "s_Spell Immunity"
 msgstr "Inmunidad de ortografía"
 
 msgid "desc_s_Spell Immunity"
-msgstr ""
-"Aumenta la probabilidad de que el caster resista los hechizos sin daños."
+msgstr "Mejora tu oportunidad de resistir hechizos sin daños."
 
 msgid "s_Spell Immunity_1"
 msgstr "Inmunidad de ortografía_1"
@@ -3987,7 +3968,7 @@ msgid "s_Virtuous Wrath"
 msgstr "Ira virtuosa"
 
 msgid "desc_s_Virtuous Wrath"
-msgstr "Lanza un proyectil que explota sobre el impacto causando daño Santo."
+msgstr "Dispara un proyectil que explote por el daño Santo en el impacto."
 
 msgid "s_Virtuous Wrath_1"
 msgstr "Ira virtuosa_1"
@@ -3999,7 +3980,7 @@ msgid "s_Wall of Force"
 msgstr "Muro de la fuerza"
 
 msgid "desc_s_Wall of Force"
-msgstr "Crea una burbuja mágica que impide todo el movimiento."
+msgstr "Crea una burbuja mágica que impide el movimiento."
 
 msgid "s_Wall of Force_force"
 msgstr "Muro de fuerza_fuerza"
@@ -4026,8 +4007,7 @@ msgid "s_Acid Arrow"
 msgstr "Flecha de ácido"
 
 msgid "desc_s_Acid Arrow"
-msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daños ácidos."
+msgstr "Dispara un perno que se ocupa del daño ácido a su objetivo."
 
 msgid "s_Acid Arrow_1"
 msgstr "Acid arrow_1"
@@ -4039,9 +4019,7 @@ msgid "s_Acid Rain"
 msgstr "Lluvia ácida"
 
 msgid "desc_s_Acid Rain"
-msgstr ""
-"Un rayo mágico que convoca una tormenta de lluvia ácida al golpear su "
-"objetivo."
+msgstr "Dispara un rayo que trae la lluvia ácida en una zona."
 
 msgid "s_Acid Rain_1"
 msgstr "Acid rain_1"
@@ -4053,7 +4031,7 @@ msgid "s_Acid Shield"
 msgstr "Escudo ácido"
 
 msgid "desc_s_Acid Shield"
-msgstr "Da a la casta mayor protección contra el ácido."
+msgstr "Aumenta su protección contra el ácido."
 
 msgid "s_Acid Shield_1"
 msgstr "Escudo ácido_1"
@@ -4065,7 +4043,7 @@ msgid "s_Acid Ward"
 msgstr "Ácido ward"
 
 msgid "desc_s_Acid Ward"
-msgstr "Objetivo para otorgar protección contra el ácido."
+msgstr "Protege un aliado contra el Ácido."
 
 msgid "s_Acid Ward_1"
 msgstr "Acid ward_1"
@@ -4137,7 +4115,7 @@ msgid "s_Brawn"
 msgstr "Vigor"
 
 msgid "desc_s_Brawn"
-msgstr "Otorga un bono de fuerza a la casta."
+msgstr "Aumenta tu fuerza."
 
 msgid "s_Brawn_1"
 msgstr "Brawn_1"
@@ -4150,7 +4128,8 @@ msgstr "Explosión corrosiva"
 
 msgid "desc_s_Corrosive Blast"
 msgstr ""
-"Dispara un proyectil que explota sobre el impacto causando daños ácidos. "
+"Dispara un proyectil que explota por daños ácidos y baja la protección del "
+"ácido."
 
 msgid "s_Corrosive Blast_1"
 msgstr "Corrosive blast_1"
@@ -4168,8 +4147,7 @@ msgid "s_Disintegrate"
 msgstr "Desintegración"
 
 msgid "desc_s_Disintegrate"
-msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daños ácidos."
+msgstr "Dispara un proyectil que explota por daños ácidos en el impacto."
 
 msgid "s_Disintegrate_1"
 msgstr "Disintegrate_1"
@@ -4182,8 +4160,8 @@ msgstr "Terremoto"
 
 msgid "desc_s_Earthquake"
 msgstr ""
-"Presione y sostenga el botón Acción para provocar un terremoto que daña todo"
-" lo cercano, incluyendo la castra."
+"Esperen a sacudir el suelo, dañando todo lo que hay cerca, incluyendo a "
+"ustedes."
 
 msgid "s_Earthquake_1"
 msgstr "Terremoto_1"
@@ -4207,9 +4185,7 @@ msgid "s_Impale"
 msgstr "Empalar"
 
 msgid "desc_s_Impale"
-msgstr ""
-"Dispara un rayo mágico que hace que los picos de arcane perforan su "
-"objetivo.  "
+msgstr "Dispara un rayo que impales un objetivo en los picos de arcane."
 
 msgid "s_Impale_1"
 msgstr "Impale_1"
@@ -4221,7 +4197,7 @@ msgid "s_Ironskin"
 msgstr "Piel de hierro"
 
 msgid "desc_s_Ironskin"
-msgstr "Otorga una protección contra las armas."
+msgstr "Otorga una protección aliada contra las armas."
 
 msgid "s_Ironskin_1"
 msgstr "Ironskin_1"
@@ -4233,7 +4209,7 @@ msgid "s_Meteor Strike"
 msgstr "Meteor strike"
 
 msgid "desc_s_Meteor Strike"
-msgstr "Invoca una lluvia de meteoros para bombardear a tus enemigos."
+msgstr "Llama una lluvia de meteoros a tus enemigos."
 
 msgid "s_Meteor Strike_Impact"
 msgstr "Meteor strike_impacto"
@@ -4257,7 +4233,7 @@ msgid "s_Pungent Mist"
 msgstr "Puntiaguda"
 
 msgid "desc_s_Pungent Mist"
-msgstr "Dispara una nube de vapores corrosivos a tu objetivo."
+msgstr "Rocia el vapor corrosivo que quema y cega un objetivo."
 
 msgid "s_Pungent Mist_1"
 msgstr "Pungent mist_1"
@@ -4269,9 +4245,7 @@ msgid "s_Stamina Leech"
 msgstr "Aguante levadura"
 
 msgid "desc_s_Stamina Leech"
-msgstr ""
-"Dispara un rayo mágico que drena el aguante del objetivo, transfiriéndolo a "
-"la fundición."
+msgstr "Dibuja la resistencia de un objetivo y se la da a usted."
 
 msgid "s_Stamina Leech_1"
 msgstr "Aguante leech_1"
@@ -4321,7 +4295,7 @@ msgid "s_Stoneskin"
 msgstr "Stonekin"
 
 msgid "desc_s_Stoneskin"
-msgstr "Concede la protección de la casta contra ataques de armas."
+msgstr "Aumenta su protección contra los ataques de armas."
 
 msgid "s_Stoneskin_1"
 msgstr "Stonekin_1"
@@ -4333,9 +4307,7 @@ msgid "s_Tarnish"
 msgstr "Empañada"
 
 msgid "desc_s_Tarnish"
-msgstr ""
-"Lanza un misil infligiendo una pena a la protección del ácido de su "
-"objetivo."
+msgstr "Dispara un misil que reduce la protección del ácido de un blanco."
 
 msgid "s_Tarnish_1"
 msgstr "Tarnish_1"
@@ -4355,7 +4327,7 @@ msgid "s_Dragonbreath"
 msgstr "Dragonbreath"
 
 msgid "desc_s_Dragonbreath"
-msgstr "Dispara un continuo bombardeo de chispas ardientes contra un enemigo."
+msgstr "Dispara una corriente de fuego contra un enemigo."
 
 msgid "s_Dragonbreath_1"
 msgstr "Dragonbreath_1"
@@ -4367,7 +4339,9 @@ msgid "s_Explosion"
 msgstr "Explosión"
 
 msgid "desc_s_Explosion"
-msgstr "Produce una explosión ardiente centrada en la castra."
+msgstr ""
+"Trata pequeños daños en un radio alrededor de la fundición, y llama a la "
+"castra hacia arriba."
 
 msgid "s_Explosion_fire"
 msgstr "Explosion_fuego"
@@ -4379,7 +4353,7 @@ msgid "s_Fire Shield"
 msgstr "Escudo de fuego"
 
 msgid "desc_s_Fire Shield"
-msgstr "Da a la castra mayor protección contra el Fuego."
+msgstr "Aumenta su protección contra el Fuego."
 
 msgid "s_Fire Shield_prot"
 msgstr "Escudo de fuego_prot"
@@ -4391,7 +4365,7 @@ msgid "s_Fire Ward"
 msgstr "Resguardo contra el fuego"
 
 msgid "desc_s_Fire Ward"
-msgstr "Otorga una protección contra el Fuego."
+msgstr "Protege un aliado contra el Fuego."
 
 msgid "s_Fire Ward_prot"
 msgstr "Fire ward_prot"
@@ -4404,7 +4378,8 @@ msgstr "Bola de fuego"
 
 msgid "desc_s_Fireball"
 msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daño al Fuego. "
+"Dispara un proyectil que explote por el daño al Fuego, baja la protección "
+"del jugador y los golpea."
 
 msgid "s_Fireball_2"
 msgstr "Fireball_2"
@@ -4422,8 +4397,7 @@ msgid "s_Firebolt"
 msgstr "Firebolt"
 
 msgid "desc_s_Firebolt"
-msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daño al Fuego. "
+msgstr "Dispara un perno que se ocupa del daño de fuego a su objetivo."
 
 msgid "s_Firebolt_area"
 msgstr "Firebolt_area"
@@ -4435,7 +4409,7 @@ msgid "s_Haste"
 msgstr "Prisa"
 
 msgid "desc_s_Haste"
-msgstr "Aumenta la velocidad de ataque cuerpo a cuerpo del objetivo."
+msgstr "Aumenta la velocidad de ataque de un aliado."
 
 msgid "s_Haste_1"
 msgstr "Haste_1"
@@ -4447,7 +4421,7 @@ msgid "s_Impetus"
 msgstr "ÍNDICE"
 
 msgid "desc_s_Impetus"
-msgstr "Otorga un bono de Quickness a la castra."
+msgstr "Aumenta tu Rápido."
 
 msgid "s_Impetus_1"
 msgstr "Impetus_1"
@@ -4460,7 +4434,8 @@ msgstr "Inferno"
 
 msgid "desc_s_Inferno"
 msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daño al Fuego."
+"Dispara un proyectil que explote por el daño causado por el fuego en el "
+"impacto."
 
 msgid "s_Inferno_area"
 msgstr "Inferno_area"
@@ -4473,8 +4448,7 @@ msgstr "Tormenta magma"
 
 msgid "desc_s_Magma Storm"
 msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daño al Fuego. Este"
-" misil se ve afectado por la gravedad."
+"Langosta un proyectil ardiente que explota y golpea enemigos de vuelta."
 
 msgid "s_Magma Strom_fire"
 msgstr "Magma strom_fire"
@@ -4486,7 +4460,7 @@ msgid "s_Rapid Shot"
 msgstr "Disparo rápido"
 
 msgid "desc_s_Rapid Shot"
-msgstr "Otorga un objetivo mayor velocidad de ataque."
+msgstr "Aumenta la velocidad de ataque de un aliado."
 
 msgid "s_Rapid Shot_1"
 msgstr "Disparo rápido_1"
@@ -4498,7 +4472,7 @@ msgid "s_Smoke Signal"
 msgstr "Señal de humo"
 
 msgid "desc_s_Smoke Signal"
-msgstr "Crea una columna de humo que sale del blanco."
+msgstr "Levanta una columna de humo del blanco."
 
 msgid "s_Smoke Signal_1"
 msgstr "Señal de humo_1"
@@ -4510,9 +4484,7 @@ msgid "s_Volcano"
 msgstr "Volcán"
 
 msgid "desc_s_Volcano"
-msgstr ""
-"Dispara un rayo mágico que hace que la roca fundida brote de la tierra "
-"causando daño al Fuego."
+msgstr "Dispara un rayo que hace erupción de roca fundida desde el suelo."
 
 msgid "s_Volcano_1"
 msgstr "Volcan_1"
@@ -4524,9 +4496,7 @@ msgid "s_Wall of Fire"
 msgstr "Muro de fuego"
 
 msgid "desc_s_Wall of Fire"
-msgstr ""
-"Dispara un rayo mágico que crea una gran esfera de fuego sobre golpear su "
-"objetivo."
+msgstr "Dispara un rayo que crea una gran esfera de fuego donde golpea."
 
 msgid "s_Wall of Fire_1"
 msgstr "Muro de fuego_1"
@@ -4539,8 +4509,7 @@ msgstr "Debilitando la barriga"
 
 msgid "desc_s_Weakening Blaze"
 msgstr ""
-"Lanza un misil infligiendo una pena a la protección contra incendios de su "
-"objetivo."
+"Dispara un misil que baja la protección contra incendios de un blanco."
 
 msgid "s_Weakening Blaze_1"
 msgstr "Debilitar el blaze_1"
@@ -4561,7 +4530,7 @@ msgid "s_Beacon"
 msgstr "Baliza"
 
 msgid "desc_s_Beacon"
-msgstr "Un rayo que crea un marcador visual en su objetivo."
+msgstr "Dispara un rayo que marca su objetivo."
 
 msgid "s_Beacon_1"
 msgstr "Beacon_1"
@@ -4573,9 +4542,7 @@ msgid "s_Begone"
 msgstr "Aléjate"
 
 msgid "desc_s_Begone"
-msgstr ""
-"La explosión de Arcane se utiliza principalmente para empujar o tirar "
-"objetivos."
+msgstr "Dispara una explosión de arcano que empuja un objetivo."
 
 msgid "s_Begone_1"
 msgstr "Begone_1"
@@ -4588,7 +4555,7 @@ msgstr "Confusión"
 
 msgid "desc_s_Confusion"
 msgstr ""
-"Misil que crea un flash, persianas en los espectadores sobre el impacto."
+"Dispara un misil que parpadea sobre el impacto, cegando a los cercanos."
 
 msgid "s_Confusion_1"
 msgstr "Confusion_1"
@@ -4600,9 +4567,7 @@ msgid "s_Disabling Bolt"
 msgstr "Desactivando el perno"
 
 msgid "desc_s_Disabling Bolt"
-msgstr ""
-"Un ataque que hace que su oponente no pueda participar durante un corto "
-"período de tiempo."
+msgstr "Dispara un perno que detiene brevemente a un objetivo de parir."
 
 msgid "s_Disabling Bolt_1"
 msgstr "Desactivar el perno_1"
@@ -4621,7 +4586,7 @@ msgstr "Maldito."
 
 msgid "desc_s_Flesh Curse"
 msgstr ""
-"Lanza un misil reduciendo la protección de la Inflicción de su objetivo. "
+"Dispara un misil que reduce la protección de la Inflicción de un objetivo."
 
 msgid "s_Flesh Curse_1"
 msgstr "Maldición de carne_1"
@@ -4647,7 +4612,7 @@ msgid "s_Heal Other"
 msgstr "Curar a otro"
 
 msgid "desc_s_Heal Other"
-msgstr "Un rayo curativo que recupera salud del objetivo."
+msgstr "Dispara un rayo curativo que restaura la salud de un aliado."
 
 msgid "s_Heal Other_1"
 msgstr "Sanar otros_1"
@@ -4659,7 +4624,7 @@ msgid "s_Infliction Shield"
 msgstr "Escudo infligido"
 
 msgid "desc_s_Infliction Shield"
-msgstr "Aumenta la protección de la inflicción."
+msgstr "Aumenta su protección de la Inflicción."
 
 msgid "s_Infliction Shield_1"
 msgstr "Escudo infligido_1"
@@ -4671,8 +4636,7 @@ msgid "s_Infliction Ward"
 msgstr "Infligido por la guerra"
 
 msgid "desc_s_Infliction Ward"
-msgstr ""
-"Las subvenciones tienen por objeto aumentar la protección de la inflicción."
+msgstr "Aumenta la protección de la Inflicción."
 
 msgid "s_Infliction Ward_1"
 msgstr "Infligir ward_1"
@@ -4684,7 +4648,7 @@ msgid "s_Insight"
 msgstr "Introspección"
 
 msgid "desc_s_Insight"
-msgstr "Concede un bono de Sabiduría a la castra."
+msgstr "Aumenta tu Sabiduría."
 
 msgid "s_Insight_1"
 msgstr "Insight_1"
@@ -4710,8 +4674,7 @@ msgid "s_Missile Fury"
 msgstr "Misiles fury"
 
 msgid "desc_s_Missile Fury"
-msgstr ""
-"Lanza un proyectil que explota sobre el impacto causando daño a Arcane."
+msgstr "Dispara un proyectil que explote por daño de Arcane en el impacto."
 
 msgid "s_Missile Fury_1"
 msgstr "Misiles fury_1"
@@ -4723,9 +4686,7 @@ msgid "s_Rend"
 msgstr "Rend"
 
 msgid "desc_s_Rend"
-msgstr ""
-"Dispara un misil que explote sobre el impacto causando daño a Bleeding, así "
-"como concediendo una pena de protección de perforación."
+msgstr "Dispara un misil que causa sangrado y reduce la protección Piercing."
 
 msgid "s_Rend_1"
 msgstr "Rend_1"
@@ -4769,9 +4730,7 @@ msgid "s_Impulse"
 msgstr "Impulso"
 
 msgid "desc_s_Impulse"
-msgstr ""
-"Una esfera de poder arcano puro, que se utiliza principalmente para mover "
-"objetivos."
+msgstr "Dispara una esfera de fuerza arcana que mueve objetivos."
 
 msgid "s_Impulse_1"
 msgstr "Impulso_1"
@@ -4783,7 +4742,9 @@ msgid "s_Telekinesis"
 msgstr "Telekinesis"
 
 msgid "desc_s_Telekinesis"
-msgstr "Una columna de fuerza telequinética que eleva a cualquiera dentro."
+msgstr ""
+"Crea una columna de fuerza telequinética que eleva a cualquier persona "
+"dentro durante un corto periodo de tiempo."
 
 msgid "s_Telekinesis_1"
 msgstr "Telekinesis_1"
@@ -4795,7 +4756,7 @@ msgid "s_Unburden"
 msgstr "Unburden"
 
 msgid "desc_s_Unburden"
-msgstr "Reduce la Encumbrancia de la castra."
+msgstr "Reduce tu Encumbrance por un corto tiempo."
 
 msgid "s_Unburden_1"
 msgstr "Unburden_1"
@@ -4808,8 +4769,7 @@ msgstr "Venom"
 
 msgid "desc_s_Venom"
 msgstr ""
-"Dispara un misil infligiendo daño a veneno en su objetivo y bajando el "
-"máximo salud."
+"Dispara un misil que envenena a un blanco y disminuye la máxima salud."
 
 msgid "s_Venom_2"
 msgstr "Venom_2"
@@ -4863,8 +4823,8 @@ msgstr "Carga"
 
 msgid "desc_s_Burden"
 msgstr ""
-"Dispara un misil infligiendo una pena de Encumbrance a su objetivo, "
-"interfiriendo con su casting o arquería."
+"Dispare un misil que acumula un blanco, dificultando el casting y la "
+"arquería."
 
 msgid "s_Burden_1"
 msgstr "Burden_1"
@@ -4876,7 +4836,8 @@ msgid "s_Eldritch Sphere"
 msgstr "Eldritch esfera"
 
 msgid "desc_s_Eldritch Sphere"
-msgstr "Dispara un misil que explota sobre el impacto causando daño a Arcane."
+msgstr ""
+"Abraza una esfera que explota en el impacto, tratando el daño de Arcane."
 
 msgid "s_Eldritch Sphere_1"
 msgstr "Eldritch sphere_1"
@@ -4888,7 +4849,7 @@ msgid "s_Heal Mount"
 msgstr "Montaje curado"
 
 msgid "desc_s_Heal Mount"
-msgstr "Dispara un rayo mágico que repone el montaje salud."
+msgstr "Cura un montaje apuntado."
 
 msgid "s_Heal Mount_1"
 msgstr "Heal mount_1"
@@ -4900,9 +4861,7 @@ msgid "s_Heal Self"
 msgstr "Autocuración"
 
 msgid "desc_s_Heal Self"
-msgstr ""
-"Caster recupera una pequeña cantidad de salud. Este hechizo no requiere "
-"ningún reactivo para lanzar."
+msgstr "Caster recupera una pequeña cantidad de salud."
 
 msgid "s_Heal Self_1"
 msgstr "Sanar a sí mismo_1"
@@ -4914,7 +4873,7 @@ msgid "s_Health to Mana"
 msgstr "Salud a maná"
 
 msgid "desc_s_Health to Mana"
-msgstr "Caster aumenta su propio maná, a costa de perder salud."
+msgstr "Convierte algo de su salud en Mana."
 
 msgid "s_Health to Mana_1"
 msgstr "Salud a mana_1"
@@ -4926,7 +4885,7 @@ msgid "s_Launch"
 msgstr "Lanzamiento"
 
 msgid "desc_s_Launch"
-msgstr "Dispara un rayo mágico que causa una explosión de energía."
+msgstr "Libera una ráfaga de aire que lanza el objetivo hacia arriba."
 
 msgid "s_Launch_1"
 msgstr "Launch_1"
@@ -4938,7 +4897,7 @@ msgid "s_Lay on Hands"
 msgstr "Acostados en manos"
 
 msgid "desc_s_Lay on Hands"
-msgstr "Dispara un rayo mágico que cura su objetivo."
+msgstr "Cura a un jugador objetivo, pero tiene un rango corto."
 
 msgid "s_Lay on Hands_1"
 msgstr "Estar en las manos_1"
@@ -4986,7 +4945,7 @@ msgid "s_Mana Drain"
 msgstr "Drenaje maná"
 
 msgid "desc_s_Mana Drain"
-msgstr "Dispara un rayo mágico que drena el maná de su objetivo."
+msgstr "Dibuja Mana de un blanco."
 
 msgid "s_Mana Drain_Drain"
 msgstr "Maná drenaje_drain"
@@ -4998,9 +4957,7 @@ msgid "s_Mana Missile"
 msgstr "Proyectil de maná"
 
 msgid "desc_s_Mana Missile"
-msgstr ""
-"Dispara un misil que inflige daño a Arcane. Es el hechizo de daño más débil "
-"disponible, pero no requiere reactivos. "
+msgstr "Dispara un misil que explote por daño a Arcane."
 
 msgid "s_Mana Missile_Arcane"
 msgstr "Maná missile_arcane"
@@ -5012,7 +4969,7 @@ msgid "s_Mana to Stamina"
 msgstr "Maná a aguante"
 
 msgid "desc_s_Mana to Stamina"
-msgstr "Caster aumenta su propio aguante, a costa de perder maná."
+msgstr "Convierte algo de tu Mana en Stamina."
 
 msgid "s_Mana to Stamina_1"
 msgstr "Maná a la resistencia_1"
@@ -5024,7 +4981,7 @@ msgid "s_Stamina to Health"
 msgstr "Aguante a salud"
 
 msgid "desc_s_Stamina to Health"
-msgstr "Caster aumenta su propio salud, a costa de perder aguante."
+msgstr "Convierte algo de su resistencia en la salud."
 
 msgid "s_Stamina to Health_1"
 msgstr "Aguante a la salud_1"
@@ -5045,7 +5002,8 @@ msgid "s_Bludgeoning Weakness"
 msgstr "Bludgeoning weakness"
 
 msgid "desc_s_Bludgeoning Weakness"
-msgstr "Lanza un misil infligiendo una pena a la protección de su objetivo.  "
+msgstr ""
+"Arrolla un misil que reduce la protección de Bludgeoning del objetivo."
 
 msgid "s_Bludgeoning Weakness_1"
 msgstr "Bludgeoning weakness_1"
@@ -5069,7 +5027,7 @@ msgid "s_Cursed Bolt"
 msgstr "Maldito perno"
 
 msgid "desc_s_Cursed Bolt"
-msgstr "Dispara un misil infligiendo daños indefensos."
+msgstr "Dispara un perno que se ocupa de daño irrompible."
 
 msgid "s_Cursed Bolt_1"
 msgstr "Maldito bolt_1"
@@ -5081,7 +5039,9 @@ msgid "s_Death Fog"
 msgstr "La muerte de Fog"
 
 msgid "desc_s_Death Fog"
-msgstr "Dispara un rayo mágico que produce una niebla inholy. "
+msgstr ""
+"Crea una niebla Inholy que daña todo dentro de ella con el tiempo y "
+"obsesiona la visión."
 
 msgid "s_Death Fog_1"
 msgstr "Muerte fog_1"
@@ -5093,7 +5053,7 @@ msgid "s_Desecration"
 msgstr "Profanación"
 
 msgid "desc_s_Desecration"
-msgstr "Lanza un misil infligiendo una pena a la protección de su objetivo."
+msgstr "Hurls un misil que baja la protección del objetivo."
 
 msgid "s_Desecration_1"
 msgstr "Desecration_1"
@@ -5120,8 +5080,8 @@ msgstr "Ojo podrido"
 
 msgid "desc_s_Eye Rot"
 msgstr ""
-"Misil que perturba la coordinación del objetivo.  Causa daños y una pena a "
-"la Dexteridad e Inteligencia."
+"lanza un misil que ciega severamente el objetivo durante un corto período de"
+" tiempo."
 
 msgid "s_Eye Rot_1"
 msgstr "Ojo rot_1"
@@ -5145,7 +5105,7 @@ msgid "s_Infernal Shield"
 msgstr "Escudo infernal"
 
 msgid "desc_s_Infernal Shield"
-msgstr "Otorga mayor protección contra el daño impío."
+msgstr "Aumenta su protección contra daños Inholy."
 
 msgid "s_Infernal Shield_1"
 msgstr "Escudo infernal_1"
@@ -5157,7 +5117,7 @@ msgid "s_Infernal Ward"
 msgstr "Infernal ward"
 
 msgid "desc_s_Infernal Ward"
-msgstr "Otorga una protección contra daños irrefutables."
+msgstr "Otorga una protección contra daños Unholy."
 
 msgid "s_Infernal Ward_1"
 msgstr "Infernal ward_1"
@@ -5182,8 +5142,7 @@ msgid "s_Piercing Weakness"
 msgstr "Debilidad penetrante"
 
 msgid "desc_s_Piercing Weakness"
-msgstr ""
-"Lanza un misil infligiendo una pena a la protección Piercing de su objetivo."
+msgstr "Hurls un misil que baja la protección Piercing del objetivo."
 
 msgid "s_Piercing Weakness_1"
 msgstr "Perforar la debilidad_1"
@@ -5195,8 +5154,7 @@ msgid "s_Slashing Weakness"
 msgstr "Debilidad de choque"
 
 msgid "desc_s_Slashing Weakness"
-msgstr ""
-"Lanza un misil infligiendo una pena a la protección de su objetivo Slashing."
+msgstr "Hurls un misil que baja la protección del blanco Slashing."
 
 msgid "s_Slashing Weakness_1"
 msgstr "Slashing weakness_1"
@@ -5209,8 +5167,8 @@ msgstr "Undeath"
 
 msgid "desc_s_Undeath"
 msgstr ""
-"Dispara un misil que inflige una maldición a su objetivo, reduciendo o "
-"incluso negando la regeneración natural salud."
+"Maneja una maldición que reduce la tasa de regeneración de la salud natural "
+"del objetivo."
 
 msgid "s_Undeath_1"
 msgstr "Undeath_1"
@@ -5222,7 +5180,7 @@ msgid "s_Unholy Caress"
 msgstr "Acariciado impía"
 
 msgid "desc_s_Unholy Caress"
-msgstr "Dispara una línea causando daño Inholy en un solo objetivo. "
+msgstr "Ataque a un solo objetivo con un rayo de daño Inholy."
 
 msgid "s_Unholy Caress_1"
 msgstr "Unholy caress_1"
@@ -5234,8 +5192,7 @@ msgid "s_Unholy Flames"
 msgstr "Llamas insólitas"
 
 msgid "desc_s_Unholy Flames"
-msgstr ""
-"Dispara un proyectil que explota sobre el impacto causando daño Unholy. "
+msgstr "Lanza un proyectil que explota al impactar e inflige daño impío."
 
 msgid "s_Unholy Flames_area"
 msgstr "Una holy flames_area"
@@ -5260,9 +5217,7 @@ msgid "s_Vampiric Touch"
 msgstr "Vampiric touch"
 
 msgid "desc_s_Vampiric Touch"
-msgstr ""
-"Dispara un rayo mágico que drena el salud del objetivo, transfiriéndolo a la"
-" fundición. "
+msgstr "Dibuja la salud del objetivo y se la da a usted."
 
 msgid "s_Vampiric Touch_1"
 msgstr "Vampiric touch_1"
@@ -5289,7 +5244,7 @@ msgid "s_Adept"
 msgstr "Adeptos"
 
 msgid "desc_s_Adept"
-msgstr "Disminuye la probabilidad de falla del hechizo de la castra."
+msgstr "Baja tu oportunidad de falla del hechizo."
 
 msgid "s_Adept_1"
 msgstr "Adept_1"
@@ -5301,7 +5256,8 @@ msgid "s_Bless Other"
 msgstr "Bendice a otros."
 
 msgid "desc_s_Bless Other"
-msgstr "Otorga una protección contra los ataques de Malediction."
+msgstr ""
+"Concede una protección contra la Maledicción dirigida a los jugadores."
 
 msgid "s_Bless Other_1"
 msgstr "Bendecir otro_1"
@@ -5325,7 +5281,7 @@ msgid "s_Healing Chant"
 msgstr "Canto curativo"
 
 msgid "desc_s_Healing Chant"
-msgstr "Crea una esfera curativa alrededor de la castra."
+msgstr "Cura a los que te rodean con el tiempo mientras cantas."
 
 msgid "s_Healing Chant_1"
 msgstr "El canto de sanación_1"
@@ -5337,7 +5293,7 @@ msgid "s_Hymn of Intellect"
 msgstr "Himno de intelecto"
 
 msgid "desc_s_Hymn of Intellect"
-msgstr "Un rayo que otorga un bono a la Inteligencia del objetivo."
+msgstr "Aumenta la Inteligencia de un jugador objetivo."
 
 msgid "s_Hymn of Intellect_1"
 msgstr "Himno de intellect_1"
@@ -5349,7 +5305,7 @@ msgid "s_Hymn of Might"
 msgstr "Himno de poder"
 
 msgid "desc_s_Hymn of Might"
-msgstr "Un rayo que otorga un bono a la fuerza del objetivo."
+msgstr "Aumenta la fuerza de un jugador objetivo."
 
 msgid "s_Hymn of Might_1"
 msgstr "Himno de may_1"
@@ -5361,7 +5317,7 @@ msgid "s_Hymn of Skill"
 msgstr "Himno de habilidad"
 
 msgid "desc_s_Hymn of Skill"
-msgstr "Un rayo que otorga un bono a la Dexteridad del objetivo."
+msgstr "Aumenta la Dexteridad de un jugador objetivo."
 
 msgid "s_Hymn of Skill_1"
 msgstr "Himno de habilidad_1"
@@ -5373,7 +5329,7 @@ msgid "s_Hymn of Swiftness"
 msgstr "Himno de rapidez"
 
 msgid "desc_s_Hymn of Swiftness"
-msgstr "Un rayo que otorga un bono a la Rápido del objetivo."
+msgstr "Aumenta la rapidez de un jugador objetivo."
 
 msgid "s_Hymn of Swiftness_1"
 msgstr "Himno de rapidez_1"
@@ -5385,7 +5341,7 @@ msgid "s_Hymn of Vigor"
 msgstr "Himno de vigor"
 
 msgid "desc_s_Hymn of Vigor"
-msgstr "Un rayo mágico que otorga un bono a la Vitalidad del objetivo."
+msgstr "Aumenta la Vitalidad de un jugador objetivo."
 
 msgid "s_Hymn of Vigor_1"
 msgstr "Himno de vigor_1"
@@ -5397,7 +5353,8 @@ msgid "s_Mana Blast"
 msgstr "Maná explosión"
 
 msgid "desc_s_Mana Blast"
-msgstr "Dispara un rayo mágico que causa una explosión de Arcane."
+msgstr ""
+"Causa una explosión de Arcane en el blanco, dañando todo lo que hay cerca."
 
 msgid "s_Mana Blast_1"
 msgstr "Maná blast_1"
@@ -5409,7 +5366,7 @@ msgid "s_Max Health Bonus"
 msgstr "Max salud bonificación"
 
 msgid "desc_s_Max Health Bonus"
-msgstr "Temporalmente aumenta el máximo salud de la castra."
+msgstr "Temporalmente aumenta su salud máxima."
 
 msgid "s_Max Health Bonus_1"
 msgstr "Max salud bonus_1"
@@ -5421,7 +5378,7 @@ msgid "s_Max Mana Bonus"
 msgstr "Max maná bonificación"
 
 msgid "desc_s_Max Mana Bonus"
-msgstr "Temporalmente aumenta el máximo maná de la castra."
+msgstr "Temporalmente aumenta su Mana máxima."
 
 msgid "s_Max Mana Bonus_1"
 msgstr "Max maná bonus_1"
@@ -5433,7 +5390,7 @@ msgid "s_Max Stamina Bonus"
 msgstr "Max aguante bonificación"
 
 msgid "desc_s_Max Stamina Bonus"
-msgstr "Temporalmente aumenta el máximo aguante de la castra."
+msgstr "Temporalmente aumenta su resistencia máxima."
 
 msgid "s_Max Stamina Bonus_1"
 msgstr "Max aguante bonus_1"
@@ -5445,7 +5402,7 @@ msgid "s_Sacrifice"
 msgstr "Sacrificio"
 
 msgid "desc_s_Sacrifice"
-msgstr "Un rayo que transfiere salud de la casta al objetivo."
+msgstr "Cura a un jugador objetivo al costo de su propia Salud."
 
 msgid "s_Sacrifice_1"
 msgstr "Sacrificio_1"
@@ -5515,7 +5472,7 @@ msgid "s_Blizzard"
 msgstr "Blizzard"
 
 msgid "desc_s_Blizzard"
-msgstr "Lanza un misil que explota sobre el impacto causando daño a Cold. "
+msgstr "Hurls un misil que explota en el impacto, lidiando daños fríos."
 
 msgid "s_Blizzard_1"
 msgstr "Blizzard_1"
@@ -5539,7 +5496,7 @@ msgid "s_Clear Thoughts"
 msgstr "Pensamientos claros"
 
 msgid "desc_s_Clear Thoughts"
-msgstr "Otorga un bono de Inteligencia a la casta."
+msgstr "Aumenta tu Inteligencia."
 
 msgid "s_Clear Thoughts_1"
 msgstr "Pensamientos claros_1"
@@ -5551,7 +5508,7 @@ msgid "s_Cold Shield"
 msgstr "Escudo frío"
 
 msgid "desc_s_Cold Shield"
-msgstr "Concede a la castra una mayor protección contra Cold."
+msgstr "Aumenta su protección contra el daño frío."
 
 msgid "s_Cold Shield_prot"
 msgstr "Escudo frío_prot"
@@ -5563,7 +5520,7 @@ msgid "s_Cold Ward"
 msgstr "Frio salado"
 
 msgid "desc_s_Cold Ward"
-msgstr "Otorga la protección contra Cold."
+msgstr "Otorga una protección contra daños Fríos."
 
 msgid "s_Cold Ward_1"
 msgstr "Frio ward_1"
@@ -5575,9 +5532,7 @@ msgid "s_Delayed Shot"
 msgstr "Retraso en el disparo"
 
 msgid "desc_s_Delayed Shot"
-msgstr ""
-"Lanza un misil infligiendo una pena a la velocidad de ataque de su objetivo "
-"con armas de alcance.  "
+msgstr "Hurls un misil que ralentiza los ataques del objetivo."
 
 msgid "s_Delayed Shot_1"
 msgstr "Retardado"
@@ -5589,7 +5544,7 @@ msgid "s_Frostbite"
 msgstr "Frostbite"
 
 msgid "desc_s_Frostbite"
-msgstr "Dispara un rayo de intenso frío dañando todo en su camino."
+msgstr "Ataque a un solo objetivo con un rayo de daño Frío."
 
 msgid "s_Frostbite_1"
 msgstr "Frostbite_1"
@@ -5601,7 +5556,7 @@ msgid "s_Gills"
 msgstr "Gills"
 
 msgid "desc_s_Gills"
-msgstr "Aumenta la capacidad pulmonar de la castra."
+msgstr "Te permite respirar bajo el agua por más tiempo."
 
 msgid "s_Gills_1"
 msgstr "Gills_1"
@@ -5614,8 +5569,8 @@ msgstr "Tormenta de hielo"
 
 msgid "desc_s_Ice Storm"
 msgstr ""
-"Dispara un rayo mágico que convoca una tormenta de intenso frío al golpear "
-"su objetivo."
+"Invoca una tormenta de frío que se ocupa de daños menores pero que obscurece"
+" la visión."
 
 msgid "s_Ice Storm_1"
 msgstr "Tormenta de hielo_1"
@@ -5627,7 +5582,7 @@ msgid "s_Icicle"
 msgstr "Icicle"
 
 msgid "desc_s_Icicle"
-msgstr "Lanza un misil infligiendo daños fríos a su objetivo."
+msgstr "Dispara un cíclico que se ocupa del daño causado por el frío."
 
 msgid "s_Icicle_Cold"
 msgstr "Icicle_cold"
@@ -5639,7 +5594,9 @@ msgid "s_Shards"
 msgstr "Fragmentos"
 
 msgid "desc_s_Shards"
-msgstr "Lanza un proyectil que explota sobre el impacto causando daño Frío."
+msgstr ""
+"Hurls shards que explotan en el impacto, lidiando daños fríos y bajando la "
+"protección fría."
 
 msgid "s_Shards_2"
 msgstr "Shards_2"
@@ -5657,9 +5614,7 @@ msgid "s_Slow"
 msgstr "Lento"
 
 msgid "desc_s_Slow"
-msgstr ""
-"Dispara un misil infligiendo una pena a la velocidad de ataque de su "
-"objetivo al usar armas de meleo."
+msgstr "Hurls un misil que ralentiza los ataques del objetivo."
 
 msgid "s_Slow_1"
 msgstr "Lento_1"
@@ -5672,7 +5627,8 @@ msgstr "Lluvia tóxica"
 
 msgid "desc_s_Toxic Rain"
 msgstr ""
-"Dispara un rayo que conjura una tormenta mágica tratando daño de veneno."
+"Conjura una tormenta de lluvia que se ocupa del daño de veneno con el tiempo"
+" en un área."
 
 msgid "s_Toxic Rain_1"
 msgstr "Lluvia tóxica_1"
@@ -5684,7 +5640,7 @@ msgid "s_Water Breathing"
 msgstr "Respiración de agua"
 
 msgid "desc_s_Water Breathing"
-msgstr "Concede a un objetivo un aumento de la capacidad pulmonar."
+msgstr "Permite que un jugador objetivo respire bajo el agua por más tiempo."
 
 msgid "s_Water Breathing_1"
 msgstr "Agua para respirar_1"
@@ -5696,8 +5652,7 @@ msgid "s_Weakening Chill"
 msgstr "Debilitar el frío"
 
 msgid "desc_s_Weakening Chill"
-msgstr ""
-"Dispara un misil infligiendo una pena a la protección fría de su objetivo."
+msgstr "Hurls un misil que baja la protección Frío del objetivo."
 
 msgid "s_Weakening Chill_1"
 msgstr "Debilitar el frío_1"
@@ -5928,7 +5883,7 @@ msgid "s_Disease"
 msgstr "Enfermedad"
 
 msgid "desc_s_Disease"
-msgstr "Dispara un misil infligiendo una pena a la fuerza de su objetivo."
+msgstr "Hurls un misil que baja la fuerza del objetivo."
 
 msgid "s_Disease_1"
 msgstr "Enfermedad_1"
@@ -5941,7 +5896,7 @@ msgstr "Agotamiento"
 
 msgid "desc_s_Exhaust"
 msgstr ""
-"Dispara un misil que reduce la regeneración natural aguante de su objetivo."
+"Hurls un misil que reduce la regeneración de resistencia del objetivo."
 
 msgid "s_Exhaust_1"
 msgstr "Exhaust_1"
@@ -5953,7 +5908,7 @@ msgid "s_Insect Swarm"
 msgstr "Insecto enjambre"
 
 msgid "desc_s_Insect Swarm"
-msgstr "Envía un enjambre de insectos venenosos al blanco."
+msgstr "Envia un enjambre venenoso que daña el objetivo y baja la Dexteridad."
 
 msgid "s_Insect Swarm_1"
 msgstr "Insecto swarm_1"
@@ -5971,8 +5926,7 @@ msgid "s_Mana Leech"
 msgstr "Maná levadura"
 
 msgid "desc_s_Mana Leech"
-msgstr ""
-"Dispara un rayo que drena el maná del objetivo, transfiriéndolo al caster."
+msgstr "Dibuja el Mana del objetivo y se lo da a usted."
 
 msgid "s_Mana Leech_1"
 msgstr "Maná leech_1"
@@ -5997,8 +5951,7 @@ msgid "s_Needles"
 msgstr "Agujas"
 
 msgid "desc_s_Needles"
-msgstr ""
-"Dispara un misil que explote sobre el impacto causando daño a Bleeding."
+msgstr "Hurls un misil que explota en el impacto, causando daño a Bleeding."
 
 msgid "s_Needles_1"
 msgstr "Agujas_1"
@@ -6010,9 +5963,7 @@ msgid "s_Ominous Drain"
 msgstr "Drenaje ominoso"
 
 msgid "desc_s_Ominous Drain"
-msgstr ""
-"Dispara un misil que puede reducir todos los atributos de base de su "
-"objetivo."
+msgstr "Hurls un misil que puede bajar todos los atributos base del objetivo."
 
 msgid "s_Ominous Drain_1"
 msgstr "Drenaje ominoso_1"
@@ -6024,7 +5975,7 @@ msgid "s_Palsy"
 msgstr "Compañerismo"
 
 msgid "desc_s_Palsy"
-msgstr "Lanza un misil infligiendo una pena a la Dexteridad de su objetivo."
+msgstr "Hurls un misil que baja la destreza del objetivo."
 
 msgid "s_Palsy_1"
 msgstr "Palsy_1"
@@ -6036,7 +5987,7 @@ msgid "s_Pestilence"
 msgstr "Pestilencia"
 
 msgid "desc_s_Pestilence"
-msgstr "Lanza un misil infligiendo una pena a la Vitalidad de su objetivo."
+msgstr "Hurls un misil que baja la Vitalidad del objetivo."
 
 msgid "s_Pestilence_1"
 msgstr "Pestilencia_1"
@@ -6048,7 +5999,7 @@ msgid "s_Sluggish"
 msgstr "Sluggish"
 
 msgid "desc_s_Sluggish"
-msgstr "Lanza un misil infligiendo una pena a la Rápido de su objetivo."
+msgstr "Hurls un misil que baja la Rápido del objetivo."
 
 msgid "s_Sluggish_1"
 msgstr "Sluggish_1"
@@ -6080,7 +6031,7 @@ msgid "s_Stupidity"
 msgstr "Estupidez"
 
 msgid "desc_s_Stupidity"
-msgstr "Lanza un misil infligiendo una pena a la Inteligencia de su objetivo."
+msgstr "Hurls un misil que baja la Inteligencia del objetivo."
 
 msgid "s_Stupidity_1"
 msgstr "Estupidez_1"
@@ -6093,7 +6044,7 @@ msgstr "Lengua podrida"
 
 msgid "desc_s_Tongue Rot"
 msgstr ""
-"Lanza un misil que disminuye la tasa de éxito del hechizo de su objetivo."
+"Hurls un misil que eleva la oportunidad del objetivo de falla de hechizos."
 
 msgid "s_Tongue Rot_Penalty"
 msgstr "Lengua rot_penalty"
@@ -6105,7 +6056,7 @@ msgid "s_Witches Brew"
 msgstr "Cerveza de brujas"
 
 msgid "desc_s_Witches Brew"
-msgstr "Crea una esfera de curación instantánea centrada en la castra."
+msgstr "Cura instantáneamente a los jugadores a tu alrededor."
 
 msgid "s_Witches Brew_1"
 msgstr "Brujas cervece_1"
@@ -6263,7 +6214,7 @@ msgstr "Deadeye aura"
 msgid "desc_s_Deadeye Aura"
 msgstr ""
 "Los miembros del partido cerca de usted tratan más daño rango a los "
-"monstruos mientras que sostiene."
+"monstruos mientras que activo."
 
 msgid "s_Cutthroat Aura"
 msgstr "Cutthroat aura"
@@ -6271,53 +6222,51 @@ msgstr "Cutthroat aura"
 msgid "desc_s_Cutthroat Aura"
 msgstr ""
 "Los miembros del partido cerca de usted tratan más melee daño a los "
-"monstruos mientras que sostiene."
+"monstruos mientras están activos."
 
 msgid "s_Vanguard Aura"
 msgstr "Vanguardia aura"
 
 msgid "desc_s_Vanguard Aura"
-msgstr "Escudos miembros del partido cerca de usted mientras que sostiene."
+msgstr "Escudos miembros del partido cerca de usted mientras activo."
 
 msgid "s_Rain of Arrows"
 msgstr "Lluvia de flechas"
 
 msgid "desc_s_Rain of Arrows"
 msgstr ""
-"Dispara una flecha que llama a la lluvia de flechas donde golpea, hiriendo "
-"criaturas debajo por un corto tiempo. Costa una flecha. Las flechas caídas "
-"no cuentan como flechas que aterrizan."
+"Dispare una flecha que derriba una lluvia de flechas, hiriendo a los que "
+"están debajo."
 
 msgid "s_Volley"
 msgstr "Phantom quiver"
 
 msgid "desc_s_Volley"
 msgstr ""
-"Grants full Second Nature stacks, and for a short time every flecha you land"
-" on a monstruo strikes with especttral force for heavy bonus damage. Termina"
-" si entras en PvP."
+"Grants full Second Nature y brevemente potencia tus flechas contra los "
+"monstruos."
 
 msgid "s_Provoke"
 msgstr "Provocación"
 
 msgid "desc_s_Provoke"
-msgstr "Los monstruos delante de ti te encienden en lugar de tus aliados."
+msgstr "Pone a los monstruos delante de ti en lugar de tus aliados."
 
 msgid "s_Red Harvest"
 msgstr "Cosecha roja"
 
 msgid "desc_s_Red Harvest"
 msgstr ""
-"Sus heridas marcan el doble de rápido por un corto tiempo, y matan "
-"refrescarlo. Necesita cuchillos."
+"Tus heridas marcan el doble de rápido, y matan refrescarlo. Necesita "
+"cuchillos."
 
 msgid "s_Unbroken Line"
 msgstr "Línea no rota"
 
 msgid "desc_s_Unbroken Line"
 msgstr ""
-"Tome mucho menos daño de los monstruos por un corto tiempo. Termina si "
-"entras en PvP."
+"Brevemente reduce el daño que usted toma de los monstruos. Termina si entras"
+" en PvP."
 
 msgid "s_Provoke_1"
 msgstr "Provocar_1"
@@ -6337,10 +6286,49 @@ msgstr "Línea ininterrumpida_2"
 msgid "desc_s_Unbroken Line_2"
 msgstr ""
 
+msgid "s_Oracle Skills"
+msgstr "Oracle skills"
+
+msgid "desc_s_Oracle Skills"
+msgstr ""
+
+msgid "s_Sanctuary"
+msgstr "Santuario"
+
+msgid "desc_s_Sanctuary"
+msgstr ""
+"Coloca un santuario que restaura Mana y Stamina a los jugadores de dentro."
+
+msgid "s_Sanctuary_1"
+msgstr "Sanctuary_1"
+
+msgid "desc_s_Sanctuary_1"
+msgstr ""
+
+msgid "s_Sanctuary_2"
+msgstr "Sanctuary_2"
+
+msgid "desc_s_Sanctuary_2"
+msgstr ""
+
 msgid "s_Vanguard Aura_1"
 msgstr "Vanguard aura_1"
 
 msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "s_Oracle Aura"
+msgstr "Oracle aura"
+
+msgid "desc_s_Oracle Aura"
+msgstr ""
+"Rápida la regeneración de Mana para miembros del partido cerca de usted "
+"mientras activo."
+
+msgid "s_Oracle Aura_1"
+msgstr "Aura del oráculo_1"
+
+msgid "desc_s_Oracle Aura_1"
 msgstr ""
 
 msgid "s_Red Harvest_1"
@@ -6408,3 +6396,42 @@ msgstr "Sithra debilidad relámpago"
 
 msgid "s_Sithra Unholy Weakness"
 msgstr "Sithra debilidad impía"
+
+msgid "skillext_side_step_name"
+msgstr "Paso"
+
+msgid "skillext_side_step_limitation"
+msgstr ""
+
+msgid "skillext_side_step_effect"
+msgstr "Permite un paso doble."
+
+msgid "s_Cutthroat Mastery"
+msgstr "Cutthroat mastery"
+
+msgid "desc_s_Cutthroat Mastery"
+msgstr "Toma el camino de Cutthroat. Requiere cuchillos 50."
+
+msgid "s_Vanguard Mastery"
+msgstr "Vanguard mastery"
+
+msgid "desc_s_Vanguard Mastery"
+msgstr "Coge el camino de Vanguard. Requiere Vitality 50."
+
+msgid "s_Oracle Mastery"
+msgstr "Oracle mastery"
+
+msgid "desc_s_Oracle Mastery"
+msgstr "Toma el camino de Oráculo. Requiere Spell Chanting 50."
+
+msgid "s_Deadeye Mastery"
+msgstr "Deadeye mastery"
+
+msgid "desc_s_Deadeye Mastery"
+msgstr "Coge el camino de Deadeye. Requiere a Archery 50."
+
+msgid "s_Slayer"
+msgstr "Slayer"
+
+msgid "desc_s_Slayer"
+msgstr "Toma la profesión de Cazadores. Contratos, caches y talismanos."

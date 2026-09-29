@@ -32,6 +32,73 @@ msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr ""
 "Вы были удалены из нового канала, потому что выравнивание слишком низкое."
 
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
+msgstr ""
+"Вы присоединились к каналу New Player в качестве помощника для этой сессии. "
+"Помощники могут отправлять одно сообщение каждые %1 секунд. Тип "
+"/newplayer_leave уходит."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
+msgstr "Вы покинули канал \"Новый игрок\"."
+
+msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
+msgstr ""
+"Вы не находитесь на канале New Player, потому что вы его покинули. Тип "
+"/newplayer_helper, чтобы присоединиться."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
+msgstr "Вы уже находитесь на канале New Player."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
+msgstr "Вы не находитесь на канале «Новый игрок» в качестве помощника."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED"
+msgstr "Вы приглушены на канале New Player и не можете писать в нем."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
+msgstr ""
+"Игровой мастер приглушил вас на канале New Player. Вы все еще можете "
+"прочитать его, но не писать в нем."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
+msgstr ""
+"Игровой мастер приглушил вас на канале New Player. Вы все еще можете "
+"прочитать его, но не писать в нем. Причина: %1"
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
+msgstr "Ваш канал \"Новый игрок\" отключен. Вы можете написать на канале еще раз."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
+msgstr "%1 присоединился к чату New Player в качестве помощника."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
+msgstr "%1 вышел из чата New Player."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
+msgstr "%1 был приглушен в чате New Player к %2."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
+msgstr "%1 был приглушен в чате New Player к %2. Причина: %3"
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
+msgstr "%1 был неизменен в чате New Player к %2."
+
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_MINUTES"
+msgstr ""
+"Вы находитесь на охлаждении в этом канале в течение %1 минут и %2 секунд."
+
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_SECONDS"
+msgstr "Вы находитесь на остывании в этом канале в течение %1 секунд."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
+msgstr "Проверьте, считаете ли вы себя новым игроком."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
+msgstr ""
+"Ваша учетная запись по-прежнему считается новым игроком: вы сохраняете свое "
+"место в канале New Player, и охлаждение сообщения помощника больше не "
+"относится к вам."
+
 msgid "NOTIFICATION_ACCEPTED_ANOTHER_INVITATION"
 msgstr "%1 принял другое партийное приглашение."
 
@@ -7757,10 +7824,31 @@ msgstr "%1"
 msgid "NOTIFICATION_GENERIC"
 msgstr "%1"
 
+msgid "NOTIFICATION_SLAYER"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_REWARD"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_MILESTONE"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_PROGRESS"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_MILESTONE"
+msgstr "%1"
+
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_SMALL"
 msgstr "%1"
 
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_MEDIUM"
+msgstr "%1"
+
+msgid "NOTIFICATION_QUEST_TRIGGER_PROMPT"
 msgstr "%1"
 
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_LARGE"
@@ -8158,21 +8246,30 @@ msgstr ""
 msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_CLAN_ALREADY_OWNS_THIS_CITY"
 msgstr "Ваш клан уже контролирует этот глиф."
 
+msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_RACE_ALLIANCE_ALREADY_OWNS"
+msgstr "Ваш расовый альянс уже контролирует этот глиф."
+
 msgid ""
 "NOTIFICATION_PLAYER_CONQUEST_GLYPH_IS_ALREADY_IN_ACTIVE_CHALLENGE_BY_CLAN"
 msgstr "Для этого глифа уже существует активный вызов."
 
 msgid "NOTIFICATION_CLAN_GLYPH_UNDER_ATTACK"
 msgstr ""
-"Глиф, контролируемый вашим кланом в %1 году, был оспорен. Атака начнется "
-"через 5 минут!"
+"Глиф, контролируемый вашим кланом в %1 году, был оспорен! У вас есть %2 "
+"минут, чтобы оспорить это."
 
 msgid "NOTIFICATION_CLAN_GLYPH_ATTACK_START"
 msgstr ""
-"Ваш клан инициировал вызов глифу в %1 году. Атака начнется через 5 минут!"
+"Вы бросили вызов глифу в %1 году. Он будет захвачен через %2 минут, если "
+"защитник не отменит вызов."
 
 msgid "NOTIFICATION_CLAN_CAPTURE_GLYPH"
 msgstr "Клан %1 захватил глиф в %2"
+
+msgid "NOTIFICATION_GLYPH_CHALLENGE_STARTED"
+msgstr ""
+"Глиф руны в %1 теперь оспаривается! Он будет снят через %2 минут, если вызов"
+" не будет отменен."
 
 msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_SUCCESS"
 msgstr "Вы успешно инициировали вызов глифов."
@@ -8905,11 +9002,22 @@ msgstr "Ваше мастерство в %1 увеличилось."
 msgid "NOTIFICATION_TITLE_ADDED"
 msgstr "Название «%1» было добавлено к вашему персонажу."
 
+msgid "NOTIFICATION_TITLE_ALREADY_OWNED"
+msgstr "Вы уже владеете титулом \"%1\"!"
+
 msgid "NOTIFICATION_SKILL_POWERGROUP_MAX"
 msgstr "Мощность %1 растет!"
 
 msgid "NOTIFICATION_SKILL_POWERGROUP_UP"
 msgstr "Ваше мастерство %1 вышло на новый уровень!"
+
+msgid "NOTIFICATION_SKILL_CRAFTING_TIER_UP"
+msgstr "%1 вышел на новый крафтовый уровень!"
+
+msgid "NOTIFICATION_GLYPH_CHALLENGE_DEFENDER_WARNING"
+msgstr ""
+"Глиф руны в %1 находится под угрозой! У вашего альянса есть %2 минут, чтобы "
+"оспорить это."
 
 msgid "NOTIFICATION_SKILL_STOPPED"
 msgstr "Навык %1 был остановлен."
@@ -9157,7 +9265,9 @@ msgid "NOTIFICATION_TASK_TAB_TASK_COMPLETED"
 msgstr "Поздравляю! Вы выполнили задание ^Cdarkfall^%1."
 
 msgid "NOTIFICATION_TASK_TAB_REWARD"
-msgstr "^Cdarkfall^Вы были вознаграждены ^Cwhite^%2 ^Cdarkfall^%1."
+msgstr ""
+"^Cdarkfall^Вы были вознаграждены ^Cwhite^%2 ^Cdarkfall^%1. ^Cwhite^ "
+"(отправлено в ваш банк)"
 
 msgid "NOTIFICATION_TASK_TAB_MEDITATION_REWARD"
 msgstr ""
@@ -9167,7 +9277,8 @@ msgid "NOTIFICATION_TASK_TAB_TASK_UNLOCKED"
 msgstr "^Cacid^Time закончился! Задание \"%1\" перезапущено!"
 
 msgid "NOTIFICATION_TASK_TAB_TASK_RARE_REWARD"
-msgstr "Поздравляем, вы получили редкую награду!"
+msgstr ""
+"Поздравляем, вы получили редкую награду! ^Cwhite^ (отправлено в ваш банк)"
 
 msgid "NOTIFICATION_PARTY_IS_NOT_CREATED_YET"
 msgstr "Партия еще не создана."
@@ -10697,6 +10808,16 @@ msgid "CANNOT_MERGE_LAWFUL_AND_LAWLESS_PARTIES"
 msgstr ""
 "^Cred^ Слияние между законными и беззаконными сторонами не допускается."
 
+msgid "NOTIFICATION_PARTY_LINK_ENEMY_FACTION"
+msgstr ""
+"^Cred^ Не может быть связи с партией %1: законные партии могут связываться "
+"только в пределах их собственного расового союза."
+
+msgid "NOTIFICATION_PARTY_LINK_LAWFUL_LAWLESS"
+msgstr ""
+"^Cred^ Не может быть связи с партией %1: законные и беззаконные партии не "
+"могут быть связаны."
+
 msgid "LAWFUL_PLAYER_IN_LAWLESS_PARTY"
 msgstr "^Cred^ Вы оставили свою беззаконную партию, потому что вы законны."
 
@@ -12191,6 +12312,16 @@ msgstr ""
 "Чтобы вернуться к законным, вы должны молиться в церкви или другом "
 "назначенном месте."
 
+msgid "NOTIFICATION_PVP_FLAG_ERROR_ON_TUTORIAL_ISLAND"
+msgstr ""
+"Вы не можете изменить свою позицию выравнивания, находясь на острове "
+"обучения."
+
+msgid "NOTIFICATION_INSTANCE_SKILL_CAP_REACHED"
+msgstr ""
+"%1 не может быть обучен после %2 на учебных островах. Пройдите через Арку "
+"Отъезда, чтобы продолжить продвижение."
+
 msgid "NOTIFICATION_PRAYING_ERROR_NO_NEED_TO_PRAY"
 msgstr "Вам не нужно молиться."
 
@@ -12821,10 +12952,23 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_CANCELLED"
 msgstr "Phantom Quiver collapses - PvP-бои."
 
+# Kept although the code no longer says it: the curated mastery MR branch
+# still
+# carries the suppression-era manager, and a key deleted under a branch that
+# is
+# still in flight is a line that renders as its own key id in game.
 msgid "NOTIFICATION_PVE_MASTERY_AURA_SUPPRESSED_PVP"
 msgstr ""
 "[Мастерство] Аура подавлена — PvP-бои. Он возвращается, когда отметка "
 "угасает; время идет."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
+msgstr ""
+"Твоя аура выходит наружу - PvP-бои. %1 эссенция вернулась на оставшееся "
+"время."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
+msgstr "Вы не можете поднять ауру, пока у вас есть бой PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
 msgstr "[Мастерия] %1 нуждается в %2 сущности — настройке Древней Сущности."
@@ -12846,14 +12990,28 @@ msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_LEVEL_LOCKED"
 msgstr "[Мастерия] %1 разблокируется на уровне %2 (в настоящее время %3)."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
-msgstr "[Мастерство] Камни запечатаны, в то время как отмечены PvP-боем."
+msgstr "Капстоуны отключены, в то время как отмечены PvP-боем."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_COOLDOWN"
 msgstr "[Мастерия] %1 находится на охлаждении (%2s слева)."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
+msgstr "[Мастерство] Неразрушенная линия — урон монстрам, взятый —%1% за %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_BROKEN"
 msgstr ""
-"[Мастерство] Неразрушенная линия — чудовищный урон, принятый -60% за %1."
+"[Мастерство] Несломленная линия заканчивается — вы больше не носите щит."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_STAFF"
+msgstr "[Мастерство] %1 нуждается в персонале."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_ACTIVE"
+msgstr ""
+"Каждый игрок в пределах %1 м восстанавливает %2 ману и выносливость каждые "
+"%3 для %4."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_REFUSED"
+msgstr "Убежище достигло кого-то, отмеченного PvP-боем."
 
 msgid "NOTIFICATION_PVE_MASTERY_RED_HARVEST_ACTIVE"
 msgstr ""
@@ -12881,6 +13039,9 @@ msgstr "Ваша аура следует за вами - %1 аура, %2 мин�
 
 msgid "NOTIFICATION_PVE_MASTERY_NEEDS_SHIELD"
 msgstr "%1 нужен щит."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_BOW"
+msgstr "[Мастерство] %1 нуждается в поклоне."
 
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_MIRRORED"
 msgstr "[Мастерство] Эгис бросает заклинание обратно в свой заклинатель."
@@ -12912,7 +13073,7 @@ msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_LEVEL_LOCKED"
 msgstr "Провоцировать разблокировки на уровне %1 (в настоящее время %2)."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_PVP_SEALED"
-msgstr "[Мастерство] Призраки запечатаны, в то время как отмечены PvP-боем."
+msgstr "Призраки отключены, в то время как отмечены PvP-боем."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_COOLDOWN"
 msgstr "[Мастерство] Таунт на охлаждение (%1-е осталось)."
@@ -12931,7 +13092,9 @@ msgid "NOTIFICATION_PVE_MASTERY_SYSTEM_DISABLED"
 msgstr "[Мастерство] Система мастерства отключена."
 
 msgid "NOTIFICATION_PVE_MASTERY_ABILITIES_PVP_SEALED"
-msgstr "Способности мастерства запечатаны, в то время как отмечены PvP-боем."
+msgstr ""
+"[Мастерство] Мастерские способности отключены, в то время как отмечены PvP-"
+"боем."
 
 msgid "NOTIFICATION_PVE_MASTERY_RAIN_COOLDOWN"
 msgstr "[Мастерство] Дождь стрел на охлаждении (%1-е осталось)."
@@ -12946,6 +13109,9 @@ msgstr "[Мастерство] %1 обвалов — PvP-бои."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_VANGUARD"
 msgstr "Партийная защита против монстров."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_ORACLE"
+msgstr "Быстрая регенерация маны для вашей вечеринки."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_CUTTHROAT"
 msgstr "Повреждение вечеринки против монстров."
@@ -12995,3 +13161,90 @@ msgid "NOTIFICATION_MARKET_WRONG_REGION"
 msgstr ""
 "^Cgold^ Этот орден был создан в %1 году. Вы должны быть в %1, чтобы "
 "торговать с ним."
+
+msgid "NOTIFICATION_PET_SUMMONED"
+msgstr "Было вызвано %1."
+
+msgid "NOTIFICATION_PET_DISMISSED"
+msgstr "%1 были уволены."
+
+msgid "NOTIFICATION_PET_VANISHED"
+msgstr "%1 не мог быть сохранен и исчез."
+
+msgid "NOTIFICATION_PET_NOT_SUMMONED"
+msgstr "%1 не мог быть вызван сюда."
+
+msgid "NOTIFICATION_PET_NICKNAME_INVALID"
+msgstr "Это имя не может быть использовано для питомца."
+
+msgid "NOTIFICATION_PET_TOY_NOT_READY"
+msgstr "У %1 еще нет компаньона."
+
+msgid "NOTIFICATION_PET_COLLECTED"
+msgstr "%1 были добавлены в вашу коллекцию домашних животных."
+
+msgid "NOTIFICATION_PET_ALREADY_COLLECTED"
+msgstr "Вы уже собрали %1. Игрушка не использовалась."
+
+msgid "NOTIFICATION_PVE_MASTERY_LEARNED"
+msgstr "Ты встанешь на путь %1. Уровни 1-%2 открыты для вас."
+
+msgid "NOTIFICATION_PVE_MASTERY_ALREADY_LEARNED"
+msgstr "Вы уже идете по пути %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
+msgstr "Вы не встали на путь %1. Убийца учит этому."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
+msgstr "У вас нет никакого мастерства, чтобы разбить ворота."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
+msgstr ""
+"[Мастерство] Ворота держатся. Вы носите %1 из %2 Сфер Мастерства и %3 из %4 "
+"Древних Сфер и держите %5 из %6 сущности."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
+msgstr ""
+"[Мастерство] Ворота держатся. Вы носите %1 из %2 Сфер Мастерства и держите "
+"%3 из %4 сущности."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ACCEPTED"
+msgstr ""
+"[Мастерство] %1 Испытание %2 принято. Принесите его цену Slayer Master Aero."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ALREADY_ACCEPTED"
+msgstr "Вы уже несете %1 Испытание %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
+msgstr "%1 Trial %2 в Slayer Master Aero."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
+msgstr "[Мастерия] %1 нуждается в %2 эссенции, а вы держите %3."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_NOT_LEARNED"
+msgstr "Ты не выучил %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_FORGOTTEN"
+msgstr ""
+"[Мастерство] Ты не выучил %1. Его уровни и прогресс ушли, и вы можете взять "
+"другой."
+
+msgid "bank_withdraw_refunded"
+msgstr ""
+"Ваш вывод средств не мог быть помещен в рюкзак - золото было возвращено на "
+"ваш банковский счет."
+
+msgid "trigger_ff32_warcamp_dismount"
+msgstr ""
+"Вы прибыли. Никто не ездит в военный лагерь - спуститесь и уложите свою "
+"гору, прежде чем войти."
+
+msgid "trigger_ff32_archaeus_cave"
+msgstr ""
+"Агент Архей: «Галий посылает мне ещё один. Покажи мне Свет — по памяти. Я не"
+" покажу тебе, как»."
+
+msgid "tutorial_graduation_reward"
+msgstr ""
+"За Dawnshore вы получили набор доспехов, оружия, инструментов, зелий, "
+"реагентов, еды и гору ваших людей. Все в твоем рюкзаке."

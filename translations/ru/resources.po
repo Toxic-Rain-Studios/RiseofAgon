@@ -4656,6 +4656,12 @@ msgstr "Npc Ork женская одежда"
 msgid "desc_r_NPC Ork Robe Female"
 msgstr "Нажмите кнопку Используйте для взаимодействия с NPC."
 
+msgid "desc_r_NPC Ork Slayer Master"
+msgstr "Мастер истребителей Aero."
+
+msgid "desc_r_Slayer Contract Board"
+msgstr "Доска контрактов истребителя."
+
 msgid "r_Player House Vendors"
 msgstr "Продавцы игральных домов"
 
@@ -4848,6 +4854,15 @@ msgstr ""
 "Дважды щелкните, чтобы добавить 30 дней игрового времени премиум-класса в "
 "свой аккаунт."
 
+msgid "r_ut_Game Time Token"
+msgstr "Игровой токен времени (необычный)"
+
+msgid "desc_r_ut_Game Time Token"
+msgstr ""
+"Дважды щелкните, чтобы добавить 30 дней игрового времени премиум-класса в "
+"свой аккаунт. Этот токен не может быть продан, продан или продан, но может "
+"храниться в вашем банке."
+
 msgid "r_character alteration token"
 msgstr "Изменение символа в маркере"
 
@@ -4907,460 +4922,1377 @@ msgid "desc_r_Monster Toys"
 msgstr "Игрушки-монстры."
 
 msgid "r_toy_arctic_bear"
-msgstr "toy_arctic_bear"
+msgstr "Питомец: Арктический медведь"
 
 msgid "desc_r_toy_arctic_bear"
 msgstr "Редкая коллекционная игрушка Arctic Bear."
 
 msgid "r_toy_blood_knight"
-msgstr "toy_blood_knight"
+msgstr "Питомец: Кровавый рыцарь"
 
 msgid "desc_r_toy_blood_knight"
 msgstr "Редкая коллекционная игрушка Кровавый рыцарь."
 
 msgid "r_toy_gargantua"
-msgstr "toy_gargantua"
+msgstr "Питомец: Гаргантюа"
 
 msgid "desc_r_toy_gargantua"
 msgstr "Редкая коллекционная игрушка Гаргантюа."
 
 msgid "r_toy_goblin_shaman"
-msgstr "toy_goblin_shaman"
+msgstr "Питомец: Шаман гоблинов"
 
 msgid "desc_r_toy_goblin_shaman"
 msgstr "Редкая коллекционная игрушка Гоблина Шамана."
 
 msgid "r_toy_moonbeast_ravager"
-msgstr "toy_moonbeast_ravager"
+msgstr "Питомец: Лунный зверь Равагер"
 
 msgid "desc_r_toy_moonbeast_ravager"
 msgstr "Редкая коллекционная игрушка Moonbeast Ravager."
 
 msgid "r_toy_oak_lord"
-msgstr "toy_oak_lord"
+msgstr "Питомец: Дубовый лорд"
 
 msgid "desc_r_toy_oak_lord"
 msgstr "Редкая коллекционная игрушка Oak Lord."
 
 msgid "r_toy_oathliege"
-msgstr "toy_oathliege"
+msgstr "Питомец: Присяга"
 
 msgid "desc_r_toy_oathliege"
 msgstr "Редкая коллекционная игрушка Oathliege."
 
 msgid "r_toy_raptor"
-msgstr "toy_raptor"
+msgstr "Питомец: Рэпер"
 
 msgid "desc_r_toy_raptor"
 msgstr "Редкая коллекционная игрушка Raptor."
 
 msgid "r_toy_shark"
-msgstr "toy_shark"
+msgstr "Питомец: Shark"
 
 msgid "desc_r_toy_shark"
 msgstr "Редкая коллекционная игрушка акулы."
 
 msgid "r_toy_troll"
-msgstr "toy_troll"
+msgstr "Питомец: Тролль"
 
 msgid "desc_r_toy_troll"
 msgstr "Редкая коллекционная игрушка Тролля."
 
 msgid "r_toy_akathar"
-msgstr "toy_akathar"
+msgstr "Питомец: Akathar"
 
 msgid "desc_r_toy_akathar"
 msgstr "Редкая коллекционная игрушка Akathar."
 
 msgid "r_toy_brownie"
-msgstr "toy_brownie"
+msgstr "Питомец: Коричневый"
 
 msgid "desc_r_toy_brownie"
 msgstr "Редкая коллекционная игрушка Брауни."
 
 msgid "r_toy_crog"
-msgstr "toy_crog"
+msgstr "Питомец: Crog"
 
 msgid "desc_r_toy_crog"
 msgstr "Редкая коллекционная игрушка Crog."
 
 msgid "r_toy_elfwraith"
-msgstr "toy_elfwraith"
+msgstr "Питомец: Wraith"
 
 msgid "desc_r_toy_elfwraith"
 msgstr "Редкая коллекционная игрушка Wraith"
 
 msgid "r_toy_eodrin"
-msgstr "toy_eodrin"
+msgstr "Питомец: Eodrin"
 
 msgid "desc_r_toy_eodrin"
 msgstr "Редкая коллекционная игрушка Eodrin."
 
 msgid "r_toy_hobgoblin_veteran"
-msgstr "toy_hobgoblin_veteran"
+msgstr "Питомец: Ветеран-хобгоблин"
 
 msgid "desc_r_toy_hobgoblin_veteran"
 msgstr "Редкая коллекционная игрушка для ветеранов Хобгоблина."
 
 msgid "r_toy_leenspar_golem"
-msgstr "toy_leenspar_golem"
+msgstr "Питомец: Leenspar голем"
 
 msgid "desc_r_toy_leenspar_golem"
 msgstr "Редкая коллекционная игрушка Leenspar Golem."
 
 msgid "r_toy_tiger"
-msgstr "toy_tiger"
+msgstr "Питомец: Тигр"
 
 msgid "desc_r_toy_tiger"
 msgstr "Редкая коллекционная игрушка тигра."
 
 msgid "r_toy_tomb_iklit"
-msgstr "toy_tomb_iklit"
+msgstr "Питомец: Гробница Iklit"
 
 msgid "desc_r_toy_tomb_iklit"
 msgstr "Редкая коллекционная игрушка Томб Iklit."
 
 msgid "r_toy_undead_dwarf_miner"
-msgstr "toy_undead_dwarf_miner"
+msgstr "Питомец: Нежити карликовый шахтер"
 
 msgid "desc_r_toy_undead_dwarf_miner"
 msgstr "Редкая коллекционная игрушка Undead Dwarf Miner."
 
 msgid "r_toy_black_knight"
-msgstr "toy_black_knight"
+msgstr "Питомец: Черный рыцарь"
 
 msgid "desc_r_toy_black_knight"
 msgstr "Редкая коллекционная игрушка «Черный рыцарь»."
 
 msgid "r_toy_cave_troll"
-msgstr "toy_cave_troll"
+msgstr "Питомец: Пещерный тролль"
 
 msgid "desc_r_toy_cave_troll"
 msgstr "Редкая коллекционная игрушка Cave Troll."
 
 msgid "r_toy_gorra_dar"
-msgstr "toy_gorra_dar"
+msgstr "Питомец: Gorra Дар"
 
 msgid "desc_r_toy_gorra_dar"
 msgstr "Редкая коллекционная игрушка Gorra Dar."
 
 msgid "r_toy_gorra_slave"
-msgstr "toy_gorra_slave"
+msgstr "Питомец: Gorra рабов"
 
 msgid "desc_r_toy_gorra_slave"
 msgstr "Редкая коллекционная игрушка-раб Gorra."
 
 msgid "r_toy_greater_below"
-msgstr "toy_greater_below"
+msgstr "Питомец: Ниже, чем ниже."
 
 msgid "desc_r_toy_greater_below"
 msgstr "Редкая коллекционная игрушка «Больше внизу»."
 
 msgid "r_toy_hobgoblin_grunt"
-msgstr "toy_hobgoblin_grunt"
+msgstr "Питомец: Хрюканье гобгоблина"
 
 msgid "desc_r_toy_hobgoblin_grunt"
 msgstr "Редкая коллекционная игрушка Hobgoblin Grunt."
 
 msgid "r_toy_hobgoblin_officer"
-msgstr "toy_hobgoblin_officer"
+msgstr "Питомец: Офицер-хобгоблин"
 
 msgid "desc_r_toy_hobgoblin_officer"
 msgstr "Редкая коллекционная игрушка офицера Хобгоблина."
 
 msgid "r_toy_troll_lord"
-msgstr "toy_troll_lord"
+msgstr "Питомец: Повелитель троллей"
 
 msgid "desc_r_toy_troll_lord"
 msgstr "Редкая коллекционная игрушка Тролль Лорд."
 
 msgid "r_toy_troll_shaman"
-msgstr "toy_troll_shaman"
+msgstr "Питомец: Шаман тролль"
 
 msgid "desc_r_toy_troll_shaman"
 msgstr "Редкая коллекционная игрушка Тролль Шаман."
 
 msgid "r_toy_windlord"
-msgstr "toy_windlord"
+msgstr "Питомец: Ветрогенератор"
 
 msgid "desc_r_toy_windlord"
 msgstr "Редкая коллекционная игрушка Windlord."
 
 msgid "r_toy_hairy_spider"
-msgstr "toy_hairy_spider"
+msgstr "Питомец: Волосатый паук"
 
 msgid "desc_r_toy_hairy_spider"
 msgstr "Редкая коллекционная игрушка Hairy Spider."
 
 msgid "r_toy_brown_bear"
-msgstr "toy_brown_bear"
+msgstr "Питомец: Бурый медведь"
 
 msgid "desc_r_toy_brown_bear"
 msgstr "Редкая коллекционная игрушка Brown Bear."
 
 msgid "r_toy_goblin_scout"
-msgstr "toy_goblin_scout"
+msgstr "Питомец: Гоблиновый скаут"
 
 msgid "desc_r_toy_goblin_scout"
 msgstr "Редкая коллекционная игрушка Гоблин Скаут."
 
 msgid "r_toy_gravelord"
-msgstr "toy_gravelord"
+msgstr "Питомец: Повелитель могил"
 
 msgid "desc_r_toy_gravelord"
 msgstr "Редкая коллекционная игрушка Gravelord."
 
 msgid "r_toy_Brittle_skeleton"
-msgstr "toy_Brittle_skeleton"
+msgstr "Питомец: Хрупкий скелет"
 
 msgid "desc_r_toy_Brittle_skeleton"
 msgstr "Редкая коллекционная игрушка Brittle Skeleton."
 
 msgid "r_toy_serpentine"
-msgstr "toy_serpentine"
+msgstr "Питомец: Змеевидный"
 
 msgid "desc_r_toy_serpentine"
 msgstr "Редкая коллекционная игрушка Серпентина."
 
 msgid "r_toy_frostwalker"
-msgstr "toy_frostwalker"
+msgstr "Питомец: Морозоукладчик"
 
 msgid "desc_r_toy_frostwalker"
 msgstr "Редкая коллекционная игрушка Фростуокера."
 
 msgid "r_toy_spellgazer"
-msgstr "toy_spellgazer"
+msgstr "Питомец: Орфографик"
 
 msgid "desc_r_toy_spellgazer"
 msgstr "Редкая коллекционная игрушка Spellgazer."
 
 msgid "r_toy_raven_standard_officer"
-msgstr "toy_raven_standard_officer"
+msgstr "Питомец: Ворон стандартный офицер"
 
 msgid "desc_r_toy_raven_standard_officer"
 msgstr "Редкая коллекционная игрушка Raven Standard Officer."
 
 msgid "r_toy_gray_ork_chieftain"
-msgstr "toy_gray_ork_chieftain"
+msgstr "Питомец: Серый вождь Ork"
 
 msgid "desc_r_toy_gray_ork_chieftain"
 msgstr "Редкая коллекционная игрушка Gray Ork Chieftain."
 
 msgid "r_toy_baradron"
-msgstr "toy_baradron"
+msgstr "Питомец: Baradron"
 
 msgid "desc_r_toy_baradron"
 msgstr "Редкая коллекционная игрушка Baradron."
 
 msgid "r_toy_air_elemental"
-msgstr "toy_air_elemental"
+msgstr "Питомец: Воздушный элемент"
 
 msgid "desc_r_toy_air_elemental"
 msgstr "Редкая коллекционная игрушка Air Elemental."
 
 msgid "r_toy_basalt_golem"
-msgstr "toy_basalt_golem"
+msgstr "Питомец: Базальтовый голем"
 
 msgid "desc_r_toy_basalt_golem"
 msgstr "Редкая коллекционная игрушка Basalt Golem."
 
 msgid "r_toy_bone_knight"
-msgstr "toy_bone_knight"
+msgstr "Питомец: Костяной рыцарь"
 
 msgid "desc_r_toy_bone_knight"
 msgstr "Редкая коллекционная игрушка Bone Knight."
 
 msgid "r_toy_bonecrew_captain"
-msgstr "toy_bonecrew_captain"
+msgstr "Питомец: Капитан костыля"
 
 msgid "desc_r_toy_bonecrew_captain"
 msgstr "Редкая коллекционная игрушка Bonecrew Captain."
 
 msgid "r_toy_bonecrew_mutineer"
-msgstr "toy_bonecrew_mutineer"
+msgstr "Питомец: Костяной мутинер"
 
 msgid "desc_r_toy_bonecrew_mutineer"
 msgstr "Редкая коллекционная игрушка Bonecrew Mutineer."
 
 msgid "r_toy_cave_hag"
-msgstr "toy_cave_hag"
+msgstr "Питомец: Пещерная колдунья"
 
 msgid "desc_r_toy_cave_hag"
 msgstr "Редкая коллекционная игрушка Cave Hag."
 
 msgid "r_toy_ciel_fey_druid"
-msgstr "toy_ciel_fey_druid"
+msgstr "Питомец: Ciel Fey друидов"
 
 msgid "desc_r_toy_ciel_fey_druid"
 msgstr "Редкая коллекционная игрушка Ciel Fey друидов."
 
 msgid "r_toy_dire_zombie"
-msgstr "toy_dire_zombie"
+msgstr "Питомец: Страшный зомби"
 
 msgid "desc_r_toy_dire_zombie"
 msgstr "Редкая коллекционная игрушка Dire Zombie."
 
 msgid "r_toy_evil_eye"
-msgstr "toy_evil_eye"
+msgstr "Питомец: Злой глаз"
 
 msgid "desc_r_toy_evil_eye"
 msgstr "Редкая коллекционная игрушка Evil Eye."
 
 msgid "r_toy_forest_prophet_female"
-msgstr "toy_forest_prophet_female"
+msgstr "Питомец: Лесной пророк"
 
 msgid "desc_r_toy_forest_prophet_female"
 msgstr "Редкая коллекционная игрушка Пророка из леса."
 
 msgid "r_toy_forest_prophet_male"
-msgstr "toy_forest_prophet_male"
+msgstr "Питомец: Лесной пророк"
 
 msgid "desc_r_toy_forest_prophet_male"
 msgstr "Редкая коллекционная игрушка «Лесной пророк»."
 
 msgid "r_toy_ghost"
-msgstr "toy_ghost"
+msgstr "Питомец: Призрак"
 
 msgid "desc_r_toy_ghost"
 msgstr "Редкая коллекционная игрушка Ghost."
 
 msgid "r_toy_giant_spider"
-msgstr "toy_giant_spider"
+msgstr "Питомец: Гигантский паук"
 
 msgid "desc_r_toy_giant_spider"
 msgstr "Редкая коллекционная игрушка гигантского паука."
 
 msgid "r_toy_gnoll_butcher"
-msgstr "toy_gnoll_butcher"
+msgstr "Питомец: Мясник гнолль"
 
 msgid "desc_r_toy_gnoll_butcher"
 msgstr "Редкая коллекционная игрушка мясника Гнолла."
 
 msgid "r_toy_gnoll_vilegaunt"
-msgstr "toy_gnoll_vilegaunt"
+msgstr "Питомец: Gnoll vilegaunt"
 
 msgid "desc_r_toy_gnoll_vilegaunt"
 msgstr "Редкая коллекционная игрушка Gnoll Vilegaunt."
 
 msgid "r_toy_goblin_fighter"
-msgstr "toy_goblin_fighter"
+msgstr "Питомец: Боец болванов"
 
 msgid "desc_r_toy_goblin_fighter"
 msgstr "Редкая коллекционная игрушка Goblin Fighter."
 
 msgid "r_toy_hill_giant_clobberer"
-msgstr "toy_hill_giant_clobberer"
+msgstr "Питомец: Гигантский клобер"
 
 msgid "desc_r_toy_hill_giant_clobberer"
 msgstr "Редкая коллекционная игрушка Hill Giant Clobberer."
 
 msgid "r_toy_hill_giant_slugger"
-msgstr "toy_hill_giant_slugger"
+msgstr "Питомец: Горный гигант Slugger"
 
 msgid "desc_r_toy_hill_giant_slugger"
 msgstr "Редкая коллекционная игрушка Hill Giant Slugger."
 
 msgid "r_toy_ice_dragon"
-msgstr "toy_ice_dragon"
+msgstr "Питомец: Kroshogo the Ice Dragon"
 
 msgid "desc_r_toy_ice_dragon"
 msgstr "Редкая коллекционная игрушка Крошого Ледяной Дракон."
 
 msgid "r_toy_icejarl"
-msgstr "toy_icejarl"
+msgstr "Питомец: Ледяной кувшин"
 
 msgid "desc_r_toy_icejarl"
 msgstr "Редкая коллекционная игрушка IceJarl."
 
 msgid "r_toy_kobold_raider"
-msgstr "toy_kobold_raider"
+msgstr "Питомец: Налетчик-коболд"
 
 msgid "desc_r_toy_kobold_raider"
 msgstr "Редкая коллекционная игрушка Kobold Raider."
 
 msgid "r_toy_kobold_scrapper"
-msgstr "toy_kobold_scrapper"
+msgstr "Питомец: Неуклюжий скребок"
 
 msgid "desc_r_toy_kobold_scrapper"
 msgstr "Редкая коллекционная игрушка Kobold Scrapper."
 
 msgid "r_toy_kobold_strongman"
-msgstr "toy_kobold_strongman"
+msgstr "Питомец: Толстый силовик"
 
 msgid "desc_r_toy_kobold_strongman"
 msgstr "Редкая коллекционная игрушка Kobold Strongman."
 
 msgid "r_toy_melechar"
-msgstr "toy_melechar"
+msgstr "Питомец: Melechar"
 
 msgid "desc_r_toy_melechar"
 msgstr "Редкая коллекционная игрушка Melechar."
 
 msgid "r_toy_nalaed"
-msgstr "toy_nalaed"
+msgstr "Питомец: Наледный"
 
 msgid "desc_r_toy_nalaed"
 msgstr "Редкая коллекционная игрушка Nalaed."
 
 msgid "r_toy_oathbound"
-msgstr "toy_oathbound"
+msgstr "Питомец: Присяга"
 
 msgid "desc_r_toy_oathbound"
 msgstr "Редкая коллекционная игрушка Oathbound."
 
 msgid "r_toy_ogre_boss"
-msgstr "toy_ogre_boss"
+msgstr "Питомец: Босс огр"
 
 msgid "desc_r_toy_ogre_boss"
 msgstr "Редкая коллекционная игрушка Ogre Boss."
 
 msgid "r_toy_ogre_bully"
-msgstr "toy_ogre_bully"
+msgstr "Питомец: Хулиган огр"
 
 msgid "desc_r_toy_ogre_bully"
 msgstr "Редкая коллекционная игрушка Ogre Bully."
 
 msgid "r_toy_sadayel_chief"
-msgstr "toy_sadayel_chief"
+msgstr "Питомец: Sadayel Вождь"
 
 msgid "desc_r_toy_sadayel_chief"
 msgstr "Редкая коллекционная игрушка Sadayel Chieftain"
 
 msgid "r_toy_sadayel_guardian"
-msgstr "toy_sadayel_guardian"
+msgstr "Питомец: Sadayel опекун"
 
 msgid "desc_r_toy_sadayel_guardian"
 msgstr "Редкая коллекционная игрушка Sadayel Guardian"
 
 msgid "r_toy_skeleton_archer"
-msgstr "toy_skeleton_archer"
+msgstr "Питомец: Скелетный лучник"
 
 msgid "desc_r_toy_skeleton_archer"
 msgstr "Редкая коллекционная игрушка Skeleton Archer."
 
 msgid "r_toy_skeleton_warrior"
-msgstr "toy_skeleton_warrior"
+msgstr "Питомец: Скелетный воин"
 
 msgid "desc_r_toy_skeleton_warrior"
 msgstr "Редкая коллекционная игрушка Skeleton Warrior."
 
 msgid "r_toy_swamp_hag"
-msgstr "toy_swamp_hag"
+msgstr "Питомец: Болотная колыбель"
 
 msgid "desc_r_toy_swamp_hag"
 msgstr "Редкая коллекционная игрушка Swamp Hag."
 
 msgid "r_toy_theyril_golem"
-msgstr "toy_theyril_golem"
+msgstr "Питомец: Theyril голем"
 
 msgid "desc_r_toy_theyril_golem"
 msgstr "Редкая коллекционная игрушка Theyril Golem."
 
 msgid "r_toy_water_elemental"
-msgstr "toy_water_elemental"
+msgstr "Питомец: Водяной элемент"
 
 msgid "desc_r_toy_water_elemental"
 msgstr "Редкая коллекционная водная игрушка."
+
+msgid "r_toy_beastman_destroyer"
+msgstr "Питомец: Разрушитель зверей"
+
+msgid "desc_r_toy_beastman_destroyer"
+msgstr "Коллекционная игрушка, которая вызывает питомца-разрушителя зверя."
+
+msgid "r_toy_beastman_devastator"
+msgstr "Питомец: Разрушитель зверей"
+
+msgid "desc_r_toy_beastman_devastator"
+msgstr "Коллекционная игрушка, которая вызывает питомца-разрушителя зверя."
+
+msgid "r_toy_beastman_rampager"
+msgstr "Питомец: Неистовый зверь"
+
+msgid "desc_r_toy_beastman_rampager"
+msgstr "Коллекционная игрушка, которая вызывает питомца Beastman Rampager."
+
+msgid "r_toy_beastman_warlord"
+msgstr "Питомец: Военачальник-зверь"
+
+msgid "desc_r_toy_beastman_warlord"
+msgstr "Коллекционная игрушка, которая вызывает питомца-повелителя зверей."
+
+msgid "r_toy_below"
+msgstr "Питомец: Ниже"
+
+msgid "desc_r_toy_below"
+msgstr "Коллекционная игрушка, которая вызывает домашнего питомца."
+
+msgid "r_toy_black_lord"
+msgstr "Питомец: Черный Лорд"
+
+msgid "desc_r_toy_black_lord"
+msgstr "Коллекционная игрушка, которая вызывает питомца Черного Лорда."
+
+msgid "r_toy_bone_spider"
+msgstr "Питомец: Костный паук"
+
+msgid "desc_r_toy_bone_spider"
+msgstr "Коллекционная игрушка, которая вызывает питомца-костного паука."
+
+msgid "r_toy_bonecrew_mariner"
+msgstr "Питомец: Морской пехотинец"
+
+msgid "desc_r_toy_bonecrew_mariner"
+msgstr "Коллекционная игрушка, которая вызывает питомца Bonecrew Mariner."
+
+msgid "r_toy_cairn_giant"
+msgstr "Питомец: Cairn гигантский"
+
+msgid "desc_r_toy_cairn_giant"
+msgstr "Коллекционная игрушка, которая вызывает гигантского питомца Cairn."
+
+msgid "r_toy_cave_spider"
+msgstr "Питомец: Пещерный паук"
+
+msgid "desc_r_toy_cave_spider"
+msgstr "Коллекционная игрушка, которая вызывает питомца Пещерного Паука."
+
+msgid "r_toy_celestial"
+msgstr "Питомец: Небесный"
+
+msgid "desc_r_toy_celestial"
+msgstr "Коллекционная игрушка, которая вызывает небесного питомца."
+
+msgid "r_toy_centaur_chieftain"
+msgstr "Питомец: Кентаврский вождь"
+
+msgid "desc_r_toy_centaur_chieftain"
+msgstr "Коллекционная игрушка, которая вызывает питомца Центавра."
+
+msgid "r_toy_centaur_huntress"
+msgstr "Питомец: Охотница на кентавров"
+
+msgid "desc_r_toy_centaur_huntress"
+msgstr "Коллекционная игрушка, которая вызывает питомца Охотника на Центавра."
+
+msgid "r_toy_centaur_reaver"
+msgstr "Питомец: Кентавр рейвер"
+
+msgid "desc_r_toy_centaur_reaver"
+msgstr "Коллекционная игрушка, которая вызывает питомца Центавра Ривера."
+
+msgid "r_toy_centaur_warrior"
+msgstr "Питомец: Воин-кентавр"
+
+msgid "desc_r_toy_centaur_warrior"
+msgstr "Коллекционная игрушка, которая вызывает питомца-воина Центавра."
+
+msgid "r_toy_chieftain_khalos"
+msgstr "Питомец: Вождь Халос"
+
+msgid "desc_r_toy_chieftain_khalos"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего любимца вождя Халоса."
+
+msgid "r_toy_child_of_khamset"
+msgstr "Питомец: Ребенок Khamset"
+
+msgid "desc_r_toy_child_of_khamset"
+msgstr ""
+"Коллекционная игрушка, которая вызывает ребенка из Khamset домашних "
+"животных."
+
+msgid "r_toy_chosen_of_khamset"
+msgstr "Питомец: Избранный из Khamset"
+
+msgid "desc_r_toy_chosen_of_khamset"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Избранного из Khamset домашних "
+"животных."
+
+msgid "r_toy_ciel_fey_defender"
+msgstr "Питомец: Ciel Fey Защитник"
+
+msgid "desc_r_toy_ciel_fey_defender"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Ciel Fey домашних животных "
+"Защитника."
+
+msgid "r_toy_ciel_fey_forester"
+msgstr "Питомец: Ciel Fey лесничий"
+
+msgid "desc_r_toy_ciel_fey_forester"
+msgstr "Коллекционная игрушка, которая вызывает Ciel Fey питомца Лесника."
+
+msgid "r_toy_crypt_guard"
+msgstr "Питомец: Охранник склепа"
+
+msgid "desc_r_toy_crypt_guard"
+msgstr "Коллекционная игрушка, которая вызывает питомца Crypt Guard."
+
+msgid "r_toy_dark_dragon"
+msgstr "Питомец: Темный дракон"
+
+msgid "desc_r_toy_dark_dragon"
+msgstr "Коллекционная игрушка, которая вызывает питомца Темного Дракона."
+
+msgid "r_toy_deathless_mage"
+msgstr "Питомец: Безсмертный маг"
+
+msgid "desc_r_toy_deathless_mage"
+msgstr "Коллекционная игрушка, которая вызывает любимца безсмертного мага."
+
+msgid "r_toy_deathless_servant"
+msgstr "Питомец: Бессмертный слуга"
+
+msgid "desc_r_toy_deathless_servant"
+msgstr "Коллекционная игрушка, которая вызывает любимца Безсмертного Слуга."
+
+msgid "r_toy_demon_queen"
+msgstr "Питомец: Королева демонов"
+
+msgid "desc_r_toy_demon_queen"
+msgstr "Коллекционная игрушка, которая вызывает питомца Королевы Демонов."
+
+msgid "r_toy_devil"
+msgstr "Питомец: Демон"
+
+msgid "desc_r_toy_devil"
+msgstr "Коллекционная игрушка, которая вызывает питомца Демона."
+
+msgid "r_toy_dire_spider"
+msgstr "Питомец: Страшный паук"
+
+msgid "desc_r_toy_dire_spider"
+msgstr "Коллекционная игрушка, которая вызывает питомца-паука."
+
+msgid "r_toy_doom_spider"
+msgstr "Питомец: Обреченный паук"
+
+msgid "desc_r_toy_doom_spider"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное Doom Spider."
+
+msgid "r_toy_earth_elemental"
+msgstr "Питомец: Земной элемент"
+
+msgid "desc_r_toy_earth_elemental"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего любимца Элементала Земли."
+
+msgid "r_toy_elfshade"
+msgstr "Питомец: Эльфшад"
+
+msgid "desc_r_toy_elfshade"
+msgstr "Коллекционная игрушка, которая вызывает питомца Эльфшаде."
+
+msgid "r_toy_fenris_the_alpha"
+msgstr "Питомец: Fenris the Alpha"
+
+msgid "desc_r_toy_fenris_the_alpha"
+msgstr "Коллекционная игрушка, которая вызывает питомца Фенриса Альфа."
+
+msgid "r_toy_fire_dragon"
+msgstr "Питомец: Огненный дракон"
+
+msgid "desc_r_toy_fire_dragon"
+msgstr "Коллекционная игрушка, которая вызывает питомца Огненного Дракона."
+
+msgid "r_toy_fire_elemental"
+msgstr "Питомец: Элементный огонь"
+
+msgid "desc_r_toy_fire_elemental"
+msgstr "Коллекционная игрушка, которая вызывает питомца Огненного Элементала."
+
+msgid "r_toy_fire_giant"
+msgstr "Питомец: Огненный гигант"
+
+msgid "desc_r_toy_fire_giant"
+msgstr "Коллекционная игрушка, которая вызывает питомца Огненного Гиганта."
+
+msgid "r_toy_firescourge"
+msgstr "Питомец: Огненное бедствие"
+
+msgid "desc_r_toy_firescourge"
+msgstr "Коллекционная игрушка, которая вызывает питомца-огненка."
+
+msgid "r_toy_flesh_golem"
+msgstr "Питомец: Плоть голема"
+
+msgid "desc_r_toy_flesh_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное Флеша Голема."
+
+msgid "r_toy_forest_golem"
+msgstr "Питомец: Лесной голем"
+
+msgid "desc_r_toy_forest_golem"
+msgstr "Коллекционная игрушка, которая вызывает питомца Лесного Голема."
+
+msgid "r_toy_frostjarl"
+msgstr "Питомец: Морозильник"
+
+msgid "desc_r_toy_frostjarl"
+msgstr "Коллекционная игрушка, которая вызывает питомца Фростьярла."
+
+msgid "r_toy_gardoroc"
+msgstr "Питомец: Гардорок"
+
+msgid "desc_r_toy_gardoroc"
+msgstr "Коллекционная игрушка, которая вызывает домашнее животное Гардорок."
+
+msgid "r_toy_ghost_spider"
+msgstr "Питомец: Призрачный паук"
+
+msgid "desc_r_toy_ghost_spider"
+msgstr "Коллекционная игрушка, которая вызывает питомца-призрака."
+
+msgid "r_toy_ghoul_devourer"
+msgstr "Питомец: Пожиратель упырей"
+
+msgid "desc_r_toy_ghoul_devourer"
+msgstr "Коллекционная игрушка, которая вызывает питомца-пожирателя Гула."
+
+msgid "r_toy_ghoul_fleshcrafter"
+msgstr "Питомец: Упырь плотоядный"
+
+msgid "desc_r_toy_ghoul_fleshcrafter"
+msgstr "Коллекционная игрушка, которая вызывает питомца Гхуля Флешкрафтера."
+
+msgid "r_toy_giant_skeleton"
+msgstr "Питомец: Гигантский скелет"
+
+msgid "desc_r_toy_giant_skeleton"
+msgstr "Коллекционная игрушка, которая вызывает гигантского питомца Скелета."
+
+msgid "r_toy_gnoll_hunter"
+msgstr "Питомец: Охотник за гнолем"
+
+msgid "desc_r_toy_gnoll_hunter"
+msgstr "Коллекционная игрушка, которая вызывает питомца Гнолла Хантера."
+
+msgid "r_toy_gnoll_shaman"
+msgstr "Питомец: Гнолль Шаман"
+
+msgid "desc_r_toy_gnoll_shaman"
+msgstr "Коллекционная игрушка, которая вызывает питомца Гнолла Шамана."
+
+msgid "r_toy_gnoll_tribesman"
+msgstr "Питомец: Гнолль Племесмен"
+
+msgid "desc_r_toy_gnoll_tribesman"
+msgstr "Коллекционная игрушка, которая вызывает питомца племени Гнолла."
+
+msgid "r_toy_goblin_marauder"
+msgstr "Питомец: Гоблиновый мародёр"
+
+msgid "desc_r_toy_goblin_marauder"
+msgstr "Коллекционная игрушка, которая вызывает питомца Гоблина Мародера."
+
+msgid "r_toy_goblin_warlord"
+msgstr "Питомец: Гоблинский военачальник"
+
+msgid "desc_r_toy_goblin_warlord"
+msgstr "Коллекционная игрушка, которая вызывает домашнего питомца Гоблина."
+
+msgid "r_toy_grand_tikoloshe"
+msgstr "Питомец: Великий тиколоше"
+
+msgid "desc_r_toy_grand_tikoloshe"
+msgstr "Коллекционная игрушка, которая вызывает Великого питомца Тиколоше."
+
+msgid "r_toy_granite_golem"
+msgstr "Питомец: Гранитный голем"
+
+msgid "desc_r_toy_granite_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего любимца Гранита Голема."
+
+msgid "r_toy_gray_ork_assassin"
+msgstr "Питомец: Серый убийца Ork"
+
+msgid "desc_r_toy_gray_ork_assassin"
+msgstr "Коллекционная игрушка, которая вызывает серого питомца-убийцу Ork."
+
+msgid "r_toy_gray_ork_executioner"
+msgstr "Питомец: Серый палач Ork"
+
+msgid "desc_r_toy_gray_ork_executioner"
+msgstr "Коллекционная игрушка, которая вызывает питомца Грея Ork."
+
+msgid "r_toy_gray_ork_mauler"
+msgstr "Питомец: Серый Ork маулер"
+
+msgid "desc_r_toy_gray_ork_mauler"
+msgstr "Коллекционная игрушка, которая вызывает питомца Грея Ork Маулер."
+
+msgid "r_toy_gray_ork_warrior"
+msgstr "Питомец: Серый Ork воин"
+
+msgid "desc_r_toy_gray_ork_warrior"
+msgstr "Коллекционная игрушка, которая вызывает серого питомца-воина Ork."
+
+msgid "r_toy_greater_celestial"
+msgstr "Питомец: Большие небесные"
+
+msgid "desc_r_toy_greater_celestial"
+msgstr "Коллекционная игрушка, которая вызывает Большого Небесного питомца."
+
+msgid "r_toy_greater_infernal"
+msgstr "Питомец: Большая адская"
+
+msgid "desc_r_toy_greater_infernal"
+msgstr "Коллекционная игрушка, которая вызывает Большого Адского питомца."
+
+msgid "r_toy_greater_mummy"
+msgstr "Питомец: Большая мумия"
+
+msgid "desc_r_toy_greater_mummy"
+msgstr "Коллекционная игрушка, которая вызывает питомца Большой мумии."
+
+msgid "r_toy_greater_servant"
+msgstr "Питомец: Больший слуга"
+
+msgid "desc_r_toy_greater_servant"
+msgstr "Коллекционная игрушка, которая вызывает питомца Большого Слуга."
+
+msgid "r_toy_hand_of_khamset"
+msgstr "Питомец: Рука Khamset"
+
+msgid "desc_r_toy_hand_of_khamset"
+msgstr ""
+"Коллекционная игрушка, которая вызывает руку Khamset домашних животных."
+
+msgid "r_toy_hellfire_juggernaught"
+msgstr "Питомец: Адский огонь, неуклюжий"
+
+msgid "desc_r_toy_hellfire_juggernaught"
+msgstr ""
+"Коллекционная игрушка, которая вызывает питомца Hellfire Juggernaught."
+
+msgid "r_toy_hivekin_broodguard"
+msgstr "Питомец: Бродгард улейкин"
+
+msgid "desc_r_toy_hivekin_broodguard"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего питомца Hivekin "
+"Broodguard."
+
+msgid "r_toy_hivekin_forager"
+msgstr "Питомец: Улейкин фуражир"
+
+msgid "desc_r_toy_hivekin_forager"
+msgstr "Коллекционная игрушка, которая вызывает питомца Хивекина Форагера."
+
+msgid "r_toy_hivekin_queen"
+msgstr "Питомец: Королева Уивекин"
+
+msgid "desc_r_toy_hivekin_queen"
+msgstr "Коллекционная игрушка, которая вызывает домашнего питомца Хивелина."
+
+msgid "r_toy_hivekin_soldier"
+msgstr "Питомец: Солдат Уивекин"
+
+msgid "desc_r_toy_hivekin_soldier"
+msgstr "Коллекционная игрушка, которая вызывает питомца-солдата."
+
+msgid "r_toy_hjor_the_great"
+msgstr "Питомец: Величайший / The Great"
+
+msgid "desc_r_toy_hjor_the_great"
+msgstr "Коллекционная игрушка, которая вызывает домашнего питомца."
+
+msgid "r_toy_infernal"
+msgstr "Питомец: Адский"
+
+msgid "desc_r_toy_infernal"
+msgstr "Коллекционная игрушка, которая вызывает адского питомца."
+
+msgid "r_toy_ironbark_the_ancient"
+msgstr "Питомец: Железный занавес древний"
+
+msgid "desc_r_toy_ironbark_the_ancient"
+msgstr ""
+"Коллекционная игрушка, которая вызывает железную лодку Древнего питомца."
+
+msgid "r_toy_ironbeard_heavyfist"
+msgstr "Питомец: Железнобородый тяжелый кулак"
+
+msgid "desc_r_toy_ironbeard_heavyfist"
+msgstr "Коллекционная игрушка, которая вызывает хэви-фист железной бороды."
+
+msgid "r_toy_kobold_scrounger"
+msgstr "Питомец: Неуклюжий скраугер"
+
+msgid "desc_r_toy_kobold_scrounger"
+msgstr "Коллекционная игрушка, которая вызывает питомца Коболда Скрунгера."
+
+msgid "r_toy_kobold_shaman"
+msgstr "Питомец: Кобольд шаман"
+
+msgid "desc_r_toy_kobold_shaman"
+msgstr "Коллекционная игрушка, которая вызывает питомца Коболда Шамана."
+
+msgid "r_toy_kraken"
+msgstr "Питомец: Кракен"
+
+msgid "desc_r_toy_kraken"
+msgstr "Коллекционная игрушка, которая вызывает питомца Кракена."
+
+msgid "r_toy_lava_golem"
+msgstr "Питомец: Лавовый голем"
+
+msgid "desc_r_toy_lava_golem"
+msgstr "Коллекционная игрушка, которая вызывает питомца Лава Голема."
+
+msgid "r_toy_lesser_fire_elemental"
+msgstr "Питомец: Меньший элемент огня"
+
+msgid "desc_r_toy_lesser_fire_elemental"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Малого Огненного Элементального "
+"питомца."
+
+msgid "r_toy_lesser_water_elemental"
+msgstr "Питомец: Меньший элемент воды"
+
+msgid "desc_r_toy_lesser_water_elemental"
+msgstr "Коллекционная игрушка, которая вызывает мелководного питомца."
+
+msgid "r_toy_lizardman"
+msgstr "Питомец: Ящерица"
+
+msgid "desc_r_toy_lizardman"
+msgstr "Коллекционная игрушка, которая вызывает питомца Ящерицы."
+
+msgid "r_toy_malaut_acolyte"
+msgstr "Питомец: Malaut аколит"
+
+msgid "desc_r_toy_malaut_acolyte"
+msgstr "Коллекционная игрушка, которая вызывает Malaut домашних животных."
+
+msgid "r_toy_malaut_beguiler"
+msgstr "Питомец: Malaut гульден"
+
+msgid "desc_r_toy_malaut_beguiler"
+msgstr "Коллекционная игрушка, которая вызывает питомца Бегилера Malaut."
+
+msgid "r_toy_melechar_guard"
+msgstr "Питомец: Охранник Melechar"
+
+msgid "desc_r_toy_melechar_guard"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Melechar гвардейского питомца."
+
+msgid "r_toy_melechar_shaman"
+msgstr "Питомец: Melechar Шаман"
+
+msgid "desc_r_toy_melechar_shaman"
+msgstr "Коллекционная игрушка, которая вызывает Melechar шаманов."
+
+msgid "r_toy_minor_sarnakh"
+msgstr "Питомец: Несовершеннолетний Sarnakh"
+
+msgid "desc_r_toy_minor_sarnakh"
+msgstr ""
+"Коллекционная игрушка, которая вызывает несовершеннолетнего Sarnakh питомца."
+
+msgid "r_toy_moonbeast_berserker"
+msgstr "Питомец: Лунный берсеркер"
+
+msgid "desc_r_toy_moonbeast_berserker"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего любимца Moonbeast "
+"Berserker"
+
+msgid "r_toy_moonbeast_commandant"
+msgstr "Питомец: Комендант лунного зверя"
+
+msgid "desc_r_toy_moonbeast_commandant"
+msgstr ""
+"Коллекционная игрушка, которая вызывает собаку коменданта лунного зверя."
+
+msgid "r_toy_moonbeast_disciple"
+msgstr "Питомец: Ученик лунного зверя"
+
+msgid "desc_r_toy_moonbeast_disciple"
+msgstr "Коллекционная игрушка, которая вызывает собаку-ученика Moonbeast."
+
+msgid "r_toy_moonbeast_officer"
+msgstr "Питомец: Офицер лунного зверя"
+
+msgid "desc_r_toy_moonbeast_officer"
+msgstr "Коллекционная игрушка, которая вызывает собаку-офицера Лунного Зверя."
+
+msgid "r_toy_moonbeast_shaman"
+msgstr "Питомец: Лунный зверь шаман"
+
+msgid "desc_r_toy_moonbeast_shaman"
+msgstr "Коллекционная игрушка, которая вызывает питомца-шамана."
+
+msgid "r_toy_mummy"
+msgstr "Питомец: Мамочка"
+
+msgid "desc_r_toy_mummy"
+msgstr "Коллекционная игрушка, которая вызывает мумию."
+
+msgid "r_toy_nahdruk_heretic"
+msgstr "Питомец: Еретик Нахдрук"
+
+msgid "desc_r_toy_nahdruk_heretic"
+msgstr "Коллекционная игрушка, которая вызывает еретического питомца Нахдрук."
+
+msgid "r_toy_nahdruk_outcast"
+msgstr "Питомец: Изгой нахдрук"
+
+msgid "desc_r_toy_nahdruk_outcast"
+msgstr "Коллекционная игрушка, которая вызывает питомца-изгоя Нахдрука."
+
+msgid "r_toy_nalaed_elder"
+msgstr "Питомец: Налэд Старший"
+
+msgid "desc_r_toy_nalaed_elder"
+msgstr "Коллекционная игрушка, которая вызывает питомца Налаэда Старшего."
+
+msgid "r_toy_neithal_golem"
+msgstr "Питомец: Neithal голем"
+
+msgid "desc_r_toy_neithal_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Neithal домашних животных Голема."
+
+msgid "r_toy_night_hag"
+msgstr "Питомец: Ночная колыбель"
+
+msgid "desc_r_toy_night_hag"
+msgstr "Коллекционная игрушка, которая вызывает питомца Ночной колыбели."
+
+msgid "r_toy_obsidian_golem"
+msgstr "Питомец: Обсидиановый голем"
+
+msgid "desc_r_toy_obsidian_golem"
+msgstr "Коллекционная игрушка, которая вызывает животное обсидиана Голема."
+
+msgid "r_toy_raven_standard_grunt"
+msgstr "Питомец: Ворон стандартный грохот"
+
+msgid "desc_r_toy_raven_standard_grunt"
+msgstr ""
+"Коллекционная игрушка, которая вызывает питомца Рэйвена Стандарта Гранта."
+
+msgid "r_toy_raven_standard_veteran"
+msgstr "Питомец: Ворон стандартный ветеран"
+
+msgid "desc_r_toy_raven_standard_veteran"
+msgstr "Коллекционная игрушка, которая вызывает собаку-ветерана Рэйвена."
+
+msgid "r_toy_sadayel_shaman"
+msgstr "Питомец: Sadayel Шаман"
+
+msgid "desc_r_toy_sadayel_shaman"
+msgstr "Коллекционная игрушка, которая вызывает Sadayel шаманов."
+
+msgid "r_toy_salamander"
+msgstr "Питомец: Саламандра"
+
+msgid "desc_r_toy_salamander"
+msgstr "Коллекционная игрушка, которая вызывает питомца саламандры."
+
+msgid "r_toy_sandstone_golem"
+msgstr "Питомец: Sandstone голем"
+
+msgid "desc_r_toy_sandstone_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Sandstone домашних животных Голема."
+
+msgid "r_toy_sarlid_darkweaver"
+msgstr "Питомец: Sarlid Darkweaver"
+
+msgid "desc_r_toy_sarlid_darkweaver"
+msgstr "Коллекционная игрушка, которая вызывает Sarlid домашних животных."
+
+msgid "r_toy_sarlid_defender"
+msgstr "Питомец: Sarlid Защитник"
+
+msgid "desc_r_toy_sarlid_defender"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Sarlid домашних животных Защитника."
+
+msgid "r_toy_sarlid_guard"
+msgstr "Питомец: Охранник Sarlid"
+
+msgid "desc_r_toy_sarlid_guard"
+msgstr "Коллекционная игрушка, которая вызывает Sarlid гвардейского питомца."
+
+msgid "r_toy_sarlid_poison_adept"
+msgstr "Питомец: Sarlid Адепт яда"
+
+msgid "desc_r_toy_sarlid_poison_adept"
+msgstr "Коллекционная игрушка, которая вызывает питомца-яда Sarlid."
+
+msgid "r_toy_sarnakh"
+msgstr "Питомец: Sarnakh"
+
+msgid "desc_r_toy_sarnakh"
+msgstr "Коллекционная игрушка, которая вызывает Sarnakh домашних животных."
+
+msgid "r_toy_scumling_guard"
+msgstr "Питомец: Погрязший охранник"
+
+msgid "desc_r_toy_scumling_guard"
+msgstr "Коллекционная игрушка, которая вызывает питомца Стражей."
+
+msgid "r_toy_scumling_queen"
+msgstr "Питомец: Королеву подонков"
+
+msgid "desc_r_toy_scumling_queen"
+msgstr "Коллекционная игрушка, которая вызывает домашнего питомца Королевы."
+
+msgid "r_toy_scumling_worker"
+msgstr "Питомец: Унижающий работник"
+
+msgid "desc_r_toy_scumling_worker"
+msgstr "Коллекционная игрушка, которая вызывает питомца Скумблинга."
+
+msgid "r_toy_seidbound"
+msgstr "Питомец: Прикованный"
+
+msgid "desc_r_toy_seidbound"
+msgstr "Коллекционная игрушка, которая вызывает питомца Сейдборда."
+
+msgid "r_toy_selentine_golem"
+msgstr "Питомец: Selentine голем"
+
+msgid "desc_r_toy_selentine_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Selentine домашних животных Голема."
+
+msgid "r_toy_servant_of_malaut"
+msgstr "Питомец: Слуга Malaut"
+
+msgid "desc_r_toy_servant_of_malaut"
+msgstr ""
+"Коллекционная игрушка, которая вызывает слугу Malaut домашних животных."
+
+msgid "r_toy_severii_archer"
+msgstr "Питомец: Северийский лучник"
+
+msgid "desc_r_toy_severii_archer"
+msgstr "Коллекционная игрушка, которая вызывает питомца Северии Арчера."
+
+msgid "r_toy_severii_centurion"
+msgstr "Питомец: Severii centurion"
+
+msgid "desc_r_toy_severii_centurion"
+msgstr "Коллекционная игрушка, которая вызывает питомца Северия Центуриона."
+
+msgid "r_toy_severii_legionnaire"
+msgstr "Питомец: Северийский легионер"
+
+msgid "desc_r_toy_severii_legionnaire"
+msgstr "Коллекционная игрушка, которая вызывает питомца-легионера Севери."
+
+msgid "r_toy_shadow_knight"
+msgstr "Питомец: Рыцарь теней"
+
+msgid "desc_r_toy_shadow_knight"
+msgstr "Коллекционная игрушка, которая вызывает питомца Теневого Рыцаря."
+
+msgid "r_toy_shadow_spirit"
+msgstr "Питомец: Теневой дух"
+
+msgid "desc_r_toy_shadow_spirit"
+msgstr "Коллекционная игрушка, которая вызывает питомца Теневого Духа."
+
+msgid "r_toy_shroud_knight"
+msgstr "Питомец: Рыцарь плащаницы"
+
+msgid "desc_r_toy_shroud_knight"
+msgstr "Коллекционная игрушка, которая вызывает питомца Плащадного Рыцаря."
+
+msgid "r_toy_siharo_darkbinder"
+msgstr "Питомец: Сихарский темнокожий"
+
+msgid "desc_r_toy_siharo_darkbinder"
+msgstr "Коллекционная игрушка, которая вызывает питомца Сихаро Даркбиндера."
+
+msgid "r_toy_slave_of_khamset"
+msgstr "Питомец: Раб Khamset"
+
+msgid "desc_r_toy_slave_of_khamset"
+msgstr ""
+"Коллекционная игрушка, которая вызывает раба из Khamset домашних животных."
+
+msgid "r_toy_snowclan_elder"
+msgstr "Питомец: Старейшина снежного клана"
+
+msgid "desc_r_toy_snowclan_elder"
+msgstr "Коллекционная игрушка, которая вызывает питомца Сноуклана."
+
+msgid "r_toy_snowclan_hunter"
+msgstr "Питомец: Охотник за снегом"
+
+msgid "desc_r_toy_snowclan_hunter"
+msgstr ""
+"Коллекционная игрушка, которая вызывает питомца охотника на сноукланов."
+
+msgid "r_toy_snowclan_oracle"
+msgstr "Питомец: Снежный оракул"
+
+msgid "desc_r_toy_snowclan_oracle"
+msgstr "Коллекционная игрушка, которая вызывает питомца Сноуклана."
+
+msgid "r_toy_snowclan_warrior"
+msgstr "Питомец: Воин снежного клана"
+
+msgid "desc_r_toy_snowclan_warrior"
+msgstr "Коллекционная игрушка, которая вызывает питомца-воина Сноуклана."
+
+msgid "r_toy_son_of_ochran"
+msgstr "Питомец: Сын Охраны"
+
+msgid "desc_r_toy_son_of_ochran"
+msgstr "Коллекционная игрушка, которая вызывает сына Охранского питомца."
+
+msgid "r_toy_sun_exarch"
+msgstr "Питомец: Солнечный экзарх"
+
+msgid "desc_r_toy_sun_exarch"
+msgstr "Коллекционная игрушка, которая вызывает питомца Sun Exarch."
+
+msgid "r_toy_svartdvergir_doombringer"
+msgstr "Питомец: Svartdvergir Doombringer"
+
+msgid "desc_r_toy_svartdvergir_doombringer"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Svartdvergir домашних животных."
+
+msgid "r_toy_svartdvergir_general"
+msgstr "Питомец: Svartdvergir Генерал"
+
+msgid "desc_r_toy_svartdvergir_general"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Svartdvergir домашних животных."
+
+msgid "r_toy_svartdvergir_initiate"
+msgstr "Питомец: Svartdvergir инициировать"
+
+msgid "desc_r_toy_svartdvergir_initiate"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Svartdvergir Посвященных домашних "
+"животных."
+
+msgid "r_toy_svartdvergir_nightaxe"
+msgstr "Питомец: Svartdvergir ночных топоров"
+
+msgid "desc_r_toy_svartdvergir_nightaxe"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Svartdvergir домашних животных."
+
+msgid "r_toy_svartdvergir_summoner"
+msgstr "Питомец: Svartdvergir призывник"
+
+msgid "desc_r_toy_svartdvergir_summoner"
+msgstr "Коллекционная игрушка, которая вызывает Svartdvergir питомцев."
+
+msgid "r_toy_undead_dwarf_foreman"
+msgstr "Питомец: Нежити карликовый бригадир"
+
+msgid "desc_r_toy_undead_dwarf_foreman"
+msgstr "Коллекционная игрушка, которая вызывает нежити гнома Формана."
+
+msgid "r_toy_undead_dwarf_guardian"
+msgstr "Питомец: Неживой карлик-хранитель"
+
+msgid "desc_r_toy_undead_dwarf_guardian"
+msgstr "Коллекционная игрушка, которая вызывает питомца Нежити Гнома Стража."
+
+msgid "r_toy_veilron_golem"
+msgstr "Питомец: Veilron голем"
+
+msgid "desc_r_toy_veilron_golem"
+msgstr ""
+"Коллекционная игрушка, которая вызывает Veilron домашних животных Голема."
+
+msgid "r_toy_vile_sarnakh"
+msgstr "Питомец: Гнусный Sarnakh"
+
+msgid "desc_r_toy_vile_sarnakh"
+msgstr "Коллекционная игрушка, которая вызывает животное Vile Sarnakh."
+
+msgid "r_toy_vlad_duskward"
+msgstr "Питомец: Влад Даскворд"
+
+msgid "desc_r_toy_vlad_duskward"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное Влада Даскварда."
+
+msgid "r_toy_warlord_choppah"
+msgstr "Питомец: Военачальник Чоппа"
+
+msgid "desc_r_toy_warlord_choppah"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнего любимца военачальника "
+"Чоппы."
+
+msgid "r_toy_wildtribe_chieftain"
+msgstr "Питомец: Вождь диких племён"
+
+msgid "desc_r_toy_wildtribe_chieftain"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное вождя диких "
+"племен."
+
+msgid "r_toy_wildtribe_mage"
+msgstr "Питомец: Дикий зверь"
+
+msgid "desc_r_toy_wildtribe_mage"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное Wildtribe Mage."
+
+msgid "r_toy_wildtribe_pathfinder"
+msgstr "Питомец: Охотник за дикими животными"
+
+msgid "desc_r_toy_wildtribe_pathfinder"
+msgstr "Коллекционная игрушка, которая вызывает питомца Wildtribe Pathfinder."
+
+msgid "r_toy_wildtribe_shaka"
+msgstr "Питомец: Дикие племена шака"
+
+msgid "desc_r_toy_wildtribe_shaka"
+msgstr ""
+"Коллекционная игрушка, которая вызывает питомца из дикого племени шака."
+
+msgid "r_toy_wildtribe_warrior"
+msgstr "Питомец: Дикий воин"
+
+msgid "desc_r_toy_wildtribe_warrior"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное Wildtribe Warrior."
+
+msgid "r_toy_wildtribe_witch_doctor"
+msgstr "Питомец: Колдовской врач диких племён"
+
+msgid "desc_r_toy_wildtribe_witch_doctor"
+msgstr ""
+"Коллекционная игрушка, которая вызывает домашнее животное-ведьма из Дикой "
+"Птицы."
+
+msgid "r_toy_winterbound"
+msgstr "Питомец: Зимний"
+
+msgid "desc_r_toy_winterbound"
+msgstr "Коллекционная игрушка, которая вызывает зимнего питомца."
+
+msgid "r_toy_yeti"
+msgstr "Питомец: Йети"
+
+msgid "desc_r_toy_yeti"
+msgstr "Коллекционная игрушка, которая вызывает питомца йети."
+
+msgid "r_toy_zombie"
+msgstr "Питомец: Зомби"
+
+msgid "desc_r_toy_zombie"
+msgstr "Коллекционная игрушка, которая вызывает питомца-зомби."
+
+msgid "r_toy_zombie_shambler"
+msgstr "Питомец: Зомби-шамблер"
+
+msgid "desc_r_toy_zombie_shambler"
+msgstr "Коллекционная игрушка, которая вызывает питомца Зомби Шамблера."
+
+msgid "r_toy_zombie_warrior"
+msgstr "Питомец: Зомби-воин"
+
+msgid "desc_r_toy_zombie_warrior"
+msgstr "Коллекционная игрушка, которая вызывает зомби-воина."
+
+msgid "r_toy_demon"
+msgstr "Питомец: Повелитель демонов"
+
+msgid "desc_r_toy_demon"
+msgstr "Коллекционная игрушка, которая вызывает питомца Демона Лорда."
 
 msgid "r_Ammo"
 msgstr "Патроны"
@@ -9939,6 +10871,18 @@ msgstr "Ключ от груди Selentine"
 msgid "desc_r_Selentine Chest Key"
 msgstr "Открывает selentine сундуков."
 
+msgid "r_Archaeus Chest"
+msgstr "Грудь Архея"
+
+msgid "desc_r_Archaeus Chest"
+msgstr "Грудь агента Архея. Открывает его только собственный ключ."
+
+msgid "r_Archaeus Chest Key"
+msgstr "Ключ от архея"
+
+msgid "desc_r_Archaeus Chest Key"
+msgstr "Открывает сундук Архея."
+
 msgid "r_Sigil"
 msgstr "Сигиль"
 
@@ -12644,7 +13588,7 @@ msgstr ""
 " для изготовления различной одежды."
 
 msgid "r_Selentine Cloth"
-msgstr "Ткань Selentine"
+msgstr "Халдейская ткань"
 
 msgid "desc_r_Selentine Cloth"
 msgstr ""
@@ -15249,7 +16193,7 @@ msgid "desc_r_quest vestianna ring"
 msgstr "Кольцо Вестианны. "
 
 msgid "r_Quest Weapons crate"
-msgstr "Оружейный ящик Quest"
+msgstr "Оружейный ящик"
 
 msgid "desc_r_Quest Weapons crate"
 msgstr "Клетка, полная нового высококачественного оружия."
@@ -20728,11 +21672,58 @@ msgstr "Заголовок свитка"
 msgid "desc_r_Title Scroll"
 msgstr "Дважды щелкните, чтобы добавить новый заголовок к вашему персонажу!"
 
+msgid "r_ut_Title Scroll"
+msgstr "Заголовок свитка (необычный)"
+
+msgid "desc_r_ut_Title Scroll"
+msgstr ""
+"Дважды щелкните, чтобы добавить новый заголовок к вашему персонажу! Этот "
+"свиток не может быть продан, сброшен или продан, но может храниться в вашем "
+"банке."
+
 msgid "r_Item Skin Scroll"
 msgstr "Элемент свитка кожи"
 
 msgid "desc_r_Item Skin Scroll"
 msgstr "Дважды щелкните, чтобы добавить новый элемент в свою учетную запись!"
+
+msgid "r_ut_Item Skin Scroll"
+msgstr "Элемент свитка кожи (необычный)"
+
+msgid "desc_r_ut_Item Skin Scroll"
+msgstr ""
+"Дважды щелкните, чтобы добавить новый элемент в свою учетную запись! Этот "
+"свиток не может быть продан, сброшен или продан, но может храниться в вашем "
+"банке."
+
+msgid "r_Spell Skin Scroll"
+msgstr "Орфография кожа свиток"
+
+msgid "desc_r_Spell Skin Scroll"
+msgstr "Дважды щелкните, чтобы добавить новую кожу заклинания в свой аккаунт!"
+
+msgid "r_ut_Spell Skin Scroll"
+msgstr "Скриншоты Skin Scroll (Untradable)"
+
+msgid "desc_r_ut_Spell Skin Scroll"
+msgstr ""
+"Дважды щелкните, чтобы добавить новую кожу заклинания в свой аккаунт! Этот "
+"свиток не может быть продан, сброшен или продан, но может храниться в вашем "
+"банке."
+
+msgid "r_Emote Scroll"
+msgstr "Свиток эмоции"
+
+msgid "desc_r_Emote Scroll"
+msgstr "Дважды щелкните, чтобы добавить новый эмот в свой аккаунт!"
+
+msgid "r_ut_Emote Scroll"
+msgstr "Emote Scroll (необычный)"
+
+msgid "desc_r_ut_Emote Scroll"
+msgstr ""
+"Дважды щелкните, чтобы добавить новый эмот в свой аккаунт! Этот свиток не "
+"может быть продан, сброшен или продан, но может храниться в вашем банке."
 
 msgid "r_Dyes"
 msgstr "Красители"
@@ -21480,6 +22471,14 @@ msgstr "Маркер мертвый"
 
 msgid "desc_r_Marker Player Dead"
 msgstr " Место последней смерти"
+
+msgid "r_Marker Capital Invader"
+msgstr "Захватчик"
+
+msgid "desc_r_Marker Capital Invader"
+msgstr ""
+"Враг этого столичного союза, или преступник, задержался внутри столичных "
+"земель. Маркер является анонимным, и его позиция периодически обновляется."
 
 msgid "r_Quest Markers"
 msgstr "Маркеры квестов"
@@ -23534,6 +24533,12 @@ msgstr " "
 
 msgid "r_The Humans of Mercia"
 msgstr "Люди Mercia"
+
+msgid "r_Dawnshore Isles"
+msgstr "Dawnshore Острова"
+
+msgid "desc_r_Dawnshore Isles"
+msgstr " "
 
 msgid "desc_r_The Humans of Mercia"
 msgstr " "
@@ -31526,6 +32531,9 @@ msgstr "Питомец: полководец зверолюдов"
 msgid "r_Pet Below"
 msgstr "Жеребец ниже"
 
+msgid "r_Pet Below Uber"
+msgstr "Птица больше внизу"
+
 msgid "r_Pet Black Knight"
 msgstr "Чёрный рыцарь / Black Knight"
 
@@ -31604,6 +32612,9 @@ msgstr "Бессмертный маг"
 msgid "r_Pet Deathless Servant"
 msgstr "Бессмертный слуга"
 
+msgid "r_Pet Demon"
+msgstr "Племянник демона"
+
 msgid "r_Pet Demon Queen"
 msgstr "Племянница демона Demon Queen"
 
@@ -31675,6 +32686,9 @@ msgstr "Призрачный призрак"
 
 msgid "r_Pet Ghoul Devourer"
 msgstr "Пожиратель упырей"
+
+msgid "r_Pet Ghoul Fleshcrafter"
+msgstr "Петушок плотоплаватель"
 
 msgid "r_Pet Giant Skeleton"
 msgstr "Гигантский скелет"
@@ -31982,6 +32996,9 @@ msgstr "Петух-рыцарь"
 msgid "r_Pet Siharo Darkbinder"
 msgstr "Питомец Сихара Тембиндер"
 
+msgid "r_Pet Skeleton"
+msgstr "Хрупкий скелет"
+
 msgid "r_Pet Skeleton Archer"
 msgstr "Скелетный лучник Pet Skone Archer"
 
@@ -32029,6 +33046,9 @@ msgstr "Гигантский паук"
 
 msgid "r_Pet Spider Hairy"
 msgstr "Питомец паук волосатый"
+
+msgid "r_Pet Stormgraive"
+msgstr "Питомец вода элементарная"
 
 msgid "r_Pet Sun Exarch"
 msgstr "Исполнитель: Sun Exarch"
@@ -32108,6 +33128,9 @@ msgstr "Дикий воин Wildtribe Warrior"
 msgid "r_Pet Wildtribe Witch Doctor"
 msgstr "Домашнее животное wildtribe witch doctor"
 
+msgid "r_Pet Windgraive"
+msgstr "Маленький водяной элемент"
+
 msgid "r_Pet Windlord"
 msgstr "Пит Виндлорд"
 
@@ -32122,6 +33145,9 @@ msgstr "Питомец зомби"
 
 msgid "r_Pet Zombie Dire"
 msgstr "Домашний питомец зомби"
+
+msgid "r_Pet Zombie Shambler"
+msgstr "Домашний зомби шамблер"
 
 msgid "r_Pet Zombie Warrior"
 msgstr "Любимый зомби-воин"
@@ -34780,3 +35806,2081 @@ msgstr "Коллекционная игрушка, которая вызывае
 
 msgid "r_Pet Crog Frost"
 msgstr "Морозы Crog"
+
+msgid "r_toy_crog_jungle"
+msgstr "Игрушки Crog"
+
+msgid "desc_r_toy_crog_jungle"
+msgstr "Коллекционная игрушка, которая вызывает питомца в джунглях Crog."
+
+msgid "r_Pet Crog Jungle"
+msgstr "Джунгли Crog"
+
+msgid "r_toy_crog_storm"
+msgstr "Шторм Crog игрушка"
+
+msgid "desc_r_toy_crog_storm"
+msgstr "Коллекционная игрушка, которая вызывает питомца Storm Crog."
+
+msgid "r_Pet Crog Storm"
+msgstr "Буря Crog"
+
+msgid "r_toy_crog_desert"
+msgstr "Игрушка пустыня Crog"
+
+msgid "desc_r_toy_crog_desert"
+msgstr ""
+"Коллекционная игрушка, которая вызывает в пустыню Crog домашних животных."
+
+msgid "r_Pet Crog Desert"
+msgstr "Пустыня Crog"
+
+msgid "r_Mastery Items"
+msgstr "Предметы мастерства"
+
+msgid "desc_r_Mastery Items"
+msgstr "Сферы и сущность для путей мастерства."
+
+msgid "r_Ancient Essence"
+msgstr "Древняя сущность"
+
+msgid "desc_r_Ancient Essence"
+msgstr ""
+"Власть, извлеченная из мертвых. Используйте его, чтобы настроить сущность в "
+"вашем бассейне."
+
+msgid "r_Mastery Orb"
+msgstr "Мастерство орб"
+
+msgid "desc_r_Mastery Orb"
+msgstr ""
+"Связанный узел власти, вытянутый из чего-то достаточно сильного, чтобы его "
+"стоило убить."
+
+msgid "r_Ancient Orb"
+msgstr "Древний шар"
+
+msgid "desc_r_Ancient Orb"
+msgstr ""
+"Старее и холоднее, чем меньшие шары, и гораздо реже. Только самые "
+"могущественные носят его."
+
+msgid "r_Slayer Cache"
+msgstr "Истребитель кэш"
+
+msgid "desc_r_Slayer Cache"
+msgstr "Нажмите, чтобы открыть его. Для этого нужен ключ Slayer Cache."
+
+msgid "r_Slayer Cache Key"
+msgstr "Slayer cache ключ"
+
+msgid "desc_r_Slayer Cache Key"
+msgstr "Открывает кэш Slayer."
+
+msgid "display_name_r_Slayer Cache"
+msgstr "Истребитель кэш"
+
+msgid "display_name_r_Slayer Cache Key"
+msgstr "Slayer cache ключ"
+
+msgid "r_Slayer Talisman Worn"
+msgstr "Оригинальное название: Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Worn"
+msgstr "Оригинальное название: Slayer Talisman"
+
+msgid "desc_r_Slayer Talisman Worn"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Carved"
+msgstr "Резной талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Carved"
+msgstr "Резной талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Carved"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Runed"
+msgstr "Беглый талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Runed"
+msgstr "Беглый талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Runed"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Mythic"
+msgstr "Мифический убийца талисман"
+
+msgid "display_name_r_Slayer Talisman Mythic"
+msgstr "Мифический убийца талисман"
+
+msgid "desc_r_Slayer Talisman Mythic"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Vaulted"
+msgstr "Убийца талисман"
+
+msgid "display_name_r_Slayer Talisman Vaulted"
+msgstr "Убийца талисман"
+
+msgid "desc_r_Slayer Talisman Vaulted"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Fine"
+msgstr "Прекрасный талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Fine"
+msgstr "Прекрасный талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Fine"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Superior"
+msgstr "Превосходный талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Superior"
+msgstr "Превосходный талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Superior"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Exceptional"
+msgstr "Оригинальное название: Slayer Talisman"
+
+msgid "display_name_r_Slayer Talisman Exceptional"
+msgstr "Оригинальное название: Slayer Talisman"
+
+msgid "desc_r_Slayer Talisman Exceptional"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Peerless"
+msgstr "Несравненный талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Peerless"
+msgstr "Несравненный талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Peerless"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "r_Slayer Talisman Immaculate"
+msgstr "Безукоризненный талисман убийцы"
+
+msgid "display_name_r_Slayer Talisman Immaculate"
+msgstr "Безукоризненный талисман убийцы"
+
+msgid "desc_r_Slayer Talisman Immaculate"
+msgstr ""
+"Очарование убийцы, в руническом книжном слоте. Его сила - это то, с чем он "
+"был создан - нет двух одинаковых."
+
+msgid "desc_r_Quest Herbal Tea"
+msgstr ""
+"Чашка травяного чая из гарнизона, предназначенная для агента Галлиуса. Не "
+"для тебя."
+
+msgid "desc_r_Quest Shipping Manifest"
+msgstr ""
+"Отгрузочный манифест для Кормака-корабля, с каждой минутой нарастающий "
+"демпфер."
+
+msgid "desc_r_Quest Supply Crate"
+msgstr "ящик с припасами для гарнизона Dawnshore."
+
+msgid "r_Quest Supply Crate"
+msgstr "Ящик снабжения"
+
+msgid "r_Quest Shipping Manifest"
+msgstr "Судоходный знак"
+
+msgid "r_Quest Herbal Tea"
+msgstr "Травяной чай"
+
+msgid "r_Slayer Talisman Unidentified Fine"
+msgstr "Запечатанный мелкий талисман"
+
+msgid "display_name_r_Slayer Talisman Unidentified Fine"
+msgstr "Запечатанный мелкий талисман"
+
+msgid "desc_r_Slayer Talisman Unidentified Fine"
+msgstr ""
+"Запечатанный талисман убийцы. Степень достаточно ясна; то, что она "
+"прокатила, — нет. Нажмите правой кнопкой мыши, чтобы идентифицировать его."
+
+msgid "r_Slayer Talisman Unidentified Superior"
+msgstr "Запечатанный превосходный талисман"
+
+msgid "display_name_r_Slayer Talisman Unidentified Superior"
+msgstr "Запечатанный превосходный талисман"
+
+msgid "desc_r_Slayer Talisman Unidentified Superior"
+msgstr ""
+"Запечатанный талисман убийцы. Степень достаточно ясна; то, что она "
+"прокатила, — нет. Нажмите правой кнопкой мыши, чтобы идентифицировать его."
+
+msgid "r_Slayer Talisman Unidentified Exceptional"
+msgstr "Запечатанный исключительный талисман"
+
+msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
+msgstr "Запечатанный исключительный талисман"
+
+msgid "desc_r_Slayer Talisman Unidentified Exceptional"
+msgstr ""
+"Запечатанный талисман убийцы. Степень достаточно ясна; то, что она "
+"прокатила, — нет. Нажмите правой кнопкой мыши, чтобы идентифицировать его."
+
+msgid "r_Slayer Talisman Unidentified Peerless"
+msgstr "Запечатанный несравненный талисман"
+
+msgid "display_name_r_Slayer Talisman Unidentified Peerless"
+msgstr "Запечатанный несравненный талисман"
+
+msgid "desc_r_Slayer Talisman Unidentified Peerless"
+msgstr ""
+"Запечатанный талисман убийцы. Степень достаточно ясна; то, что она "
+"прокатила, — нет. Нажмите правой кнопкой мыши, чтобы идентифицировать его."
+
+msgid "r_Slayer Talisman Unidentified Immaculate"
+msgstr "Запечатанный безупречный талисман"
+
+msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
+msgstr "Запечатанный безупречный талисман"
+
+msgid "desc_r_Slayer Talisman Unidentified Immaculate"
+msgstr ""
+"Запечатанный талисман убийцы. Степень достаточно ясна; то, что она "
+"прокатила, — нет. Нажмите правой кнопкой мыши, чтобы идентифицировать его."
+
+msgid "r_Slayer Services"
+msgstr "Услуги Slayer"
+
+msgid "desc_r_Slayer Services"
+msgstr "Unlocks a Slayer Master продается за очки."
+
+msgid "r_Slayer Contract Slot"
+msgstr "Контрактный слот"
+
+msgid "desc_r_Slayer Contract Slot"
+msgstr "Позволяет вам держать еще один контракт на убийство за раз."
+
+msgid "r_Slayer Slow Recall"
+msgstr "Медленный отзыв"
+
+msgid "desc_r_Slayer Slow Recall"
+msgstr ""
+"Разблокирует медленное воспоминание Истребителя на ваш bindstone. Купил один"
+" раз."
+
+msgid "r_Slayer Extra Talisman Slot"
+msgstr "Слот для талисмана"
+
+msgid "desc_r_Slayer Extra Talisman Slot"
+msgstr ""
+"Позволяет носить еще один талисман Slayer за раз. Каждому слоту нужен более "
+"высокий уровень Slayer."
+
+msgid "cosmetic_elemental_test_skins"
+msgstr "Скриншоты для теста кожи"
+
+msgid "cosmetic_name_air_ball_lightning_sg"
+msgstr "Шаровая молния: кровавая буря"
+
+msgid "cosmetic_desc_air_ball_lightning_sg"
+msgstr ""
+"Появление Bloodstorm для Ball Lightning Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_come_hither_sg"
+msgstr "Оригинальное название: Bloodstorm"
+
+msgid "cosmetic_desc_air_come_hither_sg"
+msgstr ""
+"Обсуждение Bloodstorm - Come Hither Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_sg"
+msgstr "Взрывной заряд: кровавая буря"
+
+msgid "cosmetic_desc_air_exploding_charge_sg"
+msgstr ""
+"Появление Bloodstorm для Exploding Charge Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_guiding_wind_sg"
+msgstr "Путеводный ветер: кровавая буря"
+
+msgid "cosmetic_desc_air_guiding_wind_sg"
+msgstr ""
+"Появление Bloodstorm для Guiding Wind Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_lightning_bolt_sg"
+msgstr "Молния: кровавая буря"
+
+msgid "cosmetic_desc_air_lightning_bolt_sg"
+msgstr ""
+"Появление Bloodstorm для Lightning Bolt Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_strike_sg"
+msgstr "Удар молнии: кровавый шторм"
+
+msgid "cosmetic_desc_air_lightning_strike_sg"
+msgstr ""
+"Появление Bloodstorm для Lightning Strike Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_weakness_sg"
+msgstr "Слабость молнии: кровавая буря"
+
+msgid "cosmetic_desc_air_lightning_weakness_sg"
+msgstr ""
+"Кровавая буря для слабости молнии. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_stormblast_sg"
+msgstr "Stormblast - кровавая буря"
+
+msgid "cosmetic_desc_air_stormblast_sg"
+msgstr ""
+"Кровавая буря Stormblast. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_sg"
+msgstr "Гроза: кровавая буря"
+
+msgid "cosmetic_desc_air_thunderstorm_sg"
+msgstr ""
+"Появление Bloodstorm для Thunderstorm Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_tornado_sg"
+msgstr "Торнадо: кровавая буря"
+
+msgid "cosmetic_desc_air_tornado_sg"
+msgstr ""
+"Появление кровавой бури для Торнадо. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_air_ball_lightning_va"
+msgstr "Шаровая молния: королевский гром"
+
+msgid "cosmetic_desc_air_ball_lightning_va"
+msgstr ""
+"Появление Royal Thunder для Ball Lightning Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_come_hither_va"
+msgstr "Оригинальное название: Royal Thunder"
+
+msgid "cosmetic_desc_air_come_hither_va"
+msgstr ""
+"Royal Thunder в роли Come Hither Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_va"
+msgstr "Оригинальное название: Royal Thunder"
+
+msgid "cosmetic_desc_air_exploding_charge_va"
+msgstr ""
+"Royal Thunder в роли Exploding Charge Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_guiding_wind_va"
+msgstr "Руководящий ветер: королевский гром"
+
+msgid "cosmetic_desc_air_guiding_wind_va"
+msgstr ""
+"Royal Thunder в роли Guiding Wind Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_bolt_va"
+msgstr "Молния: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_bolt_va"
+msgstr ""
+"Появление Royal Thunder для Lightning Bolt Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_strike_va"
+msgstr "Удар молнии: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_strike_va"
+msgstr ""
+"Royal Thunder для Lightning Strike Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_weakness_va"
+msgstr "Слабость молнии: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_weakness_va"
+msgstr ""
+"Появление Royal Thunder для Lightning Weakness Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_stormblast_va"
+msgstr "Stormblast: Королевский гром"
+
+msgid "cosmetic_desc_air_stormblast_va"
+msgstr ""
+"Королевский Гром Stormblast. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_va"
+msgstr "Гроза: королевский гром"
+
+msgid "cosmetic_desc_air_thunderstorm_va"
+msgstr ""
+"Появление Royal Thunder для Thunderstorm Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_tornado_va"
+msgstr "Торнадо: королевский гром"
+
+msgid "cosmetic_desc_air_tornado_va"
+msgstr ""
+"Появление Royal Thunder для Tornado Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_ball_lightning_ss"
+msgstr "Шаровая молния: полярное сияние"
+
+msgid "cosmetic_desc_air_ball_lightning_ss"
+msgstr ""
+"Появление Авроры для Ball Lightning Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_come_hither_ss"
+msgstr "Оригинальное название: Aurora"
+
+msgid "cosmetic_desc_air_come_hither_ss"
+msgstr ""
+"Оригинальное название: Come Hither. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_ss"
+msgstr "Взрывной заряд: Аврора"
+
+msgid "cosmetic_desc_air_exploding_charge_ss"
+msgstr ""
+"Обсуждение Aurora for Exploding Charge Сохраняет силуэт заклинания, движение"
+" и время."
+
+msgid "cosmetic_name_air_guiding_wind_ss"
+msgstr "Путеводный ветер: полярное сияние"
+
+msgid "cosmetic_desc_air_guiding_wind_ss"
+msgstr ""
+"Оригинальное название: Guiding Wind. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_air_lightning_bolt_ss"
+msgstr "Обсуждение Lightning Bolt: Aurora"
+
+msgid "cosmetic_desc_air_lightning_bolt_ss"
+msgstr ""
+"Появление Авроры для Lightning Bolt Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_strike_ss"
+msgstr "Удар молнии: полярное сияние"
+
+msgid "cosmetic_desc_air_lightning_strike_ss"
+msgstr ""
+"Появление Авроры для Lightning Strike Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_lightning_weakness_ss"
+msgstr "Слабость молнии: полярное сияние"
+
+msgid "cosmetic_desc_air_lightning_weakness_ss"
+msgstr ""
+"Появление Авроры для Lightning Weakness. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_stormblast_ss"
+msgstr "Stormblast: сияние"
+
+msgid "cosmetic_desc_air_stormblast_ss"
+msgstr ""
+"Появление полярного сияния для Stormblast. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_ss"
+msgstr "Гроза: полярное сияние"
+
+msgid "cosmetic_desc_air_thunderstorm_ss"
+msgstr ""
+"Появление полярного сияния для грозы. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_tornado_ss"
+msgstr "Торнадо: полярное сияние"
+
+msgid "cosmetic_desc_air_tornado_ss"
+msgstr ""
+"Появление Авроры для Торнадо. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_arrow_jd"
+msgstr "Кислотная стрелка: астральная"
+
+msgid "cosmetic_desc_earth_acid_arrow_jd"
+msgstr ""
+"Астральный вид для кислотной стрелы. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_acid_rain_jd"
+msgstr "Кислотные дожди: астральный"
+
+msgid "cosmetic_desc_earth_acid_rain_jd"
+msgstr ""
+"Астральный вид для кислотного дождя. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_corrosive_blast_jd"
+msgstr "Коррозионный взрыв: астральный"
+
+msgid "cosmetic_desc_earth_corrosive_blast_jd"
+msgstr ""
+"Астральный вид для коррозионного взрыва. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_disintegrate_jd"
+msgstr "Распад: астральный"
+
+msgid "cosmetic_desc_earth_disintegrate_jd"
+msgstr ""
+"Астральный вид для распада. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_impale_jd"
+msgstr "Импел: астральный"
+
+msgid "cosmetic_desc_earth_impale_jd"
+msgstr ""
+"Астральная внешность Импала. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_meteor_strike_jd"
+msgstr "Метеорный удар: астральный"
+
+msgid "cosmetic_desc_earth_meteor_strike_jd"
+msgstr ""
+"Астральный внешний вид метеоритного удара. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_jd"
+msgstr "Жесткий туман: астральный"
+
+msgid "cosmetic_desc_earth_pungent_mist_jd"
+msgstr ""
+"Оригинальное название: Pungent Mist. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_stamina_leech_jd"
+msgstr "Выносливая пиявка: астральная"
+
+msgid "cosmetic_desc_earth_stamina_leech_jd"
+msgstr ""
+"Астральная внешность для Стамины Лич. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_earth_tarnish_jd"
+msgstr "Оригинальное название: Astral"
+
+msgid "cosmetic_desc_earth_tarnish_jd"
+msgstr ""
+"Астральный вид для Тарниша. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_arrow_as"
+msgstr "Кислотная стрелка: быстрая серебра"
+
+msgid "cosmetic_desc_earth_acid_arrow_as"
+msgstr ""
+"Появление Quicksilver для Acid Arrow. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_earth_acid_rain_as"
+msgstr "Кислотные дожди: быстрые серебристые"
+
+msgid "cosmetic_desc_earth_acid_rain_as"
+msgstr ""
+"Появление Quicksilver для Acid Rain. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_corrosive_blast_as"
+msgstr "Коррозионный взрыв: быстрые серебристые"
+
+msgid "cosmetic_desc_earth_corrosive_blast_as"
+msgstr ""
+"Появление Quicksilver для Corrosive Blast. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_disintegrate_as"
+msgstr "Распад: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_disintegrate_as"
+msgstr ""
+"Появление Quicksilver для Disintegrate Сохраняет силуэт заклинания, движение"
+" и время."
+
+msgid "cosmetic_name_earth_impale_as"
+msgstr "Импел: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_impale_as"
+msgstr ""
+"Появление Quicksilver для Impale. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_meteor_strike_as"
+msgstr "Метеорный удар: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_meteor_strike_as"
+msgstr ""
+"Появление Quicksilver для Meteor Strike. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_as"
+msgstr "Жесткий туман: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_pungent_mist_as"
+msgstr ""
+"Появление Quicksilver для Pungent Mist. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_stamina_leech_as"
+msgstr "Выносливая пиявка: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_stamina_leech_as"
+msgstr ""
+"Быстрый серебристый вид для Стамины Лич. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_tarnish_as"
+msgstr "Быстрый серебристый / Quicksilver"
+
+msgid "cosmetic_desc_earth_tarnish_as"
+msgstr ""
+"Появление Quicksilver для Tarnish. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_acid_arrow_ml"
+msgstr "Кислотная стрелка: розовый кварц"
+
+msgid "cosmetic_desc_earth_acid_arrow_ml"
+msgstr ""
+"Роуз Кварц для Acid Arrow Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_rain_ml"
+msgstr "Кислотные дожди: розовый кварц"
+
+msgid "cosmetic_desc_earth_acid_rain_ml"
+msgstr ""
+"Розовый кварц для кислотного дождя. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_corrosive_blast_ml"
+msgstr "Коррозионный взрыв: розовый кварц"
+
+msgid "cosmetic_desc_earth_corrosive_blast_ml"
+msgstr ""
+"Роуз Кварц для Corrosive Blast Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_disintegrate_ml"
+msgstr "Распад: розовый кварц"
+
+msgid "cosmetic_desc_earth_disintegrate_ml"
+msgstr ""
+"Роуз Кварц для Disintegrate Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_impale_ml"
+msgstr "Импел: розовый кварц"
+
+msgid "cosmetic_desc_earth_impale_ml"
+msgstr "Роуз Кварц для Impale Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_meteor_strike_ml"
+msgstr "Метеорный удар: розовый кварц"
+
+msgid "cosmetic_desc_earth_meteor_strike_ml"
+msgstr ""
+"Роуз Кварц для Meteor Strike Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_ml"
+msgstr "Жесткий туман: розовый кварц"
+
+msgid "cosmetic_desc_earth_pungent_mist_ml"
+msgstr ""
+"Роуз Кварц для Pungent Mist Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_stamina_leech_ml"
+msgstr "Выносливая пиявка: розовый кварц"
+
+msgid "cosmetic_desc_earth_stamina_leech_ml"
+msgstr ""
+"Роуз Кварц в роли Стамины Лич. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_tarnish_ml"
+msgstr "Запятнанный: розовый кварц"
+
+msgid "cosmetic_desc_earth_tarnish_ml"
+msgstr ""
+"Роуз Кварц в роли Тарниша. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_cp"
+msgstr "Dragonbreath: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_dragonbreath_cp"
+msgstr ""
+"Появление Огня для Dragonbreath. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_explosion_cp"
+msgstr "Взрыв: Костер ведьм"
+
+msgid "cosmetic_desc_fire_explosion_cp"
+msgstr ""
+"Появление костра для взрыва. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_fireball_cp"
+msgstr "Огненный шар: Костер ведьм"
+
+msgid "cosmetic_desc_fire_fireball_cp"
+msgstr ""
+"Появление Костра для Fireball. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_firebolt_cp"
+msgstr "Firebolt: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_firebolt_cp"
+msgstr ""
+"Появление Огня для Firebolt. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_inferno_cp"
+msgstr "Ад: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_inferno_cp"
+msgstr ""
+"Появление Костра для Инферно. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_cp"
+msgstr "Магматическая буря: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_magma_storm_cp"
+msgstr ""
+"Появление Костра для Magma Storm. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_volcano_cp"
+msgstr "Вулкан: Костер ведьм"
+
+msgid "cosmetic_desc_fire_volcano_cp"
+msgstr ""
+"Появление костра для вулкана. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_cp"
+msgstr "Стена огня: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_wall_of_fire_cp"
+msgstr ""
+"Появление Костра для Стены Огня. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_weakening_blaze_cp"
+msgstr "Ослабляющее пламя: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_weakening_blaze_cp"
+msgstr ""
+"Появление Огня для Ослабляющего Блейза. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_ci"
+msgstr "Dragonbreath: аметистное пламя"
+
+msgid "cosmetic_desc_fire_dragonbreath_ci"
+msgstr ""
+"Появление аметистного пламени Dragonbreath. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_explosion_ci"
+msgstr "Взрыв: аметистное пламя"
+
+msgid "cosmetic_desc_fire_explosion_ci"
+msgstr ""
+"Появление огненного аметиста при взрыве. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_fireball_ci"
+msgstr "Огненный шар: аметистное пламя"
+
+msgid "cosmetic_desc_fire_fireball_ci"
+msgstr ""
+"Появление Amethyst Flame для Fireball Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_fire_firebolt_ci"
+msgstr "Firebolt: аметистное пламя"
+
+msgid "cosmetic_desc_fire_firebolt_ci"
+msgstr ""
+"Появление аметистного пламени Firebolt. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_inferno_ci"
+msgstr "Ад: аметистное пламя"
+
+msgid "cosmetic_desc_fire_inferno_ci"
+msgstr ""
+"Появление аметиста пламени для Inferno. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_ci"
+msgstr "Магматическая буря: аметистное пламя"
+
+msgid "cosmetic_desc_fire_magma_storm_ci"
+msgstr ""
+"Появление Amethyst Flame для Magma Storm Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_volcano_ci"
+msgstr "Вулкан: аметистное пламя"
+
+msgid "cosmetic_desc_fire_volcano_ci"
+msgstr ""
+"Появление пламени аметиста для вулкана. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_ci"
+msgstr "Стена огня: аметистное пламя"
+
+msgid "cosmetic_desc_fire_wall_of_fire_ci"
+msgstr ""
+"Появление Amethyst Flame для Wall of Fire Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_weakening_blaze_ci"
+msgstr "Ослабляющий огонь: аметистное пламя"
+
+msgid "cosmetic_desc_fire_weakening_blaze_ci"
+msgstr ""
+"Появление Amethyst Flame для Weakening Blaze Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_so"
+msgstr "Dragonbreath: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_dragonbreath_so"
+msgstr ""
+"Призрачный огонь Dragonbreath. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_explosion_so"
+msgstr "Взрыв: призрачный огонь"
+
+msgid "cosmetic_desc_fire_explosion_so"
+msgstr ""
+"Призрачный огонь для взрыва. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_fireball_so"
+msgstr "Огненный шар: Ghostfire"
+
+msgid "cosmetic_desc_fire_fireball_so"
+msgstr ""
+"Призрачный огонь для Fireball. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_firebolt_so"
+msgstr "Firebolt: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_firebolt_so"
+msgstr ""
+"Призрачный огонь Firebolt. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_inferno_so"
+msgstr "Оригинальное название: Ghostfire"
+
+msgid "cosmetic_desc_fire_inferno_so"
+msgstr ""
+"Призрачный огонь для Inferno. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_so"
+msgstr "Магматический шторм: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_magma_storm_so"
+msgstr ""
+"Призрачный огонь для Magma Storm Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_volcano_so"
+msgstr "Вулкан: призрачный огонь"
+
+msgid "cosmetic_desc_fire_volcano_so"
+msgstr ""
+"Призрачный огонь для вулкана. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_so"
+msgstr "Стена огня: призрачный огонь"
+
+msgid "cosmetic_desc_fire_wall_of_fire_so"
+msgstr ""
+"Призрачный огонь для стены огня. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_weakening_blaze_so"
+msgstr "Ослабляющее пламя: призрачный огонь"
+
+msgid "cosmetic_desc_fire_weakening_blaze_so"
+msgstr ""
+"Призрачный огонь для Weakening Blaze Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_blizzard_gl"
+msgstr "Метеорология: Bloodtide"
+
+msgid "cosmetic_desc_water_blizzard_gl"
+msgstr ""
+"Кровавый прилив для Blizzard. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_delayed_shot_gl"
+msgstr "Отсроченный выстрел: кровоток"
+
+msgid "cosmetic_desc_water_delayed_shot_gl"
+msgstr ""
+"Кровавый прилив для отложенного выстрела. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_water_frostbite_gl"
+msgstr "Обморожение: кровоток"
+
+msgid "cosmetic_desc_water_frostbite_gl"
+msgstr ""
+"Кровавый прилив для Frostbite. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_ice_storm_gl"
+msgstr "Ледяной шторм: кровавый"
+
+msgid "cosmetic_desc_water_ice_storm_gl"
+msgstr ""
+"Кровавый прилив для Ледяного Шторма. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_icicle_gl"
+msgstr "Сосулька: кровавый"
+
+msgid "cosmetic_desc_water_icicle_gl"
+msgstr ""
+"Кровавый прилив для Icicle. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_shards_gl"
+msgstr "Обломки: Bloodtide"
+
+msgid "cosmetic_desc_water_shards_gl"
+msgstr ""
+"Кровавый прилив для Shards. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_slow_gl"
+msgstr "Медленно: кровоток"
+
+msgid "cosmetic_desc_water_slow_gl"
+msgstr ""
+"Кровавый прилив для Слоу. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_toxic_rain_gl"
+msgstr "Токсичные дожди: кровавый"
+
+msgid "cosmetic_desc_water_toxic_rain_gl"
+msgstr ""
+"Кровавый прилив для токсичного дождя. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_water_weakening_chill_gl"
+msgstr "Ослабление охлаждения: кровоток"
+
+msgid "cosmetic_desc_water_weakening_chill_gl"
+msgstr ""
+"Кровавый прилив для слабеющего озноб. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_water_blizzard_ri"
+msgstr "Буря: жидкое золото"
+
+msgid "cosmetic_desc_water_blizzard_ri"
+msgstr ""
+"Жидкое золото для Blizzard. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_delayed_shot_ri"
+msgstr "Задержка выстрела: жидкое золото"
+
+msgid "cosmetic_desc_water_delayed_shot_ri"
+msgstr ""
+"Жидкое золото для отложенного выстрела. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_water_frostbite_ri"
+msgstr "Обморожение: жидкое золото"
+
+msgid "cosmetic_desc_water_frostbite_ri"
+msgstr ""
+"Жидкое золото для Frostbite. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_ice_storm_ri"
+msgstr "Ледяной шторм: жидкое золото"
+
+msgid "cosmetic_desc_water_ice_storm_ri"
+msgstr ""
+"Жидкое золото для ледяного шторма. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_icicle_ri"
+msgstr "Сосулька: жидкое золото"
+
+msgid "cosmetic_desc_water_icicle_ri"
+msgstr ""
+"Жидкое золото для Icicle. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_shards_ri"
+msgstr "Осколки: жидкое золото"
+
+msgid "cosmetic_desc_water_shards_ri"
+msgstr ""
+"Появление жидкого золота для Shards. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_slow_ri"
+msgstr "Медленно: жидкое золото"
+
+msgid "cosmetic_desc_water_slow_ri"
+msgstr ""
+"Появление жидкого золота для Slow. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_toxic_rain_ri"
+msgstr "Токсичные дожди: жидкое золото"
+
+msgid "cosmetic_desc_water_toxic_rain_ri"
+msgstr ""
+"Жидкое золото для токсичного дождя. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_weakening_chill_ri"
+msgstr "Ослабление холода: жидкое золото"
+
+msgid "cosmetic_desc_water_weakening_chill_ri"
+msgstr ""
+"Появление жидкого золота для ослабления озноба. Сохраняет силуэт заклинания,"
+" движение и время."
+
+msgid "cosmetic_name_water_blizzard_df"
+msgstr "Метель: Blightwater"
+
+msgid "cosmetic_desc_water_blizzard_df"
+msgstr ""
+"Появление Blightwater для Blizzard. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_delayed_shot_df"
+msgstr "Оригинальное название: Blightwater"
+
+msgid "cosmetic_desc_water_delayed_shot_df"
+msgstr ""
+"Скриншоты из игры Delayed Shot. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_frostbite_df"
+msgstr "Обморожение: Blightwater"
+
+msgid "cosmetic_desc_water_frostbite_df"
+msgstr ""
+"Появление Blightwater для Frostbite. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_ice_storm_df"
+msgstr "Ледяной шторм: Blightwater"
+
+msgid "cosmetic_desc_water_ice_storm_df"
+msgstr ""
+"Появление Blightwater для Ice Storm. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_icicle_df"
+msgstr "Сосулька: Blightwater"
+
+msgid "cosmetic_desc_water_icicle_df"
+msgstr ""
+"Появление Blightwater для Icicle. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_shards_df"
+msgstr "Обломки: Blightwater"
+
+msgid "cosmetic_desc_water_shards_df"
+msgstr ""
+"Появление Blightwater для Shards. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_slow_df"
+msgstr "Медленный: Blightwater"
+
+msgid "cosmetic_desc_water_slow_df"
+msgstr ""
+"Появление Blightwater для Slow. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_toxic_rain_df"
+msgstr "Токсичные дожди: Blightwater"
+
+msgid "cosmetic_desc_water_toxic_rain_df"
+msgstr ""
+"Появление воды для токсичного дождя. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_weakening_chill_df"
+msgstr "Охлаждение: Blightwater"
+
+msgid "cosmetic_desc_water_weakening_chill_df"
+msgstr ""
+"Появление Blightwater для ослабления озноба. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_mana_missile_crimson"
+msgstr "Ракета-мана: малиновый"
+
+msgid "cosmetic_desc_mana_missile_crimson"
+msgstr ""
+"Багровые акценты для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_mana_missile_emerald"
+msgstr "Ракета Мана: Изумруд"
+
+msgid "cosmetic_desc_mana_missile_emerald"
+msgstr ""
+"Изумрудные акценты для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_mana_missile_violet"
+msgstr "Мана ракета: фиолетовый"
+
+msgid "cosmetic_desc_mana_missile_violet"
+msgstr ""
+"Фиолетовые акценты для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_mana_missile_amber"
+msgstr "Ракета-мана: янтарь"
+
+msgid "cosmetic_desc_mana_missile_amber"
+msgstr ""
+"Янтарный акцент для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_mana_missile_cyan"
+msgstr "Ракета-мана: циан"
+
+msgid "cosmetic_desc_mana_missile_cyan"
+msgstr ""
+"Сианский акцент для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_mana_missile_pearl"
+msgstr "Ракета Мана: жемчуг"
+
+msgid "cosmetic_desc_mana_missile_pearl"
+msgstr ""
+"Перл акцентирует внимание на ракете \"Мана\". Сохраняет оригинальные "
+"подсказки и форму заклинания."
+
+msgid "cosmetic_name_mana_missile_pink"
+msgstr "Ракета-мана: розовый"
+
+msgid "cosmetic_desc_mana_missile_pink"
+msgstr ""
+"Розовые акценты для ракеты \"Мана\". Сохраняет оригинальные подсказки и "
+"форму заклинания."
+
+msgid "cosmetic_name_air_ball_lightning_bs"
+msgstr "Шаровая молния: кровавая буря"
+
+msgid "cosmetic_desc_air_ball_lightning_bs"
+msgstr ""
+"Появление Bloodstorm для Ball Lightning Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_come_hither_bs"
+msgstr "Оригинальное название: Bloodstorm"
+
+msgid "cosmetic_desc_air_come_hither_bs"
+msgstr ""
+"Обсуждение Bloodstorm - Come Hither Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_bs"
+msgstr "Взрывной заряд: кровавая буря"
+
+msgid "cosmetic_desc_air_exploding_charge_bs"
+msgstr ""
+"Появление Bloodstorm для Exploding Charge Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_guiding_wind_bs"
+msgstr "Путеводный ветер: кровавая буря"
+
+msgid "cosmetic_desc_air_guiding_wind_bs"
+msgstr ""
+"Появление Bloodstorm для Guiding Wind Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_lightning_bolt_bs"
+msgstr "Молния: кровавая буря"
+
+msgid "cosmetic_desc_air_lightning_bolt_bs"
+msgstr ""
+"Появление Bloodstorm для Lightning Bolt Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_strike_bs"
+msgstr "Удар молнии: кровавый шторм"
+
+msgid "cosmetic_desc_air_lightning_strike_bs"
+msgstr ""
+"Появление Bloodstorm для Lightning Strike Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_weakness_bs"
+msgstr "Слабость молнии: кровавая буря"
+
+msgid "cosmetic_desc_air_lightning_weakness_bs"
+msgstr ""
+"Кровавая буря для слабости молнии. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_stormblast_bs"
+msgstr "Stormblast - кровавая буря"
+
+msgid "cosmetic_desc_air_stormblast_bs"
+msgstr ""
+"Кровавая буря Stormblast. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_bs"
+msgstr "Гроза: кровавая буря"
+
+msgid "cosmetic_desc_air_thunderstorm_bs"
+msgstr ""
+"Появление Bloodstorm для Thunderstorm Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_tornado_bs"
+msgstr "Торнадо: кровавая буря"
+
+msgid "cosmetic_desc_air_tornado_bs"
+msgstr ""
+"Появление кровавой бури для Торнадо. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_air_ball_lightning_rt"
+msgstr "Шаровая молния: королевский гром"
+
+msgid "cosmetic_desc_air_ball_lightning_rt"
+msgstr ""
+"Появление Royal Thunder для Ball Lightning Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_come_hither_rt"
+msgstr "Оригинальное название: Royal Thunder"
+
+msgid "cosmetic_desc_air_come_hither_rt"
+msgstr ""
+"Royal Thunder в роли Come Hither Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_rt"
+msgstr "Оригинальное название: Royal Thunder"
+
+msgid "cosmetic_desc_air_exploding_charge_rt"
+msgstr ""
+"Royal Thunder в роли Exploding Charge Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_guiding_wind_rt"
+msgstr "Руководящий ветер: королевский гром"
+
+msgid "cosmetic_desc_air_guiding_wind_rt"
+msgstr ""
+"Royal Thunder в роли Guiding Wind Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_bolt_rt"
+msgstr "Молния: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_bolt_rt"
+msgstr ""
+"Появление Royal Thunder для Lightning Bolt Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_lightning_strike_rt"
+msgstr "Удар молнии: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_strike_rt"
+msgstr ""
+"Royal Thunder для Lightning Strike Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_weakness_rt"
+msgstr "Слабость молнии: королевский гром"
+
+msgid "cosmetic_desc_air_lightning_weakness_rt"
+msgstr ""
+"Появление Royal Thunder для Lightning Weakness Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_stormblast_rt"
+msgstr "Stormblast: Королевский гром"
+
+msgid "cosmetic_desc_air_stormblast_rt"
+msgstr ""
+"Королевский Гром Stormblast. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_rt"
+msgstr "Гроза: королевский гром"
+
+msgid "cosmetic_desc_air_thunderstorm_rt"
+msgstr ""
+"Появление Royal Thunder для Thunderstorm Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_tornado_rt"
+msgstr "Торнадо: королевский гром"
+
+msgid "cosmetic_desc_air_tornado_rt"
+msgstr ""
+"Появление Royal Thunder для Tornado Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_ball_lightning_au"
+msgstr "Шаровая молния: полярное сияние"
+
+msgid "cosmetic_desc_air_ball_lightning_au"
+msgstr ""
+"Появление Авроры для Ball Lightning Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_come_hither_au"
+msgstr "Оригинальное название: Aurora"
+
+msgid "cosmetic_desc_air_come_hither_au"
+msgstr ""
+"Оригинальное название: Come Hither. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_exploding_charge_au"
+msgstr "Взрывной заряд: Аврора"
+
+msgid "cosmetic_desc_air_exploding_charge_au"
+msgstr ""
+"Обсуждение Aurora for Exploding Charge Сохраняет силуэт заклинания, движение"
+" и время."
+
+msgid "cosmetic_name_air_guiding_wind_au"
+msgstr "Путеводный ветер: полярное сияние"
+
+msgid "cosmetic_desc_air_guiding_wind_au"
+msgstr ""
+"Оригинальное название: Guiding Wind. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_air_lightning_bolt_au"
+msgstr "Обсуждение Lightning Bolt: Aurora"
+
+msgid "cosmetic_desc_air_lightning_bolt_au"
+msgstr ""
+"Появление Авроры для Lightning Bolt Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_air_lightning_strike_au"
+msgstr "Удар молнии: полярное сияние"
+
+msgid "cosmetic_desc_air_lightning_strike_au"
+msgstr ""
+"Появление Авроры для Lightning Strike Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_lightning_weakness_au"
+msgstr "Слабость молнии: полярное сияние"
+
+msgid "cosmetic_desc_air_lightning_weakness_au"
+msgstr ""
+"Появление Авроры для Lightning Weakness. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_stormblast_au"
+msgstr "Stormblast: сияние"
+
+msgid "cosmetic_desc_air_stormblast_au"
+msgstr ""
+"Появление полярного сияния для Stormblast. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_air_thunderstorm_au"
+msgstr "Гроза: полярное сияние"
+
+msgid "cosmetic_desc_air_thunderstorm_au"
+msgstr ""
+"Появление полярного сияния для грозы. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_air_tornado_au"
+msgstr "Торнадо: полярное сияние"
+
+msgid "cosmetic_desc_air_tornado_au"
+msgstr ""
+"Появление Авроры для Торнадо. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_arrow_at"
+msgstr "Кислотная стрелка: астральная"
+
+msgid "cosmetic_desc_earth_acid_arrow_at"
+msgstr ""
+"Астральный вид для кислотной стрелы. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_acid_rain_at"
+msgstr "Кислотные дожди: астральный"
+
+msgid "cosmetic_desc_earth_acid_rain_at"
+msgstr ""
+"Астральный вид для кислотного дождя. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_corrosive_blast_at"
+msgstr "Коррозионный взрыв: астральный"
+
+msgid "cosmetic_desc_earth_corrosive_blast_at"
+msgstr ""
+"Астральный вид для коррозионного взрыва. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_disintegrate_at"
+msgstr "Распад: астральный"
+
+msgid "cosmetic_desc_earth_disintegrate_at"
+msgstr ""
+"Астральный вид для распада. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_impale_at"
+msgstr "Импел: астральный"
+
+msgid "cosmetic_desc_earth_impale_at"
+msgstr ""
+"Астральная внешность Импала. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_meteor_strike_at"
+msgstr "Метеорный удар: астральный"
+
+msgid "cosmetic_desc_earth_meteor_strike_at"
+msgstr ""
+"Астральный внешний вид метеоритного удара. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_at"
+msgstr "Жесткий туман: астральный"
+
+msgid "cosmetic_desc_earth_pungent_mist_at"
+msgstr ""
+"Оригинальное название: Pungent Mist. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_stamina_leech_at"
+msgstr "Выносливая пиявка: астральная"
+
+msgid "cosmetic_desc_earth_stamina_leech_at"
+msgstr ""
+"Астральная внешность для Стамины Лич. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_earth_tarnish_at"
+msgstr "Оригинальное название: Astral"
+
+msgid "cosmetic_desc_earth_tarnish_at"
+msgstr ""
+"Астральный вид для Тарниша. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_arrow_qs"
+msgstr "Кислотная стрелка: быстрая серебра"
+
+msgid "cosmetic_desc_earth_acid_arrow_qs"
+msgstr ""
+"Появление Quicksilver для Acid Arrow. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_earth_acid_rain_qs"
+msgstr "Кислотные дожди: быстрые серебристые"
+
+msgid "cosmetic_desc_earth_acid_rain_qs"
+msgstr ""
+"Появление Quicksilver для Acid Rain. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_earth_corrosive_blast_qs"
+msgstr "Коррозионный взрыв: быстрые серебристые"
+
+msgid "cosmetic_desc_earth_corrosive_blast_qs"
+msgstr ""
+"Появление Quicksilver для Corrosive Blast. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_disintegrate_qs"
+msgstr "Распад: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_disintegrate_qs"
+msgstr ""
+"Появление Quicksilver для Disintegrate Сохраняет силуэт заклинания, движение"
+" и время."
+
+msgid "cosmetic_name_earth_impale_qs"
+msgstr "Импел: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_impale_qs"
+msgstr ""
+"Появление Quicksilver для Impale. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_meteor_strike_qs"
+msgstr "Метеорный удар: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_meteor_strike_qs"
+msgstr ""
+"Появление Quicksilver для Meteor Strike. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_qs"
+msgstr "Жесткий туман: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_pungent_mist_qs"
+msgstr ""
+"Появление Quicksilver для Pungent Mist. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_stamina_leech_qs"
+msgstr "Выносливая пиявка: зыбучее серебро"
+
+msgid "cosmetic_desc_earth_stamina_leech_qs"
+msgstr ""
+"Быстрый серебристый вид для Стамины Лич. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_earth_tarnish_qs"
+msgstr "Быстрый серебристый / Quicksilver"
+
+msgid "cosmetic_desc_earth_tarnish_qs"
+msgstr ""
+"Появление Quicksilver для Tarnish. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_acid_arrow_rq"
+msgstr "Кислотная стрелка: розовый кварц"
+
+msgid "cosmetic_desc_earth_acid_arrow_rq"
+msgstr ""
+"Роуз Кварц для Acid Arrow Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_acid_rain_rq"
+msgstr "Кислотные дожди: розовый кварц"
+
+msgid "cosmetic_desc_earth_acid_rain_rq"
+msgstr ""
+"Розовый кварц для кислотного дождя. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_corrosive_blast_rq"
+msgstr "Коррозионный взрыв: розовый кварц"
+
+msgid "cosmetic_desc_earth_corrosive_blast_rq"
+msgstr ""
+"Роуз Кварц для Corrosive Blast Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_disintegrate_rq"
+msgstr "Распад: розовый кварц"
+
+msgid "cosmetic_desc_earth_disintegrate_rq"
+msgstr ""
+"Роуз Кварц для Disintegrate Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_impale_rq"
+msgstr "Импел: розовый кварц"
+
+msgid "cosmetic_desc_earth_impale_rq"
+msgstr "Роуз Кварц для Impale Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_meteor_strike_rq"
+msgstr "Метеорный удар: розовый кварц"
+
+msgid "cosmetic_desc_earth_meteor_strike_rq"
+msgstr ""
+"Роуз Кварц для Meteor Strike Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_pungent_mist_rq"
+msgstr "Жесткий туман: розовый кварц"
+
+msgid "cosmetic_desc_earth_pungent_mist_rq"
+msgstr ""
+"Роуз Кварц для Pungent Mist Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_earth_stamina_leech_rq"
+msgstr "Выносливая пиявка: розовый кварц"
+
+msgid "cosmetic_desc_earth_stamina_leech_rq"
+msgstr ""
+"Роуз Кварц в роли Стамины Лич. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_earth_tarnish_rq"
+msgstr "Запятнанный: розовый кварц"
+
+msgid "cosmetic_desc_earth_tarnish_rq"
+msgstr ""
+"Роуз Кварц в роли Тарниша. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_wf"
+msgstr "Dragonbreath: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_dragonbreath_wf"
+msgstr ""
+"Появление Огня для Dragonbreath. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_explosion_wf"
+msgstr "Взрыв: Костер ведьм"
+
+msgid "cosmetic_desc_fire_explosion_wf"
+msgstr ""
+"Появление костра для взрыва. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_fireball_wf"
+msgstr "Огненный шар: Костер ведьм"
+
+msgid "cosmetic_desc_fire_fireball_wf"
+msgstr ""
+"Появление Костра для Fireball. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_firebolt_wf"
+msgstr "Firebolt: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_firebolt_wf"
+msgstr ""
+"Появление Огня для Firebolt. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_inferno_wf"
+msgstr "Ад: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_inferno_wf"
+msgstr ""
+"Появление Костра для Инферно. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_wf"
+msgstr "Магматическая буря: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_magma_storm_wf"
+msgstr ""
+"Появление Костра для Magma Storm. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_volcano_wf"
+msgstr "Вулкан: Костер ведьм"
+
+msgid "cosmetic_desc_fire_volcano_wf"
+msgstr ""
+"Появление костра для вулкана. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_wf"
+msgstr "Стена огня: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_wall_of_fire_wf"
+msgstr ""
+"Появление Костра для Стены Огня. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_weakening_blaze_wf"
+msgstr "Ослабляющее пламя: Огонь ведьм"
+
+msgid "cosmetic_desc_fire_weakening_blaze_wf"
+msgstr ""
+"Появление Огня для Ослабляющего Блейза. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_af"
+msgstr "Dragonbreath: аметистное пламя"
+
+msgid "cosmetic_desc_fire_dragonbreath_af"
+msgstr ""
+"Появление аметистного пламени Dragonbreath. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_explosion_af"
+msgstr "Взрыв: аметистное пламя"
+
+msgid "cosmetic_desc_fire_explosion_af"
+msgstr ""
+"Появление огненного аметиста при взрыве. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_fireball_af"
+msgstr "Огненный шар: аметистное пламя"
+
+msgid "cosmetic_desc_fire_fireball_af"
+msgstr ""
+"Появление Amethyst Flame для Fireball Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_fire_firebolt_af"
+msgstr "Firebolt: аметистное пламя"
+
+msgid "cosmetic_desc_fire_firebolt_af"
+msgstr ""
+"Появление аметистного пламени Firebolt. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_inferno_af"
+msgstr "Ад: аметистное пламя"
+
+msgid "cosmetic_desc_fire_inferno_af"
+msgstr ""
+"Появление аметиста пламени для Inferno. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_af"
+msgstr "Магматическая буря: аметистное пламя"
+
+msgid "cosmetic_desc_fire_magma_storm_af"
+msgstr ""
+"Появление Amethyst Flame для Magma Storm Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_volcano_af"
+msgstr "Вулкан: аметистное пламя"
+
+msgid "cosmetic_desc_fire_volcano_af"
+msgstr ""
+"Появление пламени аметиста для вулкана. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_af"
+msgstr "Стена огня: аметистное пламя"
+
+msgid "cosmetic_desc_fire_wall_of_fire_af"
+msgstr ""
+"Появление Amethyst Flame для Wall of Fire Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_weakening_blaze_af"
+msgstr "Ослабляющий огонь: аметистное пламя"
+
+msgid "cosmetic_desc_fire_weakening_blaze_af"
+msgstr ""
+"Появление Amethyst Flame для Weakening Blaze Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_fire_dragonbreath_gf"
+msgstr "Dragonbreath: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_dragonbreath_gf"
+msgstr ""
+"Призрачный огонь Dragonbreath. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_explosion_gf"
+msgstr "Взрыв: призрачный огонь"
+
+msgid "cosmetic_desc_fire_explosion_gf"
+msgstr ""
+"Призрачный огонь для взрыва. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_fireball_gf"
+msgstr "Огненный шар: Ghostfire"
+
+msgid "cosmetic_desc_fire_fireball_gf"
+msgstr ""
+"Призрачный огонь для Fireball. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_firebolt_gf"
+msgstr "Firebolt: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_firebolt_gf"
+msgstr ""
+"Призрачный огонь Firebolt. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_inferno_gf"
+msgstr "Оригинальное название: Ghostfire"
+
+msgid "cosmetic_desc_fire_inferno_gf"
+msgstr ""
+"Призрачный огонь для Inferno. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_magma_storm_gf"
+msgstr "Магматический шторм: Огонь-призрак"
+
+msgid "cosmetic_desc_fire_magma_storm_gf"
+msgstr ""
+"Призрачный огонь для Magma Storm Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_volcano_gf"
+msgstr "Вулкан: призрачный огонь"
+
+msgid "cosmetic_desc_fire_volcano_gf"
+msgstr ""
+"Призрачный огонь для вулкана. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_fire_wall_of_fire_gf"
+msgstr "Стена огня: призрачный огонь"
+
+msgid "cosmetic_desc_fire_wall_of_fire_gf"
+msgstr ""
+"Призрачный огонь для стены огня. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_fire_weakening_blaze_gf"
+msgstr "Ослабляющее пламя: призрачный огонь"
+
+msgid "cosmetic_desc_fire_weakening_blaze_gf"
+msgstr ""
+"Призрачный огонь для Weakening Blaze Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_blizzard_bt"
+msgstr "Метеорология: Bloodtide"
+
+msgid "cosmetic_desc_water_blizzard_bt"
+msgstr ""
+"Кровавый прилив для Blizzard. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_delayed_shot_bt"
+msgstr "Отсроченный выстрел: кровоток"
+
+msgid "cosmetic_desc_water_delayed_shot_bt"
+msgstr ""
+"Кровавый прилив для отложенного выстрела. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_water_frostbite_bt"
+msgstr "Обморожение: кровоток"
+
+msgid "cosmetic_desc_water_frostbite_bt"
+msgstr ""
+"Кровавый прилив для Frostbite. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_ice_storm_bt"
+msgstr "Ледяной шторм: кровавый"
+
+msgid "cosmetic_desc_water_ice_storm_bt"
+msgstr ""
+"Кровавый прилив для Ледяного Шторма. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_icicle_bt"
+msgstr "Сосулька: кровавый"
+
+msgid "cosmetic_desc_water_icicle_bt"
+msgstr ""
+"Кровавый прилив для Icicle. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_shards_bt"
+msgstr "Обломки: Bloodtide"
+
+msgid "cosmetic_desc_water_shards_bt"
+msgstr ""
+"Кровавый прилив для Shards. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_slow_bt"
+msgstr "Медленно: кровоток"
+
+msgid "cosmetic_desc_water_slow_bt"
+msgstr ""
+"Кровавый прилив для Слоу. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_toxic_rain_bt"
+msgstr "Токсичные дожди: кровавый"
+
+msgid "cosmetic_desc_water_toxic_rain_bt"
+msgstr ""
+"Кровавый прилив для токсичного дождя. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_water_weakening_chill_bt"
+msgstr "Ослабление охлаждения: кровоток"
+
+msgid "cosmetic_desc_water_weakening_chill_bt"
+msgstr ""
+"Кровавый прилив для слабеющего озноб. Сохраняет силуэт заклинания, движение "
+"и время."
+
+msgid "cosmetic_name_water_blizzard_lg"
+msgstr "Буря: жидкое золото"
+
+msgid "cosmetic_desc_water_blizzard_lg"
+msgstr ""
+"Жидкое золото для Blizzard. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_delayed_shot_lg"
+msgstr "Задержка выстрела: жидкое золото"
+
+msgid "cosmetic_desc_water_delayed_shot_lg"
+msgstr ""
+"Жидкое золото для отложенного выстрела. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_water_frostbite_lg"
+msgstr "Обморожение: жидкое золото"
+
+msgid "cosmetic_desc_water_frostbite_lg"
+msgstr ""
+"Жидкое золото для Frostbite. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_ice_storm_lg"
+msgstr "Ледяной шторм: жидкое золото"
+
+msgid "cosmetic_desc_water_ice_storm_lg"
+msgstr ""
+"Жидкое золото для ледяного шторма. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_icicle_lg"
+msgstr "Сосулька: жидкое золото"
+
+msgid "cosmetic_desc_water_icicle_lg"
+msgstr ""
+"Жидкое золото для Icicle. Сохраняет силуэт заклинания, движение и время."
+
+msgid "cosmetic_name_water_shards_lg"
+msgstr "Осколки: жидкое золото"
+
+msgid "cosmetic_desc_water_shards_lg"
+msgstr ""
+"Появление жидкого золота для Shards. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_slow_lg"
+msgstr "Медленно: жидкое золото"
+
+msgid "cosmetic_desc_water_slow_lg"
+msgstr ""
+"Появление жидкого золота для Slow. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_toxic_rain_lg"
+msgstr "Токсичные дожди: жидкое золото"
+
+msgid "cosmetic_desc_water_toxic_rain_lg"
+msgstr ""
+"Жидкое золото для токсичного дождя. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_weakening_chill_lg"
+msgstr "Ослабление холода: жидкое золото"
+
+msgid "cosmetic_desc_water_weakening_chill_lg"
+msgstr ""
+"Появление жидкого золота для ослабления озноба. Сохраняет силуэт заклинания,"
+" движение и время."
+
+msgid "cosmetic_name_water_blizzard_bw"
+msgstr "Метель: Blightwater"
+
+msgid "cosmetic_desc_water_blizzard_bw"
+msgstr ""
+"Появление Blightwater для Blizzard. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_delayed_shot_bw"
+msgstr "Оригинальное название: Blightwater"
+
+msgid "cosmetic_desc_water_delayed_shot_bw"
+msgstr ""
+"Скриншоты из игры Delayed Shot. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_frostbite_bw"
+msgstr "Обморожение: Blightwater"
+
+msgid "cosmetic_desc_water_frostbite_bw"
+msgstr ""
+"Появление Blightwater для Frostbite. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_ice_storm_bw"
+msgstr "Ледяной шторм: Blightwater"
+
+msgid "cosmetic_desc_water_ice_storm_bw"
+msgstr ""
+"Появление Blightwater для Ice Storm. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_icicle_bw"
+msgstr "Сосулька: Blightwater"
+
+msgid "cosmetic_desc_water_icicle_bw"
+msgstr ""
+"Появление Blightwater для Icicle. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_shards_bw"
+msgstr "Обломки: Blightwater"
+
+msgid "cosmetic_desc_water_shards_bw"
+msgstr ""
+"Появление Blightwater для Shards. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_slow_bw"
+msgstr "Медленный: Blightwater"
+
+msgid "cosmetic_desc_water_slow_bw"
+msgstr ""
+"Появление Blightwater для Slow. Сохраняет силуэт заклинания, движение и "
+"время."
+
+msgid "cosmetic_name_water_toxic_rain_bw"
+msgstr "Токсичные дожди: Blightwater"
+
+msgid "cosmetic_desc_water_toxic_rain_bw"
+msgstr ""
+"Появление воды для токсичного дождя. Сохраняет силуэт заклинания, движение и"
+" время."
+
+msgid "cosmetic_name_water_weakening_chill_bw"
+msgstr "Охлаждение: Blightwater"
+
+msgid "cosmetic_desc_water_weakening_chill_bw"
+msgstr ""
+"Появление Blightwater для ослабления озноба. Сохраняет силуэт заклинания, "
+"движение и время."
+
+msgid "cosmetic_name_groove"
+msgstr "Канавка"
+
+msgid "cosmetic_desc_groove"
+msgstr ""
+"Свободный, раскачивающийся танец: руки, брошенные по всему телу, одна широко"
+" разбросана, колени подпрыгивают."

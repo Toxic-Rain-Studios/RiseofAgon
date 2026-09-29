@@ -34,6 +34,75 @@ msgstr ""
 "Vous avez été retiré du nouveau canal de lecteur parce que votre alignement "
 "est trop bas."
 
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
+msgstr ""
+"Vous avez rejoint la chaîne New Player en tant qu'assistant pour cette "
+"session. Les assistants peuvent envoyer un message toutes les %1 secondes. "
+"Type /newplayer_leave à partir."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
+msgstr "Vous avez quitté la chaîne New Player."
+
+msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
+msgstr ""
+"Vous n'êtes pas dans la chaîne New Player parce que vous l'avez laissé. Type"
+" /newplayer_helper à rejoindre."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
+msgstr "Vous êtes déjà dans la chaîne New Player."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
+msgstr "Vous n'êtes pas dans la chaîne New Player en tant qu'assistant."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED"
+msgstr "Vous êtes muté dans la chaîne New Player et ne pouvez pas y écrire."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
+msgstr ""
+"Un maître de jeu vous a muté dans la chaîne New Player. Vous pouvez encore "
+"le lire, mais pas l'écrire."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
+msgstr ""
+"Un maître de jeu vous a muté dans la chaîne New Player. Vous pouvez encore "
+"le lire, mais pas l'écrire. Raison: %1"
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
+msgstr ""
+"Votre mute de canal New Player a été levé. Vous pouvez écrire à nouveau dans"
+" la chaîne."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
+msgstr "%1 a rejoint New Player chat en tant qu'aide."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
+msgstr "%1 a laissé le chat Nouveau joueur."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
+msgstr "%1 a été muté dans le chat New Player par %2."
+
+msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
+msgstr "%1 a été muté dans le chat New Player par %2. Raison: %3"
+
+msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
+msgstr "%1 a été non muté dans le chat New Player par %2."
+
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_MINUTES"
+msgstr ""
+"Vous êtes sur cooldown dans ce canal pendant %1 minutes et %2 secondes."
+
+msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_SECONDS"
+msgstr "Vous êtes sur cooldown dans cette chaîne pendant %1 secondes."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
+msgstr "Vérifier si vous comptez toujours comme un nouveau joueur, un moment."
+
+msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
+msgstr ""
+"Votre compte compte toujours comme un nouveau joueur: vous gardez votre "
+"place dans la chaîne New Player et le cooldown du message de l'aide ne "
+"s'applique plus à vous."
+
 msgid "NOTIFICATION_ACCEPTED_ANOTHER_INVITATION"
 msgstr "%1 a accepté une autre invitation de partie."
 
@@ -7919,10 +7988,31 @@ msgstr "%1"
 msgid "NOTIFICATION_GENERIC"
 msgstr "%1"
 
+msgid "NOTIFICATION_SLAYER"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_REWARD"
+msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_MILESTONE"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_PROGRESS"
+msgstr "%1"
+
+msgid "NOTIFICATION_MASTERY_MILESTONE"
+msgstr "%1"
+
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_SMALL"
 msgstr "%1"
 
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_MEDIUM"
+msgstr "%1"
+
+msgid "NOTIFICATION_QUEST_TRIGGER_PROMPT"
 msgstr "%1"
 
 msgid "NOTIFICATION_GENERIC_ON_SCREEN_LARGE"
@@ -8320,22 +8410,30 @@ msgstr ""
 msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_CLAN_ALREADY_OWNS_THIS_CITY"
 msgstr "Votre clan contrôle déjà ce glyphe."
 
+msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_RACE_ALLIANCE_ALREADY_OWNS"
+msgstr "Votre alliance de course contrôle déjà ce glyphe."
+
 msgid ""
 "NOTIFICATION_PLAYER_CONQUEST_GLYPH_IS_ALREADY_IN_ACTIVE_CHALLENGE_BY_CLAN"
 msgstr "Il y a déjà un défi actif pour ce glyphe."
 
 msgid "NOTIFICATION_CLAN_GLYPH_UNDER_ATTACK"
 msgstr ""
-"Un glyphe contrôlé par votre clan en %1 a été contesté. L'attaque commencera"
-" dans 5 minutes !"
+"Un glyphe contrôlé par votre clan en %1 a été contesté ! Vous avez %2 "
+"minutes pour le contester."
 
 msgid "NOTIFICATION_CLAN_GLYPH_ATTACK_START"
 msgstr ""
-"Votre clan a lancé un défi pour le glyphe en %1. L'attaque commencera dans 5"
-" minutes !"
+"Vous avez contesté le glyphe en %1. Il sera capturé dans %2 minutes à moins "
+"qu'un défenseur annule le défi."
 
 msgid "NOTIFICATION_CLAN_CAPTURE_GLYPH"
 msgstr "Clan %1 a capturé le glyphe en %2"
+
+msgid "NOTIFICATION_GLYPH_CHALLENGE_STARTED"
+msgstr ""
+"Le glyphe rune en %1 est maintenant contesté ! Il sera capturé en %2 minutes"
+" à moins que le défi ne soit annulé."
 
 msgid "NOTIFICATION_PLAYER_GLYPH_CONQUEST_SUCCESS"
 msgstr "Vous avez réussi à initier un défi glyphe."
@@ -9112,11 +9210,22 @@ msgstr "Votre maîtrise de %1 a augmenté."
 msgid "NOTIFICATION_TITLE_ADDED"
 msgstr "Le titre '%1' a été ajouté à votre personnage !"
 
+msgid "NOTIFICATION_TITLE_ALREADY_OWNED"
+msgstr "Vous possédez déjà le titre '%1'!"
+
 msgid "NOTIFICATION_SKILL_POWERGROUP_MAX"
 msgstr "La puissance de %1 est en train d'augmenter !"
 
 msgid "NOTIFICATION_SKILL_POWERGROUP_UP"
 msgstr "Votre maîtrise de %1 a atteint un nouveau niveau !"
+
+msgid "NOTIFICATION_SKILL_CRAFTING_TIER_UP"
+msgstr "%1 a atteint un nouveau niveau d'artisanat!"
+
+msgid "NOTIFICATION_GLYPH_CHALLENGE_DEFENDER_WARNING"
+msgstr ""
+"Le glyphe rune en %1 est défié ! Votre alliance a %2 minutes pour la "
+"contester."
 
 msgid "NOTIFICATION_SKILL_STOPPED"
 msgstr "La compétence %1 a été arrêtée."
@@ -9378,7 +9487,9 @@ msgid "NOTIFICATION_TASK_TAB_TASK_COMPLETED"
 msgstr "Félicitations ! vous avez terminé la tâche ^Cdarkfall^%1."
 
 msgid "NOTIFICATION_TASK_TAB_REWARD"
-msgstr "^Cdarkfall^vous avez été récompensé ^Cwhite^%2 ^Cdarkfall^%1."
+msgstr ""
+"^Cdarkfall^vous avez été récompensé ^Cwhite^%2 ^Cdarkfall^%1. "
+"^Cwhite^(envoyé à votre banque)"
 
 msgid "NOTIFICATION_TASK_TAB_MEDITATION_REWARD"
 msgstr ""
@@ -9389,7 +9500,9 @@ msgid "NOTIFICATION_TASK_TAB_TASK_UNLOCKED"
 msgstr "^Cacid^Le temps s'est écoulé ! La tâche '%1' a été réinitialisée !"
 
 msgid "NOTIFICATION_TASK_TAB_TASK_RARE_REWARD"
-msgstr "Félicitations, vous avez reçu une rare récompense !"
+msgstr ""
+"Félicitations, vous avez reçu une rare récompense ! ^Cwhite^(envoyé à votre "
+"banque)"
 
 msgid "NOTIFICATION_PARTY_IS_NOT_CREATED_YET"
 msgstr "La fête n'est pas encore créée."
@@ -10993,6 +11106,16 @@ msgstr ""
 "^Cred^Les fusions entre parties légales et non légales ne sont pas "
 "autorisées."
 
+msgid "NOTIFICATION_PARTY_LINK_ENEMY_FACTION"
+msgstr ""
+"^Cred^Ne peut pas être lié au parti de %1 : les partis légaux ne peuvent "
+"être liés qu'au sein de leur propre alliance raciale."
+
+msgid "NOTIFICATION_PARTY_LINK_LAWFUL_LAWLESS"
+msgstr ""
+"^Cred^Impossible d'établir un lien avec le parti de %1 : les parties légales"
+" et non légales ne peuvent pas être liées."
+
 msgid "LAWFUL_PLAYER_IN_LAWLESS_PARTY"
 msgstr "^Cred^ Tu as quitté ton parti sans loi parce que tu es légal."
 
@@ -12551,6 +12674,15 @@ msgstr ""
 "Pour revenir à la loi, vous devez prier dans une église ou un autre endroit "
 "désigné."
 
+msgid "NOTIFICATION_PVP_FLAG_ERROR_ON_TUTORIAL_ISLAND"
+msgstr ""
+"Vous ne pouvez pas changer votre position d'alignement sur l'île tutoriale."
+
+msgid "NOTIFICATION_INSTANCE_SKILL_CAP_REACHED"
+msgstr ""
+"%1 ne peut pas être formé après %2 sur les îles tutoriels. Partez à travers "
+"l'arche de départ pour continuer à avancer."
+
 msgid "NOTIFICATION_PRAYING_ERROR_NO_NEED_TO_PRAY"
 msgstr "Vous n'avez pas besoin de prier."
 
@@ -13197,10 +13329,23 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_QUICKDRAW_CANCELLED"
 msgstr "Phantom Quiver s'effondre - combat PvP."
 
+# Kept although the code no longer says it: the curated mastery MR branch
+# still
+# carries the suppression-era manager, and a key deleted under a branch that
+# is
+# still in flight is a line that renders as its own key id in game.
 msgid "NOTIFICATION_PVE_MASTERY_AURA_SUPPRESSED_PVP"
 msgstr ""
 "Aura supprimée - combat PvP. Il reprend quand la marque s'estompe; l'heure "
 "continue à courir."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
+msgstr ""
+"Votre aura s'en va - combat PvP. %1 essence est revenue pour le temps "
+"restant."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
+msgstr "Vous ne pouvez pas élever une aura alors que le combat PvP vous a."
 
 msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
 msgstr "[Maîtrise] %1 a besoin de %2 essence - attune Ancienne Essence."
@@ -13225,14 +13370,30 @@ msgstr "[Maîtrise] %1 déverrouille au niveau %2 (actuellement %3)."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
 msgstr ""
-"[Maîtrise] Les caps sont scellés alors qu'ils sont marqués par le combat "
-"PvP."
+"[Maîtrise] Les capstones sont désactivés tout en étant marqués par le combat"
+" PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_COOLDOWN"
 msgstr "[Maîtrise] %1 est sur le refroidissement (%2s à gauche)."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_ACTIVE"
-msgstr "[Mastery] UNBROKEN LINE - dégâts monstres pris -60% pour %1s."
+msgstr "[Mastery] UNBROKEN LINE - dégâts monstres pris -%1% pour %2s."
+
+msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_LINE_BROKEN"
+msgstr ""
+"[Maîtrise] La ligne ininterrompue se termine - vous ne portez plus de "
+"bouclier."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_STAFF"
+msgstr "[Maîtrise] %1 a besoin d'un personnel."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_ACTIVE"
+msgstr ""
+"[Mastery] SANCTUAIRE - chaque joueur de moins de %1m retrouve %2 mana et "
+"endurance tous les %3s pour %4s."
+
+msgid "NOTIFICATION_PVE_MASTERY_SANCTUARY_REFUSED"
+msgstr "Le Sanctuaire a atteint quelqu'un marqué par le combat du PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_RED_HARVEST_ACTIVE"
 msgstr ""
@@ -13262,6 +13423,9 @@ msgstr "Votre aura vous suit - %1 aura, %2 minutes de son heure à gauche."
 
 msgid "NOTIFICATION_PVE_MASTERY_NEEDS_SHIELD"
 msgstr "%1 a besoin d'un bouclier."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_BOW"
+msgstr "%1 a besoin d'un arc."
 
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_MIRRORED"
 msgstr "Aegis jette le sort sur son lanceur."
@@ -13295,7 +13459,8 @@ msgstr "[Maîtrise] Provoke déverrouille au niveau %1 (actuellement %2)."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_PVP_SEALED"
 msgstr ""
-"Les tauntes sont scellées alors qu'elles sont marquées par le combat du PvP."
+"[Maîtrise] Les taunts sont désactivés alors qu'ils sont marqués par le "
+"combat PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_TAUNT_COOLDOWN"
 msgstr "[Maîtrise] Taunt sur cooldown (%1s à gauche)."
@@ -13316,8 +13481,8 @@ msgstr "Le système de maîtrise est désactivé."
 
 msgid "NOTIFICATION_PVE_MASTERY_ABILITIES_PVP_SEALED"
 msgstr ""
-"[Maîtrise] Les capacités de maîtrise sont scellées tout en étant marquées "
-"par le combat PvP."
+"[Maîtrise] Les capacités de maîtrise sont désactivées tout en étant marquées"
+" par le combat PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_RAIN_COOLDOWN"
 msgstr "[Maîtrise] Pluie de flèches sur le refroidissement (%1s à gauche)."
@@ -13332,6 +13497,9 @@ msgstr "[Maîtrise] %1 s'effondre - combat PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_VANGUARD"
 msgstr "la protection des partis contre les monstres."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_ORACLE"
+msgstr "une régénération plus rapide de la mana pour votre fête."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_CUTTHROAT"
 msgstr "partie melee dommages vs monstres."
@@ -13378,3 +13546,90 @@ msgid "NOTIFICATION_MARKET_WRONG_REGION"
 msgstr ""
 "^Cgold^Cette commande a été créée en %1. Vous devez être en %1 pour échanger"
 " avec elle."
+
+msgid "NOTIFICATION_PET_SUMMONED"
+msgstr "%1 a été convoqué."
+
+msgid "NOTIFICATION_PET_DISMISSED"
+msgstr "%1 a été congédié."
+
+msgid "NOTIFICATION_PET_VANISHED"
+msgstr "%1 n'a pas pu être conservé et a disparu."
+
+msgid "NOTIFICATION_PET_NOT_SUMMONED"
+msgstr "%1 n'a pu être convoqué ici."
+
+msgid "NOTIFICATION_PET_NICKNAME_INVALID"
+msgstr "Ce nom ne peut être utilisé pour un animal de compagnie."
+
+msgid "NOTIFICATION_PET_TOY_NOT_READY"
+msgstr "%1 n'a pas encore de compagnon."
+
+msgid "NOTIFICATION_PET_COLLECTED"
+msgstr "%1 a été ajouté à votre collection d'animaux de compagnie."
+
+msgid "NOTIFICATION_PET_ALREADY_COLLECTED"
+msgstr "Vous avez déjà collecté %1. Le jouet n'a pas été utilisé."
+
+msgid "NOTIFICATION_PVE_MASTERY_LEARNED"
+msgstr "Vous prenez le chemin du %1. Les niveaux 1 à %2 vous sont ouverts."
+
+msgid "NOTIFICATION_PVE_MASTERY_ALREADY_LEARNED"
+msgstr "Vous marchez déjà le chemin du %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
+msgstr "Vous n'avez pas pris le chemin du %1. Le Maître Tueur l'enseigne."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
+msgstr "Vous n'avez pas de maîtrise active pour briser une porte."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
+msgstr ""
+"La porte tient. Vous portez %1 de %2 Orbes de Mastery et %3 de %4 Orbes "
+"antiques, et tenez %5 de %6 essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
+msgstr ""
+"La porte tient. Vous portez %1 de %2 Mastery Orbs et tenez %3 de %4 essence."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ACCEPTED"
+msgstr ""
+"[Maîtrise] %1 Procès %2 accepté. Portez son prix à Slayer Master Aero."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ALREADY_ACCEPTED"
+msgstr "Vous avez déjà le procès %1 %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
+msgstr "[Maîtrise] Acceptez d'abord le procès %1 %2 à Slayer Master Aero."
+
+msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
+msgstr "[Maîtrise] %1 a besoin de %2 essence et vous tenez %3."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_NOT_LEARNED"
+msgstr "Vous n'avez pas appris %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_TEST_FORGOTTEN"
+msgstr ""
+"Vous n'avez pas appris %1. Ses niveaux et ses progrès ont disparu, et vous "
+"pouvez en prendre un autre."
+
+msgid "bank_withdraw_refunded"
+msgstr ""
+"Votre retrait n'a pas pu être placé dans votre sac à dos - l'or a été "
+"retourné à votre compte en banque."
+
+msgid "trigger_ff32_warcamp_dismount"
+msgstr ""
+"Vous êtes arrivés. Personne ne monte dans un camp de guerre - descendez et "
+"rangez votre mont avant d'entrer."
+
+msgid "trigger_ff32_archaeus_cave"
+msgstr ""
+"Agent Archée : \"Gallius m'en envoie un autre. Montre-moi la lumière - de la"
+" mémoire. Je ne vous montrerai pas comment.\""
+
+msgid "tutorial_graduation_reward"
+msgstr ""
+"Pour avoir terminé votre entraînement sur Dawnshore, vous avez reçu un "
+"ensemble d'armures, d'armes, d'outils, de potions, de réactifs, de "
+"nourriture et une monture de votre peuple. Tout est dans votre sac à dos."

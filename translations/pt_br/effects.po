@@ -1284,6 +1284,12 @@ msgid "desc_Vanguard Aura"
 msgstr ""
 "O seu partido sofre menos danos dos monstros enquanto eles estão contigo."
 
+msgid "Oracle Aura"
+msgstr "Oracle aura"
+
+msgid "desc_Oracle Aura"
+msgstr "O seu partido regenera mana mais depressa enquanto estão contigo."
+
 msgid "desc_Cutthroat Aura"
 msgstr ""
 "A sua festa causa mais danos aos monstros enquanto eles estão contigo."
@@ -1306,6 +1312,14 @@ msgid "desc_Second Nature"
 msgstr ""
 "Seu objetivo é se estabelecer - cada seta que você pousar atrai a próxima "
 "mais rápido."
+
+msgid "Momentum"
+msgstr "Momentum"
+
+msgid "desc_Momentum"
+msgstr ""
+"Seus golpes estão construindo - cada golpe consecutivo em um monstro pousa "
+"mais difícil."
 
 msgid "Rupture"
 msgstr "Rotura"
@@ -1336,3 +1350,31 @@ msgstr "Linha não quebrada"
 
 msgid "desc_Unbroken Line"
 msgstr "Tiras muito menos danos dos monstros. Termina se você entrar em PvP."
+
+msgid "Sheltered"
+msgstr "Abrigado"
+
+msgid "desc_Sheltered"
+msgstr "Feitiços de monstros e flechas não podem chegar até você."
+
+msgid "PvP Combat"
+msgstr "Combate ao pvp"
+
+msgid "desc_PvP Combat"
+msgstr ""
+"Você está em combate PvP. Os seus efeitos de domínio são suprimidos até "
+"desaparecer."
+
+msgid "Sanctuary"
+msgstr "Santuário"
+
+msgid "desc_Sanctuary"
+msgstr ""
+"Restabelecendo mana e resistência a cada jogador dentro do santuário. "
+"Feitiços de monstros e flechas não podem alcançá-los."
+
+msgid "Communion"
+msgstr "Comunhão"
+
+msgid "desc_Communion"
+msgstr "Curado por uma Mana Blast da Oráculo."

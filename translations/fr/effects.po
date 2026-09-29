@@ -1285,6 +1285,13 @@ msgstr ""
 "Votre fête prend moins de dégâts des monstres pendant qu'ils se tiennent "
 "avec vous."
 
+msgid "Oracle Aura"
+msgstr "Ouracle aura"
+
+msgid "desc_Oracle Aura"
+msgstr ""
+"Votre fête régénère le mana plus vite pendant qu'ils se tiennent avec vous."
+
 msgid "desc_Cutthroat Aura"
 msgstr ""
 "Votre fête inflige plus de dégâts aux monstres pendant qu'ils se tiennent "
@@ -1310,6 +1317,14 @@ msgid "desc_Second Nature"
 msgstr ""
 "Votre but est de s'installer - chaque flèche que vous atterrissez dessine la"
 " suivante plus rapidement."
+
+msgid "Momentum"
+msgstr "Dynamique"
+
+msgid "desc_Momentum"
+msgstr ""
+"Vos coups se construisent - chaque coup consécutif sur un monstre atterrit "
+"plus fort."
 
 msgid "Rupture"
 msgstr "Rupture"
@@ -1343,3 +1358,32 @@ msgid "desc_Unbroken Line"
 msgstr ""
 "Vous prenez beaucoup moins de dégâts des monstres. Ça se termine si vous "
 "entrez PvP."
+
+msgid "Sheltered"
+msgstr "Protégé"
+
+msgid "desc_Sheltered"
+msgstr "Les sorts de monstre et les flèches ne peuvent pas vous atteindre."
+
+msgid "PvP Combat"
+msgstr "Lutte contre la pvp"
+
+msgid "desc_PvP Combat"
+msgstr ""
+"Vous êtes dans le combat PvP. Vos effets de maîtrise sont supprimés jusqu'à "
+"ce qu'ils disparaissent."
+
+msgid "Sanctuary"
+msgstr "Sanctuaire"
+
+msgid "desc_Sanctuary"
+msgstr ""
+"Restaurer la mana et l'endurance à chaque joueur à l'intérieur du "
+"sanctuaire. Les sorts de monstre et les flèches ne peuvent pas les "
+"atteindre."
+
+msgid "Communion"
+msgstr "Communion"
+
+msgid "desc_Communion"
+msgstr "Guéris par Mana Blast d'Oracle."

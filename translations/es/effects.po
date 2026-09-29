@@ -1282,6 +1282,12 @@ msgstr "Deadeye aura"
 msgid "desc_Vanguard Aura"
 msgstr "Tu fiesta toma menos daño de los monstruos mientras están contigo."
 
+msgid "Oracle Aura"
+msgstr "Oracle aura"
+
+msgid "desc_Oracle Aura"
+msgstr "Su fiesta regenera maná más rápido mientras están con usted."
+
 msgid "desc_Cutthroat Aura"
 msgstr ""
 "Tu fiesta trata más meleo daño a los monstruos mientras están contigo."
@@ -1303,6 +1309,14 @@ msgid "desc_Second Nature"
 msgstr ""
 "Su objetivo es establecerse - cada flecha que aterriza dibuja el siguiente "
 "más rápido."
+
+msgid "Momentum"
+msgstr "Impulso"
+
+msgid "desc_Momentum"
+msgstr ""
+"Tus golpes están construyendo - cada golpe consecutivo en un monstruo "
+"aterriza más duro."
 
 msgid "Rupture"
 msgstr "Ruptura"
@@ -1334,3 +1348,31 @@ msgstr "Línea no rota"
 msgid "desc_Unbroken Line"
 msgstr ""
 "Usted toma mucho menos daño de los monstruos. Termina si entras en PvP."
+
+msgid "Sheltered"
+msgstr "Protegidos"
+
+msgid "desc_Sheltered"
+msgstr "Los hechizos y flechas del monstruo no pueden alcanzarte."
+
+msgid "PvP Combat"
+msgstr "Pvp combat"
+
+msgid "desc_PvP Combat"
+msgstr ""
+"Estás en combate PvP. Sus efectos de dominio se suprimen hasta que se "
+"desvanece."
+
+msgid "Sanctuary"
+msgstr "Santuario"
+
+msgid "desc_Sanctuary"
+msgstr ""
+"Restaurar maná y resistencia a cada jugador dentro del santuario. Los "
+"hechizos y flechas del monstruo no pueden alcanzarlos."
+
+msgid "Communion"
+msgstr "Comunión"
+
+msgid "desc_Communion"
+msgstr "Sanado por la Mana Blast de un Oráculo."

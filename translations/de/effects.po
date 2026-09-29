@@ -1284,6 +1284,12 @@ msgid "desc_Vanguard Aura"
 msgstr ""
 "Deine Partei nimmt weniger Schaden von Monstern, während sie bei dir stehen."
 
+msgid "Oracle Aura"
+msgstr "Orakel-Aura"
+
+msgid "desc_Oracle Aura"
+msgstr "Deine Partei regeneriert Mana schneller, während sie bei dir stehen."
+
 msgid "desc_Cutthroat Aura"
 msgstr ""
 "Deine Gruppe fügt Monstern mehr Nahkampfschaden zu, während sie bei dir "
@@ -1308,6 +1314,14 @@ msgid "desc_Second Nature"
 msgstr ""
 "Ihr Ziel ist es, sich niederzulassen - jeder Pfeil, den Sie landen, zieht "
 "den nächsten schneller."
+
+msgid "Momentum"
+msgstr "Impuls"
+
+msgid "desc_Momentum"
+msgstr ""
+"Deine Schläge bauen sich auf - jeder aufeinander folgende Treffer auf ein "
+"Monster landet härter."
 
 msgid "Rupture"
 msgstr "Bruch"
@@ -1339,3 +1353,31 @@ msgstr "Durchgezogene Linie"
 msgid "desc_Unbroken Line"
 msgstr ""
 "Sie nehmen weit weniger Schaden von Monstern. Endet, wenn Sie PvP betreten."
+
+msgid "Sheltered"
+msgstr "Geschützt"
+
+msgid "desc_Sheltered"
+msgstr "Monsterzauber und Pfeile können dich nicht erreichen."
+
+msgid "PvP Combat"
+msgstr "PvP-Kampf"
+
+msgid "desc_PvP Combat"
+msgstr ""
+"Sie befinden sich im PvP-Kampf. Deine Meisterschaftseffekte werden "
+"unterdrückt, bis sie verblassen."
+
+msgid "Sanctuary"
+msgstr "Heiligtum"
+
+msgid "desc_Sanctuary"
+msgstr ""
+"Wiederherstellung von Mana und Ausdauer für jeden Spieler im Heiligtum. "
+"Monsterzauber und Pfeile können sie nicht erreichen."
+
+msgid "Communion"
+msgstr "Gemeinschaft"
+
+msgid "desc_Communion"
+msgstr "Geheilt durch die Mana-Blast eines Orakels."

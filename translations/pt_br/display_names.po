@@ -1616,6 +1616,9 @@ msgstr "Seta antitanque"
 msgid "display_name_r_Arrow_01"
 msgstr "Flecha"
 
+msgid "display_name_plural_r_Arrow_01"
+msgstr "Setas"
+
 msgid "display_name_r_Arrow Bodkin"
 msgstr "Seta bodkin"
 
@@ -4658,6 +4661,9 @@ msgstr "Magnífico funhulk"
 msgid "display_name_r_Game Time Token"
 msgstr "Token de tempo do jogo"
 
+msgid "display_name_r_ut_Game Time Token"
+msgstr "Token de tempo do jogo (intradável)"
+
 msgid "display_name_r_Gankable Player"
 msgstr "Gankable_Player"
 
@@ -5352,7 +5358,22 @@ msgid "display_name_r_Irtych"
 msgstr "Irtych"
 
 msgid "display_name_r_Item Skin Scroll"
-msgstr "Rolagem da pele do item"
+msgstr "Pergaminho da pele"
+
+msgid "display_name_r_ut_Item Skin Scroll"
+msgstr "Pergaminho da pele (intradável)"
+
+msgid "display_name_r_Spell Skin Scroll"
+msgstr "Soletrar o pergaminho da pele"
+
+msgid "display_name_r_ut_Spell Skin Scroll"
+msgstr "Soletrar o pergaminho da pele (intradável)"
+
+msgid "display_name_r_Emote Scroll"
+msgstr "Pergaminho de gesto"
+
+msgid "display_name_r_ut_Emote Scroll"
+msgstr "Pergaminho emotivo (intradável)"
 
 msgid "display_name_r_Jadetalons"
 msgstr "Jadetalons"
@@ -6633,7 +6654,7 @@ msgid "display_name_r_player house vendor item"
 msgstr "Stand do vendedor"
 
 msgid "display_name_r_player slot machine item"
-msgstr "Máquina de fenda do jogador"
+msgstr "Máquina de fenda prateada"
 
 msgid "display_name_r_player slot machine"
 msgstr "Máquina de fenda"
@@ -8099,6 +8120,12 @@ msgstr "Seidbound"
 msgid "display_name_r_Selentine Chest Key"
 msgstr "Selentine chave torácica"
 
+msgid "display_name_r_Archaeus Chest"
+msgstr "Peito de arcaeus"
+
+msgid "display_name_r_Archaeus Chest Key"
+msgstr "Chave do archaeus"
+
 msgid "display_name_r_Selentine Cloth"
 msgstr "Tecido chaldeano"
 
@@ -8939,6 +8966,9 @@ msgstr "Titã"
 msgid "display_name_r_Title Scroll"
 msgstr "Rolagem do título"
 
+msgid "display_name_r_ut_Title Scroll"
+msgstr "Rolagem do título (intradável)"
+
 msgid "display_name_r_Tomb Iklit"
 msgstr "Túmulo Iklit"
 
@@ -8955,667 +8985,667 @@ msgid "display_name_r_tooth"
 msgstr "Dente"
 
 msgid "display_name_r_toy_air_elemental"
-msgstr "Brinquedo - elementar de ar"
+msgstr "Companheiro: Elementar de ar"
 
 msgid "display_name_r_toy_akathar"
-msgstr "Brinquedo - Akathar"
+msgstr "Companheiro: Akathar"
 
 msgid "display_name_r_toy_arctic_bear"
-msgstr "Brinquedo - urso ártico"
+msgstr "Companheiro: Urso árctico"
 
 msgid "display_name_r_toy_baradron"
-msgstr "Brinquedo - Baradron"
+msgstr "Companheiro: Baradron"
 
 msgid "display_name_r_toy_basalt_golem"
-msgstr "Brinquedo - basalt golem"
+msgstr "Companheiro: Basalt golem"
 
 msgid "display_name_r_toy_beastman_destroyer"
-msgstr "Brinquedo - besta destruidor"
+msgstr "Companheiro: Crustman Destroyer"
 
 msgid "display_name_r_toy_beastman_devastator"
-msgstr "Brinquedo - besta devastador"
+msgstr "Companheiro: Fera devastador"
 
 msgid "display_name_r_toy_beastman_rampager"
-msgstr "Brinquedo - monstro desenfreado"
+msgstr "Companheiro: Feraman desenfreado"
 
 msgid "display_name_r_toy_beastman_warlord"
-msgstr "Brinquedo - animal homem guerra senhor"
+msgstr "Companheiro: Feroz senhor da guerra"
 
 msgid "display_name_r_toy_below"
-msgstr "Brinquedo - abaixo"
+msgstr "Companheiro: Abaixo"
 
 msgid "display_name_r_toy_black_knight"
-msgstr "Brinquedo - cavaleiro preto"
+msgstr "Companheiro: Cavaleiro preto"
 
 msgid "display_name_r_toy_black_lord"
-msgstr "Brinquedo - Senhor negro"
+msgstr "Companheiro: Senhor negro"
 
 msgid "display_name_r_toy_blood_knight"
-msgstr "Brinquedo - cavaleiro de sangue"
+msgstr "Companheiro: Cavaleiro de sangue"
 
 msgid "display_name_r_toy_bonecrew_captain"
-msgstr "Brinquedo - onecrew capitão"
+msgstr "Companheiro: Capitão da tripulação de osso"
 
 msgid "display_name_r_toy_bonecrew_mariner"
-msgstr "Brinquedo - pescador de ossos"
+msgstr "Companheiro: Marinheiro da tripulação óssea"
 
 msgid "display_name_r_toy_bonecrew_mutineer"
-msgstr "Brinquedo - amotinador da tripulação óssea"
+msgstr "Companheiro: Amotinador da tripulação óssea"
 
 msgid "display_name_r_toy_bone_knight"
-msgstr "Brinquedo - cavaleiro osso"
+msgstr "Companheiro: Cavaleiro do osso"
 
 msgid "display_name_r_toy_bone_spider"
-msgstr "Brinquedo - aranha de ossos"
+msgstr "Companheiro: Aranha-ossada"
 
 msgid "display_name_r_toy_brittle_skeleton"
-msgstr "Brinquedo - esqueleto quebradiço"
+msgstr "Companheiro: Esqueleto quebradiço"
 
 msgid "display_name_r_toy_brownie"
-msgstr "Brinquedo - brownie"
+msgstr "Companheiro: Brownie"
 
 msgid "display_name_r_toy_brown_bear"
-msgstr "Brinquedo - urso marrom"
+msgstr "Companheiro: Urso pardo"
 
 msgid "display_name_r_toy_cairn_giant"
-msgstr "Brinquedo - Cairn gigante"
+msgstr "Companheiro: Cairn gigante"
 
 msgid "display_name_r_toy_cave_hag"
-msgstr "Brinquedo - bruxa da caverna"
+msgstr "Companheiro: Abrótea da caverna"
 
 msgid "display_name_r_toy_cave_spider"
-msgstr "Brinquedo - aranha da caverna"
+msgstr "Companheiro: Aranha da caverna"
 
 msgid "display_name_r_toy_cave_troll"
-msgstr "Brinquedo - troll da caverna"
+msgstr "Companheiro: Troll da caverna"
 
 msgid "display_name_r_toy_celestial"
-msgstr "Brinquedo - celestial"
+msgstr "Companheiro: Celeste"
 
 msgid "display_name_r_toy_centaur_chieftain"
-msgstr "Brinquedo - centaur chefe"
+msgstr "Companheiro: Centauro-chefe"
 
 msgid "display_name_r_toy_centaur_huntress"
-msgstr "Brinquedo - centaur caçadora"
+msgstr "Companheiro: Centauro-caça"
 
 msgid "display_name_r_toy_centaur_reaver"
-msgstr "Brinquedo - centaur reaver"
+msgstr "Companheiro: Centaur reaver"
 
 msgid "display_name_r_toy_centaur_warrior"
-msgstr "Brinquedo - centauro guerreiro"
+msgstr "Companheiro: Centauro guerreiro"
 
 msgid "display_name_r_toy_chieftain_khalos"
-msgstr "Brinquedo - chefe de khalos"
+msgstr "Companheiro: Chefe-de-cavalos"
 
 msgid "display_name_r_toy_child_of_khamset"
-msgstr "Brinquedo - filho de Khamset"
+msgstr "Companheiro: Filho de Khamset"
 
 msgid "display_name_r_toy_chosen_of_khamset.xml"
-msgstr "Brinquedo - escolhido de Khamset"
+msgstr "Companheiro: Escolhido de Khamset"
 
 msgid "display_name_r_toy_ciel_fey_defender"
-msgstr "Brinquedo - Ciel Fey defensor"
+msgstr "Companheiro: Ciel Fey defensor"
 
 msgid "display_name_r_toy_ciel_fey_druid"
-msgstr "Brinquedo - Ciel Fey druida"
+msgstr "Companheiro: Ciel Fey druida"
 
 msgid "display_name_r_toy_ciel_fey_forester"
-msgstr "Brinquedo - Ciel Fey forester"
+msgstr "Companheiro: Ciel Fey forester"
 
 msgid "display_name_r_toy_crog"
-msgstr "Brinquedo - Crog"
+msgstr "Companheiro: Crog"
 
 msgid "display_name_r_toy_crypt_guard"
-msgstr "Brinquedo - guarda cripta"
+msgstr "Companheiro: Crypt guard"
 
 msgid "display_name_r_toy_dark_dragon"
-msgstr "Brinquedo - dragão escuro"
+msgstr "Companheiro: Dragão escuro"
 
 msgid "display_name_r_toy_deathless_mage"
-msgstr "Brinquedo - mago sem morte"
+msgstr "Companheiro: Mago sem morte"
 
 msgid "display_name_r_toy_deathless_servant"
-msgstr "Servo sem morte"
+msgstr "Companheiro: Servo sem morte"
 
 msgid "display_name_r_toy_demon"
-msgstr "Brinquedo - Senhor demônio"
+msgstr "Companheiro: Senhor do demônio"
 
 msgid "display_name_r_toy_demon_queen"
-msgstr "Brinquedo - rainha do demônio"
+msgstr "Companheiro: Rainha do demônio"
 
 msgid "display_name_r_toy_devil"
-msgstr "Brinquedo - demônio"
+msgstr "Companheiro: Demónio"
 
 msgid "display_name_r_toy_dire_spider"
-msgstr "Brinquedo - aranha terrível"
+msgstr "Companheiro: Aranha-escuro"
 
 msgid "display_name_r_toy_dire_zombie"
-msgstr "Brinquedo - zumbi terrível"
+msgstr "Companheiro: Zombie terrível"
 
 msgid "display_name_r_toy_doom_spider"
-msgstr "Brinquedo - aranha doom"
+msgstr "Companheiro: Aranha doom"
 
 msgid "display_name_r_toy_earth_elemental"
-msgstr "Brinquedo - terra elementar"
+msgstr "Companheiro: Elementares de terra"
 
 msgid "display_name_r_toy_elfshade"
-msgstr "Brinquedo - elfshade"
+msgstr "Companheiro: Elfshade"
 
 msgid "display_name_r_toy_elfwraith"
-msgstr "Brinquedo - wraith"
+msgstr "Companheiro: Wraith"
 
 msgid "display_name_r_toy_eodrin"
-msgstr "Brinquedo - Eodrin"
+msgstr "Companheiro: Eodrin"
 
 msgid "display_name_r_toy_evil_eye"
-msgstr "Brinquedo - olho mau"
+msgstr "Companheiro: Olho mau"
 
 msgid "display_name_r_toy_fenris_the_alpha"
-msgstr "Brinquedo - fenris o alfa"
+msgstr "Companheiro: Fenris the Alpha"
 
 msgid "display_name_r_toy_firescourge"
-msgstr "Brinquedo - incendiário"
+msgstr "Companheiro: Firescourge"
 
 msgid "display_name_r_toy_fire_dragon"
-msgstr "Brinquedo - dragão de fogo"
+msgstr "Companheiro: Dragão de fogo"
 
 msgid "display_name_r_toy_fire_elemental"
-msgstr "Brinquedo - fogo elementar"
+msgstr "Companheiro: Fogo elementar"
 
 msgid "display_name_r_toy_fire_giant"
-msgstr "Gigante do brinquedo - fogo"
+msgstr "Companheiro: Gigante de fogo"
 
 msgid "display_name_r_toy_flesh_golem"
-msgstr "Brinquedo - golem de carne"
+msgstr "Companheiro: Golem de carne"
 
 msgid "display_name_r_toy_forest_golem"
-msgstr "Brinquedo - golem floresta"
+msgstr "Companheiro: Golem florestal"
 
 msgid "display_name_r_toy_forest_prophet_female"
-msgstr "Fêmea profeta do brinquedo - floresta"
+msgstr "Companheiro: Prophet fêmea floresta"
 
 msgid "display_name_r_toy_forest_prophet_male"
-msgstr "Macho profeta de brinquedo - floresta"
+msgstr "Companheiro: Macho profeta da floresta"
 
 msgid "display_name_r_toy_frostjarl"
-msgstr "Brinquedo - glaciar"
+msgstr "Companheiro: Grosejarl"
 
 msgid "display_name_r_toy_frostwalker"
-msgstr "Brinquedo - glasswalker"
+msgstr "Companheiro: Glasswalker"
 
 msgid "display_name_r_toy_gardoroc"
-msgstr "Brinquedo - gardoroc"
+msgstr "Companheiro: Gardoroc"
 
 msgid "display_name_r_toy_gargantua"
-msgstr "Brinquedo - gargantua"
+msgstr "Companheiro: Gargantua"
 
 msgid "display_name_r_toy_ghost"
-msgstr "Brinquedo - fantasma"
+msgstr "Companheiro: Fantasma"
 
 msgid "display_name_r_toy_ghost_spider"
-msgstr "Brinquedo - aranha fantasma"
+msgstr "Companheiro: Aranha fantasma"
 
 msgid "display_name_r_toy_ghoul_devourer"
-msgstr "Devorador de brinquedos - ghoul"
+msgstr "Companheiro: Devorador de ghoul"
 
 msgid "display_name_r_toy_ghoul_fleshcrafter"
-msgstr "Brinquedo - carnecrafter ghoul"
+msgstr "Companheiro: Carnecrafter de ghoul"
 
 msgid "display_name_r_toy_giant_skeleton"
-msgstr "Brinquedo - esqueleto gigante"
+msgstr "Companheiro: Esqueleto gigante"
 
 msgid "display_name_r_toy_giant_spider"
-msgstr "Brinquedo - aranha gigante"
+msgstr "Companheiro: Aranha gigante"
 
 msgid "display_name_r_toy_gnoll_butcher"
-msgstr "Brinquedo - açougueiro gnoll"
+msgstr "Companheiro: Açougueiro de gnoll"
 
 msgid "display_name_r_toy_gnoll_hunter"
-msgstr "Caçador de gnolos"
+msgstr "Companheiro: Caçador de gnolos"
 
 msgid "display_name_r_toy_gnoll_shaman"
-msgstr "Brinquedo - gnoll xamã"
+msgstr "Companheiro: Xamã gnoll"
 
 msgid "display_name_r_toy_gnoll_tribesman"
-msgstr "Brinquedo - gnoll tribesman"
+msgstr "Companheiro: Gnoll tribesman"
 
 msgid "display_name_r_toy_gnoll_vilegaunt"
-msgstr "Brinquedo - gnoll vilgaunt"
+msgstr "Companheiro: Gnoll vilgaunt"
 
 msgid "display_name_r_toy_goblin_fighter"
-msgstr "Brinquedo - caça goblin"
+msgstr "Companheiro: Caça-goblin"
 
 msgid "display_name_r_toy_goblin_marauder"
-msgstr "Brinquedo - marauder goblin"
+msgstr "Companheiro: Goblin marauder"
 
 msgid "display_name_r_toy_goblin_scout"
-msgstr "Brinquedo - batedor de duendes"
+msgstr "Companheiro: Escoteiro de goblins"
 
 msgid "display_name_r_toy_goblin_shaman"
-msgstr "Brinquedo - xamã goblin"
+msgstr "Companheiro: Goblin xamã"
 
 msgid "display_name_r_toy_goblin_warlord"
-msgstr "Brinquedo - senhor da guerra do duende"
+msgstr "Companheiro: Senhor da guerra goblin"
 
 msgid "display_name_r_toy_gorra_dar"
-msgstr "Brinquedo - Gorra dar"
+msgstr "Companheiro: Gorra dar"
 
 msgid "display_name_r_toy_gorra_slave"
-msgstr "Brinquedo - Gorra escravo"
+msgstr "Companheiro: Gorra escravo"
 
 msgid "display_name_r_toy_grand_tikoloshe"
-msgstr "Brinquedo - grande tikoloshe"
+msgstr "Companheiro: Grande tikoloshe"
 
 msgid "display_name_r_toy_granite_golem"
-msgstr "Brinquedo - granito golem"
+msgstr "Companheiro: Golem de granito"
 
 msgid "display_name_r_toy_gravelord"
-msgstr "Brinquedo - senhor da sepultura"
+msgstr "Companheiro: Gravelord"
 
 msgid "display_name_r_toy_gray_ork_assassin"
-msgstr "Brinquedo - cinza Ork assassino"
+msgstr "Companheiro: Cinza Ork assassino"
 
 msgid "display_name_r_toy_gray_ork_chieftain"
-msgstr "Brinquedo - cinza Ork chefe"
+msgstr "Companheiro: Cinzento Ork chefe"
 
 msgid "display_name_r_toy_gray_ork_executioner"
-msgstr "Brinquedo - cinza Ork executor"
+msgstr "Companheiro: Carrasco Ork"
 
 msgid "display_name_r_toy_gray_ork_mauler"
-msgstr "Brinquedo - cinza Ork mauler"
+msgstr "Companheiro: Cinzento Ork mauler"
 
 msgid "display_name_r_toy_gray_ork_warrior"
-msgstr "Brinquedo - cinza Ork guerreiro"
+msgstr "Companheiro: Cinza Ork guerreiro"
 
 msgid "display_name_r_toy_greater_below"
-msgstr "Brinquedo - maior abaixo"
+msgstr "Companheiro: Maior abaixo"
 
 msgid "display_name_r_toy_greater_celestial"
-msgstr "Brinquedo - celestial maior"
+msgstr "Companheiro: Celestial maior"
 
 msgid "display_name_r_toy_greater_infernal"
-msgstr "Brinquedo - maior infernal"
+msgstr "Companheiro: Maior infernal"
 
 msgid "display_name_r_toy_greater_mummy"
-msgstr "Brinquedo - múmia maior"
+msgstr "Companheiro: Múmia maior"
 
 msgid "display_name_r_toy_greater_servant"
-msgstr "Brinquedo - maior servo"
+msgstr "Companheiro: Maior servo"
 
 msgid "display_name_r_toy_hairy_spider"
-msgstr "Aranha peluda de brinquedo"
+msgstr "Companheiro: Aranha peluda"
 
 msgid "display_name_r_toy_hand_of_khamset"
-msgstr "Brinquedo - mão de Khamset"
+msgstr "Companheiro: Mão de Khamset"
 
 msgid "display_name_r_toy_hellfire_juggernaught"
-msgstr "Brinquedo - inferno fogo juggernaught"
+msgstr "Companheiro: Inferno fogo juggernaught"
 
 msgid "display_name_r_toy_hill_giant_clobberer"
-msgstr "Brinquedo - monte gigante esbofeteador"
+msgstr "Companheiro: Monte gigante entupidor"
 
 msgid "display_name_r_toy_hill_giant_slugger"
-msgstr "Batedor gigante de brinquedo - colina"
+msgstr "Companheiro: Monte gigante slugger"
 
 msgid "display_name_r_toy_hivekin_broodguard"
-msgstr "Brinquedo - colmeia ninhada"
+msgstr "Companheiro: Ninhada de colmeia"
 
 msgid "display_name_r_toy_hivekin_forager"
-msgstr "Brinquedo - colmeia forrageira"
+msgstr "Companheiro: Forrageiro de colmeia"
 
 msgid "display_name_r_toy_hivekin_queen"
-msgstr "Brinquedo - rainha colmeia"
+msgstr "Companheiro: Rainha-da-colmeia"
 
 msgid "display_name_r_toy_hivekin_soldier"
-msgstr "Brinquedo - soldado colmeia"
+msgstr "Companheiro: Soldado hivekin"
 
 msgid "display_name_r_toy_hjor_the_great"
-msgstr "Brinquedo - hjor o grande"
+msgstr "Companheiro: Hjor o grande"
 
 msgid "display_name_r_toy_hobgoblin_grunt"
-msgstr "Brinquedo - hobgoblin grunhido"
+msgstr "Companheiro: Grunhido hobgoblin"
 
 msgid "display_name_r_toy_hobgoblin_officer"
-msgstr "Brinquedo - hobgoblin oficial"
+msgstr "Companheiro: Oficial hobgoblin"
 
 msgid "display_name_r_toy_hobgoblin_veteran"
-msgstr "Brinquedo - hobgoblin veterano"
+msgstr "Companheiro: Hobgoblin veterano"
 
 msgid "display_name_r_toy_icejarl"
-msgstr "Brinquedo - icejarl"
+msgstr "Companheiro: Icejarl"
 
 msgid "display_name_r_toy_ice_dragon"
-msgstr "Brinquedo - kroshogo o dragão de gelo"
+msgstr "Companheiro: Kroshogo the Ice Dragon"
 
 msgid "display_name_r_toy_infernal"
-msgstr "Brinquedo - infernal"
+msgstr "Companheiro: Infernal"
 
 msgid "display_name_r_toy_ironbark_the_ancient"
-msgstr "Brinquedo - barba de ferro punho pesado"
+msgstr "Companheiro: Ferrobark o antigo"
 
 msgid "display_name_r_toy_ironbeard_heavyfist"
-msgstr "Brinquedo - barba de ferro punho pesado"
+msgstr "Companheiro: Punho pesado de barba de ferro"
 
 msgid "display_name_r_toy_kobold_raider"
-msgstr "Brinquedo - kobold raider"
+msgstr "Companheiro: Kobold raider"
 
 msgid "display_name_r_toy_kobold_scrapper"
-msgstr "Brinquedo - kobold scrapper"
+msgstr "Companheiro: Raspador de kobold"
 
 msgid "display_name_r_toy_kobold_scrounger"
-msgstr "Brinquedo - kobold scrounger"
+msgstr "Companheiro: Kobold scrounger"
 
 msgid "display_name_r_toy_kobold_shaman"
-msgstr "Brinquedo - xamã kobold"
+msgstr "Companheiro: Kobold xamã"
 
 msgid "display_name_r_toy_kobold_strongman"
-msgstr "Brinquedo - kobold strongman"
+msgstr "Companheiro: Kobold strongman"
 
 msgid "display_name_r_toy_kraken"
-msgstr "Brinquedo - kraken"
+msgstr "Companheiro: Kraken"
 
 msgid "display_name_r_toy_lava_golem"
-msgstr "Brinquedo - lava golem"
+msgstr "Companheiro: Lava golem"
 
 msgid "display_name_r_toy_leenspar_golem"
-msgstr "Brinquedo - Leenspar golem"
+msgstr "Companheiro: Leenspar golem"
 
 msgid "display_name_r_toy_lesser_fire_elemental"
-msgstr "Brinquedo - menor fogo elementar"
+msgstr "Companheiro: Elementar de fogo menor"
 
 msgid "display_name_r_toy_lesser_water_elemental"
-msgstr "Brinquedo - elementar de água menor"
+msgstr "Companheiro: Elementar de água menor"
 
 msgid "display_name_r_toy_lizardman"
-msgstr "Brinquedo - lagartoman"
+msgstr "Companheiro: Lagarto"
 
 msgid "display_name_r_toy_malaut_acolyte"
-msgstr "Brinquedo - Malaut acolyte"
+msgstr "Companheiro: Malaut acólito"
 
 msgid "display_name_r_toy_malaut_beguiler"
-msgstr "Brinquedo - Malaut beguiler"
+msgstr "Companheiro: Malaut beguiler"
 
 msgid "display_name_r_toy_melechar"
-msgstr "Brinquedo - Melechar"
+msgstr "Companheiro: Melechar"
 
 msgid "display_name_r_toy_melechar_guard"
-msgstr "Brinquedo - Melechar guarda"
+msgstr "Companheiro: Melechar guarda"
 
 msgid "display_name_r_toy_melechar_shaman"
-msgstr "Brinquedo - Melechar xamã"
+msgstr "Companheiro: Melechar xamã"
 
 msgid "display_name_r_toy_minor_sarnakh"
-msgstr "Brinquedo - menor Sarnakh"
+msgstr "Companheiro: Menor Sarnakh"
 
 msgid "display_name_r_toy_moonbeast_berserker"
-msgstr "Brinquedo - moonbeast berserker"
+msgstr "Companheiro: Berserker de moonbeast"
 
 msgid "display_name_r_toy_moonbeast_commandant"
-msgstr "Brinquedo - comandante da besta lunar"
+msgstr "Companheiro: Comandante da besta lunar"
 
 msgid "display_name_r_toy_moonbeast_disciple"
-msgstr "Discípulo da besta - lua"
+msgstr "Companheiro: Discípulo da besta lunar"
 
 msgid "display_name_r_toy_moonbeast_officer"
-msgstr "Brinquedo - oficial da besta da lua"
+msgstr "Companheiro: Oficial da besta lunar"
 
 msgid "display_name_r_toy_moonbeast_ravager"
-msgstr "Brinquedo - moonbeast devager"
+msgstr "Companheiro: Devastador da mama da lua"
 
 msgid "display_name_r_toy_moonbeast_shaman"
-msgstr "Brinquedo - xamã da besta lunar"
+msgstr "Companheiro: Xamã da moonbeast"
 
 msgid "display_name_r_toy_mummy"
-msgstr "Brinquedo - múmia"
+msgstr "Companheiro: Múmia"
 
 msgid "display_name_r_toy_nahdruk_heretic"
-msgstr "Brinquedo - herege de nahdruk"
+msgstr "Companheiro: Herege de nahdruk"
 
 msgid "display_name_r_toy_nahdruk_outcast"
-msgstr "Brinquedo - nahdruk párias"
+msgstr "Companheiro: Nahdruk párias"
 
 msgid "display_name_r_toy_nalaed"
-msgstr "Brinquedo - nalaed"
+msgstr "Companheiro: Nalaed"
 
 msgid "display_name_r_toy_nalaed_elder"
-msgstr "Ancião de brinquedo - nalaed"
+msgstr "Companheiro: Nalaed elder"
 
 msgid "display_name_r_toy_neithal_golem"
-msgstr "Brinquedo - Neithal golem"
+msgstr "Companheiro: Neithal golem"
 
 msgid "display_name_r_toy_night_hag"
-msgstr "Brinquedo - bruxa da noite"
+msgstr "Companheiro: Ave da noite"
 
 msgid "display_name_r_toy_oak_lord"
-msgstr "Brinquedo - carvalho lord"
+msgstr "Companheiro: Senhor do carvalho"
 
 msgid "display_name_r_toy_oathbound"
-msgstr "Brinquedo - juramento"
+msgstr "Companheiro: Jurado"
 
 msgid "display_name_r_toy_oathliege"
-msgstr "Brinquedo - juramento"
+msgstr "Companheiro: Justliege"
 
 msgid "display_name_r_toy_obsidian_golem"
-msgstr "Brinquedo - obsidian golem"
+msgstr "Companheiro: Golem obsidiano"
 
 msgid "display_name_r_toy_ogre_boss"
-msgstr "Brinquedo - ogre chefe"
+msgstr "Companheiro: Chefe ogre"
 
 msgid "display_name_r_toy_ogre_bully"
-msgstr "Brinquedo - ogre bully"
+msgstr "Companheiro: Ogre bully"
 
 msgid "display_name_r_toy_raptor"
-msgstr "Brinquedo - raptor"
+msgstr "Companheiro: Raptor"
 
 msgid "display_name_r_toy_raven_standard_grunt"
-msgstr "Brinquedo - grunhido padrão corvo"
+msgstr "Companheiro: Grunhido padrão corvo"
 
 msgid "display_name_r_toy_raven_standard_officer"
-msgstr "Brinquedo - oficial padrão corvo"
+msgstr "Companheiro: Oficial padrão corvo"
 
 msgid "display_name_r_toy_raven_standard_veteran"
-msgstr "Brinquedo - corvo veterano padrão"
+msgstr "Companheiro: Veterano padrão corvo"
 
 msgid "display_name_r_toy_sadayel_chief"
-msgstr "Brinquedo - Sadayel chefe"
+msgstr "Companheiro: Sadayel chefe"
 
 msgid "display_name_r_toy_sadayel_guardian"
-msgstr "Brinquedo - Sadayel guardião"
+msgstr "Companheiro: Sadayel guardião"
 
 msgid "display_name_r_toy_sadayel_shaman"
-msgstr "Brinquedo - Sadayel xamã"
+msgstr "Companheiro: Sadayel xamã"
 
 msgid "display_name_r_toy_salamander"
-msgstr "Brinquedo - salamandra"
+msgstr "Companheiro: Salamandra"
 
 msgid "display_name_r_toy_sandstone_golem"
-msgstr "Brinquedo - Sandstone golem"
+msgstr "Companheiro: Sandstone golem"
 
 msgid "display_name_r_toy_sarlid_darkweaver"
-msgstr "Brinquedo - Sarlid Darkweaver"
+msgstr "Companheiro: Sarlid tecelão escuro"
 
 msgid "display_name_r_toy_sarlid_defender"
-msgstr "Brinquedo - Sarlid defensor"
+msgstr "Companheiro: Sarlid defensor"
 
 msgid "display_name_r_toy_sarlid_guard"
-msgstr "Brinquedo - Sarlid guarda"
+msgstr "Companheiro: Sarlid guarda"
 
 msgid "display_name_r_toy_sarlid_poison_adept"
-msgstr "Brinquedo - Sarlid veneno adepto"
+msgstr "Companheiro: Adepto do veneno Sarlid"
 
 msgid "display_name_r_toy_sarnakh"
-msgstr "Brinquedo - Sarnakh"
+msgstr "Companheiro: Sarnakh"
 
 msgid "display_name_r_toy_scumling_guard"
-msgstr "Guarda de brinquedo escumalha"
+msgstr "Companheiro: Guarda escumalha"
 
 msgid "display_name_r_toy_scumling_queen"
-msgstr "Rainha escumalha do brinquedo"
+msgstr "Companheiro: Raínha escumalha"
 
 msgid "display_name_r_toy_scumling_worker"
-msgstr "Trabalhador de brinquedo - escória"
+msgstr "Companheiro: Trabalhador escumalha"
 
 msgid "display_name_r_toy_seidbound"
-msgstr "Brinquedo - seidbound"
+msgstr "Companheiro: Seidbound"
 
 msgid "display_name_r_toy_selentine_golem"
-msgstr "Brinquedo - Selentine golem"
+msgstr "Companheiro: Selentine golem"
 
 msgid "display_name_r_toy_serpentine"
-msgstr "Brinquedo - serpentina"
+msgstr "Companheiro: Serpentina"
 
 msgid "display_name_r_toy_servant_of_malaut"
-msgstr "Brinquedo - servo de Malaut"
+msgstr "Companheiro: Servo de Malaut"
 
 msgid "display_name_r_toy_severii_archer"
-msgstr "Brinquedo - severii archer"
+msgstr "Companheiro: Severii archer"
 
 msgid "display_name_r_toy_severii_centurion"
-msgstr "Brinquedo - centurião severii"
+msgstr "Companheiro: Severii centurião"
 
 msgid "display_name_r_toy_severii_legionnaire"
-msgstr "Brinquedo - severii legionário"
+msgstr "Companheiro: Severii legionário"
 
 msgid "display_name_r_toy_shadow_knight"
-msgstr "Brinquedo - cavaleiro sombra"
+msgstr "Companheiro: Cavaleiro sombra"
 
 msgid "display_name_r_toy_shadow_spirit"
-msgstr "Espírito de brinquedo - sombra"
+msgstr "Companheiro: Espírito de sombra"
 
 msgid "display_name_r_toy_shark"
-msgstr "Brinquedo - tubarão"
+msgstr "Companheiro: Shark"
 
 msgid "display_name_r_toy_shroud_knight"
-msgstr "Brinquedo - sudário cavaleiro"
+msgstr "Companheiro: Cavaleiro da mortalha"
 
 msgid "display_name_r_toy_siharo_dakrbinder"
-msgstr "Brinquedo - siharo dorkbinder"
+msgstr "Companheiro: Siharo dorkbinder"
 
 msgid "display_name_r_toy_skeleton_archer"
-msgstr "Brinquedo - arqueiro esqueleto"
+msgstr "Companheiro: Arqueiro-esqueleto"
 
 msgid "display_name_r_toy_skeleton_warrior"
-msgstr "Brinquedo - esqueleto guerreiro"
+msgstr "Companheiro: Esqueleto guerreiro"
 
 msgid "display_name_r_toy_slave_of_khamset"
-msgstr "Brinquedo - escravo de Khamset"
+msgstr "Companheiro: Escravo de Khamset"
 
 msgid "display_name_r_toy_snowclan_elder"
-msgstr "Brinquedo - snowclan mais velho"
+msgstr "Companheiro: Snowclan elder"
 
 msgid "display_name_r_toy_snowclan_hunter"
-msgstr "Brinquedo - snowclan caçador"
+msgstr "Companheiro: Caçador snowclan"
 
 msgid "display_name_r_toy_snowclan_oracle"
-msgstr "Brinquedo - oráculo de neve"
+msgstr "Companheiro: Oráculo de neve"
 
 msgid "display_name_r_toy_snowclan_warrior"
-msgstr "Brinquedo - Snowclan guerreiro"
+msgstr "Companheiro: Guerreiro snowclan"
 
 msgid "display_name_r_toy_son_of_ochran"
-msgstr "Brinquedo - filho de ochran"
+msgstr "Companheiro: Filho de ochran"
 
 msgid "display_name_r_toy_spellgazer"
-msgstr "Brinquedo - spellgazer"
+msgstr "Companheiro: Spellgazer"
 
 msgid "display_name_r_toy_sun_exarch"
-msgstr "Brinquedo - sol exarch"
+msgstr "Companheiro: Exarco solar"
 
 msgid "display_name_r_toy_svartdvergir_doombringer"
-msgstr "Brinquedo - Svartdvergir doombringer"
+msgstr "Companheiro: Svartdvergir doombringer"
 
 msgid "display_name_r_toy_svartdvergir_general"
-msgstr "Brinquedo - Svartdvergir geral"
+msgstr "Companheiro: Svartdvergir geral"
 
 msgid "display_name_r_toy_svartdvergir_initiate"
-msgstr "Brinquedo - Svartdvergir iniciar"
+msgstr "Companheiro: Svartdvergir iniciar"
 
 msgid "display_name_r_toy_svartdvergir_nightaxe"
-msgstr "Brinquedo - Svartdvergir nightaxe"
+msgstr "Companheiro: Svartdvergir nightaxe"
 
 msgid "display_name_r_toy_svartdvergir_summoner"
-msgstr "Brinquedo - Svartdvergir convocador"
+msgstr "Companheiro: Invocador Svartdvergir"
 
 msgid "display_name_r_toy_swamp_hag"
-msgstr "Brinquedo - bruxa do pântano"
+msgstr "Companheiro: Febre do pântano"
 
 msgid "display_name_r_toy_theyril_golem"
-msgstr "Brinquedo - Theyril golem"
+msgstr "Companheiro: Theyril golem"
 
 msgid "display_name_r_toy_tiger"
-msgstr "Brinquedo - tigre"
+msgstr "Companheiro: Tigre"
 
 msgid "display_name_r_toy_tomb_iklit"
-msgstr "Brinquedo - túmulo Iklit"
+msgstr "Companheiro: Túmulo Iklit"
 
 msgid "display_name_r_toy_troll"
-msgstr "Brinquedo - troll"
+msgstr "Companheiro: Troll"
 
 msgid "display_name_r_toy_troll_lord"
-msgstr "Brinquedo - troll lord"
+msgstr "Companheiro: Senhor dos trolls"
 
 msgid "display_name_r_toy_troll_shaman"
-msgstr "Brinquedo - xamã troll"
+msgstr "Companheiro: Xamã troll"
 
 msgid "display_name_r_toy_undead_dwarf_foreman"
-msgstr "Capataz de anão - morto - vivo"
+msgstr "Companheiro: Capataz anão morto-vivo"
 
 msgid "display_name_r_toy_undead_dwarf_guardian"
-msgstr "Brinquedo - guardião anão morto-vivo"
+msgstr "Companheiro: Guardião anão morto-vivo"
 
 msgid "display_name_r_toy_undead_dwarf_miner"
-msgstr "Mineiro anão morto-vivo"
+msgstr "Companheiro: Mineiro anão morto-vivo"
 
 msgid "display_name_r_toy_veilron_golem"
-msgstr "Brinquedo - Veilron golem"
+msgstr "Companheiro: Veilron golem"
 
 msgid "display_name_r_toy_vile_sarnakh"
-msgstr "Brinquedo - vil Sarnakh"
+msgstr "Companheiro: Vil Sarnakh"
 
 msgid "display_name_r_toy_vlad_duskward"
-msgstr "Brinquedo - vlad crepúsculo"
+msgstr "Companheiro: Vlad crepúsculo"
 
 msgid "display_name_r_toy_warlord_choppah"
-msgstr "Brinquedo - o senhor da guerra choppah"
+msgstr "Companheiro: Senhor da guerra choppah"
 
 msgid "display_name_r_toy_water_elemental"
-msgstr "Brinquedo - água elementar"
+msgstr "Companheiro: Elementar de água"
 
 msgid "display_name_r_toy_wildtribe_chieftain"
-msgstr "Brinquedo - chefe da tribo selvagem"
+msgstr "Companheiro: Chefe da tribo selvagem"
 
 msgid "display_name_r_toy_wildtribe_mage"
-msgstr "Brinquedo - mago da tribo selvagem"
+msgstr "Companheiro: Cânhamo-de-tribo"
 
 msgid "display_name_r_toy_wildtribe_pathfinder"
-msgstr "Brinquedo - windtribe pathfinder"
+msgstr "Companheiro: Windtribe pathfinder"
 
 msgid "display_name_r_toy_wildtribe_shaka"
-msgstr "Brinquedo - windtribe shaka"
+msgstr "Companheiro: Shaka de swindtribe"
 
 msgid "display_name_r_toy_wildtribe_warrior"
-msgstr "Brinquedo - guerreiro de tribo selvagem"
+msgstr "Companheiro: Guerreiro da tribo selvagem"
 
 msgid "display_name_r_toy_wildtribe_witch_doctor"
-msgstr "Brinquedo - wildtribe feiticeiro"
+msgstr "Companheiro: Curandeiro windtribe"
 
 msgid "display_name_r_toy_windlord"
-msgstr "Brinquedo - senhor do vento"
+msgstr "Companheiro: Senhor do vento"
 
 msgid "display_name_r_toy_winterbound"
-msgstr "Brinquedo - inverno"
+msgstr "Companheiro: Invernal"
 
 msgid "display_name_r_toy_yeti"
-msgstr "Brinquedo - yeti"
+msgstr "Companheiro: Yeti"
 
 msgid "display_name_r_toy_zombie"
-msgstr "Brinquedo - zumbi"
+msgstr "Companheiro: Zumbi"
 
 msgid "display_name_r_toy_zombie_shambler"
-msgstr "Brinquedo - zumbi shambler"
+msgstr "Companheiro: Zombie shambler"
 
 msgid "display_name_r_toy_zombie_warrior"
-msgstr "Brinquedo - guerreiro zumbi"
+msgstr "Companheiro: Guerreiro zumbi"
 
 msgid "display_name_r_Trader"
 msgstr "Comerciante"
@@ -10146,13 +10176,13 @@ msgid "display_name_r_zombie_05"
 msgstr "Zombie shambler"
 
 msgid "display_name_r_Armor Dragon Gauntlet"
-msgstr "Gauntlets armadura dragão"
+msgstr "Gauntlets de dragão"
 
 msgid "display_name_r_Armor Dragon Shoulders"
 msgstr "Protetores de ombro dragão"
 
 msgid "display_name_r_Armor Dragon Helmet"
-msgstr "Capacete armadura dragão"
+msgstr "Capacete de dragão"
 
 msgid "display_name_r_Medallion"
 msgstr "Medalhão"
@@ -10167,25 +10197,25 @@ msgid "display_name_r_Bone Amulet"
 msgstr "Amuleto ósseo"
 
 msgid "display_name_r_Armor Dragon Torso"
-msgstr "Armadura de dragão cuirass"
+msgstr "Cuira de dragão"
 
 msgid "display_name_r_Armor Dragon Footwear"
-msgstr "Botas de armadura de dragão"
+msgstr "Botas de dragão"
 
 msgid "display_name_r_Armor Dragon Legs"
-msgstr "Torresmos de armadura de dragão"
+msgstr "Torresmos de dragão"
 
 msgid "display_name_r_Armor Dragon Pants"
-msgstr "Armadura dragão calças"
+msgstr "Calças de dragão"
 
 msgid "display_name_r_Armor Dragon Couters"
-msgstr "Couters armadura dragão"
+msgstr "Couters de dragão"
 
 msgid "display_name_r_Armor Dragon Vambraces"
-msgstr "Armadura dragão vambras"
+msgstr "Vambras de dragão"
 
 msgid "display_name_r_Armor Dragon Girdle"
-msgstr "Cinta de armadura de dragão"
+msgstr "Cinta de dragão"
 
 msgid "display_name_r_Hivekin Queen"
 msgstr "Rainha-da-colmeia"
@@ -12951,16 +12981,16 @@ msgid "display_name_r_Sea Fortress Invulnerable"
 msgstr "Fortaleza"
 
 msgid "display_name_r_Player Slot Machine_02 Item"
-msgstr "Máquina de fenda do jogador"
+msgstr "Máquina de fenda dourada"
 
 msgid "display_name_r_Player Slot Machine_02"
-msgstr "Máquina de fenda"
+msgstr "Máquina de fenda dourada"
 
 msgid "display_name_r_Clan Hamlet Guardtower Alfar"
 msgstr "Torre de guarda"
 
 msgid "display_name_r_Player slot Machine Item"
-msgstr "Máquina de fenda do jogador"
+msgstr "Máquina de fenda prateada"
 
 msgid "display_name_r_Player Vendor Cart Item"
 msgstr "Carrinho de vendedor do jogador"
@@ -12990,7 +13020,7 @@ msgid "display_name_r_Player House Safe Item"
 msgstr "Seguro"
 
 msgid "display_name_r_Player Slot Machine"
-msgstr "Máquina de fenda"
+msgstr "Máquina de fenda prateada"
 
 msgid "display_name_r_Player House Ladder"
 msgstr "Escada"
@@ -17068,6 +17098,9 @@ msgstr "Npc Ork macho normal"
 msgid "display_name_r_NPC Ork Robe Female"
 msgstr "Npc Ork roupão feminino"
 
+msgid "display_name_r_NPC Ork Slayer Master"
+msgstr "Mestre de extermínio Aero"
+
 msgid "display_name_r_NPC Orks"
 msgstr "Npc Orks"
 
@@ -17147,640 +17180,661 @@ msgid "display_name_r_Permits"
 msgstr "Licenças"
 
 msgid "display_name_r_Pet Air Elemental"
-msgstr "Elementar do ar de pet"
+msgstr "Companheiro: Elementar de ar"
 
 msgid "display_name_r_Pet Akathar"
-msgstr "Animal de estimação Akathar"
+msgstr "Companheiro: Akathar"
 
 msgid "display_name_r_Pet Baradron"
-msgstr "Animal de estimação Baradron"
+msgstr "Companheiro: Baradron"
 
 msgid "display_name_r_Pet Basalt Golem"
-msgstr "Basalt golem animal de estimação"
+msgstr "Companheiro: Basalt golem"
 
 msgid "display_name_r_Pet Bear Arctic"
-msgstr "Urso de estimação árctico"
+msgstr "Companheiro: Urso ártico"
 
 msgid "display_name_r_Pet Bear Brown"
-msgstr "Urso de estimação marrom"
+msgstr "Companheiro: Pardo de urso"
 
 msgid "display_name_r_Pet Beastman Destroyer"
-msgstr "Animal de estimação besta destruidor"
+msgstr "Companheiro: Crustman Destroyer"
 
 msgid "display_name_r_Pet Beastman Devastator"
-msgstr "Animal animal de estimação devastador"
+msgstr "Companheiro: Fera devastador"
 
 msgid "display_name_r_Pet Beastman Rampager"
-msgstr "Animal de estimação animal desenfreado"
+msgstr "Companheiro: Feraman desenfreado"
 
 msgid "display_name_r_Pet Beastman Warlord"
-msgstr "Companheiro: senhor da guerra homem-fera"
+msgstr "Companheiro: Feroz senhor da guerra"
 
 msgid "display_name_r_Pet Below"
-msgstr "Animal de estimação abaixo"
+msgstr "Companheiro: Abaixo"
+
+msgid "display_name_r_Pet Below Uber"
+msgstr "Companheiro: Maior abaixo"
 
 msgid "display_name_r_Pet Black Knight"
-msgstr "Animal de estimação cavaleiro preto"
+msgstr "Companheiro: Cavaleiro preto"
 
 msgid "display_name_r_Pet Black Lord"
-msgstr "Animal de estimação preto senhor"
+msgstr "Companheiro: Senhor negro"
 
 msgid "display_name_r_Pet Blood Knight"
-msgstr "Animal de estimação cavaleiro de sangue"
+msgstr "Companheiro: Cavaleiro de sangue"
 
 msgid "display_name_r_Pet Bone Knight"
-msgstr "Animal de estimação cavaleiro osso"
+msgstr "Companheiro: Cavaleiro do osso"
 
 msgid "display_name_r_Pet Bonecrew Captain"
-msgstr "Capitão da tripulação de ossos de estimação"
+msgstr "Companheiro: Capitão da tripulação de osso"
 
 msgid "display_name_r_Pet Bonecrew Mariner"
-msgstr "Animal de estimação da tripulação marinha"
+msgstr "Companheiro: Marinheiro da tripulação óssea"
 
 msgid "display_name_r_Pet Bonecrew Mutineer"
-msgstr "Amotinador da tripulação de ossos de estimação"
+msgstr "Companheiro: Amotinador da tripulação óssea"
 
 msgid "display_name_r_Pet Brownie"
-msgstr "Brownie de estimação"
+msgstr "Companheiro: Brownie"
 
 msgid "display_name_r_Pet Cairn Giant"
-msgstr "Animal de estimação Cairn gigante"
+msgstr "Companheiro: Cairn gigante"
 
 msgid "display_name_r_Pet Cave Hag"
-msgstr "Bruxa da caverna do animal de estimação"
+msgstr "Companheiro: Abrótea da caverna"
 
 msgid "display_name_r_Pet Celestial"
-msgstr "Animal de estimação celestial"
+msgstr "Companheiro: Celeste"
 
 msgid "display_name_r_Pet Celestial Greater"
-msgstr "Animal de estimação celestial maior"
+msgstr "Companheiro: Celeste maior"
 
 msgid "display_name_r_Pet Centaur Chieftain"
-msgstr "Centauro-chefe de estimação"
+msgstr "Companheiro: Centauro-chefe"
 
 msgid "display_name_r_Pet Centaur Huntress"
-msgstr "Caça ao centauro de estimação"
+msgstr "Companheiro: Centauro-caça"
 
 msgid "display_name_r_Pet Centaur Reaver"
-msgstr "Centauro de estimação"
+msgstr "Companheiro: Centaur reaver"
 
 msgid "display_name_r_Pet Centaur Warrior"
-msgstr "Animal de estimação centauro guerreiro"
+msgstr "Companheiro: Centauro guerreiro"
 
 msgid "display_name_r_Pet Chieftain Khalos"
-msgstr "Chefe de companhia Khalos"
+msgstr "Companheiro: Chefe-de-cavalos"
 
 msgid "display_name_r_Pet Child Of Khamset"
-msgstr "Filho de animal de estimação de Khamset"
+msgstr "Companheiro: Child Of Khamset"
 
 msgid "display_name_r_Pet Chosen Of Khamset"
-msgstr "Animal de estimação escolhido de Khamset"
+msgstr "Companheiro: Chosen Of Khamset"
 
 msgid "display_name_r_Pet Ciel Fey Defender"
-msgstr "Animal de estimação Ciel Fey defensor"
+msgstr "Companheiro: Ciel Fey defensor"
 
 msgid "display_name_r_Pet Ciel Fey Druid"
-msgstr "Animal de estimação Ciel Fey druida"
+msgstr "Companheiro: Ciel Fey druida"
 
 msgid "display_name_r_Pet Ciel Fey Forester"
-msgstr "Animal de estimação Ciel Fey forester"
+msgstr "Companheiro: Ciel Fey forester"
 
 msgid "display_name_r_Pet Crog"
-msgstr "Animal de estimação Crog"
+msgstr "Companheiro: Crog"
 
 msgid "display_name_r_Pet Crypt Guard"
-msgstr "Guarda cripta animal de estimação"
+msgstr "Companheiro: Crypt guard"
 
 msgid "display_name_r_Pet Deathless Mage"
-msgstr "Animal de estimação mago sem morte"
+msgstr "Companheiro: Mago sem morte"
 
 msgid "display_name_r_Pet Deathless Servant"
-msgstr "Servo sem morte"
+msgstr "Companheiro: Servo sem morte"
+
+msgid "display_name_r_Pet Demon"
+msgstr "Companheiro: Senhor do demônio"
 
 msgid "display_name_r_Pet Demon Queen"
-msgstr "Animal de estimação rainha demônio"
+msgstr "Companheiro: Rainha do demônio"
 
 msgid "display_name_r_Pet Devil"
-msgstr "Diabinho de estimação"
+msgstr "Companheiro: Diabo."
 
 msgid "display_name_r_Pet Dragon Dark"
-msgstr "Dragão de estimação escuro"
+msgstr "Companheiro: Dragão escuro"
 
 msgid "display_name_r_Pet Dragon Ice"
-msgstr "Gelo dragão animal de estimação"
+msgstr "Companheiro: Gelo de dragão"
 
 msgid "display_name_r_Pet Earth Elemental"
-msgstr "Animal de estimação terra elementar"
+msgstr "Companheiro: Elementares de terra"
 
 msgid "display_name_r_Pet Elfshade"
-msgstr "Elfshade animal de estimação"
+msgstr "Companheiro: Elfshade"
 
 msgid "display_name_r_Pet Elfwraith"
-msgstr "Elfwraith de estimação"
+msgstr "Companheiro: Elfwraith"
 
 msgid "display_name_r_Pet Eodrin"
-msgstr "Animal de estimação Eodrin"
+msgstr "Companheiro: Eodrin"
 
 msgid "display_name_r_Pet Evil Eye"
-msgstr "Animal de estimação olho mau"
+msgstr "Companheiro: Olho mau"
 
 msgid "display_name_r_Pet Fenris Alpha"
-msgstr "Pet fenris alfa"
+msgstr "Companheiro: Fenris alfa"
 
 msgid "display_name_r_Pet Fire Elemental"
-msgstr "Elementar de incêndio animal de estimação"
+msgstr "Companheiro: Fogo elementar"
 
 msgid "display_name_r_Pet Fire Elemental Lesser"
-msgstr "Fogo de estimação elementar menor"
+msgstr "Companheiro: Fogo elementar menor"
 
 msgid "display_name_r_Pet Fire Giant"
-msgstr "Gigante fogo animal de estimação"
+msgstr "Companheiro: Gigante de fogo"
 
 msgid "display_name_r_Pet Firescourge"
-msgstr "Artigo 4.o, n.o 1"
+msgstr "Companheiro: Firescourge"
 
 msgid "display_name_r_Pet Flesh Golem"
-msgstr "Golem de carne de animal de estimação"
+msgstr "Companheiro: Golem de carne"
 
 msgid "display_name_r_Pet Forest Golem"
-msgstr "Golem de floresta de estimação"
+msgstr "Companheiro: Golem florestal"
 
 msgid "display_name_r_Pet Forest Prophet Female"
-msgstr "Animal de estimação fêmea profeta floresta"
+msgstr "Companheiro: Prophet fêmea floresta"
 
 msgid "display_name_r_Pet Forest Prophet Male"
-msgstr "Animal de estimação floresta profeta macho"
+msgstr "Companheiro: Macho profeta da floresta"
 
 msgid "display_name_r_Pet Frostjarl"
-msgstr "Glaciarl para animais de companhia"
+msgstr "Companheiro: Grosejarl"
 
 msgid "display_name_r_Pet Frostwalker"
-msgstr "Animal de estimação geadawalker"
+msgstr "Companheiro: Glasswalker"
 
 msgid "display_name_r_Pet Gardoroc"
-msgstr "Animal de estimação gardoroc"
+msgstr "Companheiro: Gardoroc"
 
 msgid "display_name_r_Pet Gargantua"
-msgstr "Animal de estimação gargantua"
+msgstr "Companheiro: Gargantua"
 
 msgid "display_name_r_Pet Ghost"
-msgstr "Fantasma do animal de estimação"
+msgstr "Companheiro: Fantasma"
 
 msgid "display_name_r_Pet Ghoul Devourer"
-msgstr "Devorador de ghoul de animais de estimação"
+msgstr "Companheiro: Devorador de ghoul"
+
+msgid "display_name_r_Pet Ghoul Fleshcrafter"
+msgstr "Companheiro: Carnecrafter de ghoul"
 
 msgid "display_name_r_Pet Giant Skeleton"
-msgstr "Esqueleto gigante animal de estimação"
+msgstr "Companheiro: Esqueleto gigante"
 
 msgid "display_name_r_Pet Gnoll Butcher"
-msgstr "Pet gnoll açougueiro"
+msgstr "Companheiro: Açougueiro de gnoll"
 
 msgid "display_name_r_Pet Gnoll Hunter"
-msgstr "Caçador de gnolos de estimação"
+msgstr "Companheiro: Caçador de gnolos"
 
 msgid "display_name_r_Pet Gnoll Shaman"
-msgstr "Xamã de gnolo de estimação"
+msgstr "Companheiro: Xamã gnoll"
 
 msgid "display_name_r_Pet Gnoll Tribesman"
-msgstr "Tribesman de gnoll pet"
+msgstr "Companheiro: Gnoll tribesman"
 
 msgid "display_name_r_Pet Gnoll Vilegaunt"
-msgstr "Pet gnoll vilgaunt"
+msgstr "Companheiro: Gnoll vilgaunt"
 
 msgid "display_name_r_Pet Goblin Fighter"
-msgstr "Caça duende de estimação"
+msgstr "Companheiro: Caça-goblin"
 
 msgid "display_name_r_Pet Goblin Marauder"
-msgstr "Marauder de duende de estimação"
+msgstr "Companheiro: Goblin marauder"
 
 msgid "display_name_r_Pet Goblin Shaman"
-msgstr "Xamã de goblin de estimação"
+msgstr "Companheiro: Goblin xamã"
 
 msgid "display_name_r_Pet Goblin Warlord"
-msgstr "Pet goblin warlord"
+msgstr "Companheiro: Senhor da guerra goblin"
 
 msgid "display_name_r_Pet Gorra Dar"
-msgstr "Animal de estimação Gorra dar"
+msgstr "Companheiro: Gorra dar"
 
 msgid "display_name_r_Pet Gorra Slave"
-msgstr "Animal de estimação Gorra escravo"
+msgstr "Companheiro: Gorra escravo"
 
 msgid "display_name_r_Pet Grand Tikoloshe"
-msgstr "Animal de estimação grand tikoloshe"
+msgstr "Companheiro: Grande tikoloshe"
 
 msgid "display_name_r_Pet Granite Golem"
-msgstr "Golem de granito pet"
+msgstr "Companheiro: Golem de granito"
 
 msgid "display_name_r_Pet Gravelord"
-msgstr "Animal de estimação senhor da sepultura"
+msgstr "Companheiro: Gravelord"
 
 msgid "display_name_r_Pet Gray Ork Assassin"
-msgstr "Animal de estimação cinza Ork assassino"
+msgstr "Companheiro: Cinza Ork assassino"
 
 msgid "display_name_r_Pet Gray Ork Chieftain"
-msgstr "Animal de estimação cinza Ork chefe"
+msgstr "Companheiro: Cinzento Ork chefe"
 
 msgid "display_name_r_Pet Gray Ork Executioner"
-msgstr "Animal de estimação cinza Ork executor"
+msgstr "Companheiro: Carrasco Ork"
 
 msgid "display_name_r_Pet Gray Ork Mauler"
-msgstr "Animal de estimação cinza Ork mauler"
+msgstr "Companheiro: Cinzento Ork mauler"
 
 msgid "display_name_r_Pet Gray Ork Warrior"
-msgstr "Animal de estimação cinza Ork guerreiro"
+msgstr "Companheiro: Cinza Ork guerreiro"
 
 msgid "display_name_r_Pet Hand Of Khamset"
-msgstr "Mão de animal de estimação de Khamset"
+msgstr "Companheiro: Hand Of Khamset"
 
 msgid "display_name_r_Pet Hellfire Juggernaught"
-msgstr "Animal de estimação inferno fogo juggernaught"
+msgstr "Companheiro: Inferno fogo juggernaught"
 
 msgid "display_name_r_Pet Hill Giant Clobber"
-msgstr "Animal de estimação colina gigante tapa"
+msgstr "Companheiro: Monte gigante tapa"
 
 msgid "display_name_r_Pet Hill Giant Slugger"
-msgstr "Animal de estimação monte gigante slugger"
+msgstr "Companheiro: Monte gigante slugger"
 
 msgid "display_name_r_Pet Hivekin Broodguard"
-msgstr "Ninhada de colmeia de estimação"
+msgstr "Companheiro: Ninhada de colmeia"
 
 msgid "display_name_r_Pet Hivekin Forager"
-msgstr "Colmeia de estimação forrageira"
+msgstr "Companheiro: Forrageiro de colmeia"
 
 msgid "display_name_r_Pet Hivekin Queen"
-msgstr "Colmeia de estimação rainha"
+msgstr "Companheiro: Rainha-da-colmeia"
 
 msgid "display_name_r_Pet Hivekin Soldier"
-msgstr "Soldado colmeia animal de estimação"
+msgstr "Companheiro: Soldado hivekin"
 
 msgid "display_name_r_Pet Hjor The Great"
-msgstr "Pet hjor o grande"
+msgstr "Companheiro: Hjor o grande"
 
 msgid "display_name_r_Pet Hobgoblin Grunt"
-msgstr "Pet hobgoblin grunhido"
+msgstr "Companheiro: Grunhido hobgoblin"
 
 msgid "display_name_r_Pet Hobgoblin Officer"
-msgstr "Pet hobgoblin oficial"
+msgstr "Companheiro: Oficial hobgoblin"
 
 msgid "display_name_r_Pet Hobgoblin Veteran"
-msgstr "Animal de estimação hobgoblin veterano"
+msgstr "Companheiro: Hobgoblin veterano"
 
 msgid "display_name_r_Pet Icejarl"
-msgstr "Icejarl animal de estimação"
+msgstr "Companheiro: Icejarl"
 
 msgid "display_name_r_Pet Infernal"
-msgstr "Animal de estimação infernal"
+msgstr "Companheiro: Infernal"
 
 msgid "display_name_r_Pet Infernal Greater"
-msgstr "Animal de estimação maior"
+msgstr "Companheiro: Infernal maior"
 
 msgid "display_name_r_Pet Ironbark The Ancient"
-msgstr "Pet ferrobark o antigo"
+msgstr "Companheiro: Ferrobark o antigo"
 
 msgid "display_name_r_Pet Ironbeard Heavyfist"
-msgstr "Master beard heavyfist"
+msgstr "Companheiro: Punho pesado de barba de ferro"
 
 msgid "display_name_r_Pet Kobold Raider"
-msgstr "Pet kobold raider"
+msgstr "Companheiro: Kobold raider"
 
 msgid "display_name_r_Pet Kobold Scrapper"
-msgstr "Scrapper kobold animal de estimação"
+msgstr "Companheiro: Raspador de kobold"
 
 msgid "display_name_r_Pet Kobold Scrounger"
-msgstr "Animal de estimação kobold scrounger"
+msgstr "Companheiro: Kobold scrounger"
 
 msgid "display_name_r_Pet Kobold Shaman"
-msgstr "Animal de estimação kobold xamã"
+msgstr "Companheiro: Kobold xamã"
 
 msgid "display_name_r_Pet Kobold Strongman"
-msgstr "Pet kobold strongman"
+msgstr "Companheiro: Kobold strongman"
 
 msgid "display_name_r_Pet Kraken"
-msgstr "Kraken animal de estimação"
+msgstr "Companheiro: Kraken"
 
 msgid "display_name_r_Pet Lava Golem"
-msgstr "Lava golem animal de estimação"
+msgstr "Companheiro: Lava golem"
 
 msgid "display_name_r_Pet Leenspar Golem"
-msgstr "Animal de estimação Leenspar golem"
+msgstr "Companheiro: Leenspar golem"
 
 msgid "display_name_r_Pet Lizardman"
-msgstr "Lagarto de estimação"
+msgstr "Companheiro: Lagarto"
 
 msgid "display_name_r_Pet Malaut Acolyte"
-msgstr "Animal de estimação Malaut acolyte"
+msgstr "Companheiro: Malaut acólito"
 
 msgid "display_name_r_Pet Malaut Beguiler"
-msgstr "Animal de estimação Malaut beguiler"
+msgstr "Companheiro: Malaut beguiler"
 
 msgid "display_name_r_Pet Melechar"
-msgstr "Animal de estimação Melechar"
+msgstr "Companheiro: Melechar"
 
 msgid "display_name_r_Pet Melechar Guard"
-msgstr "Animal de estimação Melechar guarda"
+msgstr "Companheiro: Melechar guarda"
 
 msgid "display_name_r_Pet Melechar Shaman"
-msgstr "Animal de estimação Melechar xamã"
+msgstr "Companheiro: Melechar xamã"
 
 msgid "display_name_r_Pet Moonbeast Berserker"
-msgstr "Animal de estimação moonbeast berserker"
+msgstr "Companheiro: Berserker de moonbeast"
 
 msgid "display_name_r_Pet Moonbeast Commandant"
-msgstr "Comandante da besta lunar de estimação"
+msgstr "Companheiro: Comandante da besta lunar"
 
 msgid "display_name_r_Pet Moonbeast Disciple"
-msgstr "Animal de estimação discípulo moonbeast"
+msgstr "Companheiro: Discípulo da besta lunar"
 
 msgid "display_name_r_Pet Moonbeast Officer"
-msgstr "Pet moonbeast oficial"
+msgstr "Companheiro: Oficial da besta lunar"
 
 msgid "display_name_r_Pet Moonbeast Ravager"
-msgstr "Animal de estimação animal devastador"
+msgstr "Companheiro: Devastador da mama da lua"
 
 msgid "display_name_r_Pet Moonbeast Shaman"
-msgstr "Animal de estimação xamã da besta lunar"
+msgstr "Companheiro: Xamã da moonbeast"
 
 msgid "display_name_r_Pet Mummy"
-msgstr "Múmia de estimação"
+msgstr "Companheiro: Múmia"
 
 msgid "display_name_r_Pet Mummy Greater"
-msgstr "Múmia de estimação maior"
+msgstr "Companheiro: Múmia maior"
 
 msgid "display_name_r_Pet Nahdruk Heretic"
-msgstr "Herege de nahdruk"
+msgstr "Companheiro: Herege de nahdruk"
 
 msgid "display_name_r_Pet Nahdruk Outcast"
-msgstr "Animal de estimação nahdruk excluído"
+msgstr "Companheiro: Nahdruk párias"
 
 msgid "display_name_r_Pet Nalaed"
-msgstr "Pet nalaed"
+msgstr "Companheiro: Nalaed"
 
 msgid "display_name_r_Pet Nalaed Elder"
-msgstr "Animal de estimação nalaed elder"
+msgstr "Companheiro: Nalaed elder"
 
 msgid "display_name_r_Pet Neithal Golem"
-msgstr "Animal de estimação Neithal golem"
+msgstr "Companheiro: Neithal golem"
 
 msgid "display_name_r_Pet Night Hag"
-msgstr "Hag noite animal de estimação"
+msgstr "Companheiro: Ave da noite"
 
 msgid "display_name_r_Pet Oak Lord"
-msgstr "Senhor do carvalho de estimação"
+msgstr "Companheiro: Senhor do carvalho"
 
 msgid "display_name_r_Pet Oathbound"
-msgstr "Juramento de animais de companhia"
+msgstr "Companheiro: Jurado"
 
 msgid "display_name_r_Pet Oathliege"
-msgstr "Juramento de pet"
+msgstr "Companheiro: Justliege"
 
 msgid "display_name_r_Pet Obsidian Golem"
-msgstr "Golem obsidiano de estimação"
+msgstr "Companheiro: Golem obsidiano"
 
 msgid "display_name_r_Pet Ogre Boss"
-msgstr "Pet ogre boss"
+msgstr "Companheiro: Chefe ogre"
 
 msgid "display_name_r_Pet Ogre Bully"
-msgstr "Pet ogre bully"
+msgstr "Companheiro: Ogre bully"
 
 msgid "display_name_r_Pet Raptor"
-msgstr "Raptor de estimação"
+msgstr "Companheiro: Raptor"
 
 msgid "display_name_r_Pet Raven Standard Grunt"
-msgstr "Animal de estimação corvo grunhido padrão"
+msgstr "Companheiro: Grunhido padrão corvo"
 
 msgid "display_name_r_Pet Raven Standard Officer"
-msgstr "Animal de estimação corvo oficial padrão"
+msgstr "Companheiro: Oficial padrão corvo"
 
 msgid "display_name_r_Pet Raven Standard Veteran"
-msgstr "Animal de estimação corvo padrão veterano"
+msgstr "Companheiro: Veterano padrão corvo"
 
 msgid "display_name_r_Pet Sadayel Chief"
-msgstr "Animal de estimação Sadayel chefe"
+msgstr "Companheiro: Sadayel chefe"
 
 msgid "display_name_r_Pet Sadayel Shaman"
-msgstr "Animal de estimação Sadayel xamã"
+msgstr "Companheiro: Sadayel xamã"
 
 msgid "display_name_r_Pet Salamander"
-msgstr "Salamandra de animais de companhia"
+msgstr "Companheiro: Salamandra"
 
 msgid "display_name_r_Pet Sandstone Golem"
-msgstr "Animal de estimação Sandstone golem"
+msgstr "Companheiro: Sandstone golem"
 
 msgid "display_name_r_Pet Sarlid Darkweaver"
-msgstr "Animal de estimação Sarlid darkweaver"
+msgstr "Companheiro: Sarlid tecelão escuro"
 
 msgid "display_name_r_Pet Sarlid Defender"
-msgstr "Animal de estimação Sarlid defensor"
+msgstr "Companheiro: Sarlid defensor"
 
 msgid "display_name_r_Pet Sarlid Guard"
-msgstr "Animal de estimação Sarlid guarda"
+msgstr "Companheiro: Sarlid guarda"
 
 msgid "display_name_r_Pet Sarlid Poison Adept"
-msgstr "Pet Sarlid adepto venenoso"
+msgstr "Companheiro: Adepto do veneno Sarlid"
 
 msgid "display_name_r_Pet Sarnakh"
-msgstr "Animal de estimação Sarnakh"
+msgstr "Companheiro: Sarnakh"
 
 msgid "display_name_r_Pet Sarnakh Minor"
-msgstr "Animal de companhia Sarnakh menor"
+msgstr "Companheiro: Sarnakh menor"
 
 msgid "display_name_r_Pet Sarnakh Vile"
-msgstr "Animal de estimação Sarnakh vil"
+msgstr "Companheiro: Sarnakh vil"
 
 msgid "display_name_r_Pet Scumling Guard"
-msgstr "Guarda escumalha do animal de estimação"
+msgstr "Companheiro: Guarda escumalha"
 
 msgid "display_name_r_Pet Scumling Queen"
-msgstr "Animal de estimação escumalha rainha"
+msgstr "Companheiro: Raínha escumalha"
 
 msgid "display_name_r_Pet Scumling Worker"
-msgstr "Trabalhador escumalha de animais de estimação"
+msgstr "Companheiro: Trabalhador escumalha"
 
 msgid "display_name_r_Pet Seidbound"
-msgstr "Seidbound animal de estimação"
+msgstr "Companheiro: Seidbound"
 
 msgid "display_name_r_Pet Selentine Golem"
-msgstr "Animal de estimação Selentine golem"
+msgstr "Companheiro: Selentine golem"
 
 msgid "display_name_r_Pet Serpentine"
-msgstr "Serpentina de estimação"
+msgstr "Companheiro: Serpentina"
 
 msgid "display_name_r_Pet Servant Of Malaut"
-msgstr "Servo de animais de estimação de Malaut"
+msgstr "Companheiro: Servant Of Malaut"
 
 msgid "display_name_r_Pet Servant Of Malaut Greater"
-msgstr "Servo de estimação de Malaut maior"
+msgstr "Companheiro: Servant Of Malaut Greater"
 
 msgid "display_name_r_Pet Severii Archer"
-msgstr "Arqueiro severii animal de estimação"
+msgstr "Companheiro: Severii archer"
 
 msgid "display_name_r_Pet Severii Centurion"
-msgstr "Centurião severii de animais de companhia"
+msgstr "Companheiro: Severii centurião"
 
 msgid "display_name_r_Pet Severii Legionnaire"
-msgstr "Animal de estimação severii legionário"
+msgstr "Companheiro: Severii legionário"
 
 msgid "display_name_r_Pet Shadow Knight"
-msgstr "Animal de estimação cavaleiro sombra"
+msgstr "Companheiro: Cavaleiro sombra"
 
 msgid "display_name_r_Pet Shadow Spirit"
-msgstr "Espirito de sombra animal de estimação"
+msgstr "Companheiro: Espírito de sombra"
 
 msgid "display_name_r_Pet Shark"
-msgstr "Tubarão-mate"
+msgstr "Companheiro: Shark"
 
 msgid "display_name_r_Pet Shroud Knight"
-msgstr "Cavaleiro da mortalha de estimação"
+msgstr "Companheiro: Cavaleiro da mortalha"
 
 msgid "display_name_r_Pet Siharo Darkbinder"
-msgstr "Animal de estimação siharo dorkbinder"
+msgstr "Companheiro: Siharo dorkbinder"
+
+msgid "display_name_r_Pet Skeleton"
+msgstr "Companheiro: Esqueleto quebradiço"
 
 msgid "display_name_r_Pet Skeleton Archer"
-msgstr "Arqueiro esqueleto animal de estimação"
+msgstr "Companheiro: Arqueiro-esqueleto"
 
 msgid "display_name_r_Pet Skeleton Warrior"
-msgstr "Animal de estimação esqueleto guerreiro"
+msgstr "Companheiro: Esqueleto guerreiro"
 
 msgid "display_name_r_Pet Slave Of Khamset"
-msgstr "Escravo de animais de estimação de Khamset"
+msgstr "Companheiro: Slave Of Khamset"
 
 msgid "display_name_r_Pet Snowclan Elder"
-msgstr "Animal de estimação snowclan mais velho"
+msgstr "Companheiro: Snowclan elder"
 
 msgid "display_name_r_Pet Snowclan Hunter"
-msgstr "Caçador de neve animal de estimação"
+msgstr "Companheiro: Caçador snowclan"
 
 msgid "display_name_r_Pet Snowclan Oracle"
-msgstr "Oráculo de neve de estimação"
+msgstr "Companheiro: Oráculo de neve"
 
 msgid "display_name_r_Pet Snowclan Warrior"
-msgstr "Pet snowclan guerreira"
+msgstr "Companheiro: Guerreiro snowclan"
 
 msgid "display_name_r_Pet Son Of Ochran"
-msgstr "Animal de estimação filho de ochran"
+msgstr "Companheiro: Son Of Ochran"
 
 msgid "display_name_r_Pet Spellgazer"
-msgstr "Pet spellgazer"
+msgstr "Companheiro: Spellgazer"
 
 msgid "display_name_r_Pet Spider Bone"
-msgstr "Osso de aranha de estimação"
+msgstr "Companheiro: Osso de aranha"
 
 msgid "display_name_r_Pet Spider Cave"
-msgstr "Caverna de aranha de estimação"
+msgstr "Companheiro: Caverna de aranha"
 
 msgid "display_name_r_Pet Spider Dire"
-msgstr "Dire aranha animal de estimação"
+msgstr "Companheiro: Dire da aranha"
 
 msgid "display_name_r_Pet Spider Doom"
-msgstr "Animal de estimação aranha desgraça"
+msgstr "Companheiro: Destruição da aranha"
 
 msgid "display_name_r_Pet Spider Ghost"
-msgstr "Fantasma de aranha de estimação"
+msgstr "Companheiro: Fantasma de aranha"
 
 msgid "display_name_r_Pet Spider Giant"
-msgstr "Gigante aranha animal de estimação"
+msgstr "Companheiro: Gigante de aranha"
 
 msgid "display_name_r_Pet Spider Hairy"
-msgstr "Aranha de estimação peludo"
+msgstr "Companheiro: Aranha peluda"
+
+msgid "display_name_r_Pet Stormgraive"
+msgstr "Companheiro: Elementar de água"
 
 msgid "display_name_r_Pet Sun Exarch"
-msgstr "Animal de estimação sol exarch"
+msgstr "Companheiro: Exarco solar"
 
 msgid "display_name_r_Pet Svartdvergir Doombringer"
-msgstr "Animal de estimação Svartdvergir doombringer"
+msgstr "Companheiro: Svartdvergir doombringer"
 
 msgid "display_name_r_Pet Svartdvergir General"
-msgstr "Animal de estimação Svartdvergir geral"
+msgstr "Companheiro: Svartdvergir geral"
 
 msgid "display_name_r_Pet Svartdvergir Initiate"
-msgstr "Animal de estimação Svartdvergir iniciado"
+msgstr "Companheiro: Svartdvergir iniciar"
 
 msgid "display_name_r_Pet Svartdvergir Nightaxe"
-msgstr "Animal de estimação Svartdvergir nightaxe"
+msgstr "Companheiro: Svartdvergir nightaxe"
 
 msgid "display_name_r_Pet Svartdvergir Summoner"
-msgstr "Animal de estimação Svartdvergir convocador"
+msgstr "Companheiro: Invocador Svartdvergir"
 
 msgid "display_name_r_Pet Swamp Hag"
-msgstr "Hag do pântano do animal de estimação"
+msgstr "Companheiro: Febre do pântano"
 
 msgid "display_name_r_Pet Theyril Golem"
-msgstr "Animal de estimação Theyril golem"
+msgstr "Companheiro: Theyril golem"
 
 msgid "display_name_r_Pet Tiger"
-msgstr "Tigre de estimação"
+msgstr "Companheiro: Tigre"
 
 msgid "display_name_r_Pet Tomb Iklit"
-msgstr "Túmulo de estimação Iklit"
+msgstr "Companheiro: Túmulo Iklit"
 
 msgid "display_name_r_Pet Troll"
-msgstr "Troll de estimação"
+msgstr "Companheiro: Troll"
 
 msgid "display_name_r_Pet Troll Cave"
-msgstr "Caverna de troll de estimação"
+msgstr "Companheiro: Caverna de troll"
 
 msgid "display_name_r_Pet Troll Lord"
-msgstr "Animal de estimação senhor troll"
+msgstr "Companheiro: Senhor dos trolls"
 
 msgid "display_name_r_Pet Troll Shaman"
-msgstr "Animal de estimação troll xamã"
+msgstr "Companheiro: Xamã troll"
 
 msgid "display_name_r_Pet Undead Dwarf Foreman"
-msgstr "Animal de estimação morto-vivo anão capataz"
+msgstr "Companheiro: Capataz anão morto-vivo"
 
 msgid "display_name_r_Pet Undead Dwarf Guardian"
-msgstr "Animal de estimação guardião anão morto-vivo"
+msgstr "Companheiro: Guardião anão morto-vivo"
 
 msgid "display_name_r_Pet Undead Dwarf Miner"
-msgstr "Animal de estimação mineiro anão morto-vivo"
+msgstr "Companheiro: Mineiro anão morto-vivo"
 
 msgid "display_name_r_Pet Veilron Golem"
-msgstr "Animal de estimação Veilron golem"
+msgstr "Companheiro: Veilron golem"
 
 msgid "display_name_r_Pet Vlad Duskward"
-msgstr "Animal de estimação vlad crepúsculo"
+msgstr "Companheiro: Vlad crepúsculo"
 
 msgid "display_name_r_Pet Warlord Choppah"
-msgstr "Animal de estimação senhor da guerra choppah"
+msgstr "Companheiro: Senhor da guerra choppah"
 
 msgid "display_name_r_Pet Wildtribe Chieftain"
-msgstr "Chefe da tribo selvagem de animais de estimação"
+msgstr "Companheiro: Chefe da tribo selvagem"
 
 msgid "display_name_r_Pet Wildtribe Mage"
-msgstr "Ângulo-de-tribo"
+msgstr "Companheiro: Cânhamo-de-tribo"
 
 msgid "display_name_r_Pet Wildtribe Pathfinder"
-msgstr "Animal de estimação windtribe pathfinder"
+msgstr "Companheiro: Windtribe pathfinder"
 
 msgid "display_name_r_Pet Wildtribe Shaka"
-msgstr "Shaka windtribe animal de estimação"
+msgstr "Companheiro: Shaka de swindtribe"
 
 msgid "display_name_r_Pet Wildtribe Warrior"
-msgstr "Animal de estimação guerreira windtribe"
+msgstr "Companheiro: Guerreiro da tribo selvagem"
 
 msgid "display_name_r_Pet Wildtribe Witch Doctor"
-msgstr "Animal de estimação windtribe feiticeiro"
+msgstr "Companheiro: Curandeiro windtribe"
+
+msgid "display_name_r_Pet Windgraive"
+msgstr "Companheiro: Elementar de água menor"
 
 msgid "display_name_r_Pet Windlord"
-msgstr "Pet windlord"
+msgstr "Companheiro: Senhor do vento"
 
 msgid "display_name_r_Pet Winterbound"
-msgstr "Animal de estimação invernal"
+msgstr "Companheiro: Invernal"
 
 msgid "display_name_r_Pet Yeti"
-msgstr "Pet ieti"
+msgstr "Companheiro: Yeti"
 
 msgid "display_name_r_Pet Zombie"
-msgstr "Zombie de estimação"
+msgstr "Companheiro: Zumbi"
 
 msgid "display_name_r_Pet Zombie Dire"
-msgstr "Dire zumbi animal de estimação"
+msgstr "Companheiro: Zombie dire"
+
+msgid "display_name_r_Pet Zombie Shambler"
+msgstr "Companheiro: Zombie shambler"
 
 msgid "display_name_r_Pet Zombie Warrior"
-msgstr "Animal de estimação zumbi guerreiro"
+msgstr "Companheiro: Guerreiro zumbi"
 
 msgid "display_name_r_Pet sadayel guardian"
-msgstr "Animal de estimação sadayel tutor"
+msgstr "Companheiro: sadayel guardião"
 
 msgid "display_name_r_Pets"
 msgstr "Animais de estimação"
@@ -18199,6 +18253,9 @@ msgstr "A irmandade Hintenfau"
 msgid "display_name_r_The Humans of Mercia"
 msgstr "Os humanos de Mercia"
 
+msgid "display_name_r_Dawnshore Isles"
+msgstr "Dawnshore ilhas"
+
 msgid "display_name_r_The Jhali Raiders"
 msgstr "Os Jhali invasores"
 
@@ -18563,7 +18620,7 @@ msgid "display_name_r_Dragons"
 msgstr "Dragões"
 
 msgid "display_name_r_Pet Dragon Fire"
-msgstr "Fogo dragão animal de estimação"
+msgstr "Companheiro: Fogo de dragão"
 
 msgid "display_name_r_Aberrations"
 msgstr "Aberrações"
@@ -18650,7 +18707,7 @@ msgid "display_name_r_Matayins"
 msgstr "Matayinas"
 
 msgid "display_name_r_Pet Goblin Scout"
-msgstr "Escoteiro de duendes de estimação"
+msgstr "Companheiro: Escoteiro de goblins"
 
 msgid "display_name_r_Wildlife Large"
 msgstr "Vida selvagem grande"
@@ -18900,6 +18957,9 @@ msgstr "Marcador de fogueira"
 
 msgid "display_name_r_Marker Player Dead"
 msgstr "Marcador jogador morto"
+
+msgid "display_name_r_Marker Capital Invader"
+msgstr "Invasor"
 
 msgid "display_name_r_Marker Deliver"
 msgstr "Marcador de entrega"
@@ -20310,3 +20370,63 @@ msgstr "Geada Crog brinquedo"
 
 msgid "display_name_r_Pet Crog Frost"
 msgstr "Geada Crog"
+
+msgid "display_name_r_toy_crog_jungle"
+msgstr "Selva Crog brinquedo"
+
+msgid "display_name_r_Pet Crog Jungle"
+msgstr "Selva Crog"
+
+msgid "display_name_r_toy_crog_storm"
+msgstr "Tempestade Crog brinquedo"
+
+msgid "display_name_r_Pet Crog Storm"
+msgstr "Tempestade Crog"
+
+msgid "display_name_r_toy_crog_desert"
+msgstr "Deserto Crog brinquedo"
+
+msgid "display_name_r_Pet Crog Desert"
+msgstr "Deserto Crog"
+
+msgid "display_name_r_Mastery Items"
+msgstr "Itens de domínio"
+
+msgid "display_name_r_Ancient Essence"
+msgstr "Essência antiga"
+
+msgid "display_name_r_Mastery Orb"
+msgstr "Orbe de domínio"
+
+msgid "display_name_r_Ancient Orb"
+msgstr "Orbe antigo"
+
+msgid "display_name_r_Quest Herbal Tea"
+msgstr "Chá de ervas"
+
+msgid "display_name_r_Quest Shipping Manifest"
+msgstr "Manifesto de envio"
+
+msgid "display_name_r_Quest Supply Crate"
+msgstr "Caixa de abastecimento"
+
+msgid "display_name_r_troll"
+msgstr "Troll"
+
+msgid "display_name_r_Mage Totem"
+msgstr "Totem de mago"
+
+msgid "display_name_r_Barrel of Fish"
+msgstr "Barril de peixe"
+
+msgid "display_name_r_Slayer Services"
+msgstr "Serviços de caça ao abate"
+
+msgid "display_name_r_Slayer Contract Slot"
+msgstr "Slot de contrato"
+
+msgid "display_name_r_Slayer Slow Recall"
+msgstr "Memória lenta"
+
+msgid "display_name_r_Slayer Extra Talisman Slot"
+msgstr "Slot talismã"

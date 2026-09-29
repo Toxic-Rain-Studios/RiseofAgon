@@ -1616,6 +1616,9 @@ msgstr "Panzerabwehrpfeil"
 msgid "display_name_r_Arrow_01"
 msgstr "Pfeil"
 
+msgid "display_name_plural_r_Arrow_01"
+msgstr "Pfeile"
+
 msgid "display_name_r_Arrow Bodkin"
 msgstr "Pfeil für Leichen"
 
@@ -4658,6 +4661,9 @@ msgstr "Prächtiger Funhulk"
 msgid "display_name_r_Game Time Token"
 msgstr "Spielzeit-Token"
 
+msgid "display_name_r_ut_Game Time Token"
+msgstr "Spielzeit-Token (nicht handelbar)"
+
 msgid "display_name_r_Gankable Player"
 msgstr "Gankable_Player"
 
@@ -5352,7 +5358,22 @@ msgid "display_name_r_Irtych"
 msgstr "Irtych"
 
 msgid "display_name_r_Item Skin Scroll"
-msgstr "Artikel-Hautbuchstaben"
+msgstr "Hautschuppen"
+
+msgid "display_name_r_ut_Item Skin Scroll"
+msgstr "Skinroll (nicht handelbar)"
+
+msgid "display_name_r_Spell Skin Scroll"
+msgstr "Zauberspinnen"
+
+msgid "display_name_r_ut_Spell Skin Scroll"
+msgstr "Spell Skin Scroll (nicht handelbar)"
+
+msgid "display_name_r_Emote Scroll"
+msgstr "Emote-Schriftrolle"
+
+msgid "display_name_r_ut_Emote Scroll"
+msgstr "Emote Scroll (nicht handelbar)"
 
 msgid "display_name_r_Jadetalons"
 msgstr "Jadetalons"
@@ -6633,7 +6654,7 @@ msgid "display_name_r_player house vendor item"
 msgstr "Verkäuferkabine"
 
 msgid "display_name_r_player slot machine item"
-msgstr "Spielautomaten"
+msgstr "Silber Spielautomat"
 
 msgid "display_name_r_player slot machine"
 msgstr "Spielautomat"
@@ -8099,6 +8120,12 @@ msgstr "Drahtgebunden"
 msgid "display_name_r_Selentine Chest Key"
 msgstr "Selentine Brustschlüssel"
 
+msgid "display_name_r_Archaeus Chest"
+msgstr "Archaeus-Truhe"
+
+msgid "display_name_r_Archaeus Chest Key"
+msgstr "Archaeus' Schlüssel"
+
 msgid "display_name_r_Selentine Cloth"
 msgstr "Chaldängewebe"
 
@@ -8939,6 +8966,9 @@ msgstr "Titan"
 msgid "display_name_r_Title Scroll"
 msgstr "Titelrolle"
 
+msgid "display_name_r_ut_Title Scroll"
+msgstr "Titelrolle (nicht handelbar)"
+
 msgid "display_name_r_Tomb Iklit"
 msgstr "Grab Iklit"
 
@@ -8955,667 +8985,667 @@ msgid "display_name_r_tooth"
 msgstr "Zahn"
 
 msgid "display_name_r_toy_air_elemental"
-msgstr "Spielzeug - Luft elementar"
+msgstr "Begleiter: Luftelementar"
 
 msgid "display_name_r_toy_akathar"
-msgstr "Spielzeug - Akathar"
+msgstr "Begleiter: Akathar"
 
 msgid "display_name_r_toy_arctic_bear"
-msgstr "Spielzeug - Arktischer Bär"
+msgstr "Begleiter: Arktischer Bär"
 
 msgid "display_name_r_toy_baradron"
-msgstr "Spielzeug - Baradron"
+msgstr "Begleiter: Baradron"
 
 msgid "display_name_r_toy_basalt_golem"
-msgstr "Spielzeug — Basalt Golem"
+msgstr "Begleiter: Basaltgolem"
 
 msgid "display_name_r_toy_beastman_destroyer"
-msgstr "Toy - Beastman Zerstörer"
+msgstr "Begleiter: Beastman Zerstörer"
 
 msgid "display_name_r_toy_beastman_devastator"
-msgstr "Toy — Beastman Devastator"
+msgstr "Begleiter: Tiermenschen-Verwüster"
 
 msgid "display_name_r_toy_beastman_rampager"
-msgstr "Toy — Beastman Ramager"
+msgstr "Begleiter: Beastman Ramager"
 
 msgid "display_name_r_toy_beastman_warlord"
-msgstr "Toy - Der Beastman Warlord"
+msgstr "Begleiter: Tiermenschen-Kriegsherr"
 
 msgid "display_name_r_toy_below"
-msgstr "Spielzeug - unten"
+msgstr "Begleiter: Unten"
 
 msgid "display_name_r_toy_black_knight"
-msgstr "Spielzeug — schwarzer Ritter"
+msgstr "Begleiter: Schwarzer Ritter"
 
 msgid "display_name_r_toy_black_lord"
-msgstr "Toy - Der schwarze Lord"
+msgstr "Begleiter: Schwarzer Lord"
 
 msgid "display_name_r_toy_blood_knight"
-msgstr "Toy - Blutritter"
+msgstr "Begleiter: Blutritter"
 
 msgid "display_name_r_toy_bonecrew_captain"
-msgstr "Spielzeug — Bonecrew Captain"
+msgstr "Begleiter: Kapitän des Knochenpersonals"
 
 msgid "display_name_r_toy_bonecrew_mariner"
-msgstr "Spielzeug — Bonecrew Mariner"
+msgstr "Begleiter: Bonecrew-Seemann"
 
 msgid "display_name_r_toy_bonecrew_mutineer"
-msgstr "Spielzeug — Bonecrew Meuterer"
+msgstr "Begleiter: Bonecrew Meuterer"
 
 msgid "display_name_r_toy_bone_knight"
-msgstr "Spielzeug — Knochenritter"
+msgstr "Begleiter: Knochenritter"
 
 msgid "display_name_r_toy_bone_spider"
-msgstr "Spielzeug — Knochenspinne"
+msgstr "Begleiter: Knochenspinne"
 
 msgid "display_name_r_toy_brittle_skeleton"
-msgstr "Spielzeug — sprödes Skelett"
+msgstr "Begleiter: Sprödes Skelett"
 
 msgid "display_name_r_toy_brownie"
-msgstr "Spielzeug — Brownie"
+msgstr "Begleiter: Brownie"
 
 msgid "display_name_r_toy_brown_bear"
-msgstr "Spielzeug — Braunbär"
+msgstr "Begleiter: Braunbär"
 
 msgid "display_name_r_toy_cairn_giant"
-msgstr "Spielzeug - Cairn Riese"
+msgstr "Begleiter: Cairn Riesenriese"
 
 msgid "display_name_r_toy_cave_hag"
-msgstr "Spielzeug — Cave Hag"
+msgstr "Begleiter: Höhlenhagel"
 
 msgid "display_name_r_toy_cave_spider"
-msgstr "Spielzeug — Höhlenspinne"
+msgstr "Begleiter: Höhlenspinne"
 
 msgid "display_name_r_toy_cave_troll"
-msgstr "Spielzeug - Höhlen-Troll"
+msgstr "Begleiter: Höhlentroll"
 
 msgid "display_name_r_toy_celestial"
-msgstr "Spielzeug — himmlisches"
+msgstr "Begleiter: Himmlisch"
 
 msgid "display_name_r_toy_centaur_chieftain"
-msgstr "Spielzeug — Zentaurenhäuptling"
+msgstr "Begleiter: Zentaurenhäuptling"
 
 msgid "display_name_r_toy_centaur_huntress"
-msgstr "Spielzeug — Zentaurenjägerin"
+msgstr "Begleiter: Zentaurenjägerin"
 
 msgid "display_name_r_toy_centaur_reaver"
-msgstr "Toy — Centaur Reaver"
+msgstr "Begleiter: Zentaurenraber"
 
 msgid "display_name_r_toy_centaur_warrior"
-msgstr "Toy - Zentaurenkrieger"
+msgstr "Begleiter: Zentaurenkrieger"
 
 msgid "display_name_r_toy_chieftain_khalos"
-msgstr "Spielzeug — Häuptling Khalos"
+msgstr "Begleiter: Häuptlingshalos"
 
 msgid "display_name_r_toy_child_of_khamset"
-msgstr "Spielzeug - Kind von Khamset"
+msgstr "Begleiter: Kind von Khamset"
 
 msgid "display_name_r_toy_chosen_of_khamset.xml"
-msgstr "Spielzeug - gewählt von Khamset"
+msgstr "Begleiter: Gewählt von Khamset"
 
 msgid "display_name_r_toy_ciel_fey_defender"
-msgstr "Spielzeug - Ciel Fey Verteidiger"
+msgstr "Begleiter: Ciel Fey Verteidiger"
 
 msgid "display_name_r_toy_ciel_fey_druid"
-msgstr "Spielzeug - Ciel Fey Druiden"
+msgstr "Begleiter: Ciel Fey Druide"
 
 msgid "display_name_r_toy_ciel_fey_forester"
-msgstr "Spielzeug - Ciel Fey Förster"
+msgstr "Begleiter: Ciel Fey Förster"
 
 msgid "display_name_r_toy_crog"
-msgstr "Spielzeug - Crog"
+msgstr "Begleiter: Crog"
 
 msgid "display_name_r_toy_crypt_guard"
-msgstr "Spielzeug - Gruftwächter"
+msgstr "Begleiter: Gruftwächter"
 
 msgid "display_name_r_toy_dark_dragon"
-msgstr "Spielzeug - Dark Dragon"
+msgstr "Begleiter: Dunkler Drache"
 
 msgid "display_name_r_toy_deathless_mage"
-msgstr "Toy - Der unsterbliche Magier"
+msgstr "Begleiter: Unsterblicher Magier"
 
 msgid "display_name_r_toy_deathless_servant"
-msgstr "Spielzeug - unsterblicher Diener"
+msgstr "Begleiter: Der unsterbliche Diener"
 
 msgid "display_name_r_toy_demon"
-msgstr "Toy - Dämonenlord"
+msgstr "Begleiter: Dämonenherren"
 
 msgid "display_name_r_toy_demon_queen"
-msgstr "Toy - Dämonenkönigin"
+msgstr "Begleiter: Dämonenkönigin"
 
 msgid "display_name_r_toy_devil"
-msgstr "Spielzeug - Dämon"
+msgstr "Begleiter: Dämonen"
 
 msgid "display_name_r_toy_dire_spider"
-msgstr "Toy — Dire Spider"
+msgstr "Begleiter: Ungeziefer"
 
 msgid "display_name_r_toy_dire_zombie"
-msgstr "Toy - Unheimlicher Zombie"
+msgstr "Begleiter: Unheimlicher Zombie"
 
 msgid "display_name_r_toy_doom_spider"
-msgstr "Spielzeug - Doom Spider"
+msgstr "Begleiter: Verderbensspinne"
 
 msgid "display_name_r_toy_earth_elemental"
-msgstr "Toy - Erde elementar"
+msgstr "Begleiter: Elementarer Erdboden"
 
 msgid "display_name_r_toy_elfshade"
-msgstr "Spielzeug — Elfenshade"
+msgstr "Begleiter: Elfenschatten"
 
 msgid "display_name_r_toy_elfwraith"
-msgstr "Spielzeug — Wraith"
+msgstr "Begleiter: Wraith"
 
 msgid "display_name_r_toy_eodrin"
-msgstr "Spielzeug - Eodrin"
+msgstr "Begleiter: Eodrin"
 
 msgid "display_name_r_toy_evil_eye"
-msgstr "Spielzeug - böser Blick"
+msgstr "Begleiter: Böser Blick"
 
 msgid "display_name_r_toy_fenris_the_alpha"
-msgstr "Toy - Fenris The Alpha (Deutsche Ausgabe)"
+msgstr "Begleiter: Fenris the Alpha"
 
 msgid "display_name_r_toy_firescourge"
-msgstr "Spielzeug — Feuergeißel"
+msgstr "Begleiter: Feuergeißeln"
 
 msgid "display_name_r_toy_fire_dragon"
-msgstr "Toy - Feuerdrache"
+msgstr "Begleiter: Feuerdrachen"
 
 msgid "display_name_r_toy_fire_elemental"
-msgstr "Spielzeug - Feuer elementar"
+msgstr "Begleiter: Feuerelementar"
 
 msgid "display_name_r_toy_fire_giant"
-msgstr "Spielzeug - Feuerriese"
+msgstr "Begleiter: Feuerriese"
 
 msgid "display_name_r_toy_flesh_golem"
-msgstr "Spielzeug - Fleisch Golem"
+msgstr "Begleiter: Fleischgolem"
 
 msgid "display_name_r_toy_forest_golem"
-msgstr "Spielzeug - Waldgolem"
+msgstr "Begleiter: Waldgolem"
 
 msgid "display_name_r_toy_forest_prophet_female"
-msgstr "Toy - Waldprophet weiblich"
+msgstr "Begleiter: Waldprophetin weiblich"
 
 msgid "display_name_r_toy_forest_prophet_male"
-msgstr "Toy - Waldprophet männlich"
+msgstr "Begleiter: Waldprophet männlich"
 
 msgid "display_name_r_toy_frostjarl"
-msgstr "Spielzeug — frostjarl"
+msgstr "Begleiter: Frostjarl"
 
 msgid "display_name_r_toy_frostwalker"
-msgstr "Spielzeug — frostwalker"
+msgstr "Begleiter: Frostwalker"
 
 msgid "display_name_r_toy_gardoroc"
-msgstr "Spielzeug — gardoroc"
+msgstr "Begleiter: Gardorocen"
 
 msgid "display_name_r_toy_gargantua"
-msgstr "Spielzeug — gargantua"
+msgstr "Begleiter: Gargantua"
 
 msgid "display_name_r_toy_ghost"
-msgstr "Spielzeug — Geist"
+msgstr "Begleiter: Geister"
 
 msgid "display_name_r_toy_ghost_spider"
-msgstr "Toy — Ghost Spider"
+msgstr "Begleiter: Geisterspinne"
 
 msgid "display_name_r_toy_ghoul_devourer"
-msgstr "Toy — ghoul devourer"
+msgstr "Begleiter: Ghoul verschlingt"
 
 msgid "display_name_r_toy_ghoul_fleshcrafter"
-msgstr "Spielzeug — Ghoul fleshcrafter"
+msgstr "Begleiter: Ghoul-Fleischmacher"
 
 msgid "display_name_r_toy_giant_skeleton"
-msgstr "Spielzeug - Riesenskelett"
+msgstr "Begleiter: Riesenskelett"
 
 msgid "display_name_r_toy_giant_spider"
-msgstr "Toy - Riesenspinne"
+msgstr "Begleiter: Riesenspinne"
 
 msgid "display_name_r_toy_gnoll_butcher"
-msgstr "Toy — gnoll butcher"
+msgstr "Begleiter: Nöllmetzer"
 
 msgid "display_name_r_toy_gnoll_hunter"
-msgstr "Toy - gnoll hunter Ubersetzungen"
+msgstr "Begleiter: Möwenjäger"
 
 msgid "display_name_r_toy_gnoll_shaman"
-msgstr "Toy — gnoll shaman"
+msgstr "Begleiter: Nöllschamane"
 
 msgid "display_name_r_toy_gnoll_tribesman"
-msgstr "Toy — gnoll tribesman"
+msgstr "Begleiter: Gnoll Stammesmann"
 
 msgid "display_name_r_toy_gnoll_vilegaunt"
-msgstr "Toy — gnoll vilegaunt"
+msgstr "Begleiter: Gnoll vilegaunt"
 
 msgid "display_name_r_toy_goblin_fighter"
-msgstr "Toy - Goblin-Kämpfer"
+msgstr "Begleiter: Goblinkämpfer"
 
 msgid "display_name_r_toy_goblin_marauder"
-msgstr "Spielzeug - Goblin-Plünderer"
+msgstr "Begleiter: Goblin marauder"
 
 msgid "display_name_r_toy_goblin_scout"
-msgstr "Spielzeug - Goblinspäher"
+msgstr "Begleiter: Goblinspäher"
 
 msgid "display_name_r_toy_goblin_shaman"
-msgstr "Toy - Goblin Schamane"
+msgstr "Begleiter: Goblin Schamane"
 
 msgid "display_name_r_toy_goblin_warlord"
-msgstr "Spielzeug - Goblin Warlord"
+msgstr "Begleiter: Goblin-Kriegsherr"
 
 msgid "display_name_r_toy_gorra_dar"
-msgstr "Spielzeug - Gorra Dar"
+msgstr "Begleiter: Gorra Darsteller"
 
 msgid "display_name_r_toy_gorra_slave"
-msgstr "Spielzeug - Gorra Sklave"
+msgstr "Begleiter: Gorra Sklave"
 
 msgid "display_name_r_toy_grand_tikoloshe"
-msgstr "Spielzeug — grand tikoloshe"
+msgstr "Begleiter: Grand Tikoloshe"
 
 msgid "display_name_r_toy_granite_golem"
-msgstr "Spielzeug — Granitgolem"
+msgstr "Begleiter: Granitgolem"
 
 msgid "display_name_r_toy_gravelord"
-msgstr "Spielzeug — Gravelord"
+msgstr "Begleiter: Gravelord"
 
 msgid "display_name_r_toy_gray_ork_assassin"
-msgstr "Spielzeug - grau Ork Attentäter"
+msgstr "Begleiter: Grau Ork Attentäter"
 
 msgid "display_name_r_toy_gray_ork_chieftain"
-msgstr "Spielzeug - grau Ork Häuptling"
+msgstr "Begleiter: Grau Ork Häuptling"
 
 msgid "display_name_r_toy_gray_ork_executioner"
-msgstr "Spielzeug - grau Ork Scharfrichter"
+msgstr "Begleiter: Grau Ork Henker"
 
 msgid "display_name_r_toy_gray_ork_mauler"
-msgstr "Spielzeug - grau Ork mauler"
+msgstr "Begleiter: Grau Ork mauler"
 
 msgid "display_name_r_toy_gray_ork_warrior"
-msgstr "Spielzeug - grau Ork Krieger"
+msgstr "Begleiter: Grau Ork Krieger"
 
 msgid "display_name_r_toy_greater_below"
-msgstr "Spielzeug - größer unten"
+msgstr "Begleiter: Höher als unten"
 
 msgid "display_name_r_toy_greater_celestial"
-msgstr "Spielzeug - himmlischer"
+msgstr "Begleiter: Größeres himmlisches"
 
 msgid "display_name_r_toy_greater_infernal"
-msgstr "Toy - größeres Höllenspiel"
+msgstr "Begleiter: Infernalischer"
 
 msgid "display_name_r_toy_greater_mummy"
-msgstr "Toy - größere Mumie"
+msgstr "Begleiter: Größere Mumie"
 
 msgid "display_name_r_toy_greater_servant"
-msgstr "Spielzeug - Größerer Diener"
+msgstr "Begleiter: Größerer Knecht"
 
 msgid "display_name_r_toy_hairy_spider"
-msgstr "Spielzeug — haarige Spinne"
+msgstr "Begleiter: Haarige Spinne"
 
 msgid "display_name_r_toy_hand_of_khamset"
-msgstr "Spielzeug - Hand von Khamset"
+msgstr "Begleiter: Hand von Khamset"
 
 msgid "display_name_r_toy_hellfire_juggernaught"
-msgstr "Toy - Höllenfeuer-Juggernaught"
+msgstr "Begleiter: Hellfire Juggernaught"
 
 msgid "display_name_r_toy_hill_giant_clobberer"
-msgstr "Toy — Hill Giant Clobberer"
+msgstr "Begleiter: Bergriesen-Clobberer"
 
 msgid "display_name_r_toy_hill_giant_slugger"
-msgstr "Spielzeug — Hill Riese Trogger"
+msgstr "Begleiter: Hügelgigantenschlinge"
 
 msgid "display_name_r_toy_hivekin_broodguard"
-msgstr "Spielzeug — Hivekinbrutschutz"
+msgstr "Begleiter: Hivekin-Brutwolf"
 
 msgid "display_name_r_toy_hivekin_forager"
-msgstr "Spielzeug — Hivekin forager"
+msgstr "Begleiter: Hivekinforager"
 
 msgid "display_name_r_toy_hivekin_queen"
-msgstr "Toy — Hivekin Queen"
+msgstr "Begleiter: Hivekin-Queen"
 
 msgid "display_name_r_toy_hivekin_soldier"
-msgstr "Toy — Hivekin Soldat"
+msgstr "Begleiter: Hivekin-Soldat"
 
 msgid "display_name_r_toy_hjor_the_great"
-msgstr "Toy - Hjor der Große"
+msgstr "Begleiter: Hjor der Große"
 
 msgid "display_name_r_toy_hobgoblin_grunt"
-msgstr "Spielzeug — hobgoblin grunt"
+msgstr "Begleiter: Hobgolin grunt"
 
 msgid "display_name_r_toy_hobgoblin_officer"
-msgstr "Spielzeug - Hobgoblin-Offizier"
+msgstr "Begleiter: Hobgolin-Offizier"
 
 msgid "display_name_r_toy_hobgoblin_veteran"
-msgstr "Spielzeug - Hobgoblin-Veteran"
+msgstr "Begleiter: Hobgolin-Veteran"
 
 msgid "display_name_r_toy_icejarl"
-msgstr "Spielzeug — icejarl"
+msgstr "Begleiter: Icejarl"
 
 msgid "display_name_r_toy_ice_dragon"
-msgstr "Toy - Kroshogo der Eisdrache"
+msgstr "Begleiter: Kroshogo the Ice Dragon"
 
 msgid "display_name_r_toy_infernal"
-msgstr "Spielzeug - höllisch"
+msgstr "Begleiter: Höllisch"
 
 msgid "display_name_r_toy_ironbark_the_ancient"
-msgstr "Spielzeug — Ironbeard Heavyfist"
+msgstr "Begleiter: Ironbark die alte"
 
 msgid "display_name_r_toy_ironbeard_heavyfist"
-msgstr "Spielzeug — Ironbeard Heavyfist"
+msgstr "Begleiter: Ironbeard Heavyfist Ubersetzung"
 
 msgid "display_name_r_toy_kobold_raider"
-msgstr "Toy — Kobold Raider"
+msgstr "Begleiter: Kobold-Raider"
 
 msgid "display_name_r_toy_kobold_scrapper"
-msgstr "Spielzeug — Kobold Scrapper"
+msgstr "Begleiter: Koboldschaber"
 
 msgid "display_name_r_toy_kobold_scrounger"
-msgstr "Toy — kobold scrounger"
+msgstr "Begleiter: Kobold-Scrounger"
 
 msgid "display_name_r_toy_kobold_shaman"
-msgstr "Toy — kobold shaman"
+msgstr "Begleiter: Kobold-Schaman"
 
 msgid "display_name_r_toy_kobold_strongman"
-msgstr "Spielzeug - Kobold-Kraftprotz"
+msgstr "Begleiter: Kobold-Kraftprotz"
 
 msgid "display_name_r_toy_kraken"
-msgstr "Spielzeug — Kraken"
+msgstr "Begleiter: Kraken"
 
 msgid "display_name_r_toy_lava_golem"
-msgstr "Spielzeug — Lavagolem"
+msgstr "Begleiter: Lavagolem"
 
 msgid "display_name_r_toy_leenspar_golem"
-msgstr "Spielzeug - Leenspar Golem"
+msgstr "Begleiter: Leenspar-Golem"
 
 msgid "display_name_r_toy_lesser_fire_elemental"
-msgstr "Spielzeug - weniger Feuer elementar"
+msgstr "Begleiter: Kleineres Feuerelementar"
 
 msgid "display_name_r_toy_lesser_water_elemental"
-msgstr "Spielzeug - weniger Wasser elementar"
+msgstr "Begleiter: Weniger elementares Wasser"
 
 msgid "display_name_r_toy_lizardman"
-msgstr "Toy — lizardman"
+msgstr "Begleiter: Echsenmensch"
 
 msgid "display_name_r_toy_malaut_acolyte"
-msgstr "Spielzeug - Malaut Akolyt"
+msgstr "Begleiter: Malaut Akolyt"
 
 msgid "display_name_r_toy_malaut_beguiler"
-msgstr "Spielzeug - Malaut Beguiler"
+msgstr "Begleiter: Verführer von Malaut"
 
 msgid "display_name_r_toy_melechar"
-msgstr "Spielzeug - Melechar"
+msgstr "Begleiter: Melechar"
 
 msgid "display_name_r_toy_melechar_guard"
-msgstr "Spielzeug - Melechar Wache"
+msgstr "Begleiter: Melechar Wachposten"
 
 msgid "display_name_r_toy_melechar_shaman"
-msgstr "Spielzeug - Melechar Schamane"
+msgstr "Begleiter: Melechar Schamane"
 
 msgid "display_name_r_toy_minor_sarnakh"
-msgstr "Spielzeug - Minor Sarnakh"
+msgstr "Begleiter: Niederer Sarnakh"
 
 msgid "display_name_r_toy_moonbeast_berserker"
-msgstr "Spielzeug — Moonbeast Berserker"
+msgstr "Begleiter: Mondbestien-Berserker"
 
 msgid "display_name_r_toy_moonbeast_commandant"
-msgstr "Toy - Moonbeast Kommandant"
+msgstr "Begleiter: Moonbeast Kommandant"
 
 msgid "display_name_r_toy_moonbeast_disciple"
-msgstr "Toy - Moonbeast Schüler"
+msgstr "Begleiter: Moonbeast-Jünger"
 
 msgid "display_name_r_toy_moonbeast_officer"
-msgstr "Spielzeug - Moonbeast Officer"
+msgstr "Begleiter: Mondbestien-Offizier"
 
 msgid "display_name_r_toy_moonbeast_ravager"
-msgstr "Toy — Moonbeast ravager"
+msgstr "Begleiter: Mondbestien-Verwüster"
 
 msgid "display_name_r_toy_moonbeast_shaman"
-msgstr "Toy - Moonbeast Schamane"
+msgstr "Begleiter: Moonbeast Schamane"
 
 msgid "display_name_r_toy_mummy"
-msgstr "Spielzeug — Mumien"
+msgstr "Begleiter: Mumien"
 
 msgid "display_name_r_toy_nahdruk_heretic"
-msgstr "Spielzeug - Nahdruk Ketzer"
+msgstr "Begleiter: Nahdruk Ketzer"
 
 msgid "display_name_r_toy_nahdruk_outcast"
-msgstr "Spielzeug — Nahdruk outcast"
+msgstr "Begleiter: Nahdruk ausgestoßen"
 
 msgid "display_name_r_toy_nalaed"
-msgstr "Spielzeug — nalaed"
+msgstr "Begleiter: Nalaed"
 
 msgid "display_name_r_toy_nalaed_elder"
-msgstr "Toy — Nalaed Elder"
+msgstr "Begleiter: Nalaeder Ältester"
 
 msgid "display_name_r_toy_neithal_golem"
-msgstr "Spielzeug - Neithal Golem"
+msgstr "Begleiter: Neithal-Golem"
 
 msgid "display_name_r_toy_night_hag"
-msgstr "Spielzeug - Night Hag"
+msgstr "Begleiter: Nachtschnabel"
 
 msgid "display_name_r_toy_oak_lord"
-msgstr "Toy — Oak Lord"
+msgstr "Begleiter: Eichenfürst"
 
 msgid "display_name_r_toy_oathbound"
-msgstr "Spielzeug — oathbound"
+msgstr "Begleiter: Oathbound"
 
 msgid "display_name_r_toy_oathliege"
-msgstr "Spielzeug — oathliege"
+msgstr "Begleiter: Oathlieger"
 
 msgid "display_name_r_toy_obsidian_golem"
-msgstr "Toy — Obsidian Golem"
+msgstr "Begleiter: Obsidiangolem"
 
 msgid "display_name_r_toy_ogre_boss"
-msgstr "Spielzeug — Ogerboss"
+msgstr "Begleiter: Ogerboss"
 
 msgid "display_name_r_toy_ogre_bully"
-msgstr "Spielzeug — Oger bully"
+msgstr "Begleiter: Oger bully"
 
 msgid "display_name_r_toy_raptor"
-msgstr "Spielzeug — Raptor"
+msgstr "Begleiter: Raptor"
 
 msgid "display_name_r_toy_raven_standard_grunt"
-msgstr "Toy - Raben-Standard-Grunt"
+msgstr "Begleiter: Raben-Standard-Grunzen"
 
 msgid "display_name_r_toy_raven_standard_officer"
-msgstr "Toy - Raben Standard Officer"
+msgstr "Begleiter: Raben Standardoffizier"
 
 msgid "display_name_r_toy_raven_standard_veteran"
-msgstr "Toy - Raben Standard Veteran"
+msgstr "Begleiter: Raben Standard-Veteran"
 
 msgid "display_name_r_toy_sadayel_chief"
-msgstr "Spielzeug - Sadayel Häuptling"
+msgstr "Begleiter: Sadayel Häuptlinge"
 
 msgid "display_name_r_toy_sadayel_guardian"
-msgstr "Spielzeug - Sadayel Wächter"
+msgstr "Begleiter: Sadayel Wächter"
 
 msgid "display_name_r_toy_sadayel_shaman"
-msgstr "Spielzeug - Sadayel Schamane"
+msgstr "Begleiter: Sadayel Schamane"
 
 msgid "display_name_r_toy_salamander"
-msgstr "Spielzeug — Salamander"
+msgstr "Begleiter: Salamander"
 
 msgid "display_name_r_toy_sandstone_golem"
-msgstr "Spielzeug - Sandstone Golem"
+msgstr "Begleiter: Sandstone Golem"
 
 msgid "display_name_r_toy_sarlid_darkweaver"
-msgstr "Spielzeug - Sarlid Darkweaver"
+msgstr "Begleiter: Sarlid Darkweber"
 
 msgid "display_name_r_toy_sarlid_defender"
-msgstr "Spielzeug - Sarlid Verteidiger"
+msgstr "Begleiter: Sarlid Verteidiger"
 
 msgid "display_name_r_toy_sarlid_guard"
-msgstr "Spielzeug - Sarlid Wache"
+msgstr "Begleiter: Sarlid Wachposten"
 
 msgid "display_name_r_toy_sarlid_poison_adept"
-msgstr "Spielzeug - Sarlid Giftadept"
+msgstr "Begleiter: Sarlid Giftadept"
 
 msgid "display_name_r_toy_sarnakh"
-msgstr "Spielzeug - Sarnakh"
+msgstr "Begleiter: Sarnakh"
 
 msgid "display_name_r_toy_scumling_guard"
-msgstr "Spielzeug - Abschaumschutz"
+msgstr "Begleiter: Brüchige Schutzeinrichtung"
 
 msgid "display_name_r_toy_scumling_queen"
-msgstr "Toy - Die brüchige Königin"
+msgstr "Begleiter: Brüchige Königin"
 
 msgid "display_name_r_toy_scumling_worker"
-msgstr "Spielzeug - Abschaumarbeiter"
+msgstr "Begleiter: Brüchige Arbeitnehmer"
 
 msgid "display_name_r_toy_seidbound"
-msgstr "Spielzeug — seidbound"
+msgstr "Begleiter: Drahtgebunden"
 
 msgid "display_name_r_toy_selentine_golem"
-msgstr "Spielzeug - Selentine Golem"
+msgstr "Begleiter: Selentine-Golem"
 
 msgid "display_name_r_toy_serpentine"
-msgstr "Spielzeug — Serpentine"
+msgstr "Begleiter: Serpentin"
 
 msgid "display_name_r_toy_servant_of_malaut"
-msgstr "Spielzeug - Diener von Malaut"
+msgstr "Begleiter: Diener von Malaut"
 
 msgid "display_name_r_toy_severii_archer"
-msgstr "Toy — severii archer"
+msgstr "Begleiter: Severii archer"
 
 msgid "display_name_r_toy_severii_centurion"
-msgstr "Spielzeug — severii centurion"
+msgstr "Begleiter: Severii centurion CAS-Nr."
 
 msgid "display_name_r_toy_severii_legionnaire"
-msgstr "Spielzeug — severii legionnaire"
+msgstr "Begleiter: Severii-Legionär"
 
 msgid "display_name_r_toy_shadow_knight"
-msgstr "Spielzeug — Schattenritter"
+msgstr "Begleiter: Schattenritter"
 
 msgid "display_name_r_toy_shadow_spirit"
-msgstr "Spielzeug — Schattengeist"
+msgstr "Begleiter: Schattengeist"
 
 msgid "display_name_r_toy_shark"
-msgstr "Spielzeug — Hai"
+msgstr "Begleiter: Shark"
 
 msgid "display_name_r_toy_shroud_knight"
-msgstr "Toy — shroud knight"
+msgstr "Begleiter: Schleierritter"
 
 msgid "display_name_r_toy_siharo_dakrbinder"
-msgstr "Toy — siharo darkbinder"
+msgstr "Begleiter: Siharo Darkbinder"
 
 msgid "display_name_r_toy_skeleton_archer"
-msgstr "Spielzeug — Skelettbogenschütze"
+msgstr "Begleiter: Skelettbogenschütze"
 
 msgid "display_name_r_toy_skeleton_warrior"
-msgstr "Toy - Skelettkrieger"
+msgstr "Begleiter: Skelettkrieger"
 
 msgid "display_name_r_toy_slave_of_khamset"
-msgstr "Spielzeug - Sklave von Khamset"
+msgstr "Begleiter: Sklave von Khamset"
 
 msgid "display_name_r_toy_snowclan_elder"
-msgstr "Spielzeug — Snowclan Ältester"
+msgstr "Begleiter: Snowclan-Ältester"
 
 msgid "display_name_r_toy_snowclan_hunter"
-msgstr "Spielzeug - Schneeclanjäger"
+msgstr "Begleiter: Schneeclan-Jäger"
 
 msgid "display_name_r_toy_snowclan_oracle"
-msgstr "Spielzeug - Snowclan Orakel"
+msgstr "Begleiter: Snowclan-Orakel"
 
 msgid "display_name_r_toy_snowclan_warrior"
-msgstr "Spielzeug - Snowclan Warrior"
+msgstr "Begleiter: Krieger des Schneeclans"
 
 msgid "display_name_r_toy_son_of_ochran"
-msgstr "Toy - Sohn von Ochran"
+msgstr "Begleiter: Sohn von Ochran"
 
 msgid "display_name_r_toy_spellgazer"
-msgstr "Spielzeug — Spellgazer"
+msgstr "Begleiter: Spektakel"
 
 msgid "display_name_r_toy_sun_exarch"
-msgstr "Spielzeug - Sun Exarch"
+msgstr "Begleiter: Sonnenexarch"
 
 msgid "display_name_r_toy_svartdvergir_doombringer"
-msgstr "Spielzeug - Svartdvergir Doombringer"
+msgstr "Begleiter: Svartdvergir Doombring"
 
 msgid "display_name_r_toy_svartdvergir_general"
-msgstr "Spielzeug - Svartdvergir General"
+msgstr "Begleiter: Svartdvergir Allgemeines"
 
 msgid "display_name_r_toy_svartdvergir_initiate"
-msgstr "Spielzeug - Svartdvergir initiieren"
+msgstr "Begleiter: Svartdvergir Initiativ"
 
 msgid "display_name_r_toy_svartdvergir_nightaxe"
-msgstr "Spielzeug - Svartdvergir Nightaxe"
+msgstr "Begleiter: Svartdvergir Nightaxe"
 
 msgid "display_name_r_toy_svartdvergir_summoner"
-msgstr "Spielzeug - Svartdvergir Beschwörer"
+msgstr "Begleiter: Svartdvergir Beschwörer"
 
 msgid "display_name_r_toy_swamp_hag"
-msgstr "Toy — swamp hag"
+msgstr "Begleiter: Sumpfhagel"
 
 msgid "display_name_r_toy_theyril_golem"
-msgstr "Spielzeug - Theyril Golem"
+msgstr "Begleiter: Theyril-Golem"
 
 msgid "display_name_r_toy_tiger"
-msgstr "Spielzeug — Tiger"
+msgstr "Begleiter: Tiger"
 
 msgid "display_name_r_toy_tomb_iklit"
-msgstr "Spielzeug - Grab Iklit"
+msgstr "Begleiter: Grab Iklit"
 
 msgid "display_name_r_toy_troll"
-msgstr "Spielzeug — Troll"
+msgstr "Begleiter: Troll"
 
 msgid "display_name_r_toy_troll_lord"
-msgstr "Spielzeug - Trollfürst"
+msgstr "Begleiter: Trollfürst"
 
 msgid "display_name_r_toy_troll_shaman"
-msgstr "Toy - Troll Schamane"
+msgstr "Begleiter: Troll Schamane"
 
 msgid "display_name_r_toy_undead_dwarf_foreman"
-msgstr "Toy - Untoter Zwergvorarbeiter"
+msgstr "Begleiter: Untoter Zwergvorarbeiter"
 
 msgid "display_name_r_toy_undead_dwarf_guardian"
-msgstr "Toy - Untoter Zwergwächter"
+msgstr "Begleiter: Untoter Zwergwächter"
 
 msgid "display_name_r_toy_undead_dwarf_miner"
-msgstr "Toy - Untoter Zwergbergmann"
+msgstr "Begleiter: Untoter Zwergbergmann"
 
 msgid "display_name_r_toy_veilron_golem"
-msgstr "Spielzeug - Veilron Golem"
+msgstr "Begleiter: Veilron-Golem"
 
 msgid "display_name_r_toy_vile_sarnakh"
-msgstr "Spielzeug - abscheulich Sarnakh"
+msgstr "Begleiter: Bösartiger Sarnakh"
 
 msgid "display_name_r_toy_vlad_duskward"
-msgstr "Toy — vlad duskward"
+msgstr "Begleiter: Vlad duskward"
 
 msgid "display_name_r_toy_warlord_choppah"
-msgstr "Toy - Warlord Chuppah"
+msgstr "Begleiter: Warlord Chuppah"
 
 msgid "display_name_r_toy_water_elemental"
-msgstr "Spielzeug - Wasser elementar"
+msgstr "Begleiter: Wasserelementar"
 
 msgid "display_name_r_toy_wildtribe_chieftain"
-msgstr "Toy — Wildtribe Chieftain"
+msgstr "Begleiter: Wildtribe Häuptling"
 
 msgid "display_name_r_toy_wildtribe_mage"
-msgstr "Toy - Wildtribe Magier"
+msgstr "Begleiter: Wildtribe Magy"
 
 msgid "display_name_r_toy_wildtribe_pathfinder"
-msgstr "Spielzeug - Wildtribe-Pfadfinder"
+msgstr "Begleiter: Wildtribe-Pfadfinder"
 
 msgid "display_name_r_toy_wildtribe_shaka"
-msgstr "Spielzeug - Wildtribe-Shaka"
+msgstr "Begleiter: Wildtribe-Shaka"
 
 msgid "display_name_r_toy_wildtribe_warrior"
-msgstr "Spielzeug - Wildtribe-Krieger"
+msgstr "Begleiter: Wildtribe-Krieger"
 
 msgid "display_name_r_toy_wildtribe_witch_doctor"
-msgstr "Toy - Wildtribe Hexendoktor"
+msgstr "Begleiter: Wildtribe Hexenarzt"
 
 msgid "display_name_r_toy_windlord"
-msgstr "Spielzeug - Windlord"
+msgstr "Begleiter: Windfürst"
 
 msgid "display_name_r_toy_winterbound"
-msgstr "Spielzeug — winterbound"
+msgstr "Begleiter: Winterlich"
 
 msgid "display_name_r_toy_yeti"
-msgstr "Spielzeug — Yeti"
+msgstr "Begleiter: Buti"
 
 msgid "display_name_r_toy_zombie"
-msgstr "Spielzeug — Zombie"
+msgstr "Begleiter: Zombie"
 
 msgid "display_name_r_toy_zombie_shambler"
-msgstr "Toy — Zombie Shambler"
+msgstr "Begleiter: Schlurfender Zombie"
 
 msgid "display_name_r_toy_zombie_warrior"
-msgstr "Toy - Zombie-Krieger"
+msgstr "Begleiter: Zombie-Krieger"
 
 msgid "display_name_r_Trader"
 msgstr "Händler"
@@ -10146,13 +10176,13 @@ msgid "display_name_r_zombie_05"
 msgstr "Schlurfender Zombie"
 
 msgid "display_name_r_Armor Dragon Gauntlet"
-msgstr "Dragon Armor Gauntlets Ubersetzungen"
+msgstr "Drachenhandschuhe"
 
 msgid "display_name_r_Armor Dragon Shoulders"
 msgstr "Drachenschulterschützer"
 
 msgid "display_name_r_Armor Dragon Helmet"
-msgstr "Drachenpanzerhelm"
+msgstr "Drachenhelm"
 
 msgid "display_name_r_Medallion"
 msgstr "Medaillon"
@@ -10167,25 +10197,25 @@ msgid "display_name_r_Bone Amulet"
 msgstr "Knochenamulett"
 
 msgid "display_name_r_Armor Dragon Torso"
-msgstr "Drachenpanzer Cuirass"
+msgstr "Drachenkuiras"
 
 msgid "display_name_r_Armor Dragon Footwear"
-msgstr "Drachenpanzerstiefel"
+msgstr "Drachenstiefel"
 
 msgid "display_name_r_Armor Dragon Legs"
-msgstr "Drachenpanzergrieben"
+msgstr "Drachengrieben"
 
 msgid "display_name_r_Armor Dragon Pants"
-msgstr "Drachenpanzerhosen"
+msgstr "Drachenhosen"
 
 msgid "display_name_r_Armor Dragon Couters"
-msgstr "Dragon Armor Couters Ubersetzungen"
+msgstr "Drache couters"
 
 msgid "display_name_r_Armor Dragon Vambraces"
-msgstr "Drachenpanzer vambraces"
+msgstr "Drachenvambraces"
 
 msgid "display_name_r_Armor Dragon Girdle"
-msgstr "Drachenpanzergürtel"
+msgstr "Drachengürtel"
 
 msgid "display_name_r_Hivekin Queen"
 msgstr "Hivekin-Queen"
@@ -12951,16 +12981,16 @@ msgid "display_name_r_Sea Fortress Invulnerable"
 msgstr "Festung"
 
 msgid "display_name_r_Player Slot Machine_02 Item"
-msgstr "Spielautomaten"
+msgstr "Goldspielautomat"
 
 msgid "display_name_r_Player Slot Machine_02"
-msgstr "Spielautomat"
+msgstr "Goldspielautomat"
 
 msgid "display_name_r_Clan Hamlet Guardtower Alfar"
 msgstr "Wachturm"
 
 msgid "display_name_r_Player slot Machine Item"
-msgstr "Spielautomaten"
+msgstr "Silber Spielautomat"
 
 msgid "display_name_r_Player Vendor Cart Item"
 msgstr "Player Vendor Cart"
@@ -12990,7 +13020,7 @@ msgid "display_name_r_Player House Safe Item"
 msgstr "Sicher"
 
 msgid "display_name_r_Player Slot Machine"
-msgstr "Spielautomat"
+msgstr "Silber Spielautomat"
 
 msgid "display_name_r_Player House Ladder"
 msgstr "Leiter"
@@ -17068,6 +17098,9 @@ msgstr "Ork normale männliche"
 msgid "display_name_r_NPC Ork Robe Female"
 msgstr "Ork Gewand weiblich"
 
+msgid "display_name_r_NPC Ork Slayer Master"
+msgstr "Meisterjäger Aero"
+
 msgid "display_name_r_NPC Orks"
 msgstr "Npc Orks"
 
@@ -17147,610 +17180,625 @@ msgid "display_name_r_Permits"
 msgstr "Genehmigungen"
 
 msgid "display_name_r_Pet Air Elemental"
-msgstr "Haustierluft elementar"
+msgstr "Begleiter: Luftelementar"
 
 msgid "display_name_r_Pet Akathar"
-msgstr "Haustier Akathar"
+msgstr "Begleiter: Akathar"
 
 msgid "display_name_r_Pet Baradron"
-msgstr "Haustier Baradron"
+msgstr "Begleiter: Baradron"
 
 msgid "display_name_r_Pet Basalt Golem"
 msgstr "Begleiter: Basaltgolem"
 
 msgid "display_name_r_Pet Bear Arctic"
-msgstr "Haustierbär arktisch"
+msgstr "Begleiter: Bärenarktis"
 
 msgid "display_name_r_Pet Bear Brown"
-msgstr "Haustierbär braun"
+msgstr "Begleiter: Bärenbraun"
 
 msgid "display_name_r_Pet Beastman Destroyer"
-msgstr "Pet beastman Zerstörer"
+msgstr "Begleiter: Beastman Zerstörer"
 
 msgid "display_name_r_Pet Beastman Devastator"
-msgstr "Tiertier-Beastman Devastator"
+msgstr "Begleiter: Tiermenschen-Verwüster"
 
 msgid "display_name_r_Pet Beastman Rampager"
-msgstr "Pet beastman Ramager"
+msgstr "Begleiter: Beastman Ramager"
 
 msgid "display_name_r_Pet Beastman Warlord"
-msgstr "Begleiter: Tiermensch-Kriegsherr"
+msgstr "Begleiter: Tiermenschen-Kriegsherr"
 
 msgid "display_name_r_Pet Below"
-msgstr "Haustier unten"
+msgstr "Begleiter: Unten"
+
+msgid "display_name_r_Pet Below Uber"
+msgstr "Begleiter: Höher als unten"
 
 msgid "display_name_r_Pet Black Knight"
-msgstr "Haustier schwarzer Ritter"
+msgstr "Begleiter: Schwarzer Ritter"
 
 msgid "display_name_r_Pet Black Lord"
-msgstr "Begleiter: Schwarzer Fürst"
+msgstr "Begleiter: Schwarzer Lord"
 
 msgid "display_name_r_Pet Blood Knight"
-msgstr "Tierblutritter"
+msgstr "Begleiter: Blutritter"
 
 msgid "display_name_r_Pet Bone Knight"
-msgstr "Tierknochenritter"
+msgstr "Begleiter: Knochenritter"
 
 msgid "display_name_r_Pet Bonecrew Captain"
-msgstr "Kapitän des Knochenpersonals"
+msgstr "Begleiter: Kapitän des Knochenpersonals"
 
 msgid "display_name_r_Pet Bonecrew Mariner"
-msgstr "Heimtier-Bonecrew-Seemann"
+msgstr "Begleiter: Bonecrew-Seemann"
 
 msgid "display_name_r_Pet Bonecrew Mutineer"
-msgstr "Knochencrew-Meuterei für Heimtiere"
+msgstr "Begleiter: Bonecrew Meuterer"
 
 msgid "display_name_r_Pet Brownie"
-msgstr "Haustier-Brownie"
+msgstr "Begleiter: Brownie"
 
 msgid "display_name_r_Pet Cairn Giant"
-msgstr "Haustier Cairn Riese"
+msgstr "Begleiter: Cairn Riesenriese"
 
 msgid "display_name_r_Pet Cave Hag"
-msgstr "Haustierhöhlenhalm"
+msgstr "Begleiter: Höhlenhagel"
 
 msgid "display_name_r_Pet Celestial"
-msgstr "Himmlisches Haustier"
+msgstr "Begleiter: Himmlisch"
 
 msgid "display_name_r_Pet Celestial Greater"
-msgstr "Haustier himmlisch größer"
+msgstr "Begleiter: Himmlischer größer"
 
 msgid "display_name_r_Pet Centaur Chieftain"
-msgstr "Zentaurenhäuptling"
+msgstr "Begleiter: Zentaurenhäuptling"
 
 msgid "display_name_r_Pet Centaur Huntress"
-msgstr "Zentaurenjägerin"
+msgstr "Begleiter: Zentaurenjägerin"
 
 msgid "display_name_r_Pet Centaur Reaver"
-msgstr "Haustier Zentaurenraber"
+msgstr "Begleiter: Zentaurenraber"
 
 msgid "display_name_r_Pet Centaur Warrior"
-msgstr "Zentaurenkrieger"
+msgstr "Begleiter: Zentaurenkrieger"
 
 msgid "display_name_r_Pet Chieftain Khalos"
-msgstr "Häuptlings-Khalos"
+msgstr "Begleiter: Häuptlingshalos"
 
 msgid "display_name_r_Pet Child Of Khamset"
-msgstr "Haustierkind von Khamset"
+msgstr "Begleiter: Child Of Khamset"
 
 msgid "display_name_r_Pet Chosen Of Khamset"
-msgstr "Haustier gewählt von Khamset"
+msgstr "Begleiter: Chosen Of Khamset"
 
 msgid "display_name_r_Pet Ciel Fey Defender"
-msgstr "Tier Ciel Fey Verteidiger"
+msgstr "Begleiter: Ciel Fey Verteidiger"
 
 msgid "display_name_r_Pet Ciel Fey Druid"
-msgstr "Haustier Ciel Fey Druide"
+msgstr "Begleiter: Ciel Fey Druide"
 
 msgid "display_name_r_Pet Ciel Fey Forester"
-msgstr "Haustier Ciel Fey Förster"
+msgstr "Begleiter: Ciel Fey Förster"
 
 msgid "display_name_r_Pet Crog"
-msgstr "Haustier Crog"
+msgstr "Begleiter: Crog"
 
 msgid "display_name_r_Pet Crypt Guard"
-msgstr "Haustier-Kryptenschutz"
+msgstr "Begleiter: Gruftwächter"
 
 msgid "display_name_r_Pet Deathless Mage"
-msgstr "Tier unsterblicher Magier"
+msgstr "Begleiter: Unsterblicher Magier"
 
 msgid "display_name_r_Pet Deathless Servant"
-msgstr "Tier unsterblicher Diener"
+msgstr "Begleiter: Der unsterbliche Diener"
+
+msgid "display_name_r_Pet Demon"
+msgstr "Begleiter: Dämonenherren"
 
 msgid "display_name_r_Pet Demon Queen"
-msgstr "Tier Dämonenkönigin"
+msgstr "Begleiter: Dämonenkönigin"
 
 msgid "display_name_r_Pet Devil"
-msgstr "Pet Teufel"
+msgstr "Begleiter: Teufel"
 
 msgid "display_name_r_Pet Dragon Dark"
-msgstr "Haustier Drachen dunkel"
+msgstr "Begleiter: Drache dunkel"
 
 msgid "display_name_r_Pet Dragon Ice"
-msgstr "Haustierdracheneis"
+msgstr "Begleiter: Dracheneis"
 
 msgid "display_name_r_Pet Earth Elemental"
-msgstr "Haustiererde elementar"
+msgstr "Begleiter: Elementarer Erdboden"
 
 msgid "display_name_r_Pet Elfshade"
-msgstr "Elfenschatten"
+msgstr "Begleiter: Elfenschatten"
 
 msgid "display_name_r_Pet Elfwraith"
-msgstr "Haustier Elfenwraith"
+msgstr "Begleiter: Elfwraith"
 
 msgid "display_name_r_Pet Eodrin"
-msgstr "Haustier Eodrin"
+msgstr "Begleiter: Eodrin"
 
 msgid "display_name_r_Pet Evil Eye"
-msgstr "Begleiter: Böses Auge"
+msgstr "Begleiter: Böser Blick"
 
 msgid "display_name_r_Pet Fenris Alpha"
-msgstr "Pet-Fenris-Alpha"
+msgstr "Begleiter: Fenris-Alpha"
 
 msgid "display_name_r_Pet Fire Elemental"
-msgstr "Haustierfeuer elementar"
+msgstr "Begleiter: Feuerelementar"
 
 msgid "display_name_r_Pet Fire Elemental Lesser"
-msgstr "Haustierfeuer elementar kleiner"
+msgstr "Begleiter: Feuerelement geringer"
 
 msgid "display_name_r_Pet Fire Giant"
-msgstr "Haustierfeuerriese"
+msgstr "Begleiter: Feuerriese"
 
 msgid "display_name_r_Pet Firescourge"
-msgstr "Haustierfeuergeißel"
+msgstr "Begleiter: Feuergeißeln"
 
 msgid "display_name_r_Pet Flesh Golem"
-msgstr "Heimtierfleisch Golem"
+msgstr "Begleiter: Fleischgolem"
 
 msgid "display_name_r_Pet Forest Golem"
-msgstr "Golem für Haustierwald"
+msgstr "Begleiter: Waldgolem"
 
 msgid "display_name_r_Pet Forest Prophet Female"
-msgstr "Haustierwald Prophetin weiblich"
+msgstr "Begleiter: Waldprophetin weiblich"
 
 msgid "display_name_r_Pet Forest Prophet Male"
-msgstr "Haustierwald Prophet männlich"
+msgstr "Begleiter: Waldprophet männlich"
 
 msgid "display_name_r_Pet Frostjarl"
-msgstr "Haustier frostjarl"
+msgstr "Begleiter: Frostjarl"
 
 msgid "display_name_r_Pet Frostwalker"
-msgstr "Frostwalker für Haustiere"
+msgstr "Begleiter: Frostwalker"
 
 msgid "display_name_r_Pet Gardoroc"
-msgstr "Haustiergardorok"
+msgstr "Begleiter: Gardorocen"
 
 msgid "display_name_r_Pet Gargantua"
-msgstr "Haustiergargantua"
+msgstr "Begleiter: Gargantua"
 
 msgid "display_name_r_Pet Ghost"
-msgstr "Begleiter: Geist"
+msgstr "Begleiter: Geister"
 
 msgid "display_name_r_Pet Ghoul Devourer"
-msgstr "Ghoul-Hausfresser"
+msgstr "Begleiter: Ghoul verschlingt"
+
+msgid "display_name_r_Pet Ghoul Fleshcrafter"
+msgstr "Begleiter: Ghoul-Fleischmacher"
 
 msgid "display_name_r_Pet Giant Skeleton"
-msgstr "Haustier Riesenskelett"
+msgstr "Begleiter: Riesenskelett"
 
 msgid "display_name_r_Pet Gnoll Butcher"
-msgstr "Pelzmännchen"
+msgstr "Begleiter: Nöllmetzer"
 
 msgid "display_name_r_Pet Gnoll Hunter"
-msgstr "Pelzmöwenjäger"
+msgstr "Begleiter: Möwenjäger"
 
 msgid "display_name_r_Pet Gnoll Shaman"
-msgstr "Haustier-Gnollschamane"
+msgstr "Begleiter: Nöllschamane"
 
 msgid "display_name_r_Pet Gnoll Tribesman"
-msgstr "Pet gnoll Stammesmann"
+msgstr "Begleiter: Gnoll Stammesmann"
 
 msgid "display_name_r_Pet Gnoll Vilegaunt"
-msgstr "Pet gnoll vilegaunt"
+msgstr "Begleiter: Gnoll vilegaunt"
 
 msgid "display_name_r_Pet Goblin Fighter"
-msgstr "Pet Goblin Kämpfer"
+msgstr "Begleiter: Goblinkämpfer"
 
 msgid "display_name_r_Pet Goblin Marauder"
-msgstr "Begleiter: Goblin-Plünderer"
+msgstr "Begleiter: Goblin marauder"
 
 msgid "display_name_r_Pet Goblin Shaman"
-msgstr "Pet Goblin Schamane"
+msgstr "Begleiter: Goblin Schamane"
 
 msgid "display_name_r_Pet Goblin Warlord"
 msgstr "Begleiter: Goblin-Kriegsherr"
 
 msgid "display_name_r_Pet Gorra Dar"
-msgstr "Haustier Gorra Darf"
+msgstr "Begleiter: Gorra Darsteller"
 
 msgid "display_name_r_Pet Gorra Slave"
-msgstr "Haustier Gorra Sklave"
+msgstr "Begleiter: Gorra Sklave"
 
 msgid "display_name_r_Pet Grand Tikoloshe"
 msgstr "Begleiter: Grand Tikoloshe"
 
 msgid "display_name_r_Pet Granite Golem"
-msgstr "Pet Granit Golem"
+msgstr "Begleiter: Granitgolem"
 
 msgid "display_name_r_Pet Gravelord"
-msgstr "Haustiergraslord"
+msgstr "Begleiter: Gravelord"
 
 msgid "display_name_r_Pet Gray Ork Assassin"
-msgstr "Pet Grau Ork Attentäter"
+msgstr "Begleiter: Grau Ork Attentäter"
 
 msgid "display_name_r_Pet Gray Ork Chieftain"
-msgstr "Haustier grau Ork Häuptling"
+msgstr "Begleiter: Grau Ork Häuptling"
 
 msgid "display_name_r_Pet Gray Ork Executioner"
-msgstr "Pet grey Ork Scharfrichter"
+msgstr "Begleiter: Grau Ork Henker"
 
 msgid "display_name_r_Pet Gray Ork Mauler"
-msgstr "Haustier grau Ork mauler"
+msgstr "Begleiter: Grau Ork mauler"
 
 msgid "display_name_r_Pet Gray Ork Warrior"
-msgstr "Pet Grau Ork Krieger"
+msgstr "Begleiter: Grau Ork Krieger"
 
 msgid "display_name_r_Pet Hand Of Khamset"
-msgstr "Haustierhand von Khamset"
+msgstr "Begleiter: Hand Of Khamset"
 
 msgid "display_name_r_Pet Hellfire Juggernaught"
-msgstr "Haustier Höllenfeuer Juggernaught"
+msgstr "Begleiter: Hellfire Juggernaught"
 
 msgid "display_name_r_Pet Hill Giant Clobber"
-msgstr "Haustier Hill Riese Clob"
+msgstr "Begleiter: Hügelgigantenkrabbe"
 
 msgid "display_name_r_Pet Hill Giant Slugger"
-msgstr "Haustier Hill Riese Slugger"
+msgstr "Begleiter: Hügelgigantenschlinge"
 
 msgid "display_name_r_Pet Hivekin Broodguard"
-msgstr "Haustier-Hiveon-Bruder"
+msgstr "Begleiter: Hivekin-Brutwolf"
 
 msgid "display_name_r_Pet Hivekin Forager"
-msgstr "Haustier-Hivekin-Forager"
+msgstr "Begleiter: Hivekinforager"
 
 msgid "display_name_r_Pet Hivekin Queen"
-msgstr "Begleiter: Hivekin-Königin"
+msgstr "Begleiter: Hivekin-Queen"
 
 msgid "display_name_r_Pet Hivekin Soldier"
-msgstr "Hivekin-Soldat"
+msgstr "Begleiter: Hivekin-Soldat"
 
 msgid "display_name_r_Pet Hjor The Great"
-msgstr "Pet Hjor der Große"
+msgstr "Begleiter: Hjor der Große"
 
 msgid "display_name_r_Pet Hobgoblin Grunt"
-msgstr "Pet Hobgolin grunt"
+msgstr "Begleiter: Hobgolin grunt"
 
 msgid "display_name_r_Pet Hobgoblin Officer"
-msgstr "Pet Hobgolin Offizier"
+msgstr "Begleiter: Hobgolin-Offizier"
 
 msgid "display_name_r_Pet Hobgoblin Veteran"
-msgstr "Pet Hobgolin Veteran"
+msgstr "Begleiter: Hobgolin-Veteran"
 
 msgid "display_name_r_Pet Icejarl"
-msgstr "Haustier Icejarl"
+msgstr "Begleiter: Icejarl"
 
 msgid "display_name_r_Pet Infernal"
-msgstr "Haustier infernalisch"
+msgstr "Begleiter: Höllisch"
 
 msgid "display_name_r_Pet Infernal Greater"
-msgstr "Haustier höllisch größer"
+msgstr "Begleiter: Höllisch größer"
 
 msgid "display_name_r_Pet Ironbark The Ancient"
-msgstr "Haustier Ironbark die alte"
+msgstr "Begleiter: Ironbark die alte"
 
 msgid "display_name_r_Pet Ironbeard Heavyfist"
-msgstr "Ironbeard Heavyfist Ubersetzungen"
+msgstr "Begleiter: Ironbeard Heavyfist Ubersetzung"
 
 msgid "display_name_r_Pet Kobold Raider"
-msgstr "Pet Kobold Raid"
+msgstr "Begleiter: Kobold-Raider"
 
 msgid "display_name_r_Pet Kobold Scrapper"
-msgstr "Pet Kobold Scraper"
+msgstr "Begleiter: Koboldschaber"
 
 msgid "display_name_r_Pet Kobold Scrounger"
-msgstr "Pet Kobold scrounger"
+msgstr "Begleiter: Kobold-Scrounger"
 
 msgid "display_name_r_Pet Kobold Shaman"
-msgstr "Pet Kobold Schamane"
+msgstr "Begleiter: Kobold-Schaman"
 
 msgid "display_name_r_Pet Kobold Strongman"
 msgstr "Begleiter: Kobold-Kraftprotz"
 
 msgid "display_name_r_Pet Kraken"
-msgstr "Heimkraken"
+msgstr "Begleiter: Kraken"
 
 msgid "display_name_r_Pet Lava Golem"
 msgstr "Begleiter: Lavagolem"
 
 msgid "display_name_r_Pet Leenspar Golem"
-msgstr "Haustier Leenspar Golem"
+msgstr "Begleiter: Leenspar-Golem"
 
 msgid "display_name_r_Pet Lizardman"
-msgstr "Haustier Echse"
+msgstr "Begleiter: Echsenmensch"
 
 msgid "display_name_r_Pet Malaut Acolyte"
-msgstr "Pet Malaut Akolyt"
+msgstr "Begleiter: Malaut Akolyt"
 
 msgid "display_name_r_Pet Malaut Beguiler"
-msgstr "Haustier Malaut Beguiler"
+msgstr "Begleiter: Verführer von Malaut"
 
 msgid "display_name_r_Pet Melechar"
-msgstr "Haustier Melechar"
+msgstr "Begleiter: Melechar"
 
 msgid "display_name_r_Pet Melechar Guard"
-msgstr "Haustier Melechar Wachmann"
+msgstr "Begleiter: Melechar Wachposten"
 
 msgid "display_name_r_Pet Melechar Shaman"
-msgstr "Haustier Melechar Schamane"
+msgstr "Begleiter: Melechar Schamane"
 
 msgid "display_name_r_Pet Moonbeast Berserker"
-msgstr "Haustier Moonbeast Berserker"
+msgstr "Begleiter: Mondbestien-Berserker"
 
 msgid "display_name_r_Pet Moonbeast Commandant"
-msgstr "Haustier Moonbeast Kommandant"
+msgstr "Begleiter: Moonbeast Kommandant"
 
 msgid "display_name_r_Pet Moonbeast Disciple"
-msgstr "Haustier Moonbeast Schüler"
+msgstr "Begleiter: Moonbeast-Jünger"
 
 msgid "display_name_r_Pet Moonbeast Officer"
-msgstr "Haustier Moonbeast Officer"
+msgstr "Begleiter: Mondbestien-Offizier"
 
 msgid "display_name_r_Pet Moonbeast Ravager"
-msgstr "Haustier Moonbeast Ravager"
+msgstr "Begleiter: Mondbestien-Verwüster"
 
 msgid "display_name_r_Pet Moonbeast Shaman"
-msgstr "Haustier Moonbeast Schamane"
+msgstr "Begleiter: Moonbeast Schamane"
 
 msgid "display_name_r_Pet Mummy"
-msgstr "Haustiermumie"
+msgstr "Begleiter: Mumien"
 
 msgid "display_name_r_Pet Mummy Greater"
-msgstr "Haustiermumie größer"
+msgstr "Begleiter: Mumien größer"
 
 msgid "display_name_r_Pet Nahdruk Heretic"
-msgstr "Haustier Nahdruk Ketzer"
+msgstr "Begleiter: Nahdruk Ketzer"
 
 msgid "display_name_r_Pet Nahdruk Outcast"
-msgstr "Pet nahdruk outcasted"
+msgstr "Begleiter: Nahdruk ausgestoßen"
 
 msgid "display_name_r_Pet Nalaed"
-msgstr "Haustier nalaed"
+msgstr "Begleiter: Nalaed"
 
 msgid "display_name_r_Pet Nalaed Elder"
-msgstr "Haustier-Alter"
+msgstr "Begleiter: Nalaeder Ältester"
 
 msgid "display_name_r_Pet Neithal Golem"
-msgstr "Haustier Neithal Golem"
+msgstr "Begleiter: Neithal-Golem"
 
 msgid "display_name_r_Pet Night Hag"
-msgstr "Nachthemden"
+msgstr "Begleiter: Nachtschnabel"
 
 msgid "display_name_r_Pet Oak Lord"
 msgstr "Begleiter: Eichenfürst"
 
 msgid "display_name_r_Pet Oathbound"
-msgstr "Haustier-Oathbound"
+msgstr "Begleiter: Oathbound"
 
 msgid "display_name_r_Pet Oathliege"
-msgstr "Haustier Oathliege"
+msgstr "Begleiter: Oathlieger"
 
 msgid "display_name_r_Pet Obsidian Golem"
 msgstr "Begleiter: Obsidiangolem"
 
 msgid "display_name_r_Pet Ogre Boss"
-msgstr "Pet Oger Boss"
+msgstr "Begleiter: Ogerboss"
 
 msgid "display_name_r_Pet Ogre Bully"
-msgstr "Haustier Oger Bully"
+msgstr "Begleiter: Oger bully"
 
 msgid "display_name_r_Pet Raptor"
-msgstr "Tierraptor"
+msgstr "Begleiter: Raptor"
 
 msgid "display_name_r_Pet Raven Standard Grunt"
-msgstr "Haustier Rabe Standard-Grunt"
+msgstr "Begleiter: Raben-Standard-Grunzen"
 
 msgid "display_name_r_Pet Raven Standard Officer"
-msgstr "Pet Raben Standard Officer"
+msgstr "Begleiter: Raben Standardoffizier"
 
 msgid "display_name_r_Pet Raven Standard Veteran"
-msgstr "Haustier Raben Standard Veteran"
+msgstr "Begleiter: Raben Standard-Veteran"
 
 msgid "display_name_r_Pet Sadayel Chief"
-msgstr "Haustier Sadayel Chef"
+msgstr "Begleiter: Sadayel Chef"
 
 msgid "display_name_r_Pet Sadayel Shaman"
-msgstr "Haustier Sadayel Schamane"
+msgstr "Begleiter: Sadayel Schamane"
 
 msgid "display_name_r_Pet Salamander"
-msgstr "Haustiersalamander"
+msgstr "Begleiter: Salamander"
 
 msgid "display_name_r_Pet Sandstone Golem"
-msgstr "Haustier Sandstone Golem"
+msgstr "Begleiter: Sandstone Golem"
 
 msgid "display_name_r_Pet Sarlid Darkweaver"
-msgstr "Haustier Sarlid Darkweaver"
+msgstr "Begleiter: Sarlid Darkweber"
 
 msgid "display_name_r_Pet Sarlid Defender"
-msgstr "Tier Sarlid Verteidiger"
+msgstr "Begleiter: Sarlid Verteidiger"
 
 msgid "display_name_r_Pet Sarlid Guard"
-msgstr "Haustier Sarlid Wachmann"
+msgstr "Begleiter: Sarlid Wachposten"
 
 msgid "display_name_r_Pet Sarlid Poison Adept"
-msgstr "Haustier Sarlid Giftadept"
+msgstr "Begleiter: Sarlid Giftadept"
 
 msgid "display_name_r_Pet Sarnakh"
-msgstr "Haustier Sarnakh"
+msgstr "Begleiter: Sarnakh"
 
 msgid "display_name_r_Pet Sarnakh Minor"
-msgstr "Haustier Sarnakh Minderjährige"
+msgstr "Begleiter: Sarnakh Kleinkinder"
 
 msgid "display_name_r_Pet Sarnakh Vile"
-msgstr "Haustier Sarnakh vile"
+msgstr "Begleiter: Bösartiger Sarnakh"
 
 msgid "display_name_r_Pet Scumling Guard"
-msgstr "Haustier-Abschaumschutz"
+msgstr "Begleiter: Brüchige Schutzeinrichtung"
 
 msgid "display_name_r_Pet Scumling Queen"
-msgstr "Haustier bröckelnde Königin"
+msgstr "Begleiter: Brüchige Königin"
 
 msgid "display_name_r_Pet Scumling Worker"
-msgstr "Haustierverzehrer"
+msgstr "Begleiter: Brüchige Arbeitnehmer"
 
 msgid "display_name_r_Pet Seidbound"
-msgstr "Haustier-Sperrdraht"
+msgstr "Begleiter: Drahtgebunden"
 
 msgid "display_name_r_Pet Selentine Golem"
-msgstr "Haustier Selentine Golem"
+msgstr "Begleiter: Selentine-Golem"
 
 msgid "display_name_r_Pet Serpentine"
-msgstr "Pet Serpentin"
+msgstr "Begleiter: Serpentin"
 
 msgid "display_name_r_Pet Servant Of Malaut"
-msgstr "Hausdiener von Malaut"
+msgstr "Begleiter: Servant Of Malaut"
 
 msgid "display_name_r_Pet Servant Of Malaut Greater"
-msgstr "Hausdiener von Malaut größer"
+msgstr "Begleiter: Servant Of Malaut Greater"
 
 msgid "display_name_r_Pet Severii Archer"
-msgstr "Pet severii archer"
+msgstr "Begleiter: Severii archer"
 
 msgid "display_name_r_Pet Severii Centurion"
-msgstr "Pet severii centurion"
+msgstr "Begleiter: Severii centurion CAS-Nr."
 
 msgid "display_name_r_Pet Severii Legionnaire"
-msgstr "Pet severii legionaire CAS-Nr."
+msgstr "Begleiter: Severii-Legionär"
 
 msgid "display_name_r_Pet Shadow Knight"
-msgstr "Haustier Schattenritter"
+msgstr "Begleiter: Schattenritter"
 
 msgid "display_name_r_Pet Shadow Spirit"
-msgstr "Haustier-Schattengeist"
+msgstr "Begleiter: Schattengeist"
 
 msgid "display_name_r_Pet Shark"
-msgstr "Haustierhai"
+msgstr "Begleiter: Shark"
 
 msgid "display_name_r_Pet Shroud Knight"
-msgstr "Pet Shroud Ritter"
+msgstr "Begleiter: Schleierritter"
 
 msgid "display_name_r_Pet Siharo Darkbinder"
 msgstr "Begleiter: Siharo Darkbinder"
 
+msgid "display_name_r_Pet Skeleton"
+msgstr "Begleiter: Sprödes Skelett"
+
 msgid "display_name_r_Pet Skeleton Archer"
-msgstr "Skelettbogenschütze"
+msgstr "Begleiter: Skelettbogenschütze"
 
 msgid "display_name_r_Pet Skeleton Warrior"
-msgstr "Pet Skelett Krieger"
+msgstr "Begleiter: Skelettkrieger"
 
 msgid "display_name_r_Pet Slave Of Khamset"
-msgstr "Haussklave von Khamset"
+msgstr "Begleiter: Slave Of Khamset"
 
 msgid "display_name_r_Pet Snowclan Elder"
-msgstr "Haustier Schneeklauenältester"
+msgstr "Begleiter: Snowclan-Ältester"
 
 msgid "display_name_r_Pet Snowclan Hunter"
-msgstr "Haustier Schneeclan Jäger"
+msgstr "Begleiter: Schneeclan-Jäger"
 
 msgid "display_name_r_Pet Snowclan Oracle"
-msgstr "Haustier Schneeklau Orakel"
+msgstr "Begleiter: Snowclan-Orakel"
 
 msgid "display_name_r_Pet Snowclan Warrior"
-msgstr "Haustier Snowclan Krieger"
+msgstr "Begleiter: Krieger des Schneeclans"
 
 msgid "display_name_r_Pet Son Of Ochran"
-msgstr "Sohn von Ochran"
+msgstr "Begleiter: Son Of Ochran"
 
 msgid "display_name_r_Pet Spellgazer"
-msgstr "Begleiter: Spellgazer"
+msgstr "Begleiter: Spektakel"
 
 msgid "display_name_r_Pet Spider Bone"
-msgstr "Heimspinne Knochen"
+msgstr "Begleiter: Spinnenknochen"
 
 msgid "display_name_r_Pet Spider Cave"
-msgstr "Hausspinnenhöhle"
+msgstr "Begleiter: Spinnenhöhle"
 
 msgid "display_name_r_Pet Spider Dire"
-msgstr "Hausspinne gräulich"
+msgstr "Begleiter: Spinnengräber"
 
 msgid "display_name_r_Pet Spider Doom"
-msgstr "Pet Spider Doom Ubersetzungen"
+msgstr "Begleiter: Verderbensspinne"
 
 msgid "display_name_r_Pet Spider Ghost"
-msgstr "Begleiter: Geisterspinne"
+msgstr "Begleiter: Spinnengeist"
 
 msgid "display_name_r_Pet Spider Giant"
-msgstr "Spinnenriese"
+msgstr "Begleiter: Spinnenriese"
 
 msgid "display_name_r_Pet Spider Hairy"
-msgstr "Hausspinne haarig"
+msgstr "Begleiter: Behaarte Spinne"
+
+msgid "display_name_r_Pet Stormgraive"
+msgstr "Begleiter: Wasserelementar"
 
 msgid "display_name_r_Pet Sun Exarch"
 msgstr "Begleiter: Sonnenexarch"
 
 msgid "display_name_r_Pet Svartdvergir Doombringer"
-msgstr "Haustier Svartdvergir doombrings"
+msgstr "Begleiter: Svartdvergir Doombring"
 
 msgid "display_name_r_Pet Svartdvergir General"
-msgstr "Haustier Svartdvergir Allgemeines"
+msgstr "Begleiter: Svartdvergir Allgemeines"
 
 msgid "display_name_r_Pet Svartdvergir Initiate"
-msgstr "Haustier Svartdvergir initiieren"
+msgstr "Begleiter: Svartdvergir Initiativ"
 
 msgid "display_name_r_Pet Svartdvergir Nightaxe"
-msgstr "Haustier Svartdvergir Nightaxe"
+msgstr "Begleiter: Svartdvergir Nightaxe"
 
 msgid "display_name_r_Pet Svartdvergir Summoner"
-msgstr "Haustier Svartdvergir Beschwörer"
+msgstr "Begleiter: Svartdvergir Beschwörer"
 
 msgid "display_name_r_Pet Swamp Hag"
-msgstr "Haustier-Sumpfhagel"
+msgstr "Begleiter: Sumpfhagel"
 
 msgid "display_name_r_Pet Theyril Golem"
-msgstr "Haustier Theyril Golem"
+msgstr "Begleiter: Theyril-Golem"
 
 msgid "display_name_r_Pet Tiger"
-msgstr "Haustiertiger"
+msgstr "Begleiter: Tiger"
 
 msgid "display_name_r_Pet Tomb Iklit"
-msgstr "Haustiergrab Iklit"
+msgstr "Begleiter: Grab Iklit"
 
 msgid "display_name_r_Pet Troll"
-msgstr "Heimtiertrolle"
+msgstr "Begleiter: Troll"
 
 msgid "display_name_r_Pet Troll Cave"
-msgstr "Begleiter: Höhlentroll"
+msgstr "Begleiter: Trollhöhle"
 
 msgid "display_name_r_Pet Troll Lord"
 msgstr "Begleiter: Trollfürst"
 
 msgid "display_name_r_Pet Troll Shaman"
-msgstr "Pet Troll Schamane"
+msgstr "Begleiter: Troll Schamane"
 
 msgid "display_name_r_Pet Undead Dwarf Foreman"
-msgstr "Untoter Zwergvorarbeiter"
+msgstr "Begleiter: Untoter Zwergvorarbeiter"
 
 msgid "display_name_r_Pet Undead Dwarf Guardian"
-msgstr "Tier untoter Zwergwächter"
+msgstr "Begleiter: Untoter Zwergwächter"
 
 msgid "display_name_r_Pet Undead Dwarf Miner"
-msgstr "Untoter Zwergbergmann"
+msgstr "Begleiter: Untoter Zwergbergmann"
 
 msgid "display_name_r_Pet Veilron Golem"
-msgstr "Haustier Veilron Golem"
+msgstr "Begleiter: Veilron-Golem"
 
 msgid "display_name_r_Pet Vlad Duskward"
-msgstr "Pet vlad duskward"
+msgstr "Begleiter: Vlad duskward"
 
 msgid "display_name_r_Pet Warlord Choppah"
-msgstr "Warlord Choppah"
+msgstr "Begleiter: Warlord Chuppah"
 
 msgid "display_name_r_Pet Wildtribe Chieftain"
-msgstr "Haustier-Wildtribe Häuptling"
+msgstr "Begleiter: Wildtribe Häuptling"
 
 msgid "display_name_r_Pet Wildtribe Mage"
-msgstr "Wildtribe Magy"
+msgstr "Begleiter: Wildtribe Magy"
 
 msgid "display_name_r_Pet Wildtribe Pathfinder"
-msgstr "Wildtribe Pathfinder"
+msgstr "Begleiter: Wildtribe-Pfadfinder"
 
 msgid "display_name_r_Pet Wildtribe Shaka"
 msgstr "Begleiter: Wildtribe-Shaka"
@@ -17759,28 +17807,34 @@ msgid "display_name_r_Pet Wildtribe Warrior"
 msgstr "Begleiter: Wildtribe-Krieger"
 
 msgid "display_name_r_Pet Wildtribe Witch Doctor"
-msgstr "Pet Wildtribe Hexenarzt"
+msgstr "Begleiter: Wildtribe Hexenarzt"
+
+msgid "display_name_r_Pet Windgraive"
+msgstr "Begleiter: Weniger elementares Wasser"
 
 msgid "display_name_r_Pet Windlord"
-msgstr "Haustier Windlord"
+msgstr "Begleiter: Windfürst"
 
 msgid "display_name_r_Pet Winterbound"
-msgstr "Heimtiere im Winter"
+msgstr "Begleiter: Winterlich"
 
 msgid "display_name_r_Pet Yeti"
-msgstr "Begleiter: Yeti"
+msgstr "Begleiter: Buti"
 
 msgid "display_name_r_Pet Zombie"
-msgstr "Haustier-Zombie"
+msgstr "Begleiter: Zombie"
 
 msgid "display_name_r_Pet Zombie Dire"
-msgstr "Haustier-Zombie entsetzlich"
+msgstr "Begleiter: Zombiegräber"
+
+msgid "display_name_r_Pet Zombie Shambler"
+msgstr "Begleiter: Schlurfender Zombie"
 
 msgid "display_name_r_Pet Zombie Warrior"
-msgstr "Zombie-Kämpfer"
+msgstr "Begleiter: Zombie-Krieger"
 
 msgid "display_name_r_Pet sadayel guardian"
-msgstr "Haustier sadayel Wächter"
+msgstr "Begleiter: sadayel Wächter"
 
 msgid "display_name_r_Pets"
 msgstr "Haustiere"
@@ -18199,6 +18253,9 @@ msgstr "Hintenfau Schwesternschaft"
 msgid "display_name_r_The Humans of Mercia"
 msgstr "Die Menschen von Mercia"
 
+msgid "display_name_r_Dawnshore Isles"
+msgstr "Dawnshore Inseln"
+
 msgid "display_name_r_The Jhali Raiders"
 msgstr "Jhali Raider"
 
@@ -18563,7 +18620,7 @@ msgid "display_name_r_Dragons"
 msgstr "Drachen"
 
 msgid "display_name_r_Pet Dragon Fire"
-msgstr "Haustier Drachenfeuer"
+msgstr "Begleiter: Drachenfeuer"
 
 msgid "display_name_r_Aberrations"
 msgstr "Aberrationen"
@@ -18900,6 +18957,9 @@ msgstr "Markierungslagerfeuer"
 
 msgid "display_name_r_Marker Player Dead"
 msgstr "Markerspieler tot"
+
+msgid "display_name_r_Marker Capital Invader"
+msgstr "Invasoren"
 
 msgid "display_name_r_Marker Deliver"
 msgstr "Markierlieferung"
@@ -20310,3 +20370,63 @@ msgstr "Frost Crog Spielzeug"
 
 msgid "display_name_r_Pet Crog Frost"
 msgstr "Frost Crog"
+
+msgid "display_name_r_toy_crog_jungle"
+msgstr "Dschungel Crog Spielzeug"
+
+msgid "display_name_r_Pet Crog Jungle"
+msgstr "Dschungel Crog"
+
+msgid "display_name_r_toy_crog_storm"
+msgstr "Sturm Crog Spielzeug"
+
+msgid "display_name_r_Pet Crog Storm"
+msgstr "Sturm Crog"
+
+msgid "display_name_r_toy_crog_desert"
+msgstr "Wüste Crog Spielzeug"
+
+msgid "display_name_r_Pet Crog Desert"
+msgstr "Wüste Crog"
+
+msgid "display_name_r_Mastery Items"
+msgstr "Beherrschungspositionen"
+
+msgid "display_name_r_Ancient Essence"
+msgstr "Alte Essenz"
+
+msgid "display_name_r_Mastery Orb"
+msgstr "Beherrschungskugel"
+
+msgid "display_name_r_Ancient Orb"
+msgstr "Alte Orbs"
+
+msgid "display_name_r_Quest Herbal Tea"
+msgstr "Kräutertee"
+
+msgid "display_name_r_Quest Shipping Manifest"
+msgstr "Schifffahrtsmanifest"
+
+msgid "display_name_r_Quest Supply Crate"
+msgstr "Versorgungsbehälter"
+
+msgid "display_name_r_troll"
+msgstr "Troll"
+
+msgid "display_name_r_Mage Totem"
+msgstr "Magier-Totem"
+
+msgid "display_name_r_Barrel of Fish"
+msgstr "Fischfass"
+
+msgid "display_name_r_Slayer Services"
+msgstr "Schichterdienste"
+
+msgid "display_name_r_Slayer Contract Slot"
+msgstr "Kontraktzeitfenster"
+
+msgid "display_name_r_Slayer Slow Recall"
+msgstr "Langsame Erinnerung"
+
+msgid "display_name_r_Slayer Extra Talisman Slot"
+msgstr "Talisman-Slot"

@@ -1059,30 +1059,25 @@ msgid "s_Bindstone Recall"
 msgstr "Bindstone Rückruf"
 
 msgid "desc_s_Bindstone Recall"
-msgstr ""
-"Drücken Sie die Schaltfläche Aktion, um sich zu Ihrem aktuellen Bindepunkt "
-"zu teleportieren."
+msgstr "Teleportiert Sie zu Ihrem Bindepunkt."
 
 msgid "s_Summon Mount"
 msgstr "Beschwörungshalter"
 
 msgid "desc_s_Summon Mount"
-msgstr "Beschwören Sie die aktive Figur auf Ihrer Paperdoll."
+msgstr "Beschwöre die aktive Figur auf deiner Paperdoll."
 
 msgid "s_Capital Recall"
-msgstr "Fraktion Capitall Rückruf"
+msgstr "Fraktionskapitalrückruf"
 
 msgid "desc_s_Capital Recall"
-msgstr ""
-"Drücken Sie den Aktionsknopf, um sich in die Hauptstadt Ihrer Fraktion zu "
-"teleportieren. Die Abklingzeit variiert je nach Ausrichtung."
+msgstr "Teleportiert euch in die Hauptstadt eurer Fraktion."
 
 msgid "s_House Recall"
 msgstr "Hausrückruf"
 
 msgid "desc_s_House Recall"
-msgstr ""
-"Drücken Sie die Aktionstaste, um sich zu Ihrem Haus zu teleportieren. "
+msgstr "Teleportiert dich zu deinem Haus."
 
 msgid "s_Orkish Capacity"
 msgstr "Orkish-Kapazität"
@@ -1110,6 +1105,15 @@ msgstr "Erhöht maximale Intelligenz."
 
 msgid "s_Set Pvp"
 msgstr "Set pvp"
+
+msgid "s_Mastery Swap"
+msgstr "Schalterbeherrschung"
+
+msgid "desc_s_Mastery Swap"
+msgstr ""
+"Stehen Sie zehn Sekunden still, um zu einer anderen PvE-Meisterschaft zu "
+"wechseln. Sich zu bewegen, getroffen zu werden oder in einen PvP-Kampf "
+"einzutreten, unterbricht ihn und kostet dich nichts."
 
 msgid "desc_s_Set Pvp"
 msgstr "Setzt das pvp-flag des spielers.  "
@@ -1230,9 +1234,7 @@ msgid "s_Revive"
 msgstr "Wiederbeleben"
 
 msgid "desc_s_Revive"
-msgstr ""
-"Hilft einem sterbenden Charakter. Drücken Sie die Aktionstaste, um Skill zu "
-"starten."
+msgstr "Belebt einen sterbenden Charakter."
 
 msgid "s_Revive_1"
 msgstr "Revive_1"
@@ -1366,10 +1368,7 @@ msgid "s_Rest"
 msgstr "Rasten"
 
 msgid "desc_s_Rest"
-msgstr ""
-"Während der Ruhephase regenerieren sich Gesundheit, Mana und Ausdauer "
-"schneller. Der Regenerationsbonus des Ruhens wird nach 30 Sekunden "
-"verdoppelt."
+msgstr "Regeneriert Gesundheit, Ausdauer und Mana schneller beim Ausruhen."
 
 msgid "s_Rest_1"
 msgstr "Rest_1"
@@ -2006,9 +2005,7 @@ msgid "s_Disabling Blow_Axe"
 msgstr "Deaktivierung von blow_axe"
 
 msgid "desc_s_Disabling Blow_Axe"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Axe_1"
 msgstr "Deaktivierung blow_axe_1"
@@ -2026,7 +2023,7 @@ msgid "s_Knockback_Axe"
 msgstr "Knockback_Axe"
 
 msgid "desc_s_Knockback_Axe"
-msgstr "Ein Axtangriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Axe_1"
 msgstr "Knockback_Axe_1"
@@ -2038,7 +2035,7 @@ msgid "s_Power Attack_Axe"
 msgstr "Power attack_axe"
 
 msgid "desc_s_Power Attack_Axe"
-msgstr "Ein starker Angriff, der den Nahkampfschutz des Ziels reduziert.   "
+msgstr "Ein schwerer Schlag, der den Nahkampfschutz des Ziels senkt."
 
 msgid "s_Power Attack_Axe_1"
 msgstr "Power Attack_axe_1"
@@ -2068,7 +2065,7 @@ msgid "s_Seize_Axe"
 msgstr "Seize_Axe"
 
 msgid "desc_s_Seize_Axe"
-msgstr "Ein Angriff, der deinen Gegner näher bringt. "
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Axe_1"
 msgstr "Seize_Axe_1"
@@ -2080,7 +2077,7 @@ msgid "s_Whirlwind Attack_Axe"
 msgstr "Wirbelwindattack_axe"
 
 msgid "desc_s_Whirlwind Attack_Axe"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Axe_1"
 msgstr "Wirbelwindattack_axe_1"
@@ -2128,9 +2125,7 @@ msgid "s_Disabling Blow_Club"
 msgstr "Deaktivieren von blow_club"
 
 msgid "desc_s_Disabling Blow_Club"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Club_1"
 msgstr "Deaktivieren von blow_club_1"
@@ -2148,7 +2143,7 @@ msgid "s_Knockback_Club"
 msgstr "Knockback_Club"
 
 msgid "desc_s_Knockback_Club"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Club_1"
 msgstr "Knockback_Club_1"
@@ -2160,7 +2155,7 @@ msgid "s_Power Attack_Club"
 msgstr "Power Attack_Club"
 
 msgid "desc_s_Power Attack_Club"
-msgstr "Ein mächtiger Angriff, der zusätzliche Ausdauer ablässt. "
+msgstr "Ein schwerer Schlag, der auch die Ausdauer des Ziels erschöpft."
 
 msgid "s_Power Attack_Club_1"
 msgstr "Power Attack_Club_1"
@@ -2178,7 +2173,7 @@ msgid "s_Seize_Club"
 msgstr "Seize_Club"
 
 msgid "desc_s_Seize_Club"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Club_1"
 msgstr "Seize_Club_1"
@@ -2190,7 +2185,7 @@ msgid "s_Whirlwind Attack_Club"
 msgstr "Whirlwind attack_club"
 
 msgid "desc_s_Whirlwind Attack_Club"
-msgstr "Ein sich drehender Angriff, der alle Anrainer verprügelt."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Club_1"
 msgstr "Wirbelwind attack_club_1"
@@ -2238,9 +2233,7 @@ msgid "s_Disabling Blow_Greataxe"
 msgstr "Deaktivierung von blow_greatax"
 
 msgid "desc_s_Disabling Blow_Greataxe"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Greataxe_1"
 msgstr "Deaktivierung blow_greatax_1"
@@ -2258,7 +2251,7 @@ msgid "s_Knockback_Greataxe"
 msgstr "Knockback_Greataxe"
 
 msgid "desc_s_Knockback_Greataxe"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Greataxe_1"
 msgstr "Knockback_Greataxe_1"
@@ -2270,7 +2263,7 @@ msgid "s_Power Attack_Greataxe"
 msgstr "Power Attack_Greataxe"
 
 msgid "desc_s_Power Attack_Greataxe"
-msgstr "Ein mächtiger Angriff, der den Nahkampfschutz des Ziels reduziert."
+msgstr "Ein schwerer Schlag, der den Nahkampfschutz des Ziels senkt."
 
 msgid "s_Power Attack_Greataxe_1"
 msgstr "Power Attack_greataxe_1"
@@ -2300,7 +2293,7 @@ msgid "s_Seize_Greataxe"
 msgstr "Seize_Greataxe"
 
 msgid "desc_s_Seize_Greataxe"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Greataxe_1"
 msgstr "Seize_Greataxe_1"
@@ -2312,7 +2305,7 @@ msgid "s_Whirlwind Attack_Greataxe"
 msgstr "Wirbelwindattack_greataxe"
 
 msgid "desc_s_Whirlwind Attack_Greataxe"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Greataxe_1"
 msgstr "Wirbelwindattack_greataxe_1"
@@ -2360,9 +2353,7 @@ msgid "s_Disabling Blow_Greatclub"
 msgstr "Deaktivieren von blow_greatclub"
 
 msgid "desc_s_Disabling Blow_Greatclub"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Greatclub_1"
 msgstr "Deaktivieren von blow_greatclub_1"
@@ -2380,7 +2371,7 @@ msgid "s_Knockback_Greatclub"
 msgstr "Knockback_Greatclub"
 
 msgid "desc_s_Knockback_Greatclub"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Greatclub_1"
 msgstr "Knockback_Greatclub_1"
@@ -2392,7 +2383,7 @@ msgid "s_Power Attack_Greatclub"
 msgstr "Power attack_greatclub"
 
 msgid "desc_s_Power Attack_Greatclub"
-msgstr "Ein mächtiger Angriff, der zusätzliche Ausdauer ablässt. "
+msgstr "Ein schwerer Schlag, der auch die Ausdauer des Ziels erschöpft."
 
 msgid "s_Power Attack_Greatclub_1"
 msgstr "Power attack_greatclub_1"
@@ -2410,7 +2401,7 @@ msgid "s_Seize_Greatclub"
 msgstr "Seize_Greatclub"
 
 msgid "desc_s_Seize_Greatclub"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Greatclub_1"
 msgstr "Seize_Greatclub_1"
@@ -2422,7 +2413,7 @@ msgid "s_Whirlwind Attack_Greatclub"
 msgstr "Whirlwind attack_greatclub"
 
 msgid "desc_s_Whirlwind Attack_Greatclub"
-msgstr "Ein sich drehender Angriff, der alle Anrainer verprügelt."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Greatclub_1"
 msgstr "Wirbelwind attack_greatclub_1"
@@ -2470,9 +2461,7 @@ msgid "s_Disabling Blow_Greatsword"
 msgstr "Deaktivieren von blow_greatsword"
 
 msgid "desc_s_Disabling Blow_Greatsword"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Greatsword_1"
 msgstr "Deaktivieren von blow_greatsword_1"
@@ -2490,7 +2479,7 @@ msgid "s_Knockback_Greatsword"
 msgstr "Knockback_Greatsword"
 
 msgid "desc_s_Knockback_Greatsword"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Greatsword_1"
 msgstr "Knockback_Greatsword_1"
@@ -2502,7 +2491,7 @@ msgid "s_Power Attack_Greatsword"
 msgstr "Power attack_greatsword"
 
 msgid "desc_s_Power Attack_Greatsword"
-msgstr "Ein Stoßangriff, der Blutungsschäden verursacht. "
+msgstr "Ein Stoßschlag, der das Ziel bluten lässt."
 
 msgid "s_Power Attack_Greatsword_1"
 msgstr "Power attack_greatsword_1"
@@ -2520,7 +2509,7 @@ msgid "s_Seize_Greatsword"
 msgstr "Seize_Greatsword"
 
 msgid "desc_s_Seize_Greatsword"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Greatsword_1"
 msgstr "Seize_Greatsword_1"
@@ -2532,7 +2521,7 @@ msgid "s_Whirlwind Attack_Greatsword"
 msgstr "Whirlwind attack_greatsword"
 
 msgid "desc_s_Whirlwind Attack_Greatsword"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Greatsword_1"
 msgstr "Wirbelwind attack_greatsword_1"
@@ -2580,9 +2569,7 @@ msgid "s_Disabling Blow_Knives"
 msgstr "Deaktivieren von blow_knives"
 
 msgid "desc_s_Disabling Blow_Knives"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Knives_1"
 msgstr "Deaktivierung blow_knives_1"
@@ -2600,7 +2587,7 @@ msgid "s_Knockback_Knife"
 msgstr "Knockback_Knife"
 
 msgid "desc_s_Knockback_Knife"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Knife_1"
 msgstr "Knockback_Knife_1"
@@ -2612,7 +2599,7 @@ msgid "s_Power Attack_Knife"
 msgstr "Power Attack_Knife"
 
 msgid "desc_s_Power Attack_Knife"
-msgstr "Ein Stoßangriff mit vergifteten Dolchen. "
+msgstr "Ein Stoßschlag, der auch das Ziel vergiftet."
 
 msgid "s_Power Attack_Knife_1"
 msgstr "Power Attack_Knife_1"
@@ -2630,7 +2617,7 @@ msgid "s_Seize_Knife"
 msgstr "Seize_Knife"
 
 msgid "desc_s_Seize_Knife"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Knife_1"
 msgstr "Seize_Knife_1"
@@ -2642,7 +2629,7 @@ msgid "s_Whirlwind Attack_Knife"
 msgstr "Whirlwind attack_knife"
 
 msgid "desc_s_Whirlwind Attack_Knife"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Knife_1"
 msgstr "Wirbelwind attack_knife_1"
@@ -2678,7 +2665,7 @@ msgid "s_Gank"
 msgstr "Todesstoß"
 
 msgid "desc_s_Gank"
-msgstr "Schlachtet einen hilflosen Gegner. "
+msgstr "Beendet einen hilflosen Gegner."
 
 msgid "s_Gank_1"
 msgstr "Gank_1"
@@ -2696,7 +2683,7 @@ msgid "s_Dwarven Perseverance"
 msgstr "Zwergenbeharrlichkeit"
 
 msgid "desc_s_Dwarven Perseverance"
-msgstr "Ermöglicht es dem Charakter, fast ohne Ausdauer zu kämpfen."
+msgstr "Lässt dich eine Weile ohne Ausdauer-Abfluss kämpfen."
 
 msgid "s_Dwarven Perseverance_1"
 msgstr "Zwergenbeharrlichkeit_1"
@@ -2708,9 +2695,7 @@ msgid "s_Rage"
 msgstr "Riefen"
 
 msgid "desc_s_Rage"
-msgstr ""
-"Ein Adrenalinschub, der Schutz vor elementaren Angriffen sowie moderate "
-"Heilung gewährt."
+msgstr "Kurz heilt dich und gewährt Schutz vor elementaren Angriffen."
 
 msgid "s_Rage_1"
 msgstr "Rage_1"
@@ -2770,9 +2755,7 @@ msgid "s_Disabling Blow_Polearm"
 msgstr "Deaktivieren von blow_polearm"
 
 msgid "desc_s_Disabling Blow_Polearm"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Polearm_1"
 msgstr "Deaktivierung blow_polearm_1"
@@ -2790,7 +2773,7 @@ msgid "s_Knockback_Polearm"
 msgstr "Knockback_Polearm"
 
 msgid "desc_s_Knockback_Polearm"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Polearm_1"
 msgstr "Knockback_Polearm_1"
@@ -2802,7 +2785,9 @@ msgid "s_Power Attack_Polearm"
 msgstr "Power Attack_polearm"
 
 msgid "desc_s_Power Attack_Polearm"
-msgstr "Ein kraftvoller, präziser Stoßangriff."
+msgstr ""
+"Ein präziser Schub, der die Stärke, Schnelligkeit und den Piercing-Schutz "
+"des Ziels schwächt."
 
 msgid "s_Power Attack_Polearm_1"
 msgstr "Power attack_polearm_1"
@@ -2832,7 +2817,7 @@ msgid "s_Seize_Polearm"
 msgstr "Seize_Polearm"
 
 msgid "desc_s_Seize_Polearm"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Polearm_1"
 msgstr "Seize_Polearm_1"
@@ -2844,7 +2829,7 @@ msgid "s_Whirlwind Attack_Polearm"
 msgstr "Wirbelwindattack_polearm"
 
 msgid "desc_s_Whirlwind Attack_Polearm"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Polearm_1"
 msgstr "Wirbelwindattack_polearm_1"
@@ -2874,7 +2859,7 @@ msgid "s_Siege Hammer"
 msgstr "Belagerungshammer"
 
 msgid "desc_s_Siege Hammer"
-msgstr "Angriff, der Gebäude, Kanonen und Fahrzeuge beschädigen kann."
+msgstr "Schlagt hart genug, um Gebäude, Kanonen und Fahrzeuge zu beschädigen."
 
 msgid "s_Siege Hammer_1"
 msgstr "Belagerungshammer_1"
@@ -2898,9 +2883,7 @@ msgid "s_Disabling Blow_Sithra"
 msgstr "Deaktivierung von blow_sithra"
 
 msgid "desc_s_Disabling Blow_Sithra"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Sithra_1"
 msgstr "Deaktivierung blow_sithra_1"
@@ -2918,7 +2901,7 @@ msgid "s_Knockback_Sithras"
 msgstr "Knockback_Sithras"
 
 msgid "desc_s_Knockback_Sithras"
-msgstr "Ein stoßender Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Sithras_1"
 msgstr "Knockback_Sithras_1"
@@ -2930,7 +2913,7 @@ msgid "s_Power Attack_sithra"
 msgstr "Power Attack_sithra"
 
 msgid "desc_s_Power Attack_sithra"
-msgstr "Ein Stoßangriff, der zusätzlichen Schaden verursacht."
+msgstr "Ein Stoßschlag, der die Nahkampfangriffe des Ziels verlangsamt."
 
 msgid "s_Power Attack_Sithra_2"
 msgstr "Power attack_sithra_2"
@@ -2948,7 +2931,7 @@ msgid "s_Seize_Sithras"
 msgstr "Seize_Sithras"
 
 msgid "desc_s_Seize_Sithras"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Zieht das Ziel auf dich zu und entleert sein Mana."
 
 msgid "s_Seize_Sithras_2"
 msgstr "Seize_Sithras_2"
@@ -2966,7 +2949,7 @@ msgid "s_Whirlwind Attack_Sithra"
 msgstr "Wirbelwindattack_sithra"
 
 msgid "desc_s_Whirlwind Attack_Sithra"
-msgstr "Ein Spinning-Angriff, der alle Anrainer beschädigt."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Sithras_Whirlwind_1"
 msgstr "Sithras_Whirlwind_1"
@@ -3014,9 +2997,7 @@ msgid "s_Disabling Blow_Sword"
 msgstr "Deaktivieren von blow_sword"
 
 msgid "desc_s_Disabling Blow_Sword"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Schlagt das Ziel und verhindert kurzzeitig, dass es pariert."
 
 msgid "s_Disabling Blow_Sword_1"
 msgstr "Deaktivieren von blow_sword_1"
@@ -3034,7 +3015,7 @@ msgid "s_Knockback_Sword"
 msgstr "Knockback_Sword"
 
 msgid "desc_s_Knockback_Sword"
-msgstr "Ein Angriff, der deinen Gegner gewaltsam wegdrückt."
+msgstr "Schlagt das Ziel und klopft es zurück."
 
 msgid "s_Knockback_Sword_1"
 msgstr "Knockback_Sword_1"
@@ -3046,7 +3027,7 @@ msgid "s_Power Attack_Sword"
 msgstr "Power Attack_Sword"
 
 msgid "desc_s_Power Attack_Sword"
-msgstr "Ein Stoßangriff, der Blutungsschäden verursacht. "
+msgstr "Ein Stoßschlag, der das Ziel bluten lässt."
 
 msgid "s_Power Attack_Sword_2"
 msgstr "Power Attack_sword_2"
@@ -3064,7 +3045,7 @@ msgid "s_Seize_Sword"
 msgstr "Seize_Sword"
 
 msgid "desc_s_Seize_Sword"
-msgstr "Ein Angriff, der deinen Gegner näher bringt."
+msgstr "Schlagt das Ziel und zieht es auf dich zu."
 
 msgid "s_Seize_Sword_1"
 msgstr "Seize_Sword_1"
@@ -3076,7 +3057,7 @@ msgid "s_Whirlwind Attack_Sword"
 msgstr "Whirlwind attack_sword"
 
 msgid "desc_s_Whirlwind Attack_Sword"
-msgstr "Ein rotierender Angriff, der alle Anrainer zerschnitten hat."
+msgstr "Spins, um jeden Feind um dich herum zu schlagen."
 
 msgid "s_Whirlwind Attack_Sword_1"
 msgstr "Wirbelwindattack_sword_1"
@@ -3545,8 +3526,7 @@ msgstr "Lähmender Schuss"
 
 msgid "desc_s_Disabling Shot"
 msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+"Feuert einen Schuss ab, der das Ziel kurzzeitig daran hindert, zu parieren."
 
 msgid "s_Disabling Shot_1"
 msgstr "Deaktivierung shot_1"
@@ -3664,7 +3644,7 @@ msgid "s_Agility"
 msgstr "Agilität"
 
 msgid "desc_s_Agility"
-msgstr "Gewährt einen Geschicklichkeitsbonus für den Caster."
+msgstr "Hebt Ihre Geschicklichkeit."
 
 msgid "s_Agility_1"
 msgstr "Agility_1"
@@ -3676,7 +3656,7 @@ msgid "s_Arrow Shield"
 msgstr "Pfeilschild"
 
 msgid "desc_s_Arrow Shield"
-msgstr "Verleiht dem Lenker einen erhöhten Schutz gegen Pfeile."
+msgstr "Erhöht Ihren Schutz vor Pfeilen."
 
 msgid "s_Arrow Shield_1"
 msgstr "Pfeilschild_1"
@@ -3688,7 +3668,7 @@ msgid "s_Arrow Ward"
 msgstr "Pfeilstation"
 
 msgid "desc_s_Arrow Ward"
-msgstr "Zielt auf ein Ziel, um Schutz gegen Pfeile zu gewähren."
+msgstr "Kurz gewährt einem gezielten Spieler Schutz vor Pfeilen."
 
 msgid "s_Arrow Ward_1"
 msgstr "Pfeil ward_1"
@@ -3720,7 +3700,7 @@ msgid "s_Ball Lightning"
 msgstr "Kugelblitze"
 
 msgid "desc_s_Ball Lightning"
-msgstr "Feuert eine Rakete ab, die Blitzschäden verursacht."
+msgstr "Feuert einen blitz, der blitzschaden verursacht."
 
 msgid "s_Ball Lightning_1"
 msgstr "Kugelblitze_1"
@@ -3732,7 +3712,7 @@ msgid "s_Come Hither"
 msgstr "Kommen Sie hierher"
 
 msgid "desc_s_Come Hither"
-msgstr "Ziel auf ein Ziel, um es magisch näher zu ziehen."
+msgstr "Zieht ein Ziel stark auf dich zu."
 
 msgid "s_Come Hither_1"
 msgstr "Komm her_1"
@@ -3751,8 +3731,8 @@ msgstr "Explodierende Ladung"
 
 msgid "desc_s_Exploding Charge"
 msgstr ""
-"Feuert eine Rakete ab, die bei einem Aufprall explodiert und Blitzschäden "
-"verursacht. "
+"Feuert eine Ladung ab, die beim Aufprall explodiert und Blitzschaden "
+"verursacht."
 
 msgid "s_Exploding Charge_Area"
 msgstr "Explodierende Charge_area"
@@ -3778,8 +3758,7 @@ msgid "s_Guiding Wind"
 msgstr "Leitwind"
 
 msgid "desc_s_Guiding Wind"
-msgstr ""
-"Startet eine Rakete, die den Schutz ihres Ziels gegen Pfeile bestraft. "
+msgstr "Feuert eine Böe, die den Schutz vor Pfeilen senkt, wo sie landet."
 
 msgid "s_Guiding Wind_1"
 msgstr "Leitwind_1"
@@ -3791,9 +3770,7 @@ msgid "s_Lightning Bolt"
 msgstr "Blitzschutz"
 
 msgid "desc_s_Lightning Bolt"
-msgstr ""
-"Feuert eine Linie von elektrischer Energie schockierend alles in seinem Weg."
-" "
+msgstr "Feuert eine Reihe von Blitzen, die alles auf ihrem Weg trifft."
 
 msgid "s_Lightning Bolt_1"
 msgstr "Blitzschlag_1"
@@ -3805,7 +3782,7 @@ msgid "s_Lightning Shield"
 msgstr "Blitzschutzschild"
 
 msgid "desc_s_Lightning Shield"
-msgstr "Gewährt dem Caster einen Blitzschutzbonus."
+msgstr "Erhöht Ihren Schutz vor Blitzen."
 
 msgid "s_Lightning Shield_1"
 msgstr "Blitzschutzschild_1"
@@ -3818,8 +3795,7 @@ msgstr "Blitzschlag"
 
 msgid "desc_s_Lightning Strike"
 msgstr ""
-"Startet eine Rakete, die bei einem Aufprall explodiert und Blitzschäden "
-"verursacht."
+"Feuert eine Rakete ab, die mit Blitz explodiert und den Blitzschutz senkt."
 
 msgid "s_Lightning Strike_1"
 msgstr "Blitzschlag_1"
@@ -3837,7 +3813,7 @@ msgid "s_Lightning Ward"
 msgstr "Blitzschutzstation"
 
 msgid "desc_s_Lightning Ward"
-msgstr "Gewährt einen Zielschutz gegen Blitzschäden."
+msgstr "Gewährt einem Verbündeten Schutz vor Blitzschäden."
 
 msgid "s_Lightning Ward_1"
 msgstr "Blitzschutz_1"
@@ -3849,8 +3825,7 @@ msgid "s_Lightning Weakness"
 msgstr "Blitzschwäche"
 
 msgid "desc_s_Lightning Weakness"
-msgstr ""
-"Startet eine Rakete, die dem Blitzschutz ihres Ziels eine Strafe zufügt.   "
+msgstr "Feuert eine Rakete ab, die den Blitzschutz eines Ziels senkt."
 
 msgid "s_Lightning Weakness_1"
 msgstr "Blitzschwäche_1"
@@ -3862,7 +3837,8 @@ msgid "s_Stormblast"
 msgstr "Stormblast"
 
 msgid "desc_s_Stormblast"
-msgstr "Beschwört eine Explosion, die alle auf ihrem Weg fliegen lässt."
+msgstr ""
+"Entfesselt einen Blitz, der Feinde vom geworfenen Ziel aus fliegen lässt."
 
 msgid "s_Stormblast_1"
 msgstr "Stormblast_1"
@@ -3874,9 +3850,7 @@ msgid "s_Thunderstorm"
 msgstr "Gewitter"
 
 msgid "desc_s_Thunderstorm"
-msgstr ""
-"Ein magischer Strahl, der einen Sturm von Blitzen hervorruft, wenn er sein "
-"Ziel trifft. "
+msgstr "Ruft einen blitzsturm, wo der strahl trifft."
 
 msgid "s_Thunderstorm_1"
 msgstr "Thunderstorm_1"
@@ -3888,7 +3862,7 @@ msgid "s_Tornado"
 msgstr "Tornado"
 
 msgid "desc_s_Tornado"
-msgstr "Beschwört einen Tornado um den Caster herum. "
+msgstr "Verursacht Blitzschaden an etwas innerhalb eines Radius um die Rolle."
 
 msgid "s_Tornado_1"
 msgstr "Tornado_1"
@@ -3910,7 +3884,7 @@ msgid "s_Flames of Vengeance"
 msgstr "Flammen der Rache"
 
 msgid "desc_s_Flames of Vengeance"
-msgstr "Ein magischer Strahl, der ein Inferno heiliger Flammen hervorbringt."
+msgstr "Feuert einen Strahl, der ein Gebiet in heiligen Flammen verschlingt."
 
 msgid "s_Flames of Vengeance_1"
 msgstr "Vergeltungsflammen_1"
@@ -3922,7 +3896,7 @@ msgid "s_Hasten Spells"
 msgstr "Eilweise Zauber"
 
 msgid "desc_s_Hasten Spells"
-msgstr "Verringert die Ladezeit der Zauberei für eine gewisse Zeit."
+msgstr "Verkürzen Sie Ihre Zauberladezeit für eine Weile."
 
 msgid "s_Hasten Spells_1"
 msgstr "Eilzauber_1"
@@ -3934,7 +3908,7 @@ msgid "s_Holy Shield"
 msgstr "Heiliger Schild"
 
 msgid "desc_s_Holy Shield"
-msgstr "Gewährt einen erhöhten Schutz gegen heilige Schäden."
+msgstr "Erhöht deinen Schutz vor heiligem Schaden."
 
 msgid "s_Holy Shield_1"
 msgstr "Heiliger Schild_1"
@@ -3946,7 +3920,7 @@ msgid "s_Holy Ward"
 msgstr "Heiliger Schutz"
 
 msgid "desc_s_Holy Ward"
-msgstr "Gewährt einen Zielschutz gegen Heiligen Schaden."
+msgstr "Gewährt einem Verbündeten Schutz vor heiligem Schaden."
 
 msgid "s_Holy Ward_1"
 msgstr "Holy Ward_1"
@@ -3958,8 +3932,7 @@ msgid "s_Holy Weakness"
 msgstr "Heilige Schwäche"
 
 msgid "desc_s_Holy Weakness"
-msgstr ""
-"Startet eine Rakete, die dem heiligen Schutz ihres Ziels eine Strafe zufügt."
+msgstr "Feuert eine Rakete ab, die den heiligen Schutz eines Ziels senkt."
 
 msgid "s_Holy Weakness_1"
 msgstr "Heilige Schwäche_1"
@@ -3971,7 +3944,7 @@ msgid "s_Lend Mana"
 msgstr "Leihen Mana"
 
 msgid "desc_s_Lend Mana"
-msgstr "Ziel ist es, einen Teil Ihres Mana-Pools zu übertragen."
+msgstr "Überträgt einen Teil deines Mana auf ein Ziel."
 
 msgid "s_Lend Mana_1"
 msgstr "Leihmana_1"
@@ -4007,7 +3980,7 @@ msgid "s_Reflect Spell"
 msgstr "Reflektieren Sie Zauber"
 
 msgid "desc_s_Reflect Spell"
-msgstr "Reflektiert den nächsten Schadenszauber zurück zu seiner Quelle."
+msgstr "Reflektiert den nächsten Schadenszauber wieder an seinem Zauber."
 
 msgid "s_Reflect Spell_1"
 msgstr "Spiegeln Zauberform_1"
@@ -4019,7 +3992,7 @@ msgid "s_Sacred Missile"
 msgstr "Heilige Rakete"
 
 msgid "desc_s_Sacred Missile"
-msgstr "Startet ein Projektil, das heilige Schäden an seinem Ziel verursacht."
+msgstr "Feuert einen Bolzen, der heilige Schäden an seinem Ziel verursacht."
 
 msgid "s_Sacred Missile_HolyDam"
 msgstr "Sacred missile_holydam"
@@ -4032,8 +4005,7 @@ msgstr "Spruchfreiheit"
 
 msgid "desc_s_Spell Immunity"
 msgstr ""
-"Erhöht die Wahrscheinlichkeit des Casters, Nicht-Schadenszaubern zu "
-"widerstehen."
+"Verbessert Ihre Chance, nicht schädigenden Zaubersprüchen zu widerstehen."
 
 msgid "s_Spell Immunity_1"
 msgstr "Zauberimmunität_1"
@@ -4046,8 +4018,7 @@ msgstr "Tugendhafter Zorn"
 
 msgid "desc_s_Virtuous Wrath"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und heiligen Schaden "
-"verursacht."
+"Feuert ein Projektil ab, das für heiligen Schaden beim Aufprall explodiert."
 
 msgid "s_Virtuous Wrath_1"
 msgstr "Tugendhafter Zorn_1"
@@ -4059,7 +4030,7 @@ msgid "s_Wall of Force"
 msgstr "Mauer der Kraft"
 
 msgid "desc_s_Wall of Force"
-msgstr "Erschafft eine magische Blase, die alle Bewegungen behindert."
+msgstr "Erzeugt eine magische Blase, die Bewegung behindert."
 
 msgid "s_Wall of Force_force"
 msgstr "Wand von force_force"
@@ -4086,9 +4057,7 @@ msgid "s_Acid Arrow"
 msgstr "Säurepfeil"
 
 msgid "desc_s_Acid Arrow"
-msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Säureschäden "
-"verursacht."
+msgstr "Feuert einen Bolzen, der Säureschaden an seinem Ziel verursacht."
 
 msgid "s_Acid Arrow_1"
 msgstr "Säurepfeil_1"
@@ -4100,9 +4069,7 @@ msgid "s_Acid Rain"
 msgstr "Saurer Regen"
 
 msgid "desc_s_Acid Rain"
-msgstr ""
-"Ein magischer Strahl, der einen sauren Regensturm heraufbeschwört, wenn er "
-"sein Ziel trifft."
+msgstr "Feuert einen Strahl, der sauren Regen auf ein Gebiet bringt."
 
 msgid "s_Acid Rain_1"
 msgstr "Saurer Regen_1"
@@ -4114,7 +4081,7 @@ msgid "s_Acid Shield"
 msgstr "Säureschutzschild"
 
 msgid "desc_s_Acid Shield"
-msgstr "Verleiht dem Caster einen erhöhten Schutz gegen Säure."
+msgstr "Erhöht Ihren Schutz gegen Säure."
 
 msgid "s_Acid Shield_1"
 msgstr "Säureschild_1"
@@ -4126,7 +4093,7 @@ msgid "s_Acid Ward"
 msgstr "Säurestation"
 
 msgid "desc_s_Acid Ward"
-msgstr "Ziel ist es, einen Schutz gegen Säure zu gewähren."
+msgstr "Gewährt einen Verbündeten Schutz gegen Säure."
 
 msgid "s_Acid Ward_1"
 msgstr "Säurestufe_1"
@@ -4198,7 +4165,7 @@ msgid "s_Brawn"
 msgstr "Muskelkraft"
 
 msgid "desc_s_Brawn"
-msgstr "Gewährt dem Caster einen Kraftbonus."
+msgstr "Erhöht deine Stärke."
 
 msgid "s_Brawn_1"
 msgstr "Brawn_1"
@@ -4211,8 +4178,8 @@ msgstr "Korrosiver Druck"
 
 msgid "desc_s_Corrosive Blast"
 msgstr ""
-"Feuert ein Projektil ab, das beim Aufprall explodiert und Säureschäden "
-"verursacht. "
+"Feuert ein Projektil ab, das für Säureschäden explodiert und den Säureschutz"
+" senkt."
 
 msgid "s_Corrosive Blast_1"
 msgstr "Korrosive Explosion_1"
@@ -4231,8 +4198,7 @@ msgstr "Zerfall"
 
 msgid "desc_s_Disintegrate"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Säureschäden "
-"verursacht."
+"Feuert ein Projektil ab, das beim Aufprall für Säureschäden explodiert."
 
 msgid "s_Disintegrate_1"
 msgstr "Disintegrate_1"
@@ -4245,8 +4211,8 @@ msgstr "Erdbeben"
 
 msgid "desc_s_Earthquake"
 msgstr ""
-"Drücken und halten Sie die Aktionstaste, um ein Erdbeben auszulösen, das "
-"alles in der Nähe beschädigt, einschließlich der Rolle."
+"Halten Sie den Boden zu schütteln, alles in der Nähe zu beschädigen, "
+"einschließlich Ihnen."
 
 msgid "s_Earthquake_1"
 msgstr "Earthquake_1"
@@ -4270,9 +4236,7 @@ msgid "s_Impale"
 msgstr "Aufspießen"
 
 msgid "desc_s_Impale"
-msgstr ""
-"Feuert einen magischen Strahl, der arkane Stacheln dazu bringt, sein Ziel zu"
-" durchdringen.  "
+msgstr "Feuert einen Strahl, der ein Ziel auf arkanen Stacheln aufspießt."
 
 msgid "s_Impale_1"
 msgstr "Impale_1"
@@ -4284,7 +4248,7 @@ msgid "s_Ironskin"
 msgstr "Eisenhaut"
 
 msgid "desc_s_Ironskin"
-msgstr "Gewährt einen Zielschutz gegen Waffen."
+msgstr "Gewährt einem Verbündeten Schutz vor Waffen."
 
 msgid "s_Ironskin_1"
 msgstr "Ironskin_1"
@@ -4296,7 +4260,7 @@ msgid "s_Meteor Strike"
 msgstr "Meteoritenflug"
 
 msgid "desc_s_Meteor Strike"
-msgstr "Beschwört einen Regen von Meteoren, um eure Feinde zu bombardieren."
+msgstr "Ruft einen Regen von Meteoren auf deine Feinde."
 
 msgid "s_Meteor Strike_Impact"
 msgstr "Meteor Strike_Impact"
@@ -4320,7 +4284,7 @@ msgid "s_Pungent Mist"
 msgstr "Scharfer Nebel"
 
 msgid "desc_s_Pungent Mist"
-msgstr "Schießt eine Wolke aus korrosiven Dämpfen auf dein Ziel."
+msgstr "Sprays korrosiven Dampf, der brennt und blendet ein Ziel."
 
 msgid "s_Pungent Mist_1"
 msgstr "Stechender Mist_1"
@@ -4332,9 +4296,7 @@ msgid "s_Stamina Leech"
 msgstr "Ausdauerblutegel"
 
 msgid "desc_s_Stamina Leech"
-msgstr ""
-"Feuert einen magischen Strahl ab, der die Ausdauer des Ziels entzieht und es"
-" auf den Zauberer überträgt."
+msgstr "Lässt die Ausdauer eines Ziels ab und gibt sie dir."
 
 msgid "s_Stamina Leech_1"
 msgstr "Ausdauerblutegel_1"
@@ -4384,7 +4346,7 @@ msgid "s_Stoneskin"
 msgstr "Steinfell"
 
 msgid "desc_s_Stoneskin"
-msgstr "Gewährt dem Caster Schutz vor Waffenangriffen."
+msgstr "Erhöht den Schutz vor Waffenangriffen."
 
 msgid "s_Stoneskin_1"
 msgstr "Stoneskin_1"
@@ -4396,8 +4358,7 @@ msgid "s_Tarnish"
 msgstr "Tarnung"
 
 msgid "desc_s_Tarnish"
-msgstr ""
-"Startet eine Rakete, die dem Säureschutz ihres Ziels eine Strafe zufügt."
+msgstr "Feuert eine Rakete ab, die den Säureschutz eines Ziels senkt."
 
 msgid "s_Tarnish_1"
 msgstr "Tarnish_1"
@@ -4417,7 +4378,7 @@ msgid "s_Dragonbreath"
 msgstr "Dragonbreath"
 
 msgid "desc_s_Dragonbreath"
-msgstr "Feuert eine anhaltende Flut von feurigen Funken auf einen Feind."
+msgstr "Feuert einen Strom von Feuer auf einen Feind."
 
 msgid "s_Dragonbreath_1"
 msgstr "Dragonbreath_1"
@@ -4429,7 +4390,9 @@ msgid "s_Explosion"
 msgstr "Explosion"
 
 msgid "desc_s_Explosion"
-msgstr "Produziert eine feurige Explosion zentriert auf der Rolle."
+msgstr ""
+"Verursacht kleinen Schaden in einem Radius um die Rolle und klopft die Rolle"
+" nach oben."
 
 msgid "s_Explosion_fire"
 msgstr "Explosion_fire"
@@ -4441,7 +4404,7 @@ msgid "s_Fire Shield"
 msgstr "Brandschutzschild"
 
 msgid "desc_s_Fire Shield"
-msgstr "Verleiht dem Zauberer einen erhöhten Schutz vor Feuer."
+msgstr "Erhöht euren Schutz vor Feuer."
 
 msgid "s_Fire Shield_prot"
 msgstr "Brandschutz_prot"
@@ -4453,7 +4416,7 @@ msgid "s_Fire Ward"
 msgstr "Feuerwache"
 
 msgid "desc_s_Fire Ward"
-msgstr "Gewährt einen Zielschutz gegen Feuer."
+msgstr "Gewährt einem Verbündeten Schutz vor Feuer."
 
 msgid "s_Fire Ward_prot"
 msgstr "Fire ward_prot"
@@ -4466,8 +4429,8 @@ msgstr "Feuerball"
 
 msgid "desc_s_Fireball"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Feuerschäden "
-"verursacht. "
+"Feuert ein Projektil ab, das für Feuerschaden explodiert, senkt den Schutz "
+"des Spielers und klopft sie hoch."
 
 msgid "s_Fireball_2"
 msgstr "Fireball_2"
@@ -4485,9 +4448,7 @@ msgid "s_Firebolt"
 msgstr "Firebolt"
 
 msgid "desc_s_Firebolt"
-msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Feuerschäden "
-"verursacht. "
+msgstr "Feuert einen Bolzen, der Feuerschaden an seinem Ziel verursacht."
 
 msgid "s_Firebolt_area"
 msgstr "Firebolt_area"
@@ -4499,7 +4460,7 @@ msgid "s_Haste"
 msgstr "Eile"
 
 msgid "desc_s_Haste"
-msgstr "Gewährt einem Ziel eine erhöhte Nahkampf-Angriffsgeschwindigkeit."
+msgstr "Erhöht die Nahkampfgeschwindigkeit eines Verbündeten."
 
 msgid "s_Haste_1"
 msgstr "Haste_1"
@@ -4511,7 +4472,7 @@ msgid "s_Impetus"
 msgstr "Impuls"
 
 msgid "desc_s_Impetus"
-msgstr "Gewährt dem Caster einen Quickness-Bonus."
+msgstr "Erhöht deine Schnelligkeit."
 
 msgid "s_Impetus_1"
 msgstr "Impetus_1"
@@ -4524,8 +4485,8 @@ msgstr "Inferno"
 
 msgid "desc_s_Inferno"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Feuerschäden "
-"verursacht."
+"Feuert ein Projektil ab, das beim Aufprall explodiert, um Brandschäden zu "
+"verursachen."
 
 msgid "s_Inferno_area"
 msgstr "Inferno_area"
@@ -4537,9 +4498,7 @@ msgid "s_Magma Storm"
 msgstr "Magma-Sturm"
 
 msgid "desc_s_Magma Storm"
-msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Feuerschäden "
-"verursacht. Diese Rakete wird von der Schwerkraft beeinflusst."
+msgstr "Löst ein feuriges Projektil, das explodiert und Gegner zurückschlägt."
 
 msgid "s_Magma Strom_fire"
 msgstr "Magma strom_fire"
@@ -4551,7 +4510,7 @@ msgid "s_Rapid Shot"
 msgstr "Schnellschuss"
 
 msgid "desc_s_Rapid Shot"
-msgstr "Gewährt einem Ziel eine erhöhte Reichweitenangriffsgeschwindigkeit."
+msgstr "Erhöht die Angriffsgeschwindigkeit eines Verbündeten."
 
 msgid "s_Rapid Shot_1"
 msgstr "Schnellschuss_1"
@@ -4563,7 +4522,7 @@ msgid "s_Smoke Signal"
 msgstr "Rauchsignal"
 
 msgid "desc_s_Smoke Signal"
-msgstr "Erzeugt eine Rauchsäule, die vom Ziel aufsteigt."
+msgstr "Erhebt eine Rauchsäule vom Ziel."
 
 msgid "s_Smoke Signal_1"
 msgstr "Rauchsignal_1"
@@ -4576,8 +4535,8 @@ msgstr "Vulkan"
 
 msgid "desc_s_Volcano"
 msgstr ""
-"Feuert einen magischen Strahl, der geschmolzenes Gestein aus dem Boden "
-"hervorspringen lässt und Feuerschaden verursacht."
+"Feuert einen Strahl, der geschmolzenes Gestein aus dem Boden ausbrechen "
+"lässt."
 
 msgid "s_Volcano_1"
 msgstr "Volcano_1"
@@ -4590,8 +4549,7 @@ msgstr "Feuermauer"
 
 msgid "desc_s_Wall of Fire"
 msgstr ""
-"Feuert einen magischen Strahl, der eine große Feuersphäre erzeugt, wenn er "
-"sein Ziel trifft."
+"Feuert einen Strahl, der eine große Feuersphäre erzeugt, wo er trifft."
 
 msgid "s_Wall of Fire_1"
 msgstr "Brandmauer_1"
@@ -4603,8 +4561,7 @@ msgid "s_Weakening Blaze"
 msgstr "Schwächungsflamme"
 
 msgid "desc_s_Weakening Blaze"
-msgstr ""
-"Startet eine Rakete, die dem Brandschutz ihres Ziels eine Strafe zufügt."
+msgstr "Feuert eine Rakete ab, die den Brandschutz eines Ziels senkt."
 
 msgid "s_Weakening Blaze_1"
 msgstr "Schwächungsflamme_1"
@@ -4625,7 +4582,7 @@ msgid "s_Beacon"
 msgstr "Leuchtfeuer"
 
 msgid "desc_s_Beacon"
-msgstr "Ein Strahl, der einen visuellen Marker auf seinem Ziel erzeugt."
+msgstr "Feuert einen Strahl ab, der sein Ziel markiert."
 
 msgid "s_Beacon_1"
 msgstr "Beacon_1"
@@ -4637,9 +4594,7 @@ msgid "s_Begone"
 msgstr "Begon"
 
 msgid "desc_s_Begone"
-msgstr ""
-"Arkane Explosion wird in erster Linie verwendet, um Ziele zu schieben oder "
-"zu ziehen."
+msgstr "Feuert eine arkane Explosion, die ein Ziel drückt."
 
 msgid "s_Begone_1"
 msgstr "Begone_1"
@@ -4652,7 +4607,7 @@ msgstr "Verwirrung"
 
 msgid "desc_s_Confusion"
 msgstr ""
-"Raketen, die einen Blitz erzeugen, blenden die Zuschauer beim Aufprall."
+"Feuert eine Rakete ab, die beim Aufprall blinkt und die in der Nähe blendet."
 
 msgid "s_Confusion_1"
 msgstr "Confusion_1"
@@ -4664,9 +4619,7 @@ msgid "s_Disabling Bolt"
 msgstr "Sperrbolzen"
 
 msgid "desc_s_Disabling Bolt"
-msgstr ""
-"Ein Angriff, der deinen Gegner für kurze Zeit nicht in der Lage macht, zu "
-"parieren."
+msgstr "Feuert einen Bolzen, der ein Ziel kurz daran hindert zu parieren."
 
 msgid "s_Disabling Bolt_1"
 msgstr "Sperrbolzen_1"
@@ -4684,8 +4637,7 @@ msgid "s_Flesh Curse"
 msgstr "Fleischfluch"
 
 msgid "desc_s_Flesh Curse"
-msgstr ""
-"Startet eine Rakete, die den Infliction-Schutz ihres Ziels reduziert. "
+msgstr "Feuert eine Rakete ab, die den Infliction-Schutz eines Ziels senkt."
 
 msgid "s_Flesh Curse_1"
 msgstr "Fleischfluch_1"
@@ -4711,7 +4663,9 @@ msgid "s_Heal Other"
 msgstr "Andere heilen"
 
 msgid "desc_s_Heal Other"
-msgstr "Ein heilender Strahl, der die Gesundheit des Ziels wiederherstellt."
+msgstr ""
+"Feuert einen heilenden Strahl, der die Gesundheit eines Verbündeten "
+"wiederherstellt."
 
 msgid "s_Heal Other_1"
 msgstr "Sonstiges heilen_1"
@@ -4723,7 +4677,7 @@ msgid "s_Infliction Shield"
 msgstr "Suspendierungsschild"
 
 msgid "desc_s_Infliction Shield"
-msgstr "Gewährt dem Caster einen erhöhten Infliction-Schutz."
+msgstr "Erhöht Ihren Infliction-Schutz."
 
 msgid "s_Infliction Shield_1"
 msgstr "Suspendierungsschild_1"
@@ -4735,7 +4689,7 @@ msgid "s_Infliction Ward"
 msgstr "Suspendierungsstation"
 
 msgid "desc_s_Infliction Ward"
-msgstr "Zuschüsse zielen auf einen erhöhten Infliction-Schutz ab."
+msgstr "Gewährt einem Verbündeten einen erhöhten Infliction-Schutz."
 
 msgid "s_Infliction Ward_1"
 msgstr "Verursachungsstation_1"
@@ -4747,7 +4701,7 @@ msgid "s_Insight"
 msgstr "Einsicht"
 
 msgid "desc_s_Insight"
-msgstr "Gewährt dem Caster einen Weisheitsbonus."
+msgstr "Erhöht eure Weisheit."
 
 msgid "s_Insight_1"
 msgstr "Insight_1"
@@ -4774,8 +4728,8 @@ msgstr "Raketenwut"
 
 msgid "desc_s_Missile Fury"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Arkanschäden "
-"verursacht."
+"Feuert ein Projektil ab, das bei einem Aufprall für arkane Schäden "
+"explodiert."
 
 msgid "s_Missile Fury_1"
 msgstr "Flugkörperwut_1"
@@ -4788,8 +4742,8 @@ msgstr "Riff"
 
 msgid "desc_s_Rend"
 msgstr ""
-"Feuert eine Rakete ab, die bei einem Aufprall explodiert und Blutungsschäden"
-" verursacht sowie eine Piercing Protection Strafe gewährt."
+"Feuert eine Rakete ab, die Blutungen verursacht und den Piercing-Schutz "
+"senkt."
 
 msgid "s_Rend_1"
 msgstr "Rend_1"
@@ -4834,9 +4788,7 @@ msgid "s_Impulse"
 msgstr "Impuls"
 
 msgid "desc_s_Impulse"
-msgstr ""
-"Eine Sphäre reiner arkaner Kraft, die hauptsächlich zum Bewegen von Zielen "
-"verwendet wird."
+msgstr "Feuert eine Sphäre arkaner Kraft, die Ziele bewegt."
 
 msgid "s_Impulse_1"
 msgstr "Impulse_1"
@@ -4848,7 +4800,9 @@ msgid "s_Telekinesis"
 msgstr "Telekinese"
 
 msgid "desc_s_Telekinesis"
-msgstr "Eine Säule telekinetischer Kraft, die jeden im Inneren erhebt."
+msgstr ""
+"Erzeugt eine Säule telekinetischer Kraft, die jeden über einen kurzen "
+"Zeitraum im Inneren anhebt."
 
 msgid "s_Telekinesis_1"
 msgstr "Telekinesis_1"
@@ -4860,7 +4814,7 @@ msgid "s_Unburden"
 msgstr "Entlastung"
 
 msgid "desc_s_Unburden"
-msgstr "Reduziert die Belastung des Casters."
+msgstr "Reduziert Ihre Belastung für kurze Zeit."
 
 msgid "s_Unburden_1"
 msgstr "Unburden_1"
@@ -4873,8 +4827,8 @@ msgstr "Gift"
 
 msgid "desc_s_Venom"
 msgstr ""
-"Feuert eine Rakete, die Giftschäden an ihrem Ziel verursacht und die "
-"maximale Gesundheit senkt."
+"Feuert eine Rakete ab, die ein Ziel vergiftet und die maximale Gesundheit "
+"senkt."
 
 msgid "s_Venom_2"
 msgstr "Venom_2"
@@ -4928,8 +4882,8 @@ msgstr "Belastung"
 
 msgid "desc_s_Burden"
 msgstr ""
-"Feuert eine Rakete ab, die eine Belastungsstrafe auf ihr Ziel verhängt und "
-"deren Guss oder Bogenschießen beeinträchtigt."
+"Feuert eine Rakete ab, die ein Ziel belastet und das Gießen und "
+"Bogenschießen behindert."
 
 msgid "s_Burden_1"
 msgstr "Burden_1"
@@ -4942,8 +4896,8 @@ msgstr "Holditch-Kugel"
 
 msgid "desc_s_Eldritch Sphere"
 msgstr ""
-"Feuert eine Rakete ab, die bei einem Aufprall explodiert und arkanen Schaden"
-" verursacht."
+"Schießt eine Kugel, die beim Aufprall explodiert und arkanen Schaden "
+"verursacht."
 
 msgid "s_Eldritch Sphere_1"
 msgstr "Eldritch sphere_1"
@@ -4955,9 +4909,7 @@ msgid "s_Heal Mount"
 msgstr "Heilhalter"
 
 msgid "desc_s_Heal Mount"
-msgstr ""
-"Feuert einen magischen Strahl, der die Gesundheit eines Reittiers wieder "
-"auffüllt."
+msgstr "Heilt ein gezieltes Reittier."
 
 msgid "s_Heal Mount_1"
 msgstr "Heillager_1"
@@ -4969,9 +4921,7 @@ msgid "s_Heal Self"
 msgstr "Selbstheilung"
 
 msgid "desc_s_Heal Self"
-msgstr ""
-"Caster gewinnt eine kleine Menge an Gesundheit zurück. Dieser Zauber "
-"erfordert keine Reagenzien zum Gießen."
+msgstr "Caster gewinnt eine kleine Menge an Gesundheit zurück."
 
 msgid "s_Heal Self_1"
 msgstr "Selbst heilen_1"
@@ -4983,8 +4933,7 @@ msgid "s_Health to Mana"
 msgstr "Gesundheit für Mana"
 
 msgid "desc_s_Health to Mana"
-msgstr ""
-"Caster erhöht sein eigenes Mana, auf Kosten der Gesundheit zu verlieren."
+msgstr "Verwandelt einen Teil Ihrer Gesundheit in Mana."
 
 msgid "s_Health to Mana_1"
 msgstr "Gesundheit für Mana_1"
@@ -4996,7 +4945,7 @@ msgid "s_Launch"
 msgstr "Start"
 
 msgid "desc_s_Launch"
-msgstr "Feuert einen magischen Strahl, der einen Energiestoß verursacht."
+msgstr "Gibt einen Luftstoß frei, der das Ziel nach oben schießt."
 
 msgid "s_Launch_1"
 msgstr "Launch_1"
@@ -5008,7 +4957,7 @@ msgid "s_Lay on Hands"
 msgstr "Legen Sie auf die Hände"
 
 msgid "desc_s_Lay on Hands"
-msgstr "Feuert einen magischen Strahl, der sein Ziel heilt."
+msgstr "Heilt einen zielgerichteten Spieler, hat aber eine kurze Reichweite."
 
 msgid "s_Lay on Hands_1"
 msgstr "Legen Sie auf die Hände_1"
@@ -5056,7 +5005,7 @@ msgid "s_Mana Drain"
 msgstr "Mana-Drain"
 
 msgid "desc_s_Mana Drain"
-msgstr "Feuert einen magischen Strahl ab, der das Mana seines Ziels entzieht."
+msgstr "Lässt das Mana eines Ziels ab."
 
 msgid "s_Mana Drain_Drain"
 msgstr "Mana Drain_Drain"
@@ -5068,9 +5017,7 @@ msgid "s_Mana Missile"
 msgstr "Manageschoss"
 
 msgid "desc_s_Mana Missile"
-msgstr ""
-"Feuert eine Rakete ab, die arkanen Schaden zufügt. Es ist der schwächste "
-"verfügbare Schadenszauber, erfordert jedoch keine Reagenzien. "
+msgstr "Feuert eine Rakete ab, die für arkane Schäden explodiert."
 
 msgid "s_Mana Missile_Arcane"
 msgstr "Mana missile_arcan"
@@ -5082,8 +5029,7 @@ msgid "s_Mana to Stamina"
 msgstr "Mana zu Ausdauer"
 
 msgid "desc_s_Mana to Stamina"
-msgstr ""
-"Caster erhöht seine eigene Ausdauer, auf Kosten des Verlusts von Mana."
+msgstr "Verwandelt einen Teil deines Mana in Ausdauer."
 
 msgid "s_Mana to Stamina_1"
 msgstr "Mana to Ausdauer_1"
@@ -5095,8 +5041,7 @@ msgid "s_Stamina to Health"
 msgstr "Ausdauer für die Gesundheit"
 
 msgid "desc_s_Stamina to Health"
-msgstr ""
-"Caster erhöht seine eigene Gesundheit, auf Kosten des Verlusts von Ausdauer."
+msgstr "Verwandelt einen Teil Ihrer Ausdauer in Gesundheit."
 
 msgid "s_Stamina to Health_1"
 msgstr "Ausdauer für die Gesundheit_1"
@@ -5117,9 +5062,7 @@ msgid "s_Bludgeoning Weakness"
 msgstr "Bludgeoning Schwäche"
 
 msgid "desc_s_Bludgeoning Weakness"
-msgstr ""
-"Startet eine Rakete, die dem Bludgeoning-Schutz ihres Ziels eine Strafe "
-"zufügt.  "
+msgstr "Schießt eine Rakete, die den Bludgeoning-Schutz des Ziels senkt."
 
 msgid "s_Bludgeoning Weakness_1"
 msgstr "Verprügelungsschwäche_1"
@@ -5143,7 +5086,7 @@ msgid "s_Cursed Bolt"
 msgstr "Verfluchte Schraube"
 
 msgid "desc_s_Cursed Bolt"
-msgstr "Feuert eine Rakete ab, die Unheiligen Schaden zufügt."
+msgstr "Feuert einen Bolzen, der Unheiligen Schaden verursacht."
 
 msgid "s_Cursed Bolt_1"
 msgstr "Verfluchte Schraube_1"
@@ -5156,7 +5099,8 @@ msgstr "Todesnebel"
 
 msgid "desc_s_Death Fog"
 msgstr ""
-"Feuert einen magischen Strahl, der einen unheiligen Nebel hervorbringt. "
+"Erzeugt einen unheiligen Nebel, der alles in ihm im Laufe der Zeit "
+"beschädigt und die Sicht verdeckt."
 
 msgid "s_Death Fog_1"
 msgstr "Death Fog_1"
@@ -5168,9 +5112,7 @@ msgid "s_Desecration"
 msgstr "Schändung"
 
 msgid "desc_s_Desecration"
-msgstr ""
-"Startet eine Rakete, die dem unheiligen Schutz ihres Ziels eine Strafe "
-"zufügt."
+msgstr "Schießt eine Rakete, die den unheiligen Schutz des Ziels senkt."
 
 msgid "s_Desecration_1"
 msgstr "Desecration_1"
@@ -5197,8 +5139,7 @@ msgstr "Augenfrösche"
 
 msgid "desc_s_Eye Rot"
 msgstr ""
-"Raketen, die die Koordination des Ziels stören.  Verursacht Blutungsschäden "
-"und eine Strafe für Geschicklichkeit und Intelligenz."
+"Schießt eine Rakete, die das Ziel über einen kurzen Zeitraum stark blendet."
 
 msgid "s_Eye Rot_1"
 msgstr "Augenrotation_1"
@@ -5222,7 +5163,7 @@ msgid "s_Infernal Shield"
 msgstr "Höllischer Schild"
 
 msgid "desc_s_Infernal Shield"
-msgstr "Gewährt einen erhöhten Schutz vor unheiligen Schäden."
+msgstr "Erhöht Ihren Schutz vor unheiligen Schäden."
 
 msgid "s_Infernal Shield_1"
 msgstr "Höllischer Schild_1"
@@ -5234,7 +5175,7 @@ msgid "s_Infernal Ward"
 msgstr "Höllischer Schutz"
 
 msgid "desc_s_Infernal Ward"
-msgstr "Gewährt einen Zielschutz gegen Unheilige Schäden."
+msgstr "Gewährt einen gezielten Spielerschutz gegen Unheilige Schäden."
 
 msgid "s_Infernal Ward_1"
 msgstr "Infernal Ward_1"
@@ -5259,8 +5200,7 @@ msgid "s_Piercing Weakness"
 msgstr "Piercing Schwäche"
 
 msgid "desc_s_Piercing Weakness"
-msgstr ""
-"Startet eine Rakete, die dem Piercing-Schutz ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die den Piercing-Schutz des Ziels senkt."
 
 msgid "s_Piercing Weakness_1"
 msgstr "Stechende Schwäche_1"
@@ -5272,8 +5212,7 @@ msgid "s_Slashing Weakness"
 msgstr "Slashing Schwäche"
 
 msgid "desc_s_Slashing Weakness"
-msgstr ""
-"Startet eine Rakete, die dem Slashing-Schutz ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die den Slashing-Schutz des Ziels senkt."
 
 msgid "s_Slashing Weakness_1"
 msgstr "Kürzung der Schwäche_1"
@@ -5286,8 +5225,8 @@ msgstr "Unath"
 
 msgid "desc_s_Undeath"
 msgstr ""
-"Feuert eine Rakete ab, die ihrem Ziel einen Fluch zufügt und die natürliche "
-"Gesundheitsregeneration reduziert oder sogar negiert."
+"Schürft einen Fluch, der die natürliche Regenerationsrate des Ziels "
+"reduziert."
 
 msgid "s_Undeath_1"
 msgstr "Undeath_1"
@@ -5299,9 +5238,7 @@ msgid "s_Unholy Caress"
 msgstr "Unheilige Liebkosung"
 
 msgid "desc_s_Unholy Caress"
-msgstr ""
-"Feuert eine Linie, die Unheiligen Schaden auf einem einzelnen Ziel "
-"verursacht. "
+msgstr "Trifft ein einzelnes Ziel mit einem Strahl von unheiligem Schaden."
 
 msgid "s_Unholy Caress_1"
 msgstr "Unheilige Liebkosung_1"
@@ -5314,8 +5251,8 @@ msgstr "Unheilige Flammen"
 
 msgid "desc_s_Unholy Flames"
 msgstr ""
-"Feuert ein Projektil ab, das beim Aufprall explodiert und Unheiligen Schaden"
-" verursacht. "
+"Schleudert ein Geschoss, das beim Aufprall explodiert und unheiligen Schaden"
+" verursacht."
 
 msgid "s_Unholy Flames_area"
 msgstr "Unheilige Flammen_Gebiet"
@@ -5341,9 +5278,7 @@ msgid "s_Vampiric Touch"
 msgstr "Vampirische Berührung"
 
 msgid "desc_s_Vampiric Touch"
-msgstr ""
-"Feuert einen magischen Strahl ab, der die Gesundheit des Ziels entzieht und "
-"es auf die Rolle überträgt. "
+msgstr "Entwässert die Gesundheit des Ziels und gibt sie Ihnen."
 
 msgid "s_Vampiric Touch_1"
 msgstr "Vampirische Berührung_1"
@@ -5370,7 +5305,7 @@ msgid "s_Adept"
 msgstr "Adept"
 
 msgid "desc_s_Adept"
-msgstr "Verringert die Wahrscheinlichkeit des Zauberspruchsfehlers."
+msgstr "Senkt Ihre Chance auf Zauberfehler."
 
 msgid "s_Adept_1"
 msgstr "Adept_1"
@@ -5382,7 +5317,7 @@ msgid "s_Bless Other"
 msgstr "Segne andere"
 
 msgid "desc_s_Bless Other"
-msgstr "Gewährt einen Zielschutz gegen Malediction-Angriffe."
+msgstr "Gewährt einen gezielten Spielerschutz gegen Malediction."
 
 msgid "s_Bless Other_1"
 msgstr "Bless other_1"
@@ -5406,7 +5341,7 @@ msgid "s_Healing Chant"
 msgstr "Heilgesang"
 
 msgid "desc_s_Healing Chant"
-msgstr "Erschafft eine heilende Sphäre um den Caster herum."
+msgstr "Heilt die um dich herum im Laufe der Zeit, während du singst."
 
 msgid "s_Healing Chant_1"
 msgstr "Heilschant_1"
@@ -5418,7 +5353,7 @@ msgid "s_Hymn of Intellect"
 msgstr "Hymne des Intellekts"
 
 msgid "desc_s_Hymn of Intellect"
-msgstr "Ein Strahl, der einen Bonus auf die Intelligenz des Ziels gewährt."
+msgstr "Erhöht die Intelligenz eines Zielspielers."
 
 msgid "s_Hymn of Intellect_1"
 msgstr "Hymne von intellect_1"
@@ -5430,7 +5365,7 @@ msgid "s_Hymn of Might"
 msgstr "Hymne der Macht"
 
 msgid "desc_s_Hymn of Might"
-msgstr "Ein Strahl, der einen Bonus auf die Stärke des Ziels gewährt."
+msgstr "Erhöht die Stärke eines Zielspielers."
 
 msgid "s_Hymn of Might_1"
 msgstr "Hymne von might_1"
@@ -5442,8 +5377,7 @@ msgid "s_Hymn of Skill"
 msgstr "Hymne der Geschicklichkeit"
 
 msgid "desc_s_Hymn of Skill"
-msgstr ""
-"Ein Strahl, der einen Bonus auf die Geschicklichkeit des Ziels gewährt."
+msgstr "Erhöht die Geschicklichkeit eines Zielspielers."
 
 msgid "s_Hymn of Skill_1"
 msgstr "Geschicklichkeitshymne_1"
@@ -5455,7 +5389,7 @@ msgid "s_Hymn of Swiftness"
 msgstr "Hymne der Schnelligkeit"
 
 msgid "desc_s_Hymn of Swiftness"
-msgstr "Ein Strahl, der einen Bonus auf die Schnelligkeit des Ziels gewährt."
+msgstr "Erhöht die Schnelligkeit eines Zielspielers."
 
 msgid "s_Hymn of Swiftness_1"
 msgstr "Hymne der Schnelligkeit_1"
@@ -5467,8 +5401,7 @@ msgid "s_Hymn of Vigor"
 msgstr "Hymne der Kraft"
 
 msgid "desc_s_Hymn of Vigor"
-msgstr ""
-"Ein magischer Strahl, der einen Bonus auf die Vitalität des Ziels gewährt."
+msgstr "Erhöht die Vitalität eines Zielspielers."
 
 msgid "s_Hymn of Vigor_1"
 msgstr "Hymne von vigor_1"
@@ -5480,7 +5413,8 @@ msgid "s_Mana Blast"
 msgstr "Mana-Blast"
 
 msgid "desc_s_Mana Blast"
-msgstr "Feuert einen magischen Strahl, der eine arkane Explosion verursacht."
+msgstr ""
+"Verursacht eine arkane explosion am ziel und beschädigt alles in der nähe."
 
 msgid "s_Mana Blast_1"
 msgstr "Mana blast_1"
@@ -5492,7 +5426,7 @@ msgid "s_Max Health Bonus"
 msgstr "Maximaler Gesundheitsbonus"
 
 msgid "desc_s_Max Health Bonus"
-msgstr "Erhöht vorübergehend die maximale Gesundheit des Casters."
+msgstr "Erhöht vorübergehend Ihre maximale Gesundheit."
 
 msgid "s_Max Health Bonus_1"
 msgstr "Max. Gesundheitsbonus_1"
@@ -5504,7 +5438,7 @@ msgid "s_Max Mana Bonus"
 msgstr "Max. Manabonus"
 
 msgid "desc_s_Max Mana Bonus"
-msgstr "Erhöht vorübergehend das maximale Mana des Casters."
+msgstr "Erhöht vorübergehend dein maximales Mana."
 
 msgid "s_Max Mana Bonus_1"
 msgstr "Max. Manabonus_1"
@@ -5516,7 +5450,7 @@ msgid "s_Max Stamina Bonus"
 msgstr "Maximaler Ausdauerbonus"
 
 msgid "desc_s_Max Stamina Bonus"
-msgstr "Erhöht vorübergehend die maximale Ausdauer des Casters."
+msgstr "Erhöht vorübergehend Ihre maximale Ausdauer."
 
 msgid "s_Max Stamina Bonus_1"
 msgstr "Max. Ausdauerbonus_1"
@@ -5528,7 +5462,8 @@ msgid "s_Sacrifice"
 msgstr "Opferopfer"
 
 msgid "desc_s_Sacrifice"
-msgstr "Ein Strahl, der Gesundheit von der Rolle auf das Ziel überträgt."
+msgstr ""
+"Heilt einen zielgerichteten Spieler auf Kosten Ihrer eigenen Gesundheit."
 
 msgid "s_Sacrifice_1"
 msgstr "Sacrifice_1"
@@ -5604,8 +5539,8 @@ msgstr "Schneesturm"
 
 msgid "desc_s_Blizzard"
 msgstr ""
-"Startet eine Rakete, die bei einem Aufprall explodiert und Kälteschäden "
-"verursacht. "
+"Schießt eine Rakete, die beim Aufprall explodiert und Kaltschaden "
+"verursacht."
 
 msgid "s_Blizzard_1"
 msgstr "Blizzard_1"
@@ -5631,7 +5566,7 @@ msgid "s_Clear Thoughts"
 msgstr "Klare Gedanken"
 
 msgid "desc_s_Clear Thoughts"
-msgstr "Gewährt dem Caster einen Intelligence-Bonus."
+msgstr "Erhöht Ihre Intelligenz."
 
 msgid "s_Clear Thoughts_1"
 msgstr "Klare Gedanken_1"
@@ -5643,7 +5578,7 @@ msgid "s_Cold Shield"
 msgstr "Kaltschild"
 
 msgid "desc_s_Cold Shield"
-msgstr "Gewährt dem Caster einen erhöhten Schutz gegen Kälte."
+msgstr "Erhöht Ihren Schutz vor Kälteschäden."
 
 msgid "s_Cold Shield_prot"
 msgstr "Cold Shield_Prot"
@@ -5655,7 +5590,7 @@ msgid "s_Cold Ward"
 msgstr "Kalte Station"
 
 msgid "desc_s_Cold Ward"
-msgstr "Gewährt den Zielschutz gegen Kälte."
+msgstr "Gewährt einen gezielten Spielerschutz gegen Kälteschäden."
 
 msgid "s_Cold Ward_1"
 msgstr "Kältestation_1"
@@ -5667,9 +5602,7 @@ msgid "s_Delayed Shot"
 msgstr "Verspäteter Schuss"
 
 msgid "desc_s_Delayed Shot"
-msgstr ""
-"Startet eine Rakete, die die Angriffsgeschwindigkeit ihres Ziels mit "
-"Distanzwaffen bestraft.  "
+msgstr "Schießt eine Rakete, die die Fernangriffe des Ziels verlangsamt."
 
 msgid "s_Delayed Shot_1"
 msgstr "Verspäteter Schuss_1"
@@ -5681,8 +5614,7 @@ msgid "s_Frostbite"
 msgstr "Erfrierungen"
 
 msgid "desc_s_Frostbite"
-msgstr ""
-"Feuert einen Strahl intensiver Kälte, der alles auf seinem Weg beschädigt."
+msgstr "Trifft ein einzelnes Ziel mit einem Strahl von Kälteschaden."
 
 msgid "s_Frostbite_1"
 msgstr "Frostbite_1"
@@ -5694,7 +5626,7 @@ msgid "s_Gills"
 msgstr "Kiemen"
 
 msgid "desc_s_Gills"
-msgstr "Gewährt dem Zauberer eine erhöhte Lungenkapazität."
+msgstr "Lassen Sie länger unter Wasser atmen."
 
 msgid "s_Gills_1"
 msgstr "Gills_1"
@@ -5707,8 +5639,8 @@ msgstr "Eissturm"
 
 msgid "desc_s_Ice Storm"
 msgstr ""
-"Feuert einen magischen Strahl, der einen Sturm intensiver Kälte hervorruft, "
-"wenn er sein Ziel trifft."
+"Beschwört einen Sturm der Kälte, der kleinere Schäden verursacht, aber die "
+"Sicht stark verdeckt."
 
 msgid "s_Ice Storm_1"
 msgstr "Eissturm_1"
@@ -5720,7 +5652,7 @@ msgid "s_Icicle"
 msgstr "Icicula"
 
 msgid "desc_s_Icicle"
-msgstr "Startet eine Rakete, die ihrem Ziel kalten Schaden zufügt."
+msgstr "Feuert einen Eiszapfen, der kalten Schaden verursacht."
 
 msgid "s_Icicle_Cold"
 msgstr "Icicle_Cold"
@@ -5733,8 +5665,8 @@ msgstr "Scherben"
 
 msgid "desc_s_Shards"
 msgstr ""
-"Startet ein Projektil, das beim Aufprall explodiert und Kälteschäden "
-"verursacht."
+"Hurls Scherben, die beim Aufprall explodieren, Kaltschäden verursachen und "
+"den Kaltschutz senken."
 
 msgid "s_Shards_2"
 msgstr "Shards_2"
@@ -5752,9 +5684,7 @@ msgid "s_Slow"
 msgstr "Langsam"
 
 msgid "desc_s_Slow"
-msgstr ""
-"Feuert eine Rakete, die eine Strafe für die Angriffsgeschwindigkeit ihres "
-"Ziels verursacht, wenn Nahkampfwaffen verwendet werden."
+msgstr "Schießt eine Rakete, die die Nahkampfangriffe des Ziels verlangsamt."
 
 msgid "s_Slow_1"
 msgstr "Slow_1"
@@ -5767,8 +5697,8 @@ msgstr "Giftiger Regen"
 
 msgid "desc_s_Toxic Rain"
 msgstr ""
-"Feuert einen Strahl, der einen magischen Regensturm heraufbeschwört, der "
-"Giftschäden verursacht."
+"Beschwört einen Regensturm, der Giftschäden im Laufe der Zeit in einem "
+"Gebiet verursacht."
 
 msgid "s_Toxic Rain_1"
 msgstr "Toxischer Regen_1"
@@ -5780,7 +5710,7 @@ msgid "s_Water Breathing"
 msgstr "Wasseratmung"
 
 msgid "desc_s_Water Breathing"
-msgstr "Gewährt einem Ziel eine Erhöhung der Lungenkapazität."
+msgstr "Lasst einen zielgerichteten Spieler länger unter Wasser atmen."
 
 msgid "s_Water Breathing_1"
 msgstr "Wasseratmung_1"
@@ -5792,8 +5722,7 @@ msgid "s_Weakening Chill"
 msgstr "Schwächungskühlung"
 
 msgid "desc_s_Weakening Chill"
-msgstr ""
-"Feuert eine Rakete ab, die dem Kaltschutz ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die den Kaltschutz des Ziels senkt."
 
 msgid "s_Weakening Chill_1"
 msgstr "Schwächungskühle_1"
@@ -6024,7 +5953,7 @@ msgid "s_Disease"
 msgstr "Krankheit"
 
 msgid "desc_s_Disease"
-msgstr "Feuert eine Rakete ab, die der Stärke ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die die Stärke des Ziels senkt."
 
 msgid "s_Disease_1"
 msgstr "Disease_1"
@@ -6037,8 +5966,7 @@ msgstr "Abgase"
 
 msgid "desc_s_Exhaust"
 msgstr ""
-"Feuert eine Rakete ab, die die natürliche Ausdauerregeneration ihres Ziels "
-"reduziert."
+"Schießt eine Rakete, die die Ausdauerregeneration des Ziels reduziert."
 
 msgid "s_Exhaust_1"
 msgstr "Exhaust_1"
@@ -6050,7 +5978,9 @@ msgid "s_Insect Swarm"
 msgstr "Insektenschwanz"
 
 msgid "desc_s_Insect Swarm"
-msgstr "Sende einen Schwarm giftiger Insekten auf das Ziel."
+msgstr ""
+"Sendet einen giftigen Schwarm, der das Ziel schädigt und die "
+"Geschicklichkeit senkt."
 
 msgid "s_Insect Swarm_1"
 msgstr "Insektenschwarm_1"
@@ -6068,9 +5998,7 @@ msgid "s_Mana Leech"
 msgstr "Mana-Leech"
 
 msgid "desc_s_Mana Leech"
-msgstr ""
-"Feuert einen Strahl ab, der das Mana des Ziels entleert und es auf die Rolle"
-" überträgt."
+msgstr "Lässt das Mana des Ziels ab und gibt es dir."
 
 msgid "s_Mana Leech_1"
 msgstr "Mana leech_1"
@@ -6097,7 +6025,7 @@ msgstr "Nadeln"
 
 msgid "desc_s_Needles"
 msgstr ""
-"Feuert eine Rakete ab, die beim Aufprall explodiert und Blutungsschäden "
+"Schießt eine Rakete, die beim Aufprall explodiert und Blutungsschäden "
 "verursacht."
 
 msgid "s_Needles_1"
@@ -6110,8 +6038,7 @@ msgid "s_Ominous Drain"
 msgstr "Ominöser Abfluss"
 
 msgid "desc_s_Ominous Drain"
-msgstr ""
-"Feuert eine Rakete ab, die alle Basisattribute ihres Ziels reduzieren kann."
+msgstr "Schießt eine Rakete, die alle Basisattribute des Ziels senken kann."
 
 msgid "s_Ominous Drain_1"
 msgstr "Ominöse Drainage_1"
@@ -6123,9 +6050,7 @@ msgid "s_Palsy"
 msgstr "Lähmung"
 
 msgid "desc_s_Palsy"
-msgstr ""
-"Startet eine Rakete, die der Geschicklichkeit ihres Ziels eine Strafe "
-"zufügt."
+msgstr "Schießt eine Rakete, die die Geschicklichkeit des Ziels senkt."
 
 msgid "s_Palsy_1"
 msgstr "Palsy_1"
@@ -6137,8 +6062,7 @@ msgid "s_Pestilence"
 msgstr "Pestilenz"
 
 msgid "desc_s_Pestilence"
-msgstr ""
-"Startet eine Rakete, die der Vitalität ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die die Vitalität des Ziels senkt."
 
 msgid "s_Pestilence_1"
 msgstr "Pestilence_1"
@@ -6150,8 +6074,7 @@ msgid "s_Sluggish"
 msgstr "Träge"
 
 msgid "desc_s_Sluggish"
-msgstr ""
-"Startet eine Rakete, die der Schnelligkeit ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die die Schnelligkeit des Ziels senkt."
 
 msgid "s_Sluggish_1"
 msgstr "Sluggish_1"
@@ -6183,8 +6106,7 @@ msgid "s_Stupidity"
 msgstr "Dummheit"
 
 msgid "desc_s_Stupidity"
-msgstr ""
-"Startet eine Rakete, die der Intelligenz ihres Ziels eine Strafe zufügt."
+msgstr "Schießt eine Rakete, die die Intelligenz des Ziels senkt."
 
 msgid "s_Stupidity_1"
 msgstr "Stupidity_1"
@@ -6197,7 +6119,8 @@ msgstr "Zungenfrösche"
 
 msgid "desc_s_Tongue Rot"
 msgstr ""
-"Startet eine Rakete, die die Zaubererfolgsrate ihres Ziels verringert."
+"Schießt eine Rakete, die die Wahrscheinlichkeit eines Zauberfehlers des "
+"Ziels erhöht."
 
 msgid "s_Tongue Rot_Penalty"
 msgstr "Tongue rot_penalty"
@@ -6209,9 +6132,7 @@ msgid "s_Witches Brew"
 msgstr "Hexenbrühe"
 
 msgid "desc_s_Witches Brew"
-msgstr ""
-"Erschafft eine sofortige Heilungssphäre, die auf den Zauber ausgerichtet "
-"ist."
+msgstr "Sofort heilt Spieler um dich herum."
 
 msgid "s_Witches Brew_1"
 msgstr "Hexen brew_1"
@@ -6370,53 +6291,50 @@ msgstr "Deadeye-Aura"
 
 msgid "desc_s_Deadeye Aura"
 msgstr ""
-"Partymitglieder in deiner nähe verursachen monstern mehr entfernungsschäden,"
-" während es hält."
+"Partymitglieder in deiner Nähe verursachen Monstern während sie aktiv sind, "
+"mehr Entfernungsschaden."
 
 msgid "s_Cutthroat Aura"
 msgstr "Cutthroat-Aura"
 
 msgid "desc_s_Cutthroat Aura"
 msgstr ""
-"Partymitglieder in deiner Nähe verursachen Monstern mehr Nahkampfschaden, "
-"während es hält."
+"Partymitglieder in deiner Nähe verursachen Monstern mehr Nahkampfschäden, "
+"während sie aktiv sind."
 
 msgid "s_Vanguard Aura"
 msgstr "Avantgarde-Aura"
 
 msgid "desc_s_Vanguard Aura"
-msgstr "Beschützt parteimitglieder in ihrer nähe, während es hält."
+msgstr "Shields partymitglieder in ihrer nähe, während sie aktiv sind."
 
 msgid "s_Rain of Arrows"
 msgstr "Regen von Pfeilen"
 
 msgid "desc_s_Rain of Arrows"
 msgstr ""
-"Feuert einen Pfeil ab, der einen Regen von Pfeilen aufruft, wo er einschlägt"
-" und Kreaturen für kurze Zeit darunter verletzt. Das kostet einen Pfeil. Die"
-" fallenden Pfeile zählen nicht als Pfeile, die Sie landen."
+"Feuert einen Pfeil, der einen Regen von Pfeilen herabruft und die darunter "
+"Verwundeten."
 
 msgid "s_Volley"
 msgstr "Phantomköcher"
 
 msgid "desc_s_Volley"
 msgstr ""
-"Gewährt volle Second Nature-Stacks, und für kurze Zeit schlägt jeder Pfeil, "
-"den Sie auf einem Monster landen, mit spektraler Kraft für schweren "
-"Bonusschaden. Endet, wenn Sie PvP betreten."
+"Gewährt volle Second Nature und stärkt kurz Ihre Pfeile gegen Monster."
 
 msgid "s_Provoke"
 msgstr "Provokation"
 
 msgid "desc_s_Provoke"
-msgstr "Monster vor dir wenden sich gegen dich statt gegen deine Verbündeten."
+msgstr "Verdreht Monster vor euch gegen euch statt gegen eure Verbündeten."
 
 msgid "s_Red Harvest"
 msgstr "Rote Ernte"
 
 msgid "desc_s_Red Harvest"
 msgstr ""
-"Ihre Wunden ticken für kurze Zeit doppelt so schnell und töten, um sie "
+"Ihre Wunden ticken kurzzeitig doppelt so schnell und töten, um sie "
 "aufzufrischen. Benötigt Messer."
 
 msgid "s_Unbroken Line"
@@ -6424,8 +6342,8 @@ msgstr "Durchgezogene Linie"
 
 msgid "desc_s_Unbroken Line"
 msgstr ""
-"Nehmen Sie weit weniger Schaden von Monstern für eine kurze Zeit. Endet, "
-"wenn Sie PvP betreten."
+"Reduzieren Sie kurz den Schaden, den Sie von Monstern nehmen. Endet, wenn "
+"Sie PvP betreten."
 
 msgid "s_Provoke_1"
 msgstr "Provoke_1"
@@ -6445,10 +6363,50 @@ msgstr "Durchgezogene Linie_2"
 msgid "desc_s_Unbroken Line_2"
 msgstr ""
 
+msgid "s_Oracle Skills"
+msgstr "Orakelfähigkeiten"
+
+msgid "desc_s_Oracle Skills"
+msgstr ""
+
+msgid "s_Sanctuary"
+msgstr "Heiligtum"
+
+msgid "desc_s_Sanctuary"
+msgstr ""
+"Platziert ein Heiligtum, das Mana und Ausdauer für die Spieler im Inneren "
+"wiederherstellt."
+
+msgid "s_Sanctuary_1"
+msgstr "Sanctuary_1"
+
+msgid "desc_s_Sanctuary_1"
+msgstr ""
+
+msgid "s_Sanctuary_2"
+msgstr "Sanctuary_2"
+
+msgid "desc_s_Sanctuary_2"
+msgstr ""
+
 msgid "s_Vanguard Aura_1"
 msgstr "Vanguard aura_1"
 
 msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "s_Oracle Aura"
+msgstr "Orakel-Aura"
+
+msgid "desc_s_Oracle Aura"
+msgstr ""
+"Beschleunigt die Mana-Regeneration für Parteimitglieder in Ihrer Nähe, "
+"während Sie aktiv sind."
+
+msgid "s_Oracle Aura_1"
+msgstr "Aura des Orakels_1"
+
+msgid "desc_s_Oracle Aura_1"
 msgstr ""
 
 msgid "s_Red Harvest_1"
@@ -6516,3 +6474,42 @@ msgstr "Sithra Blitzschwäche"
 
 msgid "s_Sithra Unholy Weakness"
 msgstr "Sithra Unheilige Schwäche"
+
+msgid "skillext_side_step_name"
+msgstr "Seitenschritt"
+
+msgid "skillext_side_step_limitation"
+msgstr ""
+
+msgid "skillext_side_step_effect"
+msgstr "Ermöglicht einen Double-Tap Sidestep."
+
+msgid "s_Cutthroat Mastery"
+msgstr "Cutthroat Mastering"
+
+msgid "desc_s_Cutthroat Mastery"
+msgstr "Nimm den Cutthroat-Pfad auf. Benötigt Messer 50."
+
+msgid "s_Vanguard Mastery"
+msgstr "Vorhut-Meisterschaft"
+
+msgid "desc_s_Vanguard Mastery"
+msgstr "Nehmen Sie den Vanguard-Pfad. Benötigt Vitalität 50."
+
+msgid "s_Oracle Mastery"
+msgstr "Orakelbeherrschung"
+
+msgid "desc_s_Oracle Mastery"
+msgstr "Nehmen Sie den Orakel-Pfad. Benötigt Zauber Chanting 50."
+
+msgid "s_Deadeye Mastery"
+msgstr "Deadeye-Meisterschaft"
+
+msgid "desc_s_Deadeye Mastery"
+msgstr "Nimm den Deadeye-Pfad auf. Erfordert Bogenschießen 50."
+
+msgid "s_Slayer"
+msgstr "Tücher"
+
+msgid "desc_s_Slayer"
+msgstr "Nimm den Slayer-Beruf auf. Verträge, Caches und Talismane."

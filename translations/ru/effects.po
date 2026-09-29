@@ -1283,6 +1283,12 @@ msgstr "Аура мертвого глаза"
 msgid "desc_Vanguard Aura"
 msgstr "Ваша партия получает меньше вреда от монстров, пока они стоят с вами."
 
+msgid "Oracle Aura"
+msgstr "Аура оракула"
+
+msgid "desc_Oracle Aura"
+msgstr "Ваша вечеринка быстрее восстанавливает ману, пока они стоят с вами."
+
 msgid "desc_Cutthroat Aura"
 msgstr ""
 "Ваша вечеринка наносит больше вреда монстрам, пока они стоят рядом с вами."
@@ -1305,6 +1311,14 @@ msgid "desc_Second Nature"
 msgstr ""
 "Ваша цель - успокоиться - каждая стрела, которую вы приземляете, быстрее "
 "рисует следующую."
+
+msgid "Momentum"
+msgstr "Импульс"
+
+msgid "desc_Momentum"
+msgstr ""
+"Твои удары строятся — каждый последующий удар по чудовищу приземляется "
+"сильнее."
 
 msgid "Rupture"
 msgstr "Разрыв"
@@ -1338,3 +1352,31 @@ msgid "desc_Unbroken Line"
 msgstr ""
 "Вы получаете гораздо меньше вреда от монстров. Заканчивается, если вы "
 "входите в PvP."
+
+msgid "Sheltered"
+msgstr "Защищенный"
+
+msgid "desc_Sheltered"
+msgstr "Чудовищные заклинания и стрелы не могут добраться до вас."
+
+msgid "PvP Combat"
+msgstr "Pvp-бои"
+
+msgid "desc_PvP Combat"
+msgstr ""
+"Вы участвуете в PvP-сражении. Ваши эффекты мастерства подавляются до тех "
+"пор, пока они не исчезнут."
+
+msgid "Sanctuary"
+msgstr "Святилище"
+
+msgid "desc_Sanctuary"
+msgstr ""
+"Восстановление маны и выносливости каждому игроку в святилище. Чудовищные "
+"заклинания и стрелы не могут до них добраться."
+
+msgid "Communion"
+msgstr "Причастие"
+
+msgid "desc_Communion"
+msgstr "Исцелен взрывом маны Оракула."

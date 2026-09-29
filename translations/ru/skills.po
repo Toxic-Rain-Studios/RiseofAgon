@@ -1034,29 +1034,25 @@ msgid "s_Bindstone Recall"
 msgstr "Bindstone отзыв"
 
 msgid "desc_s_Bindstone Recall"
-msgstr ""
-"Нажмите кнопку Действия, чтобы телепортироваться в вашу текущую точку "
-"связывания."
+msgstr "Телепортирует вас в точку привязки."
 
 msgid "s_Summon Mount"
 msgstr "Гора вызова"
 
 msgid "desc_s_Summon Mount"
-msgstr "Пригласите активную фигурку на свою куклу."
+msgstr "Подводит активную фигурку к вашей бумажке."
 
 msgid "s_Capital Recall"
-msgstr "Фракция капитальный отзыв"
+msgstr "Фракция «Отзыв капитала»"
 
 msgid "desc_s_Capital Recall"
-msgstr ""
-"Нажмите кнопку «Действие», чтобы телепортироваться в столицу вашей фракции. "
-"Охлаждение будет варьироваться в зависимости от вашего выравнивания."
+msgstr "Телепортирует вас в столицу вашей фракции."
 
 msgid "s_House Recall"
 msgstr "Домой Воспоминания"
 
 msgid "desc_s_House Recall"
-msgstr "Нажмите кнопку «Действие», чтобы телепортироваться в ваш дом. "
+msgstr "Телепортирует вас в ваш дом."
 
 msgid "s_Orkish Capacity"
 msgstr "Способность орки"
@@ -1084,6 +1080,15 @@ msgstr "Увеличивает максимальный интеллект."
 
 msgid "s_Set Pvp"
 msgstr "Установить pvp"
+
+msgid "s_Mastery Swap"
+msgstr "Мастерство переключателей"
+
+msgid "desc_s_Mastery Swap"
+msgstr ""
+"Стойте неподвижно в течение десяти секунд, чтобы переключиться на другое "
+"мастерство PvE. Перемещение, попадание или вход в PvP-бои прерывают его и "
+"ничего не стоят."
 
 msgid "desc_s_Set Pvp"
 msgstr "Устанавливает игрокам pvp-флаг.  "
@@ -1204,9 +1209,7 @@ msgid "s_Revive"
 msgstr "Реанимировать"
 
 msgid "desc_s_Revive"
-msgstr ""
-"Помогает умирающему персонажу. Нажмите кнопку Действия, чтобы начать "
-"мастерство."
+msgstr "Оживляет умирающего персонажа."
 
 msgid "s_Revive_1"
 msgstr "Revive_1"
@@ -1340,9 +1343,7 @@ msgid "s_Rest"
 msgstr "Отдыхать"
 
 msgid "desc_s_Rest"
-msgstr ""
-"Во время отдыха Здоровье, Мана и Стамина восстанавливаются быстрее. Бонус "
-"регенерации покоя удваивается через 30 секунд."
+msgstr "Восстанавливает здоровье, статмину и ману быстрее во время отдыха."
 
 msgid "s_Rest_1"
 msgstr "Rest_1"
@@ -1963,9 +1964,7 @@ msgid "s_Disabling Blow_Axe"
 msgstr "Отключение blow_axe"
 
 msgid "desc_s_Disabling Blow_Axe"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Axe_1"
 msgstr "Отключение blow_axe_1"
@@ -1983,7 +1982,7 @@ msgid "s_Knockback_Axe"
 msgstr "Knockback_Axe"
 
 msgid "desc_s_Knockback_Axe"
-msgstr "Атака топором, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Axe_1"
 msgstr "Knockback_Axe_1"
@@ -1995,7 +1994,7 @@ msgid "s_Power Attack_Axe"
 msgstr "Силовая атака_axe"
 
 msgid "desc_s_Power Attack_Axe"
-msgstr "Сильная атака, которая снижает защиту цели от ближнего боя.   "
+msgstr "Тяжелый удар, который снижает защиту цели от ближнего боя."
 
 msgid "s_Power Attack_Axe_1"
 msgstr "Силовая атака_axe_1"
@@ -2025,7 +2024,7 @@ msgid "s_Seize_Axe"
 msgstr "Seize_Axe"
 
 msgid "desc_s_Seize_Axe"
-msgstr "Атака, которая сближает противника. "
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Axe_1"
 msgstr "Seize_Axe_1"
@@ -2037,7 +2036,7 @@ msgid "s_Whirlwind Attack_Axe"
 msgstr "Обсуждение Wirlwind Attack_axe"
 
 msgid "desc_s_Whirlwind Attack_Axe"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Axe_1"
 msgstr "Вихревая атака_axe_1"
@@ -2085,9 +2084,7 @@ msgid "s_Disabling Blow_Club"
 msgstr "Отключение blow_club"
 
 msgid "desc_s_Disabling Blow_Club"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Club_1"
 msgstr "Отключение blow_club_1"
@@ -2105,7 +2102,7 @@ msgid "s_Knockback_Club"
 msgstr "Knockback_Club"
 
 msgid "desc_s_Knockback_Club"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Club_1"
 msgstr "Knockback_Club_1"
@@ -2117,7 +2114,7 @@ msgid "s_Power Attack_Club"
 msgstr "Силовая атака_клуб"
 
 msgid "desc_s_Power Attack_Club"
-msgstr "Мощная атака, которая истощает дополнительную выносливость. "
+msgstr "Тяжелый удар, который также истощает Стамину цели."
 
 msgid "s_Power Attack_Club_1"
 msgstr "Силовая атака_клуб_1"
@@ -2135,7 +2132,7 @@ msgid "s_Seize_Club"
 msgstr "Seize_Club"
 
 msgid "desc_s_Seize_Club"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Club_1"
 msgstr "Seize_Club_1"
@@ -2147,7 +2144,7 @@ msgid "s_Whirlwind Attack_Club"
 msgstr "Вихревая атака_клуб"
 
 msgid "desc_s_Whirlwind Attack_Club"
-msgstr "Вращающаяся атака, избивающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Club_1"
 msgstr "Вихревая атака_club_1"
@@ -2195,9 +2192,7 @@ msgid "s_Disabling Blow_Greataxe"
 msgstr "Отключение blow_Greatax"
 
 msgid "desc_s_Disabling Blow_Greataxe"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Greataxe_1"
 msgstr "Отключение blow_Greataxe_1"
@@ -2215,7 +2210,7 @@ msgid "s_Knockback_Greataxe"
 msgstr "Knockback_Greataxe"
 
 msgid "desc_s_Knockback_Greataxe"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Greataxe_1"
 msgstr "Knockback_Greataxe_1"
@@ -2227,7 +2222,7 @@ msgid "s_Power Attack_Greataxe"
 msgstr "Силовая атака_Greataxe"
 
 msgid "desc_s_Power Attack_Greataxe"
-msgstr "Мощная атака, которая снижает защиту цели от ближнего боя."
+msgstr "Тяжелый удар, который снижает защиту цели от ближнего боя."
 
 msgid "s_Power Attack_Greataxe_1"
 msgstr "Силовая атака_Greataxe_1"
@@ -2257,7 +2252,7 @@ msgid "s_Seize_Greataxe"
 msgstr "Seize_Greataxe"
 
 msgid "desc_s_Seize_Greataxe"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Greataxe_1"
 msgstr "Seize_Greataxe_1"
@@ -2269,7 +2264,7 @@ msgid "s_Whirlwind Attack_Greataxe"
 msgstr "Обсуждение Wirlwind Attack_Greatax"
 
 msgid "desc_s_Whirlwind Attack_Greataxe"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Greataxe_1"
 msgstr "Вихревая атака_Greataxe_1"
@@ -2317,9 +2312,7 @@ msgid "s_Disabling Blow_Greatclub"
 msgstr "Отключение blow_Greatclub"
 
 msgid "desc_s_Disabling Blow_Greatclub"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Greatclub_1"
 msgstr "Отключение blow_Greatclub_1"
@@ -2337,7 +2330,7 @@ msgid "s_Knockback_Greatclub"
 msgstr "Knockback_Greatclub"
 
 msgid "desc_s_Knockback_Greatclub"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Greatclub_1"
 msgstr "Knockback_Greatclub_1"
@@ -2349,7 +2342,7 @@ msgid "s_Power Attack_Greatclub"
 msgstr "Силовая атака_GreatCub"
 
 msgid "desc_s_Power Attack_Greatclub"
-msgstr "Мощная атака, которая истощает дополнительную выносливость. "
+msgstr "Тяжелый удар, который также истощает Стамину цели."
 
 msgid "s_Power Attack_Greatclub_1"
 msgstr "Силовая атака_GreatCub_1"
@@ -2367,7 +2360,7 @@ msgid "s_Seize_Greatclub"
 msgstr "Seize_Greatclub"
 
 msgid "desc_s_Seize_Greatclub"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Greatclub_1"
 msgstr "Seize_Greatclub_1"
@@ -2379,7 +2372,7 @@ msgid "s_Whirlwind Attack_Greatclub"
 msgstr "Вихревая атака_Greatclub"
 
 msgid "desc_s_Whirlwind Attack_Greatclub"
-msgstr "Вращающаяся атака, избивающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Greatclub_1"
 msgstr "Вихревая атака_Greatclub_1"
@@ -2427,9 +2420,7 @@ msgid "s_Disabling Blow_Greatsword"
 msgstr "Отключение blow_Greatsword"
 
 msgid "desc_s_Disabling Blow_Greatsword"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Greatsword_1"
 msgstr "Отключение blow_Greatsword_1"
@@ -2447,7 +2438,7 @@ msgid "s_Knockback_Greatsword"
 msgstr "Knockback_Greatsword"
 
 msgid "desc_s_Knockback_Greatsword"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Greatsword_1"
 msgstr "Knockback_Greatsword_1"
@@ -2459,7 +2450,7 @@ msgid "s_Power Attack_Greatsword"
 msgstr "Силовая атака_большой меч"
 
 msgid "desc_s_Power Attack_Greatsword"
-msgstr "Толкающая атака, которая вызывает кровотечение. "
+msgstr "Удар толчка, который заставляет цель кровоточить."
 
 msgid "s_Power Attack_Greatsword_1"
 msgstr "Силовая атака_большой меч_1"
@@ -2477,7 +2468,7 @@ msgid "s_Seize_Greatsword"
 msgstr "Seize_Greatsword"
 
 msgid "desc_s_Seize_Greatsword"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Greatsword_1"
 msgstr "Seize_Greatsword_1"
@@ -2489,7 +2480,7 @@ msgid "s_Whirlwind Attack_Greatsword"
 msgstr "Скриншоты из игры Wirlwind Attack_Greatsword"
 
 msgid "desc_s_Whirlwind Attack_Greatsword"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Greatsword_1"
 msgstr "Скриншоты из игры Wirlwind Attack_Greatsword_1"
@@ -2537,9 +2528,7 @@ msgid "s_Disabling Blow_Knives"
 msgstr "Отключение blow_knives"
 
 msgid "desc_s_Disabling Blow_Knives"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Knives_1"
 msgstr "Отключение blow_knives_1"
@@ -2557,7 +2546,7 @@ msgid "s_Knockback_Knife"
 msgstr "Knockback_Knife"
 
 msgid "desc_s_Knockback_Knife"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Knife_1"
 msgstr "Knockback_Knife_1"
@@ -2569,7 +2558,7 @@ msgid "s_Power Attack_Knife"
 msgstr "Силовая атака_нож"
 
 msgid "desc_s_Power Attack_Knife"
-msgstr "Толкающая атака отравленными кинжалами. "
+msgstr "Удар толчком, который также отравляет цель."
 
 msgid "s_Power Attack_Knife_1"
 msgstr "Силовая атака_нож_1"
@@ -2587,7 +2576,7 @@ msgid "s_Seize_Knife"
 msgstr "Seize_Knife"
 
 msgid "desc_s_Seize_Knife"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Knife_1"
 msgstr "Seize_Knife_1"
@@ -2599,7 +2588,7 @@ msgid "s_Whirlwind Attack_Knife"
 msgstr "Обсуждение Attack_knife"
 
 msgid "desc_s_Whirlwind Attack_Knife"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Knife_1"
 msgstr "Обсуждение Attack_knife_1"
@@ -2635,7 +2624,7 @@ msgid "s_Gank"
 msgstr "Добить"
 
 msgid "desc_s_Gank"
-msgstr "Убивает беспомощного противника. "
+msgstr "Заканчивается беспомощный противник."
 
 msgid "s_Gank_1"
 msgstr "Gank_1"
@@ -2653,7 +2642,8 @@ msgid "s_Dwarven Perseverance"
 msgstr "Стойкость гнома"
 
 msgid "desc_s_Dwarven Perseverance"
-msgstr "Позволяет персонажу сражаться практически без истощения выносливости."
+msgstr ""
+"Позволяет бороться почти без стока Стамина в течение некоторого времени."
 
 msgid "s_Dwarven Perseverance_1"
 msgstr "Упорство гнома_1"
@@ -2665,9 +2655,7 @@ msgid "s_Rage"
 msgstr "Ярость"
 
 msgid "desc_s_Rage"
-msgstr ""
-"Скачок адреналина, который обеспечивает защиту от элементарных атак, а также"
-" умеренное заживление."
+msgstr "Коротко исцеляет вас и обеспечивает защиту от элементарных атак."
 
 msgid "s_Rage_1"
 msgstr "Rage_1"
@@ -2727,9 +2715,7 @@ msgid "s_Disabling Blow_Polearm"
 msgstr "Отключение blow_polearm"
 
 msgid "desc_s_Disabling Blow_Polearm"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Polearm_1"
 msgstr "Отключение blow_polearm_1"
@@ -2747,7 +2733,7 @@ msgid "s_Knockback_Polearm"
 msgstr "Knockback_Polearm"
 
 msgid "desc_s_Knockback_Polearm"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Polearm_1"
 msgstr "Knockback_Polearm_1"
@@ -2759,7 +2745,8 @@ msgid "s_Power Attack_Polearm"
 msgstr "Силовая атака_polearm"
 
 msgid "desc_s_Power Attack_Polearm"
-msgstr "Мощная, точная атака."
+msgstr ""
+"Точная тяга, которая ослабляет силу, быстроту и пронизывающую защиту цели."
 
 msgid "s_Power Attack_Polearm_1"
 msgstr "Power Attack_polearm_1"
@@ -2789,7 +2776,7 @@ msgid "s_Seize_Polearm"
 msgstr "Seize_Polearm"
 
 msgid "desc_s_Seize_Polearm"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Polearm_1"
 msgstr "Seize_Polearm_1"
@@ -2801,7 +2788,7 @@ msgid "s_Whirlwind Attack_Polearm"
 msgstr "Вихревая атака_polearm"
 
 msgid "desc_s_Whirlwind Attack_Polearm"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Polearm_1"
 msgstr "Вихревой удар_polearm_1"
@@ -2831,7 +2818,9 @@ msgid "s_Siege Hammer"
 msgstr "Осадный молоток"
 
 msgid "desc_s_Siege Hammer"
-msgstr "Атака способна повредить здания, пушки и транспортные средства."
+msgstr ""
+"Наносит достаточно сильные удары, чтобы повредить здания, пушки и "
+"транспортные средства."
 
 msgid "s_Siege Hammer_1"
 msgstr "Осадный молоток_1"
@@ -2855,9 +2844,7 @@ msgid "s_Disabling Blow_Sithra"
 msgstr "Отключение blow_sithra"
 
 msgid "desc_s_Disabling Blow_Sithra"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Sithra_1"
 msgstr "Отключение blow_sithra_1"
@@ -2875,7 +2862,7 @@ msgid "s_Knockback_Sithras"
 msgstr "Knockback_Sithras"
 
 msgid "desc_s_Knockback_Sithras"
-msgstr "Тяжёлая атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Sithras_1"
 msgstr "Knockback_Sithras_1"
@@ -2887,7 +2874,7 @@ msgid "s_Power Attack_sithra"
 msgstr "Силовая атака_ситра"
 
 msgid "desc_s_Power Attack_sithra"
-msgstr "Толкающая атака, которая наносит дополнительный ущерб."
+msgstr "Толкающий удар, который замедляет атаки ближнего боя цели."
 
 msgid "s_Power Attack_Sithra_2"
 msgstr "Силовая атака_sithra2"
@@ -2905,7 +2892,7 @@ msgid "s_Seize_Sithras"
 msgstr "Seize_Sithras"
 
 msgid "desc_s_Seize_Sithras"
-msgstr "Атака, которая сближает противника."
+msgstr "Вытаскивает цель к вам и высасывает ее ману."
 
 msgid "s_Seize_Sithras_2"
 msgstr "Seize_Sithras_2"
@@ -2923,7 +2910,7 @@ msgid "s_Whirlwind Attack_Sithra"
 msgstr "Обсуждение Attack_sithra"
 
 msgid "desc_s_Whirlwind Attack_Sithra"
-msgstr "Вращающаяся атака, повреждающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Sithras_Whirlwind_1"
 msgstr "Sithras_Whirlwind_1"
@@ -2971,9 +2958,7 @@ msgid "s_Disabling Blow_Sword"
 msgstr "Отключение blow_sword"
 
 msgid "desc_s_Disabling Blow_Sword"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Поражает цель, ненадолго мешая ей парировать."
 
 msgid "s_Disabling Blow_Sword_1"
 msgstr "Отключение blow_sword_1"
@@ -2991,7 +2976,7 @@ msgid "s_Knockback_Sword"
 msgstr "Knockback_Sword"
 
 msgid "desc_s_Knockback_Sword"
-msgstr "Атака, которая силой отталкивает противника."
+msgstr "Наносит удар по цели и сбивает ее обратно."
 
 msgid "s_Knockback_Sword_1"
 msgstr "Knockback_Sword_1"
@@ -3003,7 +2988,7 @@ msgid "s_Power Attack_Sword"
 msgstr "Силовая атака_Меч"
 
 msgid "desc_s_Power Attack_Sword"
-msgstr "Толкающая атака, которая вызывает кровотечение. "
+msgstr "Удар толчка, который заставляет цель кровоточить."
 
 msgid "s_Power Attack_Sword_2"
 msgstr "Силовая атака_sword_2"
@@ -3021,7 +3006,7 @@ msgid "s_Seize_Sword"
 msgstr "Seize_Sword"
 
 msgid "desc_s_Seize_Sword"
-msgstr "Атака, которая сближает противника."
+msgstr "Наносите удар по цели и тяните ее к себе."
 
 msgid "s_Seize_Sword_1"
 msgstr "Seize_Sword_1"
@@ -3033,7 +3018,7 @@ msgid "s_Whirlwind Attack_Sword"
 msgstr "Обсуждение Wirlwind Attack_Sword"
 
 msgid "desc_s_Whirlwind Attack_Sword"
-msgstr "Вращающаяся атака, уничтожающая всех, кто рядом."
+msgstr "Спины, чтобы нанести удар по каждому врагу вокруг вас."
 
 msgid "s_Whirlwind Attack_Sword_1"
 msgstr "Обсуждение Wirlwind Attack_Sword_1"
@@ -3501,9 +3486,7 @@ msgid "s_Disabling Shot"
 msgstr "Обезвреживающий выстрел"
 
 msgid "desc_s_Disabling Shot"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Выстрел, который ненадолго мешает цели парировать."
 
 msgid "s_Disabling Shot_1"
 msgstr "Отключение Shot_1"
@@ -3620,7 +3603,7 @@ msgid "s_Agility"
 msgstr "Ловкость"
 
 msgid "desc_s_Agility"
-msgstr "Награждает заклинателя бонусом \"Декстери\"."
+msgstr "Повышает вашу сдержанность."
 
 msgid "s_Agility_1"
 msgstr "Agility_1"
@@ -3632,7 +3615,7 @@ msgid "s_Arrow Shield"
 msgstr "Щит со стрелами"
 
 msgid "desc_s_Arrow Shield"
-msgstr "Дает кастеру повышенную защиту от стрел."
+msgstr "Повышает вашу защиту от стрел."
 
 msgid "s_Arrow Shield_1"
 msgstr "Стрелковый щит_1"
@@ -3644,7 +3627,7 @@ msgid "s_Arrow Ward"
 msgstr "Стрелковая палата"
 
 msgid "desc_s_Arrow Ward"
-msgstr "Стремитесь к цели, чтобы обеспечить защиту от стрел."
+msgstr "Коротко предоставляет целевую защиту игрока от стрел."
 
 msgid "s_Arrow Ward_1"
 msgstr "Стрелка ward_1"
@@ -3675,7 +3658,7 @@ msgid "s_Ball Lightning"
 msgstr "Шаровая молния"
 
 msgid "desc_s_Ball Lightning"
-msgstr "Запускает ракету, которая наносит молниеносный ущерб."
+msgstr "Огнет шар молнии, который наносит ущерб молнии."
 
 msgid "s_Ball Lightning_1"
 msgstr "Шаровая молния1"
@@ -3687,7 +3670,7 @@ msgid "s_Come Hither"
 msgstr "Прийти сюда"
 
 msgid "desc_s_Come Hither"
-msgstr "Стремитесь к цели, чтобы волшебным образом приблизить ее."
+msgstr "Сильно тянет за собой цель."
 
 msgid "s_Come Hither_1"
 msgstr "Приходи сюда! 1"
@@ -3705,7 +3688,7 @@ msgid "s_Exploding Charge"
 msgstr "Взрывной заряд"
 
 msgid "desc_s_Exploding Charge"
-msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб молнии. "
+msgstr "Увольняет заряд, который взрывается при ударе, нанося ущерб молнии."
 
 msgid "s_Exploding Charge_Area"
 msgstr "Взрывной заряд_область"
@@ -3729,8 +3712,7 @@ msgid "s_Guiding Wind"
 msgstr "Направляющий ветер"
 
 msgid "desc_s_Guiding Wind"
-msgstr ""
-"Запускает ракету, которая наносит удар по защите своей цели от стрел. "
+msgstr "Огнет порыв, который снижает защиту от стрел, где он приземляется."
 
 msgid "s_Guiding Wind_1"
 msgstr "Путеводный ветер_1"
@@ -3742,7 +3724,7 @@ msgid "s_Lightning Bolt"
 msgstr "Молния болт"
 
 msgid "desc_s_Lightning Bolt"
-msgstr "Пожарная линия электрической энергии шокирует все на своем пути. "
+msgstr "Огонь — это линия молнии, которая поражает все на своем пути."
 
 msgid "s_Lightning Bolt_1"
 msgstr "Молния болт_1"
@@ -3754,7 +3736,7 @@ msgid "s_Lightning Shield"
 msgstr "Громовой щит"
 
 msgid "desc_s_Lightning Shield"
-msgstr "Предоставляет заклинателю бонус Lightning Protection."
+msgstr "Повышает вашу защиту от молнии."
 
 msgid "s_Lightning Shield_1"
 msgstr "Молниеносный щит_1"
@@ -3766,7 +3748,8 @@ msgid "s_Lightning Strike"
 msgstr "Удар молнии"
 
 msgid "desc_s_Lightning Strike"
-msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб молнии."
+msgstr ""
+"Запускает ракету, которая взрывается молнией и снижает защиту от молнии."
 
 msgid "s_Lightning Strike_1"
 msgstr "Удар молнии_1"
@@ -3796,7 +3779,7 @@ msgid "s_Lightning Weakness"
 msgstr "Слабость молнии"
 
 msgid "desc_s_Lightning Weakness"
-msgstr "Запускает ракету, нанося удар по защите своей цели молнией.   "
+msgstr "Запускает ракету, которая снижает защиту цели от молнии."
 
 msgid "s_Lightning Weakness_1"
 msgstr "Слабость молнии_1"
@@ -3808,7 +3791,9 @@ msgid "s_Stormblast"
 msgstr "Stormblast"
 
 msgid "desc_s_Stormblast"
-msgstr "Возникает взрыв, который посылает все на своем пути."
+msgstr ""
+"Устраняет молниеносный взрыв, который посылает врагов, летящих от литой "
+"цели."
 
 msgid "s_Stormblast_1"
 msgstr "Stormblast_1"
@@ -3820,7 +3805,7 @@ msgid "s_Thunderstorm"
 msgstr "Гроза"
 
 msgid "desc_s_Thunderstorm"
-msgstr "Волшебный луч, который вызывает грозу молнии при попадании в цель. "
+msgstr "Называет молниеносную бурю, в которую попадает луч."
 
 msgid "s_Thunderstorm_1"
 msgstr "Thunderstorm_1"
@@ -3832,7 +3817,9 @@ msgid "s_Tornado"
 msgstr "Смерч"
 
 msgid "desc_s_Tornado"
-msgstr "Сводит торнадо вокруг кастера. "
+msgstr ""
+"Наносит молниеносный ущерб всему, что находится в радиусе вокруг "
+"заклинателя."
 
 msgid "s_Tornado_1"
 msgstr "Tornado_1"
@@ -3854,7 +3841,7 @@ msgid "s_Flames of Vengeance"
 msgstr "Огонь мести"
 
 msgid "desc_s_Flames of Vengeance"
-msgstr "Волшебный луч, который приносит ад святого пламени."
+msgstr "Огненный луч, который поглощает область в священном пламени."
 
 msgid "s_Flames of Vengeance_1"
 msgstr "Огни мести1"
@@ -3866,7 +3853,7 @@ msgid "s_Hasten Spells"
 msgstr "Ускорение заклинаний"
 
 msgid "desc_s_Hasten Spells"
-msgstr "Уменьшите время зарядки орфографии на некоторое время."
+msgstr "Сокращает время зарядки заклинания на некоторое время."
 
 msgid "s_Hasten Spells_1"
 msgstr "Поспешные заклинания_1"
@@ -3878,7 +3865,7 @@ msgid "s_Holy Shield"
 msgstr "Священный щит"
 
 msgid "desc_s_Holy Shield"
-msgstr "Гранты усиливают защиту от священных повреждений."
+msgstr "Повышает вашу защиту от святых повреждений."
 
 msgid "s_Holy Shield_1"
 msgstr "Священный щит 1"
@@ -3890,7 +3877,7 @@ msgid "s_Holy Ward"
 msgstr "Святой подопечный"
 
 msgid "desc_s_Holy Ward"
-msgstr "Предоставляет целевую защиту от священных повреждений."
+msgstr "Предоставляет союзнику защиту от Святого Ущерба."
 
 msgid "s_Holy Ward_1"
 msgstr "Святое Отечество_1"
@@ -3902,7 +3889,7 @@ msgid "s_Holy Weakness"
 msgstr "Святая слабость"
 
 msgid "desc_s_Holy Weakness"
-msgstr "Запускает ракету, нанося удар по святой защите своей цели."
+msgstr "Запускает ракету, которая понижает святую защиту цели."
 
 msgid "s_Holy Weakness_1"
 msgstr "Святая слабость1"
@@ -3914,7 +3901,7 @@ msgid "s_Lend Mana"
 msgstr "Маньяк ленда"
 
 msgid "desc_s_Lend Mana"
-msgstr "Стремитесь к цели, чтобы передать часть вашего бассейна Мана."
+msgstr "Переносите часть маны в цель."
 
 msgid "s_Lend Mana_1"
 msgstr "Аренда Mana_1"
@@ -3950,7 +3937,7 @@ msgid "s_Reflect Spell"
 msgstr "Отразить заклинание"
 
 msgid "desc_s_Reflect Spell"
-msgstr "Отражает следующее заклинание повреждения обратно к его источнику."
+msgstr "Отражает следующее заклинание повреждения на его заклинателе."
 
 msgid "s_Reflect Spell_1"
 msgstr "Отражение орфографии_1"
@@ -3962,7 +3949,7 @@ msgid "s_Sacred Missile"
 msgstr "Священная ракета"
 
 msgid "desc_s_Sacred Missile"
-msgstr "Запускает снаряд, нанося святой урон своей цели."
+msgstr "Увольняет затвор, который наносит святой урон своей цели."
 
 msgid "s_Sacred Missile_HolyDam"
 msgstr "Священная ракета - Голыдам"
@@ -3974,7 +3961,7 @@ msgid "s_Spell Immunity"
 msgstr "Заклинание иммунитета"
 
 msgid "desc_s_Spell Immunity"
-msgstr "Увеличивает вероятность сопротивления заклинаниям неповреждения."
+msgstr "Улучшает ваш шанс противостоять заклинаниям неповреждения."
 
 msgid "s_Spell Immunity_1"
 msgstr "Иммунитет1"
@@ -3986,7 +3973,9 @@ msgid "s_Virtuous Wrath"
 msgstr "Добродетельный гнев"
 
 msgid "desc_s_Virtuous Wrath"
-msgstr "Запускает снаряд, который взрывается при ударе, нанося святой урон."
+msgstr ""
+"Стреляет снарядом, который взрывается для нанесения священного ущерба при "
+"ударе."
 
 msgid "s_Virtuous Wrath_1"
 msgstr "Добродетельный гнев1"
@@ -3998,7 +3987,7 @@ msgid "s_Wall of Force"
 msgstr "Стена силы"
 
 msgid "desc_s_Wall of Force"
-msgstr "Создает волшебный пузырь, который препятствует всем движениям."
+msgstr "Создает волшебный пузырь, который препятствует движению."
 
 msgid "s_Wall of Force_force"
 msgstr "Стена Силы_Силы"
@@ -4025,9 +4014,7 @@ msgid "s_Acid Arrow"
 msgstr "Кислотная стрела"
 
 msgid "desc_s_Acid Arrow"
-msgstr ""
-"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
-"кислотой."
+msgstr "Зажигает болт, который наносит кислотный ущерб своей цели."
 
 msgid "s_Acid Arrow_1"
 msgstr "Кислотная стрелка_1"
@@ -4039,7 +4026,7 @@ msgid "s_Acid Rain"
 msgstr "Кислотные дожди"
 
 msgid "desc_s_Acid Rain"
-msgstr "Волшебный луч, который вызывает кислотную бурю при попадании в цель."
+msgstr "Пожарный луч, который приносит кислотный дождь на область."
 
 msgid "s_Acid Rain_1"
 msgstr "Кислотные дожди1"
@@ -4051,7 +4038,7 @@ msgid "s_Acid Shield"
 msgstr "Кислотный щит"
 
 msgid "desc_s_Acid Shield"
-msgstr "Дает кастеру повышенную защиту от кислоты."
+msgstr "Увеличивает вашу защиту от кислоты."
 
 msgid "s_Acid Shield_1"
 msgstr "Кислотный щиток1"
@@ -4063,7 +4050,7 @@ msgid "s_Acid Ward"
 msgstr "Кислая палата"
 
 msgid "desc_s_Acid Ward"
-msgstr "Стремитесь к цели, чтобы обеспечить защиту от кислоты."
+msgstr "Обеспечивает защиту союзников от кислоты."
 
 msgid "s_Acid Ward_1"
 msgstr "Кислота ward_1"
@@ -4135,7 +4122,7 @@ msgid "s_Brawn"
 msgstr "Мускулистый"
 
 msgid "desc_s_Brawn"
-msgstr "Награждает заклинателя бонусом за силу."
+msgstr "Увеличивает вашу силу."
 
 msgid "s_Brawn_1"
 msgstr "Brawn_1"
@@ -4148,8 +4135,8 @@ msgstr "Коррозионный взрыв"
 
 msgid "desc_s_Corrosive Blast"
 msgstr ""
-"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
-"кислотой. "
+"Запускает снаряд, который взрывается из-за повреждения кислотой и снижает "
+"защиту от кислоты."
 
 msgid "s_Corrosive Blast_1"
 msgstr "Коррозионный взрыв_1"
@@ -4168,8 +4155,7 @@ msgstr "Распадаться"
 
 msgid "desc_s_Disintegrate"
 msgstr ""
-"Запускает снаряд, который взрывается при ударе, вызывая повреждение "
-"кислотой."
+"Пожар снаряда, который взрывается из-за повреждения кислотой при ударе."
 
 msgid "s_Disintegrate_1"
 msgstr "Disintegrate_1"
@@ -4182,8 +4168,7 @@ msgstr "Землетрясение"
 
 msgid "desc_s_Earthquake"
 msgstr ""
-"Нажмите и удерживайте кнопку Действия, чтобы вызвать землетрясение, "
-"повреждающее все рядом, включая заклинателя."
+"Держитесь, чтобы потрясти землю, повредив все поблизости, включая вас."
 
 msgid "s_Earthquake_1"
 msgstr "Earthquake_1"
@@ -4207,8 +4192,7 @@ msgid "s_Impale"
 msgstr "Непроходимый"
 
 msgid "desc_s_Impale"
-msgstr ""
-"Огонь волшебный луч, который заставляет тайные шипы пронзать свою цель.  "
+msgstr "Огнет луч, который пронзает цель на тайных шипах."
 
 msgid "s_Impale_1"
 msgstr "Impale_1"
@@ -4220,7 +4204,7 @@ msgid "s_Ironskin"
 msgstr "Железная кожа"
 
 msgid "desc_s_Ironskin"
-msgstr "Обеспечивает защиту от оружия."
+msgstr "Обеспечивает защиту союзников от оружия."
 
 msgid "s_Ironskin_1"
 msgstr "Ironskin_1"
@@ -4232,7 +4216,7 @@ msgid "s_Meteor Strike"
 msgstr "Метеорный удар"
 
 msgid "desc_s_Meteor Strike"
-msgstr "Подводит дождь метеоров, чтобы бомбардировать своих врагов."
+msgstr "Вызывает дождь метеоров на ваших врагов."
 
 msgid "s_Meteor Strike_Impact"
 msgstr "Метеорный удар - воздействие"
@@ -4256,7 +4240,7 @@ msgid "s_Pungent Mist"
 msgstr "Острый туман"
 
 msgid "desc_s_Pungent Mist"
-msgstr "Стреляет облако агрессивных паров по вашей цели."
+msgstr "Распыляет агрессивный пар, который сжигает и ослепляет цель."
 
 msgid "s_Pungent Mist_1"
 msgstr "Туманный туман_1"
@@ -4268,8 +4252,7 @@ msgid "s_Stamina Leech"
 msgstr "Стойкая пиявка"
 
 msgid "desc_s_Stamina Leech"
-msgstr ""
-"Огнет волшебный луч, который осушает Стамину цели, передавая ее заклинателю."
+msgstr "Высасывает мишень из стамины и отдает ее вам."
 
 msgid "s_Stamina Leech_1"
 msgstr "Выносливость пиявки_1"
@@ -4318,7 +4301,7 @@ msgid "s_Stoneskin"
 msgstr "Каменная ткань"
 
 msgid "desc_s_Stoneskin"
-msgstr "Обеспечивает защиту от атак с применением оружия."
+msgstr "Повышает защиту от атак с применением оружия."
 
 msgid "s_Stoneskin_1"
 msgstr "Stoneskin_1"
@@ -4330,7 +4313,7 @@ msgid "s_Tarnish"
 msgstr "Запятнать"
 
 msgid "desc_s_Tarnish"
-msgstr "Запускает ракету, нанося удар по защите своей цели кислотой."
+msgstr "Запускает ракету, которая снижает защиту цели кислотой."
 
 msgid "s_Tarnish_1"
 msgstr "Tarnish_1"
@@ -4350,7 +4333,7 @@ msgid "s_Dragonbreath"
 msgstr "Dragonbreath"
 
 msgid "desc_s_Dragonbreath"
-msgstr "Продолжающийся шквал огненных искр стреляет в врага."
+msgstr "Стреляет потоком огня по врагу."
 
 msgid "s_Dragonbreath_1"
 msgstr "Dragonbreath_1"
@@ -4362,7 +4345,9 @@ msgid "s_Explosion"
 msgstr "Взрыв"
 
 msgid "desc_s_Explosion"
-msgstr "Производит огненный взрыв, сосредоточенный на заклинателе."
+msgstr ""
+"Наносит небольшие повреждения в радиусе вокруг заклинателя и сбивает "
+"заклинателя."
 
 msgid "s_Explosion_fire"
 msgstr "Explosion_fire"
@@ -4374,7 +4359,7 @@ msgid "s_Fire Shield"
 msgstr "Огненный щит"
 
 msgid "desc_s_Fire Shield"
-msgstr "Дает кастеру повышенную защиту от огня."
+msgstr "Повышает вашу защиту от огня."
 
 msgid "s_Fire Shield_prot"
 msgstr "Огненный щит_prot"
@@ -4399,7 +4384,8 @@ msgstr "Огненный шар"
 
 msgid "desc_s_Fireball"
 msgstr ""
-"Запускает снаряд, который взрывается при ударе, нанося огненный урон. "
+"Запускает снаряд, который взрывается для повреждения Огня, снижает защиту "
+"игрока и сбивает его."
 
 msgid "s_Fireball_2"
 msgstr "Fireball_2"
@@ -4417,8 +4403,7 @@ msgid "s_Firebolt"
 msgstr "Firebolt"
 
 msgid "desc_s_Firebolt"
-msgstr ""
-"Запускает снаряд, который взрывается при ударе, нанося огненный урон. "
+msgstr "Пожарный затвор, который наносит ущерб своей цели."
 
 msgid "s_Firebolt_area"
 msgstr "Firebolt_area"
@@ -4430,7 +4415,7 @@ msgid "s_Haste"
 msgstr "Спешка"
 
 msgid "desc_s_Haste"
-msgstr "Предоставляет цели повышенную скорость атаки ближнего боя."
+msgstr "Увеличивает скорость атаки союзника."
 
 msgid "s_Haste_1"
 msgstr "Haste_1"
@@ -4442,7 +4427,7 @@ msgid "s_Impetus"
 msgstr "Импульс"
 
 msgid "desc_s_Impetus"
-msgstr "Предоставляет быстрый бонус кастеру."
+msgstr "Увеличивает вашу быстроту."
 
 msgid "s_Impetus_1"
 msgstr "Impetus_1"
@@ -4454,7 +4439,7 @@ msgid "s_Inferno"
 msgstr "Ад"
 
 msgid "desc_s_Inferno"
-msgstr "Запускает снаряд, который взрывается при ударе, нанося огненный урон."
+msgstr "Стреляет снарядом, который взрывается от повреждения огнем при ударе."
 
 msgid "s_Inferno_area"
 msgstr "Inferno_area"
@@ -4466,9 +4451,7 @@ msgid "s_Magma Storm"
 msgstr "Магматический шторм"
 
 msgid "desc_s_Magma Storm"
-msgstr ""
-"Запускает снаряд, который взрывается при ударе, нанося огненный урон. Эта "
-"ракета находится под действием гравитации."
+msgstr "Лобс огненный снаряд, который взрывает и сбивает врагов обратно."
 
 msgid "s_Magma Strom_fire"
 msgstr "Магма Стром_Огонь"
@@ -4480,7 +4463,7 @@ msgid "s_Rapid Shot"
 msgstr "Быстрый выстрел"
 
 msgid "desc_s_Rapid Shot"
-msgstr "Предоставляет цели повышенную дистанционную скорость атаки."
+msgstr "Увеличивает дальность атаки союзника."
 
 msgid "s_Rapid Shot_1"
 msgstr "Быстрый выстрел1"
@@ -4492,7 +4475,7 @@ msgid "s_Smoke Signal"
 msgstr "Дымовой сигнал"
 
 msgid "desc_s_Smoke Signal"
-msgstr "Создает столб дыма, поднимающийся от цели."
+msgstr "Поднимает столб дыма от цели."
 
 msgid "s_Smoke Signal_1"
 msgstr "Сигнал дыма1"
@@ -4505,8 +4488,7 @@ msgstr "Вулкан"
 
 msgid "desc_s_Volcano"
 msgstr ""
-"Волшебный луч, который заставляет расплавленную скалу выпрыгивать из земли, "
-"нанося ущерб Огню."
+"Пожарный луч, который заставляет расплавленную скалу извергаться из земли."
 
 msgid "s_Volcano_1"
 msgstr "Volcano_1"
@@ -4518,9 +4500,7 @@ msgid "s_Wall of Fire"
 msgstr "Стена огня"
 
 msgid "desc_s_Wall of Fire"
-msgstr ""
-"Огонь — это волшебный луч, который создает большую сферу огня при попадании "
-"в цель."
+msgstr "Огненный луч, который создает большую сферу огня, где он попадает."
 
 msgid "s_Wall of Fire_1"
 msgstr "Огненная стена_1"
@@ -4532,7 +4512,7 @@ msgid "s_Weakening Blaze"
 msgstr "Ослабление пламени"
 
 msgid "desc_s_Weakening Blaze"
-msgstr "Запускает ракету, нанося удар по противопожарной защите своей цели."
+msgstr "Запускает ракету, которая снижает противопожарную защиту цели."
 
 msgid "s_Weakening Blaze_1"
 msgstr "Ослабление пламени_1"
@@ -4553,7 +4533,7 @@ msgid "s_Beacon"
 msgstr "Маяк"
 
 msgid "desc_s_Beacon"
-msgstr "Луч, который создает визуальный маркер на своей цели."
+msgstr "Он стреляет лучом, который обозначает его цель."
 
 msgid "s_Beacon_1"
 msgstr "Beacon_1"
@@ -4565,8 +4545,7 @@ msgid "s_Begone"
 msgstr "Упущенный"
 
 msgid "desc_s_Begone"
-msgstr ""
-"Взрыв вулкана в основном используется для толкания или вытягивания целей."
+msgstr "Огнет тайный взрыв, который толкает цель."
 
 msgid "s_Begone_1"
 msgstr "Begone_1"
@@ -4578,7 +4557,8 @@ msgid "s_Confusion"
 msgstr "Путаница"
 
 msgid "desc_s_Confusion"
-msgstr "Ракета, создающая вспышку, ослепляет зрителей при ударе."
+msgstr ""
+"Запускает ракету, которая вспыхивает при ударе, ослепляя тех, кто рядом."
 
 msgid "s_Confusion_1"
 msgstr "Confusion_1"
@@ -4590,9 +4570,7 @@ msgid "s_Disabling Bolt"
 msgstr "Отключающий болт"
 
 msgid "desc_s_Disabling Bolt"
-msgstr ""
-"Атака, из-за которой ваш противник не может парировать в течение короткого "
-"времени."
+msgstr "Запускает болт, который ненадолго останавливает цель от парирования."
 
 msgid "s_Disabling Bolt_1"
 msgstr "Отключение болта_1"
@@ -4610,7 +4588,7 @@ msgid "s_Flesh Curse"
 msgstr "Плоть проклятие"
 
 msgid "desc_s_Flesh Curse"
-msgstr "Запускает ракету, снижающую защиту от заражения цели. "
+msgstr "Запускает ракету, которая снижает защиту от заражения цели."
 
 msgid "s_Flesh Curse_1"
 msgstr "Проклятие плоти1"
@@ -4634,7 +4612,7 @@ msgid "s_Heal Other"
 msgstr "Исцеление другого"
 
 msgid "desc_s_Heal Other"
-msgstr "Исцеляющий луч, который восстанавливает здоровье цели."
+msgstr "Огонь исцеляющий луч, который восстанавливает здоровье союзника."
 
 msgid "s_Heal Other_1"
 msgstr "Исцелять других_1"
@@ -4646,7 +4624,7 @@ msgid "s_Infliction Shield"
 msgstr "Нанесение щита"
 
 msgid "desc_s_Infliction Shield"
-msgstr "Предоставляет кастеру повышенную защиту от инфекций."
+msgstr "Увеличивает вашу защиту от инфекций."
 
 msgid "s_Infliction Shield_1"
 msgstr "Нанесение щита_1"
@@ -4658,7 +4636,7 @@ msgid "s_Infliction Ward"
 msgstr "Нанесение удара"
 
 msgid "desc_s_Infliction Ward"
-msgstr "Гранты нацелены на усиление защиты от инфекций."
+msgstr "Предоставляет союзнику повышенную защиту от инфекций."
 
 msgid "s_Infliction Ward_1"
 msgstr "Причинение вреда ward_1"
@@ -4670,7 +4648,7 @@ msgid "s_Insight"
 msgstr "Проницательность"
 
 msgid "desc_s_Insight"
-msgstr "Награждает заклинателя бонусом Мудрости."
+msgstr "Повысьте свою мудрость."
 
 msgid "s_Insight_1"
 msgstr "Insight_1"
@@ -4696,8 +4674,7 @@ msgid "s_Missile Fury"
 msgstr "Ракетная ярость"
 
 msgid "desc_s_Missile Fury"
-msgstr ""
-"Запускает снаряд, который взрывается при ударе, вызывая повреждение Аркана."
+msgstr "Пожар снаряда, который взрывается из-за повреждения Аркана при ударе."
 
 msgid "s_Missile Fury_1"
 msgstr "Ракета Фьюри_1"
@@ -4710,8 +4687,7 @@ msgstr "Сгибать"
 
 msgid "desc_s_Rend"
 msgstr ""
-"Запускает ракету, которая взрывается при ударе, нанося кровоточащий ущерб, а"
-" также налагая штраф за пирсинг."
+"Запускает ракету, которая вызывает кровотечение и снижает защиту пирсинга."
 
 msgid "s_Rend_1"
 msgstr "Rend_1"
@@ -4755,9 +4731,7 @@ msgid "s_Impulse"
 msgstr "Импульс"
 
 msgid "desc_s_Impulse"
-msgstr ""
-"Сфера чистой тайной силы, в первую очередь используемая для перемещения "
-"целей."
+msgstr "Огнет сфера тайных сил, которая перемещает цели."
 
 msgid "s_Impulse_1"
 msgstr "Impulse_1"
@@ -4769,7 +4743,9 @@ msgid "s_Telekinesis"
 msgstr "Телекинез"
 
 msgid "desc_s_Telekinesis"
-msgstr "Колонна телекинетической силы, которая поднимает любого внутри."
+msgstr ""
+"Создает колонну телекинетической силы, которая поднимает любого человека "
+"внутрь в течение короткого периода времени."
 
 msgid "s_Telekinesis_1"
 msgstr "Telekinesis_1"
@@ -4781,7 +4757,7 @@ msgid "s_Unburden"
 msgstr "Непогружать"
 
 msgid "desc_s_Unburden"
-msgstr "Уменьшает обременение заклинателя."
+msgstr "Уменьшает ваше обременение на короткое время."
 
 msgid "s_Unburden_1"
 msgstr "Unburden_1"
@@ -4794,8 +4770,7 @@ msgstr "Яд"
 
 msgid "desc_s_Venom"
 msgstr ""
-"Запускает ракету, нанося ядовитый урон своей цели и понижая максимальное "
-"здоровье."
+"Запускает ракету, которая отравляет цель и снижает максимальное здоровье."
 
 msgid "s_Venom_2"
 msgstr "Venom_2"
@@ -4848,8 +4823,8 @@ msgstr "Бремя"
 
 msgid "desc_s_Burden"
 msgstr ""
-"Запускает ракету, наносящую пенальти Обременения своей цели, мешая их литью "
-"или стрельбе из лука."
+"Запускает ракету, которая обременяет цель, препятствуя литью и стрельбе из "
+"лука."
 
 msgid "s_Burden_1"
 msgstr "Burden_1"
@@ -4861,7 +4836,7 @@ msgid "s_Eldritch Sphere"
 msgstr "Сфера эльдрич"
 
 msgid "desc_s_Eldritch Sphere"
-msgstr "Запускает ракету, которая взрывается при ударе, нанося ущерб Аркану."
+msgstr "Повреждает сферу, которая взрывается при ударе, нанося ущерб Аркану."
 
 msgid "s_Eldritch Sphere_1"
 msgstr "Элдрич Сфера_1"
@@ -4873,7 +4848,7 @@ msgid "s_Heal Mount"
 msgstr "Исцелить гору"
 
 msgid "desc_s_Heal Mount"
-msgstr "Огнет волшебный луч, который пополняет здоровье горы."
+msgstr "Вылечивает целевую гору."
 
 msgid "s_Heal Mount_1"
 msgstr "Выздоравливающий mount_1"
@@ -4885,9 +4860,7 @@ msgid "s_Heal Self"
 msgstr "Самоисцеление"
 
 msgid "desc_s_Heal Self"
-msgstr ""
-"Кастер восстанавливает небольшое количество здоровья. Это заклинание не "
-"требует никаких реагентов для литья."
+msgstr "Кастер восстанавливает небольшое количество здоровья."
 
 msgid "s_Heal Self_1"
 msgstr "Исцеление себя_1"
@@ -4899,7 +4872,7 @@ msgid "s_Health to Mana"
 msgstr "Здоровье для маны"
 
 msgid "desc_s_Health to Mana"
-msgstr "Кастер увеличивает свою собственную ману, ценой потери здоровья."
+msgstr "Превратите часть своего здоровья в ману."
 
 msgid "s_Health to Mana_1"
 msgstr "Здравоохранение в Мана-1"
@@ -4911,7 +4884,7 @@ msgid "s_Launch"
 msgstr "Запуск"
 
 msgid "desc_s_Launch"
-msgstr "Огонь волшебного луча, который вызывает всплеск энергии."
+msgstr "Выпускает всплеск воздуха, который запускает цель вверх."
 
 msgid "s_Launch_1"
 msgstr "Launch_1"
@@ -4923,7 +4896,7 @@ msgid "s_Lay on Hands"
 msgstr "Лежать на руках"
 
 msgid "desc_s_Lay on Hands"
-msgstr "Волшебный луч, который исцеляет свою цель."
+msgstr "Исцеляет целевого игрока, но имеет небольшой радиус действия."
 
 msgid "s_Lay on Hands_1"
 msgstr "Положитесь на руки_1"
@@ -4971,7 +4944,7 @@ msgid "s_Mana Drain"
 msgstr "Утечка маны"
 
 msgid "desc_s_Mana Drain"
-msgstr "Огнет волшебный луч, который истощает Ману своей цели."
+msgstr "Уничтожает ману мишени."
 
 msgid "s_Mana Drain_Drain"
 msgstr "Mana drain_drain"
@@ -4983,9 +4956,7 @@ msgid "s_Mana Missile"
 msgstr "Снаряд маны"
 
 msgid "desc_s_Mana Missile"
-msgstr ""
-"Запускает ракету, которая наносит ущерб Аркану. Это самое слабое заклинание "
-"повреждения, но не требует реагентов. "
+msgstr "Запускает ракету, которая взрывается из-за повреждений Аркана."
 
 msgid "s_Mana Missile_Arcane"
 msgstr "Мана ракета_arcane"
@@ -4997,7 +4968,7 @@ msgid "s_Mana to Stamina"
 msgstr "Мана для выносливости"
 
 msgid "desc_s_Mana to Stamina"
-msgstr "Кастер увеличивает свою собственную Стамину, ценой потери Маны."
+msgstr "Превратите часть маны в стамину."
 
 msgid "s_Mana to Stamina_1"
 msgstr "Мана для выносливости_1"
@@ -5009,7 +4980,7 @@ msgid "s_Stamina to Health"
 msgstr "Выносливость к здоровью"
 
 msgid "desc_s_Stamina to Health"
-msgstr "Кастер укрепляет свое здоровье ценой потери Стамины."
+msgstr "Преобразует некоторые из ваших статминов в здоровье."
 
 msgid "s_Stamina to Health_1"
 msgstr "Выносливость к здоровью_1"
@@ -5030,7 +5001,7 @@ msgid "s_Bludgeoning Weakness"
 msgstr "Слабость кашля"
 
 msgid "desc_s_Bludgeoning Weakness"
-msgstr "Запускает ракету, нанося пенальти защите своей цели.  "
+msgstr "Повреждает ракету, которая понижает защиту цели."
 
 msgid "s_Bludgeoning Weakness_1"
 msgstr "Слабость кашля_1"
@@ -5054,7 +5025,7 @@ msgid "s_Cursed Bolt"
 msgstr "Проклятый болт"
 
 msgid "desc_s_Cursed Bolt"
-msgstr "Запускает ракету, нанося нечестивый урон."
+msgstr "Увольняет затвор, который наносит нечестивый ущерб."
 
 msgid "s_Cursed Bolt_1"
 msgstr "Проклятый болт_1"
@@ -5066,7 +5037,9 @@ msgid "s_Death Fog"
 msgstr "Туман смерти"
 
 msgid "desc_s_Death Fog"
-msgstr "Огонь – это волшебный луч, который приносит нечестивый туман. "
+msgstr ""
+"Создает нечестивый туман, который со временем повреждает все в нем и "
+"заслоняет зрение."
 
 msgid "s_Death Fog_1"
 msgstr "Туман смерти_1"
@@ -5078,7 +5051,7 @@ msgid "s_Desecration"
 msgstr "Осквернение"
 
 msgid "desc_s_Desecration"
-msgstr "Запускает ракету, нанося пенальти нечестивой защите своей цели."
+msgstr "Повреждает ракету, которая снижает нечестивую защиту цели."
 
 msgid "s_Desecration_1"
 msgstr "Desecration_1"
@@ -5105,8 +5078,7 @@ msgstr "Глаз гнилой"
 
 msgid "desc_s_Eye Rot"
 msgstr ""
-"Ракета, нарушающая координацию цели.  Это приводит к кровоизлиянию и "
-"наказанию Декстерити и Интеллекта."
+"Ракета, которая сильно ослепляет цель в течение короткого периода времени."
 
 msgid "s_Eye Rot_1"
 msgstr "Глазная гниль 1"
@@ -5130,7 +5102,7 @@ msgid "s_Infernal Shield"
 msgstr "Адский щит"
 
 msgid "desc_s_Infernal Shield"
-msgstr "Гранты усиливают защиту от нечестивых повреждений."
+msgstr "Увеличивает вашу защиту от нечестивых повреждений."
 
 msgid "s_Infernal Shield_1"
 msgstr "Адский щит_1"
@@ -5142,7 +5114,7 @@ msgid "s_Infernal Ward"
 msgstr "Адская палата"
 
 msgid "desc_s_Infernal Ward"
-msgstr "Предоставляет целевую защиту от нечестивых повреждений."
+msgstr "Предоставляет целевую защиту игрока от нечестивых повреждений."
 
 msgid "s_Infernal Ward_1"
 msgstr "Адская палата_1"
@@ -5166,7 +5138,7 @@ msgid "s_Piercing Weakness"
 msgstr "Пронзительная слабость"
 
 msgid "desc_s_Piercing Weakness"
-msgstr "Запускает ракету, нанося пенальти защите своей цели."
+msgstr "Повреждает ракету, которая понижает защиту цели."
 
 msgid "s_Piercing Weakness_1"
 msgstr "Пронзительная слабость_1"
@@ -5178,7 +5150,7 @@ msgid "s_Slashing Weakness"
 msgstr "Сокращение слабости"
 
 msgid "desc_s_Slashing Weakness"
-msgstr "Запускает ракету, нанося пенальти защите своей цели."
+msgstr "Повреждает ракету, которая понижает защиту цели."
 
 msgid "s_Slashing Weakness_1"
 msgstr "Сокращение слабости_1"
@@ -5191,8 +5163,7 @@ msgstr "Несмерть"
 
 msgid "desc_s_Undeath"
 msgstr ""
-"Запускает ракету, которая наносит проклятие своей цели, уменьшая или даже "
-"отрицая естественную регенерацию здоровья."
+"Проклятие, которое снижает естественную скорость регенерации здоровья цели."
 
 msgid "s_Undeath_1"
 msgstr "Undeath_1"
@@ -5204,7 +5175,7 @@ msgid "s_Unholy Caress"
 msgstr "Нечестивая ласка"
 
 msgid "desc_s_Unholy Caress"
-msgstr "Пожарная линия наносит нечестивый урон одной цели. "
+msgstr "Поражает одну цель лучом нечестивых повреждений."
 
 msgid "s_Unholy Caress_1"
 msgstr "Нечестивая ласка_1"
@@ -5217,7 +5188,8 @@ msgstr "Нечестивое пламя"
 
 msgid "desc_s_Unholy Flames"
 msgstr ""
-"Стреляет снаряд, который взрывается при ударе, нанося нечестивый урон. "
+"Выпускает снаряд, который взрывается при попадании и наносит нечестивый "
+"урон."
 
 msgid "s_Unholy Flames_area"
 msgstr "Нечестивое пламя"
@@ -5242,9 +5214,7 @@ msgid "s_Vampiric Touch"
 msgstr "Вампирское прикосновение"
 
 msgid "desc_s_Vampiric Touch"
-msgstr ""
-"Огнет волшебный луч, который истощает здоровье цели, передавая его "
-"заклинателю. "
+msgstr "Уменьшает здоровье мишени и дает ее вам."
 
 msgid "s_Vampiric Touch_1"
 msgstr "Вампирическое прикосновение_1"
@@ -5271,7 +5241,7 @@ msgid "s_Adept"
 msgstr "Адепт"
 
 msgid "desc_s_Adept"
-msgstr "Уменьшает шансы заклинателя на провал."
+msgstr "Понижает ваши шансы на провал заклинаний."
 
 msgid "s_Adept_1"
 msgstr "Adept_1"
@@ -5283,7 +5253,7 @@ msgid "s_Bless Other"
 msgstr "Благослови других"
 
 msgid "desc_s_Bless Other"
-msgstr "Обеспечивает целевую защиту от атак."
+msgstr "Предоставляет целенаправленную защиту игрока от вредоносного ПО."
 
 msgid "s_Bless Other_1"
 msgstr "Благослови других_1"
@@ -5307,7 +5277,8 @@ msgid "s_Healing Chant"
 msgstr "Исцеляющий песнь"
 
 msgid "desc_s_Healing Chant"
-msgstr "Создает целительную сферу вокруг заклинателя."
+msgstr ""
+"Исцеляйте окружающих вас людей с течением времени, пока вы воспеваете."
 
 msgid "s_Healing Chant_1"
 msgstr "Исцеляющий песнь_1"
@@ -5319,7 +5290,7 @@ msgid "s_Hymn of Intellect"
 msgstr "Гимн интеллекта"
 
 msgid "desc_s_Hymn of Intellect"
-msgstr "Луч, который дает бонус к интеллекту цели."
+msgstr "Увеличивает интеллект целевого игрока."
 
 msgid "s_Hymn of Intellect_1"
 msgstr "Гимн интеллекта_1"
@@ -5331,7 +5302,7 @@ msgid "s_Hymn of Might"
 msgstr "Гимн могущества"
 
 msgid "desc_s_Hymn of Might"
-msgstr "Луч, который дает бонус к силе цели."
+msgstr "Увеличивает силу целевого игрока."
 
 msgid "s_Hymn of Might_1"
 msgstr "Песня «Might_1»"
@@ -5343,7 +5314,7 @@ msgid "s_Hymn of Skill"
 msgstr "Гимн мастерства"
 
 msgid "desc_s_Hymn of Skill"
-msgstr "Луч, который дает бонус к ловкости цели."
+msgstr "Увеличивает гибкость целевого игрока."
 
 msgid "s_Hymn of Skill_1"
 msgstr "Гимн мастерства_1"
@@ -5355,7 +5326,7 @@ msgid "s_Hymn of Swiftness"
 msgstr "Гимн стремительности"
 
 msgid "desc_s_Hymn of Swiftness"
-msgstr "Луч, который дает бонус к быстроте цели."
+msgstr "Увеличивает скорость целевого игрока."
 
 msgid "s_Hymn of Swiftness_1"
 msgstr "Гимн быстроты_1"
@@ -5367,7 +5338,7 @@ msgid "s_Hymn of Vigor"
 msgstr "Гимн бодрости"
 
 msgid "desc_s_Hymn of Vigor"
-msgstr "Волшебный луч, который дает бонус к Жизнеспособности цели."
+msgstr "Увеличивает жизнеспособность целевого игрока."
 
 msgid "s_Hymn of Vigor_1"
 msgstr "Гимн бодрости_1"
@@ -5379,7 +5350,7 @@ msgid "s_Mana Blast"
 msgstr "Взрыв маны"
 
 msgid "desc_s_Mana Blast"
-msgstr "Огонь волшебного луча, который вызывает взрыв Аркана."
+msgstr "Вызывает взрыв Аркана у цели, повреждая все поблизости."
 
 msgid "s_Mana Blast_1"
 msgstr "Мануальный взрыв_1"
@@ -5391,7 +5362,7 @@ msgid "s_Max Health Bonus"
 msgstr "Максимальный бонус за здоровье"
 
 msgid "desc_s_Max Health Bonus"
-msgstr "Временно повышает максимальное здоровье заклинателя."
+msgstr "Временно повышает максимальное здоровье."
 
 msgid "s_Max Health Bonus_1"
 msgstr "Максимальный бонус здоровья_1"
@@ -5403,7 +5374,7 @@ msgid "s_Max Mana Bonus"
 msgstr "Макс Мана Бонус"
 
 msgid "desc_s_Max Mana Bonus"
-msgstr "Временно увеличивает максимальную ману заклинателя."
+msgstr "Временно поднимает свой максимальный мана."
 
 msgid "s_Max Mana Bonus_1"
 msgstr "Макс Мана Бонус_1"
@@ -5415,7 +5386,7 @@ msgid "s_Max Stamina Bonus"
 msgstr "Максимальная выносливость бонус"
 
 msgid "desc_s_Max Stamina Bonus"
-msgstr "Временно увеличивает максимальную Стамину заклинателя."
+msgstr "Временно повышайте максимальную статину."
 
 msgid "s_Max Stamina Bonus_1"
 msgstr "Максимальная выносливость бонус_1"
@@ -5427,7 +5398,7 @@ msgid "s_Sacrifice"
 msgstr "Жертва"
 
 msgid "desc_s_Sacrifice"
-msgstr "Луч, который передает здоровье от заклинателя к цели."
+msgstr "Вылечивает целевого игрока за счет собственного здоровья."
 
 msgid "s_Sacrifice_1"
 msgstr "Sacrifice_1"
@@ -5500,7 +5471,7 @@ msgstr "Метель"
 
 msgid "desc_s_Blizzard"
 msgstr ""
-"Запускает ракету, которая взрывается при ударе, нанося холодный ущерб. "
+"Повреждает ракету, которая взрывается при ударе, нанося холодный ущерб."
 
 msgid "s_Blizzard_1"
 msgstr "Blizzard_1"
@@ -5525,7 +5496,7 @@ msgid "s_Clear Thoughts"
 msgstr "Ясные мысли"
 
 msgid "desc_s_Clear Thoughts"
-msgstr "Предоставляет разведывательную премию кастеру."
+msgstr "Повышает свой интеллект."
 
 msgid "s_Clear Thoughts_1"
 msgstr "Ясные мысли1"
@@ -5537,7 +5508,7 @@ msgid "s_Cold Shield"
 msgstr "Холодный щит"
 
 msgid "desc_s_Cold Shield"
-msgstr "Предоставляет кастеру повышенную защиту от холода."
+msgstr "Повышает защиту от холода."
 
 msgid "s_Cold Shield_prot"
 msgstr "Холодный щит_prot"
@@ -5549,7 +5520,7 @@ msgid "s_Cold Ward"
 msgstr "Холодная палата"
 
 msgid "desc_s_Cold Ward"
-msgstr "Обеспечивает защиту от холода."
+msgstr "Предоставляет игроку защиту от холодного повреждения."
 
 msgid "s_Cold Ward_1"
 msgstr "Холодный гардероб_1"
@@ -5561,9 +5532,7 @@ msgid "s_Delayed Shot"
 msgstr "Задержка выстрела"
 
 msgid "desc_s_Delayed Shot"
-msgstr ""
-"Запускает ракету, нанося пенальти скорости атаки цели с помощью оружия "
-"дальнего радиуса действия.  "
+msgstr "Ударяет ракетой, которая замедляет атаки цели."
 
 msgid "s_Delayed Shot_1"
 msgstr "Задержка выстрела_1"
@@ -5575,7 +5544,7 @@ msgid "s_Frostbite"
 msgstr "Обморожение"
 
 msgid "desc_s_Frostbite"
-msgstr "Огненный луч сильного холода повреждает все на своем пути."
+msgstr "Поражает единственную цель лучом холодного повреждения."
 
 msgid "s_Frostbite_1"
 msgstr "Frostbite_1"
@@ -5587,7 +5556,7 @@ msgid "s_Gills"
 msgstr "Жабры"
 
 msgid "desc_s_Gills"
-msgstr "Гранты увеличили емкость легких для заклинателя."
+msgstr "Позволяет дышать под водой дольше."
 
 msgid "s_Gills_1"
 msgstr "Gills_1"
@@ -5600,8 +5569,8 @@ msgstr "Ледяной шторм"
 
 msgid "desc_s_Ice Storm"
 msgstr ""
-"Огнет волшебный луч, который вызывает бурю сильного холода при попадании в "
-"цель."
+"Подводит к шторму холода, который наносит незначительный ущерб, но сильно "
+"затуманивает зрение."
 
 msgid "s_Ice Storm_1"
 msgstr "Ледяной шторм1"
@@ -5613,7 +5582,7 @@ msgid "s_Icicle"
 msgstr "Сосулька"
 
 msgid "desc_s_Icicle"
-msgstr "Запускает ракету, нанося холодный урон своей цели."
+msgstr "Увольняет сосульку, которая наносит холодный урон."
 
 msgid "s_Icicle_Cold"
 msgstr "Icicle_Cold"
@@ -5626,7 +5595,8 @@ msgstr "Осколки"
 
 msgid "desc_s_Shards"
 msgstr ""
-"Запускает снаряд, который взрывается при ударе, вызывая повреждение холодом."
+"Осколки, которые взрываются при ударе, наносят холодный ущерб и снижают "
+"холодную защиту."
 
 msgid "s_Shards_2"
 msgstr "Shards_2"
@@ -5644,9 +5614,7 @@ msgid "s_Slow"
 msgstr "Медленный"
 
 msgid "desc_s_Slow"
-msgstr ""
-"Запускает ракету, нанося удар по скорости атаки своей цели при использовании"
-" оружия ближнего боя."
+msgstr "Наносит ракету, которая замедляет атаки цели."
 
 msgid "s_Slow_1"
 msgstr "Slow_1"
@@ -5658,9 +5626,7 @@ msgid "s_Toxic Rain"
 msgstr "Токсичный дождь"
 
 msgid "desc_s_Toxic Rain"
-msgstr ""
-"Пожарный луч, который вызывает в воображении волшебный ливень, наносящий "
-"ущерб яду."
+msgstr "Возникает ливень, который со временем наносит ущерб яду в районе."
 
 msgid "s_Toxic Rain_1"
 msgstr "Токсичные дожди1"
@@ -5672,7 +5638,7 @@ msgid "s_Water Breathing"
 msgstr "Вода дышит"
 
 msgid "desc_s_Water Breathing"
-msgstr "Предоставляет мишени увеличение емкости легких."
+msgstr "Позволяет игроку дышать под водой дольше."
 
 msgid "s_Water Breathing_1"
 msgstr "Дыхание водой1"
@@ -5684,7 +5650,7 @@ msgid "s_Weakening Chill"
 msgstr "Ослабление холода"
 
 msgid "desc_s_Weakening Chill"
-msgstr "Запускает ракету, нанося пенальти холодной защите цели."
+msgstr "Поражает ракету, которая снижает холодную защиту цели."
 
 msgid "s_Weakening Chill_1"
 msgstr "Ослабление холода_1"
@@ -5915,7 +5881,7 @@ msgid "s_Disease"
 msgstr "Болезнь"
 
 msgid "desc_s_Disease"
-msgstr "Запускает ракету, нанося удар по Силе своей цели."
+msgstr "Повреждает ракету, которая снижает силу цели."
 
 msgid "s_Disease_1"
 msgstr "Disease_1"
@@ -5927,7 +5893,7 @@ msgid "s_Exhaust"
 msgstr "Выхлоп"
 
 msgid "desc_s_Exhaust"
-msgstr "Запускает ракету, которая уменьшает естественную регенерацию Stamina."
+msgstr "Удары ракетой, которая уменьшает регенерацию Stamina цели."
 
 msgid "s_Exhaust_1"
 msgstr "Exhaust_1"
@@ -5939,7 +5905,7 @@ msgid "s_Insect Swarm"
 msgstr "Рой насекомых"
 
 msgid "desc_s_Insect Swarm"
-msgstr "Отправьте рой ядовитых насекомых в цель."
+msgstr "Отправляет ядовитый рой, который повреждает цель и снижает упругость."
 
 msgid "s_Insect Swarm_1"
 msgstr "Насекомое рой_1"
@@ -5957,7 +5923,7 @@ msgid "s_Mana Leech"
 msgstr "Мана пиявка"
 
 msgid "desc_s_Mana Leech"
-msgstr "Выпускает луч, который осушает Ману цели, передавая его заклинателю."
+msgstr "Высасывает ману мишени и отдает ее вам."
 
 msgid "s_Mana Leech_1"
 msgstr "Мана Пиявка_1"
@@ -5982,7 +5948,7 @@ msgstr "Иголки"
 
 msgid "desc_s_Needles"
 msgstr ""
-"Запускает ракету, которая взрывается при ударе, вызывая кровоизлияние."
+"Повреждает ракету, которая взрывается при ударе, вызывая кровотечение."
 
 msgid "s_Needles_1"
 msgstr "Needles_1"
@@ -5994,7 +5960,8 @@ msgid "s_Ominous Drain"
 msgstr "Зловещий дренаж"
 
 msgid "desc_s_Ominous Drain"
-msgstr "Запускает ракету, которая может уменьшить все базовые атрибуты цели."
+msgstr ""
+"Удары ракетой, которая может понизить все базовые характеристики цели."
 
 msgid "s_Ominous Drain_1"
 msgstr "Зловещий дренаж_1"
@@ -6006,7 +5973,7 @@ msgid "s_Palsy"
 msgstr "Бледный"
 
 msgid "desc_s_Palsy"
-msgstr "Запускает ракету, нанося пенальти своей цели Dexterity."
+msgstr "Повреждает ракету, которая понижает скорость цели."
 
 msgid "s_Palsy_1"
 msgstr "Palsy_1"
@@ -6018,7 +5985,7 @@ msgid "s_Pestilence"
 msgstr "Чума"
 
 msgid "desc_s_Pestilence"
-msgstr "Запускает ракету, нанося пенальти жизненной силе цели."
+msgstr "Повреждает ракету, которая снижает жизнеспособность цели."
 
 msgid "s_Pestilence_1"
 msgstr "Pestilence_1"
@@ -6030,7 +5997,7 @@ msgid "s_Sluggish"
 msgstr "Вялый"
 
 msgid "desc_s_Sluggish"
-msgstr "Запускает ракету, нанося пенальти быстроте цели."
+msgstr "Повреждает ракету, которая снижает скорость цели."
 
 msgid "s_Sluggish_1"
 msgstr "Sluggish_1"
@@ -6060,7 +6027,7 @@ msgid "s_Stupidity"
 msgstr "Глупость"
 
 msgid "desc_s_Stupidity"
-msgstr "Запускает ракету, нанося пенальти разведке цели."
+msgstr "Повреждает ракету, которая понижает интеллект цели."
 
 msgid "s_Stupidity_1"
 msgstr "Stupidity_1"
@@ -6072,8 +6039,7 @@ msgid "s_Tongue Rot"
 msgstr "Язык гниет"
 
 msgid "desc_s_Tongue Rot"
-msgstr ""
-"Запускает ракету, которая снижает скорость успеха заклинания своей цели."
+msgstr "Повреждает ракету, которая повышает вероятность поражения цели."
 
 msgid "s_Tongue Rot_Penalty"
 msgstr "Язык гнилой_пенальти"
@@ -6085,7 +6051,7 @@ msgid "s_Witches Brew"
 msgstr "Ведьмы варят"
 
 msgid "desc_s_Witches Brew"
-msgstr "Создает мгновенную исцеляющую сферу, сосредоточенную на заклинателе."
+msgstr "Мгновенно исцеляет игроков вокруг себя."
 
 msgid "s_Witches Brew_1"
 msgstr "Ведьмы варят_1"
@@ -6242,51 +6208,47 @@ msgstr "Аура мертвого глаза"
 
 msgid "desc_s_Deadeye Aura"
 msgstr ""
-"Партийцы рядом с вами наносят больший урон монстрам, пока он держится."
+"Партийцы рядом с вами наносят больший урон монстрам, пока они активны."
 
 msgid "s_Cutthroat Aura"
 msgstr "Беспощадная аура"
 
 msgid "desc_s_Cutthroat Aura"
 msgstr ""
-"Партийцы рядом с вами наносят больше вреда монстрам, пока он держится."
+"Партийцы рядом с вами наносят больше вреда монстрам, пока они активны."
 
 msgid "s_Vanguard Aura"
 msgstr "Авангардная аура"
 
 msgid "desc_s_Vanguard Aura"
-msgstr "Щиты членов партии рядом с вами, пока она держится."
+msgstr "Щиты членов партии рядом с вами, пока активны."
 
 msgid "s_Rain of Arrows"
 msgstr "Дождь из стрел"
 
 msgid "desc_s_Rain of Arrows"
-msgstr ""
-"Огнет стрела, которая вызывает дождь из стрел, где она ударяет, раня существ"
-" под ним в течение короткого времени. Цена стрелы. Падающие стрелы не "
-"считаются стрелами, которые вы приземляете."
+msgstr "Огнет стрела, которая вызывает дождь из стрел, раня тех, кто внизу."
 
 msgid "s_Volley"
 msgstr "Фантомный колчан"
 
 msgid "desc_s_Volley"
 msgstr ""
-"Позволяет полные стопки Второй Природы, и в течение короткого времени каждая"
-" стрела, которую вы приземляете на монстра, поражает спектральной силой за "
-"тяжелые бонусные повреждения. Заканчивается, если вы входите в PvP."
+"Дает полную Вторую Природу и ненадолго наделяет силой ваши стрелы против "
+"монстров."
 
 msgid "s_Provoke"
 msgstr "Провокация"
 
 msgid "desc_s_Provoke"
-msgstr "Монстры перед вами нападают на вас, а не на ваших союзников."
+msgstr "Превращает монстров перед вами против вас, а не ваших союзников."
 
 msgid "s_Red Harvest"
 msgstr "Красный урожай"
 
 msgid "desc_s_Red Harvest"
 msgstr ""
-"Ваши раны тикают в два раза быстрее в течение короткого времени, и убивает "
+"Ваши раны тикают в два раза быстрее на короткое время и убивают, чтобы "
 "освежить его. Нужны ножи."
 
 msgid "s_Unbroken Line"
@@ -6294,8 +6256,8 @@ msgstr "Неразрывная линия"
 
 msgid "desc_s_Unbroken Line"
 msgstr ""
-"Нанесите гораздо меньше вреда монстрам в течение короткого времени. "
-"Заканчивается, если вы входите в PvP."
+"Коротко уменьшите ущерб, который вы получаете от монстров. Заканчивается, "
+"если вы входите в PvP."
 
 msgid "s_Provoke_1"
 msgstr "Provoke_1"
@@ -6315,10 +6277,48 @@ msgstr "Неразрывная линия_2"
 msgid "desc_s_Unbroken Line_2"
 msgstr ""
 
+msgid "s_Oracle Skills"
+msgstr "Навыки оракула"
+
+msgid "desc_s_Oracle Skills"
+msgstr ""
+
+msgid "s_Sanctuary"
+msgstr "Святилище"
+
+msgid "desc_s_Sanctuary"
+msgstr ""
+"Помещает святилище, которое восстанавливает Ману и Стамину игрокам внутри."
+
+msgid "s_Sanctuary_1"
+msgstr "Sanctuary_1"
+
+msgid "desc_s_Sanctuary_1"
+msgstr ""
+
+msgid "s_Sanctuary_2"
+msgstr "Sanctuary_2"
+
+msgid "desc_s_Sanctuary_2"
+msgstr ""
+
 msgid "s_Vanguard Aura_1"
 msgstr "Авангард аура_1"
 
 msgid "desc_s_Vanguard Aura_1"
+msgstr ""
+
+msgid "s_Oracle Aura"
+msgstr "Аура оракула"
+
+msgid "desc_s_Oracle Aura"
+msgstr ""
+"Ускоряет регенерацию маны для членов партии рядом с вами, пока вы активны."
+
+msgid "s_Oracle Aura_1"
+msgstr "Аура оракула_1"
+
+msgid "desc_s_Oracle Aura_1"
 msgstr ""
 
 msgid "s_Red Harvest_1"
@@ -6386,3 +6386,42 @@ msgstr "Sithra слабость молнии"
 
 msgid "s_Sithra Unholy Weakness"
 msgstr "Sithra Нечестивая слабость"
+
+msgid "skillext_side_step_name"
+msgstr "Боковой шаг"
+
+msgid "skillext_side_step_limitation"
+msgstr ""
+
+msgid "skillext_side_step_effect"
+msgstr "Позволяет сделать двойной шаг."
+
+msgid "s_Cutthroat Mastery"
+msgstr "Беспощадное мастерство"
+
+msgid "desc_s_Cutthroat Mastery"
+msgstr "Встаньте на тропинку Каттроу. Требуются ножи 50."
+
+msgid "s_Vanguard Mastery"
+msgstr "Мастерство авангарда"
+
+msgid "desc_s_Vanguard Mastery"
+msgstr "Встаньте на путь авангарда. Требуется Vitality 50."
+
+msgid "s_Oracle Mastery"
+msgstr "Мастерство оракула"
+
+msgid "desc_s_Oracle Mastery"
+msgstr "Встаньте на путь Оракула. Требуется заклинание 50."
+
+msgid "s_Deadeye Mastery"
+msgstr "Мастерство Deadeye"
+
+msgid "desc_s_Deadeye Mastery"
+msgstr "Встаньте на путь Дэди. Требуется Archery 50."
+
+msgid "s_Slayer"
+msgstr "Убийца"
+
+msgid "desc_s_Slayer"
+msgstr "Занимайтесь профессией Slayer. Контракты, тайники и талисманы."

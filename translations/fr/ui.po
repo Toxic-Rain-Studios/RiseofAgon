@@ -152,6 +152,21 @@ msgstr "La malédiction"
 msgid "item_negative_effect_protection"
 msgstr "La protection contre tout"
 
+msgid "item_scroll_name"
+msgstr "Dénomination"
+
+msgid "item_scroll_applied_to"
+msgstr "Appliquée à"
+
+msgid "item_scroll_rank"
+msgstr "Grade"
+
+msgid "item_skin_name_suffix"
+msgstr "Peau"
+
+msgid "item_emote_name_suffix"
+msgstr "Émote"
+
 msgid "item_one_handed"
 msgstr "Une main"
 
@@ -477,6 +492,11 @@ msgstr "le message à dire"
 
 msgid "chat_server_cmd_say_gm_events_desc"
 msgstr "envoie une annonce d'événements gm à tous les joueurs"
+
+msgid "chat_server_cmd_say_gm_race_channel_desc"
+msgstr ""
+"fait écho à un message du personnel dans ce chat de race ou d'alliance "
+"raciale"
 
 msgid "chat_server_cmd_say_gm_desc"
 msgstr "fait écho à un message à tous les gms en ligne"
@@ -929,6 +949,24 @@ msgstr "Lissage de la souris"
 msgid "options_input_mouse_invert"
 msgstr "Inverser l'axe de la souris y en mode jeu"
 
+msgid "options_input_experimental_section"
+msgstr "Expérimental"
+
+msgid "options_input_multiple_sensitivities"
+msgstr "Allumer plusieurs sensibilités - expérimental"
+
+msgid "options_input_melee_sensitivity_text"
+msgstr "Sensibilité à la mêlée (troisième personne)"
+
+msgid "options_input_melee_sensitivity"
+msgstr "%1"
+
+msgid "options_input_first_person_sensitivity_text"
+msgstr "Sensibilité de la première personne (bow / personnel)"
+
+msgid "options_input_first_person_sensitivity"
+msgstr "%1"
+
 msgid "options_input_joystick_x_sensitivity"
 msgstr "Joystick x sensibilité"
 
@@ -953,6 +991,9 @@ msgstr "Temps d'extinction"
 msgid "options_gui_confirm_item_drops"
 msgstr "Confirmer les gouttes d'article"
 
+msgid "options_gui_show_target_use_hints"
+msgstr "Afficher les conseils clés d'utilisation sur la cible"
+
 msgid "options_gui_confirm_item_drop_on_ground"
 msgstr "Confirmer la chute de l'article au sol"
 
@@ -976,6 +1017,9 @@ msgstr "Vitesse de l'outil"
 
 msgid "options_gui_auto_tooltip_duration"
 msgstr "Durée automatique de l'outil"
+
+msgid "options_gui_selected_skill_auto_tooltip"
+msgstr "Afficher tooltip lors de la sélection d'une compétence"
 
 msgid "options_gui_active_window_opacity"
 msgstr "Opacité active de la fenêtre"
@@ -1031,6 +1075,12 @@ msgstr "Compteur horizontal d'éléments"
 msgid "options_gui_show_buff_timers"
 msgstr "Montrer buff timers"
 
+msgid "options_gui_show_party_overhead_icon"
+msgstr "Afficher l'icône du groupe au-dessus de la tête"
+
+msgid "options_gui_show_clan_overhead_icon"
+msgstr "Afficher l'icône du clan au-dessus de la tête"
+
 msgid "options_gui_buff_timer_display_in_seconds"
 msgstr "Buff timer affichage en secondes"
 
@@ -1039,6 +1089,12 @@ msgstr "Utiliser la barre de santé de partie compacte"
 
 msgid "options_gui_use_legacy_health_bar_targeting"
 msgstr "Utiliser une barre de santé cible compacte"
+
+msgid "options_gui_show_target_health_percent"
+msgstr "Montrer le pourcentage sur la barre de santé cible"
+
+msgid "options_gui_mob_health_bars"
+msgstr "Monstre barre de santé"
 
 msgid "options_gui_hide_paperdoll_cooldown_ring"
 msgstr "Bague de refroidissement pour parry/paperdoll"
@@ -1049,78 +1105,302 @@ msgstr "Masquer les icônes buff à moins que le curseur ne s'affiche"
 msgid "options_video_maxnumdynamiclight"
 msgstr "Nombre maximal de feux dynamiques: %1"
 
+msgid "options_video_maxnumdynamiclight_tooltip_perf"
+msgstr "Performance: moyenne"
+
+msgid "options_video_maxnumdynamiclight_tooltip"
+msgstr ""
+"Combien de sources lumineuses à proximité - torches, lave, sorts - peuvent "
+"éclairer le monde à la fois. Seulement les lumières dans environ 350m de "
+"vous comptent pour cela, donc les zones vides ne coûtent rien. Notez que le "
+"coût augmente avec le superéchantillonnage, parce que la passe d'éclairage "
+"fonctionne à la résolution élargie."
+
 msgid "options_video_maxnumbloodstains"
 msgstr "Nombre maximal de taches sanguines: %1"
 
 msgid "options_video_maxnumparticles"
 msgstr "Nombre maximal d'effets de particules: %1"
 
+msgid "options_video_maxnumparticles_tooltip_perf"
+msgstr "Performance: mineure quand calme, plus élevée dans le combat lourd"
+
+msgid "options_video_maxnumparticles_tooltip"
+msgstr ""
+"Combien d'effets de particules peuvent courir à la fois - les effets du "
+"sort, le feu, le sang, le temps. Cela ne coûte rien alors que rien ne se "
+"passe, et la plupart du temps au cours d'un combat animé, donc l'abaisser "
+"aide principalement dans les moments où le taux de cadre compte le plus."
+
 msgid "options_video_auto_optimize"
 msgstr "Activer l'optimisation automatique."
+
+msgid "options_video_auto_optimize_tooltip_perf"
+msgstr "Performance: aide en cas de difficultés, ne coûte rien d'autre"
+
+msgid "options_video_auto_optimize_tooltip"
+msgstr ""
+"Surveillez votre taux de cadre et, quand il tombe sous la figure définie en "
+"dessous, devient automatiquement plus agressif à ne pas dessiner de petits "
+"objets éloignés. Il se détend encore une fois une fois que le taux "
+"d'encadrement récupère."
 
 msgid "options_video_auto_optimize_target_fps"
 msgstr "Si FPS tombe en dessous de %1 Auto Optimization va entrer en jeu."
 
+msgid "options_video_auto_optimize_target_fps_tooltip_perf"
+msgstr "Performance: fixe l'objectif, aucun coût propre"
+
+msgid "options_video_auto_optimize_target_fps_tooltip"
+msgstr ""
+"Le taux d'image Auto Optimization essaie de tenir. Il ne fait rien pendant "
+"que Activer l'optimisation automatique est coché."
+
 msgid "options_video_object_clipping"
 msgstr "Activer le clippage d'objet"
 
+msgid "options_video_object_clipping_tooltip_perf"
+msgstr "Performance: une économie - éteindre ce taux d'encadrement des coûts"
+
+msgid "options_video_object_clipping_tooltip"
+msgstr ""
+"Arrête de dessiner des objets une fois qu'ils sont assez petits à l'écran à "
+"ne pas manquer - une caisse à distance plutôt qu'un bâtiment. L'un des "
+"moyens les moins chers d'acheter le taux d'image, et sur par défaut."
+
 msgid "options_video_object_clipping_max_size_to_clip"
 msgstr "Taille maximale de l'objet à cliper."
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip_perf"
+msgstr "Performances: clips plus élevés, donc économise plus"
+
+msgid "options_video_object_clipping_max_size_to_clip_tooltip"
+msgstr ""
+"Les objets plus grands ne sont jamais coupés, aussi loin qu'ils soient, de "
+"sorte que les monuments et les bâtiments ne disparaissent pas. S'applique "
+"seulement lorsque Object Clipping est activé."
 
 msgid "options_video_object_clipping_max_function_value"
 msgstr ""
 "Valeur maximale de la fonction à clip (valeur inférieure = plus grande "
 "chance à clip)."
 
+msgid "options_video_object_clipping_max_function_value_tooltip_perf"
+msgstr "Performance: moins d'économies plus"
+
+msgid "options_video_object_clipping_max_function_value_tooltip"
+msgstr ""
+"Comme les objets agressifs sont coupés. Une valeur inférieure clips plus, au"
+" prix d'objets disparaissant plus près de vous. S'applique seulement lorsque"
+" Object Clipping est activé."
+
 msgid "options_video_object_min_distance_to_clip"
 msgstr ""
 "La distance minimale d'un objet doit être avant qu'il ne puisse être coupé."
 
+msgid "options_video_object_min_distance_to_clip_tooltip_perf"
+msgstr "Performance: moins d'économies plus"
+
+msgid "options_video_object_min_distance_to_clip_tooltip"
+msgstr ""
+"Rien de plus proche de vous n'est jamais coupé, donc les objets ne "
+"disparaissent jamais sous vos pieds. S'applique seulement lorsque Object "
+"Clipping est activé."
+
 msgid "options_video_enable_ssao"
 msgstr "Permettre l'occlusion ambiante (ssao)"
+
+msgid "options_video_enable_ssao_tooltip_perf"
+msgstr "Performance: mineure"
+
+msgid "options_video_enable_ssao_tooltip"
+msgstr ""
+"Ajoute des ombres de contact douces où les surfaces se rencontrent - sous "
+"les raies, dans les coins, où les objets touchent le sol. Ajoute la "
+"profondeur sans affecter les ombres réelles."
 
 msgid "options_video_enable_filmic_tone"
 msgstr "Activer la cartographie des tons filmiques"
 
+msgid "options_video_enable_filmic_tone_tooltip_perf"
+msgstr "Performance: mineure"
+
+msgid "options_video_enable_filmic_tone_tooltip"
+msgstr ""
+"Applique une courbe de type film à l'image finale, en tirant des reflets "
+"soufflés et en approfondissant les ombres plutôt que de les couper."
+
 msgid "options_video_filmic_tone_strength"
 msgstr "Résistance à la cartographie des tons filmiques"
+
+msgid "options_video_filmic_tone_strength_tooltip_perf"
+msgstr "Performance: rien au-delà de l'effet lui-même"
+
+msgid "options_video_filmic_tone_strength_tooltip"
+msgstr ""
+"Dans quelle mesure la courbe filmique est appliquée. Plus haut signifie plus"
+" de contraste et un renversement plus fort dans les zones lumineuses; plus "
+"bas garde l'image plus près de la façon dont le moteur l'a rendue. C'est une"
+" préférence pour l'apparence."
 
 msgid "options_video_enable_godrays"
 msgstr "Permettre les rayons de Dieu"
 
+msgid "options_video_enable_godrays_tooltip_perf"
+msgstr "Performance: moyenne"
+
+msgid "options_video_enable_godrays_tooltip"
+msgstr ""
+"Arbres de lumière visibles à travers des lacunes dans la géométrie, comme le"
+" soleil à travers les arbres ou une porte."
+
 msgid "options_video_godray_intensity"
 msgstr "Intensité du rayon de dieu"
 
+msgid "options_video_godray_intensity_tooltip_perf"
+msgstr "Performance: rien au-delà de l'effet lui-même"
+
+msgid "options_video_godray_intensity_tooltip"
+msgstr ""
+"Comme les arbres lumineux sont prononcés. Change le regard plutôt que la "
+"quantité de travail, de sorte que le coût est d'avoir Dieu Rays activé du "
+"tout."
+
 msgid "options_video_enable_animation_reduction"
-msgstr "Activer la réduction de qualité des animations."
+msgstr ""
+"Activer la réduction de qualité des animations. (inactif - sans effet)"
+
+msgid "options_video_enable_animation_reduction_tooltip_perf"
+msgstr "Performances: aucune"
+
+msgid "options_video_enable_animation_reduction_tooltip"
+msgstr ""
+"N'a pas d'effet à l'heure actuelle. Le réglage est stocké et mémorisé, mais "
+"rien ne le lit, de sorte que les animations ne sont pas réduites à aucune "
+"distance."
 
 msgid "options_video_animation_reduction_start"
 msgstr ""
-"Distance minimale pour commencer la réduction de qualité de l'animation."
+"Distance minimale pour commencer la réduction de la qualité de l'animation. "
+"(inactive)"
+
+msgid "options_video_animation_reduction_start_tooltip_perf"
+msgstr "Performances: aucune"
+
+msgid "options_video_animation_reduction_start_tooltip"
+msgstr ""
+"N'a aucun effet à l'heure actuelle - voir Activer la réduction de qualité "
+"des animations."
 
 msgid "options_video_animation_reduction_per_meter"
-msgstr "Réduction de la qualité de l'animation par mètre."
+msgstr "Réduction de la qualité de l'animation par mètre. (inactif)"
+
+msgid "options_video_animation_reduction_per_meter_tooltip_perf"
+msgstr "Performances: aucune"
+
+msgid "options_video_animation_reduction_per_meter_tooltip"
+msgstr ""
+"N'a aucun effet à l'heure actuelle - voir Activer la réduction de qualité "
+"des animations."
 
 msgid "options_video_vegetation_area_size"
 msgstr "Superficie de la végétation: %1"
 
+msgid "options_video_vegetation_area_size_tooltip_perf"
+msgstr "Performance: majeure - valeurs inférieures coût plus"
+
+msgid "options_video_vegetation_area_size_tooltip"
+msgstr ""
+"Le rayon que l'herbe est éparpillée. Cela fonctionne avec la densité "
+"végétative: le nombre de plantes est plafonné, donc une zone SMALLER packs "
+"ce même nombre plus près de vous - l'herbe plus épaisse, et une charge plus "
+"lourde parce qu'il remplit plus l'écran. Une zone plus grande étend les "
+"plantes plus minces, mais les attire plus loin dans la distance."
+
 msgid "options_video_vegetation_density"
 msgstr "Densité de végétation: %1"
+
+msgid "options_video_vegetation_density_tooltip_perf"
+msgstr "Performance: majeure - valeurs plus élevées coûtent plus"
+
+msgid "options_video_vegetation_density_tooltip"
+msgstr ""
+"Combien de plantes sont éparpillées. Cela fonctionne avec la taille de la "
+"zone de végétation: plus de plantes est une charge plus lourde, et au "
+"maximum les arrêts de dispersion placer n'importe quel supplémentaire, donc "
+"aller plus haut ne coûterait que mémoire. Combiner avec une petite zone pour"
+" l'herbe épaisse à proximité, ou une grande zone pour l'herbe clairsemée qui"
+" atteint plus loin."
 
 msgid "options_video_enable_triple_buffering"
 msgstr "Activer le triple tampon."
 
+msgid "options_video_enable_triple_buffering_tooltip"
+msgstr ""
+"Il n'a d'effet que lorsque la synchronisation verticale est activée, où il "
+"lisse les cadres qui manquent le rafraîchissement, au prix d'un délai "
+"légèrement plus long d'entrée."
+
+msgid "options_video_enable_triple_buffering_tooltip_perf"
+msgstr "Performance: négligeable"
+
+msgid "options_video_legacy_third_person_camera"
+msgstr "L'héritage de la caméra 3ème personne"
+
 msgid "options_video_wait_for_vsync"
 msgstr "Attendez la synchronisation verticale sur le moniteur."
 
+msgid "options_video_wait_for_vsync_tooltip"
+msgstr ""
+"Correspond au taux de rafraîchissement de votre moniteur, enlevant la "
+"déchirure horizontale que vous voyez lorsque les deux dérivent. Coûte un peu"
+" de retard d'entrée, et plafonne votre taux de trame au taux de "
+"rafraîchissement."
+
+msgid "options_video_wait_for_vsync_tooltip_perf"
+msgstr "Performance: mineure"
+
 msgid "options_maxfps"
 msgstr "Fps maximum: %1"
+
+msgid "options_maxfps_tooltip"
+msgstr ""
+"Capte la vitesse de l'image à un maximum choisi. Utile pour arrêter la carte"
+" en courant à plat pour les cadres que vous ne pouvez pas voir."
+
+msgid "options_maxfps_tooltip_perf"
+msgstr "Performance: réduit la charge lors de l'enrobage"
+
+msgid "options_video_background_frame_cap"
+msgstr ""
+"Limite le taux d'image pendant que le jeu est en arrière-plan (30 fps)"
+
+msgid "options_video_background_frame_cap_tooltip_perf"
+msgstr "Performance: une économie en arrière-plan"
+
+msgid "options_video_background_frame_cap_tooltip"
+msgstr ""
+"Capte le taux d'image à 30 alors que la fenêtre de jeu n'est pas focalisée, "
+"de sorte que la carte ne court pas à plat pour une fenêtre que vous ne "
+"regardez pas. Laissez ça sauf si vous mesurez les performances, puisqu'il "
+"vous tiendra à 30 chaque fois que vous alt-tab loin."
 
 msgid "options_video_enable_antialiasing"
 msgstr "Activer l'anti-aliasing."
 
 msgid "options_video_antialiasing_quality"
 msgstr "Anti-aliasage (superéchantillonnage): %1"
+
+msgid "options_video_antialiasing_quality_tooltip_perf"
+msgstr "Performance: 2x moyen, 4x majeur"
+
+msgid "options_video_antialiasing_quality_tooltip"
+msgstr ""
+"Lisse les contours en calculant la scène à une résolution supérieure à celle"
+" de votre écran, puis en réduisant l'image. C'est le réglage le plus coûteux"
+" du jeu : lors d'un test, 2x coûtait environ 1.5ms par image, contre environ"
+" 14ms pour 4x, soit une perte d'environ trois quarts de la fréquence "
+"d'images. Utilisez plutôt FXAA pour lisser les contours à moindre coût."
 
 msgid "options_video_antialiasing_tier_off"
 msgstr "Départ"
@@ -1137,50 +1417,194 @@ msgstr "4x"
 msgid "options_video_enable_fxaa"
 msgstr "Activer FXAA (anti-aliasage rapide)."
 
+msgid "options_video_enable_fxaa_tooltip_perf"
+msgstr "Performance: minimale"
+
+msgid "options_video_enable_fxaa_tooltip"
+msgstr ""
+"Un passe de lissage bon marché appliqué après le dessin de la scène. "
+"Beaucoup plus doux en effet que le superéchantillonnage, et presque libre - "
+"c'est le choix raisonnable sur la plupart des machines."
+
 msgid "options_video_gamma_correction"
 msgstr "Correction gamma: %1"
+
+msgid "options_video_gamma_correction_tooltip"
+msgstr ""
+"Illumine ou assombrit toute l'image. Seulement fonctionne en plein écran - "
+"Windows ignore la rampe gamma dans les modes fenêtrés et sans bordure."
+
+msgid "options_video_gamma_correction_tooltip_perf"
+msgstr "Performances: aucune"
 
 msgid "options_video_enable_shadows"
 msgstr "Activer les Ombres."
 
+msgid "options_video_enable_shadows_tooltip_perf"
+msgstr "Performance: majeure"
+
+msgid "options_video_enable_shadows_tooltip"
+msgstr ""
+"Le changement de maître pour les ombres jetées dans le monde. L'annulation "
+"de cette mesure supprime toute la passe de l'ombre et est l'une des plus "
+"grandes économies disponibles, à un coût évident pour la façon dont le monde"
+" semble."
+
 msgid "options_video_enable_scenery_shadows"
 msgstr "Activer les Ombres Scènes."
+
+msgid "options_video_enable_scenery_shadows_tooltip_perf"
+msgstr "Performance: moyenne à majeure"
+
+msgid "options_video_enable_scenery_shadows_tooltip"
+msgstr ""
+"Que la géométrie du monde - bâtiments, arbres, terrains caractéristiques - "
+"jette des ombres. Habituellement la plus grande moitié du coût de l'ombre, "
+"puisqu'il y a beaucoup plus de paysages qu'il y a de personnages."
 
 msgid "options_video_enable_character_shadows"
 msgstr "Activer les Ombres de caractère."
 
+msgid "options_video_enable_character_shadows_tooltip_perf"
+msgstr "Performance: moyenne"
+
+msgid "options_video_enable_character_shadows_tooltip"
+msgstr ""
+"Que les joueurs, les montures et les monstres jettent des ombres. Moins cher"
+" que les ombres de paysages dans la plupart des endroits, mais augmente avec"
+" le nombre de caractères à l'écran, donc il coûte le plus dans un combat "
+"surpeuplé."
+
 msgid "options_video_shadow_quality"
 msgstr "Sélection de la qualité des ombres"
+
+msgid "options_video_shadow_quality_tooltip_perf"
+msgstr "Performance: moyenne à majeure à l'extrémité supérieure"
+
+msgid "options_video_shadow_quality_tooltip"
+msgstr ""
+"La résolution de la carte d'ombre, de 1024 à Low jusqu'à 8192 à Max. Plus "
+"haut signifie les bords de l'ombre plus croustillants plutôt que les blocs; "
+"chaque marche vers le haut quadruple le nombre de pixels d'ombre dessinés."
 
 msgid "options_video_shadow_smoothing"
 msgstr "Sélectionner la qualité de lissage des ombres"
 
+msgid "options_video_shadow_smoothing_tooltip_perf"
+msgstr "Performance: moyenne"
+
+msgid "options_video_shadow_smoothing_tooltip"
+msgstr ""
+"Combien de travail va en adoucissant le bord d'une ombre. Paramètres plus "
+"élevés échantillonner la carte d'ombre plus de fois par pixel, trading frame"
+" taux pour les bords qui semblent doux au lieu de jambage."
+
 msgid "options_video_enable_drop_shadows"
-msgstr "Activer les ombres drop"
+msgstr "Activer les ombres de goutte (inactives - aucun effet)"
+
+msgid "options_video_enable_drop_shadows_tooltip_perf"
+msgstr "Performances: aucune"
+
+msgid "options_video_enable_drop_shadows_tooltip"
+msgstr ""
+"N'a pas d'effet à l'heure actuelle. Le système d'ombre de goutte est "
+"toujours construit et maintenu en vie, mais l'appel qui le dessinerait est "
+"commenté dans le rendu, donc basculer cela ne change rien que vous pouvez "
+"voir."
 
 msgid "options_video_shader_version"
 msgstr "Sélectionner la version shader"
 
 msgid "options_video_texture_quality"
-msgstr "Sélectionner la qualité de texture (recommandé est par défaut)"
+msgstr "Sélectionner la qualité de la texture (inactive - aucun effet)"
+
+msgid "options_video_texture_quality_tooltip_perf"
+msgstr "Performances: aucune"
+
+msgid "options_video_texture_quality_tooltip"
+msgstr ""
+"N'a pas d'effet à l'heure actuelle. Le réglage est stocké et mémorisé, mais "
+"n'atteint jamais le rendu, de sorte qu'il ne changera pas comment le jeu "
+"ressemble ou fonctionne."
 
 msgid "options_video_texture_filtering"
 msgstr "Sélectionner le filtrage de texture"
 
+msgid "options_video_texture_filtering_tooltip_perf"
+msgstr "Performance: mineure"
+
+msgid "options_video_texture_filtering_tooltip"
+msgstr ""
+"Comment les textures sont échantillonnées et mélangées entre les niveaux de "
+"détail. L'anisotrope est le plus aigu et le réglage recommandé."
+
 msgid "options_video_texture_anisotropy_level"
 msgstr "Sélectionner le niveau d'anisotropie de texture"
+
+msgid "options_video_texture_anisotropy_level_tooltip_perf"
+msgstr "Performance: mineure"
+
+msgid "options_video_texture_anisotropy_level_tooltip"
+msgstr ""
+"Comme les textures vives restent quand on les voit à un angle raide, comme "
+"le sol s'étirant loin de vous. Plus haut garde les détails à l'horizon au "
+"lieu de s'estomper en bousculant quelques pas devant. S'applique seulement "
+"pendant que le filtrage Texture est réglé à Anisotropic."
 
 msgid "options_video_enable_post_process_effects"
 msgstr "Activer les effets post-processus."
 
+msgid "options_video_enable_post_process_effects_tooltip_perf"
+msgstr "Performance: moyenne"
+
+msgid "options_video_enable_post_process_effects_tooltip"
+msgstr ""
+"Le commutateur maître pour les effets d'espace d'écran appliqué après le "
+"dessin du monde, comme la cartographie des tons et les rayons divins. Ça "
+"saute toute la scène."
+
 msgid "options_video_display_mode"
 msgstr "Sélectionner le mode d'affichage"
+
+msgid "options_video_display_mode_tooltip"
+msgstr ""
+"L'écran plein et fenêtre permettent des changements de résolution. Le mode "
+"Fenêtre sans frontières ne permet pas actuellement cela."
+
+msgid "options_video_display_mode_tooltip_perf"
+msgstr "Performances: aucune"
 
 msgid "options_gui_scale"
 msgstr "Gui échelle %: %1"
 
+msgid "options_gui_scale_tooltip"
+msgstr ""
+"Augmente ou diminue la taille des fenêtres GUI. Les valeurs autres que 100% "
+"peuvent pousser les fenêtres hors de l'écran."
+
+msgid "options_gui_scale_tooltip_perf"
+msgstr "Performance: négligeable"
+
 msgid "options_video_fov"
 msgstr "Champ de vision: %1"
+
+msgid "options_video_fov_tooltip"
+msgstr "Élargit la vue du joueur."
+
+msgid "options_video_fov_tooltip_perf"
+msgstr "Performance: négligeable"
+
+msgid "options_video_view_distance"
+msgstr "Distance de vue: %1 m"
+
+msgid "options_video_view_distance_tooltip_perf"
+msgstr "Performance: moyenne, et varie selon l'emplacement"
+
+msgid "options_video_view_distance_tooltip"
+msgstr ""
+"Jusqu'à quelle distance le monde est attiré. Le coût dépend fortement de "
+"l'endroit où vous êtes - terrain ouvert avec une longue ligne de vue est "
+"beaucoup plus cher qu'un donjon ou une rue de la ville."
 
 msgid "options_video_displaymodelist"
 msgstr "Sélectionnez la résolution d'affichage."
@@ -1400,6 +1824,30 @@ msgstr "Coût de mana"
 msgid "abilities_detail_stamina"
 msgstr "Coût de l'endurance"
 
+msgid "abilities_detail_health"
+msgstr "Coût de la santé"
+
+msgid "skillcard_level"
+msgstr "Lv %1"
+
+msgid "skillcard_cost_health"
+msgstr "Santé %1"
+
+msgid "skillcard_cost_stamina"
+msgstr "Endurance %1"
+
+msgid "skillcard_cost_mana"
+msgstr "Mana %1"
+
+msgid "skillcard_cooldown"
+msgstr "Refroidissement %1s"
+
+msgid "skillcard_shared_cooldown"
+msgstr "Refroidissement partagé: %1"
+
+msgid "skillcard_cast"
+msgstr "Moulés %1s"
+
 msgid "abilities_detail_reagents"
 msgstr "Réactifs"
 
@@ -1419,6 +1867,9 @@ msgstr "Banc d'artisanat"
 
 msgid "abilities_search_placeholder"
 msgstr "Recherche d'une entrée"
+
+msgid "abilities_search_in_selected"
+msgstr "Recherche dans la sélection"
 
 msgid "abilities_filter_button"
 msgstr "Filtres"
@@ -2097,6 +2548,57 @@ msgstr "%3: %1 de %2"
 msgid "alignmentbar_tooltip"
 msgstr "%3: %1 de %2"
 
+msgid "progressbar_tooltip_pct"
+msgstr "%4: %1 / %2 (%3%)"
+
+msgid "alignment_tt_header"
+msgstr "Alignement : %1 / %2"
+
+msgid "alignment_tt_range"
+msgstr ""
+"Va de -1000 à 1000. Le centre de la barre correspond à zéro : un personnage "
+"à 0 se situe donc à mi-chemin."
+
+msgid "alignment_tt_sec_losing"
+msgstr "Perte d'alignement :"
+
+msgid "alignment_tt_losing"
+msgstr ""
+"Seul le fait de tuer quelqu'un de votre propre race réduit l'alignement, et "
+"uniquement en posture Hors-la-loi."
+
+msgid "alignment_tt_losing2"
+msgstr ""
+"Les joueurs Loyaux passent obligatoirement en statut gris dans les zones "
+"rouges et ne peuvent donc jamais y perdre d'alignement. Ils y sont ainsi sur"
+" un pied d'égalité avec les joueurs Hors-la-loi."
+
+msgid "alignment_tt_sec_stance"
+msgstr "Posture :"
+
+msgid "alignment_tt_stance"
+msgstr ""
+"Votre posture, et non votre alignement, détermine la réaction des gardes et "
+"des tours de faction à votre égard."
+
+msgid "alignment_tt_stance2"
+msgstr "Les joueurs Hors-la-loi sont attaqués quel que soit leur alignement."
+
+msgid "alignment_tt_sec_gaining"
+msgstr "Gain d'alignement :"
+
+msgid "alignment_tt_gaining"
+msgstr ""
+"+1 toutes les 20 minutes de connexion en posture Loyale, jusqu'à 1000."
+
+msgid "alignment_tt_gaining2"
+msgstr ""
+"La posture Hors-la-loi suspend ce gain, et toute perte d'alignement relance "
+"les 20 minutes."
+
+msgid "alignment_tt_gaining3"
+msgstr "Tuer des monstres et prier ne rapportent pas d'alignement."
+
 msgid "minimap_character_coordinates"
 msgstr "%1' %2'' %3   %4' %5'' %6"
 
@@ -2732,6 +3234,236 @@ msgstr "Superficie: %1"
 msgid "map_tooltip_prefix_distance"
 msgstr "Distance: %1"
 
+msgid "map_tt_sec_tile_rating"
+msgstr "Évaluation de la zone :"
+
+msgid "map_tt_sec_region"
+msgstr "Région:"
+
+msgid "map_tt_sec_market"
+msgstr "Marché:"
+
+msgid "map_tt_sec_territory"
+msgstr "Territoire:"
+
+msgid "map_tt_sec_alliances"
+msgstr "Les alliances:"
+
+msgid "map_tt_sec_clans"
+msgstr "Clans:"
+
+msgid "map_tt_lawless_players"
+msgstr ""
+"Les joueurs sans loi perdent leur inventaire complet dans chaque zone."
+
+msgid "map_tt_alliance_nagast"
+msgstr "Pourpre - fléau du nagaste"
+
+msgid "map_tt_alliance_trinity"
+msgstr "La trinité verte - juste"
+
+msgid "map_tt_alliance_savages"
+msgstr "Les assaillants bruns et sauvages"
+
+msgid "map_tt_clans_body"
+msgstr "Chaque clan a sa propre couleur. Grey n'est pas détenu."
+
+msgid "map_tt_regions_body"
+msgstr ""
+"Niflheim, Yssam, Rubaiyat, Cairn, Agon et les mers. Les zones roses sont les"
+" patries de la race."
+
+msgid "map_tt_territory_body"
+msgstr "Le glyphe d'un territoire accorde son bonus au propriétaire."
+
+msgid "map_tt_territory_pulse"
+msgstr "Un territoire pulsant a un glyphe à défier."
+
+msgid "map_tt_territory_bonus"
+msgstr "Bonus : %1"
+
+msgid "map_tt_hover_hint"
+msgstr "Passez la carte pour plus de détails sur n'importe quelle tuile."
+
+msgid "skillext_header"
+msgstr ""
+"Choisir la mise à jour à appliquer à %1 - une mise à niveau par emplacement"
+
+msgid "skillext_name_blocked"
+msgstr "%1 (bloqué)"
+
+msgid "skillext_tt_sec_slot"
+msgstr "Emplacement :"
+
+msgid "skillext_tt_slot_members"
+msgstr "Vous pouvez tenir une mise à jour de cette fente: %1."
+
+msgid "skillext_tt_replaces"
+msgstr "L'achat remplace %1."
+
+msgid "skillext_tt_owned"
+msgstr "Vous possédez cette mise à jour."
+
+msgid "skillext_tt_sec_conflict"
+msgstr "Ne peut pas se combiner avec:"
+
+msgid "skillext_tt_blocked"
+msgstr "Vous possédez %1. Enlevez-la avant d'acheter ça."
+
+msgid "tooltip_enchant_ingredient_section"
+msgstr "Enchantement :"
+
+msgid "tooltip_enchant_ingredient_quality"
+msgstr "Qualité"
+
+msgid "tooltip_enchant_ingredient_requires"
+msgstr "Exige un enchantement"
+
+msgid "tooltip_enchant_ingredient_gems"
+msgstr "Gemmes"
+
+msgid "tooltip_enchant_ingredient_gems_value"
+msgstr "%1 ou mieux"
+
+msgid "tooltip_enchant_ingredient_used_enchants"
+msgstr "Utilisés dans les enchantements:"
+
+msgid "tooltip_enchant_ingredient_used_transmutes"
+msgstr "Utilisés dans les transmutations:"
+
+msgid "map_tt_spawn_difficulty"
+msgstr "Montre les points de frai monstre de cette difficulté."
+
+msgid "map_tt_spawn_boss"
+msgstr "Ça montre les points de frai du patron."
+
+msgid "map_tt_spawn_champion"
+msgstr "Montre les points de frai champion."
+
+msgid "map_tt_spawn_dungeon"
+msgstr "Montre des points de frai monstres à l'intérieur des donjons."
+
+msgid "map_tt_spawn_range"
+msgstr "Seuls les frayères de l'aire de localisation Monster sont affichés."
+
+msgid "map_tt_struct_dungeons"
+msgstr "Montre les entrées du donjon."
+
+msgid "map_tt_struct_npc_cities"
+msgstr "Affiche les villes et les capitales gérées par les PNC."
+
+msgid "map_tt_struct_faction_cities"
+msgstr ""
+"Montre les possessions sur lesquelles se battent les alliances raciales, "
+"dans la couleur du propriétaire:"
+
+msgid "map_tt_struct_faction_cities_click"
+msgstr "Cliquez sur un sur la carte pour voir son statut."
+
+msgid "map_tt_struct_clan_cities"
+msgstr "Montre les villes et les hameaux tenus par les clans joueurs."
+
+msgid "map_tt_struct_glyphs"
+msgstr ""
+"Ça montre les glyphes de rune. Le fait de détenir un glyphe revendique son "
+"territoire et son bonus."
+
+msgid "map_tt_struct_glyphs_political"
+msgstr ""
+"Allumez la superposition politique pour voir qui détient chaque territoire."
+
+msgid "map_tt_struct_villages"
+msgstr "Montre les villages que les clans peuvent capturer et tenir."
+
+msgid "map_tt_advanced_coordinates"
+msgstr "Affiche les positions dans la carte tooltip en longitude et latitude."
+
+msgid "map_tt_advanced_coordinates_off"
+msgstr ""
+"Lorsqu'ils sont éteints, les positions se trouvent à l'intérieur de la "
+"tuile, mesurée à partir de son coin inférieur gauche."
+
+msgid "map_tooltip_tile_rating_protected"
+msgstr "Zone de sécurité"
+
+msgid "map_tooltip_tile_rating_protected_desc"
+msgstr ""
+"Les joueurs légaux gardent leur équipement et leur sac à dos sur la mort."
+
+msgid "map_tooltip_tile_rating_lawful"
+msgstr "Loyal"
+
+msgid "map_tooltip_tile_rating_lawful_desc"
+msgstr ""
+"Les joueurs légaux gardent leur équipement équipé sur la mort, mais déposent"
+" leur sac à dos."
+
+msgid "map_tooltip_tile_rating_neutral"
+msgstr "Neutre"
+
+msgid "map_tooltip_tile_rating_neutral_desc"
+msgstr ""
+"Plein de butin : tout le monde lâche son équipement et son sac à dos sur la "
+"mort."
+
+msgid "map_tooltip_tile_rating_lawless"
+msgstr "Hors-la-loi"
+
+msgid "map_tooltip_tile_rating_lawless_desc"
+msgstr ""
+"Plein de butin : tout le monde lâche son équipement et son sac à dos sur la "
+"mort."
+
+msgid "map_tooltip_overlay_region_desc"
+msgstr ""
+"Le marché des joueurs affiche les listes de la région dans laquelle vous "
+"êtes."
+
+msgid "map_region_niflheim"
+msgstr "Niflheim"
+
+msgid "map_region_yssam"
+msgstr "Yssam"
+
+msgid "map_region_rubaiyat"
+msgstr "Rubaiyat"
+
+msgid "map_region_cairn"
+msgstr "Cairn"
+
+msgid "map_region_center"
+msgstr "Agon"
+
+msgid "map_region_sea"
+msgstr "Îles et mers"
+
+msgid "map_region_humanlands"
+msgstr "Terres humaines"
+
+msgid "map_region_alfarlands"
+msgstr "Alfar terres"
+
+msgid "map_region_elflands"
+msgstr "Mirdain terres"
+
+msgid "map_region_mahirimlands"
+msgstr "Mahirim terres"
+
+msgid "map_region_dwarflands"
+msgstr "Terres naines"
+
+msgid "map_region_orclands"
+msgstr "Ouc terres"
+
+msgid "map_tooltip_overlay_territory_unowned"
+msgstr "Territoire non détenu"
+
+msgid "map_tooltip_overlay_territory_contested"
+msgstr "Un glyphe ici est défié."
+
+msgid "map_tooltip_overlay_territory_immune"
+msgstr "Récemment capturé - ne peut pas encore être contesté."
+
 msgid "map_tooltip_prefix_spawn"
 msgstr "%1"
 
@@ -2742,7 +3474,7 @@ msgid "map_tooltip_prefix_dungeons"
 msgstr "%1"
 
 msgid "map_tooltip_prefix_quest"
-msgstr "%1"
+msgstr "Quête: %1"
 
 msgid "map_tooltip_prefix_stone_bind"
 msgstr "Bindstone: %1"
@@ -2940,6 +3672,14 @@ msgstr "Prix: min"
 
 msgid "market_filter_location"
 msgstr "Lieu:"
+
+msgid "market_filter_show_all_regions"
+msgstr "Montrer toutes les régions"
+
+msgid "market_filter_show_all_regions_tooltip"
+msgstr ""
+"Les commandes d'autres régions ne peuvent être achetées ou remplies à partir"
+" d'ici. Cochez pour les énumérer de toute façon."
 
 msgid "market_section_select"
 msgstr "Sélectionner un élément pour afficher les éléments disponibles"
@@ -3300,6 +4040,9 @@ msgstr "Oui (y)"
 msgid "quit_dialog_no_button"
 msgstr "Non (n)"
 
+msgid "map_marker_capital_invader"
+msgstr "Envahisseur"
+
 msgid "map_marker_spawn_very_easy"
 msgstr "Très facile"
 
@@ -3429,11 +4172,59 @@ msgstr "Catégorie de tuiles"
 msgid "map_marker_overlays_regions"
 msgstr "Régions"
 
+msgid "map_option_advanced_coordinates"
+msgstr "Coordonnées avancées"
+
+msgid "map_tooltip_tile_offset"
+msgstr "Coords locaux: %1x/%2y"
+
 msgid "map_marker_overlays_political"
 msgstr "Politiques"
 
 msgid "map_options_section_monster_types"
 msgstr "Types de monstres"
+
+msgid "holding_section_vulnerability"
+msgstr "Vulnérabilité"
+
+msgid "holding_vulnerability_schedule"
+msgstr "Tous les jours %1 (%2)"
+
+msgid "map_tooltip_contested_by"
+msgstr "%1 par %2"
+
+msgid "map_tooltip_faction_city_invulnerable"
+msgstr "Invulnérable"
+
+msgid "map_tooltip_faction_city_protected"
+msgstr "Récemment capturé"
+
+msgid "map_tooltip_faction_city_shielded"
+msgstr "Siège ouvert - détruire les tours de garde"
+
+msgid "map_tooltip_faction_city_counting_down"
+msgstr "Tours vers le bas - lier la pierre encore blindée"
+
+msgid "map_tooltip_faction_city_vulnerable"
+msgstr "VULNÉRABLE - Tuez l'étrier !"
+
+msgid "map_tooltip_faction_city_window_opens"
+msgstr "Fenêtre s'ouvre dans %1"
+
+msgid "map_tooltip_faction_city_protection_ends"
+msgstr "La protection se termine par %1"
+
+msgid "map_tooltip_faction_city_window_closes"
+msgstr "La fenêtre se ferme dans %1"
+
+msgid "map_tooltip_faction_city_shield_drops"
+msgstr "Liant pierre attaquable en %1"
+
+msgid "map_tooltip_faction_city_towers"
+msgstr "Tours de garde %1 de %2"
+
+msgid "map_options_section_tooltips"
+msgstr "Infobulles"
 
 msgid "map_options_section_overlays"
 msgstr "Recouvrements"
@@ -3481,13 +4272,16 @@ msgid "paperdoll_label_loot_bag"
 msgstr "Sac à butin"
 
 msgid "paperdoll_label_rune_book"
-msgstr "Livre de rune"
+msgstr "Talisman"
 
 msgid "paperdoll_label_figurine"
 msgstr "Figurine"
 
 msgid "paperdoll_label_equipment_tier"
 msgstr "Niveau matériel: %1"
+
+msgid "paperdoll_label_character_id"
+msgstr "Caractère id: %1"
 
 msgid "paperdoll_button_refresh"
 msgstr "Rafraîchir"
@@ -3515,6 +4309,24 @@ msgstr "Peau"
 
 msgid "paperdoll_tabs_modifiers"
 msgstr "Modificateurs"
+
+msgid "paperdoll_territory_section_title"
+msgstr "Contrôle du territoire"
+
+msgid "paperdoll_territory_owner_line"
+msgstr "%1 territoire (%2)"
+
+msgid "paperdoll_territory_bonus_pve_xp"
+msgstr "Expérience de pve"
+
+msgid "paperdoll_territory_bonus_pve_loot"
+msgstr "PV le butin"
+
+msgid "paperdoll_territory_bonus_harvest_eff"
+msgstr "Vitesse de récolte"
+
+msgid "paperdoll_territory_bonus_yield"
+msgstr "Rendement de récolte"
 
 msgid "paperdoll_effect_modifier_1"
 msgstr "Obélisque de ragunius"
@@ -3918,7 +4730,23 @@ msgid "screen08_title"
 msgstr "Choisir les sorts de départ"
 
 msgid "screen09_title"
-msgstr "Sélectionner la ville de départ"
+msgstr "Choisir l'emplacement de départ"
+
+msgid "screen09_desc_capital"
+msgstr "La capitale de votre course."
+
+msgid "screen09_desc_island"
+msgstr ""
+"Une ville commerçante prospère, située le long de l'une des rares routes maritimes qui quittent le continent de Agon. Dawnshore est resté un endroit prévisible et sans incident même après le début de la guerre - c'est-à-dire jusqu'à ce qu'ils aient été entraînés dans le désordre à travers une série d'événements inhabituels.\n"
+"\n"
+"Le tutoriel Dawnshore est recommandé aux nouveaux joueurs pour se familiariser avec la boucle de gameplay de base. Vous pouvez partir à tout moment."
+
+msgid "screen09_warn_island"
+msgstr ""
+"Il n'y a pas d'éléments qui puissent supporter le transport tutorial jusqu'à"
+" la Grande-Bretagne. Tu seras donné un ensemble prédéterminé de gaz pour la "
+"complétion complète de tous les quais tutoriaux. Le fait de partir avant que"
+" la complétion ne soit complète annulera cette rétribution."
 
 msgid "screen10_title"
 msgstr "Créer ce personnage ?"
@@ -4054,6 +4882,21 @@ msgstr "Valeur et pourcentage"
 
 msgid "vital_stats_display_modes_value_over_max"
 msgstr "Valeur sur max"
+
+msgid "vital_stats_display_modes_full"
+msgstr "Pleine"
+
+msgid "vital_stats_display_modes_state_only"
+msgstr "État seulement"
+
+msgid "alignment_standing_lawful"
+msgstr "Loyal"
+
+msgid "alignment_standing_lawless"
+msgstr "Hors-la-loi"
+
+msgid "alignment_standing_rogue"
+msgstr "Renégat !"
 
 msgid "options_shader_version_default"
 msgstr "Par défaut du périphérique"
@@ -4703,6 +5546,18 @@ msgstr "Heure active et heure invulnérable ne peuvent pas être les mêmes"
 msgid "clan_window_browse_clans_headers_clan_name"
 msgstr "Nom du clan"
 
+msgid "clan_window_browse_clans_header_hint"
+msgstr "Cliquez sur un en-tête pour trier. Alignement, Races et Tags filtre."
+
+msgid "clan_window_browse_clans_alignment_filter_title"
+msgstr "FILTRER PAR ALIGNEMENT"
+
+msgid "clan_window_browse_clans_alignment_lawful"
+msgstr "Loyal"
+
+msgid "clan_window_browse_clans_alignment_lawless"
+msgstr "Hors-la-loi"
+
 msgid "supreme_general"
 msgstr "Général suprême"
 
@@ -4859,6 +5714,9 @@ msgstr "Chaos pierre de ville"
 msgid "component_targeting_owned_by"
 msgstr "Appartenant à %1"
 
+msgid "component_targeting_unowned"
+msgstr "Non détenu"
+
 msgid "component_targeting_obelisk_altar_vulnerable_and_restoring_countdown"
 msgstr "Vulnérables (restauration - %1)"
 
@@ -4875,28 +5733,47 @@ msgid "component_targeting_glyph_time_remaining"
 msgstr "Temps restant: %1"
 
 msgid "component_targeting_glyph_attack_time_remaining"
-msgstr "Minuteur d'attaque: %1"
+msgstr "Défi d'annulation: %1"
+
+msgid "component_targeting_glyph_immune_remaining"
+msgstr "Immunitaire pour: %1"
 
 msgid "component_targeting_glyph_not_vulnerable"
 msgstr "Le glyphe est actuellement protégé"
 
 msgid "component_targeting_glyph_challenge_active"
-msgstr "Un défi est actif, soyez prêt à revendiquer ce glyphe!"
+msgstr ""
+"Un défi est actif. Le glyphe change de mains quand le minuteur s'épuise."
+
+msgid "component_targeting_glyph_challenge_counter"
+msgstr "Interagir avec le glyphe pour contrer le défi !"
 
 msgid "component_targeting_glyph_use_item_to_challenge"
-msgstr "Utilisez un %1 dans la plage pour lancer un défi."
+msgstr "Utilisez un %1 pour commencer à capturer ce glyphe."
 
 msgid "component_targeting_glyph_use_item_to_challenge_line_2"
-msgstr "Une fois le défi terminé, le glyphe devient vulnérable."
+msgstr "Quand le minuteur s'épuise, le glyphe change de mains."
+
+msgid "component_targeting_glyph_not_in_range"
+msgstr "Pas dans la plage à capturer"
+
+msgid "component_targeting_glyph_in_range"
+msgstr "Assez près pour capturer !"
 
 msgid "component_targeting_glyph_vulnerable_for_attack"
 msgstr "Glyphe est vulnérable"
+
+msgid "component_targeting_glyph_region_lawful"
+msgstr "Faction territoire - seules les alliances raciales peuvent le tenir"
+
+msgid "component_targeting_glyph_region_lawless"
+msgstr "Territoire du clan - seuls les clans peuvent le tenir"
 
 msgid "component_targeting_glyph_wait_for_timer_to_finish"
 msgstr "Restez près jusqu'à ce que la minuterie soit terminée !"
 
 msgid "component_targeting_glyph_alt_use_to_claim"
-msgstr "Alt-use pour interagir et revendiquer le glyphe."
+msgstr "Alt-use pour annuler le défi sur ce glyphe."
 
 msgid "glyph_immune"
 msgstr "Ce glyphe est toujours à l'abri du défi."
@@ -4919,10 +5796,27 @@ msgstr ""
 msgid "glyph_flipped"
 msgstr "Le glyphe rune en %1 est tombé dans une nouvelle faction !"
 
+msgid "glyph_challenged"
+msgstr ""
+"Le glyphe rune en %1 est défié ! Votre alliance a %2 minutes pour la "
+"contester."
+
 msgid "glyph_challenge_race_unknown"
 msgstr ""
 "Votre alliance raciale n'a pas pu être déterminée, donc ce glyphe légal ne "
 "peut pas être contesté en ce moment."
+
+msgid "glyph_challenge_lawless"
+msgstr ""
+"Seuls les membres légitimes d'une alliance raciale peuvent contester un "
+"glyphe de faction. Les hors-la-loi et les bandits ne participent pas à la "
+"guerre des factions."
+
+msgid "glyph_defend_lawless"
+msgstr ""
+"Seuls les membres légitimes de l'alliance raciale propriétaire peuvent "
+"défendre un glyphe de faction. Les hors-la-loi et les bandits ne participent"
+" pas à la guerre des factions."
 
 msgid "conquest_gateway_glyph_required"
 msgstr ""
@@ -5027,6 +5921,9 @@ msgstr "Conquérant rune glyphe"
 
 msgid "context_menu_bind_to_chaos_stone"
 msgstr "Lier à la ville du chaos"
+
+msgid "context_menu_chaos_bindstone_cancel_challenge"
+msgstr "Annuler le défi"
 
 msgid "chat_window_fps"
 msgstr " - Fps: %1"
@@ -5204,8 +6101,11 @@ msgstr "Prévisualiser"
 msgid "emote_panel_button_bind"
 msgstr "Lier"
 
-msgid "emote_panel_combat_refuse"
-msgstr "Vous ne pouvez pas ouvrir le panneau d'émote pendant le combat."
+msgid "emote_panel_pvp_combat_refuse"
+msgstr "Vous ne pouvez pas ouvrir le panneau d'émote dans le combat PvP."
+
+msgid "emote_panel_pvp_combat_closed"
+msgstr "Le combat PvP a fermé le panneau d'émote."
 
 msgid "emote_panel_bind_prompt"
 msgstr "Appuyez sur une touche pour se lier au /%1 (esc pour annuler)"
@@ -5242,6 +6142,9 @@ msgstr "Sélectionnez un colorant à appliquer."
 
 msgid "dye_panel_status_nothing"
 msgstr "Pas de pièces teintables équipées."
+
+msgid "dye_panel_status_already"
+msgstr "J'ai déjà teint ces couleurs."
 
 msgid "dye_panel_slot_readout"
 msgstr "%1: %2"
@@ -5450,7 +6353,7 @@ msgid "journal_meditation_stats_gold_label"
 msgstr "Or des banques"
 
 msgid "journal_meditation_buy_label"
-msgstr "Acheter des points de méditation (1 or chacun)"
+msgstr "Acheter des points de méditation (2 or chacun)"
 
 msgid "journal_meditation_buy_button"
 msgstr "Acheter"
@@ -5611,10 +6514,8 @@ msgstr "Le système de méditation est désactivé"
 msgid "bank_deposit_loot_button"
 msgstr "Le butin du dépôt"
 
-msgid "loadout_loot_deposit_blocked_combat"
-msgstr ""
-"[Loot] Dépôt bloqué pendant le combat - essayez à nouveau quand il n'y a pas"
-" de combat."
+msgid "loadout_loot_deposit_blocked_pvp_combat"
+msgstr "Dépôt bloqué dans le combat PvP. Il reste %1 secondes."
 
 msgid "loadout_loot_deposit_success"
 msgstr "[Loot] Dépose %1 item(s) de votre sac à dos dans la banque."
@@ -5644,25 +6545,24 @@ msgstr ""
 "[Loadout] Le chargement sélectionné n'a pas d'éléments. Ajoutez-y d'abord "
 "des éléments."
 
-msgid "session_blocked_combat"
+msgid "session_blocked_pvp_combat"
 msgstr ""
-"Vous ne pouvez pas utiliser les stations d'artisanat ou le marché pendant le"
-" combat."
+"Vous ne pouvez pas fabriquer ou utiliser le marché dans le combat PvP. Il "
+"reste %1 secondes."
 
-msgid "loadout_sync_blocked_combat"
-msgstr ""
-"Sync bloqué pendant le combat - essayez à nouveau quand il n'y a pas de "
-"combat."
+msgid "crafting_blocked_pvp_combat"
+msgstr "Tu ne peux pas t'embarquer dans le combat PvP."
+
+msgid "loadout_sync_blocked_pvp_combat"
+msgstr "Sync bloqué dans le combat PvP. Il reste %1 secondes."
 
 msgid "loadout_sync_partial_full_bank"
 msgstr ""
 "[Loadout] Synchronisation : %1 article(s) excédentaire laissé(s) dans votre "
 "sac à dos - pas d'espace bancaire."
 
-msgid "loadout_generate_blocked_combat"
-msgstr ""
-"Générer bloqué pendant le combat - essayer à nouveau quand il n'y a pas de "
-"combat."
+msgid "loadout_generate_blocked_pvp_combat"
+msgstr "Générer bloqué dans le combat PvP. Il reste %1 secondes."
 
 msgid "loadout_generate_bag_not_found"
 msgstr "Générer: sac non trouvé dans votre banque."
@@ -5799,6 +6699,9 @@ msgstr "Dépin (permettre le tri de se déplacer)"
 msgid "notification_tray_clear"
 msgstr "Clair"
 
+msgid "notification_tray_clear_all"
+msgstr "Notifications claires"
+
 msgid "notification_tray_placement_title"
 msgstr "Notification"
 
@@ -5833,6 +6736,12 @@ msgstr ""
 
 msgid "skill_tracker_unlearned"
 msgstr "Pas appris"
+
+msgid "quest_tracker_compact_on"
+msgstr "Compact sur"
+
+msgid "quest_tracker_compact_off"
+msgstr "Mode compact désactivé"
 
 msgid "quest_tracker_quests"
 msgstr "Quêtes"
@@ -6348,6 +7257,11 @@ msgstr ""
 msgid "clan_politics_result_war_pending"
 msgstr "Une déclaration de guerre est déjà en attente."
 
+msgid "clan_politics_result_alliance_mismatch"
+msgstr ""
+"Vous ne pouvez qu'allier ou être ami un clan qui partage votre position : à "
+"la fois licite et dans la même alliance raciale, ou les deux sans loi."
+
 msgid "clan_politics_result_failed"
 msgstr "Le changement politique n'a pas pu être achevé."
 
@@ -6540,29 +7454,204 @@ msgstr ""
 msgid "clan_creation_form_cost_description"
 msgstr "2000 or sera déduit de votre portefeuille mondial lors de la création"
 
+msgid "pvp_flag_tt_sec_pvp"
+msgstr "Protection contre les tirs alliés :"
+
+msgid "pvp_flag_tt_sec_inventory"
+msgstr "Perte d'inventaire :"
+
+msgid "pvp_flag_tt_sec_grouping"
+msgstr "Groupes :"
+
+msgid "pvp_flag_tt_sec_alignment"
+msgstr "Alignement :"
+
+msgid "pvp_flag_tt_sec_switching"
+msgstr "Changer de posture :"
+
+msgid "pvp_flag_tt_sec_return"
+msgstr "Revenir à la posture Loyale :"
+
+msgid "pvp_flag_warn_gain_heading"
+msgstr "CE QUE VOUS GAGNEZ"
+
+msgid "pvp_flag_warn_gain_races"
+msgstr ""
+"Vous pouvez former des groupes et rejoindre des clans avec N'IMPORTE QUEL "
+"joueur Hors-la-loi, quelle que soit sa race."
+
+msgid "pvp_flag_warn_blank"
+msgstr " "
+
+msgid "pvp_flag_warn_cost_heading"
+msgstr "CE À QUOI VOUS RENONCEZ"
+
+msgid "pvp_flag_warn_cost_attack"
+msgstr "N'IMPORTE QUI PEUT VOUS ATTAQUER, N'IMPORTE OÙ."
+
+msgid "pvp_flag_warn_cost_inventory"
+msgstr "PERTE DE TOUT L'INVENTAIRE À LA MORT, DANS TOUTES LES ZONES."
+
+msgid "pvp_flag_warn_cost_faction"
+msgstr ""
+"Aucune participation aux guerres des factions raciales : vous ne pouvez ni "
+"attaquer ni défendre leurs structures, ni capturer de glyphes dans les zones"
+" bleues."
+
+msgid "pvp_flag_warn_cost_grouping"
+msgstr ""
+"Vous ne pouvez pas former de groupes ou de clans avec des joueurs Loyaux, ni"
+" les soigner ou les ranimer."
+
+msgid "pvp_flag_warn_cost_alignment"
+msgstr "Tuer certains joueurs Loyaux protégés réduit votre alignement."
+
+msgid "pvp_flag_warn_return_heading"
+msgstr "REVENIR À LA POSTURE LOYALE"
+
+msgid "pvp_flag_warn_return_body"
+msgstr "Atteignez un alignement > 0, puis priez dans une église."
+
+msgid "pvp_flag_tt_sec_faction"
+msgstr "Guerre de factions :"
+
+msgid "pvp_flag_tt_lawful_faction"
+msgstr "Vous pouvez attaquer et défendre les structures de faction."
+
+msgid "pvp_flag_tt_lawless_faction"
+msgstr ""
+"Impossible d'attaquer ou de défendre les structures de faction, ou de "
+"capturer des glyphes dans les zones bleues."
+
+msgid "pvp_flag_prompt_confirm"
+msgstr "Confirmer"
+
+msgid "pvp_flag_prompt_cancel"
+msgstr "Annuler"
+
+msgid "pvp_flag_change_to_lawless_ack"
+msgstr ""
+"Je comprends : je peux être attaqué n'importe où et je perdrai tout mon "
+"inventaire à ma mort."
+
+msgid "pvp_flag_tt_lawful_ff_blue"
+msgstr "Bleu - ACTIVÉE"
+
+msgid "pvp_flag_tt_lawful_ff_yellow"
+msgstr "Jaune - ACTIVÉE"
+
+msgid "pvp_flag_tt_lawful_ff_red"
+msgstr "Rouge - DÉSACTIVÉE"
+
+msgid "pvp_flag_tt_lawful_grouping2"
+msgstr ""
+"Impossible de former des groupes ou des clans avec des joueurs Hors-la-loi "
+"ou des ennemis de faction, de les soigner ou de les ranimer."
+
+msgid "pvp_flag_tt_lawful_alignment"
+msgstr "L'alignement est indépendant de votre posture actuelle."
+
+msgid "pvp_flag_tt_lawless_alignment2"
+msgstr "L'alignement ne détermine pas votre posture actuelle."
+
+msgid "pvp_flag_tt_lawful_title"
+msgstr "POSTURE LOYALE"
+
+msgid "pvp_flag_tt_lawful_state"
+msgstr "VOUS ÊTES EN POSTURE LOYALE !"
+
+msgid "pvp_flag_tt_lawful_pvp"
+msgstr ""
+"Les joueurs Loyaux ne peuvent pas s'attaquer entre eux, sauf s'ils "
+"appartiennent à des factions raciales ennemies."
+
+msgid "pvp_flag_tt_lawful_inv_blue"
+msgstr "Bleu - Aucune"
+
+msgid "pvp_flag_tt_lawful_inv_yellow"
+msgstr "Jaune - Contenu du sac"
+
+msgid "pvp_flag_tt_lawful_inv_red"
+msgstr "Rouge - Tout l'inventaire"
+
+msgid "pvp_flag_tt_lawful_grouping"
+msgstr "Clans et groupes Loyaux uniquement."
+
+msgid "pvp_flag_tt_lawful_switching"
+msgstr ""
+"Cliquez sur cette icône pour passer Hors-la-loi. Un avertissement "
+"s'affichera avant le changement."
+
+msgid "pvp_flag_tt_lawless_title"
+msgstr "POSTURE HORS-LA-LOI"
+
+msgid "pvp_flag_tt_lawless_state"
+msgstr "VOUS ÊTES EN POSTURE HORS-LA-LOI !"
+
+msgid "pvp_flag_tt_lawless_pvp"
+msgstr "DÉSACTIVÉE - dans toutes les zones"
+
+msgid "pvp_flag_tt_lawless_inv"
+msgstr "TOTALE - dans toutes les zones"
+
+msgid "pvp_flag_tt_lawless_group_can"
+msgstr ""
+"Vous pouvez former des groupes et rejoindre des clans avec N'IMPORTE QUEL "
+"joueur Hors-la-loi, quelle que soit sa race."
+
+msgid "pvp_flag_tt_lawless_group_cant"
+msgstr ""
+"Impossible de former des groupes ou des clans avec des joueurs Loyaux, de "
+"les soigner, de les ranimer ou de collaborer avec eux d'une autre manière."
+
+msgid "pvp_flag_tt_lawless_alignment"
+msgstr "Tuer des joueurs Loyaux protégés peut réduire l'alignement."
+
+msgid "pvp_flag_tt_lawless_return"
+msgstr "Atteignez un alignement > 0 et priez dans une église."
+
 msgid "pvp_flag_tooltip_lawful"
 msgstr ""
-"Position légale \n"
+"POSTURE LOYALE  \n"
 "  \n"
-" Vous ne pouvez pas attaquer d'autres joueurs légaux et ils ne peuvent pas vous attaquer, \n"
-"à moins que vous apparteniez à différentes factions raciales.\n"
+" VOUS ÊTES EN POSTURE LOYALE ! \n"
 "  \n"
-" Vous ne pouvez pas aussi vous associer avec des ennemis de faction ou des joueurs sans loi\n"
-"(c'est-à-dire les partis, la guérison, la relève ou l'union de clans)."
+" C'est pas vrai. \n"
+" Les joueurs Loyaux ne peuvent pas s'attaquer entre eux, sauf s'ils appartiennent à des factions raciales ennemies. \n"
+"  \n"
+" Perte d'inventaire : \n"
+" Bleu - Aucune \n"
+" Jaune - Contenu du sac \n"
+" Rouge - Tout l'inventaire \n"
+"  \n"
+" Groupes : \n"
+" Vous ne pouvez pas former de groupes ou de clans avec des joueurs Hors-la-loi ou des ennemis de faction, ni les soigner ou les ranimer. \n"
+"  \n"
+" Changement de posture : \n"
+" Cliquez sur cette icône pour passer Hors-la-loi. \n"
+" Un avertissement s'affichera avant le changement."
 
 msgid "pvp_flag_tooltip_lawless"
 msgstr ""
-"Position non conforme à la loi \n"
+"POSTURE HORS-LA-LOI  \n"
 "  \n"
-" Vous pouvez attaquer n'importe qui, n'importe qui peut vous attaquer librement. \n"
+" VOUS ÊTES EN POSTURE HORS-LA-LOI ! \n"
 "  \n"
-" Tuer des joueurs légitimes de votre même faction raciale coûtera l'alignement. Une fois \n"
-"en dessous de 0 alignement vous deviendrez rouge et ne pouvez pas revenir à légal jusqu'à \n"
-"votre alignement n'est plus négatif. \n"
+" C'est pas vrai. \n"
+" N'IMPORTE QUI PEUT VOUS ATTAQUER, N'IMPORTE OÙ. \n"
 "  \n"
-" Vous pouvez rejoindre des clans et des partis sans loi de n'importe quelle race. \n"
+" Perte d'inventaire : \n"
+" TOUT L'INVENTAIRE - quelle que soit la zone. \n"
 "  \n"
-" Vous abandonnerez toujours tout votre inventaire, quel que soit l'endroit où vous mourez."
+" Groupes : \n"
+" Vous pouvez rejoindre des clans et des groupes Hors-la-loi de n'importe quelle race. \n"
+" Vous ne pouvez pas former de groupes ou de clans avec des joueurs Loyaux, ni les soigner, les ranimer ou collaborer avec eux d'une autre manière. \n"
+"  \n"
+" Alignement : \n"
+" Tuer des joueurs Loyaux de votre faction raciale réduit l'alignement. \n"
+"  \n"
+" Revenir à la posture Loyale : \n"
+" Vous devez avoir un alignement positif et prier dans une église."
 
 msgid "pvp_flag_error_player_holding"
 msgstr ""
@@ -6571,8 +7660,10 @@ msgstr ""
 
 msgid "pvp_flag_error_change_to_lawful"
 msgstr ""
-"Pour revenir à la loi, vous devez prier dans une église ou un autre endroit "
-"désigné."
+"Vous ne pouvez pas revenir à la posture Loyale depuis cet endroit. \n"
+"  \n"
+" Atteignez un alignement > 0, puis priez dans une église ou un autre lieu prévu à cet effet. \n"
+" L'alignement est une valeur distincte de votre posture : être Hors-la-loi ne signifie pas forcément que votre alignement est négatif."
 
 msgid "pvp_flag_error_change_to_same"
 msgstr "Vous êtes déjà sur cette position d'alignement."
@@ -6585,19 +7676,29 @@ msgid "pvp_flag_error_change_in_village"
 msgstr "On ne peut pas changer d'orientation dans un village."
 
 msgid "pvp_flag_change_to_lawless_dialog_title"
-msgstr "Changer d'attitude sans loi ?"
+msgstr "Vous allez passer en POSTURE HORS-LA-LOI."
 
 msgid "pvp_flag_change_to_lawless_dialog_body"
 msgstr ""
-"Avec une posture sans loi, vous serez devenu voyou afin que n'importe quel "
-"joueur puisse vous attaquer n'importe où. Vous pouvez attaquer n'importe "
-"quel autre joueur et vous perdrez l'alignement pour tuer le blues. Vous "
-"déposerez également votre inventaire complet sur la mort, peu importe où "
-"elle se produit. Le retour à la légalité vous obligera à visiter une église "
-"du chaos et ne peut pas être fait avec un alignement négatif."
+"CE QUE VOUS GAGNEZ \n"
+"  \n"
+" Vous pouvez former des groupes et rejoindre des clans avec N'IMPORTE QUELLE race. \n"
+"  \n"
+" CE À QUOI VOUS RENONCEZ \n"
+"  \n"
+" N'IMPORTE QUI PEUT VOUS ATTAQUER, N'IMPORTE OÙ. \n"
+" PERTE DE TOUT L'INVENTAIRE À LA MORT, DANS TOUTES LES ZONES. \n"
+"  \n"
+" Aucune participation aux guerres des factions raciales : vous ne pouvez ni attaquer ni défendre leurs structures. \n"
+" Vous ne pouvez pas former de groupes ou de clans avec des joueurs Loyaux, ni les soigner ou les ranimer. \n"
+" Tuer certains joueurs Loyaux protégés réduit votre alignement. \n"
+"  \n"
+" REVENIR À LA POSTURE LOYALE \n"
+"  \n"
+" Atteignez un alignement > 0, puis priez dans une église."
 
 msgid "pvp_flag_change_to_lawless_dialog_confirm"
-msgstr "Tu es sûr ?"
+msgstr "Passer en posture Hors-la-loi ?"
 
 msgid "pvp_flag_error_change_to_lawless_in_npc_city"
 msgstr ""
@@ -6616,14 +7717,26 @@ msgstr "Restauration - %1"
 msgid "structure_status_faction_bind_stone_invulnerable"
 msgstr "Invulnérable - %1"
 
+msgid "structure_status_faction_bind_stone_protected"
+msgstr "Récemment capturé - %1"
+
 msgid "structure_status_faction_bind_stone_shielded"
-msgstr "Blindée"
+msgstr "Détruire les tours de garde"
+
+msgid "structure_status_faction_bind_stone_shielded_timed"
+msgstr "Détruire les tours de garde - la fenêtre se ferme en %1"
 
 msgid "structure_status_faction_bind_stone_counting_down"
-msgstr "Perte de bouclier en %1"
+msgstr "Tours vers le bas - lier la pierre attaquable en %1"
 
 msgid "structure_status_faction_bind_stone_vulnerable"
-msgstr "Vulnérables"
+msgstr "Tuez-le !"
+
+msgid "structure_status_faction_bind_stone_vulnerable_timed"
+msgstr "- La fenêtre se ferme en %1"
+
+msgid "component_targeting_guard_towers_standing"
+msgstr "tours %1/%2"
 
 msgid "display_name_roa_faction_ALFAR"
 msgstr "Fléau du nagast"
@@ -6694,6 +7807,9 @@ msgstr "Caractère"
 
 msgid "mainmenu_item_counter"
 msgstr "Compteur d'articles"
+
+msgid "mainmenu_pets"
+msgstr "Animaux de compagnie"
 
 msgid "mainmenu_crafting"
 msgstr "Artisanat"
@@ -7257,6 +8373,9 @@ msgstr "Oiseaux morts"
 msgid "mastery_aura_effect_vanguard"
 msgstr "moins de dégâts monstres pris par votre fête"
 
+msgid "mastery_aura_effect_oracle"
+msgstr "une régénération plus rapide de la mana pour votre fête"
+
 msgid "mastery_aura_effect_cutthroat"
 msgstr "bonus de dégâts de mêlée pour votre fête contre les monstres"
 
@@ -7270,10 +8389,10 @@ msgstr ""
 "niveau %5."
 
 msgid "mastery_aura_step_desc"
-msgstr "Aura +%1 - maintenant %2 %3."
+msgstr "Aura +%1. Maintenant %2 %3."
 
 msgid "mastery_aura_step_desc_capped"
-msgstr "Aura +%1 - aujourd'hui %2 %3 (au plafond)."
+msgstr "Aura +%1. Maintenant %2 %3 (au plafond)."
 
 msgid "mastery_track_header"
 msgstr "%1 voie"
@@ -7386,10 +8505,8 @@ msgstr "Essence ancienne"
 msgid "mastery_next_unlock_caption"
 msgstr "Déverrouillage suivant"
 
-msgid "mastery_orb_sigil_hint"
-msgstr ""
-"Les portes de niveau ont besoin d'un Orbe de Mastery; Sigils échange votre "
-"maîtrise active."
+msgid "mastery_orb_hint"
+msgstr "Tier portails coût orbes et essence."
 
 msgid "mastery_no_active_header"
 msgstr "Pas de maîtrise active"
@@ -7397,20 +8514,11 @@ msgstr "Pas de maîtrise active"
 msgid "mastery_row_name_active"
 msgstr "%1 (actif)"
 
-msgid "mastery_row_level_tier"
-msgstr "Niveau %1 Niveau %2"
-
 msgid "mastery_roster_headline_bonus"
 msgstr "+%1% %2"
 
 msgid "mastery_roster_headline_reduction"
 msgstr "-%1% %2"
-
-msgid "mastery_detail_level_tier"
-msgstr "Niveau %1 / %2 - niveau %3 de %4"
-
-msgid "mastery_detail_level_tier_mp"
-msgstr "Niveau %1 / %2 - niveau %3 de %4 - %5 mp"
 
 msgid "mastery_orb_needed"
 msgstr "Maîtrise nécessaire pour faire progresser le niveau passé %1"
@@ -7432,11 +8540,11 @@ msgstr "Essence %1"
 
 msgid "mastery_next_unlock_blocked"
 msgstr ""
-"Niveau %1 - %2 (il faut une maîtrise ou une maîtrise pour réussir le niveau "
+"Niveau %1 : %2 (il faut une maîtrise ou une maîtrise pour réussir le niveau "
 "%3)"
 
 msgid "mastery_next_unlock_entry"
-msgstr "Niveau %1 – %2"
+msgstr "Niveau %1 : %2"
 
 msgid "mastery_all_unlocked"
 msgstr "Tout est déverrouillé."
@@ -7448,7 +8556,7 @@ msgid "mastery_active_note"
 msgstr "S'applique uniquement aux monstres."
 
 msgid "mastery_preview_note"
-msgstr "Aperçu - pas votre maîtrise active."
+msgstr "Aperçu. Pas votre maîtrise active."
 
 msgid "mastery_alt_rank_label"
 msgstr "%1  %2/%3"
@@ -7475,10 +8583,10 @@ msgstr ""
 "niveau %5."
 
 msgid "mastery_node_desc_aura_step"
-msgstr "Aura +%1 - maintenant %2 %3."
+msgstr "Aura +%1. Maintenant %2 %3."
 
 msgid "mastery_node_desc_aura_step_capped"
-msgstr "Aura +%1 - aujourd'hui %2 %3 (au plafond)."
+msgstr "Aura +%1. Maintenant %2 %3 (au plafond)."
 
 msgid "mastery_node_desc_rank"
 msgstr "Grade %1 de %2 : %3"
@@ -7494,12 +8602,6 @@ msgstr "Niveau %1"
 
 msgid "mastery_tree_track_header"
 msgstr "%1 voie"
-
-msgid "mastery_tree_subheader"
-msgstr "Niveau %1 / %2 - niveau %3 de %4"
-
-msgid "mastery_tree_subheader_active"
-msgstr "Niveau %1 / %2 - niveau %3 de %4 - actif"
 
 msgid "mastery_tree_node_level"
 msgstr "Niveau %1"
@@ -7539,22 +8641,26 @@ msgstr "Appliquer"
 
 msgid "mastery_track_rule_cutthroat"
 msgstr ""
-"Nécessite des couteaux. Chaque effet est scellé pendant que vous êtes marqué"
-" par le combat PvP."
+"Chaque effet est désactivé pendant que vous êtes marqué par le combat PvP."
 
 msgid "mastery_track_rule_deadeye"
 msgstr ""
-"Nécessite un arc. Chaque effet est scellé pendant que vous êtes marqué par "
-"le combat PvP."
+"Chaque effet est désactivé pendant que vous êtes marqué par le combat PvP."
+
+msgid "mastery_track_rule_oracle"
+msgstr ""
+"Chaque effet est désactivé pendant que vous êtes marqué par le combat PvP."
 
 msgid "mastery_track_rule_vanguard"
 msgstr ""
-"Nécessite un bouclier. Chaque effet est scellé pendant que vous êtes marqué "
-"par le combat PvP."
+"Chaque effet est désactivé pendant que vous êtes marqué par le combat PvP."
 
 msgid "mastery_hotbar_hint"
 msgstr ""
 "Faites glisser l'aura et les capacités ci-dessous sur votre barre chaude."
+
+msgid "mastery_aura_locked"
+msgstr "Aura déverrouille au niveau %1"
 
 # BEGIN generated mastery alteration strings
 # (scripts/apply_mastery_alteration_strings.py)
@@ -7682,9 +8788,9 @@ msgstr "Gorille"
 
 msgid "mastery_alt_cutthroat_gore_desc"
 msgstr ""
-"Chaque coup de derrière ajoute une pile Gore, jusqu'à 10, et la blessure "
-"saigne 1.2% de votre dernier coup toutes les secondes par pile. Dix secondes"
-" sans succès et chaque pile est perdue."
+"Chaque coup de derrière ajoute une pile de Gore, jusqu'à 10. La blessure "
+"saigne 1.2% de votre dernier coup chaque seconde par pile. Dix secondes sans"
+" qu'un coup leur soit donné."
 
 msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Chaque pile saigne 1.5% par seconde."
@@ -7828,27 +8934,20 @@ msgstr "Ligne ininterrompue"
 
 msgid "mastery_alt_vanguard_unbrokenline_desc"
 msgstr ""
-"ACTIF: Chaque monstre à moins de 20 mètres tourne sur vous, et leurs "
-"dommages à vous est coupé par 60% pendant 20 secondes. 3 minute de "
-"refroidissement."
+"ACTIF: Chaque monstre à moins de 20 mètres tourne sur vous, et leurs dégâts "
+"à vous est coupé par 60% pendant 10 secondes. 3 minute de refroidissement."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
 msgstr ""
-"ACTIF: Chaque monstre à moins de 20 mètres tourne sur vous, et leurs "
-"dommages à vous est coupé par 60% pendant 20 secondes. 3 minute de "
-"refroidissement."
+"Réduction de 65% pendant 13 secondes. Temps de recharge : 165 secondes."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
 msgstr ""
-"ACTIF: Chaque monstre à moins de 20 mètres tourne sur vous, et leurs "
-"dommages à vous est coupé par 60% pendant 20 secondes. 3 minute de "
-"refroidissement."
+"Réduction de 70% pendant 16 secondes. Temps de recharge : 150 secondes."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
 msgstr ""
-"ACTIF: Chaque monstre à moins de 20 mètres tourne sur vous, et leurs "
-"dommages à vous est coupé par 60% pendant 20 secondes. 3 minute de "
-"refroidissement."
+"Réduction de 75% pendant 20 secondes. Temps de recharge : 135 secondes."
 
 msgid "mastery_alt_elementalist_residue_name"
 msgstr "Résidu"
@@ -7891,8 +8990,8 @@ msgstr "Tempêtes persistantes"
 
 msgid "mastery_alt_elementalist_enduringstorms_desc"
 msgstr ""
-"Les sorts au sol - tempêtes, pluies, murs - durent deux fois plus longtemps "
-"lorsqu'ils frappent au moins un monstre."
+"Des sorts terrestres tels que des tempêtes, des pluies et des murs durent "
+"deux fois plus longtemps lorsqu'ils frappent au moins un monstre."
 
 msgid "mastery_alt_elementalist_enduringstorms_rank1"
 msgstr ""
@@ -7953,103 +9052,104 @@ msgstr "Communion"
 
 msgid "mastery_alt_oracle_communion_desc"
 msgstr ""
-"Mana Blast charge votre prochain Sacrifice : +25% guérison par monstre "
-"capturé, comptant jusqu'à 4 (+100%)."
+"Mana Blast vous guérit ainsi que votre fête pour 40% de ses dégâts au lieu "
+"de vous blesser. Les monstres prennent toute l'explosion."
 
 msgid "mastery_alt_oracle_communion_rank1"
-msgstr "Compte jusqu'à 6 monstres (max +150% guérison)."
+msgstr "Guéris pour 60%."
 
 msgid "mastery_alt_oracle_communion_rank2"
-msgstr "Jusqu'à 8 monstres (max. +200%)."
+msgstr "Guéris pour 80%."
 
 msgid "mastery_alt_oracle_communion_rank3"
-msgstr "Jusqu'à 10 monstres (max. +250%)."
+msgstr "Guéris pour 100%."
 
 msgid "mastery_alt_oracle_quickening_name"
-msgstr "Accélération"
+msgstr "Purification"
 
 msgid "mastery_alt_oracle_quickening_desc"
 msgstr ""
-"Débarquement de Missile Fury sur un monstre fait votre prochain Heal Other "
-"lancer instantanément (dans les 8 secondes)."
+"Bless Other et Adept enlèvent également le plus récent debuff monstre : "
+"saignements, poison, cécité, brûlure, congélation ou acide."
 
 msgid "mastery_alt_oracle_quickening_rank1"
-msgstr ""
-"La guérison d'un allié les marque pour 8s - Missile Fury guérit également "
-"des alliés marqués près de son explosion."
+msgstr "Aussi bande les malédictions sur les statistiques et les protections."
 
 msgid "mastery_alt_oracle_quickening_rank2"
-msgstr "La marque dure 12 ans."
+msgstr ""
+"Strips n'importe quel débuff, y compris les lents, la paralysie, les peines "
+"de mana."
 
 msgid "mastery_alt_oracle_quickening_rank3"
-msgstr "La marque dure 16s."
+msgstr "Bandes 2 débouffées par coulée."
 
 msgid "mastery_alt_oracle_warding_name"
-msgstr "La surveillance"
+msgstr "Cicatrisation"
 
 msgid "mastery_alt_oracle_warding_desc"
-msgstr "Les sorts de Ward bloquent +50% plus de dégâts monstres."
+msgstr ""
+"Le sacrifice ne vous coûte pas la santé, et vous guérit pour 25% de ce qu'il"
+" aurait coûté."
 
 msgid "mastery_alt_oracle_warding_rank1"
-msgstr "Bonus de quartier porté à +75%."
+msgstr "Élevée à 50%."
 
 msgid "mastery_alt_oracle_warding_rank2"
-msgstr "Élevée à +100%."
+msgstr "Élevée à 75%."
 
 msgid "mastery_alt_oracle_warding_rank3"
-msgstr "Élevée à +125%."
+msgstr "Élevée à 100%."
 
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Bénédiction"
 
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
-"Healing Chant ne guérit plus les monstres et guérit les joueurs +100% de "
-"plus."
+"Guérison Chant ne guérit plus les monstres et vous guérit ainsi que votre "
+"fête +100% encore, pour +100% mana."
 
 msgid "mastery_alt_oracle_benediction_rank1"
-msgstr "Prime de guérison portée à +130%."
+msgstr "Élevé à +130%, pour +130% mana."
 
 msgid "mastery_alt_oracle_benediction_rank2"
-msgstr "Élevée à +160%."
+msgstr "Élevé à +160%, pour +160% mana."
 
 msgid "mastery_alt_oracle_benediction_rank3"
-msgstr "Élevée à +200%."
+msgstr "Élevé à +200%, pour +200% mana."
 
-msgid "mastery_alt_oracle_overflow_name"
-msgstr "Débordement"
+msgid "mastery_alt_oracle_sanctuary_name"
+msgstr "Sanctuaire"
 
-msgid "mastery_alt_oracle_overflow_desc"
+msgid "mastery_alt_oracle_sanctuary_desc"
 msgstr ""
-"actif: pour 20 secondes, la guérison au-delà de la pleine santé devient un "
-"bouclier, jusqu'à 200 par allié. 3 Refroidissement des minutes. Faites-le "
-"glisser sur votre hotbar depuis la fenêtre Compétences."
+"ACTIF: Tenez pendant 2 secondes et relâchez-vous pour placer un sanctuaire "
+"jusqu'à 30 mètres. Chaque joueur à moins de 9 mètres d'elle retrouve 10 mana"
+" et endurance toutes les 2 secondes pendant 10 secondes, et les sorts "
+"monstres et les flèches ne peuvent pas les atteindre. Fin si elle atteint "
+"quelqu'un marqué par le combat PvP. 3 minute de refroidissement."
 
-msgid "mastery_alt_oracle_overflow_rank1"
+msgid "mastery_alt_oracle_sanctuary_rank1"
 msgstr ""
-"actif: pour 20 secondes, la guérison au-delà de la pleine santé devient un "
-"bouclier, jusqu'à 200 par allié. 3 Refroidissement des minutes. Faites-le "
-"glisser sur votre hotbar depuis la fenêtre Compétences."
+"Restaure 12 toutes les 2 secondes pendant 13 secondes. Temps de recharge : "
+"165 secondes."
 
-msgid "mastery_alt_oracle_overflow_rank2"
+msgid "mastery_alt_oracle_sanctuary_rank2"
 msgstr ""
-"actif: pour 20 secondes, la guérison au-delà de la pleine santé devient un "
-"bouclier, jusqu'à 200 par allié. 3 Refroidissement des minutes. Faites-le "
-"glisser sur votre hotbar depuis la fenêtre Compétences."
+"Restaure 14 toutes les 2 secondes pendant 16 secondes. Temps de recharge : "
+"150 secondes."
 
-msgid "mastery_alt_oracle_overflow_rank3"
+msgid "mastery_alt_oracle_sanctuary_rank3"
 msgstr ""
-"actif: pour 20 secondes, la guérison au-delà de la pleine santé devient un "
-"bouclier, jusqu'à 200 par allié. 3 Refroidissement des minutes. Faites-le "
-"glisser sur votre hotbar depuis la fenêtre Compétences."
+"Restaure 16 toutes les 2 secondes pendant 20 secondes. Temps de recharge : "
+"135 secondes."
 
 msgid "mastery_alt_blightcaller_siphon_name"
 msgstr "Siphon"
 
 msgid "mastery_alt_blightcaller_siphon_desc"
 msgstr ""
-"Les sorts de sangsues - Vampiric Touch, Mana Leech et kin - égouttent +50% "
-"de plus et peuvent empiler deux fois."
+"Des sorts de Leech tels que Vampiric Touch et Mana Leech drain +50% de plus "
+"et peut empiler deux fois."
 
 msgid "mastery_alt_blightcaller_siphon_rank1"
 msgstr ""
@@ -8269,6 +9369,42 @@ msgstr "Récompenses rares possibles"
 msgid "options_chat_overhead_bubbles"
 msgstr "Rendre les bulles de chat en hauteur"
 
+msgid "clan_create_error_already_creating"
+msgstr ""
+"Ce clan est déjà en train de se créer. Donnez-lui un moment et essayez "
+"encore."
+
+msgid "clan_create_error_already_in_clan"
+msgstr "Tu es déjà dans un clan."
+
+msgid "clan_create_error_invalid_name"
+msgstr "Ce nom de clan ne peut pas être utilisé. Essaie un autre."
+
+msgid "clan_create_error_name_locked"
+msgstr "Ce nom de clan est pris."
+
+msgid "clan_create_error_trial_account"
+msgstr "Les comptes d'essai ne peuvent pas créer un clan."
+
+msgid "clan_create_error_not_enough_gold"
+msgstr ""
+"Vous avez besoin de 2000 or dans votre portefeuille mondial pour créer un "
+"clan."
+
+msgid "clan_create_error_name_taken"
+msgstr "Ce nom de clan est déjà utilisé."
+
+msgid "clan_create_error_newbie_protection"
+msgstr ""
+"Vous ne pouvez pas créer un clan pendant que la protection des nouveaux-nés "
+"est active."
+
+msgid "clan_create_error_generic"
+msgstr "Le clan n'a pas pu être créé."
+
+msgid "options_chat_overhead_bubble_opacity"
+msgstr "Opacité des bulles aériennes (%)"
+
 msgid "options_chat_overhead_bubble_seconds"
 msgstr "Secondes une bulle de chat reste à l'écran"
 
@@ -8279,7 +9415,7 @@ msgid "clantask_tier_gather_daily"
 msgstr "Rassemblement"
 
 msgid "clantask_tier_gather_weekly"
-msgstr "Rassemblement rare"
+msgstr "Rassemblement"
 
 msgid "clan_window_members_no_applications"
 msgstr "Pas de demande"
@@ -8344,6 +9480,142 @@ msgstr "natation"
 msgid "surrender"
 msgstr "remise"
 
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_YOU"
+msgstr "La purification a nettoyé %1 de vous."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_OTHER"
+msgstr "[Maîtrise] La purification a nettoyé %1 de %2."
+
+msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_SELF"
+msgstr "La purification a nettoyé %1."
+
+msgid "mastery_row_level"
+msgstr "Niveau %1"
+
+msgid "mastery_detail_level"
+msgstr "Niveau %1 / %2"
+
+msgid "mastery_detail_level_mp"
+msgstr "Niveau %1 / %2 - %3 mp"
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
+msgstr "Je passe à %1. Ne bougez pas pendant %2 secondes."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_INTERRUPTED"
+msgstr "L'interrupteur a été interrompu. Rien n'a été dépensé."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_IN_PVP"
+msgstr ""
+"Vous ne pouvez pas changer de maîtrise pendant que vous êtes marqué par le "
+"combat PvP."
+
+msgid "NOTIFICATION_PVE_MASTERY_SWAP_ALREADY_ACTIVE"
+msgstr "Vous utilisez déjà %1."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_LOCKED"
+msgstr ""
+"[Maîtrise] %1 aura déverrouille au niveau de maîtrise %2. Vous êtes niveau "
+"%3."
+
+msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
+msgstr ""
+"Votre aura sort - %1 est en dessous du niveau de maîtrise %2. %3 essence est"
+" revenue pour le temps restant."
+
+msgid "mastery_swap_on_cooldown"
+msgstr ""
+"Tu ne peux pas encore changer de maîtrise.\n"
+"\n"
+"%1 à gauche."
+
+msgid "mastery_role_cutthroat"
+msgstr ""
+"Récompenses attaquant par derrière avec des saignements, une rampe de "
+"dommages, et une fenêtre d'éclatement."
+
+msgid "mastery_role_vanguard"
+msgstr ""
+"Spec de réservoir construit sur les taquins, la parie, et la réduction des "
+"dommages tout en étant protégé."
+
+msgid "mastery_role_oracle"
+msgstr ""
+"Ça maintient le groupe en vie. Une guérison plus forte, un nettoyage des "
+"débuffs et un sol protégé."
+
+msgid "mastery_role_deadeye"
+msgstr ""
+"Dégâts rangés qui s'écaillent avec la fiabilité que vous débarquez flèches."
+
+msgid "mastery_role_berserker"
+msgstr "Pas encore construit."
+
+msgid "mastery_role_elementalist"
+msgstr "Pas encore construit."
+
+msgid "mastery_role_blightcaller"
+msgstr "Pas encore construit."
+
+msgid "mastery_weapon_cutthroat"
+msgstr "Nécessite des couteaux."
+
+msgid "mastery_weapon_vanguard"
+msgstr "Nécessite un bouclier."
+
+msgid "mastery_weapon_oracle"
+msgstr "Nécessite un personnel. L'aura fonctionne sans elle."
+
+msgid "mastery_weapon_deadeye"
+msgstr "Nécessite un arc."
+
+msgid "mastery_weapon_berserker"
+msgstr ""
+
+msgid "mastery_weapon_elementalist"
+msgstr ""
+
+msgid "mastery_weapon_blightcaller"
+msgstr ""
+
+msgid "mastery_detail_level_tier"
+msgstr "Niveau %1 / %2 - niveau %3 de %4"
+
+msgid "mastery_detail_level_tier_mp"
+msgstr "Niveau %1 / %2 - niveau %3 de %4 - %5 mp"
+
+msgid "mastery_row_level_tier"
+msgstr "Niveau %1 Niveau %2"
+
+msgid "mastery_tree_subheader"
+msgstr "Niveau %1 / %2. Porte %3 de %4."
+
+msgid "mastery_tree_subheader_active"
+msgstr "Niveau %1 / %2. Porte %3 de %4. C'est actif."
+
+msgid "mastery_alt_detail"
+msgstr "%1 (niveau %2). %3"
+
+msgid "mastery_alt_detail_locked"
+msgstr "%1. Déverrouillage au niveau %2. %3"
+
+msgid "mastery_activate_button"
+msgstr "Activer %1"
+
+msgid "mastery_activate_current"
+msgstr "Actif"
+
+msgid "mastery_swap_confirm"
+msgstr ""
+"Passer à %1 pour %2 or ?\n"
+"\n"
+"Il faut %3 secondes, et l'or est dépensé quand il finit. Être frappé ou entrer dans PvP l'annule et ne vous coûte rien."
+
+msgid "mastery_swap_confirm_free"
+msgstr ""
+"Passer à %1 ?\n"
+"\n"
+"Il faut %3 secondes. Être frappé ou entrer dans PvP l'annule et ne vous coûte rien."
+
 msgid "Play Sound on Player"
 msgstr "Jouer du son sur le joueur"
 
@@ -8400,6 +9672,12 @@ msgstr "Pet parfait"
 
 msgid "gm_sound_se_gm_good_boy"
 msgstr "Quel bon garçon !"
+
+msgid "gm_sound_se_gm_knocking"
+msgstr "Frapper"
+
+msgid "gm_sound_se_gm_messenger"
+msgstr "Messager"
 
 msgid "skin_justicebringer_solar_tribunal"
 msgstr "Tribunal solaire"
@@ -8543,6 +9821,58 @@ msgid "desc_skin_gs_mercian_rime_covenant"
 msgstr ""
 "Un sanctuaire de lancettes en argent et un traceur de gel qui coule ornent "
 "cette peau Mercian Flamberge."
+
+msgid "skin_blackbolt_niffleheim"
+msgstr "Niffleheim Blackbolt"
+
+msgid "desc_skin_blackbolt_niffleheim"
+msgstr ""
+"L'argent givré et la glace bleue ornent cette peau inspirée de Niffleheim "
+"Blackbolt."
+
+msgid "skin_blackbolt_yssam"
+msgstr "Yssam Blackbolt"
+
+msgid "desc_skin_blackbolt_yssam"
+msgstr ""
+"La mousse et le bronze usé ornent cette peau d'inspiration Yssam Blackbolt."
+
+msgid "skin_blackbolt_rubyayat"
+msgstr "Rubyayat Blackbolt"
+
+msgid "desc_skin_blackbolt_rubyayat"
+msgstr ""
+"Le laiton sablé et les enveloppements blanchis au soleil ornent cette peau "
+"d'inspiration Rubyayat Blackbolt."
+
+msgid "skin_blackbolt_cairn"
+msgstr "Cairn Blackbolt"
+
+msgid "desc_skin_blackbolt_cairn"
+msgstr ""
+"Pierre volcanique, sculptures en bronze et incrustations turquoise ornent "
+"cette peau d'inspiration Cairn Blackbolt."
+
+msgid "mastery_gate_button"
+msgstr "Briser la porte: %1 orbes de maîtrise, %2 orbes antiques, %3 essence"
+
+msgid "mastery_gate_button_locked"
+msgstr "Atteindre le niveau %1 pour briser la porte"
+
+msgid "mastery_gate_trial_locked"
+msgstr "Procès %1 ouvre au niveau %2 à la couche maître Aero"
+
+msgid "mastery_gate_trial_ready"
+msgstr "Le procès %1 est prêt. Prendre à la tueuse maître Aero"
+
+msgid "mastery_learn_at_slayer_master"
+msgstr "Apprendre au maître de la tueuse"
+
+msgid "mastery_row_not_learned"
+msgstr "Pas appris"
+
+msgid "slayer_board_title"
+msgstr "Conseil d'administration de la couche"
 
 msgid "chat_cam_cmd_desc"
 msgstr ""
@@ -8700,41 +10030,240 @@ msgstr "linéaire"
 msgid "chat_cam_word_smooth"
 msgstr "lisse"
 
-msgid "skin_blackbolt_niffleheim"
-msgstr "Niffleheim Blackbolt"
+msgid "DUEL_HUD_WAITING"
+msgstr "Attendre les joueurs..."
 
-msgid "desc_skin_blackbolt_niffleheim"
+msgid "DUEL_HUD_FIGHT"
+msgstr "Bats-toi !"
+
+msgid "DUEL_HUD_VICTORY"
+msgstr "Victoire ! Votre équipe a gagné."
+
+msgid "DUEL_HUD_DEFEAT"
+msgstr "La défaite. Votre équipe a perdu."
+
+msgid "DUEL_HUD_DRAW"
+msgstr "Le tour s'est terminé sans vainqueur."
+
+msgid "DUEL_HUD_ROUND_OVER"
+msgstr "Ronde terminée."
+
+msgid "DUEL_HUD_ELIMINATED"
+msgstr "Éliminé - attendez que la ronde soit terminée."
+
+msgid "options_gui_hotbar_horizontal"
+msgstr "Barre chaude horizontale"
+
+msgid "options_gui_mob_cast_bars"
+msgstr "Barres de coulée monstres"
+
+msgid "options_gui_telegraph_color"
+msgstr "Couleur du contour télégraphique"
+
+msgid "options_gui_telegraph_fill_color"
+msgstr "Couleur de remplissage du télégraphe"
+
+msgid "options_telegraph_fill_same"
+msgstr "Comme dans le plan général"
+
+msgid "options_telegraph_color_red"
+msgstr "Rouge"
+
+msgid "options_telegraph_color_orange"
+msgstr "Orange"
+
+msgid "options_telegraph_color_yellow"
+msgstr "Jaune"
+
+msgid "options_telegraph_color_blue"
+msgstr "Bleu"
+
+msgid "options_telegraph_color_purple"
+msgstr "Pourpre"
+
+msgid "options_telegraph_color_white"
+msgstr "Blanc"
+
+msgid "options_gui_telegraph_outline_opacity"
+msgstr "Opacité des contours télégraphiques"
+
+msgid "options_gui_telegraph_fill_opacity"
+msgstr "Opacité de remplissage du télégraphe"
+
+msgid "options_video_preset_minimum"
+msgstr "Minimum"
+
+msgid "options_video_preset_medium"
+msgstr "Moyenne"
+
+msgid "options_video_preset_max"
+msgstr "Max."
+
+msgid "options_video_preset_minimum_tooltip"
 msgstr ""
-"L'argent givré et la glace bleue ornent cette peau inspirée de Niffleheim "
-"Blackbolt."
+"Tout à son meilleur prix : pas de superéchantillonnage, pas d'ombres, pas de"
+" lumières dynamiques, une végétation minimale et des effets. FXAA reste sur "
+"parce qu'il lisse les bords pour presque rien. Pour les machines les plus "
+"basses, ou quand vous voulez chaque cadre que vous pouvez obtenir."
 
-msgid "skin_blackbolt_yssam"
-msgstr "Yssam Blackbolt"
+msgid "options_video_preset_minimum_tooltip_perf"
+msgstr "Performance: la plus rapide"
 
-msgid "desc_skin_blackbolt_yssam"
+msgid "options_video_preset_medium_tooltip"
 msgstr ""
-"La mousse et le bronze usé ornent cette peau d'inspiration Yssam Blackbolt."
+"Le réglage recommandé. Ombres, éclairage et effets sur à la qualité "
+"raisonnable, avec FXAA lissant les bords et superéchantillonnage laissés. "
+"C'est ce que la plupart des machines devraient faire fonctionner."
 
-msgid "skin_blackbolt_rubyayat"
-msgstr "Rubyayat Blackbolt"
+msgid "options_video_preset_medium_tooltip_perf"
+msgstr "Performances: équilibrées"
 
-msgid "desc_skin_blackbolt_rubyayat"
+msgid "options_video_preset_max_tooltip"
 msgstr ""
-"Le laiton sablé et les enveloppements blanchis au soleil ornent cette peau "
-"d'inspiration Rubyayat Blackbolt."
+"Tout au maximum sauf le super-échantillonnage, qui ne s'allume pas - réglez-"
+"le vous-même sous Anti-Aliasing (Super-échantillonnage) sur l'onglet Effets "
+"si vous avez des cadres à épargner. Si c'est trop lourd, ce sont les "
+"paramètres qui coûtent le plus, dans l'ordre - les baisser avant toute autre"
+" chose:"
 
-msgid "skin_blackbolt_cairn"
-msgstr "Cairn Blackbolt"
+msgid "options_video_preset_max_tooltip_perf"
+msgstr "Performance: très exigeante"
 
-msgid "desc_skin_blackbolt_cairn"
+msgid "options_video_preset_max_tooltip_2"
 msgstr ""
-"Pierre volcanique, sculptures en bronze et incrustations turquoise ornent "
-"cette peau d'inspiration Cairn Blackbolt."
+"1. Activer Ombres et Qualité de l'Ombre - onglet Éclairage. Les ombres "
+"scéniques sont la moitié plus grande."
 
-msgid "skin_aspis_cairn_refined"
-msgstr "Cairn prototype d'aspis"
-
-msgid "desc_skin_aspis_cairn_refined"
+msgid "options_video_preset_max_tooltip_3"
 msgstr ""
-"Un soleil de bronze et des sculptures turquoise ornent ce bouclier en pierre"
-" volcanique."
+"2. Nombre maximal de lumières dynamiques - onglet éclairage. Il en coûte "
+"plus pendant le superéchantillonnage."
+
+msgid "options_video_preset_max_tooltip_4"
+msgstr ""
+"3. Végétation Densité et superficie Taille - Onglet qualité. Une zone plus "
+"petite coûte PLUS, pas moins."
+
+msgid "options_video_preset_max_tooltip_5"
+msgstr ""
+"4. Vue Distance - Onglet Performance. Ça compte le plus sur le terrain "
+"ouvert."
+
+# Pet collection page: window chrome, per-pet actions, locked state, error
+# notices
+msgid "pet_collection_title"
+msgstr "Animaux de compagnie"
+
+msgid "pet_collection_progress"
+msgstr "%1 / %2 collectés"
+
+msgid "pet_collection_search"
+msgstr "Recherche"
+
+msgid "pet_collection_owned_only"
+msgstr "Recueillie uniquement"
+
+msgid "pet_collection_summon"
+msgstr "Assignation"
+
+msgid "pet_collection_dismiss"
+msgstr "Congédiement"
+
+msgid "pet_collection_rename"
+msgstr "Renommer"
+
+msgid "pet_collection_locked"
+msgstr "Non collectés"
+
+msgid "pet_collection_locked_hint"
+msgstr "Utilisez un %1 pour recueillir cet animal."
+
+msgid "pet_error_locked"
+msgstr "Vous n'avez pas ramassé cet animal."
+
+msgid "pet_error_retry"
+msgstr ""
+"Votre collection d'animaux n'est pas disponible en ce moment. Veuillez "
+"réessayer."
+
+msgid "pet_error_toy"
+msgstr "Ce jouet ne peut pas être utilisé."
+
+msgid "skin_founder_tempered_dawn"
+msgstr "À l'aube tempérée"
+
+msgid "desc_skin_founder_tempered_dawn"
+msgstr ""
+"Reforged acier bleu, balances serpent dorées et une poignée en cuir ornent "
+"cette peau Leafblade."
+
+msgid "skin_founder_legends_gold"
+msgstr "Lame de légende"
+
+msgid "desc_skin_founder_legends_gold"
+msgstr ""
+"Satiné or, bords polis et une poignée en cuir ornent cette peau Leafblade."
+
+msgid "skin_shield_tempered_dawn"
+msgstr "Bouclier d'aube trempé"
+
+msgid "desc_skin_shield_tempered_dawn"
+msgstr ""
+"Panneaux en acier bleu, ornement en argent et un soleil doré ornent cette "
+"peau de bouclier."
+
+msgid "cosmetic_spell_skins"
+msgstr "Apparences de sorts"
+
+msgid "cosmetic_scroll_help"
+msgstr ""
+"Utilisez un parchemin d'apparence de sort pour débloquer définitivement une "
+"apparence."
+
+msgid "cosmetic_empty"
+msgstr "Aucune apparence de sort n'est disponible."
+
+msgid "cosmetic_refresh"
+msgstr "Actualiser"
+
+msgid "cosmetic_active"
+msgstr "Actif"
+
+msgid "cosmetic_owned"
+msgstr "Possédé"
+
+msgid "cosmetic_locked"
+msgstr "Verrouillé"
+
+msgid "cosmetic_default"
+msgstr "Utiliser l'apparence par défaut"
+
+msgid "cosmetic_select"
+msgstr "Activer"
+
+msgid "cosmetic_loading"
+msgstr "Chargement des apparences..."
+
+msgid "cosmetic_error_retry"
+msgstr "Impossible d'actualiser les apparences. Veuillez réessayer."
+
+msgid "cosmetic_error_scroll"
+msgstr "Ce parchemin ne contient aucune apparence disponible."
+
+msgid "cosmetic_error_locked"
+msgstr "Vous n'avez pas débloqué cette apparence."
+
+msgid "cosmetic_unlocked"
+msgstr "Apparence débloquée."
+
+msgid "cosmetic_already_owned"
+msgstr ""
+"Vous possédez déjà cette apparence. Votre parchemin n'a pas été consommé."
+
+msgid "cosmetic_selection_saved"
+msgstr "Apparence du sort enregistrée."
+
+msgid "emote_locked"
+msgstr ""
+"Vous n'avez pas encore débloqué %1. Un parchemin d'emote le débloque pour "
+"votre compte."

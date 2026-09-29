@@ -4662,6 +4662,12 @@ msgstr "Npc Ork bata hembra"
 msgid "desc_r_NPC Ork Robe Female"
 msgstr "Presione el botón Usar para interactuar con el NPC."
 
+msgid "desc_r_NPC Ork Slayer Master"
+msgstr "Maestro de exterminio Aero."
+
+msgid "desc_r_Slayer Contract Board"
+msgstr "Tablón de contratos de exterminio."
+
 msgid "r_Player House Vendors"
 msgstr "Vendedor de la casa del jugador"
 
@@ -4853,6 +4859,15 @@ msgid "desc_r_Game Time Token"
 msgstr ""
 "Doble clic para añadir 30 días de tiempo de juego premium a su cuenta."
 
+msgid "r_ut_Game Time Token"
+msgstr "Tiempo de juego token (intradable)"
+
+msgid "desc_r_ut_Game Time Token"
+msgstr ""
+"Doble clic para añadir 30 días de tiempo de juego premium a su cuenta. Este "
+"token no puede ser comercializado, retirado o vendido, pero se puede "
+"almacenar en su banco."
+
 msgid "r_character alteration token"
 msgstr "Alteración del carácter token"
 
@@ -4912,460 +4927,1390 @@ msgid "desc_r_Monster Toys"
 msgstr "Juguetes Monstruos."
 
 msgid "r_toy_arctic_bear"
-msgstr "toy_arctic_bear"
+msgstr "Mascota: Oso ártico"
 
 msgid "desc_r_toy_arctic_bear"
 msgstr "Un raro juguete coleccionable de oso ártico."
 
 msgid "r_toy_blood_knight"
-msgstr "toy_blood_knight"
+msgstr "Mascota: Blood knight"
 
 msgid "desc_r_toy_blood_knight"
 msgstr "Un raro juguete coleccionable de Blood Knight."
 
 msgid "r_toy_gargantua"
-msgstr "toy_gargantua"
+msgstr "Mascota: Gargantua"
 
 msgid "desc_r_toy_gargantua"
 msgstr "Un raro juguete coleccionable de Gargantua."
 
 msgid "r_toy_goblin_shaman"
-msgstr "toy_goblin_shaman"
+msgstr "Mascota: Chamán trasgo"
 
 msgid "desc_r_toy_goblin_shaman"
 msgstr "Un raro coleccionable trasgo Chamán juguete."
 
 msgid "r_toy_moonbeast_ravager"
-msgstr "toy_moonbeast_ravager"
+msgstr "Mascota: Moonbeast ravager"
 
 msgid "desc_r_toy_moonbeast_ravager"
 msgstr "Un raro juguete coleccionable Moonbeast Ravager."
 
 msgid "r_toy_oak_lord"
-msgstr "Toy_oak_lord"
+msgstr "Mascota: Oak lord"
 
 msgid "desc_r_toy_oak_lord"
 msgstr "Un raro juguete coleccionable Oak Lord."
 
 msgid "r_toy_oathliege"
-msgstr "Toy_oathliege"
+msgstr "Mascota: Oathliege"
 
 msgid "desc_r_toy_oathliege"
 msgstr "Un raro juguete coleccionable de Oathliege."
 
 msgid "r_toy_raptor"
-msgstr "toy_raptor"
+msgstr "Mascota: Raptor"
 
 msgid "desc_r_toy_raptor"
 msgstr "Un raro juguete coleccionable Raptor."
 
 msgid "r_toy_shark"
-msgstr "Toy_shark"
+msgstr "Mascota: Shark"
 
 msgid "desc_r_toy_shark"
 msgstr "Un raro juguete coleccionable de tiburón."
 
 msgid "r_toy_troll"
-msgstr "toy_troll"
+msgstr "Mascota: Troll"
 
 msgid "desc_r_toy_troll"
 msgstr "Un raro juguete coleccionable de troll."
 
 msgid "r_toy_akathar"
-msgstr "toy_akathar"
+msgstr "Mascota: Akathar"
 
 msgid "desc_r_toy_akathar"
 msgstr "Un raro juguete coleccionable de Akathar."
 
 msgid "r_toy_brownie"
-msgstr "Toy_brownie"
+msgstr "Mascota: Brownie"
 
 msgid "desc_r_toy_brownie"
 msgstr "Un raro juguete coleccionable de Brownie."
 
 msgid "r_toy_crog"
-msgstr "toy_crog"
+msgstr "Mascota: Crog"
 
 msgid "desc_r_toy_crog"
 msgstr "Un raro coleccionable Crog juguete."
 
 msgid "r_toy_elfwraith"
-msgstr "toy_elfwraith"
+msgstr "Mascota: Wraith"
 
 msgid "desc_r_toy_elfwraith"
 msgstr "Un juguete raro coleccionable de Espectro."
 
 msgid "r_toy_eodrin"
-msgstr "toy_eodrin"
+msgstr "Mascota: Eodrin"
 
 msgid "desc_r_toy_eodrin"
 msgstr "Un raro juguete coleccionable de Eodrin."
 
 msgid "r_toy_hobgoblin_veteran"
-msgstr "toy_hobgoblin_veteran"
+msgstr "Mascota: Hobgoblin veterano"
 
 msgid "desc_r_toy_hobgoblin_veteran"
 msgstr "Un raro juguete coleccionable Hobgoblin Veteran."
 
 msgid "r_toy_leenspar_golem"
-msgstr "toy_leenspar_golem"
+msgstr "Mascota: Leenspar golem"
 
 msgid "desc_r_toy_leenspar_golem"
 msgstr "Un raro coleccionable Leenspar Golem juguete."
 
 msgid "r_toy_tiger"
-msgstr "toy_tiger"
+msgstr "Mascota: Tigre"
 
 msgid "desc_r_toy_tiger"
 msgstr "Un raro juguete coleccionable Tiger."
 
 msgid "r_toy_tomb_iklit"
-msgstr "toy_tomb_iklit"
+msgstr "Mascota: Sepulcro Iklit"
 
 msgid "desc_r_toy_tomb_iklit"
 msgstr "Un raro juguete coleccionable Tomb Iklit."
 
 msgid "r_toy_undead_dwarf_miner"
-msgstr "toy_undead_dwarf_miner"
+msgstr "Mascota: Undead enana minero"
 
 msgid "desc_r_toy_undead_dwarf_miner"
 msgstr "Un raro coleccionable juguete de Miner Undead."
 
 msgid "r_toy_black_knight"
-msgstr "toy_black_knight"
+msgstr "Mascota: Negro caballero"
 
 msgid "desc_r_toy_black_knight"
 msgstr "Un raro juguete coleccionable de Caballero Negro."
 
 msgid "r_toy_cave_troll"
-msgstr "toy_cave_troll"
+msgstr "Mascota: Troll de cueva"
 
 msgid "desc_r_toy_cave_troll"
 msgstr "Un raro juguete coleccionable Cave Troll."
 
 msgid "r_toy_gorra_dar"
-msgstr "toy_gorra_dar"
+msgstr "Mascota: Gorra dardos"
 
 msgid "desc_r_toy_gorra_dar"
 msgstr "Un raro juguete coleccionable Gorra Dar."
 
 msgid "r_toy_gorra_slave"
-msgstr "toy_gorra_slave"
+msgstr "Mascota: Gorra esclavo"
 
 msgid "desc_r_toy_gorra_slave"
 msgstr "Un raro juguete coleccionable Gorra Slave."
 
 msgid "r_toy_greater_below"
-msgstr "toy_greater_below"
+msgstr "Mascota: Más abajo"
 
 msgid "desc_r_toy_greater_below"
 msgstr "Un raro coleccionable Más abajo juguete."
 
 msgid "r_toy_hobgoblin_grunt"
-msgstr "toy_hobgoblin_grunt"
+msgstr "Mascota: Hobgoblin grunt"
 
 msgid "desc_r_toy_hobgoblin_grunt"
 msgstr "Un raro juguete coleccionable Hobgoblin Grunt."
 
 msgid "r_toy_hobgoblin_officer"
-msgstr "toy_hobgoblin_officer"
+msgstr "Mascota: Hobgoblin officer"
 
 msgid "desc_r_toy_hobgoblin_officer"
 msgstr "Un raro juguete de Hobgoblin Officer coleccionable."
 
 msgid "r_toy_troll_lord"
-msgstr "Toy_troll_lord"
+msgstr "Mascota: Troll Lord"
 
 msgid "desc_r_toy_troll_lord"
 msgstr "Un raro juguete coleccionable de Troll Lord."
 
 msgid "r_toy_troll_shaman"
-msgstr "toy_troll_shaman"
+msgstr "Mascota: Troll chamán"
 
 msgid "desc_r_toy_troll_shaman"
 msgstr "Un raro juguete coleccionable de Troll Chamán."
 
 msgid "r_toy_windlord"
-msgstr "Toy_windlord"
+msgstr "Mascota: Windlord"
 
 msgid "desc_r_toy_windlord"
 msgstr "Un raro juguete coleccionable Windlord."
 
 msgid "r_toy_hairy_spider"
-msgstr "Toy_hairy_spider"
+msgstr "Mascota: Araña peluda"
 
 msgid "desc_r_toy_hairy_spider"
 msgstr "Un raro juguete coleccionable de araña peluquera."
 
 msgid "r_toy_brown_bear"
-msgstr "toy_brown_bear"
+msgstr "Mascota: Oso marrón"
 
 msgid "desc_r_toy_brown_bear"
 msgstr "Un raro juguete coleccionable de Oso Marrón."
 
 msgid "r_toy_goblin_scout"
-msgstr "toy_goblin_scout"
+msgstr "Mascota: Explorador trasgo"
 
 msgid "desc_r_toy_goblin_scout"
 msgstr "Un raro coleccionable trasgo Juguete Explorador."
 
 msgid "r_toy_gravelord"
-msgstr "toy_gravelord"
+msgstr "Mascota: Gravelord"
 
 msgid "desc_r_toy_gravelord"
 msgstr "Un raro juguete coleccionable de Gravelord."
 
 msgid "r_toy_Brittle_skeleton"
-msgstr "toy_brittle_skeleton"
+msgstr "Mascota: Brittle skeleton"
 
 msgid "desc_r_toy_Brittle_skeleton"
 msgstr "Un raro juguete coleccionable de Brittle Skeleton."
 
 msgid "r_toy_serpentine"
-msgstr "toy_serpentine"
+msgstr "Mascota: Serpentina"
 
 msgid "desc_r_toy_serpentine"
 msgstr "Un raro juguete de Serpentine coleccionable."
 
 msgid "r_toy_frostwalker"
-msgstr "toy_frostwalker"
+msgstr "Mascota: Frostwalker"
 
 msgid "desc_r_toy_frostwalker"
 msgstr "Un raro juguete coleccionista Frostwalker."
 
 msgid "r_toy_spellgazer"
-msgstr "toy_spellgazer"
+msgstr "Mascota: Hechizogazer"
 
 msgid "desc_r_toy_spellgazer"
 msgstr "Un raro juguete coleccionable Spellgazer."
 
 msgid "r_toy_raven_standard_officer"
-msgstr "toy_raven_standard_officer"
+msgstr "Mascota: Raven standard officer"
 
 msgid "desc_r_toy_raven_standard_officer"
 msgstr "Un raro juguete de oficial estándar de cuervo."
 
 msgid "r_toy_gray_ork_chieftain"
-msgstr "toy_gray_ork_chieftain"
+msgstr "Mascota: Gray Ork jefe tribal"
 
 msgid "desc_r_toy_gray_ork_chieftain"
 msgstr "Un raro juguete coleccionable Gray Ork Jefe tribal."
 
 msgid "r_toy_baradron"
-msgstr "juguete_baradron"
+msgstr "Mascota: Baradron"
 
 msgid "desc_r_toy_baradron"
 msgstr "Un raro juguete coleccionable de Baradron."
 
 msgid "r_toy_air_elemental"
-msgstr "toy_air_elemental"
+msgstr "Mascota: Aire elemental"
 
 msgid "desc_r_toy_air_elemental"
 msgstr "Un raro juguete coleccionable de aire Elemental."
 
 msgid "r_toy_basalt_golem"
-msgstr "toy_basalt_golem"
+msgstr "Mascota: Basalto golem"
 
 msgid "desc_r_toy_basalt_golem"
 msgstr "Un raro juguete coleccionable Basalt Golem."
 
 msgid "r_toy_bone_knight"
-msgstr "Toy_bone_knight"
+msgstr "Mascota: Hueso knight"
 
 msgid "desc_r_toy_bone_knight"
 msgstr "Un raro juguete coleccionable Bone Knight."
 
 msgid "r_toy_bonecrew_captain"
-msgstr "toy_bonecrew_captain"
+msgstr "Mascota: Capitán de la mierda"
 
 msgid "desc_r_toy_bonecrew_captain"
 msgstr "Un raro juego de bonecrew capitán."
 
 msgid "r_toy_bonecrew_mutineer"
-msgstr "toy_bonecrew_mutineer"
+msgstr "Mascota: Mutinero de hueso"
 
 msgid "desc_r_toy_bonecrew_mutineer"
 msgstr "Un raro bonecrew Mutineer juguete."
 
 msgid "r_toy_cave_hag"
-msgstr "toy_cave_hag"
+msgstr "Mascota: Cavernícola"
 
 msgid "desc_r_toy_cave_hag"
 msgstr "Un raro juguete coleccionable Cave Hag."
 
 msgid "r_toy_ciel_fey_druid"
-msgstr "toy_ciel_fey_druid"
+msgstr "Mascota: Ciel Fey druid"
 
 msgid "desc_r_toy_ciel_fey_druid"
 msgstr "Un juguete raro coleccionable Ciel Fey Druid."
 
 msgid "r_toy_dire_zombie"
-msgstr "toy_dire_zombie"
+msgstr "Mascota: Zombi oscuro"
 
 msgid "desc_r_toy_dire_zombie"
 msgstr "Un juguete raro coleccionable Dire Zombie."
 
 msgid "r_toy_evil_eye"
-msgstr "toy_evil_eye"
+msgstr "Mascota: Ojo maligno"
 
 msgid "desc_r_toy_evil_eye"
 msgstr "Un raro juguete coleccionable de ojos malignos."
 
 msgid "r_toy_forest_prophet_female"
-msgstr "toy_forest_prophet_female"
+msgstr "Mascota: Prof. del bosque"
 
 msgid "desc_r_toy_forest_prophet_female"
 msgstr "Un raro coleccionable profeta del bosque juguete femenino."
 
 msgid "r_toy_forest_prophet_male"
-msgstr "toy_forest_prophet_male"
+msgstr "Mascota: Bosque profeta"
 
 msgid "desc_r_toy_forest_prophet_male"
 msgstr "Un raro coleccionable profeta del bosque juguete masculino."
 
 msgid "r_toy_ghost"
-msgstr "toy_ghost"
+msgstr "Mascota: Fantasma"
 
 msgid "desc_r_toy_ghost"
 msgstr "Un raro juguete de fantasma coleccionable."
 
 msgid "r_toy_giant_spider"
-msgstr "toy_giant_spider"
+msgstr "Mascota: Araña gigante"
 
 msgid "desc_r_toy_giant_spider"
 msgstr "Un raro juguete gigante coleccionable de Spider."
 
 msgid "r_toy_gnoll_butcher"
-msgstr "toy_gnoll_butcher"
+msgstr "Mascota: Carnicero de gnoll"
 
 msgid "desc_r_toy_gnoll_butcher"
 msgstr "Un raro juguete coleccionable de Gnoll Butcher."
 
 msgid "r_toy_gnoll_vilegaunt"
-msgstr "toy_gnoll_vilegaunt"
+msgstr "Mascota: Gnoll vilegaunt"
 
 msgid "desc_r_toy_gnoll_vilegaunt"
 msgstr "Un raro juguete coleccionable Gnoll Vilegaunt."
 
 msgid "r_toy_goblin_fighter"
-msgstr "toy_goblin_fighter"
+msgstr "Mascota: Luchador trasgo"
 
 msgid "desc_r_toy_goblin_fighter"
 msgstr "Un raro coleccionable trasgo Luchador juguete."
 
 msgid "r_toy_hill_giant_clobberer"
-msgstr "toy_hill_giant_clobberer"
+msgstr "Mascota: Colina gigante clobberer"
 
 msgid "desc_r_toy_hill_giant_clobberer"
 msgstr "Un raro juguete coleccionista de Clobberer Hill Giant."
 
 msgid "r_toy_hill_giant_slugger"
-msgstr "toy_hill_giant_slugger"
+msgstr "Mascota: Hill gigante slugger"
 
 msgid "desc_r_toy_hill_giant_slugger"
 msgstr "Un raro juguete coleccionista de Hill Giant Slugger."
 
 msgid "r_toy_ice_dragon"
-msgstr "toy_ice_dragon"
+msgstr "Mascota: Kroshogo the Ice Dragon"
 
 msgid "desc_r_toy_ice_dragon"
 msgstr "Un raro Kroshogo coleccionable el juguete Dragón de Hielo."
 
 msgid "r_toy_icejarl"
-msgstr "toy_icejarl"
+msgstr "Mascota: Icejarl"
 
 msgid "desc_r_toy_icejarl"
 msgstr "Un raro juguete coleccionable de IceJarl."
 
 msgid "r_toy_kobold_raider"
-msgstr "toy_kobold_raider"
+msgstr "Mascota: Kobold raider"
 
 msgid "desc_r_toy_kobold_raider"
 msgstr "Un raro juguete coleccionable Kobold Raider."
 
 msgid "r_toy_kobold_scrapper"
-msgstr "toy_kobold_scrapper"
+msgstr "Mascota: Kobold scrapper"
 
 msgid "desc_r_toy_kobold_scrapper"
 msgstr "Un raro juguete coleccionable Kobold Scrapper."
 
 msgid "r_toy_kobold_strongman"
-msgstr "toy_kobold_strongman"
+msgstr "Mascota: Kobold strongman"
 
 msgid "desc_r_toy_kobold_strongman"
 msgstr "Un raro juguete coleccionable Kobold Strongman."
 
 msgid "r_toy_melechar"
-msgstr "toy_melechar"
+msgstr "Mascota: Melechar"
 
 msgid "desc_r_toy_melechar"
 msgstr "Un raro coleccionable Melechar juguete."
 
 msgid "r_toy_nalaed"
-msgstr "toy_nalaed"
+msgstr "Mascota: Nalaed"
 
 msgid "desc_r_toy_nalaed"
 msgstr "Un juguete raro coleccionable Nalaed."
 
 msgid "r_toy_oathbound"
-msgstr "Toy_oathbound"
+msgstr "Mascota: Oathbound"
 
 msgid "desc_r_toy_oathbound"
 msgstr "Un raro juguete coleccionable de Oathbound."
 
 msgid "r_toy_ogre_boss"
-msgstr "toy_ogre_boss"
+msgstr "Mascota: Ogro jefe"
 
 msgid "desc_r_toy_ogre_boss"
 msgstr "Un raro juguete coleccionable Ogre Boss."
 
 msgid "r_toy_ogre_bully"
-msgstr "toy_ogre_bully"
+msgstr "Mascota: Ogro bully"
 
 msgid "desc_r_toy_ogre_bully"
 msgstr "Un raro juguete coleccionable Ogre Bully."
 
 msgid "r_toy_sadayel_chief"
-msgstr "toy_sadayel_chief"
+msgstr "Mascota: Sadayel Jefe tribal"
 
 msgid "desc_r_toy_sadayel_chief"
 msgstr "Un raro juguete coleccionable de Sadayel Jefe tribal."
 
 msgid "r_toy_sadayel_guardian"
-msgstr "toy_sadayel_guardian"
+msgstr "Mascota: Sadayel guardián"
 
 msgid "desc_r_toy_sadayel_guardian"
 msgstr "Un raro juguete coleccionable de Sadayel Guardián."
 
 msgid "r_toy_skeleton_archer"
-msgstr "toy_skeleton_archer"
+msgstr "Mascota: Skeleton Arquero"
 
 msgid "desc_r_toy_skeleton_archer"
 msgstr "Un raro juguete esqueleto coleccionable Arquero."
 
 msgid "r_toy_skeleton_warrior"
-msgstr "toy_skeleton_warrior"
+msgstr "Mascota: Esqueleto guerrero"
 
 msgid "desc_r_toy_skeleton_warrior"
 msgstr "Un raro juguete esqueleto guerrero."
 
 msgid "r_toy_swamp_hag"
-msgstr "toy_swamp_hag"
+msgstr "Mascota: Swamp hag"
 
 msgid "desc_r_toy_swamp_hag"
 msgstr "Un raro juguete coleccionable de Swamp Hag."
 
 msgid "r_toy_theyril_golem"
-msgstr "toy_theyril_golem"
+msgstr "Mascota: Theyril golem"
 
 msgid "desc_r_toy_theyril_golem"
 msgstr "Un raro coleccionable Theyril Golem juguete."
 
 msgid "r_toy_water_elemental"
-msgstr "toy_water_elemental"
+msgstr "Mascota: Agua elemental"
 
 msgid "desc_r_toy_water_elemental"
 msgstr "Un raro juguete coleccionable de agua Elemental."
+
+msgid "r_toy_beastman_destroyer"
+msgstr "Mascota: Hombre bestia destructor"
+
+msgid "desc_r_toy_beastman_destroyer"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Beastman Destroyer."
+
+msgid "r_toy_beastman_devastator"
+msgstr "Mascota: Hombre de la bestia devastador"
+
+msgid "desc_r_toy_beastman_devastator"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Devastador Beastman."
+
+msgid "r_toy_beastman_rampager"
+msgstr "Mascota: Hombre bestia rampager"
+
+msgid "desc_r_toy_beastman_rampager"
+msgstr ""
+"Un juguete coleccionable que llama a una mascota de Beastman Rampager."
+
+msgid "r_toy_beastman_warlord"
+msgstr "Mascota: Warman Señor de la guerra"
+
+msgid "desc_r_toy_beastman_warlord"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Warlord Beastman."
+
+msgid "r_toy_below"
+msgstr "Mascota: Infra"
+
+msgid "desc_r_toy_below"
+msgstr "Un juguete coleccionable que convoca a una mascota inferior."
+
+msgid "r_toy_black_lord"
+msgstr "Mascota: Señor negro"
+
+msgid "desc_r_toy_black_lord"
+msgstr "Un juguete coleccionable que convoca a una mascota del Señor Negro."
+
+msgid "r_toy_bone_spider"
+msgstr "Mascota: Araña ósea"
+
+msgid "desc_r_toy_bone_spider"
+msgstr "Un juguete coleccionable que convoca a una mascota Bone Spider."
+
+msgid "r_toy_bonecrew_mariner"
+msgstr "Mascota: Marinero de hueso"
+
+msgid "desc_r_toy_bonecrew_mariner"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Bonecrew Mariner."
+
+msgid "r_toy_cairn_giant"
+msgstr "Mascota: Cairn gigante"
+
+msgid "desc_r_toy_cairn_giant"
+msgstr "Un juguete coleccionable que convoca a una mascota gigante Cairn."
+
+msgid "r_toy_cave_spider"
+msgstr "Mascota: Araña de la cueva"
+
+msgid "desc_r_toy_cave_spider"
+msgstr "Un juguete coleccionable que convoca a una mascota Cave Spider."
+
+msgid "r_toy_celestial"
+msgstr "Mascota: Celestial"
+
+msgid "desc_r_toy_celestial"
+msgstr "Un juguete coleccionable que convoca a una mascota Celestial."
+
+msgid "r_toy_centaur_chieftain"
+msgstr "Mascota: Centaur jefe tribal"
+
+msgid "desc_r_toy_centaur_chieftain"
+msgstr "Un juguete coleccionable que convoca a una mascota Centaur Chieftain."
+
+msgid "r_toy_centaur_huntress"
+msgstr "Mascota: Centaur huntress"
+
+msgid "desc_r_toy_centaur_huntress"
+msgstr "Un juguete coleccionable que convoca a una mascota Centaur Huntress."
+
+msgid "r_toy_centaur_reaver"
+msgstr "Mascota: Centaur reaver"
+
+msgid "desc_r_toy_centaur_reaver"
+msgstr "Un juguete coleccionable que convoca a una mascota Centaur Reaver."
+
+msgid "r_toy_centaur_warrior"
+msgstr "Mascota: Centauur guerrero"
+
+msgid "desc_r_toy_centaur_warrior"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Guerrero Centaur."
+
+msgid "r_toy_chieftain_khalos"
+msgstr "Mascota: Jefe tribal khalos"
+
+msgid "desc_r_toy_chieftain_khalos"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Chieftain Khalos."
+
+msgid "r_toy_child_of_khamset"
+msgstr "Mascota: Niño de Khamset"
+
+msgid "desc_r_toy_child_of_khamset"
+msgstr "Un juguete coleccionable que convoca a un niño de Khamset mascotas."
+
+msgid "r_toy_chosen_of_khamset"
+msgstr "Mascota: Elegido por Khamset"
+
+msgid "desc_r_toy_chosen_of_khamset"
+msgstr "Un juguete coleccionable que convoca a una mascota Chosen de Khamset."
+
+msgid "r_toy_ciel_fey_defender"
+msgstr "Mascota: Ciel Fey defensor"
+
+msgid "desc_r_toy_ciel_fey_defender"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota defensora Ciel Fey."
+
+msgid "r_toy_ciel_fey_forester"
+msgstr "Mascota: Ciel Fey forester"
+
+msgid "desc_r_toy_ciel_fey_forester"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Ciel Fey Forester."
+
+msgid "r_toy_crypt_guard"
+msgstr "Mascota: Crypt guard"
+
+msgid "desc_r_toy_crypt_guard"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de la Guardia Crígida."
+
+msgid "r_toy_dark_dragon"
+msgstr "Mascota: Dragón oscuro"
+
+msgid "desc_r_toy_dark_dragon"
+msgstr "Un juguete coleccionable que llama a una mascota del Dragón Oscuro."
+
+msgid "r_toy_deathless_mage"
+msgstr "Mascota: Masaje sin muerte"
+
+msgid "desc_r_toy_deathless_mage"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Mage sin muerte."
+
+msgid "r_toy_deathless_servant"
+msgstr "Mascota: Sirviente sin muerte"
+
+msgid "desc_r_toy_deathless_servant"
+msgstr "Un juguete coleccionable que convoca a una mascota sin muerte."
+
+msgid "r_toy_demon_queen"
+msgstr "Mascota: Demon queen"
+
+msgid "desc_r_toy_demon_queen"
+msgstr "Un juguete coleccionable que convoca a una mascota Demon Queen."
+
+msgid "r_toy_devil"
+msgstr "Mascota: Demonios"
+
+msgid "desc_r_toy_devil"
+msgstr "Un juguete coleccionable que convoca a una mascota demonio."
+
+msgid "r_toy_dire_spider"
+msgstr "Mascota: Arañazo"
+
+msgid "desc_r_toy_dire_spider"
+msgstr "Un juguete coleccionable que convoca a una mascota de Dire Spider."
+
+msgid "r_toy_doom_spider"
+msgstr "Mascota: ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪"
+
+msgid "desc_r_toy_doom_spider"
+msgstr "Un juguete coleccionable que convoca a una mascota Doom Spider."
+
+msgid "r_toy_earth_elemental"
+msgstr "Mascota: Tierra elemental"
+
+msgid "desc_r_toy_earth_elemental"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Elemental de la Tierra."
+
+msgid "r_toy_elfshade"
+msgstr "Mascota: Elfshade"
+
+msgid "desc_r_toy_elfshade"
+msgstr "Un juguete coleccionable que convoca a una mascota Elfshade."
+
+msgid "r_toy_fenris_the_alpha"
+msgstr "Mascota: Fenris the Alpha"
+
+msgid "desc_r_toy_fenris_the_alpha"
+msgstr "Un juguete coleccionable que convoca a una mascota Fenris el Alfa."
+
+msgid "r_toy_fire_dragon"
+msgstr "Mascota: Dragón de fuego"
+
+msgid "desc_r_toy_fire_dragon"
+msgstr "Un juguete coleccionable que convoca a una mascota de Fire Dragon."
+
+msgid "r_toy_fire_elemental"
+msgstr "Mascota: Fuego elemental"
+
+msgid "desc_r_toy_fire_elemental"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Elemental de Fuego."
+
+msgid "r_toy_fire_giant"
+msgstr "Mascota: Gigante de fuego"
+
+msgid "desc_r_toy_fire_giant"
+msgstr "Un juguete coleccionable que convoca a una mascota gigante de fuego."
+
+msgid "r_toy_firescourge"
+msgstr "Mascota: Firescourge"
+
+msgid "desc_r_toy_firescourge"
+msgstr "Un juguete coleccionable que convoca a una mascota Firescourge."
+
+msgid "r_toy_flesh_golem"
+msgstr "Mascota: Carne golem"
+
+msgid "desc_r_toy_flesh_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Flesh Golem."
+
+msgid "r_toy_forest_golem"
+msgstr "Mascota: Forest golem"
+
+msgid "desc_r_toy_forest_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota del Bosque Golem."
+
+msgid "r_toy_frostjarl"
+msgstr "Mascota: Frostjarl"
+
+msgid "desc_r_toy_frostjarl"
+msgstr "Un juguete coleccionable que convoca a una mascota Frostjarl."
+
+msgid "r_toy_gardoroc"
+msgstr "Mascota: Gardoroc"
+
+msgid "desc_r_toy_gardoroc"
+msgstr "Un juguete coleccionable que convoca a una mascota Gardoroc."
+
+msgid "r_toy_ghost_spider"
+msgstr "Mascota: Araña fantasma"
+
+msgid "desc_r_toy_ghost_spider"
+msgstr "Un juguete coleccionable que llama a una mascota de Ghost Spider."
+
+msgid "r_toy_ghoul_devourer"
+msgstr "Mascota: Ghoul devourer"
+
+msgid "desc_r_toy_ghoul_devourer"
+msgstr "Un juguete coleccionable que convoca a una mascota Ghoul Devourer."
+
+msgid "r_toy_ghoul_fleshcrafter"
+msgstr "Mascota: Ghoul carnicero"
+
+msgid "desc_r_toy_ghoul_fleshcrafter"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Ghoul Fleshcrafter."
+
+msgid "r_toy_giant_skeleton"
+msgstr "Mascota: Esqueleto gigante"
+
+msgid "desc_r_toy_giant_skeleton"
+msgstr "Un juguete coleccionable que convoca a una mascota esqueleto gigante."
+
+msgid "r_toy_gnoll_hunter"
+msgstr "Mascota: Gnoll hunter"
+
+msgid "desc_r_toy_gnoll_hunter"
+msgstr "Un juguete coleccionable que convoca a una mascota Gnoll Hunter."
+
+msgid "r_toy_gnoll_shaman"
+msgstr "Mascota: Gnoll chamán"
+
+msgid "desc_r_toy_gnoll_shaman"
+msgstr "Un juguete coleccionable que convoca a una mascota Gnoll Shaman."
+
+msgid "r_toy_gnoll_tribesman"
+msgstr "Mascota: Gnoll tribesman"
+
+msgid "desc_r_toy_gnoll_tribesman"
+msgstr "Un juguete coleccionable que convoca a una mascota Gnoll Tribesman."
+
+msgid "r_toy_goblin_marauder"
+msgstr "Mascota: Merodeador trasgo"
+
+msgid "desc_r_toy_goblin_marauder"
+msgstr "Un juguete coleccionable que convoca a una mascota Goblin Marauder."
+
+msgid "r_toy_goblin_warlord"
+msgstr "Mascota: Trasgo Señor de la guerra"
+
+msgid "desc_r_toy_goblin_warlord"
+msgstr "Un juguete coleccionable que convoca a una mascota Goblin Warlord."
+
+msgid "r_toy_grand_tikoloshe"
+msgstr "Mascota: Grand Tikoloshe"
+
+msgid "desc_r_toy_grand_tikoloshe"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Grand Tikoloshe."
+
+msgid "r_toy_granite_golem"
+msgstr "Mascota: Golem de granito"
+
+msgid "desc_r_toy_granite_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Granite Golem."
+
+msgid "r_toy_gray_ork_assassin"
+msgstr "Mascota: Gray Ork asesino"
+
+msgid "desc_r_toy_gray_ork_assassin"
+msgstr "Un juguete coleccionable que convoca a una mascota asesina gris Ork."
+
+msgid "r_toy_gray_ork_executioner"
+msgstr "Mascota: Gray Ork verdugo"
+
+msgid "desc_r_toy_gray_ork_executioner"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Ejecutora Gray Ork."
+
+msgid "r_toy_gray_ork_mauler"
+msgstr "Mascota: Gray Ork mauler"
+
+msgid "desc_r_toy_gray_ork_mauler"
+msgstr "Un juguete coleccionable que convoca a una mascota Gray Ork Mauler."
+
+msgid "r_toy_gray_ork_warrior"
+msgstr "Mascota: Gris Ork guerrero"
+
+msgid "desc_r_toy_gray_ork_warrior"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Guerrero Gray Ork."
+
+msgid "r_toy_greater_celestial"
+msgstr "Mascota: Mayor celeste"
+
+msgid "desc_r_toy_greater_celestial"
+msgstr "Un juguete coleccionable que convoca a una mascota Celestial Mayor."
+
+msgid "r_toy_greater_infernal"
+msgstr "Mascota: Mayor infernal"
+
+msgid "desc_r_toy_greater_infernal"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota infernal más grande."
+
+msgid "r_toy_greater_mummy"
+msgstr "Mascota: Mayor momia"
+
+msgid "desc_r_toy_greater_mummy"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de la momia más grande."
+
+msgid "r_toy_greater_servant"
+msgstr "Mascota: Mayor sirviente"
+
+msgid "desc_r_toy_greater_servant"
+msgstr "Un juguete coleccionable que convoca a una mascota de gran sirviente."
+
+msgid "r_toy_hand_of_khamset"
+msgstr "Mascota: Mano de Khamset"
+
+msgid "desc_r_toy_hand_of_khamset"
+msgstr "Un juguete coleccionable que convoca una mano de Khamset mascota."
+
+msgid "r_toy_hellfire_juggernaught"
+msgstr "Mascota: Infierno de mierda"
+
+msgid "desc_r_toy_hellfire_juggernaught"
+msgstr "Un juguete coleccionable que convoca a una mascota del Infierno."
+
+msgid "r_toy_hivekin_broodguard"
+msgstr "Mascota: Hivekin broodguard"
+
+msgid "desc_r_toy_hivekin_broodguard"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Hivekin Broodguard."
+
+msgid "r_toy_hivekin_forager"
+msgstr "Mascota: Hivekin forager"
+
+msgid "desc_r_toy_hivekin_forager"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Hivekin Forager."
+
+msgid "r_toy_hivekin_queen"
+msgstr "Mascota: Hivekin queen"
+
+msgid "desc_r_toy_hivekin_queen"
+msgstr "Un juguete coleccionable que convoca a una mascota de Hivekin Queen."
+
+msgid "r_toy_hivekin_soldier"
+msgstr "Mascota: Hivekin soldier"
+
+msgid "desc_r_toy_hivekin_soldier"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del soldado Hivekin."
+
+msgid "r_toy_hjor_the_great"
+msgstr "Mascota: Hjor el gran"
+
+msgid "desc_r_toy_hjor_the_great"
+msgstr "Un juguete coleccionable que convoca a un Hjor la Gran mascota."
+
+msgid "r_toy_infernal"
+msgstr "Mascota: Infernal"
+
+msgid "desc_r_toy_infernal"
+msgstr "Un juguete coleccionable que convoca a una mascota infernal."
+
+msgid "r_toy_ironbark_the_ancient"
+msgstr "Mascota: Ironbark la antigua"
+
+msgid "desc_r_toy_ironbark_the_ancient"
+msgstr ""
+"Un juguete coleccionable que convoca a un Ironbark la mascota antigua."
+
+msgid "r_toy_ironbeard_heavyfist"
+msgstr "Mascota: Hierba de hierro pesado"
+
+msgid "desc_r_toy_ironbeard_heavyfist"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota pesimista Ironbeard."
+
+msgid "r_toy_kobold_scrounger"
+msgstr "Mascota: Kobold scrounger"
+
+msgid "desc_r_toy_kobold_scrounger"
+msgstr "Un juguete coleccionable que convoca a una mascota Kobold Scrounger."
+
+msgid "r_toy_kobold_shaman"
+msgstr "Mascota: Kobold chamán"
+
+msgid "desc_r_toy_kobold_shaman"
+msgstr "Un juguete coleccionable que convoca a una mascota Kobold Shaman."
+
+msgid "r_toy_kraken"
+msgstr "Mascota: Kraken"
+
+msgid "desc_r_toy_kraken"
+msgstr "Un juguete coleccionable que convoca a una mascota Kraken."
+
+msgid "r_toy_lava_golem"
+msgstr "Mascota: Lava golem"
+
+msgid "desc_r_toy_lava_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Lava Golem."
+
+msgid "r_toy_lesser_fire_elemental"
+msgstr "Mascota: Menor fuego elemental"
+
+msgid "desc_r_toy_lesser_fire_elemental"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota elemental de fuego menor."
+
+msgid "r_toy_lesser_water_elemental"
+msgstr "Mascota: Menor agua elemental"
+
+msgid "desc_r_toy_lesser_water_elemental"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota elemental de agua menor."
+
+msgid "r_toy_lizardman"
+msgstr "Mascota: Lagarto"
+
+msgid "desc_r_toy_lizardman"
+msgstr "Un juguete coleccionable que convoca a una mascota lagarto."
+
+msgid "r_toy_malaut_acolyte"
+msgstr "Mascota: Malaut acólito"
+
+msgid "desc_r_toy_malaut_acolyte"
+msgstr "Un juguete coleccionable que convoca a una mascota Acolyte Malaut."
+
+msgid "r_toy_malaut_beguiler"
+msgstr "Mascota: Malaut beguiler"
+
+msgid "desc_r_toy_malaut_beguiler"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Malaut Beguiler."
+
+msgid "r_toy_melechar_guard"
+msgstr "Mascota: Melechar guardia"
+
+msgid "desc_r_toy_melechar_guard"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de la Guardia Melechar."
+
+msgid "r_toy_melechar_shaman"
+msgstr "Mascota: Melechar chamán"
+
+msgid "desc_r_toy_melechar_shaman"
+msgstr "Un juguete coleccionable que convoca a una mascota Shaman Melechar."
+
+msgid "r_toy_minor_sarnakh"
+msgstr "Mascota: Menor Sarnakh"
+
+msgid "desc_r_toy_minor_sarnakh"
+msgstr "Un juguete coleccionable que convoca a una mascota menor Sarnakh."
+
+msgid "r_toy_moonbeast_berserker"
+msgstr "Mascota: Moonbeast berserker"
+
+msgid "desc_r_toy_moonbeast_berserker"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Moonbeast Berserker."
+
+msgid "r_toy_moonbeast_commandant"
+msgstr "Mascota: Moonbeast commandant"
+
+msgid "desc_r_toy_moonbeast_commandant"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Comando de la Luna."
+
+msgid "r_toy_moonbeast_disciple"
+msgstr "Mascota: Discípulo de la luna"
+
+msgid "desc_r_toy_moonbeast_disciple"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Discípulo de la Luna."
+
+msgid "r_toy_moonbeast_officer"
+msgstr "Mascota: Moonbeast officer"
+
+msgid "desc_r_toy_moonbeast_officer"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Moonbeast Officer."
+
+msgid "r_toy_moonbeast_shaman"
+msgstr "Mascota: Moonbeast chamán"
+
+msgid "desc_r_toy_moonbeast_shaman"
+msgstr "Un juguete coleccionable que llama a una mascota de Moonbeast Shaman."
+
+msgid "r_toy_mummy"
+msgstr "Mascota: Mamá."
+
+msgid "desc_r_toy_mummy"
+msgstr "Un juguete coleccionable que convoca a una mascota mami."
+
+msgid "r_toy_nahdruk_heretic"
+msgstr "Mascota: Nahdruk heretic"
+
+msgid "desc_r_toy_nahdruk_heretic"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Nahdruk Heretic."
+
+msgid "r_toy_nahdruk_outcast"
+msgstr "Mascota: Nahdruk outcast"
+
+msgid "desc_r_toy_nahdruk_outcast"
+msgstr "Un juguete coleccionable que convoca a una mascota Nahdruk Outcast."
+
+msgid "r_toy_nalaed_elder"
+msgstr "Mascota: Nalaed elder"
+
+msgid "desc_r_toy_nalaed_elder"
+msgstr "Un juguete coleccionable que convoca a una mascota Nalaed Elder."
+
+msgid "r_toy_neithal_golem"
+msgstr "Mascota: Neithal golem"
+
+msgid "desc_r_toy_neithal_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Golem Neithal."
+
+msgid "r_toy_night_hag"
+msgstr "Mascota: Por la noche"
+
+msgid "desc_r_toy_night_hag"
+msgstr "Un juguete coleccionable que convoca a una mascota de Night Hag."
+
+msgid "r_toy_obsidian_golem"
+msgstr "Mascota: Obsidian golem"
+
+msgid "desc_r_toy_obsidian_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota de Golem Obsidian."
+
+msgid "r_toy_raven_standard_grunt"
+msgstr "Mascota: Raven standard grunt"
+
+msgid "desc_r_toy_raven_standard_grunt"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Raven Standard Grunt."
+
+msgid "r_toy_raven_standard_veteran"
+msgstr "Mascota: Veterano estándar de raven"
+
+msgid "desc_r_toy_raven_standard_veteran"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Veterano Estándar Raven."
+
+msgid "r_toy_sadayel_shaman"
+msgstr "Mascota: Sadayel Chamán"
+
+msgid "desc_r_toy_sadayel_shaman"
+msgstr "Un juguete coleccionable que convoca a una mascota Shaman Sadayel."
+
+msgid "r_toy_salamander"
+msgstr "Mascota: Salamandra"
+
+msgid "desc_r_toy_salamander"
+msgstr "Un juguete coleccionable que convoca a una mascota salamandra."
+
+msgid "r_toy_sandstone_golem"
+msgstr "Mascota: Sandstone golem"
+
+msgid "desc_r_toy_sandstone_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Golem Sandstone."
+
+msgid "r_toy_sarlid_darkweaver"
+msgstr "Mascota: Sarlid darkweaver"
+
+msgid "desc_r_toy_sarlid_darkweaver"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Darkweaver Sarlid."
+
+msgid "r_toy_sarlid_defender"
+msgstr "Mascota: Sarlid defender"
+
+msgid "desc_r_toy_sarlid_defender"
+msgstr "Un juguete coleccionable que convoca a una mascota defensora Sarlid."
+
+msgid "r_toy_sarlid_guard"
+msgstr "Mascota: Sarlid guardia"
+
+msgid "desc_r_toy_sarlid_guard"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de la Guardia Sarlid."
+
+msgid "r_toy_sarlid_poison_adept"
+msgstr "Mascota: Sarlid veneno adepto"
+
+msgid "desc_r_toy_sarlid_poison_adept"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Adept de veneno Sarlid."
+
+msgid "r_toy_sarnakh"
+msgstr "Mascota: Sarnakh"
+
+msgid "desc_r_toy_sarnakh"
+msgstr "Un juguete coleccionable que convoca a una mascota Sarnakh."
+
+msgid "r_toy_scumling_guard"
+msgstr "Mascota: Scumling guard"
+
+msgid "desc_r_toy_scumling_guard"
+msgstr "Un juguete coleccionable que convoca a una mascota de Scumling Guard."
+
+msgid "r_toy_scumling_queen"
+msgstr "Mascota: Escoria reina"
+
+msgid "desc_r_toy_scumling_queen"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de la reina escoria."
+
+msgid "r_toy_scumling_worker"
+msgstr "Mascota: Trabajador escoria"
+
+msgid "desc_r_toy_scumling_worker"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota trabajadora escoria."
+
+msgid "r_toy_seidbound"
+msgstr "Mascota: Seidbound"
+
+msgid "desc_r_toy_seidbound"
+msgstr "Un juguete coleccionable que convoca a una mascota Seidbound."
+
+msgid "r_toy_selentine_golem"
+msgstr "Mascota: Selentine golem"
+
+msgid "desc_r_toy_selentine_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Golem Selentine."
+
+msgid "r_toy_servant_of_malaut"
+msgstr "Mascota: Siervo de Malaut"
+
+msgid "desc_r_toy_servant_of_malaut"
+msgstr ""
+"Un juguete coleccionable que convoca a un sirviente de Malaut mascotas."
+
+msgid "r_toy_severii_archer"
+msgstr "Mascota: Severii arquero"
+
+msgid "desc_r_toy_severii_archer"
+msgstr "Un juguete coleccionable que convoca a una mascota Severii Archer."
+
+msgid "r_toy_severii_centurion"
+msgstr "Mascota: Severii centurion"
+
+msgid "desc_r_toy_severii_centurion"
+msgstr "Un juguete coleccionable que convoca a una mascota Severii Centurion."
+
+msgid "r_toy_severii_legionnaire"
+msgstr "Mascota: Severii legionnaire"
+
+msgid "desc_r_toy_severii_legionnaire"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota legionaria Severii."
+
+msgid "r_toy_shadow_knight"
+msgstr "Mascota: Shadow Knight"
+
+msgid "desc_r_toy_shadow_knight"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Caballero Sombrío."
+
+msgid "r_toy_shadow_spirit"
+msgstr "Mascota: Espíritu de sombra"
+
+msgid "desc_r_toy_shadow_spirit"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Espíritu Sombrío."
+
+msgid "r_toy_shroud_knight"
+msgstr "Mascota: Shroud knight"
+
+msgid "desc_r_toy_shroud_knight"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Caballero Shroud."
+
+msgid "r_toy_siharo_darkbinder"
+msgstr "Mascota: Siharo darkbinder"
+
+msgid "desc_r_toy_siharo_darkbinder"
+msgstr "Un juguete coleccionable que convoca a una mascota Siharo Darkbinder."
+
+msgid "r_toy_slave_of_khamset"
+msgstr "Mascota: Esclavo de Khamset"
+
+msgid "desc_r_toy_slave_of_khamset"
+msgstr ""
+"Un juguete coleccionable que convoca a un esclavo de Khamset mascotas."
+
+msgid "r_toy_snowclan_elder"
+msgstr "Mascota: Snowclan elder"
+
+msgid "desc_r_toy_snowclan_elder"
+msgstr "Un juguete coleccionable que convoca a una mascota de Snowclan Elder."
+
+msgid "r_toy_snowclan_hunter"
+msgstr "Mascota: Cazador de snowclan"
+
+msgid "desc_r_toy_snowclan_hunter"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Snowclan Hunter."
+
+msgid "r_toy_snowclan_oracle"
+msgstr "Mascota: Snowclan oracle"
+
+msgid "desc_r_toy_snowclan_oracle"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Snowclan Oracle."
+
+msgid "r_toy_snowclan_warrior"
+msgstr "Mascota: Snowclan guerrero"
+
+msgid "desc_r_toy_snowclan_warrior"
+msgstr "Un juguete coleccionable que llama a una mascota Warrior de Snowclan."
+
+msgid "r_toy_son_of_ochran"
+msgstr "Mascota: Hijo de Ochran"
+
+msgid "desc_r_toy_son_of_ochran"
+msgstr "Un juguete coleccionable que convoca a un Hijo de Ochran mascota."
+
+msgid "r_toy_sun_exarch"
+msgstr "Mascota: Sol exarch"
+
+msgid "desc_r_toy_sun_exarch"
+msgstr "Un juguete coleccionable que convoca a una mascota de Sun Exarch."
+
+msgid "r_toy_svartdvergir_doombringer"
+msgstr "Mascota: Svartdvergir doombringer"
+
+msgid "desc_r_toy_svartdvergir_doombringer"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Doombringer Svartdvergir."
+
+msgid "r_toy_svartdvergir_general"
+msgstr "Mascota: Svartdvergir generales"
+
+msgid "desc_r_toy_svartdvergir_general"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota general Svartdvergir."
+
+msgid "r_toy_svartdvergir_initiate"
+msgstr "Mascota: Svartdvergir iniciado"
+
+msgid "desc_r_toy_svartdvergir_initiate"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Svartdvergir Iniciada."
+
+msgid "r_toy_svartdvergir_nightaxe"
+msgstr "Mascota: Svartdvergir noche de hacha"
+
+msgid "desc_r_toy_svartdvergir_nightaxe"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Svartdvergir Nightaxe."
+
+msgid "r_toy_svartdvergir_summoner"
+msgstr "Mascota: Svartdvergir invocador"
+
+msgid "desc_r_toy_svartdvergir_summoner"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Invocadora Svartdvergir."
+
+msgid "r_toy_undead_dwarf_foreman"
+msgstr "Mascota: Undead enwarf foreman"
+
+msgid "desc_r_toy_undead_dwarf_foreman"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota de Foreman de Enano "
+"Undead."
+
+msgid "r_toy_undead_dwarf_guardian"
+msgstr "Mascota: Undead enwarf guardián"
+
+msgid "desc_r_toy_undead_dwarf_guardian"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota del Guardián Undead."
+
+msgid "r_toy_veilron_golem"
+msgstr "Mascota: Veilron golem"
+
+msgid "desc_r_toy_veilron_golem"
+msgstr "Un juguete coleccionable que convoca a una mascota Golem Veilron."
+
+msgid "r_toy_vile_sarnakh"
+msgstr "Mascota: Vile Sarnakh"
+
+msgid "desc_r_toy_vile_sarnakh"
+msgstr "Un juguete coleccionable que llama a una mascota Vile Sarnakh."
+
+msgid "r_toy_vlad_duskward"
+msgstr "Mascota: Vlad duskward"
+
+msgid "desc_r_toy_vlad_duskward"
+msgstr "Un juguete coleccionable que convoca a una mascota Vlad Duskward."
+
+msgid "r_toy_warlord_choppah"
+msgstr "Mascota: Señor de la guerra choppah"
+
+msgid "desc_r_toy_warlord_choppah"
+msgstr "Un juguete coleccionable que convoca a una mascota Warlord Choppah."
+
+msgid "r_toy_wildtribe_chieftain"
+msgstr "Mascota: Wildtribe jefe tribal"
+
+msgid "desc_r_toy_wildtribe_chieftain"
+msgstr ""
+"Un juguete coleccionable que llama a una mascota de Wildtribe Chieftain."
+
+msgid "r_toy_wildtribe_mage"
+msgstr "Mascota: Wildtribe mago"
+
+msgid "desc_r_toy_wildtribe_mage"
+msgstr "Un juguete coleccionable que convoca a una mascota de Wildtribe Mage."
+
+msgid "r_toy_wildtribe_pathfinder"
+msgstr "Mascota: Wildtribe pathfinder"
+
+msgid "desc_r_toy_wildtribe_pathfinder"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Wildtribe Pathfinder."
+
+msgid "r_toy_wildtribe_shaka"
+msgstr "Mascota: Wildtribe shaka"
+
+msgid "desc_r_toy_wildtribe_shaka"
+msgstr "Un juguete coleccionable que convoca a una mascota Wildtribe Shaka."
+
+msgid "r_toy_wildtribe_warrior"
+msgstr "Mascota: Guerrero salvaje"
+
+msgid "desc_r_toy_wildtribe_warrior"
+msgstr ""
+"Un juguete coleccionable que convoca a una mascota Guerrero Wildtribe."
+
+msgid "r_toy_wildtribe_witch_doctor"
+msgstr "Mascota: Wildtribe brujo doctor"
+
+msgid "desc_r_toy_wildtribe_witch_doctor"
+msgstr ""
+"Un juguete coleccionable que llama a una mascota de Wildtribe Witch Doctor."
+
+msgid "r_toy_winterbound"
+msgstr "Mascota: Invierno"
+
+msgid "desc_r_toy_winterbound"
+msgstr "Un juguete coleccionable que convoca a una mascota de Winterbound."
+
+msgid "r_toy_yeti"
+msgstr "Mascota: Yeti"
+
+msgid "desc_r_toy_yeti"
+msgstr "Un juguete coleccionable que convoca a una mascota Yeti."
+
+msgid "r_toy_zombie"
+msgstr "Mascota: Zombi"
+
+msgid "desc_r_toy_zombie"
+msgstr "Un juguete coleccionable que convoca a una mascota Zombie."
+
+msgid "r_toy_zombie_shambler"
+msgstr "Mascota: Zombi shambler"
+
+msgid "desc_r_toy_zombie_shambler"
+msgstr "Un juguete coleccionable que convoca a una mascota Zombie Shambler."
+
+msgid "r_toy_zombie_warrior"
+msgstr "Mascota: Guerrero zombi"
+
+msgid "desc_r_toy_zombie_warrior"
+msgstr "Un juguete coleccionable que llama a una mascota Zombie Warrior."
+
+msgid "r_toy_demon"
+msgstr "Mascota: Dios mío."
+
+msgid "desc_r_toy_demon"
+msgstr "Un juguete coleccionable que convoca a una mascota del Señor demonio."
 
 msgid "r_Ammo"
 msgstr "Ammo"
@@ -9994,6 +10939,18 @@ msgstr "Selentine tecla de pecho"
 msgid "desc_r_Selentine Chest Key"
 msgstr "Abre selentine pechos."
 
+msgid "r_Archaeus Chest"
+msgstr "Pecho de Arqueo"
+
+msgid "desc_r_Archaeus Chest"
+msgstr "El pecho del agente Archaeus. Sólo su propia llave lo abre."
+
+msgid "r_Archaeus Chest Key"
+msgstr "Llave de Archaeus"
+
+msgid "desc_r_Archaeus Chest Key"
+msgstr "Abre el pecho de Archaeus."
+
 msgid "r_Sigil"
 msgstr "Sigil"
 
@@ -12688,7 +13645,7 @@ msgstr ""
 "sastres para hacer varias prendas de vestir."
 
 msgid "r_Selentine Cloth"
-msgstr "Selentine tela"
+msgstr "Tela chaldean"
 
 msgid "desc_r_Selentine Cloth"
 msgstr ""
@@ -15293,7 +16250,7 @@ msgid "desc_r_quest vestianna ring"
 msgstr "El anillo de señal de Vestianna. "
 
 msgid "r_Quest Weapons crate"
-msgstr "Quest weapons crate"
+msgstr "Armas crateadas"
 
 msgid "desc_r_Quest Weapons crate"
 msgstr "Una caja llena de nuevas armas de alta calidad."
@@ -20817,11 +21774,59 @@ msgstr "Título del libro"
 msgid "desc_r_Title Scroll"
 msgstr "Haga doble clic para añadir un nuevo título a su personaje!"
 
+msgid "r_ut_Title Scroll"
+msgstr "Pergamino de título (intradable)"
+
+msgid "desc_r_ut_Title Scroll"
+msgstr ""
+"Haga doble clic para añadir un nuevo título a su personaje! Este pergamino "
+"no puede ser comercializado, retirado o vendido, pero se puede almacenar en "
+"su banco."
+
 msgid "r_Item Skin Scroll"
 msgstr "Ítem de piel"
 
 msgid "desc_r_Item Skin Scroll"
 msgstr "Haga doble clic para añadir una nueva piel de artículo a su cuenta!"
+
+msgid "r_ut_Item Skin Scroll"
+msgstr "Elemento pergamino de la piel (intradable)"
+
+msgid "desc_r_ut_Item Skin Scroll"
+msgstr ""
+"Haga doble clic para añadir una nueva piel de artículo a su cuenta! Este "
+"pergamino no puede ser comercializado, retirado o vendido, pero se puede "
+"almacenar en su banco."
+
+msgid "r_Spell Skin Scroll"
+msgstr "Pergamino de piel"
+
+msgid "desc_r_Spell Skin Scroll"
+msgstr "Haga doble clic para agregar una nueva piel de hechizo a su cuenta!"
+
+msgid "r_ut_Spell Skin Scroll"
+msgstr "Pergamino de la piel del hechizo (intradable)"
+
+msgid "desc_r_ut_Spell Skin Scroll"
+msgstr ""
+"Haga doble clic para agregar una nueva piel de hechizo a su cuenta! Este "
+"pergamino no puede ser comercializado, retirado o vendido, pero se puede "
+"almacenar en su banco."
+
+msgid "r_Emote Scroll"
+msgstr "Pergamino de gesto"
+
+msgid "desc_r_Emote Scroll"
+msgstr "Haga doble clic para agregar un nuevo emote a su cuenta!"
+
+msgid "r_ut_Emote Scroll"
+msgstr "Pergamino de emote (intradable)"
+
+msgid "desc_r_ut_Emote Scroll"
+msgstr ""
+"Haga doble clic para agregar un nuevo emote a su cuenta! Este pergamino no "
+"puede ser comercializado, retirado o vendido, pero se puede almacenar en su "
+"banco."
 
 msgid "r_Dyes"
 msgstr "Tintes"
@@ -21569,6 +22574,15 @@ msgstr "Marcador muerto"
 
 msgid "desc_r_Marker Player Dead"
 msgstr " Muestra la última ubicación de la muerte"
+
+msgid "r_Marker Capital Invader"
+msgstr "Invasor"
+
+msgid "desc_r_Marker Capital Invader"
+msgstr ""
+"Un enemigo de la alianza de esta capital, o un forajido, se ha enfurecido "
+"dentro de las tierras capitales. El marcador es anónimo y su posición se "
+"actualiza periódicamente."
 
 msgid "r_Quest Markers"
 msgstr "Marcadores de misión"
@@ -23599,6 +24613,12 @@ msgstr " "
 
 msgid "r_The Humans of Mercia"
 msgstr "Humanos de Mercia"
+
+msgid "r_Dawnshore Isles"
+msgstr "Dawnshore isles"
+
+msgid "desc_r_Dawnshore Isles"
+msgstr " "
 
 msgid "desc_r_The Humans of Mercia"
 msgstr " "
@@ -31572,6 +32592,9 @@ msgstr "Mascota bestia señor de la guerra"
 msgid "r_Pet Below"
 msgstr "Mascota debajo"
 
+msgid "r_Pet Below Uber"
+msgstr "Masculino"
+
 msgid "r_Pet Black Knight"
 msgstr "Mascota negro caballero"
 
@@ -31650,6 +32673,9 @@ msgstr "Masaje sin muerte"
 msgid "r_Pet Deathless Servant"
 msgstr "Masculino sirviente"
 
+msgid "r_Pet Demon"
+msgstr "Dios mío."
+
 msgid "r_Pet Demon Queen"
 msgstr "Pet demon queen"
 
@@ -31721,6 +32747,9 @@ msgstr "Mascota"
 
 msgid "r_Pet Ghoul Devourer"
 msgstr "Pet ghoul devourer"
+
+msgid "r_Pet Ghoul Fleshcrafter"
+msgstr "Pet ghoul bodycrafter"
 
 msgid "r_Pet Giant Skeleton"
 msgstr "Mascota gigante esqueleto"
@@ -32028,6 +33057,9 @@ msgstr "Mascota shroud knight"
 msgid "r_Pet Siharo Darkbinder"
 msgstr "Pet siharo darkbinder"
 
+msgid "r_Pet Skeleton"
+msgstr "Pet brittle skeleton"
+
 msgid "r_Pet Skeleton Archer"
 msgstr "Pet skeleton arquero"
 
@@ -32075,6 +33107,9 @@ msgstr "Mascota gigante de araña"
 
 msgid "r_Pet Spider Hairy"
 msgstr "Pet spider hairy"
+
+msgid "r_Pet Stormgraive"
+msgstr "Agua de mascotas elemental"
 
 msgid "r_Pet Sun Exarch"
 msgstr "Mascota sol exarch"
@@ -32154,6 +33189,9 @@ msgstr "Mascota guerrero salvaje"
 msgid "r_Pet Wildtribe Witch Doctor"
 msgstr "Mascota salvaje brujo médico"
 
+msgid "r_Pet Windgraive"
+msgstr "Masculino agua elemental"
+
 msgid "r_Pet Windlord"
 msgstr "Pet windlord"
 
@@ -32168,6 +33206,9 @@ msgstr "Mascota zombi"
 
 msgid "r_Pet Zombie Dire"
 msgstr "Pet zombi dire"
+
+msgid "r_Pet Zombie Shambler"
+msgstr "Mascota zombi shambler"
 
 msgid "r_Pet Zombie Warrior"
 msgstr "Mascota zombi guerrero"
@@ -34826,3 +35867,2135 @@ msgstr "Un juguete coleccionable que convoca a una mascota Frost Crog."
 
 msgid "r_Pet Crog Frost"
 msgstr "Helada Crog"
+
+msgid "r_toy_crog_jungle"
+msgstr "Juguete de la selva Crog"
+
+msgid "desc_r_toy_crog_jungle"
+msgstr "Un juguete coleccionable que convoca a una mascota Jungle Crog."
+
+msgid "r_Pet Crog Jungle"
+msgstr "Jungla Crog"
+
+msgid "r_toy_crog_storm"
+msgstr "Tormenta Crog juguetes"
+
+msgid "desc_r_toy_crog_storm"
+msgstr "Un juguete coleccionable que convoca a una mascota Storm Crog."
+
+msgid "r_Pet Crog Storm"
+msgstr "Tormenta Crog"
+
+msgid "r_toy_crog_desert"
+msgstr "Desierto Crog juguetes"
+
+msgid "desc_r_toy_crog_desert"
+msgstr "Un juguete coleccionable que convoca a una mascota del desierto Crog."
+
+msgid "r_Pet Crog Desert"
+msgstr "Desierto Crog"
+
+msgid "r_Mastery Items"
+msgstr "Mastery items"
+
+msgid "desc_r_Mastery Items"
+msgstr "Orbes y esencia para los caminos de maestría."
+
+msgid "r_Ancient Essence"
+msgstr "Antigua esencia"
+
+msgid "desc_r_Ancient Essence"
+msgstr ""
+"Poder extraído de los muertos. Úsalo para afinar la esencia en tu piscina."
+
+msgid "r_Mastery Orb"
+msgstr "Mastery orb"
+
+msgid "desc_r_Mastery Orb"
+msgstr ""
+"Un nudo de poder atado, arrancado de algo lo suficientemente fuerte como "
+"para valer la pena matar."
+
+msgid "r_Ancient Orb"
+msgstr "Antiguo orb"
+
+msgid "desc_r_Ancient Orb"
+msgstr ""
+"Más viejo y más frío que los orbes menores, y mucho más raro. Sólo los más "
+"poderosos llevan uno."
+
+msgid "r_Slayer Cache"
+msgstr "Slayer cache"
+
+msgid "desc_r_Slayer Cache"
+msgstr ""
+"Presiona el uso para abrirlo. Esto requiere una llave de caché de Slayer."
+
+msgid "r_Slayer Cache Key"
+msgstr "Clave de caché de la capa"
+
+msgid "desc_r_Slayer Cache Key"
+msgstr "Abre una caché de cazadores."
+
+msgid "display_name_r_Slayer Cache"
+msgstr "Slayer cache"
+
+msgid "display_name_r_Slayer Cache Key"
+msgstr "Clave de caché de la capa"
+
+msgid "r_Slayer Talisman Worn"
+msgstr "Slayer talisman"
+
+msgid "display_name_r_Slayer Talisman Worn"
+msgstr "Slayer talisman"
+
+msgid "desc_r_Slayer Talisman Worn"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Carved"
+msgstr "Asesino tallado talisman"
+
+msgid "display_name_r_Slayer Talisman Carved"
+msgstr "Asesino tallado talisman"
+
+msgid "desc_r_Slayer Talisman Carved"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Runed"
+msgstr "Slayer talisman"
+
+msgid "display_name_r_Slayer Talisman Runed"
+msgstr "Slayer talisman"
+
+msgid "desc_r_Slayer Talisman Runed"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Mythic"
+msgstr "Mítico asesino talisman"
+
+msgid "display_name_r_Slayer Talisman Mythic"
+msgstr "Mítico asesino talisman"
+
+msgid "desc_r_Slayer Talisman Mythic"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Vaulted"
+msgstr "Talismán de cazadores abovedados"
+
+msgid "display_name_r_Slayer Talisman Vaulted"
+msgstr "Talismán de cazadores abovedados"
+
+msgid "desc_r_Slayer Talisman Vaulted"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Fine"
+msgstr "Excelente asesino talismán"
+
+msgid "display_name_r_Slayer Talisman Fine"
+msgstr "Excelente asesino talismán"
+
+msgid "desc_r_Slayer Talisman Fine"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Superior"
+msgstr "Superior asesino talisman"
+
+msgid "display_name_r_Slayer Talisman Superior"
+msgstr "Superior asesino talisman"
+
+msgid "desc_r_Slayer Talisman Superior"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Exceptional"
+msgstr "Excepcional asesino talismán"
+
+msgid "display_name_r_Slayer Talisman Exceptional"
+msgstr "Excepcional asesino talismán"
+
+msgid "desc_r_Slayer Talisman Exceptional"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Peerless"
+msgstr "Sin par de asesinos talisman"
+
+msgid "display_name_r_Slayer Talisman Peerless"
+msgstr "Sin par de asesinos talisman"
+
+msgid "desc_r_Slayer Talisman Peerless"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "r_Slayer Talisman Immaculate"
+msgstr "Slayer talisman inmaculado"
+
+msgid "display_name_r_Slayer Talisman Immaculate"
+msgstr "Slayer talisman inmaculado"
+
+msgid "desc_r_Slayer Talisman Immaculate"
+msgstr ""
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
+" con lo que fue forjado - no hay dos iguales."
+
+msgid "desc_r_Quest Herbal Tea"
+msgstr ""
+"Una taza de té a base de hierbas de la guarnición, para el agente Gallius. "
+"No para ti."
+
+msgid "desc_r_Quest Shipping Manifest"
+msgstr ""
+"Un manifiesto de envío para Cormac el Shipwright, creciendo amortiguador por"
+" minuto."
+
+msgid "desc_r_Quest Supply Crate"
+msgstr "Una caja de suministros para la guarnición Dawnshore."
+
+msgid "r_Quest Supply Crate"
+msgstr "Caja de suministro"
+
+msgid "r_Quest Shipping Manifest"
+msgstr "Envío manifiesto"
+
+msgid "r_Quest Herbal Tea"
+msgstr "Té herbal"
+
+msgid "r_Slayer Talisman Unidentified Fine"
+msgstr "Sellado fino talismán"
+
+msgid "display_name_r_Slayer Talisman Unidentified Fine"
+msgstr "Sellado fino talismán"
+
+msgid "desc_r_Slayer Talisman Unidentified Fine"
+msgstr ""
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
+" enrolló no es. Haga clic derecho para identificarlo."
+
+msgid "r_Slayer Talisman Unidentified Superior"
+msgstr "Sellado superior talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Superior"
+msgstr "Sellado superior talisman"
+
+msgid "desc_r_Slayer Talisman Unidentified Superior"
+msgstr ""
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
+" enrolló no es. Haga clic derecho para identificarlo."
+
+msgid "r_Slayer Talisman Unidentified Exceptional"
+msgstr "Talismán excepcional sellado"
+
+msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
+msgstr "Talismán excepcional sellado"
+
+msgid "desc_r_Slayer Talisman Unidentified Exceptional"
+msgstr ""
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
+" enrolló no es. Haga clic derecho para identificarlo."
+
+msgid "r_Slayer Talisman Unidentified Peerless"
+msgstr "Talisman sellado sin pares"
+
+msgid "display_name_r_Slayer Talisman Unidentified Peerless"
+msgstr "Talisman sellado sin pares"
+
+msgid "desc_r_Slayer Talisman Unidentified Peerless"
+msgstr ""
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
+" enrolló no es. Haga clic derecho para identificarlo."
+
+msgid "r_Slayer Talisman Unidentified Immaculate"
+msgstr "Sellado inmaculado talisman"
+
+msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
+msgstr "Sellado inmaculado talisman"
+
+msgid "desc_r_Slayer Talisman Unidentified Immaculate"
+msgstr ""
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
+" enrolló no es. Haga clic derecho para identificarlo."
+
+msgid "r_Slayer Services"
+msgstr "Servicios de enfermería"
+
+msgid "desc_r_Slayer Services"
+msgstr "Desbloquea un Maestro de Cazadores vende por puntos de caza."
+
+msgid "r_Slayer Contract Slot"
+msgstr "Contrato ranura"
+
+msgid "desc_r_Slayer Contract Slot"
+msgstr "Te permite mantener un contrato de asesinato más a la vez."
+
+msgid "r_Slayer Slow Recall"
+msgstr "Memoria lenta"
+
+msgid "desc_r_Slayer Slow Recall"
+msgstr ""
+"Desbloquea el lento recuerdo de la Cazadora a su bindstone. Compré una vez."
+
+msgid "r_Slayer Extra Talisman Slot"
+msgstr "Tragaperras de talismán"
+
+msgid "desc_r_Slayer Extra Talisman Slot"
+msgstr ""
+"Te deja llevar un talismán de cazadores a la vez. Cada ranura necesita un "
+"nivel de Slayer más alto."
+
+msgid "cosmetic_elemental_test_skins"
+msgstr "Paquete de prueba de piel"
+
+msgid "cosmetic_name_air_ball_lightning_sg"
+msgstr "Relámpago de bolas: tormenta de sangre"
+
+msgid "cosmetic_desc_air_ball_lightning_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para el rayo de bolas. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_sg"
+msgstr "Ven aquí: la tormenta de sangre"
+
+msgid "cosmetic_desc_air_come_hither_sg"
+msgstr ""
+"Aparición de tormenta de sangre para Come Hither. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_sg"
+msgstr "Carga explosiva: tormenta de sangre"
+
+msgid "cosmetic_desc_air_exploding_charge_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para Carga Explotación. Preserva la silueta"
+" del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_sg"
+msgstr "Viento guía: tormenta de sangre"
+
+msgid "cosmetic_desc_air_guiding_wind_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para Guiding Wind. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_sg"
+msgstr "Relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_bolt_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para Lightning Bolt. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_sg"
+msgstr "Huelga de relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_strike_sg"
+msgstr ""
+"Apareció la tormenta de sangre para Rayos. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_sg"
+msgstr "Debilidad relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_weakness_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para la debilidad del relámpago. Preserva "
+"la silueta del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_sg"
+msgstr "Stormblast: tormenta de sangre"
+
+msgid "cosmetic_desc_air_stormblast_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para Stormblast. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_sg"
+msgstr "Tormenta: tormenta de sangre"
+
+msgid "cosmetic_desc_air_thunderstorm_sg"
+msgstr ""
+"Apariencia de tormenta de sangre para Thunderstorm. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_sg"
+msgstr "Tornado: tormenta de sangre"
+
+msgid "cosmetic_desc_air_tornado_sg"
+msgstr ""
+"La tormenta sanguínea de Tornado. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_ball_lightning_va"
+msgstr "Relámpago de bolas: trueno real"
+
+msgid "cosmetic_desc_air_ball_lightning_va"
+msgstr ""
+"Royal Thunder apariencia para Ball Lightning. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_va"
+msgstr "Ven aquí: trueno real"
+
+msgid "cosmetic_desc_air_come_hither_va"
+msgstr ""
+"Royal Thunder apariencia para Come Hither. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_va"
+msgstr "Carga explosiva: trueno real"
+
+msgid "cosmetic_desc_air_exploding_charge_va"
+msgstr ""
+"Royal Thunder apariencia para Explotar Carga. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_va"
+msgstr "Viento guía: trueno real"
+
+msgid "cosmetic_desc_air_guiding_wind_va"
+msgstr ""
+"Royal Thunder apariencia para Guiding Wind. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_va"
+msgstr "Relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_bolt_va"
+msgstr ""
+"Royal Thunder apariencia para Lightning Bolt. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_va"
+msgstr "Huelga de relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_strike_va"
+msgstr ""
+"Royal Thunder apariencia para Lightning Strike. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_va"
+msgstr "Debilidad relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_weakness_va"
+msgstr ""
+"Royal Thunder apariencia para Lightning Weakness. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_va"
+msgstr "Stormblast: trueno real"
+
+msgid "cosmetic_desc_air_stormblast_va"
+msgstr ""
+"Royal Thunder apariencia para Stormblast. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_va"
+msgstr "Tormenta: truenos reales"
+
+msgid "cosmetic_desc_air_thunderstorm_va"
+msgstr ""
+"Royal Thunder apariencia para Thunderstorm. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_va"
+msgstr "Tornado: trueno real"
+
+msgid "cosmetic_desc_air_tornado_va"
+msgstr ""
+"Royal Thunder apariencia para Tornado. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_ball_lightning_ss"
+msgstr "Relámpago de bolas: aurora"
+
+msgid "cosmetic_desc_air_ball_lightning_ss"
+msgstr ""
+"Apariencia de Aurora para el Rayo de bolas. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_ss"
+msgstr "Ven aquí: aurora"
+
+msgid "cosmetic_desc_air_come_hither_ss"
+msgstr ""
+"Apareció Aurora para Ven Hither. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_ss"
+msgstr "Carga explosiva: aurora"
+
+msgid "cosmetic_desc_air_exploding_charge_ss"
+msgstr ""
+"Apariencia de Aurora para Carga Explotación. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_ss"
+msgstr "Viento guía: aurora"
+
+msgid "cosmetic_desc_air_guiding_wind_ss"
+msgstr ""
+"Apareció Aurora para Guiding Wind. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_ss"
+msgstr "Relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_bolt_ss"
+msgstr ""
+"Apareció Aurora para el relámpago Bolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_ss"
+msgstr "Huelga de relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_strike_ss"
+msgstr ""
+"Apariencia de Aurora para el Rayo. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_ss"
+msgstr "Debilidad de relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_weakness_ss"
+msgstr ""
+"Apariencia de Aurora para el Relámpago Debilidad. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_ss"
+msgstr "Stormblast: aurora"
+
+msgid "cosmetic_desc_air_stormblast_ss"
+msgstr ""
+"Apariencia de Aurora para Stormblast. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_ss"
+msgstr "Tormenta: aurora"
+
+msgid "cosmetic_desc_air_thunderstorm_ss"
+msgstr ""
+"Apareció Aurora para Thunderstorm. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_ss"
+msgstr "Tornado: aurora"
+
+msgid "cosmetic_desc_air_tornado_ss"
+msgstr ""
+"Apareció Aurora para Tornado. Preserva la silueta del hechizo, el movimiento"
+" y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_jd"
+msgstr "Flecha ácida: astral"
+
+msgid "cosmetic_desc_earth_acid_arrow_jd"
+msgstr ""
+"Apariencia astral para el Acid Arrow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_jd"
+msgstr "Lluvia ácida: astral"
+
+msgid "cosmetic_desc_earth_acid_rain_jd"
+msgstr ""
+"Apariencia astral para la lluvia ácida. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_jd"
+msgstr "Explosión corrosiva: astral"
+
+msgid "cosmetic_desc_earth_corrosive_blast_jd"
+msgstr ""
+"Aspecto astral para la Blast Corrosive. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_jd"
+msgstr "Desintegración: astral"
+
+msgid "cosmetic_desc_earth_disintegrate_jd"
+msgstr ""
+"Apariencia astral para Desintegrarse. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_jd"
+msgstr "Impale: astral"
+
+msgid "cosmetic_desc_earth_impale_jd"
+msgstr ""
+"Apariencia astral para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_jd"
+msgstr "Meteor strike: astral"
+
+msgid "cosmetic_desc_earth_meteor_strike_jd"
+msgstr ""
+"Astral appearance for Meteor Strike. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_jd"
+msgstr "Niebla pungente: astral"
+
+msgid "cosmetic_desc_earth_pungent_mist_jd"
+msgstr ""
+"Apariencia astral para Pungent Mist. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_jd"
+msgstr "Stamina leech: astral"
+
+msgid "cosmetic_desc_earth_stamina_leech_jd"
+msgstr ""
+"Apariencia astral para Stamina Leech. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_jd"
+msgstr "Tarnish: astral"
+
+msgid "cosmetic_desc_earth_tarnish_jd"
+msgstr ""
+"Aparición astral para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_as"
+msgstr "Flecha ácida: veloz"
+
+msgid "cosmetic_desc_earth_acid_arrow_as"
+msgstr ""
+"Aparición de Quicksilver para Acid Arrow. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_as"
+msgstr "Lluvia ácida: veloz"
+
+msgid "cosmetic_desc_earth_acid_rain_as"
+msgstr ""
+"Aparición rápida para la lluvia ácida. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_as"
+msgstr "Explosión corrosiva: veloz"
+
+msgid "cosmetic_desc_earth_corrosive_blast_as"
+msgstr ""
+"Aparición de Quicksilver para Corrosive Blast. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_as"
+msgstr "Desintegrar: velocímetro"
+
+msgid "cosmetic_desc_earth_disintegrate_as"
+msgstr ""
+"Aparición de Quicksilver para Desintegrar. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_as"
+msgstr "Impale: quicksilver"
+
+msgid "cosmetic_desc_earth_impale_as"
+msgstr ""
+"Aparición de Quicksilver para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_as"
+msgstr "Meteor strike: quicksilver"
+
+msgid "cosmetic_desc_earth_meteor_strike_as"
+msgstr ""
+"Aparición de Quicksilver para Meteor Strike. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_as"
+msgstr "Pungent mist: quicksilver"
+
+msgid "cosmetic_desc_earth_pungent_mist_as"
+msgstr ""
+"Aparición de Quicksilver para Pungent Mist. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_as"
+msgstr "Stamina leech: quicksilver"
+
+msgid "cosmetic_desc_earth_stamina_leech_as"
+msgstr ""
+"Aparición de Quicksilver para Stamina Leech. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_as"
+msgstr "Barniz: velocímetro"
+
+msgid "cosmetic_desc_earth_tarnish_as"
+msgstr ""
+"Aparición rápida para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_ml"
+msgstr "Flecha ácida: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_acid_arrow_ml"
+msgstr ""
+"Rose Quartz apariencia para Acid Arrow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_ml"
+msgstr "Lluvia ácida: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_acid_rain_ml"
+msgstr ""
+"Rose Quartz apariencia para la lluvia ácida. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_ml"
+msgstr "Explosión corrosiva: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_corrosive_blast_ml"
+msgstr ""
+"Rose Quartz apariencia para la Blast Corrosive. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_ml"
+msgstr "Desintegración: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_disintegrate_ml"
+msgstr ""
+"Aparición de Rose Quartz para Desintegrarse. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_ml"
+msgstr "Impale: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_impale_ml"
+msgstr ""
+"Rose Quartz apariencia para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_ml"
+msgstr "Meteor strike: rose quartz"
+
+msgid "cosmetic_desc_earth_meteor_strike_ml"
+msgstr ""
+"Rose Quartz comparece para Meteor Strike. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_ml"
+msgstr "Niebla pungente: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_pungent_mist_ml"
+msgstr ""
+"Rose Quartz apariencia para Pungent Mist. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_ml"
+msgstr "Stamina leech: rosa cuarzo"
+
+msgid "cosmetic_desc_earth_stamina_leech_ml"
+msgstr ""
+"Rose Quartz apariencia para Stamina Leech. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_ml"
+msgstr "Barniz: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_tarnish_ml"
+msgstr ""
+"Rose Quartz apariencia para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_cp"
+msgstr "Dragonbreath: fuego de brujas"
+
+msgid "cosmetic_desc_fire_dragonbreath_cp"
+msgstr ""
+"Apariencia de incendios para Dragonbreath. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_cp"
+msgstr "Explosión: fuego de brujas"
+
+msgid "cosmetic_desc_fire_explosion_cp"
+msgstr ""
+"Apariencia de incendios para Explosión. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_cp"
+msgstr "Bola de fuego: fuego de brujas"
+
+msgid "cosmetic_desc_fire_fireball_cp"
+msgstr ""
+"Aparición de fuego para bolas de fuego. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_cp"
+msgstr "Firebolt: fuego de brujas"
+
+msgid "cosmetic_desc_fire_firebolt_cp"
+msgstr ""
+"Apariencia de incendios para Firebolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_cp"
+msgstr "Inferno: brujería"
+
+msgid "cosmetic_desc_fire_inferno_cp"
+msgstr ""
+"Apariencia de incendios para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_cp"
+msgstr "Tormenta magma: fuego de brujas"
+
+msgid "cosmetic_desc_fire_magma_storm_cp"
+msgstr ""
+"Apariencia de incendios para la tormenta de Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_cp"
+msgstr "Volcán: fuego de brujas"
+
+msgid "cosmetic_desc_fire_volcano_cp"
+msgstr ""
+"Apariencia de incendios para el volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_cp"
+msgstr "Muro de fuego: fuego de brujas"
+
+msgid "cosmetic_desc_fire_wall_of_fire_cp"
+msgstr ""
+"Apariencia de incendios para Muro de Fuego. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_cp"
+msgstr "Debilidad de la lupa: fuego de brujas"
+
+msgid "cosmetic_desc_fire_weakening_blaze_cp"
+msgstr ""
+"Apariencia de incendios para Weakening Blaze. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_ci"
+msgstr "Dragonbreath: llama amatista"
+
+msgid "cosmetic_desc_fire_dragonbreath_ci"
+msgstr ""
+"Amethyst Flame apariencia para Dragonbreath. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_ci"
+msgstr "Explosión: llama amatista"
+
+msgid "cosmetic_desc_fire_explosion_ci"
+msgstr ""
+"Amethyst Flame apariencia para la Explosión. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_ci"
+msgstr "Bola de fuego: llama amatista"
+
+msgid "cosmetic_desc_fire_fireball_ci"
+msgstr ""
+"Amethyst Flame apariencia para Fireball. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_ci"
+msgstr "Firebolt: llama amatista"
+
+msgid "cosmetic_desc_fire_firebolt_ci"
+msgstr ""
+"Amethyst Flame apariencia para Firebolt. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_ci"
+msgstr "Inferno: llama amatista"
+
+msgid "cosmetic_desc_fire_inferno_ci"
+msgstr ""
+"Amethyst Flame apariencia para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_ci"
+msgstr "Tormenta magma: llama amatista"
+
+msgid "cosmetic_desc_fire_magma_storm_ci"
+msgstr ""
+"Amethyst Flame apariencia para la Tormenta Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_ci"
+msgstr "Volcán: llama amatista"
+
+msgid "cosmetic_desc_fire_volcano_ci"
+msgstr ""
+"Amethyst Flame apariencia para Volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_ci"
+msgstr "Muro de fuego: llama amatista"
+
+msgid "cosmetic_desc_fire_wall_of_fire_ci"
+msgstr ""
+"Amatista Flama apariencia para la Muralla de Fuego. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_ci"
+msgstr "Debilidad de la llama: amatista"
+
+msgid "cosmetic_desc_fire_weakening_blaze_ci"
+msgstr ""
+"Amethyst Flame apariencia para Weakening Blaze. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_so"
+msgstr "Dragonbreath: fogata fantasma"
+
+msgid "cosmetic_desc_fire_dragonbreath_so"
+msgstr ""
+"Fantasma de apariencia para Dragonbreath. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_so"
+msgstr "Explosión: fuego fantasma"
+
+msgid "cosmetic_desc_fire_explosion_so"
+msgstr ""
+"Aparición de fantasmas para Explosión. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_so"
+msgstr "Fireball: Ghostfire"
+
+msgid "cosmetic_desc_fire_fireball_so"
+msgstr ""
+"Fantasma de aparición para bolas de fuego. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_so"
+msgstr "Firebolt: fogata fantasma"
+
+msgid "cosmetic_desc_fire_firebolt_so"
+msgstr ""
+"Fantasma de apariencia para Firebolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_so"
+msgstr "Inferno: fogata fantasma"
+
+msgid "cosmetic_desc_fire_inferno_so"
+msgstr ""
+"Aparición de Ghostfire para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_so"
+msgstr "Tormenta magma: fuego fantasma"
+
+msgid "cosmetic_desc_fire_magma_storm_so"
+msgstr ""
+"Fantasma en apariencia para la Tormenta de Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_so"
+msgstr "Volcán: fuego fantasma"
+
+msgid "cosmetic_desc_fire_volcano_so"
+msgstr ""
+"Fantasma de aparición para Volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_so"
+msgstr "Muro de fuego: fuego fantasma"
+
+msgid "cosmetic_desc_fire_wall_of_fire_so"
+msgstr ""
+"Aparición de fuego fantasma para Muro de Fuego. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_so"
+msgstr "Debilitando el incendio:"
+
+msgid "cosmetic_desc_fire_weakening_blaze_so"
+msgstr ""
+"Fantasma de la aparición para el Blanqueamiento de Blaze. Preserva la "
+"silueta del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_gl"
+msgstr "Blizzard: sangretide"
+
+msgid "cosmetic_desc_water_blizzard_gl"
+msgstr ""
+"Apariencia sangrienta para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_gl"
+msgstr "Disparo retardado: sangriento"
+
+msgid "cosmetic_desc_water_delayed_shot_gl"
+msgstr ""
+"Apariencia sangrienta para Zapato Dilatado. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_gl"
+msgstr "Hemorragia: glótida"
+
+msgid "cosmetic_desc_water_frostbite_gl"
+msgstr ""
+"Apariencia sangrienta para Frostbite. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_gl"
+msgstr "Tormenta de hielo: sangre"
+
+msgid "cosmetic_desc_water_ice_storm_gl"
+msgstr ""
+"Apariencia sangrienta para la tormenta de hielo. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_gl"
+msgstr "Iciclo: sangretida"
+
+msgid "cosmetic_desc_water_icicle_gl"
+msgstr ""
+"Apariencia sangrienta para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_gl"
+msgstr "Shards: sangriento"
+
+msgid "cosmetic_desc_water_shards_gl"
+msgstr ""
+"Apariencia sangrienta para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_gl"
+msgstr "Lento: sangriento"
+
+msgid "cosmetic_desc_water_slow_gl"
+msgstr ""
+"Apariencia sangrienta para Slow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_gl"
+msgstr "Lluvia tóxica: sangre"
+
+msgid "cosmetic_desc_water_toxic_rain_gl"
+msgstr ""
+"Apariencia sangrienta para la lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_gl"
+msgstr "Debilitar el escalofrío: la sangre"
+
+msgid "cosmetic_desc_water_weakening_chill_gl"
+msgstr ""
+"Apariencia sanguínea para Chill de enfriamiento. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_ri"
+msgstr "Blizzard: oro líquido"
+
+msgid "cosmetic_desc_water_blizzard_ri"
+msgstr ""
+"Liquid Gold apariencia para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_ri"
+msgstr "Disparo retardado: oro líquido"
+
+msgid "cosmetic_desc_water_delayed_shot_ri"
+msgstr ""
+"Liquid Gold apariencia para Delayed Shot. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_ri"
+msgstr "Hemorragia: oro líquido"
+
+msgid "cosmetic_desc_water_frostbite_ri"
+msgstr ""
+"Aparición de oro líquido para Frostbite. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_ri"
+msgstr "Tormenta de hielo: oro líquido"
+
+msgid "cosmetic_desc_water_ice_storm_ri"
+msgstr ""
+"Aparición de oro líquido para la tormenta de hielo. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_ri"
+msgstr "Cíclica: oro líquido"
+
+msgid "cosmetic_desc_water_icicle_ri"
+msgstr ""
+"Aparición de oro líquido para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_ri"
+msgstr "Shards: oro líquido"
+
+msgid "cosmetic_desc_water_shards_ri"
+msgstr ""
+"Aparición de oro líquido para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_ri"
+msgstr "Lento: oro líquido"
+
+msgid "cosmetic_desc_water_slow_ri"
+msgstr ""
+"Aparición de Oro líquido para Lenta. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_ri"
+msgstr "Lluvia tóxica: oro líquido"
+
+msgid "cosmetic_desc_water_toxic_rain_ri"
+msgstr ""
+"Aparición de oro líquido para lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_ri"
+msgstr "Enfriamiento debilitado: oro líquido"
+
+msgid "cosmetic_desc_water_weakening_chill_ri"
+msgstr ""
+"Aparición de oro líquido para gallinero. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_df"
+msgstr "Blizzard: agua dulce"
+
+msgid "cosmetic_desc_water_blizzard_df"
+msgstr ""
+"Aparición de agua dulce para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_df"
+msgstr "Disparo retardado: blightwater"
+
+msgid "cosmetic_desc_water_delayed_shot_df"
+msgstr ""
+"Aparición de agua dulce para Zapato Dilatado. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_df"
+msgstr "Frostbite: agua dulce"
+
+msgid "cosmetic_desc_water_frostbite_df"
+msgstr ""
+"Aparición de agua dulce para Frostbite. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_df"
+msgstr "Tormenta de hielo: agua dulce"
+
+msgid "cosmetic_desc_water_ice_storm_df"
+msgstr ""
+"Aparición de agua dulce para Ice Storm. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_df"
+msgstr "Cíclica: agua dulce"
+
+msgid "cosmetic_desc_water_icicle_df"
+msgstr ""
+"Aparición de agua dulce para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_df"
+msgstr "Shards: blightwater"
+
+msgid "cosmetic_desc_water_shards_df"
+msgstr ""
+"Aparición de agua dulce para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_df"
+msgstr "Lento: agua dulce"
+
+msgid "cosmetic_desc_water_slow_df"
+msgstr ""
+"Aparición de agua dulce para Slow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_df"
+msgstr "Lluvia tóxica: agua dulce"
+
+msgid "cosmetic_desc_water_toxic_rain_df"
+msgstr ""
+"Aparición de agua dulce para la lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_df"
+msgstr "Debilidad del frío: agua dulce"
+
+msgid "cosmetic_desc_water_weakening_chill_df"
+msgstr ""
+"Apariencia de agua dulce para el chil de enfriamiento. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_mana_missile_crimson"
+msgstr "Mana missile: crimson"
+
+msgid "cosmetic_desc_mana_missile_crimson"
+msgstr ""
+"Crimson acentos para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_emerald"
+msgstr "Misiles mana: esmeralda"
+
+msgid "cosmetic_desc_mana_missile_emerald"
+msgstr ""
+"Acentos esmeralda para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_violet"
+msgstr "Misil mana: violeta"
+
+msgid "cosmetic_desc_mana_missile_violet"
+msgstr ""
+"Acentos violeta para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_amber"
+msgstr "Misil mana: amber"
+
+msgid "cosmetic_desc_mana_missile_amber"
+msgstr ""
+"Acentos ámbar para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_cyan"
+msgstr "Misil mana: cyan"
+
+msgid "cosmetic_desc_mana_missile_cyan"
+msgstr ""
+"Acentos cian para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_pearl"
+msgstr "Mana missile: Pearl"
+
+msgid "cosmetic_desc_mana_missile_pearl"
+msgstr ""
+"Acentos de perlas para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_mana_missile_pink"
+msgstr "Misil mana: rosa"
+
+msgid "cosmetic_desc_mana_missile_pink"
+msgstr ""
+"Acentos rosados para Mana Missile. Retiene la forma original de casting y "
+"ortografía."
+
+msgid "cosmetic_name_air_ball_lightning_bs"
+msgstr "Relámpago de bolas: tormenta de sangre"
+
+msgid "cosmetic_desc_air_ball_lightning_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para el rayo de bolas. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_bs"
+msgstr "Ven aquí: la tormenta de sangre"
+
+msgid "cosmetic_desc_air_come_hither_bs"
+msgstr ""
+"Aparición de tormenta de sangre para Come Hither. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_bs"
+msgstr "Carga explosiva: tormenta de sangre"
+
+msgid "cosmetic_desc_air_exploding_charge_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para Carga Explotación. Preserva la silueta"
+" del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_bs"
+msgstr "Viento guía: tormenta de sangre"
+
+msgid "cosmetic_desc_air_guiding_wind_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para Guiding Wind. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_bs"
+msgstr "Relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_bolt_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para Lightning Bolt. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_bs"
+msgstr "Huelga de relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_strike_bs"
+msgstr ""
+"Apareció la tormenta de sangre para Rayos. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_bs"
+msgstr "Debilidad relámpago: tormenta de sangre"
+
+msgid "cosmetic_desc_air_lightning_weakness_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para la debilidad del relámpago. Preserva "
+"la silueta del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_bs"
+msgstr "Stormblast: tormenta de sangre"
+
+msgid "cosmetic_desc_air_stormblast_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para Stormblast. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_bs"
+msgstr "Tormenta: tormenta de sangre"
+
+msgid "cosmetic_desc_air_thunderstorm_bs"
+msgstr ""
+"Apariencia de tormenta de sangre para Thunderstorm. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_bs"
+msgstr "Tornado: tormenta de sangre"
+
+msgid "cosmetic_desc_air_tornado_bs"
+msgstr ""
+"La tormenta sanguínea de Tornado. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_ball_lightning_rt"
+msgstr "Relámpago de bolas: trueno real"
+
+msgid "cosmetic_desc_air_ball_lightning_rt"
+msgstr ""
+"Royal Thunder apariencia para Ball Lightning. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_rt"
+msgstr "Ven aquí: trueno real"
+
+msgid "cosmetic_desc_air_come_hither_rt"
+msgstr ""
+"Royal Thunder apariencia para Come Hither. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_rt"
+msgstr "Carga explosiva: trueno real"
+
+msgid "cosmetic_desc_air_exploding_charge_rt"
+msgstr ""
+"Royal Thunder apariencia para Explotar Carga. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_rt"
+msgstr "Viento guía: trueno real"
+
+msgid "cosmetic_desc_air_guiding_wind_rt"
+msgstr ""
+"Royal Thunder apariencia para Guiding Wind. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_rt"
+msgstr "Relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_bolt_rt"
+msgstr ""
+"Royal Thunder apariencia para Lightning Bolt. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_rt"
+msgstr "Huelga de relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_strike_rt"
+msgstr ""
+"Royal Thunder apariencia para Lightning Strike. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_rt"
+msgstr "Debilidad relámpago: trueno real"
+
+msgid "cosmetic_desc_air_lightning_weakness_rt"
+msgstr ""
+"Royal Thunder apariencia para Lightning Weakness. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_rt"
+msgstr "Stormblast: trueno real"
+
+msgid "cosmetic_desc_air_stormblast_rt"
+msgstr ""
+"Royal Thunder apariencia para Stormblast. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_rt"
+msgstr "Tormenta: truenos reales"
+
+msgid "cosmetic_desc_air_thunderstorm_rt"
+msgstr ""
+"Royal Thunder apariencia para Thunderstorm. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_rt"
+msgstr "Tornado: trueno real"
+
+msgid "cosmetic_desc_air_tornado_rt"
+msgstr ""
+"Royal Thunder apariencia para Tornado. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_ball_lightning_au"
+msgstr "Relámpago de bolas: aurora"
+
+msgid "cosmetic_desc_air_ball_lightning_au"
+msgstr ""
+"Apariencia de Aurora para el Rayo de bolas. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_come_hither_au"
+msgstr "Ven aquí: aurora"
+
+msgid "cosmetic_desc_air_come_hither_au"
+msgstr ""
+"Apareció Aurora para Ven Hither. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_exploding_charge_au"
+msgstr "Carga explosiva: aurora"
+
+msgid "cosmetic_desc_air_exploding_charge_au"
+msgstr ""
+"Apariencia de Aurora para Carga Explotación. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_guiding_wind_au"
+msgstr "Viento guía: aurora"
+
+msgid "cosmetic_desc_air_guiding_wind_au"
+msgstr ""
+"Apareció Aurora para Guiding Wind. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_bolt_au"
+msgstr "Relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_bolt_au"
+msgstr ""
+"Apareció Aurora para el relámpago Bolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_strike_au"
+msgstr "Huelga de relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_strike_au"
+msgstr ""
+"Apariencia de Aurora para el Rayo. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_lightning_weakness_au"
+msgstr "Debilidad de relámpago: aurora"
+
+msgid "cosmetic_desc_air_lightning_weakness_au"
+msgstr ""
+"Apariencia de Aurora para el Relámpago Debilidad. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_air_stormblast_au"
+msgstr "Stormblast: aurora"
+
+msgid "cosmetic_desc_air_stormblast_au"
+msgstr ""
+"Apariencia de Aurora para Stormblast. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_thunderstorm_au"
+msgstr "Tormenta: aurora"
+
+msgid "cosmetic_desc_air_thunderstorm_au"
+msgstr ""
+"Apareció Aurora para Thunderstorm. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_air_tornado_au"
+msgstr "Tornado: aurora"
+
+msgid "cosmetic_desc_air_tornado_au"
+msgstr ""
+"Apareció Aurora para Tornado. Preserva la silueta del hechizo, el movimiento"
+" y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_at"
+msgstr "Flecha ácida: astral"
+
+msgid "cosmetic_desc_earth_acid_arrow_at"
+msgstr ""
+"Apariencia astral para el Acid Arrow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_at"
+msgstr "Lluvia ácida: astral"
+
+msgid "cosmetic_desc_earth_acid_rain_at"
+msgstr ""
+"Apariencia astral para la lluvia ácida. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_at"
+msgstr "Explosión corrosiva: astral"
+
+msgid "cosmetic_desc_earth_corrosive_blast_at"
+msgstr ""
+"Aspecto astral para la Blast Corrosive. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_at"
+msgstr "Desintegración: astral"
+
+msgid "cosmetic_desc_earth_disintegrate_at"
+msgstr ""
+"Apariencia astral para Desintegrarse. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_at"
+msgstr "Impale: astral"
+
+msgid "cosmetic_desc_earth_impale_at"
+msgstr ""
+"Apariencia astral para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_at"
+msgstr "Meteor strike: astral"
+
+msgid "cosmetic_desc_earth_meteor_strike_at"
+msgstr ""
+"Astral appearance for Meteor Strike. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_at"
+msgstr "Niebla pungente: astral"
+
+msgid "cosmetic_desc_earth_pungent_mist_at"
+msgstr ""
+"Apariencia astral para Pungent Mist. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_at"
+msgstr "Stamina leech: astral"
+
+msgid "cosmetic_desc_earth_stamina_leech_at"
+msgstr ""
+"Apariencia astral para Stamina Leech. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_at"
+msgstr "Tarnish: astral"
+
+msgid "cosmetic_desc_earth_tarnish_at"
+msgstr ""
+"Aparición astral para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_qs"
+msgstr "Flecha ácida: veloz"
+
+msgid "cosmetic_desc_earth_acid_arrow_qs"
+msgstr ""
+"Aparición de Quicksilver para Acid Arrow. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_qs"
+msgstr "Lluvia ácida: veloz"
+
+msgid "cosmetic_desc_earth_acid_rain_qs"
+msgstr ""
+"Aparición rápida para la lluvia ácida. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_qs"
+msgstr "Explosión corrosiva: veloz"
+
+msgid "cosmetic_desc_earth_corrosive_blast_qs"
+msgstr ""
+"Aparición de Quicksilver para Corrosive Blast. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_qs"
+msgstr "Desintegrar: velocímetro"
+
+msgid "cosmetic_desc_earth_disintegrate_qs"
+msgstr ""
+"Aparición de Quicksilver para Desintegrar. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_qs"
+msgstr "Impale: quicksilver"
+
+msgid "cosmetic_desc_earth_impale_qs"
+msgstr ""
+"Aparición de Quicksilver para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_qs"
+msgstr "Meteor strike: quicksilver"
+
+msgid "cosmetic_desc_earth_meteor_strike_qs"
+msgstr ""
+"Aparición de Quicksilver para Meteor Strike. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_qs"
+msgstr "Pungent mist: quicksilver"
+
+msgid "cosmetic_desc_earth_pungent_mist_qs"
+msgstr ""
+"Aparición de Quicksilver para Pungent Mist. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_qs"
+msgstr "Stamina leech: quicksilver"
+
+msgid "cosmetic_desc_earth_stamina_leech_qs"
+msgstr ""
+"Aparición de Quicksilver para Stamina Leech. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_qs"
+msgstr "Barniz: velocímetro"
+
+msgid "cosmetic_desc_earth_tarnish_qs"
+msgstr ""
+"Aparición rápida para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_arrow_rq"
+msgstr "Flecha ácida: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_acid_arrow_rq"
+msgstr ""
+"Rose Quartz apariencia para Acid Arrow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_acid_rain_rq"
+msgstr "Lluvia ácida: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_acid_rain_rq"
+msgstr ""
+"Rose Quartz apariencia para la lluvia ácida. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_corrosive_blast_rq"
+msgstr "Explosión corrosiva: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_corrosive_blast_rq"
+msgstr ""
+"Rose Quartz apariencia para la Blast Corrosive. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_disintegrate_rq"
+msgstr "Desintegración: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_disintegrate_rq"
+msgstr ""
+"Aparición de Rose Quartz para Desintegrarse. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_impale_rq"
+msgstr "Impale: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_impale_rq"
+msgstr ""
+"Rose Quartz apariencia para Impale. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_meteor_strike_rq"
+msgstr "Meteor strike: rose quartz"
+
+msgid "cosmetic_desc_earth_meteor_strike_rq"
+msgstr ""
+"Rose Quartz comparece para Meteor Strike. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_pungent_mist_rq"
+msgstr "Niebla pungente: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_pungent_mist_rq"
+msgstr ""
+"Rose Quartz apariencia para Pungent Mist. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_stamina_leech_rq"
+msgstr "Stamina leech: rosa cuarzo"
+
+msgid "cosmetic_desc_earth_stamina_leech_rq"
+msgstr ""
+"Rose Quartz apariencia para Stamina Leech. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_earth_tarnish_rq"
+msgstr "Barniz: cuarzo de rosa"
+
+msgid "cosmetic_desc_earth_tarnish_rq"
+msgstr ""
+"Rose Quartz apariencia para Tarnish. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_wf"
+msgstr "Dragonbreath: fuego de brujas"
+
+msgid "cosmetic_desc_fire_dragonbreath_wf"
+msgstr ""
+"Apariencia de incendios para Dragonbreath. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_wf"
+msgstr "Explosión: fuego de brujas"
+
+msgid "cosmetic_desc_fire_explosion_wf"
+msgstr ""
+"Apariencia de incendios para Explosión. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_wf"
+msgstr "Bola de fuego: fuego de brujas"
+
+msgid "cosmetic_desc_fire_fireball_wf"
+msgstr ""
+"Aparición de fuego para bolas de fuego. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_wf"
+msgstr "Firebolt: fuego de brujas"
+
+msgid "cosmetic_desc_fire_firebolt_wf"
+msgstr ""
+"Apariencia de incendios para Firebolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_wf"
+msgstr "Inferno: brujería"
+
+msgid "cosmetic_desc_fire_inferno_wf"
+msgstr ""
+"Apariencia de incendios para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_wf"
+msgstr "Tormenta magma: fuego de brujas"
+
+msgid "cosmetic_desc_fire_magma_storm_wf"
+msgstr ""
+"Apariencia de incendios para la tormenta de Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_wf"
+msgstr "Volcán: fuego de brujas"
+
+msgid "cosmetic_desc_fire_volcano_wf"
+msgstr ""
+"Apariencia de incendios para el volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_wf"
+msgstr "Muro de fuego: fuego de brujas"
+
+msgid "cosmetic_desc_fire_wall_of_fire_wf"
+msgstr ""
+"Apariencia de incendios para Muro de Fuego. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_wf"
+msgstr "Debilidad de la lupa: fuego de brujas"
+
+msgid "cosmetic_desc_fire_weakening_blaze_wf"
+msgstr ""
+"Apariencia de incendios para Weakening Blaze. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_af"
+msgstr "Dragonbreath: llama amatista"
+
+msgid "cosmetic_desc_fire_dragonbreath_af"
+msgstr ""
+"Amethyst Flame apariencia para Dragonbreath. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_af"
+msgstr "Explosión: llama amatista"
+
+msgid "cosmetic_desc_fire_explosion_af"
+msgstr ""
+"Amethyst Flame apariencia para la Explosión. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_af"
+msgstr "Bola de fuego: llama amatista"
+
+msgid "cosmetic_desc_fire_fireball_af"
+msgstr ""
+"Amethyst Flame apariencia para Fireball. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_af"
+msgstr "Firebolt: llama amatista"
+
+msgid "cosmetic_desc_fire_firebolt_af"
+msgstr ""
+"Amethyst Flame apariencia para Firebolt. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_af"
+msgstr "Inferno: llama amatista"
+
+msgid "cosmetic_desc_fire_inferno_af"
+msgstr ""
+"Amethyst Flame apariencia para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_af"
+msgstr "Tormenta magma: llama amatista"
+
+msgid "cosmetic_desc_fire_magma_storm_af"
+msgstr ""
+"Amethyst Flame apariencia para la Tormenta Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_af"
+msgstr "Volcán: llama amatista"
+
+msgid "cosmetic_desc_fire_volcano_af"
+msgstr ""
+"Amethyst Flame apariencia para Volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_af"
+msgstr "Muro de fuego: llama amatista"
+
+msgid "cosmetic_desc_fire_wall_of_fire_af"
+msgstr ""
+"Amatista Flama apariencia para la Muralla de Fuego. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_af"
+msgstr "Debilidad de la llama: amatista"
+
+msgid "cosmetic_desc_fire_weakening_blaze_af"
+msgstr ""
+"Amethyst Flame apariencia para Weakening Blaze. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_dragonbreath_gf"
+msgstr "Dragonbreath: fogata fantasma"
+
+msgid "cosmetic_desc_fire_dragonbreath_gf"
+msgstr ""
+"Fantasma de apariencia para Dragonbreath. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_explosion_gf"
+msgstr "Explosión: fuego fantasma"
+
+msgid "cosmetic_desc_fire_explosion_gf"
+msgstr ""
+"Aparición de fantasmas para Explosión. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_fireball_gf"
+msgstr "Fireball: Ghostfire"
+
+msgid "cosmetic_desc_fire_fireball_gf"
+msgstr ""
+"Fantasma de aparición para bolas de fuego. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_firebolt_gf"
+msgstr "Firebolt: fogata fantasma"
+
+msgid "cosmetic_desc_fire_firebolt_gf"
+msgstr ""
+"Fantasma de apariencia para Firebolt. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_inferno_gf"
+msgstr "Inferno: fogata fantasma"
+
+msgid "cosmetic_desc_fire_inferno_gf"
+msgstr ""
+"Aparición de Ghostfire para Inferno. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_magma_storm_gf"
+msgstr "Tormenta magma: fuego fantasma"
+
+msgid "cosmetic_desc_fire_magma_storm_gf"
+msgstr ""
+"Fantasma en apariencia para la Tormenta de Magma. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_volcano_gf"
+msgstr "Volcán: fuego fantasma"
+
+msgid "cosmetic_desc_fire_volcano_gf"
+msgstr ""
+"Fantasma de aparición para Volcán. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_wall_of_fire_gf"
+msgstr "Muro de fuego: fuego fantasma"
+
+msgid "cosmetic_desc_fire_wall_of_fire_gf"
+msgstr ""
+"Aparición de fuego fantasma para Muro de Fuego. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_fire_weakening_blaze_gf"
+msgstr "Debilitando el incendio:"
+
+msgid "cosmetic_desc_fire_weakening_blaze_gf"
+msgstr ""
+"Fantasma de la aparición para el Blanqueamiento de Blaze. Preserva la "
+"silueta del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_bt"
+msgstr "Blizzard: sangretide"
+
+msgid "cosmetic_desc_water_blizzard_bt"
+msgstr ""
+"Apariencia sangrienta para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_bt"
+msgstr "Disparo retardado: sangriento"
+
+msgid "cosmetic_desc_water_delayed_shot_bt"
+msgstr ""
+"Apariencia sangrienta para Zapato Dilatado. Preserva la silueta del hechizo,"
+" el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_bt"
+msgstr "Hemorragia: glótida"
+
+msgid "cosmetic_desc_water_frostbite_bt"
+msgstr ""
+"Apariencia sangrienta para Frostbite. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_bt"
+msgstr "Tormenta de hielo: sangre"
+
+msgid "cosmetic_desc_water_ice_storm_bt"
+msgstr ""
+"Apariencia sangrienta para la tormenta de hielo. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_bt"
+msgstr "Iciclo: sangretida"
+
+msgid "cosmetic_desc_water_icicle_bt"
+msgstr ""
+"Apariencia sangrienta para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_bt"
+msgstr "Shards: sangriento"
+
+msgid "cosmetic_desc_water_shards_bt"
+msgstr ""
+"Apariencia sangrienta para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_bt"
+msgstr "Lento: sangriento"
+
+msgid "cosmetic_desc_water_slow_bt"
+msgstr ""
+"Apariencia sangrienta para Slow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_bt"
+msgstr "Lluvia tóxica: sangre"
+
+msgid "cosmetic_desc_water_toxic_rain_bt"
+msgstr ""
+"Apariencia sangrienta para la lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_bt"
+msgstr "Debilitar el escalofrío: la sangre"
+
+msgid "cosmetic_desc_water_weakening_chill_bt"
+msgstr ""
+"Apariencia sanguínea para Chill de enfriamiento. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_lg"
+msgstr "Blizzard: oro líquido"
+
+msgid "cosmetic_desc_water_blizzard_lg"
+msgstr ""
+"Liquid Gold apariencia para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_lg"
+msgstr "Disparo retardado: oro líquido"
+
+msgid "cosmetic_desc_water_delayed_shot_lg"
+msgstr ""
+"Liquid Gold apariencia para Delayed Shot. Preserva la silueta del hechizo, "
+"el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_lg"
+msgstr "Hemorragia: oro líquido"
+
+msgid "cosmetic_desc_water_frostbite_lg"
+msgstr ""
+"Aparición de oro líquido para Frostbite. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_lg"
+msgstr "Tormenta de hielo: oro líquido"
+
+msgid "cosmetic_desc_water_ice_storm_lg"
+msgstr ""
+"Aparición de oro líquido para la tormenta de hielo. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_lg"
+msgstr "Cíclica: oro líquido"
+
+msgid "cosmetic_desc_water_icicle_lg"
+msgstr ""
+"Aparición de oro líquido para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_lg"
+msgstr "Shards: oro líquido"
+
+msgid "cosmetic_desc_water_shards_lg"
+msgstr ""
+"Aparición de oro líquido para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_lg"
+msgstr "Lento: oro líquido"
+
+msgid "cosmetic_desc_water_slow_lg"
+msgstr ""
+"Aparición de Oro líquido para Lenta. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_lg"
+msgstr "Lluvia tóxica: oro líquido"
+
+msgid "cosmetic_desc_water_toxic_rain_lg"
+msgstr ""
+"Aparición de oro líquido para lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_lg"
+msgstr "Enfriamiento debilitado: oro líquido"
+
+msgid "cosmetic_desc_water_weakening_chill_lg"
+msgstr ""
+"Aparición de oro líquido para gallinero. Preserva la silueta del hechizo, el"
+" movimiento y el tiempo."
+
+msgid "cosmetic_name_water_blizzard_bw"
+msgstr "Blizzard: agua dulce"
+
+msgid "cosmetic_desc_water_blizzard_bw"
+msgstr ""
+"Aparición de agua dulce para Blizzard. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_delayed_shot_bw"
+msgstr "Disparo retardado: blightwater"
+
+msgid "cosmetic_desc_water_delayed_shot_bw"
+msgstr ""
+"Aparición de agua dulce para Zapato Dilatado. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_frostbite_bw"
+msgstr "Frostbite: agua dulce"
+
+msgid "cosmetic_desc_water_frostbite_bw"
+msgstr ""
+"Aparición de agua dulce para Frostbite. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_ice_storm_bw"
+msgstr "Tormenta de hielo: agua dulce"
+
+msgid "cosmetic_desc_water_ice_storm_bw"
+msgstr ""
+"Aparición de agua dulce para Ice Storm. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_icicle_bw"
+msgstr "Cíclica: agua dulce"
+
+msgid "cosmetic_desc_water_icicle_bw"
+msgstr ""
+"Aparición de agua dulce para Icicle. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_shards_bw"
+msgstr "Shards: blightwater"
+
+msgid "cosmetic_desc_water_shards_bw"
+msgstr ""
+"Aparición de agua dulce para Shards. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_slow_bw"
+msgstr "Lento: agua dulce"
+
+msgid "cosmetic_desc_water_slow_bw"
+msgstr ""
+"Aparición de agua dulce para Slow. Preserva la silueta del hechizo, el "
+"movimiento y el tiempo."
+
+msgid "cosmetic_name_water_toxic_rain_bw"
+msgstr "Lluvia tóxica: agua dulce"
+
+msgid "cosmetic_desc_water_toxic_rain_bw"
+msgstr ""
+"Aparición de agua dulce para la lluvia tóxica. Preserva la silueta del "
+"hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_water_weakening_chill_bw"
+msgstr "Debilidad del frío: agua dulce"
+
+msgid "cosmetic_desc_water_weakening_chill_bw"
+msgstr ""
+"Apariencia de agua dulce para el chil de enfriamiento. Preserva la silueta "
+"del hechizo, el movimiento y el tiempo."
+
+msgid "cosmetic_name_groove"
+msgstr "Groove"
+
+msgid "cosmetic_desc_groove"
+msgstr ""
+"Un baile suelto y columpio: brazos tirados a través del cuerpo, uno "
+"enrollado de ancho, rodillas rebotando."
