@@ -308,6 +308,23 @@ msgstr ""
 "Royal Thunder appearance for Tornado. Preserves the spell silhouette, "
 "movement and timing."
 
+msgid "cosmetic_desc_battlehorn_ember"
+msgstr ""
+"Black volcanic hide with magma glowing in the seams and burning hooves."
+
+msgid "cosmetic_desc_bluetail_runner_ember"
+msgstr ""
+"Black volcanic scales with magma glowing in the seams, brightest at the tail."
+
+msgid "cosmetic_desc_death_pig_ember"
+msgstr ""
+"Black volcanic hide with magma glowing in the seams and burning hooves."
+
+msgid "cosmetic_desc_disco"
+msgstr ""
+"A funky disco dance: arms whipping about, hips bouncing, head bobbing to the "
+"beat."
+
 msgid "cosmetic_desc_earth_acid_arrow_as"
 msgstr ""
 "Quicksilver appearance for Acid Arrow. Preserves the spell silhouette, "
@@ -577,6 +594,9 @@ msgid "cosmetic_desc_earth_tarnish_rq"
 msgstr ""
 "Rose Quartz appearance for Tarnish. Preserves the spell silhouette, movement "
 "and timing."
+
+msgid "cosmetic_desc_eradan_ember"
+msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
 msgid "cosmetic_desc_fire_dragonbreath_af"
 msgstr ""
@@ -848,10 +868,17 @@ msgstr ""
 "Witchfire appearance for Weakening Blaze. Preserves the spell silhouette, "
 "movement and timing."
 
+msgid "cosmetic_desc_garmir_ember"
+msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
+
 msgid "cosmetic_desc_groove"
 msgstr ""
 "A loose, swinging dance: arms thrown across the body, one flung wide, knees "
 "bouncing."
+
+msgid "cosmetic_desc_horse_ember"
+msgstr ""
+"Black volcanic hide with magma glowing in the seams and a smouldering tail."
 
 msgid "cosmetic_desc_mana_missile_amber"
 msgstr ""
@@ -887,6 +914,12 @@ msgid "cosmetic_desc_mana_missile_violet"
 msgstr ""
 "Violet accents for Mana Missile. Retains the original casting cues and spell "
 "shape."
+
+msgid "cosmetic_desc_shulgan_drake_ember"
+msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
+
+msgid "cosmetic_desc_tribeland_bear_ember"
+msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
 msgid "cosmetic_desc_water_blizzard_bt"
 msgstr ""
@@ -1341,6 +1374,18 @@ msgstr "Tornado: Aurora"
 msgid "cosmetic_name_air_tornado_va"
 msgstr "Tornado: Royal Thunder"
 
+msgid "cosmetic_name_battlehorn_ember"
+msgstr "Emberscale Battlehorn"
+
+msgid "cosmetic_name_bluetail_runner_ember"
+msgstr "Emberscale Bluetail Runner"
+
+msgid "cosmetic_name_death_pig_ember"
+msgstr "Emberscale Death Pig"
+
+msgid "cosmetic_name_disco"
+msgstr "Disco"
+
 msgid "cosmetic_name_earth_acid_arrow_as"
 msgstr "Acid Arrow: Quicksilver"
 
@@ -1502,6 +1547,9 @@ msgstr "Tarnish: Quicksilver"
 
 msgid "cosmetic_name_earth_tarnish_rq"
 msgstr "Tarnish: Rose Quartz"
+
+msgid "cosmetic_name_eradan_ember"
+msgstr "Emberscale Eradan"
 
 msgid "cosmetic_name_fire_dragonbreath_af"
 msgstr "Dragonbreath: Amethyst Flame"
@@ -1665,8 +1713,14 @@ msgstr "Weakening Blaze: Ghostfire"
 msgid "cosmetic_name_fire_weakening_blaze_wf"
 msgstr "Weakening Blaze: Witchfire"
 
+msgid "cosmetic_name_garmir_ember"
+msgstr "Emberscale Garmir"
+
 msgid "cosmetic_name_groove"
 msgstr "Groove"
+
+msgid "cosmetic_name_horse_ember"
+msgstr "Emberscale Horse"
 
 msgid "cosmetic_name_mana_missile_amber"
 msgstr "Mana Missile: Amber"
@@ -1688,6 +1742,12 @@ msgstr "Mana Missile: Pink"
 
 msgid "cosmetic_name_mana_missile_violet"
 msgstr "Mana Missile: Violet"
+
+msgid "cosmetic_name_shulgan_drake_ember"
+msgstr "Emberscale Shulgan Drake"
+
+msgid "cosmetic_name_tribeland_bear_ember"
+msgstr "Emberscale Tribeland Bear"
 
 msgid "cosmetic_name_water_blizzard_bt"
 msgstr "Blizzard: Bloodtide"
@@ -2025,12 +2085,14 @@ msgstr " "
 
 msgid "desc_r_Ancient Essence"
 msgstr ""
-"Power drawn from the dead. Use it to attune the essence into your pool."
+"Double-click to add it to your essence pool, one essence per bottle. Essence "
+"pays for your aura, your capstone and Mastery Trials, and comes from the "
+"monsters you kill."
 
 msgid "desc_r_Ancient Orb"
 msgstr ""
-"Older and colder than the lesser orbs, and far rarer. Only the mightiest "
-"carry one."
+"Mastery Trials II to IV at Slayer Master Aero need these as well as Mastery "
+"Orbs. Only Aero sells them, for Slayer Points."
 
 msgid "desc_r_Ancient Quintessence"
 msgstr "Ingredient used for enchanting."
@@ -11314,12 +11376,15 @@ msgstr ""
 "blocking attacks."
 
 msgid "desc_r_Mastery Items"
-msgstr "Orbs and essence for the mastery paths."
+msgstr ""
+"Mastery Orbs, Ancient Orbs and Ancient Essence, for the Mastery Trials at "
+"Slayer Master Aero."
 
 msgid "desc_r_Mastery Orb"
 msgstr ""
-"A knot of bound power, prised from something strong enough to be worth "
-"killing."
+"Spent on Mastery Trials to raise your mastery's level cap by 10. Aero sells "
+"them for Slayer Points, and Hard and Very Hard monsters drop them very "
+"rarely, Very Hard more often."
 
 msgid "desc_r_Matayin"
 msgstr " "
@@ -11751,6 +11816,9 @@ msgstr "This tool is used in herbalism, to grind and mix substances."
 
 msgid "desc_r_Mouldy Crate"
 msgstr " "
+
+msgid "desc_r_Mount Skin Scroll"
+msgstr "Double click to add a new mount skin to your account!"
 
 msgid "desc_r_Mounted Badger Head"
 msgstr " "
@@ -12678,6 +12746,11 @@ msgid "desc_r_Pester"
 msgstr ""
 "Although technically a spear, for anyone larger than a brownie it's more "
 "commonly used used as a sword due to its size."
+
+msgid "desc_r_Pet The White Rabbit"
+msgstr ""
+"A white rabbit with glowing red eyes, wearing a Minotaur helm and carrying "
+"the Lightbringer."
 
 msgid "desc_r_Pheasant"
 msgstr "  "
@@ -15116,24 +15189,30 @@ msgstr ""
 "are bent or broken in half. "
 
 msgid "desc_r_Slayer Cache"
-msgstr "Press Use to open it. This requires a Slayer Cache Key."
+msgstr ""
+"Press Use with a Slayer Cache Key in your bag to open it for one sealed "
+"Immaculate talisman. Slayer Master Aero sells the keys."
 
 msgid "desc_r_Slayer Cache Key"
-msgstr "Opens a Slayer Cache."
+msgstr ""
+"Opens one Slayer Cache, the chest at Slayer Master Aero's camps, which holds "
+"a sealed Immaculate talisman. Aero sells the keys for Slayer Points."
 
 msgid "desc_r_Slayer Contract Board"
 msgstr "Slayer Contract Board."
 
 msgid "desc_r_Slayer Contract Slot"
-msgstr "Lets you hold one more slayer contract at a time."
+msgstr "Lets you hold one more Slayer contract at a time, up to 3 in all."
 
 msgid "desc_r_Slayer Extra Talisman Slot"
 msgstr ""
-"Lets you wear one more Slayer talisman at a time. Each slot needs a higher "
-"Slayer level."
+"Opens one more talisman slot on your paperdoll, up to 3. The second slot "
+"needs Slayer level 50 and the third level 75."
 
 msgid "desc_r_Slayer Services"
-msgstr "Unlocks a Slayer Master sells for slayer points."
+msgstr ""
+"Slot upgrades Slayer Master Aero sells for Slayer Points: more contracts and "
+"talismans at once."
 
 msgid "desc_r_Slayer Slow Recall"
 msgstr "Unlocks the Slayer's slow recall to your bindstone. Bought once."
@@ -15145,18 +15224,18 @@ msgstr ""
 
 msgid "desc_r_Slayer Talisman Exceptional"
 msgstr ""
-"A slayer's charm, carried in the rune book slot. Its power is whatever it "
-"was forged with - no two are alike."
+"Wear it in a talisman slot on your paperdoll. Its rolled bonuses work only "
+"against monsters and switch off while you are in PvP combat."
 
 msgid "desc_r_Slayer Talisman Fine"
 msgstr ""
-"A slayer's charm, carried in the rune book slot. Its power is whatever it "
-"was forged with - no two are alike."
+"Wear it in a talisman slot on your paperdoll. Its rolled bonuses work only "
+"against monsters and switch off while you are in PvP combat."
 
 msgid "desc_r_Slayer Talisman Immaculate"
 msgstr ""
-"A slayer's charm, carried in the rune book slot. Its power is whatever it "
-"was forged with - no two are alike."
+"Wear it in a talisman slot on your paperdoll. Its rolled bonuses work only "
+"against monsters and switch off while you are in PvP combat."
 
 msgid "desc_r_Slayer Talisman Mythic"
 msgstr ""
@@ -15165,8 +15244,8 @@ msgstr ""
 
 msgid "desc_r_Slayer Talisman Peerless"
 msgstr ""
-"A slayer's charm, carried in the rune book slot. Its power is whatever it "
-"was forged with - no two are alike."
+"Wear it in a talisman slot on your paperdoll. Its rolled bonuses work only "
+"against monsters and switch off while you are in PvP combat."
 
 msgid "desc_r_Slayer Talisman Runed"
 msgstr ""
@@ -15175,33 +15254,34 @@ msgstr ""
 
 msgid "desc_r_Slayer Talisman Superior"
 msgstr ""
-"A slayer's charm, carried in the rune book slot. Its power is whatever it "
-"was forged with - no two are alike."
+"Wear it in a talisman slot on your paperdoll. Its rolled bonuses work only "
+"against monsters and switch off while you are in PvP combat."
 
 msgid "desc_r_Slayer Talisman Unidentified Exceptional"
 msgstr ""
-"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
-"Right-click to identify it."
+"Double-click to identify it and see its bonuses, then wear it in a talisman "
+"slot on your paperdoll. Finished Slayer contracts pay these."
 
 msgid "desc_r_Slayer Talisman Unidentified Fine"
 msgstr ""
-"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
-"Right-click to identify it."
+"Double-click to identify it and see its bonuses, then wear it in a talisman "
+"slot on your paperdoll. Finished Slayer contracts pay these."
 
 msgid "desc_r_Slayer Talisman Unidentified Immaculate"
 msgstr ""
-"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
-"Right-click to identify it."
+"Double-click to identify it and see its bonuses, then wear it in a talisman "
+"slot on your paperdoll. Every Slayer Cache holds one, and the hardest "
+"contracts rarely pay one."
 
 msgid "desc_r_Slayer Talisman Unidentified Peerless"
 msgstr ""
-"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
-"Right-click to identify it."
+"Double-click to identify it and see its bonuses, then wear it in a talisman "
+"slot on your paperdoll. Finished Slayer contracts pay these."
 
 msgid "desc_r_Slayer Talisman Unidentified Superior"
 msgstr ""
-"A sealed slayer talisman. The grade is plain enough; what it rolled is not. "
-"Right-click to identify it."
+"Double-click to identify it and see its bonuses, then wear it in a talisman "
+"slot on your paperdoll. Finished Slayer contracts pay these."
 
 msgid "desc_r_Slayer Talisman Vaulted"
 msgstr ""
@@ -21339,6 +21419,9 @@ msgstr "A collectible toy that summons a Svartdvergir Summoner pet."
 msgid "desc_r_toy_swamp_hag"
 msgstr "A rare collectible Swamp Hag toy."
 
+msgid "desc_r_toy_the_white_rabbit"
+msgstr "A collectible toy that summons The White Rabbit pet."
+
 msgid "desc_r_toy_theyril_golem"
 msgstr "A rare collectible Theyril Golem toy."
 
@@ -21450,6 +21533,11 @@ msgstr ""
 "Double click to add a new item skin to your account! This scroll cannot be "
 "traded, dropped or sold, but can be stored in your bank."
 
+msgid "desc_r_ut_Mount Skin Scroll"
+msgstr ""
+"Double click to add a new mount skin to your account! This scroll cannot be "
+"traded, dropped or sold, but can be stored in your bank."
+
 msgid "desc_r_ut_Spell Skin Scroll"
 msgstr ""
 "Double click to add a new spell skin to your account! This scroll cannot be "
@@ -21526,6 +21614,9 @@ msgstr ""
 "\n"
 "A laugh that could make anyone happy."
 
+msgid "display_name_r_Mount Skin Scroll"
+msgstr "Mount Skin Scroll"
+
 msgid "display_name_r_Slayer Cache"
 msgstr "Slayer Cache"
 
@@ -21576,6 +21667,9 @@ msgstr "Vaulted Slayer Talisman"
 
 msgid "display_name_r_Slayer Talisman Worn"
 msgstr "Worn Slayer Talisman"
+
+msgid "display_name_r_ut_Mount Skin Scroll"
+msgstr "Mount Skin Scroll"
 
 msgid "r_Aberrations"
 msgstr "Aberrations"
@@ -30376,6 +30470,9 @@ msgstr "Mortar and Pestle"
 msgid "r_Mouldy Crate"
 msgstr "Mouldy Crate"
 
+msgid "r_Mount Skin Scroll"
+msgstr "Mount Skin Scroll"
+
 msgid "r_Mounted Badger Head"
 msgstr "Mounted Badger Head"
 
@@ -31821,6 +31918,9 @@ msgstr "Pet Svartdvergir Summoner"
 
 msgid "r_Pet Swamp Hag"
 msgstr "Pet Swamp Hag"
+
+msgid "r_Pet The White Rabbit"
+msgstr "The White Rabbit"
 
 msgid "r_Pet Theyril Golem"
 msgstr "Pet Theyril Golem"
@@ -37291,6 +37391,9 @@ msgstr "Pet - Svartdvergir Summoner"
 msgid "r_toy_swamp_hag"
 msgstr "Pet - Swamp Hag"
 
+msgid "r_toy_the_white_rabbit"
+msgstr "The White Rabbit Toy"
+
 msgid "r_toy_theyril_golem"
 msgstr "Pet - Theyril Golem"
 
@@ -37395,6 +37498,9 @@ msgstr "Game Time Token (Untradable)"
 
 msgid "r_ut_Item Skin Scroll"
 msgstr "Item Skin Scroll (Untradable)"
+
+msgid "r_ut_Mount Skin Scroll"
+msgstr "Mount Skin Scroll (Untradable)"
 
 msgid "r_ut_Spell Skin Scroll"
 msgstr "Spell Skin Scroll (Untradable)"

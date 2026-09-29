@@ -42,9 +42,7 @@ msgid "Filter:"
 msgstr "Filter:"
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
-msgstr ""
-"[Mastery] Your aura goes out - %1 is below mastery level %2. %3 essence "
-"returned for the time left."
+msgstr "[Mastery] Your aura goes out - %1 is below mastery level %2."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_LOCKED"
 msgstr "[Mastery] %1 aura unlocks at mastery level %2. You are level %3."
@@ -2987,6 +2985,70 @@ msgstr "Loading cosmetics..."
 msgid "cosmetic_locked"
 msgstr "Locked"
 
+msgid "cosmetic_mount_active"
+msgstr "Active"
+
+msgid "cosmetic_mount_already_owned"
+msgstr "You already own this mount skin. Your scroll has not been consumed."
+
+msgid "cosmetic_mount_and"
+msgstr "%1 and %2"
+
+msgid "cosmetic_mount_default"
+msgstr "Use Default"
+
+msgid "cosmetic_mount_empty"
+msgstr "No mount skins are available yet."
+
+msgid "cosmetic_mount_error_locked"
+msgstr "You have not unlocked this mount skin."
+
+msgid "cosmetic_mount_error_retry"
+msgstr "Mount skins could not be updated. Please try again."
+
+msgid "cosmetic_mount_error_scroll"
+msgstr "This scroll does not contain an available mount skin."
+
+msgid "cosmetic_mount_example"
+msgstr "Example"
+
+msgid "cosmetic_mount_examples_help"
+msgstr "Rows marked Example are unreleased skins: preview only."
+
+msgid "cosmetic_mount_family_note"
+msgstr "Also applies to the %1."
+
+msgid "cosmetic_mount_help"
+msgstr ""
+"Unlock a look with a Mount Skin Scroll. Each mount type wears one skin."
+
+msgid "cosmetic_mount_loading"
+msgstr "Loading mount skins..."
+
+msgid "cosmetic_mount_locked"
+msgstr "Locked"
+
+msgid "cosmetic_mount_owned"
+msgstr "Owned"
+
+msgid "cosmetic_mount_preview_missing"
+msgstr "This look's model files are not installed, so it cannot be previewed."
+
+msgid "cosmetic_mount_selection_saved"
+msgstr "Mount appearance saved."
+
+msgid "cosmetic_mount_skins"
+msgstr "Mount Skins"
+
+msgid "cosmetic_mount_standard"
+msgstr "Standard"
+
+msgid "cosmetic_mount_unlocked"
+msgstr "Mount skin unlocked."
+
+msgid "cosmetic_mount_use"
+msgstr "Use"
+
 msgid "cosmetic_owned"
 msgstr "Owned"
 
@@ -3715,6 +3777,15 @@ msgstr "Show border"
 msgid "hud_member_of_clan_name"
 msgstr "Member of %1"
 
+msgid "hud_souls_tooltip_count"
+msgstr "Souls: %1 / %2"
+
+msgid "hud_souls_tooltip_count_uncapped"
+msgstr "Souls: %1"
+
+msgid "hud_souls_tooltip_use"
+msgstr "Spent on your aura, capstone and Mastery Trials."
+
 msgid "hud_special_title"
 msgstr "A.K.A. %1"
 
@@ -4109,6 +4180,9 @@ msgstr "Melee Protection Lesser"
 
 msgid "item_mental_protection"
 msgstr "Mental"
+
+msgid "item_mount_skin_name_suffix"
+msgstr "Mount Skin"
 
 msgid "item_negative_effect_protection"
 msgstr "Protection against everything"
@@ -5335,6 +5409,12 @@ msgstr ""
 msgid "mainmenu_admin"
 msgstr "Admin"
 
+msgid "mainmenu_admin_items"
+msgstr "Items"
+
+msgid "mainmenu_admin_race_alliances"
+msgstr "Race Alliances"
+
 msgid "mainmenu_announcements"
 msgstr "Announcements"
 
@@ -6544,6 +6624,9 @@ msgstr "Maximum lifesteal raised to 20%."
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Maximum lifesteal raised to 25%."
 
+msgid "mastery_alt_berserker_bloodthirst_rank4"
+msgstr "Maximum lifesteal raised to 25%."
+
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr "Attack speed rises with missing health: up to +20% at low health."
 
@@ -6557,6 +6640,9 @@ msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Special cooldowns drop up to -20%."
 
 msgid "mastery_alt_berserker_frenzy_rank3"
+msgstr "Special cooldowns drop up to -30%."
+
+msgid "mastery_alt_berserker_frenzy_rank4"
 msgstr "Special cooldowns drop up to -30%."
 
 msgid "mastery_alt_berserker_laststand_desc"
@@ -6582,6 +6668,11 @@ msgstr ""
 "ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
 "Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
 
+msgid "mastery_alt_berserker_laststand_rank4"
+msgstr ""
+"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
+"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
+
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "Whirlwind Attack deals +8% damage per monster around you, counting up to 3 "
@@ -6597,6 +6688,9 @@ msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Counts up to 5 monsters (max +40%)."
 
 msgid "mastery_alt_berserker_maelstrom_rank3"
+msgstr "Counts up to 6 monsters (max +48%)."
+
+msgid "mastery_alt_berserker_maelstrom_rank4"
 msgstr "Counts up to 6 monsters (max +48%)."
 
 msgid "mastery_alt_berserker_onslaught_desc"
@@ -6616,6 +6710,9 @@ msgstr "The bonus never fades below +10%."
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "The bonus never fades below +15%."
 
+msgid "mastery_alt_berserker_onslaught_rank4"
+msgstr "The bonus never fades below +15%."
+
 msgid "mastery_alt_blightcaller_blight_desc"
 msgstr ""
 "Cursed Bolt stacks a poison: 5 damage per stack over 4 seconds, up to 5 "
@@ -6631,6 +6728,9 @@ msgid "mastery_alt_blightcaller_blight_rank2"
 msgstr "Stacks up to 12."
 
 msgid "mastery_alt_blightcaller_blight_rank3"
+msgstr "Stacks up to 16."
+
+msgid "mastery_alt_blightcaller_blight_rank4"
 msgstr "Stacks up to 16."
 
 msgid "mastery_alt_blightcaller_glut_desc"
@@ -6650,6 +6750,9 @@ msgstr "Also converts surplus stamina."
 msgid "mastery_alt_blightcaller_glut_rank3"
 msgstr "Conversion rises to 1.5 damage per point."
 
+msgid "mastery_alt_blightcaller_glut_rank4"
+msgstr "Conversion rises to 1.5 damage per point."
+
 msgid "mastery_alt_blightcaller_miasma_desc"
 msgstr "Curses hit every monster within 5m of the target."
 
@@ -6663,6 +6766,9 @@ msgid "mastery_alt_blightcaller_miasma_rank2"
 msgstr "+20% stronger."
 
 msgid "mastery_alt_blightcaller_miasma_rank3"
+msgstr "+30% stronger."
+
+msgid "mastery_alt_blightcaller_miasma_rank4"
 msgstr "+30% stronger."
 
 msgid "mastery_alt_blightcaller_siphon_desc"
@@ -6680,6 +6786,9 @@ msgid "mastery_alt_blightcaller_siphon_rank2"
 msgstr "A 15% chance."
 
 msgid "mastery_alt_blightcaller_siphon_rank3"
+msgstr "A 20% chance."
+
+msgid "mastery_alt_blightcaller_siphon_rank4"
 msgstr "A 20% chance."
 
 msgid "mastery_alt_blightcaller_virulence_desc"
@@ -6701,6 +6810,11 @@ msgstr ""
 "3 minute cooldown. Drag it onto your hotbar from the Skills window."
 
 msgid "mastery_alt_blightcaller_virulence_rank3"
+msgstr ""
+"ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
+"3 minute cooldown. Drag it onto your hotbar from the Skills window."
+
+msgid "mastery_alt_blightcaller_virulence_rank4"
 msgstr ""
 "ACTIVE: all your damage-over-time effects tick twice as fast for 20 seconds. "
 "3 minute cooldown. Drag it onto your hotbar from the Skills window."
@@ -6732,9 +6846,12 @@ msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Each stack bleeds 1.5% a second."
 
 msgid "mastery_alt_cutthroat_gore_rank2"
-msgstr "1.9% a second."
+msgstr "1.8% a second."
 
 msgid "mastery_alt_cutthroat_gore_rank3"
+msgstr "2.1% a second."
+
+msgid "mastery_alt_cutthroat_gore_rank4"
 msgstr "2.4% a second."
 
 msgid "mastery_alt_cutthroat_momentum_desc"
@@ -6749,9 +6866,12 @@ msgid "mastery_alt_cutthroat_momentum_rank1"
 msgstr "Up to +20%."
 
 msgid "mastery_alt_cutthroat_momentum_rank2"
-msgstr "Up to +25%."
+msgstr "Up to +22%."
 
 msgid "mastery_alt_cutthroat_momentum_rank3"
+msgstr "Up to +26%."
+
+msgid "mastery_alt_cutthroat_momentum_rank4"
 msgstr "Up to +30%."
 
 msgid "mastery_alt_cutthroat_opening_desc"
@@ -6771,6 +6891,9 @@ msgstr "Grants 3 Gore stacks."
 msgid "mastery_alt_cutthroat_opening_rank3"
 msgstr "Grants 4 Gore stacks."
 
+msgid "mastery_alt_cutthroat_opening_rank4"
+msgstr "Grants 5 Gore stacks."
+
 msgid "mastery_alt_cutthroat_redharvest_desc"
 msgstr ""
 "ACTIVE: for 10 seconds your wounds tick twice as fast and your Gore stacks "
@@ -6780,12 +6903,15 @@ msgid "mastery_alt_cutthroat_redharvest_name"
 msgstr "Red Harvest"
 
 msgid "mastery_alt_cutthroat_redharvest_rank1"
-msgstr "Each tick hits 12.5% harder, cooldown 2 minutes 45 seconds."
+msgstr "Each tick hits 12.5% harder, cooldown 2 minutes 50 seconds."
 
 msgid "mastery_alt_cutthroat_redharvest_rank2"
-msgstr "Each tick hits 25% harder, cooldown 2 minutes 30 seconds."
+msgstr "Each tick hits 25% harder, cooldown 2 minutes 40 seconds."
 
 msgid "mastery_alt_cutthroat_redharvest_rank3"
+msgstr "Each tick hits 37.5% harder, cooldown 2 minutes 25 seconds."
+
+msgid "mastery_alt_cutthroat_redharvest_rank4"
 msgstr "Each tick hits 50% harder, cooldown 2 minutes 15 seconds."
 
 msgid "mastery_alt_cutthroat_rupture_desc"
@@ -6807,6 +6933,9 @@ msgstr "Up to 3 times."
 msgid "mastery_alt_cutthroat_rupture_rank3"
 msgstr "Up to 4 times."
 
+msgid "mastery_alt_cutthroat_rupture_rank4"
+msgstr "Up to 5 times."
+
 msgid "mastery_alt_damaging_blow"
 msgstr "Damaging Blow"
 
@@ -6820,17 +6949,20 @@ msgid "mastery_alt_deadeye_breach_name"
 msgstr "Breach"
 
 msgid "mastery_alt_deadeye_breach_rank1"
-msgstr "Strips up to 5 points."
+msgstr "Strips up to 4.75 points."
 
 msgid "mastery_alt_deadeye_breach_rank2"
-msgstr "Strips up to 6 points."
+msgstr "Strips up to 5.5 points."
 
 msgid "mastery_alt_deadeye_breach_rank3"
+msgstr "Strips up to 6.25 points."
+
+msgid "mastery_alt_deadeye_breach_rank4"
 msgstr "Strips up to 7 points."
 
 msgid "mastery_alt_deadeye_cadence_desc"
 msgstr ""
-"Every 8th arrow you land on a monster is a critical hit for +100% damage. "
+"Every 9th arrow you land on a monster is a critical hit for +100% damage. "
 "Switching targets keeps the count. A miss or 6 seconds without a hit clears "
 "it."
 
@@ -6838,30 +6970,34 @@ msgid "mastery_alt_deadeye_cadence_name"
 msgstr "Bullseye"
 
 msgid "mastery_alt_deadeye_cadence_rank1"
-msgstr "Crits on every 7th arrow."
+msgstr "Crits on every 8th arrow."
 
 msgid "mastery_alt_deadeye_cadence_rank2"
-msgstr "Crits on every 6th arrow."
+msgstr "Crits on every 7th arrow."
 
 msgid "mastery_alt_deadeye_cadence_rank3"
+msgstr "Crits on every 6th arrow."
+
+msgid "mastery_alt_deadeye_cadence_rank4"
 msgstr "Crits on every 5th arrow."
 
 msgid "mastery_alt_deadeye_precision_desc"
-msgstr ""
-"A miss costs 4 hits of your Bullseye count and your Second Nature stacks "
-"instead of clearing them."
+msgstr "Your bow shots cost 20% less stamina."
 
 msgid "mastery_alt_deadeye_precision_name"
-msgstr "Forgiving Aim"
+msgstr "Light Draw"
 
 msgid "mastery_alt_deadeye_precision_rank1"
-msgstr "A miss costs 3 hits."
+msgstr "25% less stamina."
 
 msgid "mastery_alt_deadeye_precision_rank2"
-msgstr "A miss costs 2 hits."
+msgstr "30% less stamina."
 
 msgid "mastery_alt_deadeye_precision_rank3"
-msgstr "A miss costs 1 hit."
+msgstr "35% less stamina."
+
+msgid "mastery_alt_deadeye_precision_rank4"
+msgstr "40% less stamina."
 
 msgid "mastery_alt_deadeye_ranging_desc"
 msgstr ""
@@ -6873,12 +7009,15 @@ msgid "mastery_alt_deadeye_ranging_name"
 msgstr "Second Nature"
 
 msgid "mastery_alt_deadeye_ranging_rank1"
-msgstr "Up to 26% off your draw time."
+msgstr "Up to 25% off your draw time."
 
 msgid "mastery_alt_deadeye_ranging_rank2"
-msgstr "Up to 32% off your draw time."
+msgstr "Up to 30% off your draw time."
 
 msgid "mastery_alt_deadeye_ranging_rank3"
+msgstr "Up to 35% off your draw time."
+
+msgid "mastery_alt_deadeye_ranging_rank4"
 msgstr "Up to 40% off your draw time."
 
 msgid "mastery_alt_deadeye_volley_desc"
@@ -6891,12 +7030,15 @@ msgid "mastery_alt_deadeye_volley_name"
 msgstr "Phantom Quiver"
 
 msgid "mastery_alt_deadeye_volley_rank1"
-msgstr "Lasts 13 seconds, cooldown 2 minutes 45 seconds."
+msgstr "Lasts 12 seconds, cooldown 2 minutes 50 seconds."
 
 msgid "mastery_alt_deadeye_volley_rank2"
-msgstr "Lasts 16 seconds, cooldown 2 minutes 30 seconds."
+msgstr "Lasts 15 seconds, cooldown 2 minutes 40 seconds."
 
 msgid "mastery_alt_deadeye_volley_rank3"
+msgstr "Lasts 17 seconds, cooldown 2 minutes 25 seconds."
+
+msgid "mastery_alt_deadeye_volley_rank4"
 msgstr "Lasts 20 seconds, cooldown 2 minutes 15 seconds."
 
 msgid "mastery_alt_detail"
@@ -6925,6 +7067,9 @@ msgstr "Payload strength +50%."
 msgid "mastery_alt_elementalist_cascade_rank3"
 msgstr "Payload strength +75%."
 
+msgid "mastery_alt_elementalist_cascade_rank4"
+msgstr "Payload strength +75%."
+
 msgid "mastery_alt_elementalist_chainreaction_desc"
 msgstr "Detonating a mark seeds marks at 40% strength on monsters within 4m."
 
@@ -6938,6 +7083,9 @@ msgid "mastery_alt_elementalist_chainreaction_rank2"
 msgstr "At 80% strength."
 
 msgid "mastery_alt_elementalist_chainreaction_rank3"
+msgstr "At full strength."
+
+msgid "mastery_alt_elementalist_chainreaction_rank4"
 msgstr "At full strength."
 
 msgid "mastery_alt_elementalist_enduringstorms_desc"
@@ -6955,6 +7103,9 @@ msgid "mastery_alt_elementalist_enduringstorms_rank2"
 msgstr "Up to +60% more."
 
 msgid "mastery_alt_elementalist_enduringstorms_rank3"
+msgstr "Up to +90% more."
+
+msgid "mastery_alt_elementalist_enduringstorms_rank4"
 msgstr "Up to +90% more."
 
 msgid "mastery_alt_elementalist_overload_desc"
@@ -6980,6 +7131,11 @@ msgstr ""
 "ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
 "cooldown. Drag it onto your hotbar from the Skills window."
 
+msgid "mastery_alt_elementalist_overload_rank4"
+msgstr ""
+"ACTIVE: +50% spell damage against monsters for 20 seconds. 3 minute "
+"cooldown. Drag it onto your hotbar from the Skills window."
+
 msgid "mastery_alt_elementalist_residue_desc"
 msgstr ""
 "Elemental bolts leave a mark dealing 15% of the bolt damage over 5 seconds: "
@@ -6995,6 +7151,9 @@ msgid "mastery_alt_elementalist_residue_rank2"
 msgstr "Raised to 25% of the bolt."
 
 msgid "mastery_alt_elementalist_residue_rank3"
+msgstr "Raised to 30% of the bolt."
+
+msgid "mastery_alt_elementalist_residue_rank4"
 msgstr "Raised to 30% of the bolt."
 
 msgid "mastery_alt_ironskin"
@@ -7018,12 +7177,15 @@ msgid "mastery_alt_oracle_benediction_name"
 msgstr "Benediction"
 
 msgid "mastery_alt_oracle_benediction_rank1"
-msgstr "Raised to +130%, for +130% mana."
+msgstr "Raised to +125%, for +125% mana."
 
 msgid "mastery_alt_oracle_benediction_rank2"
-msgstr "Raised to +160%, for +160% mana."
+msgstr "Raised to +150%, for +150% mana."
 
 msgid "mastery_alt_oracle_benediction_rank3"
+msgstr "Raised to +175%, for +175% mana."
+
+msgid "mastery_alt_oracle_benediction_rank4"
 msgstr "Raised to +200%, for +200% mana."
 
 msgid "mastery_alt_oracle_communion_desc"
@@ -7035,12 +7197,15 @@ msgid "mastery_alt_oracle_communion_name"
 msgstr "Communion"
 
 msgid "mastery_alt_oracle_communion_rank1"
-msgstr "Heals for 60%."
+msgstr "Heals for 55%."
 
 msgid "mastery_alt_oracle_communion_rank2"
-msgstr "Heals for 80%."
+msgstr "Heals for 70%."
 
 msgid "mastery_alt_oracle_communion_rank3"
+msgstr "Heals for 85%."
+
+msgid "mastery_alt_oracle_communion_rank4"
 msgstr "Heals for 100%."
 
 msgid "mastery_alt_oracle_quickening_desc"
@@ -7055,10 +7220,13 @@ msgid "mastery_alt_oracle_quickening_rank1"
 msgstr "Also strips curses on stats and protections."
 
 msgid "mastery_alt_oracle_quickening_rank2"
-msgstr "Strips any debuff, including slows, paralysis, mana penalties."
+msgstr "Strips 2 debuffs per cast."
 
 msgid "mastery_alt_oracle_quickening_rank3"
-msgstr "Strips 2 debuffs per cast."
+msgstr "Strips any debuff, including slows, paralysis, mana penalties."
+
+msgid "mastery_alt_oracle_quickening_rank4"
+msgstr "Strips 3 debuffs per cast."
 
 msgid "mastery_alt_oracle_sanctuary_desc"
 msgstr ""
@@ -7071,12 +7239,15 @@ msgid "mastery_alt_oracle_sanctuary_name"
 msgstr "Sanctuary"
 
 msgid "mastery_alt_oracle_sanctuary_rank1"
-msgstr "Restores 12 every 2 seconds for 13 seconds. 165 second cooldown."
+msgstr "Restores 11.5 every 2 seconds for 12 seconds. 170 second cooldown."
 
 msgid "mastery_alt_oracle_sanctuary_rank2"
-msgstr "Restores 14 every 2 seconds for 16 seconds. 150 second cooldown."
+msgstr "Restores 13 every 2 seconds for 15 seconds. 160 second cooldown."
 
 msgid "mastery_alt_oracle_sanctuary_rank3"
+msgstr "Restores 14.5 every 2 seconds for 17 seconds. 145 second cooldown."
+
+msgid "mastery_alt_oracle_sanctuary_rank4"
 msgstr "Restores 16 every 2 seconds for 20 seconds. 135 second cooldown."
 
 msgid "mastery_alt_oracle_warding_desc"
@@ -7088,12 +7259,15 @@ msgid "mastery_alt_oracle_warding_name"
 msgstr "Binding Heal"
 
 msgid "mastery_alt_oracle_warding_rank1"
-msgstr "Raised to 50%."
+msgstr "Raised to 44%."
 
 msgid "mastery_alt_oracle_warding_rank2"
-msgstr "Raised to 75%."
+msgstr "Raised to 62%."
 
 msgid "mastery_alt_oracle_warding_rank3"
+msgstr "Raised to 81%."
+
+msgid "mastery_alt_oracle_warding_rank4"
 msgstr "Raised to 100%."
 
 msgid "mastery_alt_rank_bar_title"
@@ -7101,6 +7275,9 @@ msgstr "%1 rank"
 
 msgid "mastery_alt_rank_label"
 msgstr "%1  %2/%3"
+
+msgid "mastery_alt_rank_lowered"
+msgstr "lowered - %1 reached"
 
 msgid "mastery_alt_reactive_plating"
 msgstr "Reactive Plating"
@@ -7130,12 +7307,15 @@ msgid "mastery_alt_vanguard_aegis_name"
 msgstr "Aegis"
 
 msgid "mastery_alt_vanguard_aegis_rank1"
-msgstr "Every 17 seconds."
+msgstr "Every 18 seconds."
 
 msgid "mastery_alt_vanguard_aegis_rank2"
-msgstr "Every 15 seconds."
+msgstr "Every 16 seconds."
 
 msgid "mastery_alt_vanguard_aegis_rank3"
+msgstr "Every 14 seconds."
+
+msgid "mastery_alt_vanguard_aegis_rank4"
 msgstr "Every 12 seconds."
 
 msgid "mastery_alt_vanguard_bulwark_desc"
@@ -7147,12 +7327,15 @@ msgid "mastery_alt_vanguard_bulwark_name"
 msgstr "Bulwark"
 
 msgid "mastery_alt_vanguard_bulwark_rank1"
-msgstr "10 per hit."
+msgstr "9 per hit."
 
 msgid "mastery_alt_vanguard_bulwark_rank2"
-msgstr "14 per hit."
+msgstr "12 per hit."
 
 msgid "mastery_alt_vanguard_bulwark_rank3"
+msgstr "15 per hit."
+
+msgid "mastery_alt_vanguard_bulwark_rank4"
 msgstr "18 per hit."
 
 msgid "mastery_alt_vanguard_provoke_desc"
@@ -7164,12 +7347,15 @@ msgid "mastery_alt_vanguard_provoke_name"
 msgstr "Provoke"
 
 msgid "mastery_alt_vanguard_provoke_rank1"
-msgstr "Reach 9.4 metres."
+msgstr "Reach 8.9 metres."
 
 msgid "mastery_alt_vanguard_provoke_rank2"
-msgstr "Reach 11.3 metres."
+msgstr "Reach 10.3 metres."
 
 msgid "mastery_alt_vanguard_provoke_rank3"
+msgstr "Reach 11.7 metres."
+
+msgid "mastery_alt_vanguard_provoke_rank4"
 msgstr "Reach 13.1 metres."
 
 msgid "mastery_alt_vanguard_shieldslam_desc"
@@ -7181,12 +7367,15 @@ msgid "mastery_alt_vanguard_shieldslam_name"
 msgstr "Shield Slam"
 
 msgid "mastery_alt_vanguard_shieldslam_rank1"
-msgstr "40 bonus damage."
+msgstr "37.5 bonus damage."
 
 msgid "mastery_alt_vanguard_shieldslam_rank2"
-msgstr "50 bonus damage."
+msgstr "45 bonus damage."
 
 msgid "mastery_alt_vanguard_shieldslam_rank3"
+msgstr "52.5 bonus damage."
+
+msgid "mastery_alt_vanguard_shieldslam_rank4"
 msgstr "60 bonus damage."
 
 msgid "mastery_alt_vanguard_unbrokenline_desc"
@@ -7198,12 +7387,15 @@ msgid "mastery_alt_vanguard_unbrokenline_name"
 msgstr "Unbroken Line"
 
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
-msgstr "Cut by 65% for 13 seconds. 165 second cooldown."
+msgstr "Cut by 64% for 12 seconds. 170 second cooldown."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
-msgstr "Cut by 70% for 16 seconds. 150 second cooldown."
+msgstr "Cut by 67% for 15 seconds. 160 second cooldown."
 
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
+msgstr "Cut by 71% for 17 seconds. 145 second cooldown."
+
+msgid "mastery_alt_vanguard_unbrokenline_rank4"
 msgstr "Cut by 75% for 20 seconds. 135 second cooldown."
 
 msgid "mastery_alterations_caption"
@@ -7223,7 +7415,7 @@ msgstr "less monster damage taken by your party"
 
 msgid "mastery_aura_grant_desc"
 msgstr ""
-"Grants %1, a one-hour party aura bought with Ancient Essence. It gives %2 %3 "
+"Grants %1, a one-hour party aura that costs essence to light. It gives %2 %3 "
 "and grows with every mastery level to %4 at level %5."
 
 msgid "mastery_aura_locked"
@@ -7239,16 +7431,18 @@ msgid "mastery_detail_level"
 msgstr "Level %1 / %2"
 
 msgid "mastery_detail_level_mp"
-msgstr "Level %1 / %2   -   %3 MP"
+msgstr "Level %1 / %2   -   %3 XP"
 
 msgid "mastery_detail_level_tier"
 msgstr "Level %1 / %2   -   Tier %3 of %4"
 
 msgid "mastery_detail_level_tier_mp"
-msgstr "Level %1 / %2   -   Tier %3 of %4   -   %5 MP"
+msgstr "Level %1 / %2   -   Tier %3 of %4   -   %5 XP"
 
-msgid "mastery_essence_caption"
-msgstr "ANCIENT ESSENCE"
+msgid "mastery_essence_hint"
+msgstr ""
+"Souls stolen from the monsters you kill. Spent on your aura, your capstone "
+"and Mastery Trials."
 
 msgid "mastery_essence_value"
 msgstr "Essence %1"
@@ -7278,7 +7472,7 @@ msgid "mastery_max_level"
 msgstr "Maximum level reached"
 
 msgid "mastery_mp_amount"
-msgstr "%1 MP"
+msgstr "%1 XP"
 
 msgid "mastery_name_berserker"
 msgstr "Berserker"
@@ -7302,7 +7496,7 @@ msgid "mastery_name_vanguard"
 msgstr "Vanguard"
 
 msgid "mastery_next_unlock_blocked"
-msgstr "Level %1: %2   (needs a Mastery Orb to pass level %3)"
+msgstr "Level %1: %2   (needs a Mastery Trial to pass level %3)"
 
 msgid "mastery_next_unlock_caption"
 msgstr "NEXT UNLOCK"
@@ -7321,7 +7515,7 @@ msgstr "Aura"
 
 msgid "mastery_node_desc_aura_grant"
 msgstr ""
-"Grants %1, a one-hour party aura bought with Ancient Essence. It gives %2 %3 "
+"Grants %1, a one-hour party aura that costs essence to light. It gives %2 %3 "
 "and grows with every mastery level to %4 at level %5."
 
 msgid "mastery_node_desc_aura_step"
@@ -7343,10 +7537,10 @@ msgid "mastery_open_track_button"
 msgstr "Open Mastery Track"
 
 msgid "mastery_orb_hint"
-msgstr "Tier gates cost orbs and essence."
+msgstr "Trials cost Mastery Orbs and essence."
 
 msgid "mastery_orb_needed"
-msgstr "Mastery Orb needed to advance past level %1"
+msgstr "Pass a Trial to go past level %1"
 
 msgid "mastery_preview_note"
 msgstr "Preview. Not your active mastery."
@@ -7365,6 +7559,65 @@ msgstr "Bonus vs monsters"
 
 msgid "mastery_primary_magic_damage"
 msgstr "Magic damage"
+
+msgid "mastery_rank_tab_abilities"
+msgstr "Ability Ranks"
+
+msgid "mastery_rank_tab_capstone_name"
+msgstr "%1 (capstone)"
+
+msgid "mastery_rank_tab_cost_free"
+msgstr "free"
+
+msgid "mastery_rank_tab_cost_hour"
+msgstr "%1 essence/h"
+
+msgid "mastery_rank_tab_cost_use"
+msgstr "%1 essence/use"
+
+msgid "mastery_rank_tab_highest"
+msgstr "Highest"
+
+msgid "mastery_rank_tab_highest_hint"
+msgstr "rises with level"
+
+msgid "mastery_rank_tab_hint"
+msgstr ""
+"Highest keeps an ability rising as you level. The server takes one change a "
+"second."
+
+msgid "mastery_rank_tab_intro"
+msgstr ""
+"Choose how strong each ability runs. Only ranks you have reached can be "
+"picked. A lower rank is weaker, and the aura and the capstone also cost less "
+"essence."
+
+msgid "mastery_rank_tab_not_learned"
+msgstr "You have not learned %1 - its ranks open once you do."
+
+msgid "mastery_rank_tab_queued"
+msgstr "%1 more to send - the server takes one change a second."
+
+msgid "mastery_rank_tab_rank"
+msgstr "Rank %1"
+
+msgid "mastery_rank_tab_rank_base"
+msgstr "Base"
+
+msgid "mastery_rank_tab_state_chosen"
+msgstr "%1 (reached %2)"
+
+msgid "mastery_rank_tab_state_locked"
+msgstr "Unlocks at level %1"
+
+msgid "mastery_rank_tab_state_top"
+msgstr "%1, rising with level"
+
+msgid "mastery_rank_tab_tier"
+msgstr "Tier %1"
+
+msgid "mastery_rank_tab_track"
+msgstr "Track"
 
 msgid "mastery_role_berserker"
 msgstr "Not yet built."
@@ -7426,6 +7679,9 @@ msgstr ""
 "It takes %3 seconds. Being hit or entering PvP cancels it and costs you "
 "nothing."
 
+msgid "mastery_swap_in_combat"
+msgstr "You cannot switch mastery in combat. Try again once the fight is over."
+
 msgid "mastery_swap_on_cooldown"
 msgstr ""
 "You cannot switch mastery yet.\n"
@@ -7460,16 +7716,16 @@ msgid "mastery_tree_detail_unlocked"
 msgstr "%1  (unlocked)"
 
 msgid "mastery_tree_mp_to_level"
-msgstr "%1 / %2 MP to level %3"
+msgstr "%1 / %2 XP to level %3"
 
 msgid "mastery_tree_node_level"
 msgstr "level %1"
 
 msgid "mastery_tree_subheader"
-msgstr "Level %1 / %2. Gate %3 of %4."
+msgstr "Level %1 / %2. Tier %3 of %4."
 
 msgid "mastery_tree_subheader_active"
-msgstr "Level %1 / %2. Gate %3 of %4. ACTIVE."
+msgstr "Level %1 / %2. Tier %3 of %4. ACTIVE."
 
 msgid "mastery_tree_test_apply"
 msgstr "Apply"
@@ -7487,7 +7743,7 @@ msgid "mastery_tree_tier_locked"
 msgstr "locked"
 
 msgid "mastery_tree_tier_needs_orb"
-msgstr "needs an Orb"
+msgstr "needs a Trial"
 
 msgid "mastery_tree_tier_unlocked"
 msgstr "unlocked %1-%2"
@@ -7497,6 +7753,95 @@ msgstr "Mastery Track"
 
 msgid "mastery_tree_track_header"
 msgstr "%1 Track"
+
+msgid "mastery_trials_accept"
+msgstr "Accept"
+
+msgid "mastery_trials_activate_first"
+msgstr "Activate a mastery in the Mastery window first."
+
+msgid "mastery_trials_all_done"
+msgstr "Every trial done"
+
+msgid "mastery_trials_all_done_line"
+msgstr "%1 stands at its highest tier."
+
+msgid "mastery_trials_card_accepted"
+msgstr "Accepted. Hand in the price below."
+
+msgid "mastery_trials_card_last"
+msgstr "This is the last trial."
+
+msgid "mastery_trials_card_next"
+msgstr "Next: Trial %1 opens at level %2."
+
+msgid "mastery_trials_card_opens"
+msgstr "Opens levels %1-%2"
+
+msgid "mastery_trials_card_ready"
+msgstr "Ready. Accept the trial, then bring its price back here."
+
+msgid "mastery_trials_card_title"
+msgstr "%1 Trial %2"
+
+msgid "mastery_trials_cost_ancient_orb"
+msgstr "Paid in Ancient Orbs"
+
+msgid "mastery_trials_cost_mastery_orb"
+msgstr "Paid in Mastery Orbs"
+
+msgid "mastery_trials_cost_souls"
+msgstr "Paid in souls"
+
+msgid "mastery_trials_done_count"
+msgstr "Trials done: %1 of %2"
+
+msgid "mastery_trials_hand_in"
+msgstr "Hand in"
+
+msgid "mastery_trials_intro"
+msgstr ""
+"Every %1 levels a mastery reaches a limit, and passing its Trial here lifts "
+"it for the next %1 levels. Trials are paid in orbs and souls."
+
+msgid "mastery_trials_learn_first"
+msgstr "Learn a mastery in the Service tab first."
+
+msgid "mastery_trials_locked_first"
+msgstr "Reach level %1 to unlock your first trial."
+
+msgid "mastery_trials_locked_next"
+msgstr "Reach level %1 to unlock your next trial."
+
+msgid "mastery_trials_mastery_level"
+msgstr "%1 - level %2"
+
+msgid "mastery_trials_progress"
+msgstr "Level %1 / %2"
+
+msgid "mastery_trials_rung_at"
+msgstr "At level %1"
+
+msgid "mastery_trials_rung_opens"
+msgstr "Opens %1-%2"
+
+msgid "mastery_trials_rung_title"
+msgstr "Trial %1"
+
+msgid "mastery_trials_state_accepted"
+msgstr "Accepted"
+
+msgid "mastery_trials_state_locked"
+msgstr "Locked"
+
+msgid "mastery_trials_state_next"
+msgstr "Next"
+
+msgid "mastery_trials_state_passed"
+msgstr "Passed"
+
+msgid "mastery_trials_state_ready"
+msgstr "Ready"
 
 msgid "mastery_unlocks_at"
 msgstr "unlocks at level %1"
@@ -7617,6 +7962,15 @@ msgstr "Notifications"
 
 msgid "notify_bodkin_requires_ranger"
 msgstr "You must be a Ranger to use Bodkin arrows."
+
+msgid "objective_card_nearest"
+msgstr "Nearest %1"
+
+msgid "objective_card_quest"
+msgstr "Quest"
+
+msgid "objective_card_task"
+msgstr "Task"
 
 msgid "ok"
 msgstr "OK"
@@ -7792,6 +8146,15 @@ msgstr "Animating"
 msgid "options_clutterizer_mode_fading"
 msgstr "Fading"
 
+msgid "options_combat_color_cyan"
+msgstr "Cyan"
+
+msgid "options_combat_color_default"
+msgstr "Default"
+
+msgid "options_combat_color_green"
+msgstr "Green"
+
 msgid "options_debug_defaults_button_label"
 msgstr "Defaults"
 
@@ -7849,6 +8212,9 @@ msgstr "Confirm Purchases"
 msgid "options_gui_confirm_rebindings"
 msgstr "Confirm Key Rebindings"
 
+msgid "options_gui_damage_number_color"
+msgstr "Damage numbers colour"
+
 msgid "options_gui_defaults_button_label"
 msgstr "Defaults"
 
@@ -7866,6 +8232,9 @@ msgstr "Reset Feature Tutorials"
 
 msgid "options_gui_gamemode_window_opacity"
 msgstr "Game Mode Window Opacity"
+
+msgid "options_gui_healing_number_color"
+msgstr "Healing numbers colour"
 
 msgid "options_gui_hide_buffs_outside_gui_mode"
 msgstr "Hide buff icons unless the cursor is showing"
@@ -7896,6 +8265,9 @@ msgstr "Item Counter Slots"
 
 msgid "options_gui_mob_cast_bars"
 msgstr "Monster cast bars"
+
+msgid "options_gui_mob_health_bar_color"
+msgstr "Monster health bar colour"
 
 msgid "options_gui_mob_health_bars"
 msgstr "Monster health bars"
@@ -7928,6 +8300,9 @@ msgstr "Show Description Window"
 
 msgid "options_gui_show_party_overhead_icon"
 msgstr "Show Party Overhead Icon"
+
+msgid "options_gui_show_soul_counter"
+msgstr "Show soul counter"
 
 msgid "options_gui_show_target_health_percent"
 msgstr "Show percentage on target health bar"
@@ -8793,6 +9168,11 @@ msgstr " \n"
 msgid "party_loot_roll_all"
 msgstr "Roll All"
 
+msgid "pet_collect_pending"
+msgstr ""
+"Your pet is still being added to your collection. It will appear there "
+"shortly."
+
 msgid "pet_collection_dismiss"
 msgstr "Dismiss"
 
@@ -9098,6 +9478,12 @@ msgstr "Reach Alignment > 0, then pray at a church."
 
 msgid "pvp_flag_warn_return_heading"
 msgstr "RETURNING TO LAWFUL"
+
+msgid "quarry_finder_dungeon_entrance"
+msgstr "Dungeon entrance"
+
+msgid "quarry_finder_dungeon_exit"
+msgstr "Dungeon exit"
 
 msgid "quest_reward"
 msgstr "%1: %2"
@@ -9502,6 +9888,12 @@ msgstr "Solar Tribunal"
 msgid "skin_shield_tempered_dawn"
 msgstr "Tempered Dawn Shield"
 
+msgid "slayer_abandon_confirm"
+msgstr ""
+"Abandon %1?\n"
+"\n"
+"Your progress (%2 of %3 slain) will be lost, and your streak resets."
+
 msgid "slayer_board_title"
 msgstr "Slayer Contract Board"
 
@@ -9555,6 +9947,11 @@ msgstr "Start"
 
 msgid "start_button"
 msgstr "Start"
+
+msgid "store_claim_unavailable"
+msgstr ""
+"This purchase cannot be delivered right now. It has not been used up - try "
+"again later."
 
 msgid "structure_status_disabled"
 msgstr "Disabled"
