@@ -5,7 +5,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "browser_home"
 msgstr "烟雨"
 
@@ -1316,9 +1315,6 @@ msgstr "插槽设置"
 
 msgid "hotbar_entry_settingbutton_tooltip2"
 msgstr "开此快捷栏插槽的设置"
-
-msgid "hotbar_entry_options_dialog_force_switch"
-msgstr "如果启用,即使当前装备的武器属于相同类型(例如,都是法杖),也将装备此武器. 一个Blackbolt将会被Cobrastaff取代,但是一个Blackbolt不会被另一个Blackbolt取代."
 
 msgid "weapon_bar_emptybutton_tooltip1"
 msgstr "空武器栏按钮"
@@ -4346,4 +4342,3 @@ msgstr "铁匠"
 
 msgid "map_marker_vendor_Merchant"
 msgstr "商人"
-
