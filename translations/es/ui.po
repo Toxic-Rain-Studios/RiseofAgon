@@ -1,20 +1,22 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Ignacio Guerra Perez <igueper@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
+"es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "browser_home"
 msgstr "Inicio"
 
 msgid "application_window_title"
-msgstr "Ascendencia de Agon"
+msgstr "Rise of Agon"
 
 msgid "empty"
 msgstr ""
@@ -41,7 +43,7 @@ msgid "key_mouse_wheel_down"
 msgstr "Rueda abajo"
 
 msgid "armor_damage_multiplier"
-msgstr "Multiplicador de daños"
+msgstr "Multiplicador de daño"
 
 msgid "item_max_quantity"
 msgstr "Cantidad máxima"
@@ -281,24 +283,24 @@ msgid "chat_special_cmd_a_city_load"
 msgstr "Cargar una ciudad."
 
 msgid "chat_ai_cmd_ai_help_desc"
-msgstr "Listas atributos ai asignables"
+msgstr "Lista atributos AI asignables"
 
 msgid "chat_ai_cmd_ai_help_param_attribute_desc"
 msgstr "Da el tipo de valor del atributo"
 
 msgid "chat_ai_cmd_ai_set_desc"
 msgstr ""
-"Establece el atributo especificado al valor especificado. tipo 'ai_help' "
+"Establece el atributo especificado al valor especificado. Escribe 'ai_help' "
 "para una lista completa de atributos y sus valores"
 
 msgid "chat_ai_cmd_ai_set_param_attribute_desc"
-msgstr "Atributo al conjunto"
+msgstr "Atributo a establecer"
 
 msgid "chat_ai_cmd_ai_set_param_value_desc"
 msgstr "Valor para asignar al atributo especificado"
 
 msgid "chat_ai_cmd_ai_set_param_guid_desc"
-msgstr "Objetivo opcional"
+msgstr "GUID del objetivo opcional"
 
 msgid "chat_ai_cmd_ai_test_desc"
 msgstr "descripción del comando ai_test"
@@ -308,22 +310,21 @@ msgstr "descripción del comando ai_test, parámetro param1"
 
 msgid "chat_ai_cmd_ai_get_request_desc"
 msgstr ""
-"Obtiene el valor de atributo especificado. si un atributo no se especifica "
-"que consigue todos"
+"Obtiene el valor del atributo especificado. Si un atributo no se especifica, "
+"consigue todos"
 
 msgid "chat_ai_cmd_ai_get_request_param_attribute_desc"
-msgstr "Atributo para obtener"
+msgstr "Atributo a obtener"
 
 msgid "chat_ai_cmd_ai_get_request_param_guid_desc"
-msgstr "Objetivo opcional"
+msgstr "GUID del objetivo opcional"
 
 msgid "chat_ai_cmd_ai_get_response_desc"
 msgstr ""
-"Muestra los atributos de un monstruo como respuesta a un comando de "
-"solicitud de obtener."
+"Muestra los atributos de un monstruo como respuesta a un comando de solicitud"
 
 msgid "chat_ai_cmd_ai_config_type_desc"
-msgstr "Tipo de configuración para configurar"
+msgstr "Tipo de configuración a establecer"
 
 msgid "chat_ai_cmd_ai_config_value_desc"
 msgstr "Valor para asignar a la configuración especificada"
@@ -347,28 +348,28 @@ msgid "chat_ai_cmd_ai_rotate_amount_desc"
 msgstr "Cantidad de rotación en grados."
 
 msgid "chat_ai_cmd_ai_befriend_param_friendly_desc"
-msgstr "Ya sea o no ser amistoso."
+msgstr "Si ser amigable o no"
 
 msgid "chat_ai_cmd_ai_die_desc"
 msgstr "Envía un mensaje de muerte al monstruo."
 
 msgid "chat_ai_cmd_ai_befriend_desc"
-msgstr "Envía un mensaje de ser mi amigo al monstruo."
+msgstr "Envía una solicitud de amistad al monstruo."
 
 msgid "chat_ai_cmd_ai_judas_desc"
-msgstr "Los monstruos dirigidos no serán amados por otros monstruos."
+msgstr "Los monstruos seleccionados no serán amados por otros monstruos."
 
 msgid "chat_ai_cmd_ai_config_desc"
-msgstr "Establece una configuración del sistema ai."
+msgstr "Establece una configuración del sistema AI."
 
 msgid "chat_ai_cmd_ai_property_desc"
-msgstr "Es una propiedad del sistema de ai."
+msgstr "Establece una propiedad del sistema de AI."
 
 msgid "chat_ai_cmd_ai_move_desc"
 msgstr "Envía una solicitud de movimiento al bot apuntado."
 
 msgid "chat_ai_cmd_ai_rotate_desc"
-msgstr "Envía una solicitud rotativa al bot apuntado."
+msgstr "Envía una solicitud rotativa al bot de apuntado."
 
 msgid "chat_interpreter_cmd_desc_help"
 msgstr "obtener ayuda en todos los comandos o en un comando específico"
@@ -731,7 +732,7 @@ msgid "money_empty"
 msgstr ""
 
 msgid "are_you_sure_you_want_to_quit"
-msgstr "¿Estás seguro de que quieres dejar Rise de Agon?"
+msgstr "¿Estás seguro de que quieres salir de Rise of Agon?"
 
 msgid "feature_not_implemented"
 msgstr "Lo siento, esta característica no ha sido implementada todavía!"
@@ -773,7 +774,7 @@ msgid "interaction_tab_title_owned_vendor_manage"
 msgstr "Administrar"
 
 msgid "bindings_tab_title_gui"
-msgstr "."
+msgstr "Interfaz"
 
 msgid "bindings_tab_title_movement"
 msgstr "Movimiento"
@@ -788,10 +789,10 @@ msgid "bindings_tab_title_gmsonly"
 msgstr "Solo GM"
 
 msgid "bindings_tab_title_debug"
-msgstr "Depuración"
+msgstr "Depurar"
 
 msgid "bindings_tab_title_bindings"
-msgstr "/bind"
+msgstr "/bindear"
 
 msgid "interaction_buy_total_label"
 msgstr "Precio"
@@ -1801,7 +1802,7 @@ msgid "skills_unified_category_racial"
 msgstr "Habilidades raciales"
 
 msgid "abilities_detail_active"
-msgstr "Activo activo"
+msgstr "Activo"
 
 msgid "abilities_detail_passive"
 msgstr "Pasivo"
@@ -1810,19 +1811,19 @@ msgid "abilities_detail_school"
 msgstr "Escuela"
 
 msgid "abilities_detail_untrained"
-msgstr "Sin capacitación"
+msgstr "No entrenado"
 
 msgid "abilities_detail_locked"
 msgstr "Cerrado"
 
 msgid "abilities_detail_mana"
-msgstr "Costo de maná"
+msgstr "Coste de maná"
 
 msgid "abilities_detail_stamina"
-msgstr "Costo de aguante"
+msgstr "Coste de aguante"
 
 msgid "abilities_detail_health"
-msgstr "Costo de la salud"
+msgstr "Coste de la salud"
 
 msgid "skillcard_level"
 msgstr "Lv %1"
@@ -1856,7 +1857,7 @@ msgstr "Entrega"
 
 msgid "abilities_detail_workstation_explainer"
 msgstr ""
-"Este es el icono del banco de artesanía %1. Encuéntrelo en su mapa para "
+"Este es el icono del banco de artesanía %1. Encuéntralo en su mapa para "
 "acceder a él."
 
 msgid "abilities_detail_crafting_bench"
@@ -1881,40 +1882,38 @@ msgid "abilities_detail_individual_progression_heading"
 msgstr "Progresión individual"
 
 msgid "abilities_detail_cooldown_group_heading"
-msgstr "Grupo tiempo de reutilización"
+msgstr "Tiempo de reutilización de grupo"
 
 msgid "abilities_detail_description_heading"
 msgstr "Descripción"
 
 msgid "abilities_detail_tags_heading"
-msgstr "Gastos de uso"
+msgstr "Gasto de uso"
 
 msgid "abilities_detail_crafting_cost_heading"
-msgstr "Costo de fabricación"
+msgstr "Coste de fabricación"
 
 msgid "abilities_detail_milestone_ability"
-msgstr "Mejora en los niveles 20, 40, 60, 80, 100 - siguiente: nivel %1."
+msgstr "Mejora a los niveles 20, 40, 60, 80, 100 - siguiente: nivel %1."
 
 msgid "abilities_detail_milestone_ability_max"
 msgstr ""
-"Mejora en los niveles 20, 40, 60, 80, 100 - actualmente con la máxima "
-"fuerza."
+"Mejora a los niveles 20, 40, 60, 80, 100 - actualmente con la máxima fuerza."
 
 msgid "abilities_detail_milestone_crafting"
-msgstr "Mejora en los niveles 25, 50, 75, 100 - siguiente: nivel %1."
+msgstr "Mejora a los niveles 25, 50, 75, 100 - siguiente: nivel %1."
 
 msgid "abilities_detail_milestone_crafting_max"
-msgstr ""
-"Mejora en los niveles 25, 50, 75, 100 - actualmente en el nivel máximo."
+msgstr "Mejora a los niveles 25, 50, 75, 100 - actualmente en el nivel máximo."
 
 msgid "abilities_list_school_level_label"
-msgstr "Nivel escolar"
+msgstr "Nivel de escuela"
 
 msgid "abilities_list_level_label"
 msgstr "Nivel"
 
 msgid "abilities_racial_description"
-msgstr "Capacidades inherentemente concedidas por ser un %1."
+msgstr "Habilidades inherentemente concedidas por ser un %1."
 
 msgid "spells_window_title"
 msgstr "Hechizos"
@@ -2563,41 +2562,42 @@ msgstr "Pérdida de alineamiento:"
 
 msgid "alignment_tt_losing"
 msgstr ""
-"Solo matar a alguien de tu propia raza reduce el alineamiento, y únicamente "
-"si tu postura es Sin ley."
+"Solo matar a alguien de tu propia raza reduce puntos de alineamiento, y "
+"únicamente si tu alineamiento es Criminal."
 
 msgid "alignment_tt_losing2"
 msgstr ""
-"Los jugadores Legales pasan obligatoriamente a estado gris en las zonas "
-"rojas, por lo que nunca pierden alineamiento; así están en igualdad de "
-"condiciones con los jugadores Sin ley."
+"Los jugadores Pacíficos pasan obligatoriamente a estado gris en las zonas "
+"rojas, por lo que nunca pierden puntos de alineamiento; así están en "
+"igualdad de condiciones con los jugadores Criminales."
 
 msgid "alignment_tt_sec_stance"
-msgstr "Postura:"
+msgstr "Estado:"
 
 msgid "alignment_tt_stance"
 msgstr ""
-"Tu postura determina cómo te tratan los guardias y las torres de facción, "
+"Tu Estado determina cómo te tratan los guardias y las torres de facción, "
 "independientemente de tu alineamiento."
 
 msgid "alignment_tt_stance2"
 msgstr ""
-"Los jugadores Sin ley son atacados independientemente de su alineamiento."
+"Los jugadores Criminales son atacados independientemente de su alineamiento."
 
 msgid "alignment_tt_sec_gaining"
 msgstr "Ganancia de alineamiento:"
 
 msgid "alignment_tt_gaining"
 msgstr ""
-"+1 cada 20 minutos mientras estés conectado con postura Legal, hasta 1000."
+"+1 cada 20 minutos mientras estés conectado con un alineamiento Pacífico, "
+"hasta 1000."
 
 msgid "alignment_tt_gaining2"
 msgstr ""
-"La postura Sin ley pausa este proceso, y perder alineamiento reinicia los 20"
-" minutos."
+"El alineamiento Criminal pausa este proceso, y perder puntos de alineamiento "
+"reinicia los 20 minutos."
 
 msgid "alignment_tt_gaining3"
-msgstr "Matar monstruos y rezar no otorgan alineamiento."
+msgstr "Matar monstruos y rezar no otorgan puntos de alineamiento."
 
 msgid "minimap_character_coordinates"
 msgstr "%1' %2'' %3   %4' %5'' %6"
@@ -2911,25 +2911,25 @@ msgid "character_stats_global_currency_description"
 msgstr "Moneda"
 
 msgid "character_stats_name_description"
-msgstr "Carácter"
+msgstr "Personaje"
 
 msgid "character_stats_health_description"
 msgstr "Descripción de salud"
 
 msgid "character_stats_healthmax_description"
-msgstr "Descripción de la saludmax"
+msgstr "Descripción de la SaludMax"
 
 msgid "character_stats_stamina_description"
 msgstr "Descripción de aguante"
 
 msgid "character_stats_staminamax_description"
-msgstr "Descripción de staminamax"
+msgstr "Descripción de AguanteMax"
 
 msgid "character_stats_mana_description"
 msgstr "Descripción de maná"
 
 msgid "character_stats_manamax_description"
-msgstr "Descripción de manamax"
+msgstr "Descripción de ManaMax"
 
 msgid "character_stats_alignment_description"
 msgstr "Descripción de alineamiento"
@@ -2938,65 +2938,65 @@ msgid "character_stats_suspect_description"
 msgstr "Descripción del sospechoso"
 
 msgid "character_stats_antigrief_description"
-msgstr "Descripción del antigrief"
+msgstr "Descripción del anti-acoso"
 
 msgid "character_mount_stats_name"
-msgstr "Descripción del nombre de montaje"
+msgstr "Descripción de nombre de montura"
 
 msgid "character_mount_stats_health"
-msgstr "Descripción del monte salud"
+msgstr "Descripción de vida de montura"
 
 msgid "character_mount_stats_healthmax"
-msgstr "Descripción de montaje saludmax"
+msgstr "Descripción de montura SaludMax"
 
 msgid "character_mount_stats_stamina"
-msgstr "Descripción del monte aguante"
+msgstr "Descripción de montura aguante"
 
 msgid "character_mount_stats_staminamax"
-msgstr "Descripción de montaje staminamax"
+msgstr "Descripción de montura AguanteMax"
 
 msgid "character_stats_strength_description"
 msgstr ""
-"Aumenta los daños causados por las armas de meleo y afecta moderadamente al "
-"máximo salud."
+"Aumenta los daños causados por las armas de melee y afecta moderadamente a "
+"la salud máxima."
 
 msgid "character_stats_vitality_description"
 msgstr ""
-"Otorga un bono considerable al máximo salud y un bono moderado a aguante. "
+"Otorga un bono considerable a la salud máxima y un bono moderado al aguante. "
 "Una Vitalidad alta también puede reducir ligeramente los efectos del veneno "
 "y el sangrado."
 
 msgid "character_stats_dexterity_description"
 msgstr ""
-"Aumenta el daño arqueado y puede reducir los daños causados por los efectos "
-"de la zona."
+"Aumenta el daño del arco y puede reducir los daños causados por efectos de "
+"la zona."
 
 msgid "character_stats_quickness_description"
 msgstr ""
-"Incrementa ligeramente la velocidad de melee y arquería, y puede reducir los"
-" daños causados por esos ataques. Otorga un bono moderado al máximo aguante."
+"Incrementa ligeramente la velocidad de melee y de arco, y puede reducir los "
+"daños causados por esos ataques. Otorga un bono moderado al máximo aguante."
 
 msgid "character_stats_intelligence_description"
 msgstr ""
-"Aumenta el poder de los hechizos, y afecta mucho al máximo maná. Mejora la "
+"Aumenta el poder de los hechizos, y afecta mucho al maná máximo. Mejora la "
 "resistencia contra los ataques mentales."
 
 msgid "character_stats_wisdom_description"
 msgstr ""
 "Otorga un bono a todas las habilidades de elaboración y cosecha. Además, "
-"afecta moderadamente al máximo maná, y otorga un ligero bono de resistencia "
+"afecta moderadamente al maná máximo, y otorga un ligero bono de resistencia "
 "contra las maldiciones."
 
 msgid "character_stats_encumbrance_description"
 msgstr ""
-"Encumbranza total de toda armadura usada. Afecta directamente las penas de "
-"Melee, Magic y Archery."
+"Carga total de toda la armadura equipada. Afecta directamente las "
+"penalizaciones de Melee, Magia y Arco."
 
 msgid "character_stats_protectionarrow_description"
 msgstr "Defensa contra flechas y proyectiles similares."
 
 msgid "character_stats_protectionbludgeoning_description"
-msgstr "Defensa contra armas contundentes, como clubes o martillos."
+msgstr "Defensa contra armas contundentes, como mazas o martillos."
 
 msgid "character_stats_protectionpiercing_description"
 msgstr "Defensa contra las armas puntiagudas, como dagas o armas de asta."
@@ -3021,14 +3021,14 @@ msgstr "Defensa contra la magia divina."
 
 msgid "character_stats_protectionimpact_description"
 msgstr ""
-"Defensa contra battlespikes,warhulks,ships,cannons y defensas de ciudades "
-"clan."
+"Defensa contra granadas, tanques de asedio, barcos, cañones y defensas de "
+"ciudades clan."
 
 msgid "character_stats_protectionlightning_description"
 msgstr "Defensa contra ataques de relámpagos."
 
 msgid "character_stats_protectionunholy_description"
-msgstr "Defensa contra daños infernales."
+msgstr "Defensa contra daño infernal."
 
 msgid "character_stats_protectionmalediction_description"
 msgstr "Defensa contra maldiciones mágicas."
@@ -3040,11 +3040,11 @@ msgid "character_stats_protectioninfliction_description"
 msgstr "Defensa contra efectos alterantes del cuerpo, como veneno o sangrado."
 
 msgid "character_stats_penalty_archery_description"
-msgstr "Puede reducir el daño arqueado y la velocidad de ataque."
+msgstr "Puede reducir el daño de arco y la velocidad de ataque."
 
 msgid "character_stats_penalty_magic_description"
 msgstr ""
-"Puede reducir la potencia del hechizo y aumentar el tiempo de casting."
+"Puede reducir la potencia del hechizo y aumentar el tiempo de lanzamiento."
 
 msgid "character_stats_penalty_melee_description"
 msgstr "Puede reducir el daño de melee y la velocidad de ataque."
@@ -4405,25 +4405,25 @@ msgid "research_ceiling_row"
 msgstr "%1: %2 / %3"
 
 msgid "activatable_bar_slot_option_auto_parry"
-msgstr "De vehículos automáticos"
+msgstr "Auto bloquear"
 
 msgid "activatable_bar_slot_option_mount_auto_swing"
-msgstr "Oscilación del coche"
+msgstr "Ataque automático en montura"
 
 msgid "activatable_bar_slot_option_mount_lean_left"
-msgstr "Montaje inclinado izquierdo"
+msgstr "Inclinar montura a la izquierda"
 
 msgid "activatable_bar_slot_option_mount_lean_right"
-msgstr "Montura inclinada derecha"
+msgstr "Inclinar montura a la derecha"
 
 msgid "activatable_bar_slot_option_set_bind_button"
-msgstr "Set bind"
+msgstr "Asignar"
 
 msgid "activatable_bar_slot_option_no_binding_set"
-msgstr "No hay conjunto vinculante"
+msgstr "Sin asignar"
 
 msgid "activatable_bar_slot_option_current_bind"
-msgstr "Corriente: %1"
+msgstr "Actual: %1"
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot"
 msgstr "Gatillo de la ranura"
@@ -4485,7 +4485,7 @@ msgid "auto_equip_config_filter_only_these_weapon_types_in_this_order"
 msgstr "Sólo estos tipos de armas, en este orden"
 
 msgid "auto_equip_config_filter_highest_damage"
-msgstr "Daños mayores"
+msgstr "Daño mayor"
 
 msgid "auto_equip_config_filter_highest_speed"
 msgstr "Velocidad máxima"
@@ -4494,7 +4494,7 @@ msgid "auto_equip_config_filter_only_these_weapon_types"
 msgstr "Sólo estos tipos de armas"
 
 msgid "auto_equip_config_filter_ignore_casting_time_enchantments"
-msgstr "Ignorando los encantos del tiempo de casting"
+msgstr "Ignorar los encantamientos de tiempo de lanzamiento"
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_1"
 msgstr "Consigue el arma con el mayor daño."
@@ -4505,30 +4505,30 @@ msgstr ""
 " más filtros."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_3"
-msgstr "Se tienen en cuenta los Keens."
+msgstr "Se tienen en cuenta los Efectos de afilado."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_damage_tooltip_4"
 msgstr ""
-"Se considera que las armas de arranque tienen el menor daño "
-"independientemente de las estadísticas reales."
+"Las armas iniciales tienen el menor daño independientemente de las "
+"estadísticas reales"
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_1"
 msgstr "Ignorará cualquier artículo que no coincida con estos tipos de armas."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_2"
 msgstr ""
-"Entonces buscará objetos de cada uno de estos tipos de armas, de izquierda a"
-" derecha, y una vez que se encuentre uno, ignorará todos los otros tipos."
+"Entonces buscará objetos de cada uno de estos tipos de armas, de izquierda a "
+"derecha, y una vez que se encuentre uno, ignorará todos los demás tipos."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_3"
 msgstr ""
-"Las armas de arranque son un caso especial y sólo serán escogidas si no se "
+"Las armas de inicio son un caso especial y sólo serán escogidas si no se "
 "encuentra ningún otro tipo de arma que coincida."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_types_tooltip_4"
 msgstr ""
-"Haga clic derecho para añadir tipos de armas, arrastre un tipo de arma en la"
-" ventana principal del juego para eliminarlo, o arrástrese uno a otro para "
+"Haga clic derecho para añadir tipos de armas, arrastre un tipo de arma a la "
+"ventana principal del juego para eliminarla, o arrastre uno al otro para "
 "cambiar su orden."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_1"
@@ -4541,88 +4541,88 @@ msgstr ""
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
-"Los encantamientos de tiempo de fundición serán tenidos en cuenta a menos "
-"que '$1' sea removido."
+"Los encantamientos de tiempo de lanzamiento serán tenidos en cuenta a menos "
+"que '$1' sea activado"
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
 msgstr ""
-"Se considera que las armas de arranque tienen la velocidad más baja, "
+"Se considera que las armas iniciales tienen la velocidad más baja, "
 "independientemente de las estadísticas reales."
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_header"
 msgstr "Filtro por tipos de armas"
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
-msgstr "Ignorará cualquier artículo que no coincida con estos tipos de armas."
+msgstr "Ignorará cualquier objeto que no coincida con estos tipos de armas."
 
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_2"
 msgstr ""
-"Haga clic derecho para añadir tipos de armas, arrastre un tipo de arma en la"
-" ventana principal del juego para eliminarlo, o arrástrese uno a otro para "
+"Haga clic derecho para añadir tipos de armas, arrastre un tipo de arma en la "
+"ventana principal del juego para eliminarlo, o arrastre uno al otro para "
 "cambiar su orden."
 
 msgid "auto_equip_config_filter_weapon_type_context_menu_add"
 msgstr "Añadir %1"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greatsword"
-msgstr "Mandobles (2h)"
+msgstr "Mandobles (2 manos)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greataxe"
-msgstr "Hachas a dos manos (2h)"
+msgstr "Hachas a dos manos"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_greatclub"
-msgstr "Mazas a dos manos (2h)"
+msgstr "Mazas a dos manos"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_polearm"
-msgstr "Armas de asta (2h)"
+msgstr "Armas de asta (2 manos)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_knives"
-msgstr "Cuchillos (2h)"
+msgstr "Cuchillos (2 manos)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_sword"
-msgstr "Espadas (1h)"
+msgstr "Espadas (1 mano)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_axe"
-msgstr "Hachas (1h)"
+msgstr "Hachas (1 mano)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_club"
-msgstr "Clubes (1h)"
+msgstr "Mazas (1 mano)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_sithra"
-msgstr "Sithras (1h)"
+msgstr "Sithras (1 mano)"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_bow"
 msgstr "Arcos"
 
 msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
-msgstr "Personal mágico"
+msgstr "Bastones mágicos"
 
 msgid "auto_equip_config_preset_auto_generate"
-msgstr "Autogeneración"
+msgstr "Auto generar"
 
 msgid "auto_equip_config_preset_fastest_long_weapon"
 msgstr "Arma larga más rápida"
 
 msgid "auto_equip_config_preset_long_weapons_greatswords_first"
-msgstr "Arma larga, prefiere mandobles"
+msgstr "Arma larga, prefiere Mandobles"
 
 msgid "auto_equip_config_preset_long_weapons_greatclubs_first"
-msgstr "Arma larga, prefiere mazas a dos manos"
+msgstr "Arma larga, prefiere Mazas a dos manos"
 
 msgid "auto_equip_config_preset_one_hand_weapons_sword_first"
-msgstr "Un arma entregada, prefiere espadas"
+msgstr "Arma a una mano, prefiere Espadas"
 
 msgid "auto_equip_config_preset_one_hand_weapons_axe_first"
-msgstr "Un arma entregada, prefiere ejes"
+msgstr "Arma a una mano, prefiere Hachas"
 
 msgid "auto_equip_config_preset_knives"
 msgstr "Cuchillos"
 
 msgid "auto_equip_config_preset_fast_staffs"
-msgstr "Personal rápido"
+msgstr "Bastones rápidos"
 
 msgid "auto_equip_config_preset_ray_staffs"
-msgstr "Personal de rayos"
+msgstr "Bastón de rayos"
 
 msgid "paragraph_break"
 msgstr " \n"
@@ -4667,7 +4667,7 @@ msgid "screen1_create_new_character"
 msgstr "Crear un nuevo personaje"
 
 msgid "screen2_select_race"
-msgstr "Seleccione su carrera"
+msgstr "Seleccione su raza"
 
 msgid "screen3_select_gender"
 msgstr "Seleccione su género"
@@ -4718,7 +4718,7 @@ msgid "screen09_title"
 msgstr "Elegir la ubicación inicial"
 
 msgid "screen09_desc_capital"
-msgstr "La ciudad capital de tu carrera."
+msgstr "La ciudad capital de tu raza."
 
 msgid "screen09_desc_island"
 msgstr ""
@@ -4803,7 +4803,7 @@ msgid "map_marker_display_modes_icon_and_label"
 msgstr "Icono y etiqueta"
 
 msgid "auto_equip_config_filter_undefined"
-msgstr "Indefinidos"
+msgstr "Indefinido"
 
 msgid "hotbar_slot_option_cycle_mode_cycle"
 msgstr "Ciclo"
@@ -4875,13 +4875,13 @@ msgid "vital_stats_display_modes_state_only"
 msgstr "Estado sólo"
 
 msgid "alignment_standing_lawful"
-msgstr "Legal"
+msgstr "Pacífico"
 
 msgid "alignment_standing_lawless"
-msgstr "Sin ley"
+msgstr "Criminal"
 
 msgid "alignment_standing_rogue"
-msgstr "¡Renegado!"
+msgstr "¡Rogue!"
 
 msgid "options_shader_version_default"
 msgstr "Dispositivo predeterminado"
@@ -4932,18 +4932,18 @@ msgid "options_anisotropy_16x"
 msgstr "16x"
 
 msgid "character_alteration_title"
-msgstr "Alteración del carácter - cambio de raza"
+msgstr "Alteración del personaje - cambio de raza"
 
 msgid "character_alteration_forgot_to_pick_gender"
 msgstr "¡Te olvidaste de elegir tu género!"
 
 msgid "character_alteration_confirmation_dialog_title"
-msgstr "Confirme el cambio de carrera a %1 %2?"
+msgstr "Confirme el cambio de raza a %1 %2?"
 
 msgid "character_alteration_confirmation_dialog_description"
 msgstr ""
-"Una vez que aceptes, serás registrado para comenzar la transformación. "
-"¡Cuando vuelvas a conectarte será tu nuevo yo!"
+"Una vez que aceptes, serás desconectado para comenzar la transformación. ¡"
+"Cuando vuelvas a conectarte serás un nuevo tu!"
 
 msgid "button_next"
 msgstr "Siguiente"
@@ -4955,7 +4955,7 @@ msgid "button_accept"
 msgstr "Aceptar"
 
 msgid "barber_hair_color"
-msgstr "Pelo color"
+msgstr "Color de pelo"
 
 msgid "barber_skin_tone"
 msgstr "Tono de piel"
@@ -4964,7 +4964,7 @@ msgid "barber_features_beard"
 msgstr "Barba"
 
 msgid "barber_features_beard_braids"
-msgstr "Braidas de barba"
+msgstr "Trenzas de la barba"
 
 msgid "barber_features_braids"
 msgstr "Trenzas"
@@ -4997,7 +4997,7 @@ msgid "barber_features_tusks"
 msgstr "Colmillos"
 
 msgid "button_submit"
-msgstr "Presentar"
+msgstr "Entregar"
 
 msgid "clan_window_create_clan"
 msgstr "Crear clan"
@@ -5943,10 +5943,10 @@ msgid "holding_maintenance_due"
 msgstr "%1%2%3%4%5"
 
 msgid "bank_tabs_enchant_materials"
-msgstr "Materiales encantadores"
+msgstr "Materiales de encantamiento"
 
 msgid "bank_tabs_consumables"
-msgstr "Bienes fungibles"
+msgstr "Consumibles"
 
 msgid "bank_tabs_bank"
 msgstr "Banco"
@@ -5958,7 +5958,7 @@ msgid "bank_tabs_bag_tools"
 msgstr "Herramientas"
 
 msgid "bank_tabs_loot_split"
-msgstr "Botín split"
+msgstr "Dividir botín"
 
 msgid "choose_gender"
 msgstr "Elegir género"
@@ -5970,7 +5970,7 @@ msgid "choose_character_name"
 msgstr "Elegir nombre de personaje"
 
 msgid "choose_your_race"
-msgstr "Elegir la carrera de tu personaje"
+msgstr "Elegir la raza de tu personaje"
 
 msgid "quit_button"
 msgstr "Renuncio"
@@ -6498,7 +6498,7 @@ msgid "journal_meditation_result_system_disabled"
 msgstr "Sistema de meditación está deshabilitado"
 
 msgid "bank_deposit_loot_button"
-msgstr "Depósito de botín"
+msgstr "Depositar botín"
 
 msgid "loadout_loot_deposit_blocked_pvp_combat"
 msgstr "Depósito bloqueado en combate PvP. Quedan %1 segundos."
@@ -6771,10 +6771,10 @@ msgid "quest_tracker_ready"
 msgstr "Completo - listo para girar"
 
 msgid "abilities_track"
-msgstr "Pista"
+msgstr "Rastrear"
 
 msgid "abilities_untrack"
-msgstr "Untrack"
+msgstr "Dejar de rastrear"
 
 msgid "notification_tray_empty"
 msgstr "Nada nuevo."
@@ -7241,8 +7241,8 @@ msgstr "Ya está pendiente una declaración de guerra."
 
 msgid "clan_politics_result_alliance_mismatch"
 msgstr ""
-"Sólo se puede aliar o ser amigo de un clan que comparte su posición: tanto "
-"legal como en la misma alianza racial, o ambos sin ley."
+"Sólo puedes aliarte o ser amigo de un clan que comparta tu posición: tanto "
+"legal como de la misma alianza racial, o si ambos sois sin ley."
 
 msgid "clan_politics_result_failed"
 msgstr "El cambio político no puede completarse."
@@ -7407,8 +7407,8 @@ msgstr ""
 
 msgid "clan_creation_form_lawful_alignment_tooltip_2"
 msgstr ""
-"Como clan legal, no podrás aceptar miembros de clanes sin ley en tu clan, ni"
-" miembros de una facción racial diferente."
+"Como clan legal, no podrás aceptar miembros de clanes sin ley en tu clan, ni "
+"miembros de una facción racial diferente."
 
 msgid "clan_creation_form_lawful_alignment_tooltip_3"
 msgstr ""
@@ -7417,14 +7417,14 @@ msgstr ""
 
 msgid "clan_creation_form_lawless_alignment_tooltip_1"
 msgstr ""
-"Ya que eres despiadado, el clan será creado sin ley. Esto no puede cambiarse"
-" después de la creación."
+"Ya que eres criminal, el clan será creado sin ley. Esto no puede cambiarse "
+"después de la creación."
 
 msgid "clan_creation_form_lawless_alignment_tooltip_2"
 msgstr "No podrás aceptar jugadores legítimos en tu clan."
 
 msgid "clan_creation_form_lawless_alignment_tooltip_3"
-msgstr "Podrás aliarte con otros clanes sin ley pero no con clanes legítimos."
+msgstr "Podrás aliarte con otros clanes sin ley pero no con clanes legales."
 
 msgid "clan_creation_form_cost_description"
 msgstr "2000 oro será deducido de su billetera global en la creación"
@@ -8350,10 +8350,11 @@ msgstr "bonus melee daño para su partido contra monstruos"
 msgid "mastery_aura_effect_deadeye"
 msgstr "daño de la prima rango para su partido contra los monstruos"
 
+#, fuzzy
 msgid "mastery_aura_grant_desc"
 msgstr ""
-"Grants %1, un aura de una hora de fiesta comprado con Esencia Antigua. Da %2"
-" %3 y crece con cada nivel de maestría a %4 a nivel %5."
+"Grants %1, un aura de una hora de fiesta comprado con Esencia Antigua. Da %2 "
+"%3 y crece con cada nivel de maestría a %4 a nivel %5."
 
 msgid "mastery_aura_step_desc"
 msgstr "Aura +%1. Ahora %2 %3."
@@ -8466,12 +8467,10 @@ msgstr "Pve maestría"
 msgid "mastery_open_track_button"
 msgstr "Open maestría track"
 
-msgid "mastery_essence_caption"
-msgstr "Antigua esencia"
-
 msgid "mastery_next_unlock_caption"
 msgstr "Siguiente desbloqueo"
 
+#, fuzzy
 msgid "mastery_orb_hint"
 msgstr "Las puertas de acceso cuestan orbes y esencia."
 
@@ -8487,6 +8486,7 @@ msgstr "+%1% %2"
 msgid "mastery_roster_headline_reduction"
 msgstr "-%1% %2"
 
+#, fuzzy
 msgid "mastery_orb_needed"
 msgstr "Maestría orb needed to advance past level %1"
 
@@ -8496,6 +8496,7 @@ msgstr "%1 / %2 a siguiente nivel"
 msgid "mastery_max_level"
 msgstr "Nivel máximo alcanzado"
 
+#, fuzzy
 msgid "mastery_mp_amount"
 msgstr "%1 mp3"
 
@@ -8505,6 +8506,7 @@ msgstr "Esencia %1 / %2"
 msgid "mastery_essence_value"
 msgstr "Esencia %1"
 
+#, fuzzy
 msgid "mastery_next_unlock_blocked"
 msgstr "Nivel %1: %2 (necesita una maestría para pasar el nivel %3)"
 
@@ -8541,10 +8543,11 @@ msgstr "Nivel %1"
 msgid "mastery_node_rank_name"
 msgstr "%1 %2"
 
+#, fuzzy
 msgid "mastery_node_desc_aura_grant"
 msgstr ""
-"Grants %1, un aura de una hora de fiesta comprado con Esencia Antigua. Da %2"
-" %3 y crece con cada nivel de maestría a %4 a nivel %5."
+"Grants %1, un aura de una hora de fiesta comprado con Esencia Antigua. Da %2 "
+"%3 y crece con cada nivel de maestría a %4 a nivel %5."
 
 msgid "mastery_node_desc_aura_step"
 msgstr "Aura +%1. Ahora %2 %3."
@@ -8573,6 +8576,7 @@ msgstr "nivel %1"
 msgid "mastery_tree_tier_unlocked"
 msgstr "desbloqueado %1-%2"
 
+#, fuzzy
 msgid "mastery_tree_tier_needs_orb"
 msgstr "necesita un orb"
 
@@ -8588,6 +8592,7 @@ msgstr "%1 (nivel %2)"
 msgid "mastery_tree_detail_hint"
 msgstr "Oculta un nodo para leer lo que hace."
 
+#, fuzzy
 msgid "mastery_tree_mp_to_level"
 msgstr "%1 / %2 mp a nivel %3"
 
@@ -8756,9 +8761,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Cada pila sangra 1.5% por segundo."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank2"
 msgstr "1.9% por segundo."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank3"
 msgstr "2.4% por segundo."
 
@@ -8773,9 +8780,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_momentum_rank1"
 msgstr "Hasta +20%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank2"
 msgstr "Hasta +25%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank3"
 msgstr "Hasta +30%."
 
@@ -8807,16 +8816,19 @@ msgstr ""
 "pilas Gore no se descomponen. Mata a refrescarlo. 3 minutos tiempo de "
 "reutilización."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank1"
 msgstr ""
 "Cada garrapata golpea 12.5% más duro, tiempo de reutilización 2 minutos 45 "
 "segundos."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank2"
 msgstr ""
 "Cada garrapata golpea 25% más duro, tiempo de reutilización 2 minutos 30 "
 "segundos."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank3"
 msgstr ""
 "Cada garrapata golpea 50% más duro, tiempo de reutilización 2 minutos 15 "
@@ -8831,12 +8843,15 @@ msgstr ""
 "Deben atacarte por 4 segundos y permanecer en ti después. 15 segundo tiempo "
 "de reutilización."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank1"
 msgstr "Alcance 9.4 metros."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank2"
 msgstr "Alcance 11.3 metros."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank3"
 msgstr "Alcance 13.1 metros."
 
@@ -8849,12 +8864,15 @@ msgstr ""
 "que golpea su frente. Los audaces se hunden por el cruce, las explosiones se"
 " tragan. Una vez cada 20 segundos. El escudo brilla mientras está listo."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank1"
 msgstr "Cada 17 segundos."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank2"
 msgstr "Cada 15 segundos."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank3"
 msgstr "Cada 12 segundos."
 
@@ -8866,12 +8884,15 @@ msgstr ""
 "Disabling Blow con un arma de una mano y un escudo golpea para 30 daño de "
 "bonificación y triple amenaza."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank1"
 msgstr "40 daños de bonificación."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank2"
 msgstr "50 daños de bonificación."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank3"
 msgstr "60 daños de bonificación."
 
@@ -8883,12 +8904,15 @@ msgstr ""
 "Mientras mantienes a Parry con un escudo, monstruos que golpean tomas 6 "
 "espinas de daño por golpe, nunca más del 10% de su salud."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank1"
 msgstr "10 por golpe."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank2"
 msgstr "14 por golpe."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank3"
 msgstr "18 por golpe."
 
@@ -8900,20 +8924,20 @@ msgstr ""
 "activo: cada monstruo dentro 20 metros te enciende, y su daño a ti se corta "
 "por 60% para 10 segundos. 3 Enfriamiento de minutos."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
 msgstr ""
-"Reducción del 65% durante 13 segundos. Tiempo de reutilización: 165 "
-"segundos."
+"Reducción del 65% durante 13 segundos. Tiempo de reutilización: 165 segundos."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
 msgstr ""
-"Reducción del 70% durante 16 segundos. Tiempo de reutilización: 150 "
-"segundos."
+"Reducción del 70% durante 16 segundos. Tiempo de reutilización: 150 segundos."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
 msgstr ""
-"Reducción del 75% durante 20 segundos. Tiempo de reutilización: 135 "
-"segundos."
+"Reducción del 75% durante 20 segundos. Tiempo de reutilización: 135 segundos."
 
 msgid "mastery_alt_elementalist_residue_name"
 msgstr "Residuos"
@@ -9020,12 +9044,15 @@ msgstr ""
 "Mana Blast te sana a ti y a tu fiesta por 40% de su daño en lugar de hacerte"
 " daño. Los monstruos toman la explosión completa."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank1"
 msgstr "Cura para 60%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank2"
 msgstr "Cura para 80%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank3"
 msgstr "Cura para 100%."
 
@@ -9040,10 +9067,12 @@ msgstr ""
 msgid "mastery_alt_oracle_quickening_rank1"
 msgstr "También rayas maldiciones en estadísticas y protecciones."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank2"
 msgstr ""
 "Extiende cualquier debuff, incluyendo lentitud, parálisis, multas de maná."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank3"
 msgstr "Strips 2 debuffs por elenco."
 
@@ -9055,12 +9084,15 @@ msgstr ""
 "El sacrificio no te cuesta salud, y te cura para el 25% de lo que habría "
 "costado."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank1"
 msgstr "Criado a 50%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank2"
 msgstr "Criado a 75%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Criado a 100%."
 
@@ -9072,12 +9104,15 @@ msgstr ""
 "Sanar a Chant ya no cura a los monstruos y te sana a ti y a tu fiesta +100% "
 "más, para +100% mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank1"
 msgstr "Criado a +130%, para +130% mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank2"
 msgstr "Criado a +160%, para +160% mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank3"
 msgstr "Criado a +200%, para +200% mana."
 
@@ -9092,16 +9127,19 @@ msgstr ""
 "flechas monstruo no pueden alcanzarlos. Termina si llega a cualquiera "
 "marcado por el combate PvP. Enfriamiento de 3 minutos."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank1"
 msgstr ""
 "Restaura 12 cada 2 segundos durante 13 segundos. Tiempo de reutilización: "
 "165 segundos."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank2"
 msgstr ""
 "Restaura 14 cada 2 segundos durante 16 segundos. Tiempo de reutilización: "
 "150 segundos."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank3"
 msgstr ""
 "Restaura 16 cada 2 segundos durante 20 segundos. Tiempo de reutilización: "
@@ -9204,18 +9242,22 @@ msgstr ""
 msgid "mastery_alt_deadeye_cadence_name"
 msgstr "Bullseye"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_desc"
 msgstr ""
 "Cada 8a flecha que aterrizas en un monstruo es un golpe crítico para +100% "
 "de daño. Cambiar objetivos mantiene la cuenta. Una perdida o 6 segundos sin "
 "un éxito lo aclara."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank1"
 msgstr "Crits on every 7th flecha."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank2"
 msgstr "Crits on every 6th flecha."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank3"
 msgstr "Crits en cada 5a flecha."
 
@@ -9229,29 +9271,37 @@ msgstr ""
 "Bullseye y los interruptores del objetivo. Una perdida o 6 segundos sin un "
 "éxito lo aclara."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank1"
 msgstr "Hasta 26% de su tiempo de sorteo."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank2"
 msgstr "Hasta 32% de su tiempo de sorteo."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank3"
 msgstr "Hasta 40% de su tiempo de sorteo."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_name"
 msgstr "Objetivo de acción"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_desc"
 msgstr ""
 "Una falta cuesta 4 golpes de su cuenta de Bullseye y sus pilas de Second "
 "Nature en lugar de limpiarlos."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank1"
 msgstr "Una falta cuesta 3 golpes."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank2"
 msgstr "Una falta cuesta 2 golpes."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank3"
 msgstr "Una perdida cuesta 1 golpe."
 
@@ -9264,12 +9314,15 @@ msgstr ""
 "flecha que disparaste durante 30 segundos. Flechas de ese tipo golpeó más "
 "fuerte, el tuyo y sus aliados."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank1"
 msgstr "Fajas de hasta 5 puntos."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank2"
 msgstr "Fajas de hasta 6 puntos."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank3"
 msgstr "Fajas de hasta 7 puntos."
 
@@ -9283,12 +9336,15 @@ msgstr ""
 " para 50% daño de bonificación encima del golpe, golpes críticos incluidos. "
 "3 minutos tiempo de reutilización."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank1"
 msgstr "Dura 13 segundos, tiempo de reutilización 2 minutos 45 segundos."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank2"
 msgstr "Dura 16 segundos, tiempo de reutilización 2 minutos 30 segundos."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank3"
 msgstr "Dura 20 segundos, tiempo de reutilización 2 minutos 15 segundos."
 
@@ -9443,7 +9499,7 @@ msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_YOU"
 msgstr "La purificación te limpió %1."
 
 msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_OTHER"
-msgstr "[Mastery] La purificación limpió %1 de %2."
+msgstr "[Maestría] La purificación limpió %1 de %2."
 
 msgid "NOTIFICATION_PVE_MASTERY_PURIFIED_SELF"
 msgstr "La purificación limpió %1."
@@ -9454,26 +9510,28 @@ msgstr "Nivel %1"
 msgid "mastery_detail_level"
 msgstr "Nivel %1 / %2"
 
+#, fuzzy
 msgid "mastery_detail_level_mp"
 msgstr "Nivel %1 / %2 - %3 mp"
 
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
-msgstr "[Mastery] Cambiar a %1. Sosténganse por %2 segundos."
+msgstr "[Maestría] Cambiar a %1. Permanece quieto por %2 segundos."
 
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_INTERRUPTED"
-msgstr "El interruptor fue interrumpido. No se gastó nada."
+msgstr "El cambio fue interrumpido. No se gastó nada."
 
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_IN_PVP"
 msgstr ""
-"No puedes cambiar de dominio mientras estás marcado por el combate PvP."
+"No puedes cambiar de maestría mientras estás marcado por el combate PvP."
 
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_ALREADY_ACTIVE"
 msgstr "Ya estás usando %1."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_LOCKED"
 msgstr ""
-"[Mastery] %1 aura se desbloquea a nivel de maestría %2. Eres el nivel %3."
+"[Maestría] %1 aura se desbloquea a nivel de maestría %2. Eres el nivel %3."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
 msgstr ""
 "Su aura sale - %1 está por debajo del nivel de maestría %2. La esencia %3 "
@@ -9536,15 +9594,18 @@ msgstr ""
 msgid "mastery_detail_level_tier"
 msgstr "Nivel %1 / %2 - nivel %3 de %4"
 
+#, fuzzy
 msgid "mastery_detail_level_tier_mp"
 msgstr "Nivel %1 / %2 - nivel %3 de %4 - %5 mp"
 
 msgid "mastery_row_level_tier"
 msgstr "Nivel %1 nivel %2"
 
+#, fuzzy
 msgid "mastery_tree_subheader"
 msgstr "Nivel %1 / %2. Puerta %3 de %4."
 
+#, fuzzy
 msgid "mastery_tree_subheader_active"
 msgstr "Nivel %1 / %2. Puerta %3 de %4. ACTIVE."
 
@@ -9588,10 +9649,10 @@ msgid "Play"
 msgstr "Jugar"
 
 msgid "Stop"
-msgstr "Para."
+msgstr "Parar"
 
 msgid "Toggle the GM play sound window."
-msgstr "Toggle the GM play sound window."
+msgstr "Mostrar la ventana de sonido de GM"
 
 msgid "gm_sound_se_gm_epic"
 msgstr "Épica"

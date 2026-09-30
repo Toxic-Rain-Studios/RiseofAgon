@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Ignacio Guerra Perez <igueper@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
+"chat/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Bienvenido a Rise of Agon: Asia."
@@ -1255,7 +1257,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_gray orks_14"
 msgstr "Parece que te había subestimado. Maldito seas %4."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_gray orks_15"
-msgstr "¡Te odio %4! ¡Te odio y toda tu patética carrera!"
+msgstr "¡Te odio %4! ¡Te odio y toda tu patética raza!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_gray orks_16"
 msgstr "%4! ¿Qué crees que estás haciendo?"
@@ -2762,7 +2764,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_gray orks_11"
 msgstr "Foolish %4! ¡Pronto estarás muerto!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_gray orks_12"
-msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu carrera."
+msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu raza."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_gray orks_13"
 msgstr "¿Teme que huelo?"
@@ -2985,7 +2987,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_hobgoblin regulars_16"
 msgstr "No lo hagas demasiado fácil para mí ahora. Mahahaha!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_hobgoblin regulars_17"
-msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu carrera."
+msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu raza."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_hobgoblin regulars_18"
 msgstr "%4 %4 %4. ¿Por qué sigues aquí? "
@@ -3101,7 +3103,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_manscorpions_1"
 msgstr "¡Te mataré %4!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_manscorpions_2"
-msgstr "%4! Me compadezco de ti y de toda tu carrera."
+msgstr "%4! Me compadezco de ti y de toda tu raza."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_manscorpions_3"
 msgstr "Patético %4. ¿Por qué peleas conmigo?"
@@ -3172,15 +3174,15 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ogres_9"
 msgstr "¡De verdad %4! ¿En qué estabas pensando? ¡Hahahaha!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ogres_10"
-msgstr "Como el resto de tu inútil carrera %4. ¡Debil y patético! "
+msgstr "Como el resto de tu inútil raza %4. ¡Debil y patético! "
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ogres_11"
 msgstr "¡Mejor empezar a rezar a ese dios de tu %4! "
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ogres_12"
 msgstr ""
-"¡Después de que termine contigo, mataré al resto de tu patética carrera! "
-"¡Hahaha!"
+"¡Después de que termine contigo, mataré al resto de tu patética raza! ¡"
+"Hahaha!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ogres_13"
 msgstr "¿Cómo te sientes %4? ¿Confiado? ¡Mwahahaha!"
@@ -3242,7 +3244,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ork monsters_12"
 msgstr "Foolish %4! ¡Pronto estarás muerto!"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ork monsters_13"
-msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu carrera."
+msgstr "¡Patético! Es todo lo que tienes %4. Me compadezco de tu raza."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_ork monsters_14"
 msgstr "¿Teme que huelo?"
@@ -3266,7 +3268,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_svartdvergirs_5"
 msgstr "Foolish %4! ¿Por qué viniste aquí?"
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_svartdvergirs_6"
-msgstr "Como el resto de tu inútil carrera %4. ¡Debil y patético! "
+msgstr "Como el resto de tu inútil raza %4. ¡Debil y patético! "
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_WINNING_r_svartdvergirs_7"
 msgstr "¡Ni siquiera vale la pena alimentar a los perros!"
@@ -3943,7 +3945,7 @@ msgid "NOTIFICATION_AI_TALK_END_r_manscorpions_7"
 msgstr "¡Mira %4! ¡Soy yo quien es victorioso! ¡Hahahaha!"
 
 msgid "NOTIFICATION_AI_TALK_END_r_manscorpions_8"
-msgstr "¡Debil! ¡Como el resto de tu patética carrera!"
+msgstr "¡Debil! ¡Como el resto de tu patética raza!"
 
 msgid "NOTIFICATION_AI_TALK_END_r_manscorpions_9"
 msgstr "¡Y otra inútil caída de %4! ¡Hahahaha!"
@@ -10396,7 +10398,7 @@ msgstr ""
 "miembro."
 
 msgid "NOTIFICATION_CLAN_STATION_APPLCIATION_FAILED_WRONG_RACE"
-msgstr "%1 no acepta solicitudes de miembros de su carrera."
+msgstr "%1 no acepta solicitudes de miembros de su raza."
 
 msgid "NOTIFICATION_CLAN_STATION_APPLCIATION_FAILED_CLAN_CLOSED"
 msgstr "%1 no aceptó su solicitud."
@@ -10443,8 +10445,7 @@ msgstr ""
 "%1 ha sido prohibido de su clan. No puedes invitar a un jugador prohibido."
 
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_RACE_NOT_ALLOWED"
-msgstr ""
-"No puedes invitar a %1 porque tu clan no acepta jugadores de esta carrera."
+msgstr "No puedes invitar a %1 porque tu clan no acepta jugadores de esta raza."
 
 msgid "NOTIFICATION_CLAN_INVITATION_TARGET_DECLINED"
 msgstr "%1 declinó su invitación al clan."
@@ -10820,7 +10821,7 @@ msgid "NOTIFICATION_PARTY_PLAYER_CAN_NOT_BE_A_PARTY_MEMBER"
 msgstr "^Cred^El jugador no puede participar en una fiesta."
 
 msgid "PLAYER_IS_LAWFUL_CANNOT_JOIN_LAWLESS_PARTY"
-msgstr "^Cred^Player es lícito y no puede unirse a partes sin ley."
+msgstr "^Cred^El jugador es legal y no puede unirse a grupos sin ley."
 
 msgid "PLAYER_IS_ENEMY_CANNOT_JOIN_LAWFUL_PARTY"
 msgstr ""
@@ -10845,7 +10846,7 @@ msgstr ""
 "derecho no pueden estar vinculadas."
 
 msgid "LAWFUL_PLAYER_IN_LAWLESS_PARTY"
-msgstr "^Cred^Dejaste tu partido sin ley porque eres lícito."
+msgstr "^Cred^Dejaste tu grupo sin ley porque eres legal."
 
 msgid "LAWLESS_PLAYER_IN_LAWFUL_PARTY"
 msgstr "^Cred^Dejaste tu partido legal porque no tienes derecho."
@@ -11570,8 +11571,8 @@ msgstr ""
 
 msgid "NOTIFICATION_ONLY_ON_SCREEN_BLUE_ENTERING_LAW_LESS_AREA_WARNING_6"
 msgstr ""
-"¡No hay justicia en estas tierras excepto la que es otorgada por la espada! "
-"¡En %1 segundos te unirás a las filas de la escoria sin ley!"
+"¡No hay justicia en estas tierras excepto la que es otorgada por la espada! ¡"
+"En %1 segundos te unirás a las filas de la escoria criminal!"
 
 msgid "NOTIFICATION_ONLY_ON_SCREEN_BLUE_ENTERING_LAW_LESS_AREA_WARNING_7"
 msgstr ""
@@ -12008,20 +12009,20 @@ msgstr ""
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_WELCOME_FLUFF_1"
 msgstr ""
-"Dentro de los límites de esta ciudad, sus caminos sin ley no tienen juicio "
+"Dentro de los límites de esta ciudad, sus actos criminales no tienen juicio "
 "ni amonestamiento. ¡Bienvenido!"
 
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_WELCOME_FLUFF_2"
 msgstr ""
-"Ninguno juzgará sus caminos sin ley dentro de estos muros urbanos. "
-"¡Bienvenido y un buen día!"
+"Ninguno juzgará sus actos criminales dentro de estos muros urbanos. ¡"
+"Bienvenido y un buen día!"
 
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_WELCOME_FLUFF_3"
 msgstr ""
-"La ciudad te ha pesado y juzgado y ha encontrado tus caminos sin ley... ¡sin"
-" culpa! ¡Bienvenido amigo!"
+"La ciudad te ha sopesado y juzgado y ha encontrado tus actos criminales... ¡"
+"sin culpa! ¡Bienvenido amigo!"
 
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_UNWELCOME_FLUFF_0"
@@ -12032,8 +12033,8 @@ msgstr ""
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_UNWELCOME_FLUFF_1"
 msgstr ""
-"Su estatus sin ley no es bienvenido dentro de estas paredes de la ciudad. "
-"¡Begone!"
+"Su estatus sin ley no es bienvenido dentro de estas paredes de la ciudad. ¡"
+"Fuera!"
 
 msgid ""
 "NOTIFICATION_AREA_ALIGNMENT_RED_ENTERING_LAWFUL_AREA_OWNED_BY_PLAYERS_UNWELCOME_FLUFF_2"
@@ -12063,8 +12064,7 @@ msgid "NOTIFICATION_AREA_ALIGNMENT_ROGUE_ENTERING_LAWLESS_AREA_FLUFF_2"
 msgstr "Ahora estás entrando en una zona sin ley... ¡disfruta!"
 
 msgid "NOTIFICATION_AREA_ALIGNMENT_ROGUE_ENTERING_LAWLESS_AREA_FLUFF_3"
-msgstr ""
-"El aire en estas tierras sin ley parece casi inclinado con rojo... casi."
+msgstr "El aire en estas tierras sin ley parece casi tintado de rojo... casi."
 
 msgid "NOTIFICATION_AREA_ALIGNMENT_ROGUE_ENTERING_LAWLESS_AREA_FLUFF_4"
 msgstr ""
@@ -12303,7 +12303,7 @@ msgstr ""
 
 msgid "NOTIFICATION_AREA_ALIGNMENT_BLUE_ENTERING_LAWFUL_AREA_FLUFF_4"
 msgstr ""
-"Las tierras sin ley no reclamaron su lealtad, regresan con seguridad a las "
+"Las tierras sin ley no reclamaron su lealtad, regresas con seguridad a las "
 "tierras de la Ley."
 
 msgid "NOTIFICATION_AREA_ALIGNMENT_BLUE_ENTERING_LAWFUL_AREA_FLUFF_5"
@@ -12426,7 +12426,7 @@ msgid "RACE_CHANGE_ERROR_INVALID_RACE_TYPE"
 msgstr "Tipo de raza inválida"
 
 msgid "RACE_CHANGE_ERROR_CLAN_RACE_CONFLICT"
-msgstr "Tu clan no acepta jugadores de la carrera solicitada."
+msgstr "Tu clan no acepta jugadores de la raza solicitada."
 
 msgid "RACE_CHANGE_ERROR_ERROR_REMOVING_ITEM"
 msgstr "El tema no puede eliminarse del inventario."
@@ -13002,6 +13002,7 @@ msgstr "Se ha activado la maestría %1."
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Maestría] %1 maestría level %2! (%3)"
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
 msgstr "[Maestría] +%1 mp %2 l%3 (%4)"
 
@@ -13017,11 +13018,13 @@ msgstr "[Maestría] Attuned %1 Antigua Esencia (pool %2 / %3)."
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "%1 ya está en el nivel más alto."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_LEVEL_TOO_LOW"
 msgstr ""
 "[Maestría] %1 debe alcanzar el nivel %2 antes de que se pueda consumir el "
 "orbe (actualmente %3)."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_CONSUMED"
 msgstr ""
 "[Maestría] Los orb shatters - %1 tier %2 desbloqueado (niveles hasta %3)."
@@ -13074,15 +13077,13 @@ msgstr ""
 "Aura suprimió - combate PvP. Se reanuda cuando la marca se desvanece; la "
 "hora sigue corriendo."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
 msgstr ""
 "Tu aura sale - combate PvP. La esencia %1 regresó por el tiempo que quedaba."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
 msgstr "No puedes levantar un aura mientras el combate PvP te tiene."
-
-msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
-msgstr "[Maestría] %1 necesita %2 esencia - attune Antigua Esencia."
 
 msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_REFRESH"
 msgstr ""
@@ -13165,6 +13166,7 @@ msgstr "Aegis devuelve el hechizo a su caster."
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_HURLED"
 msgstr "Aegis hace retroceder el hechizo."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TOGGLED_OFF"
 msgstr "[Maestría] Aura off (sin reembolso en el tiempo restante)."
 
@@ -13173,11 +13175,13 @@ msgstr ""
 "[Maestría] Aura: sólo los auras Vanguard, Cutthroat y Deadeye están "
 "disponibles por ahora."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_CANNOT_AFFORD"
 msgstr ""
 "[Maestría] Aura cuesta %1 esencia por una hora (tienes %2) - attune Antigua "
 "Esencia."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
 msgstr "[Maestría] %1 aura encendido por una hora (-%2 esencia) - %3"
 
@@ -13310,18 +13314,21 @@ msgstr "Ya caminas por el camino del %1."
 msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
 msgstr "No has tomado el camino de la %1. El Maestro de Cazadores lo enseña."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
 msgstr "No tienes ningún dominio activo para romper una puerta."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
 msgstr ""
 "[Mastery] La puerta sostiene. Llevas %1 de %2 Mastery Orbs y %3 de %4 "
 "Antiguas Orbes, y sostienes %5 de la esencia %6."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
 msgstr ""
-"[Mastery] La puerta sostiene. Llevas %1 de %2 Mastery Orbs y sostienes %3 de"
-" %4 esencia."
+"[Mastery] La puerta sostiene. Llevas %1 de %2 Mastery Orbs y sostienes %3 de "
+"%4 esencia."
 
 msgid "NOTIFICATION_PVE_MASTERY_TRIAL_ACCEPTED"
 msgstr ""
@@ -13333,6 +13340,7 @@ msgstr "Ya lleva el juicio %1 %2."
 msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
 msgstr "[Mastery] Aceptar el juicio %1 %2 en Slayer Master Aero primero."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
 msgstr "[Maestría] %1 necesita la esencia %2 y mantienes el %3."
 

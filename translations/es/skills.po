@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
+"skills/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "Habilidad"
@@ -6409,24 +6411,28 @@ msgstr "Permite un paso doble."
 msgid "s_Cutthroat Mastery"
 msgstr "Cutthroat mastery"
 
+#, fuzzy
 msgid "desc_s_Cutthroat Mastery"
 msgstr "Toma el camino de Cutthroat. Requiere cuchillos 50."
 
 msgid "s_Vanguard Mastery"
 msgstr "Vanguard mastery"
 
+#, fuzzy
 msgid "desc_s_Vanguard Mastery"
 msgstr "Coge el camino de Vanguard. Requiere Vitality 50."
 
 msgid "s_Oracle Mastery"
 msgstr "Oracle mastery"
 
+#, fuzzy
 msgid "desc_s_Oracle Mastery"
 msgstr "Toma el camino de Oráculo. Requiere Spell Chanting 50."
 
 msgid "s_Deadeye Mastery"
 msgstr "Deadeye mastery"
 
+#, fuzzy
 msgid "desc_s_Deadeye Mastery"
 msgstr "Coge el camino de Deadeye. Requiere a Archery 50."
 

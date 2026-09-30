@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
+"resources/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Recursos humanos"
@@ -35898,12 +35900,14 @@ msgstr "Desierto Crog"
 msgid "r_Mastery Items"
 msgstr "Mastery items"
 
+#, fuzzy
 msgid "desc_r_Mastery Items"
 msgstr "Orbes y esencia para los caminos de maestría."
 
 msgid "r_Ancient Essence"
 msgstr "Antigua esencia"
 
+#, fuzzy
 msgid "desc_r_Ancient Essence"
 msgstr ""
 "Poder extraído de los muertos. Úsalo para afinar la esencia en tu piscina."
@@ -35911,6 +35915,7 @@ msgstr ""
 msgid "r_Mastery Orb"
 msgstr "Mastery orb"
 
+#, fuzzy
 msgid "desc_r_Mastery Orb"
 msgstr ""
 "Un nudo de poder atado, arrancado de algo lo suficientemente fuerte como "
@@ -35919,6 +35924,7 @@ msgstr ""
 msgid "r_Ancient Orb"
 msgstr "Antiguo orb"
 
+#, fuzzy
 msgid "desc_r_Ancient Orb"
 msgstr ""
 "Más viejo y más frío que los orbes menores, y mucho más raro. Sólo los más "
@@ -35927,6 +35933,7 @@ msgstr ""
 msgid "r_Slayer Cache"
 msgstr "Slayer cache"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache"
 msgstr ""
 "Presiona el uso para abrirlo. Esto requiere una llave de caché de Slayer."
@@ -35934,6 +35941,7 @@ msgstr ""
 msgid "r_Slayer Cache Key"
 msgstr "Clave de caché de la capa"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache Key"
 msgstr "Abre una caché de cazadores."
 
@@ -36004,10 +36012,11 @@ msgstr "Excelente asesino talismán"
 msgid "display_name_r_Slayer Talisman Fine"
 msgstr "Excelente asesino talismán"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Fine"
 msgstr ""
-"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
-" con lo que fue forjado - no hay dos iguales."
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es "
+"con lo que fue forjado - no hay dos iguales."
 
 msgid "r_Slayer Talisman Superior"
 msgstr "Superior asesino talisman"
@@ -36015,10 +36024,11 @@ msgstr "Superior asesino talisman"
 msgid "display_name_r_Slayer Talisman Superior"
 msgstr "Superior asesino talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Superior"
 msgstr ""
-"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
-" con lo que fue forjado - no hay dos iguales."
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es "
+"con lo que fue forjado - no hay dos iguales."
 
 msgid "r_Slayer Talisman Exceptional"
 msgstr "Excepcional asesino talismán"
@@ -36026,10 +36036,11 @@ msgstr "Excepcional asesino talismán"
 msgid "display_name_r_Slayer Talisman Exceptional"
 msgstr "Excepcional asesino talismán"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Exceptional"
 msgstr ""
-"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
-" con lo que fue forjado - no hay dos iguales."
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es "
+"con lo que fue forjado - no hay dos iguales."
 
 msgid "r_Slayer Talisman Peerless"
 msgstr "Sin par de asesinos talisman"
@@ -36037,10 +36048,11 @@ msgstr "Sin par de asesinos talisman"
 msgid "display_name_r_Slayer Talisman Peerless"
 msgstr "Sin par de asesinos talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Peerless"
 msgstr ""
-"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
-" con lo que fue forjado - no hay dos iguales."
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es "
+"con lo que fue forjado - no hay dos iguales."
 
 msgid "r_Slayer Talisman Immaculate"
 msgstr "Slayer talisman inmaculado"
@@ -36048,10 +36060,11 @@ msgstr "Slayer talisman inmaculado"
 msgid "display_name_r_Slayer Talisman Immaculate"
 msgstr "Slayer talisman inmaculado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Immaculate"
 msgstr ""
-"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es"
-" con lo que fue forjado - no hay dos iguales."
+"Un encanto de una cazadora, llevado en la tragaperras del libro. Su poder es "
+"con lo que fue forjado - no hay dos iguales."
 
 msgid "desc_r_Quest Herbal Tea"
 msgstr ""
@@ -36081,10 +36094,11 @@ msgstr "Sellado fino talismán"
 msgid "display_name_r_Slayer Talisman Unidentified Fine"
 msgstr "Sellado fino talismán"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Fine"
 msgstr ""
-"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
-" enrolló no es. Haga clic derecho para identificarlo."
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que "
+"enrolló no es. Haga clic derecho para identificarlo."
 
 msgid "r_Slayer Talisman Unidentified Superior"
 msgstr "Sellado superior talisman"
@@ -36092,10 +36106,11 @@ msgstr "Sellado superior talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Superior"
 msgstr "Sellado superior talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Superior"
 msgstr ""
-"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
-" enrolló no es. Haga clic derecho para identificarlo."
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que "
+"enrolló no es. Haga clic derecho para identificarlo."
 
 msgid "r_Slayer Talisman Unidentified Exceptional"
 msgstr "Talismán excepcional sellado"
@@ -36103,10 +36118,11 @@ msgstr "Talismán excepcional sellado"
 msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
 msgstr "Talismán excepcional sellado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Exceptional"
 msgstr ""
-"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
-" enrolló no es. Haga clic derecho para identificarlo."
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que "
+"enrolló no es. Haga clic derecho para identificarlo."
 
 msgid "r_Slayer Talisman Unidentified Peerless"
 msgstr "Talisman sellado sin pares"
@@ -36114,10 +36130,11 @@ msgstr "Talisman sellado sin pares"
 msgid "display_name_r_Slayer Talisman Unidentified Peerless"
 msgstr "Talisman sellado sin pares"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Peerless"
 msgstr ""
-"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
-" enrolló no es. Haga clic derecho para identificarlo."
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que "
+"enrolló no es. Haga clic derecho para identificarlo."
 
 msgid "r_Slayer Talisman Unidentified Immaculate"
 msgstr "Sellado inmaculado talisman"
@@ -36125,20 +36142,23 @@ msgstr "Sellado inmaculado talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
 msgstr "Sellado inmaculado talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Immaculate"
 msgstr ""
-"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que"
-" enrolló no es. Haga clic derecho para identificarlo."
+"Un talismán de asesino sellado. El grado es lo suficientemente claro; lo que "
+"enrolló no es. Haga clic derecho para identificarlo."
 
 msgid "r_Slayer Services"
 msgstr "Servicios de enfermería"
 
+#, fuzzy
 msgid "desc_r_Slayer Services"
 msgstr "Desbloquea un Maestro de Cazadores vende por puntos de caza."
 
 msgid "r_Slayer Contract Slot"
 msgstr "Contrato ranura"
 
+#, fuzzy
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Te permite mantener un contrato de asesinato más a la vez."
 
@@ -36152,6 +36172,7 @@ msgstr ""
 msgid "r_Slayer Extra Talisman Slot"
 msgstr "Tragaperras de talismán"
 
+#, fuzzy
 msgid "desc_r_Slayer Extra Talisman Slot"
 msgstr ""
 "Te deja llevar un talismán de cazadores a la vez. Cada ranura necesita un "

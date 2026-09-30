@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Ignacio Guerra Perez <igueper@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
+"actions/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Action"
 msgstr "Acción"
@@ -131,13 +133,13 @@ msgid "desc_a_Trigger_Current_Item"
 msgstr " "
 
 msgid "a_SkillActions"
-msgstr "Destrezas"
+msgstr "Acciones de habilidad"
 
 msgid "desc_a_SkillActions"
 msgstr "Superacción de las acciones de habilidad"
 
 msgid "a_MovementActions"
-msgstr "Movimientoacciones"
+msgstr "Acciones de movimiento"
 
 msgid "desc_a_MovementActions"
 msgstr "Superacción de las acciones de movimiento"
@@ -339,7 +341,7 @@ msgid "desc_a_Gank"
 msgstr " "
 
 msgid "a_Parry"
-msgstr "Parar"
+msgstr "Bloquear"
 
 msgid "desc_a_Parry"
 msgstr " "
@@ -355,16 +357,16 @@ msgstr "Descansar"
 
 msgid "desc_a_Rest"
 msgstr ""
-"Vierte cualquier elemento equipado y comienza el resto de la habilidad, "
-"entrando así al resto del estado"
+"Envaina cualquier elemento equipado y comienza la habilidad de descansar, "
+"entrando así estado de descansado"
 
 msgid "a_Camp"
 msgstr "Campamento"
 
 msgid "desc_a_Camp"
 msgstr ""
-"Vierte cualquier elemento equipado y comienza el resto de la habilidad, "
-"entrando así al resto del estado"
+"Envaina cualquier elemento equipado y comienza la habilidad de descanso, "
+"entrando así al estado de descansado"
 
 msgid "a_Use"
 msgstr "Usar"
@@ -379,7 +381,7 @@ msgid "desc_a_Ping_Waypoint"
 msgstr "Descripción del objeto a_ping_waypoint"
 
 msgid "a_TestActions"
-msgstr "Testacciones"
+msgstr "Test acciones"
 
 msgid "desc_a_TestActions"
 msgstr "Acciones utilizadas para la prueba"
@@ -421,25 +423,25 @@ msgid "desc_a_Do_Camera_Right_View"
 msgstr "Descripción de la vista derecha de la cámara a_do"
 
 msgid "a_TestAction1"
-msgstr "Testacción1"
+msgstr "Test acción1"
 
 msgid "desc_a_TestAction1"
 msgstr "Descripción de a_testaction1"
 
 msgid "a_TestAction2"
-msgstr "Testacción2"
+msgstr "Test acción2"
 
 msgid "desc_a_TestAction2"
 msgstr "Descripción de a_testaction2"
 
 msgid "a_TestAction3"
-msgstr "Testacción3"
+msgstr "Test acción3"
 
 msgid "desc_a_TestAction3"
 msgstr "Descripción de a_testaction3"
 
 msgid "a_TestAction4"
-msgstr "Testacción4"
+msgstr "Test acción4"
 
 msgid "desc_a_TestAction4"
 msgstr "Descripción de a_testaction4"
@@ -463,25 +465,25 @@ msgid "desc_a_Director_Add_Keyframe"
 msgstr "Añade la posición actual de la cámara como marco clave"
 
 msgid "a_Director_Play_Pause"
-msgstr "Director: jugar / pausa"
+msgstr "Director: Jugar / Pausa"
 
 msgid "desc_a_Director_Play_Pause"
 msgstr "Juega o detiene el camino actual de la cámara"
 
 msgid "a_Director_Stop"
-msgstr "Director: para"
+msgstr "Director: Parar"
 
 msgid "desc_a_Director_Stop"
 msgstr "Detiene la reproducción o la órbita y regresa al vuelo libre"
 
 msgid "a_Director_Roll_Left"
-msgstr "Director: Roll left"
+msgstr "Director: Rodar a la izquierda"
 
 msgid "desc_a_Director_Roll_Left"
 msgstr "Roda la cámara de director izquierda mientras se mantiene"
 
 msgid "a_Director_Roll_Right"
-msgstr "Director: Roll right"
+msgstr "Director: Rodar a la derecha"
 
 msgid "desc_a_Director_Roll_Right"
 msgstr "Roda la cámara de director justo mientras se mantiene"
