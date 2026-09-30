@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/chat/"
+"fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Bienvenue à la montée de Agon: Asie."
@@ -13266,6 +13268,7 @@ msgstr "[Maîtrise] %1 maîtrise activée."
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Maîtrise] %1 niveau de maîtrise %2! (%3)"
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
 msgstr "[maîtrise] +%1 mp %2 l%3 (%4)"
 
@@ -13282,11 +13285,13 @@ msgstr "[Maîtrise] Atténué %1 Essence ancienne (pool %2 / %3)."
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "[Maîtrise] %1 est déjà au niveau le plus élevé."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_LEVEL_TOO_LOW"
 msgstr ""
 "[Maîtrise] %1 doit atteindre le niveau %2 avant de pouvoir consommer l'orbe "
 "(actuellement %3)."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_CONSUMED"
 msgstr ""
 "[Maîtrise] L'orbe se brise - %1 niveau %2 déverrouillé (niveaux jusqu'à %3)."
@@ -13339,6 +13344,7 @@ msgstr ""
 "Aura supprimée - combat PvP. Il reprend quand la marque s'estompe; l'heure "
 "continue à courir."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
 msgstr ""
 "Votre aura s'en va - combat PvP. %1 essence est revenue pour le temps "
@@ -13346,9 +13352,6 @@ msgstr ""
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
 msgstr "Vous ne pouvez pas élever une aura alors que le combat PvP vous a."
-
-msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
-msgstr "[Maîtrise] %1 a besoin de %2 essence - attune Ancienne Essence."
 
 msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_REFRESH"
 msgstr ""
@@ -13433,6 +13436,7 @@ msgstr "Aegis jette le sort sur son lanceur."
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_HURLED"
 msgstr "Aegis renverse le sort."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TOGGLED_OFF"
 msgstr "[Maîtrise] Aura off (pas de remboursement sur le temps restant)."
 
@@ -13441,11 +13445,13 @@ msgstr ""
 "Aura : seules les Auras Vanguard, Cutthroat et Deadeye sont disponibles pour"
 " le moment."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_CANNOT_AFFORD"
 msgstr ""
 "[Maîtrise] Aura coûte %1 essence pendant une heure (vous avez %2) - attune "
 "Ancient Essence."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
 msgstr "[maîtrise] %1 aura allumé pendant une heure (essence-%2) - %3"
 
@@ -13580,14 +13586,17 @@ msgstr "Vous marchez déjà le chemin du %1."
 msgid "NOTIFICATION_PVE_MASTERY_NOT_LEARNED"
 msgstr "Vous n'avez pas pris le chemin du %1. Le Maître Tueur l'enseigne."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
 msgstr "Vous n'avez pas de maîtrise active pour briser une porte."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
 msgstr ""
 "La porte tient. Vous portez %1 de %2 Orbes de Mastery et %3 de %4 Orbes "
 "antiques, et tenez %5 de %6 essence."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
 msgstr ""
 "La porte tient. Vous portez %1 de %2 Mastery Orbs et tenez %3 de %4 essence."
@@ -13602,6 +13611,7 @@ msgstr "Vous avez déjà le procès %1 %2."
 msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
 msgstr "[Maîtrise] Acceptez d'abord le procès %1 %2 à Slayer Master Aero."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
 msgstr "[Maîtrise] %1 a besoin de %2 essence et vous tenez %3."
 

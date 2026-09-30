@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
+"quests/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_quest_33"
 msgstr "gobelins en {$u20}"
@@ -68455,6 +68457,7 @@ msgstr ""
 "^Cdarkfall^Vous vous êtes assis pour vous reposer. ^Cwhite^%1 ^Cdarkfall^des"
 " ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21215"
 msgstr "Quête 2 - étape 5 - les cibles de tir à l'arc"
 
@@ -68478,6 +68481,7 @@ msgstr ""
 "^Cdarkfall^vous avez atteint les cibles du tir à l'arc ^Cwhite^%1 "
 "^Cdarkfall^des ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21216"
 msgstr "Quête 2 - étape 6 - faites votre rapport à Torvald"
 
@@ -68500,9 +68504,11 @@ msgstr ""
 msgid "name_quest_21217"
 msgstr "Quête 2 - étape 5 - équipez vos flèches"
 
+#, fuzzy
 msgid "short_desc_quest_21217"
 msgstr "Équipez des flèches dans votre paperdoll."
 
+#, fuzzy
 msgid "start_text_quest_21217"
 msgstr ""
 "Double-cliquez sur les flèches de votre sac à dos pour les équiper dans "
@@ -68533,6 +68539,7 @@ msgstr ""
 "attaques. Puis dirigez-vous vers James le Mage dans la tente de "
 "commandement."
 
+#, fuzzy
 msgid "name_quest_21221"
 msgstr "Quête 3 - étape 1 - armure et James le mage"
 
@@ -68892,6 +68899,7 @@ msgstr ""
 "James le Mage m'a appris à parier, à faire de la magie, à transférer et à "
 "guérir, puis m'a renvoyé à Torvald."
 
+#, fuzzy
 msgid "name_quest_21250"
 msgstr "Quête 5"
 
@@ -68905,6 +68913,7 @@ msgstr ""
 "fente de sac à butin et tout ce que vous enlevez collecte en un seul "
 "endroit."
 
+#, fuzzy
 msgid "name_quest_21251"
 msgstr "Quête 5 - étape 1 - l'escarmouche"
 
@@ -68927,6 +68936,7 @@ msgstr ""
 "J'ai tué trois éclaireurs et deux combattants au camp à l'est du camp de "
 "guerre."
 
+#, fuzzy
 msgid "name_quest_21252"
 msgstr "Quête 5 - étape 5 - des nouvelles pour Torvald"
 
@@ -68959,6 +68969,7 @@ msgstr "Vous avez signalé Torvald le Fighter."
 msgid "diary_text_quest_21252"
 msgstr "J'ai rapporté le raid jusqu'à Torvald."
 
+#, fuzzy
 msgid "name_quest_21253"
 msgstr "Quête 5 - étape 3 - le chaman"
 
@@ -68979,6 +68990,7 @@ msgstr "Tu as tué le chaman de Goblin."
 msgid "diary_text_quest_21253"
 msgstr "J'ai tué un chaman goblin dans l'anneau intérieur du camp."
 
+#, fuzzy
 msgid "name_quest_21254"
 msgstr "Quête 5 - étape 4 - le sanctuaire"
 
@@ -69003,6 +69015,7 @@ msgstr ""
 "^Cdarkfall^vous avez frappé le temple de Goblin ^Cwhite^%1 ^Cdarkfall^des "
 "^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21255"
 msgstr "Quête 5 - étape 0 - le sac de butin"
 
@@ -70088,6 +70101,7 @@ msgstr ""
 msgid "name_quest_21381"
 msgstr "Quête 18 - étape 2 - l'irtych"
 
+#, fuzzy
 msgid "short_desc_quest_21381"
 msgstr "Tuez 4 Irtych."
 
@@ -70101,9 +70115,11 @@ msgstr ""
 msgid "end_text_quest_21381"
 msgstr "Vous avez détruit l'Irtyque, bon travail."
 
+#, fuzzy
 msgid "finished_text_quest_21381"
 msgstr "Vous avez tué 4 Irtych."
 
+#, fuzzy
 msgid "diary_text_quest_21381"
 msgstr "J'ai dégagé quatre étangs de l'eau à l'ouest de l'avant-poste."
 
@@ -70183,6 +70199,7 @@ msgstr ""
 "votre carte. Soyez averti : il ne donne rien à un élève qui ne se souvient "
 "pas de ses leçons."
 
+#, fuzzy
 msgid "name_quest_21393"
 msgstr "Quête 21 - étape 2 - retournez en ville"
 
@@ -70211,6 +70228,7 @@ msgstr ""
 "^Cdarkfall^vous vous êtes rappelé à la Dawnshore Bindstone ^Cwhite^%1 "
 "^Cdarkfall^des ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21392"
 msgstr "Quête 21 - étape 4 - l'enchantement"
 
@@ -70242,6 +70260,7 @@ msgstr ""
 "^Cdarkfall^vous avez fait un enchantement de magnitude ^Cwhite^%1 "
 "^Cdarkfall^des ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21391"
 msgstr "Quête 22 - étape 1 - Bound"
 
@@ -70327,6 +70346,7 @@ msgstr "L'agent Archée vous a donné sa clé."
 msgid "diary_text_quest_21396"
 msgstr "Archée était satisfaite, et m'a donné la clé de sa poitrine."
 
+#, fuzzy
 msgid "name_quest_21410"
 msgstr "Quête 21"
 
@@ -70344,6 +70364,7 @@ msgstr ""
 "l'enchantement de la station d'Enchantement et mettez-la dans votre équipe. "
 "Mary le conseiller voudra entendre que c'est fait."
 
+#, fuzzy
 msgid "name_quest_21411"
 msgstr "Quête 21 - étape 1 - le coffre d'Archaeus"
 
@@ -70375,6 +70396,7 @@ msgstr ""
 "^Cdarkfall^vous avez ouvert la poitrine d'Archaeus ^Cwhite^%1 ^Cdarkfall^des"
 " ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21412"
 msgstr "Quête 21 - étape 3 - les dents"
 
@@ -70403,6 +70425,7 @@ msgstr ""
 "^Cdarkfall^vous avez récupéré ^Cwhite^%1 ^Cdarkfall^des ^Cwhite^%2 "
 "^Cdarkfall^les dents de votre banque."
 
+#, fuzzy
 msgid "name_quest_21413"
 msgstr "Quête 21 - étape 5 - le bâton"
 
@@ -70428,6 +70451,7 @@ msgstr ""
 "^Cdarkfall^vous avez mis un bijou dans votre personnel ^Cwhite^%1 "
 "^Cdarkfall^des ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21414"
 msgstr "Quête 21 - étape 6 - faites votre rapport à Mary"
 
@@ -70448,6 +70472,7 @@ msgstr "Vous avez signalé au conseiller Mary."
 msgid "diary_text_quest_21414"
 msgstr "J'ai dit au conseiller Mary que mon personnel était enchanté."
 
+#, fuzzy
 msgid "name_quest_21420"
 msgstr "Quête 22"
 
@@ -70460,6 +70485,7 @@ msgstr ""
 "attend - il vous verra au large de Dawnshore et sur votre patrie. J'ai "
 "marqué où le trouver sur votre carte. Allez-y."
 
+#, fuzzy
 msgid "name_quest_21400"
 msgstr "Quête 20"
 
@@ -70472,6 +70498,7 @@ msgstr ""
 " laisse une tombe, et chaque tombe a des dents dedans. Amène-moi cinq. Je ne"
 " demanderai pas quoi faire."
 
+#, fuzzy
 msgid "name_quest_21401"
 msgstr "Quête 20 - étape 1 - les dents"
 

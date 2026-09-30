@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
+"skills/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "Compétence"
@@ -6453,24 +6455,28 @@ msgstr "Permet un pas de côté double-tap."
 msgid "s_Cutthroat Mastery"
 msgstr "Maîtrise de la gorge coupée"
 
+#, fuzzy
 msgid "desc_s_Cutthroat Mastery"
 msgstr "Prenez le chemin de la gorge. Nécessite des couteaux 50."
 
 msgid "s_Vanguard Mastery"
 msgstr "Maîtrise de l'avant-garde"
 
+#, fuzzy
 msgid "desc_s_Vanguard Mastery"
 msgstr "Prenez le chemin Vanguard. Nécessite la vitalité 50."
 
 msgid "s_Oracle Mastery"
 msgstr "Maîtrise de l'oracle"
 
+#, fuzzy
 msgid "desc_s_Oracle Mastery"
 msgstr "Prenez le chemin Oracle. Nécessite le chant d'orthographe 50."
 
 msgid "s_Deadeye Mastery"
 msgstr "Maîtrise des yeux morts"
 
+#, fuzzy
 msgid "desc_s_Deadeye Mastery"
 msgstr "Prenez le chemin de Deadeye. Nécessite le tir à l'arc 50."
 

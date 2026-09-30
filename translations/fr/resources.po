@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
+"resources/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Des ressources"
@@ -36296,12 +36298,14 @@ msgstr "Désert Crog"
 msgid "r_Mastery Items"
 msgstr "Les éléments de maîtrise"
 
+#, fuzzy
 msgid "desc_r_Mastery Items"
 msgstr "Orbes et essence pour les chemins de maîtrise."
 
 msgid "r_Ancient Essence"
 msgstr "Essence ancienne"
 
+#, fuzzy
 msgid "desc_r_Ancient Essence"
 msgstr ""
 "Pouvoir tiré des morts. Utilisez-le pour adoucir l'essence dans votre "
@@ -36310,6 +36314,7 @@ msgstr ""
 msgid "r_Mastery Orb"
 msgstr "Maîtrise orb"
 
+#, fuzzy
 msgid "desc_r_Mastery Orb"
 msgstr ""
 "Un nœud de pouvoir lié, pris à partir de quelque chose de assez fort pour "
@@ -36318,6 +36323,7 @@ msgstr ""
 msgid "r_Ancient Orb"
 msgstr "Orbe ancien"
 
+#, fuzzy
 msgid "desc_r_Ancient Orb"
 msgstr ""
 "Plus vieux et plus froids que les orbes inférieurs, et beaucoup plus rares. "
@@ -36326,6 +36332,7 @@ msgstr ""
 msgid "r_Slayer Cache"
 msgstr "Cache de la couche"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache"
 msgstr ""
 "Appuyez sur Utiliser pour l'ouvrir. Cela nécessite une clé Cache Slayer."
@@ -36333,6 +36340,7 @@ msgstr ""
 msgid "r_Slayer Cache Key"
 msgstr "Clé cache slayer"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache Key"
 msgstr "Ouvre une cache Tueuse."
 
@@ -36403,6 +36411,7 @@ msgstr "Talisman de la couche fine"
 msgid "display_name_r_Slayer Talisman Fine"
 msgstr "Talisman de la couche fine"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Fine"
 msgstr ""
 "Le charme d'une tueuse, porté dans la fente du livre de rune. Son pouvoir "
@@ -36414,6 +36423,7 @@ msgstr "Talisman supérieur à la couche"
 msgid "display_name_r_Slayer Talisman Superior"
 msgstr "Talisman supérieur à la couche"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Superior"
 msgstr ""
 "Le charme d'une tueuse, porté dans la fente du livre de rune. Son pouvoir "
@@ -36425,6 +36435,7 @@ msgstr "Talisman d'une couche exceptionnelle"
 msgid "display_name_r_Slayer Talisman Exceptional"
 msgstr "Talisman d'une couche exceptionnelle"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Exceptional"
 msgstr ""
 "Le charme d'une tueuse, porté dans la fente du livre de rune. Son pouvoir "
@@ -36436,6 +36447,7 @@ msgstr "Talisman tueuse sans pareil"
 msgid "display_name_r_Slayer Talisman Peerless"
 msgstr "Talisman tueuse sans pareil"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Peerless"
 msgstr ""
 "Le charme d'une tueuse, porté dans la fente du livre de rune. Son pouvoir "
@@ -36447,6 +36459,7 @@ msgstr "Talisman immaculé de la couche"
 msgid "display_name_r_Slayer Talisman Immaculate"
 msgstr "Talisman immaculé de la couche"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Immaculate"
 msgstr ""
 "Le charme d'une tueuse, porté dans la fente du livre de rune. Son pouvoir "
@@ -36480,6 +36493,7 @@ msgstr "Talisman fin scellé"
 msgid "display_name_r_Slayer Talisman Unidentified Fine"
 msgstr "Talisman fin scellé"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Fine"
 msgstr ""
 "Un talisman de tueuse scellée. Le grade est assez clair; ce qu'il n'est pas "
@@ -36491,6 +36505,7 @@ msgstr "Talisman supérieur scellé"
 msgid "display_name_r_Slayer Talisman Unidentified Superior"
 msgstr "Talisman supérieur scellé"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Superior"
 msgstr ""
 "Un talisman de tueuse scellée. Le grade est assez clair; ce qu'il n'est pas "
@@ -36502,6 +36517,7 @@ msgstr "Talisman d'exception scellé"
 msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
 msgstr "Talisman d'exception scellé"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Exceptional"
 msgstr ""
 "Un talisman de tueuse scellée. Le grade est assez clair; ce qu'il n'est pas "
@@ -36513,6 +36529,7 @@ msgstr "Talisman sans pair scellé"
 msgid "display_name_r_Slayer Talisman Unidentified Peerless"
 msgstr "Talisman sans pair scellé"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Peerless"
 msgstr ""
 "Un talisman de tueuse scellée. Le grade est assez clair; ce qu'il n'est pas "
@@ -36524,6 +36541,7 @@ msgstr "Talisman immaculé scellé"
 msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
 msgstr "Talisman immaculé scellé"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Immaculate"
 msgstr ""
 "Un talisman de tueuse scellée. Le grade est assez clair; ce qu'il n'est pas "
@@ -36532,12 +36550,14 @@ msgstr ""
 msgid "r_Slayer Services"
 msgstr "Les services de la couche"
 
+#, fuzzy
 msgid "desc_r_Slayer Services"
 msgstr "Débloque un Maître Tueuse vend pour les points Tueuses."
 
 msgid "r_Slayer Contract Slot"
 msgstr "Slot du contrat"
 
+#, fuzzy
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Ça te permet d'avoir un autre contrat de tueuse à la fois."
 
@@ -36551,6 +36571,7 @@ msgstr ""
 msgid "r_Slayer Extra Talisman Slot"
 msgstr "Slot talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Extra Talisman Slot"
 msgstr ""
 "On vous laisse porter un autre Talisman Tueuse à la fois. Chaque fente a "
