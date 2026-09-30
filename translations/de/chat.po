@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/chat/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Willkommen bei Rise of Agon: Asia."
@@ -13374,6 +13376,7 @@ msgstr "[Meisterschaft] %1 Meisterschaft aktiviert."
 msgid "NOTIFICATION_PVE_MASTERY_LEVEL_UP"
 msgstr "[Meisterschaft] %1 Meisterschaftsstufe %2! (%3)"
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
 msgstr "[Mastery] +%1 mp %2 l%3 (%4)"
 
@@ -13389,11 +13392,13 @@ msgstr "[Meisterschaft] Attuned %1 Ancient Essence (Pool %2 / %3)."
 msgid "NOTIFICATION_PVE_MASTERY_ORB_ALREADY_MAX_TIER"
 msgstr "[Mastery] %1 ist bereits auf der höchsten Stufe."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_LEVEL_TOO_LOW"
 msgstr ""
-"[Mastery] %1 muss Level %2 erreichen, bevor die Kugel konsumiert werden kann"
-" (derzeit %3)."
+"[Mastery] %1 muss Level %2 erreichen, bevor die Kugel konsumiert werden kann "
+"(derzeit %3)."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_ORB_CONSUMED"
 msgstr ""
 "[Beherrschung] Die Kugel zerbricht - %1 Tier %2 freigeschaltet (Levels bis "
@@ -13451,6 +13456,7 @@ msgstr ""
 "[Meisterschaft] Aura unterdrückt - PvP-Kampf. Es wird wieder aufgenommen, "
 "wenn die Markierung verblasst; Die Stunde läuft weiter."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
 msgstr ""
 "[Meisterschaft] Deine Aura erlischt - PvP-Kampf. %1 Essenz für die "
@@ -13460,9 +13466,6 @@ msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
 msgstr ""
 "[Meisterschaft] Du kannst keine Aura erheben, während der PvP-Kampf dich "
 "hat."
-
-msgid "NOTIFICATION_PVE_MASTERY_ALTERATION_NEEDS_ESSENCE"
-msgstr "[Meisterschaft] %1 braucht %2 Essenz - Attune Ancient Essence."
 
 msgid "NOTIFICATION_PVE_MASTERY_RUPTURE_REFRESH"
 msgstr ""
@@ -13548,6 +13551,7 @@ msgstr "[Meisterschaft] Aegis wirft den Zauber zurück auf seine Rolle."
 msgid "NOTIFICATION_PVE_MASTERY_AEGIS_HURLED"
 msgstr "[Meisterschaft] Aegis schleudert den Zauber zurück."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TOGGLED_OFF"
 msgstr "[Mastery] Aura off (keine Rückerstattung für die verbleibende Zeit)."
 
@@ -13556,11 +13560,13 @@ msgstr ""
 "[Mastery] Aura: Nur die Auren Vanguard, Cutthroat und Deadeye sind vorerst "
 "verfügbar."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_CANNOT_AFFORD"
 msgstr ""
 "[Meisterschaft] Aura kostet %1 Essenz für eine Stunde (Sie haben %2) - "
 "attune Ancient Essence."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
 msgstr "%1 Aura für eine Stunde gezündet (-%2 Essenz) - %3"
 
@@ -13701,15 +13707,18 @@ msgstr ""
 "[Meisterschaft] Ihr habt den Weg der %1 nicht eingeschlagen. Der Slayer-"
 "Meister lehrt es."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
 msgstr ""
 "[Beherrschung] Du hast keine aktive Beherrschung, um ein Tor zu brechen."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
 msgstr ""
 "[Meisterschaft] Das Tor hält. Sie tragen %1 von %2 Mastery Orbs und %3 von "
 "%4 Ancient Orbs und halten %5 von %6 Essenz."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD_NO_ANCIENT"
 msgstr ""
 "[Meisterschaft] Das Tor hält. Sie tragen %1 von %2 Mastery Orbs und halten "
@@ -13727,6 +13736,7 @@ msgid "NOTIFICATION_PVE_MASTERY_TRIAL_NOT_ACCEPTED"
 msgstr ""
 "[Mastery] Akzeptieren Sie den %1-Prozess %2 zuerst bei Slayer Master Aero."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_CANNOT_AFFORD"
 msgstr "[Meisterschaft] %1 braucht %2 Essenz und du hältst %3."
 

@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "browser_home"
 msgstr "Startseite"
@@ -8378,6 +8380,7 @@ msgstr "Bonus Nahkampfschaden für Ihre Party gegen Monster"
 msgid "mastery_aura_effect_deadeye"
 msgstr "Bonus-Entfernungsschaden für Ihre Partei gegen Monster"
 
+#, fuzzy
 msgid "mastery_aura_grant_desc"
 msgstr ""
 "Grants %1, eine einstündige Party-Aura, die mit Ancient Essence gekauft "
@@ -8495,12 +8498,10 @@ msgstr "Pve Mastering"
 msgid "mastery_open_track_button"
 msgstr "Offene Beherrschungsstrecke"
 
-msgid "mastery_essence_caption"
-msgstr "Alte Essenz"
-
 msgid "mastery_next_unlock_caption"
 msgstr "Nächstes Entsperren"
 
+#, fuzzy
 msgid "mastery_orb_hint"
 msgstr "Tier Gates kosten Orbs und Essenz."
 
@@ -8516,6 +8517,7 @@ msgstr "+%1% %2"
 msgid "mastery_roster_headline_reduction"
 msgstr "-%1% %2"
 
+#, fuzzy
 msgid "mastery_orb_needed"
 msgstr "Beherrschungskugel benötigt, um über Level %1 vorzurücken"
 
@@ -8525,6 +8527,7 @@ msgstr "%1 / %2 zum nächsten Level"
 msgid "mastery_max_level"
 msgstr "Höchstgehalt erreicht"
 
+#, fuzzy
 msgid "mastery_mp_amount"
 msgstr "%1 MP"
 
@@ -8534,6 +8537,7 @@ msgstr "Essenz %1 / %2"
 msgid "mastery_essence_value"
 msgstr "Essenz %1"
 
+#, fuzzy
 msgid "mastery_next_unlock_blocked"
 msgstr ""
 "Level %1: %2 (erfordert eine Meisterschaftskugel, um Level %3 zu bestehen)"
@@ -8571,6 +8575,7 @@ msgstr "Ebene %1"
 msgid "mastery_node_rank_name"
 msgstr "%1 %2"
 
+#, fuzzy
 msgid "mastery_node_desc_aura_grant"
 msgstr ""
 "Grants %1, eine einstündige Party-Aura, die mit Ancient Essence gekauft "
@@ -8604,6 +8609,7 @@ msgstr "Ebene %1"
 msgid "mastery_tree_tier_unlocked"
 msgstr "entsperrt %1-%2"
 
+#, fuzzy
 msgid "mastery_tree_tier_needs_orb"
 msgstr "braucht eine Orb"
 
@@ -8619,6 +8625,7 @@ msgstr "%1 (Stufe %2)"
 msgid "mastery_tree_detail_hint"
 msgstr "Bewegen Sie einen Knoten, um zu lesen, was er tut."
 
+#, fuzzy
 msgid "mastery_tree_mp_to_level"
 msgstr "%1 / %2 mp zu Level %3"
 
@@ -8789,9 +8796,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Jeder Stapel blutet 1.5% pro Sekunde."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank2"
 msgstr "1.9% pro Sekunde."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank3"
 msgstr "2.4% pro Sekunde."
 
@@ -8806,9 +8815,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_momentum_rank1"
 msgstr "Bis zu +20%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank2"
 msgstr "Bis zu +25%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank3"
 msgstr "Bis zu +30%."
 
@@ -8839,12 +8850,15 @@ msgstr ""
 "ACTIVE: Für 10 Sekunden ticken Ihre Wunden doppelt so schnell und Ihre Gore-"
 "Stacks verfallen nicht. Tötet es auffrischen. 3 Minuten Abklingzeit."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank1"
 msgstr "Jeder Tick trifft 12.5% härter, Abklingzeit 2 Minuten 45 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank2"
 msgstr "Jeder Tick trifft 25% härter, Abklingzeit 2 Minuten 30 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank3"
 msgstr "Jeder Tick trifft 50% härter, Abklingzeit 2 Minuten 15 Sekunden."
 
@@ -8857,12 +8871,15 @@ msgstr ""
 " müssen dich für 4 Sekunden angreifen und danach auf dir bleiben. 15 "
 "Sekunden Abklingzeit."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank1"
 msgstr "Erreichen Sie 9.4 Meter."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank2"
 msgstr "Erreichen Sie 11.3 Meter."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank3"
 msgstr "Erreichen Sie 13.1 Meter."
 
@@ -8876,12 +8893,15 @@ msgstr ""
 "Blasten werden verschluckt. Einmal alle 20 Sekunden. Der Schild leuchtet, "
 "während er bereit ist."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank1"
 msgstr "Alle 17 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank2"
 msgstr "Alle 15 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank3"
 msgstr "Alle 12 Sekunden."
 
@@ -8893,12 +8913,15 @@ msgstr ""
 "Das Deaktivieren des Schlags mit einer Einhandwaffe und einem Schild schlägt"
 " für 30 Bonusschaden und dreifache Bedrohung zu."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank1"
 msgstr "40 Bonusschaden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank2"
 msgstr "50 Bonusschaden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank3"
 msgstr "60 Bonusschaden."
 
@@ -8910,12 +8933,15 @@ msgstr ""
 "Während Sie Parry mit einem Schild halten, nehmen Monster, die Sie schlagen,"
 " 6 Dornenschäden pro Treffer, nie mehr als 10% ihrer Gesundheit."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank1"
 msgstr "10 pro Treffer."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank2"
 msgstr "14 pro Treffer."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank3"
 msgstr "18 pro Treffer."
 
@@ -8927,12 +8953,15 @@ msgstr ""
 "aktiv: jedes Monster innerhalb 20 Meter wendet sich an dich, und ihr Schaden"
 " für dich wird durch 60% für 10 Sekunden. 3 Minute Abkühlung."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
 msgstr "Verringerung um 65% für 13 Sekunden. Abklingzeit: 165 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
 msgstr "Verringerung um 70% für 16 Sekunden. Abklingzeit: 150 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
 msgstr "Verringerung um 75% für 20 Sekunden. Abklingzeit: 135 Sekunden."
 
@@ -9037,12 +9066,15 @@ msgstr ""
 "Mana Blast heilt dich und deine Gruppe für 40% von ihrem Schaden, anstatt "
 "dich zu verletzen. Monster nehmen die volle Explosion."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank1"
 msgstr "Heilt für 60%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank2"
 msgstr "Heilt für 80%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank3"
 msgstr "Heilt für 100%."
 
@@ -9057,11 +9089,13 @@ msgstr ""
 msgid "mastery_alt_oracle_quickening_rank1"
 msgstr "Auch Streifen Flüche auf Stats und Schutz."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank2"
 msgstr ""
 "Streift jeglichen Debuff, einschließlich Verlangsamungen, Lähmung, Mana-"
 "Strafe."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank3"
 msgstr "Streifen 2 Debuffs pro Guss."
 
@@ -9073,12 +9107,15 @@ msgstr ""
 "Opfer kostet dich keine Gesundheit und heilt dich für 25% von dem, was es "
 "gekostet hätte."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank1"
 msgstr "Angehoben auf 50%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank2"
 msgstr "Angehoben auf 75%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Angehoben auf 100%."
 
@@ -9090,12 +9127,15 @@ msgstr ""
 "Healing Chant heilt keine Monster mehr und heilt dich und deine Gruppe +100%"
 " mehr, für +100% Mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank1"
 msgstr "Erhöht auf +130%, für +130% Mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank2"
 msgstr "Erhöht auf +160%, für +160% Mana."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank3"
 msgstr "Erhöht auf +200%, für +200% Mana."
 
@@ -9110,16 +9150,19 @@ msgstr ""
 "sie nicht erreichen. Endet, wenn es jemanden erreicht, der vom PvP-Kampf "
 "markiert ist. 3 Minuten Abklingzeit."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank1"
 msgstr ""
 "Stellt 13 Sekunden lang alle 2 Sekunden 12 wieder her. Abklingzeit: 165 "
 "Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank2"
 msgstr ""
 "Stellt 16 Sekunden lang alle 2 Sekunden 14 wieder her. Abklingzeit: 150 "
 "Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank3"
 msgstr ""
 "Stellt 20 Sekunden lang alle 2 Sekunden 16 wieder her. Abklingzeit: 135 "
@@ -9222,18 +9265,22 @@ msgstr ""
 msgid "mastery_alt_deadeye_cadence_name"
 msgstr "Volltreffer"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_desc"
 msgstr ""
-"Jeder 8. Pfeil, den Sie auf einem Monster landen, ist ein kritischer Treffer"
-" für +100% Schaden. Das Wechseln von Zielen hält die Zählung. Ein Fehlschlag"
-" oder 6 Sekunden ohne Treffer löscht es."
+"Jeder 8. Pfeil, den Sie auf einem Monster landen, ist ein kritischer Treffer "
+"für +100% Schaden. Das Wechseln von Zielen hält die Zählung. Ein Fehlschlag "
+"oder 6 Sekunden ohne Treffer löscht es."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank1"
 msgstr "Krits auf jedem siebten Pfeil."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank2"
 msgstr "Krits auf jedem 6. Pfeil."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank3"
 msgstr "Krits auf jedem fünften Pfeil."
 
@@ -9247,29 +9294,37 @@ msgstr ""
 "kritischen Treffer- und Zielwechsel. Ein Fehlschlag oder 6 Sekunden ohne "
 "Treffer löscht es."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank1"
 msgstr "Bis zu 26% Rabatt auf Ihre Ziehzeit."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank2"
 msgstr "Bis zu 32% Rabatt auf Ihre Ziehzeit."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank3"
 msgstr "Bis zu 40% Rabatt auf Ihre Ziehzeit."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_name"
 msgstr "Verzeihendes Ziel"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_desc"
 msgstr ""
 "Ein Fehlschlag kostet 4 Treffer Ihrer Bullseye-Zählung und Ihrer Second "
 "Nature-Stacks, anstatt sie zu löschen."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank1"
 msgstr "Ein Miss kostet 3 Treffer."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank2"
 msgstr "Ein Miss kostet 2 Treffer."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank3"
 msgstr "Ein Miss kostet 1 Treffer."
 
@@ -9282,12 +9337,15 @@ msgstr ""
 "gegen den Pfeil, den Sie für 30 Sekunden abgefeuert haben. Pfeile dieser Art"
 " treffen härter, eure und eure Verbündeten gleichermaßen."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank1"
 msgstr "Streifen bis zu 5 Punkte."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank2"
 msgstr "Streifen bis zu 6 Punkte."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank3"
 msgstr "Streifen bis zu 7 Punkte."
 
@@ -9301,12 +9359,15 @@ msgstr ""
 "Bonusschaden auf dem Treffer, kritische Treffer inklusive. 3 Minuten "
 "Abklingzeit."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank1"
 msgstr "Dauert 13 Sekunden, Abklingzeit 2 Minuten 45 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank2"
 msgstr "Dauert 16 Sekunden, Abklingzeit 2 Minuten 30 Sekunden."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank3"
 msgstr "Dauert 20 Sekunden, Abklingzeit 2 Minuten 15 Sekunden."
 
@@ -9476,6 +9537,7 @@ msgstr "Ebene %1"
 msgid "mastery_detail_level"
 msgstr "Ebene %1 / %2"
 
+#, fuzzy
 msgid "mastery_detail_level_mp"
 msgstr "Ebene %1 / %2 - %3 mp"
 
@@ -9498,6 +9560,7 @@ msgstr ""
 "[Meisterschaft] %1 Aura wird auf der Meisterschaftsstufe %2 freigeschaltet. "
 "Du bist Level %3."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
 msgstr ""
 "[Beherrschung] Deine Aura erlischt - %1 liegt unterhalb der "
@@ -9561,15 +9624,18 @@ msgstr ""
 msgid "mastery_detail_level_tier"
 msgstr "Ebene %1 / %2 - Tier %3 von %4"
 
+#, fuzzy
 msgid "mastery_detail_level_tier_mp"
 msgstr "Ebene %1 / %2 - Tier %3 von %4 - %5 mp"
 
 msgid "mastery_row_level_tier"
 msgstr "Ebene %1, Ebene %2"
 
+#, fuzzy
 msgid "mastery_tree_subheader"
 msgstr "Level %1 / %2. Tor %3 von %4."
 
+#, fuzzy
 msgid "mastery_tree_subheader_active"
 msgstr "Level %1 / %2. Tor %3 von %4. AKTIV."
 

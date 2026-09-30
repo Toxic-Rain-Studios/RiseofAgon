@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
+"skills/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "Sachkunde"
@@ -6487,24 +6489,28 @@ msgstr "Ermöglicht einen Double-Tap Sidestep."
 msgid "s_Cutthroat Mastery"
 msgstr "Cutthroat Mastering"
 
+#, fuzzy
 msgid "desc_s_Cutthroat Mastery"
 msgstr "Nimm den Cutthroat-Pfad auf. Benötigt Messer 50."
 
 msgid "s_Vanguard Mastery"
 msgstr "Vorhut-Meisterschaft"
 
+#, fuzzy
 msgid "desc_s_Vanguard Mastery"
 msgstr "Nehmen Sie den Vanguard-Pfad. Benötigt Vitalität 50."
 
 msgid "s_Oracle Mastery"
 msgstr "Orakelbeherrschung"
 
+#, fuzzy
 msgid "desc_s_Oracle Mastery"
 msgstr "Nehmen Sie den Orakel-Pfad. Benötigt Zauber Chanting 50."
 
 msgid "s_Deadeye Mastery"
 msgstr "Deadeye-Meisterschaft"
 
+#, fuzzy
 msgid "desc_s_Deadeye Mastery"
 msgstr "Nimm den Deadeye-Pfad auf. Erfordert Bogenschießen 50."
 

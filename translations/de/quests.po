@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
+"quests/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_quest_33"
 msgstr "Goblins in {$u20}"
@@ -69309,6 +69311,7 @@ msgstr ""
 "^Cdarkfall^Du hast dich zum Ausruhen hingesetzt ^Cwhite^%1 ^Cdarkfall^von "
 "^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21215"
 msgstr "Auftrag 2 - Schritt 5 - die Bogenschießziele"
 
@@ -69334,6 +69337,7 @@ msgstr ""
 "^Cdarkfall^Sie haben die Bogenschießen Ziele getroffen ^Cwhite^%1 "
 "^Cdarkfall^von ^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21216"
 msgstr "Auftrag 2 - Schritt 6 - Torvald Bericht erstatten"
 
@@ -69356,9 +69360,11 @@ msgstr ""
 msgid "name_quest_21217"
 msgstr "Auftrag 2 - Schritt 5 - Pfeile ausrüsten"
 
+#, fuzzy
 msgid "short_desc_quest_21217"
 msgstr "Rüsten Sie Pfeile in Ihrer Paperdoll aus."
 
+#, fuzzy
 msgid "start_text_quest_21217"
 msgstr ""
 "Doppelklicken Sie auf die Pfeile in Ihrem Rucksack, um sie in Ihrer "
@@ -69387,6 +69393,7 @@ msgstr ""
 "Rüsten Sie diese Rüstung aus, sie wird Ihnen einen grundlegenden Schutz vor "
 "Angriffen gewähren. Dann gehen Sie zu James dem Magier im Kommandozelt."
 
+#, fuzzy
 msgid "name_quest_21221"
 msgstr "Auftrag 3 - Schritt 1 - Rüstung und James der Magier"
 
@@ -69748,6 +69755,7 @@ msgstr ""
 "James der Magier lehrte mich Parrying, Magie, Transfers und Heilung, dann "
 "schickte mich zurück zu Torvald."
 
+#, fuzzy
 msgid "name_quest_21250"
 msgstr "Auftrag 5"
 
@@ -69761,6 +69769,7 @@ msgstr ""
 "deinem Beutebeutel-Slot und was auch immer du ausziehst, sammelt sich an "
 "einem Ort."
 
+#, fuzzy
 msgid "name_quest_21251"
 msgstr "Auftrag 5 - Schritt 1 - das Scharmützel"
 
@@ -69783,6 +69792,7 @@ msgstr ""
 "Ich tötete drei Goblin-Scouts und zwei Goblin-Kämpfer im Lager östlich des "
 "Kriegslagers."
 
+#, fuzzy
 msgid "name_quest_21252"
 msgstr "Auftrag 5 - Schritt 5 - Nachricht an Torvald"
 
@@ -69816,6 +69826,7 @@ msgstr "Sie meldeten Torvald den Kämpfer."
 msgid "diary_text_quest_21252"
 msgstr "Ich trug Wort des Überfalls zurück zu Torvald."
 
+#, fuzzy
 msgid "name_quest_21253"
 msgstr "Auftrag 5 - Schritt 3 - der Schamane"
 
@@ -69836,6 +69847,7 @@ msgstr "Du hast den Goblin-Schamanen getötet."
 msgid "diary_text_quest_21253"
 msgstr "Ich habe einen Goblin-Schamanen im inneren Ring des Lagers getötet."
 
+#, fuzzy
 msgid "name_quest_21254"
 msgstr "Auftrag 5 - Schritt 4 - der Schrein"
 
@@ -69860,6 +69872,7 @@ msgstr ""
 "^Cdarkfall^Du hast den Goblinschrein geschlagen ^Cwhite^%1 ^Cdarkfall^von "
 "^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21255"
 msgstr "Auftrag 5 - Schritt 0 - der Beutebeutel"
 
@@ -70953,6 +70966,7 @@ msgstr ""
 msgid "name_quest_21381"
 msgstr "Auftrag 18 - Schritt 2 - der irtych"
 
+#, fuzzy
 msgid "short_desc_quest_21381"
 msgstr "Töten 4 Irtych."
 
@@ -70967,9 +70981,11 @@ msgstr ""
 msgid "end_text_quest_21381"
 msgstr "Du hast den Irtych zerstört, gutes Werk."
 
+#, fuzzy
 msgid "finished_text_quest_21381"
 msgstr "Sie haben 4 Irtych getötet."
 
+#, fuzzy
 msgid "diary_text_quest_21381"
 msgstr "Ich räumte vier Irtychon aus dem Wasser westlich des Außenpostens."
 
@@ -71051,6 +71067,7 @@ msgstr ""
 " deiner Karte markiert. Seien Sie gewarnt: Er gibt einem Schüler nichts, der"
 " sich nicht an seinen Unterricht erinnern kann."
 
+#, fuzzy
 msgid "name_quest_21393"
 msgstr "Auftrag 21 - Schritt 2 - in die Stadt zurückkehren"
 
@@ -71080,6 +71097,7 @@ msgstr ""
 "^Cdarkfall^Sie erinnern sich an die Dawnshore Bindstone ^Cwhite^%1 "
 "^Cdarkfall^von ^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21392"
 msgstr "Auftrag 21 - Schritt 4 - die Verzauberung"
 
@@ -71111,6 +71129,7 @@ msgstr ""
 "^Cdarkfall^Du hast eine große Verzauberung gemacht ^Cwhite^%1 ^Cdarkfall^von"
 " ^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21391"
 msgstr "Auftrag 22 - Schritt 1 - Bound"
 
@@ -71195,6 +71214,7 @@ msgstr "Agent Archaeus gab dir seinen Schlüssel."
 msgid "diary_text_quest_21396"
 msgstr "Archaeus war zufrieden und gab mir den Schlüssel zu seiner Brust."
 
+#, fuzzy
 msgid "name_quest_21410"
 msgstr "Auftrag 21"
 
@@ -71212,6 +71232,7 @@ msgstr ""
 "Stadt, machen Sie den Zauber an der Verzauberungsstation und legen Sie ihn "
 "in Ihr Personal. Mary wird der Stadtrat hören wollen, dass es getan ist."
 
+#, fuzzy
 msgid "name_quest_21411"
 msgstr "Auftrag 21 - Schritt 1 - die Truhe von Archaeus"
 
@@ -71243,6 +71264,7 @@ msgstr ""
 "^Cdarkfall^Du hast die Brust des Archäus geöffnet ^Cwhite^%1 ^Cdarkfall^von "
 "^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21412"
 msgstr "Auftrag 21 - Schritt 3 - die Zähne"
 
@@ -71273,6 +71295,7 @@ msgstr ""
 "^Cdarkfall^Sie haben abgerufen ^Cwhite^%1 ^Cdarkfall^von ^Cwhite^%2 "
 "^Cdarkfall^Zähne von Ihrer Bank."
 
+#, fuzzy
 msgid "name_quest_21413"
 msgstr "Auftrag 21 - Schritt 5 - der Stab"
 
@@ -71298,6 +71321,7 @@ msgstr ""
 "^Cdarkfall^Sie haben ein Juwel in Ihre Mitarbeiter gesetzt ^Cwhite^%1 "
 "^Cdarkfall^von ^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21414"
 msgstr "Auftrag 21 - Schritt 6 - Mary Bericht erstatten"
 
@@ -71319,6 +71343,7 @@ msgid "diary_text_quest_21414"
 msgstr ""
 "Ich sagte Mary dem Ratsmitglied, dass meine Mitarbeiter verzaubert waren."
 
+#, fuzzy
 msgid "name_quest_21420"
 msgstr "Auftrag 22"
 
@@ -71331,6 +71356,7 @@ msgstr ""
 "- er wird dich ab Dawnshore und weiter in deine Heimat sehen. Ich habe "
 "markiert, wo sie ihn auf ihrer karte finden können. Gehen Sie gut."
 
+#, fuzzy
 msgid "name_quest_21400"
 msgstr "Auftrag 20"
 
@@ -71343,6 +71369,7 @@ msgstr ""
 "niederlegst, hinterlässt ein Grab, und jedes Grab hat Zähne darin. Bring mir"
 " fünf. Ich werde nicht fragen, wofür."
 
+#, fuzzy
 msgid "name_quest_21401"
 msgstr "Auftrag 20 - Schritt 1 - die Zähne"
 

@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
+"resources/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Ressourcen"
@@ -36451,12 +36453,14 @@ msgstr "Wüste Crog"
 msgid "r_Mastery Items"
 msgstr "Beherrschungspositionen"
 
+#, fuzzy
 msgid "desc_r_Mastery Items"
 msgstr "Orbs und Essenz für die Meisterungspfade."
 
 msgid "r_Ancient Essence"
 msgstr "Alte Essenz"
 
+#, fuzzy
 msgid "desc_r_Ancient Essence"
 msgstr ""
 "Macht aus den Toten gezogen. Verwenden Sie es, um die Essenz in Ihren Pool "
@@ -36465,14 +36469,16 @@ msgstr ""
 msgid "r_Mastery Orb"
 msgstr "Beherrschungskugel"
 
+#, fuzzy
 msgid "desc_r_Mastery Orb"
 msgstr ""
-"Ein Knoten gebundener Macht, gepriesen von etwas, das stark genug ist, um es"
-" wert zu sein, getötet zu werden."
+"Ein Knoten gebundener Macht, gepriesen von etwas, das stark genug ist, um es "
+"wert zu sein, getötet zu werden."
 
 msgid "r_Ancient Orb"
 msgstr "Alte Orbs"
 
+#, fuzzy
 msgid "desc_r_Ancient Orb"
 msgstr ""
 "Älter und kälter als die kleineren Kugeln, und viel seltener. Nur der "
@@ -36481,6 +36487,7 @@ msgstr ""
 msgid "r_Slayer Cache"
 msgstr "Slayer-Cache"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache"
 msgstr ""
 "Drücken Sie auf Verwenden, um es zu öffnen. Dies erfordert einen Slayer "
@@ -36489,6 +36496,7 @@ msgstr ""
 msgid "r_Slayer Cache Key"
 msgstr "Cache-Schlüssel"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache Key"
 msgstr "Öffnet einen Slayer Cache."
 
@@ -36559,6 +36567,7 @@ msgstr "Feiner Raupentalisman"
 msgid "display_name_r_Slayer Talisman Fine"
 msgstr "Feiner Raupentalisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Fine"
 msgstr ""
 "Der Charme eines Mörders, getragen im Runenbuch-Slot. Seine Macht ist, was "
@@ -36570,6 +36579,7 @@ msgstr "Superior-Talisman"
 msgid "display_name_r_Slayer Talisman Superior"
 msgstr "Superior-Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Superior"
 msgstr ""
 "Der Charme eines Mörders, getragen im Runenbuch-Slot. Seine Macht ist, was "
@@ -36581,6 +36591,7 @@ msgstr "Außergewöhnlicher Talisman"
 msgid "display_name_r_Slayer Talisman Exceptional"
 msgstr "Außergewöhnlicher Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Exceptional"
 msgstr ""
 "Der Charme eines Mörders, getragen im Runenbuch-Slot. Seine Macht ist, was "
@@ -36592,6 +36603,7 @@ msgstr "Peerless-Slayer Talisman"
 msgid "display_name_r_Slayer Talisman Peerless"
 msgstr "Peerless-Slayer Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Peerless"
 msgstr ""
 "Der Charme eines Mörders, getragen im Runenbuch-Slot. Seine Macht ist, was "
@@ -36603,6 +36615,7 @@ msgstr "Unbefleckter Talisman"
 msgid "display_name_r_Slayer Talisman Immaculate"
 msgstr "Unbefleckter Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Immaculate"
 msgstr ""
 "Der Charme eines Mörders, getragen im Runenbuch-Slot. Seine Macht ist, was "
@@ -36636,6 +36649,7 @@ msgstr "Versiegelter feiner Talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Fine"
 msgstr "Versiegelter feiner Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Fine"
 msgstr ""
 "Ein versiegelter Slayer Talisman. Die Note ist klar genug; was es rollte, "
@@ -36647,6 +36661,7 @@ msgstr "Versiegelter Talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Superior"
 msgstr "Versiegelter Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Superior"
 msgstr ""
 "Ein versiegelter Slayer Talisman. Die Note ist klar genug; was es rollte, "
@@ -36658,6 +36673,7 @@ msgstr "Versiegelter außergewöhnlicher Talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
 msgstr "Versiegelter außergewöhnlicher Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Exceptional"
 msgstr ""
 "Ein versiegelter Slayer Talisman. Die Note ist klar genug; was es rollte, "
@@ -36669,6 +36685,7 @@ msgstr "Versiegelter unvergleichlicher Talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Peerless"
 msgstr "Versiegelter unvergleichlicher Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Peerless"
 msgstr ""
 "Ein versiegelter Slayer Talisman. Die Note ist klar genug; was es rollte, "
@@ -36680,6 +36697,7 @@ msgstr "Versiegelter, makelloser Talisman"
 msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
 msgstr "Versiegelter, makelloser Talisman"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Immaculate"
 msgstr ""
 "Ein versiegelter Slayer Talisman. Die Note ist klar genug; was es rollte, "
@@ -36688,12 +36706,14 @@ msgstr ""
 msgid "r_Slayer Services"
 msgstr "Schichterdienste"
 
+#, fuzzy
 msgid "desc_r_Slayer Services"
 msgstr "Entsperrt einen Slayer Master, der für Slayer-Punkte verkauft wird."
 
 msgid "r_Slayer Contract Slot"
 msgstr "Kontraktzeitfenster"
 
+#, fuzzy
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Erlaubt Ihnen, einen weiteren Slayer-Vertrag auf einmal zu halten."
 
@@ -36708,6 +36728,7 @@ msgstr ""
 msgid "r_Slayer Extra Talisman Slot"
 msgstr "Talisman-Slot"
 
+#, fuzzy
 msgid "desc_r_Slayer Extra Talisman Slot"
 msgstr ""
 "Sie können einen weiteren Slayer-Talisman gleichzeitig tragen. Jeder Slot "
