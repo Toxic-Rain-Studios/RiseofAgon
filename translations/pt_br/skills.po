@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Brazilian Portuguese\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
+"darkfall/skills/pt_BR/>\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "Habilidade"
@@ -6381,24 +6383,28 @@ msgstr "Permite um passo duplo."
 msgid "s_Cutthroat Mastery"
 msgstr "Domínio de gargantas cortantes"
 
+#, fuzzy
 msgid "desc_s_Cutthroat Mastery"
 msgstr "Tomem o caminho do Cutthroat. Requer facas 50."
 
 msgid "s_Vanguard Mastery"
 msgstr "Domínio da vanguarda"
 
+#, fuzzy
 msgid "desc_s_Vanguard Mastery"
 msgstr "Vai pelo caminho da Vanguarda. Requer Vitalidade 50."
 
 msgid "s_Oracle Mastery"
 msgstr "Domínio do oráculo"
 
+#, fuzzy
 msgid "desc_s_Oracle Mastery"
 msgstr "Segue o caminho da Oráculo. Requer canto ortográfico 50."
 
 msgid "s_Deadeye Mastery"
 msgstr "Maestria de olho morto"
 
+#, fuzzy
 msgid "desc_s_Deadeye Mastery"
 msgstr "Segue o caminho do Deadeye. Requer Archery 50."
 

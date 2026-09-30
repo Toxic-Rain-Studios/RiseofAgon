@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Brazilian Portuguese\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
+"darkfall/quests/pt_BR/>\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_quest_33"
 msgstr "goblins em {$u20}"
@@ -67346,6 +67348,7 @@ msgstr ""
 "^Cdarkfall^Sentaste-te para descansar. ^Cwhite^%1 ^Cdarkfall^de ^Cwhite^%2 "
 "^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21215"
 msgstr "Missão 2 - etapa 5 - os alvos de tiro com arco"
 
@@ -67370,6 +67373,7 @@ msgstr ""
 "^Cdarkfall^você atingiu os alvos de arco e flecha ^Cwhite^%1 ^Cdarkfall^de "
 "^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21216"
 msgstr "Missão 2 - etapa 6 - reporte a Torvald"
 
@@ -67392,9 +67396,11 @@ msgstr ""
 msgid "name_quest_21217"
 msgstr "Missão 2 - etapa 5 - equipe suas flechas"
 
+#, fuzzy
 msgid "short_desc_quest_21217"
 msgstr "Equip setas em sua boneca de papel."
 
+#, fuzzy
 msgid "start_text_quest_21217"
 msgstr ""
 "Clique duas vezes nas setas em sua mochila para equipá-las em sua boneca de "
@@ -67422,6 +67428,7 @@ msgstr ""
 "Equipar esta armadura, vai dar-lhe proteção básica contra ataques. Em "
 "seguida, dirija-se a James, o Mago, dentro da tenda de comando."
 
+#, fuzzy
 msgid "name_quest_21221"
 msgstr "Missão 3 - etapa 1 - armadura e James, o mago"
 
@@ -67774,6 +67781,7 @@ msgstr ""
 "James, o Mago, ensinou-me a fazer parrying, magia, transferências e cura, e "
 "depois enviou-me de volta para Torvald."
 
+#, fuzzy
 msgid "name_quest_21250"
 msgstr "Missão 5"
 
@@ -67787,6 +67795,7 @@ msgstr ""
 "usá-lo em sua ranhura saco de saque e o que quer que você tirar deles coleta"
 " em um lugar."
 
+#, fuzzy
 msgid "name_quest_21251"
 msgstr "Missão 5 - etapa 1 - a escaramuça"
 
@@ -67809,6 +67818,7 @@ msgstr ""
 "Matei três batedores de duendes e dois lutadores de duendes no campo a leste"
 " do campo de guerra."
 
+#, fuzzy
 msgid "name_quest_21252"
 msgstr "Missão 5 - etapa 5 - notícias para Torvald"
 
@@ -67841,6 +67851,7 @@ msgstr "Reportou-se ao Torvald, o Lutador."
 msgid "diary_text_quest_21252"
 msgstr "Tive notícias do ataque de volta a Torvald."
 
+#, fuzzy
 msgid "name_quest_21253"
 msgstr "Missão 5 - etapa 3 - o xamã"
 
@@ -67861,6 +67872,7 @@ msgstr "Matou o xamã duende."
 msgid "diary_text_quest_21253"
 msgstr "Matei um xamã duende no ringue interno do acampamento."
 
+#, fuzzy
 msgid "name_quest_21254"
 msgstr "Missão 5 - etapa 4 - o santuário"
 
@@ -67884,6 +67896,7 @@ msgstr ""
 "^Cdarkfall^Atingiste o santuário dos duendes. ^Cwhite^%1 ^Cdarkfall^de "
 "^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21255"
 msgstr "Missão 5 - etapa 0 - a bolsa de saque"
 
@@ -68929,6 +68942,7 @@ msgstr ""
 msgid "name_quest_21381"
 msgstr "Missão 18 - etapa 2 - o irtych"
 
+#, fuzzy
 msgid "short_desc_quest_21381"
 msgstr "Matem o Irtych 4."
 
@@ -68942,9 +68956,11 @@ msgstr ""
 msgid "end_text_quest_21381"
 msgstr "Destruíste o Irtych, bom trabalho."
 
+#, fuzzy
 msgid "finished_text_quest_21381"
 msgstr "Matou o Irtych 4."
 
+#, fuzzy
 msgid "diary_text_quest_21381"
 msgstr "Tirei quatro irtych da água a oeste do posto avançado."
 
@@ -69022,6 +69038,7 @@ msgstr ""
 "mapa. Esteja avisado: ele não dá nada a um estudante que não se lembra de "
 "suas lições."
 
+#, fuzzy
 msgid "name_quest_21393"
 msgstr "Missão 21 - etapa 2 - retorne à cidade"
 
@@ -69049,6 +69066,7 @@ msgstr ""
 "^Cdarkfall^você se lembrou para o Dawnshore Bindstone ^Cwhite^%1 "
 "^Cdarkfall^de ^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21392"
 msgstr "Missão 21 - etapa 4 - o encantamento"
 
@@ -69079,6 +69097,7 @@ msgstr ""
 "^Cdarkfall^você fez um encantamento de magnitude ^Cwhite^%1 ^Cdarkfall^de "
 "^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21391"
 msgstr "Missão 22 - etapa 1 - Bound"
 
@@ -69162,6 +69181,7 @@ msgstr "O Agente Archaeus deu-lhe a chave."
 msgid "diary_text_quest_21396"
 msgstr "Arqueu ficou satisfeito, e me deu a chave de seu peito."
 
+#, fuzzy
 msgid "name_quest_21410"
 msgstr "Missão 21"
 
@@ -69178,6 +69198,7 @@ msgstr ""
 "Estação de Encanto e coloque-o no seu pessoal. Mary o conselheiro vai querer"
 " ouvir que está feito."
 
+#, fuzzy
 msgid "name_quest_21411"
 msgstr "Missão 21 - etapa 1 - o baú de Archaeus"
 
@@ -69209,6 +69230,7 @@ msgstr ""
 "^Cdarkfall^Você abriu o peito de Archaeus ^Cwhite^%1 ^Cdarkfall^de "
 "^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21412"
 msgstr "Missão 21 - etapa 3 - os dentes"
 
@@ -69238,6 +69260,7 @@ msgstr ""
 "^Cdarkfall^você foi recuperado ^Cwhite^%1 ^Cdarkfall^de ^Cwhite^%2 "
 "^Cdarkfall^Dentes do seu banco."
 
+#, fuzzy
 msgid "name_quest_21413"
 msgstr "Missão 21 - etapa 5 - o cajado"
 
@@ -69263,6 +69286,7 @@ msgstr ""
 "^Cdarkfall^você colocou uma jóia em seu cajado ^Cwhite^%1 ^Cdarkfall^de "
 "^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21414"
 msgstr "Missão 21 - etapa 6 - reporte a Mary"
 
@@ -69283,6 +69307,7 @@ msgstr "Reportou-se ao Vereador Mary."
 msgid "diary_text_quest_21414"
 msgstr "Disse ao Vereador Mary que o meu pessoal estava encantado."
 
+#, fuzzy
 msgid "name_quest_21420"
 msgstr "Missão 22"
 
@@ -69295,6 +69320,7 @@ msgstr ""
 "Ele vai ver-te à saída de Dawnshore e para a sua terra natal. Marquei onde "
 "encontrá-lo no seu mapa. Vai bem."
 
+#, fuzzy
 msgid "name_quest_21400"
 msgstr "Missão 20"
 
@@ -69307,6 +69333,7 @@ msgstr ""
 "sepultura, e cada sepultura tem dentes. Traz-me cinco. Não vou perguntar "
 "para quê."
 
+#, fuzzy
 msgid "name_quest_21401"
 msgstr "Missão 20 - etapa 1 - os dentes"
 

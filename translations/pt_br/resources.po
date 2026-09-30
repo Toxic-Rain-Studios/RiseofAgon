@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Brazilian Portuguese\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
+"darkfall/resources/pt_BR/>\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Recurso"
@@ -35873,12 +35875,14 @@ msgstr "Deserto Crog"
 msgid "r_Mastery Items"
 msgstr "Itens de domínio"
 
+#, fuzzy
 msgid "desc_r_Mastery Items"
 msgstr "Orbes e essência para os caminhos de domínio."
 
 msgid "r_Ancient Essence"
 msgstr "Essência antiga"
 
+#, fuzzy
 msgid "desc_r_Ancient Essence"
 msgstr ""
 "Poder retirado dos mortos. Use-o para sintonizar a essência na sua piscina."
@@ -35886,14 +35890,16 @@ msgstr ""
 msgid "r_Mastery Orb"
 msgstr "Orbe de domínio"
 
+#, fuzzy
 msgid "desc_r_Mastery Orb"
 msgstr ""
-"Um nó de poder ligado, retirado de algo forte o suficiente para valer a pena"
-" matar."
+"Um nó de poder ligado, retirado de algo forte o suficiente para valer a pena "
+"matar."
 
 msgid "r_Ancient Orb"
 msgstr "Orbe antigo"
 
+#, fuzzy
 msgid "desc_r_Ancient Orb"
 msgstr ""
 "Mais velho e mais frio do que os orbes menores, e muito mais raro. Só os "
@@ -35902,12 +35908,14 @@ msgstr ""
 msgid "r_Slayer Cache"
 msgstr "Cache do caçador"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache"
 msgstr "Pressione Use para abri-lo. Isto requer uma Chave de Cache Slayer."
 
 msgid "r_Slayer Cache Key"
 msgstr "Chave de cache do caçador"
 
+#, fuzzy
 msgid "desc_r_Slayer Cache Key"
 msgstr "Abre uma Cache de Caça-Vampiros."
 
@@ -35978,6 +35986,7 @@ msgstr "Talismã de caça-níqueis"
 msgid "display_name_r_Slayer Talisman Fine"
 msgstr "Talismã de caça-níqueis"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Fine"
 msgstr ""
 "O charme de uma caçadora, carregado na ranhura do livro rune. O seu poder é "
@@ -35989,6 +35998,7 @@ msgstr "Talismã caçador superior"
 msgid "display_name_r_Slayer Talisman Superior"
 msgstr "Talismã caçador superior"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Superior"
 msgstr ""
 "O charme de uma caçadora, carregado na ranhura do livro rune. O seu poder é "
@@ -36000,6 +36010,7 @@ msgstr "Talismã assassino excepcional"
 msgid "display_name_r_Slayer Talisman Exceptional"
 msgstr "Talismã assassino excepcional"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Exceptional"
 msgstr ""
 "O charme de uma caçadora, carregado na ranhura do livro rune. O seu poder é "
@@ -36011,6 +36022,7 @@ msgstr "Talismã caçador sem igual"
 msgid "display_name_r_Slayer Talisman Peerless"
 msgstr "Talismã caçador sem igual"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Peerless"
 msgstr ""
 "O charme de uma caçadora, carregado na ranhura do livro rune. O seu poder é "
@@ -36022,6 +36034,7 @@ msgstr "Talismã assassino imaculado"
 msgid "display_name_r_Slayer Talisman Immaculate"
 msgstr "Talismã assassino imaculado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Immaculate"
 msgstr ""
 "O charme de uma caçadora, carregado na ranhura do livro rune. O seu poder é "
@@ -36055,6 +36068,7 @@ msgstr "Talismã fino selado"
 msgid "display_name_r_Slayer Talisman Unidentified Fine"
 msgstr "Talismã fino selado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Fine"
 msgstr ""
 "Um talismã assassino selado. A nota é bastante clara; o que rolou não é. "
@@ -36066,6 +36080,7 @@ msgstr "Talismã superior selado"
 msgid "display_name_r_Slayer Talisman Unidentified Superior"
 msgstr "Talismã superior selado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Superior"
 msgstr ""
 "Um talismã assassino selado. A nota é bastante clara; o que rolou não é. "
@@ -36077,6 +36092,7 @@ msgstr "Talismã excepcional selado"
 msgid "display_name_r_Slayer Talisman Unidentified Exceptional"
 msgstr "Talismã excepcional selado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Exceptional"
 msgstr ""
 "Um talismã assassino selado. A nota é bastante clara; o que rolou não é. "
@@ -36088,6 +36104,7 @@ msgstr "Talismã selado sem igual"
 msgid "display_name_r_Slayer Talisman Unidentified Peerless"
 msgstr "Talismã selado sem igual"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Peerless"
 msgstr ""
 "Um talismã assassino selado. A nota é bastante clara; o que rolou não é. "
@@ -36099,6 +36116,7 @@ msgstr "Talismã imaculado selado"
 msgid "display_name_r_Slayer Talisman Unidentified Immaculate"
 msgstr "Talismã imaculado selado"
 
+#, fuzzy
 msgid "desc_r_Slayer Talisman Unidentified Immaculate"
 msgstr ""
 "Um talismã assassino selado. A nota é bastante clara; o que rolou não é. "
@@ -36107,13 +36125,14 @@ msgstr ""
 msgid "r_Slayer Services"
 msgstr "Serviços de caça ao abate"
 
+#, fuzzy
 msgid "desc_r_Slayer Services"
-msgstr ""
-"Desbloqueia um Mestre da Caça-Vampiros que vende por pontos de caçador."
+msgstr "Desbloqueia um Mestre da Caça-Vampiros que vende por pontos de caçador."
 
 msgid "r_Slayer Contract Slot"
 msgstr "Slot de contrato"
 
+#, fuzzy
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Permite-te manter mais um contrato de cada vez."
 
@@ -36128,6 +36147,7 @@ msgstr ""
 msgid "r_Slayer Extra Talisman Slot"
 msgstr "Slot talismã"
 
+#, fuzzy
 msgid "desc_r_Slayer Extra Talisman Slot"
 msgstr ""
 "Deixa-te usar mais um talismã de cada vez. Cada ranhura precisa de um nível "
