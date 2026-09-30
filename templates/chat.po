@@ -646,7 +646,7 @@ msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_0"
 msgstr "Time to hunt some %4 scum. Mwahahaha!"
 
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_1"
-msgstr "Your gold of your life %4!"
+msgstr "Your gold or your life %4!"
 
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_10"
 msgstr "Do you enjoy pain %4? Because I have plenty here for you! Hahahaha!"
@@ -775,7 +775,7 @@ msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_7"
 msgstr "If its pain you seek, look no further."
 
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_8"
-msgstr "You have do idea what you are getting yourself into %4! "
+msgstr "You have no idea what you are getting yourself into %4! "
 
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_9"
 msgstr "Today I feel like eating %4! Hahahaha!"
@@ -1430,7 +1430,7 @@ msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_0"
 msgstr "Somebody help me kill this %4. "
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_1"
-msgstr "Time to use different tactics. I just can loose to a %4."
+msgstr "Time to use different tactics. I just can't lose to a %4."
 
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_10"
 msgstr "%4, how did you get to be so good?"
@@ -3468,7 +3468,7 @@ msgid "NOTIFICATION_AI_TALK_END_r_centaurs_2"
 msgstr "And stay dead you foolish %4!"
 
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_3"
-msgstr "Next time, be more careful % 2 %3! You hear me?"
+msgstr "Next time, be more careful %2 %3! You hear me?"
 
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_4"
 msgstr "You have just died! Do you understand this? You have died!"
@@ -3517,7 +3517,7 @@ msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_2"
 msgstr "%2 %3. You are now dead!"
 
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_3"
-msgstr "Next time, be more careful % 2 %3! You hear me?"
+msgstr "Next time, be more careful %2 %3! You hear me?"
 
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_4"
 msgstr "Remember this %4! You died because you were weak!"
@@ -7998,9 +7998,25 @@ msgstr "%1 (%2) is online"
 msgid "NOTIFICATION_CONQUEST_ATTACKER_CITIES_VULNERABLE_ATTACKER"
 msgstr "Your %1 %2 now vulnerable to attack!... Defend %3!"
 
+#. Runtime parameters: Cities. Counts are bare integers. City/attacker names
+#. are proper names; resource name is a localized utterance. Use count labels
+#. if your language requires multiple plural forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_CITIES_VULNERABLE_ATTACKER_COUNTS"
+msgstr ""
+"Your holdings are now vulnerable to attack. Defend them! Cities at risk: %1."
+
 msgid "NOTIFICATION_CONQUEST_ATTACKER_CITIES_VULNERABLE_DEFENDER"
 msgstr ""
 "The %1 owned by %2 %3 now vulnerable to attack!... Find %4 and take %4!"
+
+#. Runtime parameters: Cities, AttackerName. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_CITIES_VULNERABLE_DEFENDER_COUNTS"
+msgstr ""
+"The holdings of %2 are now vulnerable to attack. Find and capture them! "
+"Cities at risk: %1."
 
 msgid "NOTIFICATION_CONQUEST_ATTACKER_CITIES_VULNERABLE_GLOBAL"
 msgstr "The %1 owned by %2 %3 now vulnerable to attack!"
@@ -8010,6 +8026,14 @@ msgstr ""
 "^Cred^WARNING!^N^ Your clan size has dropped below the required number to "
 "challenge for %1!... You have %2 to return to %3 members before you lose the "
 "challenge for %1!"
+
+#. Runtime parameters: City, Time, Limit.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_CLAN_SIZE_DROPPED_BELOW_LIMIT_PAID_MEMBERS"
+msgstr ""
+"^Cred^WARNING!^N^ Your clan no longer has enough members with paid accounts "
+"to challenge for %1! You have %2 to reach the required membership count of "
+"%3 before you lose the challenge for %1. Freemium accounts do not count "
+"towards this requirement."
 
 msgid "NOTIFICATION_CONQUEST_ATTACKER_CLAN_SIZE_OK"
 msgstr ""
@@ -8028,10 +8052,30 @@ msgstr ""
 "The %1 your clan placed in the challenge for %2 %3 now vulnerable to attack, "
 "as %4 your %5!... Defend them!"
 
+#. Runtime parameters: SiegeStones, City, Cities. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_AND_CITIES_VULNERABLE_ATTACKER_COUNTS"
+msgstr ""
+"Your siege stones in the challenge for %2 and your holdings are now "
+"vulnerable to attack. Defend them! Siege stones at risk: %1. Cities at risk: "
+"%3."
+
 msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_AND_CITIES_VULNERABLE_DEFENDER"
 msgstr ""
 "The %1 placed by %2, in the challenge for %3, %4 now vulnerable to attack, "
 "as %5 their %6!... Attack them!"
+
+#. Runtime parameters: Stones, AttackerName, City, Cities. Counts are bare
+#. integers. City/attacker names are proper names; resource name is a
+#. localized utterance. Use count labels if your language requires multiple
+#. plural forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_AND_CITIES_VULNERABLE_DEFENDER_COUNTS"
+msgstr ""
+"The siege stones placed by %2 in the challenge for %3 and their holdings are "
+"now vulnerable to attack. Attack them! Siege stones at risk: %1. Cities at "
+"risk: %4."
 
 msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_AND_CITIES_VULNERABLE_GLOBAL"
 msgstr ""
@@ -8043,10 +8087,28 @@ msgstr ""
 "The %1 your clan placed in the challenge for %2 %3 now vulnerable to "
 "attack!... Defend %4!"
 
+#. Runtime parameters: SiegeStones, City. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_VULNERABLE_ATTACKER_COUNTS"
+msgstr ""
+"Your siege stones in the challenge for %2 are now vulnerable to attack. "
+"Defend them! Siege stones at risk: %1."
+
 msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_VULNERABLE_DEFENDER"
 msgstr ""
 "The %1 placed by %2, in the challenge for %3, %4 now vulnerable to "
 "attack!... Find %5 and destroy %5!"
+
+#. Runtime parameters: Stones, AttackerName, City. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_VULNERABLE_DEFENDER_COUNTS"
+msgstr ""
+"The siege stones placed by %2 in the challenge for %3 are now vulnerable to "
+"attack. Find and destroy them! Siege stones at risk: %1."
 
 msgid "NOTIFICATION_CONQUEST_ATTACKER_SIEGE_STONES_VULNERABLE_GLOBAL"
 msgstr ""
@@ -8286,7 +8348,7 @@ msgstr ""
 "been paid to %2 since the challenge was not won."
 
 msgid "NOTIFICATION_CONQUEST_CHALLENGE_SIGE_STONE_LOST"
-msgstr "We lost the siege stone located in!"
+msgstr "We lost %1 in %2!"
 
 msgid "NOTIFICATION_CONQUEST_CHALLENGE_WON_ATTACKER_NO_CITIES"
 msgstr ""
@@ -8333,10 +8395,26 @@ msgstr ""
 "%1 can now be vulnerable to attack!... Destroy the remaining %2 %3 then "
 "destroy the clan-stone!"
 
+#. Runtime parameters: City, Walls. Counts are bare integers. City/attacker
+#. names are proper names; resource name is a localized utterance. Use count
+#. labels if your language requires multiple plural forms.
+msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_VULNERABLE_WALLS_STANDING_ATTACKER_COUNTS"
+msgstr ""
+"The attack on %1 can begin! Destroy the protective walls, then destroy the "
+"clan stone. Walls still required to remove protection: %2."
+
 msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_VULNERABLE_WALLS_STANDING_DEFENDER"
 msgstr ""
 "%1 can now be vulnerable to attack!... Only %2 %3 %4 protecting the city "
 "from attack!"
+
+#. Runtime parameters: City, Walls. Counts are bare integers. City/attacker
+#. names are proper names; resource name is a localized utterance. Use count
+#. labels if your language requires multiple plural forms.
+msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_VULNERABLE_WALLS_STANDING_DEFENDER_COUNTS"
+msgstr ""
+"The attack on %1 can begin! The city is still protected by its walls. Walls "
+"the attackers still need to destroy to remove protection: %2."
 
 msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_VULNERABLE_WALLS_STANDING_GLOBAL"
 msgstr ""
@@ -8356,10 +8434,27 @@ msgstr ""
 "A wall around %1 has been destroyed!... If %2 more %3 destroyed the city "
 "will no longer be protected!"
 
+#. Runtime parameters: City, Walls. Counts are bare integers. City/attacker
+#. names are proper names; resource name is a localized utterance. Use count
+#. labels if your language requires multiple plural forms.
+msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_WALLS_DESTROYED_NOT_ENOUGH_COUNTS"
+msgstr ""
+"A wall around %1 has been destroyed! Further walls that must fall before the "
+"city loses protection: %2."
+
 msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_WALLS_INITIAL_MESSAGE"
 msgstr ""
 "There are %1 walls around %2... If %3 destroyed the city will no longer be "
 "protected!"
+
+#. Runtime parameters: CurrentWalls, City, WallsToVulnerable. Counts are bare
+#. integers. City/attacker names are proper names; resource name is a
+#. localized utterance. Use count labels if your language requires multiple
+#. plural forms.
+msgid "NOTIFICATION_CONQUEST_DEFENDER_CITY_WALLS_INITIAL_MESSAGE_COUNTS"
+msgstr ""
+"Walls currently standing around %2: %1. Walls that must be destroyed before "
+"the city loses protection: %3."
 
 msgid "NOTIFICATION_CONQUEST_DEFENDER_ENOUGH_WALLS_DESTROYED"
 msgstr ""
@@ -8401,8 +8496,27 @@ msgstr "Siege Stones are no longer allowed to be placed."
 msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_LOST_ATTACKER"
 msgstr "You lost a %1 located in %2, in the challenge for %3... %4!"
 
+#. Runtime parameters:
+#. SFResourceConstants.getNameUtterance(SiegeStone.getResourceType()),
+#. TileName, City, Remaining. Counts are bare integers. City/attacker names
+#. are proper names; resource name is a localized utterance. Use count labels
+#. if your language requires multiple plural forms.
+msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_LOST_ATTACKER_COUNTS"
+msgstr ""
+"You lost %1 in %2 during the challenge for %3. Your remaining siege stones: "
+"%4."
+
 msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_LOST_DEFENDER"
 msgstr "%1 lost a siege-stone that they placed around %2... %3!"
+
+#. Runtime parameters: Attacker, City, Stones. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_LOST_DEFENDER_COUNTS"
+msgstr ""
+"%1 lost a siege stone placed around %2. Total siege stones remaining in the "
+"challenge: %3."
 
 msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_MAXIMUM_PLACED"
 msgstr ""
@@ -8436,6 +8550,15 @@ msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_PLACEMENT_END_DEFENDER"
 msgstr ""
 "%1 has placed a total of %2 around %3, and can place no more... Find %4 and "
 "destroy %4!"
+
+#. Runtime parameters: Attacker, Stones, City. Counts are bare integers.
+#. City/attacker names are proper names; resource name is a localized
+#. utterance. Use count labels if your language requires multiple plural
+#. forms.
+msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_PLACEMENT_END_DEFENDER_COUNTS"
+msgstr ""
+"%1 can place no more siege stones around %3. Find and destroy the stones! "
+"Total placed by this clan: %2."
 
 msgid "NOTIFICATION_CONQUEST_SIEGE_STONE_PLACEMENT_NOT_ALLOWED"
 msgstr "Siege-stone placement is not allowed, in the challenge for %1!"
@@ -9244,6 +9367,10 @@ msgstr "%1"
 msgid "NOTIFICATION_GENERIC_QUEST_MESSAGE_ERROR"
 msgstr "Unknown response for your quest offer."
 
+#. No runtime parameters.
+msgid "NOTIFICATION_GENERIC_TRADE_ROUTE_FREEMIUM"
+msgstr "Freemium accounts cannot initiate trade routes."
+
 msgid "NOTIFICATION_GLYPH_CHALLENGE_DEFENDER_WARNING"
 msgstr ""
 "The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
@@ -9390,7 +9517,7 @@ msgstr "You don't own a house."
 
 msgid "NOTIFICATION_HOUSE_PLAYER_IS_A_TRIAL"
 msgstr ""
-"You can not transfer your house to this player because he has a trial "
+"You can not transfer your house to this player because he has a Freemium "
 "account."
 
 msgid "NOTIFICATION_HOUSE_PLAYER_NOT_ACCEPT_REPLACEMENT"
@@ -12649,6 +12776,10 @@ msgstr ""
 msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_NOT_ACCEPTED"
 msgstr "The Trade Route did not accept your deliverence."
 
+#. Runtime parameters: NumRunsStr, FactionName.
+msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_SUCCESSFUL_WITHOUT_REWARD_NUMBERED"
+msgstr "%2 thanks you for completing trade route run number %1."
+
 msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_SUCCESSFUL_WITH_ADDITIONAL_REWARD"
 msgstr ""
 "%1 would also like to give you %2 %3 as an additional gift for completing "
@@ -12663,6 +12794,18 @@ msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_SUCCESSFUL_WITH_REWARD_AND_BONUS"
 msgstr ""
 "This is your %1 Trade Route Run for %2. You delivered our goods so hastily "
 "that we would like to give you %3 %4 as a reward!"
+
+#. Runtime parameters: NumRunsStr, FactionName, Quantity, ResourceName.
+msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_SUCCESSFUL_WITH_REWARD_AND_BONUS_NUMBERED"
+msgstr ""
+"You completed trade route run number %1 for %2. Your swift delivery earned a "
+"bonus! Please accept %3 %4 as your reward."
+
+#. Runtime parameters: NumRunsStr, FactionName, Quantity, ResourceName.
+msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_SUCCESSFUL_WITH_REWARD_NUMBERED"
+msgstr ""
+"%2 thanks you for completing trade route run number %1. Please accept %3 %4 "
+"as your reward!"
 
 msgid "NOTIFICATION_TRADE_ROUTE_DELIVERY_TOO_LATE"
 msgstr "You delivered the goods too late! No reward for you"
@@ -12740,10 +12883,11 @@ msgstr "You found the treasure!"
 
 msgid "NOTIFICATION_TRIAL_ACCOUNT_CANNOT_CREATE_PARTY"
 msgstr ""
-"^Cred^Party Creation Denied! You cannot create a party with a trial account!"
+"^Cred^Party Creation Denied! You cannot create a party with a Freemium "
+"account!"
 
 msgid "NOTIFICATION_TRIAL_ACCOUNT_MEDITATION_POINTS_CAPPED"
-msgstr "Your mediation points are capped for a freemium account."
+msgstr "Your meditation points are capped for a Freemium account."
 
 msgid "NOTIFICATION_TUTORIAL_EXIT_CONFIRM"
 msgstr ""
@@ -12842,8 +12986,7 @@ msgstr ""
 
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD_CLAN"
 msgstr ""
-"Our clan's village control point at ^Cyellow^%1^N^ is at ^Cred^%2%%^N^ "
-"health!"
+"Our clan's village control point at ^Cyellow^%1^N^ is at ^Cred^%2%^N^ health!"
 
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_LOST_CLAN"
 msgstr ""

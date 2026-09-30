@@ -5,6 +5,54 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Acid Protection"
+msgstr "Acid Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Arcane Protection"
+msgstr "Arcane Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Arrow Protection"
+msgstr "Arrow Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Bludgeoning Protection"
+msgstr "Bludgeoning Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Casting Time Modifier"
+msgstr "Casting Time Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Cold Protection"
+msgstr "Cold Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Combat"
+msgstr "Combat"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Constitution"
+msgstr "Constitution"
+
 msgid "DUEL_HUD_DEFEAT"
 msgstr "Defeat. Your team lost."
 
@@ -38,8 +86,164 @@ msgstr "Waiting for players to join teams"
 msgid "DUEL_STATUS_WAITING_FOR_TEAMS_TO_BE_READY"
 msgstr "Waiting for team members to be ready"
 
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Decapitation Chance Bonus"
+msgstr "Decapitation Chance Bonus"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Defense"
+msgstr "Defense"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Demolition Bonus"
+msgstr "Demolition Bonus"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Drink Cooldown Reduction"
+msgstr "Drink Cooldown Reduction"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Dummy Effect Target"
+msgstr "Dummy Effect Target"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Enable Parry"
+msgstr "Enable Parry"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Encumbrance"
+msgstr "Encumbrance"
+
 msgid "Filter:"
 msgstr "Filter:"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Fire Protection"
+msgstr "Fire Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Fortitude"
+msgstr "Fortitude"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Gank Speed Bonus"
+msgstr "Gank Speed Bonus"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Health"
+msgstr "Health"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Health Gain"
+msgstr "Health Gain"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Health Max"
+msgstr "Maximum Health"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Holy Protection"
+msgstr "Holy Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Infliction Protection"
+msgstr "Infliction Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Lightning Protection"
+msgstr "Lightning Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Lung Capacity"
+msgstr "Lung Capacity"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Malediction Protection"
+msgstr "Malediction Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Mana"
+msgstr "Mana"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Mana Gain"
+msgstr "Mana Gain"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Mana Max"
+msgstr "Maximum Mana"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Melee Damage Modifier"
+msgstr "Melee Damage Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Melee Restart Modifier"
+msgstr "Melee Restart Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Melee Speed Modifier"
+msgstr "Melee Speed Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Mental Protection"
+msgstr "Mental Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Missile Damage Modifier"
+msgstr "Missile Damage Modifier"
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
 msgstr "[Mastery] Your aura goes out - %1 is below mastery level %2."
@@ -69,6 +273,24 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
 msgstr "[Mastery] Switching to %1. Hold still for %2 seconds."
 
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Negative Effect Protection"
+msgstr "Negative Effect Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Physical Attack Protection"
+msgstr "Physical Attack Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Piercing Protection"
+msgstr "Piercing Protection"
+
 msgid "Play"
 msgstr "Play"
 
@@ -78,14 +300,116 @@ msgstr "Play Sound on Player"
 msgid "Player name:"
 msgstr "Player name:"
 
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Ranged Damage Modifier"
+msgstr "Ranged Damage Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Ranged Restart Modifier"
+msgstr "Ranged Restart Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Ranged Speed Modifier"
+msgstr "Ranged Speed Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Reflex"
+msgstr "Reflex"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Revive Speed Bonus"
+msgstr "Revive Speed Bonus"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Slashing Protection"
+msgstr "Slashing Protection"
+
 msgid "Sound effect:"
 msgstr "Sound effect:"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Spell Duration Multiplier"
+msgstr "Spell Duration Multiplier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Spell Immunity"
+msgstr "Spell Immunity"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Spell Magnitude Modifier"
+msgstr "Spell Magnitude Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Spell Restart Modifier"
+msgstr "Spell Restart Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Spell Success Modifier"
+msgstr "Spell Success Modifier"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Stamina"
+msgstr "Stamina"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Stamina Gain"
+msgstr "Stamina Gain"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Stamina Max"
+msgstr "Maximum Stamina"
 
 msgid "Stop"
 msgstr "Stop"
 
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "System Stealth Delay"
+msgstr "System Stealth Delay"
+
 msgid "Toggle the GM play sound window."
 msgstr "Toggle the GM play sound window."
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Unholy Protection"
+msgstr "Unholy Protection"
+
+#. Attribute label inserted into combat boost/damage/drain/heal notifications.
+#. The key is the registered SFAttributeTypes name; preserve it exactly.
+#. Translate the label, informed by listed effect names.
+msgid "Willpower"
+msgstr "Willpower"
 
 msgid "abilities_detail_active"
 msgstr "Active"
@@ -236,8 +560,8 @@ msgstr "Alignment: %1 / %2"
 
 msgid "alignment_tt_losing"
 msgstr ""
-"Only killing someone of your own race reduces Alignment, and only while you "
-"are Lawless."
+"Killing or finishing off a protected Lawful player of your racial alliance "
+"can reduce Alignment while you are Lawless."
 
 msgid "alignment_tt_losing2"
 msgstr ""
@@ -336,7 +660,7 @@ msgstr ""
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
-"Casting time enchantments will be taken into account unless '$1' is toggled "
+"Casting time enchantments will be taken into account unless '%1' is toggled "
 "on."
 
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_4"
@@ -1053,7 +1377,7 @@ msgid "chat_help_nonnumericparam_desc"
 msgstr "default=%1"
 
 msgid "chat_help_numericparam_desc"
-msgstr "default=%1, minimum=%1, maximum=%1"
+msgstr "default=%1, minimum=%2, maximum=%3"
 
 msgid "chat_help_type_boolean"
 msgstr "boolean"
@@ -1717,7 +2041,7 @@ msgid "clan_create_error_not_enough_gold"
 msgstr "You need 2000 gold in your global wallet to create a clan."
 
 msgid "clan_create_error_trial_account"
-msgstr "Trial accounts cannot create a clan."
+msgstr "Freemium accounts cannot create a clan."
 
 msgid "clan_create_error_tutorial_island"
 msgstr ""
@@ -4637,7 +4961,7 @@ msgid "journal_meditation_result_system_disabled"
 msgstr "Meditation system is disabled"
 
 msgid "journal_meditation_result_trial_blocked"
-msgstr "Trial accounts cannot use this"
+msgstr "Freemium accounts cannot use this"
 
 msgid "journal_meditation_row_locked_label"
 msgstr "(locked)"
@@ -8769,7 +9093,7 @@ msgid "options_video_enable_triple_buffering_tooltip_perf"
 msgstr "Performance: negligible"
 
 msgid "options_video_filmic_tone_strength"
-msgstr "Filmic Tone Mapping Strength"
+msgstr "Filmic Tone Mapping Strength: %1"
 
 msgid "options_video_filmic_tone_strength_tooltip"
 msgstr ""
@@ -8801,7 +9125,7 @@ msgid "options_video_gamma_correction_tooltip_perf"
 msgstr "Performance: none"
 
 msgid "options_video_godray_intensity"
-msgstr "God Ray Intensity"
+msgstr "God Ray Intensity: %1"
 
 msgid "options_video_godray_intensity_tooltip"
 msgstr ""
