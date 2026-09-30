@@ -2,14 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Russian\n"
+"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
+"quests/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_quest_33"
 msgstr "Гоблины в {$u20}"
@@ -66225,6 +66228,7 @@ msgstr ""
 "^Cdarkfall^Вы присели отдохнуть ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 "
 "^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21215"
 msgstr "Задание 2 - этап 5 - мишени для стрельбы из лука"
 
@@ -66248,6 +66252,7 @@ msgstr ""
 "^Cdarkfall^Вы попали в стрельбу из лука ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 "
 "^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21216"
 msgstr "Задание 2 - этап 6 - доложите Torvald"
 
@@ -66269,12 +66274,13 @@ msgstr "Я показал бойцу Torvald свои навыки ближне�
 msgid "name_quest_21217"
 msgstr "Задание 2 - этап 5 - экипируйте стрелы"
 
+#, fuzzy
 msgid "short_desc_quest_21217"
 msgstr "Оборудуйте стрелы в своей кукле."
 
+#, fuzzy
 msgid "start_text_quest_21217"
-msgstr ""
-"Дважды щелкните стрелки в рюкзаке, чтобы оборудовать их в своей кукле."
+msgstr "Дважды щелкните стрелки в рюкзаке, чтобы оборудовать их в своей кукле."
 
 msgid "end_text_quest_21217"
 msgstr "Стрелки не помогут тебе сидеть в своей стае."
@@ -66298,6 +66304,7 @@ msgstr ""
 "Оснастите эту броню, она предоставит вам базовую защиту от атак. Затем "
 "отправляйтесь к Джеймсу Магу внутри командной палатки."
 
+#, fuzzy
 msgid "name_quest_21221"
 msgstr "Задание 3 - этап 1 - доспехи и маг James"
 
@@ -66647,6 +66654,7 @@ msgstr ""
 "Джеймс Маг научил меня парировать, магии, переводу и исцелению, а затем "
 "отправил меня обратно в Torvald год."
 
+#, fuzzy
 msgid "name_quest_21250"
 msgstr "Задание 5"
 
@@ -66659,6 +66667,7 @@ msgstr ""
 "разведчиков и 2 гоблинов-бойцов. Возьмите этот мешок с собой - носите его в "
 "слоте для сумок и все, что вы снимаете, собираете в одном месте."
 
+#, fuzzy
 msgid "name_quest_21251"
 msgstr "Задание 5 - этап 1 - стычка"
 
@@ -66681,6 +66690,7 @@ msgstr ""
 "Я убил трех гоблинов-разведчиков и двух гоблинов-бойцов в лагере к востоку "
 "от военного лагеря."
 
+#, fuzzy
 msgid "name_quest_21252"
 msgstr "Задание 5 - этап 5 - вести для Torvald"
 
@@ -66712,6 +66722,7 @@ msgstr "Вы сообщили в Torvald истребитель."
 msgid "diary_text_quest_21252"
 msgstr "Я перенес сообщение о рейде обратно в Torvald."
 
+#, fuzzy
 msgid "name_quest_21253"
 msgstr "Задание 5 - этап 3 - шаман"
 
@@ -66732,6 +66743,7 @@ msgstr "Ты убил шамана-гоблина."
 msgid "diary_text_quest_21253"
 msgstr "Я убил шамана-гоблина во внутреннем кольце лагеря."
 
+#, fuzzy
 msgid "name_quest_21254"
 msgstr "Задание 5 - этап 4 - святилище"
 
@@ -66755,6 +66767,7 @@ msgstr ""
 "^Cdarkfall^Вы ударили по святыне Гоблина ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2"
 " ^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21255"
 msgstr "Задание 5 - этап 0 - мешок с добычей"
 
@@ -67787,6 +67800,7 @@ msgstr ""
 msgid "name_quest_21381"
 msgstr "Задание 18 - этап 2 - irtych"
 
+#, fuzzy
 msgid "short_desc_quest_21381"
 msgstr "Убить 4 Иртих."
 
@@ -67800,9 +67814,11 @@ msgstr ""
 msgid "end_text_quest_21381"
 msgstr "Вы уничтожили Иртыч, хорошая работа."
 
+#, fuzzy
 msgid "finished_text_quest_21381"
 msgstr "Ты убил 4 Иртихов."
 
+#, fuzzy
 msgid "diary_text_quest_21381"
 msgstr "Я очистил четыре иртиха от воды к западу от форпоста."
 
@@ -67879,6 +67895,7 @@ msgstr ""
 "Архей знает. Он медитирует в пещере — я отметил это на вашей карте. "
 "Предупреждаю: он ничего не дает ученику, который не помнит своих уроков."
 
+#, fuzzy
 msgid "name_quest_21393"
 msgstr "Задание 21 - этап 2 - возвращение в город"
 
@@ -67906,6 +67923,7 @@ msgstr ""
 "^Cdarkfall^Вы вспомните о том, Dawnshore Bindstone ^Cwhite^%1 ^Cdarkfall^из "
 "^Cwhite^%2 ^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21392"
 msgstr "Задание 21 - этап 4 - зачарование"
 
@@ -67936,6 +67954,7 @@ msgstr ""
 "^Cdarkfall^Ты сделал великое очарование ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 "
 "^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21391"
 msgstr "Задание 22 - этап 1 - Bound"
 
@@ -68016,6 +68035,7 @@ msgstr "Агент Архей дал вам свой ключ."
 msgid "diary_text_quest_21396"
 msgstr "Архей был доволен и дал мне ключ от груди."
 
+#, fuzzy
 msgid "name_quest_21410"
 msgstr "Задание 21"
 
@@ -68032,6 +68052,7 @@ msgstr ""
 "очарование на станции и установите его в свой персонал. Mary Советник хочет "
 "услышать, что это сделано."
 
+#, fuzzy
 msgid "name_quest_21411"
 msgstr "Задание 21 - этап 1 - сундук Archaeus"
 
@@ -68062,6 +68083,7 @@ msgstr ""
 "^Cdarkfall^Вы открыли сундук Архея ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 "
 "^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21412"
 msgstr "Задание 21 - этап 3 - зубы"
 
@@ -68090,6 +68112,7 @@ msgstr ""
 "^Cdarkfall^Вы извлекли ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 ^Cdarkfall^Зубы "
 "из вашего банка."
 
+#, fuzzy
 msgid "name_quest_21413"
 msgstr "Задание 21 - этап 5 - посох"
 
@@ -68115,6 +68138,7 @@ msgstr ""
 "^Cdarkfall^Вы поставили жемчужину в свой персонал ^Cwhite^%1 ^Cdarkfall^из "
 "^Cwhite^%2 ^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21414"
 msgstr "Задание 21 - этап 6 - доложите Mary"
 
@@ -68134,6 +68158,7 @@ msgstr "Вы сообщили Mary Советнику."
 msgid "diary_text_quest_21414"
 msgstr "Я сказал Mary Советнику, что мои сотрудники очарованы."
 
+#, fuzzy
 msgid "name_quest_21420"
 msgstr "Задание 22"
 
@@ -68146,6 +68171,7 @@ msgstr ""
 " у Dawnshore и на родине. Я обозначил, где найти его на вашей карте. "
 "Отлично."
 
+#, fuzzy
 msgid "name_quest_21400"
 msgstr "Задание 20"
 
@@ -68158,6 +68184,7 @@ msgstr ""
 "могилу, и в каждой могиле есть зубы. Принеси мне пять. Я не буду спрашивать,"
 " зачем."
 
+#, fuzzy
 msgid "name_quest_21401"
 msgstr "Задание 20 - этап 1 - зубы"
 

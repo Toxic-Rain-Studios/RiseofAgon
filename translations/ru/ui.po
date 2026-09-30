@@ -2,14 +2,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Russian\n"
+"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
+"ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "browser_home"
 msgstr "Главная"
@@ -8302,6 +8305,7 @@ msgstr "Бонусный ближний урон для вашей вечери�
 msgid "mastery_aura_effect_deadeye"
 msgstr "Бонусный урон для вашей вечеринки против монстров"
 
+#, fuzzy
 msgid "mastery_aura_grant_desc"
 msgstr ""
 "Гранты %1, часовая аура вечеринки, купленная у Древней Сущности. Он дает %2 "
@@ -8418,12 +8422,10 @@ msgstr "Мастерство"
 msgid "mastery_open_track_button"
 msgstr "Открытый трек Mastery"
 
-msgid "mastery_essence_caption"
-msgstr "Древняя сущность"
-
 msgid "mastery_next_unlock_caption"
 msgstr "Следующая разблокировка"
 
+#, fuzzy
 msgid "mastery_orb_hint"
 msgstr "Ворота уровня стоят шаров и эссенции."
 
@@ -8439,6 +8441,7 @@ msgstr "+%1% %2"
 msgid "mastery_roster_headline_reduction"
 msgstr "-%1% %2"
 
+#, fuzzy
 msgid "mastery_orb_needed"
 msgstr "Сфера освоения, необходимая для повышения уровня %1"
 
@@ -8448,6 +8451,7 @@ msgstr "%1 / %2 на следующий уровень"
 msgid "mastery_max_level"
 msgstr "Максимальный уровень достигнут"
 
+#, fuzzy
 msgid "mastery_mp_amount"
 msgstr "%1 миль в час"
 
@@ -8457,9 +8461,9 @@ msgstr "Сущность %1/%2"
 msgid "mastery_essence_value"
 msgstr "Сущность %1"
 
+#, fuzzy
 msgid "mastery_next_unlock_blocked"
-msgstr ""
-"Уровень %1: %2 (нуждается в овладении шаром для прохождения уровня %3)"
+msgstr "Уровень %1: %2 (нуждается в овладении шаром для прохождения уровня %3)"
 
 msgid "mastery_next_unlock_entry"
 msgstr "Уровень %1: %2"
@@ -8494,6 +8498,7 @@ msgstr "Уровень %1"
 msgid "mastery_node_rank_name"
 msgstr "%1 %2"
 
+#, fuzzy
 msgid "mastery_node_desc_aura_grant"
 msgstr ""
 "Гранты %1, часовая аура вечеринки, купленная у Древней Сущности. Он дает %2 "
@@ -8526,6 +8531,7 @@ msgstr "Уровень %1"
 msgid "mastery_tree_tier_unlocked"
 msgstr "Разблокированный %1-%2"
 
+#, fuzzy
 msgid "mastery_tree_tier_needs_orb"
 msgstr "Требуется Orb"
 
@@ -8541,6 +8547,7 @@ msgstr "%1 (уровень %2)"
 msgid "mastery_tree_detail_hint"
 msgstr "Наведите узел, чтобы прочитать, что он делает."
 
+#, fuzzy
 msgid "mastery_tree_mp_to_level"
 msgstr "%1 / %2 mp до уровня %3"
 
@@ -8707,9 +8714,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_gore_rank1"
 msgstr "Каждая стопка кровоточит 1.5% в секунду."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank2"
 msgstr "1.9% в секунду."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_gore_rank3"
 msgstr "2.4% в секунду."
 
@@ -8724,9 +8733,11 @@ msgstr ""
 msgid "mastery_alt_cutthroat_momentum_rank1"
 msgstr "До +20%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank2"
 msgstr "До +25%."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_momentum_rank3"
 msgstr "До +30%."
 
@@ -8757,12 +8768,15 @@ msgstr ""
 "ДЕЙСТВИТЕЛЬНО: в течение 10 секунд ваши раны клеятся в два раза быстрее, и "
 "ваши стопки Гора не разлагаются. Убивает освежает. 3 минут остывания."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank1"
 msgstr "Каждый клещ бьет 12.5% сильнее, охлаждение 2 минут 45 секунд."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank2"
 msgstr "Каждый клещ бьет 25% сильнее, охлаждение 2 минут 30 секунд."
 
+#, fuzzy
 msgid "mastery_alt_cutthroat_redharvest_rank3"
 msgstr "Каждый клещ бьет 50% сильнее, охлаждение 2 минут 15 секунд."
 
@@ -8775,12 +8789,15 @@ msgstr ""
 "должны атаковать вас в течение 4 секунд и оставаться на вас после 15 секунды"
 " охлаждения."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank1"
 msgstr "Достигает 9.4 метров."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank2"
 msgstr "Достигает 11.3 метров."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_provoke_rank3"
 msgstr "Достигает 13.1 метров."
 
@@ -8793,12 +8810,15 @@ msgstr ""
 "ударит по вашему фронту. Болты сбрасываются по твоему перекрестию, взрывы "
 "проглатываются. Каждые 20 секунд. Щит светится, когда готов."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank1"
 msgstr "Каждые 17 секунд."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank2"
 msgstr "Каждые 15 секунд."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_aegis_rank3"
 msgstr "Каждые 12 секунд."
 
@@ -8810,12 +8830,15 @@ msgstr ""
 "Отключающий удар одноручным оружием и щитовыми ударами за 30 бонусных "
 "повреждений и тройную угрозу."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank1"
 msgstr "40 бонусный урон."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank2"
 msgstr "50 бонусный урон."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_shieldslam_rank3"
 msgstr "60 бонусный урон."
 
@@ -8827,12 +8850,15 @@ msgstr ""
 "В то время как вы держите Пэрри с щитом, монстры, которые наносят удар, "
 "получают 6 терновых повреждений за удар, никогда не более 10% их здоровья."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank1"
 msgstr "10 за попадание."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank2"
 msgstr "14 за попадание."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_bulwark_rank3"
 msgstr "18 за попадание."
 
@@ -8845,12 +8871,15 @@ msgstr ""
 "их повреждение вам сокращается на 60% в течение 10 секунд. 3 минуты "
 "охлаждения."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank1"
 msgstr "Снижение на 65% на 13 секунд. Перезарядка: 165 секунд."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank2"
 msgstr "Снижение на 70% на 16 секунд. Перезарядка: 150 секунд."
 
+#, fuzzy
 msgid "mastery_alt_vanguard_unbrokenline_rank3"
 msgstr "Снижение на 75% на 20 секунд. Перезарядка: 135 секунд."
 
@@ -8952,12 +8981,15 @@ msgstr ""
 "Мана Взрыв исцеляет вас и вашу партию за 40% повреждений вместо того, чтобы "
 "причинить вам боль. Монстры принимают полный взрыв."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank1"
 msgstr "Лечится за 60%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank2"
 msgstr "Лечится за 80%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_communion_rank3"
 msgstr "Лечится за 100%."
 
@@ -8972,10 +9004,12 @@ msgstr ""
 msgid "mastery_alt_oracle_quickening_rank1"
 msgstr "Также снимает проклятия на статистику и защиту."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank2"
 msgstr ""
 "Стриптизирует любые дебаффы, в том числе замедления, паралич, мана-штрафы."
 
+#, fuzzy
 msgid "mastery_alt_oracle_quickening_rank3"
 msgstr "Полосы 2 дебаффов на литье."
 
@@ -8987,12 +9021,15 @@ msgstr ""
 "Жертвоприношение не стоит вам здоровья и исцеляет вас за 25% того, что "
 "стоило бы."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank1"
 msgstr "Поднят до 50%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank2"
 msgstr "Поднят до 75%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Поднят до 100%."
 
@@ -9004,12 +9041,15 @@ msgstr ""
 "Исцеляющий Песнь больше не исцеляет монстров и исцеляет вас и вашу партию "
 "+100% больше, за +100% ману."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank1"
 msgstr "Поднят до +130%, за +130% ману."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank2"
 msgstr "Поднят до +160%, за +160% ману."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_rank3"
 msgstr "Поднят до +200%, за +200% ману."
 
@@ -9024,16 +9064,19 @@ msgstr ""
 " и заклинания монстров и стрелы не могут достичь их. Заканчивается, если "
 "дойдет до кого-нибудь отмеченного PvP-боем. 3 минут остывания."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank1"
 msgstr ""
 "Восстанавливает 12 каждые 2 секунды в течение 13 секунд. Перезарядка: 165 "
 "секунд."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank2"
 msgstr ""
 "Восстанавливает 14 каждые 2 секунды в течение 16 секунд. Перезарядка: 150 "
 "секунд."
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank3"
 msgstr ""
 "Восстанавливает 16 каждые 2 секунды в течение 20 секунд. Перезарядка: 135 "
@@ -9133,18 +9176,22 @@ msgstr ""
 msgid "mastery_alt_deadeye_cadence_name"
 msgstr "Буллея"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_desc"
 msgstr ""
 "Каждая 8-я стрела, которую вы наносите монстру, является критическим ударом "
 "для повреждения +100%. Переключение целей удерживает счет. Промах или 6 "
 "секунд без попадания очищает его."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank1"
 msgstr "Критики на каждой 7-й стрелке."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank2"
 msgstr "Критики на каждой 6-й стрелке."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_cadence_rank3"
 msgstr "Критики на каждой 5-й стрелке."
 
@@ -9158,29 +9205,37 @@ msgstr ""
 "удара Буллзея и переключателей цели. Промах или 6 секунд без попадания "
 "очищает его."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank1"
 msgstr "До 26% от вашего времени розыгрыша."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank2"
 msgstr "До 32% от вашего времени розыгрыша."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_ranging_rank3"
 msgstr "До 40% от вашего времени розыгрыша."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_name"
 msgstr "Прощающая цель"
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_desc"
 msgstr ""
-"Промах стоит 4 ударов по вашему счету Bullseye и вашим стопкам Second Nature"
-" вместо того, чтобы очистить их."
+"Промах стоит 4 ударов по вашему счету Bullseye и вашим стопкам Second Nature "
+"вместо того, чтобы очистить их."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank1"
 msgstr "Промах стоит 3 попаданий."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank2"
 msgstr "Промах стоит 2 попаданий."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_precision_rank3"
 msgstr "Промах стоит 1 попаданий."
 
@@ -9193,12 +9248,15 @@ msgstr ""
 "в течение 30 секунд. Стрелы такого рода бьют сильнее, как ваши, так и ваших "
 "союзников."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank1"
 msgstr "Набирает до 5 баллов."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank2"
 msgstr "Набирает до 6 баллов."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_breach_rank3"
 msgstr "Набирает до 7 баллов."
 
@@ -9212,12 +9270,15 @@ msgstr ""
 "силой за 50% бонусный урон поверх удара, включая критические попадания. 3 "
 "минута охлаждения."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank1"
 msgstr "Длится 13 секунд, охлаждение 2 минут 45 секунд."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank2"
 msgstr "Длится 16 секунд, охлаждение 2 минут 30 секунд."
 
+#, fuzzy
 msgid "mastery_alt_deadeye_volley_rank3"
 msgstr "Длится 20 секунд, охлаждение 2 минут 15 секунд."
 
@@ -9382,6 +9443,7 @@ msgstr "Уровень %1"
 msgid "mastery_detail_level"
 msgstr "Уровень %1/%2"
 
+#, fuzzy
 msgid "mastery_detail_level_mp"
 msgstr "Уровень %1 / %2 - %3 mp"
 
@@ -9402,6 +9464,7 @@ msgstr ""
 "[Мастерство] %1 аура разблокируется на уровне мастерства %2. Вы находитесь "
 "на уровне %3."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_LOCKED"
 msgstr ""
 "Ваша аура выходит наружу - %1 ниже уровня мастерства %2. %3 эссенция "
@@ -9466,15 +9529,18 @@ msgstr ""
 msgid "mastery_detail_level_tier"
 msgstr "Уровень %1/%2 - уровень %3 %4"
 
+#, fuzzy
 msgid "mastery_detail_level_tier_mp"
 msgstr "Уровень %1 / %2 - уровень %3 из %4 - %5 mp"
 
 msgid "mastery_row_level_tier"
 msgstr "Уровень %1 уровень %2"
 
+#, fuzzy
 msgid "mastery_tree_subheader"
 msgstr "Уровень %1/%2. Ворота %3 из %4."
 
+#, fuzzy
 msgid "mastery_tree_subheader_active"
 msgstr "Уровень %1/%2. Ворота %3 из %4. Действуй."
 
