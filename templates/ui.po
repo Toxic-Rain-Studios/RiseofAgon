@@ -9915,6 +9915,41 @@ msgstr "%1: %2 / %3"
 msgid "research_drag_schematic_here_description"
 msgstr "Drag Schematic Here For Research"
 
+msgid "research_help_step_cap"
+msgstr ""
+"6. Research cannot take a skill past the level your learned recipes allow."
+
+msgid "research_help_step_gear"
+msgstr ""
+"5. Armorsmithing, Weaponsmithing, Bowyer, Staff Crafting, Tailoring, "
+"Jewelsmithing, Bloodcraft and Shadecraft, and their masteries, only improve "
+"through research. Crafting those items does not raise the skill."
+
+msgid "research_help_step_make"
+msgstr ""
+"1. Click a Blank Schematic, then click an item you crafted. The item is used "
+"up and becomes a schematic for the skill that made it. Blank Schematics are "
+"crafted with Scribing at a Laboratory or with a Multi Tool."
+
+msgid "research_help_step_queue"
+msgstr ""
+"2. Drag the schematic into the box above and press Start. You can keep "
+"adding schematics until the queue reaches the Max Time shown."
+
+msgid "research_help_step_tier"
+msgstr ""
+"4. Only schematics of your skill's current tier or higher are accepted. "
+"Higher-tier items, and items that cost more materials to craft, give more "
+"progress."
+
+msgid "research_help_step_time"
+msgstr ""
+"3. Each schematic takes %1 minutes. Research keeps going while you are "
+"logged out."
+
+msgid "research_help_title"
+msgstr "How Research Works"
+
 msgid "research_item_tier"
 msgstr "Item Tier: "
 
