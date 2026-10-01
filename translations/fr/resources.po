@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/fr/>\n"
@@ -1000,6 +1000,7 @@ msgstr " "
 msgid "r_Fey Kin"
 msgstr "Parent de frayeur"
 
+#, fuzzy
 msgid "desc_r_Fey Kin"
 msgstr " Des fées, des centaures et d'autres trucs gays."
 
@@ -14634,6 +14635,7 @@ msgstr ""
 msgid "r_extract of strength"
 msgstr "Extrait de résistance"
 
+#, fuzzy
 msgid "desc_r_extract of strength"
 msgstr ""
 "Cette ressource extrêmement rare est nécessaire pour fabriquer Elixir of "
@@ -14650,6 +14652,7 @@ msgstr ""
 msgid "r_extract of dexterity"
 msgstr "Extrait de dextérité"
 
+#, fuzzy
 msgid "desc_r_extract of dexterity"
 msgstr ""
 "Cette ressource extrêmement rare est nécessaire pour fabriquer Elixir de "
@@ -14658,6 +14661,7 @@ msgstr ""
 msgid "r_extract of quickness"
 msgstr "Extrait de rapidité"
 
+#, fuzzy
 msgid "desc_r_extract of quickness"
 msgstr ""
 "Cette ressource extrêmement rare est nécessaire pour fabriquer Elixir of "
@@ -14666,6 +14670,7 @@ msgstr ""
 msgid "r_extract of intelligence"
 msgstr "Extrait d'intelligence"
 
+#, fuzzy
 msgid "desc_r_extract of intelligence"
 msgstr ""
 "Cette ressource extrêmement rare est nécessaire pour l'élaboration d'Elixir "
@@ -14674,6 +14679,7 @@ msgstr ""
 msgid "r_extract of wisdom"
 msgstr "Extrait de sagesse"
 
+#, fuzzy
 msgid "desc_r_extract of wisdom"
 msgstr ""
 "Cette ressource extrêmement rare est nécessaire pour l'élaboration d'Elixir "
@@ -17337,6 +17343,7 @@ msgstr "Le crâne d'un personnage mort Alfar."
 msgid "r_Dwarf Skull"
 msgstr "Crâne nain"
 
+#, fuzzy
 msgid "desc_r_Dwarf Skull"
 msgstr "L'habileté d'un personnage nain mort."
 
@@ -17986,6 +17993,7 @@ msgstr "Les réchauffeurs sont supprimés."
 msgid "r_Traderoute Item_02"
 msgstr "Poste d'itinéraire commercial_02"
 
+#, fuzzy
 msgid "desc_r_Traderoute Item_02"
 msgstr "Lancer, ce sera une blague ?"
 
@@ -20479,10 +20487,11 @@ msgstr ""
 msgid "r_Wooden Warhammer"
 msgstr "Warhammer en bois"
 
+#, fuzzy
 msgid "desc_r_Wooden Warhammer"
 msgstr ""
-"Fabriquée exclusivement à partir de bois, cette arme est populaire parmi les"
-" guerriers de sylvanes inexpérimentés."
+"Fabriquée exclusivement à partir de bois, cette arme est populaire parmi les "
+"guerriers de sylvanes inexpérimentés."
 
 msgid "r_Greatswords"
 msgstr "Grandes paroles"
@@ -23493,6 +23502,7 @@ msgstr ""
 msgid "r_Fruit Tree"
 msgstr "Arbre fruitier"
 
+#, fuzzy
 msgid "desc_r_Fruit Tree"
 msgstr "Appuyez sur la touche d'utilisation pour brancher les fruits. "
 
@@ -29875,6 +29885,7 @@ msgstr "Gemme magique grenat rapidité"
 msgid "r_magical gem diamond mirdainbane"
 msgstr "Diamant de gemme magique Mirdain bane"
 
+#, fuzzy
 msgid "r_magical gem ruby mirdainbane"
 msgstr "Gemme magique rubis humain bane"
 

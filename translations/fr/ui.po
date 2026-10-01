@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "fr/>\n"
@@ -1232,6 +1232,7 @@ msgstr ""
 "Applique une courbe de type film à l'image finale, en tirant des reflets "
 "soufflés et en approfondissant les ombres plutôt que de les couper."
 
+#, fuzzy
 msgid "options_video_filmic_tone_strength"
 msgstr "Résistance à la cartographie des tons filmiques"
 
@@ -1256,6 +1257,7 @@ msgstr ""
 "Arbres de lumière visibles à travers des lacunes dans la géométrie, comme le"
 " soleil à travers les arbres ou une porte."
 
+#, fuzzy
 msgid "options_video_godray_intensity"
 msgstr "Intensité du rayon de dieu"
 
@@ -2348,6 +2350,7 @@ msgstr "erreur syntaxique"
 msgid "chat_error_unknown_command"
 msgstr "commande inconnue : %1"
 
+#, fuzzy
 msgid "chat_help_numericparam_desc"
 msgstr "par défaut=%1, minimum=%1, maximum=%1"
 
@@ -2564,6 +2567,7 @@ msgstr ""
 msgid "alignment_tt_sec_losing"
 msgstr "Perte d'alignement :"
 
+#, fuzzy
 msgid "alignment_tt_losing"
 msgstr ""
 "Seul le fait de tuer quelqu'un de votre propre race réduit l'alignement, et "
@@ -4554,6 +4558,7 @@ msgstr ""
 "Plusieurs armes peuvent partager la vitesse la plus élevée, de sorte que "
 "d'autres filtres peuvent être appliqués."
 
+#, fuzzy
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
 "Les enchantements de temps de coulée seront pris en compte à moins que '1' "
@@ -6507,6 +6512,7 @@ msgstr "Aucune compétence n'est actuellement en cours de formation"
 msgid "journal_meditation_result_bad_state"
 msgstr "Ne peut pas méditer dans cet état"
 
+#, fuzzy
 msgid "journal_meditation_result_trial_blocked"
 msgstr "Les comptes d'essai ne peuvent pas utiliser cette"
 
@@ -9441,6 +9447,7 @@ msgstr "Ce nom de clan ne peut pas être utilisé. Essaie un autre."
 msgid "clan_create_error_name_locked"
 msgstr "Ce nom de clan est pris."
 
+#, fuzzy
 msgid "clan_create_error_trial_account"
 msgstr "Les comptes d'essai ne peuvent pas créer un clan."
 

@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
+"tasks/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_task_1"
 msgstr "Principes de base du combat"
@@ -191,11 +193,11 @@ msgstr ""
 msgid "short_desc_task_5_stage_3"
 msgstr "Récolte 100 herbes."
 
+#, fuzzy
 msgid "desc_task_5_stage_3"
 msgstr ""
-"Ça ne fait jamais mal de rassembler plus d'herbes ! Steegrass pour montures,"
-" serpentweed pour le personnel artisanal, baies pour tarte! La liste "
-"continue."
+"Ça ne fait jamais mal de rassembler plus d'herbes ! Steegrass pour montures, "
+"serpentweed pour le personnel artisanal, baies pour tarte! La liste continue."
 
 msgid "name_task_6"
 msgstr "Couper le bois"
@@ -2166,6 +2168,7 @@ msgstr ""
 "vous ne l'aimez pas, vous l'avez pris sur vous-même pour rétablir "
 "l'équilibre."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_2"
 msgstr "."
 
@@ -2173,6 +2176,7 @@ msgid "desc_task_75_stage_2"
 msgstr ""
 "La prochaine étape de votre quête est d'éliminer les seigneurs du chêne."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_3"
 msgstr "."
 
@@ -2181,6 +2185,7 @@ msgstr ""
 "Les golems forestiers sont très dangereux, font preuve de prudence et "
 "trouvent un moyen sûr de les éliminer."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_4"
 msgstr "."
 
@@ -2613,6 +2618,7 @@ msgstr "Cervelle sur brassée"
 msgid "short_desc_task_92"
 msgstr "Prouvez que ce cerveau a bronché pour gagner le titre de cerveau !"
 
+#, fuzzy
 msgid "short_desc_task_92_stage_1"
 msgstr "Prouvez que ce cerveau a bronché pour gagner le titre de Matermind !"
 
@@ -3056,6 +3062,7 @@ msgstr ""
 " a souillé votre tapis. Ce n'est pas la première fois qu'ils frappent, mais "
 "ce sera la dernière."
 
+#, fuzzy
 msgid "name_task_108"
 msgstr "Confort et adéquation"
 
@@ -3065,14 +3072,15 @@ msgstr "Rassemblez du coton pour gagner le titre de Clothier !"
 msgid "short_desc_task_108_stage_1"
 msgstr "Rassemblez du coton pour gagner le titre de Clothier !"
 
+#, fuzzy
 msgid "desc_task_108_stage_1"
 msgstr ""
 "Vous êtes un expert en vêtements, sachant s'habiller agréablement et "
 "confortablement. Les vêtements sont votre passion et vous aimez faire de "
 "beaux vêtements pour vous-même ainsi que les autres. Pour poursuivre votre "
 "poursuite, vous avez décidé d'aller en voyage pour recueillir une abondance "
-"de provisions. Recueillir vingt mille cotons dans ses buissons n'est pas une"
-" tâche facile, mais pour vous, il ne vous semble naturel. Prouvez que vous "
+"de provisions. Recueillir vingt mille cotons dans ses buissons n'est pas une "
+"tâche facile, mais pour vous, il ne vous semble naturel. Prouvez que vous "
 "aimez ce que vous faites, les gens partout dans Agon vous connaîtront comme "
 "le Clothier."
 
@@ -3542,6 +3550,7 @@ msgstr "Le mien pour les améthystes."
 msgid "short_desc_task_137_stage_1"
 msgstr "Le mien pour les améthystes."
 
+#, fuzzy
 msgid "desc_task_137_stage_1"
 msgstr ""
 "Prenez votre pic minier et frappez quelques rochers. Votre objectif est de "
@@ -3743,6 +3752,7 @@ msgstr ""
 "Testez vos compétences contre les monstres de Agon et récoltez les "
 "récompenses !"
 
+#, fuzzy
 msgid "name_task_152"
 msgstr "Débutant - chasse au diciple de la bête lune"
 
@@ -4309,6 +4319,7 @@ msgstr ""
 "Chassez les achrids, mais méfiez-vous des autres chasseurs, de peur que vous"
 " ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_183"
 msgstr "Chasse aux ours artic - tous les jours"
 
@@ -4920,6 +4931,7 @@ msgstr "Slay wildtribe shakas dans cette tâche quotidienne."
 msgid "short_desc_task_226_stage_1"
 msgstr "Slay wildtribe shakas dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "desc_task_226_stage_1"
 msgstr ""
 "Chassez les fléaux, mais méfiez-vous des autres chasseurs, de peur que vous "
