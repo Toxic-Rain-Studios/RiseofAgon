@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 23:14+0000\n"
+"PO-Revision-Date: 2026-10-01 23:28+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/es/>\n"
@@ -7284,6 +7284,7 @@ msgstr ""
 msgid "NOTIFICATION_RESEARCH_INSTANT_GAIN"
 msgstr "Investigación completa: %1 avanzado de %2 a %3."
 
+#, fuzzy
 msgid "NOTIFICATION_RESEARCH_QUEUED"
 msgstr "%1 está investigando. Cada esquema tarda cinco minutos."
 
