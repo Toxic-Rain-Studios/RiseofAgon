@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/ru/>\n"
@@ -719,6 +719,7 @@ msgstr "Сегодня должен быть мой счастливый ден�
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_0"
 msgstr "Время охотиться на %4 подонков. Мвахахаха!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_1"
 msgstr "Золото твоей жизни %4!"
 
@@ -835,6 +836,7 @@ msgstr "%4 авантюристов. Приготовьтесь умереть! 
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_7"
 msgstr "Если вы ищете боль, не смотрите дальше."
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_8"
 msgstr "Вы представляете, что вы получаете в %4! "
 
@@ -1511,6 +1513,7 @@ msgstr "Я могу сделать это с небольшой поддержк
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_0"
 msgstr "Кто-нибудь, помогите мне убить %4. "
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_1"
 msgstr "Время использовать разные тактики. Я просто могу спуститься на %4."
 
@@ -3571,6 +3574,7 @@ msgstr "Здесь лежит %2 %3 глупый авантюрист!"
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_2"
 msgstr "И оставайся мертвым, глупый %4!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_3"
 msgstr "В следующий раз будьте осторожны, % 2 %3! Ты меня слышишь?"
 
@@ -3620,6 +3624,7 @@ msgstr "И оставайся мертвым, глупый %4!"
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_2"
 msgstr "%2 %3. Теперь вы мертвы!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_3"
 msgstr "В следующий раз будьте осторожны, % 2 %3! Ты меня слышишь?"
 
@@ -8452,6 +8457,7 @@ msgstr ""
 "Спор между %1 и %2 закончился. %1 - победитель! Мы также вернули наше золото"
 " %3, мы поспорили, что выиграем этот вызов!"
 
+#, fuzzy
 msgid "NOTIFICATION_CONQUEST_CHALLENGE_SIGE_STONE_LOST"
 msgstr "Мы потеряли осадный камень, расположенный внутри!"
 
@@ -9927,6 +9933,7 @@ msgstr ""
 "^Cred^ Срок вашего немого наказания истек. Повторные нарушения приведут к "
 "более длительным штрафам."
 
+#, fuzzy
 msgid "NOTIFICATION_HOUSE_PLAYER_IS_A_TRIAL"
 msgstr ""
 "Вы не можете передать свой дом этому игроку, потому что у него есть пробный "
@@ -10132,6 +10139,7 @@ msgstr "Freemium учетных записей не могут использо�
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_REPAIR_CLAN_STRUCTURES"
 msgstr "Freemium счетов не допускаются к ремонту клановых сооружений."
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_MEDITATION_POINTS_CAPPED"
 msgstr "Ваши посреднические баллы ограничены учетной записью freemium."
 
@@ -10848,6 +10856,7 @@ msgstr ""
 msgid "NOTIFICATION_ATTRIBUTE_MEDITATION_PROGRESS"
 msgstr "^Cwhite^твой ^Cdarkfall^%1 ^Cwhite^Увеличивается с помощью медитации!"
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_CANNOT_CREATE_PARTY"
 msgstr ""
 "^Cred^ Создание Партии Отказано! Вы не можете создать партию с пробным "
@@ -12392,6 +12401,7 @@ msgstr ""
 "Деревенский контрольный пункт ^Cyellow^%1^N^ иметь ^Cred^потеряла свою "
 "защиту^N^!"
 
+#, fuzzy
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD_CLAN"
 msgstr ""
 "Деревенский контрольный пункт нашего клана ^Cyellow^%1^N^ находится в "

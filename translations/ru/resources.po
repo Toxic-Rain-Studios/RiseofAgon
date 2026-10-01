@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/ru/>\n"
@@ -968,6 +968,7 @@ msgstr " "
 msgid "r_Fey Kin"
 msgstr "Родственник фея"
 
+#, fuzzy
 msgid "desc_r_Fey Kin"
 msgstr " Феи, кентавры и другие гейские штуки."
 
@@ -14380,6 +14381,7 @@ msgstr "Этот чрезвычайно редкий ресурс необход
 msgid "r_extract of strength"
 msgstr "Извлечение силы"
 
+#, fuzzy
 msgid "desc_r_extract of strength"
 msgstr "Этот чрезвычайно редкий ресурс необходим для создания эликсира силы."
 
@@ -14394,6 +14396,7 @@ msgstr ""
 msgid "r_extract of dexterity"
 msgstr "Экстракт ловкости"
 
+#, fuzzy
 msgid "desc_r_extract of dexterity"
 msgstr ""
 "Этот крайне редкий ресурс необходим для изготовления эликсира Декстерити."
@@ -14401,6 +14404,7 @@ msgstr ""
 msgid "r_extract of quickness"
 msgstr "Извлечение быстроты"
 
+#, fuzzy
 msgid "desc_r_extract of quickness"
 msgstr ""
 "Этот чрезвычайно редкий ресурс необходим для изготовления эликсира быстроты."
@@ -14408,6 +14412,7 @@ msgstr ""
 msgid "r_extract of intelligence"
 msgstr "Добыча разведданных"
 
+#, fuzzy
 msgid "desc_r_extract of intelligence"
 msgstr ""
 "Этот чрезвычайно редкий ресурс необходим для создания эликсира интеллекта."
@@ -14415,6 +14420,7 @@ msgstr ""
 msgid "r_extract of wisdom"
 msgstr "Извлечение мудрости"
 
+#, fuzzy
 msgid "desc_r_extract of wisdom"
 msgstr ""
 "Этот чрезвычайно редкий ресурс необходим для создания эликсира мудрости."
@@ -17051,6 +17057,7 @@ msgstr "Череп умершего персонажа Alfar года."
 msgid "r_Dwarf Skull"
 msgstr "Карликовый череп"
 
+#, fuzzy
 msgid "desc_r_Dwarf Skull"
 msgstr "Умение мертвого гнома."
 
@@ -17698,6 +17705,7 @@ msgstr "Обманщики удаляются."
 msgid "r_Traderoute Item_02"
 msgstr "Товарная позиция_02"
 
+#, fuzzy
 msgid "desc_r_Traderoute Item_02"
 msgstr "Бросить, это будет шутка?"
 
@@ -20155,10 +20163,11 @@ msgstr ""
 msgid "r_Wooden Warhammer"
 msgstr "Деревянный вархаммер"
 
+#, fuzzy
 msgid "desc_r_Wooden Warhammer"
 msgstr ""
-"Изготовленное исключительно из дерева, это оружие пользуется популярностью у"
-" неопытных сильванских воинов."
+"Изготовленное исключительно из дерева, это оружие пользуется популярностью у "
+"неопытных сильванских воинов."
 
 msgid "r_Greatswords"
 msgstr "Великие мечи"
@@ -23102,6 +23111,7 @@ msgstr ""
 msgid "r_Fruit Tree"
 msgstr "Плодовое дерево"
 
+#, fuzzy
 msgid "desc_r_Fruit Tree"
 msgstr "Нажмите клавишу использования, чтобы подключить фрукты. "
 
@@ -29451,6 +29461,7 @@ msgstr "Волшебная быстрота граната"
 msgid "r_magical gem diamond mirdainbane"
 msgstr "Магический драгоценный алмаз Mirdain bane"
 
+#, fuzzy
 msgid "r_magical gem ruby mirdainbane"
 msgstr "Волшебная жемчужина рубиновый человеческий бейн"
 

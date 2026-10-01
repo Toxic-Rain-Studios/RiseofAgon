@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -1225,6 +1225,7 @@ msgstr ""
 "Применяет пленочную кривую к окончательному изображению, оттягивая "
 "выдуваемые блики и углубляя тени, а не обрезая их."
 
+#, fuzzy
 msgid "options_video_filmic_tone_strength"
 msgstr "Фильмическая сила отображения тона"
 
@@ -1249,6 +1250,7 @@ msgstr ""
 "Видимые валы света через пробелы в геометрии, такие как солнце через деревья"
 " или дверной проем."
 
+#, fuzzy
 msgid "options_video_godray_intensity"
 msgstr "Интенсивность божественного луча"
 
@@ -2324,6 +2326,7 @@ msgstr "синтаксическая ошибка"
 msgid "chat_error_unknown_command"
 msgstr "Неизвестная команда: %1"
 
+#, fuzzy
 msgid "chat_help_numericparam_desc"
 msgstr "По умолчанию = %1, минимум = %1, максимум = %1"
 
@@ -2538,6 +2541,7 @@ msgstr ""
 msgid "alignment_tt_sec_losing"
 msgstr "Потеря репутации:"
 
+#, fuzzy
 msgid "alignment_tt_losing"
 msgstr ""
 "Репутация снижается только за убийство представителя своей расы и только в "
@@ -4503,6 +4507,7 @@ msgstr ""
 "Наивысшую скорость может иметь несколько видов оружия, поэтому могут быть "
 "применены дополнительные фильтры."
 
+#, fuzzy
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
 "Очарования во время кастинга будут приняты во внимание, если не будет "
@@ -6448,6 +6453,7 @@ msgstr "В настоящее время не ведется обучение н
 msgid "journal_meditation_result_bad_state"
 msgstr "Нельзя медитировать в таком состоянии."
 
+#, fuzzy
 msgid "journal_meditation_result_trial_blocked"
 msgstr "Пробные счета не могут использовать"
 
@@ -9334,6 +9340,7 @@ msgstr "Имя этого клана использовать нельзя. По
 msgid "clan_create_error_name_locked"
 msgstr "Это название клана взято."
 
+#, fuzzy
 msgid "clan_create_error_trial_account"
 msgstr "Пробные счета не могут создать клан."
 
