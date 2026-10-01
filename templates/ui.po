@@ -10312,10 +10312,20 @@ msgstr "Start"
 msgid "start_button"
 msgstr "Start"
 
+msgid "store_claim_after_tutorial"
+msgstr ""
+"Deliveries can't be claimed on the tutorial island. Your purchase is safe "
+"and will be waiting once you leave the tutorial area."
+
 msgid "store_claim_unavailable"
 msgstr ""
 "This purchase cannot be delivered right now. It has not been used up - try "
 "again later."
+
+msgid "store_deliveries_after_tutorial"
+msgstr ""
+"You are in the tutorial area. Your deliveries will be ready to claim once "
+"you leave it."
 
 msgid "structure_status_disabled"
 msgstr "Disabled"
