@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-10-01 23:28+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/chat/"
 "fr/>\n"
@@ -7461,6 +7461,7 @@ msgstr ""
 msgid "NOTIFICATION_RESEARCH_INSTANT_GAIN"
 msgstr "Recherche terminée : %1 avancé de %2 à %3."
 
+#, fuzzy
 msgid "NOTIFICATION_RESEARCH_QUEUED"
 msgstr "%1 est en cours de recherche. Chaque schéma prend cinq minutes."
 
