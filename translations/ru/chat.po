@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-10-01 23:28+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/ru/>\n"
@@ -7303,6 +7303,7 @@ msgstr ""
 msgid "NOTIFICATION_RESEARCH_INSTANT_GAIN"
 msgstr "Исследование завершено: %1 продвинулся с %2 до %3."
 
+#, fuzzy
 msgid "NOTIFICATION_RESEARCH_QUEUED"
 msgstr "%1 находится в стадии разработки. Каждая схема занимает пять минут."
 
