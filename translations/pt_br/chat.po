@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/chat/pt_BR/>\n"
@@ -716,6 +716,7 @@ msgstr "Hoje deve ser o meu dia de sorte! %4 carne! Mwahahaha!"
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_0"
 msgstr "Hora de caçar uns %4 escumalha. Mwahahaha!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_1"
 msgstr "O seu ouro da sua vida %4!"
 
@@ -830,6 +831,7 @@ msgstr "%4 aventureiro. Preparem-se para morrer! Mwahahaha!"
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_7"
 msgstr "Se procuras a dor, não procures mais."
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_8"
 msgstr "Você tem idéia do que você está entrando em %4! "
 
@@ -1503,6 +1505,7 @@ msgstr "Preciso de um pouco de apoio aqui! "
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_0"
 msgstr "Alguém me ajude a matar este %4. "
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_1"
 msgstr "Está na hora de usar tácticas diferentes. Posso perder para um %4."
 
@@ -3547,6 +3550,7 @@ msgstr "Aqui está %2 %3 o aventureiro tolo!"
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_2"
 msgstr "E fica morto, seu estúpido %4!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_3"
 msgstr "Da próxima vez, tenha mais cuidado % 2 %3! Estás a ouvir?"
 
@@ -3595,6 +3599,7 @@ msgstr "E fica morto, seu estúpido %4!"
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_2"
 msgstr "%2 %3. Agora estás morto!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_3"
 msgstr "Da próxima vez, tenha mais cuidado % 2 %3! Estás a ouvir?"
 
@@ -8432,6 +8437,7 @@ msgstr ""
 "O desafio entre %1 e %2 terminou. %1 é o vencedor! Nós também recuperamos de"
 " volta o nosso %3 Ouro que apostamos para ganhar este desafio!"
 
+#, fuzzy
 msgid "NOTIFICATION_CONQUEST_CHALLENGE_SIGE_STONE_LOST"
 msgstr "Perdemos a pedra de cerco localizada!"
 
@@ -9911,10 +9917,11 @@ msgstr ""
 "^Cred^Sua pena muda expirou. As infrações repetidas resultarão em sanções "
 "mais longas."
 
+#, fuzzy
 msgid "NOTIFICATION_HOUSE_PLAYER_IS_A_TRIAL"
 msgstr ""
-"Você não pode transferir sua casa para este jogador porque ele tem uma conta"
-" de julgamento."
+"Você não pode transferir sua casa para este jogador porque ele tem uma conta "
+"de julgamento."
 
 msgid "NOTIFICATION_HOUSE_GOT_BANK_ACCESS"
 msgstr "O seu senhorio deu-lhe acesso ao cofre local da casa."
@@ -10113,6 +10120,7 @@ msgstr "Freemium contas não são autorizadas a usar a habilidade %1."
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_REPAIR_CLAN_STRUCTURES"
 msgstr "Freemium contas não são autorizadas a reparar estruturas do clã."
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_MEDITATION_POINTS_CAPPED"
 msgstr "Os seus pontos de mediação estão bloqueados para uma conta freemium."
 
@@ -10826,6 +10834,7 @@ msgstr ""
 msgid "NOTIFICATION_ATTRIBUTE_MEDITATION_PROGRESS"
 msgstr "^Cwhite^a sua ^Cdarkfall^%1 ^Cwhite^aumentou através da meditação!"
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_CANNOT_CREATE_PARTY"
 msgstr ""
 "^Cred^ Criação de Festa Negada! Você não pode criar uma festa com uma conta "
@@ -12400,6 +12409,7 @@ msgstr ""
 "seu ponto de controle da aldeia em ^Cyellow^%1^N^ tem ^Cred^perdeu a sua "
 "proteção^N^!"
 
+#, fuzzy
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD_CLAN"
 msgstr ""
 "O ponto de controlo da aldeia do nosso clã em ^Cyellow^%1^N^ está em "

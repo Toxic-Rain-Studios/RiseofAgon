@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -1229,6 +1229,7 @@ msgstr ""
 "Aplica uma curva tipo filme à imagem final, puxando para trás os destaques "
 "soprados e aprofundando as sombras em vez de recortá-los."
 
+#, fuzzy
 msgid "options_video_filmic_tone_strength"
 msgstr "Força de mapeamento de tom fílmico"
 
@@ -1252,6 +1253,7 @@ msgstr ""
 "Eixos visíveis de luz através de lacunas de geometria, tais como o sol "
 "através de árvores ou uma porta."
 
+#, fuzzy
 msgid "options_video_godray_intensity"
 msgstr "Intensidade do raio de deus"
 
@@ -2333,6 +2335,7 @@ msgstr "erro de sintaxe"
 msgid "chat_error_unknown_command"
 msgstr "comando desconhecido: %1"
 
+#, fuzzy
 msgid "chat_help_numericparam_desc"
 msgstr "padrão=%1, mínimo=%1, máximo=%1"
 
@@ -2548,6 +2551,7 @@ msgstr ""
 msgid "alignment_tt_sec_losing"
 msgstr "Perda de alinhamento:"
 
+#, fuzzy
 msgid "alignment_tt_losing"
 msgstr ""
 "Somente matar alguém da sua própria raça reduz o alinhamento, e apenas "
@@ -4518,6 +4522,7 @@ msgstr ""
 "Múltiplas armas podem compartilhar a velocidade mais alta, para que mais "
 "filtros possam ser aplicados."
 
+#, fuzzy
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
 "Os encantamentos do tempo de fundição serão levados em conta a menos que "
@@ -6463,6 +6468,7 @@ msgstr "Nenhuma habilidade está sendo treinada atualmente"
 msgid "journal_meditation_result_bad_state"
 msgstr "Não pode meditar neste estado"
 
+#, fuzzy
 msgid "journal_meditation_result_trial_blocked"
 msgstr "Contas de teste não podem usar isto"
 
@@ -9346,6 +9352,7 @@ msgstr "Esse nome de clã não pode ser usado. Tenta um diferente."
 msgid "clan_create_error_name_locked"
 msgstr "O nome do clã está ocupado."
 
+#, fuzzy
 msgid "clan_create_error_trial_account"
 msgstr "Contas de julgamento não podem criar um clã."
 

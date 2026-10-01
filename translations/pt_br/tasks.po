@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Brazilian Portuguese\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
+"darkfall/tasks/pt_BR/>\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_task_1"
 msgstr "Noções básicas de combate"
@@ -182,10 +184,11 @@ msgstr ""
 msgid "short_desc_task_5_stage_3"
 msgstr "Colheita 100 ervas."
 
+#, fuzzy
 msgid "desc_task_5_stage_3"
 msgstr ""
-"Nunca dói apanhar mais ervas! Steegrass para montarias, alga de cobra para o"
-" pessoal de artesanato, bagas para torta! A lista continua."
+"Nunca dói apanhar mais ervas! Steegrass para montarias, alga de cobra para o "
+"pessoal de artesanato, bagas para torta! A lista continua."
 
 msgid "name_task_6"
 msgstr "Cortar madeira"
@@ -2115,12 +2118,14 @@ msgstr ""
 " como uma praga, despojando tudo o que vos é querido. Por mais que você não "
 "goste dele, você tem tomado sobre si mesmo para restaurar o equilíbrio."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_2"
 msgstr "."
 
 msgid "desc_task_75_stage_2"
 msgstr "O próximo passo da vossa missão é eliminar os senhores dos carvalhos."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_3"
 msgstr "."
 
@@ -2129,6 +2134,7 @@ msgstr ""
 "Os golems florestais são muito perigosos, tenham cuidado e encontrem uma "
 "forma segura de os eliminar."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_4"
 msgstr "."
 
@@ -2551,6 +2557,7 @@ msgid "short_desc_task_92"
 msgstr ""
 "Prove que o cérebro supera os músculos para ganhar o título de Mastermind!"
 
+#, fuzzy
 msgid "short_desc_task_92_stage_1"
 msgstr ""
 "Prove que o cérebro supera os músculos para ganhar o título de Matermind!"
@@ -2971,6 +2978,7 @@ msgstr ""
 "Uma ninhada maliciosa de galinhas marrons entrou em sua casa e sujou seu "
 "tapete. Esta não foi a primeira vez que atacaram, mas será a última."
 
+#, fuzzy
 msgid "name_task_108"
 msgstr "Conforto e apelência"
 
@@ -2980,14 +2988,15 @@ msgstr "Colete algodão para ganhar o título Clothier!"
 msgid "short_desc_task_108_stage_1"
 msgstr "Colete algodão para ganhar o título Clothier!"
 
+#, fuzzy
 msgid "desc_task_108_stage_1"
 msgstr ""
 "Você é um especialista em roupas, sabendo como se vestir bem e "
-"confortavelmente. Roupas são a sua paixão e você gosta de fazer roupas finas"
-" para si mesmo, bem como outros. Para continuar sua perseguição, você "
-"decidiu ir em uma viagem para coletar uma abundância de suprimentos. Recolha"
-" de vinte mil algodão de seus arbustos não é tarefa fácil, mas para você, só"
-" parece natural. Prove que você ama o que você faz, as pessoas em todo Agon "
+"confortavelmente. Roupas são a sua paixão e você gosta de fazer roupas finas "
+"para si mesmo, bem como outros. Para continuar sua perseguição, você decidiu "
+"ir em uma viagem para coletar uma abundância de suprimentos. Recolha de "
+"vinte mil algodão de seus arbustos não é tarefa fácil, mas para você, só "
+"parece natural. Prove que você ama o que você faz, as pessoas em todo Agon "
 "vão conhecê-lo como o Clothier."
 
 msgid "name_task_109"
@@ -3431,6 +3440,7 @@ msgstr "O meu por ametistas."
 msgid "short_desc_task_137_stage_1"
 msgstr "O meu por ametistas."
 
+#, fuzzy
 msgid "desc_task_137_stage_1"
 msgstr ""
 "Pega na sua picareta e bate em algumas pedras. O seu objectivo é encontrar "
@@ -3631,6 +3641,7 @@ msgid "desc_task_151_stage_1"
 msgstr ""
 "Teste suas habilidades contra os monstros de Agon e colha as recompensas!"
 
+#, fuzzy
 msgid "name_task_152"
 msgstr "Iniciante - caça ao díciplo da besta lunar"
 
@@ -4178,6 +4189,7 @@ msgstr ""
 "Cacem os ácrides, mas cuidado com outros caçadores, para que não se tornem "
 "os caçados!"
 
+#, fuzzy
 msgid "name_task_183"
 msgstr "Caça ao urso artico - diariamente"
 
@@ -4789,10 +4801,11 @@ msgstr "Slay windtribe shakas nesta tarefa diária."
 msgid "short_desc_task_226_stage_1"
 msgstr "Slay windtribe shakas nesta tarefa diária."
 
+#, fuzzy
 msgid "desc_task_226_stage_1"
 msgstr ""
-"Caçai açoites, mas cuidado com outros caçadores, para que não vos torneis os"
-" caçados!"
+"Caçai açoites, mas cuidado com outros caçadores, para que não vos torneis os "
+"caçados!"
 
 msgid "name_task_227"
 msgstr "Caça aos wraiths - diariamente"
