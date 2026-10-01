@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 07:28+0000\n"
+"PO-Revision-Date: 2026-10-01 12:59+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/de/>\n"
@@ -130,6 +130,7 @@ msgstr ""
 "Ihr habt Carrad's Quest angenommen. Um es zu vervollständigen, müssen Sie "
 "mit fünf Mandrake Zutaten zu ihm zurückkehren."
 
+#, fuzzy
 msgid "end_text_quest_58"
 msgstr ""
 "Dein Rücken tut weh von all dem Geschwür im Unterholz, aber du hast endlich "
@@ -3469,31 +3470,35 @@ msgstr ""
 msgid "name_quest_643"
 msgstr "Quarz für Avarranyth"
 
+#, fuzzy
 msgid "short_desc_quest_643"
 msgstr "Ernten Sie einen Quarz von der Erde Elementar."
 
+#, fuzzy
 msgid "start_text_quest_643"
 msgstr ""
 "Du hast eine Quest von Avarran-yth angenommen. Suchen Sie eines der "
-"Erdelementare, das auf der {$g11} gefunden wurde, und ernten Sie einen "
-"Quarz."
+"Erdelementare, das auf der {$g11} gefunden wurde, und ernten Sie einen Quarz."
 
+#, fuzzy
 msgid "end_text_quest_643"
 msgstr ""
-"Gut gemacht. Einen Quarz aus einem Erdelementar zu ernten, ist keine leichte"
-" Aufgabe."
+"Gut gemacht. Einen Quarz aus einem Erdelementar zu ernten, ist keine leichte "
+"Aufgabe."
 
+#, fuzzy
 msgid "finished_text_quest_643"
 msgstr ""
 "Schmutz und Stein sind alles, was von dem einst wilden Elementaren der Erde "
 "übrig geblieben ist. Wenn sich der Staub absetzt, holen Sie den Quarz aus "
-"dem Trümmerhaufen. Liefern Sie den Quarz an Avarran-Yth und fordern Sie Ihre"
-" Belohnung."
+"dem Trümmerhaufen. Liefern Sie den Quarz an Avarran-Yth und fordern Sie Ihre "
+"Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_643"
 msgstr ""
-"Avarran-yth schickte mich, um einen Quarz zu sammeln, während er seine Suche"
-" nach der alten Schriftrolle in der Stadt Nithron im Jahr {$h11} fortsetzte."
+"Avarran-yth schickte mich, um einen Quarz zu sammeln, während er seine Suche "
+"nach der alten Schriftrolle in der Stadt Nithron im Jahr {$h11} fortsetzte."
 
 msgid "name_quest_645"
 msgstr "Eidgebundene Gardinen"
@@ -5177,9 +5182,11 @@ msgstr ""
 msgid "name_quest_758"
 msgstr "Harn Mandean Agent"
 
+#, fuzzy
 msgid "short_desc_quest_758"
 msgstr "Bericht an Lushar Wraithglider."
 
+#, fuzzy
 msgid "start_text_quest_758"
 msgstr ""
 "Du hast eine Quest von Aeshanta Darkspite angenommen. Bericht an Lushar "
@@ -7717,6 +7724,7 @@ msgstr "Blut plündern"
 msgid "short_desc_quest_2122"
 msgstr "Sammle drei Einheiten zeitlosen Blutes."
 
+#, fuzzy
 msgid "start_text_quest_2122"
 msgstr ""
 "Sie haben eine Quest von Magnus Forkbeard angenommen. Sammle vier drei "
@@ -12077,13 +12085,15 @@ msgstr ""
 msgid "name_quest_2456"
 msgstr "Bericht an chopping necks 2"
 
+#, fuzzy
 msgid "short_desc_quest_2456"
 msgstr "Liefern Sie einen Brief an Urzok den Ratsmitglied."
 
+#, fuzzy
 msgid "start_text_quest_2456"
 msgstr ""
-"Bloodzkul hat der Magier Sie gebeten, seine Botschaft dem Ratsmitglied Urzok"
-" zu überbringen."
+"Bloodzkul hat der Magier Sie gebeten, seine Botschaft dem Ratsmitglied Urzok "
+"zu überbringen."
 
 msgid "end_text_quest_2456"
 msgstr ""
@@ -12091,15 +12101,17 @@ msgstr ""
 "nichts aufhalten! Wir werden die Menschen zermalmen wie die erbärmlichen "
 "Käfer, die sie sind."
 
+#, fuzzy
 msgid "finished_text_quest_2456"
 msgstr "Sie haben Urzok den Stadtrat erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_2456"
 msgstr ""
 "Bloodzkul ist der Magier mit der Menge an magischen Zutaten zufrieden, die "
 "in Chopping Necks gesammelt wurden, und sehr bald werden unsere Zauberer "
-"bereit sein, an der Kampagne gegen die Menschen von Mercia teilzunehmen. Ich"
-" habe die Nachricht an Urzok dem Rat übergeben."
+"bereit sein, an der Kampagne gegen die Menschen von Mercia teilzunehmen. Ich "
+"habe die Nachricht an Urzok dem Rat übergeben."
 
 msgid "name_quest_2458"
 msgstr "Treppe im Metal Heart"
@@ -16394,9 +16406,11 @@ msgstr ""
 msgid "name_quest_2794"
 msgstr "agrinas-Bericht 1"
 
+#, fuzzy
 msgid "short_desc_quest_2794"
 msgstr "Bericht an Andor-kai den Councillor."
 
+#, fuzzy
 msgid "start_text_quest_2794"
 msgstr ""
 "Agrina hat der Kaufmann Sie gebeten, Andor-kai dem Ratsmitglied Bericht zu "
@@ -16407,6 +16421,7 @@ msgstr ""
 "Ausgezeichnet. Es ist gut zu hören, dass die Karawanen auf dem Weg zum "
 "Hunter's Moon sind."
 
+#, fuzzy
 msgid "finished_text_quest_2794"
 msgstr "Sie haben Andor-kai den Stadtrat erreicht."
 
@@ -21169,9 +21184,11 @@ msgstr ""
 msgid "name_quest_3140"
 msgstr "Bericht an galien 1"
 
+#, fuzzy
 msgid "short_desc_quest_3140"
 msgstr "Bericht an Galien der Kämpfer."
 
+#, fuzzy
 msgid "start_text_quest_3140"
 msgstr "Sylanae hat der Stadtrat Sie gebeten, Galien den Kämpfer zu melden."
 
@@ -21181,9 +21198,11 @@ msgstr ""
 "dem mahirim umgegangen sind. Ich würde gerne selbst sehen, woraus du "
 "wirklich gemacht bist, wenn es dir nichts ausmacht."
 
+#, fuzzy
 msgid "finished_text_quest_3140"
 msgstr "Sie haben Galien den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3140"
 msgstr ""
 "Ich meldete für den Dienst mit Galien der Kämpfer. Anscheinend war mein "
@@ -21355,9 +21374,11 @@ msgstr ""
 msgid "name_quest_3154"
 msgstr "Bericht an galien 2"
 
+#, fuzzy
 msgid "short_desc_quest_3154"
 msgstr "Bericht an Galien der Kämpfer in Charybris."
 
+#, fuzzy
 msgid "start_text_quest_3154"
 msgstr ""
 "Torgard hat der Kämpfer Sie gebeten, Galien den Kämpfer in Charybdis zu "
@@ -21368,9 +21389,11 @@ msgstr ""
 "Also, mein lieber Freund Torgard möchte, dass ich dich auf die Probe stelle."
 " Sehr gut, lassen Sie uns sehen, was Sie tun können."
 
+#, fuzzy
 msgid "finished_text_quest_3154"
 msgstr "Sie haben Galien den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3154"
 msgstr ""
 "Ich reiste von Sanguine in die mirdain Hauptstadt Charybdis, um Galien den "
@@ -21520,9 +21543,11 @@ msgstr ""
 msgid "name_quest_3166"
 msgstr "Bericht an aksmaster 1"
 
+#, fuzzy
 msgid "short_desc_quest_3166"
 msgstr "Bericht an Aksmaster der Kämpfer in Flaming Skull."
 
+#, fuzzy
 msgid "start_text_quest_3166"
 msgstr ""
 "Cyreia hat der Kämpfer Sie gebeten, zu Flaming Skull zurückzukehren und "
@@ -21534,9 +21559,11 @@ msgstr ""
 "Kämpferin hat dich zu ihren kleinen Tests gebracht, und du hast es "
 "geschafft, durchzukommen. Hmmm, lass uns sehen, was du wirklich tun kannst."
 
+#, fuzzy
 msgid "finished_text_quest_3166"
 msgstr "Sie haben Aksmaster den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3166"
 msgstr ""
 "Nachdem ich unseren Verbündeten die mahirim geholfen und alle Tests von "
@@ -21606,6 +21633,7 @@ msgstr ""
 msgid "name_quest_3172"
 msgstr "Bericht an aksmaster 2"
 
+#, fuzzy
 msgid "short_desc_quest_3172"
 msgstr "Bericht an Aksmaster der Kämpfer."
 
@@ -21618,9 +21646,11 @@ msgstr ""
 "Sie müssen #PlayerName# sein. Es wurde viel über dich geredet. Ich möchte "
 "selbst sehen, was du wirklich tun kannst."
 
+#, fuzzy
 msgid "finished_text_quest_3172"
 msgstr "Sie haben Aksmaster den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3172"
 msgstr ""
 "Ich meldete für den Dienst mit Aksmaster der Kämpfer. Anscheinend war mein "
@@ -22212,9 +22242,11 @@ msgstr ""
 msgid "name_quest_3211"
 msgstr "Erntehege in {$t17}"
 
+#, fuzzy
 msgid "short_desc_quest_3211"
 msgstr "Sammle drei Tainted Hearts."
 
+#, fuzzy
 msgid "start_text_quest_3211"
 msgstr ""
 "Du hast eine Quest von Colman Ashbourne angenommen. Sammeln Sie drei "
@@ -22225,16 +22257,18 @@ msgstr ""
 "Vielen Dank, dass Sie helfen, diese Zutaten zu sammeln. Ich bin mir sicher, "
 "dass Oona Fern sich freuen wird."
 
+#, fuzzy
 msgid "finished_text_quest_3211"
 msgstr ""
 "Ihr habt jetzt in eurem Besitz drei Einheiten von Tainted Hearts. Zurück "
 "nach Colman Ashbourne in Carpendale."
 
+#, fuzzy
 msgid "diary_text_quest_3211"
 msgstr ""
 "Ich habe mehr bezaubernde Materialien für Colman Ashbourne gesammelt, drei "
-"Tainted Hearts. Es scheint, dass Colman sehr eng mit Oona Fern von Silverley"
-" zusammenarbeitet."
+"Tainted Hearts. Es scheint, dass Colman sehr eng mit Oona Fern von Silverley "
+"zusammenarbeitet."
 
 msgid "name_quest_3213"
 msgstr "Lieferung an oona 1"
@@ -22539,6 +22573,7 @@ msgstr ""
 msgid "finished_text_quest_3231"
 msgstr "Sie haben den Brief an Bigork Blacktongue übergeben."
 
+#, fuzzy
 msgid "diary_text_quest_3231"
 msgstr ""
 "Ich habe nicht nur vier Goblin Warlords getötet, wie von Bigork Blacktongue "
@@ -22632,9 +22667,11 @@ msgstr ""
 msgid "name_quest_3239"
 msgstr "Ernte Iklits in {$v10}"
 
+#, fuzzy
 msgid "short_desc_quest_3239"
 msgstr "Sammle zwei Foul Venom Sacs."
 
+#, fuzzy
 msgid "start_text_quest_3239"
 msgstr ""
 "Sie haben akzeptiert, zwei Foul Venom Sacs für Marganak den Arkanisten zu "
@@ -22645,12 +22682,14 @@ msgstr ""
 "Ausgezeichnet. Ich freue mich, dass Sie uns helfen konnten, dort Materialien"
 " zu sammeln. Hier, akzeptiere diese Belohnung."
 
+#, fuzzy
 msgid "finished_text_quest_3239"
 msgstr ""
 "Mit Ihrem Skinner entfernen Sie erfolgreich einen anderen Foul Venom Sac. "
-"Sie haben jetzt zwei Foul Venom Sacs in Ihrem Besitz. Kehren Sie zu Marganak"
-" dem Arkanisten zurück und fordern Sie Ihre Belohnung ein."
+"Sie haben jetzt zwei Foul Venom Sacs in Ihrem Besitz. Kehren Sie zu Marganak "
+"dem Arkanisten zurück und fordern Sie Ihre Belohnung ein."
 
+#, fuzzy
 msgid "diary_text_quest_3239"
 msgstr ""
 "Ich sammelte mehr von dem Material, das die Dragonbound-Verzauberer "
@@ -24523,9 +24562,11 @@ msgstr ""
 msgid "name_quest_3415"
 msgstr "mahirim Stärke 1 bis 2"
 
+#, fuzzy
 msgid "short_desc_quest_3415"
 msgstr "Melden Sie an Ellevan den Kämpfer der Longclaw."
 
+#, fuzzy
 msgid "start_text_quest_3415"
 msgstr ""
 "Cyreia der Kämpfer hat Sie gebeten, Ellevan den Kämpfer der Langklaue zu "
@@ -24536,9 +24577,11 @@ msgstr ""
 "Ausgezeichnet. Ich sehe, Sie haben bereits den Titel des Brawny erreicht. "
 "Ein kleiner Krafttitel, aber trotzdem ist es ein Titel."
 
+#, fuzzy
 msgid "finished_text_quest_3415"
 msgstr "Sie haben Ellevan den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3415"
 msgstr ""
 "Ich reiste nach Stonehold, um Ellevan den Kämpfer zu treffen, um um mehr "
@@ -25079,9 +25122,11 @@ msgstr ""
 msgid "name_quest_3455"
 msgstr "Zwergfestigkeit 1 bis 2"
 
+#, fuzzy
 msgid "short_desc_quest_3455"
 msgstr "Bericht an Thorgilis der Kämpfer der Stimme von Ymir."
 
+#, fuzzy
 msgid "start_text_quest_3455"
 msgstr ""
 "Hilrdr der Kämpfer hat Sie gebeten, Thorgilis den Kämpfer der Stimme von "
@@ -25093,9 +25138,11 @@ msgstr ""
 "Ausgezeichnet. Ich sehe, Sie haben bereits den Titel des Brawny erreicht. "
 "Ein kleiner Krafttitel, aber trotzdem ist es ein Titel."
 
+#, fuzzy
 msgid "finished_text_quest_3455"
 msgstr "Sie haben Thorgilis den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3455"
 msgstr ""
 "Ich reiste nach Thorsland, um Thorgilis den Kämpfer zu treffen, um um mehr "
@@ -26199,23 +26246,27 @@ msgstr ""
 msgid "name_quest_3535"
 msgstr "alfar Intelligenz 1 bis 2"
 
+#, fuzzy
 msgid "short_desc_quest_3535"
 msgstr "Melden Sie Loesva den Magier des Radiant Circle."
 
+#, fuzzy
 msgid "start_text_quest_3535"
 msgstr ""
-"Ninnah hat der Magier Sie gebeten, Loesva dem Magier des Strahlenden Kreises"
-" zu berichten, wo Sie möglicherweise weitere Titel für Intelligenzleistungen"
-" erwerben können."
+"Ninnah hat der Magier Sie gebeten, Loesva dem Magier des Strahlenden Kreises "
+"zu berichten, wo Sie möglicherweise weitere Titel für Intelligenzleistungen "
+"erwerben können."
 
 msgid "end_text_quest_3535"
 msgstr ""
 "Wunderbar. Ich sehe, Sie haben bereits den Titel des Cleveren erreicht. Ein "
 "kleiner Geheimdiensttitel, aber tatsächlich ein sehr respektabler."
 
+#, fuzzy
 msgid "finished_text_quest_3535"
 msgstr "Sie haben Loesva den Magier erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3535"
 msgstr ""
 "Nachdem ich den ersten Titel der Intelligenzleistung von Ninnah dem Magier "
@@ -26546,9 +26597,11 @@ msgstr ""
 msgid "name_quest_3559"
 msgstr "mahirim Intelligenz 1 bis 2"
 
+#, fuzzy
 msgid "short_desc_quest_3559"
 msgstr "Melden Sie Samalom-tai den Magier des Kreises von Neith."
 
+#, fuzzy
 msgid "start_text_quest_3559"
 msgstr ""
 "Ayrdyr-dan hat der Magier Sie gebeten, Samalom-tai dem Magier des Kreises "
@@ -26560,9 +26613,11 @@ msgstr ""
 "Wunderbar. Ich sehe, Sie haben bereits den Titel des Cleveren erreicht. Ein "
 "kleiner Geheimdiensttitel, aber tatsächlich ein sehr respektabler."
 
+#, fuzzy
 msgid "finished_text_quest_3559"
 msgstr "Sie haben Samalom-tai den Magier erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3559"
 msgstr ""
 "Nachdem ich den ersten Titel der Intelligenzleistung von Ayrdyr-dan dem "
@@ -27241,9 +27296,11 @@ msgstr ""
 msgid "name_quest_3610"
 msgstr "Lieferung an samalon-tai"
 
+#, fuzzy
 msgid "short_desc_quest_3610"
 msgstr "Bericht an Samalon-tai."
 
+#, fuzzy
 msgid "start_text_quest_3610"
 msgstr ""
 "Sie haben akzeptiert, ein kleines Paket mit Zutaten zu liefern, das Katila "
@@ -27254,9 +27311,11 @@ msgstr ""
 "Ah, ausgezeichnet. Endlich haben wir alle Zutaten, damit ich die letzte "
 "Stufe der Entschlüsselung der alten Schriftrolle beginnen kann."
 
+#, fuzzy
 msgid "finished_text_quest_3610"
 msgstr "Sie haben Samalon-tai den Magier erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3610"
 msgstr ""
 "Ich habe Salaman-tai dem Magier eine Pazifage geliefert, die Katila der "
@@ -31436,9 +31495,11 @@ msgstr ""
 msgid "name_quest_3871"
 msgstr "Bericht an den Händler in {$u12}"
 
+#, fuzzy
 msgid "short_desc_quest_3871"
 msgstr "Bericht an Akzar den Händler."
 
+#, fuzzy
 msgid "start_text_quest_3871"
 msgstr ""
 "Du hast eine Quest von Grabgold the Merchant angenommen. Reisen Sie nach "
@@ -31452,9 +31513,11 @@ msgstr ""
 "habe ich es gesagt. Hier ist es. Bitte liefern Sie meinen Bericht an "
 "Grabgold."
 
+#, fuzzy
 msgid "finished_text_quest_3871"
 msgstr "Sie haben Akzar den Merchant erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_3871"
 msgstr ""
 "Ich habe den Handelsbericht Brief von Akzar der Händler in {$u12} erworben. "
@@ -32713,9 +32776,11 @@ msgstr ""
 msgid "name_quest_3972"
 msgstr "Bericht an loevsa 1"
 
+#, fuzzy
 msgid "short_desc_quest_3972"
 msgstr "Bericht an Loevsa den Magier."
 
+#, fuzzy
 msgid "start_text_quest_3972"
 msgstr ""
 "Valseri Der Magier von Onghral hat Sie gebeten, Dun Amsharra zum Radiant "
@@ -32728,9 +32793,11 @@ msgstr ""
 "dass sie besonders vorsichtig damit sein soll. Es sind nicht mehr viele "
 "Kopien des Buches übrig."
 
+#, fuzzy
 msgid "finished_text_quest_3972"
 msgstr "Sie haben den Brief Loevsa dem Magier übergeben."
 
+#, fuzzy
 msgid "diary_text_quest_3972"
 msgstr ""
 "Ich bin nach Dun Amsharra gereist und habe dem Magier des Strahlenden "
@@ -32793,9 +32860,11 @@ msgstr ""
 msgid "name_quest_3977"
 msgstr "Weiterlesen über haenli 1"
 
+#, fuzzy
 msgid "short_desc_quest_3977"
 msgstr "Bericht an Haenli den Magier."
 
+#, fuzzy
 msgid "start_text_quest_3977"
 msgstr ""
 "Ilrak der Arkanist hat Sie gebeten, eine Schriftrolle an Haenli den Magier "
@@ -32808,11 +32877,13 @@ msgstr ""
 "Sag Ilrak, ich werde definitiv einen guten Blick auf die Schriftrolle werfen"
 " und sehen, was ich daraus machen kann."
 
+#, fuzzy
 msgid "finished_text_quest_3977"
 msgstr ""
 "Sie haben die Schriftrolle Haenli dem Magier übergeben. Kehren Sie nach "
 "Ilrak dem Arkanisten zurück und sammeln Sie Ihre Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_3977"
 msgstr ""
 "Ich habe die seltsame Schriftrolle, die Ilrak der Arkanist nicht verstehen "
@@ -33373,9 +33444,11 @@ msgstr ""
 msgid "name_quest_4013"
 msgstr "Weiterlesen über ilith 1"
 
+#, fuzzy
 msgid "short_desc_quest_4013"
 msgstr "Bericht an Ilith den Magier."
 
+#, fuzzy
 msgid "start_text_quest_4013"
 msgstr ""
 "Eredil der Arkanist hat Sie gebeten, eine Schriftrolle an Ilith den Magier "
@@ -33388,11 +33461,13 @@ msgstr ""
 "Sag Eredil, ich werde definitiv einen guten Blick auf die Schriftrolle "
 "werfen und sehen, was ich daraus machen kann."
 
+#, fuzzy
 msgid "finished_text_quest_4013"
 msgstr ""
 "Sie haben die Schriftrolle Ilith dem Magier übergeben. Kehre zu Eredil dem "
 "Arkanisten zurück und sammle deine Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_4013"
 msgstr ""
 "Ich habe die seltsame Schriftrolle, die Eredil der Arkanist nicht verstehen "
@@ -33715,23 +33790,27 @@ msgstr ""
 msgid "name_quest_4034"
 msgstr "Bericht an ymerontel 1"
 
+#, fuzzy
 msgid "short_desc_quest_4034"
 msgstr "Bericht an Ymeron-tel der Arkanist."
 
+#, fuzzy
 msgid "start_text_quest_4034"
 msgstr ""
-"Amauron der Arkanist aus Leenglow hat Sie gebeten, Stonehold zur Longclaw zu"
-" reisen, Ymeron-tel dem Arkanisten eine Notiz zu überbringen und einen "
-"Erste-Hilfe-Kasten nach Leenglow zurückzubringen."
+"Amauron der Arkanist aus Leenglow hat Sie gebeten, Stonehold zur Longclaw zu "
+"reisen, Ymeron-tel dem Arkanisten eine Notiz zu überbringen und einen Erste-"
+"Hilfe-Kasten nach Leenglow zurückzubringen."
 
 msgid "end_text_quest_4034"
 msgstr ""
 "Eine Erste-Hilfe-Box für meinen guten Freund Amauron in Leenglow. Eines kann"
 " ich mir natürlich ersparen. Hier gehen Sie."
 
+#, fuzzy
 msgid "finished_text_quest_4034"
 msgstr "Sie haben die Notiz an Ymeron-tel, den Arkanisten, übergeben."
 
+#, fuzzy
 msgid "diary_text_quest_4034"
 msgstr ""
 "Ich habe Ymeron-tel, dem Arkanisten der Langklaue, eine Notiz überreicht, "
@@ -33767,9 +33846,11 @@ msgstr ""
 msgid "name_quest_4037"
 msgstr "Versandtüte an omandyr"
 
+#, fuzzy
 msgid "short_desc_quest_4037"
 msgstr "Bericht an Omandyr den Händler."
 
+#, fuzzy
 msgid "start_text_quest_4037"
 msgstr ""
 "Ialynna hat der Stadtrat Sie gebeten, eine Tasche an Omandyr den Händler zu "
@@ -33778,9 +33859,11 @@ msgstr ""
 msgid "end_text_quest_4037"
 msgstr "Meine Tasche! Du hast es gefunden! Vielen Dank."
 
+#, fuzzy
 msgid "finished_text_quest_4037"
 msgstr "Sie haben Omandyr den Merchant erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4037"
 msgstr ""
 "Ich habe ihm die Tasche Omandyr zurückgegeben, nachdem er sie mit Ialynna "
@@ -33813,9 +33896,11 @@ msgstr "Ich lieferte Omandyr Werkzeuge Liste zu Sa-Imdor der Blacksmith."
 msgid "name_quest_4040"
 msgstr "zurück zu omandyr 1"
 
+#, fuzzy
 msgid "short_desc_quest_4040"
 msgstr "Bericht an Omandyr den Händler."
 
+#, fuzzy
 msgid "start_text_quest_4040"
 msgstr ""
 "Sie haben die Werkzeugliste von Omandyr an Sa-Imdor The Blacksmith "
@@ -33827,9 +33912,11 @@ msgstr ""
 "Sa-Imdor wird die Werkzeuge bis morgen bereit haben. Ausgezeichnet. Hier ist"
 " die Belohnung, die ich dir versprochen habe."
 
+#, fuzzy
 msgid "finished_text_quest_4040"
 msgstr "Sie haben Omandyr den Merchant erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4040"
 msgstr ""
 "Ich lieferte Omandyr Werkzeuge Liste zu Sa-Imdor der Blacksmith. Ich konnte "
@@ -33918,9 +34005,11 @@ msgstr ""
 msgid "name_quest_4047"
 msgstr "Bericht an Samalontai 1"
 
+#, fuzzy
 msgid "short_desc_quest_4047"
 msgstr "Bericht an Samalon-tai den Magier."
 
+#, fuzzy
 msgid "start_text_quest_4047"
 msgstr ""
 "Livina Der Magier aus Silverspear hat Sie gebeten, Moonclaw zum Kreis von "
@@ -33933,9 +34022,11 @@ msgstr ""
 "aber sag ihr, dass sie besonders vorsichtig damit sein soll. Es sind nicht "
 "mehr viele Kopien des Buches übrig."
 
+#, fuzzy
 msgid "finished_text_quest_4047"
 msgstr "Sie haben den Brief Samalon-tai dem Magier übergeben."
 
+#, fuzzy
 msgid "diary_text_quest_4047"
 msgstr ""
 "Ich bin nach Moonclaw gereist und habe einen versiegelten Brief an Samalon-"
@@ -34132,9 +34223,11 @@ msgstr ""
 msgid "name_quest_4060"
 msgstr "Bericht an uranyrkan 1"
 
+#, fuzzy
 msgid "short_desc_quest_4060"
 msgstr "Bericht an Uranyr-kan der Kämpfer."
 
+#, fuzzy
 msgid "start_text_quest_4060"
 msgstr ""
 "Lymyan Der Kämpfer von Hunter's Moon hat Sie gebeten, Nightspire zu den "
@@ -34147,14 +34240,16 @@ msgstr ""
 "kann meine Kopie des Fighters Training Manual haben. Ich glaube nicht, dass "
 "ich es bald brauchen werde."
 
+#, fuzzy
 msgid "finished_text_quest_4060"
 msgstr "Sie haben Uranyr-kan den Kämpfer erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4060"
 msgstr ""
 "Ich bin nach Nightspire gereist, um Uranyr-kan den Kämpfer zu bitten, seine "
-"Kopie des Fighters Training Manual an Lymyan den Kämpfer in Hunter's Moon zu"
-" verleihen."
+"Kopie des Fighters Training Manual an Lymyan den Kämpfer in Hunter's Moon zu "
+"verleihen."
 
 msgid "name_quest_4061"
 msgstr "Lieferung an lymyan 1"
@@ -34340,9 +34435,11 @@ msgstr ""
 msgid "name_quest_4073"
 msgstr "Bericht an Nidar 1"
 
+#, fuzzy
 msgid "short_desc_quest_4073"
 msgstr "Berichten Sie Nidar dem Arkanisten."
 
+#, fuzzy
 msgid "start_text_quest_4073"
 msgstr ""
 "Gormfinn der Arkanist aus Hammerdelve hat Sie gebeten, Ringfain zur Five "
@@ -34354,14 +34451,15 @@ msgstr ""
 "Eine Erste-Hilfe-Box für meinen guten Freund Gormfinn in Hammerdelve. Eines "
 "kann ich mir natürlich ersparen. Hier gehen Sie."
 
+#, fuzzy
 msgid "finished_text_quest_4073"
 msgstr "Sie haben die Notiz Nidar dem Arkanisten übergeben."
 
+#, fuzzy
 msgid "diary_text_quest_4073"
 msgstr ""
 "Ich habe Nidar, dem Arkanisten der Five Beards Trading Company, eine Notiz "
-"überreicht, die Gormfinn, der Arkanist aus Hammerdelve, von mir verlangt "
-"hat."
+"überreicht, die Gormfinn, der Arkanist aus Hammerdelve, von mir verlangt hat."
 
 msgid "name_quest_4074"
 msgstr "Lieferung nach Gormfinn 1"
@@ -35275,9 +35373,11 @@ msgstr ""
 msgid "name_quest_4131"
 msgstr "Liefern Sie Box an Dragonmaster"
 
+#, fuzzy
 msgid "short_desc_quest_4131"
 msgstr "Bericht an Dragonmaster the Arcanist."
 
+#, fuzzy
 msgid "start_text_quest_4131"
 msgstr ""
 "Uzrok hat der Stadtrat Sie angewiesen, ein Paket an Dragonmaster the "
@@ -35288,15 +35388,17 @@ msgstr ""
 "Ein Paket für mich? Ah ja. Ich dachte, dieses Paket würde nie kommen. Vielen"
 " Dank, dass Sie es mir gebracht haben."
 
+#, fuzzy
 msgid "finished_text_quest_4131"
 msgstr "Sie haben Dragonmaster the Arcanist erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4131"
 msgstr ""
 "Uzrok bat mich der Stadtrat, ein Paket zu liefern, das für Dragonmaster the "
 "Arcanist angekommen war. Anscheinend war das Paket einige Tage zu spät "
-"angekommen. Der Kurier, der keine Entschuldigung hatte, beschloss, das Paket"
-" dem Rat zu überlassen und zu verschwinden."
+"angekommen. Der Kurier, der keine Entschuldigung hatte, beschloss, das Paket "
+"dem Rat zu überlassen und zu verschwinden."
 
 msgid "name_quest_4133"
 msgstr "Weiterlesen über bloodzkul 1"
@@ -35329,9 +35431,11 @@ msgstr ""
 msgid "name_quest_4134"
 msgstr "Zurück zu Dragonmaster 1"
 
+#, fuzzy
 msgid "short_desc_quest_4134"
 msgstr "Bericht an Dragonmaster the Arcanist."
 
+#, fuzzy
 msgid "start_text_quest_4134"
 msgstr ""
 "Sie haben die Rolle geliefert Dragonmaster gab Ihnen Bloodzkul der Magier. "
@@ -35344,9 +35448,11 @@ msgstr ""
 "Bloodzkul entdecken wird, was die Schriftrolle genau macht. Hier ist deine "
 "Belohnung, wie versprochen."
 
+#, fuzzy
 msgid "finished_text_quest_4134"
 msgstr "Sie haben Dragonmaster the Arcanist erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4134"
 msgstr ""
 "Ich habe die seltsame Schriftrolle, die Dragonmaster der Arkanist nicht "
@@ -36690,9 +36796,11 @@ msgstr ""
 msgid "name_quest_4209"
 msgstr "Bericht an Malrendor 1"
 
+#, fuzzy
 msgid "short_desc_quest_4209"
 msgstr "Sprechen Sie mit Malren-Dor dem Arkanisten."
 
+#, fuzzy
 msgid "start_text_quest_4209"
 msgstr ""
 "Du hast eine Quest von Karharias dem Magier angenommen. Karharias ist "
@@ -36706,13 +36814,15 @@ msgstr ""
 "\r\n"
 "Was ich brauche, um meinen Trank zu vervollständigen, sind sechs Einheiten der folgenden Materialien. Hellbore, Archangelica, Baneberry, Snakeweed und Blood. Bring mir sechs von jedem, und Karharias kann das verdammte Buch haben."
 
+#, fuzzy
 msgid "finished_text_quest_4209"
 msgstr "Sie haben Malren-Dor den Arkanisten erreicht."
 
+#, fuzzy
 msgid "diary_text_quest_4209"
 msgstr ""
-"Eine weitere kleine Aufgabe. Malren-Dor der Arkanist hat mich gebeten, sechs"
-" Einheiten von Hellbore, Archangelica, Baneberry, Snakeweed und Blood im "
+"Eine weitere kleine Aufgabe. Malren-Dor der Arkanist hat mich gebeten, sechs "
+"Einheiten von Hellbore, Archangelica, Baneberry, Snakeweed und Blood im "
 "Austausch für das Buch \"Bluttränke des Vollmondes\" zu sammeln, um das der "
 "Magier Karharias gebeten hat."
 
@@ -36760,13 +36870,28 @@ msgid "start_text_quest_4211"
 msgstr ""
 "Liefern Sie das Buch \"Bluttränke des Vollmondes\" an Karharias den Magier."
 
+#, fuzzy
 msgid "end_text_quest_4211"
 msgstr ""
-"Du bist mit dem Buch zurückgekehrt. Eine signierte Kopie nur für mich! Wunderbar. Jetzt werde ich euch sagen, was ich über diese Menschen weiß, an denen die Ritter von Malregard so interessiert sind.\r\n"
+"Du bist mit dem Buch zurückgekehrt. Eine signierte Kopie nur für mich! "
+"Wunderbar. Jetzt werde ich euch sagen, was ich über diese Menschen weiß, an "
+"denen die Ritter von Malregard so interessiert sind.\r\n"
 "\r\n"
-"Eine Roben tragende Gruppe von Menschen ging durch Ottenahal und stellte Fragen zu einem Ex-Ritter der Ritter von Malregard namens Cornelius. Am Anfang glaubte ich ihnen nicht, dass der arme alte Cornelius, der betrunkene Kaufmann von Ottenhal, einst ein Ritter von Malregard war. Wie auch immer, ich spielte mit so, als wüsste ich es in der hoffnung, zu entdecken, was diese mysteriösen menschen wirklich wollten.\r\n"
+"Eine Roben tragende Gruppe von Menschen ging durch Ottenahal und stellte "
+"Fragen zu einem Ex-Ritter der Ritter von Malregard namens Cornelius. Am "
+"Anfang glaubte ich ihnen nicht, dass der arme alte Cornelius, der betrunkene "
+"Kaufmann von Ottenhal, einst ein Ritter von Malregard war. Wie auch immer, "
+"ich spielte mit so, als wüsste ich es in der hoffnung, zu entdecken, was "
+"diese mysteriösen menschen wirklich wollten.\r\n"
 "\r\n"
-"Als ich meine üblichen Gedankenspiele begann und versuchte, sie dazu zu bringen, irgendwelche Informationen auszuspucken, entdeckte ich schnell, dass diese Menschen hier ernsthafte Geschäfte machten. Ich konnte sehen, dass sie von meinen kleinen Gedankenspielen nicht beeindruckt waren. Der Anführer der Gruppe reichte mir sofort einen Beutel.  Es war so viel Gold drin, ich konnte ein so schönes Angebot einfach nicht ablehnen. Es war entweder kein Gold, sondern warnte Cornelius, dass jemand nach ihm gesucht hatte, oder behalte das Gold und führe meine neuen Freunde zu Cornelius."
+"Als ich meine üblichen Gedankenspiele begann und versuchte, sie dazu zu "
+"bringen, irgendwelche Informationen auszuspucken, entdeckte ich schnell, "
+"dass diese Menschen hier ernsthafte Geschäfte machten. Ich konnte sehen, "
+"dass sie von meinen kleinen Gedankenspielen nicht beeindruckt waren. Der "
+"Anführer der Gruppe reichte mir sofort einen Beutel.  Es war so viel Gold "
+"drin, ich konnte ein so schönes Angebot einfach nicht ablehnen. Es war "
+"entweder kein Gold, sondern warnte Cornelius, dass jemand nach ihm gesucht "
+"hatte, oder behalte das Gold und führe meine neuen Freunde zu Cornelius."
 
 msgid "finished_text_quest_4211"
 msgstr ""
@@ -37779,6 +37904,7 @@ msgstr "Goblinschrein in {$o09}"
 msgid "short_desc_quest_4280"
 msgstr "Zerstöre den Goblin-Schrein."
 
+#, fuzzy
 msgid "start_text_quest_4280"
 msgstr ""
 "Sie haben akzeptiert, das Goblin-Schamanendorf {$o09} nach dem Goblin-"
@@ -37793,20 +37919,21 @@ msgstr ""
 "werden bald anfangen, die Macht ihres Gottes und damit die der Schamanen in "
 "Frage zu stellen."
 
+#, fuzzy
 msgid "finished_text_quest_4280"
 msgstr ""
 "Sie haben es geschafft, den Schrein zu zerstören, nach ein paar guten "
-"soliden Hits. Kehre zu Draudnar der Magier zurück und sammle deine "
-"Belohnung."
+"soliden Hits. Kehre zu Draudnar der Magier zurück und sammle deine Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_4280"
 msgstr ""
 "Draudnar wies mich der Magier an, den Koboldschrein zu finden und zu "
 "zerstören, der dem Koboldgott Ngobil gewidmet war. Weil die Schamanen "
 "glauben, dass es Ngobil ist, der ihnen ihre Zauberkräfte gegeben hat, indem "
 "sie den Koboldschrein geschändet haben, könnten die Schamanen glauben, dass "
-"sie ihre Kräfte verloren haben, wodurch sie für die Verteidiger von Eirhjelm"
-" weniger gefährlich wurden."
+"sie ihre Kräfte verloren haben, wodurch sie für die Verteidiger von Eirhjelm "
+"weniger gefährlich wurden."
 
 msgid "name_quest_4282"
 msgstr "Goblin Schamanen in {$o09}"
@@ -37814,6 +37941,7 @@ msgstr "Goblin Schamanen in {$o09}"
 msgid "short_desc_quest_4282"
 msgstr "Töte vier Goblinschamanen."
 
+#, fuzzy
 msgid "start_text_quest_4282"
 msgstr ""
 "Draudnar hat der Magier euch angewiesen, das Koboldschamanendorf im Jahre "
@@ -37824,12 +37952,14 @@ msgstr ""
 "Gut gemacht. Wir werden den Goblin von oben zerstören, und das wird mit der "
 "Zerstörung der Goblin-Schamanen beginnen."
 
+#, fuzzy
 msgid "finished_text_quest_4282"
 msgstr ""
 "Ein weiterer Goblin-Schamane fällt. Sie haben erfolgreich vier Goblin-"
 "Schamanen getötet. Kehre zu Draudnar der Magier zurück und sammle deine "
 "Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_4282"
 msgstr ""
 "Ich habe erfolgreich vier Koboldschamanen getötet, wie von Draudnar der "
@@ -38763,12 +38893,13 @@ msgstr ""
 " nach Hammerdelve zurück und liefern Sie die Baleful Venom Sacs an Rothrin "
 "den Magier."
 
+#, fuzzy
 msgid "diary_text_quest_4342"
 msgstr ""
 "Ich sammelte vier Einheiten Baleful Venom Sac für Rothrin den Magier. Wie "
 "Arngard der Stadtrat mir sagte, war Rothrin immer für Hammerdelve da, und "
-"Rthrin bei seinen Nachforschungen zu unterstützen, ist das Mindeste, was wir"
-" tun können."
+"Rthrin bei seinen Nachforschungen zu unterstützen, ist das Mindeste, was wir "
+"tun können."
 
 msgid "name_quest_4344"
 msgstr "Zombie Corpeflesh im Eirhjelm"
@@ -38833,28 +38964,33 @@ msgstr ""
 " Magier. Carrad scheint von diesen magischen Kreaturen fasziniert zu sein "
 "und möchte sie studieren und mehr über sie erfahren."
 
+#, fuzzy
 msgid "name_quest_4348"
 msgstr "Giftsack in neuem geschältem Elf"
 
+#, fuzzy
 msgid "short_desc_quest_4348"
 msgstr "Sammeln Sie vier Einheiten von Venom Sac."
 
+#, fuzzy
 msgid "start_text_quest_4348"
 msgstr ""
 "Sammeln Sie vier Einheiten von Venom Sac aus dem Sarnakh, die auf Grimclaw "
 "Island gesichtet wurden, und liefern Sie sie an Skullgor den Magier."
 
+#, fuzzy
 msgid "end_text_quest_4348"
 msgstr ""
-"Ausgezeichnet. Venom Sac aus dem mysteriösen Sarnakh. Ja, das wird gut "
-"gehen."
+"Ausgezeichnet. Venom Sac aus dem mysteriösen Sarnakh. Ja, das wird gut gehen."
 
+#, fuzzy
 msgid "finished_text_quest_4348"
 msgstr ""
-"Sie haben erfolgreich eine weitere Sarnakh gehäutet und haben jetzt in Ihrem"
-" Besitz vier Einheiten von Venom Sac. Liefern Sie den Giftsack an Skullgor "
+"Sie haben erfolgreich eine weitere Sarnakh gehäutet und haben jetzt in Ihrem "
+"Besitz vier Einheiten von Venom Sac. Liefern Sie den Giftsack an Skullgor "
 "den Magier und sammeln Sie Ihre Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_4348"
 msgstr ""
 "Vier Einheiten von Venom Sac wurden erfolgreich aus dem mysteriösen Sarnakh "
@@ -38914,12 +39050,13 @@ msgstr ""
 " zu Chopping Necks zurück und liefern Sie die Arachnid Venom Sacs an "
 "Bloodzkul den Magier."
 
+#, fuzzy
 msgid "diary_text_quest_4352"
 msgstr ""
-"Ich sammelte vier Einheiten Baleful Venom Sac von den Spinnen, die jetzt das"
-" Ruinendorf Broken Skull befallen haben, und lieferte sie dem Magier "
-"Bloodzkull. Laut dem Bloodzkull werden die Baleful Venom Sacs von Bloodzkull"
-" als bezaubernde Materialien verwendet."
+"Ich sammelte vier Einheiten Baleful Venom Sac von den Spinnen, die jetzt das "
+"Ruinendorf Broken Skull befallen haben, und lieferte sie dem Magier "
+"Bloodzkull. Laut dem Bloodzkull werden die Baleful Venom Sacs von Bloodzkull "
+"als bezaubernde Materialien verwendet."
 
 msgid "name_quest_4375"
 msgstr "Brief an Mardemkai"
@@ -41385,15 +41522,20 @@ msgstr ""
 msgid "name_quest_5010"
 msgstr "j29_s_dungeon_daily_ruby"
 
+#, fuzzy
 msgid "short_desc_quest_5010"
 msgstr ""
 "Kill 24 Arthain Buckel, 10 ausgewählt aus Khamset, 8 Feuergiganten und 8 "
 "Feuerelemente"
 
+#, fuzzy
 msgid "start_text_quest_5010"
 msgstr ""
-"Sie haben das Angebot von Leto Elithir angenommen, an der Säuberung des Ahbelaj Dungeons teilzunehmen. Kill 24 Arthain Hunchback, 10 Auserwählt von Khamset, 8 Fire Giants und 8 Fire Elements im Ahbelaj Dungeon.\r\n"
-"(Warnung: Diese Quest wird wieder verfügbar sein, 21 Stunden nach ihrer Fertigstellung)."
+"Sie haben das Angebot von Leto Elithir angenommen, an der Säuberung des "
+"Ahbelaj Dungeons teilzunehmen. Kill 24 Arthain Hunchback, 10 Auserwählt von "
+"Khamset, 8 Fire Giants und 8 Fire Elements im Ahbelaj Dungeon.\r\n"
+"(Warnung: Diese Quest wird wieder verfügbar sein, 21 Stunden nach ihrer "
+"Fertigstellung)."
 
 msgid "end_text_quest_5010"
 msgstr ""
@@ -41402,12 +41544,14 @@ msgstr ""
 "versprochen. Die Ahbelaj Dungeon Purge wird in 21 Stunden wieder verfügbar "
 "sein. Versuchen Sie bis dahin etwas weniger Gefährliches."
 
+#, fuzzy
 msgid "finished_text_quest_5010"
 msgstr ""
 "Sie haben erfolgreich 24 Arthain Hunchback, 10 Auserwählt von Khamset, 8 "
 "Fire Giants und 8 Fire Elements getötet. Melden Sie Ihren Erfolg an Leto "
 "Elithir und sammeln Sie Ihre Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_5010"
 msgstr ""
 "Die Ahbelaj Dungeon Purge erwies sich als eine schwierige Herausforderung, "
@@ -44699,9 +44843,11 @@ msgstr ""
 msgid "name_quest_20039"
 msgstr "Untote in der Mine: Skelette"
 
+#, fuzzy
 msgid "short_desc_quest_20039"
 msgstr "6 Skelette töten"
 
+#, fuzzy
 msgid "start_text_quest_20039"
 msgstr "Weiter nordwestlich den Pfad hinauf und töten 6 Skelette"
 
@@ -45429,17 +45575,33 @@ msgstr "Mandrakes für die Verteidiger von {$u20}"
 msgid "short_desc_quest_59"
 msgstr "Ernte fünf Mandrakes."
 
+#, fuzzy
 msgid "start_text_quest_59"
 msgstr ""
-"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden alle Zauber durch Zutaten angeheizt, die beim Gießen verbraucht werden. Neue Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen wie Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
+"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden "
+"alle Zauber durch Zutaten angeheizt, die beim Gießen verbraucht werden. Neue "
+"Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen wie "
+"Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
 "\r\n"
-"Wir bereiten uns darauf vor, so viele der Wächter der Sandbrook wie möglich zu bewerfen, als Teil unserer Verteidigung gegen einen bevorstehenden Goblin-Angriff. Allerdings sind wir kurz auf eine Zauberzutat namens Mandrake, die ein Nebenprodukt der Krautsammlung ist.\r\n"
+"Wir bereiten uns darauf vor, so viele der Wächter der Sandbrook wie möglich "
+"zu bewerfen, als Teil unserer Verteidigung gegen einen bevorstehenden Goblin-"
+"Angriff. Allerdings sind wir kurz auf eine Zauberzutat namens Mandrake, die "
+"ein Nebenprodukt der Krautsammlung ist.\r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Thora The Merchant kaufen.\r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Thora The Merchant kaufen.\r\n"
 "\r\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_209"
 msgstr "Goblins auf der Flucht"
@@ -45939,17 +46101,32 @@ msgstr "Mandrakes für steingrima 2"
 msgid "short_desc_quest_348"
 msgstr "Sammeln Sie fünf Mandrake Kräuter."
 
+#, fuzzy
 msgid "start_text_quest_348"
 msgstr ""
-"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr Territorium beansprucht.\r\n"
+"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von "
+"Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die "
+"Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr "
+"Territorium beansprucht.\r\n"
 "\r\n"
-"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau zu halten, die du am Weinstock verdorren siehst. \r\n"
+"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. "
+"Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau "
+"zu halten, die du am Weinstock verdorren siehst. \r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Erling The Merchant kaufen.\r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Erling The Merchant kaufen.\r\n"
 " \r\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_350"
 msgstr "Zutaten für Verzauberung"
@@ -46019,15 +46196,29 @@ msgstr "Mandrakes für Yngfell"
 msgid "short_desc_quest_362"
 msgstr "Sammeln Sie fünf Mandrake Kräuter."
 
+#, fuzzy
 msgid "start_text_quest_362"
 msgstr ""
-"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden alle Zauber durch Zutaten angeheizt, die beim Gießen verbraucht werden. Neue Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen wie Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
+"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden "
+"alle Zauber durch Zutaten angeheizt, die beim Gießen verbraucht werden. Neue "
+"Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen wie "
+"Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Agnor The Merchant's Shop kaufen, die direkt im südlichen Tor liegt. \r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Agnor The Merchant's Shop kaufen, die direkt "
+"im südlichen Tor liegt. \r\n"
 "\r\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_364"
 msgstr "Eine neue Verwendung für Goblins"
@@ -46335,17 +46526,32 @@ msgstr "Alraunen für Amauron"
 msgid "short_desc_quest_484"
 msgstr "Sammle fünf Mandrakes."
 
+#, fuzzy
 msgid "start_text_quest_484"
 msgstr ""
-"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr Territorium beansprucht.\r\n"
+"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von "
+"Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die "
+"Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr "
+"Territorium beansprucht.\r\n"
 "\r\n"
-"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau zu halten, die du am Weinstock verdorren siehst. \r\n"
+"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. "
+"Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau "
+"zu halten, die du am Weinstock verdorren siehst. \r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Levasta-ine The Merchant kaufen.\r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Levasta-ine The Merchant kaufen.\r\n"
 "\r\n"
-"Sobald Sie eine Sichel halten, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
+"Sobald Sie eine Sichel halten, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen. \r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_486"
 msgstr "Verzauberung in Leenglow"
@@ -46686,17 +46892,33 @@ msgstr "Alraunen für Thielit"
 msgid "short_desc_quest_528"
 msgstr "Sammeln Sie fünf Mandrake Kräuter."
 
+#, fuzzy
 msgid "start_text_quest_528"
 msgstr ""
-"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr Territorium beansprucht.\r\n"
+"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von "
+"Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die "
+"Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr "
+"Territorium beansprucht.\r\n"
 "\r\n"
-"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau zu halten, die du am Weinstock verdorren siehst. \r\n"
+"Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. "
+"Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau "
+"zu halten, die du am Weinstock verdorren siehst. \r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Talduk im Kaufhaus kaufen, das im unterirdischen Teil von {$o23} liegt.\r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Talduk im Kaufhaus kaufen, das im "
+"unterirdischen Teil von {$o23} liegt.\r\n"
 "\r\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_530"
 msgstr "Verzauberung in {$o23}"
@@ -46782,13 +47004,24 @@ msgstr "Holz für neue Wachtürme"
 msgid "short_desc_quest_545"
 msgstr "Sammle fünf Holzeinheiten."
 
+#, fuzzy
 msgid "start_text_quest_545"
 msgstr ""
-"Die Elfenherren von Leafhelm haben beschlossen, weitere Wachtürme entlang der Straße zu bauen, die unsere Stadt mit der mirdain Hauptstadt von Charybdis verbindet. Bevor die Arbeiten an diesen Strukturen beginnen können, benötigen wir jedoch Hilfe beim Sammeln von Holz, das für ihren Bau benötigt wird.\r\n"
+"Die Elfenherren von Leafhelm haben beschlossen, weitere Wachtürme entlang "
+"der Straße zu bauen, die unsere Stadt mit der mirdain Hauptstadt von "
+"Charybdis verbindet. Bevor die Arbeiten an diesen Strukturen beginnen "
+"können, benötigen wir jedoch Hilfe beim Sammeln von Holz, das für ihren Bau "
+"benötigt wird.\r\n"
 "\r\n"
-"Um Holz zu erwerben, müssen Sie Bäume mit einem Werkzeug namens Wood Axe schneiden. Wenn Sie noch kein solches Werkzeug besitzen, können Sie eines von Merthir dem Händler kaufen.\r\n"
+"Um Holz zu erwerben, müssen Sie Bäume mit einem Werkzeug namens Wood Axe "
+"schneiden. Wenn Sie noch kein solches Werkzeug besitzen, können Sie eines "
+"von Merthir dem Händler kaufen.\r\n"
 "\r\n"
-"Nur größere Bäume sind zum Holzschneiden geeignet. Wenn Sie einem solchen Baum gegenüberstehen, während Sie eine Holzaxt halten, werden Sie darüber informiert, ob der Baum zum Ernten geeignet ist. Wenn Sie festgestellt haben, dass der Baum für die Ernte geeignet ist, können Sie mit dem Verfahren zur Gewinnung von Holz mit Ihrer Holzachse beginnen.\r\n"
+"Nur größere Bäume sind zum Holzschneiden geeignet. Wenn Sie einem solchen "
+"Baum gegenüberstehen, während Sie eine Holzaxt halten, werden Sie darüber "
+"informiert, ob der Baum zum Ernten geeignet ist. Wenn Sie festgestellt "
+"haben, dass der Baum für die Ernte geeignet ist, können Sie mit dem "
+"Verfahren zur Gewinnung von Holz mit Ihrer Holzachse beginnen.\r\n"
 "\r\n"
 "Ich möchte, dass du mir fünf Einheiten Holz bringst."
 
@@ -47020,15 +47253,31 @@ msgstr "Mandrakes for aergeir"
 msgid "short_desc_quest_575"
 msgstr "Sammeln Sie fünf Mandrake Kräuter."
 
+#, fuzzy
 msgid "start_text_quest_575"
 msgstr ""
-"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr Territorium beansprucht. Als Folge davon gehe ich derzeit bei einigen wichtigen Zutaten knapp aus. Wenn du hinaus in die Wildnis gehst, bitte ich dich, nach Alraunen Ausschau zu halten, die du am Weinstock verdorren siehst. \n"
+"Diese Region produziert eine Fülle von seltenen Kräutern, die zum Brauen von "
+"Tränken verwendet werden. Vor kurzem jedoch haben eindringende Kobolde die "
+"Kräutersammler vertrieben und das fruchtbarste Sammelgebiet als ihr "
+"Territorium beansprucht. Als Folge davon gehe ich derzeit bei einigen "
+"wichtigen Zutaten knapp aus. Wenn du hinaus in die Wildnis gehst, bitte ich "
+"dich, nach Alraunen Ausschau zu halten, die du am Weinstock verdorren "
+"siehst. \n"
 "\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Tarhal The Merchant kaufen.\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Tarhal The Merchant kaufen.\n"
 "\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen. \n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen. \n"
 "\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_577"
 msgstr "Verzauberung in King's Holdfast"
@@ -47083,18 +47332,29 @@ msgstr ""
 msgid "name_quest_620"
 msgstr "Heftige Zentauren"
 
+#, fuzzy
 msgid "short_desc_quest_620"
 msgstr "Sammle zwei Centaurenherzen."
 
+#, fuzzy
 msgid "start_text_quest_620"
 msgstr ""
-"Nördlich von hier liegt der Wald von Hornwood. Innerhalb des Waldes leben mehrere Sylvan-Arten, darunter der Centaur und der Ciel Fey.\r\n"
+"Nördlich von hier liegt der Wald von Hornwood. Innerhalb des Waldes leben "
+"mehrere Sylvan-Arten, darunter der Centaur und der Ciel Fey.\r\n"
 "\r\n"
-"Ein Stamm der Kentauren, der im Wald von Hornwood lebt, hat eine unserer Patrouillengruppen angegriffen und abgeschlachtet. Kleinere Angriffe auf die Wolfsmasken sind bekannt, vor allem beim Betreten ihres Waldes, aber von Brutalität dieser Art wurde noch nie gehört. \r\n"
+"Ein Stamm der Kentauren, der im Wald von Hornwood lebt, hat eine unserer "
+"Patrouillengruppen angegriffen und abgeschlachtet. Kleinere Angriffe auf die "
+"Wolfsmasken sind bekannt, vor allem beim Betreten ihres Waldes, aber von "
+"Brutalität dieser Art wurde noch nie gehört. \r\n"
 "\r\n"
-"Bis wir die Gründe für diesen brutalen Angriff entdecken können, müssen die Kentauren behandelt werden, bevor sie eine andere unserer Scouting-Parteien angreifen.\r\n"
+"Bis wir die Gründe für diesen brutalen Angriff entdecken können, müssen die "
+"Kentauren behandelt werden, bevor sie eine andere unserer Scouting-Parteien "
+"angreifen.\r\n"
 "\r\n"
-"#PlayerName#, ich möchte, dass Sie in den Hornwood-Wald gehen und diese Zentauren bestrafen. Ich möchte, dass sie sich die zeit nehmen, ihre herzen auszuschneiden. Eine solche Handlung wird ihnen definitiv Angst einflößen. #PlayerName#, bring mir zwei Centaur Hearts zurück."
+"#PlayerName#, ich möchte, dass Sie in den Hornwood-Wald gehen und diese "
+"Zentauren bestrafen. Ich möchte, dass sie sich die zeit nehmen, ihre herzen "
+"auszuschneiden. Eine solche Handlung wird ihnen definitiv Angst einflößen. "
+"#PlayerName#, bring mir zwei Centaur Hearts zurück."
 
 msgid "name_quest_622"
 msgstr "Folterer foltern"
@@ -47216,18 +47476,33 @@ msgstr ""
 msgid "name_quest_638"
 msgstr "Niedrige Zutaten"
 
+#, fuzzy
 msgid "short_desc_quest_638"
 msgstr "Sammeln Sie zwei Einheiten von Arachnid Darktaint."
 
+#, fuzzy
 msgid "start_text_quest_638"
 msgstr ""
-"Willkommen in Moonclaw, Heimat des Kreises von Neith. Seit Jahren sammeln unsere Forscher und Wissenschaftler magische Gegenstände und Artefakte aus allen Ecken von Agon. Unser Ziel ist es, sie zu studieren und die vielen vergessenen Geheimnisse der Vergangenheit zu entschlüsseln. Unsere Rasse mag jung sein, aber unser Lernhunger ist groß wie jeder andere.\r\n"
+"Willkommen in Moonclaw, Heimat des Kreises von Neith. Seit Jahren sammeln "
+"unsere Forscher und Wissenschaftler magische Gegenstände und Artefakte aus "
+"allen Ecken von Agon. Unser Ziel ist es, sie zu studieren und die vielen "
+"vergessenen Geheimnisse der Vergangenheit zu entschlüsseln. Unsere Rasse mag "
+"jung sein, aber unser Lernhunger ist groß wie jeder andere.\r\n"
 "\r\n"
-"Viele haben unsere Sache unterstützt und akzeptiert, in fremde und ferne Länder zu reisen, um nach solchen Gegenständen von größerer Bedeutung zu suchen. Aber bevor der Kreis euch mit solch wichtigen Missionen betrauen kann, gibt es eine kleine, aber wichtige Aufgabe, bei der ihr uns im Moment vielleicht unterstützen könnt. \r\n"
+"Viele haben unsere Sache unterstützt und akzeptiert, in fremde und ferne "
+"Länder zu reisen, um nach solchen Gegenständen von größerer Bedeutung zu "
+"suchen. Aber bevor der Kreis euch mit solch wichtigen Missionen betrauen "
+"kann, gibt es eine kleine, aber wichtige Aufgabe, bei der ihr uns im Moment "
+"vielleicht unterstützen könnt. \r\n"
 "\r\n"
-"Mir wurde mitgeteilt, dass uns eine bestimmte Zutat, die für bezaubernde Gegenstände verwendet wird, Arachnid Darktaint, knapp wird. Zum Glück für uns wurden Ghost Spiders, die uns mit Arachnid Darktaint versorgen können, südöstlich von hier gesichtet.\r\n"
+"Mir wurde mitgeteilt, dass uns eine bestimmte Zutat, die für bezaubernde "
+"Gegenstände verwendet wird, Arachnid Darktaint, knapp wird. Zum Glück für "
+"uns wurden Ghost Spiders, die uns mit Arachnid Darktaint versorgen können, "
+"südöstlich von hier gesichtet.\r\n"
 "\r\n"
-"Sollten Sie akzeptieren, den Kreis von Neith zu unterstützen, jagen Sie diese Geisterspinnen und ernten Sie zwei Einheiten von Arachnid Darktaint von ihnen."
+"Sollten Sie akzeptieren, den Kreis von Neith zu unterstützen, jagen Sie "
+"diese Geisterspinnen und ernten Sie zwei Einheiten von Arachnid Darktaint "
+"von ihnen."
 
 msgid "name_quest_640"
 msgstr "Ein Forscher in Not"
@@ -47260,18 +47535,27 @@ msgstr ""
 msgid "name_quest_644"
 msgstr "Überlegene Zutaten"
 
+#, fuzzy
 msgid "short_desc_quest_644"
 msgstr "Ernten Sie einen Quarz von der Erde Elementar."
 
+#, fuzzy
 msgid "start_text_quest_644"
 msgstr ""
-"Während ich meine Aufgabe fortsetze, die alte Stadt Nithron nach der Schriftrolle und anderen verborgenen Geheimnissen der Vergangenheit zu durchsuchen, gibt es etwas, das ich von Ihnen verlangen würde. \r\n"
+"Während ich meine Aufgabe fortsetze, die alte Stadt Nithron nach der "
+"Schriftrolle und anderen verborgenen Geheimnissen der Vergangenheit zu "
+"durchsuchen, gibt es etwas, das ich von Ihnen verlangen würde. \r\n"
 "\r\n"
-"Westlich von hier an der Moonstone Coast können Erdelementare gefunden werden. Diese Entitäten aus Erde und Stein sind wichtig für den Kreis von Neith, wegen des Quarzes, der von ihnen geerntet werden kann.\r\n"
+"Westlich von hier an der Moonstone Coast können Erdelementare gefunden "
+"werden. Diese Entitäten aus Erde und Stein sind wichtig für den Kreis von "
+"Neith, wegen des Quarzes, der von ihnen geerntet werden kann.\r\n"
 "\r\n"
-"Quarz ist eines der vielen Materialien, die in der Kunst der bezaubernden Gegenstände und Waffen verwendet werden, und der Kreis von Neith ist immer daran interessiert, solche überlegenen Zutaten zu erwerben. \r\n"
+"Quarz ist eines der vielen Materialien, die in der Kunst der bezaubernden "
+"Gegenstände und Waffen verwendet werden, und der Kreis von Neith ist immer "
+"daran interessiert, solche überlegenen Zutaten zu erwerben. \r\n"
 "\r\n"
-"#PlayerName#, gehe zur Moonstone Coast, finde ein Earth Elemental und bringe einen Quarz zurück."
+"#PlayerName#, gehe zur Moonstone Coast, finde ein Earth Elemental und bringe "
+"einen Quarz zurück."
 
 msgid "name_quest_646"
 msgstr "Schriften an einer Wand"
@@ -47316,14 +47600,23 @@ msgstr ""
 msgid "name_quest_652"
 msgstr "Zwei kleine Spikes"
 
+#, fuzzy
 msgid "short_desc_quest_652"
 msgstr "Sammeln Sie zwei Vile Spikes."
 
+#, fuzzy
 msgid "start_text_quest_652"
 msgstr ""
-"Mit der göttlichen Führung des blauen Mondes Neith sind unsere Gelehrten und Forscher sehr nahe daran, die antike Schrift aus der Stadt Nithron vollständig zu entschlüsseln. Aber damit sie ihre Arbeit konkurrieren können und dafür den geheimen Ort des Artefakts entdecken, das wir suchen, werden drei Vile Spikes benötigt.  \r\n"
+"Mit der göttlichen Führung des blauen Mondes Neith sind unsere Gelehrten und "
+"Forscher sehr nahe daran, die antike Schrift aus der Stadt Nithron "
+"vollständig zu entschlüsseln. Aber damit sie ihre Arbeit konkurrieren können "
+"und dafür den geheimen Ort des Artefakts entdecken, das wir suchen, werden "
+"drei Vile Spikes benötigt.  \r\n"
 "\r\n"
-"Vile Spikes können von Crogs geerntet werden, die oft das Gelände südwestlich von hier im Jahr {$g13} durchstreifen. Geh jetzt, lokalisiere die Crogs und ernte zwei Vile Spikes. Wir sind so nah dran, die Geheimnisse der Vergangenheit zu erlangen."
+"Vile Spikes können von Crogs geerntet werden, die oft das Gelände "
+"südwestlich von hier im Jahr {$g13} durchstreifen. Geh jetzt, lokalisiere "
+"die Crogs und ernte zwei Vile Spikes. Wir sind so nah dran, die Geheimnisse "
+"der Vergangenheit zu erlangen."
 
 msgid "name_quest_654"
 msgstr "Lästige Oger"
@@ -48012,14 +48305,24 @@ msgstr ""
 msgid "name_quest_759"
 msgstr "Zollbericht"
 
+#, fuzzy
 msgid "short_desc_quest_759"
 msgstr "Bericht an Lushar Wraithglider."
 
+#, fuzzy
 msgid "start_text_quest_759"
 msgstr ""
-"Der Harn Mandean hat Offiziere in ganz Nagast platziert. Jeder dieser Offiziere wurde einer bestimmten Aufgabe zugewiesen, sei es für eine Patrouillenroute, das Ausspionieren einer feindlichen Stadt oder das Verhören von Feinden nach Informationen.\r\n"
+"Der Harn Mandean hat Offiziere in ganz Nagast platziert. Jeder dieser "
+"Offiziere wurde einer bestimmten Aufgabe zugewiesen, sei es für eine "
+"Patrouillenroute, das Ausspionieren einer feindlichen Stadt oder das "
+"Verhören von Feinden nach Informationen.\r\n"
 "\r\n"
-"Lashur Wraithglider, einer unserer Offiziere, hat zwei feindliche Städte überwacht. Beide Städte gehören den Severii, untoten Dienern des Drachenskelettgottes Cyriacus. In seinem letzten Bericht erwähnte Lashur eine verdächtige Zunahme der Bewegung unter den Severii-Städten in den Ishtra-Territorien. Sie müssen gehen und ihm Bericht erstatten. Lushar liegt östlich von hier in der Region {$n21}."
+"Lashur Wraithglider, einer unserer Offiziere, hat zwei feindliche Städte "
+"überwacht. Beide Städte gehören den Severii, untoten Dienern des "
+"Drachenskelettgottes Cyriacus. In seinem letzten Bericht erwähnte Lashur "
+"eine verdächtige Zunahme der Bewegung unter den Severii-Städten in den "
+"Ishtra-Territorien. Sie müssen gehen und ihm Bericht erstatten. Lushar liegt "
+"östlich von hier in der Region {$n21}."
 
 msgid "name_quest_761"
 msgstr "Die Skelette bewegen sich"
@@ -49782,9 +50085,11 @@ msgstr ""
 msgid "name_quest_2224"
 msgstr "Die Schwerter von Rubaiyat"
 
+#, fuzzy
 msgid "short_desc_quest_2224"
 msgstr "Sammeln Sie drei Dim Stormrunes."
 
+#, fuzzy
 msgid "start_text_quest_2224"
 msgstr ""
 "Ich habe gehört, dass du gegen die untoten Wächter der seltsamen Pyramide "
@@ -49891,6 +50196,7 @@ msgstr ""
 msgid "name_quest_2233"
 msgstr "Die Trolle des Waneridpasses"
 
+#, fuzzy
 msgid "short_desc_quest_2233"
 msgstr "Töte sechs Trolllords und vier Swamp Hags."
 
@@ -50009,14 +50315,21 @@ msgstr ""
 msgid "name_quest_2242"
 msgstr "Herzen des Pferdevolkes"
 
+#, fuzzy
 msgid "short_desc_quest_2242"
 msgstr "Sammle drei Zentaurenherzen."
 
+#, fuzzy
 msgid "start_text_quest_2242"
 msgstr ""
-"Ein Stamm von Zentauren hat der Fünf-Bärte-Holzaktion im Wald von Whitebough, der südlich von hier liegt, den Krieg erklärt. Es ist unerlässlich, dass diese Feinde des Freihandels so schnell wie möglich beseitigt werden.\r\n"
+"Ein Stamm von Zentauren hat der Fünf-Bärte-Holzaktion im Wald von "
+"Whitebough, der südlich von hier liegt, den Krieg erklärt. Es ist "
+"unerlässlich, dass diese Feinde des Freihandels so schnell wie möglich "
+"beseitigt werden.\r\n"
 "\r\n"
-"Sollten Sie zustimmen, gegen die Zentauren vorzugehen, möchte ich, dass Sie sich die Zeit nehmen, ihre Herzen zu ernten, die in mehreren magischen Verzauberungen verwendet werden. Bitte bringen Sie mir drei Zentaurenherzen."
+"Sollten Sie zustimmen, gegen die Zentauren vorzugehen, möchte ich, dass Sie "
+"sich die Zeit nehmen, ihre Herzen zu ernten, die in mehreren magischen "
+"Verzauberungen verwendet werden. Bitte bringen Sie mir drei Zentaurenherzen."
 
 msgid "name_quest_2243"
 msgstr "Diebe in der Waneride"
@@ -50929,6 +51242,7 @@ msgstr ""
 msgid "name_quest_2376"
 msgstr "Jagt die Schlammpropheten"
 
+#, fuzzy
 msgid "short_desc_quest_2376"
 msgstr "Töte zwei Goblinschamanen."
 
@@ -51114,9 +51428,11 @@ msgstr ""
 msgid "name_quest_2401"
 msgstr "Wilde Lebenskraft"
 
+#, fuzzy
 msgid "short_desc_quest_2401"
 msgstr "Sammle zwei Einheiten wilder Lebenskraft."
 
+#, fuzzy
 msgid "start_text_quest_2401"
 msgstr ""
 "Unsere Pfadfinder haben ein Nölllager östlich von hier im Jahr {$j10} "
@@ -51394,9 +51710,11 @@ msgstr ""
 msgid "name_quest_2457"
 msgstr "Kampfmagier"
 
+#, fuzzy
 msgid "short_desc_quest_2457"
 msgstr "Liefern Sie einen Brief an Urzok den Ratsmitglied."
 
+#, fuzzy
 msgid "start_text_quest_2457"
 msgstr ""
 "Wir haben genug Zutaten gesammelt, um die militärische Kampagne gegen die "
@@ -52815,16 +53133,27 @@ msgstr ""
 msgid "name_quest_2669"
 msgstr "Magische Zutaten in Silverley"
 
+#, fuzzy
 msgid "short_desc_quest_2669"
 msgstr "Sammle vier Koboldknochen."
 
+#, fuzzy
 msgid "start_text_quest_2669"
 msgstr ""
-"Hier im Jahr {$v18} fertigen wir viele der magischen Waffen, die von der Mercian Armee geführt werden, und deshalb brauchen wir eine ständige Versorgung mit Zutaten, die in der Kunst des Verzauberns verwendet werden.  Wie Sie vielleicht wissen, haben bestimmte Monsterteile Eigenschaften, die sie für die Herstellung magischer Gegenstände nützlich machen. \r\n"
+"Hier im Jahr {$v18} fertigen wir viele der magischen Waffen, die von der "
+"Mercian Armee geführt werden, und deshalb brauchen wir eine ständige "
+"Versorgung mit Zutaten, die in der Kunst des Verzauberns verwendet werden.  "
+"Wie Sie vielleicht wissen, haben bestimmte Monsterteile Eigenschaften, die "
+"sie für die Herstellung magischer Gegenstände nützlich machen. \r\n"
 "\r\n"
-"Im Nordosten von hier, zwischen den sumpfigen Gewässern und den Ruinen einer längst vergessenen Rasse, haben viele Monster Zuflucht gefunden. Unter diesen scheint es, dass die niedrigen und verachtenswerten Kobolde sich ruhig gut angepasst haben und sogar ein paar Lager eingerichtet haben.\r\n"
+"Im Nordosten von hier, zwischen den sumpfigen Gewässern und den Ruinen einer "
+"längst vergessenen Rasse, haben viele Monster Zuflucht gefunden. Unter "
+"diesen scheint es, dass die niedrigen und verachtenswerten Kobolde sich "
+"ruhig gut angepasst haben und sogar ein paar Lager eingerichtet haben.\r\n"
 "\r\n"
-"Glücklicherweise enthalten Kobolds Teile, die von erfahrenen Magesmiths in magische Verzauberungen verwandelt werden können. Ich möchte, dass Sie vier Koboldknochen für die Verwendung in unseren arkanen Schmieden ernten."
+"Glücklicherweise enthalten Kobolds Teile, die von erfahrenen Magesmiths in "
+"magische Verzauberungen verwandelt werden können. Ich möchte, dass Sie vier "
+"Koboldknochen für die Verwendung in unseren arkanen Schmieden ernten."
 
 msgid "name_quest_2671"
 msgstr "Schlaue Trolle in Silbersilien"
@@ -53846,17 +54175,23 @@ msgstr ""
 "\r\n"
 "Wenn Sie Ihre Mahlzeit erfolgreich gekocht haben, kehren Sie mit dem gekochten Kabeljau zu mir zurück."
 
+#, fuzzy
 msgid "name_quest_2795"
 msgstr "Caravan-Bericht für Andor-kai"
 
+#, fuzzy
 msgid "short_desc_quest_2795"
 msgstr "Bericht an Andor-kai den Councillor."
 
+#, fuzzy
 msgid "start_text_quest_2795"
 msgstr ""
-"Während du weg warst, um Fisch zu fangen und zu kochen, erhielt ich die Nachricht, dass unsere Karawanen gesichtet wurden und jetzt sicher auf dem Weg zum Hunter's Moon sind. \r\n"
+"Während du weg warst, um Fisch zu fangen und zu kochen, erhielt ich die "
+"Nachricht, dass unsere Karawanen gesichtet wurden und jetzt sicher auf dem "
+"Weg zum Hunter's Moon sind. \r\n"
 "\r\n"
-"#PlayerName#, wenn Sie können, melden Sie bitte diese Nachricht Andor-kai dem Ratsmitglied."
+"#PlayerName#, wenn Sie können, melden Sie bitte diese Nachricht Andor-kai "
+"dem Ratsmitglied."
 
 msgid "name_quest_2797"
 msgstr "Karawanen verspätet in Silberspeer"
@@ -55430,16 +55765,33 @@ msgstr ""
 msgid "name_quest_3010"
 msgstr "Diese geheimnisvollen Wächter"
 
+#, fuzzy
 msgid "short_desc_quest_3010"
 msgstr "Sammle ein Menhir Herz."
 
+#, fuzzy
 msgid "start_text_quest_3010"
 msgstr ""
-"Eine seltene Gelegenheit wurde uns gegeben. Ein wenig östlich von hier gibt es einen See mit einer kleinen Insel in der Mitte. Auf der Insel befindet sich ein Steinkreis, möglicherweise eine alte heilige Stätte, die seit langem verlassen ist. Was interessant ist, ist das Erscheinen von menhir Hütern auf der Insel. \r\n"
+"Eine seltene Gelegenheit wurde uns gegeben. Ein wenig östlich von hier gibt "
+"es einen See mit einer kleinen Insel in der Mitte. Auf der Insel befindet "
+"sich ein Steinkreis, möglicherweise eine alte heilige Stätte, die seit "
+"langem verlassen ist. Was interessant ist, ist das Erscheinen von menhir "
+"Hütern auf der Insel. \r\n"
 "\r\n"
-"Wir glauben, dass die menhir, die auf der Insel erschienen sind, entweder gekommen sind, um diese alte Stätte zu bewachen, oder möglicherweise von den verbleibenden Spuren heiliger Magie angezogen werden, die an solchen Orten verbleiben. Was auch immer der Grund ist, es ist eine seltene Gelegenheit, diese mysteriösen Kreaturen zu studieren. Ich möchte, dass Sie zu der alten heiligen Stätte auf der Insel gehen und von den menhir Hütern ein menhir Herz ernten. Einer wird genug für unsere Forscher sein, um Experimente durchzuführen und so viel wie möglich über diese mysteriösen Wächter zu erfahren.\r\n"
+"Wir glauben, dass die menhir, die auf der Insel erschienen sind, entweder "
+"gekommen sind, um diese alte Stätte zu bewachen, oder möglicherweise von den "
+"verbleibenden Spuren heiliger Magie angezogen werden, die an solchen Orten "
+"verbleiben. Was auch immer der Grund ist, es ist eine seltene Gelegenheit, "
+"diese mysteriösen Kreaturen zu studieren. Ich möchte, dass Sie zu der alten "
+"heiligen Stätte auf der Insel gehen und von den menhir Hütern ein menhir "
+"Herz ernten. Einer wird genug für unsere Forscher sein, um Experimente "
+"durchzuführen und so viel wie möglich über diese mysteriösen Wächter zu "
+"erfahren.\r\n"
 "\r\n"
-"Ich verstehe, dass dies eine sehr gefährliche Aufgabe ist, um die ich bitte, aber es gibt keine Eile. Nur wenn Sie sich sicher genug fühlen, sollten Sie diese Mission übernehmen. Bring mir ein menhir Herz, und du wirst gut belohnt werden."
+"Ich verstehe, dass dies eine sehr gefährliche Aufgabe ist, um die ich bitte, "
+"aber es gibt keine Eile. Nur wenn Sie sich sicher genug fühlen, sollten Sie "
+"diese Mission übernehmen. Bring mir ein menhir Herz, und du wirst gut "
+"belohnt werden."
 
 msgid "name_quest_3012"
 msgstr "Schwer fassbare Katharer"
@@ -55455,19 +55807,32 @@ msgstr ""
 "\r\n"
 "Ich möchte, dass Sie nach Amurranyr reisen, wo sich die Ältesten der Red Moon befinden, und Levynna dem Arkanisten berichten. Sagen Sie hier, dass ich Sie über die Akathars und die Dim Stormrunes geschickt habe."
 
+#, fuzzy
 msgid "name_quest_3014"
 msgstr "Dim Stormrunes für Celetia"
 
+#, fuzzy
 msgid "short_desc_quest_3014"
 msgstr "Sammeln Sie drei Dim Stormrunes."
 
+#, fuzzy
 msgid "start_text_quest_3014"
 msgstr ""
-"Vor einiger Zeit hatten wir eine Liste von Circle of Neith erhalten, eine Liste mit seltenen Kreaturen. Wenn wir jemals eine dieser Kreaturen entdecken sollten, sollte sofort ein Bericht an den Kreis von Neith geschickt werden, um sie zu informieren. Und so ist es mit den Akathar Sichtungen südlich von hier in der Orzma-Seeregion.\r\n"
+"Vor einiger Zeit hatten wir eine Liste von Circle of Neith erhalten, eine "
+"Liste mit seltenen Kreaturen. Wenn wir jemals eine dieser Kreaturen "
+"entdecken sollten, sollte sofort ein Bericht an den Kreis von Neith "
+"geschickt werden, um sie zu informieren. Und so ist es mit den Akathar "
+"Sichtungen südlich von hier in der Orzma-Seeregion.\r\n"
 "\r\n"
-"Soweit ich weiß, möchte Celetia die Weiße des Kreises von Neith, dass jemand Dim Stormrunes von den Akathars erntet. Es braucht nicht viel, um zu verstehen, dass du derjenige sein wirst, der die Akathars finden und die Dim Stormrunes ernten muss. Drei Dim Stormrunes sollten für den Circle of Neith ausreichen. \r\n"
+"Soweit ich weiß, möchte Celetia die Weiße des Kreises von Neith, dass jemand "
+"Dim Stormrunes von den Akathars erntet. Es braucht nicht viel, um zu "
+"verstehen, dass du derjenige sein wirst, der die Akathars finden und die Dim "
+"Stormrunes ernten muss. Drei Dim Stormrunes sollten für den Circle of Neith "
+"ausreichen. \r\n"
 "\r\n"
-"Ich werde auf eurer Karte markieren, wo die Akathars zuletzt gesehen wurden. Sobald Sie die drei Dim Stormrunes geerntet haben, liefern Sie sie direkt an Celetia die Weiße in Moonclaw."
+"Ich werde auf eurer Karte markieren, wo die Akathars zuletzt gesehen wurden. "
+"Sobald Sie die drei Dim Stormrunes geerntet haben, liefern Sie sie direkt an "
+"Celetia die Weiße in Moonclaw."
 
 msgid "name_quest_3017"
 msgstr "Schlechte Magie"
@@ -55688,16 +56053,27 @@ msgstr ""
 msgid "name_quest_3047"
 msgstr "Zähne des Tieres"
 
+#, fuzzy
 msgid "short_desc_quest_3047"
 msgstr "Sammle drei Beastman Zähne."
 
+#, fuzzy
 msgid "start_text_quest_3047"
 msgstr ""
-"Vielen Dank, dass Sie die Troll Blood und Hag Hearts gesammelt haben, die ich zuvor angefordert hatte. Sie werden bald von meinen Mitmagiern genutzt und magische Gegenstände erschaffen. Aber es gibt noch eine weitere Zutat, die wir brauchen. Diesen zu sammeln, wird eine sehr gefährliche Aufgabe sein. Die Zutat ist Beastman Tooth. \r\n"
+"Vielen Dank, dass Sie die Troll Blood und Hag Hearts gesammelt haben, die "
+"ich zuvor angefordert hatte. Sie werden bald von meinen Mitmagiern genutzt "
+"und magische Gegenstände erschaffen. Aber es gibt noch eine weitere Zutat, "
+"die wir brauchen. Diesen zu sammeln, wird eine sehr gefährliche Aufgabe "
+"sein. Die Zutat ist Beastman Tooth. \r\n"
 "\r\n"
-"Das ist ein Beastman-Dorf östlich von hier in Lower Eredras, neben der Burg des einst mächtigen Zauberers Siledin, aber Sie werden auch mehr Beastman-Camps im Nordosten in Kaerdan finden, zwischen den Bergen.\r\n"
+"Das ist ein Beastman-Dorf östlich von hier in Lower Eredras, neben der Burg "
+"des einst mächtigen Zauberers Siledin, aber Sie werden auch mehr Beastman-"
+"Camps im Nordosten in Kaerdan finden, zwischen den Bergen.\r\n"
 "\r\n"
-"Beastmen sind einer unserer alten und am meisten gehassten Feinde. Nicht so gehasst wie die alfar, aber gehasst genug, dass jede Entschuldigung, Beastmen zu töten, immer willkommen ist. Ich möchte, dass du für mich drei Beastman-Zähne erntest."
+"Beastmen sind einer unserer alten und am meisten gehassten Feinde. Nicht so "
+"gehasst wie die alfar, aber gehasst genug, dass jede Entschuldigung, "
+"Beastmen zu töten, immer willkommen ist. Ich möchte, dass du für mich drei "
+"Beastman-Zähne erntest."
 
 msgid "name_quest_3049"
 msgstr "Zwischen Magiern"
@@ -56326,17 +56702,23 @@ msgstr ""
 "\r\n"
 "#PlayerName#, ich möchte, dass Sie die alfar jagen und uns helfen, diese schmutzige Präsenz zu befreien oder zu landen. Töte fünf alfar, bevor vier Stunden vergangen sind."
 
+#, fuzzy
 msgid "name_quest_3141"
 msgstr "Galien Der Kämpfer"
 
+#, fuzzy
 msgid "short_desc_quest_3141"
 msgstr "Bericht an Galien der Kämpfer."
 
+#, fuzzy
 msgid "start_text_quest_3141"
 msgstr ""
-"Es scheint, dass Ihr Erfolg im Umgang mit dem mahirim nicht unbemerkt blieb. Galein, der einer der besten Krieger von Charybdis ist, hat die Bitte, dich zu treffen.\r\n"
+"Es scheint, dass Ihr Erfolg im Umgang mit dem mahirim nicht unbemerkt blieb. "
+"Galein, der einer der besten Krieger von Charybdis ist, hat die Bitte, dich "
+"zu treffen.\r\n"
 "\r\n"
-"Warum gehst du nicht und melde dich bei Galien. Ich bin auch gespannt, welche herausforderung er für sie vorhat."
+"Warum gehst du nicht und melde dich bei Galien. Ich bin auch gespannt, "
+"welche herausforderung er für sie vorhat."
 
 msgid "name_quest_3143"
 msgstr "Jagd Alfar ist gut"
@@ -56428,19 +56810,36 @@ msgstr ""
 "\r\n"
 "Es ist Zeit für Sie, mir alles zu beweisen, was der Ratsmitglied Allan gesagt hat. Dass Sie #PlayerName# ein sehr fähiger und einfallsreicher Mensch und ein sehr loyaler Verbündeter sind. Ich möchte, dass ihr fünf ork jagt, bevor vier Stunden vergangen sind. Verwalten Sie diese Leistung für mich, und Sie werden gut belohnt."
 
+#, fuzzy
 msgid "name_quest_3155"
 msgstr "Galien Der Superb"
 
+#, fuzzy
 msgid "short_desc_quest_3155"
 msgstr "Bericht an Galien der Kämpfer in Charybris."
 
+#, fuzzy
 msgid "start_text_quest_3155"
 msgstr ""
-"Mirdain, Mensch und Zwerge sind die drei Rassen, aus denen sich die Allianz zusammensetzt. Innerhalb dieser Allianz habe ich viele interessante Leute getroffen und viele gute Freunde gefunden. Gute Freunde wie Galien, ein mirdain-Kämpfer, der den besten Kämpfern in der gesamten Allianz standhalten kann. Seine Kampfkünste sind außergewöhnlich, seine Genauigkeit mit dem Bogen ist legendär und seine Loyalität zu seiner Rasse und der Allianz ist unübertroffen.\r\n"
+"Mirdain, Mensch und Zwerge sind die drei Rassen, aus denen sich die Allianz "
+"zusammensetzt. Innerhalb dieser Allianz habe ich viele interessante Leute "
+"getroffen und viele gute Freunde gefunden. Gute Freunde wie Galien, ein "
+"mirdain-Kämpfer, der den besten Kämpfern in der gesamten Allianz standhalten "
+"kann. Seine Kampfkünste sind außergewöhnlich, seine Genauigkeit mit dem "
+"Bogen ist legendär und seine Loyalität zu seiner Rasse und der Allianz ist "
+"unübertroffen.\r\n"
 "\r\n"
-"Galien ist immer daran interessiert, tapfere Krieger wie Sie selbst zu treffen und sie auf die Probe zu stellen.  Wenn Ihr Weg Sie jemals in die Nähe des Mirendil-Waldes, der Heimat der mirdain, bringt, empfehle ich Ihnen, Galien zu besuchen.\r\n"
+"Galien ist immer daran interessiert, tapfere Krieger wie Sie selbst zu "
+"treffen und sie auf die Probe zu stellen.  Wenn Ihr Weg Sie jemals in die "
+"Nähe des Mirendil-Waldes, der Heimat der mirdain, bringt, empfehle ich "
+"Ihnen, Galien zu besuchen.\r\n"
 "\r\n"
-"Galien befindet sich in der mirdain Hauptstadt von Charybdis, einer wunderschönen Stadt im Herzen des alten Miredil Waldes. Der Besuch von Charybdis ist immer eine Belohnung für sich. Ich werde auf Ihrer Karte markieren, wo Sie Galien finden können, wenn Sie sich entscheiden, jemals Charybdis zu besuchen und von einem der erfahrensten Kämpfer der Allianz auf die Probe gestellt zu werden."
+"Galien befindet sich in der mirdain Hauptstadt von Charybdis, einer "
+"wunderschönen Stadt im Herzen des alten Miredil Waldes. Der Besuch von "
+"Charybdis ist immer eine Belohnung für sich. Ich werde auf Ihrer Karte "
+"markieren, wo Sie Galien finden können, wenn Sie sich entscheiden, jemals "
+"Charybdis zu besuchen und von einem der erfahrensten Kämpfer der Allianz auf "
+"die Probe gestellt zu werden."
 
 msgid "name_quest_3157"
 msgstr "Wilde und gewalttätige"
@@ -56521,6 +56920,7 @@ msgstr ""
 msgid "name_quest_3167"
 msgstr "Zurück zu Flaming Skull"
 
+#, fuzzy
 msgid "short_desc_quest_3167"
 msgstr "Bericht an Aksmaster der Kämpfer in Flaming Skull."
 
@@ -56562,17 +56962,25 @@ msgstr ""
 "\r\n"
 "#PlayerName#, ich möchte, dass du gehst und fünf alfar jagt, bevor vier Stunden vergangen sind. Erfolgreich, und Sie werden gut belohnt."
 
+#, fuzzy
 msgid "name_quest_3173"
 msgstr "Aksmaster Der Kämpfer"
 
+#, fuzzy
 msgid "short_desc_quest_3173"
 msgstr "Bericht an Aksmaster der Kämpfer."
 
+#, fuzzy
 msgid "start_text_quest_3173"
 msgstr ""
-"Es scheint, dass Ihr Erfolg im Umgang mit dem alfar und den Menschen nicht unbemerkt geblieben ist. Es gibt viele, die bereits über Sie sprechen, und unter ihnen ist Aksmaster der Kämpfer, der einer der besten Krieger in Flaming Skull und ein Mitglied der Kämpfergilde ist. Er hat darum gebeten, dich zu treffen.\r\n"
+"Es scheint, dass Ihr Erfolg im Umgang mit dem alfar und den Menschen nicht "
+"unbemerkt geblieben ist. Es gibt viele, die bereits über Sie sprechen, und "
+"unter ihnen ist Aksmaster der Kämpfer, der einer der besten Krieger in "
+"Flaming Skull und ein Mitglied der Kämpfergilde ist. Er hat darum gebeten, "
+"dich zu treffen.\r\n"
 "\r\n"
-"Gehe Bericht an Aksmaster der Kämpfer. Es ist nicht so oft, dass jemand seine Aufmerksamkeit auf sich zieht."
+"Gehe Bericht an Aksmaster der Kämpfer. Es ist nicht so oft, dass jemand "
+"seine Aufmerksamkeit auf sich zieht."
 
 msgid "name_quest_3175"
 msgstr "Ein hartes kleines Rennen"
@@ -56653,14 +57061,20 @@ msgstr ""
 msgid "name_quest_3185"
 msgstr "Ein Zauberspruch fast abgeschlossen"
 
+#, fuzzy
 msgid "short_desc_quest_3185"
 msgstr "Sammeln Sie sechs Sarlid Bile."
 
+#, fuzzy
 msgid "start_text_quest_3185"
 msgstr ""
-"Ich habe einen neuen Zauber erforscht, zusammen mit meinem lieben Freund Elena, dem Magier der Söhne von Riada. Leider bin ich zu einem Punkt gekommen, an dem ich den Zauber vervollständigen kann, ich brauche eine Zutat, und das ist die Sarlid Bile. Ich glaube, Sie können mir helfen. \r\n"
+"Ich habe einen neuen Zauber erforscht, zusammen mit meinem lieben Freund "
+"Elena, dem Magier der Söhne von Riada. Leider bin ich zu einem Punkt "
+"gekommen, an dem ich den Zauber vervollständigen kann, ich brauche eine "
+"Zutat, und das ist die Sarlid Bile. Ich glaube, Sie können mir helfen. \r\n"
 "\r\n"
-"Sie könnten für mich Six Sarlid Bile von der Arthain sammeln, die in Issanhal im Südwesten von hier zu finden ist."
+"Sie könnten für mich Six Sarlid Bile von der Arthain sammeln, die in "
+"Issanhal im Südwesten von hier zu finden ist."
 
 msgid "name_quest_3187"
 msgstr "Zutaten nicht leicht zu finden"
@@ -56822,14 +57236,19 @@ msgstr ""
 msgid "name_quest_3212"
 msgstr "Sümpfe zerschneiden"
 
+#, fuzzy
 msgid "short_desc_quest_3212"
 msgstr "Sammle zwei Einheiten von Bile und zwei Hag Hearts."
 
+#, fuzzy
 msgid "start_text_quest_3212"
 msgstr ""
-"Meine gute Freundin Oona Fern von Silverley hat mich gefragt, ob ich ihre Zutaten aus den Swamp Hags ernten könnte, die in den Brockmoore Sümpfen leben, Zutaten, die für bezaubernde Waffen verwendet werden können. \r\n"
+"Meine gute Freundin Oona Fern von Silverley hat mich gefragt, ob ich ihre "
+"Zutaten aus den Swamp Hags ernten könnte, die in den Brockmoore Sümpfen "
+"leben, Zutaten, die für bezaubernde Waffen verwendet werden können. \r\n"
 "\r\n"
-"Ich möchte, dass Sie zwei Einheiten von Bile und zwei Hag Hearts von den Swamp Hags in Brockmoore sammeln."
+"Ich möchte, dass Sie zwei Einheiten von Bile und zwei Hag Hearts von den "
+"Swamp Hags in Brockmoore sammeln."
 
 msgid "name_quest_3214"
 msgstr "Nützliche Materialien"
@@ -56977,28 +57396,50 @@ msgstr ""
 msgid "name_quest_3238"
 msgstr "Mehr als nur ein Herz"
 
+#, fuzzy
 msgid "short_desc_quest_3238"
 msgstr "Sammle drei Hag Hearts."
 
+#, fuzzy
 msgid "start_text_quest_3238"
 msgstr ""
-"Viele sind die verzauberten Gegenstände, die hier in Emberhall von unseren Verzauberern hergestellt werden, und viele sind die Materialien, die verwendet werden, um diese Gegenstände zu schaffen. In ihrem Bemühen, diese verzauberten Waffen und Rüstungen zu schaffen, bevor unsere Verzauberer es wissen, haben sie normalerweise viele der benötigten Materialien ausgegangen.\r\n"
+"Viele sind die verzauberten Gegenstände, die hier in Emberhall von unseren "
+"Verzauberern hergestellt werden, und viele sind die Materialien, die "
+"verwendet werden, um diese Gegenstände zu schaffen. In ihrem Bemühen, diese "
+"verzauberten Waffen und Rüstungen zu schaffen, bevor unsere Verzauberer es "
+"wissen, haben sie normalerweise viele der benötigten Materialien "
+"ausgegangen.\r\n"
 "\r\n"
-"Wie es passiert, habe ich hier eine liste von zutaten, die unsere verzauberer angefordert haben. Zunächst einmal braucht einer unserer Verzauberer drei Hag Hearts. Hag-Herzen können aus Nachthags geerntet werden, wie sie in den {$v11} Sumpfgebieten zu finden sind. Ich möchte, dass du gehst und drei Hag Hearts von den Night Hags in {$v11} sammelst."
+"Wie es passiert, habe ich hier eine liste von zutaten, die unsere "
+"verzauberer angefordert haben. Zunächst einmal braucht einer unserer "
+"Verzauberer drei Hag Hearts. Hag-Herzen können aus Nachthags geerntet "
+"werden, wie sie in den {$v11} Sumpfgebieten zu finden sind. Ich möchte, dass "
+"du gehst und drei Hag Hearts von den Night Hags in {$v11} sammelst."
 
 msgid "name_quest_3240"
 msgstr "Gift der Iklits"
 
+#, fuzzy
 msgid "short_desc_quest_3240"
 msgstr "Sammeln Sie zwei Iklit Venom Sacs."
 
+#, fuzzy
 msgid "start_text_quest_3240"
 msgstr ""
-"Viele seltsame Kreaturen sind in Agon gefunden. Aber nur sehr wenige so seltsam und bizarr wie die iklits. Diese insektenähnlichen Kreaturen sind bei Begegnungen in Gruppen extrem gefährlich. Dies liegt daran, dass die iklits gemeinschaftliche geiste teilen, und diese bindung ermöglicht es iklit gruppen, so zu handeln, als ob ein überlegener einzelner geist sie kontrolliert und koordiniert.\r\n"
+"Viele seltsame Kreaturen sind in Agon gefunden. Aber nur sehr wenige so "
+"seltsam und bizarr wie die iklits. Diese insektenähnlichen Kreaturen sind "
+"bei Begegnungen in Gruppen extrem gefährlich. Dies liegt daran, dass die "
+"iklits gemeinschaftliche geiste teilen, und diese bindung ermöglicht es "
+"iklit gruppen, so zu handeln, als ob ein überlegener einzelner geist sie "
+"kontrolliert und koordiniert.\r\n"
 "\r\n"
-"All das ist faszinierend, aber unsere Verzauberer sind mehr daran interessiert, wofür die Körper der Iklits geerntet werden können. Ein paar Zutaten können aus den Iklits geerntet werden, aber im Moment sind es die Giftsäcke, die wir brauchen.\r\n"
+"All das ist faszinierend, aber unsere Verzauberer sind mehr daran "
+"interessiert, wofür die Körper der Iklits geerntet werden können. Ein paar "
+"Zutaten können aus den Iklits geerntet werden, aber im Moment sind es die "
+"Giftsäcke, die wir brauchen.\r\n"
 "\r\n"
-"Ich möchte, dass Sie zwei Iklit Venom Sacs ernten. Iklits finden Sie in Azak Tuun, das nordwestlich von hier liegt."
+"Ich möchte, dass Sie zwei Iklit Venom Sacs ernten. Iklits finden Sie in Azak "
+"Tuun, das nordwestlich von hier liegt."
 
 msgid "name_quest_3242"
 msgstr "Einer der vielen Agenten"
@@ -57961,12 +58402,15 @@ msgstr ""
 "\r\n"
 "Also #PlayerName#, bist du bereit, den Titel von The Brawny zu beanspruchen?"
 
+#, fuzzy
 msgid "name_quest_3416"
 msgstr "Ellevan Titel belohnt"
 
+#, fuzzy
 msgid "short_desc_quest_3416"
 msgstr "Melden Sie an Ellevan den Kämpfer der Longclaw."
 
+#, fuzzy
 msgid "start_text_quest_3416"
 msgstr ""
 "Der Titel von The Brawny ist nur der erste der Kraftleistungstitel, die "
@@ -58255,12 +58699,15 @@ msgstr ""
 "\r\n"
 "Also #PlayerName#, bist du bereit, den Titel von The Brawny zu beanspruchen?"
 
+#, fuzzy
 msgid "name_quest_3456"
 msgstr "Thorgilis Titel belohnt"
 
+#, fuzzy
 msgid "short_desc_quest_3456"
 msgstr "Bericht an Thorgilis der Kämpfer der Stimme von Ymir."
 
+#, fuzzy
 msgid "start_text_quest_3456"
 msgstr ""
 "Der Titel von The Brawny ist nur der erste der Kraftleistungstitel, die "
@@ -58528,10 +58975,11 @@ msgstr ""
 msgid "name_quest_3494"
 msgstr "Ork Titel: der Brawny"
 
+#, fuzzy
 msgid "short_desc_quest_3494"
 msgstr ""
-"Kill 200 Goblin Scouts, 100 Goblin Fighters, 20 Goblin Shamans und 10 Goblin"
-" Warlords."
+"Kill 200 Goblin Scouts, 100 Goblin Fighters, 20 Goblin Shamans und 10 Goblin "
+"Warlords."
 
 msgid "start_text_quest_3494"
 msgstr ""
@@ -58839,12 +59287,15 @@ msgstr ""
 "\r\n"
 "Um den Titel The Clever zu erreichen, müssen Sie 200 Zombies, 100 Zombie Warriors und 20 Dire Zombies töten. #PlayerName#, sind Sie bereit, Ihre Dienstleistungen zu erbringen, während Sie einen Achievement-Titel erwerben?"
 
+#, fuzzy
 msgid "name_quest_3536"
 msgstr "Loesva Titel belohnt"
 
+#, fuzzy
 msgid "short_desc_quest_3536"
 msgstr "Melden Sie Loesva den Magier des Radiant Circle."
 
+#, fuzzy
 msgid "start_text_quest_3536"
 msgstr ""
 "Der Titel von The Clever ist nur der erste der Intelligenz-Leistungstitel, "
@@ -59016,12 +59467,15 @@ msgstr ""
 "\r\n"
 "Um den Titel The Clever zu erreichen, müssen Sie 200 Zombies, 100 Zombie Warriors und 20 Dire Zombies töten. #PlayerName#, sind Sie bereit, Ihre Dienstleistungen zu erbringen, während Sie einen Achievement-Titel erwerben?"
 
+#, fuzzy
 msgid "name_quest_3560"
 msgstr "Samalom-tai Titel belohnt"
 
+#, fuzzy
 msgid "short_desc_quest_3560"
 msgstr "Melden Sie Samalom-tai den Magier des Kreises von Neith."
 
+#, fuzzy
 msgid "start_text_quest_3560"
 msgstr ""
 "Der Titel von The Clever ist nur der erste der Intelligenz-Leistungstitel, "
@@ -59365,18 +59819,21 @@ msgstr ""
 "\r\n"
 "#PlayerName#, ich möchte, dass ihr zwei Elementarquarz aus den Erdelementaren in {$g11} sammelt."
 
+#, fuzzy
 msgid "name_quest_3611"
 msgstr "Lieferung für Samalon-tai"
 
+#, fuzzy
 msgid "short_desc_quest_3611"
 msgstr "Bericht an Samalon-tai."
 
+#, fuzzy
 msgid "start_text_quest_3611"
 msgstr ""
-"#PlayerName#, ich möchte, dass Sie dieses Paket hier an Samalon-tai liefern,"
-" das ich vorbereitet habe. Darin sind alle Zutaten, nach denen Samalon-tai "
-"gefragt hat, damit er die Entschlüsselung der alten Schriftrolle abschließen"
-" kann."
+"#PlayerName#, ich möchte, dass Sie dieses Paket hier an Samalon-tai liefern, "
+"das ich vorbereitet habe. Darin sind alle Zutaten, nach denen Samalon-tai "
+"gefragt hat, damit er die Entschlüsselung der alten Schriftrolle abschließen "
+"kann."
 
 msgid "name_quest_3614"
 msgstr "Der vermisste Gelehrte"
@@ -59631,16 +60088,31 @@ msgstr ""
 msgid "name_quest_3653"
 msgstr "Die Paranoide Arthain"
 
+#, fuzzy
 msgid "short_desc_quest_3653"
 msgstr "Sammeln Sie zwei Einheiten von Resonant Stormrunes."
 
+#, fuzzy
 msgid "start_text_quest_3653"
 msgstr ""
-"Die Resonanz Stormrune ist das letzte Material, das benötigt wird, um den Orb of Disease zu zerstören. Wie bei den vorherigen Materialien, die Sie gesammelt haben, können Resonant Stormrunes aus den Körpern mächtiger Kreaturen geerntet werden. Leider für uns, eine der wenigen Kreaturen, die für Resonant Stormrunes geerntet werden können, sind die arthain. \r\n"
+"Die Resonanz Stormrune ist das letzte Material, das benötigt wird, um den "
+"Orb of Disease zu zerstören. Wie bei den vorherigen Materialien, die Sie "
+"gesammelt haben, können Resonant Stormrunes aus den Körpern mächtiger "
+"Kreaturen geerntet werden. Leider für uns, eine der wenigen Kreaturen, die "
+"für Resonant Stormrunes geerntet werden können, sind die arthain. \r\n"
 "\r\n"
-"Die arthain sind eine paranoide und hasserfüllte Rasse, die alle Außenseiter als wenig mehr als nekromantischen Rohstoff sehen. Die arthain waren einst eine friedliche und zivilisierte Rasse, aber als sie die Fähigkeit zur Fortpflanzung verloren, griffen sie darauf zurück, ihr Leben zu verlängern, indem sie eine Kombination aus Fleischherstellung und Nekromantie verwendeten. Die Verwendung dieser nekromantischen Methoden über Jahrhunderte hat die arthain-Gesellschaft in den degradierten Zustand getrieben, in dem sie heute ist. Die arthain gelten weiterhin als extrem gefährlich und behalten viele ihrer Zaubereifähigkeiten bei.\r\n"
+"Die arthain sind eine paranoide und hasserfüllte Rasse, die alle Außenseiter "
+"als wenig mehr als nekromantischen Rohstoff sehen. Die arthain waren einst "
+"eine friedliche und zivilisierte Rasse, aber als sie die Fähigkeit zur "
+"Fortpflanzung verloren, griffen sie darauf zurück, ihr Leben zu verlängern, "
+"indem sie eine Kombination aus Fleischherstellung und Nekromantie "
+"verwendeten. Die Verwendung dieser nekromantischen Methoden über "
+"Jahrhunderte hat die arthain-Gesellschaft in den degradierten Zustand "
+"getrieben, in dem sie heute ist. Die arthain gelten weiterhin als extrem "
+"gefährlich und behalten viele ihrer Zaubereifähigkeiten bei.\r\n"
 "\r\n"
-"Im Süden von hier in {$j21} finden Sie Gruppen von arthian. Ich möchte, dass ihr für mich zwei Einheiten von Resonant Stormrunes sammelt."
+"Im Süden von hier in {$j21} finden Sie Gruppen von arthian. Ich möchte, dass "
+"ihr für mich zwei Einheiten von Resonant Stormrunes sammelt."
 
 msgid "name_quest_3655"
 msgstr "Zerstörung der Orb"
@@ -60179,13 +60651,25 @@ msgstr "Delian Bogenschießen Test"
 msgid "short_desc_quest_3752"
 msgstr "Score zwanzig erfolgreiche Bogenschießen Angriffe gegen die Goblins."
 
+#, fuzzy
 msgid "start_text_quest_3752"
 msgstr ""
-"Vielen Dank, dass Sie diese Pfeile und Bögen gesammelt haben. Sie werden auf jeden Fall von unseren jungen Trainee Bogenschützen gut genutzt werden.\r\n"
+"Vielen Dank, dass Sie diese Pfeile und Bögen gesammelt haben. Sie werden auf "
+"jeden Fall von unseren jungen Trainee Bogenschützen gut genutzt werden.\r\n"
 "\r\n"
-"Bogenschießen ist ein wichtiger Teil des Kampfes, sei es Angriff oder Verteidigung. Beim Angriff hat derjenige, der in der Kunst des Bogenschießens gut ausgebildet ist, einen großen Vorteil gegenüber seinem Gegner. Er kann viele Angriffe gegen seinen Gegner bewältigen, bevor er sein Schwert ziehen und sich in einen Hand-zu-Hand-Kampf stellen muss. Aber es ist auch eine der besten Möglichkeiten, eine Stadt oder Stadt hinter der Abdeckung ihrer starken festen Mauern zu verteidigen.\r\n"
+"Bogenschießen ist ein wichtiger Teil des Kampfes, sei es Angriff oder "
+"Verteidigung. Beim Angriff hat derjenige, der in der Kunst des "
+"Bogenschießens gut ausgebildet ist, einen großen Vorteil gegenüber seinem "
+"Gegner. Er kann viele Angriffe gegen seinen Gegner bewältigen, bevor er sein "
+"Schwert ziehen und sich in einen Hand-zu-Hand-Kampf stellen muss. Aber es "
+"ist auch eine der besten Möglichkeiten, eine Stadt oder Stadt hinter der "
+"Abdeckung ihrer starken festen Mauern zu verteidigen.\r\n"
 "\r\n"
-"#PlayerName#, möchten Sie in der Kunst des Bogenschießens getestet werden? Ich würde sehr gerne Ihre Fähigkeiten mit dem Bogen sehen. Wenn Sie einverstanden sind, habe ich einen kleinen Test für Sie. Ich möchte, dass Sie zwanzig erfolgreiche Treffer gegen die Goblins nur mit Bogenschießen erzielen. Schlage zwanzig Goblins zehnmal mit deinen Pfeilen."
+"#PlayerName#, möchten Sie in der Kunst des Bogenschießens getestet werden? "
+"Ich würde sehr gerne Ihre Fähigkeiten mit dem Bogen sehen. Wenn Sie "
+"einverstanden sind, habe ich einen kleinen Test für Sie. Ich möchte, dass "
+"Sie zwanzig erfolgreiche Treffer gegen die Goblins nur mit Bogenschießen "
+"erzielen. Schlage zwanzig Goblins zehnmal mit deinen Pfeilen."
 
 msgid "name_quest_3754"
 msgstr "Jagd auf {$h19}"
@@ -60905,19 +61389,32 @@ msgstr ""
 "\r\n"
 "Kann ich mich also darauf verlassen, dass Sie dieses Paket liefern? Sie finden Kulgarash den Kaufmann im Westen-Südwesten von hier, in {$u14}."
 
+#, fuzzy
 msgid "name_quest_3873"
 msgstr "Akzar Der Kaufmann"
 
+#, fuzzy
 msgid "short_desc_quest_3873"
 msgstr "Holen Sie sich den Handelsbericht Brief von Akzar der Händler."
 
+#, fuzzy
 msgid "start_text_quest_3873"
 msgstr ""
-"Ich brauche jemanden, der nach {$u12} reist und Akzar den Händler meldet. Es ist über zwei Wochen her, als ich das letzte Mal einen Handelsberichtsbrief von ihr erhielt.\r\n"
+"Ich brauche jemanden, der nach {$u12} reist und Akzar den Händler meldet. Es "
+"ist über zwei Wochen her, als ich das letzte Mal einen Handelsberichtsbrief "
+"von ihr erhielt.\r\n"
 "\r\n"
-"Einmal pro Woche, normalerweise gegen Ende der Woche, senden die Händler, die an verschiedenen Handelsposten gepostet sind, einen Berichtbrief darüber, wie sich der Handel in der Region entwickelt hat. Die Berichte sind für den Handel von entscheidender Bedeutung, da sie eine der wenigen Möglichkeiten sind, den Überblick darüber zu behalten, welche Waren verkauft werden und was nicht. \r\n"
+"Einmal pro Woche, normalerweise gegen Ende der Woche, senden die Händler, "
+"die an verschiedenen Handelsposten gepostet sind, einen Berichtbrief "
+"darüber, wie sich der Handel in der Region entwickelt hat. Die Berichte sind "
+"für den Handel von entscheidender Bedeutung, da sie eine der wenigen "
+"Möglichkeiten sind, den Überblick darüber zu behalten, welche Waren verkauft "
+"werden und was nicht. \r\n"
 "\r\n"
-"Ich möchte, dass sie nach {$u12} reisen und diesen berichtsbrief von Akzar erhalten. Sie erhalten Ihre Zahlung, wenn Sie mit dem Berichtsschreiben zu mir zurückkehren. Sie finden Akzar den Kaufmann im Norden von hier, in {$u12}."
+"Ich möchte, dass sie nach {$u12} reisen und diesen berichtsbrief von Akzar "
+"erhalten. Sie erhalten Ihre Zahlung, wenn Sie mit dem Berichtsschreiben zu "
+"mir zurückkehren. Sie finden Akzar den Kaufmann im Norden von hier, in {$u12}"
+"."
 
 msgid "name_quest_3875"
 msgstr "Jagd auf Thora"
@@ -61401,11 +61898,25 @@ msgstr "Das Buch der alten Magie"
 msgid "short_desc_quest_3974"
 msgstr "Holen Sie sich das Buch der alten Magie für Valseri den Magier."
 
+#, fuzzy
 msgid "start_text_quest_3974"
 msgstr ""
-"Ich habe versucht, eine alte Schriftrolle zu entschlüsseln, die ein Entdecker in der Nähe der Ruinen in Inorgal gefunden hat, aber bisher hatte ich sehr wenig Erfolg. Ich bin durch unsere Bibliotheken gegangen, kann aber keine ähnlichen Texte finden, die mit denen auf dieser alten Schriftrolle übereinstimmen. Ich werde das Buch der alten Magie brauchen, wenn ich verstehen will, was genau in dieser Schriftrolle geschrieben steht.\r\n"
+"Ich habe versucht, eine alte Schriftrolle zu entschlüsseln, die ein "
+"Entdecker in der Nähe der Ruinen in Inorgal gefunden hat, aber bisher hatte "
+"ich sehr wenig Erfolg. Ich bin durch unsere Bibliotheken gegangen, kann aber "
+"keine ähnlichen Texte finden, die mit denen auf dieser alten Schriftrolle "
+"übereinstimmen. Ich werde das Buch der alten Magie brauchen, wenn ich "
+"verstehen will, was genau in dieser Schriftrolle geschrieben steht.\r\n"
 "\r\n"
-"Es gibt eine Kopie des Buches der alten Magie, die ich kenne, und sie befindet sich in den Bibliotheken des Radiant Circle. #PlayerName#, würdest du mir den Gefallen tun und Dun Amsharra zum Radiant Circle gehen und mir dieses Buch bringen? Ich habe einen Brief vorbereitet, den ich möchte, dass Sie Loevsa dem Magier des Strahlenden Kreises übergeben und erklären, warum ich das Buch brauche. Alles, was Sie tun müssen, ist, diesen Brief an Loevsa zu übergeben und das Buch der alten Magie zurückzubringen. Der Radiant Circle liegt von hier aus südwestlich. Ich werde auch die Position von Loevsa auf Ihrer Karte markieren."
+"Es gibt eine Kopie des Buches der alten Magie, die ich kenne, und sie "
+"befindet sich in den Bibliotheken des Radiant Circle. #PlayerName#, würdest "
+"du mir den Gefallen tun und Dun Amsharra zum Radiant Circle gehen und mir "
+"dieses Buch bringen? Ich habe einen Brief vorbereitet, den ich möchte, dass "
+"Sie Loevsa dem Magier des Strahlenden Kreises übergeben und erklären, warum "
+"ich das Buch brauche. Alles, was Sie tun müssen, ist, diesen Brief an Loevsa "
+"zu übergeben und das Buch der alten Magie zurückzubringen. Der Radiant "
+"Circle liegt von hier aus südwestlich. Ich werde auch die Position von "
+"Loevsa auf Ihrer Karte markieren."
 
 msgid "name_quest_3976"
 msgstr "Eine Kiste für Ilrak"
@@ -61424,9 +61935,11 @@ msgstr ""
 msgid "name_quest_3979"
 msgstr "Seltsame Spinnerei"
 
+#, fuzzy
 msgid "short_desc_quest_3979"
 msgstr "Übergeben Sie Ilraks Schriftrolle an Haenli den Magier."
 
+#, fuzzy
 msgid "start_text_quest_3979"
 msgstr ""
 "#PlayerName#. Kannst du diese Schriftrolle zu meinem Freund Haenli, dem "
@@ -61617,9 +62130,11 @@ msgstr ""
 msgid "name_quest_4015"
 msgstr "Hilfe vom Magier"
 
+#, fuzzy
 msgid "short_desc_quest_4015"
 msgstr "Liefern Sie Eredils Schriftrolle an Ilith den Magier."
 
+#, fuzzy
 msgid "start_text_quest_4015"
 msgstr ""
 "#PlayerName#. Kannst du diese Schriftrolle zu meinem Freund Ilith, dem "
@@ -61724,6 +62239,7 @@ msgstr "Eine kleine, aber wichtige Box"
 msgid "short_desc_quest_4036"
 msgstr "Holen Sie sich eine Erste-Hilfe-Box für Amauron den Arkanisten."
 
+#, fuzzy
 msgid "start_text_quest_4036"
 msgstr ""
 "#PlayerName#, unsere Versorgung mit Erste-Hilfe-Ausrüstung ist knapp, und "
@@ -61737,23 +62253,28 @@ msgstr ""
 "liegt nordwestlich von Leenglow. Ich werde den Standort von Ymeron-tel auf "
 "Ihrer Karte markieren."
 
+#, fuzzy
 msgid "name_quest_4038"
 msgstr "Omandyr Arbeitstasche"
 
+#, fuzzy
 msgid "short_desc_quest_4038"
 msgstr "Bericht an Omandyr den Händler."
 
+#, fuzzy
 msgid "start_text_quest_4038"
 msgstr ""
 "Ich möchte, dass Sie diese Tasche an Omandyr den Händler liefern. Omandyr "
-"vergaß seine Tasche hier beim letzten Besuch bei mir. Von dem, was ich sehe,"
-" ist es voller notizen und dokumente, die für seine arbeit wichtig sind. "
+"vergaß seine Tasche hier beim letzten Besuch bei mir. Von dem, was ich sehe, "
+"ist es voller notizen und dokumente, die für seine arbeit wichtig sind. "
 "Beeilen Sie sich jetzt, da er Omandyr weiß, muss er verrückt werden, indem "
 "er jetzt nach dieser Tasche sucht."
 
+#, fuzzy
 msgid "name_quest_4041"
 msgstr "Omandyr Tools Liste"
 
+#, fuzzy
 msgid "short_desc_quest_4041"
 msgstr "Liefern Sie Omandyr's Tools List an Sa-Imdor the Blacksmith."
 
@@ -61798,11 +62319,25 @@ msgstr "Altes Wissen"
 msgid "short_desc_quest_4049"
 msgstr "Holen Sie sich das Buch der alten Magie für Livina den Magier."
 
+#, fuzzy
 msgid "start_text_quest_4049"
 msgstr ""
-"Ich habe versucht, eine alte Schriftrolle zu entschlüsseln, die ein Entdecker in der Nähe der Ruinen in Eyr Sarthain gefunden hat, aber bisher hatte ich sehr wenig Erfolg. Ich bin durch unsere Bibliotheken gegangen, kann aber keine ähnlichen Texte finden wie die auf dieser alten Schriftrolle. Ich werde das Buch der alten Magie brauchen, wenn ich diese alten Schriften verstehen will.\r\n"
+"Ich habe versucht, eine alte Schriftrolle zu entschlüsseln, die ein "
+"Entdecker in der Nähe der Ruinen in Eyr Sarthain gefunden hat, aber bisher "
+"hatte ich sehr wenig Erfolg. Ich bin durch unsere Bibliotheken gegangen, "
+"kann aber keine ähnlichen Texte finden wie die auf dieser alten "
+"Schriftrolle. Ich werde das Buch der alten Magie brauchen, wenn ich diese "
+"alten Schriften verstehen will.\r\n"
 "\r\n"
-"Es gibt eine Kopie des Buches der alten Magie, die ich kenne, und sie befindet sich in den Bibliotheken des Kreises von Neith. #PlayerName#, würdest du mir den Gefallen tun und Moonclaw zum Kreis von Neith gehen und mir dieses Buch bringen? Ich habe einen Brief vorbereitet, den ich möchte, dass Sie Samalon-tai dem Magier des Kreises von Neith übergeben und erklären, warum ich das Buch brauche. Alles, was Sie tun müssen, ist, diesen Brief an Samalon-tai zu übergeben und das Buch der alten Magie zurückzubringen. Der Circle of Neith befindet sich von hier aus im Westen. Ich markiere die Position von Samalon-tai auf Ihrer Karte."
+"Es gibt eine Kopie des Buches der alten Magie, die ich kenne, und sie "
+"befindet sich in den Bibliotheken des Kreises von Neith. #PlayerName#, "
+"würdest du mir den Gefallen tun und Moonclaw zum Kreis von Neith gehen und "
+"mir dieses Buch bringen? Ich habe einen Brief vorbereitet, den ich möchte, "
+"dass Sie Samalon-tai dem Magier des Kreises von Neith übergeben und "
+"erklären, warum ich das Buch brauche. Alles, was Sie tun müssen, ist, diesen "
+"Brief an Samalon-tai zu übergeben und das Buch der alten Magie "
+"zurückzubringen. Der Circle of Neith befindet sich von hier aus im Westen. "
+"Ich markiere die Position von Samalon-tai auf Ihrer Karte."
 
 msgid "name_quest_4051"
 msgstr "Eine Packung für Celen"
@@ -61863,11 +62398,21 @@ msgstr "Training ist nicht einfach"
 msgid "short_desc_quest_4062"
 msgstr "Holen Sie sich das Fighters Training Manual für Lymyan the Fighter."
 
+#, fuzzy
 msgid "start_text_quest_4062"
 msgstr ""
-"Die Ausbildung unserer neuen Rekruten schreitet gut voran, aber der Rat besteht darauf, dass ich die traditionellen Trainingsmethoden befolge. Es ist eine sehr lange Zeit her, seit ich das letzte Mal neue Kämpfer trainiert habe, und noch länger, seit ich das letzte Mal das Trainingshandbuch der Kämpfer gelesen habe. \r\n"
+"Die Ausbildung unserer neuen Rekruten schreitet gut voran, aber der Rat "
+"besteht darauf, dass ich die traditionellen Trainingsmethoden befolge. Es "
+"ist eine sehr lange Zeit her, seit ich das letzte Mal neue Kämpfer trainiert "
+"habe, und noch länger, seit ich das letzte Mal das Trainingshandbuch der "
+"Kämpfer gelesen habe. \r\n"
 "\r\n"
-"#PlayerName#, ich könnte deine Hilfe gebrauchen. Ich habe keine Kopie des Fighters Training Manual, und der Rat wird nicht erfreut sein, davon zu erfahren. Reise zu den Wolfsmasken in Nightspire und bitte Uranyr-kan den Kämpfer, dir seine Kopie des Fighters Training Manual zu geben. Ich werde seinen Standort auf Ihrer Karte markieren. Überprüfen Sie einfach Ost-Südosten des Mondes des Jägers"
+"#PlayerName#, ich könnte deine Hilfe gebrauchen. Ich habe keine Kopie des "
+"Fighters Training Manual, und der Rat wird nicht erfreut sein, davon zu "
+"erfahren. Reise zu den Wolfsmasken in Nightspire und bitte Uranyr-kan den "
+"Kämpfer, dir seine Kopie des Fighters Training Manual zu geben. Ich werde "
+"seinen Standort auf Ihrer Karte markieren. Überprüfen Sie einfach Ost-"
+"Südosten des Mondes des Jägers"
 
 msgid "name_quest_4064"
 msgstr "Bestellungen für Eikvangr"
@@ -61928,13 +62473,14 @@ msgstr "Jeder Mensch braucht Heilung"
 msgid "short_desc_quest_4075"
 msgstr "Holen Sie sich eine Erste-Hilfe-Box für Gormfinn den Arkanisten."
 
+#, fuzzy
 msgid "start_text_quest_4075"
 msgstr ""
 "#PlayerName#, unsere Versorgung mit Erste-Hilfe-Ausrüstung ist knapp, und "
-"ich habe Eikvangr dem Kämpfer versprochen, eine Box für ihn bereit zu haben."
-" Im Moment ist die einzige Person, an die ich denken kann, die eine "
-"zusätzliche Erste-Hilfe-Box haben könnte, Nidar der Arkanist der Five Beards"
-" Trading Company in Ringfain. Ich würde es begrüßen, wenn Sie nach Ringfain "
+"ich habe Eikvangr dem Kämpfer versprochen, eine Box für ihn bereit zu haben. "
+"Im Moment ist die einzige Person, an die ich denken kann, die eine "
+"zusätzliche Erste-Hilfe-Box haben könnte, Nidar der Arkanist der Five Beards "
+"Trading Company in Ringfain. Ich würde es begrüßen, wenn Sie nach Ringfain "
 "reisen und mir eine Erste-Hilfe-Box zurückbringen könnten. Ich habe bereits "
 "eine Notiz für Nidar geschrieben, also musst du nur die Notiz übergeben und "
 "dann die Erste-Hilfe-Box zu mir zurückbringen. Ringfain liegt nordöstlich "
@@ -62221,12 +62767,15 @@ msgstr ""
 "\r\n"
 "Es gibt eine Kopie des Buches der alten Magie, die ich kenne, und sie befindet sich in den Bibliotheken der Verteidiger des Sumpfes. #PlayerName#, tu mir den Gefallen und geh zu den Verteidigern des Sumpfes in Ondmark und bring mir dieses Buch. Ich habe einen Brief vorbereitet, den ich möchte, dass Sie Kruulor dem Magier der Verteidiger des Sumpfes übergeben und erklären, warum ich das Buch brauche. Alles, was Sie tun müssen, ist, diesen Brief an Kruulor zu übergeben und dann das Buch der alten Magie zurückzubringen. Die Verteidiger des Sumpfes befinden sich von hier aus südwestlich. Ich markiere die Position von Kruulor auf Ihrer Karte."
 
+#, fuzzy
 msgid "name_quest_4132"
 msgstr "Ein Paket für Dragonmaster"
 
+#, fuzzy
 msgid "short_desc_quest_4132"
 msgstr "Bericht an Dragonmaster the Arcanist."
 
+#, fuzzy
 msgid "start_text_quest_4132"
 msgstr ""
 "#PlayerName#, liefern Sie diese Holzkiste, die ich hier habe, an "
@@ -62238,6 +62787,7 @@ msgstr ""
 msgid "name_quest_4135"
 msgstr "Ein Job für einen Magier"
 
+#, fuzzy
 msgid "short_desc_quest_4135"
 msgstr "Liefern Sie Dragonmaster's Scroll an Bloodzkul The Mage."
 
@@ -63476,16 +64026,27 @@ msgstr ""
 msgid "name_quest_4349"
 msgstr "Die Schlangen von Grimclaw Island"
 
+#, fuzzy
 msgid "short_desc_quest_4349"
 msgstr "Sammeln Sie vier Einheiten von Snake Greenleaf."
 
+#, fuzzy
 msgid "start_text_quest_4349"
 msgstr ""
-"Fischer, die nach New Flayed Elf zurückkehrten, berichteten von der Sichtung seltsamer Kreaturen auf der kleinen Insel Grimclaw, die östlich von hier zu finden ist. Die Kreaturen wurden als fliegende Schlangen beschrieben, und nach genauerer Untersuchung Skullgor informierte der Magier den Rat, dass diese Kreaturen magische Kreaturen namens Sarnakh sind. \r\n"
+"Fischer, die nach New Flayed Elf zurückkehrten, berichteten von der Sichtung "
+"seltsamer Kreaturen auf der kleinen Insel Grimclaw, die östlich von hier zu "
+"finden ist. Die Kreaturen wurden als fliegende Schlangen beschrieben, und "
+"nach genauerer Untersuchung Skullgor informierte der Magier den Rat, dass "
+"diese Kreaturen magische Kreaturen namens Sarnakh sind. \r\n"
 "\r\n"
-"Es wurde festgestellt, dass die Sarnakh die kleine Insel nicht verlassen können und daher keine Bedrohung für New Flayed darstellen. Was genau die Sarnakh auf die Insel Grimclaw gebracht hat, ist ein Rätsel, aber wie Skullgor der Magier es ausgedrückt hat, ist es eine gute Gelegenheit, einige weitere bezaubernde Materialien zu sammeln.\r\n"
+"Es wurde festgestellt, dass die Sarnakh die kleine Insel nicht verlassen "
+"können und daher keine Bedrohung für New Flayed darstellen. Was genau die "
+"Sarnakh auf die Insel Grimclaw gebracht hat, ist ein Rätsel, aber wie "
+"Skullgor der Magier es ausgedrückt hat, ist es eine gute Gelegenheit, einige "
+"weitere bezaubernde Materialien zu sammeln.\r\n"
 "\r\n"
-"#PlayerName#, sammeln vier Einheiten von Snake Greenleaf aus dem Sarnakh und liefern ihnen die Skullgor der Magier."
+"#PlayerName#, sammeln vier Einheiten von Snake Greenleaf aus dem Sarnakh und "
+"liefern ihnen die Skullgor der Magier."
 
 msgid "name_quest_4351"
 msgstr "Die Sumpfgrube"
@@ -64536,6 +65097,7 @@ msgstr ""
 msgid "name_quest_5001"
 msgstr "Prozess gegen Iyrtans Schattendungeon"
 
+#, fuzzy
 msgid "short_desc_quest_5001"
 msgstr "Töten 5 Menhir Hüter, 5 thainlord, 5 Menhir Steinwächter"
 
@@ -64572,16 +65134,27 @@ msgstr ""
 msgid "name_quest_5011"
 msgstr "Ahbelaj Dungeon Purge"
 
+#, fuzzy
 msgid "short_desc_quest_5011"
 msgstr ""
 "Kill 24 Arthain Buckel, 10 ausgewählt aus Khamset, 8 Feuergiganten und 8 "
 "Feuerelemente"
 
+#, fuzzy
 msgid "start_text_quest_5011"
 msgstr ""
-"Sie möchten sich also der Säuberung von Ahbelaj Dungeon anschließen. Es braucht viel Mut, gegen diese Kreaturen vorzugehen. Auch die Jhali Raiders wollen diese üblen Monster tot sehen. Sie sind so weit gegangen, eine Art Säuberung zu erklären, für diejenigen, die mutig genug sind, sich diesen Kreaturen zu stellen. \r\n"
+"Sie möchten sich also der Säuberung von Ahbelaj Dungeon anschließen. Es "
+"braucht viel Mut, gegen diese Kreaturen vorzugehen. Auch die Jhali Raiders "
+"wollen diese üblen Monster tot sehen. Sie sind so weit gegangen, eine Art "
+"Säuberung zu erklären, für diejenigen, die mutig genug sind, sich diesen "
+"Kreaturen zu stellen. \r\n"
 "\r\n"
-"Es ist die Ahbelaj Dungeon Purge, und jeder, der es schafft, 24 Arthain Glöckner, 10 Auserwählt von Khamset, 8 Feuergiganten und 8 Feuerelemente zu töten, erhält eine schöne Belohnung. Es gibt nur zwei Regeln für die Jagd. Einer, 30 Arthain Hunchback, 20 Auserwählt von Khamset und 15 Fire Giants zu töten. Zweitens, wenn Sie die Jagd abgeschlossen haben, können Sie nach 21 Stunden wieder an der Säuberung des Ahbelaj-Dungeons teilnehmen. \r\n"
+"Es ist die Ahbelaj Dungeon Purge, und jeder, der es schafft, 24 Arthain "
+"Glöckner, 10 Auserwählt von Khamset, 8 Feuergiganten und 8 Feuerelemente zu "
+"töten, erhält eine schöne Belohnung. Es gibt nur zwei Regeln für die Jagd. "
+"Einer, 30 Arthain Hunchback, 20 Auserwählt von Khamset und 15 Fire Giants zu "
+"töten. Zweitens, wenn Sie die Jagd abgeschlossen haben, können Sie nach 21 "
+"Stunden wieder an der Säuberung des Ahbelaj-Dungeons teilnehmen. \r\n"
 "\r\n"
 "So tapferer Jäger, bist du bereit, den Ahbelaj Dungeon zu säubern?"
 
@@ -64913,17 +65486,35 @@ msgstr "Mandrakes für die Verteidiger von {$u19}"
 msgid "short_desc_quest_57"
 msgstr "5 Mandrakes ernten"
 
+#, fuzzy
 msgid "start_text_quest_57"
 msgstr ""
-"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden alle Zauber durch Zutaten angeheizt, die während des Gießens verbraucht werden. Neue Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen wie Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
+"Mit Ausnahme von ein paar einfachen Beschwörungen, wie Mana Missile, werden "
+"alle Zauber durch Zutaten angeheizt, die während des Gießens verbraucht "
+"werden. Neue Zauberinhaltsstoffe werden als Nebenprodukte von Ernteprozessen "
+"wie Enthäutung, Bergbau und Holzschnitt gewonnen. \r\n"
 "\r\n"
-"Hier im Jahr Sanguine bereiten wir uns darauf vor, so viele Krieger der Stadt wie möglich zu bewerfen, als Teil unserer Verteidigung gegen einen bevorstehenden und groß angelegten Goblin-Angriff. Allerdings sind wir kurz auf eine Zauberzutat namens Mandrake, die ein Nebenprodukt der Krautsammlung ist.\r\n"
+"Hier im Jahr Sanguine bereiten wir uns darauf vor, so viele Krieger der "
+"Stadt wie möglich zu bewerfen, als Teil unserer Verteidigung gegen einen "
+"bevorstehenden und groß angelegten Goblin-Angriff. Allerdings sind wir kurz "
+"auf eine Zauberzutat namens Mandrake, die ein Nebenprodukt der Krautsammlung "
+"ist.\r\n"
 "\r\n"
-"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel besitzen, können Sie eine von Simeon im Kaufhaus kaufen, das im südlichen Teil von Sanguine liegt.\r\n"
+"Ich möchte, dass Sie drei Alraunen mit einem Werkzeug namens Sichel ernten, "
+"was eine Voraussetzung für das Krautsammeln ist. Wenn Sie noch keine Sichel "
+"besitzen, können Sie eine von Simeon im Kaufhaus kaufen, das im südlichen "
+"Teil von Sanguine liegt.\r\n"
 "\r\n"
-"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
+"Sobald Sie eine Sichel tragen, suchen Sie nach einem Busch jeglicher Art. "
+"Wenn Ihr ausgewählter Busch Kräuter enthält, erscheint ein Symbol in der "
+"Nähe Ihres Fadenkreuzziels und informiert Sie darüber, dass der Busch für "
+"die Ernte geeignet ist. Sobald Sie festgestellt haben, dass ein Busch für "
+"die Ernte geeignet ist, können Sie mit der Extraktion von Kräutern mit Ihrer "
+"Sichel beginnen. Wenn Ihr Versuch erfolgreich ist, wird ein zufälliges Kraut "
+"oder Nebenprodukt in Ihrem Rucksack erscheinen.\r\n"
 "\r\n"
-"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes produziert hat."
+"Wiederholen Sie diesen Vorgang, bis der Busch mindestens fünf Mandrakes "
+"produziert hat."
 
 msgid "name_quest_4412"
 msgstr "Nahkampftraining in Monkfield"
@@ -65787,6 +66378,7 @@ msgstr ""
 msgid "name_quest_10026"
 msgstr "Jagd-Goblins"
 
+#, fuzzy
 msgid "short_desc_quest_10026"
 msgstr "20 Goblins mit Pfeilen getroffen"
 
@@ -65915,18 +66507,24 @@ msgstr ""
 msgid "name_quest_10035"
 msgstr "Malaut Truppen nach Westen"
 
+#, fuzzy
 msgid "short_desc_quest_10035"
 msgstr "Töten 5 Malaut Akolyten, 2 Malaut Verführer und 10 größere Diener"
 
+#, fuzzy
 msgid "start_text_quest_10035"
 msgstr ""
-"Es scheint, dass nicht lange nachdem Sie diesen Tempel in den Bergen zerstört hatten, einige Gruppen von Malaut Kultisten zusammen mit untoten Gräueln aus dem Westen kamen.\r\n"
-"  \r"
-"Meine Vermutung wäre, dass Ihre Beseitigung ihrer Pläne direkt nördlich der Stadt sie gezwungen hat, sich mit ihrem ursprünglich geplanten Angriff schneller zu bewegen.\r\n"
-"  \r"
-"Wir brauchen dich, um diese dunklen Magier und ihre untoten Haustiere zu treffen, bevor sie der Stadt zu nahe kommen, damit wir mehr Zeit haben, uns zu organisieren und mehr Intelligenz zu sammeln.\r\n"
-"  \r"
-"Head West und Kill 5 Malaut Acolytes, 2 Malaut Beguilers und 10 Greater Servants."
+"Es scheint, dass nicht lange nachdem Sie diesen Tempel in den Bergen "
+"zerstört hatten, einige Gruppen von Malaut Kultisten zusammen mit untoten "
+"Gräueln aus dem Westen kamen.\r\n"
+"  \rMeine Vermutung wäre, dass Ihre Beseitigung ihrer Pläne direkt nördlich "
+"der Stadt sie gezwungen hat, sich mit ihrem ursprünglich geplanten Angriff "
+"schneller zu bewegen.\r\n"
+"  \rWir brauchen dich, um diese dunklen Magier und ihre untoten Haustiere zu "
+"treffen, bevor sie der Stadt zu nahe kommen, damit wir mehr Zeit haben, uns "
+"zu organisieren und mehr Intelligenz zu sammeln.\r\n"
+"  \rHead West und Kill 5 Malaut Acolytes, 2 Malaut Beguilers und 10 Greater "
+"Servants."
 
 msgid "name_quest_10036"
 msgstr "Zerstöre die Goblin-Armee"
@@ -66049,30 +66647,41 @@ msgstr ""
 msgid "name_quest_10044"
 msgstr "Titel: The Hardy"
 
+#, fuzzy
 msgid "short_desc_quest_10044"
 msgstr "300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter töten"
 
+#, fuzzy
 msgid "start_text_quest_10044"
 msgstr ""
-"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie all den Mut aufbringen, den Sie haben, und sich einer großen Anzahl von Re-Animated Skeletons stellen.  Diese Monster wurden mit dunkler Magie von den Toten auferweckt und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
-"  \r"
-"#PlayerName#, bist du bereit, in dunklen Kerkern und verdorbenen Friedhöfen auf die Jagd zu gehen, um diese Untoten zu töten, um dein Vitality-Titelabzeichen zu verbessern?\r\n"
-"  \r"
-"Töten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
+"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie all den Mut "
+"aufbringen, den Sie haben, und sich einer großen Anzahl von Re-Animated "
+"Skeletons stellen.  Diese Monster wurden mit dunkler Magie von den Toten "
+"auferweckt und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
+"  \r#PlayerName#, bist du bereit, in dunklen Kerkern und verdorbenen "
+"Friedhöfen auf die Jagd zu gehen, um diese Untoten zu töten, um dein "
+"Vitality-Titelabzeichen zu verbessern?\r\n"
+"  \rTöten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
 
 msgid "name_quest_10045"
 msgstr "Titel: Der harte"
 
+#, fuzzy
 msgid "short_desc_quest_10045"
 msgstr "200 Revenants und 25 Oaklords töten"
 
+#, fuzzy
 msgid "start_text_quest_10045"
 msgstr ""
-"#PlayerName#, ich glaube, Sie sind bereit für das letzte Upgrade für Ihr Vitality-Titelabzeichen.  Seien Sie gewarnt, dies wird eine gefährlichere Aufgabe als die vorherigen sein.\r\n"
-"  \r"
-"Sie müssen zuerst in alte Ruinen auf der Suche nach tödlichen Wiedergängern eintauchen, ihre magischen Angriffe und mächtigen Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon gehen und massive Oak Lords jagen, die massive Gliedmaßen und donnernde Angriffe haben.\r\n"
-"  \r"
-"Töten Sie 200 Revenants und 25 Oaklords."
+"#PlayerName#, ich glaube, Sie sind bereit für das letzte Upgrade für Ihr "
+"Vitality-Titelabzeichen.  Seien Sie gewarnt, dies wird eine gefährlichere "
+"Aufgabe als die vorherigen sein.\r\n"
+"  \rSie müssen zuerst in alte Ruinen auf der Suche nach tödlichen "
+"Wiedergängern eintauchen, ihre magischen Angriffe und mächtigen "
+"Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon "
+"gehen und massive Oak Lords jagen, die massive Gliedmaßen und donnernde "
+"Angriffe haben.\r\n"
+"  \rTöten Sie 200 Revenants und 25 Oaklords."
 
 msgid "name_quest_10046"
 msgstr "Titel: Der scharfe"
@@ -67678,9 +68287,11 @@ msgstr ""
 msgid "name_quest_21052"
 msgstr "Kalter Boden, reicher Boden"
 
+#, fuzzy
 msgid "short_desc_quest_21052"
 msgstr "Mine 5 Eisenerz aus dem Holdheim Erzgang für Forty Greybawls."
 
+#, fuzzy
 msgid "start_text_quest_21052"
 msgstr ""
 "Nun zur wirklichen Lektion. Dieser Boden ist kalt, aber er ist reich - die "
@@ -67692,11 +68303,13 @@ msgstr ""
 msgid "name_quest_21053"
 msgstr "fünf Eisenklumpen"
 
+#, fuzzy
 msgid "short_desc_quest_21053"
 msgstr ""
 "Mine 5 Eisenerz an der Holdheim Minenmündung und bringen sie zu Forty "
 "Greybawls."
 
+#, fuzzy
 msgid "start_text_quest_21053"
 msgstr ""
 "Dunkles Gestein, rostrote Nähte - das ist das Eisen. Schaukel ruhig, achte "
@@ -67713,12 +68326,13 @@ msgstr ""
 "Sie haben Eisenerz aus der Holdheim-Ader abgebaut. Bringen Sie es zu White "
 "Emberdelve an der Schmiede."
 
+#, fuzzy
 msgid "diary_text_quest_21053"
 msgstr ""
-"Vierzig Greybawls lehrten mich das Minen: fünf Klumpen Eisenerz aus der Ader"
-" an der Holdheimer Minenmündung. Er wog sie und reichte sie geradewegs "
-"zurück - \"der Berg zahlt sich aus\" - und schickte mich zu White Emberdelve"
-" am Schmiedeplatz."
+"Vierzig Greybawls lehrten mich das Minen: fünf Klumpen Eisenerz aus der Ader "
+"an der Holdheimer Minenmündung. Er wog sie und reichte sie geradewegs "
+"zurück - \"der Berg zahlt sich aus\" - und schickte mich zu White Emberdelve "
+"am Schmiedeplatz."
 
 msgid "name_quest_21054"
 msgstr "Erste Heizung"
@@ -67785,11 +68399,16 @@ msgstr "Hänge deinen eigenen maul"
 msgid "short_desc_quest_21057"
 msgstr "Schmiede einen hölzernen Warhammer und zeige ihn White Emberdelve."
 
+#, fuzzy
 msgid "start_text_quest_21057"
 msgstr ""
-"Der Yard Amboss ist auf Ihrer Karte markiert. Stellen Sie sich vor und drücken Sie die F-Taste, um das Handwerk zu öffnen: Unter Waffen wählen Sie Iron Maul und schmieden Sie es - Eisenkopf, Kiefernschaft, Ihre eigenen Barren.\r\n"
+"Der Yard Amboss ist auf Ihrer Karte markiert. Stellen Sie sich vor und "
+"drücken Sie die F-Taste, um das Handwerk zu öffnen: Unter Waffen wählen Sie "
+"Iron Maul und schmieden Sie es - Eisenkopf, Kiefernschaft, Ihre eigenen "
+"Barren.\r\n"
 "\r\n"
-"Zeigen Sie White Emberdelve den Hammer, wenn es fertig ist - der Turn-in ist auf Ihrer Karte markiert."
+"Zeigen Sie White Emberdelve den Hammer, wenn es fertig ist - der Turn-in ist "
+"auf Ihrer Karte markiert."
 
 msgid "end_text_quest_21057"
 msgstr ""
@@ -69762,10 +70381,11 @@ msgstr "Auftrag 5"
 msgid "short_desc_quest_21250"
 msgstr "Razzia im Goblinlager östlich des Kriegslagers."
 
+#, fuzzy
 msgid "start_text_quest_21250"
 msgstr ""
-"Reise in den Osten und Angriff auf das Goblin-Lager. Töten Sie erfolgreich 3"
-" Goblin Scouts und 2 Goblin Kämpfer. Nimm diesen Sack mit - trage ihn in "
+"Reise in den Osten und Angriff auf das Goblin-Lager. Töten Sie erfolgreich 3 "
+"Goblin Scouts und 2 Goblin Kämpfer. Nimm diesen Sack mit - trage ihn in "
 "deinem Beutebeutel-Slot und was auch immer du ausziehst, sammelt sich an "
 "einem Ort."
 
@@ -69773,9 +70393,11 @@ msgstr ""
 msgid "name_quest_21251"
 msgstr "Auftrag 5 - Schritt 1 - das Scharmützel"
 
+#, fuzzy
 msgid "short_desc_quest_21251"
 msgstr "Töten Sie 3 Goblin-Scouts und 2 Goblin-Kämpfer."
 
+#, fuzzy
 msgid "start_text_quest_21251"
 msgstr ""
 "Reise nach Osten und greift das Goblin-Lager an. Töten Sie 3 Goblin-Scouts "
@@ -69784,9 +70406,11 @@ msgstr ""
 msgid "end_text_quest_21251"
 msgstr "Dann hält die Linie eine Weile länger. Machen Sie weiter."
 
+#, fuzzy
 msgid "finished_text_quest_21251"
 msgstr "Sie haben 3 Goblin-Scouts und 2 Goblin-Kämpfer getötet."
 
+#, fuzzy
 msgid "diary_text_quest_21251"
 msgstr ""
 "Ich tötete drei Goblin-Scouts und zwei Goblin-Kämpfer im Lager östlich des "
@@ -70124,9 +70748,11 @@ msgstr ""
 msgid "name_quest_21291"
 msgstr "Auftrag 9 - Schritt 2 - der südliche Steinbruch"
 
+#, fuzzy
 msgid "short_desc_quest_21291"
 msgstr "Töten Sie 2 Trolle im südlichen Steinbruch."
 
+#, fuzzy
 msgid "start_text_quest_21291"
 msgstr "Steigen Sie in den südlichen Steinbruch ein und töten Sie 2 Trolle."
 
@@ -70134,6 +70760,7 @@ msgid "end_text_quest_21291"
 msgstr ""
 "Das ist die niedrigste bereinigte Stufe. Etwas trieb sie aus der Dunkelheit."
 
+#, fuzzy
 msgid "finished_text_quest_21291"
 msgstr "Sie haben 2 Trolle im südlichen Steinbruch getötet."
 
@@ -71202,15 +71829,18 @@ msgstr "Sprich mit Agent Archaeus."
 msgid "start_text_quest_21396"
 msgstr "Sprich mit Archaeus."
 
+#, fuzzy
 msgid "end_text_quest_21396"
 msgstr ""
 "Du erinnerst dich an deine Lektionen. Nimm diesen Schlüssel - er öffnet "
 "meine Brust auf der Rückseite dieser Höhle. Was drinnen ist, wird das "
 "beenden, was Gallius begonnen hat."
 
+#, fuzzy
 msgid "finished_text_quest_21396"
 msgstr "Agent Archaeus gab dir seinen Schlüssel."
 
+#, fuzzy
 msgid "diary_text_quest_21396"
 msgstr "Archaeus war zufrieden und gab mir den Schlüssel zu seiner Brust."
 
@@ -71224,6 +71854,7 @@ msgstr ""
 "Verzauberung und setze sie in deine Mitarbeiter ein, dann melde dich an Mary"
 " den Stadtrat."
 
+#, fuzzy
 msgid "start_text_quest_21410"
 msgstr ""
 "Öffne meine Brust und nimm, was drin ist: ein Nith, der Katalysator, dem "
@@ -72213,6 +72844,7 @@ msgstr ""
 msgid "name_quest_11026"
 msgstr "Jagd-Goblins"
 
+#, fuzzy
 msgid "short_desc_quest_11026"
 msgstr "20 Goblins mit Pfeilen getroffen"
 
@@ -72385,9 +73017,11 @@ msgstr "Ich habe die Zombies außerhalb des Bergbautunnels getötet."
 msgid "name_quest_23039"
 msgstr "Untote in der Mine: Skelette"
 
+#, fuzzy
 msgid "short_desc_quest_23039"
 msgstr "6 Skelette töten"
 
+#, fuzzy
 msgid "start_text_quest_23039"
 msgstr "Tiefer in die Minenarbeiten eindringen und 6 Skelette töten"
 
@@ -73134,16 +73768,21 @@ msgstr ""
 msgid "name_quest_11044"
 msgstr "Titel: The Hardy"
 
+#, fuzzy
 msgid "short_desc_quest_11044"
 msgstr "300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter töten"
 
+#, fuzzy
 msgid "start_text_quest_11044"
 msgstr ""
-"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie aufbringen, welchen Mut Sie haben und sich einer großen Anzahl von Re-Animated Skeletons stellen.  Diese Monster wurden mit dunkler Magie von den Toten auferweckt und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
-"  \r"
-"#PlayerName#, bist du bereit, durch dunkle Kerker und verdorbene Friedhöfe zu jagen und diese Untoten zu töten, um dein Vitality-Titelabzeichen zu verbessern?\r\n"
-"  \r"
-"Töten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
+"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie aufbringen, "
+"welchen Mut Sie haben und sich einer großen Anzahl von Re-Animated Skeletons "
+"stellen.  Diese Monster wurden mit dunkler Magie von den Toten auferweckt "
+"und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
+"  \r#PlayerName#, bist du bereit, durch dunkle Kerker und verdorbene "
+"Friedhöfe zu jagen und diese Untoten zu töten, um dein Vitality-"
+"Titelabzeichen zu verbessern?\r\n"
+"  \rTöten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
 
 msgid "name_quest_23059"
 msgstr "Titel: The Hardy"
@@ -73174,16 +73813,22 @@ msgstr ""
 msgid "name_quest_11045"
 msgstr "Titel: Der harte"
 
+#, fuzzy
 msgid "short_desc_quest_11045"
 msgstr "200 Revenants und 25 Oaklords töten"
 
+#, fuzzy
 msgid "start_text_quest_11045"
 msgstr ""
-"#PlayerName#, ich urteile, dass sie bereit für das endgültige upgrade ihres vitality-titelabzeichens sind.  Seien Sie gewarnt, dies wird eine gefährlichere Aufgabe als die vorherigen sein.\r\n"
-"  \r"
-"Sie müssen zuerst in alte Ruinen auf der Suche nach tödlichen Wiedergängern eintauchen und ihre magischen Angriffe und mächtigen Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon gehen und die Oak Lords jagen, die massive Gliedmaßen und donnernde Angriffe haben.\r\n"
-"  \r"
-"Töten Sie 200 Revenants und 25 Oaklords."
+"#PlayerName#, ich urteile, dass sie bereit für das endgültige upgrade ihres "
+"vitality-titelabzeichens sind.  Seien Sie gewarnt, dies wird eine "
+"gefährlichere Aufgabe als die vorherigen sein.\r\n"
+"  \rSie müssen zuerst in alte Ruinen auf der Suche nach tödlichen "
+"Wiedergängern eintauchen und ihre magischen Angriffe und mächtigen "
+"Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon "
+"gehen und die Oak Lords jagen, die massive Gliedmaßen und donnernde Angriffe "
+"haben.\r\n"
+"  \rTöten Sie 200 Revenants und 25 Oaklords."
 
 msgid "name_quest_23060"
 msgstr "Titel: Der harte"
@@ -75486,6 +76131,7 @@ msgstr ""
 msgid "name_quest_12026"
 msgstr "Jagd-Goblins"
 
+#, fuzzy
 msgid "short_desc_quest_12026"
 msgstr "20 Goblins mit Pfeilen getroffen"
 
@@ -75658,9 +76304,11 @@ msgstr "Ich habe die Zombies außerhalb der Sklavengruben getötet."
 msgid "name_quest_24039"
 msgstr "Untote an den Sklavengruben: Skelette"
 
+#, fuzzy
 msgid "short_desc_quest_24039"
 msgstr "6 Skelette töten"
 
+#, fuzzy
 msgid "start_text_quest_24039"
 msgstr "Weiter nach Süden entlang des Pfades und töten 6 Skelette"
 
@@ -76414,16 +77062,21 @@ msgstr ""
 msgid "name_quest_12044"
 msgstr "Titel: The Hardy"
 
+#, fuzzy
 msgid "short_desc_quest_12044"
 msgstr "300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter töten"
 
+#, fuzzy
 msgid "start_text_quest_12044"
 msgstr ""
-"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie all den Mut aufbringen, den Sie haben, und sich einer großen Anzahl von Re-Animated Skeletons stellen.  Diese Monster wurden mit dunkler Magie von den Toten auferweckt und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
-"  \r"
-"#PlayerName#, bist du bereit, in dunklen Kerkern und verdorbenen Friedhöfen auf die Jagd zu gehen, um diese Untoten zu töten, um dein Vitality-Titelabzeichen zu verbessern?\r\n"
-"  \r"
-"Töten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
+"Der nächste Vitality-Titel, The Hardy, erfordert, dass Sie all den Mut "
+"aufbringen, den Sie haben, und sich einer großen Anzahl von Re-Animated "
+"Skeletons stellen.  Diese Monster wurden mit dunkler Magie von den Toten "
+"auferweckt und kümmern sich nur darum, die Lebenden zu zerstören.\r\n"
+"  \r#PlayerName#, bist du bereit, in dunklen Kerkern und verdorbenen "
+"Friedhöfen auf die Jagd zu gehen, um diese Untoten zu töten, um dein "
+"Vitality-Titelabzeichen zu verbessern?\r\n"
+"  \rTöten Sie 300 reguläre Skelette, 10 Riesenskelette und 10 Knochenritter."
 
 msgid "name_quest_24059"
 msgstr "Titel: The Hardy"
@@ -76455,16 +77108,22 @@ msgstr ""
 msgid "name_quest_12045"
 msgstr "Titel: Der harte"
 
+#, fuzzy
 msgid "short_desc_quest_12045"
 msgstr "200 Revenants und 25 Oaklords töten"
 
+#, fuzzy
 msgid "start_text_quest_12045"
 msgstr ""
-"#PlayerName#, ich glaube, Sie sind bereit für das letzte Upgrade für Ihr Vitality-Titelabzeichen.  Seien Sie gewarnt, dies wird eine gefährlichere Aufgabe als die vorherigen sein.\r\n"
-"  \r"
-"Sie müssen zuerst in alte Ruinen auf der Suche nach tödlichen Wiedergängern eintauchen, ihre magischen Angriffe und mächtigen Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon gehen und massive Oak Lords jagen, die massive Gliedmaßen und donnernde Angriffe haben.\r\n"
-"  \r"
-"Töten Sie 200 Revenants und 25 Oaklords."
+"#PlayerName#, ich glaube, Sie sind bereit für das letzte Upgrade für Ihr "
+"Vitality-Titelabzeichen.  Seien Sie gewarnt, dies wird eine gefährlichere "
+"Aufgabe als die vorherigen sein.\r\n"
+"  \rSie müssen zuerst in alte Ruinen auf der Suche nach tödlichen "
+"Wiedergängern eintauchen, ihre magischen Angriffe und mächtigen "
+"Nahkampfwaffen überleben.  Danach müssen Sie in die heiligen Wälder von Agon "
+"gehen und massive Oak Lords jagen, die massive Gliedmaßen und donnernde "
+"Angriffe haben.\r\n"
+"  \rTöten Sie 200 Revenants und 25 Oaklords."
 
 msgid "name_quest_24060"
 msgstr "Titel: Der harte"

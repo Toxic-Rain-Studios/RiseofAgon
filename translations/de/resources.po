@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/de/>\n"
@@ -1010,6 +1010,7 @@ msgstr " "
 msgid "r_Fey Kin"
 msgstr "Feykin"
 
+#, fuzzy
 msgid "desc_r_Fey Kin"
 msgstr " Feen und Zentauren und andere schwule Sachen."
 
@@ -14620,6 +14621,7 @@ msgstr ""
 msgid "r_extract of strength"
 msgstr "Auszug aus Stärke"
 
+#, fuzzy
 msgid "desc_r_extract of strength"
 msgstr ""
 "Diese extrem seltene Ressource wird für die Herstellung von Elixir of "
@@ -14636,6 +14638,7 @@ msgstr ""
 msgid "r_extract of dexterity"
 msgstr "Auszug aus der Fingerfertigkeit"
 
+#, fuzzy
 msgid "desc_r_extract of dexterity"
 msgstr ""
 "Diese extrem seltene Ressource wird für die Herstellung von Elixir of "
@@ -14644,6 +14647,7 @@ msgstr ""
 msgid "r_extract of quickness"
 msgstr "Auszug aus der Schnelligkeit"
 
+#, fuzzy
 msgid "desc_r_extract of quickness"
 msgstr ""
 "Diese extrem seltene Ressource wird für die Herstellung von Elixir of "
@@ -14652,6 +14656,7 @@ msgstr ""
 msgid "r_extract of intelligence"
 msgstr "Auszug aus Intelligenz"
 
+#, fuzzy
 msgid "desc_r_extract of intelligence"
 msgstr ""
 "Diese extrem seltene Ressource wird für die Herstellung von Elixir of "
@@ -14660,6 +14665,7 @@ msgstr ""
 msgid "r_extract of wisdom"
 msgstr "Auszug aus Weisheit"
 
+#, fuzzy
 msgid "desc_r_extract of wisdom"
 msgstr ""
 "Diese extrem seltene Ressource wird für die Herstellung von Elixir der "
@@ -17366,6 +17372,7 @@ msgstr "Der Schädel eines toten Alfar Charakters."
 msgid "r_Dwarf Skull"
 msgstr "Zwergschädel"
 
+#, fuzzy
 msgid "desc_r_Dwarf Skull"
 msgstr "Die Fertigkeit eines toten Zwergcharakters."
 
@@ -18024,6 +18031,7 @@ msgstr "Betrüger werden gelöscht."
 msgid "r_Traderoute Item_02"
 msgstr "Handelsroutenposition_02"
 
+#, fuzzy
 msgid "desc_r_Traderoute Item_02"
 msgstr "Werfen, wird es ein Witz sein?"
 
@@ -20520,10 +20528,11 @@ msgstr ""
 msgid "r_Wooden Warhammer"
 msgstr "Holzschlaghammer"
 
+#, fuzzy
 msgid "desc_r_Wooden Warhammer"
 msgstr ""
-"Ausschließlich aus Holz hergestellt, ist diese Waffe bei unerfahrenen "
-"Sylvan-Kriegern beliebt."
+"Ausschließlich aus Holz hergestellt, ist diese Waffe bei unerfahrenen Sylvan-"
+"Kriegern beliebt."
 
 msgid "r_Greatswords"
 msgstr "Großschwerter"
@@ -23543,6 +23552,7 @@ msgstr ""
 msgid "r_Fruit Tree"
 msgstr "Obstbaum"
 
+#, fuzzy
 msgid "desc_r_Fruit Tree"
 msgstr "Drücken Sie die Gebrauchstaste, um Früchte zu stopfen. "
 
@@ -30064,6 +30074,7 @@ msgstr "Magische Edelstein Granat Schnelligkeit"
 msgid "r_magical gem diamond mirdainbane"
 msgstr "Magischer Edelstein-Diamant Mirdain Bann"
 
+#, fuzzy
 msgid "r_magical gem ruby mirdainbane"
 msgstr "Magical Edelstein Ruby Menschlicher Fluch"
 

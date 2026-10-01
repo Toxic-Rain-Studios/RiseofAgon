@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/chat/"
 "de/>\n"
@@ -754,6 +754,7 @@ msgstr "Heute muss mein Glückstag sein! %4 Fleisch! Mwahahaha!"
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_0"
 msgstr "Zeit, um etwa %4 Abschaum zu jagen. Mwahahaha!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_ork monsters_1"
 msgstr "Dein Gold deines Lebens %4!"
 
@@ -872,6 +873,7 @@ msgstr "%4 Abenteurer. Bereitet euch auf den Tod vor! Mwahahaha!"
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_7"
 msgstr "Wenn es Schmerz, den Sie suchen, suchen Sie nicht weiter."
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_BEGINNING_r_trolls_8"
 msgstr "Sie haben eine Idee, was Sie sich in %4 bekommen! "
 
@@ -1561,6 +1563,7 @@ msgstr "Ich könnte hier ein wenig Unterstützung gebrauchen! "
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_0"
 msgstr "Jemand hilft mir, diese %4 zu töten. "
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_COMBAT_LOOSING_r_kobolds_1"
 msgstr ""
 "Zeit, andere Taktiken anzuwenden. Ich kann einfach zu einem %4 verlieren."
@@ -3699,6 +3702,7 @@ msgstr "Hier liegt %2 %3 der törichte Abenteurer!"
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_2"
 msgstr "Und bleib tot, du Narr %4!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_centaurs_3"
 msgstr "Nächstes Mal, seien Sie vorsichtiger % 2 %3! Hörst du mich?"
 
@@ -3749,6 +3753,7 @@ msgstr "Und bleib tot, du Narr %4!"
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_2"
 msgstr "%2 %3. Du bist jetzt tot!"
 
+#, fuzzy
 msgid "NOTIFICATION_AI_TALK_END_r_forest prophets_3"
 msgstr "Nächstes Mal, seien Sie vorsichtiger % 2 %3! Hörst du mich?"
 
@@ -8685,6 +8690,7 @@ msgstr ""
 " haben auch unser %3 Gold zurückgeholt, das wir wetten, um diese "
 "Herausforderung zu gewinnen!"
 
+#, fuzzy
 msgid "NOTIFICATION_CONQUEST_CHALLENGE_SIGE_STONE_LOST"
 msgstr "Wir haben den Belagerungsstein verloren, der sich darin befindet!"
 
@@ -10228,6 +10234,7 @@ msgstr ""
 "^Cred^Ihre stumme Strafe ist abgelaufen. Wiederholte Verstöße führen zu "
 "längeren Strafen."
 
+#, fuzzy
 msgid "NOTIFICATION_HOUSE_PLAYER_IS_A_TRIAL"
 msgstr ""
 "Sie können Ihr Haus nicht auf diesen Spieler übertragen, weil er ein "
@@ -10436,6 +10443,7 @@ msgstr "Freemium-Konten dürfen die %1-Fähigkeit nicht verwenden."
 msgid "NOTIFICATION_PLAYER_IS_TRIAL_ACCOUNT_CAN_NOT_REPAIR_CLAN_STRUCTURES"
 msgstr "Freemium Konten sind nicht erlaubt, Clanstrukturen zu reparieren."
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_MEDITATION_POINTS_CAPPED"
 msgstr "Ihre Vermittlungspunkte sind auf ein freemium-Konto begrenzt."
 
@@ -11198,6 +11206,7 @@ msgstr ""
 msgid "NOTIFICATION_ATTRIBUTE_MEDITATION_PROGRESS"
 msgstr "^Cwhite^Ihr ^Cdarkfall^%1 ^Cwhite^hat durch Meditation zugenommen!"
 
+#, fuzzy
 msgid "NOTIFICATION_TRIAL_ACCOUNT_CANNOT_CREATE_PARTY"
 msgstr ""
 "^Cred^ Parteien-Erstellung verweigert! Sie können keine Partei mit einem "
@@ -12860,6 +12869,7 @@ msgid "NOTIFICATION_YOUR_VILLAGE_CONTROL_POINT_SHIELD_LOST"
 msgstr ""
 "Ihr Dorf Kontrollpunkt an ^Cyellow^%1^N^ hat ^Cred^verlor seinen Schutz^N^!"
 
+#, fuzzy
 msgid "NOTIFICATION_VILLAGE_CONTROL_POINT_HEALTH_THRESHOLD_CLAN"
 msgstr ""
 "Dorfkontrollpunkt unseres Clans an ^Cyellow^%1^N^ ist an ^Cred^%2%%^N^ "

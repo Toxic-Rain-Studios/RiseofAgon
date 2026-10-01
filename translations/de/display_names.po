@@ -2,14 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
+"display_names/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos / CTranslate2; protected game names\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "display_name_r_Windgraive"
 msgstr "Weniger elementares Wasser"
@@ -6872,6 +6874,7 @@ msgstr "Alte Schrift"
 msgid "display_name_r_Quest Angor Spiteskulls head"
 msgstr "Kopf von Angor despiteskull"
 
+#, fuzzy
 msgid "display_name_r_quest annabells arrowhead ring"
 msgstr "Ring mit Pfeilspitzen von Annabellen"
 
@@ -7148,6 +7151,7 @@ msgstr "Versiegelter Brief"
 msgid "display_name_r_quest seirinna report"
 msgstr "Seirinna Bericht"
 
+#, fuzzy
 msgid "display_name_r_quest seirinnas package for the serene spire"
 msgstr "Seirinna-Paket für den Seren Spire"
 
@@ -12191,6 +12195,7 @@ msgstr "Scroll der Suspendierungsstation"
 msgid "display_name_r_Scroll of Insight"
 msgstr "Rolle der Einsicht"
 
+#, fuzzy
 msgid "display_name_r_Scroll of Impulse"
 msgstr "Rolle des Splitters"
 

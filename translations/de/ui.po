@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-29 20:55+0000\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "de/>\n"
@@ -1232,6 +1232,7 @@ msgstr ""
 "ausgeblasene Highlights zurück und vertieft Schatten, anstatt sie zu "
 "beschneiden."
 
+#, fuzzy
 msgid "options_video_filmic_tone_strength"
 msgstr "Stärke der filmischen Tonabbildung"
 
@@ -1255,6 +1256,7 @@ msgstr ""
 "Sichtbare Lichtwellen durch Lücken in der Geometrie, wie Sonne durch Bäume "
 "oder eine Tür."
 
+#, fuzzy
 msgid "options_video_godray_intensity"
 msgstr "God Ray Intensität"
 
@@ -2354,6 +2356,7 @@ msgstr "Syntaxfehler"
 msgid "chat_error_unknown_command"
 msgstr "unbekannter Befehl: %1"
 
+#, fuzzy
 msgid "chat_help_numericparam_desc"
 msgstr "Standard=%1, Minimum=%1, Maximum=%1"
 
@@ -2570,6 +2573,7 @@ msgstr ""
 msgid "alignment_tt_sec_losing"
 msgstr "Gesinnungsverlust:"
 
+#, fuzzy
 msgid "alignment_tt_losing"
 msgstr ""
 "Nur das Töten eines Angehörigen deiner eigenen Rasse senkt die Gesinnung, "
@@ -4554,6 +4558,7 @@ msgstr ""
 "Mehrere Waffen können die höchste Geschwindigkeit teilen, so dass weitere "
 "Filter angewendet werden können."
 
+#, fuzzy
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
 "Casting-Zeitverzauberungen werden berücksichtigt, es sei denn, '1 $' wird "
@@ -6509,6 +6514,7 @@ msgstr "Derzeit wird keine Fertigkeit ausgebildet"
 msgid "journal_meditation_result_bad_state"
 msgstr "Kann in diesem Zustand nicht meditieren"
 
+#, fuzzy
 msgid "journal_meditation_result_trial_blocked"
 msgstr "Testkonten können dies nicht verwenden"
 
@@ -9426,6 +9432,7 @@ msgstr ""
 msgid "clan_create_error_name_locked"
 msgstr "Dieser Clanname wird übernommen."
 
+#, fuzzy
 msgid "clan_create_error_trial_account"
 msgstr "Testkonten können keinen Clan erstellen."
 
