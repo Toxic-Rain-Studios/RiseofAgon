@@ -1,14 +1,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Local machine translation; editorial review pending\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
+"tasks/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Argos en_es 1.0 / CTranslate2; game glossary\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "name_task_1"
 msgstr "Básicos de combate"
@@ -180,6 +182,7 @@ msgstr ""
 msgid "short_desc_task_5_stage_3"
 msgstr "Cosecha 100 hierbas."
 
+#, fuzzy
 msgid "desc_task_5_stage_3"
 msgstr ""
 "¡Nunca duele reunir más hierbas! Steegrass for mounts, serpienteweed for "
@@ -2128,12 +2131,14 @@ msgstr ""
 "propaga como una plaga, desperdiciando todo lo que tienes querido. Tanto "
 "como te disgusta, lo has tomado sobre ti mismo para restaurar el equilibrio."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_2"
 msgstr "."
 
 msgid "desc_task_75_stage_2"
 msgstr "El siguiente paso de tu misión es eliminar a los señores de roble."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_3"
 msgstr "."
 
@@ -2142,6 +2147,7 @@ msgstr ""
 "Los golems forestales son muy peligrosos, ejercen precaución y encuentran "
 "una manera segura de disponer de ellos."
 
+#, fuzzy
 msgid "short_desc_task_75_stage_4"
 msgstr "."
 
@@ -2573,6 +2579,7 @@ msgstr ""
 "Probar que las trompetas del cerebro se jactan para ganar el título de "
 "Mastermind!"
 
+#, fuzzy
 msgid "short_desc_task_92_stage_1"
 msgstr ""
 "¡Prueba que las trompetas del cerebro se jactan para ganar el título de "
@@ -3002,6 +3009,7 @@ msgstr ""
 "Un caldo malicioso de pollos marrones se metió en tu casa y ensució tu "
 "alfombra. Esta no fue la primera vez que golpearon, pero será la última."
 
+#, fuzzy
 msgid "name_task_108"
 msgstr "Confort y apperance"
 
@@ -3011,14 +3019,15 @@ msgstr "¡Reúne algodón para ganar el título de Clothier!"
 msgid "short_desc_task_108_stage_1"
 msgstr "¡Reúne algodón para ganar el título de Clothier!"
 
+#, fuzzy
 msgid "desc_task_108_stage_1"
 msgstr ""
-"Usted es un experto en ropa, sabiendo cómo vestirse agradable y cómodamente."
-" Las ropas son tu pasión y disfrutas haciendo prendas finas para ti, así "
-"como para otros. Para continuar su búsqueda, usted ha decidido ir en un "
-"viaje para recoger una abundancia de suministros. Recoger veinte mil algodón"
-" de sus arbustos no es tarea fácil, pero para usted, sólo se siente natural."
-" Probar que amas lo que haces, la gente de todo el Agon te conocerá como el "
+"Usted es un experto en ropa, sabiendo cómo vestirse agradable y cómodamente. "
+"Las ropas son tu pasión y disfrutas haciendo prendas finas para ti, así como "
+"para otros. Para continuar su búsqueda, usted ha decidido ir en un viaje "
+"para recoger una abundancia de suministros. Recoger veinte mil algodón de "
+"sus arbustos no es tarea fácil, pero para usted, sólo se siente natural. "
+"Probar que amas lo que haces, la gente de todo el Agon te conocerá como el "
 "Clothier."
 
 msgid "name_task_109"
@@ -3484,6 +3493,7 @@ msgstr "El mío para los amatistas."
 msgid "short_desc_task_137_stage_1"
 msgstr "El mío para los amatistas."
 
+#, fuzzy
 msgid "desc_task_137_stage_1"
 msgstr ""
 "Coge la mina y golpea algunas rocas. Su objetivo es encontrar diez "
@@ -3682,6 +3692,7 @@ msgstr ""
 "Prueba tus habilidades contra los monstruos de Agon y cosecha las "
 "recompensas!"
 
+#, fuzzy
 msgid "name_task_152"
 msgstr "Principiante - caza de la luna"
 
@@ -4256,6 +4267,7 @@ msgstr ""
 "Caza acrids pero ten cuidado con otros cazadores, para que no te conviertas "
 "en la caza!"
 
+#, fuzzy
 msgid "name_task_183"
 msgstr "La cacería del oso artístico - diario"
 
@@ -4867,6 +4879,7 @@ msgstr "Slay Wildtribe shakas en esta tarea diaria."
 msgid "short_desc_task_226_stage_1"
 msgstr "Slay Wildtribe shakas en esta tarea diaria."
 
+#, fuzzy
 msgid "desc_task_226_stage_1"
 msgstr ""
 "Caza azotes pero ten cuidado con otros cazadores, para que no te conviertas "

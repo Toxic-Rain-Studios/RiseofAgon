@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 07:28+0000\n"
-"Last-Translator: Ignacio Guerra Perez <igueper@gmail.com>\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
 "Language: es\n"
@@ -1232,6 +1232,7 @@ msgstr ""
 "Aplica una curva tipo película a la imagen final, retrocediendo los momentos"
 " más destacados y profundizando las sombras en lugar de cortarlas."
 
+#, fuzzy
 msgid "options_video_filmic_tone_strength"
 msgstr "Fuerza de mapeo de tono fílmico"
 
@@ -1255,6 +1256,7 @@ msgstr ""
 "Ejes visibles de luz a través de huecos en geometría, como el sol a través "
 "de árboles o una puerta."
 
+#, fuzzy
 msgid "options_video_godray_intensity"
 msgstr "Dios Ray intensidad"
 
@@ -2345,6 +2347,7 @@ msgstr "error de sintaxis"
 msgid "chat_error_unknown_command"
 msgstr "comando desconocido: %1"
 
+#, fuzzy
 msgid "chat_help_numericparam_desc"
 msgstr "predeterminado=%1, mínimo=%1, máximo=%1"
 
@@ -2560,6 +2563,7 @@ msgstr ""
 msgid "alignment_tt_sec_losing"
 msgstr "Pérdida de alineamiento:"
 
+#, fuzzy
 msgid "alignment_tt_losing"
 msgstr ""
 "Solo matar a alguien de tu propia raza reduce puntos de alineamiento, y "
@@ -4539,6 +4543,7 @@ msgstr ""
 "Múltiples armas pueden compartir la velocidad más alta, por lo que se pueden"
 " aplicar más filtros."
 
+#, fuzzy
 msgid "auto_equip_config_filter_sort_and_filter_by_weapon_speed_tooltip_3"
 msgstr ""
 "Los encantamientos de tiempo de lanzamiento serán tenidos en cuenta a menos "
@@ -6491,6 +6496,7 @@ msgstr "Actualmente no se está capacitando a nadie."
 msgid "journal_meditation_result_bad_state"
 msgstr "No puede meditar en este estado"
 
+#, fuzzy
 msgid "journal_meditation_result_trial_blocked"
 msgstr "Las cuentas de prueba no pueden usar esto"
 
@@ -9401,6 +9407,7 @@ msgstr "Ese nombre de clan no se puede utilizar. Pruebe otro."
 msgid "clan_create_error_name_locked"
 msgstr "Ese nombre del clan es tomado."
 
+#, fuzzy
 msgid "clan_create_error_trial_account"
 msgstr "Las cuentas de juicio no pueden crear un clan."
 
