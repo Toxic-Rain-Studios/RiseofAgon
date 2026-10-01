@@ -12179,8 +12179,18 @@ msgstr ""
 "This skill %1 needs to be leveled by researching a crafted item with a blank "
 "schematic"
 
+#. No runtime parameters. The research supply meter is too low for one more item; the item is kept.
+msgid "NOTIFICATION_RESEARCH_MISSING_MATERIALS"
+msgstr ""
+"Your research supplies are too low. Drag Papyrus and Ink onto the research "
+"window to fill them up. The item was not used."
+
 msgid "NOTIFICATION_RESEARCH_QUEUED"
-msgstr "%1 is now researching. Each schematic takes five minutes."
+msgstr "%1 is now researching. Each item takes five minutes."
+
+#. No runtime parameters. Papyrus or Ink dropped on the research window while its supplies are full.
+msgid "NOTIFICATION_RESEARCH_SUPPLY_FULL"
+msgstr "Your research supplies are already full."
 
 msgid "NOTIFICATION_RESOURCE_AREA_PVPFLAG_FORCED_CHANGE_GRACE_PERIOD"
 msgstr ""

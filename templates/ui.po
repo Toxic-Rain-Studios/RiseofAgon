@@ -9916,7 +9916,7 @@ msgid "research_ceiling_row"
 msgstr "%1: %2 / %3"
 
 msgid "research_drag_schematic_here_description"
-msgstr "Drag Schematic Here For Research"
+msgstr "Drag A Crafted Item Here To Research It"
 
 msgid "research_help_step_cap"
 msgstr ""
@@ -9930,25 +9930,27 @@ msgstr ""
 
 msgid "research_help_step_make"
 msgstr ""
-"1. Click a Blank Schematic, then click an item you crafted. The item is used "
-"up and becomes a schematic for the skill that made it. Blank Schematics are "
-"crafted with Scribing at a Laboratory or with a Multi Tool."
+"1. Fill your supplies: drop Papyrus and Ink on the Research Supplies panel. "
+"Each item you research uses 5 Papyrus and one use of Ink, and a bottle of "
+"Ink gives 10 uses. The panel holds enough for one full research queue, and "
+"supplies cannot be taken back out."
 
 msgid "research_help_step_queue"
 msgstr ""
-"2. Drag the schematic into the box above and press Start. You can keep "
-"adding schematics until the queue reaches the Max Time shown."
+"2. Drag an item you crafted into the item box. It is used up and research "
+"starts straight away. If more than one skill can research it, pick the skill "
+"from the list. If it cannot start yet, for example while your supplies are "
+"empty, press Start once it can. Schematics you already own still work and "
+"use no supplies."
 
 msgid "research_help_step_tier"
 msgstr ""
-"4. Only schematics of your skill's current tier or higher are accepted. "
-"Higher-tier items, and items that cost more materials to craft, give more "
-"progress."
+"4. Only items of your skill's current tier or higher are accepted. Higher-"
+"tier items, and items that cost more materials to craft, give more progress."
 
 msgid "research_help_step_time"
 msgstr ""
-"3. Each schematic takes %1 minutes. Research keeps going while you are "
-"logged out."
+"3. Each item takes %1 minutes. Research keeps going while you are logged out."
 
 msgid "research_help_title"
 msgstr "How Research Works"
@@ -9991,6 +9993,23 @@ msgstr "Skill To Train: "
 
 msgid "research_start"
 msgstr "Start"
+
+msgid "research_supply_enough"
+msgstr "Enough for %1 items"
+
+msgid "research_supply_hint"
+msgstr ""
+"Drop Papyrus and Ink on this panel to refill it. Supplies cannot be taken "
+"back out."
+
+msgid "research_supply_ink"
+msgstr "%1 / %2 uses"
+
+msgid "research_supply_papyrus"
+msgstr "%1 / %2 sheets"
+
+msgid "research_supply_title"
+msgstr "Research Supplies"
 
 msgid "research_time"
 msgstr "Time: "
