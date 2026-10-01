@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:14+0000\n"
+"PO-Revision-Date: 2026-10-01 19:31+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -6354,9 +6354,11 @@ msgstr "Ligado"
 msgid "journal_meditation_toggle_off"
 msgstr "Desligado"
 
+#, fuzzy
 msgid "journal_meditation_enable_offline_button"
 msgstr "Ativar a meditação offline"
 
+#, fuzzy
 msgid "journal_meditation_disable_offline_button"
 msgstr "Desativar a meditação offline"
 
