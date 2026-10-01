@@ -1460,6 +1460,14 @@ msgstr "Description of s_Jog"
 msgid "desc_s_Jump"
 msgstr "Press Space to jump."
 
+msgid "desc_s_Kick"
+msgstr ""
+"A light kick to the target in front of you. Interrupts many monster spells "
+"and stops their casting for 2 seconds. 15 second cooldown."
+
+msgid "desc_s_Kick_1"
+msgstr ""
+
 msgid "desc_s_Kneel"
 msgstr "Description of s_Kneel"
 
@@ -2206,6 +2214,14 @@ msgid "desc_s_Polearms"
 msgstr "Basic attack with polearms. "
 
 msgid "desc_s_Polearms_1"
+msgstr ""
+
+msgid "desc_s_Polymorph"
+msgstr ""
+"Turns a monster into a white rabbit for 10 seconds, or until the rabbit is "
+"hit. Not bosses. Slayer level 10. 60 second cooldown."
+
+msgid "desc_s_Polymorph_1"
 msgstr ""
 
 msgid "desc_s_Positioning Skills"
@@ -4612,6 +4628,12 @@ msgstr "Jog"
 msgid "s_Jump"
 msgstr "Jump"
 
+msgid "s_Kick"
+msgstr "Kick"
+
+msgid "s_Kick_1"
+msgstr "Kick_1"
+
 msgid "s_Kneel"
 msgstr "Kneel"
 
@@ -5340,6 +5362,12 @@ msgstr "Polearms"
 
 msgid "s_Polearms_1"
 msgstr "Polearms_1"
+
+msgid "s_Polymorph"
+msgstr "Polymorph"
+
+msgid "s_Polymorph_1"
+msgstr "Polymorph_1"
 
 msgid "s_Positioning Skills"
 msgstr "Positioning Skills"
