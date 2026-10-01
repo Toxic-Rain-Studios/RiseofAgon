@@ -468,6 +468,12 @@ msgstr "Description of s_Camp 01"
 msgid "desc_s_Capital Recall"
 msgstr "Teleports you to your faction's capital city."
 
+msgid "desc_s_Chant Bolt"
+msgstr "Fires a bolt that deals Holy damage to its target."
+
+msgid "desc_s_Chant Bolt_1"
+msgstr ""
+
 msgid "desc_s_Clear Thoughts"
 msgstr "Increases your Intelligence."
 
@@ -1148,6 +1154,12 @@ msgid "desc_s_Greatclubs"
 msgstr "Basic attack with two-handed blunt weapons."
 
 msgid "desc_s_Greatclubs_1"
+msgstr ""
+
+msgid "desc_s_Greater Bolt"
+msgstr "Fires a bolt that deals Arcane damage to its target."
+
+msgid "desc_s_Greater Bolt_1"
 msgstr ""
 
 msgid "desc_s_Greater Magic"
@@ -3233,6 +3245,12 @@ msgstr "Description of s_Wild Magic_Spells"
 msgid "desc_s_Willpower"
 msgstr "Grants resistance against mental attacks. "
 
+msgid "desc_s_Witch Bolt"
+msgstr "Fires a bolt that deals Poison damage to its target."
+
+msgid "desc_s_Witch Bolt_1"
+msgstr ""
+
 msgid "desc_s_Witchcraft"
 msgstr ""
 "Witchcraft deals mainly in curses that weaken their target's abilities, "
@@ -3657,6 +3675,12 @@ msgstr "Camp_1"
 
 msgid "s_Capital Recall"
 msgstr "Faction Capital Recall"
+
+msgid "s_Chant Bolt"
+msgstr "Blessed Bolt"
+
+msgid "s_Chant Bolt_1"
+msgstr "Chant Bolt_1"
 
 msgid "s_Clear Thoughts"
 msgstr "Clear Thoughts"
@@ -4296,6 +4320,12 @@ msgstr "Greatclubs"
 
 msgid "s_Greatclubs_1"
 msgstr "Greatclubs_1"
+
+msgid "s_Greater Bolt"
+msgstr "Greater Bolt"
+
+msgid "s_Greater Bolt_1"
+msgstr "Greater Bolt_1"
 
 msgid "s_Greater Magic"
 msgstr "Greater Magic"
@@ -6309,6 +6339,12 @@ msgstr "Wild Magic Spells"
 
 msgid "s_Willpower"
 msgstr "Willpower"
+
+msgid "s_Witch Bolt"
+msgstr "Witches Bolt"
+
+msgid "s_Witch Bolt_1"
+msgstr "Witch Bolt_1"
 
 msgid "s_Witchcraft"
 msgstr "Witchcraft"
