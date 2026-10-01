@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/display_names/zh_Hans/>\n"
+"Language: zh_hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "display_name_r_Windgraive"
 msgstr "低级水精灵"
@@ -6692,6 +6698,7 @@ msgstr "寻找古老的书卷"
 msgid "display_name_r_Quest Angor Spiteskulls head"
 msgstr "寻找痛苦怨恨骷髅头"
 
+#, fuzzy
 msgid "display_name_r_quest annabells arrowhead ring"
 msgstr "寻找安德雷特的箭头戒指"
 
@@ -6968,6 +6975,7 @@ msgstr "寻找密封信"
 msgid "display_name_r_quest seirinna report"
 msgstr "寻找塞尔瑞纳报告"
 
+#, fuzzy
 msgid "display_name_r_quest seirinnas package for the serene spire"
 msgstr "寻找塞尔瑞纳给平静尖塔的包裹"
 
@@ -12002,6 +12010,7 @@ msgstr "刑罚之御卷轴"
 msgid "display_name_r_Scroll of Insight"
 msgstr "洞察卷轴"
 
+#, fuzzy
 msgid "display_name_r_Scroll of Impulse"
 msgstr "弹跳卷轴"
 

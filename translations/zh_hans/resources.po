@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"Last-Translator: Weblate Admin <danielr@toxicrainstudios.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
+"Language: zh_hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Resource"
 msgstr "Resource"
@@ -812,6 +818,7 @@ msgstr " "
 msgid "r_Fey Kin"
 msgstr "精类亲属"
 
+#, fuzzy
 msgid "desc_r_Fey Kin"
 msgstr "仙女和半人马以及其他快乐的东西."
 
@@ -11942,6 +11949,7 @@ msgstr "制造终极弓所必需的极稀有资源."
 msgid "r_extract of strength"
 msgstr "力量精华"
 
+#, fuzzy
 msgid "desc_r_extract of strength"
 msgstr "制造力量药剂所必须的极稀有资源."
 
@@ -11954,24 +11962,28 @@ msgstr "制造体力药剂所必须的极稀有资源."
 msgid "r_extract of dexterity"
 msgstr "敏捷精华"
 
+#, fuzzy
 msgid "desc_r_extract of dexterity"
 msgstr "制造敏捷药剂所必须的极稀有资源."
 
 msgid "r_extract of quickness"
 msgstr "速度精华"
 
+#, fuzzy
 msgid "desc_r_extract of quickness"
 msgstr "制造速度药剂所必须的极稀有资源."
 
 msgid "r_extract of intelligence"
 msgstr "智力精华"
 
+#, fuzzy
 msgid "desc_r_extract of intelligence"
 msgstr "制造智力药剂所必须的极稀有资源."
 
 msgid "r_extract of wisdom"
 msgstr "天赋精华"
 
+#, fuzzy
 msgid "desc_r_extract of wisdom"
 msgstr "制造天赋药剂所必须的极稀有资源."
 
@@ -14330,6 +14342,7 @@ msgstr "一个死去的暗法的头盖骨."
 msgid "r_Dwarf Skull"
 msgstr "矮人头盖骨"
 
+#, fuzzy
 msgid "desc_r_Dwarf Skull"
 msgstr "一个死去的矮人的头盖骨."
 
@@ -14948,6 +14961,7 @@ msgstr "作弊者会被删除."
 msgid "r_Traderoute Item_02"
 msgstr "Traderoute Item_02"
 
+#, fuzzy
 msgid "desc_r_Traderoute Item_02"
 msgstr "扔了,会不会是个笑话?"
 
@@ -17072,6 +17086,7 @@ msgstr "一种直截了当的幸福,足以把脑袋砸开."
 msgid "r_Wooden Warhammer"
 msgstr "木制战锤"
 
+#, fuzzy
 msgid "desc_r_Wooden Warhammer"
 msgstr "完全由木头制成,这种武器在缺乏经验的森林战士中很流行."
 
@@ -19508,6 +19523,7 @@ msgstr "按F键打开板条箱,看看是否还有可以吃的东西. "
 msgid "r_Fruit Tree"
 msgstr "果树"
 
+#, fuzzy
 msgid "desc_r_Fruit Tree"
 msgstr "按F键可插入水果. "
 
@@ -25907,5 +25923,6 @@ msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击�
 msgid "desc_r_Magical Gem Garnet static"
 msgstr "可以给物品附魔,品质3的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_magical gem ruby mirdainbane"
 msgstr "附魔人类诅咒红宝石"
