@@ -9315,6 +9315,10 @@ msgstr "You were revived by %1"
 msgid "NOTIFICATION_EVENT_REVIVE_SELF_INFLICTED"
 msgstr "You revived yourself?! Stop cheating!"
 
+#. %1 = points earned, %2 = what they were earned for (one of the faction_war_reason_ strings).
+msgid "NOTIFICATION_FACTION_WAR_SCORE"
+msgstr "^Cdarkfall^Faction war: ^Cwhite^+%1 ^Cdarkfall^score (%2)."
+
 msgid "NOTIFICATION_FORTRESS_SYSTEM_CAN_NOT_CONQUER_BECAUSE_OF_CLAN"
 msgstr ""
 "You can not conquer this Fortress, since you are not a member of a Clan."
@@ -13186,6 +13190,24 @@ msgstr ""
 
 msgid "component_crafting_error_no_mastery_crafting_allowed_here"
 msgstr "You cannot craft mastery items here."
+
+msgid "faction_war_reason_assist"
+msgstr "kill assist"
+
+msgid "faction_war_reason_glyph_capture"
+msgstr "glyph captured"
+
+msgid "faction_war_reason_glyph_defend"
+msgstr "glyph defended"
+
+msgid "faction_war_reason_kill"
+msgstr "enemy slain"
+
+msgid "faction_war_reason_siege_capture"
+msgstr "holding captured"
+
+msgid "faction_war_reason_siege_defend"
+msgstr "holding defended"
 
 msgid "trigger_ff32_archaeus_cave"
 msgstr ""

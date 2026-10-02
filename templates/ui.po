@@ -3849,6 +3849,60 @@ msgstr "Name too long."
 msgid "error_name_too_many_digits"
 msgstr "No digits allowed in name."
 
+msgid "faction_war_col_alliance"
+msgstr "Alliance"
+
+msgid "faction_war_col_assists"
+msgstr "Assists"
+
+msgid "faction_war_col_captures"
+msgstr "Captures"
+
+msgid "faction_war_col_defences"
+msgstr "Defences"
+
+msgid "faction_war_col_kills"
+msgstr "Kills"
+
+msgid "faction_war_col_player"
+msgstr "Player"
+
+msgid "faction_war_col_players"
+msgstr "Players"
+
+msgid "faction_war_col_rank"
+msgstr "Rank"
+
+msgid "faction_war_col_score"
+msgstr "Score"
+
+msgid "faction_war_my_alliance"
+msgstr "My Alliance"
+
+msgid "faction_war_my_standing"
+msgstr "Your score: %1   -   Rank: %2   -   Kills: %3   -   Assists: %4"
+
+msgid "faction_war_no_standing"
+msgstr "You have not scored in this period."
+
+msgid "faction_war_period_all"
+msgstr "All Time"
+
+msgid "faction_war_period_day"
+msgstr "Today"
+
+msgid "faction_war_period_month"
+msgstr "This Month"
+
+msgid "faction_war_period_week"
+msgstr "This Week"
+
+msgid "faction_war_view_alliances"
+msgstr "Alliances"
+
+msgid "faction_war_view_players"
+msgstr "Players"
+
 msgid "false"
 msgstr "false"
 
@@ -4683,6 +4737,9 @@ msgstr "Crafting Totals"
 
 msgid "journal_crafting_stats_tab_title"
 msgstr "Crafting Stats"
+
+msgid "journal_faction_war_tab_title"
+msgstr "Faction War"
 
 msgid "journal_fights_tab_title"
 msgstr "PvP And PvE"
