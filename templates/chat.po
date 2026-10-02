@@ -12347,6 +12347,9 @@ msgstr "This corpse has already been skinned."
 msgid "NOTIFICATION_SLAYER"
 msgstr "%1"
 
+msgid "NOTIFICATION_SLAYER_KILL_PROGRESS"
+msgstr "[Slayer] +%1 XP L%2 (%3)"
+
 msgid "NOTIFICATION_SLAYER_MILESTONE"
 msgstr "%1"
 

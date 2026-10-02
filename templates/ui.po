@@ -8014,6 +8014,12 @@ msgstr ""
 msgid "mastery_swap_in_combat"
 msgstr "You cannot switch mastery in combat. Try again once the fight is over."
 
+msgid "mastery_swap_moving"
+msgstr "Stand still to switch mastery."
+
+msgid "mastery_swap_not_standing"
+msgstr "Stand up to switch mastery: dismount, and don't sit or crouch."
+
 msgid "mastery_swap_on_cooldown"
 msgstr ""
 "You cannot switch mastery yet.\n"
