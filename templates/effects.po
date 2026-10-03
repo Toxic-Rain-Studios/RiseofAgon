@@ -410,6 +410,9 @@ msgstr "Missile Damage Bonus"
 msgid "Momentum"
 msgstr "Momentum"
 
+msgid "Monster Ward"
+msgstr "Monster Ward"
+
 msgid "Mundane Damage"
 msgstr "Mundane Damage"
 
@@ -1099,6 +1102,9 @@ msgstr ""
 msgid "desc_Momentum"
 msgstr ""
 "Your blows are building - each consecutive hit on a monster lands harder."
+
+msgid "desc_Monster Ward"
+msgstr "Other monsters can no longer hurt it. Only players can."
 
 msgid "desc_Mundane Damage"
 msgstr ""
