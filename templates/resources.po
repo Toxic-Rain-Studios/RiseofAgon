@@ -11275,6 +11275,11 @@ msgstr " "
 msgid "desc_r_Marker Mine"
 msgstr "Marker for capturable mines"
 
+msgid "desc_r_Marker My Mount"
+msgstr ""
+"Where you left the mount you own. The marker disappears when you ride it "
+"again, lose ownership of it, or it dies."
+
 msgid "desc_r_Marker Npc Capital"
 msgstr "         "
 
@@ -30034,6 +30039,9 @@ msgstr "Marker Laboratory"
 
 msgid "r_Marker Mine"
 msgstr "Marker Mine"
+
+msgid "r_Marker My Mount"
+msgstr "My Mount"
 
 msgid "r_Marker Npc Capital"
 msgstr "Marker Npc Capital"
