@@ -8403,6 +8403,13 @@ msgstr "Maximum Number of 3D Sounds: %1"
 msgid "options_audio_sound_volume"
 msgstr "Main Sound Volume: %1"
 
+msgid "options_audio_voice_activation_sensitivity"
+msgstr "Voice activation sensitivity: %1"
+
+msgid "options_audio_voice_party_activation"
+msgstr ""
+"Party voice: transmit by voice activation (off = party push-to-talk key)"
+
 msgid "options_audio_voice_reopen_vicinity"
 msgstr "Reopen Voice Vicinity Window"
 
@@ -9568,6 +9575,21 @@ msgstr " \n"
 
 msgid "party_loot_roll_all"
 msgstr "Roll All"
+
+msgid "party_menu_voice_join"
+msgstr "Join party voice"
+
+msgid "party_menu_voice_leave"
+msgstr "Leave party voice"
+
+msgid "party_menu_voice_louder"
+msgstr "Voice louder (%1%)"
+
+msgid "party_menu_voice_quieter"
+msgstr "Voice quieter (%1%)"
+
+msgid "party_voice_checkbox"
+msgstr "Party voice chat"
 
 msgid "pet_collect_pending"
 msgstr ""
