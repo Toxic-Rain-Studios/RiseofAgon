@@ -4084,7 +4084,7 @@ msgid "holding_maintenance_payment_not_due"
 msgstr "Payment not due"
 
 msgid "holding_section_vulnerability"
-msgstr "Vulnerability"
+msgstr "VULNERABILITY"
 
 msgid "holding_vulnerability_schedule"
 msgstr "Vulnerable daily %1 (%2)"
@@ -4159,6 +4159,9 @@ msgstr "Drag a bar to move it, drag an edge to resize it."
 
 msgid "hud_arrange_banner_title"
 msgstr "Arranging HUD bars"
+
+msgid "hud_arrange_buffs"
+msgstr "Buffs"
 
 msgid "hud_arrange_done"
 msgstr "Done"
@@ -8626,6 +8629,27 @@ msgstr "Fade-out Time"
 msgid "options_gui_clutterizer"
 msgstr "Fade-out Type"
 
+msgid "options_gui_compass_show_annotations"
+msgstr "Show map annotations"
+
+msgid "options_gui_compass_show_clan_waypoints"
+msgstr "Show clan waypoints"
+
+msgid "options_gui_compass_show_marker_names"
+msgstr "Show names on markers"
+
+msgid "options_gui_compass_show_party_leaders"
+msgstr "Show linked party leaders"
+
+msgid "options_gui_compass_show_party_members"
+msgstr "Show party members"
+
+msgid "options_gui_compass_show_party_waypoint"
+msgstr "Show party waypoint"
+
+msgid "options_gui_compass_show_quests"
+msgstr "Show tracked quests"
+
 msgid "options_gui_confirm_batch_trash"
 msgstr "Confirm Batch Moves into Bin"
 
@@ -8667,6 +8691,9 @@ msgstr "Game Mode Window Opacity"
 
 msgid "options_gui_healing_number_color"
 msgstr "Healing numbers colour"
+
+msgid "options_gui_hide_background_heading"
+msgstr "Hide background in combat mode"
 
 msgid "options_gui_hide_buffs_outside_gui_mode"
 msgstr "Hide buff icons unless the cursor is showing"
@@ -8725,7 +8752,7 @@ msgid "options_gui_show_clan_overhead_icon"
 msgstr "Show Clan Overhead Icon"
 
 msgid "options_gui_show_compass_window"
-msgstr "Show Compass Window"
+msgstr "Show compass"
 
 msgid "options_gui_show_description_window"
 msgstr "Show Description Window"
@@ -8747,6 +8774,9 @@ msgstr "Show Tutorial next time"
 
 msgid "options_gui_tab_bars"
 msgstr "Bars"
+
+msgid "options_gui_tab_compass"
+msgstr "Compass"
 
 msgid "options_gui_tab_confirm"
 msgstr "Confirm"
@@ -8783,6 +8813,30 @@ msgstr "Use compact party health bar"
 
 msgid "options_gui_use_legacy_health_bar_targeting"
 msgstr "Use compact target health bar"
+
+msgid "options_gui_window_minimap"
+msgstr "Minimap"
+
+msgid "options_gui_window_notifications"
+msgstr "Notifications"
+
+msgid "options_gui_window_quest_tracker"
+msgstr "Quest tracker"
+
+msgid "options_gui_window_skill_tracker"
+msgstr "Skill tracker"
+
+msgid "options_gui_window_souls"
+msgstr "Souls"
+
+msgid "options_gui_window_status_bar"
+msgstr "Status bar"
+
+msgid "options_gui_window_voice"
+msgstr "Voice"
+
+msgid "options_gui_window_weapon_bar"
+msgstr "Weapon bar"
 
 msgid "options_hotbar_entry_auto_cast"
 msgstr "Auto Cast"
