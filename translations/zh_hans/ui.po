@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-04 04:14+0000\n"
+"PO-Revision-Date: 2026-10-04 05:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -2572,6 +2572,7 @@ msgstr "非常稀有奖励"
 msgid "character_alteration_confirmation_dialog_title"
 msgstr "确认种族更改为%1 %2?"
 
+#, fuzzy
 msgid "quit_dialog_no_button"
 msgstr "不同意(N)"
 
@@ -3287,6 +3288,7 @@ msgstr "位置:"
 msgid "clan_political_relationship_standing_description_five"
 msgstr "可以使用所有的制作站和商家."
 
+#, fuzzy
 msgid "quit_dialog_yes_button"
 msgstr "是的 (Y)"
 
