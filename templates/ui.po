@@ -3955,6 +3955,27 @@ msgstr "The rune glyph in %1 has fallen to a new faction!"
 msgid "glyph_immune"
 msgstr "This glyph is still immune to challenge."
 
+msgid "glyph_leash_failed"
+msgstr ""
+"Your challenge on the rune glyph in %1 has failed: you did not return in "
+"time."
+
+msgid "glyph_leash_left"
+msgstr ""
+"You have left the rune glyph in %1! Return within %2 seconds or your "
+"challenge fails."
+
+msgid "glyph_leash_reminder"
+msgstr "%2 seconds left to return to the rune glyph in %1!"
+
+msgid "glyph_leash_returned"
+msgstr "You are back at the rune glyph in %1. Your challenge continues."
+
+msgid "glyph_leash_rules"
+msgstr ""
+"Stay within %1 m of the rune glyph until your challenge ends. If you leave, "
+"you have %2 seconds to return or the challenge fails."
+
 msgid "glyph_locked_by_siege"
 msgstr "The glyph cannot be contested while its holding is under siege."
 
@@ -4635,6 +4656,9 @@ msgstr "Split and Merge Item"
 
 msgid "item_stamina_gain"
 msgstr "Stamina Gain"
+
+msgid "item_transmute_original_rank"
+msgstr "Original Rank"
 
 msgid "item_two_handed"
 msgstr "Two Handed"
