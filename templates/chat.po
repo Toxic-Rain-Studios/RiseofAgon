@@ -11596,6 +11596,11 @@ msgstr "[Mastery] You already walk the path of the %1."
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ALREADY_UP"
 msgstr "[Mastery] Your aura is already up."
 
+msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_BERSERKER"
+msgstr ""
+"faster melee attacks for your party - and no healing from other players for "
+"you."
+
 msgid "NOTIFICATION_PVE_MASTERY_AURA_BLURB_CUTTHROAT"
 msgstr "party melee damage vs monsters."
 
@@ -11703,6 +11708,9 @@ msgstr ""
 "[Mastery] %1 runs at its highest rank, %2, and rises as you level - %3 "
 "essence a use."
 
+msgid "NOTIFICATION_PVE_MASTERY_ENRAGE_ACTIVE"
+msgstr "[Mastery] ENRAGE - for %1s monsters cannot take you below 1 health."
+
 msgid "NOTIFICATION_PVE_MASTERY_ESSENCE_ATTUNED"
 msgstr "[Mastery] Attuned %1 Ancient Essence (pool %2 / %3)."
 
@@ -11728,6 +11736,13 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_GATE_NO_MASTERY"
 msgstr "[Mastery] You have no mastery active to take a Trial for."
 
+msgid "NOTIFICATION_PVE_MASTERY_HEALING_WARD_LOCKED"
+msgstr "[Mastery] Healing Ward is not unlocked yet."
+
+msgid "NOTIFICATION_PVE_MASTERY_HEALING_WARD_PVP"
+msgstr ""
+"[Mastery] Healing Ward cannot be placed while you are marked by PvP combat."
+
 msgid "NOTIFICATION_PVE_MASTERY_KILL_PROGRESS"
 msgstr "[Mastery] +%1 XP %2 L%3 (%4)"
 
@@ -11746,6 +11761,9 @@ msgstr "[Mastery] %1 needs a shield."
 
 msgid "NOTIFICATION_PVE_MASTERY_NEEDS_STAFF"
 msgstr "[Mastery] %1 needs a staff."
+
+msgid "NOTIFICATION_PVE_MASTERY_NEEDS_TWO_HANDER"
+msgstr "[Mastery] %1 needs a two-handed weapon."
 
 msgid "NOTIFICATION_PVE_MASTERY_NOT_IN_BUILD"
 msgstr "[Mastery] %1 is not available yet."

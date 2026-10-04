@@ -335,6 +335,20 @@ msgstr "Fires an arcane blast that pushes a target."
 msgid "desc_s_Begone_1"
 msgstr ""
 
+msgid "desc_s_Berserker Aura"
+msgstr ""
+"Party members near you attack faster in melee. While it holds, other players "
+"cannot heal you."
+
+msgid "desc_s_Berserker Aura_1"
+msgstr ""
+
+msgid "desc_s_Berserker Mastery"
+msgstr "Take up the Berserker path. Two-handers and rage."
+
+msgid "desc_s_Berserker Skills"
+msgstr ""
+
 msgid "desc_s_Bindstone Recall"
 msgstr "Teleports you to your bind point."
 
@@ -945,6 +959,14 @@ msgstr ""
 "The design, building, and use of engines, machines, and structures.  Stand "
 "near a foundry and press Use button to start crafting."
 
+msgid "desc_s_Enrage"
+msgstr ""
+"Roar into a burning rage: monsters cannot take you below 1 health while it "
+"lasts. Needs a two-handed weapon."
+
+msgid "desc_s_Enrage_1"
+msgstr ""
+
 msgid "desc_s_Environmental Skills"
 msgstr ""
 
@@ -1233,6 +1255,14 @@ msgstr "Heals those around you over time while you chant."
 
 msgid "desc_s_Healing Chant_1"
 msgstr "Description of s_Healing Chant_1"
+
+msgid "desc_s_Healing Ward"
+msgstr ""
+"Place a ward up to 30 m away. For 10 s it pulses every 2 s, healing everyone "
+"within 9 m. You and your party heal for more, rising with its rank."
+
+msgid "desc_s_Healing Ward_1"
+msgstr ""
 
 msgid "desc_s_Health"
 msgstr "Description of s_Endurance"
@@ -3569,6 +3599,18 @@ msgstr "Begone"
 msgid "s_Begone_1"
 msgstr "Begone_1"
 
+msgid "s_Berserker Aura"
+msgstr "Berserker Aura"
+
+msgid "s_Berserker Aura_1"
+msgstr "Berserker Aura_1"
+
+msgid "s_Berserker Mastery"
+msgstr "Berserker Mastery"
+
+msgid "s_Berserker Skills"
+msgstr "Berserker Skills"
+
 msgid "s_Bindstone Recall"
 msgstr "Bindstone Recall"
 
@@ -4142,6 +4184,12 @@ msgstr "Engineering"
 msgid "s_Engineering Mastery"
 msgstr "Engineering Mastery"
 
+msgid "s_Enrage"
+msgstr "Enrage"
+
+msgid "s_Enrage_1"
+msgstr "Enrage_1"
+
 msgid "s_Environmental Skills"
 msgstr "Environmental Skills"
 
@@ -4408,6 +4456,12 @@ msgstr "Healing Chant"
 
 msgid "s_Healing Chant_1"
 msgstr "Healing Chant_1"
+
+msgid "s_Healing Ward"
+msgstr "Healing Ward"
+
+msgid "s_Healing Ward_1"
+msgstr "Healing Ward_1"
 
 msgid "s_Health"
 msgstr "Health"

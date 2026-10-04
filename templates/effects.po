@@ -50,6 +50,12 @@ msgstr "Base Attribute Penalty"
 msgid "Benefaction"
 msgstr "Benefaction"
 
+msgid "Berserker Aura"
+msgstr "Berserker Aura"
+
+msgid "Berserker Fury"
+msgstr "Berserker Fury"
+
 msgid "Bleeding Damage"
 msgstr "Bleeding Damage"
 
@@ -205,6 +211,9 @@ msgstr "Effect"
 
 msgid "Efficient Archery"
 msgstr "Efficient Archery"
+
+msgid "Enrage"
+msgstr "Enrage"
 
 msgid "Extension Effects"
 msgstr "Extension Effects"
@@ -746,6 +755,14 @@ msgstr ""
 msgid "desc_Benefaction"
 msgstr ""
 
+msgid "desc_Berserker Aura"
+msgstr "A Berserker roars your party on: melee attacks come faster."
+
+msgid "desc_Berserker Fury"
+msgstr ""
+"Your rage rises as your health drops: harder hits, faster swings and "
+"lifesteal. The number is how deep it runs."
+
 msgid "desc_Bleeding Damage"
 msgstr ""
 
@@ -900,6 +917,9 @@ msgstr ""
 
 msgid "desc_Efficient Archery"
 msgstr " "
+
+msgid "desc_Enrage"
+msgstr "Monsters cannot take you below 1 health."
 
 msgid "desc_Extension Effects"
 msgstr " "

@@ -7032,8 +7032,8 @@ msgstr "Battle Fortitude"
 
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
-"Steal life on every melee hit against monsters: up to 12% of damage dealt, "
-"scaling with your missing health."
+"Power Attacks on monsters heal you for up to 40% of the hit, more the lower "
+"your health."
 
 # BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
 # 
@@ -7044,34 +7044,56 @@ msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Bloodthirst"
 
 msgid "mastery_alt_berserker_bloodthirst_rank1"
-msgstr "Maximum lifesteal at low health raised to 16%."
+msgstr "Up to 45%."
 
 msgid "mastery_alt_berserker_bloodthirst_rank2"
-msgstr "Maximum lifesteal raised to 20%."
+msgstr "Up to 50%."
 
 msgid "mastery_alt_berserker_bloodthirst_rank3"
-msgstr "Maximum lifesteal raised to 25%."
+msgstr "Up to 55%."
 
 msgid "mastery_alt_berserker_bloodthirst_rank4"
-msgstr "Maximum lifesteal raised to 25%."
+msgstr "Up to 60%."
+
+msgid "mastery_alt_berserker_enrage_desc"
+msgstr ""
+"ACTIVE: for 10 seconds monsters cannot take you below 1 health. 3 minute "
+"cooldown."
+
+msgid "mastery_alt_berserker_enrage_name"
+msgstr "Enrage"
+
+msgid "mastery_alt_berserker_enrage_rank1"
+msgstr "Lasts 12 seconds, cooldown 2 minutes 50 seconds."
+
+msgid "mastery_alt_berserker_enrage_rank2"
+msgstr "Lasts 15 seconds, cooldown 2 minutes 40 seconds."
+
+msgid "mastery_alt_berserker_enrage_rank3"
+msgstr "Lasts 17 seconds, cooldown 2 minutes 25 seconds."
+
+msgid "mastery_alt_berserker_enrage_rank4"
+msgstr "Lasts 20 seconds, cooldown 2 minutes 15 seconds."
 
 msgid "mastery_alt_berserker_frenzy_desc"
-msgstr "Attack speed rises with missing health: up to +20% at low health."
+msgstr ""
+"You swing up to +20% faster and every melee hit on a monster heals you for "
+"up to 8% of it, more the lower your health."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Frenzy"
 
 msgid "mastery_alt_berserker_frenzy_rank1"
-msgstr "Two-handed special cooldowns also drop at low health, up to -10%."
+msgstr "Up to +22% faster and 10% healed."
 
 msgid "mastery_alt_berserker_frenzy_rank2"
-msgstr "Special cooldowns drop up to -20%."
+msgstr "Up to +25% faster and 12% healed."
 
 msgid "mastery_alt_berserker_frenzy_rank3"
-msgstr "Special cooldowns drop up to -30%."
+msgstr "Up to +27% faster and 14% healed."
 
 msgid "mastery_alt_berserker_frenzy_rank4"
-msgstr "Special cooldowns drop up to -30%."
+msgstr "Up to +30% faster and 16% healed."
 
 msgid "mastery_alt_berserker_laststand_desc"
 msgstr ""
@@ -7103,43 +7125,43 @@ msgstr ""
 
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
-"Whirlwind Attack deals +8% damage per monster around you, counting up to 3 "
-"(+24%)."
+"Whirlwind Attack deals +8% damage per monster that hit you in the last 5 "
+"seconds, counting up to 2 (+16%)."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Maelstrom"
 
 msgid "mastery_alt_berserker_maelstrom_rank1"
-msgstr "Counts up to 4 monsters (max +32%)."
+msgstr "Counts up to 3 (+24%)."
 
 msgid "mastery_alt_berserker_maelstrom_rank2"
-msgstr "Counts up to 5 monsters (max +40%)."
+msgstr "Counts up to 4 (+32%)."
 
 msgid "mastery_alt_berserker_maelstrom_rank3"
-msgstr "Counts up to 6 monsters (max +48%)."
+msgstr "Counts up to 5 (+40%)."
 
 msgid "mastery_alt_berserker_maelstrom_rank4"
-msgstr "Counts up to 6 monsters (max +48%)."
+msgstr "Counts up to 6 (+48%)."
 
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
-"+20% damage to monsters above 80% health, fading to nothing as the target "
+"+20% damage to monsters above 80% health, fading to nothing as the monster "
 "drops to 30%."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Onslaught"
 
 msgid "mastery_alt_berserker_onslaught_rank1"
-msgstr "The bonus never fades below +5%."
+msgstr "Never fades below +4%."
 
 msgid "mastery_alt_berserker_onslaught_rank2"
-msgstr "The bonus never fades below +10%."
+msgstr "Never fades below +8%."
 
 msgid "mastery_alt_berserker_onslaught_rank3"
-msgstr "The bonus never fades below +15%."
+msgstr "Never fades below +12%."
 
 msgid "mastery_alt_berserker_onslaught_rank4"
-msgstr "The bonus never fades below +15%."
+msgstr "Never fades below +15%."
 
 msgid "mastery_alt_blightcaller_blight_desc"
 msgstr ""
@@ -7598,23 +7620,25 @@ msgstr "Mana Shield"
 
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
-"Healing Chant no longer heals monsters and heals you and your party +100% "
-"more, for +100% mana."
+"Grants Healing Ward: place it up to 30 m away and it heals players within 9 "
+"m for 7.5 every 2 s, for 10 s (20 s cooldown). You and your party heal +100% "
+"more from it and from Healing Chant, which costs +100% mana and heals no "
+"monsters."
 
 msgid "mastery_alt_oracle_benediction_name"
-msgstr "Benediction"
+msgstr "Healing Ward"
 
 msgid "mastery_alt_oracle_benediction_rank1"
-msgstr "Raised to +125%, for +125% mana."
+msgstr "Raised to +125%, Healing Chant +125% mana."
 
 msgid "mastery_alt_oracle_benediction_rank2"
-msgstr "Raised to +150%, for +150% mana."
+msgstr "Raised to +150%, Healing Chant +150% mana."
 
 msgid "mastery_alt_oracle_benediction_rank3"
-msgstr "Raised to +175%, for +175% mana."
+msgstr "Raised to +175%, Healing Chant +175% mana."
 
 msgid "mastery_alt_oracle_benediction_rank4"
-msgstr "Raised to +200%, for +200% mana."
+msgstr "Raised to +200%, Healing Chant +200% mana."
 
 msgid "mastery_alt_oracle_communion_desc"
 msgstr ""
@@ -7828,6 +7852,9 @@ msgstr "Cut by 75% for 20 seconds. 135 second cooldown."
 
 msgid "mastery_alterations_caption"
 msgstr "Alterations"
+
+msgid "mastery_aura_effect_berserker"
+msgstr "faster melee attacks for your party"
 
 msgid "mastery_aura_effect_cutthroat"
 msgstr "bonus melee damage for your party against monsters"
@@ -8048,7 +8075,8 @@ msgid "mastery_rank_tab_track"
 msgstr "Track"
 
 msgid "mastery_role_berserker"
-msgstr "Not yet built."
+msgstr ""
+"Melee damage, swing speed and lifesteal that rise as your health drops."
 
 msgid "mastery_role_blightcaller"
 msgstr "Not yet built."
@@ -8124,6 +8152,9 @@ msgstr ""
 
 msgid "mastery_track_header"
 msgstr "%1 Track"
+
+msgid "mastery_track_rule_berserker"
+msgstr "Every effect is disabled while you are marked by PvP combat."
 
 msgid "mastery_track_rule_cutthroat"
 msgstr "Every effect is disabled while you are marked by PvP combat."
@@ -8281,7 +8312,7 @@ msgid "mastery_unlocks_at"
 msgstr "unlocks at level %1"
 
 msgid "mastery_weapon_berserker"
-msgstr ""
+msgstr "Requires a two-handed weapon. The aura works without one."
 
 msgid "mastery_weapon_blightcaller"
 msgstr ""
