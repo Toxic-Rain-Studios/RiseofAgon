@@ -1266,8 +1266,9 @@ msgstr "I put a Berry Oatmeal on my hotbar."
 
 msgid "diary_text_quest_21251"
 msgstr ""
-"I killed five goblin scouts and three goblin fighters at the camp east of "
-"the war camp."
+"I killed three goblin scouts and two goblin fighters, and broke a goblin's "
+"raised guard with my greatsword's Disabling Blow.I killed five goblin scouts "
+"and three goblin fighters at the camp east of the war camp."
 
 msgid "diary_text_quest_21252"
 msgstr "I carried word of the raid back to Torvald."
@@ -1280,6 +1281,12 @@ msgstr "I destroyed the goblin shrine at the heart of the camp."
 
 msgid "diary_text_quest_21255"
 msgstr "I put a sack in my loot bag slot before raiding the goblin camp."
+
+msgid "diary_text_quest_21256"
+msgstr ""
+"I put the greatsword Disabling Blow on hotbar key 5, beside Mana Missile. "
+"With the staff out, 5 casts Mana Missile; with the greatsword out, it swings "
+"Disabling Blow."
 
 msgid "diary_text_quest_21261"
 msgstr ""
@@ -1486,9 +1493,18 @@ msgstr ""
 "Their bandit raiding days will soon be over."
 
 msgid "diary_text_quest_21401"
+msgstr "I looted five Teeth from the goblins' graves."
+
+msgid "diary_text_quest_21402"
+msgstr "I found Kick in my Skill & Spell Book and put it on hotbar key 9."
+
+msgid "diary_text_quest_21403"
+msgstr "I kicked a goblin shaman in the middle of a spell and stopped it."
+
+msgid "diary_text_quest_21404"
 msgstr ""
-"I looted five Teeth from the goblins' graves and showed them to Torvald, who "
-"let me keep them."
+"I went back to Torvald, showed him the teeth and told him about the shaman. "
+"He let me keep the teeth."
 
 msgid "diary_text_quest_2141"
 msgstr ""
@@ -12766,6 +12782,12 @@ msgstr "Without it they have nothing left to rally to."
 msgid "end_text_quest_21255"
 msgstr "Good. Now you have somewhere to put what you take off them."
 
+msgid "end_text_quest_21256"
+msgstr ""
+"Now 5 follows your weapon: Mana Missile with the staff, Disabling Blow with "
+"the greatsword. Save the blow for a raised guard - it will not come round "
+"again for a while."
+
 msgid "end_text_quest_21261"
 msgstr ""
 "I am very pleased, thank you for your service and helping to secure our "
@@ -12981,8 +13003,23 @@ msgstr ""
 msgid "end_text_quest_21401"
 msgstr ""
 "Five, and not a chipped one among them. Keep them - teeth are an enchanting "
-"ingredient, and you will want them later. I only needed to know you could "
-"bring them back."
+"ingredient, and you will want them later."
+
+msgid "end_text_quest_21402"
+msgstr ""
+"Press 9 and you kick, whatever is in your hands. It takes 15 seconds to come "
+"round again, so save it for a spell worth stopping."
+
+msgid "end_text_quest_21403"
+msgstr ""
+"That is how you deal with a caster: let it start, then take the spell away "
+"from it. A kicked shaman cannot cast again for a couple of seconds."
+
+msgid "end_text_quest_21404"
+msgstr ""
+"A shaman with its spell kicked out of it, and five teeth to show for the "
+"walk. You can stop a caster and you can bring back what I ask for. Keep the "
+"teeth - I only needed to know you could do it."
 
 msgid "end_text_quest_2141"
 msgstr ""
@@ -22025,7 +22062,9 @@ msgid "finished_text_quest_21242"
 msgstr "You put a Berry Oatmeal on hotbar key 6."
 
 msgid "finished_text_quest_21251"
-msgstr "You killed 5 goblin scouts and 3 goblin fighters."
+msgstr ""
+"You killed 3 goblin scouts and 2 goblin fighters, and broke a goblin's guard "
+"with Disabling Blow."
 
 msgid "finished_text_quest_21252"
 msgstr "You reported to Torvald the Fighter."
@@ -22038,6 +22077,9 @@ msgstr "The goblin shrine is destroyed."
 
 msgid "finished_text_quest_21255"
 msgstr "You equipped the sack as your loot bag."
+
+msgid "finished_text_quest_21256"
+msgstr "You put Disabling Blow on hotbar key 5."
 
 msgid "finished_text_quest_21261"
 msgstr "You reported to Mary the Councillor."
@@ -22211,7 +22253,18 @@ msgstr ""
 "your reward."
 
 msgid "finished_text_quest_21401"
-msgstr "You looted 5 Teeth. Now take them to Torvald the Fighter."
+msgstr "You looted 5 Teeth."
+
+msgid "finished_text_quest_21402"
+msgstr "You put Kick on hotbar key 9."
+
+msgid "finished_text_quest_21403"
+msgstr ""
+"You kicked a goblin shaman out of its spell. Now go back to Torvald the "
+"Fighter."
+
+msgid "finished_text_quest_21404"
+msgstr "You reported back to Torvald the Fighter."
 
 msgid "finished_text_quest_2141"
 msgstr ""
@@ -31733,19 +31786,22 @@ msgid "name_quest_21250"
 msgstr "Quest 5A"
 
 msgid "name_quest_21251"
-msgstr "Quest 5A - step 2 - the skirmish"
+msgstr "Quest 5A - step 3 - the skirmish"
 
 msgid "name_quest_21252"
-msgstr "Quest 5A - step 5 - word to Torvald"
+msgstr "Quest 5A - step 6 - word to Torvald"
 
 msgid "name_quest_21253"
-msgstr "Quest 5A - step 3 - the shaman"
+msgstr "Quest 5A - step 4 - the shaman"
 
 msgid "name_quest_21254"
-msgstr "Quest 5A - step 4 - the shrine"
+msgstr "Quest 5A - step 5 - the shrine"
 
 msgid "name_quest_21255"
 msgstr "Quest 5A - step 1 - the loot bag"
+
+msgid "name_quest_21256"
+msgstr "Quest 5A - step 2 - Disabling Blow on key 5"
 
 msgid "name_quest_2126"
 msgstr "The power behind the kobolds"
@@ -31976,7 +32032,16 @@ msgid "name_quest_21400"
 msgstr "Quest 5B"
 
 msgid "name_quest_21401"
-msgstr "Quest 5B - step 1 - the teeth"
+msgstr "Quest 5B - step 2 - the teeth"
+
+msgid "name_quest_21402"
+msgstr "Quest 5B - step 1 - put Kick on your bar"
+
+msgid "name_quest_21403"
+msgstr "Quest 5B - step 3 - kick a shaman out of a spell"
+
+msgid "name_quest_21404"
+msgstr "Quest 5B - step 4 - back to Torvald"
 
 msgid "name_quest_2141"
 msgstr "stop the hivekin"
@@ -40941,6 +41006,14 @@ msgstr "Approach the light on the cliff"
 msgid "quest_marker_21394"
 msgstr "Find Agent Archaeus in his cave"
 
+msgid "quest_marker_21403"
+msgstr "Kick a casting goblin shaman"
+
+msgid "quest_progress_guard_break"
+msgstr ""
+"^Cdarkfall^You have broken ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
+"^Cdarkfall^raised guards with Disabling Blow."
+
 msgid "short_desc_quest_10000"
 msgstr "Kill 10 Goblins"
 
@@ -42809,7 +42882,9 @@ msgid "short_desc_quest_21250"
 msgstr "Raid the goblin camp east of the war camp."
 
 msgid "short_desc_quest_21251"
-msgstr "Kill 5 goblin scouts and 3 goblin fighters."
+msgstr ""
+"Kill 3 goblin scouts and 2 goblin fighters, and break a goblin's raised "
+"guard with the greatsword's Disabling Blow."
 
 msgid "short_desc_quest_21252"
 msgstr "Report your success to Torvald the Fighter."
@@ -42822,6 +42897,11 @@ msgstr "Destroy the goblin shrine."
 
 msgid "short_desc_quest_21255"
 msgstr "Place the sack in your loot bag slot."
+
+msgid "short_desc_quest_21256"
+msgstr ""
+"Hold the greatsword Disabling Blow over hotbar key 5, then drop it into the "
+"empty slot that opens beside Mana Missile."
 
 msgid "short_desc_quest_2126"
 msgstr "Kill four trolls."
@@ -43054,10 +43134,21 @@ msgid "short_desc_quest_2140"
 msgstr "Kill three Ork Thugs and three Ork Bruisers."
 
 msgid "short_desc_quest_21400"
-msgstr "Loot 5 Teeth from the goblins' graves for Torvald."
+msgstr ""
+"Put Kick on your bar, loot 5 Teeth from the goblins' graves, kick a goblin "
+"shaman out of a spell, then report to Torvald."
 
 msgid "short_desc_quest_21401"
-msgstr "Loot 5 Teeth from graves, then take them to Torvald."
+msgstr "Loot 5 Teeth from the goblins' graves."
+
+msgid "short_desc_quest_21402"
+msgstr "Drag Kick onto hotbar key 9."
+
+msgid "short_desc_quest_21403"
+msgstr "Kick a goblin shaman while it is casting, and stop its spell."
+
+msgid "short_desc_quest_21404"
+msgstr "Return to Torvald the Fighter at the war camp."
 
 msgid "short_desc_quest_2141"
 msgstr "Kill five Hivekin Foragers."
@@ -57248,8 +57339,12 @@ msgstr ""
 
 msgid "start_text_quest_21251"
 msgstr ""
-"Journey east and assault the goblin camp. Kill 5 goblin scouts and 3 goblin "
-"fighters. The camp is marked on your map."
+"Some goblins carry a shield and raise it when you come at them, and a raised "
+"guard turns an ordinary blow aside. A greatsword's Disabling Blow goes "
+"straight through it. Draw your greatsword, wait for a goblin to raise its "
+"guard, and break it with Disabling Blow - in among the kills, in whatever "
+"order the fight gives you.Journey east and assault the goblin camp. Kill 5 "
+"goblin scouts and 3 goblin fighters. The camp is marked on your map."
 
 msgid "start_text_quest_21252"
 msgstr "Carry word of the raid back to Torvald at the war camp."
@@ -57267,6 +57362,18 @@ msgstr ""
 "Before you march on the camp, put that sack in the loot bag slot of your "
 "paperdoll. Press P to open it. Anything you take from the dead collects in "
 "there, and a full loot bag empties into your bank in a single press later."
+
+msgid "start_text_quest_21256"
+msgstr ""
+"Some of those goblins carry shields, and a raised guard turns an ordinary "
+"blow aside. Your greatsword has a move that goes straight through one: "
+"Disabling Blow. Open your Skill & Spell Book from the menu bar, then Melee, "
+"then Greatswords - or type Disabling into the search and take the one for "
+"greatswords. Drag it over hotbar key 5 and hold it there: the key opens out, "
+"and an empty slot appears to the right of Mana Missile. Drop it into that "
+"empty slot, not onto Mana Missile. A key can hold more than one thing, and "
+"it uses whichever fits what is in your hands: with your staff out, 5 casts "
+"Mana Missile; with your greatsword out, 5 swings Disabling Blow."
 
 msgid "start_text_quest_2126"
 msgstr ""
@@ -57731,15 +57838,34 @@ msgstr ""
 
 msgid "start_text_quest_21400"
 msgstr ""
-"One more thing, while you are out there. Every goblin you put down leaves a "
-"grave, and every grave has teeth in it. Bring me five. I will not ask what "
-"for."
+"One more thing, while you are out there. Put Kick on your bar first. Every "
+"goblin you put down leaves a grave, and every grave has teeth in it: loot "
+"five. I will not ask what for. Then the shamans - they are the real danger, "
+"and a shaman halfway through a spell is one you can stop: a good kick breaks "
+"the casting before it lands. Stop one, then come back and tell me."
 
 msgid "start_text_quest_21401"
 msgstr ""
 "Everything you kill leaves a grave. Look at one and press F to open it, then "
-"click an item to move it across to your backpack. Loot 5 Teeth and take them "
-"to Torvald at the war camp."
+"click an item to move it across to your backpack. Loot 5 Teeth from the "
+"goblins' graves."
+
+msgid "start_text_quest_21402"
+msgstr ""
+"Kick is known rather than carried, like your spells. Open your Skill & Spell "
+"Book from the menu bar, type Kick into the search, and drag it onto hotbar "
+"key 9."
+
+msgid "start_text_quest_21403"
+msgstr ""
+"The goblin shamans keep to the inner ring of the camp east of the war camp. "
+"When one starts to cast, get in close and press 9. Only a kick that stops a "
+"spell counts, so time it: kick while the shaman is casting."
+
+msgid "start_text_quest_21404"
+msgstr ""
+"Go back to Torvald the Fighter at the war camp and tell him how the shaman "
+"took it."
 
 msgid "start_text_quest_2141"
 msgstr ""
@@ -87431,6 +87557,12 @@ msgstr ""
 "^Cdarkfall^You have equipped your loot bag ^Cwhite^%1 ^Cdarkfall^of "
 "^Cwhite^%2 ^Cdarkfall^times."
 
+msgid "use_skill_message_quest_21256"
+msgstr ""
+"^Cdarkfall^Hold ^Cwhite^Disabling Blow ^Cdarkfall^over hotbar key "
+"^Cwhite^5^Cdarkfall^, then drop it into the empty slot that opens beside "
+"Mana Missile."
+
 msgid "use_skill_message_quest_21271"
 msgstr ""
 "^Cdarkfall^You have deposited your gold in the bank ^Cwhite^%1 ^Cdarkfall^of "
@@ -87486,6 +87618,16 @@ msgid "use_skill_message_quest_21395"
 msgstr ""
 "^Cdarkfall^You have cast Light ^Cwhite^%1 ^Cdarkfall^of ^Cwhite^%2 "
 "^Cdarkfall^times."
+
+msgid "use_skill_message_quest_21402"
+msgstr ""
+"^Cdarkfall^Drag ^Cwhite^Kick ^Cdarkfall^from your book onto hotbar key "
+"^Cwhite^9^Cdarkfall^."
+
+msgid "use_skill_message_quest_21403"
+msgstr ""
+"^Cdarkfall^Goblin shamans kicked out of a spell: ^Cwhite^%1 ^Cdarkfall^of "
+"^Cwhite^%2^Cdarkfall^."
 
 msgid "use_skill_message_quest_21411"
 msgstr ""
