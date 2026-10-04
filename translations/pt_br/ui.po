@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-03 16:25+0000\n"
+"PO-Revision-Date: 2026-10-04 04:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -1035,6 +1035,7 @@ msgstr "Identificar alvos distantes"
 msgid "options_gui_show_description_window"
 msgstr "Mostrar a janela de descrição"
 
+#, fuzzy
 msgid "options_gui_show_compass_window"
 msgstr "Mostrar a janela da bússola"
 
@@ -4157,6 +4158,7 @@ msgstr "Política"
 msgid "map_options_section_monster_types"
 msgstr "Tipos de monstros"
 
+#, fuzzy
 msgid "holding_section_vulnerability"
 msgstr "Vulnerabilidade"
 
