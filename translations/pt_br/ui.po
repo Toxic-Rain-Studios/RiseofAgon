@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 04:14+0000\n"
+"PO-Revision-Date: 2026-10-04 05:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -4007,9 +4007,11 @@ msgstr ""
 "Se você aceitar que seu cliente vai fechar e seu personagem permanecerá no "
 "mundo até que o temporizador de acampamento tenha expirado."
 
+#, fuzzy
 msgid "quit_dialog_yes_button"
 msgstr "Sim (y)"
 
+#, fuzzy
 msgid "quit_dialog_no_button"
 msgstr "Não (n)"
 
