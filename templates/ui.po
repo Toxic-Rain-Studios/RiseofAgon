@@ -1647,6 +1647,9 @@ msgstr "the message to say"
 msgid "chat_server_cmd_say_recruiting_desc"
 msgstr "echoes a message to all players regarding the topic of clan recruiting"
 
+msgid "chat_server_cmd_say_recruitment_desc"
+msgstr "sends a recruitment message to your faction"
+
 msgid "chat_server_cmd_say_trade_desc"
 msgstr "echoes a global trade message to all other players players"
 
