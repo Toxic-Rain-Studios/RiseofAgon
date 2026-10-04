@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-03 16:25+0000\n"
+"PO-Revision-Date: 2026-10-04 04:14+0000\n"
 "Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -1036,6 +1036,7 @@ msgstr "Identificar objetivos distantes"
 msgid "options_gui_show_description_window"
 msgstr "Mostrar ventana de descripción"
 
+#, fuzzy
 msgid "options_gui_show_compass_window"
 msgstr "Mostrar brújula"
 
@@ -4180,6 +4181,7 @@ msgstr "Política política"
 msgid "map_options_section_monster_types"
 msgstr "Tipos de monstruo"
 
+#, fuzzy
 msgid "holding_section_vulnerability"
 msgstr "Vulnerabilidad"
 
