@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 04:14+0000\n"
+"PO-Revision-Date: 2026-10-04 05:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "de/>\n"
@@ -4042,9 +4042,11 @@ msgstr ""
 "Wenn du akzeptierst, wird dein client schließen und dein charakter bleibt in"
 " der welt, bis der camping-timer abgelaufen ist."
 
+#, fuzzy
 msgid "quit_dialog_yes_button"
 msgstr "Ja (y)"
 
+#, fuzzy
 msgid "quit_dialog_no_button"
 msgstr "Nr. (n)"
 
