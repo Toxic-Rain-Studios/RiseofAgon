@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/ru/>\n"
@@ -5541,9 +5541,11 @@ msgstr "Питомец: Королева демонов"
 msgid "desc_r_toy_demon_queen"
 msgstr "Коллекционная игрушка, которая вызывает питомца Королевы Демонов."
 
+#, fuzzy
 msgid "r_toy_devil"
 msgstr "Питомец: Демон"
 
+#, fuzzy
 msgid "desc_r_toy_devil"
 msgstr "Коллекционная игрушка, которая вызывает питомца Демона."
 
@@ -6295,9 +6297,11 @@ msgstr "Питомец: Зомби-воин"
 msgid "desc_r_toy_zombie_warrior"
 msgstr "Коллекционная игрушка, которая вызывает зомби-воина."
 
+#, fuzzy
 msgid "r_toy_demon"
 msgstr "Питомец: Повелитель демонов"
 
+#, fuzzy
 msgid "desc_r_toy_demon"
 msgstr "Коллекционная игрушка, которая вызывает питомца Демона Лорда."
 
