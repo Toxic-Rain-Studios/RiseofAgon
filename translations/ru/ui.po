@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 23:52+0000\n"
+"PO-Revision-Date: 2026-10-05 22:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -5746,6 +5746,7 @@ msgid "glyph_challenge_started_defend"
 msgstr ""
 "Вы начали ченнелинг, чтобы отменить вызов на этом глифе. Держите землю!"
 
+#, fuzzy
 msgid "glyph_cancelled"
 msgstr "Вы успешно отменили вызов. Теперь глиф невосприимчив."
 
