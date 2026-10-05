@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-01 12:59+0000\n"
+"PO-Revision-Date: 2026-10-05 04:18+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/quests/pt_BR/>\n"
@@ -69923,9 +69923,11 @@ msgstr ""
 msgid "name_quest_21400"
 msgstr "Missão 20"
 
+#, fuzzy
 msgid "short_desc_quest_21400"
 msgstr "Loot 5 Dentes das sepulturas dos duendes para Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21400"
 msgstr ""
 "Mais uma coisa, enquanto estás lá fora. Cada duende que pousas deixa uma "
@@ -69936,24 +69938,29 @@ msgstr ""
 msgid "name_quest_21401"
 msgstr "Missão 20 - etapa 1 - os dentes"
 
+#, fuzzy
 msgid "short_desc_quest_21401"
 msgstr "Loot 5 Dentes de sepulturas, em seguida, levá-los para Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21401"
 msgstr ""
 "Tudo o que matas deixa um túmulo. Olhe para um e pressione F para abri-lo, "
-"em seguida, clique em um item para movê-lo para sua mochila. Loot 5 Dentes e"
-" levá-los para Torvald no campo de guerra."
+"em seguida, clique em um item para movê-lo para sua mochila. Loot 5 Dentes e "
+"levá-los para Torvald no campo de guerra."
 
+#, fuzzy
 msgid "end_text_quest_21401"
 msgstr ""
 "Cinco, e não um chipado entre eles. Guarde - os - os dentes são um "
-"ingrediente encantador, e você os desejará mais tarde. Só precisava de saber"
-" que podias trazê-los de volta."
+"ingrediente encantador, e você os desejará mais tarde. Só precisava de saber "
+"que podias trazê-los de volta."
 
+#, fuzzy
 msgid "finished_text_quest_21401"
 msgstr "Você roubou 5 dentes. Agora leva-os para Torvald, o Lutador."
 
+#, fuzzy
 msgid "diary_text_quest_21401"
 msgstr ""
 "Eu saquei cinco dentes das sepulturas dos duendes e mostrei-lhes Torvald, "

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
+"PO-Revision-Date: 2026-10-04 23:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -6675,9 +6675,11 @@ msgstr "Ocultar borda"
 msgid "hud_icon_show_border"
 msgstr "Mostrar o contorno"
 
+#, fuzzy
 msgid "hud_icon_hide_background"
 msgstr "Esconder o fundo"
 
+#, fuzzy
 msgid "hud_icon_show_background"
 msgstr "Mostrar o fundo"
 
@@ -7239,6 +7241,7 @@ msgstr ""
 "meia-noite). Embora invulneráveis, suas cidades, estruturas e outros bens "
 "estão a salvo de cercos e destruição."
 
+#, fuzzy
 msgid "clan_activity_window_cost_explain"
 msgstr ""
 "Mudar sua janela de atividade custa %1 ouro do cofre do clã, e só pode ser "
@@ -8610,69 +8613,84 @@ msgstr "Aura desbloqueia no nível %1"
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Sede de sangue"
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
 "Roubar a vida em cada ataque melee contra monstros: até 12% de danos "
 "tratados, escalando com sua saúde desaparecida."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank1"
 msgstr "Roubo de vida máximo em baixa saúde elevado para 16%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank2"
 msgstr "Roubo de vida máximo aumentado para 20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Roubo de vida máximo aumentado para 25%."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Frenesi"
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr ""
-"A velocidade de ataque aumenta com a falta de saúde: até +20% em baixa "
-"saúde."
+"A velocidade de ataque aumenta com a falta de saúde: até +20% em baixa saúde."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank1"
 msgstr ""
 "Arrefecimentos especiais de duas mãos também caem em baixa saúde, até -10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Resfriamentos especiais caem para -20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank3"
 msgstr "Resfriamentos especiais caem para -30%."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Maelstrom"
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "O Whirlwind Attack causa +8% danos por monstro ao seu redor, contando até 3 "
 "(+24%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank1"
 msgstr "Conta até 4 monstros (máx. +32%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Conta até 5 monstros (máx. +40%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank3"
 msgstr "Conta até 6 monstros (máx. +48%)."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Ataque"
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
-"+20% danos a monstros acima de 80% saúde, desaparecendo para nada enquanto o"
-" alvo cai para 30%."
+"+20% danos a monstros acima de 80% saúde, desaparecendo para nada enquanto o "
+"alvo cai para 30%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank1"
 msgstr "O bônus nunca desaparece abaixo de +5%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank2"
 msgstr "O bônus nunca desaparece abaixo de +10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "O bônus nunca desaparece abaixo de +15%."
 
@@ -9056,9 +9074,11 @@ msgstr "Aumentado para 75%."
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Aumentado para 100%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Benedicção"
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
 "Curar Chant já não cura monstros e cura você e seu partido +100% mais, para "
@@ -9518,6 +9538,7 @@ msgstr ""
 msgid "mastery_role_deadeye"
 msgstr "Dano ranged que escala com o quão confiável você pousar flechas."
 
+#, fuzzy
 msgid "mastery_role_berserker"
 msgstr "Ainda não construído."
 
