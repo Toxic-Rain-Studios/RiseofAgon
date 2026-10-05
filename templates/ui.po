@@ -4395,6 +4395,14 @@ msgstr "Pin (keep in place when sorting)"
 msgid "inventory_menu_unpin_container"
 msgstr "Unpin (allow sorting to move)"
 
+msgid "inventory_nodrop_heading"
+msgstr "No drop"
+
+msgid "inventory_nodrop_toggle_tooltip"
+msgstr ""
+"Items that never leave your bag - starter gear and store items. Click to "
+"show or hide them."
+
 msgid "inventory_sort_button"
 msgstr "Sort"
 
