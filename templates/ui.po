@@ -6579,6 +6579,9 @@ msgstr "Holding a territory's glyph grants its bonus to the owner."
 msgid "map_tt_territory_bonus"
 msgstr "Bonus: %1"
 
+msgid "map_tt_territory_bonus_split"
+msgstr "Bonus: XP +%1%, loot & harvest +%2%"
+
 msgid "map_tt_territory_pulse"
 msgstr "A pulsing territory has a glyph under challenge."
 
