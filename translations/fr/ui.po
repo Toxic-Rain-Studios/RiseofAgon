@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 23:52+0000\n"
+"PO-Revision-Date: 2026-10-05 22:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "fr/>\n"
@@ -5802,9 +5802,9 @@ msgstr ""
 "Vous avez commencé à canaliser pour annuler le défi sur ce glyphe. Ne bougez"
 " pas !"
 
+#, fuzzy
 msgid "glyph_cancelled"
-msgstr ""
-"Vous avez réussi à annuler le défi. Le glyphe est maintenant immunisé."
+msgstr "Vous avez réussi à annuler le défi. Le glyphe est maintenant immunisé."
 
 msgid "glyph_flipped"
 msgstr "Le glyphe rune en %1 est tombé dans une nouvelle faction !"
