@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/fr/>\n"
@@ -5603,9 +5603,11 @@ msgid "desc_r_toy_demon_queen"
 msgstr ""
 "Un jouet à collectionner qui convoque un animal de compagnie de Démon Queen."
 
+#, fuzzy
 msgid "r_toy_devil"
 msgstr "Familier : Démon"
 
+#, fuzzy
 msgid "desc_r_toy_devil"
 msgstr "Un jouet à collectionner qui convoque un démon."
 
@@ -6467,9 +6469,11 @@ msgid "desc_r_toy_zombie_warrior"
 msgstr ""
 "Un jouet à collectionner qui convoque un animal de compagnie Zombie Warrior."
 
+#, fuzzy
 msgid "r_toy_demon"
 msgstr "Familier : Seigneur du démon"
 
+#, fuzzy
 msgid "desc_r_toy_demon"
 msgstr ""
 "Un jouet à collectionner qui appelle un animal de compagnie du Seigneur "

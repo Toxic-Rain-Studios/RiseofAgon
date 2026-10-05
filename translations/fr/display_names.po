@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "display_names/fr/>\n"
@@ -19,6 +19,7 @@ msgstr "Moins d'eau élémentaire"
 msgid "display_name_r_Goblins Common"
 msgstr "Les gobelins;"
 
+#, fuzzy
 msgid "display_name_r_Devil"
 msgstr "Démon"
 
@@ -3932,6 +3933,7 @@ msgstr "Reine du démon"
 msgid "display_name_r_Demon Stone"
 msgstr "Pierre de démon"
 
+#, fuzzy
 msgid "display_name_r_Demon"
 msgstr "Seigneur du démon"
 
@@ -9112,12 +9114,14 @@ msgstr "Familier : Mage sans mort"
 msgid "display_name_r_toy_deathless_servant"
 msgstr "Familier : Serviteur sans mort"
 
+#, fuzzy
 msgid "display_name_r_toy_demon"
 msgstr "Familier : Seigneur du démon"
 
 msgid "display_name_r_toy_demon_queen"
 msgstr "Familier : Reine du démon"
 
+#, fuzzy
 msgid "display_name_r_toy_devil"
 msgstr "Familier : Démon"
 
@@ -17299,6 +17303,7 @@ msgstr "Familier : Mage sans mort"
 msgid "display_name_r_Pet Deathless Servant"
 msgstr "Familier : Serviteur sans mort"
 
+#, fuzzy
 msgid "display_name_r_Pet Demon"
 msgstr "Familier : Seigneur du démon"
 
