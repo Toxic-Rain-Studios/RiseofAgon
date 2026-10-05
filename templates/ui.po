@@ -10863,6 +10863,12 @@ msgstr "Value only"
 msgid "vital_stats_display_modes_value_over_max"
 msgstr "Value over max"
 
+msgid "vital_stats_name_position_above_bars"
+msgstr "Above bars"
+
+msgid "vital_stats_name_position_inside_health_bar"
+msgstr "Inside health bar"
+
 msgid "vitalstats_options_description"
 msgstr "To resize the Vital Stats Window, simply drag one of the corners."
 
@@ -10883,6 +10889,9 @@ msgstr "Show portrait"
 
 msgid "vitalstats_options_display_stamina_bar"
 msgstr "Display Stamina Bar"
+
+msgid "vitalstats_options_name_position"
+msgstr "Position"
 
 msgid "vitalstats_options_text_type"
 msgstr "Text Type"
