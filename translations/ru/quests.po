@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-01 13:00+0000\n"
+"PO-Revision-Date: 2026-10-05 04:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/ru/>\n"
@@ -68767,37 +68767,44 @@ msgstr ""
 msgid "name_quest_21400"
 msgstr "Задание 20"
 
+#, fuzzy
 msgid "short_desc_quest_21400"
 msgstr "Награбленное 5 Зубы из могил гоблинов за Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21400"
 msgstr ""
 "Еще одна вещь, пока вы там. Каждый гоблин, которого ты опускаешь, оставляет "
-"могилу, и в каждой могиле есть зубы. Принеси мне пять. Я не буду спрашивать,"
-" зачем."
+"могилу, и в каждой могиле есть зубы. Принеси мне пять. Я не буду спрашивать, "
+"зачем."
 
 #, fuzzy
 msgid "name_quest_21401"
 msgstr "Задание 20 - этап 1 - зубы"
 
+#, fuzzy
 msgid "short_desc_quest_21401"
 msgstr "Выграв 5 Зубов из могил, затем отнесите их в Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21401"
 msgstr ""
 "Все, что ты убиваешь, оставляет могилу. Посмотрите на один из них и нажмите "
 "F, чтобы открыть его, а затем нажмите на элемент, чтобы переместить его в "
 "рюкзак. Уничтожить 5 зубов и отвезти их в Torvald в военный лагерь."
 
+#, fuzzy
 msgid "end_text_quest_21401"
 msgstr ""
 "Пятеро из них, а не один из них. Храните их - зубы являются очаровательным "
 "ингредиентом, и вы захотите их позже. Мне нужно было только знать, что ты "
 "сможешь их вернуть."
 
+#, fuzzy
 msgid "finished_text_quest_21401"
 msgstr "Ты разграбил 5 Зубов. Теперь отведите их к Torvald Истребитель."
 
+#, fuzzy
 msgid "diary_text_quest_21401"
 msgstr ""
 "Я разграбил пять Зубов из могил гоблинов и показал их Torvald, которые "

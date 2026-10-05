@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
+"PO-Revision-Date: 2026-10-04 23:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -6667,9 +6667,11 @@ msgstr "Скрыть границу"
 msgid "hud_icon_show_border"
 msgstr "Показать границы"
 
+#, fuzzy
 msgid "hud_icon_hide_background"
 msgstr "Скрывать фон"
 
+#, fuzzy
 msgid "hud_icon_show_background"
 msgstr "Показ фона"
 
@@ -7233,6 +7235,7 @@ msgstr ""
 "полночь). Несмотря на свою неуязвимость, ваши города, сооружения и другие "
 "активы защищены от осад и разрушений."
 
+#, fuzzy
 msgid "clan_activity_window_cost_explain"
 msgstr ""
 "Изменение окна деятельности стоит %1 золота из кланового хранилища, и может "
@@ -8604,70 +8607,86 @@ msgstr "Аура разблокируется на уровне %1"
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Кровожадность"
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
 "Кража жизни на каждом ближнем бою с монстрами: до 12% повреждений нанесено, "
 "масштабирование с вашим недостающим здоровьем."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank1"
 msgstr "Максимальная алчность при низком здоровье повышена до 16%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank2"
 msgstr "Максимальная спасательная кража повышена до 20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Максимальная спасательная кража повышена до 25%."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Неистовство"
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr ""
 "Скорость атаки повышается при отсутствии здоровья: до +20% при слабом "
 "здоровье."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank1"
 msgstr ""
-"Двуручные специальные охлаждения также снижаются при низком уровне здоровья,"
-" до -10%."
+"Двуручные специальные охлаждения также снижаются при низком уровне здоровья, "
+"до -10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Специальные охлаждения падают до -20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank3"
 msgstr "Специальные охлаждения падают до -30%."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Водоворот"
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "Вихревая атака наносит +8% повреждений на монстра вокруг вас, считая до 3 "
 "(+24%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank1"
 msgstr "Насчитывается до 4 монстров (макс +32%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Насчитывается до 5 монстров (макс +40%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank3"
 msgstr "Насчитывается до 6 монстров (макс +48%)."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Наступление"
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
 "Повреждение +20% монстров выше 80% здоровья, угасает до нуля, так как цель "
 "падает до 30%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank1"
 msgstr "Бонус никогда не убывает ниже +5%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank2"
 msgstr "Бонус никогда не убывает ниже +10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "Бонус никогда не убывает ниже +15%."
 
@@ -9047,9 +9066,11 @@ msgstr "Поднят до 75%."
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Поднят до 100%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Благословение"
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
 "Исцеляющий Песнь больше не исцеляет монстров и исцеляет вас и вашу партию "
@@ -9511,6 +9532,7 @@ msgstr ""
 "Диапазон повреждений, который масштабируется с тем, насколько надежно вы "
 "приземляете стрелы."
 
+#, fuzzy
 msgid "mastery_role_berserker"
 msgstr "Еще не построено."
 
