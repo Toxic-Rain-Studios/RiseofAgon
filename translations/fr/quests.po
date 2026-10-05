@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-01 12:59+0000\n"
+"PO-Revision-Date: 2026-10-05 04:18+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/fr/>\n"
@@ -71125,37 +71125,44 @@ msgstr ""
 msgid "name_quest_21400"
 msgstr "Quête 20"
 
+#, fuzzy
 msgid "short_desc_quest_21400"
 msgstr "Loyer 5 Dents des tombes des gobelins pour Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21400"
 msgstr ""
-"Encore une chose, pendant que tu es dehors. Chaque gobeline que vous déposez"
-" laisse une tombe, et chaque tombe a des dents dedans. Amène-moi cinq. Je ne"
-" demanderai pas quoi faire."
+"Encore une chose, pendant que tu es dehors. Chaque gobeline que vous déposez "
+"laisse une tombe, et chaque tombe a des dents dedans. Amène-moi cinq. Je ne "
+"demanderai pas quoi faire."
 
 #, fuzzy
 msgid "name_quest_21401"
 msgstr "Quête 20 - étape 1 - les dents"
 
+#, fuzzy
 msgid "short_desc_quest_21401"
 msgstr "Loyer 5 Dents des sépulcres, puis les amener à Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21401"
 msgstr ""
-"Tout ce que vous tuez laisse une tombe. Regardez-en un et appuyez sur F pour"
-" l'ouvrir, puis cliquez sur un élément pour le déplacer à travers votre sac "
-"à dos. Loot 5 Dents et les amener à Torvald au camp de guerre."
+"Tout ce que vous tuez laisse une tombe. Regardez-en un et appuyez sur F pour "
+"l'ouvrir, puis cliquez sur un élément pour le déplacer à travers votre sac à "
+"dos. Loot 5 Dents et les amener à Torvald au camp de guerre."
 
+#, fuzzy
 msgid "end_text_quest_21401"
 msgstr ""
 "Cinq, et pas un seul d'entre eux. Gardez-les - les dents sont un ingrédient "
 "enchanteur, et vous en aurez besoin plus tard. J'avais juste besoin de "
 "savoir que tu pouvais les ramener."
 
+#, fuzzy
 msgid "finished_text_quest_21401"
 msgstr "Vous avez pillé 5 dents. Emmenez-les à Torvald le Fighter."
 
+#, fuzzy
 msgid "diary_text_quest_21401"
 msgstr ""
 "J'ai pillé cinq dents des tombes des gobelins et je les ai montrées jusqu'à "

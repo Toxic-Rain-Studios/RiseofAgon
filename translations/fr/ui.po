@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
+"PO-Revision-Date: 2026-10-04 23:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "fr/>\n"
@@ -6727,9 +6727,11 @@ msgstr "Cacher la bordure"
 msgid "hud_icon_show_border"
 msgstr "Afficher la frontière"
 
+#, fuzzy
 msgid "hud_icon_hide_background"
 msgstr "Masquer le fond"
 
+#, fuzzy
 msgid "hud_icon_show_background"
 msgstr "Montrer l'historique"
 
@@ -7299,10 +7301,11 @@ msgstr ""
 "heure, 0 = minuit). Bien qu'invulnérables, vos villes, structures et autres "
 "biens sont à l'abri des siège et de la destruction."
 
+#, fuzzy
 msgid "clan_activity_window_cost_explain"
 msgstr ""
-"Changer votre fenêtre d'activité coûte %1 or de la voûte du clan, et ne peut"
-" être fait qu'une fois par semaine."
+"Changer votre fenêtre d'activité coûte %1 or de la voûte du clan, et ne peut "
+"être fait qu'une fois par semaine."
 
 msgid "clan_activity_window_local_time"
 msgstr "Votre heure locale: %1"
@@ -8692,70 +8695,86 @@ msgstr "Aura déverrouille au niveau %1"
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Sanglants"
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
 "Voler la vie sur chaque melee frappe contre des monstres : jusqu'à 12% de "
 "dégâts infligés, en augmentant avec votre santé manquante."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank1"
 msgstr "La durée de vie maximale à faible santé a été portée à 16%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank2"
 msgstr "Vol de sauvetage maximal porté à 20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Vol de sauvetage maximal porté à 25%."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Frénésie"
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr ""
 "La vitesse d'attaque augmente avec la santé manquante : jusqu'à +20% à "
 "faible santé."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank1"
 msgstr ""
 "Les refroidissements spéciaux à deux mains baissent également à faible "
 "santé, jusqu'à -10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Refroidissements spéciaux jusqu'à -20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank3"
 msgstr "Refroidissements spéciaux jusqu'à -30%."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Maëlstrom"
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "Whirlwind Attack inflige +8% dégâts par monstre autour de vous, comptant "
 "jusqu'à 3 (+24%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank1"
 msgstr "Compte jusqu'à 4 monstres (max. +32%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Compte jusqu'à 5 monstres (max. +40%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank3"
 msgstr "Compte jusqu'à 6 monstres (max. +48%)."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Assaut"
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
-"+20% dommages aux monstres au-dessus de 80% santé, s'estompant à rien car la"
-" cible tombe à 30%."
+"+20% dommages aux monstres au-dessus de 80% santé, s'estompant à rien car la "
+"cible tombe à 30%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank1"
 msgstr "Le bonus ne s'efface jamais en dessous de +5%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank2"
 msgstr "Le bonus ne s'efface jamais en dessous de +10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "Le bonus ne s'efface jamais en dessous de +15%."
 
@@ -9148,9 +9167,11 @@ msgstr "Élevée à 75%."
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Élevée à 100%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Bénédiction"
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
 "Guérison Chant ne guérit plus les monstres et vous guérit ainsi que votre "
@@ -9622,6 +9643,7 @@ msgid "mastery_role_deadeye"
 msgstr ""
 "Dégâts rangés qui s'écaillent avec la fiabilité que vous débarquez flèches."
 
+#, fuzzy
 msgid "mastery_role_berserker"
 msgstr "Pas encore construit."
 
