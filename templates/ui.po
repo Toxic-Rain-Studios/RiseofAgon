@@ -8364,6 +8364,25 @@ msgstr "Territory Bonus"
 msgid "minimap_territory_bonus_show_details"
 msgstr "Click to show the details."
 
+msgid "minimap_territory_hint_held_by"
+msgstr "Held by %1"
+
+msgid "minimap_territory_hint_held_tooltip"
+msgstr ""
+"This territory's glyph is held by a side you do not share in. Take it for "
+"your clan or race alliance to earn its bonuses."
+
+msgid "minimap_territory_hint_not_yours"
+msgstr "Not your glyph"
+
+msgid "minimap_territory_hint_unclaimed"
+msgstr "Unclaimed glyph"
+
+msgid "minimap_territory_hint_unclaimed_tooltip"
+msgstr ""
+"No one holds this territory's glyph. Capture it for your clan or race "
+"alliance to earn this territory's bonuses."
+
 msgid "minimap_village_cannon"
 msgstr "Cannon vs structures"
 
