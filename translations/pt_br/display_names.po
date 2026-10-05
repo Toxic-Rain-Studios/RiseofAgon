@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/display_names/pt_BR/>\n"
@@ -19,6 +19,7 @@ msgstr "Elementar de água menor"
 msgid "display_name_r_Goblins Common"
 msgstr "Goblins"
 
+#, fuzzy
 msgid "display_name_r_Devil"
 msgstr "Demónio"
 
@@ -3931,6 +3932,7 @@ msgstr "Rainha do demônio"
 msgid "display_name_r_Demon Stone"
 msgstr "Pedra do demónio"
 
+#, fuzzy
 msgid "display_name_r_Demon"
 msgstr "Senhor do demônio"
 
@@ -9111,12 +9113,14 @@ msgstr "Companheiro: Mago sem morte"
 msgid "display_name_r_toy_deathless_servant"
 msgstr "Companheiro: Servo sem morte"
 
+#, fuzzy
 msgid "display_name_r_toy_demon"
 msgstr "Companheiro: Senhor do demônio"
 
 msgid "display_name_r_toy_demon_queen"
 msgstr "Companheiro: Rainha do demônio"
 
+#, fuzzy
 msgid "display_name_r_toy_devil"
 msgstr "Companheiro: Demónio"
 
@@ -17298,6 +17302,7 @@ msgstr "Companheiro: Mago sem morte"
 msgid "display_name_r_Pet Deathless Servant"
 msgstr "Companheiro: Servo sem morte"
 
+#, fuzzy
 msgid "display_name_r_Pet Demon"
 msgstr "Companheiro: Senhor do demônio"
 
