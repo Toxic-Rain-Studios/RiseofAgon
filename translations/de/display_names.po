@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "display_names/de/>\n"
@@ -19,6 +19,7 @@ msgstr "Weniger elementares Wasser"
 msgid "display_name_r_Goblins Common"
 msgstr "Gobline"
 
+#, fuzzy
 msgid "display_name_r_Devil"
 msgstr "Dämonen"
 
@@ -3931,6 +3932,7 @@ msgstr "Dämonenkönigin"
 msgid "display_name_r_Demon Stone"
 msgstr "Dämonenstein"
 
+#, fuzzy
 msgid "display_name_r_Demon"
 msgstr "Dämonenherren"
 
@@ -9111,12 +9113,14 @@ msgstr "Begleiter: Unsterblicher Magier"
 msgid "display_name_r_toy_deathless_servant"
 msgstr "Begleiter: Der unsterbliche Diener"
 
+#, fuzzy
 msgid "display_name_r_toy_demon"
 msgstr "Begleiter: Dämonenherren"
 
 msgid "display_name_r_toy_demon_queen"
 msgstr "Begleiter: Dämonenkönigin"
 
+#, fuzzy
 msgid "display_name_r_toy_devil"
 msgstr "Begleiter: Dämonen"
 
@@ -17298,6 +17302,7 @@ msgstr "Begleiter: Unsterblicher Magier"
 msgid "display_name_r_Pet Deathless Servant"
 msgstr "Begleiter: Der unsterbliche Diener"
 
+#, fuzzy
 msgid "display_name_r_Pet Demon"
 msgstr "Begleiter: Dämonenherren"
 

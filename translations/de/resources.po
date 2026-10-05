@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-02 09:36+0000\n"
+"PO-Revision-Date: 2026-10-05 17:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/de/>\n"
@@ -5655,9 +5655,11 @@ msgstr "Begleiter: Dämonenkönigin"
 msgid "desc_r_toy_demon_queen"
 msgstr "Ein Sammlerspielzeug, das ein Dämonenkönigin-Haustier beschwört."
 
+#, fuzzy
 msgid "r_toy_devil"
 msgstr "Begleiter: Dämonen"
 
+#, fuzzy
 msgid "desc_r_toy_devil"
 msgstr "Ein Sammlerspielzeug, das ein Dämonenhaustier herbeiruft."
 
@@ -6393,9 +6395,11 @@ msgstr "Begleiter: Zombie-Krieger"
 msgid "desc_r_toy_zombie_warrior"
 msgstr "Ein Sammlerspielzeug, das ein Zombie Warrior-Haustier beschwört."
 
+#, fuzzy
 msgid "r_toy_demon"
 msgstr "Begleiter: Dämonenherren"
 
+#, fuzzy
 msgid "desc_r_toy_demon"
 msgstr "Ein Sammlerspielzeug, das ein Dämonen-Lord-Haustier herbeiruft."
 
