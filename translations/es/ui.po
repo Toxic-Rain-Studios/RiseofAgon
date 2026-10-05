@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
-"Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
+"PO-Revision-Date: 2026-10-04 23:52+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
 "Language: es\n"
@@ -6713,9 +6713,11 @@ msgstr "Esconder la frontera"
 msgid "hud_icon_show_border"
 msgstr "Mostrar frontera"
 
+#, fuzzy
 msgid "hud_icon_hide_background"
 msgstr "Ocultar fondo"
 
+#, fuzzy
 msgid "hud_icon_show_background"
 msgstr "Mostrar antecedentes"
 
@@ -7279,6 +7281,7 @@ msgstr ""
 "servidor/UTC, 0 = medianoche). Mientras que invulnerable, sus ciudades, "
 "estructuras y otros activos están a salvo de los sieges y la destrucción."
 
+#, fuzzy
 msgid "clan_activity_window_cost_explain"
 msgstr ""
 "Cambiar la ventana de actividad cuesta %1 oro de la bóveda del clan, y sólo "
@@ -8653,68 +8656,84 @@ msgstr "Aura se desbloquea en el nivel %1"
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Sangre"
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
 "Vida sana en cada melee golpe contra los monstruos: hasta 12% de daño "
 "tratado, escalando con su desaparecido salud."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank1"
 msgstr "Maximum lifesteal at low salud raised to 16%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank2"
 msgstr "Maximum lifesteal raised to 20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Maximum lifesteal raised to 25%."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Frenesí"
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr ""
 "La velocidad de ataque aumenta con la falta salud: hasta +20% a bajo salud."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank1"
 msgstr ""
 "Enfriamientos especiales de dos manos también bajan en salud, hasta -10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Enfriamientos especiales bajan hasta -20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank3"
 msgstr "Enfriamientos especiales bajan hasta -30%."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Maelstrom"
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "Torbellino Ataque ofertas +8% de daño por monstruo alrededor de usted, "
 "contando hasta 3 (+24%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank1"
 msgstr "Cuenta con hasta 4 monstruos (max +32%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Cuenta con hasta 5 monstruos (max +40%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank3"
 msgstr "Cuenta con hasta 6 monstruos (max +48%)."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Indiscriminado"
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
 "+20% daño a los monstruos por encima del 80% salud, desvaneciendo a nada "
 "mientras el objetivo cae al 30%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank1"
 msgstr "El bono nunca se desvanece por debajo de +5%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank2"
 msgstr "El bono nunca se desvanece por debajo de +10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "El bono nunca se desvanece por debajo de +15%."
 
@@ -9110,9 +9129,11 @@ msgstr "Criado a 75%."
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Criado a 100%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Benedicción"
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
 "Sanar a Chant ya no cura a los monstruos y te sana a ti y a tu fiesta +100% "
@@ -9576,6 +9597,7 @@ msgstr ""
 msgid "mastery_role_deadeye"
 msgstr "Daño extendido que escala con lo fiable que aterrizan flechas."
 
+#, fuzzy
 msgid "mastery_role_berserker"
 msgstr "Todavía no construido."
 

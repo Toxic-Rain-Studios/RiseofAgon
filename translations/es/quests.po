@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-01 12:59+0000\n"
+"PO-Revision-Date: 2026-10-05 04:18+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/es/>\n"
@@ -71015,9 +71015,11 @@ msgstr ""
 msgid "name_quest_21400"
 msgstr "Misión 20"
 
+#, fuzzy
 msgid "short_desc_quest_21400"
 msgstr "Cargo 5 Dientes de las tumbas de los duendes para el Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21400"
 msgstr ""
 "Una cosa más, mientras estás ahí fuera. Cada goblin que derribas deja una "
@@ -71028,24 +71030,29 @@ msgstr ""
 msgid "name_quest_21401"
 msgstr "Misión 20 - paso 1 - los dientes"
 
+#, fuzzy
 msgid "short_desc_quest_21401"
 msgstr "Cargo 5 Dientes de las tumbas, luego llevarlos a Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21401"
 msgstr ""
 "Todo lo que matas deja una tumba. Mira uno y presione F para abrirlo, luego "
 "haga clic en un artículo para moverlo a través de su mochila. Coloque 5 "
 "Dientes y llévelos a Torvald en el campo de guerra."
 
+#, fuzzy
 msgid "end_text_quest_21401"
 msgstr ""
 "Cinco, y no uno entre ellos. Mantenerlos - los dientes son un ingrediente "
 "encantador, y los querrás más tarde. Sólo necesitaba saber que podrías "
 "traerlos de vuelta."
 
+#, fuzzy
 msgid "finished_text_quest_21401"
 msgstr "Has saqueado 5 dientes. Ahora llévenlos a Torvald el Combatiente."
 
+#, fuzzy
 msgid "diary_text_quest_21401"
 msgstr ""
 "He saqueado cinco dientes de las tumbas de los duendes y les he enseñado a "
