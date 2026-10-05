@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
+"PO-Revision-Date: 2026-10-04 23:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "de/>\n"
@@ -6727,9 +6727,11 @@ msgstr "Versteckte Grenze"
 msgid "hud_icon_show_border"
 msgstr "Grenze zeigen"
 
+#, fuzzy
 msgid "hud_icon_hide_background"
 msgstr "Versteckter Hintergrund"
 
+#, fuzzy
 msgid "hud_icon_show_background"
 msgstr "Show-Hintergrund"
 
@@ -7296,6 +7298,7 @@ msgstr ""
 "Stunde, 0 = Mitternacht). Während unverwundbar, Ihre Städte, Strukturen und "
 "andere Vermögenswerte sind sicher vor Belagerungen und Zerstörung."
 
+#, fuzzy
 msgid "clan_activity_window_cost_explain"
 msgstr ""
 "Das Ändern Ihres Aktivitätsfensters kostet %1 Gold aus dem Clan-Tresor und "
@@ -8686,70 +8689,86 @@ msgstr "Aura auf Level %1 freigeschaltet"
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Blutdurst"
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_desc"
 msgstr ""
 "Stehlen Sie Leben auf jedem Nahkampf gegen Monster: bis zu 12% Schaden "
 "verursacht, Skalierung mit Ihrer fehlenden Gesundheit."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank1"
 msgstr "Maximaler Lebensraub bei geringem Gesundheitszustand auf 16% erhöht."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank2"
 msgstr "Maximaler Lebensraub auf 20% erhöht."
 
+#, fuzzy
 msgid "mastery_alt_berserker_bloodthirst_rank3"
 msgstr "Maximaler Lebensraub auf 25% erhöht."
 
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Raserei"
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_desc"
 msgstr ""
 "Die Angriffsgeschwindigkeit steigt mit fehlendem Gesundheitszustand: bis zu "
 "+20% bei geringem Gesundheitszustand."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank1"
 msgstr ""
 "Zweihändige spezielle Abklingzeiten fallen auch bei niedrigem "
 "Gesundheitszustand, bis zu -10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank2"
 msgstr "Spezielle Abklingzeiten fallen bis zu -20%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_frenzy_rank3"
 msgstr "Spezielle Abklingzeiten fallen bis zu -30%."
 
 msgid "mastery_alt_berserker_maelstrom_name"
 msgstr "Maelstrom"
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
 "Whirlwind Attack verursacht +8% Schaden pro Monster um dich herum und zählt "
 "bis zu 3 (+24%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank1"
 msgstr "Zählt bis zu 4 Monster (max +32%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank2"
 msgstr "Zählt bis zu 5 Monster (max +40%)."
 
+#, fuzzy
 msgid "mastery_alt_berserker_maelstrom_rank3"
 msgstr "Zählt bis zu 6 Monster (max +48%)."
 
 msgid "mastery_alt_berserker_onslaught_name"
 msgstr "Ansturm"
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_desc"
 msgstr ""
 "+20% Schäden an Monstern über 80% Gesundheit, verblassen zu nichts als das "
 "Ziel fällt auf 30%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank1"
 msgstr "Der bonus verblasst nie unter +5%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank2"
 msgstr "Der bonus verblasst nie unter +10%."
 
+#, fuzzy
 msgid "mastery_alt_berserker_onslaught_rank3"
 msgstr "Der bonus verblasst nie unter +15%."
 
@@ -9133,13 +9152,15 @@ msgstr "Angehoben auf 75%."
 msgid "mastery_alt_oracle_warding_rank3"
 msgstr "Angehoben auf 100%."
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_name"
 msgstr "Segnung"
 
+#, fuzzy
 msgid "mastery_alt_oracle_benediction_desc"
 msgstr ""
-"Healing Chant heilt keine Monster mehr und heilt dich und deine Gruppe +100%"
-" mehr, für +100% Mana."
+"Healing Chant heilt keine Monster mehr und heilt dich und deine Gruppe +100% "
+"mehr, für +100% Mana."
 
 #, fuzzy
 msgid "mastery_alt_oracle_benediction_rank1"
@@ -9606,6 +9627,7 @@ msgid "mastery_role_deadeye"
 msgstr ""
 "Entfernungsschaden, der mit wie zuverlässig Sie Pfeile landen skaliert."
 
+#, fuzzy
 msgid "mastery_role_berserker"
 msgstr "Noch nicht gebaut."
 

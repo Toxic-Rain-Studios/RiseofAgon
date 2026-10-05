@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-01 12:59+0000\n"
+"PO-Revision-Date: 2026-10-05 04:18+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/de/>\n"
@@ -71991,43 +71991,50 @@ msgstr ""
 msgid "name_quest_21400"
 msgstr "Auftrag 20"
 
+#, fuzzy
 msgid "short_desc_quest_21400"
 msgstr "Beute 5 Zähne aus den Gräbern der Goblins für Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21400"
 msgstr ""
 "Noch eine Sache, während du da draußen bist. Jeder Kobold, den du "
-"niederlegst, hinterlässt ein Grab, und jedes Grab hat Zähne darin. Bring mir"
-" fünf. Ich werde nicht fragen, wofür."
+"niederlegst, hinterlässt ein Grab, und jedes Grab hat Zähne darin. Bring mir "
+"fünf. Ich werde nicht fragen, wofür."
 
 #, fuzzy
 msgid "name_quest_21401"
 msgstr "Auftrag 20 - Schritt 1 - die Zähne"
 
+#, fuzzy
 msgid "short_desc_quest_21401"
 msgstr "Beutet 5 Zähne aus Gräbern und bringt sie dann zu Torvald."
 
+#, fuzzy
 msgid "start_text_quest_21401"
 msgstr ""
 "Alles was du tötest hinterlässt ein Grab. Schauen Sie sich einen an und "
-"drücken Sie F, um ihn zu öffnen, und klicken Sie dann auf ein Element, um es"
-" in Ihren Rucksack zu verschieben. Beutet 5 Zähne und bringt sie zu Torvald "
+"drücken Sie F, um ihn zu öffnen, und klicken Sie dann auf ein Element, um es "
+"in Ihren Rucksack zu verschieben. Beutet 5 Zähne und bringt sie zu Torvald "
 "im Kriegslager."
 
+#, fuzzy
 msgid "end_text_quest_21401"
 msgstr ""
 "Fünf, und nicht ein gehackter unter ihnen. Halten Sie sie - Zähne sind eine "
 "bezaubernde Zutat, und Sie werden sie später wollen. Ich musste nur wissen, "
 "dass du sie zurückbringen kannst."
 
+#, fuzzy
 msgid "finished_text_quest_21401"
 msgstr ""
 "Sie haben 5 Zähne geplündert. Bringen Sie sie nun zu Torvald the Fighter."
 
+#, fuzzy
 msgid "diary_text_quest_21401"
 msgstr ""
-"Ich plünderte fünf Zähne aus den Gräbern der Kobolde und zeigte sie Torvald,"
-" die mich sie behalten ließen."
+"Ich plünderte fünf Zähne aus den Gräbern der Kobolde und zeigte sie Torvald, "
+"die mich sie behalten ließen."
 
 msgid "use_skill_message_quest_21217"
 msgstr ""
