@@ -9945,11 +9945,11 @@ msgstr ""
 "You were added to the new player channel because your alignment is greater "
 "than ^Ccyan^%1."
 
-#. No runtime parameters. Posted to the New Player chat channel every 5 minutes.
+#. No runtime parameters. Posted to the New Player chat channel periodically while the channel is active.
 msgid "NOTIFICATION_NEWPLAYER_CHANNEL_REMINDER"
 msgstr ""
-"New Player chat is not for general chatting, it's for new players to ask "
-"questions and get help. Anything else will get you muted from it."
+"New Player chat is for questions and help only. General chat may get you "
+"muted."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
 msgstr "You are already in the New Player channel."
