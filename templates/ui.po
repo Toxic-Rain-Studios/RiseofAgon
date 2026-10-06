@@ -4267,6 +4267,9 @@ msgstr "Arranging HUD bars"
 msgid "hud_arrange_buffs"
 msgstr "Buffs"
 
+msgid "hud_arrange_compass"
+msgstr "Compass"
+
 msgid "hud_arrange_done"
 msgstr "Done"
 
@@ -4276,6 +4279,9 @@ msgstr "%1 %2"
 msgid "hud_icon_hide_background"
 msgstr "Hide background in combat"
 
+msgid "hud_icon_hide_background_always"
+msgstr "Hide background always"
+
 msgid "hud_icon_hide_border"
 msgstr "Hide border"
 
@@ -4283,7 +4289,7 @@ msgid "hud_icon_opacity"
 msgstr "Opacity"
 
 msgid "hud_icon_show_background"
-msgstr "Show background in combat"
+msgstr "Show background"
 
 msgid "hud_icon_show_border"
 msgstr "Show border"
@@ -8858,6 +8864,9 @@ msgstr "Fade-out Time"
 msgid "options_gui_clutterizer"
 msgstr "Fade-out Type"
 
+msgid "options_gui_compass_annotation_max_distance"
+msgstr "Show map annotations within (m)"
+
 msgid "options_gui_compass_show_annotations"
 msgstr "Show map annotations"
 
@@ -8920,6 +8929,9 @@ msgstr "Game Mode Window Opacity"
 
 msgid "options_gui_healing_number_color"
 msgstr "Healing numbers colour"
+
+msgid "options_gui_hide_background_always_heading"
+msgstr "Hide background always (GUI mode too)"
 
 msgid "options_gui_hide_background_heading"
 msgstr "Hide background in combat mode"
