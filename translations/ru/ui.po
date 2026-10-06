@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 22:11+0000\n"
+"PO-Revision-Date: 2026-10-06 00:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -3018,12 +3018,15 @@ msgstr "Защита от изменяющих сознание эффектов
 msgid "character_stats_protectioninfliction_description"
 msgstr "Защита от изменяющих тело эффектов, таких как яд или кровотечение."
 
+#, fuzzy
 msgid "character_stats_penalty_archery_description"
 msgstr "Может уменьшить повреждение стрельбы из лука и скорость атаки."
 
+#, fuzzy
 msgid "character_stats_penalty_magic_description"
 msgstr "Может уменьшить силу заклинания и увеличить время литья."
 
+#, fuzzy
 msgid "character_stats_penalty_melee_description"
 msgstr "Может уменьшить повреждение ближнего боя и скорость атаки."
 
