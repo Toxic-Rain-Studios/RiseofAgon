@@ -1878,6 +1878,85 @@ msgstr "Pay"
 msgid "citybuilding_window_title"
 msgstr "Citybuilding"
 
+msgid "clan_activity_active_help"
+msgstr ""
+"Set when your clan is considered active and expected to be online. "
+"Harvesting nodes are active during this window."
+
+msgid "clan_activity_active_start_utc"
+msgstr "Active start time (Server / UTC)"
+
+msgid "clan_activity_cost_title"
+msgstr "Change Cost and Rules"
+
+msgid "clan_activity_current_state"
+msgstr "Current state:"
+
+msgid "clan_activity_desc_active"
+msgstr ""
+"Expected to be online - the clan's busiest, most-defended time. Harvesting "
+"nodes are active."
+
+msgid "clan_activity_desc_inactive"
+msgstr "Cities and structures can be attacked."
+
+msgid "clan_activity_desc_protected"
+msgstr ""
+"Cities, structures and other clan assets are protected from sieges and "
+"destruction."
+
+msgid "clan_activity_none"
+msgstr "This clan has not set its activity schedule."
+
+msgid "clan_activity_preview_title"
+msgstr "Daily Activity Schedule (Preview)"
+
+msgid "clan_activity_protected_help"
+msgstr ""
+"Set when your clan's cities, structures and other assets are protected from "
+"sieges and destruction."
+
+msgid "clan_activity_protected_start_utc"
+msgstr "Invulnerable start time (Server / UTC)"
+
+msgid "clan_activity_save"
+msgstr "Save Changes"
+
+msgid "clan_activity_schedule_title"
+msgstr "Clan Activity Schedule"
+
+msgid "clan_activity_settings_intro"
+msgstr ""
+"Configure your clan's daily activity and invulnerable windows. All times are "
+"Server / UTC."
+
+msgid "clan_activity_state_active"
+msgstr "Active"
+
+msgid "clan_activity_state_inactive"
+msgstr "Inactive"
+
+msgid "clan_activity_state_protected"
+msgstr "Protected"
+
+msgid "clan_activity_title_active"
+msgstr "Active"
+
+msgid "clan_activity_title_active_window"
+msgstr "Activity Window"
+
+msgid "clan_activity_title_inactive"
+msgstr "Inactive"
+
+msgid "clan_activity_title_protected"
+msgstr "Invulnerable (Protected)"
+
+msgid "clan_activity_title_protected_window"
+msgstr "Invulnerable Window"
+
+msgid "clan_activity_utc_note"
+msgstr "All activity times use Server / UTC time."
+
 msgid "clan_activity_window_active_explain"
 msgstr ""
 "The hour your harvesting nodes go live (server/UTC). This is when your clan "
@@ -1946,8 +2025,11 @@ msgstr "Your local time: %1"
 msgid "clan_activity_window_page_title"
 msgstr "Activity Window"
 
+msgid "clan_activity_window_result"
+msgstr "%1  (%2 hours)"
+
 msgid "clan_activity_window_server_time"
-msgstr "Server time (UTC): %1"
+msgstr "Current server time: %1 UTC"
 
 msgid "clan_activity_window_time_basis_note"
 msgstr ""
