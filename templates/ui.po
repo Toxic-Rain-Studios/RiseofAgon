@@ -6194,6 +6194,9 @@ msgstr "[GM] Quick teleport to cursor position"
 msgid "map_context_menu_gm_teleport_to_tile"
 msgstr "[GM] Quick teleport to tile \"%1\""
 
+msgid "map_double_click_button"
+msgstr "Double click"
+
 msgid "map_double_click_zoom_heading"
 msgstr "Double-click zoom"
 
@@ -6203,11 +6206,17 @@ msgstr "Zoom in to"
 msgid "map_double_click_zoom_out"
 msgstr "Zoom out to"
 
+msgid "map_filter_monsters"
+msgstr "Monsters"
+
 msgid "map_gm_tile_id"
 msgstr "Tile ID: %1"
 
 msgid "map_gm_tooltip_coordinates"
 msgstr "World coordinates: %1"
+
+msgid "map_inspector_empty"
+msgstr "Select something on the map to see its details here."
 
 msgid "map_marker_annotation"
 msgstr "Annotation Markers"
