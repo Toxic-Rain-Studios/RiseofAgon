@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-06 00:48+0000\n"
+"PO-Revision-Date: 2026-10-06 09:12+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -7254,6 +7254,7 @@ msgstr ""
 msgid "clan_activity_window_local_time"
 msgstr "Sua hora local: %1"
 
+#, fuzzy
 msgid "clan_activity_window_server_time"
 msgstr "Hora do servidor (utc): %1"
 
