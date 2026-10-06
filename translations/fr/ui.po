@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 22:11+0000\n"
+"PO-Revision-Date: 2026-10-06 00:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "fr/>\n"
@@ -3053,12 +3053,15 @@ msgstr ""
 "Défense contre les effets altérants du corps, comme le poison ou les "
 "saignements."
 
+#, fuzzy
 msgid "character_stats_penalty_archery_description"
 msgstr "Peut réduire les dommages au tir à l'arc et la vitesse d'attaque."
 
+#, fuzzy
 msgid "character_stats_penalty_magic_description"
 msgstr "Peut réduire la puissance du sort et augmenter le temps de coulée."
 
+#, fuzzy
 msgid "character_stats_penalty_melee_description"
 msgstr "Peut réduire les dommages à la mêlée et la vitesse d'attaque."
 
