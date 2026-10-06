@@ -4778,6 +4778,12 @@ msgstr "You must wait before you can change again."
 msgid "journal_achievements_tab_title"
 msgstr "Achievements"
 
+msgid "journal_category_activities"
+msgstr "Activities"
+
+msgid "journal_category_character"
+msgstr "Character"
+
 msgid "journal_crafting_stats_header"
 msgstr "Crafting Totals"
 
@@ -5272,6 +5278,21 @@ msgstr "Trade Routes"
 
 msgid "journal_repeatable_page_title"
 msgstr "Repeatable"
+
+msgid "journal_section_combat"
+msgstr "Combat"
+
+msgid "journal_section_crafting"
+msgstr "Crafting"
+
+msgid "journal_section_slayer"
+msgstr "Slayer"
+
+msgid "journal_section_trade"
+msgstr "Trade"
+
+msgid "journal_section_training"
+msgstr "Training"
 
 msgid "journal_statistics_tab_title"
 msgstr "Personal Stats"
