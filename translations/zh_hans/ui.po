@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-04 05:52+0000\n"
+"PO-Revision-Date: 2026-10-06 00:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -2083,12 +2083,15 @@ msgstr "防御蚀变精神的影响."
 msgid "character_stats_protectioninfliction_description"
 msgstr "防御蚀变身体的影响,例如毒药或出血."
 
+#, fuzzy
 msgid "character_stats_penalty_archery_description"
 msgstr "可能会降低射箭的伤害和攻击速度."
 
+#, fuzzy
 msgid "character_stats_penalty_magic_description"
 msgstr "可能会降低法术力量并增加施法时间."
 
+#, fuzzy
 msgid "character_stats_penalty_melee_description"
 msgstr "可能会降低近战伤害和攻击速度."
 
