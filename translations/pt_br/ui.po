@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-06 09:12+0000\n"
+"PO-Revision-Date: 2026-10-06 23:33+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -9104,13 +9104,14 @@ msgstr "Elevado para +200%, para +200% mana."
 msgid "mastery_alt_oracle_sanctuary_name"
 msgstr "Santuário"
 
+#, fuzzy
 msgid "mastery_alt_oracle_sanctuary_desc"
 msgstr ""
-"Ativo: Segure por 2 segundos e solte para colocar um santuário até 30 metros"
-" de distância. Cada jogador em 9 metros de distância recupera 10 mana e "
-"resistência a cada 2 segundos por 10 segundos, e feitiços e flechas monstros"
-" não podem alcançá-los. Termina se chegar a alguém marcado por combate PvP. "
-"3 minutos de arrefecimento."
+"Ativo: Segure por 2 segundos e solte para colocar um santuário até 30 metros "
+"de distância. Cada jogador em 9 metros de distância recupera 10 mana e "
+"resistência a cada 2 segundos por 10 segundos, e feitiços e flechas monstros "
+"não podem alcançá-los. Termina se chegar a alguém marcado por combate PvP. 3 "
+"minutos de arrefecimento."
 
 #, fuzzy
 msgid "mastery_alt_oracle_sanctuary_rank1"
