@@ -8711,6 +8711,9 @@ msgstr ""
 "'%1' is already assigned to '%2'.\r\n"
 "Are you sure you want to assign it to '%3'?"
 
+msgid "options_binding_search_placeholder"
+msgstr "Search actions or keys..."
+
 msgid "options_binding_tooltip_default"
 msgstr "Default binding: %1"
 
