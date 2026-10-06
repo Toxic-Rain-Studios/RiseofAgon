@@ -937,13 +937,15 @@ msgid "character_stats_name_description"
 msgstr "Character"
 
 msgid "character_stats_penalty_archery_description"
-msgstr "May reduce archery damage and attack speed."
+msgstr "Each point lowers the damage of every arrow by 0.1."
 
 msgid "character_stats_penalty_magic_description"
-msgstr "May reduce spell power and increase casting time."
+msgstr ""
+"Each point lowers spell success chance by 0.1%, makes spells charge 1 step "
+"slower, and lowers spell damage by 0.8% of the spell's magnitude modifier."
 
 msgid "character_stats_penalty_melee_description"
-msgstr "May reduce melee damage and attack speed."
+msgstr "Each point lowers the damage of every melee hit by 0.1."
 
 msgid "character_stats_protectionacid_description"
 msgstr "Defense against corrosive attacks."
@@ -9855,11 +9857,11 @@ msgstr "Base Attributes"
 
 msgid "playerstats_penalty_archery_raise"
 msgstr ""
-"Always 50. Armored Archery does not move it, but slows how fast the penalty "
-"grows above it (by up to 37.5% at 100)."
+"Always 60. Armored Archery does not move it, but at 100 skill each point of "
+"encumbrance above 60 costs 37.5% less."
 
 msgid "playerstats_penalty_from"
-msgstr "from %1"
+msgstr "starts at %1"
 
 msgid "playerstats_penalty_magic_raise"
 msgstr "Every 5 points of Armored Casting raise this by 1."
