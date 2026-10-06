@@ -9853,6 +9853,23 @@ msgstr "Armor Penalties"
 msgid "playerstats_base_attributes"
 msgstr "Base Attributes"
 
+msgid "playerstats_penalty_archery_raise"
+msgstr ""
+"Always 50. Armored Archery does not move it, but slows how fast the penalty "
+"grows above it (by up to 37.5% at 100)."
+
+msgid "playerstats_penalty_from"
+msgstr "from %1"
+
+msgid "playerstats_penalty_magic_raise"
+msgstr "Every 5 points of Armored Casting raise this by 1."
+
+msgid "playerstats_penalty_melee_raise"
+msgstr "Each point of Armor Proficiency raises this by 1."
+
+msgid "playerstats_penalty_starts"
+msgstr "Starts when your encumbrance goes above %1 (yours: %2)."
+
 msgid "playerstats_protections"
 msgstr "Protections"
 
