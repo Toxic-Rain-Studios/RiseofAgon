@@ -4036,6 +4036,11 @@ msgstr ""
 "The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
 "contest it."
 
+msgid "glyph_contest_escalated"
+msgstr ""
+"This side is already losing ground or under attack nearby: this contest "
+"takes %1 minutes."
+
 msgid "glyph_defend_lawless"
 msgstr ""
 "Only lawful members of the owning race alliance can defend a faction glyph. "
@@ -4043,6 +4048,13 @@ msgstr ""
 
 msgid "glyph_flipped"
 msgstr "The rune glyph in %1 has fallen to a new faction!"
+
+msgid "glyph_friendly_fire_off"
+msgstr "Friendly fire is off again."
+
+msgid "glyph_friendly_fire_on"
+msgstr ""
+"Friendly fire is ON here: your own faction can hurt you on this glyph's tile."
 
 msgid "glyph_immune"
 msgstr "This glyph is still immune to challenge."
