@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 22:11+0000\n"
+"PO-Revision-Date: 2026-10-06 00:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "de/>\n"
@@ -3057,12 +3057,15 @@ msgstr "Verteidigung gegen bewusstseinsverändernde Effekte."
 msgid "character_stats_protectioninfliction_description"
 msgstr "Abwehr gegen körperverändernde Wirkungen, wie Gift oder Blutungen."
 
+#, fuzzy
 msgid "character_stats_penalty_archery_description"
 msgstr "Kann Bogenschießen Schaden und Angriffsgeschwindigkeit zu reduzieren."
 
+#, fuzzy
 msgid "character_stats_penalty_magic_description"
 msgstr "Kann die Zauberkraft reduzieren und die Casting-Zeit erhöhen."
 
+#, fuzzy
 msgid "character_stats_penalty_melee_description"
 msgstr "Kann Nahkampfschäden und Angriffsgeschwindigkeit reduzieren."
 
