@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-05 22:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-10-06 00:48+0000\n"
+"Last-Translator: Anthropic <noreply-mt-anthropic@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
 "Language: es\n"
@@ -3044,13 +3044,16 @@ msgstr "Defensa contra efectos alteradores mentales."
 msgid "character_stats_protectioninfliction_description"
 msgstr "Defensa contra efectos alterantes del cuerpo, como veneno o sangrado."
 
+#, fuzzy
 msgid "character_stats_penalty_archery_description"
 msgstr "Puede reducir el daño de arco y la velocidad de ataque."
 
+#, fuzzy
 msgid "character_stats_penalty_magic_description"
 msgstr ""
 "Puede reducir la potencia del hechizo y aumentar el tiempo de lanzamiento."
 
+#, fuzzy
 msgid "character_stats_penalty_melee_description"
 msgstr "Puede reducir el daño de melee y la velocidad de ataque."
 
