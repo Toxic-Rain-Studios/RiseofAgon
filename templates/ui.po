@@ -8576,6 +8576,30 @@ msgstr ""
 "No one holds this territory's glyph. Capture it for your clan or race "
 "alliance to earn this territory's bonuses."
 
+msgid "minimap_territory_tip_harvest_eff"
+msgstr ""
+"Raises your chance to succeed when skinning and digging, up to a certain "
+"success. It does not change how much a success gives, and does not affect "
+"gathering from resource nodes."
+
+msgid "minimap_territory_tip_pve_loot"
+msgstr ""
+"Monsters you kill drop this much more gold, reagents and dye materials. Each "
+"stack is multiplied, and a leftover fraction is a chance at one more. Other "
+"drops and rare finds are not affected."
+
+msgid "minimap_territory_tip_pve_xp"
+msgstr ""
+"Skills gain this much more experience when used on monsters: offensive and "
+"debuff spells, melee and archery. The bonus goes to the skill you used. "
+"Healing, buffs and fighting other players gain nothing extra."
+
+msgid "minimap_territory_tip_yield"
+msgstr ""
+"Gathering from resource nodes gives this much more per gather. Fractions are "
+"rounded down, so a small bonus can add nothing to a small haul. Gathering "
+"experience is not boosted."
+
 msgid "minimap_village_cannon"
 msgstr "Cannon vs structures"
 
