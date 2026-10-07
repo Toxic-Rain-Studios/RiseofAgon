@@ -6322,6 +6322,12 @@ msgstr "Greaterstone Markers"
 msgid "map_marker_housing"
 msgstr "Housing Markers"
 
+msgid "map_marker_key_chest_dungeon"
+msgstr "%1 (dungeon)"
+
+msgid "map_marker_key_chests"
+msgstr "Key Chests"
+
 msgid "map_marker_laboratory"
 msgstr "Laboratory"
 
@@ -6595,6 +6601,9 @@ msgstr "%1"
 msgid "map_tooltip_prefix_housing"
 msgstr "%1"
 
+msgid "map_tooltip_prefix_key_chest"
+msgstr "%1"
+
 msgid "map_tooltip_prefix_laboratory"
 msgstr "%1"
 
@@ -6759,6 +6768,12 @@ msgstr "Shows the rune glyphs. Holding a glyph claims its territory and bonus."
 
 msgid "map_tt_struct_glyphs_political"
 msgstr "Turn on the Political overlay to see who holds each territory."
+
+msgid "map_tt_struct_key_chests"
+msgstr ""
+"Shows every chest that needs a key to open: Veilron, Selentine, Neithal, "
+"Leenspar, Theyril, Archaeus and demon chests. A chest inside a dungeon is "
+"shown above it, marked (dungeon)."
 
 msgid "map_tt_struct_npc_cities"
 msgstr "Shows cities and capitals run by NPCs."
