@@ -6457,6 +6457,9 @@ msgstr "Lawless village"
 msgid "map_marker_village_type_lawless_sea"
 msgstr "Sea village"
 
+msgid "map_marker_wilderness_banks"
+msgstr "Chaos/Wilderness Banks"
+
 msgid "map_marker_workbench"
 msgstr "Workbench"
 
@@ -6655,6 +6658,9 @@ msgstr "%1"
 msgid "map_tooltip_prefix_vendor"
 msgstr "%1"
 
+msgid "map_tooltip_prefix_wilderness_bank"
+msgstr "%1"
+
 msgid "map_tooltip_prefix_workbench"
 msgstr "%1"
 
@@ -6780,6 +6786,11 @@ msgstr "Shows cities and capitals run by NPCs."
 
 msgid "map_tt_struct_villages"
 msgstr "Shows villages that clans can capture and hold."
+
+msgid "map_tt_struct_wilderness_banks"
+msgstr ""
+"Shows the banks outside the NPC and clan cities: the bank in each chaos "
+"city, and the banks standing on their own in the wilds."
 
 msgid "map_tt_territory_body"
 msgstr "Holding a territory's glyph grants its bonus to the owner."
