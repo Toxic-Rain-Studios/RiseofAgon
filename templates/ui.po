@@ -4285,6 +4285,9 @@ msgstr "Snap to windows"
 msgid "hud_full_name"
 msgstr "%1 %2"
 
+msgid "hud_icon_combat_only"
+msgstr "Show only in combat mode"
+
 msgid "hud_icon_hide_background"
 msgstr "Hide background in combat"
 
@@ -4302,6 +4305,9 @@ msgstr "Show background"
 
 msgid "hud_icon_show_border"
 msgstr "Show border"
+
+msgid "hud_icon_show_in_gui_mode"
+msgstr "Show in GUI mode too"
 
 msgid "hud_member_of_clan_name"
 msgstr "Member of %1"
@@ -8893,6 +8899,9 @@ msgstr "Arrange HUD bars..."
 
 msgid "options_gui_auto_tooltip_duration"
 msgstr "Automatic Tooltip Duration"
+
+msgid "options_gui_badges_combat_only_heading"
+msgstr "Badges shown only in combat mode"
 
 msgid "options_gui_buff_timer_display_in_seconds"
 msgstr "Buff Timer Display In Seconds"
