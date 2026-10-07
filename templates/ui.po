@@ -5039,6 +5039,14 @@ msgstr "Social"
 msgid "journal_friends_unblock_status_requested"
 msgstr "Unblock request sent..."
 
+msgid "journal_guides_empty"
+msgstr "No guide is in progress."
+
+msgid "journal_guides_hint"
+msgstr ""
+"An untracked guide keeps running, but stays off the quest tracker until you "
+"track it again."
+
 msgid "journal_housing_bank_grant"
 msgstr "Grant bank"
 
@@ -5404,6 +5412,9 @@ msgstr "Combat"
 
 msgid "journal_section_crafting"
 msgstr "Crafting"
+
+msgid "journal_section_guides"
+msgstr "Guides"
 
 msgid "journal_section_slayer"
 msgstr "Slayer"
