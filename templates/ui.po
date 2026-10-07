@@ -10021,6 +10021,19 @@ msgstr "Starts when your encumbrance goes above %1 (yours: %2)."
 msgid "playerstats_protections"
 msgstr "Protections"
 
+msgid "pm_strip_auto_pop_out"
+msgstr "Pop out new messages"
+
+msgid "pm_strip_auto_pop_out_off"
+msgstr ""
+"Off: new conversations wait in this list. Click to open each in a window of "
+"its own."
+
+msgid "pm_strip_auto_pop_out_on"
+msgstr ""
+"On: every new conversation opens in a window of its own. Click to keep them "
+"in this list."
+
 msgid "pm_strip_close_conversation"
 msgstr "Close conversation"
 
