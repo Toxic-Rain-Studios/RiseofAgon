@@ -3567,9 +3567,6 @@ msgstr "The clipboard is unavailable - copy the code from the field."
 msgid "crosshair_dot"
 msgstr "Centre dot"
 
-msgid "crosshair_friendly_warning"
-msgstr "Friendly warning"
-
 msgid "crosshair_gap"
 msgstr "Gap"
 
@@ -3594,15 +3591,6 @@ msgstr "Outline"
 msgid "crosshair_outline_thickness"
 msgstr "Outline thickness"
 
-msgid "crosshair_preview_friendly"
-msgstr "Preview friendly target"
-
-msgid "crosshair_preview_spread"
-msgstr "Preview spread"
-
-msgid "crosshair_recoil"
-msgstr "Recoil kick"
-
 msgid "crosshair_red"
 msgstr "Custom red"
 
@@ -3615,47 +3603,14 @@ msgstr "Share code"
 msgid "crosshair_size"
 msgstr "Size"
 
-msgid "crosshair_split_alpha_inner"
-msgstr "Inner opacity"
-
-msgid "crosshair_split_alpha_outer"
-msgstr "Outer opacity"
-
-msgid "crosshair_split_distance"
-msgstr "Split distance"
-
-msgid "crosshair_split_ratio"
-msgstr "Outer part"
-
-msgid "crosshair_spread"
-msgstr "Spread"
-
-msgid "crosshair_spread_air"
-msgstr "Spread when airborne"
-
-msgid "crosshair_spread_attack"
-msgstr "Spread on attack"
-
-msgid "crosshair_spread_move"
-msgstr "Spread when moving"
-
 msgid "crosshair_style"
 msgstr "Style"
-
-msgid "crosshair_style_classic"
-msgstr "Classic (split)"
 
 msgid "crosshair_style_classic_darkfall"
 msgstr "Classic Darkfall"
 
-msgid "crosshair_style_classic_dynamic"
-msgstr "Classic Dynamic"
-
-msgid "crosshair_style_legacy"
-msgstr "Legacy"
-
-msgid "crosshair_style_static"
-msgstr "Static"
+msgid "crosshair_style_lines"
+msgstr "Lines"
 
 msgid "crosshair_t_style"
 msgstr "T style (no top line)"
