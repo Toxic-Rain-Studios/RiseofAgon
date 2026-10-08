@@ -2447,6 +2447,11 @@ msgstr "Junior Diplomat"
 msgid "clan_role_description_warfare_specialist"
 msgstr "Warfare Specialist"
 
+msgid "clan_role_member_locked_hint"
+msgstr ""
+"Every clan member has this role and it cannot be removed. To remove someone "
+"from the clan, use Kick on the Roster."
+
 msgid "clan_role_name_auditor"
 msgstr "Can view member roles."
 
