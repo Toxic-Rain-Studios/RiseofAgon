@@ -854,6 +854,12 @@ msgstr "Boards"
 msgid "browser_home"
 msgstr "Home"
 
+msgid "buff_road_speed"
+msgstr "Road Speed"
+
+msgid "buff_road_speed_desc"
+msgstr "Your mount is moving faster on a paved road."
+
 msgid "button_accept"
 msgstr "Accept"
 
@@ -6444,6 +6450,9 @@ msgstr "Political"
 
 msgid "map_marker_overlays_regions"
 msgstr "Regions"
+
+msgid "map_marker_overlays_roads"
+msgstr "Roads"
 
 msgid "map_marker_overlays_tile_rating"
 msgstr "Tile Rating"
