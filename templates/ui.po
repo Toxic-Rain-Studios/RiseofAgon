@@ -4372,6 +4372,9 @@ msgstr "Buffs"
 msgid "hud_arrange_compass"
 msgstr "Compass"
 
+msgid "hud_arrange_debuffs"
+msgstr "Debuffs"
+
 msgid "hud_arrange_done"
 msgstr "Done"
 
@@ -4383,6 +4386,9 @@ msgstr "Grid"
 
 msgid "hud_arrange_snap"
 msgstr "Snap to windows"
+
+msgid "hud_arrange_split_debuffs"
+msgstr "Separate debuffs"
 
 msgid "hud_full_name"
 msgstr "%1 %2"
@@ -9235,6 +9241,9 @@ msgstr "Show Tutorial next time"
 
 msgid "options_gui_show_weapon_bar"
 msgstr "Show weapon bar"
+
+msgid "options_gui_split_debuffs"
+msgstr "Show debuffs in a separate bar"
 
 msgid "options_gui_tab_bars"
 msgstr "Bars"
