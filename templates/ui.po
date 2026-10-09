@@ -4629,9 +4629,9 @@ msgstr "Items in the drawer: %1"
 
 msgid "inventory_drawer_toggle_tooltip"
 msgstr ""
-"Drag any item in to keep it here, and drag it out to put it back in your "
-"bag. An item you equip returns to its place in the drawer. Click to show or "
-"hide the drawer."
+"Drag a No Drop item in to keep it here, and drag it out to put it back in "
+"your bag. Only No Drop items fit. An item you equip returns to its place in "
+"the drawer. Click to show or hide the drawer."
 
 msgid "inventory_item_drop_confirmation"
 msgstr "Are you sure you want to destroy %1?"
