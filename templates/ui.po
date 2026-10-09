@@ -496,6 +496,12 @@ msgstr "Passive"
 msgid "abilities_detail_reagents"
 msgstr "Reagents"
 
+msgid "abilities_detail_recipe_learned"
+msgstr "Recipe book learned"
+
+msgid "abilities_detail_recipe_not_learned"
+msgstr "Recipe book not learned"
+
 msgid "abilities_detail_resist_constitution"
 msgstr "Constitution"
 
@@ -2086,6 +2092,16 @@ msgid "clan_activity_window_cost_explain"
 msgstr ""
 "Your clan's first change is free. After that, changing your activity window "
 "costs %1 gold from the clan vault, and can only be done once per week."
+
+msgid "clan_activity_window_cost_explain_used"
+msgstr ""
+"Your clan has used its free change. Each change now costs %1 gold from the "
+"clan vault, and can only be done once per week."
+
+msgid "clan_activity_window_cost_explain_used_wait"
+msgstr ""
+"Your clan has used its free change. Each change costs %1 gold from the clan "
+"vault, and the next one is possible in %2."
 
 msgid "clan_activity_window_display_current_time"
 msgstr "Current time: %1"
@@ -4554,6 +4570,9 @@ msgstr "Show in GUI mode too"
 
 msgid "hud_member_of_clan_name"
 msgstr "Member of %1"
+
+msgid "hud_respawn_give_up_hint"
+msgstr "Press %1 to give up once the bar passes the marker"
 
 msgid "hud_souls_tooltip_count"
 msgstr "Souls: %1 / %2"
@@ -11395,6 +11414,9 @@ msgstr "Next Use: %1"
 
 msgid "tooltip_item_skill_stamina"
 msgstr "Stamina: %1"
+
+msgid "tooltip_recipe_already_learned"
+msgstr "Already learned!"
 
 msgid "tooltip_recipe_craft"
 msgstr "Craft"
