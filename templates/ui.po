@@ -8809,6 +8809,27 @@ msgstr "Open Rune Book"
 msgid "minimap_character_coordinates"
 msgstr "%1' %2'' %3   %4' %5'' %6"
 
+msgid "minimap_daynight_phase_dawn"
+msgstr "Dawn"
+
+msgid "minimap_daynight_phase_day"
+msgstr "Day"
+
+msgid "minimap_daynight_phase_dusk"
+msgstr "Dusk"
+
+msgid "minimap_daynight_phase_night"
+msgstr "Night"
+
+msgid "minimap_daynight_tooltip_next"
+msgstr "%1 in about %2 min"
+
+msgid "minimap_daynight_tooltip_next_soon"
+msgstr "%1 in under a minute"
+
+msgid "minimap_daynight_tooltip_now"
+msgstr "%1 - %2 (in-game)"
+
 msgid "minimap_territory_bonus_hide_details"
 msgstr "Click to hide the details."
 
