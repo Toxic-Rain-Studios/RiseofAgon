@@ -4434,6 +4434,9 @@ msgstr "VULNERABILITY"
 msgid "holding_vulnerability_schedule"
 msgstr "Vulnerable daily %1 (%2)"
 
+msgid "hotbar_attach_weapon_bar"
+msgstr "Attach weapon bar"
+
 msgid "hotbar_button_tooltip_browse"
 msgstr "Browse with '%1'"
 
@@ -4442,6 +4445,9 @@ msgstr "To access press '%1'"
 
 msgid "hotbar_colnumber_tooltip"
 msgstr "Current column"
+
+msgid "hotbar_detach_weapon_bar"
+msgstr "Detach weapon bar"
 
 msgid "hotbar_empty_selected_skill_tooltip1"
 msgstr "No skill selected."
@@ -11619,6 +11625,12 @@ msgstr "On weapon change"
 
 msgid "weapon_bar_slot_option_trigger_hotbar_slot_row"
 msgstr "Row: "
+
+msgid "weapon_circle_empty_tooltip"
+msgstr "Drop a weapon here, or open all six slots with the arrow below"
+
+msgid "weapon_circle_slot_tooltip"
+msgstr "Weapon slot %1 of 6"
 
 msgid "window_close_tooltip"
 msgstr "Close"
