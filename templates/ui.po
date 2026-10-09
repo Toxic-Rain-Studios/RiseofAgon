@@ -10246,17 +10246,18 @@ msgid "playerstats_protections"
 msgstr "Protections"
 
 msgid "pm_strip_auto_pop_out"
-msgstr "Pop out new messages"
+msgstr "New messages as chat tabs"
 
 msgid "pm_strip_auto_pop_out_off"
 msgstr ""
-"Off: new conversations wait in this list. Click to open each in a window of "
-"its own."
+"Off: new conversations wait in this list. Click to open each as a tab in "
+"your System Messages window."
 
 msgid "pm_strip_auto_pop_out_on"
 msgstr ""
-"On: every new conversation opens in a window of its own. Click to keep them "
-"in this list."
+"On: every new conversation opens as a tab in your System Messages window. "
+"Drag the tab off to give it a window of its own. Click to keep them in this "
+"list."
 
 msgid "pm_strip_close_conversation"
 msgstr "Close conversation"
