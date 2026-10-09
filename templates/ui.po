@@ -4421,6 +4421,9 @@ msgstr "%1 %2"
 msgid "hud_icon_combat_only"
 msgstr "Show only in combat mode"
 
+msgid "hud_icon_gui_only"
+msgstr "Show only in GUI mode"
+
 msgid "hud_icon_hide_background"
 msgstr "Hide background in combat"
 
@@ -4438,6 +4441,9 @@ msgstr "Show background"
 
 msgid "hud_icon_show_border"
 msgstr "Show border"
+
+msgid "hud_icon_show_in_combat_mode"
+msgstr "Show in combat mode too"
 
 msgid "hud_icon_show_in_gui_mode"
 msgstr "Show in GUI mode too"
@@ -9108,6 +9114,9 @@ msgstr "Automatic Tooltip Duration"
 
 msgid "options_gui_badges_combat_only_heading"
 msgstr "Badges shown only in combat mode"
+
+msgid "options_gui_badges_gui_only_heading"
+msgstr "Badges shown only in GUI mode"
 
 msgid "options_gui_buff_timer_display_in_seconds"
 msgstr "Buff Timer Display In Seconds"
