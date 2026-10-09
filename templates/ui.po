@@ -1911,6 +1911,9 @@ msgstr ""
 "Cities, structures and other clan assets are protected from sieges and "
 "destruction."
 
+msgid "clan_activity_local_range"
+msgstr "Your time: %1"
+
 msgid "clan_activity_none"
 msgstr "This clan has not set its activity schedule."
 
@@ -1936,6 +1939,11 @@ msgstr ""
 "Configure your clan's daily activity and invulnerable windows. All times are "
 "Server / UTC."
 
+msgid "clan_activity_settings_intro_local"
+msgstr ""
+"Configure your clan's daily activity and invulnerable windows. Times are "
+"Server / UTC, local time shown under each."
+
 msgid "clan_activity_state_active"
 msgstr "Active"
 
@@ -1959,6 +1967,9 @@ msgstr "Invulnerable (Protected)"
 
 msgid "clan_activity_title_protected_window"
 msgstr "Invulnerable Window"
+
+msgid "clan_activity_utc_local_note"
+msgstr "Times are shown in Server / UTC, with your local time under each."
 
 msgid "clan_activity_utc_note"
 msgstr "All activity times use Server / UTC time."
