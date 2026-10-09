@@ -785,9 +785,7 @@ msgid "desc_s_Begone_1"
 msgstr ""
 
 msgid "desc_s_Berserker Aura"
-msgstr ""
-"Party members near you attack faster in melee. While it holds, other players "
-"cannot heal you."
+msgstr "Party members near you attack faster in melee. Works with any weapon."
 
 msgid "desc_s_Berserker Aura_1"
 msgstr ""
@@ -796,7 +794,7 @@ msgid "desc_s_Berserker Mastery"
 msgstr "Take up the Berserker path. Two-handers and rage."
 
 msgid "desc_s_Berserker Skills"
-msgstr ""
+msgstr "Abilities of the Berserker mastery."
 
 msgid "desc_s_Bindstone Recall"
 msgstr "Teleports you to your bind point."
@@ -1109,6 +1107,17 @@ msgstr ""
 
 msgid "desc_s_Digging"
 msgstr "Equip a shovel and try to dig for the treasure.  "
+
+msgid "desc_s_Disabling Blow"
+msgstr ""
+"Strikes with the weapon in your hands, briefly preventing the target from "
+"parrying. Stuns a monster for 3 seconds."
+
+msgid "desc_s_Disabling Blow_1"
+msgstr ""
+
+msgid "desc_s_Disabling Blow_2"
+msgstr ""
 
 msgid "desc_s_Disabling Blow_Axe"
 msgstr "Strikes the target, briefly preventing it from parrying."
@@ -1965,6 +1974,12 @@ msgstr "Basic attack with dual knives."
 msgid "desc_s_Knives_1"
 msgstr ""
 
+msgid "desc_s_Knockback"
+msgstr "Strikes the target with the weapon in your hands and knocks it back."
+
+msgid "desc_s_Knockback_1"
+msgstr ""
+
 msgid "desc_s_Knockback_Axe"
 msgstr "Strikes the target and knocks it back."
 
@@ -2706,6 +2721,24 @@ msgstr ""
 msgid "desc_s_Positioning Skills"
 msgstr "Description of s_Positioning Skills"
 
+msgid "desc_s_Power Attack"
+msgstr ""
+"A heavy strike with the weapon in your hands. Axes lower melee protections, "
+"clubs drain stamina, swords make the target bleed, knives poison, polearms "
+"weaken and sithras slow."
+
+msgid "desc_s_Power Attack_1"
+msgstr ""
+
+msgid "desc_s_Power Attack_2"
+msgstr ""
+
+msgid "desc_s_Power Attack_3"
+msgstr ""
+
+msgid "desc_s_Power Attack_4"
+msgstr ""
+
 msgid "desc_s_Power Attack_Axe"
 msgstr "A heavy strike that lowers the target's melee protections."
 
@@ -3055,6 +3088,13 @@ msgstr ""
 
 msgid "desc_s_Scribing"
 msgstr "Used for writing scrolls, books and manufacturing paper products."
+
+msgid "desc_s_Seize"
+msgstr ""
+"Strikes the target with the weapon in your hands and pulls it toward you."
+
+msgid "desc_s_Seize_1"
+msgstr ""
 
 msgid "desc_s_Seize_Axe"
 msgstr "Strikes the target and pulls it toward you."
@@ -3678,6 +3718,12 @@ msgstr ""
 "button to start."
 
 msgid "desc_s_Weaving Skills"
+msgstr ""
+
+msgid "desc_s_Whirlwind Attack"
+msgstr "Spins to strike every enemy around you with the weapon in your hands."
+
+msgid "desc_s_Whirlwind Attack_1"
 msgstr ""
 
 msgid "desc_s_Whirlwind Attack_Axe"
@@ -4347,6 +4393,15 @@ msgstr "Desecration_1"
 
 msgid "s_Digging"
 msgstr "Digging"
+
+msgid "s_Disabling Blow"
+msgstr "Disabling Blow"
+
+msgid "s_Disabling Blow_1"
+msgstr "Disabling Blow_1"
+
+msgid "s_Disabling Blow_2"
+msgstr "Disabling Blow_2"
 
 msgid "s_Disabling Blow_Axe"
 msgstr "Disabling Blow_Axe"
@@ -5155,6 +5210,12 @@ msgstr "Knives"
 msgid "s_Knives_1"
 msgstr "Knives_1"
 
+msgid "s_Knockback"
+msgstr "Knockback"
+
+msgid "s_Knockback_1"
+msgstr "Knockback_1"
+
 msgid "s_Knockback_Axe"
 msgstr "Knockback_Axe"
 
@@ -5875,6 +5936,21 @@ msgstr "Polymorph_1"
 msgid "s_Positioning Skills"
 msgstr "Positioning Skills"
 
+msgid "s_Power Attack"
+msgstr "Power Attack"
+
+msgid "s_Power Attack_1"
+msgstr "Power Attack_1"
+
+msgid "s_Power Attack_2"
+msgstr "Power Attack_2"
+
+msgid "s_Power Attack_3"
+msgstr "Power Attack_3"
+
+msgid "s_Power Attack_4"
+msgstr "Power Attack_4"
+
 msgid "s_Power Attack_Axe"
 msgstr "Power Attack_Axe"
 
@@ -6216,6 +6292,12 @@ msgstr "Scout"
 
 msgid "s_Scribing"
 msgstr "Scribing"
+
+msgid "s_Seize"
+msgstr "Seize"
+
+msgid "s_Seize_1"
+msgstr "Seize_1"
 
 msgid "s_Seize_Axe"
 msgstr "Seize_Axe"
@@ -6810,6 +6892,12 @@ msgstr "Weaving"
 
 msgid "s_Weaving Skills"
 msgstr "Weaving Skills"
+
+msgid "s_Whirlwind Attack"
+msgstr "Whirlwind Attack"
+
+msgid "s_Whirlwind Attack_1"
+msgstr "Whirlwind Attack_1"
 
 msgid "s_Whirlwind Attack_Axe"
 msgstr "Whirlwind Attack_Axe"

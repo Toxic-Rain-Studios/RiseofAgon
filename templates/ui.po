@@ -4562,7 +4562,7 @@ msgid "hud_souls_tooltip_count_uncapped"
 msgstr "Souls: %1"
 
 msgid "hud_souls_tooltip_use"
-msgstr "Spent on your aura, capstone and Mastery Trials."
+msgstr "Spent on your aura and capstone."
 
 msgid "hud_special_title"
 msgstr "A.K.A. %1"
@@ -7514,11 +7514,6 @@ msgstr ""
 "Power Attacks on monsters heal you for up to 40% of the hit, more the lower "
 "your health."
 
-# BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
-# 
-# Generated from pvemasteryconfig.xml. Do not hand-edit: re-run the script.
-# The English here IS the config prose, so the window and the .po cannot
-# disagree about what the ability says.
 msgid "mastery_alt_berserker_bloodthirst_name"
 msgstr "Bloodthirst"
 
@@ -7559,6 +7554,11 @@ msgstr ""
 "You swing up to +20% faster and every melee hit on a monster heals you for "
 "up to 8% of it, more the lower your health."
 
+# BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
+# 
+# Generated from pvemasteryconfig.xml. Do not hand-edit: re-run the script.
+# The English here IS the config prose, so the window and the .po cannot
+# disagree about what the ability says.
 msgid "mastery_alt_berserker_frenzy_name"
 msgstr "Frenzy"
 
@@ -7573,34 +7573,6 @@ msgstr "Up to +27% faster and 14% healed."
 
 msgid "mastery_alt_berserker_frenzy_rank4"
 msgstr "Up to +30% faster and 16% healed."
-
-msgid "mastery_alt_berserker_laststand_desc"
-msgstr ""
-"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
-"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
-
-msgid "mastery_alt_berserker_laststand_name"
-msgstr "Last Stand"
-
-msgid "mastery_alt_berserker_laststand_rank1"
-msgstr ""
-"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
-"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
-
-msgid "mastery_alt_berserker_laststand_rank2"
-msgstr ""
-"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
-"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
-
-msgid "mastery_alt_berserker_laststand_rank3"
-msgstr ""
-"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
-"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
-
-msgid "mastery_alt_berserker_laststand_rank4"
-msgstr ""
-"ACTIVE: for 20 seconds your health cannot drop below 1. 3 minute cooldown. "
-"Ends if you enter PvP. Drag it onto your hotbar from the Skills window."
 
 msgid "mastery_alt_berserker_maelstrom_desc"
 msgstr ""
@@ -8375,8 +8347,8 @@ msgstr "Level %1 / %2   -   Tier %3 of %4   -   %5 XP"
 
 msgid "mastery_essence_hint"
 msgstr ""
-"Souls stolen from the monsters you kill. Spent on your aura, your capstone "
-"and Mastery Trials."
+"Souls stolen from the monsters you kill. Spent on your aura and your "
+"capstone."
 
 msgid "mastery_essence_value"
 msgstr "Essence %1"
@@ -8471,7 +8443,7 @@ msgid "mastery_open_track_button"
 msgstr "Open Mastery Track"
 
 msgid "mastery_orb_hint"
-msgstr "Trials cost Mastery Orbs and essence."
+msgstr "Trials cost Mastery Orbs."
 
 msgid "mastery_orb_needed"
 msgstr "Pass a Trial to go past level %1"
@@ -8746,7 +8718,7 @@ msgstr "Hand in"
 msgid "mastery_trials_intro"
 msgstr ""
 "Every %1 levels a mastery reaches a limit, and passing its Trial here lifts "
-"it for the next %1 levels. Trials are paid in orbs and souls."
+"it for the next %1 levels. Trials are paid in orbs."
 
 msgid "mastery_trials_learn_first"
 msgstr "Learn a mastery in the Service tab first."
@@ -8791,25 +8763,25 @@ msgid "mastery_unlocks_at"
 msgstr "unlocks at level %1"
 
 msgid "mastery_weapon_berserker"
-msgstr "Requires a two-handed weapon. The aura works without one."
+msgstr "Needs a greatsword, greataxe, greatclub or polearm drawn."
 
 msgid "mastery_weapon_blightcaller"
 msgstr ""
 
 msgid "mastery_weapon_cutthroat"
-msgstr "Requires knives."
+msgstr "Needs knives or daggers drawn."
 
 msgid "mastery_weapon_deadeye"
-msgstr "Requires a bow."
+msgstr "Needs a bow drawn."
 
 msgid "mastery_weapon_elementalist"
 msgstr ""
 
 msgid "mastery_weapon_oracle"
-msgstr "Requires a staff. The aura works without one."
+msgstr "Needs a staff drawn. The aura works without one."
 
 msgid "mastery_weapon_vanguard"
-msgstr "Requires a shield."
+msgstr "Needs a shield equipped, with any weapon."
 
 msgid "mastery_window_title"
 msgstr "PvE Mastery"

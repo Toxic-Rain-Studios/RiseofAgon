@@ -2086,8 +2086,7 @@ msgstr " "
 msgid "desc_r_Ancient Essence"
 msgstr ""
 "Double-click to add it to your essence pool, one essence per bottle. Essence "
-"pays for your aura, your capstone and Mastery Trials, and comes from the "
-"monsters you kill."
+"pays for your aura and your capstone, and comes from the monsters you kill."
 
 msgid "desc_r_Ancient Orb"
 msgstr ""
@@ -11430,14 +11429,17 @@ msgstr ""
 
 msgid "desc_r_Mastery Items"
 msgstr ""
-"Mastery Orbs, Ancient Orbs and Ancient Essence, for the Mastery Trials at "
-"Slayer Master Aero."
+"Mastery Orbs and Ancient Orbs for the Mastery Trials at Slayer Master Aero, "
+"and Ancient Essence for your essence pool."
 
 msgid "desc_r_Mastery Orb"
 msgstr ""
 "Spent on Mastery Trials to raise your mastery's level cap by 10. Aero sells "
 "them for Slayer Points, and Hard and Very Hard monsters drop them very "
 "rarely, Very Hard more often."
+
+msgid "desc_r_Mastery Slayer"
+msgstr "Mastery orbs and essence, and Slayer talismans."
 
 msgid "desc_r_Matayin"
 msgstr " "
@@ -15835,6 +15837,10 @@ msgstr "Very potent ingredient used for enchanting."
 
 msgid "desc_r_Tainted Heart"
 msgstr "Ingredient used for enchanting."
+
+msgid "desc_r_Talismans"
+msgstr ""
+"Worn in the talisman slots. A sealed one is identified with a double-click."
 
 msgid "desc_r_Tall Shield"
 msgstr "A simple, wooden kite shield."
@@ -30238,6 +30244,9 @@ msgstr "Mastery Items"
 msgid "r_Mastery Orb"
 msgstr "Mastery Orb"
 
+msgid "r_Mastery Slayer"
+msgstr "Mastery & Slayer"
+
 msgid "r_Matayin"
 msgstr "Matayin"
 
@@ -34590,6 +34599,9 @@ msgstr "Eerie Darktaint"
 
 msgid "r_Tainted Heart"
 msgstr "Tainted Heart"
+
+msgid "r_Talismans"
+msgstr "Slayer Talismans"
 
 msgid "r_Tall Shield"
 msgstr "Tall Shield"
