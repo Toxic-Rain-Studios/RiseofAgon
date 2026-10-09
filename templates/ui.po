@@ -4624,6 +4624,15 @@ msgstr "Are you sure you want to destroy a batch of %1?"
 msgid "inventory_batch_move_cooldown_error"
 msgstr "You need to wait before using Batch Move again"
 
+msgid "inventory_drawer_count"
+msgstr "Items in the drawer: %1"
+
+msgid "inventory_drawer_toggle_tooltip"
+msgstr ""
+"Drag any item in to keep it here, and drag it out to put it back in your "
+"bag. An item you equip returns to its place in the drawer. Click to show or "
+"hide the drawer."
+
 msgid "inventory_item_drop_confirmation"
 msgstr "Are you sure you want to destroy %1?"
 
