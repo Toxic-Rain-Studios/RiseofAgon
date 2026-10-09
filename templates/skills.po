@@ -157,6 +157,9 @@ msgstr "Its level does not currently change its effect."
 msgid "desc_level_s_Axe Mastery"
 msgstr "Its level does not currently change its effect."
 
+msgid "desc_level_s_Beacon"
+msgstr "Its level does not currently change its effect."
+
 msgid "desc_level_s_Club Mastery"
 msgstr "Its level does not currently change its effect."
 
@@ -273,6 +276,12 @@ msgstr ""
 "where it can be resisted, helps it overcome Defense. Your weapon skill adds "
 "to its damage too."
 
+msgid "desc_level_s_Launch"
+msgstr "Its level does not currently change its effect."
+
+msgid "desc_level_s_Light"
+msgstr "Its level does not currently change its effect."
+
 msgid "desc_level_s_Logging"
 msgstr ""
 "Leveling Logging does not change how much you get from wild trees, your "
@@ -367,6 +376,9 @@ msgstr ""
 "Each level makes Rage stronger, in a straight line: its power is 10 at level "
 "0 and 30 at level 100."
 
+msgid "desc_level_s_Reflect Spell"
+msgstr "Each level makes it last a little longer."
+
 msgid "desc_level_s_Seize_Axe"
 msgstr ""
 "Damage rises in steps at levels 20, 40, 60, 80 and 100: about +0.4 per step, "
@@ -432,6 +444,9 @@ msgstr "Its level does not currently change its effect."
 msgid "desc_level_s_Skinning"
 msgstr "Skinning is currently disabled."
 
+msgid "desc_level_s_Smoke Signal"
+msgstr "Its level does not currently change its effect."
+
 msgid "desc_level_s_Sniper"
 msgstr "Its level does not currently change its effect."
 
@@ -439,6 +454,9 @@ msgid "desc_level_s_Stealth"
 msgstr "Its level does not currently change its effect."
 
 msgid "desc_level_s_Sword Mastery"
+msgstr "Its level does not currently change its effect."
+
+msgid "desc_level_s_Telekinesis"
 msgstr "Its level does not currently change its effect."
 
 msgid "desc_level_s_Whirlwind Attack_Axe"

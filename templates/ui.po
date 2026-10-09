@@ -496,11 +496,59 @@ msgstr "Passive"
 msgid "abilities_detail_reagents"
 msgstr "Reagents"
 
+msgid "abilities_detail_resist_constitution"
+msgstr "Constitution"
+
+msgid "abilities_detail_resist_defense"
+msgstr "Defense"
+
+msgid "abilities_detail_resist_fortitude"
+msgstr "Fortitude"
+
+msgid "abilities_detail_resist_reflex"
+msgstr "Reflex"
+
+msgid "abilities_detail_resist_willpower"
+msgstr "Willpower"
+
 msgid "abilities_detail_school"
 msgstr "School"
 
 msgid "abilities_detail_school_requirement_heading"
 msgstr "School Requirement"
+
+msgid "abilities_detail_spell_area"
+msgstr "Its area grows at levels 20, 40, 60, 80 and 100."
+
+msgid "abilities_detail_spell_damage"
+msgstr "deals a little more damage"
+
+msgid "abilities_detail_spell_drain"
+msgstr "drains a little more"
+
+msgid "abilities_detail_spell_effect"
+msgstr "makes its effect a little stronger"
+
+msgid "abilities_detail_spell_heal"
+msgstr "heals a little more"
+
+msgid "abilities_detail_spell_join_and"
+msgstr "%1 and %2"
+
+msgid "abilities_detail_spell_join_list"
+msgstr "%1, %2"
+
+msgid "abilities_detail_spell_resist"
+msgstr "Higher level also helps it get past the target's %1."
+
+msgid "abilities_detail_spell_resist_only"
+msgstr "Higher level helps it get past the target's %1."
+
+msgid "abilities_detail_spell_restore"
+msgstr "restores a little more"
+
+msgid "abilities_detail_spell_with_every_level"
+msgstr "With every level it %1."
 
 msgid "abilities_detail_stamina"
 msgstr "Stamina Cost"
