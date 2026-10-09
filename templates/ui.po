@@ -435,6 +435,42 @@ msgstr "Health Cost"
 msgid "abilities_detail_individual_progression_heading"
 msgstr "Individual Progression"
 
+msgid "abilities_detail_level_effects_heading"
+msgstr "What leveling does"
+
+msgid "abilities_detail_level_label_craft_time"
+msgstr "Crafting time"
+
+msgid "abilities_detail_level_label_dig_stamina"
+msgstr "Stamina per dig"
+
+msgid "abilities_detail_level_label_harvest_time"
+msgstr "Time per action"
+
+msgid "abilities_detail_level_label_mana_cost"
+msgstr "Mana cost from Mana Efficiency"
+
+msgid "abilities_detail_level_label_parry_disable"
+msgstr "Parry disabled for"
+
+msgid "abilities_detail_level_label_parry_stamina"
+msgstr "Stamina per parry"
+
+msgid "abilities_detail_level_label_spell_duration"
+msgstr "Spell duration from Durable Spells"
+
+msgid "abilities_detail_level_live"
+msgstr "%1 - Now: %2 - At level %3: %4"
+
+msgid "abilities_detail_level_live_mastery"
+msgstr "%1 - Now: %2 - At Mastery %3: %4"
+
+msgid "abilities_detail_level_live_max"
+msgstr "%1 - Now: %2 (maximum)"
+
+msgid "abilities_detail_level_seconds"
+msgstr "%1 s"
+
 msgid "abilities_detail_locked"
 msgstr "Locked"
 
