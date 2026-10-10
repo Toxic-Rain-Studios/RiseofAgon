@@ -10304,8 +10304,81 @@ msgstr "Territory Control"
 msgid "paragraph_break"
 msgstr " \n"
 
+msgid "party_create"
+msgstr "Create Party"
+
+msgid "party_find"
+msgstr "Find Party"
+
+msgid "party_find_coming_soon"
+msgstr "The Party Finder is coming soon."
+
+msgid "party_kick"
+msgstr "Kick"
+
+msgid "party_leader_named"
+msgstr "Leader: %1"
+
+msgid "party_leave"
+msgstr "Leave Party"
+
+msgid "party_linked_count"
+msgstr "Linked parties (%1)"
+
+msgid "party_linked_empty_body"
+msgstr "Your party is not linked with any other party."
+
+msgid "party_linked_empty_title"
+msgstr "Not linked"
+
+msgid "party_linked_help_1"
+msgstr "Fight alongside other parties as one group."
+
+msgid "party_linked_help_2"
+msgstr ""
+"The commander's party leads the group; each party keeps its own leader."
+
+msgid "party_linked_invite"
+msgstr "Invite Link"
+
+msgid "party_linked_invite_label"
+msgstr "Leader name"
+
+msgid "party_linked_members"
+msgstr "%1 / %2"
+
+msgid "party_linked_rules"
+msgstr "Links follow the same race and alignment rules."
+
+msgid "party_linked_title"
+msgstr "Linked Parties"
+
+msgid "party_linked_your_party"
+msgstr "(your party)"
+
+msgid "party_log_copy"
+msgstr "Copy"
+
+msgid "party_log_empty"
+msgstr "No log entries yet"
+
+msgid "party_log_empty_split"
+msgstr "No loot recorded yet"
+
+msgid "party_log_enabled"
+msgstr "Log loot and join/leave events"
+
+msgid "party_log_show_log"
+msgstr "Log"
+
+msgid "party_log_split"
+msgstr "Split"
+
 msgid "party_loot_roll_all"
 msgstr "Roll All"
+
+msgid "party_member_count"
+msgstr "%1 / %2 Members"
 
 msgid "party_menu_voice_join"
 msgstr "Join party voice"
@@ -10319,8 +10392,65 @@ msgstr "Voice louder (%1%)"
 msgid "party_menu_voice_quieter"
 msgstr "Voice quieter (%1%)"
 
+msgid "party_no_party_body"
+msgstr "Create a party and invite players to it."
+
+msgid "party_no_party_title"
+msgstr "You're not in a party"
+
+msgid "party_promote"
+msgstr "Promote"
+
+msgid "party_role_commander"
+msgstr "Commander"
+
+msgid "party_role_leader"
+msgstr "Leader"
+
+msgid "party_role_lieutenant"
+msgstr "Lieutenant"
+
+msgid "party_role_linked"
+msgstr "Linked"
+
+msgid "party_roll"
+msgstr "Roll"
+
+msgid "party_roll_column"
+msgstr "D100"
+
+msgid "party_roll_results"
+msgstr "Roll results"
+
+msgid "party_rule_lawful"
+msgstr "Lawful players party within their race alliance."
+
+msgid "party_rule_lawless"
+msgstr "Lawless players party with any lawless player."
+
+msgid "party_tab_linked"
+msgstr "Linked"
+
+msgid "party_tab_log"
+msgstr "Log"
+
+msgid "party_tab_loot_roll"
+msgstr "Loot Roll"
+
+msgid "party_tab_party"
+msgstr "Party"
+
+msgid "party_unlink"
+msgstr "Unlink"
+
 msgid "party_voice_checkbox"
 msgstr "Party voice chat"
+
+msgid "party_you"
+msgstr "(You)"
+
+msgid "party_you_are_leader"
+msgstr "You are the party leader."
 
 msgid "pet_collect_pending"
 msgstr ""
