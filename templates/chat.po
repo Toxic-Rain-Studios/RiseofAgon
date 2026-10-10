@@ -6990,7 +6990,7 @@ msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN_SECONDS"
 msgstr "You are on cooldown in this channel for %1 seconds."
 
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
-msgstr "You don't have access to the new player channel."
+msgstr "You don't have access to the Help channel."
 
 msgid "NOTIFICATION_CHAT_HELP_REQUEST_RECEIVED"
 msgstr ""
@@ -9937,79 +9937,76 @@ msgstr "Your newbie protection protected you from %1"
 
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr ""
-"You were removed from the new player channel because your alignment is too "
-"low."
+"You were removed from the Help channel because your alignment is too low."
 
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr ""
-"You were added to the new player channel because your alignment is greater "
-"than ^Ccyan^%1."
+"You were added to the Help channel because your alignment is greater than "
+"^Ccyan^%1."
 
-#. No runtime parameters. Posted to the New Player chat channel periodically while the channel is active.
+#. No runtime parameters. Posted to the Help chat channel periodically while the channel is active.
 msgid "NOTIFICATION_NEWPLAYER_CHANNEL_REMINDER"
 msgstr ""
-"New Player chat is for questions and help only. General chat may get you "
-"muted."
+"Help chat is for questions and help only. General chat may get you muted."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
-msgstr "You are already in the New Player channel."
+msgstr "You are already in the Help channel."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
 msgstr ""
-"Your account still counts as a new player: you keep your place in the New "
-"Player channel and the helper message cooldown no longer applies to you."
+"Your account still counts as a new player: you keep your place in the Help "
+"channel and the helper message cooldown no longer applies to you."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
 msgstr ""
-"You joined the New Player channel as a helper for this session. Helpers can "
-"send one message every %1 seconds. Type /newplayer_leave to leave."
+"You joined the Help channel as a helper for this session. Helpers can send "
+"one message every %1 seconds. Type /newplayer_leave to leave."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
-msgstr "%1 joined New Player chat as a helper."
+msgstr "%1 joined Help chat as a helper."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
-msgstr "You left the New Player channel."
+msgstr "You left the Help channel."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
-msgstr "%1 left New Player chat."
+msgstr "%1 left Help chat."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
-msgstr "You are not in the New Player channel as a helper."
+msgstr "You are not in the Help channel as a helper."
 
 msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
 msgstr "Checking whether you still count as a new player, one moment."
 
 msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
 msgstr ""
-"You are not in the New Player channel because you left it. Type /"
-"newplayer_helper to rejoin."
+"You are not in the Help channel because you left it. Type /newplayer_helper "
+"to rejoin."
 
 msgid "NOTIFICATION_NEWPLAYER_MUTED"
-msgstr "You are muted in the New Player channel and cannot write in it."
+msgstr "You are muted in the Help channel and cannot write in it."
 
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
 msgstr ""
-"A Game Master has muted you in the New Player channel. You can still read "
-"it, but not write in it."
+"A Game Master has muted you in the Help channel. You can still read it, but "
+"not write in it."
 
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
 msgstr ""
-"A Game Master has muted you in the New Player channel. You can still read "
-"it, but not write in it. Reason: %1"
+"A Game Master has muted you in the Help channel. You can still read it, but "
+"not write in it. Reason: %1"
 
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
-msgstr "%1 was muted in New Player chat by %2."
+msgstr "%1 was muted in Help chat by %2."
 
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
-msgstr "%1 was muted in New Player chat by %2. Reason: %3"
+msgstr "%1 was muted in Help chat by %2. Reason: %3"
 
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
 msgstr ""
-"Your New Player channel mute has been lifted. You can write in the channel "
-"again."
+"Your Help channel mute has been lifted. You can write in the channel again."
 
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
-msgstr "%1 was unmuted in New Player chat by %2."
+msgstr "%1 was unmuted in Help chat by %2."
 
 msgid "NOTIFICATION_NICK_NOT_FOUND"
 msgstr "Could not find any '%1'"
@@ -13131,12 +13128,12 @@ msgstr "Welcome to Rise of Agon: Asia."
 
 msgid "NOTIFICATION_WELCOME_TO_NEWPLAYER_CHANNEL"
 msgstr ""
-"Welcome to the New Player chat channel. Here you can ask or answer any "
-"question that may arise during the beginning stages of the game. Keep in "
-"mind that this channel is not to be used for general off-topic discussion "
-"and will be moderated. We suggest that you should also check out the Code of "
-"Conduct on the main website for the game and chat rules. https://"
-"darkfallriseofagon.com/game/faq/code-conduct/"
+"Welcome to the Help chat channel. Here you can ask or answer any question "
+"that may arise during the beginning stages of the game. Keep in mind that "
+"this channel is not to be used for general off-topic discussion and will be "
+"moderated. We suggest that you should also check out the Code of Conduct on "
+"the main website for the game and chat rules. https://darkfallriseofagon.com/"
+"game/faq/code-conduct/"
 
 msgid "NOTIFICATION_WORLD_EVENT_ANNOUNCEMENT"
 msgstr "%1"

@@ -1746,7 +1746,7 @@ msgid "chat_server_cmd_say_mgm_desc"
 msgstr "echoes a message to all online Master GMs"
 
 msgid "chat_server_cmd_say_newplayers_desc"
-msgstr "echoes a message to all other new players"
+msgstr "echoes a message to the Help channel"
 
 msgid "chat_server_cmd_say_node_desc"
 msgstr "echoes a message to all other players on a specific server node"
