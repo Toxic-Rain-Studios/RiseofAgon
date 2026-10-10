@@ -10810,11 +10810,17 @@ msgstr "Player %1 %2 asks if you would like to join their party."
 msgid "NOTIFICATION_PARTY_INVITED_YOURSELF"
 msgstr "You can't invite yourself to join your party"
 
+msgid "NOTIFICATION_PARTY_INVITEE_PARTY_FULL"
+msgstr "%1 could not join: your party is full."
+
 msgid "NOTIFICATION_PARTY_IN_INGORE_LIST"
 msgstr "All your requests are being ignored by ^Cred^%1."
 
 msgid "NOTIFICATION_PARTY_IS_NOT_CREATED_YET"
 msgstr "Party is not created yet."
+
+msgid "NOTIFICATION_PARTY_JOIN_PARTY_FULL"
+msgstr "You could not join: that party is full."
 
 msgid "NOTIFICATION_PARTY_LINK_ENEMY_FACTION"
 msgstr ""
