@@ -10544,6 +10544,9 @@ msgstr "Linked"
 msgid "party_roll"
 msgstr "Roll"
 
+msgid "party_roll_already_won"
+msgstr "You already won this session"
+
 msgid "party_roll_closed"
 msgstr "Rolling closed"
 
@@ -10559,11 +10562,38 @@ msgstr "Drag an item here to roll for it"
 msgid "party_roll_drop_hint_member"
 msgstr "No item yet - the leader drags one here to roll"
 
+msgid "party_roll_greed"
+msgstr "Greed"
+
+msgid "party_roll_greed_value"
+msgstr "Greed %1"
+
+msgid "party_roll_need"
+msgstr "Need"
+
+msgid "party_roll_need_value"
+msgstr "Need %1"
+
+msgid "party_roll_new_session"
+msgstr "New session"
+
+msgid "party_roll_pass"
+msgstr "Pass"
+
+msgid "party_roll_passed"
+msgstr "Pass"
+
 msgid "party_roll_results"
 msgstr "Roll results"
 
 msgid "party_roll_seconds"
 msgstr "%1s"
+
+msgid "party_roll_session_none"
+msgstr "No winners yet this session"
+
+msgid "party_roll_session_winners"
+msgstr "Won this session: %1"
 
 msgid "party_roll_tie"
 msgstr "Tie"
