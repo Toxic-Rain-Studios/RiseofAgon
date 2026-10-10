@@ -10448,6 +10448,9 @@ msgstr "You're not in a party"
 msgid "party_promote"
 msgstr "Promote"
 
+msgid "party_recruit_description"
+msgstr "Description (up to 200 characters)"
+
 msgid "party_recruit_listed"
 msgstr "List party in the Party Finder"
 
@@ -10473,8 +10476,7 @@ msgid "party_requests_empty_title"
 msgstr "No requests"
 
 msgid "party_requests_help"
-msgstr ""
-"Players apply from the Party Finder, or with /partyapply and a member's name."
+msgstr "Players apply from the Party Finder or with /partyapply."
 
 msgid "party_requests_title"
 msgstr "Requests (%1)"
