@@ -10508,6 +10508,12 @@ msgstr "Rolling closes in %1s"
 msgid "party_roll_column"
 msgstr "D100"
 
+msgid "party_roll_drop_hint_leader"
+msgstr "Drag an item here to roll for it"
+
+msgid "party_roll_drop_hint_member"
+msgstr "No item yet - the leader drags one here to roll"
+
 msgid "party_roll_results"
 msgstr "Roll results"
 
