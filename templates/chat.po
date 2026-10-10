@@ -10789,6 +10789,41 @@ msgstr "All your requests are being ignored by ^Cred^%1."
 msgid "NOTIFICATION_PARTY_ALREADY_A_MEMBER"
 msgstr "You are already a member of a party."
 
+msgid "NOTIFICATION_PARTY_APPLICATION_ACCEPTED"
+msgstr "%1 accepted your application."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_CANCELLED"
+msgstr "You withdrew your party application."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_CLOSED"
+msgstr "The party you applied to no longer exists."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_DECLINED"
+msgstr "%1 declined your application."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_NONE"
+msgstr "You have no pending party application."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_NOT_ELIGIBLE"
+msgstr ""
+"You cannot join that party: it follows different race alliance or alignment "
+"rules."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_NOT_FOUND"
+msgstr "There is no application from %1."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_NO_PARTY"
+msgstr "%1 is not in a party."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_RECEIVED"
+msgstr "%1 wants to join your party. Open the Party window to answer."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_SENT"
+msgstr "Your application to join %1's party was sent."
+
+msgid "NOTIFICATION_PARTY_APPLICATION_TOO_MANY"
+msgstr "That party has too many pending applications. Try again later."
+
 msgid "NOTIFICATION_PARTY_CREATED"
 msgstr "A party was created for you."
 
