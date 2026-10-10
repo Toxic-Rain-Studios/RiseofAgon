@@ -10316,8 +10316,53 @@ msgstr "Decline"
 msgid "party_find"
 msgstr "Find Party"
 
-msgid "party_find_coming_soon"
-msgstr "The Party Finder is coming soon."
+msgid "party_finder_any_mastery"
+msgstr "any mastery"
+
+msgid "party_finder_apply"
+msgstr "Apply"
+
+msgid "party_finder_back"
+msgstr "Back"
+
+msgid "party_finder_cancel"
+msgstr "Cancel"
+
+msgid "party_finder_empty"
+msgstr "No recruiting parties match your search."
+
+msgid "party_finder_filters"
+msgstr "Filters"
+
+msgid "party_finder_looking_for"
+msgstr "Looking for: %1"
+
+msgid "party_finder_masteries"
+msgstr "Masteries wanted"
+
+msgid "party_finder_no_description"
+msgstr "No description."
+
+msgid "party_finder_no_tags"
+msgstr "No tags"
+
+msgid "party_finder_page"
+msgstr "Page %1 / %2  (%3 parties)"
+
+msgid "party_finder_pending"
+msgstr "Pending"
+
+msgid "party_finder_search"
+msgstr "Search"
+
+msgid "party_finder_searching"
+msgstr "Searching..."
+
+msgid "party_finder_tags"
+msgstr "Tags"
+
+msgid "party_finder_title"
+msgstr "Party Finder"
 
 msgid "party_kick"
 msgstr "Kick"
@@ -10403,6 +10448,24 @@ msgstr "You're not in a party"
 msgid "party_promote"
 msgstr "Promote"
 
+msgid "party_recruit_listed"
+msgstr "List party in the Party Finder"
+
+msgid "party_recruit_masteries"
+msgstr "Masteries wanted"
+
+msgid "party_recruit_save"
+msgstr "Save"
+
+msgid "party_recruit_status_listed"
+msgstr "Listed in the Party Finder"
+
+msgid "party_recruit_status_not_listed"
+msgstr "Not listed"
+
+msgid "party_recruit_title"
+msgstr "Recruitment"
+
 msgid "party_requests_empty_body"
 msgstr "Applications to join your party appear here."
 
@@ -10411,7 +10474,7 @@ msgstr "No requests"
 
 msgid "party_requests_help"
 msgstr ""
-"Players can apply with /partyapply and the name of anyone in your party."
+"Players apply from the Party Finder, or with /partyapply and a member's name."
 
 msgid "party_requests_title"
 msgstr "Requests (%1)"
@@ -10457,6 +10520,30 @@ msgstr "Party"
 
 msgid "party_tab_recruit"
 msgstr "Recruit"
+
+msgid "party_tag_casual"
+msgstr "Casual"
+
+msgid "party_tag_dungeons"
+msgstr "Dungeons"
+
+msgid "party_tag_faction_warfare"
+msgstr "Faction Warfare"
+
+msgid "party_tag_hardcore"
+msgstr "Hardcore"
+
+msgid "party_tag_new_players"
+msgstr "New Players"
+
+msgid "party_tag_pve"
+msgstr "PvE"
+
+msgid "party_tag_social"
+msgstr "Social"
+
+msgid "party_tag_trade_routes"
+msgstr "Trade Routes"
 
 msgid "party_unlink"
 msgstr "Unlink"
