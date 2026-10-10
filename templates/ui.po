@@ -854,6 +854,18 @@ msgstr "%3: %1 / %2"
 msgid "backpack_window_title"
 msgstr "Backpack"
 
+msgid "bag_tools_clear_log"
+msgstr "Clear log"
+
+msgid "bag_tools_log_header"
+msgstr "Loot log: %1 people (empty bank bags are used and named)"
+
+msgid "bag_tools_log_leftover"
+msgstr "Stays in the source bag: %1"
+
+msgid "bag_tools_split_loot"
+msgstr "Split loot"
+
 msgid "bank_deposit_loot_button"
 msgstr "Deposit Loot"
 
@@ -10418,11 +10430,20 @@ msgstr "No loot recorded yet"
 msgid "party_log_enabled"
 msgstr "Log loot and join/leave events"
 
+msgid "party_log_nothing_to_split"
+msgstr "No loot to split"
+
+msgid "party_log_sent_to_bag_tools"
+msgstr "Sent to Bag Tools"
+
 msgid "party_log_show_log"
 msgstr "Log"
 
 msgid "party_log_split"
 msgstr "Split"
+
+msgid "party_log_to_bag_tools"
+msgstr "To Bag Tools"
 
 msgid "party_loot_roll_all"
 msgstr "Roll All"
