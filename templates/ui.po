@@ -854,8 +854,20 @@ msgstr "%3: %1 / %2"
 msgid "backpack_window_title"
 msgstr "Backpack"
 
+msgid "bag_tools_cancel"
+msgstr "Cancel"
+
+msgid "bag_tools_check_bags_1"
+msgstr "These bags will be filled and named after each person."
+
+msgid "bag_tools_check_bags_2"
+msgstr "Drag in a different empty bag to swap one, then press Confirm split."
+
 msgid "bag_tools_clear_log"
 msgstr "Clear log"
+
+msgid "bag_tools_confirm_split"
+msgstr "Confirm split"
 
 msgid "bag_tools_log_header"
 msgstr "Loot log: %1 people (empty bank bags are used and named)"
