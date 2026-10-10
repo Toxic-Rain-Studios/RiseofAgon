@@ -10334,6 +10334,9 @@ msgstr "No recruiting parties match your search."
 msgid "party_finder_filters"
 msgstr "Filters"
 
+msgid "party_finder_hint"
+msgstr "Click a party to see its full description and apply."
+
 msgid "party_finder_looking_for"
 msgstr "Looking for: %1"
 
@@ -10347,7 +10350,7 @@ msgid "party_finder_no_tags"
 msgstr "No tags"
 
 msgid "party_finder_page"
-msgstr "Page %1 / %2  (%3 parties)"
+msgstr "Page %1 / %2  (%3 listed)"
 
 msgid "party_finder_pending"
 msgstr "Pending"
