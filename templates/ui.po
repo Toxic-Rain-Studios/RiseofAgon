@@ -10499,11 +10499,29 @@ msgstr "Linked"
 msgid "party_roll"
 msgstr "Roll"
 
+msgid "party_roll_closed"
+msgstr "Rolling closed"
+
+msgid "party_roll_closes_in"
+msgstr "Rolling closes in %1s"
+
 msgid "party_roll_column"
 msgstr "D100"
 
 msgid "party_roll_results"
 msgstr "Roll results"
+
+msgid "party_roll_seconds"
+msgstr "%1s"
+
+msgid "party_roll_tie"
+msgstr "Tie"
+
+msgid "party_roll_timer"
+msgstr "Timer:"
+
+msgid "party_roll_winner"
+msgstr "Winner"
 
 msgid "party_rule_lawful"
 msgstr "Lawful players party within their race alliance."

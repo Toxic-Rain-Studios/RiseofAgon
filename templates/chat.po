@@ -10900,6 +10900,18 @@ msgstr "Player '%1' is no longer logged in"
 msgid "NOTIFICATION_PARTY_PLAYER_PARTY_SIZE_TOO_LARGE_FOR_MERGE"
 msgstr "^Cred^Player is in a party that is too large to merge."
 
+msgid "NOTIFICATION_PARTY_ROLL_NONE"
+msgstr "Rolling for %1 closed with no rolls."
+
+msgid "NOTIFICATION_PARTY_ROLL_STARTED"
+msgstr "Rolling for %1 closes in %2 seconds."
+
+msgid "NOTIFICATION_PARTY_ROLL_TIE"
+msgstr "%1 tied for %2 with a roll of %3."
+
+msgid "NOTIFICATION_PARTY_ROLL_WINNER"
+msgstr "%1 wins %2 with a roll of %3."
+
 msgid "NOTIFICATION_PARTY_TARGET_PLAYER_ALREADY_IN_A_PARTY"
 msgstr "%1 is already a member of a party."
 
