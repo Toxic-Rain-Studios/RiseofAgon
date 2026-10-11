@@ -944,6 +944,84 @@ msgstr "Hair Color"
 msgid "barber_skin_tone"
 msgstr "Skin Tone"
 
+msgid "bestiary_announce"
+msgstr "^Cgold^Bestiary Updated^N^  %1: %2"
+
+msgid "bestiary_announce_many"
+msgstr "^Cgold^Bestiary Updated^N^  %1 creatures gained new knowledge"
+
+msgid "bestiary_discovered_summary"
+msgstr "%1 of %2 creatures discovered"
+
+msgid "bestiary_empty"
+msgstr "Your Bestiary is empty. Kill a creature to start learning about it."
+
+msgid "bestiary_filter_all"
+msgstr "Showing: all families"
+
+msgid "bestiary_filter_discovered"
+msgstr "Showing: discovered only"
+
+msgid "bestiary_health"
+msgstr "Base health: %1"
+
+msgid "bestiary_kills"
+msgstr "Kills: %1"
+
+msgid "bestiary_locked"
+msgstr "%1 at %2 kills"
+
+msgid "bestiary_next"
+msgstr "Next: %1 at %2 kills"
+
+msgid "bestiary_search_placeholder"
+msgstr "Search creatures"
+
+msgid "bestiary_select_hint"
+msgstr "Select a creature to see what you know about it."
+
+msgid "bestiary_stage_1"
+msgstr "Creature Discovered"
+
+msgid "bestiary_stage_2"
+msgstr "Anatomy Unlocked"
+
+msgid "bestiary_stage_3"
+msgstr "Combat Knowledge Improved"
+
+msgid "bestiary_stage_4"
+msgstr "New Loot Knowledge"
+
+msgid "bestiary_stage_5"
+msgstr "Creature Mastered"
+
+msgid "bestiary_tab_combat"
+msgstr "Combat"
+
+msgid "bestiary_tab_habitats"
+msgstr "Habitats"
+
+msgid "bestiary_tab_loot"
+msgstr "Known Loot"
+
+msgid "bestiary_tab_overview"
+msgstr "Overview"
+
+msgid "bestiary_tier_boss"
+msgstr "Boss"
+
+msgid "bestiary_tier_high"
+msgstr "High threat"
+
+msgid "bestiary_tier_low"
+msgstr "Low threat"
+
+msgid "bestiary_tier_mid"
+msgstr "Moderate threat"
+
+msgid "bestiary_undiscovered_count"
+msgstr "%1 undiscovered"
+
 msgid "bindings_tab_title_bindings"
 msgstr "/bind"
 
@@ -5713,6 +5791,9 @@ msgstr "Trade Routes"
 
 msgid "journal_repeatable_page_title"
 msgstr "Repeatable"
+
+msgid "journal_section_bestiary"
+msgstr "Bestiary"
 
 msgid "journal_section_combat"
 msgstr "Combat"
