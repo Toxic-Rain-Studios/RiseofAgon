@@ -968,11 +968,44 @@ msgstr "Base health: %1"
 msgid "bestiary_kills"
 msgstr "Kills: %1"
 
+msgid "bestiary_label_abilities"
+msgstr "Abilities"
+
+msgid "bestiary_label_all_protections"
+msgstr "All protections"
+
+msgid "bestiary_label_attacks"
+msgstr "Attack types"
+
+msgid "bestiary_label_health"
+msgstr "Base health"
+
+msgid "bestiary_label_highest"
+msgstr "Highest protection"
+
+msgid "bestiary_label_lowest"
+msgstr "Lowest protection"
+
+msgid "bestiary_label_resistances"
+msgstr "Debuff resistance"
+
+msgid "bestiary_label_weakness"
+msgstr "Weakness"
+
 msgid "bestiary_locked"
 msgstr "%1 at %2 kills"
 
 msgid "bestiary_next"
 msgstr "Next: %1 at %2 kills"
+
+msgid "bestiary_no_habitats"
+msgstr "Spawn locations are not shown here yet."
+
+msgid "bestiary_no_loot_known"
+msgstr "No loot known yet."
+
+msgid "bestiary_none_known"
+msgstr "None known"
 
 msgid "bestiary_search_placeholder"
 msgstr "Search creatures"
@@ -1019,8 +1052,59 @@ msgstr "Low threat"
 msgid "bestiary_tier_mid"
 msgstr "Moderate threat"
 
+msgid "bestiary_type_acid"
+msgstr "Acid"
+
+msgid "bestiary_type_arcane"
+msgstr "Arcane"
+
+msgid "bestiary_type_arrow"
+msgstr "Arrow"
+
+msgid "bestiary_type_bleeding"
+msgstr "Bleeding"
+
+msgid "bestiary_type_bludgeoning"
+msgstr "Bludgeoning"
+
+msgid "bestiary_type_cold"
+msgstr "Cold"
+
+msgid "bestiary_type_fire"
+msgstr "Fire"
+
+msgid "bestiary_type_holy"
+msgstr "Holy"
+
+msgid "bestiary_type_impact"
+msgstr "Impact"
+
+msgid "bestiary_type_lightning"
+msgstr "Lightning"
+
+msgid "bestiary_type_malediction"
+msgstr "Malediction"
+
+msgid "bestiary_type_mental"
+msgstr "Mental"
+
+msgid "bestiary_type_piercing"
+msgstr "Piercing"
+
+msgid "bestiary_type_poison"
+msgstr "Poison"
+
+msgid "bestiary_type_slashing"
+msgstr "Slashing"
+
+msgid "bestiary_type_unholy"
+msgstr "Unholy"
+
 msgid "bestiary_undiscovered_count"
 msgstr "%1 undiscovered"
+
+msgid "bestiary_unlocks_at"
+msgstr "Unlocks at %1 kills"
 
 msgid "bindings_tab_title_bindings"
 msgstr "/bind"
