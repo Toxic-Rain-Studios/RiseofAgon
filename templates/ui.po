@@ -2693,6 +2693,11 @@ msgid "clan_politics_result_wrong_state"
 msgstr ""
 "You can't set that relation from your clan's current relation with this clan."
 
+msgid "clan_protected_cannot_attack"
+msgstr ""
+"Your clan is in its protected window and cannot contest glyphs or declare "
+"sieges until it ends."
+
 msgid "clan_role_description_auditor"
 msgstr "Auditor"
 
