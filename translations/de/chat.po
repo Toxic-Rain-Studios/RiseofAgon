@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-11 00:23+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/chat/"
 "de/>\n"
@@ -16,77 +16,94 @@ msgstr ""
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Willkommen bei Rise of Agon: Asia."
 
+#, fuzzy
 msgid "NOTIFICATION_WELCOME_TO_NEWPLAYER_CHANNEL"
 msgstr ""
-"Willkommen im new player chat-kanal. Hier können Sie jede Frage stellen oder"
-" beantworten, die in den Anfangsphasen des Spiels auftreten kann. Beachten "
-"Sie, dass dieser Kanal nicht für allgemeine Off-Topic-Diskussionen verwendet"
-" werden soll und moderiert wird. Wir empfehlen, dass Sie sich auch den "
+"Willkommen im new player chat-kanal. Hier können Sie jede Frage stellen oder "
+"beantworten, die in den Anfangsphasen des Spiels auftreten kann. Beachten "
+"Sie, dass dieser Kanal nicht für allgemeine Off-Topic-Diskussionen verwendet "
+"werden soll und moderiert wird. Wir empfehlen, dass Sie sich auch den "
 "Verhaltenskodex auf der Hauptwebsite für das Spiel und die Chat-Regeln "
 "ansehen. https://darkfallriseofagon.com/game/faq/code-conduct/"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr ""
-"Du wurdest dem neuen Spielerkanal hinzugefügt, weil deine Ausrichtung größer"
-" ist als ^Ccyan^%1."
+"Du wurdest dem neuen Spielerkanal hinzugefügt, weil deine Ausrichtung größer "
+"ist als ^Ccyan^%1."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr ""
 "Du wurdest aus dem neuen Spielerkanal entfernt, weil deine Ausrichtung zu "
 "niedrig ist."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
 msgstr ""
 "Sie traten dem new player-kanal als helfer für diese sitzung bei. Helfer "
 "können alle %1 Sekunden eine Nachricht senden. Typ /newplayer_leave zu "
 "verlassen."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
 msgstr "Sie haben den New Player-Kanal verlassen."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
 msgstr ""
 "Sie befinden sich nicht im new player-kanal, weil sie ihn verlassen haben. "
 "Typ /newplayer_helper, um wieder beizutreten."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
 msgstr "Sie befinden sich bereits im new player-kanal."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
 msgstr "Sie sind nicht im new player-kanal als helfer."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED"
 msgstr ""
 "Sie sind im new player-kanal stummgeschaltet und können nicht darin "
 "schreiben."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
 msgstr ""
 "Ein Game Master hat dich im New Player Channel stummgeschaltet. Sie können "
 "es immer noch lesen, aber nicht darin schreiben."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
 msgstr ""
 "Ein Game Master hat dich im New Player Channel stummgeschaltet. Sie können "
 "es immer noch lesen, aber nicht darin schreiben. Grund: %1"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
 msgstr ""
 "Ihr new player-kanal stumm wurde aufgehoben. Sie können wieder in den Kanal "
 "schreiben."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
 msgstr "%1 trat new player chat als helfer bei."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
 msgstr "%1 verließ den New Player Chat."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
 msgstr "%1 wurde im new player chat von %2 stummgeschaltet."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
 msgstr "%1 wurde im new player chat von %2 stummgeschaltet. Grund: %3"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
 msgstr "%1 wurde im new player chat von %2 nicht gedämpft."
 
@@ -101,11 +118,12 @@ msgstr "Sie befinden sich in diesem Kanal für %1 Sekunden im Cooldown."
 msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
 msgstr "Überprüfen Sie, ob Sie noch als neuer Spieler zählen, einen Moment."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
 msgstr ""
 "Ihr Konto zählt immer noch als neuer Spieler: Sie behalten Ihren Platz im "
-"New Player-Kanal und die Abklingzeit der Helfernachricht gilt nicht mehr für"
-" Sie."
+"New Player-Kanal und die Abklingzeit der Helfernachricht gilt nicht mehr für "
+"Sie."
 
 msgid "NOTIFICATION_ACCEPTED_ANOTHER_INVITATION"
 msgstr "%1 nahm eine weitere Parteieinladung an."
@@ -6502,6 +6520,7 @@ msgstr "Chat-nachricht konnte nicht gesendet werden: zugriff verweigert."
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN"
 msgstr "Sie sind auf Cooldown in diesem Kanal für %1"
 
+#, fuzzy
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
 msgstr "Sie haben keinen Zugriff auf den neuen Spielerkanal."
 
