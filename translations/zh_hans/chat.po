@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-11 00:23+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/chat/zh_Hans/>\n"
@@ -14,12 +14,18 @@ msgstr ""
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "欢迎进入和平世界亚服."
 
+#, fuzzy
 msgid "NOTIFICATION_WELCOME_TO_NEWPLAYER_CHANNEL"
-msgstr "欢迎使用新手聊天框. 你可以在这里询问或者回答游戏初始阶段可能出现的任何玩法及问题. 这个聊天框只适用于新手帮助. 我们建议您也应该在主网站上查看游戏和聊天规则的行为准则. https://riseofagonroa.com/game/faq/code-conduct/"
+msgstr ""
+"欢迎使用新手聊天框. 你可以在这里询问或者回答游戏初始阶段可能出现的任何玩法及"
+"问题. 这个聊天框只适用于新手帮助. 我们建议您也应该在主网站上查看游戏和聊天规"
+"则的行为准则. https://riseofagonroa.com/game/faq/code-conduct/"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr "你被同意使用聊天窗口因为你的正义值已经高于^Ccyan^%1."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr "你被移出了新手聊天窗口,因为你的正义值太低了."
 
@@ -6100,6 +6106,7 @@ msgstr "无法发送聊天消息:访问被拒绝."
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN"
 msgstr "您因为%1在此频道中处于冷却状态"
 
+#, fuzzy
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
 msgstr "您无法访问新玩家频道."
 

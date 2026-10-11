@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-10-11 00:24+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/tips/zh_Hans/>\n"
+"Language: zh_hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "loading_screen_tip_1"
 msgstr "寻找加入一个强大的公会的最好方法,是在日志里面查询他们的扩建程度或者询问其他玩家."
@@ -18,8 +23,11 @@ msgstr "当你的正义值低于0,你将不能进入公共安全保护城,电塔
 msgid "loading_screen_tip_4"
 msgstr "将技能和法术拖到您的快捷栏上,可以方便访问!多个技能和法术也可以绑定在同一个插槽.放置自己熟悉的按键位置将能更好地操控游戏."
 
+#, fuzzy
 msgid "loading_screen_tip_5"
-msgstr "新手玩家进入游戏,请使用新手聊天框,会有很多玩家回答你的问题并帮助你,你也将认识更多的新朋友."
+msgstr ""
+"新手玩家进入游戏,请使用新手聊天框,会有很多玩家回答你的问题并帮助你,你也将认识"
+"更多的新朋友."
 
 msgid "loading_screen_tip_6"
 msgstr "一定要与城镇中的NPC交谈,查看任务标签,完成某些任务会奖励药水,让你更快地提高属性!"
@@ -104,4 +112,3 @@ msgstr "完成任务可以获得物品和冥想点作为奖励,这些都能够�
 
 msgid "loading_screen_tip_33"
 msgstr "你还可以获得很酷的头衔,其中许多头衔很难获得而且会带来丰厚的回报."
-

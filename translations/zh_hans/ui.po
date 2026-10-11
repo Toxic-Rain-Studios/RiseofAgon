@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-06 00:48+0000\n"
+"PO-Revision-Date: 2026-10-11 00:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -431,6 +431,7 @@ msgstr "当你和另一个公会互认盟友,向所有的所有公会成员发�
 msgid "chat_server_cmd_say_agon_desc"
 msgstr "向Agon的所有其他玩家发送世界信息"
 
+#, fuzzy
 msgid "chat_server_cmd_say_newplayers_desc"
 msgstr "向所有其他新玩家发送信息"
 
