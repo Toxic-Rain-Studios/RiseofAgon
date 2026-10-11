@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-09 14:06+0000\n"
+"PO-Revision-Date: 2026-10-11 00:23+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -523,6 +523,7 @@ msgstr ""
 msgid "chat_server_cmd_say_agon_desc"
 msgstr "ecoa uma mensagem global para todos os outros jogadores de Agon"
 
+#, fuzzy
 msgid "chat_server_cmd_say_newplayers_desc"
 msgstr "ecoa uma mensagem para todos os outros novos jogadores"
 
