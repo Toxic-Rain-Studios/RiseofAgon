@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-11 00:23+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/chat/"
 "fr/>\n"
@@ -16,6 +16,7 @@ msgstr ""
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Bienvenue à la montée de Agon: Asie."
 
+#, fuzzy
 msgid "NOTIFICATION_WELCOME_TO_NEWPLAYER_CHANNEL"
 msgstr ""
 "Bienvenue sur la chaîne de chat New Player. Ici, vous pouvez poser ou "
@@ -26,66 +27,82 @@ msgstr ""
 "règles de jeu et de chat. https://darkfallriseofagon.com/game/faq/code-"
 "conduct/"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr ""
 "vous avez été ajouté au nouveau canal de lecteur parce que votre alignement "
 "est supérieur à ^Ccyan^%1."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr ""
 "Vous avez été retiré du nouveau canal de lecteur parce que votre alignement "
 "est trop bas."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
 msgstr ""
 "Vous avez rejoint la chaîne New Player en tant qu'assistant pour cette "
 "session. Les assistants peuvent envoyer un message toutes les %1 secondes. "
 "Type /newplayer_leave à partir."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
 msgstr "Vous avez quitté la chaîne New Player."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
 msgstr ""
-"Vous n'êtes pas dans la chaîne New Player parce que vous l'avez laissé. Type"
-" /newplayer_helper à rejoindre."
+"Vous n'êtes pas dans la chaîne New Player parce que vous l'avez laissé. "
+"Type /newplayer_helper à rejoindre."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
 msgstr "Vous êtes déjà dans la chaîne New Player."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
 msgstr "Vous n'êtes pas dans la chaîne New Player en tant qu'assistant."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED"
 msgstr "Vous êtes muté dans la chaîne New Player et ne pouvez pas y écrire."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
 msgstr ""
 "Un maître de jeu vous a muté dans la chaîne New Player. Vous pouvez encore "
 "le lire, mais pas l'écrire."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
 msgstr ""
 "Un maître de jeu vous a muté dans la chaîne New Player. Vous pouvez encore "
 "le lire, mais pas l'écrire. Raison: %1"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
 msgstr ""
-"Votre mute de canal New Player a été levé. Vous pouvez écrire à nouveau dans"
-" la chaîne."
+"Votre mute de canal New Player a été levé. Vous pouvez écrire à nouveau dans "
+"la chaîne."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
 msgstr "%1 a rejoint New Player chat en tant qu'aide."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
 msgstr "%1 a laissé le chat Nouveau joueur."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
 msgstr "%1 a été muté dans le chat New Player par %2."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
 msgstr "%1 a été muté dans le chat New Player par %2. Raison: %3"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
 msgstr "%1 a été non muté dans le chat New Player par %2."
 
@@ -99,6 +116,7 @@ msgstr "Vous êtes sur cooldown dans cette chaîne pendant %1 secondes."
 msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
 msgstr "Vérifier si vous comptez toujours comme un nouveau joueur, un moment."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
 msgstr ""
 "Votre compte compte toujours comme un nouveau joueur: vous gardez votre "
@@ -6457,6 +6475,7 @@ msgstr "Le message de clavardage n'a pas pu être envoyé : Accès refusé."
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN"
 msgstr "Vous êtes sur cooldown dans ce canal pour %1"
 
+#, fuzzy
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
 msgstr "Vous n'avez pas accès à la nouvelle chaîne de lecteur."
 
