@@ -995,6 +995,15 @@ msgstr "Weakness"
 msgid "bestiary_locked"
 msgstr "%1 at %2 kills"
 
+msgid "bestiary_map_kills"
+msgstr "Bestiary: %1 kills"
+
+msgid "bestiary_map_loot"
+msgstr "Known loot: %1"
+
+msgid "bestiary_map_view"
+msgstr "View in Bestiary: %1"
+
 msgid "bestiary_next"
 msgstr "Next: %1 at %2 kills"
 
@@ -1004,6 +1013,9 @@ msgstr "Spawn locations are not shown here yet."
 msgid "bestiary_no_loot_known"
 msgstr "No loot known yet."
 
+msgid "bestiary_no_spawns"
+msgstr "No spawn locations for this creature are shown on the map."
+
 msgid "bestiary_none_known"
 msgstr "None known"
 
@@ -1012,6 +1024,9 @@ msgstr "Search creatures"
 
 msgid "bestiary_select_hint"
 msgstr "Select a creature to see what you know about it."
+
+msgid "bestiary_spawn_count"
+msgstr "Seen at %1 spawn points:"
 
 msgid "bestiary_stage_1"
 msgstr "Creature Discovered"
@@ -1105,6 +1120,9 @@ msgstr "%1 undiscovered"
 
 msgid "bestiary_unlocks_at"
 msgstr "Unlocks at %1 kills"
+
+msgid "bestiary_view_on_map"
+msgstr "View on World Map"
 
 msgid "bindings_tab_title_bindings"
 msgstr "/bind"
