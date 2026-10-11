@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-11 00:24+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/ru/>\n"
@@ -17,72 +17,90 @@ msgstr ""
 msgid "NOTIFICATION_WELCOME_TO_DARKFALL"
 msgstr "Возвышение Agon: Азия."
 
+#, fuzzy
 msgid "NOTIFICATION_WELCOME_TO_NEWPLAYER_CHANNEL"
 msgstr ""
 "Добро пожаловать на новый чат-канал. Здесь вы можете задать или ответить на "
 "любой вопрос, который может возникнуть на начальных этапах игры. Имейте в "
 "виду, что этот канал не должен использоваться для общего обсуждения и будет "
-"модерироваться. Мы предлагаем вам также ознакомиться с Кодексом поведения на"
-" главном веб-сайте для правил игры и чата. "
-"https://darkfallriseofagon.com/game/faq/code-conduct/"
+"модерироваться. Мы предлагаем вам также ознакомиться с Кодексом поведения на "
+"главном веб-сайте для правил игры и чата. https://darkfallriseofagon.com/"
+"game/faq/code-conduct/"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_ENABLED"
 msgstr ""
-"Вы были добавлены в новый канал игрока, потому что ваше выравнивание больше,"
-" чем у других игроков. ^Ccyan^%1."
+"Вы были добавлены в новый канал игрока, потому что ваше выравнивание больше, "
+"чем у других игроков. ^Ccyan^%1."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_ALIGNMENT_DISABLED"
 msgstr ""
 "Вы были удалены из нового канала, потому что выравнивание слишком низкое."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED"
 msgstr ""
 "Вы присоединились к каналу New Player в качестве помощника для этой сессии. "
-"Помощники могут отправлять одно сообщение каждые %1 секунд. Тип "
-"/newplayer_leave уходит."
+"Помощники могут отправлять одно сообщение каждые %1 секунд. Тип /"
+"newplayer_leave уходит."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT"
 msgstr "Вы покинули канал \"Новый игрок\"."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_LEFT_REJOIN"
 msgstr ""
-"Вы не находитесь на канале New Player, потому что вы его покинули. Тип "
-"/newplayer_helper, чтобы присоединиться."
+"Вы не находитесь на канале New Player, потому что вы его покинули. Тип /"
+"newplayer_helper, чтобы присоединиться."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_ALREADY_MEMBER"
 msgstr "Вы уже находитесь на канале New Player."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_NOT_MEMBER"
 msgstr "Вы не находитесь на канале «Новый игрок» в качестве помощника."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED"
 msgstr "Вы приглушены на канале New Player и не можете писать в нем."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM"
 msgstr ""
 "Игровой мастер приглушил вас на канале New Player. Вы все еще можете "
 "прочитать его, но не писать в нем."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_BY_GM_REASON"
 msgstr ""
 "Игровой мастер приглушил вас на канале New Player. Вы все еще можете "
 "прочитать его, но не писать в нем. Причина: %1"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED"
-msgstr "Ваш канал \"Новый игрок\" отключен. Вы можете написать на канале еще раз."
+msgstr ""
+"Ваш канал \"Новый игрок\" отключен. Вы можете написать на канале еще раз."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_JOINED_GM"
 msgstr "%1 присоединился к чату New Player в качестве помощника."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_LEFT_GM"
 msgstr "%1 вышел из чата New Player."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM"
 msgstr "%1 был приглушен в чате New Player к %2."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_MUTED_GM_REASON"
 msgstr "%1 был приглушен в чате New Player к %2. Причина: %3"
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_UNMUTED_GM"
 msgstr "%1 был неизменен в чате New Player к %2."
 
@@ -96,6 +114,7 @@ msgstr "Вы находитесь на остывании в этом канал
 msgid "NOTIFICATION_NEWPLAYER_HELPER_PENDING"
 msgstr "Проверьте, считаете ли вы себя новым игроком."
 
+#, fuzzy
 msgid "NOTIFICATION_NEWPLAYER_HELPER_CONVERTED"
 msgstr ""
 "Ваша учетная запись по-прежнему считается новым игроком: вы сохраняете свое "
@@ -6317,6 +6336,7 @@ msgstr "Сообщение в чате не может быть отправле
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_COOLDOWN"
 msgstr "Вы находитесь на охлаждении в этом канале для %1"
 
+#, fuzzy
 msgid "NOTIFICATION_CHAT_ACCESS_DENIED_NEWPLAYERS"
 msgstr "У вас нет доступа к новому каналу."
 
