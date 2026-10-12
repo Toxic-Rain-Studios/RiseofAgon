@@ -7320,11 +7320,20 @@ msgstr "Holding a territory's glyph grants its bonus to the owner."
 msgid "map_tt_territory_bonus"
 msgstr "Bonus: %1"
 
+msgid "map_tt_territory_bonus_crafting"
+msgstr ""
+"Crafting & casting: double craft %1%, crafting time -%2%, reagent "
+"conservation %3%"
+
+msgid "map_tt_territory_bonus_crafting_here"
+msgstr "Here: double craft %1%, crafting time -%2%, reagent conservation %3%"
+
 msgid "map_tt_territory_bonus_here"
-msgstr "Here: XP +%1%, loot & harvest +%2% (%3: %4% of the bonus)"
+msgstr ""
+"Here: Slayer & Mastery XP +%1%, loot & yield +%2% (%3: %4% of the bonus)"
 
 msgid "map_tt_territory_bonus_split"
-msgstr "Bonus: XP +%1%, loot & harvest +%2%"
+msgstr "Bonus: Slayer & Mastery XP +%1%, loot & yield +%2%"
 
 msgid "map_tt_territory_pulse"
 msgstr "A pulsing territory has a glyph under challenge."
@@ -9120,6 +9129,16 @@ msgstr ""
 "No one holds this territory's glyph. Capture it for your clan or race "
 "alliance to earn this territory's bonuses."
 
+msgid "minimap_territory_tip_craft_double"
+msgstr ""
+"Each craft has this chance to give its whole output twice. Ingredients, tool "
+"wear and crafting experience are counted once."
+
+msgid "minimap_territory_tip_craft_speed"
+msgstr ""
+"Crafting takes this much less time: at +33% a 30-second craft takes 20 "
+"seconds."
+
 msgid "minimap_territory_tip_harvest_eff"
 msgstr ""
 "Raises your chance to succeed when skinning and digging, up to a certain "
@@ -9134,9 +9153,13 @@ msgstr ""
 
 msgid "minimap_territory_tip_pve_xp"
 msgstr ""
-"Skills gain this much more experience when used on monsters: offensive and "
-"debuff spells, melee and archery. The bonus goes to the skill you used. "
-"Healing, buffs and fighting other players gain nothing extra."
+"Raises the Slayer experience and PvE Mastery points you earn from monster "
+"kills. Skill experience is not boosted."
+
+msgid "minimap_territory_tip_reagent_save"
+msgstr ""
+"Each spell you cast has this chance to use one fewer of one of its reagents, "
+"picked at random."
 
 msgid "minimap_territory_tip_yield"
 msgstr ""
@@ -10525,6 +10548,12 @@ msgstr "Skin"
 msgid "paperdoll_tabs_titles"
 msgstr "Titles"
 
+msgid "paperdoll_territory_bonus_craft_double"
+msgstr "Double craft"
+
+msgid "paperdoll_territory_bonus_craft_speed"
+msgstr "Crafting speed"
+
 msgid "paperdoll_territory_bonus_harvest_eff"
 msgstr "Harvesting speed"
 
@@ -10532,7 +10561,10 @@ msgid "paperdoll_territory_bonus_pve_loot"
 msgstr "PvE loot"
 
 msgid "paperdoll_territory_bonus_pve_xp"
-msgstr "PvE experience"
+msgstr "Slayer & Mastery XP"
+
+msgid "paperdoll_territory_bonus_reagent_save"
+msgstr "Reagent conservation"
 
 msgid "paperdoll_territory_bonus_yield"
 msgstr "Harvest yield"

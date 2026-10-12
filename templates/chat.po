@@ -12758,6 +12758,12 @@ msgstr "Your praying was interrupted!"
 msgid "NOTIFICATION_TEMPLE_WAIT"
 msgstr "You have to wait %1 before praying again."
 
+msgid "NOTIFICATION_TERRITORY_DOUBLE_CRAFT"
+msgstr "Territory bonus: double craft! +%1 %2"
+
+msgid "NOTIFICATION_TERRITORY_DOUBLE_CRAFT_BATCH"
+msgstr "Territory bonus: %1 of %2 crafts doubled, +%3 %4"
+
 msgid "NOTIFICATION_TITLE_ADDED"
 msgstr "The title '%1' has been added to your character!"
 
