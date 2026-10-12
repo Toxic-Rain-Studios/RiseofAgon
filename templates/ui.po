@@ -995,6 +995,30 @@ msgstr "Weakness"
 msgid "bestiary_locked"
 msgstr "%1 at %2 kills"
 
+msgid "bestiary_loot_amounts_at"
+msgstr "Amounts unlock at %1 kills"
+
+msgid "bestiary_loot_col_amount"
+msgstr "Amount"
+
+msgid "bestiary_loot_col_item"
+msgstr "Item"
+
+msgid "bestiary_loot_col_rate"
+msgstr "Drops"
+
+msgid "bestiary_loot_rate_often"
+msgstr "Often"
+
+msgid "bestiary_loot_rate_seldom"
+msgstr "Seldom"
+
+msgid "bestiary_loot_rate_sometimes"
+msgstr "Sometimes"
+
+msgid "bestiary_loot_rates_at"
+msgstr "Drop rates unlock at %1 kills"
+
 msgid "bestiary_map_kills"
 msgstr "Bestiary: %1 kills"
 
