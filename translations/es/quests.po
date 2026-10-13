@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-05 04:18+0000\n"
+"PO-Revision-Date: 2026-10-13 21:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/es/>\n"
@@ -70619,6 +70619,7 @@ msgstr "Misión 18"
 msgid "short_desc_quest_21380"
 msgstr "Despejen el irtych del agua al oeste del puesto."
 
+#, fuzzy
 msgid "start_text_quest_21380"
 msgstr ""
 "Mira al oeste. ¿Lo sientes? El mal se esconde debajo de las olas. Le dieron "
@@ -70674,15 +70675,18 @@ msgstr ""
 msgid "name_quest_21382"
 msgstr "Misión 18 - paso 3 - hoarfrost"
 
+#, fuzzy
 msgid "short_desc_quest_21382"
 msgstr "Reúne a 2 Hoarfrost."
 
+#, fuzzy
 msgid "start_text_quest_21382"
 msgstr "Reúne a 2 Hoarfrost de sus tumbas."
 
 msgid "end_text_quest_21382"
 msgstr "Reagentes como estos son lo encantador que se construye."
 
+#, fuzzy
 msgid "finished_text_quest_21382"
 msgstr "Reuniste a 2 Hoarfrost."
 
