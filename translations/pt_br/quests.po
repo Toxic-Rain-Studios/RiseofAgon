@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 04:18+0000\n"
+"PO-Revision-Date: 2026-10-13 21:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/quests/pt_BR/>\n"
@@ -69527,6 +69527,7 @@ msgstr "Missão 18"
 msgid "short_desc_quest_21380"
 msgstr "Limpem o irtych da água a oeste do posto avançado."
 
+#, fuzzy
 msgid "start_text_quest_21380"
 msgstr ""
 "Olha para oeste. Sentes? O mal espreita sob as ondas. Foi-lhe dado um arco "
@@ -69581,15 +69582,18 @@ msgstr ""
 msgid "name_quest_21382"
 msgstr "Missão 18 - etapa 3 - hoarfrost"
 
+#, fuzzy
 msgid "short_desc_quest_21382"
 msgstr "Reúna 2 Hoarfrost."
 
+#, fuzzy
 msgid "start_text_quest_21382"
 msgstr "Reúna 2 Hoarfrost das suas sepulturas."
 
 msgid "end_text_quest_21382"
 msgstr "Reagentes como estes são sobre os quais se constrói o encanto."
 
+#, fuzzy
 msgid "finished_text_quest_21382"
 msgstr "Você reuniu 2 Hoarfrost."
 
