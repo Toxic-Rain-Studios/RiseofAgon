@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 04:19+0000\n"
+"PO-Revision-Date: 2026-10-13 21:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/ru/>\n"
@@ -68378,6 +68378,7 @@ msgstr "Задание 18"
 msgid "short_desc_quest_21380"
 msgstr "Очистите иртих от воды к западу от форпоста."
 
+#, fuzzy
 msgid "start_text_quest_21380"
 msgstr ""
 "Посмотрите на запад. Ты чувствуешь это? Зло скрывается под волнами. Вы "
@@ -68432,15 +68433,18 @@ msgstr ""
 msgid "name_quest_21382"
 msgstr "Задание 18 - этап 3 - hoarfrost"
 
+#, fuzzy
 msgid "short_desc_quest_21382"
 msgstr "Соберите 2 Хоарфрост."
 
+#, fuzzy
 msgid "start_text_quest_21382"
 msgstr "Соберите 2 морозов из их могил."
 
 msgid "end_text_quest_21382"
 msgstr "Такие реагенты - это то, на чем построено очарование."
 
+#, fuzzy
 msgid "finished_text_quest_21382"
 msgstr "Вы собрали 2 Хоарфрост."
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-11 00:24+0000\n"
+"PO-Revision-Date: 2026-10-12 23:26+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -4283,6 +4283,7 @@ msgstr "Контроль над территорией"
 msgid "paperdoll_territory_owner_line"
 msgstr "Территория %1 (%2)"
 
+#, fuzzy
 msgid "paperdoll_territory_bonus_pve_xp"
 msgstr "Опыт пве"
 
