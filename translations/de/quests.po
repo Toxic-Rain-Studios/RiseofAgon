@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 04:18+0000\n"
+"PO-Revision-Date: 2026-10-13 21:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/de/>\n"
@@ -71582,12 +71582,13 @@ msgstr "Auftrag 18"
 msgid "short_desc_quest_21380"
 msgstr "Räumt das Irtychon vom Wasser westlich des Außenpostens."
 
+#, fuzzy
 msgid "start_text_quest_21380"
 msgstr ""
-"Blick nach Westen. Fühlst du es? Das Böse lauert unter den Wellen. Sie haben"
-" vom Kapitän einen Bogen bekommen, jetzt ist es an der Zeit, ihn zu "
-"benutzen. Nähern Sie sich dem Licht an der Spitze der Klippe, das auf Ihrer "
-"Karte markiert ist, und ich werde Sie auf dem Sturm selbst über das Wasser "
+"Blick nach Westen. Fühlst du es? Das Böse lauert unter den Wellen. Sie haben "
+"vom Kapitän einen Bogen bekommen, jetzt ist es an der Zeit, ihn zu benutzen. "
+"Nähern Sie sich dem Licht an der Spitze der Klippe, das auf Ihrer Karte "
+"markiert ist, und ich werde Sie auf dem Sturm selbst über das Wasser "
 "schicken. Töte 4 Irtych da draußen."
 
 msgid "name_quest_21381"
@@ -71641,15 +71642,18 @@ msgstr ""
 msgid "name_quest_21382"
 msgstr "Auftrag 18 - Schritt 3 - hoarfrost"
 
+#, fuzzy
 msgid "short_desc_quest_21382"
 msgstr "Sammelstelle 2 Hoarfrost."
 
+#, fuzzy
 msgid "start_text_quest_21382"
 msgstr "Sammeln Sie 2 Hoarfrost aus ihren Gräbern."
 
 msgid "end_text_quest_21382"
 msgstr "Reagenzien wie diese sind das, worauf bezaubernd aufgebaut ist."
 
+#, fuzzy
 msgid "finished_text_quest_21382"
 msgstr "Sie sammelten 2 Hoarfrost."
 
