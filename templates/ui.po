@@ -992,11 +992,29 @@ msgstr "Debuff resistance"
 msgid "bestiary_label_weakness"
 msgstr "Weakness"
 
+msgid "bestiary_learn_heading"
+msgstr "How it takes damage"
+
+msgid "bestiary_learn_hint"
+msgstr "Hit it with a damage type to learn how it takes it"
+
+msgid "bestiary_learn_progress"
+msgstr "%1 / %2 hits"
+
+msgid "bestiary_learned_exact"
+msgstr "%1 known exactly"
+
+msgid "bestiary_learned_rating"
+msgstr "%1 rating learned"
+
 msgid "bestiary_locked"
 msgstr "%1 at %2 kills"
 
 msgid "bestiary_loot_amounts_at"
 msgstr "Amounts unlock at %1 kills"
+
+msgid "bestiary_loot_amounts_hint"
+msgstr "Amounts are learned by looting"
 
 msgid "bestiary_loot_col_amount"
 msgstr "Amount"
@@ -1043,6 +1061,15 @@ msgstr "No spawn locations for this creature are shown on the map."
 msgid "bestiary_none_known"
 msgstr "None known"
 
+msgid "bestiary_rating_normal"
+msgstr "Normal"
+
+msgid "bestiary_rating_resistant"
+msgstr "Resistant"
+
+msgid "bestiary_rating_weak"
+msgstr "Weak"
+
 msgid "bestiary_search_placeholder"
 msgstr "Search creatures"
 
@@ -1066,6 +1093,9 @@ msgstr "New Loot Knowledge"
 
 msgid "bestiary_stage_5"
 msgstr "Creature Mastered"
+
+msgid "bestiary_stage_drop_rates"
+msgstr "Drop Rates Unlocked"
 
 msgid "bestiary_tab_combat"
 msgstr "Combat"
