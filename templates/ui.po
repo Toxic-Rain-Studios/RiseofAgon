@@ -1043,11 +1043,17 @@ msgstr "Sometimes"
 msgid "bestiary_loot_rates_at"
 msgstr "Drop rates unlock at %1 kills"
 
+msgid "bestiary_map_kill_one"
+msgstr "1 kill"
+
 msgid "bestiary_map_kills"
-msgstr "Bestiary: %1 kills"
+msgstr "%1 kills"
 
 msgid "bestiary_map_loot"
 msgstr "Known loot: %1"
+
+msgid "bestiary_map_shared"
+msgstr "Shared drops:"
 
 msgid "bestiary_map_view"
 msgstr "View in Bestiary: %1"
