@@ -953,6 +953,9 @@ msgstr "^Cgold^Bestiary Updated^N^  %1 creatures gained new knowledge"
 msgid "bestiary_discovered_summary"
 msgstr "%1 of %2 creatures discovered"
 
+msgid "bestiary_drop_results"
+msgstr "Known to drop it"
+
 msgid "bestiary_empty"
 msgstr "Your Bestiary is empty. Kill a creature to start learning about it."
 
@@ -1074,7 +1077,7 @@ msgid "bestiary_rating_weak"
 msgstr "Weak"
 
 msgid "bestiary_search_placeholder"
-msgstr "Search creatures"
+msgstr "Search creatures or drops"
 
 msgid "bestiary_select_hint"
 msgstr "Select a creature to see what you know about it."
