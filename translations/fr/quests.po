@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 04:18+0000\n"
+"PO-Revision-Date: 2026-10-13 21:45+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/fr/>\n"
@@ -70723,6 +70723,7 @@ msgstr "Quête 18"
 msgid "short_desc_quest_21380"
 msgstr "Éliminez l'irtyque de l'eau à l'ouest de l'avant-poste."
 
+#, fuzzy
 msgid "start_text_quest_21380"
 msgstr ""
 "Regardez vers l'ouest. Tu le sens ? Le mal se cache sous les vagues. Le "
@@ -70778,9 +70779,11 @@ msgstr ""
 msgid "name_quest_21382"
 msgstr "Quête 18 - étape 3 - hoarfrost"
 
+#, fuzzy
 msgid "short_desc_quest_21382"
 msgstr "Rassemblez 2 Hoarfrost."
 
+#, fuzzy
 msgid "start_text_quest_21382"
 msgstr "Rassemblez 2 Hoarfrost de leurs tombes."
 
@@ -70788,6 +70791,7 @@ msgid "end_text_quest_21382"
 msgstr ""
 "Des réactifs comme ceux-ci sont ce sur quoi on construit l'enchantement."
 
+#, fuzzy
 msgid "finished_text_quest_21382"
 msgstr "Vous avez rassemblé 2 Hoarfrost."
 
