@@ -10300,6 +10300,9 @@ msgstr ""
 "More for looks then maxed protection, this shield displays a nicely crafted "
 "inlaid mix of different wood types."
 
+msgid "desc_r_Instruments"
+msgstr " "
+
 msgid "desc_r_Intelligence Titles"
 msgstr " "
 
@@ -17535,6 +17538,26 @@ msgstr ""
 
 msgid "desc_r_ink"
 msgstr "Ink required to draft a housing deed and Blank Schematics."
+
+msgid "desc_r_instrument_drum"
+msgstr ""
+"A taut hand drum. Ready it and strike out a rhythm with your instrument "
+"keybinds for those around you."
+
+msgid "desc_r_instrument_flute"
+msgstr ""
+"A simple wooden flute. Ready it and play notes with your instrument keybinds "
+"to perform for those around you."
+
+msgid "desc_r_instrument_harp"
+msgstr ""
+"A small lap harp with a gentle, ringing tone. Ready it and play notes with "
+"your instrument keybinds to perform for those around you."
+
+msgid "desc_r_instrument_lute"
+msgstr ""
+"A pear-shaped stringed instrument. Ready it and play notes with your "
+"instrument keybinds to perform for those around you."
 
 msgid "desc_r_j13 fallen mahirim scholar"
 msgstr " "
@@ -29352,6 +29375,9 @@ msgstr "Inlaid protector"
 
 msgid "r_Inlaid shield"
 msgstr "Inlaid shield"
+
+msgid "r_Instruments"
+msgstr "Instruments"
 
 msgid "r_Intelligence Titles"
 msgstr "Intelligence Titles"

@@ -13276,6 +13276,62 @@ msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
 "to your bank account."
 
+msgid "chat_midi_all_devices"
+msgstr "all devices"
+
+#. %1 = the device name.
+msgid "chat_midi_device_busy"
+msgstr "MIDI device %1 is in use by another program."
+
+#. %1 = the list number, %2 = the device name.
+msgid "chat_midi_device_entry"
+msgstr "%1. %2"
+
+#. %1 = the device names, comma-separated.
+msgid "chat_midi_listening"
+msgstr "MIDI: listening on %1."
+
+msgid "chat_midi_no_devices"
+msgstr ""
+"No MIDI input devices were found. If you plugged one in after starting the "
+"game, restart the game."
+
+#. %1 = what the player typed.
+msgid "chat_midi_no_such_device"
+msgstr "There is no MIDI device %1. Type /midi to list them."
+
+msgid "chat_midi_status_off"
+msgstr "MIDI input is off."
+
+#. %1 = the chat_midi_all_devices text ("all devices") or a device name.
+msgid "chat_midi_status_on"
+msgstr "MIDI input is on, using %1."
+
+msgid "chat_midi_turned_off"
+msgstr "MIDI input is off."
+
+msgid "chat_midi_turned_on"
+msgstr "MIDI input is on."
+
+msgid "chat_midi_use_all"
+msgstr "MIDI input will use every device."
+
+#. %1 = the device name.
+msgid "chat_midi_use_device"
+msgstr "MIDI input will use %1."
+
+msgid "chatcommand_midi"
+msgstr ""
+"Use a MIDI keyboard with your instruments. /midi shows the status and "
+"devices; /midi <number> picks a device, /midi all uses every device, /midi "
+"on and /midi off turn it on or off."
+
+msgid "chatcommand_midi_param"
+msgstr "A device number, all, on or off."
+
+msgid "chatcommand_play_instrument"
+msgstr "Draw or put away your equipped instrument."
+
 msgid "component_crafting_error_no_mastery_crafting_allowed_here"
 msgstr "You cannot craft mastery items here."
 
