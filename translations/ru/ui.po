@@ -3637,14 +3637,6 @@ msgstr "Цена: мин."
 msgid "market_filter_location"
 msgstr "Местоположение:"
 
-msgid "market_filter_show_all_regions"
-msgstr "Показать все регионы"
-
-msgid "market_filter_show_all_regions_tooltip"
-msgstr ""
-"Заказы из других регионов не могут быть куплены или заполнены здесь. "
-"Перечислите их в любом случае."
-
 msgid "market_section_select"
 msgstr "Выберите элемент для просмотра доступных элементов"
 
@@ -3677,12 +3669,6 @@ msgstr "Местоположение"
 
 msgid "market_button_region"
 msgstr "Регион"
-
-msgid "market_tooltip_wrong_region_buy"
-msgstr "Перечислен в %1. Вы должны быть в %1, чтобы купить этот товар."
-
-msgid "market_tooltip_wrong_region_fill"
-msgstr "Заказ размещен в %1 году. Вы должны быть в %1, чтобы продать его."
 
 msgid "market_region_niflheim"
 msgstr "Niflheim"
