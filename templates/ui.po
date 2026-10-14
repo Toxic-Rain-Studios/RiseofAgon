@@ -7551,6 +7551,9 @@ msgstr "Seller"
 msgid "market_button_shipping"
 msgstr "Shipping"
 
+msgid "market_button_tax"
+msgstr "Tax"
+
 msgid "market_button_update"
 msgstr "Update"
 
@@ -7644,6 +7647,9 @@ msgstr "Buy This"
 msgid "market_context_menu_view_details"
 msgstr "View Market Details"
 
+msgid "market_details_cross_region_tax"
+msgstr "Cross-region tax:"
+
 msgid "market_duration"
 msgstr "Duration: %1"
 
@@ -7695,19 +7701,19 @@ msgstr "Min Quantity:"
 msgid "market_filter_no_listings_available"
 msgstr "No listings available."
 
+msgid "market_filter_only_my_region"
+msgstr "Only my region"
+
+msgid "market_filter_only_my_region_tooltip"
+msgstr ""
+"Only list orders in the region you are standing in. Trading with an order in "
+"another region adds a cross-region tax."
+
 msgid "market_filter_price_max"
 msgstr "Max"
 
 msgid "market_filter_price_min"
 msgstr "Price:       Min"
-
-msgid "market_filter_show_all_regions"
-msgstr "Show all regions"
-
-msgid "market_filter_show_all_regions_tooltip"
-msgstr ""
-"Orders from other regions cannot be bought or filled from here. Tick to list "
-"them anyway."
 
 msgid "market_filter_text"
 msgstr "Text Filter: "
@@ -7743,6 +7749,12 @@ msgstr "Quantity:"
 
 msgid "market_label_sales_tax"
 msgstr "Sales Tax:"
+
+msgid "market_label_sales_tax_with_cross_region"
+msgstr "Sales + cross-region tax:"
+
+msgid "market_label_shipping_with_cross_region"
+msgstr "Shipping + cross-region tax:"
 
 msgid "market_label_total"
 msgstr "Total:"
@@ -7909,11 +7921,8 @@ msgstr "Global market"
 msgid "market_title_global_market_sell_item"
 msgstr "Global Market: Sell Item"
 
-msgid "market_tooltip_wrong_region_buy"
-msgstr "Listed in %1. You must be in %1 to buy this item."
-
-msgid "market_tooltip_wrong_region_fill"
-msgstr "Order placed in %1. You must be in %1 to sell to it."
+msgid "market_tooltip_cross_region_tax"
+msgstr "Cross-region trade: +%1 tax (%2 gold). This order is in %3."
 
 msgid "market_update_duration"
 msgstr "Duration: "
