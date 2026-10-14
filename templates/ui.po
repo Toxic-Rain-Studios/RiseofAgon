@@ -12052,10 +12052,26 @@ msgid "slayer_abandon_confirm"
 msgstr ""
 "Abandon %1?\n"
 "\n"
-"Your progress (%2 of %3 slain) will be lost, and your streak resets."
+"Your progress (%2 of %3 slain) will be lost."
 
 msgid "slayer_board_title"
 msgstr "Slayer Contract Board"
+
+msgid "slayer_contract_rarity_1"
+msgstr "Uncommon %1"
+
+msgid "slayer_contract_rarity_2"
+msgstr "Rare %1"
+
+msgid "slayer_contract_rarity_3"
+msgstr "Epic %1"
+
+msgid "slayer_handin_confirm"
+msgstr ""
+"Hand in %1 at stage %2 (%3 slain) for %4 XP, %5 Slayer points and a sealed "
+"talisman?\n"
+"\n"
+"Or hunt on to %6 for better talisman odds."
 
 msgid "slot_position_eight"
 msgstr "8"
