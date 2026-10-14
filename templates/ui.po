@@ -854,23 +854,8 @@ msgstr "%3: %1 / %2"
 msgid "backpack_window_title"
 msgstr "Backpack"
 
-msgid "bag_combine_button"
-msgstr "Combine"
-
-msgid "bag_combine_from"
-msgstr "Bags to empty into it:"
-
-msgid "bag_combine_hint"
-msgstr "Everything in the bags below goes into this bag."
-
 msgid "bag_combine_menu"
-msgstr "Combine..."
-
-msgid "bag_combine_target"
-msgstr "Combine into:"
-
-msgid "bag_combine_title"
-msgstr "Combine Bags"
+msgstr "Combine bags inside"
 
 msgid "bag_split_button"
 msgstr "Split"
@@ -890,7 +875,9 @@ msgid "bag_split_evenly_tip"
 msgstr "Everything in the bag is divided equally between the new bags."
 
 msgid "bag_split_hint"
-msgstr "Empty bags in your bank are filled and put inside this bag."
+msgstr ""
+"Bags inside are emptied first, then empty bags in your bank are filled and "
+"put inside."
 
 msgid "bag_split_log_empty"
 msgstr "The party loot log has nothing to split."
