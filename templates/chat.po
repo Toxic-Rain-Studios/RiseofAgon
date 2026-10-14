@@ -12408,6 +12408,80 @@ msgstr "^Ccyan^rolled a ^Cyellow^%1^Ccyan^, on a ^Cyellow^D%2^Ccyan^!"
 msgid "NOTIFICATION_ROLL_RESULT_PERSONAL"
 msgstr "^Ccyan^You rolled a ^Cyellow^%1^Ccyan^, on a ^Cyellow^D%2^Ccyan^!"
 
+#. %1 side (faction or clan), %2 altar letter (A, B or C), %3 rune glyph name.
+msgid "NOTIFICATION_RUNE_ALTAR_CAPTURED"
+msgstr "%1 captured altar %2 at %3."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_BATTLE_STARTED"
+msgstr "The rune battle for %1 has begun! Capture its altars."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_CONNECTION_DISRUPTED"
+msgstr "The drain on %1 is broken: its stability recovers."
+
+#. %1 winning side, %2 rune glyph name.
+msgid "NOTIFICATION_RUNE_CONQUERED"
+msgstr "%1 has conquered %2!"
+
+#. %1 declaring side (faction or clan), %2 rune glyph name, %3 minutes until the battle.
+msgid "NOTIFICATION_RUNE_DECLARED"
+msgstr ""
+"%1 has declared a rune conquest on %2! The battle for its altars begins in "
+"%3 minutes."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_DEFENDED"
+msgstr "%1 has been defended."
+
+#. %1 side holding all three altars, %2 rune glyph name.
+msgid "NOTIFICATION_RUNE_DRAIN_ACCELERATED"
+msgstr "%1 holds all three altars of %2: its stability drains faster!"
+
+#. %1 side holding two altars, %2 rune glyph name.
+msgid "NOTIFICATION_RUNE_GLYPH_VULNERABLE"
+msgstr "%1 holds two altars of %2: its stability is draining!"
+
+#. %1 draining side, %2 rune glyph name.
+msgid "NOTIFICATION_RUNE_NEARING_COMPLETION"
+msgstr "%2 is about to fall to %1!"
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_OVERTIME"
+msgstr "Overtime at %1: the fight for its altars goes on."
+
+#. %1 rune glyph name. Told to the declaring player; the Glyph Wand was not used.
+msgid "NOTIFICATION_RUNE_REFUSED_BATTLE_RUNNING"
+msgstr "A battle for %1 is already under way: capture its altars to join it."
+
+#. %1 rune glyph name, %2 the glyph its owner is already defending.
+msgid "NOTIFICATION_RUNE_REFUSED_FRONT_OPEN"
+msgstr ""
+"%1 cannot be challenged right now: its owner is already defending %2. One "
+"battle at a time."
+
+#. %1 eligible players needed at the glyph, %2 present.
+msgid "NOTIFICATION_RUNE_REFUSED_NOT_ENOUGH_PLAYERS"
+msgstr ""
+"You need %1 eligible players of your side at the glyph to declare; %2 are "
+"here."
+
+#. %1 rune glyph name, %2 minutes of protection left.
+msgid "NOTIFICATION_RUNE_REFUSED_PROTECTED"
+msgstr "%1 is protected for another %2 minutes."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_REFUSED_UNAVAILABLE"
+msgstr "%1 cannot be challenged right now. Your Glyph Wand was not used."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_REFUSED_WINDOW_CLOSED"
+msgstr "%1 cannot be challenged outside its vulnerability window."
+
+#. %1 rune glyph name.
+msgid "NOTIFICATION_RUNE_VOIDED"
+msgstr "The rune battle for %1 was called off. Nothing changes hands."
+
 msgid "NOTIFICATION_SHIP_REPAIR_LIMIT_REACHED"
 msgstr "This vessel already has the maximum of %1 players repairing it."
 

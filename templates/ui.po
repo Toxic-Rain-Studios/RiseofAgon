@@ -7155,6 +7155,10 @@ msgstr "Portals"
 msgid "map_marker_quest"
 msgstr "Quest Marker"
 
+#. World map marker of a rune altar. %1 altar letter (A, B or C).
+msgid "map_marker_rune_altar"
+msgstr "Rune Altar %1"
+
 msgid "map_marker_siegestone"
 msgstr "Siege Stone Markers"
 
@@ -11760,6 +11764,59 @@ msgstr "Time: "
 
 msgid "right_arrow"
 msgstr "->"
+
+msgid "rune_declare_no_answer"
+msgstr ""
+"The rune glyph did not answer in time. Nothing was started and your Glyph "
+"Wand was not used."
+
+#. Rune battle panel altar row. %1 altar letter (A, B or C), %2 holder name.
+msgid "rune_hud_altar"
+msgstr "Altar %1: %2"
+
+#. Rune battle panel line naming the side draining the glyph. %1 side name.
+msgid "rune_hud_drainer"
+msgstr "Drained by %1"
+
+#. Rune battle panel: nobody holds the altar or owns the glyph.
+msgid "rune_hud_neutral"
+msgstr "Neutral"
+
+#. Rune battle panel: a side beyond the fourteen the panel can name.
+msgid "rune_hud_other"
+msgstr "Other"
+
+#. Rune battle panel owner line. %1 owner name, or the neutral text for an unowned glyph.
+msgid "rune_hud_owner"
+msgstr "Held by %1"
+
+#. Rune battle panel phase line, during the battle. %1 time left (m:ss).
+msgid "rune_hud_phase_battle"
+msgstr "Battle ends in %1"
+
+#. Rune battle panel phase line, in overtime. %1 overtime left (m:ss).
+msgid "rune_hud_phase_overtime"
+msgstr "Overtime: %1"
+
+#. Rune battle panel phase line, before the battle. %1 time to the battle (m:ss).
+msgid "rune_hud_phase_prep"
+msgstr "Battle begins in %1"
+
+#. Rune battle panel phase line while the battle is frozen after a server restart. %1 the frozen time left (m:ss).
+msgid "rune_hud_regroup"
+msgstr "Regrouping after a restart (%1 left)"
+
+#. Rune battle panel stability line. %1 current, %2 maximum, %3 rate per second (e.g. -10/s).
+msgid "rune_hud_stability"
+msgstr "Stability %1 / %2 (%3)"
+
+#. Rune battle panel header. %1 rune glyph name.
+msgid "rune_hud_title"
+msgstr "Rune battle: %1"
+
+#. Target plate of a rune glyph whose battle is running.
+msgid "rune_target_battle"
+msgstr "A rune battle is under way: capture the altars around this glyph."
 
 msgid "screen05_button_check_name"
 msgstr "Check Name"
