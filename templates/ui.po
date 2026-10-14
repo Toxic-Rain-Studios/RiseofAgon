@@ -4587,6 +4587,53 @@ msgstr "Requires faction rank %1"
 msgid "faction_qm_skin_not_available"
 msgstr "Not available yet"
 
+msgid "faction_siege_hint_use_faction_clanstone"
+msgstr ""
+"To besiege an owned faction holding, use a Faction Clanstone during a "
+"vulnerability window."
+
+msgid "faction_siege_refused_already_under_siege"
+msgstr "this holding is already under siege."
+
+msgid "faction_siege_refused_busy"
+msgstr ""
+"a siege declaration is already being processed here, try again shortly."
+
+msgid "faction_siege_refused_cooldown_unconfirmed"
+msgstr "the siege could not be confirmed, try again shortly."
+
+msgid "faction_siege_refused_faction_on_cooldown"
+msgstr ""
+"this faction was besieged recently and cannot be besieged again for %1."
+
+msgid "faction_siege_refused_neutral_holding"
+msgstr ""
+"neutral holdings need no stone; capture it during a vulnerability window."
+
+msgid "faction_siege_refused_no_window"
+msgstr "no vulnerability window is open. The next one opens in %1."
+
+msgid "faction_siege_refused_not_eligible"
+msgstr "only lawful members of an enemy faction can declare a siege."
+
+msgid "faction_siege_refused_not_faction_holding"
+msgstr "this is not a faction holding."
+
+msgid "faction_siege_refused_not_in_area"
+msgstr "you must be inside a holding."
+
+msgid "faction_siege_refused_own_or_allied"
+msgstr "your own faction holds this holding."
+
+msgid "faction_siege_refused_protected"
+msgstr "this holding was captured recently and is protected for %1."
+
+msgid "faction_siege_refused_trial_account"
+msgstr "trial accounts cannot declare sieges."
+
+msgid "faction_siege_refused_use_clan_shard"
+msgstr "this is a clan holding: use a Clan Shard."
+
 msgid "faction_war_col_alliance"
 msgstr "Alliance"
 
@@ -4711,7 +4758,8 @@ msgstr "Friendly fire is off again."
 
 msgid "glyph_friendly_fire_on"
 msgstr ""
-"Friendly fire is ON here: your own faction can hurt you on this glyph's tile."
+"Friendly fire is ON here: your own faction can hurt you on this contested "
+"tile."
 
 msgid "glyph_immune"
 msgstr "This glyph is still immune to challenge."
@@ -7283,6 +7331,24 @@ msgstr "Window closes in %1"
 
 msgid "map_tooltip_faction_city_window_opens"
 msgstr "Window opens in %1"
+
+msgid "map_tooltip_faction_siege_active"
+msgstr "UNDER SIEGE"
+
+msgid "map_tooltip_faction_siege_active_timer"
+msgstr "Siege ends in %1"
+
+msgid "map_tooltip_faction_siege_declared"
+msgstr "Siege declared"
+
+msgid "map_tooltip_faction_siege_declared_timer"
+msgstr "Towers empowered in %1"
+
+msgid "map_tooltip_faction_siege_preparation"
+msgstr "Siege preparation - towers empowered"
+
+msgid "map_tooltip_faction_siege_preparation_timer"
+msgstr "Siege begins in %1"
 
 msgid "map_tooltip_overlay_region_desc"
 msgstr "The player market shows listings from the region you are in."
@@ -12080,6 +12146,15 @@ msgstr "KILL THE BIND STONE!"
 
 msgid "structure_status_faction_bind_stone_vulnerable_timed"
 msgstr "KILL THE BIND STONE! - window closes in %1"
+
+msgid "structure_status_faction_siege_active"
+msgstr "UNDER SIEGE - ends in %1"
+
+msgid "structure_status_faction_siege_declared"
+msgstr "Siege declared - towers empowered in %1"
+
+msgid "structure_status_faction_siege_preparation"
+msgstr "Towers empowered - siege begins in %1"
 
 msgid "structure_status_restoring"
 msgstr "Restoring - %1"

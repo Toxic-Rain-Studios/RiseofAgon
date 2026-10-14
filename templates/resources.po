@@ -6922,6 +6922,11 @@ msgstr ""
 msgid "desc_r_Faction City Guardtowers"
 msgstr ""
 
+msgid "desc_r_Faction Clanstone"
+msgstr ""
+"Declares a siege on an enemy faction's holding. Use it inside the holding "
+"during a vulnerability window."
+
 msgid "desc_r_Faction Crates_01"
 msgstr ""
 
@@ -26426,6 +26431,9 @@ msgstr "Faction Holding Church"
 
 msgid "r_Faction City Guardtowers"
 msgstr "Faction Holding Guardtowers"
+
+msgid "r_Faction Clanstone"
+msgstr "Faction Clanstone"
 
 msgid "r_Faction Crates_01"
 msgstr "Faction Holding Crates"

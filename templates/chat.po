@@ -8,6 +8,34 @@ msgstr ""
 msgid "CANNOT_MERGE_LAWFUL_AND_LAWLESS_PARTIES"
 msgstr "^Cred^Merges between lawful and lawless parties are not allowed."
 
+msgid "FACTION_SIEGE_DECLARED_ATTACKER"
+msgstr ""
+"%1 declared a siege on %2. Leave the area: its towers are empowered in %3 "
+"minutes. The siege begins in %4 minutes."
+
+msgid "FACTION_SIEGE_DECLARED_DEFENDER"
+msgstr ""
+"%1 has declared a siege on %2! Its towers are empowered in %3 minutes; the "
+"siege begins in %4 minutes."
+
+msgid "FACTION_SIEGE_DEFENDED"
+msgstr "%1 has been held against %2!"
+
+msgid "FACTION_SIEGE_FAILED"
+msgstr "The siege of %1 has failed."
+
+msgid "FACTION_SIEGE_PREPARATION_STARTED"
+msgstr "The towers of %1 are empowered. The siege begins in %2 minutes."
+
+msgid "FACTION_SIEGE_REFUSED"
+msgstr "You cannot declare a siege here: %1"
+
+msgid "FACTION_SIEGE_STARTED_ATTACKER"
+msgstr "The siege of %1 has begun! Destroy its bind stone within %2 minutes."
+
+msgid "FACTION_SIEGE_STARTED_DEFENDER"
+msgstr "The siege of %1 has begun! Hold the bind stone for %2 minutes."
+
 msgid "LAWFUL_PLAYER_IN_LAWLESS_PARTY"
 msgstr "^Cred^You left your lawless party because you are lawful."
 
