@@ -7011,8 +7011,14 @@ msgstr "[GM] Quick teleport to cursor position"
 msgid "map_context_menu_gm_teleport_to_tile"
 msgstr "[GM] Quick teleport to tile \"%1\""
 
+msgid "map_context_menu_place_commander_waypoint"
+msgstr "Place commander waypoint here"
+
 msgid "map_context_menu_place_party_waypoint"
 msgstr "Place party waypoint here"
+
+msgid "map_context_menu_remove_commander_waypoint"
+msgstr "Remove commander waypoint"
 
 msgid "map_context_menu_remove_party_waypoint"
 msgstr "Remove my party waypoint"
