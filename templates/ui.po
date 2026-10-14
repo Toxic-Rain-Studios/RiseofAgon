@@ -3405,6 +3405,15 @@ msgstr "Vault"
 msgid "clans_window_title"
 msgstr "Clans"
 
+msgid "clantask_capital_cleared"
+msgstr "Capital cleared (from the next daily reset)"
+
+msgid "clantask_capital_near"
+msgstr "Daily kill tasks near %1"
+
+msgid "clantask_capital_pending"
+msgstr "Capital: %1 (from the next daily reset)"
+
 msgid "clantask_completed"
 msgstr "Completed"
 
@@ -6764,8 +6773,40 @@ msgstr "Auto-pay OFF"
 msgid "maint_autopay_on"
 msgstr "Auto-pay ON"
 
+msgid "maint_capital_clear"
+msgstr "Clear Capital"
+
+msgid "maint_capital_confirm"
+msgstr "Confirm?"
+
+msgid "maint_capital_make"
+msgstr "Make Capital"
+
+msgid "maint_capital_marker"
+msgstr "Capital"
+
+msgid "maint_capital_tip_clear"
+msgstr ""
+"Clear the clan Capital: from the next daily reset, the daily clan kill tasks "
+"roll anywhere in the world again. Clearing starts a cooldown."
+
+msgid "maint_capital_tip_confirm"
+msgstr "Click again to confirm."
+
+msgid "maint_capital_tip_cooldown"
+msgstr "The Capital can be changed again in %1d %2h."
+
+msgid "maint_capital_tip_make"
+msgstr ""
+"Make this holding the clan Capital: from the next daily reset, the daily "
+"clan kill tasks roll from monsters near it. Changing the Capital starts a "
+"cooldown."
+
 msgid "maint_col_actions"
 msgstr "Actions"
+
+msgid "maint_col_capital"
+msgstr "Capital"
 
 msgid "maint_col_due"
 msgstr "Next Due"
