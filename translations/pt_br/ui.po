@@ -3650,14 +3650,6 @@ msgstr "Preço: min"
 msgid "market_filter_location"
 msgstr "Localização:"
 
-msgid "market_filter_show_all_regions"
-msgstr "Mostrar todas as regiões"
-
-msgid "market_filter_show_all_regions_tooltip"
-msgstr ""
-"As encomendas de outras regiões não podem ser compradas ou preenchidas a "
-"partir daqui. Tique para listar de qualquer maneira."
-
 msgid "market_section_select"
 msgstr "Selecionar um item para ver os itens disponíveis"
 
@@ -3690,12 +3682,6 @@ msgstr "Localização"
 
 msgid "market_button_region"
 msgstr "Região"
-
-msgid "market_tooltip_wrong_region_buy"
-msgstr "Listado em %1. Você deve estar em %1 para comprar este artigo."
-
-msgid "market_tooltip_wrong_region_fill"
-msgstr "Ordem colocada em %1. Você deve estar em %1 para vender a ele."
 
 msgid "market_region_niflheim"
 msgstr "Niflheim"
