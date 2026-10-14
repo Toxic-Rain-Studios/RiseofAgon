@@ -854,6 +854,78 @@ msgstr "%3: %1 / %2"
 msgid "backpack_window_title"
 msgstr "Backpack"
 
+msgid "bag_combine_button"
+msgstr "Combine"
+
+msgid "bag_combine_from"
+msgstr "Bags to empty into it:"
+
+msgid "bag_combine_hint"
+msgstr "Everything in the bags below goes into this bag."
+
+msgid "bag_combine_menu"
+msgstr "Combine..."
+
+msgid "bag_combine_target"
+msgstr "Combine into:"
+
+msgid "bag_combine_title"
+msgstr "Combine Bags"
+
+msgid "bag_split_button"
+msgstr "Split"
+
+msgid "bag_split_by_log"
+msgstr "By party log"
+
+msgid "bag_split_by_log_tip"
+msgstr ""
+"Each person gets what dropped while they were in the party, from the party "
+"loot log. The bags are named after them."
+
+msgid "bag_split_evenly"
+msgstr "Evenly"
+
+msgid "bag_split_evenly_tip"
+msgstr "Everything in the bag is divided equally between the new bags."
+
+msgid "bag_split_hint"
+msgstr "Empty bags in your bank are filled and put inside this bag."
+
+msgid "bag_split_log_empty"
+msgstr "The party loot log has nothing to split."
+
+msgid "bag_split_menu"
+msgstr "Split..."
+
+msgid "bag_split_name"
+msgstr "Name the bags:"
+
+msgid "bag_split_name_tip"
+msgstr ""
+"The new bags get this name and a number. Left empty, they take this bag's "
+"name."
+
+msgid "bag_split_not_ready"
+msgstr "The bank isn't ready yet - close and reopen the bank window."
+
+msgid "bag_split_share"
+msgstr "Share out leftovers"
+
+msgid "bag_split_share_tip"
+msgstr ""
+"Odd stacks and single items go round the bags one each, instead of staying "
+"in this bag."
+
+msgid "bag_split_source"
+msgstr "Bag to split:"
+
+msgid "bag_split_title"
+msgstr "Split Bag"
+
+msgid "bag_split_ways"
+msgstr "Ways:"
+
 msgid "bag_tools_cancel"
 msgstr "Cancel"
 
