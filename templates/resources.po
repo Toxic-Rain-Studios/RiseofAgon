@@ -316,9 +316,30 @@ msgid "cosmetic_desc_bluetail_runner_ember"
 msgstr ""
 "Black volcanic scales with magma glowing in the seams, brightest at the tail."
 
+msgid "cosmetic_desc_bluetail_runner_nagast"
+msgstr ""
+"Blackened steel plates bristling with iron spikes over Nagast purple "
+"quilting, a spined crinet down its neck and the black sun on its chanfron "
+"and pennant."
+
+msgid "cosmetic_desc_bluetail_runner_raiders"
+msgstr ""
+"Scarred iron plates and bone spikes over Raider red quilting, a fur collar "
+"at its neck and the chevron on its chanfron and pennant."
+
+msgid "cosmetic_desc_bluetail_runner_trinity"
+msgstr ""
+"Battered steel barding over Trinity blue quilting, the three-pointed star on "
+"its chanfron and on its pennant."
+
 msgid "cosmetic_desc_death_pig_ember"
 msgstr ""
 "Black volcanic hide with magma glowing in the seams and burning hooves."
+
+msgid "cosmetic_desc_death_pig_raiders"
+msgstr ""
+"Scarred iron plates and bone spikes over Raider red quilting, a fur collar "
+"at its neck and the chevron on its chanfron and pennant."
 
 msgid "cosmetic_desc_disco"
 msgstr ""
@@ -598,6 +619,11 @@ msgstr ""
 msgid "cosmetic_desc_eradan_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
+msgid "cosmetic_desc_eradan_trinity"
+msgstr ""
+"Battered steel barding over Trinity blue quilting, the tree on its chanfron "
+"and the three-pointed star on its pennant."
+
 msgid "cosmetic_desc_fire_dragonbreath_af"
 msgstr ""
 "Amethyst Flame appearance for Dragonbreath. Preserves the spell silhouette, "
@@ -871,6 +897,11 @@ msgstr ""
 msgid "cosmetic_desc_garmir_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
+msgid "cosmetic_desc_garmir_trinity"
+msgstr ""
+"Battered steel pauldrons over Trinity blue quilting, the anvil on its "
+"shoulder plates and the three-pointed star on its pennant."
+
 msgid "cosmetic_desc_groove"
 msgstr ""
 "A loose, swinging dance: arms thrown across the body, one flung wide, knees "
@@ -879,6 +910,11 @@ msgstr ""
 msgid "cosmetic_desc_horse_ember"
 msgstr ""
 "Black volcanic hide with magma glowing in the seams and a smouldering tail."
+
+msgid "cosmetic_desc_horse_trinity"
+msgstr ""
+"Battered steel barding over Trinity blue quilting, the sun and sword on its "
+"chanfron and the three-pointed star on its pennant."
 
 msgid "cosmetic_desc_mana_missile_amber"
 msgstr ""
@@ -918,8 +954,19 @@ msgstr ""
 msgid "cosmetic_desc_shulgan_drake_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
+msgid "cosmetic_desc_shulgan_drake_nagast"
+msgstr ""
+"Blackened steel plates bristling with iron spikes over Nagast purple "
+"quilting, a spined crinet down its neck and the black sun on its chanfron "
+"and pennant."
+
 msgid "cosmetic_desc_tribeland_bear_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
+
+msgid "cosmetic_desc_tribeland_bear_raiders"
+msgstr ""
+"Scarred iron plates and bone spikes over Raider red quilting, a fur collar "
+"at its neck, the crescent on its chanfron and the chevron on its pennant."
 
 msgid "cosmetic_desc_water_blizzard_bt"
 msgstr ""
@@ -1380,8 +1427,20 @@ msgstr "Emberscale Battlehorn"
 msgid "cosmetic_name_bluetail_runner_ember"
 msgstr "Emberscale Bluetail Runner"
 
+msgid "cosmetic_name_bluetail_runner_nagast"
+msgstr "Nagast Barded Bluetail Runner"
+
+msgid "cosmetic_name_bluetail_runner_raiders"
+msgstr "Raider Barded Bluetail Runner"
+
+msgid "cosmetic_name_bluetail_runner_trinity"
+msgstr "Trinity Barded Bluetail Runner"
+
 msgid "cosmetic_name_death_pig_ember"
 msgstr "Emberscale Death Pig"
+
+msgid "cosmetic_name_death_pig_raiders"
+msgstr "Raider Barded Death Pig"
 
 msgid "cosmetic_name_disco"
 msgstr "Disco"
@@ -1551,6 +1610,9 @@ msgstr "Tarnish: Rose Quartz"
 msgid "cosmetic_name_eradan_ember"
 msgstr "Emberscale Eradan"
 
+msgid "cosmetic_name_eradan_trinity"
+msgstr "Trinity Barded Eradan"
+
 msgid "cosmetic_name_fire_dragonbreath_af"
 msgstr "Dragonbreath: Amethyst Flame"
 
@@ -1716,11 +1778,17 @@ msgstr "Weakening Blaze: Witchfire"
 msgid "cosmetic_name_garmir_ember"
 msgstr "Emberscale Garmir"
 
+msgid "cosmetic_name_garmir_trinity"
+msgstr "Trinity Barded Garmir"
+
 msgid "cosmetic_name_groove"
 msgstr "Groove"
 
 msgid "cosmetic_name_horse_ember"
 msgstr "Emberscale Horse"
+
+msgid "cosmetic_name_horse_trinity"
+msgstr "Trinity Barded Horse"
 
 msgid "cosmetic_name_mana_missile_amber"
 msgstr "Mana Missile: Amber"
@@ -1746,8 +1814,14 @@ msgstr "Mana Missile: Violet"
 msgid "cosmetic_name_shulgan_drake_ember"
 msgstr "Emberscale Shulgan Drake"
 
+msgid "cosmetic_name_shulgan_drake_nagast"
+msgstr "Nagast Barded Shulgan Drake"
+
 msgid "cosmetic_name_tribeland_bear_ember"
 msgstr "Emberscale Tribeland Bear"
+
+msgid "cosmetic_name_tribeland_bear_raiders"
+msgstr "Raider Barded Tribeland Bear"
 
 msgid "cosmetic_name_water_blizzard_bt"
 msgstr "Blizzard: Bloodtide"
