@@ -7479,6 +7479,12 @@ msgstr ""
 msgid "map_tt_territory_bonus_crafting_here"
 msgstr "Here: double craft %1%, crafting time -%2%, reagent conservation %3%"
 
+msgid "map_tt_territory_bonus_durability"
+msgstr "Gear durability: %1% less wear"
+
+msgid "map_tt_territory_bonus_durability_here"
+msgstr "Here: gear durability %1% less wear"
+
 msgid "map_tt_territory_bonus_here"
 msgstr ""
 "Here: Slayer & Mastery XP +%1%, harvest yield +%2% (%3: %4% of the bonus)"
@@ -9290,6 +9296,11 @@ msgstr ""
 "Crafting takes this much less time: at +33% a 30-second craft takes 20 "
 "seconds."
 
+msgid "minimap_territory_tip_durability_save"
+msgstr ""
+"Your gear - weapons, armour, tools and other worn items - loses this much "
+"less durability while in use. Durability lost on death is not affected."
+
 msgid "minimap_territory_tip_harvest_eff"
 msgstr ""
 "Raises your chance to succeed when skinning and digging, up to a certain "
@@ -10707,6 +10718,9 @@ msgstr "Double craft"
 
 msgid "paperdoll_territory_bonus_craft_speed"
 msgstr "Crafting speed"
+
+msgid "paperdoll_territory_bonus_durability_save"
+msgstr "Gear durability"
 
 msgid "paperdoll_territory_bonus_harvest_eff"
 msgstr "Harvesting speed"
