@@ -95,6 +95,9 @@ msgstr "MovementActions"
 msgid "a_Parry"
 msgstr "Parry"
 
+msgid "a_Ping_Commander_Waypoint"
+msgstr "Ping_Commander_Waypoint"
+
 msgid "a_Ping_Waypoint"
 msgstr "Ping_Waypoint"
 
@@ -366,6 +369,9 @@ msgstr "SuperAction of movement actions"
 
 msgid "desc_a_Parry"
 msgstr " "
+
+msgid "desc_a_Ping_Commander_Waypoint"
+msgstr "Marks the commander waypoint for all linked parties. Commander only."
 
 msgid "desc_a_Ping_Waypoint"
 msgstr "Description of a_Ping_Waypoint Object"

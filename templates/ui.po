@@ -12460,6 +12460,9 @@ msgstr "Alignment:"
 msgid "vital_stats_dialog_health"
 msgstr "Health:"
 
+msgid "vital_stats_dialog_low_health_alert"
+msgstr "Low health alert:"
+
 msgid "vital_stats_dialog_mana"
 msgstr "Mana:"
 
@@ -12468,6 +12471,9 @@ msgstr "Resizing:"
 
 msgid "vital_stats_dialog_stamina"
 msgstr "Stamina:"
+
+msgid "vital_stats_dialog_waypoint_indicators"
+msgstr "Waypoint indicators:"
 
 msgid "vital_stats_display_modes_blank"
 msgstr "Blank"
@@ -12517,8 +12523,21 @@ msgstr "Show portrait"
 msgid "vitalstats_options_display_stamina_bar"
 msgstr "Display Stamina Bar"
 
+msgid "vitalstats_options_display_waypoint_icon"
+msgstr "Display party member waypoint icon"
+
+msgid "vitalstats_options_flash_low_health"
+msgstr "Flash HP bar when below:"
+
+#. %1 = the low health alert threshold, a whole number from 10 to 90.
+msgid "vitalstats_options_low_health_percent"
+msgstr "%1%"
+
 msgid "vitalstats_options_name_position"
 msgstr "Position"
+
+msgid "vitalstats_options_show_threshold_marker"
+msgstr "Show threshold marker on HP bar"
 
 msgid "vitalstats_options_text_type"
 msgstr "Text Type"
