@@ -3736,6 +3736,12 @@ msgstr " "
 msgid "desc_r_Cannons"
 msgstr " Cannons."
 
+msgid "desc_r_Cape"
+msgstr "A plain cloth cape worn over the shoulders."
+
+msgid "desc_r_Capes"
+msgstr "Cloaks and capes worn over the shoulders."
+
 msgid "desc_r_Capturethehulk_01"
 msgstr ""
 "Press Use to take control of the super fun capture the hulk or Alternative "
@@ -12234,6 +12240,19 @@ msgstr ""
 "and some shellfish as a defense against parasites. Nacre is used as a "
 "reagent for many spells."
 
+msgid "desc_r_Nagast Banner Cape"
+msgstr ""
+"A violet cape bearing the Black Sun, granted to proven servants of Nagast."
+
+msgid "desc_r_Nagast Ornate Cape"
+msgstr ""
+"A spined collar and a hem of black thorns; only the Scourge's lords may wear "
+"it."
+
+msgid "desc_r_Nagast Trimmed Cape"
+msgstr ""
+"Thorn-embroidered and dark as dusk, worn by the Scourge's seasoned blades."
+
 msgid "desc_r_Nahdruk"
 msgstr " "
 
@@ -13432,6 +13451,20 @@ msgstr "Press Alternative Use on Raft's Helm to unspawn Raft."
 
 msgid "desc_r_Raft_01_Sail_01"
 msgstr " "
+
+msgid "desc_r_Raider Banner Cape"
+msgstr ""
+"A hide cape marked with claw and moon, given to those who ride with the "
+"Raiders."
+
+msgid "desc_r_Raider Ornate Cape"
+msgstr ""
+"A heavy wolf mantle hung with trophies, worn by the greatest of the Savage "
+"Raiders."
+
+msgid "desc_r_Raider Trimmed Cape"
+msgstr ""
+"Edged with pelt and tooth, the cape of a Raider who has drawn much blood."
 
 msgid "desc_r_Rakta Blood"
 msgstr "Very potent ingredient used for enchanting."
@@ -16528,6 +16561,19 @@ msgstr "Description of r_Trees"
 
 msgid "desc_r_Tribeland Bear"
 msgstr "Press Use button to mount or Alternative Use to unsummon."
+
+msgid "desc_r_Trinity Banner Cape"
+msgstr "A white cape bearing the three-pointed star of the Righteous Trinity."
+
+msgid "desc_r_Trinity Ornate Cape"
+msgstr ""
+"Clasped in gold with a weighted hem, the cape of the Trinity's highest "
+"champions."
+
+msgid "desc_r_Trinity Trimmed Cape"
+msgstr ""
+"Gold-bordered and quartered in the Trinity's colours, worn by its sworn "
+"defenders."
 
 msgid "desc_r_Troll"
 msgstr ""
@@ -21658,6 +21704,21 @@ msgstr ""
 "Double click to add a new title to your character! This scroll cannot be "
 "traded, dropped or sold, but can be stored in your bank."
 
+msgid "desc_r_ut_XP Boost 1 Hour"
+msgstr ""
+"Doubles the skill experience you earn for one hour of play. Time only passes "
+"while you are logged in, and further boosts add to it."
+
+msgid "desc_r_ut_XP Boost 3 Hours"
+msgstr ""
+"Doubles the skill experience you earn for three hours of play. Time only "
+"passes while you are logged in, and further boosts add to it."
+
+msgid "desc_r_ut_XP Boost 8 Hours"
+msgstr ""
+"Doubles the skill experience you earn for eight hours of play. Time only "
+"passes while you are logged in, and further boosts add to it."
+
 msgid "desc_r_ut_toy_the_white_rabbit"
 msgstr ""
 "A collectible toy that summons The White Rabbit pet. This toy cannot be "
@@ -21785,6 +21846,15 @@ msgstr "Worn Slayer Talisman"
 
 msgid "display_name_r_ut_Mount Skin Scroll"
 msgstr "Mount Skin Scroll (Untradable)"
+
+msgid "display_name_r_ut_XP Boost 1 Hour"
+msgstr "XP Boost (1 hour)"
+
+msgid "display_name_r_ut_XP Boost 3 Hours"
+msgstr "XP Boost (3 hours)"
+
+msgid "display_name_r_ut_XP Boost 8 Hours"
+msgstr "XP Boost (8 hours)"
 
 msgid "r_Aberrations"
 msgstr "Aberrations"

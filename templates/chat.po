@@ -9315,6 +9315,36 @@ msgstr "You were revived by %1"
 msgid "NOTIFICATION_EVENT_REVIVE_SELF_INFLICTED"
 msgstr "You revived yourself?! Stop cheating!"
 
+msgid "NOTIFICATION_FACTION_QM_BOUGHT"
+msgstr "^Cdarkfall^Bought %1 %2 for %3 faction points."
+
+msgid "NOTIFICATION_FACTION_QM_NOT_ENOUGH_POINTS"
+msgstr "^Cdarkfall^That costs %1 faction points; you have %2."
+
+msgid "NOTIFICATION_FACTION_QM_RANK_TOO_LOW"
+msgstr "^Cdarkfall^That is reserved for faction rank %1 and above."
+
+msgid "NOTIFICATION_FACTION_QM_REFUNDED"
+msgstr ""
+"^Cdarkfall^The purchase could not be delivered; %1 faction points were "
+"refunded."
+
+msgid "NOTIFICATION_FACTION_QM_REFUSED_ALLIANCE"
+msgstr "^Cdarkfall^I only deal with lawful members of the %1."
+
+msgid "NOTIFICATION_FACTION_QM_SKIN_OWNED"
+msgstr "^Cdarkfall^You already own %1."
+
+msgid "NOTIFICATION_FACTION_QM_SKIN_UNAVAILABLE"
+msgstr "^Cdarkfall^%1 is not available yet."
+
+msgid "NOTIFICATION_FACTION_WAR_RANK_REACHED"
+msgstr "^Cdarkfall^You are now ^Cwhite^%1^Cdarkfall^ of the %2."
+
+msgid "NOTIFICATION_FACTION_WAR_RANK_TITLE_WRONG_ALLIANCE"
+msgstr ""
+"^Cdarkfall^That title belongs to the %1; only their members can wear it."
+
 #. %1 = points earned, %2 = what they were earned for (one of the faction_war_reason_ strings).
 msgid "NOTIFICATION_FACTION_WAR_SCORE"
 msgstr "^Cdarkfall^Faction war: ^Cwhite^+%1 ^Cdarkfall^score (%2)."
@@ -13143,6 +13173,18 @@ msgstr ""
 
 msgid "NOTIFICATION_WORLD_EVENT_ANNOUNCEMENT"
 msgstr "%1"
+
+msgid "NOTIFICATION_XP_BOOST_ACTIVE"
+msgstr "^Cdarkfall^Your XP boost is active: %1h %2m of play left."
+
+msgid "NOTIFICATION_XP_BOOST_ADDED"
+msgstr "^Cdarkfall^XP boost active: %1h %2m of play left."
+
+msgid "NOTIFICATION_XP_BOOST_CAP_REACHED"
+msgstr "^Cdarkfall^You cannot hold more than %1 hours of XP boost."
+
+msgid "NOTIFICATION_XP_BOOST_ENDED"
+msgstr "^Cdarkfall^Your XP boost has ended."
 
 msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE"
 msgstr "^Cgold^%1^N^ is now %3 (+%2)"

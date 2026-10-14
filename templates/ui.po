@@ -4541,6 +4541,21 @@ msgstr "Name too long."
 msgid "error_name_too_many_digits"
 msgstr "No digits allowed in name."
 
+msgid "faction_qm_balance"
+msgstr "Faction points: %1   -   Rank: %2"
+
+msgid "faction_qm_price"
+msgstr "%1 faction points"
+
+msgid "faction_qm_refused"
+msgstr "Only lawful members of the %1 trade here."
+
+msgid "faction_qm_requires_rank"
+msgstr "Requires faction rank %1"
+
+msgid "faction_qm_skin_not_available"
+msgstr "Not available yet"
+
 msgid "faction_war_col_alliance"
 msgstr "Alliance"
 
@@ -4588,6 +4603,15 @@ msgstr "This Month"
 
 msgid "faction_war_period_week"
 msgstr "This Week"
+
+msgid "faction_war_rank_line"
+msgstr "Rank %1 of %2: %3. Standing %4 (next rank at %5). %6 faction points."
+
+msgid "faction_war_rank_line_max"
+msgstr "Rank %1 of %2: %3. Standing %4. %5 faction points."
+
+msgid "faction_war_rank_none"
+msgstr "No faction rank yet. Earn %1 standing to become %2. %3 faction points."
 
 msgid "faction_war_view_alliances"
 msgstr "Alliances"
@@ -10685,6 +10709,9 @@ msgstr "Clan sea villages offensive siege bonus"
 
 msgid "paperdoll_item_attached_at"
 msgstr "Attached at %1"
+
+msgid "paperdoll_label_cape"
+msgstr "Cape"
 
 msgid "paperdoll_label_character_id"
 msgstr "Character ID: %1"
