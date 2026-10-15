@@ -3534,6 +3534,22 @@ msgstr ""
 msgid "component_targeting_glyph_challenge_counter"
 msgstr "Interact with the glyph to counter the challenge!"
 
+#. Glyph target plate, the collector: %1 channel time left.
+msgid "component_targeting_glyph_harvest_collecting"
+msgstr "Collecting: %1"
+
+#. Glyph target plate, owners only: %1 fill percent.
+msgid "component_targeting_glyph_harvest_fill"
+msgstr "Harvest: %1%"
+
+#. Glyph target plate, everyone: the harvest can be collected.
+msgid "component_targeting_glyph_harvest_ready"
+msgstr "Harvest ready: anyone can collect it (hold Use)"
+
+#. Glyph target plate, everyone: %1 time until anyone may collect (m:ss).
+msgid "component_targeting_glyph_harvest_ready_in"
+msgstr "Harvest: anyone can collect it in %1"
+
 msgid "component_targeting_glyph_immune_remaining"
 msgstr "Immune for: %1"
 
@@ -3813,6 +3829,10 @@ msgstr "Create Runebook Location"
 
 msgid "context_menu_city_maintenance"
 msgstr "Holding Maintenance"
+
+#. Glyph harvest: the glyph context menu entry that collects a ready harvest.
+msgid "context_menu_glyph_harvest_collect"
+msgstr "Collect Harvest"
 
 msgid "context_menu_invite_player_to_house"
 msgstr "Invite to House"
@@ -4774,6 +4794,43 @@ msgid "glyph_friendly_fire_on"
 msgstr ""
 "Friendly fire is ON here: your own faction can hurt you on this contested "
 "tile."
+
+#. Glyph harvest: another player is collecting.
+msgid "glyph_harvest_busy"
+msgstr "Someone else is already collecting this glyph."
+
+#. Glyph harvest: the channel finished.
+msgid "glyph_harvest_collected"
+msgstr "You collected the glyph's harvest."
+
+#. Glyph harvest: damage, moving or leaving the glyph stopped the channel.
+msgid "glyph_harvest_interrupted"
+msgstr "Your collecting was interrupted."
+
+#. Glyph harvest: lawless glyphs pay a clan.
+msgid "glyph_harvest_need_clan"
+msgstr "You must be in a clan to collect this glyph."
+
+#. Glyph harvest: lawful glyphs pay a faction-war side.
+msgid "glyph_harvest_need_side"
+msgstr "Only players eligible for the faction war can collect a lawful glyph."
+
+#. Glyph harvest: alt-use on a glyph that has nothing to collect.
+msgid "glyph_harvest_not_ready"
+msgstr "This glyph has nothing to collect yet."
+
+#. Glyph harvest: the collector's channel started.
+msgid "glyph_harvest_started"
+msgstr ""
+"You begin collecting the glyph's harvest. Stay close and don't get hit."
+
+#. Glyph harvest: the player is not close enough to the glyph.
+msgid "glyph_harvest_too_far"
+msgstr "Move closer to the glyph to collect its harvest."
+
+#. Glyph harvest: the server could not place the player yet.
+msgid "glyph_harvest_try_again"
+msgstr "Collecting could not start yet. Try again."
 
 msgid "glyph_immune"
 msgstr "This glyph is still immune to challenge."

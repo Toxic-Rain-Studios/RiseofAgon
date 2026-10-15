@@ -9446,6 +9446,14 @@ msgstr ""
 "The rune glyph in %1 is now contested! It will be captured in %2 minutes "
 "unless the challenge is cancelled."
 
+#. %1 glyph name, %2 the clan or alliance that collected it. To the glyph's owners.
+msgid "NOTIFICATION_GLYPH_HARVEST_COLLECTED"
+msgstr "The harvest of %1 was collected by %2."
+
+#. %1 glyph name, %2 minutes until anyone may collect. To the glyph's owners.
+msgid "NOTIFICATION_GLYPH_HARVEST_FULL"
+msgstr "The harvest of %1 is full. Anyone can collect it in %2 minutes."
+
 msgid "NOTIFICATION_GLYPH_TAXES_CLAN"
 msgstr "The Rune Glyph of %1 has given us %2 Gold in Toll Fees."
 
@@ -12457,12 +12465,6 @@ msgstr "Overtime at %1: the fight for its altars goes on."
 msgid "NOTIFICATION_RUNE_REFUSED_BATTLE_RUNNING"
 msgstr "A battle for %1 is already under way: capture its altars to join it."
 
-#. %1 rune glyph name, %2 the glyph its owner is already defending.
-msgid "NOTIFICATION_RUNE_REFUSED_FRONT_OPEN"
-msgstr ""
-"%1 cannot be challenged right now: its owner is already defending %2. One "
-"battle at a time."
-
 #. %1 eligible players needed at the glyph, %2 present.
 msgid "NOTIFICATION_RUNE_REFUSED_NOT_ENOUGH_PLAYERS"
 msgstr ""
@@ -13520,6 +13522,9 @@ msgstr "glyph captured"
 
 msgid "faction_war_reason_glyph_defend"
 msgstr "glyph defended"
+
+msgid "faction_war_reason_glyph_harvest"
+msgstr "glyph harvest"
 
 msgid "faction_war_reason_kill"
 msgstr "enemy slain"
