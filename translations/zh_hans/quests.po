@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 23:14+0000\n"
+"PO-Revision-Date: 2026-10-15 09:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/quests/zh_Hans/>\n"
@@ -1970,17 +1970,24 @@ msgstr "在sanguine烹饪"
 msgid "short_desc_quest_2824"
 msgstr "钓鱼和烹饪."
 
+#, fuzzy
 msgid "start_text_quest_2824"
-msgstr "商人西梅翁要求你抓住一只鳕鱼, 然后用Sanguine的烤箱煮它.一旦你煮熟了鳕鱼,回到西梅翁收集你的奖励."
+msgstr ""
+"商人西梅翁要求你抓住一只鳕鱼, 然后用Sanguine的烤箱煮它.一旦你煮熟了鳕鱼,回到"
+"西梅翁收集你的奖励."
 
+#, fuzzy
 msgid "end_text_quest_2824"
 msgstr "我看你设法抓了一只鳕鱼,给自己做了一顿饭.做得很好."
 
 msgid "finished_text_quest_2824"
 msgstr "你已经成功地用烤箱把饭做好了.向商人西梅翁报告你的成功."
 
+#, fuzzy
 msgid "diary_text_quest_2824"
-msgstr "我按照西梅翁的指示,从钓鱼到使用Sanguine的烤箱,成功地为自己做了一条鳕鱼.自己做饭也不是那么糟糕.我必须承认这是一项很有用的技能."
+msgstr ""
+"我按照西梅翁的指示,从钓鱼到使用Sanguine的烤箱,成功地为自己做了一条鳕鱼.自己做"
+"饭也不是那么糟糕.我必须承认这是一项很有用的技能."
 
 msgid "name_quest_2822"
 msgstr "给西梅翁的生皮"
@@ -2309,18 +2316,22 @@ msgstr "我见到了铁匠塔劳德,这是Sanguine市议会的其他成员之一
 msgid "name_quest_20014"
 msgstr "Monkfield食品"
 
+#, fuzzy
 msgid "short_desc_quest_20014"
 msgstr "给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼."
 
+#, fuzzy
 msgid "start_text_quest_20014"
 msgstr "给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼."
 
 msgid "end_text_quest_20014"
 msgstr "谢谢! 这些对我们从战场上回来的所有饥饿的部队帮助很大."
 
+#, fuzzy
 msgid "finished_text_quest_20014"
 msgstr "你已经收集了足够的煮熟的鱼. 前往Monkfield西侧的商人伊安娜寻求奖励."
 
+#, fuzzy
 msgid "diary_text_quest_20014"
 msgstr "我搞到了足够的鱼,可以为Monkfield民兵烹制一顿丰盛的筵席."
 
@@ -3119,18 +3130,22 @@ msgstr "我能够向Monkfield民兵提供更多的短弓"
 msgid "name_quest_20070"
 msgstr "Monkfield食品"
 
+#, fuzzy
 msgid "short_desc_quest_20070"
 msgstr "制作10熟鳕鱼,10熟鳟鱼,10美味鲱鱼"
 
+#, fuzzy
 msgid "start_text_quest_20070"
 msgstr "带10条熟鳕鱼,10条熟鳟鱼和10条美味鲱鱼给Monkfield的商人伊安娜."
 
 msgid "end_text_quest_20070"
 msgstr "闻起来美味!你用了什么特别的调味料吗?好吧,没关系.军队会把它们吃掉的!"
 
+#, fuzzy
 msgid "finished_text_quest_20070"
 msgstr "你收集了足够的煮熟的鱼.回商人伊安娜那里去拿你的报酬吧."
 
+#, fuzzy
 msgid "diary_text_quest_20070"
 msgstr "我能够得到足够的鱼来为Monkfield民兵准备一场盛宴.10 煮熟的鱼, 鲑鱼和鳕鱼."
 
@@ -3191,9 +3206,11 @@ msgstr "我给阿里克提供了25个小治疗药水"
 msgid "name_quest_20004"
 msgstr "为西梅翁制作:烹饪"
 
+#, fuzzy
 msgid "short_desc_quest_20004"
 msgstr "烹饪 5 浆果燕麦片"
 
+#, fuzzy
 msgid "start_text_quest_20004"
 msgstr "为西梅翁制作 5 个浆果燕麦片"
 
@@ -3550,21 +3567,26 @@ msgstr "你已经收集了25个小的治疗药水. 把他们带给奥术师阿�
 msgid "diary_text_quest_20083"
 msgstr "我制作了25个小治疗药水,并把它们带给阿里克检查."
 
+#, fuzzy
 msgid "name_quest_20079"
 msgstr "把面团卖给Sanguine:收集"
 
+#, fuzzy
 msgid "short_desc_quest_20079"
 msgstr "交付 20 份面团"
 
+#, fuzzy
 msgid "start_text_quest_20079"
 msgstr "收集 20 份面团"
 
 msgid "end_text_quest_20079"
 msgstr "闻起来很棒! 让我把它们打包起来,这样当你到达Sanguine时,它们仍然是新鲜的."
 
+#, fuzzy
 msgid "finished_text_quest_20079"
 msgstr "你已经收集了20份面团."
 
+#, fuzzy
 msgid "diary_text_quest_20079"
 msgstr "我制作了20份面团."
 
@@ -4787,8 +4809,33 @@ msgstr "西梅翁的烹饪课"
 msgid "short_desc_quest_2825"
 msgstr "钓鱼和烹饪."
 
+#, fuzzy
 msgid "start_text_quest_2825"
-msgstr "在麦西亚,没有什么可以威胁我们人类.我们是这些土地的完全统治者,在奥罗斯的指引下,我们没有什么可害怕的.但是,冒险不小心超越麦西亚,你会发现阿贡有的许多危险.\r\n\r\n许多像你这样勇敢的人在面对他们遇到的许多危及生命的困难情况时,迫切需要一点额外的帮助,要么恢复生命,要么恢复体力.\r\n\r\n就像我之前说的,我会教你一些基本技能.那么,抓些鱼然后煮一下怎么样?我建议这节课吃鳕鱼.这可能听起来不那么令人兴奋,或者像喝一剂神奇的药水一样有希望,但它是一种很好的营养来源,可以帮助你恢复.而且,烹饪也不是那么难,为什么不学呢??\r\n\r\n你需要的一件事就是一根钓鱼竿.如果你没有, 你可以从我这里买一个.\r\n\r\n首先,你必须抓鳕鱼.站在水边时,给自己配备钓鱼竿.然后,稍微站在水中,瞄准你在水中的十字线,并开始钓鱼.如果你第一次抓不到鱼,就再试一次.你可以钓到许多不同种类的鱼.\r\n\r\n一旦你抓到了鳕鱼,下一步将是煮它.返回Sanguine,并搜索烤箱.你会发现它在中心广场,和大多数其他工作站在一起,靠近市场.你也可以从上面有面包和小麦的旗帜上认出来.卸下装备的时候,站在烤炉前.确保你的背包里有鳕鱼.然后,靠近烤箱使用行动按钮开始.从出现的食谱列表中,选择与您捕获的鱼相对应的食谱.它也会被突出显示.如果你的厨艺失败了,你就再试一次.所以我建议你不要只抓一条鱼,以免到处乱跑.\r\n\r\n当你成功了,把煮熟的鳕鱼给我."
+msgstr ""
+"在麦西亚,没有什么可以威胁我们人类.我们是这些土地的完全统治者,在奥罗斯的指引"
+"下,我们没有什么可害怕的.但是,冒险不小心超越麦西亚,你会发现阿贡有的许多危"
+"险.\r\n"
+"\r\n"
+"许多像你这样勇敢的人在面对他们遇到的许多危及生命的困难情况时,迫切需要一点额外"
+"的帮助,要么恢复生命,要么恢复体力.\r\n"
+"\r\n"
+"就像我之前说的,我会教你一些基本技能.那么,抓些鱼然后煮一下怎么样?我建议这节课"
+"吃鳕鱼.这可能听起来不那么令人兴奋,或者像喝一剂神奇的药水一样有希望,但它是一种"
+"很好的营养来源,可以帮助你恢复.而且,烹饪也不是那么难,为什么不学呢??\r\n"
+"\r\n"
+"你需要的一件事就是一根钓鱼竿.如果你没有, 你可以从我这里买一个.\r\n"
+"\r\n"
+"首先,你必须抓鳕鱼.站在水边时,给自己配备钓鱼竿.然后,稍微站在水中,瞄准你在水中"
+"的十字线,并开始钓鱼.如果你第一次抓不到鱼,就再试一次.你可以钓到许多不同种类的"
+"鱼.\r\n"
+"\r\n"
+"一旦你抓到了鳕鱼,下一步将是煮它.返回Sanguine,并搜索烤箱.你会发现它在中心广"
+"场,和大多数其他工作站在一起,靠近市场.你也可以从上面有面包和小麦的旗帜上认出"
+"来.卸下装备的时候,站在烤炉前.确保你的背包里有鳕鱼.然后,靠近烤箱使用行动按钮开"
+"始.从出现的食谱列表中,选择与您捕获的鱼相对应的食谱.它也会被突出显示.如果你的"
+"厨艺失败了,你就再试一次.所以我建议你不要只抓一条鱼,以免到处乱跑.\r\n"
+"\r\n"
+"当你成功了,把煮熟的鳕鱼给我."
 
 msgid "name_quest_2823"
 msgstr "西梅翁被盗商品"
@@ -4964,11 +5011,17 @@ msgstr "既然你给了我们时间制定一个攻击这些哥布林袭击者的
 msgid "name_quest_10004"
 msgstr "为部队做饭"
 
+#, fuzzy
 msgid "short_desc_quest_10004"
 msgstr "烹饪 5 浆果燕麦片"
 
+#, fuzzy
 msgid "start_text_quest_10004"
-msgstr "从奥塞勒斯逃出来的人,多了这么多张嘴,我们几乎没有足够的食物供给我们的军队.\r\n  \r我知道有一群士兵提到想念妈妈做饭,所以你能不能给他们做些温暖的浆果麦片,让他们想起家\r\n  \r用篝火煮 5 个浆果燕麦片."
+msgstr ""
+"从奥塞勒斯逃出来的人,多了这么多张嘴,我们几乎没有足够的食物供给我们的军队.\r\n"
+"  \r我知道有一群士兵提到想念妈妈做饭,所以你能不能给他们做些温暖的浆果麦片,让"
+"他们想起家\r\n"
+"  \r用篝火煮 5 个浆果燕麦片."
 
 msgid "name_quest_10068"
 msgstr "我的马王国!"
@@ -5009,11 +5062,18 @@ msgstr "一旦你把基础材料变成可用的东西,那么你就会得到制�
 msgid "name_quest_10007"
 msgstr "Monkfield食品"
 
+#, fuzzy
 msgid "short_desc_quest_10007"
 msgstr "给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼."
 
+#, fuzzy
 msgid "start_text_quest_10007"
-msgstr "一旦你在Sanguine巡视完毕,我有个任务要带你们去西部的临近城市Monkfield.我收到报告说Monkfield民兵已经被派去对付哥布林了.我相信那些勇敢的民兵在吃饱的情况下会打得更好.\r\r我想让你用钓鱼竿从Sanguine周围的水域捕获一些鱼, 然后为民兵煮几道不同的鱼, 就像你煮的浆果燕麦片一样.你可以把鱼带到Monkfield的商人伊安娜,她会分发它,并补偿你.\r\r带 5 煮熟的鳕鱼, 5 煮熟的鲑鱼, 和 5 美味的鲱鱼给伊安娜商人."
+msgstr ""
+"一旦你在Sanguine巡视完毕,我有个任务要带你们去西部的临近城市Monkfield.我收到报"
+"告说Monkfield民兵已经被派去对付哥布林了.我相信那些勇敢的民兵在吃饱的情况下会"
+"打得更好.\r\r我想让你用钓鱼竿从Sanguine周围的水域捕获一些鱼, 然后为民兵煮几道"
+"不同的鱼, 就像你煮的浆果燕麦片一样.你可以把鱼带到Monkfield的商人伊安娜,她会分"
+"发它,并补偿你.\r\r带 5 煮熟的鳕鱼, 5 煮熟的鲑鱼, 和 5 美味的鲱鱼给伊安娜商人."
 
 msgid "name_quest_10008"
 msgstr "称号: \"快速\""
@@ -5487,14 +5547,23 @@ msgstr "交付20个哥布林愤怒魔杖"
 msgid "start_text_quest_10065"
 msgstr "如此接近哥布林历史繁殖地的好处之一是,可以使用哥布林牙齿制作法杖.蒙克菲尔德长期以来一直是哥布林给愤怒魔杖的主要供应商,鉴于最近哥布林的活动,我认为这一传统没有任何改变.\r\n  \r我现在的库存需要民兵使用,如果你有能力,你可以帮我接管几批货.制作这些法杖然后交给Sanguine.你送完第一批货回来后可以再帮我做另一批货!\r\n  \r收集收集了20个哥布林愤怒魔杖. 把他们带给奥术师阿里克.."
 
+#, fuzzy
 msgid "name_quest_10062"
 msgstr "把面团卖给Sanguine"
 
+#, fuzzy
 msgid "short_desc_quest_10062"
 msgstr "交付 20 份面团"
 
+#, fuzzy
 msgid "start_text_quest_10062"
-msgstr "Sanguine可能是整个Agon最繁忙的地方. 这意味着他们的旅馆和餐馆也总是很忙,所以这个城市的厨师和面包师很少有时间自己做面团.\r\n  \r作为一名伟大的面包师,我已经出了名,但到目前为止,你给我展示的烹饪技巧给我留下了深刻的印象.我从Sanguine收到这批大量的面团订单,你有兴趣吗?薪水不错,而且将来可能会给你带来更多的机会.\r\n  \r收集20份面团,然后把它们带到商人西梅翁."
+msgstr ""
+"Sanguine可能是整个Agon最繁忙的地方. 这意味着他们的旅馆和餐馆也总是很忙,所以这"
+"个城市的厨师和面包师很少有时间自己做面团.\r\n"
+"  \r作为一名伟大的面包师,我已经出了名,但到目前为止,你给我展示的烹饪技巧给我留"
+"下了深刻的印象.我从Sanguine收到这批大量的面团订单,你有兴趣吗?薪水不错,而且将"
+"来可能会给你带来更多的机会.\r\n"
+"  \r收集20份面团,然后把它们带到商人西梅翁."
 
 msgid "name_quest_10063"
 msgstr "向Sanguine出售棉布盔甲"
@@ -5688,8 +5757,14 @@ msgstr "你会从巫术学派学到的第一个法术是群针. 这个法术允�
 msgid "name_quest_10055"
 msgstr "给民兵的鱼"
 
+#, fuzzy
 msgid "short_desc_quest_10055"
 msgstr "制作5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼"
 
+#, fuzzy
 msgid "start_text_quest_10055"
-msgstr "杀死哥布林确实会让你感到饥饿!\r\n  \r在离开战场时为我们的部队提供食物是我的首要任务之一.你能不能去西边的湖边,抓些鱼,煮熟给我,我好送给我们勇敢的民兵?\r\n  \r给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼.."
+msgstr ""
+"杀死哥布林确实会让你感到饥饿!\r\n"
+"  \r在离开战场时为我们的部队提供食物是我的首要任务之一.你能不能去西边的湖"
+"边,抓些鱼,煮熟给我,我好送给我们勇敢的民兵?\r\n"
+"  \r给Monkfield的商人伊安娜带去5条熟鳕鱼,5条熟鳟鱼和5条美味鲱鱼.."
