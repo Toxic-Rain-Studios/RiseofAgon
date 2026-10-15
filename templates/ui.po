@@ -3996,6 +3996,9 @@ msgstr "You cannot craft in PvP combat."
 msgid "crafting_chances_label_text"
 msgstr "Chance of Success:"
 
+msgid "crafting_combinations_label_text"
+msgstr "Combinations"
+
 msgid "crafting_create_button_text"
 msgstr "Create"
 
@@ -11701,10 +11704,10 @@ msgstr ""
 
 msgid "research_help_step_make"
 msgstr ""
-"Fill your supplies: drop Papyrus and Ink on the Research Supplies panel. "
-"Each item you research uses 5 Papyrus and one use of Ink, and each Ink gives "
-"10 uses. The panel holds enough for one full research queue, and supplies "
-"cannot be taken back out."
+"Fill your supplies: drop Papyrus and Squid Ink on the Research Supplies "
+"panel. Each item you research uses 5 Papyrus and one use of Squid Ink, and "
+"each Squid Ink gives 10 uses. The panel holds enough for one full research "
+"queue, and supplies cannot be taken back out."
 
 msgid "research_help_step_queue"
 msgstr ""
@@ -11768,8 +11771,8 @@ msgstr "Enough for %1 items"
 
 msgid "research_supply_hint"
 msgstr ""
-"Drop Papyrus and Ink on this panel to refill it. Supplies cannot be taken "
-"back out."
+"Drop Papyrus and Squid Ink on this panel to refill it. Supplies cannot be "
+"taken back out."
 
 msgid "research_supply_ink"
 msgstr "%1 / %2 uses"

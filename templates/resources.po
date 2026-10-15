@@ -5686,6 +5686,9 @@ msgstr "Ingredient used for enchanting."
 msgid "desc_r_Combined Venom Sac"
 msgstr "Ingredient used for enchanting."
 
+msgid "desc_r_Common Fish"
+msgstr "Cod, bass, trout, herring, salmon or swordfish."
+
 msgid "desc_r_Composite Bow"
 msgstr ""
 "This eccentrically shaped bow is said to have originated with the Aernar "
@@ -5730,7 +5733,7 @@ msgid "desc_r_Cooked Cod"
 msgstr "Looks like a good solid meal."
 
 msgid "desc_r_Cooked Trout"
-msgstr "Looks nice."
+msgstr "Fresh fish, grilled over the fire."
 
 msgid "desc_r_Corner Shield"
 msgstr ""
@@ -8501,10 +8504,10 @@ msgid "desc_r_Fish Raw"
 msgstr "A common type of fish found in the waters of Agon."
 
 msgid "desc_r_Fish Soup"
-msgstr "A tasty soup made with Herring and Trout."
+msgstr "A rich lobster bisque."
 
 msgid "desc_r_Fish Stew"
-msgstr " Very nutritional and delicious fish stew."
+msgstr "Very nutritional and delicious fish stew."
 
 msgid "desc_r_Fish and Chips"
 msgstr "Battered and pan-fried fish and potatoes."
@@ -9732,7 +9735,7 @@ msgstr ""
 "A heavy, all-metal warhammer. Perfect for getting rid of pent up aggression."
 
 msgid "desc_r_Grilled Swordfish"
-msgstr "This food will impress anyone."
+msgstr "Fish, potato and cheese baked in one dish."
 
 msgid "desc_r_Grimjaw"
 msgstr ""
@@ -11556,7 +11559,7 @@ msgstr "A key ingredient in many dishes."
 
 msgid "desc_r_Meat Jerky"
 msgstr ""
-"Dried and salted meat. Can be stored almost forever, and doesnt taste too "
+"Dried and salted meat. Can be stored almost forever, and doesn't taste too "
 "bad either."
 
 msgid "desc_r_Meat Pie"
@@ -12676,7 +12679,7 @@ msgid "desc_r_Old Roots"
 msgstr " "
 
 msgid "desc_r_Omelette"
-msgstr "Good for breakfast."
+msgstr "An omelette folded around fresh lobster."
 
 msgid "desc_r_Omrog"
 msgstr ""
@@ -12690,7 +12693,7 @@ msgid "desc_r_Onion"
 msgstr "Great when cooked with many foods."
 
 msgid "desc_r_Onion Bread"
-msgstr "A smelly but delecious bread baked with chopped onion."
+msgstr "A smelly but delicious bread baked with chopped onion."
 
 msgid "desc_r_Onion Garden"
 msgstr "Equip a sickle and press Action button to gather onions."
@@ -13194,7 +13197,7 @@ msgid "desc_r_Potato Garden Item"
 msgstr "A small herb garden. Double-click to add to your home."
 
 msgid "desc_r_Potato Pie"
-msgstr "A strange concoction of baked potato and egg."
+msgstr "A strange concoction of baked potato and cheese."
 
 msgid "desc_r_Potatoes"
 msgstr "One of the most important sources of food on Agon."
@@ -13955,7 +13958,7 @@ msgid "desc_r_Sausage"
 msgstr "Very tasty."
 
 msgid "desc_r_Sausage Hash"
-msgstr "Pan-cooked chopped sausage and potatoes."
+msgstr "Fried onions and potatoes with melted cheese."
 
 msgid "desc_r_Sausage Omelette"
 msgstr "Sausage folded into a pan-fried egg mixture."
@@ -17662,7 +17665,7 @@ msgstr ""
 "This extremely rare resource is needed for crafting of Champion Weapons."
 
 msgid "desc_r_ink"
-msgstr "Ink required to draft a housing deed and Blank Schematics."
+msgstr "Squid Ink required to draft a housing deed and Blank Schematics."
 
 msgid "desc_r_instrument_drum"
 msgstr ""
@@ -25346,6 +25349,9 @@ msgstr "Combined Tooth"
 msgid "r_Combined Venom Sac"
 msgstr "Combined Venom Sac"
 
+msgid "r_Common Fish"
+msgstr "Any Fish"
+
 msgid "r_Composite Bow"
 msgstr "Composite Bow"
 
@@ -25386,7 +25392,7 @@ msgid "r_Cooked Cod"
 msgstr "Cooked Cod"
 
 msgid "r_Cooked Trout"
-msgstr "Cooked Trout"
+msgstr "Grilled Fish"
 
 msgid "r_Corner Shield"
 msgstr "Corner Shield"
@@ -27963,7 +27969,7 @@ msgid "r_Fish Raw"
 msgstr "Fish Raw"
 
 msgid "r_Fish Soup"
-msgstr "Fish Soup"
+msgstr "Lobster Bisque"
 
 msgid "r_Fish Stew"
 msgstr "Fish Stew"
@@ -28956,7 +28962,7 @@ msgid "r_Grief"
 msgstr "Grief"
 
 msgid "r_Grilled Swordfish"
-msgstr "Grilled Swordfish"
+msgstr "Fish Pie"
 
 msgid "r_Grimjaw"
 msgstr "Grimjaw"
@@ -31443,7 +31449,7 @@ msgid "r_Old Roots"
 msgstr "Old Roots"
 
 msgid "r_Omelette"
-msgstr "Omelette"
+msgstr "Lobster Omelette"
 
 msgid "r_Omrog"
 msgstr "Omrog"
@@ -33219,7 +33225,7 @@ msgid "r_Sausage"
 msgstr "Sausage"
 
 msgid "r_Sausage Hash"
-msgstr "Sausage Hash"
+msgstr "Onion & Potato Hash"
 
 msgid "r_Sausage Omelette"
 msgstr "Sausage Omelette"
@@ -36270,7 +36276,7 @@ msgid "r_idol of misery"
 msgstr "Idol of Misery"
 
 msgid "r_ink"
-msgstr "ink"
+msgstr "squid ink"
 
 msgid "r_j13 fallen mahirim scholar"
 msgstr "j13 fallen mahirim scholar"
