@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-15 12:49+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/fr/>\n"
@@ -9259,9 +9259,11 @@ msgstr "Poissons et copeaux"
 msgid "desc_r_Fish and Chips"
 msgstr "Poissons et pommes de terre battus et frits."
 
+#, fuzzy
 msgid "r_Fish Soup"
 msgstr "Soupe de poisson"
 
+#, fuzzy
 msgid "desc_r_Fish Soup"
 msgstr "Une soupe savoureuse faite avec du hareng et de la truite."
 
@@ -9280,18 +9282,22 @@ msgstr "Savory Lobster sur le pain."
 msgid "r_Onion Bread"
 msgstr "Pain d'oignon"
 
+#, fuzzy
 msgid "desc_r_Onion Bread"
 msgstr "Un pain puant mais délicat cuit avec de l'oignon haché."
 
 msgid "r_Potato Pie"
 msgstr "Tarte à la pomme de terre"
 
+#, fuzzy
 msgid "desc_r_Potato Pie"
 msgstr "Une étrange concoction de pommes de terre cuites et d'œufs."
 
+#, fuzzy
 msgid "r_Sausage Hash"
 msgstr "Haricots de saucisse"
 
+#, fuzzy
 msgid "desc_r_Sausage Hash"
 msgstr "Saucisse et pommes de terre hachées à la poêle."
 
@@ -9442,15 +9448,18 @@ msgstr "Cabillaud cuit"
 msgid "desc_r_Cooked Cod"
 msgstr "On dirait un bon repas solide."
 
+#, fuzzy
 msgid "r_Cooked Trout"
 msgstr "Truite cuite"
 
+#, fuzzy
 msgid "desc_r_Cooked Trout"
 msgstr "C'est joli."
 
 msgid "r_Fish Stew"
 msgstr "Ragoût de poisson"
 
+#, fuzzy
 msgid "desc_r_Fish Stew"
 msgstr " Très nutritive et délicieux ragoût de poisson."
 
@@ -9460,9 +9469,11 @@ msgstr "Langoustine frite"
 msgid "desc_r_Fried Lobster"
 msgstr "C'est mieux que ça en a l'air."
 
+#, fuzzy
 msgid "r_Grilled Swordfish"
 msgstr "Espadon grillé"
 
+#, fuzzy
 msgid "desc_r_Grilled Swordfish"
 msgstr "Cette nourriture impressionnera n'importe qui."
 
@@ -9477,6 +9488,7 @@ msgstr ""
 msgid "r_Meat Jerky"
 msgstr "Viande séchée"
 
+#, fuzzy
 msgid "desc_r_Meat Jerky"
 msgstr ""
 "Viande séchée et salée. Peut être stocké presque pour toujours, et ne goûte "
@@ -9488,9 +9500,11 @@ msgstr "Ragoût de viande"
 msgid "desc_r_Meat Stew"
 msgstr "Un ragoût de viande de base. Ça a bon goût, et ça te remplit."
 
+#, fuzzy
 msgid "r_Omelette"
 msgstr "Omelette"
 
+#, fuzzy
 msgid "desc_r_Omelette"
 msgstr "Bon pour le petit déjeuner."
 
@@ -10409,9 +10423,11 @@ msgstr ""
 "Un sceau décoratif utilisé dans le processus d'élaboration des actes de "
 "logement."
 
+#, fuzzy
 msgid "r_ink"
 msgstr "encre"
 
+#, fuzzy
 msgid "desc_r_ink"
 msgstr ""
 "Encre requise pour la rédaction d'un acte de logement et d'un schéma Blank."
@@ -36273,6 +36289,7 @@ msgstr ""
 " ; la connaissance des recettes de chaque niveau élève votre plafond de "
 "bijouterie une fois que vous connaissez les niveaux ci-dessous."
 
+#, fuzzy
 msgid "r_toy_crog_magma"
 msgstr "Magma Crog jouet"
 
@@ -36283,6 +36300,7 @@ msgstr ""
 msgid "r_Pet Crog Magma"
 msgstr "Magma Crog"
 
+#, fuzzy
 msgid "r_toy_crog_frost"
 msgstr "Givre Crog jouet"
 
@@ -36292,6 +36310,7 @@ msgstr "Un jouet à collection qui convoque un animal de compagnie Frost Crog."
 msgid "r_Pet Crog Frost"
 msgstr "Gel Crog"
 
+#, fuzzy
 msgid "r_toy_crog_jungle"
 msgstr "Jawn Crog jouet"
 
@@ -36302,6 +36321,7 @@ msgstr ""
 msgid "r_Pet Crog Jungle"
 msgstr "Jungle Crog"
 
+#, fuzzy
 msgid "r_toy_crog_storm"
 msgstr "Orage Crog jouet"
 
@@ -36312,6 +36332,7 @@ msgstr ""
 msgid "r_Pet Crog Storm"
 msgstr "Tempête Crog"
 
+#, fuzzy
 msgid "r_toy_crog_desert"
 msgstr "Du désert Crog jouet"
 
