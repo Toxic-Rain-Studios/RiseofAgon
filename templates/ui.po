@@ -2221,6 +2221,9 @@ msgstr "Status"
 msgid "citybuff_cost"
 msgstr "%1 platinum"
 
+msgid "citybuff_cost_points"
+msgstr "%1 MP"
+
 msgid "citybuff_effect_church"
 msgstr "Increases player protections"
 
@@ -2253,6 +2256,9 @@ msgstr "Mana Regeneration (Mages Guild)"
 
 msgid "citybuff_platinum"
 msgstr "Vault platinum: %1"
+
+msgid "citybuff_points"
+msgstr "Maintenance Points: %1"
 
 msgid "citybuff_requires"
 msgstr "Requires %1"
@@ -2288,6 +2294,11 @@ msgid "citybuff_subtitle"
 msgstr ""
 "Spend platinum to activate holding buffs. Active buffs affect clan members "
 "inside the holding."
+
+msgid "citybuff_subtitle_points"
+msgstr ""
+"Spend Maintenance Points to activate holding buffs. Active buffs affect clan "
+"members inside the holding."
 
 msgid "citybuff_window_title"
 msgstr "Clan Buffs"
