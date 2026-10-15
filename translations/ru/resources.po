@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-05 17:13+0000\n"
+"PO-Revision-Date: 2026-10-15 12:49+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/ru/>\n"
@@ -9045,9 +9045,11 @@ msgstr "Рыба и чипсы"
 msgid "desc_r_Fish and Chips"
 msgstr "Ароматизированная и жареная рыба и картофель."
 
+#, fuzzy
 msgid "r_Fish Soup"
 msgstr "Рыбный суп"
 
+#, fuzzy
 msgid "desc_r_Fish Soup"
 msgstr "Вкусный суп, приготовленный из сельди и форели."
 
@@ -9066,18 +9068,22 @@ msgstr "Савори Лобстер на хлебе."
 msgid "r_Onion Bread"
 msgstr "Луковый хлеб"
 
+#, fuzzy
 msgid "desc_r_Onion Bread"
 msgstr "Вонючий, но вкусный хлеб, испеченный нарезанным луком."
 
 msgid "r_Potato Pie"
 msgstr "Картофельный пирог"
 
+#, fuzzy
 msgid "desc_r_Potato Pie"
 msgstr "Странная смесь печеного картофеля и яйца."
 
+#, fuzzy
 msgid "r_Sausage Hash"
 msgstr "Колбасный хеш"
 
+#, fuzzy
 msgid "desc_r_Sausage Hash"
 msgstr "Нарезанная колбасой и картофелем."
 
@@ -9225,15 +9231,18 @@ msgstr "Приготовленная треска"
 msgid "desc_r_Cooked Cod"
 msgstr "Выглядит как хорошая твердая еда."
 
+#, fuzzy
 msgid "r_Cooked Trout"
 msgstr "Приготовленная форель"
 
+#, fuzzy
 msgid "desc_r_Cooked Trout"
 msgstr "Выглядит мило."
 
 msgid "r_Fish Stew"
 msgstr "Тушеная рыба"
 
+#, fuzzy
 msgid "desc_r_Fish Stew"
 msgstr " Очень питательная и вкусная рыбная тушенка."
 
@@ -9243,9 +9252,11 @@ msgstr "Жареный лобстер"
 msgid "desc_r_Fried Lobster"
 msgstr "На вкус лучше, чем кажется."
 
+#, fuzzy
 msgid "r_Grilled Swordfish"
 msgstr "Рыба-меч на гриле"
 
+#, fuzzy
 msgid "desc_r_Grilled Swordfish"
 msgstr "Эта еда впечатлит любого."
 
@@ -9260,10 +9271,11 @@ msgstr ""
 msgid "r_Meat Jerky"
 msgstr "Вяленое мясо"
 
+#, fuzzy
 msgid "desc_r_Meat Jerky"
 msgstr ""
-"Сушеное и соленое мясо. Его можно хранить почти вечно, и на вкус тоже не так"
-" уж плохо."
+"Сушеное и соленое мясо. Его можно хранить почти вечно, и на вкус тоже не так "
+"уж плохо."
 
 msgid "r_Meat Stew"
 msgstr "Тушеное мясо"
@@ -9271,9 +9283,11 @@ msgstr "Тушеное мясо"
 msgid "desc_r_Meat Stew"
 msgstr "Базовое мясное рагу. Вкусно, и наполняет вас."
 
+#, fuzzy
 msgid "r_Omelette"
 msgstr "Омлет"
 
+#, fuzzy
 msgid "desc_r_Omelette"
 msgstr "Хорошо для завтрака."
 
@@ -10172,9 +10186,11 @@ msgid "desc_r_Seal"
 msgstr ""
 "Декоративная печать, используемая в процессе изготовления жилищных подделок."
 
+#, fuzzy
 msgid "r_ink"
 msgstr "чернила"
 
+#, fuzzy
 msgid "desc_r_ink"
 msgstr "Чернила требовались для составления жилищного акта и блочной схемы."
 
@@ -35819,6 +35835,7 @@ msgstr ""
 "узнать его; знание рецептов каждого уровня поднимает ваш потолок ювелирных "
 "изделий, как только вы знаете уровни ниже."
 
+#, fuzzy
 msgid "r_toy_crog_magma"
 msgstr "Магма Crog игрушка"
 
@@ -35828,6 +35845,7 @@ msgstr "Коллекционная игрушка, которая вызывае
 msgid "r_Pet Crog Magma"
 msgstr "Магма Crog"
 
+#, fuzzy
 msgid "r_toy_crog_frost"
 msgstr "Мороз Crog игрушка"
 
@@ -35837,6 +35855,7 @@ msgstr "Коллекционная игрушка, которая вызывае
 msgid "r_Pet Crog Frost"
 msgstr "Морозы Crog"
 
+#, fuzzy
 msgid "r_toy_crog_jungle"
 msgstr "Игрушки Crog"
 
@@ -35846,6 +35865,7 @@ msgstr "Коллекционная игрушка, которая вызывае
 msgid "r_Pet Crog Jungle"
 msgstr "Джунгли Crog"
 
+#, fuzzy
 msgid "r_toy_crog_storm"
 msgstr "Шторм Crog игрушка"
 
@@ -35855,6 +35875,7 @@ msgstr "Коллекционная игрушка, которая вызывае
 msgid "r_Pet Crog Storm"
 msgstr "Буря Crog"
 
+#, fuzzy
 msgid "r_toy_crog_desert"
 msgstr "Игрушка пустыня Crog"
 
