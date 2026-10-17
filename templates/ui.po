@@ -4045,6 +4045,43 @@ msgstr "Components:"
 msgid "crafting_window_title"
 msgstr "Crafting"
 
+msgid "crash_report_close"
+msgstr "Close"
+
+msgid "crash_report_description_label"
+msgstr "What were you doing when it happened? (optional)"
+
+msgid "crash_report_dont_send"
+msgstr "Don't Send"
+
+msgid "crash_report_failed"
+msgstr ""
+"The crash report could not be sent. You will be asked again the next time "
+"you start the game."
+
+msgid "crash_report_message"
+msgstr ""
+"Rise of Agon closed unexpectedly. Sending the crash report helps us find and "
+"fix the problem. It contains technical details about the crash and your game "
+"log."
+
+msgid "crash_report_pending_message"
+msgstr ""
+"Rise of Agon closed unexpectedly during an earlier session. Send the crash "
+"report so we can find and fix the problem?"
+
+msgid "crash_report_send"
+msgstr "Send Report"
+
+msgid "crash_report_sending"
+msgstr "Sending the crash report..."
+
+msgid "crash_report_sent"
+msgstr "Thank you! The crash report was sent."
+
+msgid "crash_report_title"
+msgstr "Rise of Agon - Crash Report"
+
 msgid "create_char"
 msgstr "Create"
 
