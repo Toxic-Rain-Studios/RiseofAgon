@@ -2140,6 +2140,14 @@ msgstr "description of property n_server_to_client_updaterate"
 msgid "chat_server_prop_n_subscriber_updaterate_desc"
 msgstr "description of property n_subscriber_updaterate"
 
+msgid "chat_skilltree_cmd_desc"
+msgstr ""
+"opens the skill constellation, the weapon skills round the ghost moon. /"
+"skilltree"
+
+msgid "chat_skilltree_param_sub"
+msgstr "open (the default)"
+
 msgid "chat_special_cmd_a_city_load"
 msgstr "Load a city. (Admin command)"
 
@@ -2148,6 +2156,28 @@ msgstr "Plays a camera path defined in the filename given"
 
 msgid "chat_special_cmd_g_load_environment"
 msgstr "Load an environment file."
+
+msgid "chat_spellpoints_cmd_desc"
+msgstr ""
+"adds spell points to yourself, or resets your spell tree and refunds them "
+"(GM only). /spellpoints add <amount>, /spellpoints reset"
+
+msgid "chat_spellpoints_param_amount"
+msgstr "how many points to add; a negative amount takes them away"
+
+msgid "chat_spellpoints_param_sub"
+msgstr "add or reset"
+
+msgid "chat_spelltree_cmd_desc"
+msgstr ""
+"opens the spell constellations, where spells are learned with skill points. /"
+"spelltree"
+
+msgid "chat_spelltree_param_skill"
+msgstr "the spell to learn (sent by the constellations)"
+
+msgid "chat_spelltree_param_sub"
+msgstr "open (the default)"
 
 msgid "chat_sys_skill_failed"
 msgstr "skill failed"
@@ -10103,6 +10133,15 @@ msgstr "Show Tutorial next time"
 msgid "options_gui_show_weapon_bar"
 msgstr "Detach weapon bar"
 
+msgid "options_gui_spell_constellation_heading"
+msgstr "Spell constellation"
+
+msgid "options_gui_spell_constellation_skip_animation"
+msgstr "Skip the constellation animation"
+
+msgid "options_gui_spell_constellation_windowed"
+msgstr "Open the constellation in a window"
+
 msgid "options_gui_tab_bars"
 msgstr "Bars"
 
@@ -11900,6 +11939,149 @@ msgstr "Research Supplies"
 msgid "research_time"
 msgstr "Time: "
 
+msgid "research_tree_and"
+msgstr "and"
+
+msgid "research_tree_blueprint"
+msgstr "Blueprint: %1"
+
+msgid "research_tree_cat_armour"
+msgstr "Armour"
+
+msgid "research_tree_cat_arrows"
+msgstr "Arrows"
+
+msgid "research_tree_cat_axes"
+msgstr "Axes"
+
+msgid "research_tree_cat_bows"
+msgstr "Bows"
+
+msgid "research_tree_cat_clothing"
+msgstr "Clothing"
+
+msgid "research_tree_cat_clubs"
+msgstr "Clubs"
+
+msgid "research_tree_cat_containers"
+msgstr "Containers"
+
+msgid "research_tree_cat_greataxes"
+msgstr "Greataxes"
+
+msgid "research_tree_cat_greatclubs"
+msgstr "Greatclubs"
+
+msgid "research_tree_cat_greatswords"
+msgstr "Greatswords"
+
+msgid "research_tree_cat_jewelsmithing"
+msgstr "Jewelsmithing"
+
+msgid "research_tree_cat_knives"
+msgstr "Knives"
+
+msgid "research_tree_cat_polearms"
+msgstr "Polearms"
+
+msgid "research_tree_cat_shields"
+msgstr "Shields"
+
+msgid "research_tree_cat_staff_crafting"
+msgstr "Staff Crafting"
+
+msgid "research_tree_cat_swords"
+msgstr "Swords"
+
+msgid "research_tree_count"
+msgstr "%1 / %2"
+
+msgid "research_tree_crafts_worth"
+msgstr "%1 crafts' worth"
+
+msgid "research_tree_days"
+msgstr "%1 days"
+
+msgid "research_tree_donate"
+msgstr "Donate"
+
+msgid "research_tree_empty"
+msgstr "The research trees could not be loaded."
+
+msgid "research_tree_every_route"
+msgstr "On every route: %1"
+
+msgid "research_tree_hint"
+msgstr ""
+"Wheel to zoom, drag to pan. Hover an item for its tooltip; click it to see "
+"what it needs."
+
+msgid "research_tree_hours"
+msgstr "%1 h"
+
+msgid "research_tree_known"
+msgstr "Known from the start."
+
+msgid "research_tree_level"
+msgstr "Lv %1"
+
+msgid "research_tree_mastery_level"
+msgstr "M%1"
+
+msgid "research_tree_materials"
+msgstr "Materials"
+
+msgid "research_tree_minutes"
+msgstr "%1 min"
+
+msgid "research_tree_needs"
+msgstr "Needs %1"
+
+msgid "research_tree_needs_nothing"
+msgstr "nothing"
+
+msgid "research_tree_needs_route"
+msgstr "Needs one complete route researched first."
+
+msgid "research_tree_needs_starter"
+msgstr "nothing: a starter"
+
+msgid "research_tree_not_open"
+msgstr "Research from the trees is not open yet."
+
+msgid "research_tree_options"
+msgstr "Options: %1 ways in"
+
+msgid "research_tree_options_at"
+msgstr "Options at %1: %2 ways in"
+
+msgid "research_tree_or"
+msgstr "or"
+
+msgid "research_tree_panel_title"
+msgstr "Research"
+
+msgid "research_tree_rank_level"
+msgstr "Rank %1 · %2"
+
+msgid "research_tree_rank_level_race"
+msgstr "Rank %1 · %2 · %3 only"
+
+msgid "research_tree_researched"
+msgstr "Researched."
+
+msgid "research_tree_shared"
+msgstr "Shared by more than one"
+
+msgid "research_tree_slot_blueprint"
+msgstr "Slot blueprint"
+
+msgid "research_tree_start"
+msgstr "Start research"
+
+msgid "research_tree_time"
+msgstr "Research time"
+
 msgid "right_arrow"
 msgstr "->"
 
@@ -12138,6 +12320,12 @@ msgstr "Skills & Spells"
 msgid "skills_window_title"
 msgstr "Skills"
 
+msgid "skilltree_button"
+msgstr "Skill Stars"
+
+msgid "skilltree_points"
+msgstr "Skill Points: %1"
+
 msgid "skin_black_sun_of_nagast"
 msgstr "Black Sun of Nagast"
 
@@ -12306,6 +12494,95 @@ msgstr " "
 
 msgid "spells_window_title"
 msgstr "Spells"
+
+#. Button that unlocks a school: wakes its constellation.
+msgid "spelltree_awaken"
+msgstr "Awaken"
+
+#. The Abilities window header button that opens the spell constellations, the spell-unlock screen.
+msgid "spelltree_button"
+msgstr "Constellations"
+
+#. Runtime parameters: the spell points the selected spell or school costs.
+msgid "spelltree_cost"
+msgstr "Cost: %1"
+
+msgid "spelltree_disabled"
+msgstr "The constellations are silent"
+
+msgid "spelltree_hint_school"
+msgstr "Click a constellation to approach it"
+
+msgid "spelltree_hint_spell"
+msgstr "Select a star to learn its spell"
+
+#. The constellation screens' bottom bar: the arrows name the screen they lead to.
+msgid "spelltree_nav_research"
+msgstr "Research"
+
+msgid "spelltree_nav_skills"
+msgstr "Skills"
+
+msgid "spelltree_nav_spells"
+msgstr "Spells"
+
+msgid "spelltree_need_points"
+msgstr "Not enough skill points"
+
+msgid "spelltree_option_skip_animation"
+msgstr "Skip animations"
+
+msgid "spelltree_option_windowed"
+msgstr "Use windowed view"
+
+#. Runtime parameters: the unspent spell points.
+msgid "spelltree_points"
+msgstr "Skill Points: %1"
+
+#. Runtime parameters: a school's name, the school level.
+msgid "spelltree_requires_level"
+msgstr "Requires %1 %2"
+
+msgid "spelltree_requires_link"
+msgstr "Learn a connected spell first"
+
+#. Runtime parameters: a school's name.
+msgid "spelltree_requires_school"
+msgstr "Requires %1"
+
+msgid "spelltree_reset_button"
+msgstr "Reset"
+
+#. The constellation panel (top right). Runtime parameter: the gold a reset costs, e.g. 10,000.
+msgid "spelltree_reset_text"
+msgstr "Reset all skills & spells. This costs %1 gold."
+
+msgid "spelltree_return"
+msgstr "Return"
+
+#. A school whose constellation has not been awakened yet.
+msgid "spelltree_school_dormant"
+msgstr "Dormant"
+
+#. Runtime parameters: spells learned, spells in the school.
+msgid "spelltree_school_progress"
+msgstr "%1 of %2 spells learned"
+
+#. The constellation node panel, under the name. Runtime parameter: the skill's level, a whole number.
+msgid "spelltree_skill_level"
+msgstr "Skill Level: %1"
+
+msgid "spelltree_state_available"
+msgstr "Available"
+
+msgid "spelltree_state_learned"
+msgstr "Learned"
+
+msgid "spelltree_state_locked"
+msgstr "Locked"
+
+msgid "spelltree_unlock"
+msgstr "Unlock"
 
 msgid "stamina"
 msgstr "Stamina"

@@ -13499,6 +13499,75 @@ msgstr "MIDI input will use every device."
 msgid "chat_midi_use_device"
 msgstr "MIDI input will use %1."
 
+#. No runtime parameters.
+msgid "chat_skilltree_unavailable"
+msgstr "The skill constellation is not available."
+
+#. No runtime parameters.
+msgid "chat_skilltree_usage"
+msgstr "Usage: /skilltree [open]"
+
+#. Runtime parameters: the signed change, the new total. GM command.
+msgid "chat_spellpoints_added"
+msgstr "Spell points changed by %1 (now %2)."
+
+#. Runtime parameters: the points refunded. GM command.
+msgid "chat_spellpoints_reset"
+msgstr "Spell tree reset: %1 points refunded."
+
+#. No runtime parameters. GM command.
+msgid "chat_spellpoints_usage"
+msgstr "Usage: /spellpoints add <amount> | reset"
+
+#. No runtime parameters.
+msgid "chat_spelltree_busy"
+msgstr "You cannot study the stars right now."
+
+#. Runtime parameters: the spell's name.
+msgid "chat_spelltree_learned"
+msgstr "You have learned %1."
+
+#. No runtime parameters. The constellation view does not open while the character moves.
+msgid "chat_spelltree_moving"
+msgstr "You must stand still to read the stars."
+
+#. No runtime parameters.
+msgid "chat_spelltree_no_points"
+msgstr "You do not have enough skill points."
+
+#. No runtime parameters. The server refused a spell unlock from the constellation screen.
+msgid "chat_spelltree_refused"
+msgstr "You cannot learn that yet."
+
+msgid "chat_spelltree_reset_blocked"
+msgstr ""
+"You can't reset your skills and spells right now, not in combat or in an "
+"instance."
+
+#. The constellation panel's reset. Runtime parameters: the skill points returned, the gold paid (e.g. 10,000).
+msgid "chat_spelltree_reset_done"
+msgstr ""
+"Your skills and spells were reset: %1 skill points returned, %2 gold paid."
+
+msgid "chat_spelltree_reset_gold"
+msgstr "A reset costs %1 gold, and you don't have that much."
+
+msgid "chat_spelltree_reset_incomplete"
+msgstr ""
+"Your reset could not finish: %1 skill points were returned for what was "
+"taken back. Please tell a game master."
+
+msgid "chat_spelltree_reset_nothing"
+msgstr "There is nothing to reset: no skill points have been spent."
+
+#. No runtime parameters.
+msgid "chat_spelltree_unavailable"
+msgstr "The spell tree is not available."
+
+#. No runtime parameters.
+msgid "chat_spelltree_usage"
+msgstr "Usage: /spelltree [open]"
+
 msgid "chatcommand_midi"
 msgstr ""
 "Use a MIDI keyboard with your instruments. /midi shows the status and "
