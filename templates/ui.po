@@ -4804,6 +4804,65 @@ msgstr "false"
 msgid "feature_not_implemented"
 msgstr "Sorry, this feature has not been implemented yet!"
 
+msgid "game_time_gift_busy"
+msgstr "A gift is already being processed."
+
+msgid "game_time_gift_button"
+msgstr "Gift"
+
+msgid "game_time_gift_checking"
+msgstr "Checking character..."
+
+msgid "game_time_gift_confirm"
+msgstr ""
+"I understand this gift is final and cannot be undone, and that it will "
+"consume one Game Time Token."
+
+msgid "game_time_gift_error"
+msgstr "The gift could not be completed. Your token was not used."
+
+msgid "game_time_gift_explanation"
+msgstr ""
+"You are about to gift 30 days of game time to another character. The time is "
+"added to the account that owns that character."
+
+msgid "game_time_gift_found"
+msgstr "Gift to %1"
+
+msgid "game_time_gift_headline"
+msgstr "- Gift Game Time to Another Character -"
+
+msgid "game_time_gift_menu"
+msgstr "Gift Game Time"
+
+msgid "game_time_gift_name_label"
+msgstr "Enter the exact character name (first and last):"
+
+msgid "game_time_gift_no_answer"
+msgstr ""
+"No answer from the server. Check your Game Time Tokens before trying again."
+
+msgid "game_time_gift_no_token"
+msgstr "Your Game Time Token is gone, or is busy in a trade or transfer."
+
+msgid "game_time_gift_not_found"
+msgstr "That character doesn't exist."
+
+msgid "game_time_gift_received"
+msgstr "You have been gifted %1 days of game time by %2."
+
+msgid "game_time_gift_received_title"
+msgstr "Game Time Received"
+
+msgid "game_time_gift_sending"
+msgstr "Sending gift..."
+
+msgid "game_time_gift_sent"
+msgstr "You gifted 30 days of game time to %1."
+
+msgid "game_time_gift_window_title"
+msgstr "Gift Game Time"
+
 msgid "gender_female"
 msgstr "Female"
 
