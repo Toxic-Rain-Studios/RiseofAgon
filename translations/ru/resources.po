@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-15 12:49+0000\n"
+"PO-Revision-Date: 2026-10-19 07:56+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/ru/>\n"
@@ -4856,6 +4856,7 @@ msgstr "Описание элементов r_store"
 msgid "r_Game Time Token"
 msgstr "Игровое время Token"
 
+#, fuzzy
 msgid "desc_r_Game Time Token"
 msgstr ""
 "Дважды щелкните, чтобы добавить 30 дней игрового времени премиум-класса в "
