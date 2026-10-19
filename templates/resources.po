@@ -907,6 +907,11 @@ msgstr ""
 "A loose, swinging dance: arms thrown across the body, one flung wide, knees "
 "bouncing."
 
+msgid "cosmetic_desc_health_to_mana_runes"
+msgstr ""
+"Futhark rune bands for Health to Mana. Retains the original casting cues and "
+"spell shape."
+
 msgid "cosmetic_desc_horse_ember"
 msgstr ""
 "Black volcanic hide with magma glowing in the seams and a smouldering tail."
@@ -951,6 +956,11 @@ msgstr ""
 "Violet accents for Mana Missile. Retains the original casting cues and spell "
 "shape."
 
+msgid "cosmetic_desc_mana_to_stamina_runes"
+msgstr ""
+"Futhark rune bands for Mana to Stamina. Retains the original casting cues "
+"and spell shape."
+
 msgid "cosmetic_desc_shulgan_drake_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
@@ -959,6 +969,11 @@ msgstr ""
 "Blackened steel plates bristling with iron spikes over Nagast purple "
 "quilting, a spined crinet down its neck and the black sun on its chanfron "
 "and pennant."
+
+msgid "cosmetic_desc_stamina_to_health_runes"
+msgstr ""
+"Futhark rune bands for Stamina to Health. Retains the original casting cues "
+"and spell shape."
 
 msgid "cosmetic_desc_tribeland_bear_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
@@ -1784,6 +1799,9 @@ msgstr "Trinity Barded Garmir"
 msgid "cosmetic_name_groove"
 msgstr "Groove"
 
+msgid "cosmetic_name_health_to_mana_runes"
+msgstr "Health to Mana: Runes"
+
 msgid "cosmetic_name_horse_ember"
 msgstr "Emberscale Horse"
 
@@ -1811,11 +1829,17 @@ msgstr "Mana Missile: Pink"
 msgid "cosmetic_name_mana_missile_violet"
 msgstr "Mana Missile: Violet"
 
+msgid "cosmetic_name_mana_to_stamina_runes"
+msgstr "Mana to Stamina: Runes"
+
 msgid "cosmetic_name_shulgan_drake_ember"
 msgstr "Emberscale Shulgan Drake"
 
 msgid "cosmetic_name_shulgan_drake_nagast"
 msgstr "Nagast Barded Shulgan Drake"
+
+msgid "cosmetic_name_stamina_to_health_runes"
+msgstr "Stamina to Health: Runes"
 
 msgid "cosmetic_name_tribeland_bear_ember"
 msgstr "Emberscale Tribeland Bear"
