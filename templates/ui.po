@@ -17,6 +17,9 @@ msgstr "Acid Protection"
 msgid "Arcane Protection"
 msgstr "Arcane Protection"
 
+msgid "Arcane Transmutation"
+msgstr "Arcane Transmutation"
+
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
 #. Translate the label, informed by listed effect names.
@@ -116,6 +119,9 @@ msgstr "Drink Cooldown Reduction"
 msgid "Dummy Effect Target"
 msgstr "Dummy Effect Target"
 
+msgid "Earth Transmutation"
+msgstr "Earth Transmutation"
+
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
 #. Translate the label, informed by listed effect names.
@@ -136,6 +142,9 @@ msgstr "Filter:"
 #. Translate the label, informed by listed effect names.
 msgid "Fire Protection"
 msgstr "Fire Protection"
+
+msgid "Fire Transmutation"
+msgstr "Fire Transmutation"
 
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
@@ -184,6 +193,9 @@ msgstr "Infliction Protection"
 #. Translate the label, informed by listed effect names.
 msgid "Lightning Protection"
 msgstr "Lightning Protection"
+
+msgid "Lightning Transmutation"
+msgstr "Lightning Transmutation"
 
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
@@ -273,6 +285,9 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_SWAP_STARTED"
 msgstr "[Mastery] Switching to %1. Hold still for %2 seconds."
 
+msgid "Necromancy Transmutation"
+msgstr "Necromancy Transmutation"
+
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
 #. Translate the label, informed by listed effect names.
@@ -338,6 +353,9 @@ msgstr "Slashing Protection"
 
 msgid "Sound effect:"
 msgstr "Sound effect:"
+
+msgid "Spell Chanting Transmutation"
+msgstr "Spell Chanting Transmutation"
 
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
@@ -405,11 +423,17 @@ msgstr "Toggle the GM play sound window."
 msgid "Unholy Protection"
 msgstr "Unholy Protection"
 
+msgid "Water Transmutation"
+msgstr "Water Transmutation"
+
 #. Attribute label inserted into combat boost/damage/drain/heal notifications.
 #. The key is the registered SFAttributeTypes name; preserve it exactly.
 #. Translate the label, informed by listed effect names.
 msgid "Willpower"
 msgstr "Willpower"
+
+msgid "Witchcraft Transmutation"
+msgstr "Witchcraft Transmutation"
 
 msgid "abilities_detail_active"
 msgstr "Active"
@@ -4529,6 +4553,9 @@ msgstr ""
 msgid "enchanting_bulk_count_label"
 msgstr "Enchants:"
 
+msgid "enchanting_category_transmutes"
+msgstr "Transmutes"
+
 msgid "enchanting_choose_item"
 msgstr "Choose an item:"
 
@@ -4639,6 +4666,9 @@ msgstr ""
 "2. Drag ingredients to fill up one or more rows.\n"
 "\n"
 "3. Press the Enchant button to enchant item."
+
+msgid "enchanting_transmute_gem_postfix"
+msgstr "of %1"
 
 msgid "enchanting_type_postfix"
 msgstr "Enchantment"
