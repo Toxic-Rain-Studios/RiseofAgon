@@ -9505,6 +9505,11 @@ msgstr "No recipe found for '%1'."
 msgid "NOTIFICATION_GM_RECIPE_UNLOCKED"
 msgstr "Unlocked the recipe for %1."
 
+msgid "NOTIFICATION_GOD_BAR_FULL_MALAUT"
+msgstr ""
+"Malaut stirs. His devotees have called him - Silvertongue will fall in about "
+"%1 minutes."
+
 msgid "NOTIFICATION_HOUSE_ALREADY_A_TENANT"
 msgstr "You are already a tenant in this house."
 
@@ -12492,6 +12497,52 @@ msgstr "The rune battle for %1 was called off. Nothing changes hands."
 
 msgid "NOTIFICATION_SHIP_REPAIR_LIMIT_REACHED"
 msgstr "This vessel already has the maximum of %1 players repairing it."
+
+msgid "NOTIFICATION_SILVERTONGUE_ARENA_ENTERED"
+msgstr "You enter Malaut's arena. Claim the sword - and keep it."
+
+msgid "NOTIFICATION_SILVERTONGUE_ARENA_LEFT"
+msgstr "You leave Malaut's arena. The sword cannot be carried out of it."
+
+msgid "NOTIFICATION_SILVERTONGUE_CANCELLED"
+msgstr ""
+"Malaut's Silvertongue will not fall today. The event has been called off."
+
+msgid "NOTIFICATION_SILVERTONGUE_ENDED"
+msgstr "The battle for Malaut's Silvertongue in %1 is over."
+
+msgid "NOTIFICATION_SILVERTONGUE_HOLDER_LOST"
+msgstr "%1 has lost Malaut's Silvertongue before reaching the altar."
+
+msgid "NOTIFICATION_SILVERTONGUE_HOLDER_RUN"
+msgstr ""
+"%1 carries Malaut's Silvertongue! They have %2 minutes to reach Malaut's "
+"altar in Broadherne - hunt them down."
+
+msgid "NOTIFICATION_SILVERTONGUE_IMPACT"
+msgstr ""
+"Malaut's Silvertongue has struck %1! The sanctuary is gone - claim the sword."
+
+msgid "NOTIFICATION_SILVERTONGUE_OFFERED"
+msgstr "%1 has offered Silvertongue at Malaut's altar. Malaut is pleased."
+
+msgid "NOTIFICATION_SILVERTONGUE_SANCTUARY"
+msgstr ""
+"Malaut's Silvertongue falls in %1 minutes in %2. Until it lands, no one near "
+"the site can be harmed."
+
+msgid "NOTIFICATION_SILVERTONGUE_SANCTUARY_ENTERED"
+msgstr ""
+"You enter Malaut's sanctuary. No one can harm you here, and you can harm no "
+"one, until the sword falls."
+
+msgid "NOTIFICATION_SILVERTONGUE_SANCTUARY_LEFT"
+msgstr "You are outside Malaut's sanctuary. You can harm and be harmed."
+
+msgid "NOTIFICATION_SILVERTONGUE_SWORD_FALLS"
+msgstr ""
+"The Silvertongue has slipped its wielder's grasp - it falls again at the "
+"heart of the arena!"
 
 msgid "NOTIFICATION_SINGLE_PARAM_ONSCREEN_LARGE"
 msgstr "%1"
