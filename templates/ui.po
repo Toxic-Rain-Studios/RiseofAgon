@@ -725,6 +725,17 @@ msgstr "Are you sure you want to quit Rise of Agon?"
 msgid "armor_damage_multiplier"
 msgstr "Damage Multiplier"
 
+msgid "auto_eat_options_description"
+msgstr ""
+"Eats a meal from the food slot while you are in combat. Set a key to switch "
+"auto-eat on or off."
+
+msgid "auto_eat_toggled_off"
+msgstr "Auto-eat is off."
+
+msgid "auto_eat_toggled_on"
+msgstr "Auto-eat is on."
+
 msgid "auto_equip_config_filter_filter_by_weapon_types_tooltip_1"
 msgstr "Will ignore any items that do not match these weapon types."
 
@@ -11064,6 +11075,9 @@ msgstr "Performance: minor"
 
 msgid "options_window_title"
 msgstr "Options"
+
+msgid "paperdoll_auto_eat_options_tooltip"
+msgstr "Auto-eat options"
 
 msgid "paperdoll_button_get_naked"
 msgstr "Get Naked"

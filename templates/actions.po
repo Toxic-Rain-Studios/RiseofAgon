@@ -194,6 +194,9 @@ msgstr "Toggle_AutoRun"
 msgid "a_Toggle_AutoSprint"
 msgstr "Toggle_AutoSprint"
 
+msgid "a_Toggle_Auto_Eat"
+msgstr "Toggle Auto-eat"
+
 msgid "a_Toggle_Camera_Relation"
 msgstr "Toggle_Camera_Relation"
 
@@ -473,6 +476,9 @@ msgstr "Description of a_Toggle AutoRun"
 
 msgid "desc_a_Toggle_AutoSprint"
 msgstr "Description of a_Toggle_AutoSprint"
+
+msgid "desc_a_Toggle_Auto_Eat"
+msgstr "Switch auto-eat from the paperdoll food slot on or off."
 
 msgid "desc_a_Toggle_Camera_Relation"
 msgstr "Description of a_Toggle Camerarelation"
