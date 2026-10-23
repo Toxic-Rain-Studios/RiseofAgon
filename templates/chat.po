@@ -12323,6 +12323,9 @@ msgid "NOTIFICATION_RESEARCH_AT_CEILING"
 msgstr ""
 "%1 is at its ceiling of %2. Learn a higher-tier recipe to research further."
 
+msgid "NOTIFICATION_RESEARCH_BAG_NOT_EMPTY"
+msgstr "%1 cannot be researched while it has items in it. Empty it first."
+
 msgid "NOTIFICATION_RESEARCH_INSTANT_GAIN"
 msgstr "Research complete: %1 advanced from %2 to %3."
 
