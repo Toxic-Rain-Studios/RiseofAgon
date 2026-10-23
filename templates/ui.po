@@ -12268,6 +12268,10 @@ msgstr "Neutral"
 msgid "rune_hud_other"
 msgstr "Other"
 
+#. Rune battle panel stability line while the owner overcharges the glyph past its maximum. %1 current, %2 overcharge cap, %3 rate per second (e.g. +7.5/s).
+msgid "rune_hud_overcharge"
+msgstr "Overcharge %1 / %2 (%3)"
+
 #. Rune battle panel owner line. %1 owner name, or the neutral text for an unowned glyph.
 msgid "rune_hud_owner"
 msgstr "Held by %1"
