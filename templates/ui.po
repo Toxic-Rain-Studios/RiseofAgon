@@ -6410,6 +6410,9 @@ msgstr "Crafting"
 msgid "journal_section_guides"
 msgstr "Guides"
 
+msgid "journal_section_leaderboards"
+msgstr "Leaderboards"
+
 msgid "journal_section_slayer"
 msgstr "Slayer"
 
@@ -6448,6 +6451,27 @@ msgstr "Wheel Up"
 
 msgid "key_shift"
 msgstr "Shift"
+
+msgid "leaderboard_col_name"
+msgstr "Name"
+
+msgid "leaderboard_col_place"
+msgstr "#"
+
+msgid "leaderboard_col_score"
+msgstr "Score"
+
+msgid "leaderboard_no_record"
+msgstr "No one is on this board yet."
+
+msgid "leaderboard_record"
+msgstr "Record: %1   -   %2"
+
+msgid "leaderboard_you"
+msgstr "You: #%1   -   %2   -   All time: %3"
+
+msgid "leaderboard_you_none"
+msgstr "You are not on this board for this period.   -   All time: %1"
 
 msgid "left_arrow"
 msgstr "<-"
