@@ -4101,8 +4101,17 @@ msgstr "Create"
 msgid "crafting_duration_label_text"
 msgstr "Create time:"
 
+msgid "crafting_error_requires_any_station"
+msgstr "You must be at a crafting station to create this."
+
+msgid "crafting_error_requires_station"
+msgstr "Station required: %1"
+
 msgid "crafting_items_label_text"
 msgstr "Items:"
+
+msgid "crafting_professions_title"
+msgstr "Crafting Professions"
 
 msgid "crafting_recipe_label_text"
 msgstr "Components:"
@@ -4564,8 +4573,29 @@ msgstr "Emotes"
 msgid "empty"
 msgstr ""
 
+msgid "enchanting_applies_all_weapons"
+msgstr "All Weapons"
+
+msgid "enchanting_applies_apparel"
+msgstr "Armor, Shields and Jewelry"
+
+msgid "enchanting_applies_general"
+msgstr "All Weapons, Armor, Shields and Jewelry"
+
+msgid "enchanting_applies_staves"
+msgstr "Staves Only"
+
+msgid "enchanting_applies_to"
+msgstr "Applies to: %1"
+
+msgid "enchanting_applies_weapons"
+msgstr "Melee Weapons and Bows"
+
 msgid "enchanting_bulk_count_label"
 msgstr "Enchants:"
+
+msgid "enchanting_category_staves"
+msgstr "Staves"
 
 msgid "enchanting_category_transmutes"
 msgstr "Transmutes"
@@ -4578,6 +4608,12 @@ msgstr "none"
 
 msgid "enchanting_enchant_button_text"
 msgstr "Enchant"
+
+msgid "enchanting_error_gem_quality"
+msgstr "This gem holds materials up to Q%1"
+
+msgid "enchanting_gem_max_quality"
+msgstr "Max Q%1"
 
 msgid "enchanting_header_catalyst"
 msgstr "Catalyst"
@@ -13006,6 +13042,9 @@ msgstr "Already learned!"
 
 msgid "tooltip_recipe_craft"
 msgstr "Craft"
+
+msgid "tooltip_recipe_race_only"
+msgstr "%1 only recipe"
 
 msgid "tooltip_recipe_tier"
 msgstr "Tier"

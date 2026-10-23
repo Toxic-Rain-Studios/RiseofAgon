@@ -12307,6 +12307,9 @@ msgstr "You have learned the recipe for %1."
 msgid "NOTIFICATION_RECIPE_SKILL_MISSING"
 msgstr "You need the %2 skill to learn the recipe for %1."
 
+msgid "NOTIFICATION_RECIPE_WRONG_RACE"
+msgstr "The recipe for %1 can only be learned by %2 characters."
+
 msgid "NOTIFICATION_RED_ENTERING_LAW_LESS_AREA_WARNING"
 msgstr "^Cyellow^Attention! ^Cwhite^You are entering a lawless area!"
 
