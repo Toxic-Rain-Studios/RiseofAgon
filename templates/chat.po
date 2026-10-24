@@ -11850,6 +11850,10 @@ msgstr "[Mastery] Free swap used."
 msgid "NOTIFICATION_PVE_MASTERY_FREE_SWAP_GRANTED"
 msgstr "[Mastery] Your next mastery swap is free for a short time."
 
+msgid "NOTIFICATION_PVE_MASTERY_GATES_OPEN"
+msgstr ""
+"[Mastery] Mastery gates are gone: every mastery levels to 50 with no Trial."
+
 msgid "NOTIFICATION_PVE_MASTERY_GATE_CANNOT_AFFORD"
 msgstr ""
 "[Mastery] Not enough for the Trial. You carry %1 of %2 Mastery Orbs and %3 "
@@ -11911,6 +11915,11 @@ msgstr "[Mastery] Trial passed. %1 tier %2 unlocked (levels up to %3)."
 
 msgid "NOTIFICATION_PVE_MASTERY_ORB_LEVEL_TOO_LOW"
 msgstr "[Mastery] %1 must reach level %2 for this Trial (currently %3)."
+
+msgid "NOTIFICATION_PVE_MASTERY_ORB_REFUND"
+msgstr ""
+"[Mastery] Mastery Trials are gone. The orbs your Trials took are waiting in "
+"Deliveries: %1 Mastery Orbs, %2 Ancient Orbs."
 
 msgid "NOTIFICATION_PVE_MASTERY_PROVOKE_FIRED"
 msgstr "[Mastery] PROVOKE - %1 monster(s) marked onto you."
@@ -13663,6 +13672,47 @@ msgstr "holding captured"
 
 msgid "faction_war_reason_siege_defend"
 msgstr "holding defended"
+
+msgid "marks_vendor_bought"
+msgstr "[Log] %1 is in your bank. %2 Marks spent."
+
+msgid "marks_vendor_busy"
+msgstr "[Log] One purchase at a time."
+
+msgid "marks_vendor_closed"
+msgstr "[Log] The Pedlar opens his stall on %1."
+
+msgid "marks_vendor_ended"
+msgstr "[Log] The Pedlar's stall is shut until the next Log."
+
+msgid "marks_vendor_failed"
+msgstr "[Log] The purchase failed. No Marks were taken."
+
+msgid "marks_vendor_no_bank"
+msgstr "[Log] You need a bank to buy from the Pedlar."
+
+msgid "marks_vendor_not_for_sale"
+msgstr "[Log] That is not for sale."
+
+msgid "marks_vendor_owed"
+msgstr ""
+"[Log] The purchase could not be confirmed. If Marks were taken, they come "
+"back by your next login."
+
+msgid "marks_vendor_owned"
+msgstr "[Log] You already own %1."
+
+msgid "marks_vendor_refunded"
+msgstr "[Log] The item could not be delivered. %1 Marks returned."
+
+msgid "marks_vendor_retry"
+msgstr "[Log] Your Marks are still being counted. Try again in a moment."
+
+msgid "marks_vendor_short"
+msgstr "[Log] You have %1 Marks. This costs %2."
+
+msgid "marks_vendor_short_now"
+msgstr "[Log] Your account does not have %1 Marks to spend."
 
 msgid "slayer_rarity_0"
 msgstr "Common"

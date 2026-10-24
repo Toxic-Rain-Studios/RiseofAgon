@@ -308,9 +308,15 @@ msgstr ""
 "Royal Thunder appearance for Tornado. Preserves the spell silhouette, "
 "movement and timing."
 
+msgid "cosmetic_desc_battlehorn_bloodmoon"
+msgstr "Deep crimson coat fading to black."
+
 msgid "cosmetic_desc_battlehorn_ember"
 msgstr ""
 "Black volcanic hide with magma glowing in the seams and burning hooves."
+
+msgid "cosmetic_desc_bluetail_runner_bloodmoon"
+msgstr "Deep crimson fur fading to black legs, with a black mane and horns."
 
 msgid "cosmetic_desc_bluetail_runner_ember"
 msgstr ""
@@ -331,6 +337,9 @@ msgid "cosmetic_desc_bluetail_runner_trinity"
 msgstr ""
 "Battered steel barding over Trinity blue quilting, the three-pointed star on "
 "its chanfron and on its pennant."
+
+msgid "cosmetic_desc_death_pig_bloodmoon"
+msgstr "Deep crimson coat fading to black."
 
 msgid "cosmetic_desc_death_pig_ember"
 msgstr ""
@@ -616,6 +625,9 @@ msgstr ""
 "Rose Quartz appearance for Tarnish. Preserves the spell silhouette, movement "
 "and timing."
 
+msgid "cosmetic_desc_eradan_bloodmoon"
+msgstr "Deep crimson coat fading to black."
+
 msgid "cosmetic_desc_eradan_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
@@ -894,6 +906,9 @@ msgstr ""
 "Witchfire appearance for Weakening Blaze. Preserves the spell silhouette, "
 "movement and timing."
 
+msgid "cosmetic_desc_garmir_bloodmoon"
+msgstr "Deep crimson coat fading to black."
+
 msgid "cosmetic_desc_garmir_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
@@ -911,6 +926,9 @@ msgid "cosmetic_desc_health_to_mana_runes"
 msgstr ""
 "Futhark rune bands for Health to Mana. Retains the original casting cues and "
 "spell shape."
+
+msgid "cosmetic_desc_horse_bloodmoon"
+msgstr "Deep crimson coat fading to black."
 
 msgid "cosmetic_desc_horse_ember"
 msgstr ""
@@ -961,6 +979,12 @@ msgstr ""
 "Futhark rune bands for Mana to Stamina. Retains the original casting cues "
 "and spell shape."
 
+msgid "cosmetic_desc_moon_howl"
+msgstr "Throw your head back and howl at the moon."
+
+msgid "cosmetic_desc_shulgan_drake_bloodmoon"
+msgstr "Deep crimson coat fading to black."
+
 msgid "cosmetic_desc_shulgan_drake_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
 
@@ -974,6 +998,9 @@ msgid "cosmetic_desc_stamina_to_health_runes"
 msgstr ""
 "Futhark rune bands for Stamina to Health. Retains the original casting cues "
 "and spell shape."
+
+msgid "cosmetic_desc_tribeland_bear_bloodmoon"
+msgstr "Deep crimson coat fading to black."
 
 msgid "cosmetic_desc_tribeland_bear_ember"
 msgstr "Black volcanic hide with magma glowing in the seams and burning paws."
@@ -1436,8 +1463,14 @@ msgstr "Tornado: Aurora"
 msgid "cosmetic_name_air_tornado_va"
 msgstr "Tornado: Royal Thunder"
 
+msgid "cosmetic_name_battlehorn_bloodmoon"
+msgstr "Blood Moon Battlehorn"
+
 msgid "cosmetic_name_battlehorn_ember"
 msgstr "Emberscale Battlehorn"
+
+msgid "cosmetic_name_bluetail_runner_bloodmoon"
+msgstr "Blood Moon Bluetail Runner"
 
 msgid "cosmetic_name_bluetail_runner_ember"
 msgstr "Emberscale Bluetail Runner"
@@ -1450,6 +1483,9 @@ msgstr "Raider Barded Bluetail Runner"
 
 msgid "cosmetic_name_bluetail_runner_trinity"
 msgstr "Trinity Barded Bluetail Runner"
+
+msgid "cosmetic_name_death_pig_bloodmoon"
+msgstr "Blood Moon Death Pig"
 
 msgid "cosmetic_name_death_pig_ember"
 msgstr "Emberscale Death Pig"
@@ -1622,6 +1658,9 @@ msgstr "Tarnish: Quicksilver"
 msgid "cosmetic_name_earth_tarnish_rq"
 msgstr "Tarnish: Rose Quartz"
 
+msgid "cosmetic_name_eradan_bloodmoon"
+msgstr "Blood Moon Eradan"
+
 msgid "cosmetic_name_eradan_ember"
 msgstr "Emberscale Eradan"
 
@@ -1790,6 +1829,9 @@ msgstr "Weakening Blaze: Ghostfire"
 msgid "cosmetic_name_fire_weakening_blaze_wf"
 msgstr "Weakening Blaze: Witchfire"
 
+msgid "cosmetic_name_garmir_bloodmoon"
+msgstr "Blood Moon Garmir"
+
 msgid "cosmetic_name_garmir_ember"
 msgstr "Emberscale Garmir"
 
@@ -1801,6 +1843,9 @@ msgstr "Groove"
 
 msgid "cosmetic_name_health_to_mana_runes"
 msgstr "Health to Mana: Runes"
+
+msgid "cosmetic_name_horse_bloodmoon"
+msgstr "Blood Moon Horse"
 
 msgid "cosmetic_name_horse_ember"
 msgstr "Emberscale Horse"
@@ -1832,6 +1877,12 @@ msgstr "Mana Missile: Violet"
 msgid "cosmetic_name_mana_to_stamina_runes"
 msgstr "Mana to Stamina: Runes"
 
+msgid "cosmetic_name_moon_howl"
+msgstr "Moon Howl"
+
+msgid "cosmetic_name_shulgan_drake_bloodmoon"
+msgstr "Blood Moon Shulgan Drake"
+
 msgid "cosmetic_name_shulgan_drake_ember"
 msgstr "Emberscale Shulgan Drake"
 
@@ -1840,6 +1891,9 @@ msgstr "Nagast Barded Shulgan Drake"
 
 msgid "cosmetic_name_stamina_to_health_runes"
 msgstr "Stamina to Health: Runes"
+
+msgid "cosmetic_name_tribeland_bear_bloodmoon"
+msgstr "Blood Moon Tribeland Bear"
 
 msgid "cosmetic_name_tribeland_bear_ember"
 msgstr "Emberscale Tribeland Bear"
@@ -2188,8 +2242,9 @@ msgstr ""
 
 msgid "desc_r_Ancient Orb"
 msgstr ""
-"Mastery Trials III and IV at Slayer Master Aero need these as well as "
-"Mastery Orbs. Aero sells them, and only the fiercest foes ever drop one."
+"Older and heavier than a Mastery Orb, and as silent about what it is for. It "
+"answers only to the PvE masteries. Aero sells them for Slayer Points, and "
+"the bosses Devil, Demon Lord, Fire Dragon and Kroshogo drop them rarely."
 
 msgid "desc_r_Ancient Quintessence"
 msgstr "Ingredient used for enchanting."
@@ -4516,6 +4571,9 @@ msgid "desc_r_Clan Laboratory"
 msgstr ""
 "Press Use button to start crafting.Destructible. Damaged buildings may be "
 "rebuilt using repair hammers."
+
+msgid "desc_r_Clan Log Merchant Stall"
+msgstr "A stall where the Lantern Pedlar sells Log rewards for Marks."
 
 msgid "desc_r_Clan Mages Guild Alfar"
 msgstr "Destructible."
@@ -10817,6 +10875,120 @@ msgstr ""
 "The head of this mighty axe is covered with chitinous bands that give off a "
 "metallic sheen. "
 
+msgid "desc_r_Log Cache Daily Easy"
+msgstr ""
+"Daily and weekly task reward, sent to your bank. Open it from your backpack: "
+"gold, keys or materials."
+
+msgid "desc_r_Log Cache Daily Hard"
+msgstr ""
+"Daily and weekly task reward, sent to your bank. Open it from your backpack: "
+"gold, keys or materials."
+
+msgid "desc_r_Log Cache Daily Medium"
+msgstr ""
+"Daily and weekly task reward, sent to your bank. Open it from your backpack: "
+"gold, keys or materials."
+
+msgid "desc_r_Log Cache Weekly Easy"
+msgstr ""
+"Weekly task reward, sent to your bank. Open it from your backpack: gold, "
+"keys, maps or materials."
+
+msgid "desc_r_Log Cache Weekly Hard"
+msgstr ""
+"Weekly task reward, sent to your bank. Open it from your backpack: gold, "
+"keys, maps or materials."
+
+msgid "desc_r_Log Cache Weekly Medium"
+msgstr ""
+"Weekly task reward, sent to your bank. Open it from your backpack: gold, "
+"keys, maps or materials."
+
+msgid "desc_r_Log Cache Weekly Very Easy"
+msgstr ""
+"Weekly task reward, sent to your bank. Open it from your backpack: gold, "
+"keys, maps or materials."
+
+msgid "desc_r_Log Cache Weekly Very Hard"
+msgstr ""
+"Weekly task reward, sent to your bank. Open it from your backpack: gold, "
+"keys, maps or materials."
+
+msgid "desc_r_Log Crafted Any"
+msgstr "Counts toward the Task Book's crafting task."
+
+msgid "desc_r_Log Crafted Rank 100"
+msgstr "Counts toward the Task Book's crafting task."
+
+msgid "desc_r_Log Crafted Rank 50"
+msgstr "Counts toward the Task Book's crafting task."
+
+msgid "desc_r_Log Crafts"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Dailies Done"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Gathered"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Night Champions"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Night Kills"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Points"
+msgstr ""
+"Fills the Log bar to 1,000. 50, 100, 150 and 200 Marks at 200, 400, 600 and "
+"800 points."
+
+msgid "desc_r_Log PvP Glyphs"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log PvP Objectives"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log PvP Sieges"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log PvP Village Captures"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log PvP War Score"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Epic Handins"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Handins"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Night Ladder"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Rare Handins"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Stage Two"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Top Stage"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Uncommon Handins"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Slayer Very Hard Handins"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Talismans Identified"
+msgstr "Counts toward a Log task or feat."
+
+msgid "desc_r_Log Weeklies Done"
+msgstr "Counts toward a Log task or feat."
+
 msgid "desc_r_Logging Spawn Tree"
 msgstr ""
 "Press Use key while targeting to equip wood axe and press Action button to "
@@ -11574,6 +11746,102 @@ msgstr " "
 msgid "desc_r_Market"
 msgstr "Press the use key to access market."
 
+msgid "desc_r_Marks Offer Blood Moon Alfar Claymore"
+msgstr ""
+"Item Skin Scroll for the Alfar Claymore. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Alfar Kriss"
+msgstr "Item Skin Scroll for the Alfar Kriss. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Battlehorn"
+msgstr "Mount Skin Scroll for battlehorns. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Death Pig"
+msgstr ""
+"Mount Skin Scroll for death pigs and their swift kin. Bound to you, sent to "
+"your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Doublestring Bow"
+msgstr ""
+"Item Skin Scroll for the Doublestring Bow. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Dragon Tail"
+msgstr "Item Skin Scroll for the Dragon Tail. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Enigma"
+msgstr "Item Skin Scroll for the Enigma. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Eradan"
+msgstr ""
+"Mount Skin Scroll for eradans and their swift kin. Bound to you, sent to "
+"your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Garmir"
+msgstr ""
+"Mount Skin Scroll for garmirs and their swift kin. Bound to you, sent to "
+"your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Horse"
+msgstr ""
+"Mount Skin Scroll for horses and their swift kin. Bound to you, sent to your "
+"bank."
+
+msgid "desc_r_Marks Offer Blood Moon Mahirim Moonblade"
+msgstr ""
+"Item Skin Scroll for the Mahirim Moonblade. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Minotaur Great Axe"
+msgstr ""
+"Item Skin Scroll for the Minotaur Great Axe. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Mirdain Spellstaff"
+msgstr ""
+"Item Skin Scroll for the Mirdain Spellstaff. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Moon Axe"
+msgstr "Item Skin Scroll for the Moon Axe. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Shulgan Drake"
+msgstr ""
+"Mount Skin Scroll for shulgan drakes and their swift kin. Bound to you, sent "
+"to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Star of Eanna"
+msgstr ""
+"Item Skin Scroll for the Star of Eanna. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon Tribeland Bear"
+msgstr ""
+"Mount Skin Scroll for tribeland bears and their swift kin. Bound to you, "
+"sent to your bank."
+
+msgid "desc_r_Marks Offer Blood Moon War Maul"
+msgstr "Item Skin Scroll for the War Maul. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Frost Shield"
+msgstr "Item Skin Scroll for shields. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Frost Staff"
+msgstr "Item Skin Scroll for staves. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Frost-Steel Greatsword"
+msgstr "Item Skin Scroll for greatswords. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Hoarfrost Dye"
+msgstr "A cold blue-white dye. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Moon Howl"
+msgstr "Emote Scroll: Moon Howl (/howl). Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer Winter Pine Dye"
+msgstr "A deep blue-green dye. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offer of Midwinter"
+msgstr "Title Scroll: of Midwinter. Bound to you, sent to your bank."
+
+msgid "desc_r_Marks Offers"
+msgstr "Log rewards bought with Marks."
+
 msgid "desc_r_Marsh Teal Dye"
 msgstr "Express your style with this armor coloring dye."
 
@@ -11603,9 +11871,9 @@ msgstr ""
 
 msgid "desc_r_Mastery Orb"
 msgstr ""
-"Spent on Mastery Trials to raise your mastery's level cap by 10. Aero sells "
-"them for Slayer Points, and Hard and Very Hard monsters drop them very "
-"rarely, Very Hard more often."
+"A sphere of condensed mastery. It hums when a PvE mastery is near, and its "
+"purpose is not yet known. Aero sells them for Slayer Points, and Hard and "
+"Very Hard monsters drop them very rarely, Very Hard more often."
 
 msgid "desc_r_Mastery Slayer"
 msgstr "Mastery orbs and essence, and Slayer talismans."
@@ -11982,6 +12250,9 @@ msgstr "Monster toys."
 msgid "desc_r_Monsters"
 msgstr " "
 
+msgid "desc_r_Monthly Log"
+msgstr "Log points and counters."
+
 msgid "desc_r_Moon Axe"
 msgstr ""
 "This crescent-bladed intemediate axe was made by a a mahirim weaponsmith."
@@ -12279,6 +12550,9 @@ msgstr "Press Use button to interact with the NPC."
 
 msgid "desc_r_NPC Humans"
 msgstr " "
+
+msgid "desc_r_NPC Lantern Pedlar"
+msgstr "A travelling merchant who trades for Log Marks."
 
 msgid "desc_r_NPC Mahirim Big Female"
 msgstr " "
@@ -12983,6 +13257,11 @@ msgid "desc_r_Pester"
 msgstr ""
 "Although technically a spear, for anyone larger than a brownie it's more "
 "commonly used used as a sword due to its size."
+
+msgid "desc_r_Pet The Blood Moon Rabbit"
+msgstr ""
+"A rabbit with crimson-black fur and burning crimson eyes, wearing a blood-"
+"steel Minotaur helm and carrying a Blood Moon Alfar Kriss on each hip."
 
 msgid "desc_r_Pet The White Rabbit"
 msgstr ""
@@ -15483,6 +15762,9 @@ msgstr ""
 
 msgid "desc_r_Slayer Contract Board"
 msgstr "Slayer Contract Board."
+
+msgid "desc_r_Slayer Contract Handins"
+msgstr "Slayer contracts handed in."
 
 msgid "desc_r_Slayer Contract Slot"
 msgstr "Lets you hold one more Slayer contract at a time, up to 3 in all."
@@ -21869,6 +22151,9 @@ msgstr "A collectible toy that summons a Svartdvergir Summoner pet."
 msgid "desc_r_toy_swamp_hag"
 msgstr "A rare collectible Swamp Hag toy."
 
+msgid "desc_r_toy_the_blood_moon_rabbit"
+msgstr "A collectible toy that summons The Blood Moon Rabbit pet."
+
 msgid "desc_r_toy_the_white_rabbit"
 msgstr "A collectible toy that summons The White Rabbit pet."
 
@@ -21978,10 +22263,16 @@ msgstr ""
 "Double click to add 30 days of premium game time to your account. This token "
 "cannot be traded, dropped or sold, but can be stored in your bank."
 
+msgid "desc_r_ut_Hoarfrost Dye"
+msgstr "A cold blue-white dye from the Log. Bound to you."
+
 msgid "desc_r_ut_Item Skin Scroll"
 msgstr ""
 "Double click to add a new item skin to your account! This scroll cannot be "
 "traded, dropped or sold, but can be stored in your bank."
+
+msgid "desc_r_ut_Log Dyes"
+msgstr "Untradeable dyes from the Log."
 
 msgid "desc_r_ut_Mount Skin Scroll"
 msgstr ""
@@ -22005,6 +22296,9 @@ msgstr ""
 "under Cosmetics - Effects. This character only. This scroll cannot be "
 "traded, dropped or sold, but can be stored in your bank."
 
+msgid "desc_r_ut_Winter Pine Dye"
+msgstr "A deep blue-green dye from the Log. Bound to you."
+
 msgid "desc_r_ut_XP Boost 1 Hour"
 msgstr ""
 "Raises the skill experience you earn by 75% for one hour of play. Time only "
@@ -22019,6 +22313,11 @@ msgid "desc_r_ut_XP Boost 8 Hours"
 msgstr ""
 "Raises the skill experience you earn by 75% for eight hours of play. Time "
 "only passes while you are logged in, and further boosts add to it."
+
+msgid "desc_r_ut_toy_the_blood_moon_rabbit"
+msgstr ""
+"A collectible toy that summons The Blood Moon Rabbit pet. This toy cannot be "
+"traded, dropped or sold, but can be stored in your bank."
 
 msgid "desc_r_ut_toy_the_white_rabbit"
 msgstr ""
@@ -30077,6 +30376,102 @@ msgstr "Lobster Roll"
 msgid "r_Locust"
 msgstr "Locust"
 
+msgid "r_Log Cache Daily Easy"
+msgstr "Small Reward Cache"
+
+msgid "r_Log Cache Daily Hard"
+msgstr "Large Reward Cache"
+
+msgid "r_Log Cache Daily Medium"
+msgstr "Medium Reward Cache"
+
+msgid "r_Log Cache Weekly Easy"
+msgstr "Small Reward Chest"
+
+msgid "r_Log Cache Weekly Hard"
+msgstr "Large Reward Chest"
+
+msgid "r_Log Cache Weekly Medium"
+msgstr "Medium Reward Chest"
+
+msgid "r_Log Cache Weekly Very Easy"
+msgstr "Lesser Reward Chest"
+
+msgid "r_Log Cache Weekly Very Hard"
+msgstr "Grand Reward Chest"
+
+msgid "r_Log Crafted Any"
+msgstr "crafted items, any craft"
+
+msgid "r_Log Crafted Rank 100"
+msgstr "crafted items requiring skill level 100, any craft"
+
+msgid "r_Log Crafted Rank 50"
+msgstr "crafted items requiring skill level 50 or above, any craft"
+
+msgid "r_Log Crafts"
+msgstr "Things crafted"
+
+msgid "r_Log Dailies Done"
+msgstr "Dailies finished"
+
+msgid "r_Log Gathered"
+msgstr "Resources gathered (weighted)"
+
+msgid "r_Log Night Champions"
+msgstr "Champions slain at night"
+
+msgid "r_Log Night Kills"
+msgstr "Monsters slain at night"
+
+msgid "r_Log Points"
+msgstr "Log Points"
+
+msgid "r_Log PvP Glyphs"
+msgstr "Glyph captures and defences"
+
+msgid "r_Log PvP Objectives"
+msgstr "PvP objectives"
+
+msgid "r_Log PvP Sieges"
+msgstr "Siege captures and defences"
+
+msgid "r_Log PvP Village Captures"
+msgstr "Village captures"
+
+msgid "r_Log PvP War Score"
+msgstr "Faction-war score"
+
+msgid "r_Log Slayer Epic Handins"
+msgstr "Epic contracts handed in"
+
+msgid "r_Log Slayer Handins"
+msgstr "Slayer contracts handed in"
+
+msgid "r_Log Slayer Night Ladder"
+msgstr "Contract ladders finished at night"
+
+msgid "r_Log Slayer Rare Handins"
+msgstr "Rare contracts handed in"
+
+msgid "r_Log Slayer Stage Two"
+msgstr "Contracts handed in at stage 2"
+
+msgid "r_Log Slayer Top Stage"
+msgstr "Contracts taken to the top stage"
+
+msgid "r_Log Slayer Uncommon Handins"
+msgstr "Uncommon contracts handed in"
+
+msgid "r_Log Slayer Very Hard Handins"
+msgstr "Very Hard contracts handed in"
+
+msgid "r_Log Talismans Identified"
+msgstr "Talismans identified"
+
+msgid "r_Log Weeklies Done"
+msgstr "Weeklies finished"
+
 msgid "r_Logging Spawn Tree"
 msgstr "Logging Spawn Tree"
 
@@ -30967,6 +31362,9 @@ msgstr "Monster Toys"
 
 msgid "r_Monsters"
 msgstr "Monsters"
+
+msgid "r_Monthly Log"
+msgstr "The Log"
 
 msgid "r_Moon Axe"
 msgstr "Moon Axe"
@@ -32470,6 +32868,9 @@ msgstr "Pet Svartdvergir Summoner"
 
 msgid "r_Pet Swamp Hag"
 msgstr "Pet Swamp Hag"
+
+msgid "r_Pet The Blood Moon Rabbit"
+msgstr "The Blood Moon Rabbit"
 
 msgid "r_Pet The White Rabbit"
 msgstr "The White Rabbit"
@@ -34531,6 +34932,9 @@ msgstr "Slayer Cache"
 
 msgid "r_Slayer Cache Key"
 msgstr "Slayer Cache Key"
+
+msgid "r_Slayer Contract Handins"
+msgstr "Slayer Contracts"
 
 msgid "r_Slayer Contract Slot"
 msgstr "Contract Slot"
@@ -37976,6 +38380,9 @@ msgstr "Pet - Svartdvergir Summoner"
 msgid "r_toy_swamp_hag"
 msgstr "Pet - Swamp Hag"
 
+msgid "r_toy_the_blood_moon_rabbit"
+msgstr "The Blood Moon Rabbit Toy"
+
 msgid "r_toy_the_white_rabbit"
 msgstr "Pet - The White Rabbit"
 
@@ -38095,6 +38502,9 @@ msgstr "Title Scroll (Untradable)"
 
 msgid "r_ut_Twilight Aura Scroll"
 msgstr "Twilight Aura Scroll (Untradable)"
+
+msgid "r_ut_toy_the_blood_moon_rabbit"
+msgstr "The Blood Moon Rabbit Toy (Untradable)"
 
 msgid "r_ut_toy_the_white_rabbit"
 msgstr "Pet - The White Rabbit (Untradable)"

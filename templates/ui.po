@@ -4068,6 +4068,9 @@ msgstr "Activate"
 msgid "cosmetic_selection_saved"
 msgstr "Spell appearance saved."
 
+msgid "cosmetic_shop_weapon_all_types"
+msgstr "All weapons"
+
 msgid "cosmetic_spell_skins"
 msgstr "Spell Skins"
 
@@ -4282,6 +4285,39 @@ msgstr ""
 
 msgid "desc_skin_blackbolt_yssam"
 msgstr "Moss and weathered bronze adorn this Yssam-inspired Blackbolt skin."
+
+msgid "desc_skin_bloodmoon_alfar_claymore"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_alfar_kriss"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_doublestring_bow"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_dragon_tail"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_enigma"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_mahirim_moonblade"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_minotaur_great_axe"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_mirdain_spellstaff"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_moon_axe"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_star_of_eanna"
+msgstr "Deep crimson and black, from the Blood Moon."
+
+msgid "desc_skin_bloodmoon_war_maul"
+msgstr "Deep crimson and black, from the Blood Moon."
 
 msgid "desc_skin_founder_legends_gold"
 msgstr ""
@@ -7038,6 +7074,136 @@ msgstr "Use a Loadout Slot Token to unlock more slots"
 msgid "loadout_unknown_resource"
 msgstr "Unknown (%1)"
 
+msgid "log_lesson_back"
+msgstr "Back"
+
+msgid "log_lesson_got_it"
+msgstr "Got it"
+
+msgid "log_lesson_next"
+msgstr "Next"
+
+msgid "log_lesson_page1_text"
+msgstr ""
+"Every task you finish adds Log points. Marks at {marks}, the featured prize "
+"at {bar}. When a Log ends, the next one starts from 0."
+
+msgid "log_lesson_page1_title"
+msgstr "Fill the bar"
+
+msgid "log_lesson_page2_text"
+msgstr ""
+"Every task counts while you play. Claim one daily a day and one weekly a "
+"week; the rest lock until the reset at {reset}:00 UTC. Forget to claim, and "
+"your best finished one is claimed for you."
+
+msgid "log_lesson_page2_title"
+msgstr "One daily, one weekly"
+
+msgid "log_lesson_page3_text"
+msgstr "One-time goals for this Log, worth extra Log points. They never lock."
+
+msgid "log_lesson_page3_title"
+msgstr "Feats"
+
+msgid "log_lesson_subtitle"
+msgstr "How the Log pays."
+
+msgid "log_lesson_title"
+msgstr "The Log"
+
+msgid "log_month_202610"
+msgstr "Blood Moon"
+
+msgid "log_month_202611"
+msgstr "Blood Moon"
+
+msgid "log_window_card_at"
+msgstr "%1 points"
+
+msgid "log_window_done_daily"
+msgstr "Claimed today"
+
+msgid "log_window_done_weekly"
+msgstr "Claimed this week"
+
+msgid "log_window_earned"
+msgstr "Earned"
+
+msgid "log_window_featured_earned"
+msgstr "Earned: sent to your bank"
+
+msgid "log_window_featured_heading"
+msgstr "Featured reward"
+
+msgid "log_window_featured_none"
+msgstr "To be announced"
+
+msgid "log_window_kind_item"
+msgstr "Arrives in your bank."
+
+msgid "log_window_kind_mount_skin"
+msgstr "Mount skin. Arrives in your bank as a scroll."
+
+msgid "log_window_kind_mount_skin_ut"
+msgstr "Mount skin. Arrives in your bank as an untradeable scroll."
+
+msgid "log_window_kind_title"
+msgstr "Title. Unlocked at once for every character on your account."
+
+msgid "log_window_locked"
+msgstr "Locked"
+
+msgid "log_window_marks_text"
+msgstr ""
+"Spend Marks at the Lantern Pedlar beside every Slayer board. He sells while "
+"the Log runs."
+
+msgid "log_window_milestone_heading"
+msgstr "Milestone"
+
+msgid "log_window_paid_at"
+msgstr "Paid at %1 points"
+
+msgid "log_window_pick_daily"
+msgstr "Claim 1 a day"
+
+msgid "log_window_pick_weekly"
+msgstr "Claim 1 a week"
+
+msgid "log_window_ready"
+msgstr "Ready"
+
+msgid "log_window_side_all"
+msgstr "All"
+
+msgid "log_window_side_crafting"
+msgstr "Crafting"
+
+msgid "log_window_side_gathering"
+msgstr "Gathering"
+
+msgid "log_window_side_harvesting"
+msgstr "Harvesting"
+
+msgid "log_window_side_hunting"
+msgstr "Hunting"
+
+msgid "log_window_side_pvp"
+msgstr "PvP"
+
+msgid "log_window_side_slayer"
+msgstr "Slayer"
+
+msgid "log_window_tab_done"
+msgstr "%1 of %2 done"
+
+msgid "log_window_title_heading"
+msgstr "Title"
+
+msgid "log_window_to_go"
+msgstr "%1 to go"
+
 msgid "loot_all_button"
 msgstr "Loot All"
 
@@ -7115,6 +7281,9 @@ msgstr "Item Counter"
 
 msgid "mainmenu_journal"
 msgstr "Journal"
+
+msgid "mainmenu_log"
+msgstr "Log"
 
 msgid "mainmenu_maps"
 msgstr "Maps"
@@ -8403,6 +8572,42 @@ msgstr "Duration: "
 msgid "market_update_select_order"
 msgstr "Select order to change"
 
+msgid "marks_vendor_bought_window"
+msgstr "Bought - sent to your bank."
+
+msgid "marks_vendor_marks"
+msgstr "Marks"
+
+msgid "marks_vendor_opens"
+msgstr "Opens %1 UTC"
+
+msgid "marks_vendor_price"
+msgstr "%1 Marks"
+
+msgid "marks_vendor_shut"
+msgstr "Closed until the next Log"
+
+msgid "marks_vendor_tab_dyes"
+msgstr "Dyes"
+
+msgid "marks_vendor_tab_emotes"
+msgstr "Emotes"
+
+msgid "marks_vendor_tab_mount_skins"
+msgstr "Mount Skins"
+
+msgid "marks_vendor_tab_other"
+msgstr "Other"
+
+msgid "marks_vendor_tab_spell_skins"
+msgstr "Spell Skins"
+
+msgid "marks_vendor_tab_titles"
+msgstr "Titles"
+
+msgid "marks_vendor_tab_weapon_skins"
+msgstr "Weapon Skins"
+
 msgid "mastery_activate_button"
 msgstr "Activate %1"
 
@@ -9629,6 +9834,9 @@ msgstr "Paid in souls"
 
 msgid "mastery_trials_done_count"
 msgstr "Trials done: %1 of %2"
+
+msgid "mastery_trials_gates_open"
+msgstr "Mastery Trials are gone: every mastery levels to 50 on its own."
 
 msgid "mastery_trials_hand_in"
 msgstr "Hand in"
@@ -12915,6 +13123,36 @@ msgstr "%1:%2 hours"
 msgid "task_title_rewards"
 msgstr "Title Rewards"
 
+msgid "taskbook_badge_champion"
+msgstr "Champion"
+
+msgid "taskbook_badge_gathering"
+msgstr "Gathering"
+
+msgid "taskbook_badge_log"
+msgstr "Log"
+
+msgid "taskbook_badge_slayer"
+msgstr "Slayer"
+
+msgid "taskbook_badge_world_boss"
+msgstr "World Boss"
+
+msgid "taskbook_band_easy"
+msgstr "Easy"
+
+msgid "taskbook_band_hard"
+msgstr "Hard"
+
+msgid "taskbook_band_medium"
+msgstr "Medium"
+
+msgid "taskbook_band_very_easy"
+msgstr "Very Easy"
+
+msgid "taskbook_band_very_hard"
+msgstr "Very Hard"
+
 msgid "taskbook_category_beginner"
 msgstr "Beginner"
 
@@ -12927,6 +13165,9 @@ msgstr "Daily"
 msgid "taskbook_category_gathering"
 msgstr "Gathering"
 
+msgid "taskbook_category_log"
+msgstr "Log"
+
 msgid "taskbook_category_slayer"
 msgstr "Slayer"
 
@@ -12938,6 +13179,66 @@ msgstr "Weekly"
 
 msgid "taskbook_difficulty"
 msgstr "Difficulty:"
+
+msgid "taskbook_log_cadence_daily"
+msgstr "Daily"
+
+msgid "taskbook_log_cadence_monthly"
+msgstr "Feat"
+
+msgid "taskbook_log_cadence_weekly"
+msgstr "Weekly"
+
+msgid "taskbook_log_claim"
+msgstr "Claim"
+
+msgid "taskbook_log_claim_note_daily"
+msgstr "Your one daily for today."
+
+msgid "taskbook_log_claim_note_weekly"
+msgstr "Your one weekly for this week."
+
+msgid "taskbook_log_detail_line"
+msgstr "%1 - %2"
+
+msgid "taskbook_log_empty"
+msgstr "No Log tasks right now."
+
+msgid "taskbook_log_ends_in"
+msgstr "Ends in %1"
+
+msgid "taskbook_log_marks"
+msgstr "Marks %1"
+
+msgid "taskbook_log_month_default"
+msgstr "The Log"
+
+msgid "taskbook_log_pip_featured"
+msgstr "Featured"
+
+msgid "taskbook_log_pip_marks"
+msgstr "%1 Marks"
+
+msgid "taskbook_log_points"
+msgstr "%1 / %2"
+
+msgid "taskbook_log_ready"
+msgstr "Ready to claim"
+
+msgid "taskbook_log_resets_in"
+msgstr "Resets in %1"
+
+msgid "taskbook_log_section_daily"
+msgstr "Dailies"
+
+msgid "taskbook_log_section_done"
+msgstr "%1 / %2 done"
+
+msgid "taskbook_log_section_monthly"
+msgstr "Feats"
+
+msgid "taskbook_log_section_weekly"
+msgstr "Weeklies"
 
 msgid "taskbook_make_priority"
 msgstr "Make Priority Task:"
