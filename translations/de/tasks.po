@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-10-24 18:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "tasks/de/>\n"
@@ -4341,6 +4341,7 @@ msgstr ""
 msgid "name_task_183"
 msgstr "Kunstbärenjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_183"
 msgstr "Tötet Bären in dieser täglichen Aufgabe."
 
@@ -4366,6 +4367,7 @@ msgstr ""
 "Jagd auf Zentauren, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_185"
 msgstr "Baumwollsammler - täglich"
 
@@ -4380,20 +4382,25 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Baumwolle zu sammeln."
 
+#, fuzzy
 msgid "name_task_186"
 msgstr "Crog Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_186"
 msgstr "Slay Crogs in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_186_stage_1"
 msgstr "Slay Crogs in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "desc_task_186_stage_1"
 msgstr ""
-"Jagt Crogs, aber hütet euch vor anderen Jägern, damit ihr nicht die Gejagten"
-" werdet!"
+"Jagt Crogs, aber hütet euch vor anderen Jägern, damit ihr nicht die Gejagten "
+"werdet!"
 
+#, fuzzy
 msgid "name_task_187"
 msgstr "Fischfang - täglich"
 
@@ -4408,12 +4415,15 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit zum Fischen zu gehen."
 
+#, fuzzy
 msgid "name_task_188"
 msgstr "Geisterjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_188"
 msgstr "Töte Geister in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_188_stage_1"
 msgstr "Töte Geister in dieser täglichen Aufgabe."
 
@@ -4492,6 +4502,7 @@ msgstr ""
 "Jagd auf menschliche Gildenmeister, aber hüte dich vor anderen Jägern, damit"
 " du nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_194"
 msgstr "Eisensammeln - täglich"
 
@@ -4520,12 +4531,15 @@ msgstr ""
 "Jagd auf Matayins, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_196"
 msgstr "Minotaurusjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_196"
 msgstr "Töte Minotauren in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_196_stage_1"
 msgstr "Töte Minotauren in dieser täglichen Aufgabe."
 
@@ -4534,6 +4548,7 @@ msgstr ""
 "Jagt Minotauren, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_197"
 msgstr "Eichenholzsammeln - täglich"
 
@@ -4590,12 +4605,15 @@ msgstr ""
 "Jagd auf Wiedergänger, aber hüte dich vor anderen Jägern, damit du nicht der"
 " Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_201"
 msgstr "Snowclan Archmage Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_201"
 msgstr "Slay Snowclan Erzmagier in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_201_stage_1"
 msgstr "Slay Snowclan Erzmagier in dieser täglichen Aufgabe."
 
@@ -4618,6 +4636,7 @@ msgstr ""
 "Jagd auf Spinnen, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_203"
 msgstr "Steinsammlung - täglich"
 
@@ -4646,12 +4665,15 @@ msgstr ""
 "Jagd auf thailändische Wachen, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_205"
 msgstr "Varangenjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_205"
 msgstr "Slay Varangians in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_205_stage_1"
 msgstr "Slay Varangians in dieser täglichen Aufgabe."
 
@@ -4688,12 +4710,15 @@ msgstr ""
 "Jagt Zombies, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_208"
 msgstr "Alte Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_208"
 msgstr "Töte die Alten in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_208_stage_1"
 msgstr "Töte die Alten in dieser täglichen Aufgabe."
 
@@ -4702,12 +4727,15 @@ msgstr ""
 "Jagd auf die Alten, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_209"
 msgstr "Baradron Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_209"
 msgstr "Töte Baradrons in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_209_stage_1"
 msgstr "Töte Baradrons in dieser täglichen Aufgabe."
 
@@ -4716,12 +4744,15 @@ msgstr ""
 "Jagt Baradren, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_210"
 msgstr "Behemoth-Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_210"
 msgstr "Töte Giganten in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_210_stage_1"
 msgstr "Töte Giganten in dieser täglichen Aufgabe."
 
@@ -4730,12 +4761,15 @@ msgstr ""
 "Jagt Giganten, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_211"
 msgstr "Eodrin Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_211"
 msgstr "Töte Eodrine in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_211_stage_1"
 msgstr "Töte Eodrine in dieser täglichen Aufgabe."
 
@@ -4744,12 +4778,15 @@ msgstr ""
 "Jagd auf Eodrine, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_212"
 msgstr "Erodach-Jagd – täglich"
 
+#, fuzzy
 msgid "short_desc_task_212"
 msgstr "Slay Erodachs in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_212_stage_1"
 msgstr "Slay Erodachs in dieser täglichen Aufgabe."
 
@@ -4758,12 +4795,15 @@ msgstr ""
 "Jagd auf Erodachs, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_213"
 msgstr "Wald-Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_213"
 msgstr "Töte Waldgolems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_213_stage_1"
 msgstr "Töte Waldgolems in dieser täglichen Aufgabe."
 
@@ -4772,12 +4812,15 @@ msgstr ""
 "Jagd nach Waldgolems, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_214"
 msgstr "Jotunn Hunt - täglich"
 
+#, fuzzy
 msgid "short_desc_task_214"
 msgstr "Slay Jotunns in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_214_stage_1"
 msgstr "Slay Jotunns in dieser täglichen Aufgabe."
 
@@ -4786,12 +4829,15 @@ msgstr ""
 "Jagd auf Jotunns, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_215"
 msgstr "Leenspar Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_215"
 msgstr "Slay leenspar Golems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_215_stage_1"
 msgstr "Slay leenspar Golems in dieser täglichen Aufgabe."
 
@@ -4800,12 +4846,15 @@ msgstr ""
 "Jagd auf leenspar Golems, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_216"
 msgstr "Minotaurus Königsjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_216"
 msgstr "Töte Minotauruskönige in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_216_stage_1"
 msgstr "Töte Minotauruskönige in dieser täglichen Aufgabe."
 
@@ -4814,12 +4863,15 @@ msgstr ""
 "Jagt Minotauruskönige, aber hütet euch vor anderen Jägern, damit ihr nicht "
 "die Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_217"
 msgstr "Neithal Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_217"
 msgstr "Slay neithal Golems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_217_stage_1"
 msgstr "Slay neithal Golems in dieser täglichen Aufgabe."
 
@@ -4828,12 +4880,15 @@ msgstr ""
 "Jagd auf neithal Golems, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_218"
 msgstr "Eichensalbeijagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_218"
 msgstr "Slay Oak Weisen in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_218_stage_1"
 msgstr "Slay Oak Weisen in dieser täglichen Aufgabe."
 
@@ -4842,12 +4897,15 @@ msgstr ""
 "Jagt Eichen-Weise, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_219"
 msgstr "Skorpionkönigsjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_219"
 msgstr "Töte Skorpionkönige in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_219_stage_1"
 msgstr "Töte Skorpionkönige in dieser täglichen Aufgabe."
 
@@ -4856,12 +4914,15 @@ msgstr ""
 "Jagd auf Skorpionkönige, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_220"
 msgstr "Geißeljagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_220"
 msgstr "Slayges geißelt in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_220_stage_1"
 msgstr "Slayges geißelt in dieser täglichen Aufgabe."
 
@@ -4870,12 +4931,15 @@ msgstr ""
 "Jagd auf Geißeln, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_221"
 msgstr "Selentine Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_221"
 msgstr "Slay selentine Golems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_221_stage_1"
 msgstr "Slay selentine Golems in dieser täglichen Aufgabe."
 
@@ -4884,12 +4948,15 @@ msgstr ""
 "Jagd auf selentine Golems, aber hüte dich vor anderen Jägern, damit du nicht"
 " der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_222"
 msgstr "Schneeclan-Orakeljagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_222"
 msgstr "Slay Snowclan Orakel in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_222_stage_1"
 msgstr "Slay Snowclan Orakel in dieser täglichen Aufgabe."
 
@@ -4898,12 +4965,15 @@ msgstr ""
 "Jagd nach Schneeclan-Orakeln, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_223"
 msgstr "Theyril Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_223"
 msgstr "Slay theyril Golems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_223_stage_1"
 msgstr "Slay theyril Golems in dieser täglichen Aufgabe."
 
@@ -4912,12 +4982,15 @@ msgstr ""
 "Jagd auf theyril Golems, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_224"
 msgstr "Titanenjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_224"
 msgstr "Töte Titanen in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_224_stage_1"
 msgstr "Töte Titanen in dieser täglichen Aufgabe."
 
@@ -4926,12 +4999,15 @@ msgstr ""
 "Jagd auf Titanen, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_225"
 msgstr "Veilron Golemjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_225"
 msgstr "Slay veilron Golems in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_225_stage_1"
 msgstr "Slay veilron Golems in dieser täglichen Aufgabe."
 
@@ -4940,12 +5016,15 @@ msgstr ""
 "Jagd auf veilron Golems, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_226"
 msgstr "Wildtribe Shaka Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_226"
 msgstr "Töte wildtribe shakas in dieser täglichen aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_226_stage_1"
 msgstr "Töte wildtribe shakas in dieser täglichen aufgabe."
 
@@ -4955,12 +5034,15 @@ msgstr ""
 "Jagd auf Geißeln, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_227"
 msgstr "Wraith Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_227"
 msgstr "Slay Wraiths in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_227_stage_1"
 msgstr "Slay Wraiths in dieser täglichen Aufgabe."
 
@@ -5025,12 +5107,15 @@ msgstr ""
 "Jagd auf schwarze Ritter, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_232"
 msgstr "Black Lord Hunt - täglich"
 
+#, fuzzy
 msgid "short_desc_task_232"
 msgstr "Töte schwarze Lords in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_232_stage_1"
 msgstr "Töte schwarze Lords in dieser täglichen Aufgabe."
 
@@ -5042,23 +5127,29 @@ msgstr ""
 msgid "name_task_233"
 msgstr "Kind von Khamset Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_233"
 msgstr "Töte das Kind der Khamsets in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_233_stage_1"
 msgstr "Töte das Kind der Khamsets in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "desc_task_233_stage_1"
 msgstr ""
 "Jagd auf ein Kind von Khamsets, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_234"
 msgstr "Ausgewählt von Khamset Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_234"
 msgstr "Slay ausgewählt von khamset in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_234_stage_1"
 msgstr "Slay ausgewählt von khamset in dieser täglichen Aufgabe."
 
@@ -5067,12 +5158,15 @@ msgstr ""
 "Jagd unten gewählt von khamset, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_235"
 msgstr "Dark Dragon Hunt - täglich"
 
+#, fuzzy
 msgid "short_desc_task_235"
 msgstr "Töte dunkle Drachen bei dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_235_stage_1"
 msgstr "Töte dunkle Drachen bei dieser täglichen Aufgabe."
 
@@ -5081,12 +5175,15 @@ msgstr ""
 "Jagd auf dunkle Drachen, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_236"
 msgstr "Darkshade-Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_236"
 msgstr "Slay Darkshade in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_236_stage_1"
 msgstr "Slay Darkshade in dieser täglichen Aufgabe."
 
@@ -5109,12 +5206,15 @@ msgstr ""
 "Jagd auf die Weibchen der Waldpropheten, aber hüte dich vor anderen Jägern, "
 "damit du nicht zum Gejagten wirst!"
 
+#, fuzzy
 msgid "name_task_238"
 msgstr "Gardoroc Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_238"
 msgstr "Slay Gardorocs in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_238_stage_1"
 msgstr "Slay Gardorocs in dieser täglichen Aufgabe."
 
@@ -5123,12 +5223,15 @@ msgstr ""
 "Jagt Gardorocs, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_239"
 msgstr "Gargantua Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_239"
 msgstr "Slay Gargantuas in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_239_stage_1"
 msgstr "Slay Gargantuas in dieser täglichen Aufgabe."
 
@@ -5137,12 +5240,15 @@ msgstr ""
 "Jagt Gargantuas, aber hütet euch vor anderen Jägern, damit ihr nicht die "
 "Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_240"
 msgstr "Himmelsjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_240"
 msgstr "Töte größere Himmlische in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_240_stage_1"
 msgstr "Töte größere Himmlische in dieser täglichen Aufgabe."
 
@@ -5151,12 +5257,15 @@ msgstr ""
 "Jagd auf größere Himmelskörper, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_241"
 msgstr "Höllenjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_241"
 msgstr "Töte größere Höllen in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_241_stage_1"
 msgstr "Töte größere Höllen in dieser täglichen Aufgabe."
 
@@ -5165,12 +5274,15 @@ msgstr ""
 "Jagt größere Höllen, aber hütet euch vor anderen Jägern, damit ihr nicht die"
 " Gejagten werdet!"
 
+#, fuzzy
 msgid "name_task_242"
 msgstr "Größere Mumienjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_242"
 msgstr "Töte größere Mumien bei dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_242_stage_1"
 msgstr "Töte größere nmummies in dieser täglichen Aufgabe."
 
@@ -5179,12 +5291,15 @@ msgstr ""
 "Jagd auf größere Mumien, aber hüte dich vor anderen Jägern, damit du nicht "
 "der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_243"
 msgstr "Wächterjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_243"
 msgstr "Töte die Wächter in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_243_stage_1"
 msgstr "Töte die Wächter in dieser täglichen Aufgabe."
 
@@ -5207,12 +5322,15 @@ msgstr ""
 "Jagd auf menhir Hüter, aber hüte dich vor anderen Jägern, damit du nicht der"
 " Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_245"
 msgstr "Menhir Jagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_245"
 msgstr "Töte Menhire in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_245_stage_1"
 msgstr "Töte Menhire in dieser täglichen Aufgabe."
 
@@ -5221,12 +5339,15 @@ msgstr ""
 "Jagd auf Menhire, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_246"
 msgstr "Minotaurus brute hunt - täglich"
 
+#, fuzzy
 msgid "short_desc_task_246"
 msgstr "Töte Minotaurus in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_246_stage_1"
 msgstr "Töte Minotaurus in dieser täglichen Aufgabe."
 
@@ -5291,12 +5412,15 @@ msgstr ""
 "Jagd auf Ritter, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_251"
 msgstr "Snowclan Stürmerjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_251"
 msgstr "Slay Snowclan Striker in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_251_stage_1"
 msgstr "Slay Snowclan Strikers in dieser täglichen Aufgabe."
 
@@ -5305,12 +5429,15 @@ msgstr ""
 "Jagd auf Snowclan Strikers, aber hüte dich vor anderen Jägern, damit du "
 "nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_252"
 msgstr "Sonnenexarchenjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_252"
 msgstr "Slay Sun Exarchen in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_252_stage_1"
 msgstr "Slay Sun Exarchen in dieser täglichen Aufgabe."
 
@@ -5333,12 +5460,15 @@ msgstr ""
 "Jagd auf Tiger, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_254"
 msgstr "Treant Hunt - täglich"
 
+#, fuzzy
 msgid "short_desc_task_254"
 msgstr "Töte Treants in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_254_stage_1"
 msgstr "Töte Treants in dieser täglichen Aufgabe."
 
@@ -5347,12 +5477,15 @@ msgstr ""
 "Jagd auf Treants, aber hüte dich vor anderen Jägern, damit du nicht der "
 "Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_255"
 msgstr "Varangian Warthanjagd - täglich"
 
+#, fuzzy
 msgid "short_desc_task_255"
 msgstr "Slay varangian Warthane in dieser täglichen Aufgabe."
 
+#, fuzzy
 msgid "short_desc_task_255_stage_1"
 msgstr "Slay varangian Warthane in dieser täglichen Aufgabe."
 
@@ -5389,9 +5522,11 @@ msgstr ""
 "Jagd auf wilde Stammeshäuptlinge, aber hüte dich vor anderen Jägern, damit "
 "du nicht der Gejagte wirst!"
 
+#, fuzzy
 msgid "name_task_258"
 msgstr "Häuptling Khalos Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_258"
 msgstr "Chieftain Khalos in dieser wöchentlichen Aufgabe."
 
@@ -5401,6 +5536,7 @@ msgstr "Töte Häuptling Khalos."
 msgid "desc_task_258_stage_1"
 msgstr "Betretet die Domäne von Chieftain Khalos und tötet ihn."
 
+#, fuzzy
 msgid "name_task_259"
 msgstr "Baumwollsammler - wöchentlich"
 
@@ -5415,9 +5551,11 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Baumwolle zu sammeln."
 
+#, fuzzy
 msgid "name_task_260"
 msgstr "Fenris alpha hunt - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_260"
 msgstr "Slay Fenris Alpha in dieser wöchentlichen Aufgabe."
 
@@ -5427,6 +5565,7 @@ msgstr "Slay Fenris Alpha"
 msgid "desc_task_260_stage_1"
 msgstr "Betrete die Domäne von Fenris Alpha und töte ihn."
 
+#, fuzzy
 msgid "name_task_261"
 msgstr "Fischfang - wöchentlich"
 
@@ -5441,9 +5580,11 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Fische zu sammeln."
 
+#, fuzzy
 msgid "name_task_262"
 msgstr "Grand Tikoloshe Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_262"
 msgstr "Slay Grand Tikoloshe in dieser wöchentlichen Aufgabe."
 
@@ -5453,9 +5594,11 @@ msgstr "Töte Grand Tikoloshe."
 msgid "desc_task_262_stage_1"
 msgstr "Betritt die Domäne von Grand Tikoloshe und töte ihn."
 
+#, fuzzy
 msgid "name_task_263"
 msgstr "Höllenfeuer-Jggernaught Hunt - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_263"
 msgstr "Hellfire Juggernaught bei dieser wöchentlichen Aufgabe."
 
@@ -5465,9 +5608,11 @@ msgstr "Töte Hellfire Juggernaught."
 msgid "desc_task_263_stage_1"
 msgstr "Betretet die Domäne von Hellfire Juggernaught und tötet ihn."
 
+#, fuzzy
 msgid "name_task_264"
 msgstr "Hjor die große Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_264"
 msgstr "Hjor der Große in dieser wöchentlichen Aufgabe."
 
@@ -5477,9 +5622,11 @@ msgstr "Slay Hjor der Große."
 msgid "desc_task_264_stage_1"
 msgstr "Betretet die Domäne von Hjor dem Großen und tötet ihn."
 
+#, fuzzy
 msgid "name_task_265"
 msgstr "Ironbark die alte Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_265"
 msgstr "Slay Ironbark the Ancient in dieser wöchentlichen Aufgabe."
 
@@ -5489,9 +5636,11 @@ msgstr "Slay Ironbark der Alte."
 msgid "desc_task_265_stage_1"
 msgstr "Betritt die Domäne von Ironbark dem Alten und töte ihn."
 
+#, fuzzy
 msgid "name_task_266"
 msgstr "Ironbeard Heavyfist Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_266"
 msgstr "Slay Ironbeard Heavyfist in dieser wöchentlichen Aufgabe."
 
@@ -5501,6 +5650,7 @@ msgstr "Slay Ironbeard Heavyfist"
 msgid "desc_task_266_stage_1"
 msgstr "Betritt die Domäne von Ironbeard Heavyfist und töte ihn."
 
+#, fuzzy
 msgid "name_task_267"
 msgstr "Eisensammeln - wöchentlich"
 
@@ -5515,9 +5665,11 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Eisenerz zu sammeln."
 
+#, fuzzy
 msgid "name_task_268"
 msgstr "Siharo Darkbinder Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_268"
 msgstr "Slay Siharo Darkbinder in dieser wöchentlichen Aufgabe."
 
@@ -5527,6 +5679,7 @@ msgstr "Töte Siharo Darkbinder."
 msgid "desc_task_268_stage_1"
 msgstr "Betritt die Domäne von Siharo Darkbinder und töte sie."
 
+#, fuzzy
 msgid "name_task_269"
 msgstr "Steinsammlung - wöchentlich"
 
@@ -5541,6 +5694,7 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Stein zu sammeln."
 
+#, fuzzy
 msgid "name_task_270"
 msgstr "Holzsammeln - wöchentlich"
 
@@ -5555,9 +5709,11 @@ msgstr ""
 "Arbeit ist immer für diejenigen verfügbar, die bereit sind, Ressourcen zu "
 "erhalten. Zeit, Holz zu sammeln."
 
+#, fuzzy
 msgid "name_task_271"
 msgstr "Vlad duskward Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_271"
 msgstr "Slay vlad duskward in dieser wöchentlichen aufgabe."
 
@@ -5567,9 +5723,11 @@ msgstr "Töte Vlad Duskward."
 msgid "desc_task_271_stage_1"
 msgstr "Betretet die Domäne von Vlad Duskward und tötet ihn."
 
+#, fuzzy
 msgid "name_task_272"
 msgstr "Warlord Chuppah Jagd - wöchentlich"
 
+#, fuzzy
 msgid "short_desc_task_272"
 msgstr "Slay Warlord Choppah in dieser wöchentlichen Aufgabe."
 
