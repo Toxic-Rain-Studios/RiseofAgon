@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-10-24 18:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/tasks/zh_Hans/>\n"
@@ -3070,6 +3070,7 @@ msgstr "追捕猎杀者,但要提防其他猎人,以免你成为猎物!"
 msgid "name_task_183"
 msgstr "雪熊阿特狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_183"
 msgstr "在这个日常任务中杀死雪熊阿特."
 
@@ -3091,6 +3092,7 @@ msgstr "在这个日常任务中杀死半人马."
 msgid "desc_task_184_stage_1"
 msgstr "追捕半人马,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_185"
 msgstr "棉花采集 - 每日"
 
@@ -3103,18 +3105,23 @@ msgstr "收集棉花."
 msgid "desc_task_185_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候收棉花了."
 
+#, fuzzy
 msgid "name_task_186"
 msgstr "克罗格狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_186"
 msgstr "在这个日常任务中杀死克罗格."
 
+#, fuzzy
 msgid "short_desc_task_186_stage_1"
 msgstr "在这个日常任务中杀死克罗格."
 
+#, fuzzy
 msgid "desc_task_186_stage_1"
 msgstr "追捕克罗格,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_187"
 msgstr "钓鱼 - 每日"
 
@@ -3127,12 +3134,15 @@ msgstr "钓鱼."
 msgid "desc_task_187_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候去钓鱼了."
 
+#, fuzzy
 msgid "name_task_188"
 msgstr "幽灵狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_188"
 msgstr "在这个日常任务中杀死幽灵."
 
+#, fuzzy
 msgid "short_desc_task_188_stage_1"
 msgstr "在这个日常任务中杀死幽灵."
 
@@ -3199,6 +3209,7 @@ msgstr "在这个日常任务中杀死人类会长."
 msgid "desc_task_193_stage_1"
 msgstr "追捕人类会长,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_194"
 msgstr "铁矿收集 - 每日"
 
@@ -3223,18 +3234,22 @@ msgstr "在这个日常任务中杀死马泰因."
 msgid "desc_task_195_stage_1"
 msgstr "追捕马泰因,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_196"
 msgstr "牛头人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_196"
 msgstr "在这个日常任务中杀死牛头人."
 
+#, fuzzy
 msgid "short_desc_task_196_stage_1"
 msgstr "在这个日常任务中杀死牛头人."
 
 msgid "desc_task_196_stage_1"
 msgstr "追捕牛头人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_197"
 msgstr "橡木收集 - 每日"
 
@@ -3283,12 +3298,15 @@ msgstr "在这个日常任务中杀死亡魂."
 msgid "desc_task_200_stage_1"
 msgstr "追捕亡魂,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_201"
 msgstr "雪族大法师狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_201"
 msgstr "在这个日常任务中杀死雪族大法师."
 
+#, fuzzy
 msgid "short_desc_task_201_stage_1"
 msgstr "在这个日常任务中杀死雪族大法师."
 
@@ -3307,6 +3325,7 @@ msgstr "在这个日常任务中杀死蜘蛛."
 msgid "desc_task_202_stage_1"
 msgstr "追捕蜘蛛,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_203"
 msgstr "石头收集- 每日"
 
@@ -3331,12 +3350,15 @@ msgstr "在这个日常任务中杀死鸟族守卫."
 msgid "desc_task_204_stage_1"
 msgstr "追捕鸟族守卫,但要小心其他猎人,以免你成为追捕!"
 
+#, fuzzy
 msgid "name_task_205"
 msgstr "瓦兰吉狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_205"
 msgstr "在这个日常任务中杀死瓦兰吉人."
 
+#, fuzzy
 msgid "short_desc_task_205_stage_1"
 msgstr "在这个日常任务中杀死瓦兰吉人."
 
@@ -3367,228 +3389,285 @@ msgstr "在这个日常任务中杀死僵尸."
 msgid "desc_task_207_stage_1"
 msgstr "追捕僵尸,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_208"
 msgstr "古人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_208"
 msgstr "在这个日常任务中杀死古人."
 
+#, fuzzy
 msgid "short_desc_task_208_stage_1"
 msgstr "在这个日常任务中杀死古人."
 
 msgid "desc_task_208_stage_1"
 msgstr "追捕古人,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_209"
 msgstr "树魔王狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_209"
 msgstr "在这个日常任务中杀死树魔王."
 
+#, fuzzy
 msgid "short_desc_task_209_stage_1"
 msgstr "在这个日常任务中杀死树魔王."
 
 msgid "desc_task_209_stage_1"
 msgstr "追捕树魔王,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_210"
 msgstr "比蒙狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_210"
 msgstr "在这个日常任务中杀死比蒙巨兽."
 
+#, fuzzy
 msgid "short_desc_task_210_stage_1"
 msgstr "在这个日常任务中杀死比蒙巨兽."
 
 msgid "desc_task_210_stage_1"
 msgstr "追捕比蒙巨兽,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_211"
 msgstr "螳螂统领狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_211"
 msgstr "在这个日常任务中杀死螳螂统领."
 
+#, fuzzy
 msgid "short_desc_task_211_stage_1"
 msgstr "在这个日常任务中杀死螳螂统领."
 
 msgid "desc_task_211_stage_1"
 msgstr "追捕螳螂统领,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_212"
 msgstr "巨蝎塞洛狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_212"
 msgstr "在这个日常任务中, 杀死巨蝎塞洛."
 
+#, fuzzy
 msgid "short_desc_task_212_stage_1"
 msgstr "在这个日常任务中, 杀死巨蝎塞洛."
 
 msgid "desc_task_212_stage_1"
 msgstr "追捕巨蝎塞洛,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_213"
 msgstr "森林巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_213"
 msgstr "在这个日常任务中杀死森林巨人."
 
+#, fuzzy
 msgid "short_desc_task_213_stage_1"
 msgstr "在这个日常任务中杀死森林巨人."
 
 msgid "desc_task_213_stage_1"
 msgstr "追捕森林巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_214"
 msgstr "约顿狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_214"
 msgstr "在这个日常任务中杀死约顿."
 
+#, fuzzy
 msgid "short_desc_task_214_stage_1"
 msgstr "在这个日常任务中杀死约顿."
 
 msgid "desc_task_214_stage_1"
 msgstr "追捕约顿,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_215"
 msgstr "红炎巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_215"
 msgstr "在这个日常任务中杀死红炎巨人."
 
+#, fuzzy
 msgid "short_desc_task_215_stage_1"
 msgstr "在这个日常任务中杀死红炎巨人."
 
 msgid "desc_task_215_stage_1"
 msgstr "追捕红炎巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_216"
 msgstr "牛头人之王狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_216"
 msgstr "在这个日常任务中杀死牛头人之王."
 
+#, fuzzy
 msgid "short_desc_task_216_stage_1"
 msgstr "在这个日常任务中杀死牛头人之王."
 
 msgid "desc_task_216_stage_1"
 msgstr "追捕牛头人之王,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_217"
 msgstr "蓝锭巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_217"
 msgstr "在这个日常任务中杀死蓝锭巨人."
 
+#, fuzzy
 msgid "short_desc_task_217_stage_1"
 msgstr "在这个日常任务中杀死蓝锭巨人."
 
 msgid "desc_task_217_stage_1"
 msgstr "追捕蓝锭巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_218"
 msgstr "橡木智者狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_218"
 msgstr "在这个日常任务中杀死橡木智者."
 
+#, fuzzy
 msgid "short_desc_task_218_stage_1"
 msgstr "在这个日常任务中杀死橡木智者."
 
 msgid "desc_task_218_stage_1"
 msgstr "追捕橡木智者,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_219"
 msgstr "蝎王狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_219"
 msgstr "在这个日常任务中杀死西部蝎王."
 
+#, fuzzy
 msgid "short_desc_task_219_stage_1"
 msgstr "在这个日常任务中杀死西部蝎王."
 
 msgid "desc_task_219_stage_1"
 msgstr "追捕西部蝎王,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_220"
 msgstr "火镜巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_220"
 msgstr "在这个日常任务中杀死火镜巨人."
 
+#, fuzzy
 msgid "short_desc_task_220_stage_1"
 msgstr "在这个日常任务中杀死火镜巨人."
 
 msgid "desc_task_220_stage_1"
 msgstr "追捕火镜巨人,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_221"
 msgstr "银锭巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_221"
 msgstr "在这个日常任务中杀死银锭巨人."
 
+#, fuzzy
 msgid "short_desc_task_221_stage_1"
 msgstr "在这个日常任务中杀死银锭巨人."
 
 msgid "desc_task_221_stage_1"
 msgstr "追捕银锭巨人,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_222"
 msgstr "雪族奥可狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_222"
 msgstr "在这个日常任务中杀死雪族奥可."
 
+#, fuzzy
 msgid "short_desc_task_222_stage_1"
 msgstr "在这个日常任务中杀死雪族奥可."
 
 msgid "desc_task_222_stage_1"
 msgstr "追捕雪族奥可,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_223"
 msgstr "铂金巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_223"
 msgstr "在这个日常任务中杀死铂金巨人."
 
+#, fuzzy
 msgid "short_desc_task_223_stage_1"
 msgstr "在这个日常任务中杀死铂金巨人."
 
 msgid "desc_task_223_stage_1"
 msgstr "追捕铂金巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_224"
 msgstr "泰坦狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_224"
 msgstr "在这个日常任务中杀死深渊泰坦."
 
+#, fuzzy
 msgid "short_desc_task_224_stage_1"
 msgstr "在这个日常任务中杀死深渊泰坦."
 
 msgid "desc_task_224_stage_1"
 msgstr "追捕深渊泰坦,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_225"
 msgstr "黑锭巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_225"
 msgstr "在这个日常任务中杀死黑锭巨人."
 
+#, fuzzy
 msgid "short_desc_task_225_stage_1"
 msgstr "在这个日常任务中杀死黑锭巨人."
 
 msgid "desc_task_225_stage_1"
 msgstr "追捕黑锭巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_226"
 msgstr "蛮族沙加狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_226"
 msgstr "在这个日常任务中杀死蛮族沙加."
 
+#, fuzzy
 msgid "short_desc_task_226_stage_1"
 msgstr "在这个日常任务中杀死蛮族沙加."
 
@@ -3596,12 +3675,15 @@ msgstr "在这个日常任务中杀死蛮族沙加."
 msgid "desc_task_226_stage_1"
 msgstr "追捕火镜巨人,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_227"
 msgstr "幽灵法师狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_227"
 msgstr "在这个日常任务中杀死幽灵法师."
 
+#, fuzzy
 msgid "short_desc_task_227_stage_1"
 msgstr "在这个日常任务中杀死幽灵法师."
 
@@ -3656,12 +3738,15 @@ msgstr "在这个日常任务中杀死黑暗骑士."
 msgid "desc_task_231_stage_1"
 msgstr "追捕黑暗骑士,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_232"
 msgstr "黑暗领主狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_232"
 msgstr "在这个日常任务中杀死黑暗领主."
 
+#, fuzzy
 msgid "short_desc_task_232_stage_1"
 msgstr "在这个日常任务中杀死黑暗领主."
 
@@ -3671,45 +3756,57 @@ msgstr "追捕黑暗领主,但要小心其他猎人,以免你成为猎物!"
 msgid "name_task_233"
 msgstr "骷髅人士兵 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_233"
 msgstr "在这个日常任务中杀死骷髅人士兵."
 
+#, fuzzy
 msgid "short_desc_task_233_stage_1"
 msgstr "在这个日常任务中杀死骷髅人士兵."
 
+#, fuzzy
 msgid "desc_task_233_stage_1"
 msgstr "追捕骷髅人士兵,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_234"
 msgstr "骷髅人魔王 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_234"
 msgstr "在这个日常任务中杀死骷髅人魔王."
 
+#, fuzzy
 msgid "short_desc_task_234_stage_1"
 msgstr "在这个日常任务中杀死骷髅人魔王."
 
 msgid "desc_task_234_stage_1"
 msgstr "追捕骷髅人魔王,但要小心其他猎人,以免你成为狩猎!"
 
+#, fuzzy
 msgid "name_task_235"
 msgstr "黑龙狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_235"
 msgstr "在这个日常任务中杀死黑龙."
 
+#, fuzzy
 msgid "short_desc_task_235_stage_1"
 msgstr "在这个日常任务中杀死黑龙."
 
 msgid "desc_task_235_stage_1"
 msgstr "追捕黑龙,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_236"
 msgstr "黑影狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_236"
 msgstr "在这个日常任务中杀死黑影."
 
+#, fuzzy
 msgid "short_desc_task_236_stage_1"
 msgstr "在这个日常任务中杀死黑影."
 
@@ -3728,72 +3825,90 @@ msgstr "在这个日常任务中杀死森林先知女."
 msgid "desc_task_237_stage_1"
 msgstr "追捕森林先知女,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_238"
 msgstr "加多洛克狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_238"
 msgstr "在这个日常任务中杀死加多洛克."
 
+#, fuzzy
 msgid "short_desc_task_238_stage_1"
 msgstr "在这个日常任务中杀死加多洛克."
 
 msgid "desc_task_238_stage_1"
 msgstr "追捕加多洛克,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_239"
 msgstr "超型巨人狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_239"
 msgstr "在这个日常任务中杀死超型巨人."
 
+#, fuzzy
 msgid "short_desc_task_239_stage_1"
 msgstr "在这个日常任务中杀死超型巨人."
 
 msgid "desc_task_239_stage_1"
 msgstr "追捕超型巨人,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_240"
 msgstr "天神低语者 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_240"
 msgstr "在这个日常任务中杀死天神低语者."
 
+#, fuzzy
 msgid "short_desc_task_240_stage_1"
 msgstr "在这个日常任务中杀死天神低语者."
 
 msgid "desc_task_240_stage_1"
 msgstr "追捕天神低语者,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_241"
 msgstr "地狱咆哮者狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_241"
 msgstr "在这个日常任务中杀死地狱咆哮者."
 
+#, fuzzy
 msgid "short_desc_task_241_stage_1"
 msgstr "在这个日常任务中杀死地狱咆哮者."
 
 msgid "desc_task_241_stage_1"
 msgstr "追捕地狱咆哮者,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_242"
 msgstr "高级木乃伊狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_242"
 msgstr "在这个日常任务中杀死高级木乃伊."
 
+#, fuzzy
 msgid "short_desc_task_242_stage_1"
 msgstr "在这个日常任务中杀死高级木乃伊."
 
 msgid "desc_task_242_stage_1"
 msgstr "追捕高级木乃伊,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_243"
 msgstr "守护者狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_243"
 msgstr "在这个日常任务中杀死守护者."
 
+#, fuzzy
 msgid "short_desc_task_243_stage_1"
 msgstr "在这个日常任务中杀死守护者."
 
@@ -3812,24 +3927,30 @@ msgstr "在这个日常任务中杀死石牛守卫."
 msgid "desc_task_244_stage_1"
 msgstr "追捕石牛守卫,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_245"
 msgstr "石牛狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_245"
 msgstr "在这个日常任务中杀死石牛."
 
+#, fuzzy
 msgid "short_desc_task_245_stage_1"
 msgstr "在这个日常任务中杀死石牛."
 
 msgid "desc_task_245_stage_1"
 msgstr "追捕石牛,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_246"
 msgstr "牛头人怪兽狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_246"
 msgstr "在这个日常任务中杀死牛头人怪兽."
 
+#, fuzzy
 msgid "short_desc_task_246_stage_1"
 msgstr "在这个日常任务中杀死牛头人怪兽."
 
@@ -3884,24 +4005,30 @@ msgstr "在这个日常任务中杀死寿衣骑士."
 msgid "desc_task_250_stage_1"
 msgstr "追捕寿衣骑士,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_251"
 msgstr "雪族前锋狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_251"
 msgstr "在这个日常任务中杀死雪族前锋."
 
+#, fuzzy
 msgid "short_desc_task_251_stage_1"
 msgstr "在这个日常任务中杀死雪族前锋."
 
 msgid "desc_task_251_stage_1"
 msgstr "追捕雪族前锋, 但要小心其他猎人, 以免你成为狩猎者!"
 
+#, fuzzy
 msgid "name_task_252"
 msgstr "骨龙艾克斯狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_252"
 msgstr "在这个日常任务中杀死骨龙艾克斯."
 
+#, fuzzy
 msgid "short_desc_task_252_stage_1"
 msgstr "在这个日常任务中杀死骨龙艾克斯."
 
@@ -3920,24 +4047,30 @@ msgstr "在这个日常任务中杀死老虎."
 msgid "desc_task_253_stage_1"
 msgstr "追捕老虎,但要提防其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_254"
 msgstr "树精狩猎 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_254"
 msgstr "在这个日常任务中杀死树精."
 
+#, fuzzy
 msgid "short_desc_task_254_stage_1"
 msgstr "在这个日常任务中杀死树精."
 
 msgid "desc_task_254_stage_1"
 msgstr "追捕树精,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_255"
 msgstr "瓦兰吉沃森 - 每日"
 
+#, fuzzy
 msgid "short_desc_task_255"
 msgstr "在这个日常任务中, 杀死瓦兰吉沃森."
 
+#, fuzzy
 msgid "short_desc_task_255_stage_1"
 msgstr "在这个日常任务中, 杀死瓦兰吉沃森."
 
@@ -3968,9 +4101,11 @@ msgstr "在这个日常任务中杀死蛮族酋长."
 msgid "desc_task_257_stage_1"
 msgstr "追捕蛮族酋长,但要小心其他猎人,以免你成为猎物!"
 
+#, fuzzy
 msgid "name_task_258"
 msgstr "酋长卡洛斯狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_258"
 msgstr "在这个每周的任务中杀死酋长卡洛斯."
 
@@ -3980,6 +4115,7 @@ msgstr "杀死酋长卡洛斯."
 msgid "desc_task_258_stage_1"
 msgstr "进入卡洛斯酋长的领地,杀死他."
 
+#, fuzzy
 msgid "name_task_259"
 msgstr "棉花收集 - 每周"
 
@@ -3992,9 +4128,11 @@ msgstr "收集棉花."
 msgid "desc_task_259_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候收棉花了."
 
+#, fuzzy
 msgid "name_task_260"
 msgstr "芬尼斯阿尔法狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_260"
 msgstr "杀死芬尼斯阿尔法在这个每周的任务."
 
@@ -4004,6 +4142,7 @@ msgstr "杀死芬尼斯阿尔法."
 msgid "desc_task_260_stage_1"
 msgstr "进入芬里斯·阿尔法的领地并杀死他."
 
+#, fuzzy
 msgid "name_task_261"
 msgstr "钓鱼 - 每周"
 
@@ -4016,9 +4155,11 @@ msgstr "收集鱼."
 msgid "desc_task_261_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候捕鱼了."
 
+#, fuzzy
 msgid "name_task_262"
 msgstr "大提科洛什狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_262"
 msgstr "杀死大提科洛什在这个每周的任务."
 
@@ -4028,9 +4169,11 @@ msgstr "杀死大提科洛什."
 msgid "desc_task_262_stage_1"
 msgstr "进入大提科洛什的领地, 杀死他."
 
+#, fuzzy
 msgid "name_task_263"
 msgstr "地狱火剑圣狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_263"
 msgstr "在这个每周的任务中杀死地狱火剑圣."
 
@@ -4040,9 +4183,11 @@ msgstr "杀死地狱火剑圣."
 msgid "desc_task_263_stage_1"
 msgstr "进入地狱火剑圣的领地, 杀死他."
 
+#, fuzzy
 msgid "name_task_264"
 msgstr "乔尔大帝狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_264"
 msgstr "在这个每周的任务中, 杀死乔尔大帝."
 
@@ -4052,9 +4197,11 @@ msgstr "杀死乔尔大帝."
 msgid "desc_task_264_stage_1"
 msgstr "进入乔尔大帝的领地,杀死他."
 
+#, fuzzy
 msgid "name_task_265"
 msgstr "铁皮树魔狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_265"
 msgstr "在这个每周的任务中,杀死铁皮树魔."
 
@@ -4064,9 +4211,11 @@ msgstr "杀死铁皮树魔."
 msgid "desc_task_265_stage_1"
 msgstr "进入铁皮树魔的领地,杀死他."
 
+#, fuzzy
 msgid "name_task_266"
 msgstr "黑矮人重拳者狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_266"
 msgstr "在这个每周的任务,杀死黑矮人重拳者."
 
@@ -4076,6 +4225,7 @@ msgstr "杀死黑矮人重拳者."
 msgid "desc_task_266_stage_1"
 msgstr "进入黑矮人重拳者的领地, 杀死他."
 
+#, fuzzy
 msgid "name_task_267"
 msgstr "铁收集 - 每周"
 
@@ -4088,9 +4238,11 @@ msgstr "收集铁矿石."
 msgid "desc_task_267_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候收集铁矿石了."
 
+#, fuzzy
 msgid "name_task_268"
 msgstr "黑暗束缚者西哈罗狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_268"
 msgstr "在这个每周的任务中杀死黑暗束缚者西哈罗."
 
@@ -4100,6 +4252,7 @@ msgstr "杀死黑暗束缚者西哈罗."
 msgid "desc_task_268_stage_1"
 msgstr "进入黑暗束缚者西哈罗的领地并杀死她."
 
+#, fuzzy
 msgid "name_task_269"
 msgstr "石头收集 - 每周"
 
@@ -4112,6 +4265,7 @@ msgstr "收集石头."
 msgid "desc_task_269_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.是时候收集石头了."
 
+#, fuzzy
 msgid "name_task_270"
 msgstr "木材收集 - 每周"
 
@@ -4124,9 +4278,11 @@ msgstr "收集木材."
 msgid "desc_task_270_stage_1"
 msgstr "对于那些愿意获得资源的人来说,工作总是唾手可得的.该收集木材了."
 
+#, fuzzy
 msgid "name_task_271"
 msgstr "弗拉德·达斯沃德狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_271"
 msgstr "在这个每周的任务中,杀死弗拉德·达斯沃德."
 
@@ -4136,9 +4292,11 @@ msgstr "杀死弗拉德·达斯沃德 ."
 msgid "desc_task_271_stage_1"
 msgstr "进入弗拉德·达斯沃德的领地,杀死他."
 
+#, fuzzy
 msgid "name_task_272"
 msgstr "军阀乔巴狩猎 - 每周"
 
+#, fuzzy
 msgid "short_desc_task_272"
 msgstr "在这个每周的任务中,杀死军阀乔巴."
 
