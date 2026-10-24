@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-10-24 18:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "tasks/fr/>\n"
@@ -4323,6 +4323,7 @@ msgstr ""
 msgid "name_task_183"
 msgstr "Chasse aux ours artic - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_183"
 msgstr "Slay Bears dans cette tâche quotidienne."
 
@@ -4348,6 +4349,7 @@ msgstr ""
 "Chassez les centaures, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_185"
 msgstr "Collecte de coton - tous les jours"
 
@@ -4362,20 +4364,25 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. C'est l'heure de ramasser du coton."
 
+#, fuzzy
 msgid "name_task_186"
 msgstr "Crog chasse quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_186"
 msgstr "Slay crogs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_186_stage_1"
 msgstr "Slay crogs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "desc_task_186_stage_1"
 msgstr ""
 "Chassez les crocs, mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_187"
 msgstr "Pêche - quotidien"
 
@@ -4390,12 +4397,15 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. Il est temps d'aller pêcher."
 
+#, fuzzy
 msgid "name_task_188"
 msgstr "Chasse aux fantômes - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_188"
 msgstr "Slay fantômes dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_188_stage_1"
 msgstr "Slay fantômes dans cette tâche quotidienne."
 
@@ -4474,6 +4484,7 @@ msgstr ""
 "Chassez les guildmasters humains mais méfiez-vous des autres chasseurs, de "
 "peur que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_194"
 msgstr "Collecte de fer - tous les jours"
 
@@ -4502,12 +4513,15 @@ msgstr ""
 "Chassez les matayins, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_196"
 msgstr "Chasse au minotaure - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_196"
 msgstr "Slay minotaurs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_196_stage_1"
 msgstr "Slay minotaurs dans cette tâche quotidienne."
 
@@ -4516,6 +4530,7 @@ msgstr ""
 "Chassez les minotaurs, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_197"
 msgstr "Ramassage de bois de chêne - quotidien"
 
@@ -4572,12 +4587,15 @@ msgstr ""
 "Chassez les vengeurs, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_201"
 msgstr "Chasse à l'archemage au clan des neiges - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_201"
 msgstr "Slay Snowclan Archmages dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_201_stage_1"
 msgstr "Slay Snowclan Archmages dans cette tâche quotidienne."
 
@@ -4600,6 +4618,7 @@ msgstr ""
 "Chassez les araignées, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_203"
 msgstr "Collecte de pierres - tous les jours"
 
@@ -4628,12 +4647,15 @@ msgstr ""
 "Chassez les gardes Thain mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_205"
 msgstr "Chasse varangienne - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_205"
 msgstr "Slay varangiens dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_205_stage_1"
 msgstr "Slay varangiens dans cette tâche quotidienne."
 
@@ -4670,12 +4692,15 @@ msgstr ""
 "Chassez les zombies mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_208"
 msgstr "Chasse ancienne - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_208"
 msgstr "Tuez les anciens dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_208_stage_1"
 msgstr "Tuez les anciens dans cette tâche quotidienne."
 
@@ -4684,12 +4709,15 @@ msgstr ""
 "Chassez les anciens, mais méfiez-vous des autres chasseurs, de peur que vous"
 " ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_209"
 msgstr "Baradron chasse quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_209"
 msgstr "Slay baradrons dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_209_stage_1"
 msgstr "Slay baradrons dans cette tâche quotidienne."
 
@@ -4698,12 +4726,15 @@ msgstr ""
 "Chassez les baradrons, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_210"
 msgstr "Chasse aux béhèmes - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_210"
 msgstr "Slay béhémoths dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_210_stage_1"
 msgstr "Slay béhémoths dans cette tâche quotidienne."
 
@@ -4712,12 +4743,15 @@ msgstr ""
 "Chassez les béhémoths, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_211"
 msgstr "Eodrin chasse quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_211"
 msgstr "Slay eodrins dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_211_stage_1"
 msgstr "Slay eodrins dans cette tâche quotidienne."
 
@@ -4726,12 +4760,15 @@ msgstr ""
 "Chassez les eodrins mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_212"
 msgstr "Chasse à l'érodach - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_212"
 msgstr "Slay érodachs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_212_stage_1"
 msgstr "Slay érodachs dans cette tâche quotidienne."
 
@@ -4740,12 +4777,15 @@ msgstr ""
 "Chassez les érodachs, mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_213"
 msgstr "Chasse au golem forestier - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_213"
 msgstr "Slay golems de forêt dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_213_stage_1"
 msgstr "Slay golems de forêt dans cette tâche quotidienne."
 
@@ -4754,12 +4794,15 @@ msgstr ""
 "Chassez les golems de la forêt, mais méfiez-vous des autres chasseurs, de "
 "peur que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_214"
 msgstr "Jotunn chasse - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_214"
 msgstr "Slay jotunns dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_214_stage_1"
 msgstr "Slay jotunns dans cette tâche quotidienne."
 
@@ -4768,12 +4811,15 @@ msgstr ""
 "Chassez les jotunns mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_215"
 msgstr "Leenspar chasse au golem - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_215"
 msgstr "Slay leenspar golems dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_215_stage_1"
 msgstr "Slay leenspar golems dans cette tâche quotidienne."
 
@@ -4782,12 +4828,15 @@ msgstr ""
 "Chassez leenspar golems mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_216"
 msgstr "Chasse au roi minotaure - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_216"
 msgstr "Tuez les rois minotaures dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_216_stage_1"
 msgstr "Tuez les rois minotaures dans cette tâche quotidienne."
 
@@ -4796,12 +4845,15 @@ msgstr ""
 "Chassez les rois minotaures mais méfiez-vous des autres chasseurs, de peur "
 "que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_217"
 msgstr "Neithal chasse au golem - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_217"
 msgstr "Slay neithal golems dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_217_stage_1"
 msgstr "Slay neithal golems dans cette tâche quotidienne."
 
@@ -4810,12 +4862,15 @@ msgstr ""
 "Chassez neithal golems mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_218"
 msgstr "Chasse aux sauges de chêne - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_218"
 msgstr "Salissure de chêne dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_218_stage_1"
 msgstr "Salissure de chêne dans cette tâche quotidienne."
 
@@ -4824,12 +4879,15 @@ msgstr ""
 "Chassez les sauges de chêne mais méfiez-vous des autres chasseurs, de peur "
 "que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_219"
 msgstr "Scorpion chasse roi - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_219"
 msgstr "Slay scorpion rois dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_219_stage_1"
 msgstr "Slay scorpion rois dans cette tâche quotidienne."
 
@@ -4838,12 +4896,15 @@ msgstr ""
 "Chassez les rois du scorpion, mais méfiez-vous des autres chasseurs, de peur"
 " que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_220"
 msgstr "Chasse au fléau - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_220"
 msgstr "Tuer les fléaux dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_220_stage_1"
 msgstr "Tuer les fléaux dans cette tâche quotidienne."
 
@@ -4852,12 +4913,15 @@ msgstr ""
 "Chassez les fléaux, mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_221"
 msgstr "Selentine chasse au golem - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_221"
 msgstr "Slay selentine golems dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_221_stage_1"
 msgstr "Slay selentine golems dans cette tâche quotidienne."
 
@@ -4866,12 +4930,15 @@ msgstr ""
 "Chassez selentine golems mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_222"
 msgstr "Chasse à l'oracle au clan des neiges - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_222"
 msgstr "Slay snowclan oracles dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_222_stage_1"
 msgstr "Slay snowclan oracles dans cette tâche quotidienne."
 
@@ -4880,12 +4947,15 @@ msgstr ""
 "Chassez les oracles du clan des neiges, mais méfiez-vous des autres "
 "chasseurs, de peur que vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_223"
 msgstr "Theyril chasse au golem - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_223"
 msgstr "Slay theyril golems dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_223_stage_1"
 msgstr "Slay theyril golems dans cette tâche quotidienne."
 
@@ -4894,12 +4964,15 @@ msgstr ""
 "Chassez theyril golems mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_224"
 msgstr "Chasse au titan - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_224"
 msgstr "Slay titans dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_224_stage_1"
 msgstr "Slay titans dans cette tâche quotidienne."
 
@@ -4908,12 +4981,15 @@ msgstr ""
 "Chassez les titans mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_225"
 msgstr "Veilron chasse au golem - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_225"
 msgstr "Slay veilron golems dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_225_stage_1"
 msgstr "Slay veilron golems dans cette tâche quotidienne."
 
@@ -4922,12 +4998,15 @@ msgstr ""
 "Chassez veilron golems mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_226"
 msgstr "Chasse à la shaka sauvage - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_226"
 msgstr "Slay wildtribe shakas dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_226_stage_1"
 msgstr "Slay wildtribe shakas dans cette tâche quotidienne."
 
@@ -4937,12 +5016,15 @@ msgstr ""
 "Chassez les fléaux, mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_227"
 msgstr "Chasse wraith - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_227"
 msgstr "Slay wraiths dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_227_stage_1"
 msgstr "Slay wraiths dans cette tâche quotidienne."
 
@@ -5007,12 +5089,15 @@ msgstr ""
 "Chassez les chevaliers noirs mais méfiez-vous des autres chasseurs, de peur "
 "que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_232"
 msgstr "Chasse au seigneur noir - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_232"
 msgstr "Tuez les seigneurs noirs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_232_stage_1"
 msgstr "Tuez les seigneurs noirs dans cette tâche quotidienne."
 
@@ -5024,23 +5109,29 @@ msgstr ""
 msgid "name_task_233"
 msgstr "Enfant de Khamset chasse - jour"
 
+#, fuzzy
 msgid "short_desc_task_233"
 msgstr "Tuer enfant de khamsets dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_233_stage_1"
 msgstr "Tuer enfant de khamsets dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "desc_task_233_stage_1"
 msgstr ""
 "Chassez enfant de khamsets mais méfiez-vous des autres chasseurs, de peur "
 "que vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_234"
 msgstr "Choisi de Khamset chasse - jour"
 
+#, fuzzy
 msgid "short_desc_task_234"
 msgstr "Slay a choisi de khamset dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_234_stage_1"
 msgstr "Slay a choisi de khamset dans cette tâche quotidienne."
 
@@ -5049,12 +5140,15 @@ msgstr ""
 "Chasser choisi de khamset mais méfiez-vous des autres chasseurs, de peur que"
 " vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_235"
 msgstr "Chasse au dragon noir - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_235"
 msgstr "Tuez des dragons sombres dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_235_stage_1"
 msgstr "Tuez des dragons sombres dans cette tâche quotidienne."
 
@@ -5063,12 +5157,15 @@ msgstr ""
 "Chassez les dragons noirs mais méfiez-vous des autres chasseurs, de peur que"
 " vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_236"
 msgstr "Chasse à l'ombre noire - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_236"
 msgstr "Slay Darkshade dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_236_stage_1"
 msgstr "Slay Darkshade dans cette tâche quotidienne."
 
@@ -5095,12 +5192,15 @@ msgstr ""
 "Chassez les femelles de prophète de la forêt, mais méfiez-vous des autres "
 "chasseurs, de peur que vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_238"
 msgstr "Chasse gardoroc - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_238"
 msgstr "Slay gardorocs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_238_stage_1"
 msgstr "Slay gardorocs dans cette tâche quotidienne."
 
@@ -5109,12 +5209,15 @@ msgstr ""
 "Chassez les gardorocs mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_239"
 msgstr "Chasse au gargantua - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_239"
 msgstr "Slay gargantuas dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_239_stage_1"
 msgstr "Slay gargantuas dans cette tâche quotidienne."
 
@@ -5123,12 +5226,15 @@ msgstr ""
 "Chassez les gargantuas mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_240"
 msgstr "Plus grande chasse céleste - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_240"
 msgstr "Tuez les plus grands célestes dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_240_stage_1"
 msgstr "Tuez les plus grands célestes dans cette tâche quotidienne."
 
@@ -5137,12 +5243,15 @@ msgstr ""
 "Chassez les plus grands célestes, mais méfiez-vous des autres chasseurs, de "
 "peur que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_241"
 msgstr "Plus grande chasse infernale - quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_241"
 msgstr "Slay plus d'infernals dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_241_stage_1"
 msgstr "Slay plus d'infernals dans cette tâche quotidienne."
 
@@ -5151,12 +5260,15 @@ msgstr ""
 "Chassez les plus grands infernaux, mais méfiez-vous des autres chasseurs, de"
 " peur que vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_242"
 msgstr "Chasse à la momie - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_242"
 msgstr "Tuer les plus grandes momies dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_242_stage_1"
 msgstr "Tuer de plus grandes nommies dans cette tâche quotidienne."
 
@@ -5165,12 +5277,15 @@ msgstr ""
 "Chassez les plus grandes momies, mais méfiez-vous des autres chasseurs, de "
 "peur que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_243"
 msgstr "Chasse gardienne - quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_243"
 msgstr "Tuez les gardiens dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_243_stage_1"
 msgstr "Tuez les gardiens dans cette tâche quotidienne."
 
@@ -5193,12 +5308,15 @@ msgstr ""
 "Chassez menhir gardiens mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_245"
 msgstr "Menhir chasse quotidienne"
 
+#, fuzzy
 msgid "short_desc_task_245"
 msgstr "Tuez les menhirs dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_245_stage_1"
 msgstr "Tuez les menhirs dans cette tâche quotidienne."
 
@@ -5207,12 +5325,15 @@ msgstr ""
 "Chassez les menhirs, mais méfiez-vous des autres chasseurs, de peur que vous"
 " ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_246"
 msgstr "Chasse au minotaur brut - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_246"
 msgstr "Slay minotaur brutes dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_246_stage_1"
 msgstr "Slay minotaur brutes dans cette tâche quotidienne."
 
@@ -5277,12 +5398,15 @@ msgstr ""
 "Chassez les chevaliers mais méfiez-vous des autres chasseurs, de peur que "
 "vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_251"
 msgstr "Chasse au clan des neiges - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_251"
 msgstr "Slay Snowclan Striker dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_251_stage_1"
 msgstr "Slay Snowclan Strikers dans cette tâche quotidienne."
 
@@ -5291,12 +5415,15 @@ msgstr ""
 "Chassez le Snowclan Strikers mais méfiez-vous des autres chasseurs, de peur "
 "que vous ne deveniez les chasseurs!"
 
+#, fuzzy
 msgid "name_task_252"
 msgstr "Chasse au soleil - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_252"
 msgstr "Slay soleil exarque dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_252_stage_1"
 msgstr "Slay soleil exarque dans cette tâche quotidienne."
 
@@ -5319,12 +5446,15 @@ msgstr ""
 "Chassez les tigres mais méfiez-vous des autres chasseurs, de peur que vous "
 "ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_254"
 msgstr "Chasse au treant - tous les jours"
 
+#, fuzzy
 msgid "short_desc_task_254"
 msgstr "Slay treants dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_254_stage_1"
 msgstr "Slay treants dans cette tâche quotidienne."
 
@@ -5333,12 +5463,15 @@ msgstr ""
 "Chassez les treants, mais méfiez-vous des autres chasseurs, de peur que vous"
 " ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_255"
 msgstr "Chasse varangienne à la warthane - quotidien"
 
+#, fuzzy
 msgid "short_desc_task_255"
 msgstr "Slay varangian warthanes dans cette tâche quotidienne."
 
+#, fuzzy
 msgid "short_desc_task_255_stage_1"
 msgstr "Slay varangian warthanes dans cette tâche quotidienne."
 
@@ -5375,9 +5508,11 @@ msgstr ""
 "Chassez les chefs de la tribu sauvage, mais méfiez-vous des autres "
 "chasseurs, de peur que vous ne deveniez les chasseurs !"
 
+#, fuzzy
 msgid "name_task_258"
 msgstr "Cheftain khalos chasse - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_258"
 msgstr "Chef Khalos dans cette tâche hebdomadaire."
 
@@ -5387,6 +5522,7 @@ msgstr "Chef d'état-major d'exécution Khalos."
 msgid "desc_task_258_stage_1"
 msgstr "Entrez dans le domaine de Chieftain Khalos et tuez-le."
 
+#, fuzzy
 msgid "name_task_259"
 msgstr "Collecte de coton - hebdomadaire"
 
@@ -5401,9 +5537,11 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. C'est l'heure de ramasser du coton."
 
+#, fuzzy
 msgid "name_task_260"
 msgstr "Chasse au fenris alpha - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_260"
 msgstr "Slay Fenris Alpha dans cette tâche hebdomadaire."
 
@@ -5413,6 +5551,7 @@ msgstr "Tuez Fenris Alpha."
 msgid "desc_task_260_stage_1"
 msgstr "Entrez dans le domaine de Fenris Alpha et tuez-le."
 
+#, fuzzy
 msgid "name_task_261"
 msgstr "Pêche - hebdomadaire"
 
@@ -5427,9 +5566,11 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. C'est l'heure de ramasser du poisson."
 
+#, fuzzy
 msgid "name_task_262"
 msgstr "Chasse au grand tikoloshe - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_262"
 msgstr "Slay Grand Tikoloshe dans cette tâche hebdomadaire."
 
@@ -5439,9 +5580,11 @@ msgstr "Tuez Grand Tikoloshe."
 msgid "desc_task_262_stage_1"
 msgstr "Entrez dans le domaine du Grand Tikoloshe et tuez-le."
 
+#, fuzzy
 msgid "name_task_263"
 msgstr "Hellfire juggernaught chasse - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_263"
 msgstr "Hellfire Juggernaught dans cette tâche hebdomadaire."
 
@@ -5451,9 +5594,11 @@ msgstr "Tuez Hellfire Juggernaught."
 msgid "desc_task_263_stage_1"
 msgstr "Entrez dans le domaine de Hellfire Juggernaught et tuez-le."
 
+#, fuzzy
 msgid "name_task_264"
 msgstr "Hjor la grande chasse - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_264"
 msgstr "Hjor le Grand dans cette tâche hebdomadaire."
 
@@ -5463,9 +5608,11 @@ msgstr "Slay Hjor le Grand."
 msgid "desc_task_264_stage_1"
 msgstr "Entrez dans le domaine de Hjor le Grand et tuez-le."
 
+#, fuzzy
 msgid "name_task_265"
 msgstr "L'écorce de fer l'ancienne chasse - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_265"
 msgstr "Slay Ironbark l'Ancien dans cette tâche hebdomadaire."
 
@@ -5475,9 +5622,11 @@ msgstr "Slay Ironbark l'Ancien."
 msgid "desc_task_265_stage_1"
 msgstr "Entrez dans le domaine de Ironbark l'Ancien et tuez-le."
 
+#, fuzzy
 msgid "name_task_266"
 msgstr "Chasse aux barges en fer - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_266"
 msgstr "Slay Ironbeard Heavyfist dans cette tâche hebdomadaire."
 
@@ -5487,6 +5636,7 @@ msgstr "Tuez Ironbeard Heavyfist."
 msgid "desc_task_266_stage_1"
 msgstr "Entrez dans le domaine de Ironbeard Heavyfist et tuez-le."
 
+#, fuzzy
 msgid "name_task_267"
 msgstr "Collecte de fer - hebdomadaire"
 
@@ -5501,9 +5651,11 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. Il est temps de ramasser du minerai de fer."
 
+#, fuzzy
 msgid "name_task_268"
 msgstr "Chasse aux bourdons siharo - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_268"
 msgstr "Slay Siharo Darkbinder dans cette tâche hebdomadaire."
 
@@ -5513,6 +5665,7 @@ msgstr "Tuez Siharo Darkbinder."
 msgid "desc_task_268_stage_1"
 msgstr "Entrez dans le domaine de Siharo Darkbinder et tuez-la."
 
+#, fuzzy
 msgid "name_task_269"
 msgstr "Collecte de pierres - hebdomadaire"
 
@@ -5527,6 +5680,7 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. C'est l'heure de ramasser la pierre."
 
+#, fuzzy
 msgid "name_task_270"
 msgstr "Ramassage du bois - hebdomadaire"
 
@@ -5541,9 +5695,11 @@ msgstr ""
 "Le travail est toujours disponible pour ceux qui veulent obtenir des "
 "ressources. C'est l'heure de ramasser du bois."
 
+#, fuzzy
 msgid "name_task_271"
 msgstr "Vlad chasse au crépuscule - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_271"
 msgstr "Slay vlad vers le crépuscule dans cette tâche hebdomadaire."
 
@@ -5553,9 +5709,11 @@ msgstr "Tuez Vlad Duskward."
 msgid "desc_task_271_stage_1"
 msgstr "Entrez dans le domaine de Vlad Duskward et tuez-le."
 
+#, fuzzy
 msgid "name_task_272"
 msgstr "Chasse au hispache des seigneurs de guerre - hebdomadaire"
 
+#, fuzzy
 msgid "short_desc_task_272"
 msgstr "Slay Warlord Choppah dans cette tâche hebdomadaire."
 
