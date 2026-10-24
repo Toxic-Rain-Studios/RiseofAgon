@@ -12993,14 +12993,14 @@ msgstr "Skill Points: %1"
 
 #. Runtime parameters: a school's name, the school level.
 msgid "spelltree_requires_level"
-msgstr "Requires %1 %2"
+msgstr "Raise %1 to %2 first"
 
 msgid "spelltree_requires_link"
 msgstr "Learn a connected spell first"
 
 #. Runtime parameters: a school's name.
 msgid "spelltree_requires_school"
-msgstr "Requires %1"
+msgstr "Unlock %1 first"
 
 msgid "spelltree_reset_button"
 msgstr "Reset"
