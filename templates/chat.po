@@ -42,6 +42,54 @@ msgstr "^Cred^You left your lawless party because you are lawful."
 msgid "LAWLESS_PLAYER_IN_LAWFUL_PARTY"
 msgstr "^Cred^You left your lawful party because you are lawless."
 
+msgid "LOG_CHAT_CLAIMED_DAILY"
+msgstr "[Log] Claimed your daily."
+
+msgid "LOG_CHAT_CLAIMED_WEEKLY"
+msgstr "[Log] Claimed your weekly."
+
+msgid "LOG_CHAT_CLAIM_DAILY_LOCKED"
+msgstr "[Log] You already claimed a daily today. Dailies reset at 10:00 UTC."
+
+msgid "LOG_CHAT_CLAIM_ISLAND"
+msgstr "[Log] The Log opens once you leave the island."
+
+msgid "LOG_CHAT_CLAIM_NOT_DONE"
+msgstr "[Log] That task is not done yet."
+
+msgid "LOG_CHAT_CLAIM_NOT_ROTATION"
+msgstr "[Log] Only a daily or weekly task is claimed."
+
+msgid "LOG_CHAT_CLAIM_NOT_WAITING"
+msgstr "[Log] That task is not waiting to be claimed."
+
+msgid "LOG_CHAT_CLAIM_WEEKLY_LOCKED"
+msgstr "[Log] You already claimed a weekly this week."
+
+msgid "LOG_CHAT_FEATURED_SENT"
+msgstr "The Log: featured reward sent to your bank."
+
+msgid "LOG_CHAT_POINTS_COMPLETE"
+msgstr "The Log: %1 points. Log complete."
+
+msgid "LOG_CHAT_POINTS_MARKS"
+msgstr "The Log: %1 points. +%2 Marks."
+
+msgid "LOG_CHAT_POINTS_MARKS_COMPLETE"
+msgstr "The Log: %1 points. +%2 Marks. Log complete."
+
+msgid "LOG_CHAT_RESET_CLAIMED_DAILY"
+msgstr "[Log] Your finished daily was claimed for you at the reset."
+
+msgid "LOG_CHAT_RESET_CLAIMED_WEEKLY"
+msgstr "[Log] Your finished weekly was claimed for you at the reset."
+
+msgid "LOG_CHAT_TASK_DONE_DAILY"
+msgstr "[Log] Your daily task is done. Claim it in the Log."
+
+msgid "LOG_CHAT_TASK_DONE_WEEKLY"
+msgstr "[Log] Your weekly task is done. Claim it in the Log."
+
 msgid "NOTIFICATION_ACCEPTED_ANOTHER_INVITATION"
 msgstr "%1 accepted another party invitation."
 
