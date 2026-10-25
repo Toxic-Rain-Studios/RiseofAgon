@@ -3901,8 +3901,20 @@ msgstr "Learn from a trainer (%1 gold)"
 msgid "constellation_level_label"
 msgstr "Level"
 
+msgid "constellation_level_locked"
+msgstr "(locked)"
+
 msgid "constellation_level_n"
 msgstr "Level %1"
+
+msgid "constellation_lock_branch"
+msgstr "(learn the spell before it)"
+
+msgid "constellation_lock_school_first"
+msgstr "(unlock %1 first)"
+
+msgid "constellation_lock_unlocks_at"
+msgstr "(unlocks at %1)"
 
 msgid "constellation_next_level"
 msgstr "Next level: %1"
