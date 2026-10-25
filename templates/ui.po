@@ -3896,7 +3896,7 @@ msgid "constellation_exit"
 msgstr "Exit"
 
 msgid "constellation_learn_at_trainer"
-msgstr "Learn from a skill trainer (%1 gold)"
+msgstr "Learn from a trainer (%1 gold)"
 
 msgid "constellation_level_n"
 msgstr "Level %1"
@@ -3930,6 +3930,9 @@ msgstr "Racial"
 
 msgid "constellation_tab_research"
 msgstr "Research"
+
+msgid "constellation_unlocks_itself"
+msgstr "(unlocks on its own)"
 
 msgid "constellation_your_race"
 msgstr "Your race"
