@@ -3910,6 +3910,9 @@ msgstr "Level %1"
 msgid "constellation_lock_branch"
 msgstr "(learn the spell before it)"
 
+msgid "constellation_lock_learn_first"
+msgstr "(learn %1 first)"
+
 msgid "constellation_lock_school_first"
 msgstr "(unlock %1 first)"
 
@@ -3942,6 +3945,12 @@ msgstr "%1 Passives"
 
 msgid "constellation_racial_passives"
 msgstr "Racial Passives"
+
+msgid "constellation_ready_cost"
+msgstr "(unlock: %1 SP)"
+
+msgid "constellation_ready_free"
+msgstr "(free to unlock)"
 
 msgid "constellation_reset_confirm"
 msgstr "Press Reset to confirm"
@@ -13064,6 +13073,9 @@ msgstr "Skills"
 
 msgid "spelltree_nav_spells"
 msgstr "Spells"
+
+msgid "spelltree_need_and"
+msgstr " and "
 
 msgid "spelltree_need_more_points"
 msgstr "%1 more points"
