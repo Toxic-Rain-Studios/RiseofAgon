@@ -12981,6 +12981,9 @@ msgstr "Spells"
 msgid "spelltree_need_points"
 msgstr "Not enough skill points"
 
+msgid "spelltree_needs_more_points"
+msgstr "Needs %1 more points"
+
 msgid "spelltree_option_skip_animation"
 msgstr "Skip animations"
 
@@ -12990,6 +12993,9 @@ msgstr "Use windowed view"
 #. Runtime parameters: the unspent spell points.
 msgid "spelltree_points"
 msgstr "Skill Points: %1"
+
+msgid "spelltree_raise_first"
+msgstr "Raise %1 to %2 first"
 
 #. Runtime parameters: a school's name, the school level.
 msgid "spelltree_requires_level"
@@ -13035,6 +13041,9 @@ msgstr "Locked"
 
 msgid "spelltree_unlock"
 msgstr "Unlock"
+
+msgid "spelltree_unlock_first"
+msgstr "Unlock %1 first"
 
 msgid "stamina"
 msgstr "Stamina"
