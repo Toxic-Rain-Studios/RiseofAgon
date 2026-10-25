@@ -3914,13 +3914,13 @@ msgid "constellation_lock_branch"
 msgstr "(learn the spell before it)"
 
 msgid "constellation_lock_learn_first"
-msgstr "(learn %1 first)"
+msgstr "(requires %1)"
 
 msgid "constellation_lock_school_first"
-msgstr "(unlock %1 first)"
+msgstr "(requires %1)"
 
 msgid "constellation_lock_unlocks_at"
-msgstr "(unlocks at %1)"
+msgstr "(requires %1)"
 
 msgid "constellation_next_level"
 msgstr "Next level: %1"
