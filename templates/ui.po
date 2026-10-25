@@ -3919,6 +3919,9 @@ msgstr "(unlocks at %1)"
 msgid "constellation_next_level"
 msgstr "Next level: %1"
 
+msgid "constellation_next_level_short"
+msgstr "Next: %1"
+
 msgid "constellation_next_milestone"
 msgstr "Level %1 milestone (%2 to go): %3"
 
@@ -3949,6 +3952,9 @@ msgstr "Drag all the way right to unlock Reset"
 msgid "constellation_reset_gold"
 msgstr "Not enough gold (%1 needed)"
 
+msgid "constellation_reward_ap_short"
+msgstr "+%1 AP"
+
 msgid "constellation_reward_attribute_point"
 msgstr "+%1 attribute point"
 
@@ -3958,11 +3964,17 @@ msgstr "+%1 attribute points"
 msgid "constellation_reward_cap"
 msgstr "buy skills to level %1"
 
+msgid "constellation_reward_cap_short"
+msgstr "skills to %1"
+
 msgid "constellation_reward_skill_point"
 msgstr "+%1 skill point"
 
 msgid "constellation_reward_skill_points"
 msgstr "+%1 skill points"
+
+msgid "constellation_reward_sp_short"
+msgstr "+%1 SP"
 
 msgid "constellation_tab_combat"
 msgstr "Combat"
