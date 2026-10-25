@@ -12993,6 +12993,15 @@ msgstr " or "
 msgid "spelltree_need_points"
 msgstr "Not enough skill points"
 
+msgid "spelltree_need_unlock"
+msgstr "Unlock %1"
+
+msgid "spelltree_need_unlock_needs"
+msgstr "(needs %1)"
+
+msgid "spelltree_need_unlock_ready"
+msgstr "(ready: pick the school, Unlock)"
+
 msgid "spelltree_need_unlocked"
 msgstr "%1 unlocked"
 
