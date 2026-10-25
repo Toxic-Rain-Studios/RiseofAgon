@@ -3887,7 +3887,7 @@ msgid "constellation_all_weapons"
 msgstr "All weapons"
 
 msgid "constellation_cap_line"
-msgstr "Skill points raise skills up to level %1"
+msgstr "Skill points catch any skill up to level %1"
 
 msgid "constellation_card_less"
 msgstr "Less"
@@ -3974,10 +3974,10 @@ msgid "constellation_reward_attribute_points"
 msgstr "+%1 attribute points"
 
 msgid "constellation_reward_cap"
-msgstr "buy skills to level %1"
+msgstr "catch skills up to %1"
 
 msgid "constellation_reward_cap_short"
-msgstr "skills to %1"
+msgstr "catch up to %1"
 
 msgid "constellation_reward_skill_point"
 msgstr "+%1 skill point"
@@ -4004,12 +4004,10 @@ msgid "constellation_tab_research"
 msgstr "Research"
 
 msgid "constellation_tip_max"
-msgstr ""
-"Levels this skill up to your character level (%1), as far as your skill "
-"points go"
+msgstr "Catch this skill up to your level (%1), as far as your skill points go"
 
 msgid "constellation_tip_plus"
-msgstr "Puts 1 level into this skill for 1 skill point (Shift: 5 levels)"
+msgstr "1 skill point: this skill 1 level closer to your level (Shift: 5)"
 
 msgid "constellation_unlocks_itself"
 msgstr "(unlocks on its own)"
@@ -8827,7 +8825,7 @@ msgstr ""
 "up to 8% of it, more the lower your health."
 
 # BEGIN generated mastery alteration strings (scripts/apply_mastery_alteration_strings.py)
-# 
+#
 # Generated from pvemasteryconfig.xml. Do not hand-edit: re-run the script.
 # The English here IS the config prose, so the window and the .po cannot
 # disagree about what the ability says.
