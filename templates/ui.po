@@ -13278,6 +13278,21 @@ msgstr "2"
 msgid "space"
 msgstr " "
 
+msgid "spell_upgrade_confirm"
+msgstr "Upgrade %1: %2 for %3 gold?"
+
+msgid "spell_upgrade_confirm_replace"
+msgstr "Upgrade %1: %2 for %3 gold? It replaces: %4"
+
+msgid "spell_upgrade_in_combat"
+msgstr "You can't change upgrades while in combat."
+
+msgid "spell_upgrade_tip_buy"
+msgstr "Click to buy: %1 gold (replaces your current upgrade)"
+
+msgid "spell_upgrade_tip_held"
+msgstr "Your upgrade for this spell"
+
 msgid "spells_window_title"
 msgstr "Spells"
 
