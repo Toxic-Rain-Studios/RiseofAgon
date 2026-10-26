@@ -596,6 +596,9 @@ msgid "abilities_detail_workstation_explainer"
 msgstr ""
 "This is the icon for the %1 crafting bench. Find it on your map to access it."
 
+msgid "abilities_details_heading"
+msgstr "Ability Details"
+
 msgid "abilities_details_toggle_tooltip"
 msgstr "Show or hide the details panel"
 
@@ -702,6 +705,15 @@ msgstr "Running trade routes"
 msgid "abilities_lesson_xp_villages"
 msgstr "Capturing and holding villages"
 
+msgid "abilities_level_how_points"
+msgstr "Rises as you use it. Skill points can catch it up to your level."
+
+msgid "abilities_level_how_use"
+msgstr "Rises as you use it."
+
+msgid "abilities_leveling_benefits_heading"
+msgstr "Leveling Benefits"
+
 msgid "abilities_list_level_label"
 msgstr "Level"
 
@@ -714,14 +726,77 @@ msgstr "Categories"
 msgid "abilities_racial_description"
 msgstr "Abilities inherently granted due to being a %1."
 
+msgid "abilities_req_met"
+msgstr "%1 %2"
+
+msgid "abilities_req_ready"
+msgstr "Ready to unlock"
+
+msgid "abilities_req_school_learned"
+msgstr "%1 learned"
+
+msgid "abilities_req_short"
+msgstr "%1 %2 (you have %3, %4 to go)"
+
+msgid "abilities_requirement_school_learn"
+msgstr "Learn %1 first"
+
+msgid "abilities_requirement_unlearned"
+msgstr "%1 %2 - not learned yet"
+
+msgid "abilities_requirements_heading"
+msgstr "Requirements"
+
 msgid "abilities_search_in_selected"
 msgstr "Search in selection"
 
 msgid "abilities_search_placeholder"
 msgstr "Search for an entry"
 
+msgid "abilities_status_available"
+msgstr "Available - ready to unlock"
+
+msgid "abilities_status_available_cost"
+msgstr "Available - unlock for %1 skill points"
+
+msgid "abilities_status_learned"
+msgstr "Learned"
+
+msgid "abilities_status_learned_level"
+msgstr "Learned - level %1"
+
+msgid "abilities_status_locked"
+msgstr "Locked"
+
+msgid "abilities_status_locked_needs"
+msgstr "Locked - %1"
+
 msgid "abilities_track"
 msgstr "Track"
+
+msgid "abilities_unlock_requirements_heading"
+msgstr "Unlock Requirements"
+
+msgid "abilities_unlocks_heading"
+msgstr "Unlocks"
+
+msgid "abilities_unlocks_row_also"
+msgstr "Also requires %1"
+
+msgid "abilities_unlocks_row_at"
+msgstr "At %1 (%2 to go)"
+
+msgid "abilities_unlocks_row_at_also"
+msgstr "At %1 (%2 to go), also requires %3"
+
+msgid "abilities_unlocks_row_owned"
+msgstr "Unlocked"
+
+msgid "abilities_unlocks_row_ready"
+msgstr "Opening now"
+
+msgid "abilities_unlocks_row_with_school"
+msgstr "Opens when you learn %1"
 
 msgid "abilities_untrack"
 msgstr "Untrack"
@@ -13241,7 +13316,7 @@ msgid "spelltree_need_and"
 msgstr " and "
 
 msgid "spelltree_need_more_points"
-msgstr "%1 more points"
+msgstr "%1 more skill points"
 
 msgid "spelltree_need_or"
 msgstr " or "
