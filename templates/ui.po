@@ -603,84 +603,95 @@ msgid "abilities_filter_button"
 msgstr "Filters"
 
 msgid "abilities_lesson_agon_title"
-msgstr "Experience: fighting for Agon"
+msgstr "Earn Experience Through PvP"
 
 msgid "abilities_lesson_back"
 msgstr "Back"
 
+msgid "abilities_lesson_catchup_rule"
+msgstr ""
+"Each point raises a skill by one level, up to your character level. The "
+"faint section of the skill bar shows how far you can catch up."
+
 msgid "abilities_lesson_catchup_text"
 msgstr ""
-"Skill points catch any skill up to your character level, 1 point a level. "
-"The faint part of a bar shows how far your points can take it, and \"++\" "
-"fills it."
+"Skills improve as you use them, but you can also spend skill points to catch "
+"up."
 
 msgid "abilities_lesson_catchup_title"
-msgstr "Catch up the rest"
+msgstr "Catch Up Your Skills"
 
 msgid "abilities_lesson_choice_text"
 msgstr ""
-"Have a favourite spell or way of farming? Stick with it. Your skill points "
-"can catch every other skill up later, or you can level any skill directly by "
-"using it. Play the way you enjoy."
+"Focus on the skills you enjoy. You can always catch up on the others later."
 
 msgid "abilities_lesson_got_it"
-msgstr "I understand"
+msgstr "I Understand"
 
 msgid "abilities_lesson_next"
 msgstr "Next"
 
 msgid "abilities_lesson_points"
-msgstr "Every character level gives skill points."
+msgstr "Every character level awards skill points."
+
+msgid "abilities_lesson_skip"
+msgstr "Skip"
 
 msgid "abilities_lesson_subtitle"
-msgstr "A quick word on how you grow."
+msgstr "A quick guide to how you grow."
 
 msgid "abilities_lesson_title"
-msgstr "Abilities"
+msgstr "Character Progression"
 
 msgid "abilities_lesson_use_text"
 msgstr ""
-"Every hit, spell and craft raises the skill you used, with no limit. Fight, "
-"cast and craft the way you like."
+"Using skills improves them naturally. Fight, cast spells, and craft to "
+"strengthen the abilities you use."
 
 msgid "abilities_lesson_use_title"
-msgstr "Use it to level it"
+msgstr "Use It to Level It"
+
+msgid "abilities_lesson_welcome_subtitle"
+msgstr "Your journey, your progression."
+
+msgid "abilities_lesson_welcome_title"
+msgstr "Welcome to Darkfall!"
 
 msgid "abilities_lesson_world_title"
-msgstr "Experience: out in the world"
+msgstr "Earn Experience in the World"
 
 msgid "abilities_lesson_xp_clan"
-msgstr "Your clan's tasks"
+msgstr "Completing clan tasks"
 
 msgid "abilities_lesson_xp_glyphs"
 msgstr "Capturing and defending glyphs"
 
 msgid "abilities_lesson_xp_monsters"
-msgstr "Killing monsters - tougher monsters give more"
+msgstr "Killing monsters - tougher enemies reward more XP"
 
 msgid "abilities_lesson_xp_pvp"
-msgstr "Killing players or helping kill them, outside safe zones"
+msgstr "Killing or assisting in player kills outside safe zones"
 
 msgid "abilities_lesson_xp_quests"
-msgstr "Quests and side quests"
+msgstr "Completing quests and side quests"
 
 msgid "abilities_lesson_xp_research"
-msgstr "Researching items - crafting's road to experience"
+msgstr "Researching items"
 
 msgid "abilities_lesson_xp_sieges"
-msgstr "Faction and clan sieges, attacking or defending"
+msgstr "Participating in faction and clan sieges"
 
 msgid "abilities_lesson_xp_slayer"
-msgstr "Slayer contracts"
+msgstr "Completing Slayer contracts"
 
 msgid "abilities_lesson_xp_tasks"
-msgstr "Tasks, including your daily and weekly Log tasks"
+msgstr "Completing tasks, including daily and weekly Log tasks"
 
 msgid "abilities_lesson_xp_towers"
-msgstr "Capturing land and sea towers - you and your whole clan"
+msgstr "Capturing land and sea towers"
 
 msgid "abilities_lesson_xp_trade"
-msgstr "Trade route runs"
+msgstr "Running trade routes"
 
 msgid "abilities_lesson_xp_villages"
 msgstr "Capturing and holding villages"
