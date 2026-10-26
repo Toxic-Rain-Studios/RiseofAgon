@@ -637,6 +637,9 @@ msgstr "Every character level awards skill points."
 msgid "abilities_lesson_reopen"
 msgstr "Open this guide again any time with the ? next to the cog."
 
+msgid "abilities_lesson_rewards_hint"
+msgstr "Click your level bar at the top to see what every level gives."
+
 msgid "abilities_lesson_skip"
 msgstr "Skip"
 
@@ -6808,6 +6811,45 @@ msgstr "Browse Clans"
 
 msgid "legacy_clan_manage_clan"
 msgstr "Manage Clan"
+
+msgid "level_rewards_close"
+msgstr "Close"
+
+msgid "level_rewards_col_attribute"
+msgstr "Attribute points"
+
+msgid "level_rewards_col_level"
+msgstr "Level"
+
+msgid "level_rewards_col_skill"
+msgstr "Skill points"
+
+msgid "level_rewards_col_total"
+msgstr "Skill points total"
+
+msgid "level_rewards_col_xp"
+msgstr "XP to next level"
+
+msgid "level_rewards_hover"
+msgstr "Click to see what every level gives"
+
+msgid "level_rewards_next"
+msgstr "Next"
+
+msgid "level_rewards_note"
+msgstr "Points are given when you reach the level."
+
+msgid "level_rewards_page"
+msgstr "Levels %1 - %2"
+
+msgid "level_rewards_previous"
+msgstr "Previous"
+
+msgid "level_rewards_subtitle"
+msgstr "What every character level gives you."
+
+msgid "level_rewards_title"
+msgstr "Level Rewards"
 
 msgid "loadout_addbag_no_empty_bag"
 msgstr "[Loadout] No empty bag found in bank."
