@@ -13278,6 +13278,105 @@ msgstr "2"
 msgid "space"
 msgstr " "
 
+msgid "spec_confirm"
+msgstr "Specialize in %1 for %2 gold?"
+
+msgid "spec_confirm_remove"
+msgstr "Remove %1? It is free."
+
+msgid "spec_confirm_replace"
+msgstr "Specialize in %1 for %2 gold? It replaces %3."
+
+msgid "spec_cost_blocks"
+msgstr "You can't cast Air, Arcane, Earth, Fire, Water or Necromancy spells."
+
+msgid "spec_cost_mana_10"
+msgstr "Max mana -10%."
+
+msgid "spec_cost_mana_5"
+msgstr "Max mana -5%."
+
+msgid "spec_effect_destroyer"
+msgstr "+40% melee damage against targets with a staff drawn."
+
+msgid "spec_effect_guardsman"
+msgstr "Parrying drains 75% less stamina."
+
+msgid "spec_effect_indestructible"
+msgstr "+10 max health and +4 to every magic protection."
+
+msgid "spec_effect_mage_hunter"
+msgstr "+10 max health and +3 to every magic protection."
+
+msgid "spec_effect_mage_killer"
+msgstr "+20% bow and thrown damage against targets with a staff drawn."
+
+msgid "spec_effect_mana_shield"
+msgstr "15% of the damage you take comes from your mana instead."
+
+msgid "spec_effect_master_scout"
+msgstr "+15 identify range."
+
+msgid "spec_effect_side_step"
+msgstr "Side-step with a double-tap or the side-step key."
+
+msgid "spec_heading_archery"
+msgstr "Archery Specializations"
+
+msgid "spec_heading_melee"
+msgstr "Melee Specializations"
+
+msgid "spec_name_destroyer"
+msgstr "Destroyer"
+
+msgid "spec_name_guardsman"
+msgstr "Guardsman"
+
+msgid "spec_name_indestructible"
+msgstr "Indestructible"
+
+msgid "spec_name_mage_hunter"
+msgstr "Mage Hunter"
+
+msgid "spec_name_mage_killer"
+msgstr "Mage Killer"
+
+msgid "spec_name_mana_shield"
+msgstr "Mana Shield"
+
+msgid "spec_name_master_scout"
+msgstr "Master Scout"
+
+msgid "spec_name_side_step"
+msgstr "Side Step"
+
+msgid "spec_price"
+msgstr "%1 gold"
+
+msgid "spec_slot"
+msgstr "Slot %1"
+
+msgid "spec_slot_choice"
+msgstr "Slot %1 - one of these"
+
+msgid "spec_star_archery"
+msgstr "Archery Specializations"
+
+msgid "spec_star_melee"
+msgstr "Melee Specializations"
+
+msgid "spec_state_clash"
+msgstr "Can't be held with %1 (yours)"
+
+msgid "spec_state_held"
+msgstr "Yours - click to remove it (free)"
+
+msgid "spec_when_archery"
+msgstr "They work while a bow or thrown weapon is drawn."
+
+msgid "spec_when_melee"
+msgstr "They work while a melee weapon is drawn."
+
 msgid "spell_upgrade_confirm"
 msgstr "Upgrade %1: %2 for %3 gold?"
 
