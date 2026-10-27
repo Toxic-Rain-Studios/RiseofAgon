@@ -203,6 +203,9 @@ msgstr "Dexterity Penalty"
 msgid "Double Jump"
 msgstr "Double Jump"
 
+msgid "Drunk"
+msgstr "Drunk"
+
 msgid "Dwarven Perseverance"
 msgstr "Dwarven Perseverance"
 
@@ -915,6 +918,15 @@ msgstr ""
 
 msgid "desc_Double Jump"
 msgstr "  "
+
+msgid "desc_Drunk"
+msgstr ""
+"Drunk: Strength +3, Intelligence -10, Dexterity -10 and a 4% chance for "
+"spells to fizzle for each level, with swaying vision, blurred edges and "
+"unsteady melee swings. Your instrument notes come out jumbled, you burst out "
+"laughing or taunting now and then, and mounts, boats, warhulks and cannons "
+"steer the wrong way now and then, more often the drunker you are. Each ale "
+"adds a level, up to five, and starts the 2 minutes again."
 
 msgid "desc_Dwarven Perseverance"
 msgstr " "

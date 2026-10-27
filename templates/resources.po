@@ -2117,6 +2117,9 @@ msgstr " "
 msgid "desc_r_Alchemists Stone"
 msgstr "Magical tool necessary for using the alchemy skill."
 
+msgid "desc_r_Alcohol"
+msgstr "Brewed drinks that make you drunk."
+
 msgid "desc_r_Aldaruk"
 msgstr ""
 "Orkish weaponsmiths create this powerful weapon using materials such as "
@@ -2131,6 +2134,12 @@ msgid "desc_r_Alderward"
 msgstr ""
 "A sturdy metal protector commonly found among intermediate warriors. Its "
 "design grant a slightly improved durability compared to similar shields."
+
+msgid "desc_r_Ale"
+msgstr ""
+"A frothy mug of ale. Each one makes you drunker, up to five: stronger, but "
+"clumsier and slower-witted, and quick to laugh. Wears off 2 minutes after "
+"the last one. Drink responsibly."
 
 msgid "desc_r_Alfar"
 msgstr "Description of r_Alfar"
@@ -3116,6 +3125,11 @@ msgid "desc_r_Bark Brown Dye"
 msgstr ""
 "Express your style with this armor coloring dye. Cannot be used for research."
 
+msgid "desc_r_Barley"
+msgstr ""
+"A hardy grain that now and then comes up among the crops of farms. Brewers "
+"turn it into ale."
+
 msgid "desc_r_Basalt Golem"
 msgstr " "
 
@@ -3292,6 +3306,12 @@ msgstr "Made with fresh berries, it looks and tastes delicious."
 
 msgid "desc_r_Betrayer"
 msgstr "One of the seven sithras. Dealing Acid damage."
+
+msgid "desc_r_Beverage"
+msgstr ""
+"A test beverage for the drunk effect. Each one makes you drunker: stronger, "
+"but clumsier and slower-witted, drink responsibly. Up to five add up; the "
+"effect wears off 2 minutes after the last one."
 
 msgid "desc_r_Bighorn"
 msgstr " "
@@ -22390,6 +22410,9 @@ msgstr ""
 "\n"
 "A laugh that could make anyone happy."
 
+msgid "display_name_r_Beverage"
+msgstr "Beverage"
+
 msgid "display_name_r_Mount Skin Scroll"
 msgstr "Mount Skin Scroll"
 
@@ -22501,6 +22524,9 @@ msgstr "Akathars"
 msgid "r_Alchemists Stone"
 msgstr "Alchemists Stone"
 
+msgid "r_Alcohol"
+msgstr "Alcohol"
+
 msgid "r_Aldaruk"
 msgstr "Aldaruk"
 
@@ -22509,6 +22535,9 @@ msgstr "Aldermoon"
 
 msgid "r_Alderward"
 msgstr "Alderward"
+
+msgid "r_Ale"
+msgstr "Ale"
 
 msgid "r_Alfar"
 msgstr "Alfar"
@@ -23424,6 +23453,9 @@ msgstr "Baradron"
 
 msgid "r_Bark Brown Dye"
 msgstr "Bark Brown Dye"
+
+msgid "r_Barley"
+msgstr "Barley"
 
 msgid "r_Basalt Golem"
 msgstr "Basalt Golem"

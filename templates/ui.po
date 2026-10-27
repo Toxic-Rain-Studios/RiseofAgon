@@ -435,6 +435,18 @@ msgstr "Willpower"
 msgid "Witchcraft Transmutation"
 msgstr "Witchcraft Transmutation"
 
+msgid "abilities_daily_xp_full"
+msgstr "Daily XP: full rate, %1 left (resets in %2)"
+
+msgid "abilities_daily_xp_full_short"
+msgstr "Daily XP: full"
+
+msgid "abilities_daily_xp_reduced"
+msgstr "Daily XP: %1% (resets in %2)"
+
+msgid "abilities_daily_xp_reduced_short"
+msgstr "Daily XP: %1%"
+
 msgid "abilities_detail_active"
 msgstr "Active"
 
@@ -752,6 +764,12 @@ msgstr "Search in selection"
 
 msgid "abilities_search_placeholder"
 msgstr "Search for an entry"
+
+msgid "abilities_skill_points_chip"
+msgstr "Skill points: %1   Attribute points: %2"
+
+msgid "abilities_skill_points_chip_shared"
+msgstr "Points: %1"
 
 msgid "abilities_status_available"
 msgstr "Available - ready to unlock"
@@ -1498,11 +1516,25 @@ msgstr "Boards"
 msgid "browser_home"
 msgstr "Home"
 
+msgid "buff_rested"
+msgstr "Rested"
+
+msgid "buff_rested_desc"
+msgstr "Double character XP for the next %1% of this level."
+
 msgid "buff_road_speed"
 msgstr "Road Speed"
 
 msgid "buff_road_speed_desc"
 msgstr "Your mount is moving faster on a paved road."
+
+msgid "buff_weary"
+msgstr "Weary"
+
+msgid "buff_weary_desc"
+msgstr ""
+"You have had today's full-rate character XP. XP from activities pays %1% "
+"until 00:00 UTC (in %2). PvP kills are not reduced."
 
 msgid "button_accept"
 msgstr "Accept"
@@ -4582,6 +4614,12 @@ msgstr "Crosshair"
 
 msgid "crouching"
 msgstr "crouching"
+
+msgid "daily_xp_time_hours"
+msgstr "%1 h %2 min"
+
+msgid "daily_xp_time_minutes"
+msgstr "%1 min"
 
 msgid "decline"
 msgstr "Decline"
