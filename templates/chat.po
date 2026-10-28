@@ -9993,6 +9993,11 @@ msgstr "^Cgold^Return Buy Order #%1 - broker fee %2 - cash deposit %3"
 msgid "NOTIFICATION_MARKET_RETURNED_SELL_ORDER"
 msgstr "^Cgold^Return Sell Order #%1 - broker fee %2 - %3 %4"
 
+msgid "NOTIFICATION_MARKET_SCROLL_NO_BUY_ORDER"
+msgstr ""
+"^Cgold^%1 cannot be traded through buy orders. List it with a sell order "
+"instead."
+
 msgid "NOTIFICATION_MARKET_SESSION_CLOSED_FOR_CRAFTING"
 msgstr "The marketplace was closed to open your crafting session."
 
