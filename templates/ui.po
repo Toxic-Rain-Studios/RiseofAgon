@@ -3139,6 +3139,12 @@ msgstr "Diplomat"
 msgid "clan_role_description_director"
 msgstr "Director"
 
+msgid "clan_role_description_factory_manager"
+msgstr "Factory Manager"
+
+msgid "clan_role_description_factory_supplier"
+msgstr "Factory Supplier"
+
 msgid "clan_role_description_member"
 msgstr "Member"
 
@@ -3217,6 +3223,12 @@ msgid "clan_role_name_director"
 msgstr ""
 "Includes all other roles and can assign roles up to Director. Can only be "
 "applied by the Supreme General."
+
+msgid "clan_role_name_factory_manager"
+msgstr "Can start, cancel and claim jobs at the clan's industrial factories."
+
+msgid "clan_role_name_factory_supplier"
+msgstr "Can unload wagons and crates into the clan's industrial factories."
 
 msgid "clan_role_name_member"
 msgstr "Default member status allows use of facilities."
@@ -4252,6 +4264,54 @@ msgstr "Holding Maintenance"
 #. Glyph harvest: the glyph context menu entry that collects a ready harvest.
 msgid "context_menu_glyph_harvest_collect"
 msgstr "Collect Harvest"
+
+msgid "context_menu_industrial_activate_overdrive"
+msgstr "Restart: Overdrive"
+
+msgid "context_menu_industrial_activate_quiet"
+msgstr "Restart: Quiet"
+
+msgid "context_menu_industrial_activate_standard"
+msgstr "Restart: Standard"
+
+msgid "context_menu_industrial_breach"
+msgstr "Breach warehouse"
+
+msgid "context_menu_industrial_disarm"
+msgstr "Disarm"
+
+msgid "context_menu_industrial_hitch"
+msgstr "Hitch wagon"
+
+msgid "context_menu_industrial_hoist_aboard"
+msgstr "Hoist aboard"
+
+msgid "context_menu_industrial_hoist_ashore"
+msgstr "Hoist ashore"
+
+msgid "context_menu_industrial_inspect"
+msgstr "Inspect machinery"
+
+msgid "context_menu_industrial_load_wagon"
+msgstr "Load wagon"
+
+msgid "context_menu_industrial_open_factory"
+msgstr "Open factory"
+
+msgid "context_menu_industrial_repair"
+msgstr "Repair generator"
+
+msgid "context_menu_industrial_repair_crane"
+msgstr "Repair crane"
+
+msgid "context_menu_industrial_sabotage"
+msgstr "Sabotage generator"
+
+msgid "context_menu_industrial_sabotage_crane"
+msgstr "Sabotage crane"
+
+msgid "context_menu_industrial_shutdown"
+msgstr "Shut down machinery"
 
 msgid "context_menu_invite_player_to_house"
 msgstr "Invite to House"
@@ -5731,6 +5791,495 @@ msgstr "A.K.A. %1"
 
 msgid "hud_title_in_clan_and_clan_name"
 msgstr "%1 of %2"
+
+msgid "industrial_action_interrupted"
+msgstr "You were interrupted."
+
+msgid "industrial_activated"
+msgstr "The machinery roars back to life."
+
+msgid "industrial_barricade_holding"
+msgstr "This holding is not in its siege window - no barricades here now."
+
+msgid "industrial_barricade_interrupted"
+msgstr "The barricade was not set up."
+
+msgid "industrial_barricade_mounted"
+msgstr "Get off your mount or vehicle to set up a barricade."
+
+msgid "industrial_barricade_near_service"
+msgstr "Too close to a bank, bindstone or portal for a barricade."
+
+msgid "industrial_barricade_not_lawless"
+msgstr "Barricades can only be set up on open lawless land."
+
+msgid "industrial_barricade_occupied"
+msgstr "Something is in the way of the barricade."
+
+msgid "industrial_barricade_setting_up"
+msgstr "Setting up the barricade... hold still for 5 seconds."
+
+msgid "industrial_breach_done"
+msgstr "The warehouse is breached: anyone can take from it for a while."
+
+msgid "industrial_breach_ended"
+msgstr "The warehouse is locked again."
+
+msgid "industrial_breach_refused"
+msgstr "The warehouse cannot be breached right now."
+
+msgid "industrial_breach_started"
+msgstr "You start breaching the warehouse. Stay close and don't get hit."
+
+msgid "industrial_busy"
+msgstr "Someone else is already doing that."
+
+msgid "industrial_captured"
+msgstr "%1 has changed hands."
+
+msgid "industrial_cargo_cap"
+msgstr "You cannot carry more than %1 cargo crates."
+
+msgid "industrial_cargo_dropped"
+msgstr "Your industrial cargo falls to the ground."
+
+msgid "industrial_cargo_no_bag"
+msgstr ""
+"Industrial cargo must stay loose in your backpack, not in a bag or a slot."
+
+msgid "industrial_cargo_no_travel"
+msgstr "You cannot travel this way while carrying industrial cargo."
+
+msgid "industrial_cargo_not_here"
+msgstr ""
+"Industrial cargo can only be carried in your backpack or dropped on the "
+"ground."
+
+msgid "industrial_channel_interrupted"
+msgstr "The restart was interrupted. Your kit was not used."
+
+msgid "industrial_channel_started"
+msgstr ""
+"You begin restarting the machinery (1 Industrial Activation Kit). Stay close "
+"and don't get hit."
+
+msgid "industrial_charge_already"
+msgstr "That structure already has a charge on it."
+
+msgid "industrial_charge_disarmed"
+msgstr "The charge is disarmed."
+
+msgid "industrial_charge_disarmed_yours"
+msgstr "Your demolition charge was disarmed."
+
+msgid "industrial_charge_disarming"
+msgstr "Disarming the charge... hold still for 5 seconds."
+
+msgid "industrial_charge_exploded"
+msgstr "A demolition charge exploded at %1."
+
+msgid "industrial_charge_immune"
+msgstr "A charge was just cleared from that structure. Try again in a minute."
+
+msgid "industrial_charge_inspect"
+msgstr "A lit demolition charge. It blows in %1 seconds."
+
+msgid "industrial_charge_interrupted"
+msgstr "The charge was not set."
+
+msgid "industrial_charge_no_kit"
+msgstr "You no longer have a Demolition Charge Kit - the charge was not set."
+
+msgid "industrial_charge_no_target"
+msgstr "There is no enemy clan structure within reach to plant the charge on."
+
+msgid "industrial_charge_not_defender"
+msgstr "Only the holding's clan and its allies can disarm this charge."
+
+msgid "industrial_charge_not_in_window"
+msgstr ""
+"That holding is not in its siege window - a charge would do nothing to it "
+"now."
+
+msgid "industrial_charge_own_or_allied"
+msgstr ""
+"You cannot plant a charge on your own clan's or an allied clan's structure."
+
+msgid "industrial_charge_planting"
+msgstr "Setting the charge... hold still for 8 seconds."
+
+msgid "industrial_charge_set"
+msgstr "Charge set! It blows in %1 seconds - get clear."
+
+msgid "industrial_charge_warning"
+msgstr ""
+"A demolition charge has been planted on a structure of %1! Disarm it before "
+"it blows."
+
+msgid "industrial_contested"
+msgstr "%1 is contested: production has stopped."
+
+msgid "industrial_crane_repair_done"
+msgstr "The crane works again."
+
+msgid "industrial_crane_repair_refused"
+msgstr "Only the controlling clan can repair a wrecked crane."
+
+msgid "industrial_crane_repair_started"
+msgstr "You start repairing the crane. Stay close and don't get hit."
+
+msgid "industrial_crane_sabotage_done"
+msgstr "The crane is wrecked. Cargo must be loaded by hand."
+
+msgid "industrial_crane_sabotage_refused"
+msgstr "The crane cannot be sabotaged right now."
+
+msgid "industrial_crane_sabotage_started"
+msgstr "You start sabotaging the crane. Stay close and don't get hit."
+
+msgid "industrial_factory_cancel_button"
+msgstr "Cancel"
+
+msgid "industrial_factory_cancelled"
+msgstr "Cancelled the %1: %2 crate(s) back in the warehouse."
+
+msgid "industrial_factory_cannot_afford"
+msgstr "The factory does not have the cargo for that."
+
+msgid "industrial_factory_cargo_not_used"
+msgstr "This factory has no use for the cargo in the wagon: it stays aboard."
+
+msgid "industrial_factory_chest_not_ready"
+msgstr "The factory chest is not ready yet. Try again in a moment."
+
+msgid "industrial_factory_claim_button"
+msgstr "Claim"
+
+msgid "industrial_factory_claim_failed"
+msgstr "The equipment could not be rolled out. It is still ready to claim."
+
+msgid "industrial_factory_claimed"
+msgstr "Your %1 rolls out onto the factory's pad."
+
+msgid "industrial_factory_claimed_items"
+msgstr "%1 x %2 are waiting for your clan in the factory's chest."
+
+msgid "industrial_factory_confirm_button"
+msgstr "Confirm?"
+
+msgid "industrial_factory_confirm_lose_half"
+msgstr "Lose half?"
+
+msgid "industrial_factory_crates_invalid"
+msgstr ""
+"The factory destroyed %1 crate(s) with no delivery record: only cargo made "
+"at an industrial site can be delivered."
+
+msgid "industrial_factory_equipment_cannot_unspawn"
+msgstr "Factory-built siege equipment cannot be packed away."
+
+msgid "industrial_factory_hint"
+msgstr ""
+"Factory Suppliers drag industrial cargo into the factory's intake chest, or "
+"bring a cargo wagon alongside and unload it."
+
+msgid "industrial_factory_intake_paused"
+msgstr "The factory cannot take cargo in right now. Try again shortly."
+
+msgid "industrial_factory_job_building"
+msgstr "Building - %1 left"
+
+msgid "industrial_factory_job_cancelled"
+msgstr "Cancelled"
+
+msgid "industrial_factory_job_claimed"
+msgstr "Claimed"
+
+msgid "industrial_factory_job_expired"
+msgstr "Expired"
+
+msgid "industrial_factory_job_paused"
+msgstr "Paused (under attack) - %1 left"
+
+msgid "industrial_factory_job_queued"
+msgstr "Queued"
+
+msgid "industrial_factory_job_ready"
+msgstr "Ready - claim within %1"
+
+msgid "industrial_factory_jobs_header"
+msgstr "Jobs"
+
+msgid "industrial_factory_locked"
+msgstr "Only the clan that holds this holding can use its factory."
+
+msgid "industrial_factory_no_jobs"
+msgstr "Nothing is being built."
+
+msgid "industrial_factory_no_recipe"
+msgstr "This factory cannot build that."
+
+msgid "industrial_factory_no_stock"
+msgstr "No cargo delivered yet."
+
+msgid "industrial_factory_no_wagon"
+msgstr "None of your clan's wagons stands next to the factory."
+
+msgid "industrial_factory_not_cancellable"
+msgstr "Only a queued or building job can be cancelled."
+
+msgid "industrial_factory_not_officer"
+msgstr ""
+"Only the clan's Director, a Construction Manager or a Factory Manager can "
+"start, cancel or claim factory jobs."
+
+msgid "industrial_factory_not_ready"
+msgstr "That job is not ready to claim."
+
+msgid "industrial_factory_not_supplier"
+msgstr ""
+"Only the clan's Factory Suppliers and Factory Managers can bring cargo into "
+"this factory."
+
+msgid "industrial_factory_out_of_range"
+msgstr "Move closer to the factory."
+
+msgid "industrial_factory_pad_busy"
+msgstr "Equipment is already rolling out onto the pad. Try again in a moment."
+
+msgid "industrial_factory_pad_occupied"
+msgstr ""
+"A machine from this factory still stands on its pad. Move it off before "
+"claiming the next one."
+
+msgid "industrial_factory_queue_full"
+msgstr "The factory's queue is full."
+
+msgid "industrial_factory_recipe_detail"
+msgstr "%1 - %2 to build"
+
+msgid "industrial_factory_recipes_header"
+msgstr "Build"
+
+msgid "industrial_factory_role_member"
+msgstr ""
+"Factory Suppliers deliver cargo; the Director, Construction Managers and "
+"Factory Managers start, cancel and claim jobs."
+
+msgid "industrial_factory_role_officer"
+msgstr "You can start, cancel and claim jobs."
+
+msgid "industrial_factory_start_button"
+msgstr "Start"
+
+msgid "industrial_factory_started"
+msgstr "The factory starts work on a %1."
+
+msgid "industrial_factory_status"
+msgstr "%1 factory. Owner: %2. %3"
+
+msgid "industrial_factory_stock_header"
+msgstr "Stock"
+
+msgid "industrial_factory_unload_button"
+msgstr "Unload wagon"
+
+msgid "industrial_factory_unloaded"
+msgstr "%1 crate(s) are unloaded into the factory."
+
+msgid "industrial_factory_unloaded_left"
+msgstr ""
+"%1 crate(s) are unloaded into the factory; %2 stay in the wagon (the factory "
+"has no room or no use for them)."
+
+msgid "industrial_factory_wagon_empty"
+msgstr "The wagon has no cargo to unload."
+
+msgid "industrial_factory_warehouse_full"
+msgstr ""
+"The factory's warehouse has no room for that material: the cargo stays where "
+"it is until jobs use some up."
+
+msgid "industrial_factory_window_title"
+msgstr "%1 Factory"
+
+msgid "industrial_hitch_cooldown"
+msgstr "No wagon is ready yet. Try again shortly."
+
+msgid "industrial_hitch_done"
+msgstr "A wagon is hitched and waiting at the site."
+
+msgid "industrial_hitch_failed"
+msgstr "The wagon could not be hitched. Try again."
+
+msgid "industrial_hitch_no_cargo"
+msgstr "There is no cargo waiting to be hauled."
+
+msgid "industrial_hitch_not_controller"
+msgstr "Only the clan that controls this site can hitch its wagon."
+
+msgid "industrial_hitch_wagon_out"
+msgstr "This site's wagon is already out."
+
+msgid "industrial_hoist_aboard_done"
+msgstr "%1 is aboard."
+
+msgid "industrial_hoist_ashore_done"
+msgstr "%1 is ashore."
+
+msgid "industrial_hoist_blocked"
+msgstr "Someone is standing in the way."
+
+msgid "industrial_hoist_busy"
+msgstr "It is already being hoisted."
+
+msgid "industrial_hoist_cancelled"
+msgstr "Hoisting stopped."
+
+msgid "industrial_hoist_moving"
+msgstr "The ship must be stopped."
+
+msgid "industrial_hoist_no_land"
+msgstr "There is no land to set it on."
+
+msgid "industrial_hoist_no_room"
+msgstr "There is no room on that ship."
+
+msgid "industrial_hoist_no_ship"
+msgstr "No ship close enough."
+
+msgid "industrial_hoist_not_aboard"
+msgstr "It is not aboard a ship."
+
+msgid "industrial_hoist_not_friendly"
+msgstr "That ship is not yours, your clan's or an ally's."
+
+msgid "industrial_hoist_not_hoistable"
+msgstr "That cannot be hoisted."
+
+msgid "industrial_hoist_ship_gone"
+msgstr "The ship is gone."
+
+msgid "industrial_hoist_started"
+msgstr "Hoisting %1..."
+
+msgid "industrial_hoist_too_far"
+msgstr "You are too far from it."
+
+msgid "industrial_hoist_too_small"
+msgstr "That ship is too small to carry it."
+
+msgid "industrial_hold_cargo_only"
+msgstr "Only industrial cargo goes in this hold."
+
+msgid "industrial_hold_full"
+msgstr "The hold is full."
+
+msgid "industrial_hold_locked"
+msgstr "This wagon's hold opens only for the clan that hitched it."
+
+msgid "industrial_kit_expired"
+msgstr ""
+"Your Industrial Activation Kit has crumbled to dust: it lasts 6 hours after "
+"it is looted."
+
+msgid "industrial_kit_expires_after_loot"
+msgstr "Crumbles 6 hours after it is looted"
+
+msgid "industrial_kit_expires_in"
+msgstr "Crumbles in %1"
+
+msgid "industrial_load_crane_broken"
+msgstr "The crane is wrecked. Repair it, or load the wagon by hand."
+
+msgid "industrial_load_done"
+msgstr "The crane swings %1 crate(s) into the wagon."
+
+msgid "industrial_load_no_wagon"
+msgstr "There is no wagon to load. Hitch one at the warehouse."
+
+msgid "industrial_load_not_controller"
+msgstr "Only the clan that controls this site can work its crane."
+
+msgid "industrial_load_not_your_wagon"
+msgstr "The crane only loads your own clan's wagon."
+
+msgid "industrial_load_refused"
+msgstr "The crane cannot load the wagon right now."
+
+msgid "industrial_load_started"
+msgstr "You start working the crane. Stay close and don't get hit."
+
+msgid "industrial_load_wagon_far"
+msgstr "Bring the wagon closer to the crane."
+
+msgid "industrial_need_clan"
+msgstr "You must be in a clan to do that here."
+
+msgid "industrial_need_kit"
+msgstr "You need an Industrial Activation Kit."
+
+msgid "industrial_nothing_to_repair"
+msgstr "It is working: there is nothing to repair."
+
+msgid "industrial_out_of_range"
+msgstr "You are too far away - move closer."
+
+msgid "industrial_overdrive_announce"
+msgstr "Industrial machinery is running in Overdrive at %1!"
+
+msgid "industrial_pile_locked"
+msgstr "Only the clan controlling this site can take from its warehouse."
+
+msgid "industrial_repair_done"
+msgstr "The generator runs again."
+
+msgid "industrial_repair_refused"
+msgstr "Only the controlling clan can repair a wrecked generator."
+
+msgid "industrial_repair_started"
+msgstr "You start repairing the generator. Stay close and don't get hit."
+
+msgid "industrial_sabotage_done"
+msgstr "The generator is wrecked. Production has stopped."
+
+msgid "industrial_sabotage_refused"
+msgstr "The generator cannot be sabotaged right now."
+
+msgid "industrial_sabotage_started"
+msgstr "You start sabotaging the generator. Stay close and don't get hit."
+
+msgid "industrial_ship_hold_idle_lost"
+msgstr ""
+"Your ship was left unattended for 30 minutes: its strongbox lost its %1 "
+"cargo crates - a cargo wreck beside the ship holds what was saved."
+
+msgid "industrial_shutdown_done"
+msgstr "The machinery grinds to a halt."
+
+msgid "industrial_shutdown_refused"
+msgstr "Only the clan running this machinery can shut it down."
+
+msgid "industrial_status"
+msgstr "%1: %2. Mode: %3. %4 crate(s) waiting. %5"
+
+msgid "industrial_status_control"
+msgstr "Control: %1. Capture: %2. Generator: %3. Warehouse: %4."
+
+msgid "industrial_status_logistics"
+msgstr "Wagon: %1. Crane: %2."
+
+msgid "industrial_unavailable"
+msgstr "That cannot be done right now."
+
+msgid "industrial_wagon_cannot_unspawn"
+msgstr "A wagon cannot be packed away."
+
+msgid "industrial_wagon_departed"
+msgstr "A loaded wagon has left %1."
+
+msgid "industrial_wagon_wrecked"
+msgstr "Your wagon is lost. %1 crate(s) lie in its wreck."
 
 msgid "interaction_barber_buy_features_button"
 msgstr "Change Features"
@@ -10467,6 +11016,66 @@ msgstr ""
 msgid "name_ok"
 msgstr "Character name accepted!"
 
+msgid "naval_ammo_strip_fell_back"
+msgstr "Out of %1 - %2 loaded."
+
+msgid "naval_chain_shot_armed"
+msgstr "Chain Shot armed (%1 carried): your ship cannon shots use it."
+
+msgid "naval_fire_out"
+msgstr "The fire is out."
+
+msgid "naval_fire_started"
+msgstr "Fire aboard! Repair the ship to put it out."
+
+msgid "naval_grapeshot_armed"
+msgstr "Grapeshot armed (%1 carried): your ship cannon shots use it."
+
+msgid "naval_incendiary_shot_armed"
+msgstr "Incendiary Shot armed (%1 carried): your ship cannon shots use it."
+
+msgid "naval_rigging_hit"
+msgstr ""
+"Chain shot! The rigging is torn and the ship is slowed - repair the ship to "
+"mend it."
+
+msgid "naval_rigging_mended"
+msgstr "The rigging is mended."
+
+msgid "naval_shot_disarmed"
+msgstr "Round Shot selected: your ship cannon fires round shot."
+
+msgid "naval_shot_fell_back"
+msgstr "Out of %1: firing Round Shot."
+
+msgid "naval_shot_none"
+msgstr "No ship shot: craft Round Shot (Engineering) or bring special shot."
+
+msgid "naval_shot_out"
+msgstr "Out of special shot: your cannon fires round shot again."
+
+msgid "naval_shot_out_pick"
+msgstr "Out of %1: pick another shot on the ammo strip."
+
+msgid "naval_shot_selected"
+msgstr "%1 selected for ship cannons (%2 carried)."
+
+msgid "naval_smoke_shot_armed"
+msgstr "Smoke Shot armed (%1 carried): your ship cannon shots use it."
+
+msgid "naval_upgrade_already"
+msgstr "The ship already has that upgrade."
+
+msgid "naval_upgrade_fitted"
+msgstr "%1 fitted to your ship."
+
+msgid "naval_upgrade_no_ship"
+msgstr "There is no ship within 15 m to fit it to."
+
+msgid "naval_upgrade_not_owner"
+msgstr ""
+"Only the ship's owner (whoever last took its helm) can fit upgrades to it."
+
 msgid "news_reel_filters_binding"
 msgstr "Binds"
 
@@ -10478,6 +11087,9 @@ msgstr "Fortresses"
 
 msgid "news_reel_filters_in_out"
 msgstr "Proximity"
+
+msgid "news_reel_filters_industry"
+msgstr "Industry"
 
 msgid "news_reel_filters_login_logout"
 msgstr "Connections"
@@ -14044,6 +14656,46 @@ msgstr "Text Type"
 
 msgid "vitalstats_options_window_title"
 msgstr "Vital Stats Window Options"
+
+msgid "war_balloon_bomb_away"
+msgstr "Bomb away! %1 left."
+
+msgid "war_balloon_bomb_landed"
+msgstr "The balloon must be in the air to drop a bomb."
+
+msgid "war_balloon_bomb_reloading"
+msgstr "The bomb bay is not ready yet."
+
+msgid "war_balloon_fuel_low"
+msgstr "Fuel low: %1 left."
+
+msgid "war_balloon_helm_busy"
+msgstr "Someone else is at the helm."
+
+msgid "war_balloon_helm_left"
+msgstr "You let go of the helm."
+
+msgid "war_balloon_helm_taken"
+msgstr ""
+"You take the helm. W/S: throttle, A/D: turn, Space/C: climb and descend, "
+"attack: drop a bomb. Use the helm again to let go."
+
+msgid "war_balloon_helm_too_far"
+msgstr "You moved away from the helm and let go of it."
+
+msgid "war_balloon_no_bombs"
+msgstr "The bomb bay is empty."
+
+msgid "war_balloon_out_of_fuel"
+msgstr "Out of fuel - the balloon is coming down."
+
+msgid "war_balloon_refuelled"
+msgstr "Refuelled from the hold: fuel %1, bomb bay re-armed."
+
+msgid "war_balloon_spent"
+msgstr ""
+"Out of fuel and grounded. Load cargo crates (any material) into the "
+"balloon's hold to refuel it (2 minutes each)."
 
 msgid "weapon_bar_auto_equip_config_add_filter_button"
 msgstr "Add filter"

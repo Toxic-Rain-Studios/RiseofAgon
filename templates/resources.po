@@ -4044,6 +4044,12 @@ msgstr ""
 "A large ceramic vase, used for holding flowers or just for decoration on its "
 "own."
 
+msgid "desc_r_Chain Shot"
+msgstr ""
+"Ship cannon ammunition. Use it, or pick it on the ammo strip while manning a "
+"ship cannon: each ship cannon shot you fire then spends one. A ship it hits "
+"loses speed and handling for a while; repairing the ship mends the rigging."
+
 msgid "desc_r_Chaldean Black Powder"
 msgstr ""
 "A highly volatile substance used for firing cannons in the Watchers Wastes."
@@ -4152,6 +4158,12 @@ msgstr " "
 
 msgid "desc_r_City Markers"
 msgstr " "
+
+msgid "desc_r_Clan Advanced Shipyard"
+msgstr ""
+"An industrial holding's Advanced Shipyard. While it stands, the city's "
+"owners turn industrial cargo into special shot and ship upgrades here. If it "
+"is disabled or destroyed, its work waits until it is repaired or rebuilt."
 
 msgid "desc_r_Clan Bank"
 msgstr "Press Use button to access bank. Press Alternative Use to open menu."
@@ -4375,6 +4387,13 @@ msgstr "Destructible."
 msgid "desc_r_Clan Crates_03"
 msgstr "Destructible."
 
+msgid "desc_r_Clan Engineering Workshop"
+msgstr ""
+"An industrial holding's Engineering Workshop. While it stands, the city's "
+"owners turn industrial cargo into demolition charges and field barricades "
+"here. If it is disabled or destroyed, its work waits until it is repaired or "
+"rebuilt."
+
 msgid "desc_r_Clan Fighters Guild Alfar"
 msgstr "Destructible."
 
@@ -4511,6 +4530,11 @@ msgstr "Destructible."
 
 msgid "desc_r_Clan House Ork_05"
 msgstr "Destructible."
+
+msgid "desc_r_Clan Industrial Holdings"
+msgstr ""
+"The buildings of an industrial holding. A clan builds them in its city to "
+"turn industrial cargo into war machines and kit."
 
 msgid "desc_r_Clan Keep Alfar"
 msgstr "Destructible."
@@ -4652,6 +4676,12 @@ msgstr "Destructible."
 msgid "desc_r_Clan Member Markers"
 msgstr " "
 
+msgid "desc_r_Clan Military Logistics Centre"
+msgstr ""
+"An industrial holding's Military Logistics Centre. While it stands, the "
+"city's owners turn industrial cargo into armoured wagons here. If it is "
+"disabled or destroyed, its work waits until it is repaired or rebuilt."
+
 msgid "desc_r_Clan Obelisk Altar"
 msgstr ""
 "Destructible. Can hold an obelisk to provide benefits for the owning clan."
@@ -4713,6 +4743,13 @@ msgid "desc_r_Clan Shipyard"
 msgstr ""
 "Press Use button to start crafting.Destructible. Damaged buildings may be "
 "rebuilt using repair hammers."
+
+msgid "desc_r_Clan Siege Factory"
+msgstr ""
+"An industrial holding's Siege Factory. While it stands, the city's owners "
+"turn industrial cargo into catapults, heavy catapults, battering rams and "
+"the War Balloon here. If it is disabled or destroyed, its work waits until "
+"it is repaired or rebuilt."
 
 msgid "desc_r_Clan Smelter"
 msgstr "Press Use button to refine ore into ingots.Destructible."
@@ -9767,6 +9804,13 @@ msgstr " "
 msgid "desc_r_Granite Golem"
 msgstr " "
 
+msgid "desc_r_Grapeshot"
+msgstr ""
+"Ship cannon ammunition. Use it, or pick it on the ammo strip while manning a "
+"ship cannon: each ship cannon shot you fire then spends one. A short-range, "
+"wide blast (up to 80 m) that hits crews on deck or the shore hard but barely "
+"scratches a hull."
+
 msgid "desc_r_Grave Grey Dye"
 msgstr ""
 "Express your style with this armor coloring dye. Cannot be used for research."
@@ -10486,9 +10530,170 @@ msgstr " "
 msgid "desc_r_In the Eyes of Nature Item"
 msgstr "A painting with a nature motif. Double-click to place in your home."
 
+msgid "desc_r_Incendiary Shot"
+msgstr ""
+"Ship cannon ammunition. Use it, or pick it on the ammo strip while manning a "
+"ship cannon: each ship cannon shot you fire then spends one. A ship it hits "
+"catches fire and burns until its crew repairs it or the fire burns out."
+
 msgid "desc_r_Indigo Purple Dye"
 msgstr ""
 "Express your style with this armor coloring dye. Cannot be used for research."
+
+msgid "desc_r_Industrial Activation Device"
+msgstr "The control device of an abandoned industrial site."
+
+msgid "desc_r_Industrial Activation Kit"
+msgstr ""
+"Restarts the machinery of an abandoned industrial site. Used up when the "
+"restart succeeds. Bound to whoever loots it, it crumbles 6 hours after it is "
+"looted."
+
+msgid "desc_r_Industrial Armoured Wagon"
+msgstr ""
+"A heavily built cargo wagon: holds 200 crates and takes far more punishment, "
+"but it is a little slower."
+
+msgid "desc_r_Industrial Armoured Wagon Kit"
+msgstr ""
+"Carry it to an industrial site your clan controls: Hitch wagon there brings "
+"the Armoured Wagon (200 crates, much tougher) instead of the cargo wagon, "
+"and uses the kit. Always dropped on death."
+
+msgid "desc_r_Industrial Battering Ram"
+msgstr ""
+"A slow, heavily built ram. Its strike only reaches a holding structure right "
+"in front of it (about 5 m) for a crushing blow, every 20 seconds; it cannot "
+"hurt players, and its crew stands exposed."
+
+msgid "desc_r_Industrial Cargo"
+msgstr "Crates hauled from industrial sites to a holding's factory."
+
+msgid "desc_r_Industrial Cargo Alchemical Compounds"
+msgstr ""
+"Volatile alchemical compounds from the laboratory on Cairn, sealed for "
+"transport. Always dropped on death."
+
+msgid "desc_r_Industrial Cargo Mechanical Components"
+msgstr ""
+"Gears, springs and fittings from the engineering works on Niffleheim, packed "
+"for transport. Always dropped on death."
+
+msgid "desc_r_Industrial Cargo Reinforced Metal"
+msgstr ""
+"Reinforced metal from an industrial site, packed for transport. Always "
+"dropped on death."
+
+msgid "desc_r_Industrial Cargo Siege Timber"
+msgstr ""
+"Seasoned siege timber from the lumber camp on Yssam, packed for transport. "
+"Always dropped on death."
+
+msgid "desc_r_Industrial Catapult"
+msgstr ""
+"Factory-built siege engine. Its heavy shot only harms holding structures and "
+"clan bindstones; slow to reload, needs no powder."
+
+msgid "desc_r_Industrial Catapult Cannon"
+msgstr ""
+"Throws a heavy stone at holding walls and buildings. Reloads in 30 seconds."
+
+msgid "desc_r_Industrial Crane"
+msgstr ""
+"Loads the site's output into a waiting wagon. Sabotage it to force loading "
+"by hand."
+
+msgid "desc_r_Industrial Demolition Charge"
+msgstr ""
+"A lit demolition charge: it blows unless the defenders disarm it in time."
+
+msgid "desc_r_Industrial Demolition Charge Kit"
+msgstr ""
+"Plant it on an enemy clan structure during its siege window: 8 seconds to "
+"set, then it blows after 45 seconds unless the defenders disarm it. Always "
+"dropped on death."
+
+msgid "desc_r_Industrial Factory"
+msgstr ""
+"A holding's war forge. The holding clan delivers industrial cargo here and "
+"builds siege equipment from it."
+
+msgid "desc_r_Industrial Field Barricade"
+msgstr "A timber barricade wall. It stands for 30 minutes or until destroyed."
+
+msgid "desc_r_Industrial Field Barricade Kit"
+msgstr ""
+"Sets up a timber barricade wall in front of you on lawless land. Lasts 30 "
+"minutes or until destroyed. Always dropped on death."
+
+msgid "desc_r_Industrial Field Works"
+msgstr "Barricades and charges set up in the field."
+
+msgid "desc_r_Industrial Fire Crew Kit"
+msgstr ""
+"Utility upgrade for your ship: fires aboard burn out twice as fast. Takes "
+"the utility slot (instead of Repair Crew). Use it within 15 m of a ship you "
+"own. Always dropped on death."
+
+msgid "desc_r_Industrial Generator"
+msgstr ""
+"Powers the site's machinery. Sabotage it to stop production; the controlling "
+"clan can repair it."
+
+msgid "desc_r_Industrial Heavy Catapult"
+msgstr ""
+"Factory-built heavy siege engine. Its huge stone only harms holding "
+"structures, clan bindstones and cannon towers - a far heavier blow than the "
+"catapult, once a minute. Very slow; needs no powder."
+
+msgid "desc_r_Industrial Heavy Catapult Cannon"
+msgstr ""
+"Hurls a huge stone at holding walls and buildings. Reloads in 60 seconds."
+
+msgid "desc_r_Industrial Improved Sails Kit"
+msgstr ""
+"Rigging upgrade for your ship: 15% faster, turning and accelerating 15% "
+"better. Takes the rigging slot (instead of Reinforced Rigging). Use it "
+"within 15 m of a ship you own. Always dropped on death."
+
+msgid "desc_r_Industrial Kits"
+msgstr "Kits that restart an industrial site or set up works in the field."
+
+msgid "desc_r_Industrial Ram Head"
+msgstr ""
+"Strikes the holding structure right in front of the ram. Ready again in 20 "
+"seconds."
+
+msgid "desc_r_Industrial Reinforced Hull Kit"
+msgstr ""
+"Hull upgrade for your ship: half again as much hull and stronger "
+"protections, but it turns and accelerates 15% slower. Use it within 15 m of "
+"a ship you own; it replaces the hull upgrade it has. Always dropped on death."
+
+msgid "desc_r_Industrial Reinforced Rigging Kit"
+msgstr ""
+"Rigging upgrade for your ship: chain shot slows it half as much, for half as "
+"long. Takes the rigging slot (instead of Improved Sails). Use it within 15 m "
+"of a ship you own. Always dropped on death."
+
+msgid "desc_r_Industrial Repair Crew Kit"
+msgstr ""
+"Utility upgrade for your ship: one more player can repair it at once. Takes "
+"the utility slot (instead of Fire Crew). Use it within 15 m of a ship you "
+"own. Always dropped on death."
+
+msgid "desc_r_Industrial Site Props"
+msgstr "The machinery and buildings of an industrial site."
+
+msgid "desc_r_Industrial Wagon"
+msgstr ""
+"Hauls industrial cargo. Its hold opens only for the clan that hitched it; "
+"wrecked, it spills part of its load."
+
+msgid "desc_r_Industrial Warehouse"
+msgstr ""
+"Guards the site's output. Only the controlling clan may take from it, unless "
+"it is breached."
 
 msgid "desc_r_Infernal"
 msgstr " "
@@ -14144,6 +14349,13 @@ msgstr ""
 msgid "desc_r_Round Shield"
 msgstr "A simple wooden shield strengthened with iron."
 
+msgid "desc_r_Round Shot"
+msgstr ""
+"Ship cannon ammunition, the standard shot: each ship cannon shot you fire "
+"spends one from your own bag (or the special shot you picked). Made by "
+"Engineering. Use it, or pick it on the ammo strip while manning a ship "
+"cannon, to fire it."
+
 msgid "desc_r_Royal Purple Dye"
 msgstr "Express your style with this armor coloring dye."
 
@@ -15959,6 +16171,13 @@ msgstr "A versatile crafting station. Double-click to add to your home."
 msgid "desc_r_Smelter"
 msgstr "Press Use button to refine ore into ingots."
 
+msgid "desc_r_Smoke Shot"
+msgstr ""
+"Ship cannon ammunition. Use it, or pick it on the ammo strip while manning a "
+"ship cannon: each ship cannon shot you fire then spends one. Where it lands "
+"a thick smoke cloud hangs for 30 seconds - cover to break off, escape or "
+"close in. It does no damage."
+
 msgid "desc_r_Smoked Bass"
 msgstr "Has a nice salty taste."
 
@@ -17450,6 +17669,15 @@ msgstr "World event wood grove."
 msgid "desc_r_WE Veilron Mine"
 msgstr "World event ore vein."
 
+msgid "desc_r_War Balloon"
+msgstr ""
+"Factory-built airship. Its pilot steers it from the helm; its crew rides the "
+"deck. Ten minutes of fuel and six bombs that only harm holding structures "
+"and clan bindstones."
+
+msgid "desc_r_War Balloon Bomb Bay"
+msgstr "Drops a bomb straight down on holding walls and buildings."
+
 msgid "desc_r_War Club"
 msgstr "A magical blunt weapon that inflicts Lightning damage upon impact."
 
@@ -17839,11 +18067,17 @@ msgstr "A pigment used to add color to a dye base."
 msgid "desc_r_barrel of fish"
 msgstr "Press the use button to check out this strong smelling barrel."
 
+msgid "desc_r_bomb balloon"
+msgstr "A war balloon bomb."
+
 msgid "desc_r_bounds tombstone"
 msgstr ""
 "                 1984 - 2017\n"
 "\n"
 "Good Friend"
+
+msgid "desc_r_cannonball catapult"
+msgstr "A catapult stone."
 
 msgid "desc_r_cannonball dragon"
 msgstr " "
@@ -24303,6 +24537,9 @@ msgstr "City Element Add Ons"
 msgid "r_City Markers"
 msgstr "City Markers"
 
+msgid "r_Clan Advanced Shipyard"
+msgstr "Advanced Shipyard"
+
 msgid "r_Clan Bank"
 msgstr "Clan Bank"
 
@@ -24528,6 +24765,9 @@ msgstr "Clan Crates_02"
 msgid "r_Clan Crates_03"
 msgstr "Clan Crates_03"
 
+msgid "r_Clan Engineering Workshop"
+msgstr "Engineering Workshop"
+
 msgid "r_Clan Fighters Guild Alfar"
 msgstr "Clan Fighters Guild Alfar"
 
@@ -24665,6 +24905,9 @@ msgstr "Clan House Ork_04"
 
 msgid "r_Clan House Ork_05"
 msgstr "Clan House Ork_05"
+
+msgid "r_Clan Industrial Holdings"
+msgstr "Industrial Holdings"
 
 msgid "r_Clan Keep Alfar"
 msgstr "Clan Keep Alfar"
@@ -24804,6 +25047,9 @@ msgstr "Clan Mages Guild Ork u2"
 msgid "r_Clan Member Markers"
 msgstr "Clan Member Markers"
 
+msgid "r_Clan Military Logistics Centre"
+msgstr "Military Logistics Centre"
+
 msgid "r_Clan Obelisk Altar"
 msgstr "Clan Obelisk Altar"
 
@@ -24860,6 +25106,9 @@ msgstr "Clan Shards"
 
 msgid "r_Clan Shipyard"
 msgstr "Clan Shipyard"
+
+msgid "r_Clan Siege Factory"
+msgstr "Siege Factory"
 
 msgid "r_Clan Smelter"
 msgstr "Clan Smelter"

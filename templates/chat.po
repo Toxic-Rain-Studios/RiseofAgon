@@ -9755,6 +9755,36 @@ msgstr "Your house does not support this buildable extension."
 msgid "NOTIFICATION_HOUSE_UPGRADE_SUCCESSFULLY_INSTALLED"
 msgstr "Congratulations! You successfully installed an upgrade in your house!"
 
+msgid "NOTIFICATION_INDUSTRIAL_CARGO_STOLEN"
+msgstr "%3 delivered %1 crate(s) of your clan's cargo to %2."
+
+msgid "NOTIFICATION_INDUSTRIAL_CONTROL_LOST"
+msgstr "Your clan lost control of %1 to %2."
+
+msgid "NOTIFICATION_INDUSTRIAL_CONTROL_TAKEN"
+msgstr "Your clan took control of %1 from %2."
+
+msgid "NOTIFICATION_INDUSTRIAL_CONVOY_DESTROYED"
+msgstr "A convoy carrying %1 crate(s) from %2 was destroyed."
+
+msgid "NOTIFICATION_INDUSTRIAL_JOB_FINISHED"
+msgstr "A %1 is ready to claim at %2."
+
+msgid "NOTIFICATION_INDUSTRIAL_JOB_STARTED"
+msgstr "%2 started building a %1."
+
+msgid "NOTIFICATION_INDUSTRIAL_MACHINE_DESTROYED"
+msgstr "Your clan's %1 was destroyed."
+
+msgid "NOTIFICATION_INDUSTRIAL_RUN_STARTED"
+msgstr "%2 started an industrial run at %1."
+
+msgid "NOTIFICATION_INDUSTRIAL_SABOTAGED"
+msgstr "%1 was sabotaged by %2."
+
+msgid "NOTIFICATION_INDUSTRIAL_SHIPMENT_DELIVERED"
+msgstr "A convoy delivered %1 crate(s) to %2."
+
 msgid "NOTIFICATION_INSTANCE_SKILL_CAP_REACHED"
 msgstr ""
 "%1 cannot be trained past %2 on the tutorial islands. Leave through the "
