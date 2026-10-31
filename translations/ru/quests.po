@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-15 09:54+0000\n"
+"PO-Revision-Date: 2026-10-31 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/ru/>\n"
@@ -68527,30 +68527,37 @@ msgstr ""
 msgid "name_quest_21331"
 msgstr "Задание 13 - этап 1 - рыбалка"
 
+#, fuzzy
 msgid "short_desc_quest_21331"
 msgstr "Выловить 2 рыб."
 
+#, fuzzy
 msgid "start_text_quest_21331"
 msgstr ""
 "Оборудуйте удочку и используйте ее на воде. Рыба хранится на основе плитки, "
 "совместно со всеми игроками. Как только плитка опорожняется рыбой, каждый "
 "должен ждать ее восстановления. Поймать 2 рыбок - будет любой вид."
 
+#, fuzzy
 msgid "end_text_quest_21331"
 msgstr "Высадились две рыбы. У тебя есть талант."
 
+#, fuzzy
 msgid "finished_text_quest_21331"
 msgstr "Вы поймали 2 рыб."
 
+#, fuzzy
 msgid "diary_text_quest_21331"
 msgstr "Я научился ловить рыбу с корабля Кормака и поймал две рыбы."
 
 msgid "name_quest_21332"
 msgstr "Задание 13 - этап 2 - готовка"
 
+#, fuzzy
 msgid "short_desc_quest_21332"
 msgstr "Поварить 2 рыб в духовке."
 
+#, fuzzy
 msgid "start_text_quest_21332"
 msgstr ""
 "Теперь вернитесь к Dawnshore и сварите свой улов в духовке, отмеченной на "
@@ -68559,6 +68566,7 @@ msgstr ""
 msgid "end_text_quest_21332"
 msgstr "Приготовленная пища восстанавливает больше, чем сырая, и сохраняет."
 
+#, fuzzy
 msgid "finished_text_quest_21332"
 msgstr "Вы приготовили 2 рыб."
 
