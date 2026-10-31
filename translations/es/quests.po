@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-15 09:54+0000\n"
+"PO-Revision-Date: 2026-10-31 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/es/>\n"
@@ -70792,31 +70792,38 @@ msgstr ""
 msgid "name_quest_21331"
 msgstr "Misión 13 - paso 1 - pesca"
 
+#, fuzzy
 msgid "short_desc_quest_21331"
 msgstr "Coge 2 peces."
 
+#, fuzzy
 msgid "start_text_quest_21331"
 msgstr ""
 "Equipa la caña de pesca y utilízala en el agua. Los peces se almacenan en "
-"una base por ficha, compartida con todos los jugadores. Una vez que se vacía"
-" una baldosa de pescado, todo el mundo debe esperar a que se regenera. Coge "
-"2 peces - cualquier tipo lo hará."
+"una base por ficha, compartida con todos los jugadores. Una vez que se vacía "
+"una baldosa de pescado, todo el mundo debe esperar a que se regenera. Coge 2 "
+"peces - cualquier tipo lo hará."
 
+#, fuzzy
 msgid "end_text_quest_21331"
 msgstr "Dos peces aterrizaron. Tienes la mochila."
 
+#, fuzzy
 msgid "finished_text_quest_21331"
 msgstr "Cogiste 2 peces."
 
+#, fuzzy
 msgid "diary_text_quest_21331"
 msgstr "Aprendí a pescar en la nave de Cormac y cogí dos peces."
 
 msgid "name_quest_21332"
 msgstr "Misión 13 - paso 2 - cocina"
 
+#, fuzzy
 msgid "short_desc_quest_21332"
 msgstr "Cocinar 2 peces en el horno."
 
+#, fuzzy
 msgid "start_text_quest_21332"
 msgstr ""
 "Ahora, nadar de nuevo a Dawnshore y cocinar su captura en el horno marcado "
@@ -70825,6 +70832,7 @@ msgstr ""
 msgid "end_text_quest_21332"
 msgstr "La comida cocinada restaura más de lo que hace crudo, y se mantiene."
 
+#, fuzzy
 msgid "finished_text_quest_21332"
 msgstr "Cocinaste pescado 2."
 
