@@ -680,6 +680,9 @@ msgstr "Unholy Protection Penalty"
 msgid "Untouchable"
 msgstr "Untouchable"
 
+msgid "Vampiric Treachery"
+msgstr "Vampiric Treachery"
+
 msgid "Vanguard Aura"
 msgstr "Vanguard Aura"
 
@@ -715,6 +718,9 @@ msgstr "Wisdom Bonus"
 
 msgid "Wisdom Penalty"
 msgstr "Wisdom Penalty"
+
+msgid "Withering Vitality"
+msgstr "Withering Vitality"
 
 msgid "XP Boost"
 msgstr "XP Boost"
@@ -1054,7 +1060,8 @@ msgstr ""
 msgid "desc_Malauts Protection"
 msgstr ""
 "Malaut is generous to those who serve him: wearing his Black Lords' full "
-"plate in his service, your protections rise to match infernal armor's."
+"plate in his service, your protections rise to match infernal armor's. "
+"\"Loyalty, repaid in steel.\""
 
 msgid "desc_Malediction"
 msgstr ""
@@ -1404,6 +1411,12 @@ msgstr " "
 msgid "desc_Untouchable"
 msgstr " "
 
+msgid "desc_Vampiric Treachery"
+msgstr ""
+"Malaut's blessing in his Twilight: damage you deal to an enemy's back heals "
+"you a share of it - more the higher you stand in his service. \"Strike them "
+"from behind, and drink.\""
+
 msgid "desc_Vanguard Aura"
 msgstr "Your party takes less damage from monsters while they stand with you."
 
@@ -1433,6 +1446,11 @@ msgstr ""
 
 msgid "desc_Wisdom Penalty"
 msgstr ""
+
+msgid "desc_Withering Vitality"
+msgstr ""
+"Malaut's curse on a heretic in his Twilight: healing you receive is reduced "
+"- less so the higher you stand with your own god. \"Heal if you can.\""
 
 msgid "desc_XP Boost"
 msgstr ""
