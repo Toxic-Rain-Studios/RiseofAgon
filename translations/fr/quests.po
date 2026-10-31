@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-15 09:54+0000\n"
+"PO-Revision-Date: 2026-10-31 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/fr/>\n"
@@ -70902,41 +70902,48 @@ msgstr ""
 msgid "name_quest_21331"
 msgstr "Quête 13 - étape 1 - pêche"
 
+#, fuzzy
 msgid "short_desc_quest_21331"
 msgstr "Attrapez 2 poissons."
 
+#, fuzzy
 msgid "start_text_quest_21331"
 msgstr ""
-"Equipez la canne à pêche et utilisez-la sur l'eau. Le poisson est stocké sur"
-" une base de tuiles, partagé avec tous les joueurs. Une fois qu'une tuile "
-"est vidée de poisson, tout le monde doit attendre qu'elle se régénère. "
-"Attrapez 2 poisson - n'importe quel type fera."
+"Equipez la canne à pêche et utilisez-la sur l'eau. Le poisson est stocké sur "
+"une base de tuiles, partagé avec tous les joueurs. Une fois qu'une tuile est "
+"vidée de poisson, tout le monde doit attendre qu'elle se régénère. Attrapez "
+"2 poisson - n'importe quel type fera."
 
+#, fuzzy
 msgid "end_text_quest_21331"
 msgstr "Deux poissons ont atterri. Vous avez le knack."
 
+#, fuzzy
 msgid "finished_text_quest_21331"
 msgstr "Vous avez attrapé 2 poissons."
 
+#, fuzzy
 msgid "diary_text_quest_21331"
-msgstr ""
-"J'ai appris à pêcher du bateau de Cormac et j'ai attrapé deux poissons."
+msgstr "J'ai appris à pêcher du bateau de Cormac et j'ai attrapé deux poissons."
 
 msgid "name_quest_21332"
 msgstr "Quête 13 - étape 2 - cuisine"
 
+#, fuzzy
 msgid "short_desc_quest_21332"
 msgstr "Cuire 2 poisson au four."
 
+#, fuzzy
 msgid "start_text_quest_21332"
 msgstr ""
-"Maintenant, nagez jusqu'à Dawnshore et faites cuire votre prise dans le four"
-" marqué sur votre carte. Deux d'entre eux, peu importe ce que vous avez "
+"Maintenant, nagez jusqu'à Dawnshore et faites cuire votre prise dans le four "
+"marqué sur votre carte. Deux d'entre eux, peu importe ce que vous avez "
 "atterri."
 
 msgid "end_text_quest_21332"
 msgstr "La nourriture cuite restaure plus qu'elle n'est crue, et conserve."
 
+#, fuzzy
 msgid "finished_text_quest_21332"
 msgstr "Vous avez cuisiné 2 poisson."
 
