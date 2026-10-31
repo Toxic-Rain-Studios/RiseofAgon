@@ -13662,6 +13662,20 @@ msgid "session_blocked_pvp_combat"
 msgstr ""
 "You cannot craft or use the marketplace in PvP combat. %1 seconds left."
 
+#. %1 = percent of damage taken
+msgid "setbonus_black_lord_2pc"
+msgstr "Reflect %1% damage back to attacker"
+
+#. %1 = percent of melee damage dealt
+msgid "setbonus_black_lord_3pc"
+msgstr "Drain %1% stamina on melee attack"
+
+msgid "setbonus_black_lord_5pc"
+msgstr "Immune to knockup"
+
+msgid "setbonus_name_black_lord"
+msgstr "Black Lord"
+
 msgid "skill_advancement_rate"
 msgstr "Skill advancement rate"
 
@@ -14530,6 +14544,14 @@ msgstr "%1 only recipe"
 
 msgid "tooltip_recipe_tier"
 msgstr "Tier"
+
+#. Item tooltip, set pieces: %1 set name, %2 pieces worn, %3 pieces for the full set
+msgid "tooltip_set_bonus_header"
+msgstr "Set Bonus: %1 (%2/%3)"
+
+#. Item tooltip, one set bonus tier: %1 pieces it needs, %2 what it does
+msgid "tooltip_set_bonus_tier"
+msgstr "%1P: %2"
 
 msgid "trading_other_player_has_accepted"
 msgstr "Player has accepted"

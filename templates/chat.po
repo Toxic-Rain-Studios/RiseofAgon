@@ -9250,6 +9250,12 @@ msgstr "You were damaged by %1 and lost %2 points of %3 (%4)"
 msgid "NOTIFICATION_EVENT_DAMAGE_RECEIVED_FROM_PLAYER"
 msgstr "You were damaged by %1 and lost %2 points of %3 (%4)"
 
+msgid "NOTIFICATION_EVENT_DAMAGE_REFLECTED_PRODUCED"
+msgstr "Your armor reflected %2 damage back at %1"
+
+msgid "NOTIFICATION_EVENT_DAMAGE_REFLECTED_RECEIVED"
+msgstr "%1's armor reflected %2 damage back at you"
+
 msgid "NOTIFICATION_EVENT_DAMAGE_SELF_INFLICTED"
 msgstr "You damaged yourself and lost %1 points of %2 (%3)"
 
@@ -9304,6 +9310,12 @@ msgstr "You were killed by %1."
 msgid "NOTIFICATION_EVENT_DEATH_SELF_INFLICTED"
 msgstr "You killed yourself"
 
+msgid "NOTIFICATION_EVENT_DRAIN_EQUIPMENT_PRODUCED"
+msgstr "Your armor drained %2 stamina from %1"
+
+msgid "NOTIFICATION_EVENT_DRAIN_EQUIPMENT_RECEIVED"
+msgstr "%1's armor drained %2 stamina from you"
+
 msgid "NOTIFICATION_EVENT_DRAIN_PRODUCED"
 msgstr "You drained %1 for %2 points of %3 (%4)"
 
@@ -9312,6 +9324,9 @@ msgstr "You were drained by %1 and lost %2 points of %3 (%4)"
 
 msgid "NOTIFICATION_EVENT_DRAIN_SELF_INFLICTED"
 msgstr "You drained yourself and lost %1 points of %2 (%3)"
+
+msgid "NOTIFICATION_EVENT_EQUIPMENT_UNKNOWN_OPPONENT"
+msgstr "your opponent"
 
 msgid "NOTIFICATION_EVENT_GANK_PRODUCED"
 msgstr "You ganked %1!"

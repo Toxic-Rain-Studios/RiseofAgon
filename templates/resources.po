@@ -2466,6 +2466,24 @@ msgstr "Full helmet protecting the head."
 msgid "desc_r_Armor Black Knight Shoulders"
 msgstr "Metal protection for the shoulders."
 
+msgid "desc_r_Armor Black Lord"
+msgstr "The armor of the Black Lord."
+
+msgid "desc_r_Armor Black Lord Boots"
+msgstr "Metal protection for the legs."
+
+msgid "desc_r_Armor Black Lord Gauntlets"
+msgstr "Metal protection for the hands."
+
+msgid "desc_r_Armor Black Lord Girdle"
+msgstr "Metal protection for the hip and lower abdomen."
+
+msgid "desc_r_Armor Black Lord Helmet"
+msgstr "Full helmet protecting the head."
+
+msgid "desc_r_Armor Black Lord Shoulders"
+msgstr "Metal protection for the shoulders."
+
 msgid "desc_r_Armor Bone"
 msgstr ""
 
@@ -3898,6 +3916,21 @@ msgstr ""
 
 msgid "desc_r_Bread"
 msgstr "Made from flour and water. Nothing special, but it fills you up."
+
+msgid "desc_r_Broken Black Lord Boots"
+msgstr "Shattered Black Lord boots. A skilled armorer could restore them."
+
+msgid "desc_r_Broken Black Lord Gauntlets"
+msgstr "Shattered Black Lord gauntlets. A skilled armorer could restore them."
+
+msgid "desc_r_Broken Black Lord Girdle"
+msgstr "A shattered Black Lord girdle. A skilled armorer could restore it."
+
+msgid "desc_r_Broken Black Lord Helmet"
+msgstr "A shattered Black Lord barbute. A skilled armorer could restore it."
+
+msgid "desc_r_Broken Black Lord Shoulders"
+msgstr "Shattered Black Lord pauldrons. A skilled armorer could restore them."
 
 msgid "desc_r_Broken Chest"
 msgstr " "
@@ -19387,6 +19420,36 @@ msgstr ""
 "knowing recipes of each tier raises your Armorsmithing ceiling once you know "
 "the tiers below."
 
+msgid "desc_r_recipe armor black lord boots"
+msgstr ""
+"Teaches the Armorsmithing recipe for Black Lord Boots. Read it to learn it; "
+"knowing recipes of each tier raises your Armorsmithing ceiling once you know "
+"the tiers below."
+
+msgid "desc_r_recipe armor black lord gauntlets"
+msgstr ""
+"Teaches the Armorsmithing recipe for Black Lord Gauntlets. Read it to learn "
+"it; knowing recipes of each tier raises your Armorsmithing ceiling once you "
+"know the tiers below."
+
+msgid "desc_r_recipe armor black lord girdle"
+msgstr ""
+"Teaches the Armorsmithing recipe for Black Lord Girdle. Read it to learn it; "
+"knowing recipes of each tier raises your Armorsmithing ceiling once you know "
+"the tiers below."
+
+msgid "desc_r_recipe armor black lord helmet"
+msgstr ""
+"Teaches the Armorsmithing recipe for Black Lord Barbute. Read it to learn "
+"it; knowing recipes of each tier raises your Armorsmithing ceiling once you "
+"know the tiers below."
+
+msgid "desc_r_recipe armor black lord shoulders"
+msgstr ""
+"Teaches the Armorsmithing recipe for Black Lord Pauldrons. Read it to learn "
+"it; knowing recipes of each tier raises your Armorsmithing ceiling once you "
+"know the tiers below."
+
 msgid "desc_r_recipe armor bone arms"
 msgstr ""
 "Teaches the Tailoring recipe for Bone Vambraces. Read it to learn it; "
@@ -21757,6 +21820,9 @@ msgstr "Armorsmithing recipes."
 msgid "desc_r_recipes group armorsmithing - armor banded"
 msgstr "Armorsmithing recipes for Banded Armor."
 
+msgid "desc_r_recipes group armorsmithing - armor black lord"
+msgstr "Armorsmithing recipes for Black Lord Armor."
+
 msgid "desc_r_recipes group armorsmithing - armor dragon"
 msgstr "Armorsmithing recipes for Dragon Armor."
 
@@ -23229,6 +23295,24 @@ msgstr "Armor Black Knight Helmet"
 msgid "r_Armor Black Knight Shoulders"
 msgstr "Armor Black Knight Shoulders"
 
+msgid "r_Armor Black Lord"
+msgstr "Armor Black Lord"
+
+msgid "r_Armor Black Lord Boots"
+msgstr "Armor Black Lord Boots"
+
+msgid "r_Armor Black Lord Gauntlets"
+msgstr "Armor Black Lord Gauntlets"
+
+msgid "r_Armor Black Lord Girdle"
+msgstr "Armor Black Lord Girdle"
+
+msgid "r_Armor Black Lord Helmet"
+msgstr "Armor Black Lord Helmet"
+
+msgid "r_Armor Black Lord Shoulders"
+msgstr "Armor Black Lord Shoulders"
+
 msgid "r_Armor Bone"
 msgstr "Armor Bone"
 
@@ -24440,6 +24524,21 @@ msgstr "Bows"
 
 msgid "r_Bread"
 msgstr "Bread"
+
+msgid "r_Broken Black Lord Boots"
+msgstr "Broken Black Lord Boots"
+
+msgid "r_Broken Black Lord Gauntlets"
+msgstr "Broken Black Lord Gauntlets"
+
+msgid "r_Broken Black Lord Girdle"
+msgstr "Broken Black Lord Girdle"
+
+msgid "r_Broken Black Lord Helmet"
+msgstr "Broken Black Lord Barbute"
+
+msgid "r_Broken Black Lord Shoulders"
+msgstr "Broken Black Lord Pauldrons"
 
 msgid "r_Broken Chest"
 msgstr "Broken Chest"
