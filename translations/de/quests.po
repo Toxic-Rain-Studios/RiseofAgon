@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-15 09:54+0000\n"
+"PO-Revision-Date: 2026-10-31 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/de/>\n"
@@ -71854,31 +71854,38 @@ msgstr ""
 msgid "name_quest_21331"
 msgstr "Auftrag 13 - Schritt 1 - Angeln"
 
+#, fuzzy
 msgid "short_desc_quest_21331"
 msgstr "Fang 2 Fische."
 
+#, fuzzy
 msgid "start_text_quest_21331"
 msgstr ""
-"Rüsten Sie die Angel aus und verwenden Sie sie auf dem Wasser. Fische werden"
-" pro Kachel gelagert und mit allen Spielern geteilt. Sobald eine Fliese von "
+"Rüsten Sie die Angel aus und verwenden Sie sie auf dem Wasser. Fische werden "
+"pro Kachel gelagert und mit allen Spielern geteilt. Sobald eine Fliese von "
 "Fischen geleert ist, muss jeder darauf warten, dass sie sich regeneriert. "
 "Fange 2 Fische - jede Art wird es tun."
 
+#, fuzzy
 msgid "end_text_quest_21331"
 msgstr "Zwei Fische landeten. Du hast das Händchen."
 
+#, fuzzy
 msgid "finished_text_quest_21331"
 msgstr "Sie haben 2 Fische gefangen."
 
+#, fuzzy
 msgid "diary_text_quest_21331"
 msgstr "Ich lernte von Cormacs Schiff zu fischen und fing zwei Fische."
 
 msgid "name_quest_21332"
 msgstr "Auftrag 13 - Schritt 2 - Kochen"
 
+#, fuzzy
 msgid "short_desc_quest_21332"
 msgstr "Kochen Sie 2 Fische im Ofen."
 
+#, fuzzy
 msgid "start_text_quest_21332"
 msgstr ""
 "Schwimmen Sie jetzt zurück zu Dawnshore und kochen Sie Ihren Fang in dem "
@@ -71888,6 +71895,7 @@ msgstr ""
 msgid "end_text_quest_21332"
 msgstr "Gekochtes Essen wiederherstellt mehr als es roh tut, und hält."
 
+#, fuzzy
 msgid "finished_text_quest_21332"
 msgstr "Sie haben 2 Fische gekocht."
 
