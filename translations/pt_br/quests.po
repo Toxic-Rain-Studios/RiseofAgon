@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-15 09:54+0000\n"
+"PO-Revision-Date: 2026-10-31 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/quests/pt_BR/>\n"
@@ -69669,39 +69669,47 @@ msgstr ""
 msgid "name_quest_21331"
 msgstr "Missão 13 - etapa 1 - pesca"
 
+#, fuzzy
 msgid "short_desc_quest_21331"
 msgstr "Captura 2 peixe."
 
+#, fuzzy
 msgid "start_text_quest_21331"
 msgstr ""
-"Equipar a vara de pesca e usá-lo na água. Peixes são armazenados em uma base"
-" por azulejo, compartilhado com todos os jogadores. Uma vez que um azulejo é"
-" esvaziado de peixe, todos devem esperar que ele se regenere. Captura 2 "
+"Equipar a vara de pesca e usá-lo na água. Peixes são armazenados em uma base "
+"por azulejo, compartilhado com todos os jogadores. Uma vez que um azulejo é "
+"esvaziado de peixe, todos devem esperar que ele se regenere. Captura 2 "
 "peixe - qualquer tipo vai fazer."
 
+#, fuzzy
 msgid "end_text_quest_21331"
 msgstr "Dois peixes desembarcaram. Você tem o dom."
 
+#, fuzzy
 msgid "finished_text_quest_21331"
 msgstr "Apanhaste 2 peixes."
 
+#, fuzzy
 msgid "diary_text_quest_21331"
 msgstr "Aprendi a pescar com o navio do Cormac e apanhei dois peixes."
 
 msgid "name_quest_21332"
 msgstr "Missão 13 - etapa 2 - culinária"
 
+#, fuzzy
 msgid "short_desc_quest_21332"
 msgstr "Cozinhe 2 peixe no forno."
 
+#, fuzzy
 msgid "start_text_quest_21332"
 msgstr ""
-"Agora, nade de volta para Dawnshore e cozinhe a sua captura no forno marcado"
-" no seu mapa. Dois deles, o que quer que tenha pousado."
+"Agora, nade de volta para Dawnshore e cozinhe a sua captura no forno marcado "
+"no seu mapa. Dois deles, o que quer que tenha pousado."
 
 msgid "end_text_quest_21332"
 msgstr "Comida cozida restaura mais do que crua, e mantém."
 
+#, fuzzy
 msgid "finished_text_quest_21332"
 msgstr "Você cozinhou 2 peixe."
 
