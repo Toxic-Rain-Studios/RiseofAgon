@@ -13646,6 +13646,14 @@ msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
 "to your bank account."
 
+#. Chat command help for /kit. No runtime parameters.
+msgid "chat_cmd_kit_desc"
+msgstr "claims a kit by name"
+
+#. Chat command help for /kit's argument. No runtime parameters.
+msgid "chat_cmd_kit_param_name"
+msgstr "the kit's name"
+
 msgid "chat_midi_all_devices"
 msgstr "all devices"
 
@@ -13794,6 +13802,40 @@ msgstr "holding captured"
 
 msgid "faction_war_reason_siege_defend"
 msgstr "holding defended"
+
+#. /kit, for a one-time kit this account has already claimed. Runtime parameters: the kit name.
+msgid "kit_already_claimed"
+msgstr "[Kit] You have already claimed %1."
+
+#. /kit. No runtime parameters.
+msgid "kit_busy"
+msgstr "[Kit] Your last kit request is still being handled."
+
+#. /kit. Runtime parameters: the kit name, then the time left as hours, minutes and seconds.
+msgid "kit_cooldown"
+msgstr "[Kit] You can claim %1 again in %2h %3m %4s."
+
+#. /kit, when the kit is misconfigured or the server could not hand it out. Runtime parameters: the kit name.
+msgid "kit_failed"
+msgstr ""
+"[Kit] %1 could not be handed out right now. Please tell a game master if "
+"this keeps happening."
+
+#. /kit, when the kit was claimed elsewhere a moment earlier. Runtime parameters: the kit name.
+msgid "kit_not_ready"
+msgstr "[Kit] %1 is not ready to be claimed again yet."
+
+#. /kit. Runtime parameters: the kit name.
+msgid "kit_received"
+msgstr "[Kit] %1 has been placed in your backpack."
+
+#. /kit, for a premium-only kit claimed by a Freemium account. Runtime parameters: the kit name.
+msgid "kit_requires_premium"
+msgstr "[Kit] %1 can only be claimed with a premium account."
+
+#. /kit. Also shown for kits above the player's rank. Runtime parameters: the kit name as typed.
+msgid "kit_unknown"
+msgstr "[Kit] There is no kit called %1."
 
 msgid "marks_vendor_bought"
 msgstr "[Log] %1 is in your bank. %2 Marks spent."
