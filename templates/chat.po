@@ -8683,7 +8683,7 @@ msgid "NOTIFICATION_CONSTRAINT_CARRYING_OBELISK"
 msgstr "You can't perform this action while carrying an obelisk."
 
 msgid "NOTIFICATION_CONSTRAINT_CARRYING_RELIC"
-msgstr "You can't perform this action while carrying a relic."
+msgstr "You can't do that while carrying a relic or on a pilgrimage."
 
 msgid "NOTIFICATION_CONSTRAINT_CONQUEST_RABBIT"
 msgstr "You can't teleport while being a the Challenger in a Conquest"
@@ -8847,6 +8847,9 @@ msgstr "You need to either be %1 or %2"
 
 msgid "NOTIFICATION_CONSTRAINT_OBJECT_VELOCITY_TOO_HIGH"
 msgstr "You are moving too fast."
+
+msgid "NOTIFICATION_CONSTRAINT_PILGRIMAGE"
+msgstr "You can't do that while on a pilgrimage."
 
 msgid "NOTIFICATION_CONSTRAINT_RESOURCE_ATTACHED"
 msgstr "You have a sheathed %1."
@@ -13877,6 +13880,74 @@ msgstr "[Log] You have %1 Marks. This costs %2."
 
 msgid "marks_vendor_short_now"
 msgstr "[Log] Your account does not have %1 Marks to spend."
+
+msgid "pilgrimage_bounty"
+msgstr "+50 %2: you slew a pilgrim of %1."
+
+msgid "pilgrimage_break_died"
+msgstr "Your prayer is broken: you have fallen."
+
+msgid "pilgrimage_break_mounted"
+msgstr "Your prayer is broken: a pilgrim prays on foot."
+
+msgid "pilgrimage_break_out_of_reach"
+msgstr "Your prayer is broken: you strayed from the shrine."
+
+msgid "pilgrimage_break_player_damage"
+msgstr "Your prayer is broken: another's blade found you."
+
+msgid "pilgrimage_complete"
+msgstr "Pilgrimage complete! +200 Devotion, +500 %1."
+
+msgid "pilgrimage_end_died"
+msgstr "Your pilgrimage ends in death. You may set out again in a day."
+
+msgid "pilgrimage_end_stopped"
+msgstr "You abandon your pilgrimage. You may set out again in a day."
+
+msgid "pilgrimage_next_shrine"
+msgstr "Your prayer is heard. The next shrine is revealed: %1."
+
+msgid "pilgrimage_refusal_already_on"
+msgstr "You are already on a pilgrimage."
+
+msgid "pilgrimage_refusal_cannot_stop_now"
+msgstr "You cannot abandon your pilgrimage while downed or dying."
+
+msgid "pilgrimage_refusal_cooldown"
+msgstr "You may not set out on another pilgrimage yet."
+
+msgid "pilgrimage_refusal_dismount"
+msgstr "Dismount first."
+
+msgid "pilgrimage_refusal_lay_down_relic"
+msgstr "Lay down your relic before you set out on a pilgrimage."
+
+msgid "pilgrimage_refusal_no_god"
+msgstr "Follow a god before you set out on a pilgrimage."
+
+msgid "pilgrimage_refusal_not_on"
+msgstr "You are not on a pilgrimage."
+
+msgid "pilgrimage_refusal_praying"
+msgstr "You are praying at the shrine. Finish your prayer first."
+
+msgid "pilgrimage_refusal_premium_only"
+msgstr "Pilgrimages are open to premium accounts only."
+
+msgid "pilgrimage_refusal_rite_in_progress"
+msgstr "You are already performing a rite."
+
+msgid "pilgrimage_rite_begun"
+msgstr ""
+"You kneel and begin to pray. Stay close to the shrine; another's blade will "
+"break the rite."
+
+msgid "pilgrimage_started"
+msgstr "You set out on a pilgrimage. The first shrine is revealed: %1."
+
+msgid "pilgrimage_wrong_shrine"
+msgstr "Pray at the shrine your pilgrimage has revealed."
 
 msgid "slayer_rarity_0"
 msgstr "Common"
