@@ -14503,6 +14503,10 @@ msgstr "Used in Enchantments:"
 msgid "tooltip_enchant_ingredient_used_transmutes"
 msgstr "Used in Transmutations:"
 
+#. Item tooltip: set armor that a blacksmith never repairs
+msgid "tooltip_item_cannot_be_repaired"
+msgstr "Cannot be repaired"
+
 msgid "tooltip_item_no_requirements"
 msgstr "No Requirements"
 
