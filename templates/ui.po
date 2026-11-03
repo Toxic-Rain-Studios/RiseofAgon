@@ -4148,6 +4148,9 @@ msgstr "Level %1 milestone (%2 to go): %3"
 msgid "constellation_not_learned"
 msgstr "Not learned yet"
 
+msgid "constellation_option_animations"
+msgstr "Animations"
+
 msgid "constellation_other_race"
 msgstr "Other race"
 
@@ -4225,6 +4228,12 @@ msgstr "1 skill point: this skill 1 level closer to your level (Shift: 5)"
 
 msgid "constellation_unlocks_itself"
 msgstr "(unlocks on its own)"
+
+msgid "constellation_view_fullscreen"
+msgstr "Fullscreen"
+
+msgid "constellation_view_windowed"
+msgstr "Windowed"
 
 msgid "constellation_xp"
 msgstr "%1 / %2 XP"
@@ -10865,6 +10874,9 @@ msgstr "message"
 msgid "messagebox_generic_title"
 msgstr "Message"
 
+msgid "minimap_bindstone_bound_at"
+msgstr "Bound at: %1"
+
 msgid "minimap_button_tooltip_open_rune_book"
 msgstr "Open Rune Book"
 
@@ -14201,6 +14213,12 @@ msgstr "Start"
 msgid "start_button"
 msgstr "Start"
 
+msgid "stats_character_level"
+msgstr "Level %1 - %2 / %3 XP"
+
+msgid "stats_character_level_max"
+msgstr "Level %1 (max)"
+
 msgid "store_claim_after_tutorial"
 msgstr ""
 "Deliveries can't be claimed on the tutorial island. Your purchase is safe "
@@ -14482,6 +14500,9 @@ msgstr "Prefix Title"
 msgid "titles_suffix"
 msgstr "Suffix Title"
 
+msgid "tooltip_compare_equipped"
+msgstr "Currently equipped"
+
 msgid "tooltip_enchant_ingredient_gems"
 msgstr "Gems"
 
@@ -14502,6 +14523,12 @@ msgstr "Used in Enchantments:"
 
 msgid "tooltip_enchant_ingredient_used_transmutes"
 msgstr "Used in Transmutations:"
+
+msgid "tooltip_hint_ctrl"
+msgstr "Hold Ctrl for advanced info"
+
+msgid "tooltip_hint_ctrl_compare"
+msgstr "Hold Ctrl for advanced info and to compare"
 
 #. Item tooltip: set armor that a blacksmith never repairs
 msgid "tooltip_item_cannot_be_repaired"
