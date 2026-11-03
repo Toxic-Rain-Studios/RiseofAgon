@@ -13882,7 +13882,7 @@ msgid "marks_vendor_short_now"
 msgstr "[Log] Your account does not have %1 Marks to spend."
 
 msgid "pilgrimage_bounty"
-msgstr "+50 %2: you slew a pilgrim of %1."
+msgstr "+%3 %2: you slew a pilgrim of %1."
 
 msgid "pilgrimage_break_died"
 msgstr "Your prayer is broken: you have fallen."
@@ -13897,13 +13897,16 @@ msgid "pilgrimage_break_player_damage"
 msgstr "Your prayer is broken: another's blade found you."
 
 msgid "pilgrimage_complete"
-msgstr "Pilgrimage complete! +200 Devotion, +500 %1."
+msgstr "Pilgrimage complete! +%2 Devotion, +%3 %1."
 
 msgid "pilgrimage_end_died"
 msgstr "Your pilgrimage ends in death. You may set out again in a day."
 
 msgid "pilgrimage_end_stopped"
 msgstr "You abandon your pilgrimage. You may set out again in a day."
+
+msgid "pilgrimage_hunted_bonus"
+msgstr "%1 rivals hunted you on average: your reward was multiplied by %2."
 
 msgid "pilgrimage_next_shrine"
 msgstr "Your prayer is heard. The next shrine is revealed: %1."
@@ -13942,6 +13945,11 @@ msgid "pilgrimage_rite_begun"
 msgstr ""
 "You kneel and begin to pray. Stay close to the shrine; another's blade will "
 "break the rite."
+
+msgid "pilgrimage_rivals_warning"
+msgstr ""
+"Your rivals can see you on their maps. The more of them abroad, the greater "
+"your reward."
 
 msgid "pilgrimage_started"
 msgstr "You set out on a pilgrimage. The first shrine is revealed: %1."
