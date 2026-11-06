@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-11 00:24+0000\n"
+"PO-Revision-Date: 2026-11-06 17:04+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/ru/>\n"
@@ -13070,6 +13070,7 @@ msgstr "Аура: пока доступны только ауры Vanguard, Cutt
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ALREADY_UP"
 msgstr "Ваша аура уже встала."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_FOLLOWS"
 msgstr "Ваша аура следует за вами - %1 аура, %2 минута ее часа осталось."
 
