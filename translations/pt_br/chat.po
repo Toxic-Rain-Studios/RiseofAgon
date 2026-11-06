@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-11 00:24+0000\n"
+"PO-Revision-Date: 2026-11-06 17:04+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/chat/pt_BR/>\n"
@@ -13083,6 +13083,7 @@ msgstr ""
 msgid "NOTIFICATION_PVE_MASTERY_AURA_ALREADY_UP"
 msgstr "A sua aura já está levantada."
 
+#, fuzzy
 msgid "NOTIFICATION_PVE_MASTERY_AURA_FOLLOWS"
 msgstr "A sua aura segue-o. %1 aura, %2 minutos da hora que falta."
 
