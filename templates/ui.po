@@ -16444,6 +16444,17 @@ msgstr "Level %1 - %2 / %3 XP"
 msgid "stats_character_level_max"
 msgstr "Level %1 (max)"
 
+msgid "stats_unspent_points"
+msgstr "SP %1   AP %2"
+
+msgid "stats_unspent_points_hint"
+msgstr ""
+"Spend skill points in the Constellations window, and attribute points with "
+"the + beside each base attribute."
+
+msgid "stats_unspent_points_shared"
+msgstr "Points %1"
+
 msgid "store_claim_after_tutorial"
 msgstr ""
 "Deliveries can't be claimed on the tutorial island. Your purchase is safe "
