@@ -11856,14 +11856,13 @@ msgid "NOTIFICATION_PVE_MASTERY_AURA_ENDED_PVP"
 msgstr "[Mastery] Your aura goes out - PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_FOLLOWS"
-msgstr ""
-"[Mastery] Your aura follows you - %1 aura, %2 minutes of its hour left."
+msgstr "[Mastery] Your aura follows you - %1 aura."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_HOUR_SPENT"
 msgstr "[Mastery] Your aura fades - its hour is spent. Reactivate when ready."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IGNITED"
-msgstr "[Mastery] %1 aura ignited for one hour at tier %2 (-%3 essence) - %4"
+msgstr "[Mastery] %1 aura ignited at tier %2 - %3"
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_IN_PVP"
 msgstr "[Mastery] You cannot raise an aura while PvP combat has you."
@@ -11896,13 +11895,11 @@ msgid "NOTIFICATION_PVE_MASTERY_AURA_TIER_NEXT_LIGHT"
 msgstr "[Mastery] Your running aura stays at tier %1 until you light it again."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TIER_SET"
-msgstr ""
-"[Mastery] %1 aura now runs at tier %2 (reached: %3) - %4 essence an hour."
+msgstr "[Mastery] %1 aura now runs at tier %2 (reached: %3)."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TIER_SET_TOP"
 msgstr ""
-"[Mastery] %1 aura runs at its highest tier, %2, and rises as you level - %3 "
-"essence an hour."
+"[Mastery] %1 aura runs at its highest tier, %2, and rises as you level."
 
 msgid "NOTIFICATION_PVE_MASTERY_AURA_TIER_TOO_HIGH"
 msgstr "[Mastery] %1 has reached tier %2 - tier %3 comes at level %4."
@@ -11937,12 +11934,10 @@ msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_PVP_SEALED"
 msgstr "[Mastery] Capstones are disabled while marked by PvP combat."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_RANK_SET"
-msgstr "[Mastery] %1 now runs at rank %2 (reached: %3) - %4 essence a use."
+msgstr "[Mastery] %1 now runs at rank %2 (reached: %3)."
 
 msgid "NOTIFICATION_PVE_MASTERY_CAPSTONE_RANK_SET_TOP"
-msgstr ""
-"[Mastery] %1 runs at its highest rank, %2, and rises as you level - %3 "
-"essence a use."
+msgstr "[Mastery] %1 runs at its highest rank, %2, and rises as you level."
 
 msgid "NOTIFICATION_PVE_MASTERY_ENRAGE_ACTIVE"
 msgstr "[Mastery] ENRAGE - for %1s monsters cannot take you below 1 health."
@@ -12200,6 +12195,18 @@ msgstr "[Mastery] Unbroken Line ends - you are no longer carrying a shield."
 
 msgid "NOTIFICATION_PVE_MASTERY_UNBROKEN_TAUNTED"
 msgstr "[Mastery] Unbroken Line - everything nearby turns on you."
+
+msgid "NOTIFICATION_PVE_SOUL_TREE_BOUGHT"
+msgstr "[Souls] %1 rank %2 bought for %3 souls. %4 left."
+
+msgid "NOTIFICATION_PVE_SOUL_TREE_MAXED"
+msgstr "[Souls] %1 is at its highest rank."
+
+msgid "NOTIFICATION_PVE_SOUL_TREE_PARENT"
+msgstr "[Souls] %1 needs %2 first."
+
+msgid "NOTIFICATION_PVE_SOUL_TREE_TOO_POOR"
+msgstr "[Souls] %1 costs %2 souls - you have %3."
 
 msgid "NOTIFICATION_PVP_FLAG_ERROR_CHURCH_REQUIRED"
 msgstr ""
@@ -12761,14 +12768,312 @@ msgstr "You are too close to a player city to mark this rune."
 msgid "NOTIFICATION_SKINNING_ALREADY_PERFORMED"
 msgstr "This corpse has already been skinned."
 
+msgid "NOTIFICATION_SKIN_ALREADY_OWNED"
+msgstr "You already own the %1 skin."
+
 msgid "NOTIFICATION_SLAYER"
 msgstr "%1"
+
+#. %1 = the contract.
+msgid "NOTIFICATION_SLAYER_ABANDONED"
+msgstr "[Slayer] Abandoned %1."
+
+msgid "NOTIFICATION_SLAYER_ABANDONED_UNKNOWN"
+msgstr "[Slayer] Abandoned that contract."
+
+#. Cache auto-open refused at the start.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_BUSY_COMBAT"
+msgstr "[Slayer] You are in combat."
+
+#. Cache auto-open refused at the start.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_BUSY_DEAD"
+msgstr "[Slayer] You are dead."
+
+#. Cache auto-open refused at the start.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_BUSY_PVP"
+msgstr "[Slayer] You are marked by PvP combat."
+
+#. Cache auto-open refused at the start.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_BUSY_UNAVAILABLE"
+msgstr "[Slayer] Not available right now."
+
+#. Stopped before any cache opened.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_EMPTY_STOPPED"
+msgstr "[Slayer] Auto-open stopped."
+
+#. %1 = a ..._REASON_ line.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_EMPTY_STOPPED_BECAUSE"
+msgstr "[Slayer] Auto-open stopped: %1."
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_NOT_A_CACHE"
+msgstr ""
+"[Slayer] Shift-use a Slayer Kill Cache in your backpack to open the stack."
+
+# Next patch 5: Slayer cache auto-open, potion, board, shop and kill cache lines
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_NO_PACK"
+msgstr "[Slayer] Auto-open is not available right now."
+
+#. %1 = caches opened.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_OPENED"
+msgstr "Opened %1 caches."
+
+#. %1 = 1.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_OPENED_ONE"
+msgstr "Opened %1 cache."
+
+#. %1 = 1, %2 = the ..._PART_ lines joined by ", ".
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_OPENED_ONE_WITH"
+msgstr "Opened %1 cache: %2."
+
+#. %1 = caches opened, %2 = the ..._PART_ lines joined by ", ".
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_OPENED_WITH"
+msgstr "Opened %1 caches: %2."
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_ARROW"
+msgstr "%1 arrow"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_ARROWS"
+msgstr "%1 arrows"
+
+#. %1 = 1.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_POINT"
+msgstr "%1 Slayer Points"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_POINTS"
+msgstr "%1 Slayer Points"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_REAGENT"
+msgstr "%1 reagent"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_REAGENTS"
+msgstr "%1 reagents"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_SKIN"
+msgstr "%1 skin scroll"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_SKINS"
+msgstr "%1 skin scrolls"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_TALISMAN"
+msgstr "%1 sealed talisman"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_TALISMANS"
+msgstr "%1 sealed talismans"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_TOKEN"
+msgstr "%1 Bounty Token"
+
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_PART_TOKENS"
+msgstr "%1 Bounty Tokens"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_CANNOT_OPEN"
+msgstr "that cache cannot be opened right now"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_COMBAT"
+msgstr "you are in combat"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_DAMAGE"
+msgstr "you took damage"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_DEAD"
+msgstr "you are dead"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_IN_FLIGHT"
+msgstr "the last cache is still on its way"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_PACK_FULL"
+msgstr "your pack is full"
+
+#. Why cache auto-open stopped.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_PVP"
+msgstr "you are marked by PvP combat"
+
+#. Why cache auto-open stopped; fills %1 of ..._EMPTY_STOPPED_BECAUSE and %2 of ..._SUMMARY_STOPPED_BECAUSE.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_REASON_UNAVAILABLE"
+msgstr "not available right now"
+
+#. %1 = number of caches in the stack.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_START"
+msgstr "[Slayer] Opening %1 caches. Esc to stop."
+
+#. %1 = 1.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_START_ONE"
+msgstr "[Slayer] Opening %1 cache. Esc to stop."
+
+#. %1 = an ..._OPENED line.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_SUMMARY"
+msgstr "[Slayer] %1"
+
+#. %1 = an ..._OPENED line.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_SUMMARY_STOPPED"
+msgstr "[Slayer] %1 Stopped."
+
+#. %1 = an ..._OPENED line, %2 = a ..._REASON_ line.
+msgid "NOTIFICATION_SLAYER_AUTO_OPEN_SUMMARY_STOPPED_BECAUSE"
+msgstr "[Slayer] %1 Stopped: %2."
+
+#. /slayer_board. %1 = slayer_journal_ledger_N, %2 = percent, %3 = contract names.
+msgid "NOTIFICATION_SLAYER_BOARD_ANYWHERE"
+msgstr "  %1, anywhere (+%2% points): %3"
+
+#. /slayer_board
+msgid "NOTIFICATION_SLAYER_BOARD_DISABLED"
+msgstr "[Slayer] The Slayer system is disabled."
+
+#. /slayer_board. %1 = contract name.
+msgid "NOTIFICATION_SLAYER_BOARD_GUIDED"
+msgstr "[Slayer] Your first contract is posted on every contract board: %1."
+
+# Next patch 5: Slayer Journal panel and /slayer_board
+#. Printed in chat by the Journal when a hand-in Yes reached no board or Slayer Master.
+msgid "NOTIFICATION_SLAYER_BOARD_HAND_IN_AWAY"
+msgstr "[Slayer] Hand in at a board or Slayer Master."
+
+#. /slayer_board. %1 = Slayer level.
+msgid "NOTIFICATION_SLAYER_BOARD_HEADER"
+msgstr "[Slayer] Level %1 - the postings on your contract board:"
+
+#. /slayer_board. %1 = held, %2 = slots.
+msgid "NOTIFICATION_SLAYER_BOARD_HOLDING"
+msgstr "  Holding %1 of %2 - take contracts at a Slayer contract board."
+
+#. /slayer_board. %1 = slayer_journal_ledger_N, %2 = level.
+msgid "NOTIFICATION_SLAYER_BOARD_LOCKED"
+msgstr "  %1: opens at Slayer level %2"
+
+#. /slayer_board. %1 = slayer_journal_ledger_N, %2 = contract names.
+msgid "NOTIFICATION_SLAYER_BOARD_NEAR"
+msgstr "  %1, near here: %2"
+
+#. /slayer_board
+msgid "NOTIFICATION_SLAYER_BOARD_NOTHING"
+msgstr "  (nothing is posted)"
+
+#. /slayer_board. %1 = contract name.
+msgid "NOTIFICATION_SLAYER_BOARD_OFFER_HELD"
+msgstr "%1 (held)"
+
+#. /slayer_board: %1 = difficulty, %2 = the shared contracts posted.
+msgid "NOTIFICATION_SLAYER_BOARD_SHARED"
+msgstr "  %1, shared: %2"
+
+#. /slayer_board. %1 = points.
+msgid "NOTIFICATION_SLAYER_BOARD_SLOT_COST"
+msgstr "  Another slot costs %1 slayer points at a Slayer Master."
+
+#. /slayer_board
+msgid "NOTIFICATION_SLAYER_BOARD_UNREADABLE"
+msgstr "[Slayer] Your slayer record could not be read - try relogging."
+
+msgid "NOTIFICATION_SLAYER_BOUNTY_TOKENS_REDEEMED"
+msgstr "[Slayer] Redeemed %1 Bounty Tokens for %2 Slayer Points."
+
+msgid "NOTIFICATION_SLAYER_CONTRACT_CACHE"
+msgstr "[Slayer] Contract complete. A %1 is in your backpack."
+
+msgid "NOTIFICATION_SLAYER_CONTRACT_CACHES"
+msgstr "[Slayer] Contract complete. %2 x %1 are in your backpack."
+
+#. %1 = ..._KILL_CACHE_ITEM lines joined by ", ".
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_ALSO"
+msgstr "[Slayer] Also in the cache: %1."
+
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_FOUND"
+msgstr "[Slayer] You found a %1. It is in your backpack."
+
+#. %1 = item name, %2 = quantity.
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_ITEM"
+msgstr "%1 x%2"
+
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_OPENED"
+msgstr "[Slayer] The cache held %1 Slayer Points."
+
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_SKIN"
+msgstr "[Slayer] A skin scroll for the %1 was in the cache!"
+
+msgid "NOTIFICATION_SLAYER_KILL_CACHE_TOKENS"
+msgstr "[Slayer] The cache held %1 Slayer Bounty Tokens."
 
 msgid "NOTIFICATION_SLAYER_KILL_PROGRESS"
 msgstr "[Slayer] +%1 XP L%2 (%3)"
 
 msgid "NOTIFICATION_SLAYER_MILESTONE"
 msgstr "%1"
+
+#. %1 = item names.
+msgid "NOTIFICATION_SLAYER_PACK_FULL_BANKED"
+msgstr "[Slayer] Your pack was full - %1 went to your bank."
+
+#. %1 = item names.
+msgid "NOTIFICATION_SLAYER_PACK_FULL_LOST"
+msgstr ""
+"[Slayer] Your pack was full and your bank could not be reached - %1 could "
+"not be delivered. Please report this."
+
+#. %1 = ..._LABEL_FIGHT or _FORTUNE, %2 = minutes.
+msgid "NOTIFICATION_SLAYER_POTION_AT_CAP"
+msgstr "[Slayer] Your %1 is already at its %2-minute limit."
+
+msgid "NOTIFICATION_SLAYER_POTION_DISABLED"
+msgstr "[Slayer] Slayer potions have no effect right now."
+
+#. %1 = potion name, %2 = ..._EFFECT_, %3 = ..._MINUTES.
+msgid "NOTIFICATION_SLAYER_POTION_DRUNK"
+msgstr "[Slayer] %1: %2 for %3 of play."
+
+#. %1 = percent.
+msgid "NOTIFICATION_SLAYER_POTION_EFFECT_FIGHT"
+msgstr "+%1% damage to your contract targets"
+
+#. %1 = percent.
+msgid "NOTIFICATION_SLAYER_POTION_EFFECT_FORTUNE"
+msgstr "contract kills find a Slayer Cache %1% of the time"
+
+msgid "NOTIFICATION_SLAYER_POTION_KIND_FIGHT"
+msgstr "fight"
+
+msgid "NOTIFICATION_SLAYER_POTION_KIND_FORTUNE"
+msgstr "fortune"
+
+msgid "NOTIFICATION_SLAYER_POTION_LABEL_FIGHT"
+msgstr "fight potion"
+
+msgid "NOTIFICATION_SLAYER_POTION_LABEL_FORTUNE"
+msgstr "fortune potion"
+
+#. %1 = 1.
+msgid "NOTIFICATION_SLAYER_POTION_MINUTE"
+msgstr "%1 minute"
+
+msgid "NOTIFICATION_SLAYER_POTION_MINUTES"
+msgstr "%1 minutes"
+
+msgid "NOTIFICATION_SLAYER_POTION_NOT_A_POTION"
+msgstr "[Slayer] That is not a Slayer potion."
+
+#. At login. %1 = ..._LABEL_, %2 = ..._MINUTES.
+msgid "NOTIFICATION_SLAYER_POTION_STILL_WORKING"
+msgstr "[Slayer] Your %1 is still working: %2 left."
+
+#. %1 = ..._KIND_FIGHT or _FORTUNE, %2 = ..._MINUTES.
+msgid "NOTIFICATION_SLAYER_POTION_STRONGER"
+msgstr ""
+"[Slayer] A stronger %1 potion is still working (%2 left). This one would do "
+"nothing."
+
+#. A stronger potion replaces a weaker one. %1 = potion name, %2 = ..._EFFECT_, %3 = ..._MINUTES.
+msgid "NOTIFICATION_SLAYER_POTION_TAKES_OVER"
+msgstr "[Slayer] %1 takes over: %2 for %3 of play."
+
+#. %1 = ..._LABEL_.
+msgid "NOTIFICATION_SLAYER_POTION_WORN_OFF"
+msgstr "[Slayer] Your %1 has worn off."
 
 msgid "NOTIFICATION_SLAYER_RARITY_HANDIN"
 msgstr "Slayer contract: %1 %2"
@@ -12792,8 +13097,46 @@ msgstr ""
 msgid "NOTIFICATION_SLAYER_RARITY_TAKEN"
 msgstr "[Slayer] TASK ACCEPTED: Slay %1 %2 %3 (%4). %5"
 
+# Next patch 5: talisman stat names and lines, talisman tooltip, objective count, /slayer_status lines
+#. %1 = seconds.
+msgid "NOTIFICATION_SLAYER_READ_OUT_WAIT"
+msgstr "[Slayer] One read-out at a time - ask again in %1s."
+
+#. %1 = ..._TAB_, %2 = the next price.
+msgid "NOTIFICATION_SLAYER_REDEAL_FREE"
+msgstr "[Slayer] New %1 postings. The next postings cost %2."
+
+#. %1 = ..._TAB_, %2 = points paid, %3 = the next price.
+msgid "NOTIFICATION_SLAYER_REDEAL_PAID"
+msgstr "[Slayer] New %1 postings for %2 points. The next postings cost %3."
+
 msgid "NOTIFICATION_SLAYER_REWARD"
 msgstr "%1"
+
+msgid "NOTIFICATION_SLAYER_SHARED_ALREADY_HELD"
+msgstr ""
+"[Slayer] You already hold a Shared contract - finish or abandon it to take "
+"another."
+
+#. %1 = item name, %3 = points left.
+msgid "NOTIFICATION_SLAYER_SHOP_BOUGHT"
+msgstr "[Slayer] %1, bought for %2 Slayer Points. %3 remain."
+
+msgid "NOTIFICATION_SLAYER_SHOP_NOT_SOLD"
+msgstr "[Slayer] The Slayer Master does not sell that."
+
+#. %1 = item name.
+msgid "NOTIFICATION_SLAYER_SHOP_TOO_POOR"
+msgstr "[Slayer] %1 costs %2 Slayer Points. You have %3."
+
+msgid "NOTIFICATION_SLAYER_SOUL_TREE_RESET_DONE"
+msgstr "[Slayer] Soul Tree reset: %1 souls returned, %2 in your pool."
+
+msgid "NOTIFICATION_SLAYER_SOUL_TREE_RESET_EMPTY"
+msgstr "[Slayer] Your Soul Tree is already empty. You keep the token."
+
+msgid "NOTIFICATION_SLAYER_SOUL_TREE_RESET_UNAVAILABLE"
+msgstr "[Slayer] The Soul Tree cannot be reset right now."
 
 msgid "NOTIFICATION_SLAYER_STAGE_HANDIN"
 msgstr "Slayer contract: %1 - stage %2"
@@ -12802,6 +13145,18 @@ msgid "NOTIFICATION_SLAYER_STAGE_REACHED"
 msgstr ""
 "[Slayer] %1: stage %2 reached (%3 slain). Hand in at a board or Slayer "
 "Master, or hunt on to %4."
+
+#. /slayer_status. %1 = the contract.
+msgid "NOTIFICATION_SLAYER_STATUS_CONTRACT"
+msgstr "  Contract: %1 - %2 of %3 remaining."
+
+#. The board tab, inside ..._REDEAL_ lines.
+msgid "NOTIFICATION_SLAYER_TAB_ANYWHERE"
+msgstr "Anywhere"
+
+#. The board tab, inside ..._REDEAL_ lines.
+msgid "NOTIFICATION_SLAYER_TAB_NEARBY"
+msgstr "Nearby"
 
 msgid "NOTIFICATION_SLOT_MACHINE_IN_USE"
 msgstr "The slot machine is currently in use.."

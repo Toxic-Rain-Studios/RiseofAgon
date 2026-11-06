@@ -1543,6 +1543,17 @@ msgstr "Previous"
 msgid "button_submit"
 msgstr "Submit"
 
+# ---- Slayer cache auto-open cursor END ----
+msgid "cache_auto_open_left"
+msgstr "%1 left"
+
+msgid "cache_auto_open_stop"
+msgstr "Esc to stop"
+
+# ---- Slayer cache auto-open cursor ----
+msgid "cache_auto_open_title"
+msgstr "Opening caches"
+
 msgid "cancel"
 msgstr "Cancel"
 
@@ -4855,6 +4866,81 @@ msgstr ""
 msgid "desc_skin_shield_tempered_dawn"
 msgstr ""
 "Blue steel panels, silver ornament and a golden sun adorn this shield skin."
+
+msgid "desc_skin_slayer_alfar_staff"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_angra_bow"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_bloodleech"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_cobrastaff"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_cursed_bow"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_deepcurse"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_doomaxe"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_dwarven_defender"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_executioners_axe"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_frostshroud"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_gloomblade"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_goblin_angrystick"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_gravesong"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_grief"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_iron_enforcer"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_mercian_mage_staff"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_orkish_large_shield"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_sawblade"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_shadesword"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_skull_mace"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_spiked_scutum"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_spiritchaser"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_stalker_bow"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_thornreaper"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
+
+msgid "desc_skin_slayer_warbow"
+msgstr "Blackened by a Slayer, from a Slayer's cache."
 
 msgid "desc_skin_trinity_aegis"
 msgstr ""
@@ -10397,8 +10483,8 @@ msgstr "less monster damage taken by your party"
 
 msgid "mastery_aura_grant_desc"
 msgstr ""
-"Grants %1, a one-hour party aura that costs essence to light. It gives %2 %3 "
-"and grows with every mastery level to %4 at level %5."
+"Grants %1, a party aura that stays lit until PvP contact. It gives %2 %3 and "
+"grows with every mastery level to %4 at level %5."
 
 msgid "mastery_aura_locked"
 msgstr "Aura unlocks at level %1"
@@ -10422,9 +10508,7 @@ msgid "mastery_detail_level_tier_mp"
 msgstr "Level %1 / %2   -   Tier %3 of %4   -   %5 XP"
 
 msgid "mastery_essence_hint"
-msgstr ""
-"Souls stolen from the monsters you kill. Spent on your aura and your "
-"capstone."
+msgstr "Souls stolen from the monsters you kill. Spend them in the Soul Tree."
 
 msgid "mastery_essence_value"
 msgstr "Essence %1"
@@ -10444,11 +10528,263 @@ msgstr "Trial %1 opens at level %2 at Slayer Master Aero"
 msgid "mastery_gate_trial_ready"
 msgstr "Trial %1 is ready. Take it at Slayer Master Aero"
 
+msgid "mastery_guide_card_g_ability_next"
+msgstr "Put {ability} on your hotbar"
+
+msgid "mastery_guide_card_g_ability_text"
+msgstr ""
+"Drag {ability} from the PvE Mastery window onto your hotbar so it's ready to "
+"use."
+
+msgid "mastery_guide_card_g_ability_title"
+msgstr "Put {ability} on your hotbar"
+
+msgid "mastery_guide_card_g_capstone_next"
+msgstr "Put {capstone} on your hotbar"
+
+msgid "mastery_guide_card_g_capstone_text"
+msgstr ""
+"{capstone} is yours. Drag it from the PvE Mastery window onto your hotbar."
+
+msgid "mastery_guide_card_g_capstone_title"
+msgstr "Put {capstone} on your hotbar"
+
+msgid "mastery_guide_card_g_essence_next"
+msgstr "Gather {essence} essence"
+
+msgid "mastery_guide_card_g_essence_text"
+msgstr ""
+"Trial {trial} needs {essence} essence. Keep hunting - the souls you steal "
+"add up."
+
+msgid "mastery_guide_card_g_essence_title"
+msgstr "Gather essence"
+
+msgid "mastery_guide_card_g_level_aura_next"
+msgstr "Reach level {auraLevel}: {auraName}"
+
+msgid "mastery_guide_card_g_level_aura_text"
+msgstr "Keep killing. Your {auraName} unlocks at level {auraLevel}."
+
+msgid "mastery_guide_card_g_level_aura_title"
+msgstr "Reach level {auraLevel}"
+
+msgid "mastery_guide_card_g_levels_first_next"
+msgstr "Reach level {nextLevel}: {nextName}"
+
+msgid "mastery_guide_card_g_levels_first_text"
+msgstr "Keep going. {nextName} unlocks at level {nextLevel}."
+
+msgid "mastery_guide_card_g_levels_first_title"
+msgstr "Reach level {nextLevel}"
+
+msgid "mastery_guide_card_g_levels_last_next"
+msgstr "Reach level {nextLevel}: {nextName}"
+
+msgid "mastery_guide_card_g_levels_last_text"
+msgstr ""
+"The PvE Mastery window shows what {lastName} does. Next up: your capstone, "
+"{capstone}, at level {nextLevel}."
+
+msgid "mastery_guide_card_g_levels_last_title"
+msgstr "{lastName} unlocked"
+
+msgid "mastery_guide_card_g_levels_next_next"
+msgstr "Reach level {nextLevel}: {nextName}"
+
+msgid "mastery_guide_card_g_levels_next_text"
+msgstr ""
+"The PvE Mastery window shows what {lastName} does. Next up: {nextName} at "
+"level {nextLevel}."
+
+msgid "mastery_guide_card_g_levels_next_title"
+msgstr "{lastName} unlocked"
+
+msgid "mastery_guide_card_g_light_aura_next"
+msgstr "Light {auraName}"
+
+msgid "mastery_guide_card_g_light_aura_text"
+msgstr ""
+"Your {auraName} is ready: {effect}. Double-click it in the PvE Mastery "
+"window to light it. It stays lit until PvP contact."
+
+msgid "mastery_guide_card_g_light_aura_title"
+msgstr "Light {auraName}"
+
+msgid "mastery_guide_card_g_orb_buy_next"
+msgstr "Buy a Mastery Orb from Aero"
+
+msgid "mastery_guide_card_g_orb_buy_text"
+msgstr ""
+"You have enough Slayer Points for a Mastery Orb. Buy one from Slayer Master "
+"Aero."
+
+msgid "mastery_guide_card_g_orb_buy_title"
+msgstr "Buy a Mastery Orb"
+
+msgid "mastery_guide_card_g_orb_earn_next"
+msgstr "Earn {orbCost} Slayer Points"
+
+msgid "mastery_guide_card_g_orb_earn_text"
+msgstr ""
+"Trial {trial} needs {orbs}. Earn {orbCost} Slayer Points from contracts and "
+"Aero will sell you one."
+
+msgid "mastery_guide_card_g_orb_earn_title"
+msgstr "A Mastery Orb"
+
+msgid "mastery_guide_card_g_trial_next"
+msgstr "Pass Trial {trial} at Aero"
+
+msgid "mastery_guide_card_g_trial_text"
+msgstr ""
+"Open Slayer Master Aero's Trials tab. Accept Trial {trial}, then hand in "
+"{price}."
+
+msgid "mastery_guide_card_g_trial_title"
+msgstr "Trial {trial}"
+
+msgid "mastery_guide_card_g_visit_next"
+msgstr "Go to Slayer Master Aero for Trial {trial}"
+
+msgid "mastery_guide_card_g_visit_text"
+msgstr ""
+"{mastery} has hit level {cap}. Talk to Slayer Master Aero about Trial "
+"{trial} to go further."
+
+msgid "mastery_guide_card_g_visit_title"
+msgstr "Go to Slayer Master Aero for Trial {trial}"
+
+msgid "mastery_guide_card_g_window_next"
+msgstr "Open the PvE Mastery window"
+
+msgid "mastery_guide_card_g_window_text"
+msgstr ""
+"Click the star on the top bar to open your mastery and see what {mastery} "
+"unlocks as it levels."
+
+# Next patch 5: Mastery guide, Slayer step cards, mastery lessons
+msgid "mastery_guide_card_g_window_title"
+msgstr "Open the PvE Mastery window"
+
+msgid "mastery_guide_card_l_passed_next"
+msgstr "Trial {passed} passed"
+
+msgid "mastery_guide_card_l_passed_text"
+msgstr ""
+"{mastery} can now grow to level {newCap}. Trial {nextTrial} waits for you "
+"there."
+
+msgid "mastery_guide_card_l_passed_title"
+msgstr "Trial {passed} passed"
+
+msgid "mastery_guide_header"
+msgstr "Mastery Guide  Step {n} of {m}"
+
+msgid "mastery_guide_open_mastery"
+msgstr "Open Mastery"
+
+msgid "mastery_guide_tray_accept"
+msgstr "Accept Trial {trial} at Aero"
+
+msgid "mastery_guide_tray_essence"
+msgstr "Essence {have}/{essence} for Trial {trial}"
+
+msgid "mastery_guide_tray_hand_in"
+msgstr "Hand in Trial {trial} at Aero"
+
+#. {next} = the step line, {pct} = percent done.
+msgid "mastery_guide_tray_level"
+msgstr "{next}  {pct}%"
+
+msgid "mastery_guide_tray_orb"
+msgstr "Mastery Orb: {points}/{orbCost} Slayer Points"
+
+msgid "mastery_hall_abilities"
+msgstr "Abilities"
+
+msgid "mastery_hall_active_level"
+msgstr "%1 - Level %2"
+
+msgid "mastery_hall_active_tag"
+msgstr "ACTIVE"
+
+msgid "mastery_hall_back"
+msgstr "<"
+
+msgid "mastery_hall_details_button"
+msgstr "Details"
+
+# ---- soul tree END ----
+# ---- mastery hall ----
+msgid "mastery_hall_masteries"
+msgstr "Masteries"
+
+msgid "mastery_hall_monsters_only"
+msgstr "Applies to monsters only."
+
+msgid "mastery_hall_souls"
+msgstr "Souls"
+
+msgid "mastery_hall_souls_to_spend"
+msgstr "%1 to spend"
+
+msgid "mastery_hall_status_active"
+msgstr "Active - Level %1"
+
+msgid "mastery_hall_switch_button"
+msgstr "Switch to %1"
+
+msgid "mastery_hall_track_button"
+msgstr "Mastery Track"
+
 msgid "mastery_hotbar_hint"
 msgstr "Drag the aura and abilities below onto your hotbar."
 
 msgid "mastery_learn_at_slayer_master"
 msgstr "Learn at the Slayer Master"
+
+msgid "mastery_lesson_back"
+msgstr "Back"
+
+msgid "mastery_lesson_next"
+msgstr "Next"
+
+msgid "mastery_lesson_page1_text"
+msgstr "Your first mastery is free. Every monster you kill makes it stronger."
+
+msgid "mastery_lesson_page1_title"
+msgstr "Your path is a mastery"
+
+msgid "mastery_lesson_page2_text"
+msgstr ""
+"Your mastery unlocks new abilities as it levels, and an aura at level "
+"{auraLevel}. The aura is free to light, and you set how strong it is in the "
+"Mastery Track."
+
+msgid "mastery_lesson_page2_title"
+msgstr "Abilities and aura"
+
+msgid "mastery_lesson_page3_text"
+msgstr ""
+"Once you have a mastery, the monsters you kill give up their souls as "
+"essence. Stronger monsters' souls grant more essence."
+
+msgid "mastery_lesson_page3_title"
+msgstr "Steal souls"
+
+#. Page n of m.
+msgid "mastery_lesson_pager"
+msgstr "{n} of {m}"
+
+msgid "mastery_lesson_subtitle"
+msgstr "A quick word before you pick your path."
+
+msgid "mastery_lesson_title"
+msgstr "Masteries"
+
+msgid "mastery_lesson_understand"
+msgstr "I understand"
 
 msgid "mastery_max_level"
 msgstr "Maximum level reached"
@@ -10497,8 +10833,8 @@ msgstr "Aura"
 
 msgid "mastery_node_desc_aura_grant"
 msgstr ""
-"Grants %1, a one-hour party aura that costs essence to light. It gives %2 %3 "
-"and grows with every mastery level to %4 at level %5."
+"Grants %1, a party aura that stays lit until PvP contact. It gives %2 %3 and "
+"grows with every mastery level to %4 at level %5."
 
 msgid "mastery_node_desc_aura_step"
 msgstr "Aura +%1. Now %2 %3."
@@ -10523,6 +10859,28 @@ msgstr "Trials cost Mastery Orbs."
 
 msgid "mastery_orb_needed"
 msgstr "Pass a Trial to go past level %1"
+
+msgid "mastery_path_lesson_level"
+msgstr "Level {n}"
+
+msgid "mastery_path_lesson_page1_text"
+msgstr ""
+"{first} is yours already. Keep killing and {mastery} unlocks the rest as it "
+"levels."
+
+msgid "mastery_path_lesson_page1_title"
+msgstr "Your path: {mastery}"
+
+msgid "mastery_path_lesson_page2_text"
+msgstr ""
+"Your kills level whichever mastery is active. Open Mastery on the main menu "
+"to check your progress or switch."
+
+msgid "mastery_path_lesson_page2_title"
+msgstr "How masteries work"
+
+msgid "mastery_path_lesson_subtitle"
+msgstr "Before you head out."
 
 msgid "mastery_preview_note"
 msgstr "Preview. Not your active mastery."
@@ -10571,8 +10929,7 @@ msgstr ""
 msgid "mastery_rank_tab_intro"
 msgstr ""
 "Choose how strong each ability runs. Only ranks you have reached can be "
-"picked. A lower rank is weaker, and the aura and the capstone also cost less "
-"essence."
+"picked. A lower rank is weaker."
 
 msgid "mastery_rank_tab_not_learned"
 msgstr "You have not learned %1 - its ranks open once you do."
@@ -10676,6 +11033,350 @@ msgstr ""
 "You cannot switch mastery yet.\n"
 "\n"
 "%1 left."
+
+msgid "mastery_talent_soul_acid_ward_name"
+msgstr "Acid Ward"
+
+msgid "mastery_talent_soul_acid_ward_text"
+msgstr "+%1 acid resistance against monsters."
+
+msgid "mastery_talent_soul_arcane_ward_name"
+msgstr "Arcane Ward"
+
+msgid "mastery_talent_soul_arcane_ward_text"
+msgstr "+%1 arcane resistance against monsters."
+
+msgid "mastery_talent_soul_arm_hunter"
+msgstr "Hunter"
+
+msgid "mastery_talent_soul_arm_reaper"
+msgstr "Reaper"
+
+msgid "mastery_talent_soul_arm_wanderer"
+msgstr "Wanderer"
+
+msgid "mastery_talent_soul_arm_warden"
+msgstr "Warden"
+
+msgid "mastery_talent_soul_beastbreaker_name"
+msgstr "Beastbreaker"
+
+msgid "mastery_talent_soul_beastbreaker_text"
+msgstr ""
+"+%1% damage against Magical Beasts. Gargantuas, salamanders, dark dragons."
+
+msgid "mastery_talent_soul_bloodrush_name"
+msgstr "Bloodrush"
+
+msgid "mastery_talent_soul_bloodrush_text"
+msgstr "A monster kill gives +%1% attack and cast speed for 4 s."
+
+msgid "mastery_talent_soul_bludgeoning_ward_name"
+msgstr "Bludgeoning Ward"
+
+msgid "mastery_talent_soul_bludgeoning_ward_text"
+msgstr "+%1 bludgeoning resistance against monsters."
+
+msgid "mastery_talent_soul_camp_name"
+msgstr "Camp"
+
+msgid "mastery_talent_soul_camp_text"
+msgstr "5% less durability lost fighting monsters."
+
+msgid "mastery_talent_soul_cold_ward_name"
+msgstr "Cold Ward"
+
+msgid "mastery_talent_soul_cold_ward_text"
+msgstr "+%1 cold resistance against monsters."
+
+msgid "mastery_talent_soul_culling_strike_name"
+msgstr "Culling Strike"
+
+msgid "mastery_talent_soul_culling_strike_text"
+msgstr ""
+"A hit that leaves a monster under %1% of its max health kills it. Never a "
+"boss."
+
+msgid "mastery_talent_soul_dragonbane_name"
+msgstr "Dragonbane"
+
+msgid "mastery_talent_soul_dragonbane_text"
+msgstr ""
+"+%1% damage against Dragons. Fire, ice, desert, swamp and sylvan dragons."
+
+msgid "mastery_talent_soul_elements_name"
+msgstr "Elements"
+
+msgid "mastery_talent_soul_elements_text"
+msgstr "+1 fire, cold, lightning and acid resistance against monsters."
+
+msgid "mastery_talent_soul_eyegouger_name"
+msgstr "Eyegouger"
+
+msgid "mastery_talent_soul_eyegouger_text"
+msgstr "+%1% damage against Aberrations. Evil eyes."
+
+msgid "mastery_talent_soul_fire_ward_name"
+msgstr "Fire Ward"
+
+msgid "mastery_talent_soul_fire_ward_text"
+msgstr "+%1 fire resistance against monsters."
+
+msgid "mastery_talent_soul_folk_name"
+msgstr "Folk & Wyrms"
+
+msgid "mastery_talent_soul_folk_text"
+msgstr "+1% damage against Humanoids, Dragons, Plants and Aberrations."
+
+msgid "mastery_talent_soul_giantsbane_name"
+msgstr "Giantsbane"
+
+msgid "mastery_talent_soul_giantsbane_text"
+msgstr ""
+"+%1% damage against Giants. Cairn giants, erodachs, ogres, minotaurs, yetis."
+
+msgid "mastery_talent_soul_grave_name"
+msgstr "Grave & Abyss"
+
+msgid "mastery_talent_soul_grave_text"
+msgstr "+1% damage against Undead and Outerplanars."
+
+msgid "mastery_talent_soul_gravebane_name"
+msgstr "Gravebane"
+
+msgid "mastery_talent_soul_gravebane_text"
+msgstr ""
+"+%1% damage against Undead. Skeletons, zombies, ghosts, mummies, ghouls."
+
+msgid "mastery_talent_soul_grim_name"
+msgstr "Grim"
+
+msgid "mastery_talent_soul_grim_text"
+msgstr "+3% attack speed, cast speed and bow draw speed."
+
+msgid "mastery_talent_soul_hellwarden_name"
+msgstr "Hellwarden"
+
+msgid "mastery_talent_soul_hellwarden_text"
+msgstr "+%1% damage against Outerplanars. Demons, devils, infernals, shades."
+
+msgid "mastery_talent_soul_holy_ward_name"
+msgstr "Holy Ward"
+
+msgid "mastery_talent_soul_holy_ward_text"
+msgstr "+%1 holy resistance against monsters."
+
+msgid "mastery_talent_soul_hunter_name"
+msgstr "Hunter's Mark"
+
+msgid "mastery_talent_soul_hunter_text"
+msgstr "+1% damage against every monster."
+
+msgid "mastery_talent_soul_kinslayer_name"
+msgstr "Kinslayer"
+
+msgid "mastery_talent_soul_kinslayer_text"
+msgstr "+%1% damage against Humanoids. Gnolls, beastmen, centaurs, renegades."
+
+msgid "mastery_talent_soul_last_gasp_name"
+msgstr "Last Gasp"
+
+msgid "mastery_talent_soul_last_gasp_text"
+msgstr ""
+"A monster dropping you under 30% health heals you %1% over 4 s. Once every 3 "
+"minutes."
+
+msgid "mastery_talent_soul_lightning_ward_name"
+msgstr "Lightning Ward"
+
+msgid "mastery_talent_soul_lightning_ward_text"
+msgstr "+%1 lightning resistance against monsters."
+
+msgid "mastery_talent_soul_lore_name"
+msgstr "Lore"
+
+msgid "mastery_talent_soul_lore_text"
+msgstr "+1% mastery XP and Slayer XP."
+
+msgid "mastery_talent_soul_marked_prey_name"
+msgstr "Marked Prey"
+
+msgid "mastery_talent_soul_marked_prey_text"
+msgstr "+%1% damage against your contract targets."
+
+msgid "mastery_talent_soul_mastery_lore_name"
+msgstr "Mastery Lore"
+
+msgid "mastery_talent_soul_mastery_lore_text"
+msgstr "+%1% mastery XP."
+
+msgid "mastery_talent_soul_physical_name"
+msgstr "Physical"
+
+msgid "mastery_talent_soul_physical_text"
+msgstr ""
+"+1 slashing, piercing and bludgeoning resistance against monsters. Arrows "
+"count as piercing."
+
+msgid "mastery_talent_soul_piercing_ward_name"
+msgstr "Piercing Ward"
+
+msgid "mastery_talent_soul_piercing_ward_text"
+msgstr "+%1 piercing resistance against monsters, arrows included."
+
+msgid "mastery_talent_soul_quick_mend_name"
+msgstr "Quick Mend"
+
+msgid "mastery_talent_soul_quick_mend_text"
+msgstr "+%1% health, mana and stamina regeneration while resting."
+
+msgid "mastery_talent_soul_reaper_name"
+msgstr "Reaper's Due"
+
+msgid "mastery_talent_soul_reaper_text"
+msgstr "A monster kill restores 1% of your health, mana and stamina."
+
+msgid "mastery_talent_soul_renewal_name"
+msgstr "Renewal"
+
+msgid "mastery_talent_soul_renewal_text"
+msgstr "A monster kill restores 1% more health, mana and stamina."
+
+msgid "mastery_talent_soul_sacred_name"
+msgstr "Sacred & Profane"
+
+msgid "mastery_talent_soul_sacred_text"
+msgstr "+1 holy, unholy and arcane resistance against monsters."
+
+msgid "mastery_talent_soul_scarred_hide_name"
+msgstr "Scarred Hide"
+
+msgid "mastery_talent_soul_scarred_hide_text"
+msgstr "%1% less damage taken from your contract targets."
+
+msgid "mastery_talent_soul_slashing_ward_name"
+msgstr "Slashing Ward"
+
+msgid "mastery_talent_soul_slashing_ward_text"
+msgstr "+%1 slashing resistance against monsters."
+
+msgid "mastery_talent_soul_slayer_lore_name"
+msgstr "Slayer Lore"
+
+msgid "mastery_talent_soul_slayer_lore_text"
+msgstr "+%1% Slayer XP."
+
+msgid "mastery_talent_soul_slayer_name"
+msgstr "Slayer"
+
+msgid "mastery_talent_soul_slayer_spoils_name"
+msgstr "Slayer's Spoils"
+
+msgid "mastery_talent_soul_slayer_spoils_text"
+msgstr "+%1% chance to find a Slayer cache on a contract kill."
+
+msgid "mastery_talent_soul_slayer_text"
+msgstr "+1% Slayer XP."
+
+msgid "mastery_talent_soul_soul_breath_name"
+msgstr "Soul Breath"
+
+msgid "mastery_talent_soul_soul_breath_text"
+msgstr "A monster kill restores %1% of your stamina."
+
+msgid "mastery_talent_soul_soul_drink_name"
+msgstr "Soul Drink"
+
+msgid "mastery_talent_soul_soul_drink_text"
+msgstr "A monster kill heals %1% of your health."
+
+# ---- soul tree BEGIN (scripts/gen_soul_tree.py writes this block; edit there) ----
+msgid "mastery_talent_soul_soul_name"
+msgstr "Soul"
+
+msgid "mastery_talent_soul_soul_text"
+msgstr ""
+"Your souls. Spend them on the perks around you; the more you spend, the more "
+"souls every kill gives."
+
+msgid "mastery_talent_soul_soul_well_name"
+msgstr "Soul Well"
+
+msgid "mastery_talent_soul_soul_well_text"
+msgstr "A monster kill restores %1% of your mana."
+
+msgid "mastery_talent_soul_stone_name"
+msgstr "Stone & Storm"
+
+msgid "mastery_talent_soul_stone_text"
+msgstr "+1% damage against Giants, Constructs and Elementals."
+
+msgid "mastery_talent_soul_stonebreaker_name"
+msgstr "Stonebreaker"
+
+msgid "mastery_talent_soul_stonebreaker_text"
+msgstr "+%1% damage against Constructs. Golems, black knights."
+
+msgid "mastery_talent_soul_stormcutter_name"
+msgstr "Stormcutter"
+
+msgid "mastery_talent_soul_stormcutter_text"
+msgstr "+%1% damage against Elementals. Air, earth, fire and ice elementals."
+
+msgid "mastery_talent_soul_tidebreaker_name"
+msgstr "Tidebreaker"
+
+msgid "mastery_talent_soul_tidebreaker_text"
+msgstr ""
+"+%1% damage against Sea creatures. Sea serpents, sharks, irtych, matayins."
+
+msgid "mastery_talent_soul_tireless_kit_name"
+msgstr "Tireless Kit"
+
+msgid "mastery_talent_soul_tireless_kit_text"
+msgstr "%1% less durability lost fighting monsters. Armour and melee weapons."
+
+msgid "mastery_talent_soul_trapper_name"
+msgstr "Trapper"
+
+msgid "mastery_talent_soul_trapper_text"
+msgstr "+%1% damage against Animals. Bears, tigers, crogs, dinosaurs."
+
+msgid "mastery_talent_soul_unholy_ward_name"
+msgstr "Unholy Ward"
+
+msgid "mastery_talent_soul_unholy_ward_text"
+msgstr "+%1 unholy resistance against monsters."
+
+msgid "mastery_talent_soul_vermincall_name"
+msgstr "Vermincall"
+
+msgid "mastery_talent_soul_vermincall_text"
+msgstr "+%1% damage against Vermin. Spiders, ratlings, gorras, iklits."
+
+msgid "mastery_talent_soul_wanderer_name"
+msgstr "Wayfarer"
+
+msgid "mastery_talent_soul_wanderer_text"
+msgstr "+10% health, mana and stamina regeneration."
+
+msgid "mastery_talent_soul_warden_name"
+msgstr "Thick Skin"
+
+msgid "mastery_talent_soul_warden_text"
+msgstr "+1 to every resistance against monsters."
+
+msgid "mastery_talent_soul_wild_name"
+msgstr "Wild Things"
+
+msgid "mastery_talent_soul_wild_text"
+msgstr "+1% damage against Animals, Vermin, Magical Beasts and Sea creatures."
+
+msgid "mastery_talent_soul_woodcutter_name"
+msgstr "Woodcutter"
+
+msgid "mastery_talent_soul_woodcutter_text"
+msgstr "+%1% damage against Plants. Oak lords, baradron, heielhims."
 
 msgid "mastery_track_header"
 msgstr "%1 Track"
@@ -13904,6 +14605,69 @@ msgstr ""
 "\n"
 "Your progress (%2 of %3 slain) will be lost."
 
+#. %1 = cache name.
+msgid "slayer_board_cache"
+msgstr "+ %1"
+
+#. %1 = count, %2 = cache name.
+msgid "slayer_board_cache_count"
+msgstr "+ %1 x %2"
+
+#. %1 = count, %2 = cache name, %3 = stage.
+msgid "slayer_board_cache_count_stage"
+msgstr "+ %1 x %2 at stage %3"
+
+msgid "slayer_board_cache_fallback"
+msgstr "Slayer Cache"
+
+#. %1 = cache name, %2 = stage.
+msgid "slayer_board_cache_stage"
+msgstr "+ %1 at stage %2"
+
+msgid "slayer_board_hours_minutes"
+msgstr "%1 h %2 min"
+
+msgid "slayer_board_minutes"
+msgstr "%1 min"
+
+msgid "slayer_board_reward"
+msgstr "Reward"
+
+#. %1 = a slayer_board_cache line.
+msgid "slayer_board_reward_cache"
+msgstr "Reward   %1"
+
+msgid "slayer_board_shared_empty"
+msgstr "no shared contract is posted at this tier today"
+
+#. %1 = slayer_board_minutes or slayer_board_hours_minutes.
+msgid "slayer_board_shared_turnover"
+msgstr "same for everyone - new list in %1"
+
+#. %1 = the time left.
+msgid "slayer_board_shared_turnover_held"
+msgstr ""
+"same for everyone - new list in %1   finish your Shared contract to take "
+"another"
+
+#. %1 = the time left, %2 = a contract rarity.
+msgid "slayer_board_shared_turnover_next"
+msgstr "same for everyone - new list in %1   your next this week: %2"
+
+msgid "slayer_board_tab_anywhere"
+msgstr "ANYWHERE"
+
+#. %1 = the Anywhere points bonus in percent.
+msgid "slayer_board_tab_anywhere_bonus"
+msgstr "ANYWHERE  +%1% points"
+
+# Next patch 5: Slayer board Shared tab and the Soul Tree monster families
+msgid "slayer_board_tab_nearby"
+msgstr "NEARBY"
+
+msgid "slayer_board_tab_shared"
+msgstr "SHARED"
+
 msgid "slayer_board_title"
 msgstr "Slayer Contract Board"
 
@@ -13916,12 +14680,1335 @@ msgstr "Rare %1"
 msgid "slayer_contract_rarity_3"
 msgstr "Epic %1"
 
+#. The Slayer Guide tracker heading; %1 = step, %2 = steps.
+msgid "slayer_guide_tray_heading"
+msgstr "Slayer Guide  Step %1 of %2"
+
 msgid "slayer_handin_confirm"
 msgstr ""
 "Hand in %1 at stage %2 (%3 slain) for %4 XP, %5 Slayer points and a sealed "
 "talisman?\n"
 "\n"
 "Or hunt on to %6 for better talisman odds."
+
+#. Button.
+msgid "slayer_journal_abandon"
+msgstr "Abandon"
+
+#. Button.
+msgid "slayer_journal_accept"
+msgstr "Accept"
+
+#. After a list of contracts and ", ".
+msgid "slayer_journal_and_more"
+msgstr "and more"
+
+msgid "slayer_journal_anywhere_empty"
+msgstr "nothing else is posted at this tier - see the Nearby tab"
+
+#. %1 = slayer_journal_ledger_N.
+msgid "slayer_journal_band_contracts"
+msgstr "%1 contracts"
+
+msgid "slayer_journal_board_level"
+msgstr "Slayer   level %1   -   %2 points"
+
+#. Button.
+msgid "slayer_journal_close"
+msgstr "Close"
+
+msgid "slayer_journal_collect"
+msgstr "Collect from Slayer Master Aero:"
+
+msgid "slayer_journal_completed"
+msgstr "%1 contracts completed"
+
+#. A contract this client does not know. %1 = its id.
+msgid "slayer_journal_contract_number"
+msgstr "Contract #%1"
+
+msgid "slayer_journal_contracts"
+msgstr "Contracts"
+
+msgid "slayer_journal_dealing"
+msgstr "the postings are going up - a moment"
+
+#. Button.
+msgid "slayer_journal_details"
+msgstr "Details"
+
+msgid "slayer_journal_done"
+msgstr "done"
+
+msgid "slayer_journal_free_redeal_in"
+msgstr "free new postings in %1 min"
+
+msgid "slayer_journal_free_slot"
+msgstr "Free slot"
+
+msgid "slayer_journal_free_slot_hint"
+msgstr "Take a contract at a Slayer contract board."
+
+msgid "slayer_journal_guide_first"
+msgstr "your first contract - View it, then Accept"
+
+#. Button.
+msgid "slayer_journal_hand_in"
+msgstr "Hand in"
+
+msgid "slayer_journal_held"
+msgstr "(held)"
+
+#. %1 = a count or a range.
+msgid "slayer_journal_kill"
+msgstr "Kill %1"
+
+#. %1 = the stages, %2 = kills so far.
+msgid "slayer_journal_kill_staged"
+msgstr "Kill %1   (%2 slain)"
+
+msgid "slayer_journal_kilometres"
+msgstr "%1 km"
+
+#. %1 = percent.
+msgid "slayer_journal_last_stage_odds"
+msgstr "Last stage: Immaculate %1%"
+
+msgid "slayer_journal_last_stage_sure"
+msgstr "Last stage: Immaculate guaranteed"
+
+# Next patch 5: Slayer Journal panel and /slayer_board
+#. Contract difficulty.
+msgid "slayer_journal_ledger_1"
+msgstr "Very Easy"
+
+#. Contract difficulty.
+msgid "slayer_journal_ledger_2"
+msgstr "Easy"
+
+#. Contract difficulty.
+msgid "slayer_journal_ledger_3"
+msgstr "Medium"
+
+#. Contract difficulty.
+msgid "slayer_journal_ledger_4"
+msgstr "Hard"
+
+#. Contract difficulty.
+msgid "slayer_journal_ledger_5"
+msgstr "Very Hard"
+
+msgid "slayer_journal_level"
+msgstr "Slayer - level %1"
+
+msgid "slayer_journal_level_points"
+msgstr "Slayer - level %1 - %2 points"
+
+msgid "slayer_journal_locked_slot"
+msgstr "Locked slot"
+
+msgid "slayer_journal_locked_slot_hint"
+msgstr "Extra contract slots are sold by Slayer Master Aero."
+
+msgid "slayer_journal_metres"
+msgstr "%1 m"
+
+msgid "slayer_journal_nearby_empty"
+msgstr "nothing at this tier is hunted near this camp - see the Anywhere tab"
+
+#. Button.
+msgid "slayer_journal_new_postings"
+msgstr "New postings"
+
+#. Button. %1 = points.
+msgid "slayer_journal_new_postings_cost"
+msgstr "New postings (%1 points)"
+
+#. Button.
+msgid "slayer_journal_new_postings_free"
+msgstr "New postings (free)"
+
+msgid "slayer_journal_no_camp"
+msgstr "no Slayer camp found near this board - see the Anywhere tab"
+
+msgid "slayer_journal_no_free_slot"
+msgstr "(no free slot)"
+
+msgid "slayer_journal_none_board"
+msgstr "No contracts. Take one from the postings above."
+
+msgid "slayer_journal_none_journal"
+msgstr "No contracts. Take one at a Slayer contract board."
+
+msgid "slayer_journal_none_not_enrolled"
+msgstr "No contracts - you are not a Slayer yet."
+
+msgid "slayer_journal_not_a_slayer"
+msgstr "You are not a Slayer yet - a Slayer Master signs up new Slayers."
+
+msgid "slayer_journal_not_enrolled"
+msgstr "Slayer - not enrolled"
+
+msgid "slayer_journal_nothing_posted"
+msgstr "nothing is posted here yet"
+
+msgid "slayer_journal_opens_at"
+msgstr "opens at Slayer level %1"
+
+msgid "slayer_journal_plus_talisman"
+msgstr "+ sealed talisman"
+
+#. %1 = the Anywhere bonus in percent.
+msgid "slayer_journal_points_bonus"
+msgstr "(+%1% points)"
+
+#. The Slayer Points icon.
+msgid "slayer_journal_points_tooltip"
+msgstr "Slayer Points. Spend them at Slayer Master Aero."
+
+msgid "slayer_journal_quarry_more"
+msgstr "(+%1 more)"
+
+msgid "slayer_journal_range"
+msgstr "%1 to %2"
+
+msgid "slayer_journal_reward_colon"
+msgstr "Reward:"
+
+#. After "<contract>  -  ".
+msgid "slayer_journal_row_count"
+msgstr "%1 of %2 slain"
+
+#. After "<contract>  -  ".
+msgid "slayer_journal_row_done"
+msgstr "done, %1 slain"
+
+#. After "<contract>  -  ".
+msgid "slayer_journal_row_done_hand_in"
+msgstr "DONE (%1 slain). Hand in at a board or Slayer Master."
+
+msgid "slayer_journal_sealed_hint"
+msgstr "Sealed. Identify it to roll its stats."
+
+#. Tooltip header.
+msgid "slayer_journal_sealed_talisman"
+msgstr "Sealed talisman"
+
+#. %1 = slayer_journal_talisman_tier_N.
+msgid "slayer_journal_sealed_talisman_name"
+msgstr "%1 Slayer Talisman (sealed)"
+
+msgid "slayer_journal_shop_hint"
+msgstr "Contract slots, orbs and keys are sold by Slayer Master Aero."
+
+msgid "slayer_journal_signup"
+msgstr "A Slayer Master signs up new Slayers and teaches the skill."
+
+msgid "slayer_journal_slayer_xp"
+msgstr "%1 Slayer XP"
+
+msgid "slayer_journal_slots_full"
+msgstr ""
+"Your contract slots are full - finish or abandon a contract to take another."
+
+msgid "slayer_journal_stage_colon"
+msgstr "Stage %1:"
+
+msgid "slayer_journal_stage_ready"
+msgstr "Stage %1 ready"
+
+msgid "slayer_journal_stage_ready_colon"
+msgstr "Stage %1 ready:"
+
+#. %2 = slayer_journal_to_stage.
+msgid "slayer_journal_stage_ready_then"
+msgstr "Stage %1 ready, %2"
+
+#. %1 = slayer_journal_ledger_N.
+msgid "slayer_journal_tab_tooltip"
+msgstr "%1 contracts - Slayer level %2"
+
+msgid "slayer_journal_talisman"
+msgstr "A sealed talisman:"
+
+msgid "slayer_journal_talisman_chance"
+msgstr "%1% chance from this contract"
+
+msgid "slayer_journal_talisman_staged"
+msgstr "A sealed talisman, better each stage - stage %1:"
+
+#. Talisman quality.
+msgid "slayer_journal_talisman_tier_1"
+msgstr "Fine"
+
+#. Talisman quality.
+msgid "slayer_journal_talisman_tier_2"
+msgstr "Superior"
+
+#. Talisman quality.
+msgid "slayer_journal_talisman_tier_3"
+msgstr "Exceptional"
+
+#. Talisman quality.
+msgid "slayer_journal_talisman_tier_4"
+msgstr "Peerless"
+
+#. Talisman quality.
+msgid "slayer_journal_talisman_tier_5"
+msgstr "Immaculate"
+
+#. %1 = "27/50".
+msgid "slayer_journal_to_stage"
+msgstr "%1 to stage %2"
+
+#. Button.
+msgid "slayer_journal_view"
+msgstr "View"
+
+msgid "slayer_journal_what_counts"
+msgstr "What counts"
+
+msgid "slayer_journal_xp"
+msgstr "%1 XP"
+
+msgid "slayer_journal_xp_capped"
+msgstr "%1 slayer XP   -   fully ranked"
+
+msgid "slayer_journal_xp_to_level"
+msgstr "%1 / %2 to level %3"
+
+msgid "slayer_journal_your_contracts"
+msgstr "Your contracts"
+
+#. %1 = held, %2 = slots.
+msgid "slayer_journal_your_contracts_count"
+msgstr "Your contracts   %1 / %2"
+
+#. %1 = slayer_lesson_span_*.
+msgid "slayer_lesson_band_restart"
+msgstr ""
+"Every new hit restarts the %1. Your party and your own faction never start "
+"it."
+
+msgid "slayer_lesson_band_rule"
+msgstr "Talismans are for monsters. In a fight with players they do nothing."
+
+msgid "slayer_lesson_monsters_heading"
+msgstr "AGAINST MONSTERS"
+
+msgid "slayer_lesson_monsters_text"
+msgstr "Your talismans and your mastery work at full power."
+
+msgid "slayer_lesson_pvp_heading"
+msgstr "IN PvP COMBAT"
+
+#. %1 = slayer_lesson_span_*.
+msgid "slayer_lesson_pvp_icon"
+msgstr "Hit a player, or get hit by one, and this icon shows for %1."
+
+msgid "slayer_lesson_pvp_off"
+msgstr ""
+"While it shows, your talisman and mastery bonuses are OFF - against players "
+"AND monsters."
+
+#. %1 = 1.
+msgid "slayer_lesson_span_minute"
+msgstr "%1 minute"
+
+msgid "slayer_lesson_span_minutes"
+msgstr "%1 minutes"
+
+msgid "slayer_lesson_span_seconds"
+msgstr "%1 seconds"
+
+msgid "slayer_lesson_subtitle"
+msgstr "Read this before you fight other players."
+
+msgid "slayer_lesson_title"
+msgstr "The Slayer's Rule"
+
+msgid "slayer_lesson_try_again"
+msgstr "Try again"
+
+msgid "slayer_lesson_understand"
+msgstr "I understand"
+
+#. %1 = seconds left before the button works.
+msgid "slayer_lesson_understand_in"
+msgstr "I understand (%1)"
+
+#. %1 = kills still to go.
+msgid "slayer_objective_left"
+msgstr "%1 left"
+
+msgid "slayer_ordinal_nd"
+msgstr "%1nd"
+
+msgid "slayer_ordinal_rd"
+msgstr "%1rd"
+
+msgid "slayer_ordinal_st"
+msgstr "%1st"
+
+msgid "slayer_ordinal_th"
+msgstr "%1th"
+
+#. %1 = ability name.
+msgid "slayer_path_active_ability"
+msgstr "%1  -  active ability"
+
+#. %1 = mastery name.
+msgid "slayer_path_best_of"
+msgstr "The best of the %1"
+
+msgid "slayer_path_blurb_berserker"
+msgstr "Two-handers and rage. Deadlier as you bleed."
+
+msgid "slayer_path_blurb_cutthroat"
+msgstr "Knives and bleeds. Strike from behind."
+
+msgid "slayer_path_blurb_deadeye"
+msgstr "Bow and precision. Kill from range."
+
+msgid "slayer_path_blurb_oracle"
+msgstr "Staff and mending. Keep your allies up."
+
+msgid "slayer_path_blurb_vanguard"
+msgstr "Shield and taunts. Hold the line."
+
+msgid "slayer_path_first_talisman"
+msgstr "Your first talisman"
+
+msgid "slayer_path_footnote"
+msgstr ""
+"Your first mastery is free. Others cost 10 gold at a Slayer Master. Your "
+"aura and capstone are free."
+
+msgid "slayer_path_pick"
+msgstr "Pick a path above"
+
+#. The role under a mastery card.
+msgid "slayer_path_role_damage"
+msgstr "Damage"
+
+#. The role under a mastery card.
+msgid "slayer_path_role_healer"
+msgstr "Healer"
+
+#. The role under a mastery card.
+msgid "slayer_path_role_tank"
+msgstr "Tank"
+
+msgid "slayer_path_subtitle"
+msgstr "Every Slayer walks a path. Click one to see what it does."
+
+msgid "slayer_path_title"
+msgstr "Choose your path"
+
+msgid "slayer_path_try_again"
+msgstr "Try again"
+
+msgid "slayer_path_unlocks_later"
+msgstr "Unlocks as you level"
+
+#. %1 = a talisman line, e.g. "+0.7 Arrow damage against monsters".
+msgid "slayer_path_up_to"
+msgstr "Up to %1"
+
+#. %1 = mastery name.
+msgid "slayer_path_walk"
+msgstr "Walk the %1 path"
+
+#. %1 = mastery name.
+msgid "slayer_path_walking"
+msgstr "Walking the %1 path..."
+
+msgid "slayer_path_yours_from_start"
+msgstr "Yours from the start"
+
+#. Between the last two names of a list ("A, B and C"); keep the spaces.
+msgid "slayer_progress_and"
+msgstr " and "
+
+#. Before the level figure on the big card ("Level 3/10").
+msgid "slayer_progress_count_level"
+msgstr "Level "
+
+#. After the XP figure on the big card ("120/400 XP").
+msgid "slayer_progress_count_xp"
+msgstr " XP"
+
+#. {n} = step, {m} = steps.
+msgid "slayer_progress_header"
+msgstr "Slayer Progression  Step {n} of {m}"
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_key_buy_objective"
+msgstr "Buy a key from Aero"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_key_buy_text"
+msgstr ""
+"You have enough Slayer Points for a Slayer Cache Key. Buy one from Aero and "
+"open the Slayer Cache in his camp for a sealed {cacheTier} talisman."
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_key_earn_objective"
+msgstr "Save {keyCost} Slayer Points"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_key_earn_text"
+msgstr ""
+"Aero sells a Slayer Cache Key for {keyCost} Slayer Points. The Slayer Cache "
+"in his camp takes the key and always gives a sealed {cacheTier} talisman."
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_key_open_objective"
+msgstr "Open the Slayer Cache"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_key_open_text"
+msgstr ""
+"Take your key to the Slayer Cache in Aero's camp. The cache takes the key "
+"and gives you a sealed {cacheTier} talisman."
+
+# Next patch 5: Slayer progress guide, Slayer Path, Slayer lesson
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_levels_objective"
+msgstr "Reach Slayer level {nextLevel}"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_levels_text"
+msgstr ""
+"Every kill earns Slayer XP and finished contracts add more. Harder contracts "
+"pay more Slayer Points and better talisman odds, and each harder tier opens "
+"as your Slayer level grows."
+
+#. %1 = a talisman tier.
+msgid "slayer_progress_or_better"
+msgstr "%1 or better"
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_slots_buy_objective"
+msgstr "Buy a talisman slot from Aero"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_slots_buy_text"
+msgstr ""
+"You have enough Slayer Points for a second talisman slot. Buy it from Slayer "
+"Master Aero."
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_slots_earn_objective"
+msgstr "Save {slotCost} Slayer Points"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_slots_earn_text"
+msgstr ""
+"Your level is high enough. Aero sells a second talisman slot for {slotCost} "
+"Slayer Points."
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_slots_level_objective"
+msgstr "Reach Slayer level {slotLevel}"
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_slots_level_one_objective"
+msgstr "Reach Slayer level {slotLevel}"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_slots_level_one_text"
+msgstr ""
+"Aero sells a second talisman slot at Slayer level {slotLevel}, for "
+"{slotCost} Slayer Points."
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_slots_level_text"
+msgstr ""
+"Aero sells a second talisman slot at Slayer level {slotLevel} and a third at "
+"{thirdLevel}, for {slotCost} and {thirdCost} Slayer Points."
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_tiers_objective"
+msgstr "Finish a Slayer contract"
+
+#. Slayer Progression card objective (title and tracker row); {placeholders} are filled by the game.
+msgid "slayer_progress_tiers_plain_objective"
+msgstr "Finish a Slayer contract"
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_tiers_plain_text"
+msgstr ""
+"Every contract you finish pays a sealed talisman, {firstTier} up to "
+"{cacheTier}. Higher tiers roll more lines and bigger numbers."
+
+#. Slayer Progression card text; {placeholders} are filled by the game.
+msgid "slayer_progress_tiers_text"
+msgstr ""
+"Every contract you finish pays a sealed talisman, {firstTier} up to "
+"{cacheTier}. Higher tiers roll more lines, and a few, like {gated}, only "
+"roll on {gateTier}."
+
+#. Tracker row; {next} = the objective.
+msgid "slayer_progress_tray_level"
+msgstr "{next}  {have}/{span} XP"
+
+#. Tracker row; {next} = the objective.
+msgid "slayer_progress_tray_points"
+msgstr "{next}  {points}/{cost}"
+
+#. Tracker row; {next} = the objective.
+msgid "slayer_progress_tray_slot_level"
+msgstr "{next}  Level {level}/{slotLevel}"
+
+#. %1 = "1st Epic · 2nd Rare ...".
+msgid "slayer_shared_ladder"
+msgstr "%1 · then Common"
+
+#. %1 = slayer_ordinal_*.
+msgid "slayer_shared_pays_as"
+msgstr "Pays as your %1 Shared completed this week"
+
+#. %1 = a contract rarity.
+msgid "slayer_shared_weekly_bonus"
+msgstr "Weekly bonus: %1 - resets Mon 10:00 UTC"
+
+#. %1 = slayer_ordinal_*.
+msgid "slayer_shared_your_place"
+msgstr "Your %1 Shared completed this week. One at a time."
+
+msgid "slayer_step_card_choose_path_next"
+msgstr "Choose your path at Aero"
+
+msgid "slayer_step_card_choose_path_text"
+msgstr ""
+"Talk to Slayer Master Aero to learn about masteries and pick your path. Your "
+"first mastery is free."
+
+msgid "slayer_step_card_choose_path_title"
+msgstr "Choose your path"
+
+msgid "slayer_step_card_contract_done_next"
+msgstr "Hand in at a board or Slayer Master"
+
+msgid "slayer_step_card_contract_done_text"
+msgstr ""
+"All {kills} {quarry} slain. Open any contract board or talk to a Slayer "
+"Master to claim your reward."
+
+msgid "slayer_step_card_contract_done_title"
+msgstr "Return to a Slayer Master"
+
+msgid "slayer_step_card_contract_hunt_next"
+msgstr "Kill {kills} {quarry}"
+
+msgid "slayer_step_card_contract_hunt_text"
+msgstr "Kill {kills} {quarry}."
+
+msgid "slayer_step_card_contract_stage_next"
+msgstr "Hand in at a board or Slayer Master"
+
+msgid "slayer_step_card_contract_stage_text"
+msgstr ""
+"A stage is ready. Hand it in at a board or Slayer Master, or hunt on to "
+"{kills} {quarry}."
+
+msgid "slayer_step_card_equip_next"
+msgstr "Wear the talisman"
+
+msgid "slayer_step_card_equip_text"
+msgstr "Open your paperdoll and drag the talisman into the Talisman slot."
+
+msgid "slayer_step_card_equip_title"
+msgstr "Wear your talisman"
+
+msgid "slayer_step_card_hunt_next"
+msgstr "Kill {kills} {quarry}"
+
+msgid "slayer_step_card_hunt_text"
+msgstr "Kill {kills} {quarry}. Steal their souls while you're at it."
+
+msgid "slayer_step_card_hunt_title"
+msgstr "Your first hunt"
+
+msgid "slayer_step_card_identify_next"
+msgstr "Identify the sealed talisman"
+
+msgid "slayer_step_card_identify_text"
+msgstr ""
+"Open your backpack and double-click the sealed talisman to see what you got."
+
+msgid "slayer_step_card_identify_title"
+msgstr "Identify your talisman"
+
+msgid "slayer_step_card_lesson_next"
+msgstr "Read the Slayer's Rule"
+
+msgid "slayer_step_card_lesson_text"
+msgstr "Aero has one last rule for you. Read it, then press I understand."
+
+msgid "slayer_step_card_lesson_title"
+msgstr "The Slayer's Rule"
+
+msgid "slayer_step_card_milestone_aura_text"
+msgstr ""
+"Your {auraName} is unlocked: {effect}. Light it from the PvE Mastery window. "
+"It stays lit until PvP contact."
+
+msgid "slayer_step_card_milestone_trial_next"
+msgstr "Trial {trial} awaits"
+
+msgid "slayer_step_card_milestone_trial_text"
+msgstr ""
+"{mastery} has reached level {cap}. To go further, pass Trial {trial} at "
+"Slayer Master Aero for {price}."
+
+msgid "slayer_step_card_milestone_trial_title"
+msgstr "Trial {trial} awaits"
+
+msgid "slayer_step_card_not_started_next"
+msgstr "Walk to Slayer Master Aero"
+
+msgid "slayer_step_card_not_started_text"
+msgstr "Find Slayer Master Aero. He's the one with the ! over his head."
+
+msgid "slayer_step_card_not_started_title"
+msgstr "Meet the Slayer Master"
+
+msgid "slayer_step_card_take_contract_next"
+msgstr "Take the {quarry} contract"
+
+msgid "slayer_step_card_take_contract_text"
+msgstr ""
+"The Slayer Contract Board stands right next to Aero. Grab the {kills} "
+"{quarry} contract."
+
+msgid "slayer_step_card_take_contract_title"
+msgstr "Take your first contract"
+
+msgid "slayer_step_card_turn_in_next"
+msgstr "Hand in at the board or Aero"
+
+msgid "slayer_step_card_turn_in_text"
+msgstr ""
+"Head back to the contract board or Slayer Master Aero. A sealed talisman "
+"waits for you."
+
+msgid "slayer_step_card_turn_in_title"
+msgstr "Collect your reward"
+
+msgid "slayer_step_contract_header"
+msgstr "Slayer Contract"
+
+msgid "slayer_step_count_ancient_orb"
+msgstr "{n} Ancient Orb"
+
+msgid "slayer_step_count_ancient_orb_plural"
+msgstr "{n} Ancient Orbs"
+
+msgid "slayer_step_count_essence"
+msgstr "{n} essence"
+
+msgid "slayer_step_count_mastery_orb"
+msgstr "{n} Mastery Orb"
+
+msgid "slayer_step_count_mastery_orb_plural"
+msgstr "{n} Mastery Orbs"
+
+msgid "slayer_step_duration_hour"
+msgstr "one hour"
+
+msgid "slayer_step_duration_hours"
+msgstr "{n} hours"
+
+msgid "slayer_step_duration_minute"
+msgstr "one minute"
+
+msgid "slayer_step_duration_minutes"
+msgstr "{n} minutes"
+
+msgid "slayer_step_duration_seconds"
+msgstr "{n} seconds"
+
+msgid "slayer_step_got_it"
+msgstr "Got it"
+
+msgid "slayer_step_header"
+msgstr "Step {n} of {m}"
+
+#. Distance in metres.
+msgid "slayer_step_metres"
+msgstr "{n} m"
+
+msgid "slayer_step_milestone_header"
+msgstr "Mastery"
+
+msgid "slayer_step_place_board"
+msgstr "Slayer Contract Board"
+
+msgid "slayer_step_place_board_fallback"
+msgstr "The board stands next to Aero."
+
+msgid "slayer_step_place_master"
+msgstr "Slayer Master Aero"
+
+msgid "slayer_step_place_master_fallback"
+msgstr "Aero stands at every Slayer camp."
+
+msgid "slayer_step_place_quarry"
+msgstr "Nearest {quarry}"
+
+#. Joins the last two parts of a trial price.
+msgid "slayer_step_price_and"
+msgstr " and "
+
+msgid "slayer_step_price_nothing"
+msgstr "nothing"
+
+#. Follows the Mastery Orb count in a trial price.
+msgid "slayer_step_price_orb_sold"
+msgstr ", sold by Aero for Slayer Points,"
+
+msgid "slayer_step_price_unknown"
+msgstr "Mastery Orbs"
+
+#. Fills {quarry} when the contract has no name.
+msgid "slayer_step_quarry_fallback"
+msgstr "monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_bk_bloodlust"
+msgstr "+{n}% Bloodthirst lifesteal on Power Attacks"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_bk_frenzied"
+msgstr "+{n}% maximum Frenzy swing speed"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_bk_relentless"
+msgstr "-{n} sec Enrage cooldown"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_ct_gore_window"
+msgstr "+{n} sec Gore duration between hits"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_ct_harvest_cooldown"
+msgstr "-{n} sec Red Harvest cooldown"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_ct_momentum_window"
+msgstr "+{n} sec Momentum duration between hits"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_ct_rupture_deeper"
+msgstr "+{n} maximum Ruptures"
+
+#. {n} = 1.
+msgid "slayer_talisman_line_ct_rupture_deeper_one"
+msgstr "+{n} maximum Rupture"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_ct_rupture_sooner"
+msgstr "Rupture needs {n} fewer Gore stacks"
+
+#. {n} = 1.
+msgid "slayer_talisman_line_ct_rupture_sooner_one"
+msgstr "Rupture needs {n} fewer Gore stack"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_de_breach_shred"
+msgstr "Breach strips {n} more Arrow Protection"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_de_bullseye_count"
+msgstr "Bullseye needs {n} fewer arrows"
+
+#. {n} = 1.
+msgid "slayer_talisman_line_de_bullseye_count_one"
+msgstr "Bullseye needs {n} fewer arrow"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_de_quiver_cooldown"
+msgstr "-{n} sec Phantom Quiver cooldown"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_de_reset_window"
+msgstr "+{n} sec before Bullseye and Second Nature reset"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_de_second_nature_cap"
+msgstr "+{n} maximum Second Nature stacks"
+
+#. {n} = 1.
+msgid "slayer_talisman_line_de_second_nature_cap_one"
+msgstr "+{n} maximum Second Nature stack"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_essence_gain"
+msgstr "+{n}% Essence from souls"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_healing"
+msgstr "+{n}% healing done outside PvP"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mastery_aura"
+msgstr "+{n} min aura duration"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mastery_essence"
+msgstr "No effect (retired)"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mastery_proc"
+msgstr "+{n}% chance for mastery passives to trigger"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_acid_protection"
+msgstr "+{n} to your Acid damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_arcane_protection"
+msgstr "+{n} to your Arcane damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_arrow_protection"
+msgstr "+{n} to your Arrow damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_bleeding_protection"
+msgstr "+{n} to your Bleeding damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_bludgeoning_protection"
+msgstr "+{n} to your Bludgeoning damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_cold_protection"
+msgstr "+{n} to your Cold damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_fire_protection"
+msgstr "+{n} to your Fire damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_holy_protection"
+msgstr "+{n} to your Holy damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_impact_protection"
+msgstr "+{n} to your Impact damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_lightning_protection"
+msgstr "+{n} to your Lightning damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_piercing_protection"
+msgstr "+{n} to your Piercing damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_poison_protection"
+msgstr "+{n} to your Poison damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_slashing_protection"
+msgstr "+{n} to your Slashing damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mondmg_unholy_protection"
+msgstr "+{n} to your Unholy damage on monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_acid_protection"
+msgstr "+{n} Acid Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_arcane_protection"
+msgstr "+{n} Arcane Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_arrow_protection"
+msgstr "+{n} Arrow Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_bleeding_protection"
+msgstr "+{n} Bleeding Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_bludgeoning_protection"
+msgstr "+{n} Bludgeoning Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_cold_protection"
+msgstr "+{n} Cold Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_fire_protection"
+msgstr "+{n} Fire Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_holy_protection"
+msgstr "+{n} Holy Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_impact_protection"
+msgstr "+{n} Impact Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_lightning_protection"
+msgstr "+{n} Lightning Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_piercing_protection"
+msgstr "+{n} Piercing Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_poison_protection"
+msgstr "+{n} Poison Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_slashing_protection"
+msgstr "+{n} Slashing Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_monprot_unholy_protection"
+msgstr "+{n} Unholy Protection against monsters"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_mp_gain"
+msgstr "+{n}% Mastery XP from kills"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_or_communion_share"
+msgstr "Mana Blast heals your party for +{n}% of its damage"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_or_purify_reach"
+msgstr "Purification removes {n} more types of debuff"
+
+#. {n} = 1.
+msgid "slayer_talisman_line_or_purify_reach_one"
+msgstr "Purification removes {n} more type of debuff"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_or_sanctuary_cooldown"
+msgstr "-{n} sec Sanctuary cooldown"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_plain"
+msgstr "+{n}%"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_point_gain"
+msgstr "+{n}% Slayer Points from contracts"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_swift_contract"
+msgstr "Contracts need {n}% fewer kills"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_talisman_luck"
+msgstr "{n}% chance to upgrade a contract's talisman reward"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_task_xp"
+msgstr "+{n}% Slayer XP from kills"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_vg_aegis_cooldown"
+msgstr "-{n} sec Aegis cooldown"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_vg_field_aoe_ward"
+msgstr "-{n}% damage from lingering monster spells"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_vg_provoke_range"
+msgstr "+{n} m Provoke range"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_vg_thorns"
+msgstr "+{n} Bulwark thorns damage"
+
+#. {n} = the rolled number.
+msgid "slayer_talisman_line_vg_unbroken_cooldown"
+msgstr "-{n} sec Unbroken Line cooldown"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_acid_bane"
+msgstr "Acid Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_acid_ward"
+msgstr "Acid Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_arcane_bane"
+msgstr "Arcane Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_arcane_ward"
+msgstr "Arcane Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_arrow_bane"
+msgstr "Arrow Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_arrow_ward"
+msgstr "Arrow Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_attuned"
+msgstr "Attuned"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_barbs"
+msgstr "Barbs"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bellow"
+msgstr "Bellow"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bleeding_bane"
+msgstr "Bleeding Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bleeding_ward"
+msgstr "Bleeding Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bloodlust"
+msgstr "Bloodlust"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bloodproof"
+msgstr "Bloodproof"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bludgeoning_bane"
+msgstr "Bludgeoning Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_bludgeoning_ward"
+msgstr "Bludgeoning Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_cleanse"
+msgstr "Cleanse"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_cold_bane"
+msgstr "Cold Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_cold_ward"
+msgstr "Cold Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_communion"
+msgstr "Communion"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_devotion"
+msgstr "Devotion"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_enduring"
+msgstr "Enduring"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_fire_bane"
+msgstr "Fire Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_fire_ward"
+msgstr "Fire Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_frenzied"
+msgstr "Frenzied"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_frugal"
+msgstr "Frugal"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_harvest"
+msgstr "Harvest"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_holy_bane"
+msgstr "Holy Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_holy_ward"
+msgstr "Holy Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_impact_bane"
+msgstr "Impact Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_impact_ward"
+msgstr "Impact Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_ingrained"
+msgstr "Ingrained"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_keen_eye"
+msgstr "Keen Eye"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_lightning_bane"
+msgstr "Lightning Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_lightning_ward"
+msgstr "Lightning Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_mending"
+msgstr "Mending"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_patient_blade"
+msgstr "Patient Blade"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_persistence"
+msgstr "Persistence"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_piercing_bane"
+msgstr "Piercing Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_piercing_ward"
+msgstr "Piercing Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_poison_bane"
+msgstr "Poison Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_poison_ward"
+msgstr "Poison Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_rally"
+msgstr "Rally"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_ready"
+msgstr "Ready"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_relentless"
+msgstr "Relentless"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_rupture_deeper"
+msgstr "Rupture Deeper"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_rupture_sooner"
+msgstr "Rupture Sooner"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_scholar"
+msgstr "Scholar"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_slashing_bane"
+msgstr "Slashing Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_slashing_ward"
+msgstr "Slashing Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_slayer_points"
+msgstr "Slayer Points"
+
+# Next patch 5: talisman stat names and lines, talisman tooltip, objective count, /slayer_status lines
+#. A talisman stat name.
+msgid "slayer_talisman_stat_slayer_xp"
+msgstr "Slayer XP"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_spectral"
+msgstr "Spectral"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_steadfast"
+msgstr "Steadfast"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_steady"
+msgstr "Steady"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_sunder"
+msgstr "Sunder"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_swift_contract"
+msgstr "Swift Contract"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_talisman_luck"
+msgstr "Talisman Luck"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_unbowed"
+msgstr "Unbowed"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_unholy_bane"
+msgstr "Unholy Bane"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_unholy_ward"
+msgstr "Unholy Ward"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_unspent"
+msgstr "Unspent"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_weathered"
+msgstr "Weathered"
+
+#. A talisman stat name.
+msgid "slayer_talisman_stat_wellspring"
+msgstr "Wellspring"
+
+msgid "slayer_talisman_tooltip_better_worn"
+msgstr "(a better copy is worn)"
+
+#. %1 = percent.
+msgid "slayer_talisman_tooltip_counts"
+msgstr "(counts %1%)"
+
+msgid "slayer_talisman_tooltip_hold_shift"
+msgstr "Hold Shift for roll ranges"
+
+#. %1 = a talisman tier.
+msgid "slayer_talisman_tooltip_ranges"
+msgstr "%1 roll ranges"
+
+msgid "slayer_talisman_tooltip_sealed"
+msgstr "Sealed - double-click to identify"
+
+#. %1 = the stat line.
+msgid "slayer_talisman_tooltip_unique"
+msgstr "Unique %1"
 
 msgid "slot_position_eight"
 msgstr "8"
@@ -13955,6 +16042,141 @@ msgstr "3"
 
 msgid "slot_position_two"
 msgstr "2"
+
+msgid "soul_tree_bonuses_button"
+msgstr "Your bonuses"
+
+msgid "soul_tree_bonuses_close"
+msgstr "Hide bonuses"
+
+msgid "soul_tree_bonuses_none"
+msgstr "Nothing bought yet."
+
+msgid "soul_tree_bonuses_soul"
+msgstr "Soul: +%1% souls from every kill."
+
+msgid "soul_tree_bonuses_title"
+msgstr "Your bonuses"
+
+msgid "soul_tree_card_buy"
+msgstr "Click to buy rank %1 for %2 souls."
+
+msgid "soul_tree_card_buy_one"
+msgstr "Click to buy for %1 souls."
+
+msgid "soul_tree_card_max"
+msgstr "Highest rank."
+
+msgid "soul_tree_card_needs"
+msgstr "Buy %1 first."
+
+msgid "soul_tree_card_next"
+msgstr "Next rank: %1"
+
+msgid "soul_tree_card_owned"
+msgstr "Owned."
+
+msgid "soul_tree_card_poor"
+msgstr "Costs %1 souls - you have %2."
+
+msgid "soul_tree_card_rank"
+msgstr "Rank %1 of %2"
+
+msgid "soul_tree_card_soul_bonus"
+msgstr ""
+"+%1% souls from every kill. The next +%2% comes after %3 more souls spent."
+
+msgid "soul_tree_counter"
+msgstr "%1 souls"
+
+msgid "soul_tree_families_button"
+msgstr "Monster families"
+
+msgid "soul_tree_families_close"
+msgstr "Hide families"
+
+msgid "soul_tree_families_hint"
+msgstr "Hover a Hunter perk to see its monsters, or search a name."
+
+msgid "soul_tree_families_more"
+msgstr "... and %1 more."
+
+msgid "soul_tree_families_none"
+msgstr "No monster by that name."
+
+msgid "soul_tree_families_title"
+msgstr "Monster families"
+
+msgid "soul_tree_family_aberrations"
+msgstr "Aberrations"
+
+msgid "soul_tree_family_animals"
+msgstr "Animals"
+
+msgid "soul_tree_family_constructs"
+msgstr "Constructs"
+
+msgid "soul_tree_family_dragons"
+msgstr "Dragons"
+
+msgid "soul_tree_family_elementals"
+msgstr "Elementals"
+
+msgid "soul_tree_family_giants"
+msgstr "Giants"
+
+msgid "soul_tree_family_humanoids"
+msgstr "Humanoids"
+
+msgid "soul_tree_family_magical_beasts"
+msgstr "Magical Beasts"
+
+msgid "soul_tree_family_outerplanars"
+msgstr "Outerplanars"
+
+msgid "soul_tree_family_plants"
+msgstr "Plants"
+
+msgid "soul_tree_family_sea_creatures"
+msgstr "Sea creatures"
+
+msgid "soul_tree_family_undead"
+msgstr "Undead"
+
+msgid "soul_tree_family_vermin"
+msgstr "Vermin"
+
+msgid "soul_tree_kind_arm"
+msgstr "Arm"
+
+msgid "soul_tree_kind_group"
+msgstr "Group"
+
+msgid "soul_tree_kind_perk"
+msgstr "Perk"
+
+msgid "soul_tree_kind_soul"
+msgstr "Soul"
+
+msgid "soul_tree_open_button"
+msgstr "Soul Tree"
+
+msgid "soul_tree_status_buying"
+msgstr "Buying %1..."
+
+msgid "soul_tree_window_hint"
+msgstr ""
+"Click a node to buy its next rank. Perks act against monsters and are "
+"disabled while you are PvP-marked."
+
+msgid "soul_tree_window_souls"
+msgstr "Souls: %1"
+
+msgid "soul_tree_window_spent"
+msgstr "%1 of %2 souls spent"
+
+msgid "soul_tree_window_title"
+msgstr "Soul Tree"
 
 msgid "space"
 msgstr " "
@@ -14296,6 +16518,70 @@ msgstr "Take the Survey"
 
 msgid "swimming"
 msgstr "swimming"
+
+msgid "talent_window_button_apply"
+msgstr "Apply"
+
+msgid "talent_window_button_close"
+msgstr "X"
+
+msgid "talent_window_button_follow"
+msgstr "Follow default path"
+
+msgid "talent_window_button_following"
+msgstr "Following default"
+
+msgid "talent_window_button_fullscreen"
+msgstr "Full screen"
+
+msgid "talent_window_button_keep"
+msgstr "Keep"
+
+msgid "talent_window_button_refund_all"
+msgstr "Refund all"
+
+msgid "talent_window_button_reset"
+msgstr "Reset plan"
+
+msgid "talent_window_button_swap"
+msgstr "Swap"
+
+msgid "talent_window_button_windowed"
+msgstr "Window"
+
+msgid "talent_window_button_zoom_in"
+msgstr "+"
+
+msgid "talent_window_button_zoom_out"
+msgstr "-"
+
+msgid "talent_window_card_kind_arm"
+msgstr "%1 - %2"
+
+msgid "talent_window_kind_capstone"
+msgstr "Capstone"
+
+msgid "talent_window_kind_keystone"
+msgstr "Keystone"
+
+msgid "talent_window_kind_notable"
+msgstr "Notable"
+
+msgid "talent_window_kind_small"
+msgstr "Small"
+
+msgid "talent_window_kind_socket"
+msgstr "Jewel socket"
+
+msgid "talent_window_kind_start"
+msgstr "Start"
+
+msgid "talent_window_plan_refund"
+msgstr "%1 to refund"
+
+# ---- mastery hall END ----
+msgid "talent_window_plan_take"
+msgstr "+%1 to take"
 
 msgid "target_health"
 msgstr "Target Health"

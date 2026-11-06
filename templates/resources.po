@@ -315,6 +315,9 @@ msgid "cosmetic_desc_battlehorn_ember"
 msgstr ""
 "Black volcanic hide with magma glowing in the seams and burning hooves."
 
+msgid "cosmetic_desc_battlehorn_slayer"
+msgstr "Pitch-black hide etched in silver. Leaves a trail of shadow."
+
 msgid "cosmetic_desc_bluetail_runner_bloodmoon"
 msgstr "Deep crimson fur fading to black legs, with a black mane and horns."
 
@@ -1468,6 +1471,9 @@ msgstr "Blood Moon Battlehorn"
 
 msgid "cosmetic_name_battlehorn_ember"
 msgstr "Emberscale Battlehorn"
+
+msgid "cosmetic_name_battlehorn_slayer"
+msgstr "Slayer Battlehorn"
 
 msgid "cosmetic_name_bluetail_runner_bloodmoon"
 msgstr "Blood Moon Bluetail Runner"
@@ -16155,6 +16161,11 @@ msgstr ""
 "Blood is smeared all over this powerful greatclub, and several of its spikes "
 "are bent or broken in half. "
 
+msgid "desc_r_Slayer Bounty Token"
+msgstr ""
+"Worth 5 Slayer Points. Use it from your backpack to redeem the whole stack. "
+"Tradeable."
+
 msgid "desc_r_Slayer Cache"
 msgstr ""
 "Press Use with a Slayer Cache Key in your bag to open it for one sealed "
@@ -16179,6 +16190,76 @@ msgstr ""
 "Opens one more talisman slot on your paperdoll, up to 3. The second slot "
 "needs Slayer level 50 and the third level 75."
 
+msgid "desc_r_Slayer Fight Potion 1"
+msgstr ""
+"Drink: +3% damage to monsters your held contracts hunt, for 30 minutes of "
+"play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fight Potion 2"
+msgstr ""
+"Drink: +6% damage to monsters your held contracts hunt, for 30 minutes of "
+"play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fight Potion 3"
+msgstr ""
+"Drink: +10% damage to monsters your held contracts hunt, for 30 minutes of "
+"play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fight Potions"
+msgstr ""
+"Potions that make your blows land harder on the monsters your contracts hunt."
+
+msgid "desc_r_Slayer Fortune Potion 1"
+msgstr ""
+"Drink: contract kills find a Slayer Cache 5% of the time instead of 2%, for "
+"30 minutes of play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fortune Potion 2"
+msgstr ""
+"Drink: contract kills find a Slayer Cache 7% of the time instead of 2%, for "
+"30 minutes of play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fortune Potion 3"
+msgstr ""
+"Drink: contract kills find a Slayer Cache 10% of the time instead of 2%, for "
+"30 minutes of play. Stronger potions replace weaker ones."
+
+msgid "desc_r_Slayer Fortune Potions"
+msgstr "Potions that make contract kills find a Slayer Cache more often."
+
+msgid "desc_r_Slayer Kill Cache Easy"
+msgstr ""
+"Found on a Slayer contract target. Open it from your backpack: Slayer Bounty "
+"Tokens, a chance of a sealed talisman, and a rare chance of a Slayer weapon "
+"skin."
+
+msgid "desc_r_Slayer Kill Cache Hard"
+msgstr ""
+"Found on a Slayer contract target. Open it from your backpack: Slayer Bounty "
+"Tokens, a chance of a sealed talisman, and a rare chance of a Slayer weapon "
+"skin."
+
+msgid "desc_r_Slayer Kill Cache Medium"
+msgstr ""
+"Found on a Slayer contract target. Open it from your backpack: Slayer Bounty "
+"Tokens, a chance of a sealed talisman, and a rare chance of a Slayer weapon "
+"skin."
+
+msgid "desc_r_Slayer Kill Cache Very Easy"
+msgstr ""
+"Found on a Slayer contract target. Open it from your backpack: Slayer Bounty "
+"Tokens, a chance of a sealed talisman, and a rare chance of a Slayer weapon "
+"skin."
+
+msgid "desc_r_Slayer Kill Cache Very Hard"
+msgstr ""
+"Found on a Slayer contract target. Open it from your backpack: Slayer Bounty "
+"Tokens, a chance of a sealed talisman, and a rare chance of a Slayer weapon "
+"skin."
+
+msgid "desc_r_Slayer Potions"
+msgstr "Potions Slayer Master Aero brews for Slayers on contract."
+
 msgid "desc_r_Slayer Services"
 msgstr ""
 "Slot upgrades Slayer Master Aero sells for Slayer Points: more contracts and "
@@ -16186,6 +16267,11 @@ msgstr ""
 
 msgid "desc_r_Slayer Slow Recall"
 msgstr "Unlocks the Slayer's slow recall to your bindstone. Bought once."
+
+msgid "desc_r_Slayer Soul Tree Reset Token"
+msgstr ""
+"Use from your pack: every node back to rank 0 and every soul spent on it "
+"returned to your pool. Kept while your tree is empty."
 
 msgid "desc_r_Slayer Talisman Carved"
 msgstr ""
@@ -35486,6 +35572,9 @@ msgstr "Slave of Khamset"
 msgid "r_Slavemaster"
 msgstr "Slavemaster"
 
+msgid "r_Slayer Bounty Token"
+msgstr "Slayer Bounty Token"
+
 msgid "r_Slayer Cache"
 msgstr "Slayer Cache"
 
@@ -35501,11 +35590,56 @@ msgstr "Contract Slot"
 msgid "r_Slayer Extra Talisman Slot"
 msgstr "Talisman Slot"
 
+msgid "r_Slayer Fight Potion 1"
+msgstr "Slayer Fight Potion I"
+
+msgid "r_Slayer Fight Potion 2"
+msgstr "Slayer Fight Potion II"
+
+msgid "r_Slayer Fight Potion 3"
+msgstr "Slayer Fight Potion III"
+
+msgid "r_Slayer Fight Potions"
+msgstr "Slayer Fight Potions"
+
+msgid "r_Slayer Fortune Potion 1"
+msgstr "Slayer Fortune Potion I"
+
+msgid "r_Slayer Fortune Potion 2"
+msgstr "Slayer Fortune Potion II"
+
+msgid "r_Slayer Fortune Potion 3"
+msgstr "Slayer Fortune Potion III"
+
+msgid "r_Slayer Fortune Potions"
+msgstr "Slayer Fortune Potions"
+
+msgid "r_Slayer Kill Cache Easy"
+msgstr "Easy Slayer Cache"
+
+msgid "r_Slayer Kill Cache Hard"
+msgstr "Hard Slayer Cache"
+
+msgid "r_Slayer Kill Cache Medium"
+msgstr "Medium Slayer Cache"
+
+msgid "r_Slayer Kill Cache Very Easy"
+msgstr "Very Easy Slayer Cache"
+
+msgid "r_Slayer Kill Cache Very Hard"
+msgstr "Very Hard Slayer Cache"
+
+msgid "r_Slayer Potions"
+msgstr "Slayer Potions"
+
 msgid "r_Slayer Services"
 msgstr "Slayer Services"
 
 msgid "r_Slayer Slow Recall"
 msgstr "Slow Recall"
+
+msgid "r_Slayer Soul Tree Reset Token"
+msgstr "Soul Tree Reset Token"
 
 msgid "r_Slayer Talisman Carved"
 msgstr "Carved Slayer Talisman"
