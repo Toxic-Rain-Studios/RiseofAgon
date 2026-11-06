@@ -14012,6 +14012,10 @@ msgstr "claims a kit by name"
 msgid "chat_cmd_kit_param_name"
 msgstr "the kit's name"
 
+#. Chat command help for /playtime. No runtime parameters.
+msgid "chat_cmd_playtime_desc"
+msgstr "shows how long you have played this session and in total"
+
 msgid "chat_midi_all_devices"
 msgstr "all devices"
 
@@ -14308,6 +14312,14 @@ msgstr "You set out on a pilgrimage. The first shrine is revealed: %1."
 
 msgid "pilgrimage_wrong_shrine"
 msgstr "Pray at the shrine your pilgrimage has revealed."
+
+#. /playtime. Runtime parameters: hours, then minutes, logged in this session.
+msgid "playtime_session"
+msgstr "Session playtime: %1h %2m"
+
+#. /playtime. Runtime parameters: days, hours, then minutes of total account playtime.
+msgid "playtime_total"
+msgstr "Total playtime: %1d %2h %3m"
 
 msgid "slayer_rarity_0"
 msgstr "Common"
