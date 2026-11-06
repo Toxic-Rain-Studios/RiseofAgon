@@ -14129,6 +14129,11 @@ msgstr "The spell tree is not available."
 msgid "chat_spelltree_usage"
 msgstr "Usage: /spelltree [open]"
 
+msgid "chat_xp_area_exhausted"
+msgstr ""
+"The monsters here have little left to teach you. Kills nearby give less "
+"character XP for a while - move on to earn full XP."
+
 msgid "chatcommand_midi"
 msgstr ""
 "Use a MIDI keyboard with your instruments. /midi shows the status and "
