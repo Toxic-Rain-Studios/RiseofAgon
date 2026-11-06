@@ -2174,6 +2174,12 @@ msgstr "description of command s_text"
 msgid "chat_scenegraph_cmd_s_text_param_thetext_desc"
 msgstr "description of command s_text, parameter thetext"
 
+msgid "chat_selfie_err_combat"
+msgstr "You can't summon your evil eye while in combat."
+
+msgid "chat_selfie_err_unavailable"
+msgstr "Your evil eye can't be summoned right now."
+
 msgid "chat_server_cmd_annotation_add_desc"
 msgstr "adds an annotation at your current position"
 
