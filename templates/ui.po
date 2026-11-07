@@ -8907,6 +8907,20 @@ msgstr "Siege preparation - towers empowered"
 msgid "map_tooltip_faction_siege_preparation_timer"
 msgstr "Siege begins in %1"
 
+#. Map tooltip on a lawful glyph away from the viewer's faction land.
+msgid "map_tooltip_glyph_border_closed"
+msgstr ""
+"Your faction has no border here - push out from your home zone or a glyph "
+"you hold."
+
+#. Map tooltip on a lawful glyph next to the viewer's faction land.
+msgid "map_tooltip_glyph_border_open"
+msgstr "Your faction borders this glyph - you can declare on it."
+
+#. Map tooltip on a faction home zone tile. %1 faction name, %2 capital name.
+msgid "map_tooltip_home_zone"
+msgstr "Home of %1 (%2) - it can never be captured."
+
 msgid "map_tooltip_overlay_region_desc"
 msgstr "The player market shows listings from the region you are in."
 
@@ -16783,6 +16797,12 @@ msgstr "Teleportation Cost %1 Gold"
 
 msgid "territory_control_window_title"
 msgstr "Territory Control"
+
+#. Faction tug of war: a declaration on a lawful glyph the faction has no border with (neither its home zone nor a glyph it holds is next to it). The Glyph Wand is kept.
+msgid "territory_no_border"
+msgstr ""
+"Your faction has no border with this glyph. Push out from your home zone or "
+"a glyph your faction holds."
 
 msgid "text"
 msgstr "text"
