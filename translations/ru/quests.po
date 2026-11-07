@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-31 00:13+0000\n"
+"PO-Revision-Date: 2026-11-07 15:00+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/ru/>\n"
@@ -67711,9 +67711,9 @@ msgstr ""
 "Все, что вы носите, может пойти в бар, так что это один ключ в бою. Откройте "
 "рюкзак и перетащите овсянку Берри на клавишу 6."
 
+#, fuzzy
 msgid "end_text_quest_21242"
-msgstr ""
-"Еда, бинты, зелья — на что бы вы не хотели охотиться с гоблином на вас."
+msgstr "Еда, бинты, зелья — на что бы вы не хотели охотиться с гоблином на вас."
 
 #, fuzzy
 msgid "finished_text_quest_21242"
@@ -67733,6 +67733,7 @@ msgid "use_skill_message_quest_21239"
 msgstr ""
 "^Cdarkfall^Вы ели, ^Cwhite^%1 ^Cdarkfall^из ^Cwhite^%2 ^Cdarkfall^Время."
 
+#, fuzzy
 msgid "name_quest_21240"
 msgstr "Задание 4 - этап 12 - доложите Torvald"
 
