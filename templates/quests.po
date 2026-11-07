@@ -1262,7 +1262,9 @@ msgid "diary_text_quest_21241"
 msgstr "I found Mana Missile in my spell book and put it on my hotbar."
 
 msgid "diary_text_quest_21242"
-msgstr "I put the Bread on my hotbar."
+msgstr ""
+"I put the Bread in the food slot on my paperdoll, so it is eaten for me in a "
+"fight."
 
 msgid "diary_text_quest_21251"
 msgstr ""
@@ -12760,8 +12762,8 @@ msgstr ""
 
 msgid "end_text_quest_21242"
 msgstr ""
-"Food, bandages, potions - whatever you would rather not be hunting for with "
-"a goblin on you."
+"That is all. No need to eat it now - it keeps until you are fighting, and "
+"then it is eaten for you."
 
 msgid "end_text_quest_21251"
 msgstr "Then the line holds a while longer. Keep going."
@@ -22077,7 +22079,7 @@ msgid "finished_text_quest_21241"
 msgstr "You put Mana Missile on hotbar key 5."
 
 msgid "finished_text_quest_21242"
-msgstr "You put the Bread on hotbar key 6."
+msgstr "You put the Bread in your food slot."
 
 msgid "finished_text_quest_21251"
 msgstr ""
@@ -31789,13 +31791,13 @@ msgid "name_quest_2124"
 msgstr "After the goblins"
 
 msgid "name_quest_21240"
-msgstr "Quest 4 - step 12 - report to Torvald"
+msgstr "Quest 4 - step 11 - report to Torvald"
 
 msgid "name_quest_21241"
 msgstr "Quest 4 - step 4 - put Mana Missile on your bar"
 
 msgid "name_quest_21242"
-msgstr "Quest 4 - step 10 - put the bread on your bar"
+msgstr "Quest 4 - step 10 - put the bread in your food slot"
 
 msgid "name_quest_2125"
 msgstr "Kobolds and great plans"
@@ -42887,7 +42889,7 @@ msgid "short_desc_quest_21241"
 msgstr "Drag Mana Missile onto hotbar key 5."
 
 msgid "short_desc_quest_21242"
-msgstr "Drag the Bread onto hotbar key 6."
+msgstr "Put the Bread in the food slot on your paperdoll."
 
 msgid "short_desc_quest_2125"
 msgstr "Kill six kobolds."
@@ -57322,8 +57324,10 @@ msgstr ""
 
 msgid "start_text_quest_21242"
 msgstr ""
-"Anything you carry can go on the bar as well, so it is one key away in a "
-"fight. Open your backpack and drag the Bread onto hotbar key 6."
+"Food has a slot of its own on your paperdoll. Whatever you put there is "
+"eaten for you in a fight, whenever your last meal runs out, as long as the "
+"Auto-eat box above it is ticked. Open your backpack and drag the Bread into "
+"the food slot."
 
 msgid "start_text_quest_2125"
 msgstr ""
@@ -87575,8 +87579,8 @@ msgstr ""
 
 msgid "use_skill_message_quest_21242"
 msgstr ""
-"^Cdarkfall^Drag the ^Cwhite^Bread ^Cdarkfall^from your backpack onto hotbar "
-"key ^Cwhite^6^Cdarkfall^."
+"^Cdarkfall^Drag the ^Cwhite^Bread ^Cdarkfall^from your backpack into the "
+"^Cwhite^food slot ^Cdarkfall^on your paperdoll."
 
 msgid "use_skill_message_quest_21254"
 msgstr ""
