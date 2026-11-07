@@ -4279,6 +4279,18 @@ msgstr "Create Runebook Location"
 msgid "context_menu_city_maintenance"
 msgstr "Holding Maintenance"
 
+# Faction jobs (FJ1b): supply wagon, delivery, replacement, Trader HUD
+msgid "context_menu_fj_deliver_supplies"
+msgstr "Deliver Supplies"
+
+# Faction jobs (FJ5): Raiders, Smuggler Outposts, recovery missions and stolen-cargo tracking
+msgid "context_menu_fj_extract_cargo"
+msgstr "Extract Cargo"
+
+# Faction jobs (FJ6): Hunter escorts
+msgid "context_menu_fj_recover_cargo"
+msgstr "Return Recovered Cargo"
+
 #. Glyph harvest: the glyph context menu entry that collects a ready harvest.
 msgid "context_menu_glyph_harvest_collect"
 msgstr "Collect Harvest"
@@ -5296,6 +5308,475 @@ msgstr "Name too long."
 msgid "error_name_too_many_digits"
 msgstr "No digits allowed in name."
 
+msgid "faction_job_hud_cargo"
+msgstr "Crates %1/%2 aboard - %3 delivered"
+
+msgid "faction_job_hud_deliver_carried"
+msgstr "Deliver carried supplies"
+
+msgid "faction_job_hud_line1"
+msgstr "Supplies to %1 - pad %2 m %3"
+
+msgid "faction_job_hud_line2"
+msgstr ""
+"Crates %1/%2 aboard - %3 delivered - %4 left - up to %5 FP - deposit %6"
+
+msgid "faction_job_hud_pad"
+msgstr "%1 m %2"
+
+msgid "faction_job_hud_pay"
+msgstr "Up to %1 FP - deposit %2 gold"
+
+msgid "faction_job_hud_pay_free"
+msgstr "Up to %1 FP - no deposit"
+
+msgid "faction_job_hud_pending"
+msgstr "Payout pending: %1 crates unresolved"
+
+msgid "faction_job_hud_summon"
+msgstr "Summon replacement wagon (%1 gold)"
+
+msgid "faction_job_hud_summon_free"
+msgstr "Summon replacement wagon (already paid)"
+
+msgid "faction_job_hud_time"
+msgstr "%1 left"
+
+msgid "faction_job_hud_title"
+msgstr "Supplies to %1"
+
+msgid "faction_job_hud_wagon_lost"
+msgstr "Wagon lost - %1 crates still out"
+
+msgid "faction_jobs_abandon"
+msgstr "Abandon"
+
+msgid "faction_jobs_abandon_confirm"
+msgstr "Click again to abandon - the deposit is forfeit"
+
+msgid "faction_jobs_accept"
+msgstr "Accept"
+
+msgid "faction_jobs_active_line"
+msgstr "Active: %1 to %2 - %3 - deposit %4 gold"
+
+msgid "faction_jobs_band_1"
+msgstr "Short"
+
+msgid "faction_jobs_band_2"
+msgstr "Medium"
+
+msgid "faction_jobs_band_3"
+msgstr "Long"
+
+msgid "faction_jobs_board_no_job_title"
+msgstr "Choose a job"
+
+msgid "faction_jobs_board_rep_max"
+msgstr "%1: %2 (%3)"
+
+msgid "faction_jobs_board_rep_next"
+msgstr "%1: %2 (%3 / %4 for %5)"
+
+msgid "faction_jobs_board_section_contracts"
+msgstr "Contracts"
+
+msgid "faction_jobs_board_section_raids"
+msgstr "Raids"
+
+# Faction jobs (FJ1a): Jobs Board
+msgid "faction_jobs_board_title"
+msgstr "Faction Jobs Board"
+
+msgid "faction_jobs_board_titles_account"
+msgstr ""
+"Job titles unlock for every character on your account. Rank rewards are "
+"cosmetic."
+
+msgid "faction_jobs_board_unlocks"
+msgstr "Next rank unlocks: %1"
+
+msgid "faction_jobs_collect"
+msgstr "Collect"
+
+msgid "faction_jobs_end_1"
+msgstr "no wagon could be readied"
+
+msgid "faction_jobs_end_10"
+msgstr "its destination fell to the enemy"
+
+msgid "faction_jobs_end_2"
+msgstr "the server restarted"
+
+msgid "faction_jobs_end_3"
+msgstr "you abandoned it"
+
+msgid "faction_jobs_end_4"
+msgstr "the deposit was not paid"
+
+msgid "faction_jobs_end_5"
+msgstr "it expired"
+
+msgid "faction_jobs_end_6"
+msgstr "it was completed"
+
+msgid "faction_jobs_end_7"
+msgstr "it failed"
+
+msgid "faction_jobs_end_8"
+msgstr "its wagon was lost"
+
+msgid "faction_jobs_end_9"
+msgstr "it could not be recorded"
+
+msgid "faction_jobs_escort_board_empty"
+msgstr "No supply runs need an escort right now."
+
+msgid "faction_jobs_escort_board_header"
+msgstr "Escorts"
+
+msgid "faction_jobs_escort_board_register"
+msgstr "Register"
+
+msgid "faction_jobs_escort_ended"
+msgstr "The supply run to %1 has ended; your escort is over."
+
+msgid "faction_jobs_escort_hud_coverage"
+msgstr "Coverage %1%%2"
+
+msgid "faction_jobs_escort_hud_hunter"
+msgstr ""
+"Escorting %1 to %2 - coverage %3%%4 - recovered %5 - defences %6 - pool %7 FP"
+
+msgid "faction_jobs_escort_hud_qualifying"
+msgstr "(qualifying)"
+
+msgid "faction_jobs_escort_hud_stats"
+msgstr "Recovered %1 - defences %2 - pool %3 FP"
+
+msgid "faction_jobs_escort_hud_title"
+msgstr "Escorting %1 to %2"
+
+msgid "faction_jobs_escort_hud_trader"
+msgstr "Escorts %1/%2"
+
+msgid "faction_jobs_escort_hunter_driving"
+msgstr "%1 has taken the reins of your supply wagon."
+
+msgid "faction_jobs_escort_joined"
+msgstr "%1 joined the escort."
+
+msgid "faction_jobs_escort_left"
+msgstr "%1 left the escort."
+
+msgid "faction_jobs_escort_recover_alliance"
+msgstr "Only an eligible member of the wagon's alliance can return its crates."
+
+msgid "faction_jobs_escort_recover_full"
+msgstr "The wagon's hold has no room."
+
+msgid "faction_jobs_escort_recover_none"
+msgstr "You carry none of this wagon's crates."
+
+msgid "faction_jobs_escort_recover_range"
+msgstr "Stand within %1 m of the wagon."
+
+msgid "faction_jobs_escort_recovered"
+msgstr "Returned %1 crates to the wagon."
+
+msgid "faction_jobs_escort_recovered_trader"
+msgstr "%1 returned %2 of your crates to the wagon."
+
+msgid "faction_jobs_escort_refused_already_bound"
+msgstr "You already escort a supply run."
+
+msgid "faction_jobs_escort_refused_barred"
+msgstr "You were removed from this escort and cannot rejoin it."
+
+msgid "faction_jobs_escort_refused_disabled"
+msgstr "Escorts are not available."
+
+msgid "faction_jobs_escort_refused_no_such_contract"
+msgstr "That supply run is no longer on the board."
+
+msgid "faction_jobs_escort_refused_not_active"
+msgstr "That supply run is not under way."
+
+msgid "faction_jobs_escort_refused_not_eligible"
+msgstr "You are not eligible for faction work."
+
+msgid "faction_jobs_escort_refused_not_hunter"
+msgstr "Only Hunters can escort supply runs."
+
+msgid "faction_jobs_escort_refused_own_contract"
+msgstr "You cannot escort your own supply run."
+
+msgid "faction_jobs_escort_refused_roster_full"
+msgstr "This escort is full."
+
+msgid "faction_jobs_escort_refused_same_owner"
+msgstr "You cannot escort a supply run of your own account."
+
+msgid "faction_jobs_escort_refused_stale_slot"
+msgstr "The board has changed; look again."
+
+msgid "faction_jobs_escort_refused_warming_up"
+msgstr "The contract office is starting up; try again shortly."
+
+msgid "faction_jobs_escort_refused_window_closed"
+msgstr "This supply run is too far along to join."
+
+msgid "faction_jobs_escort_refused_wrong_alliance"
+msgstr "You can only escort your own alliance's supply runs."
+
+# Faction jobs (FJ6): escorts, recovery, the board's Escorts section and the HUD lines
+msgid "faction_jobs_escort_registered"
+msgstr ""
+"You now escort %1's supplies to %2. Stay near the wagon to share the escort "
+"pay."
+
+msgid "faction_jobs_escort_removed_ineligible"
+msgstr ""
+"You were removed from the escort to %1: you are no longer eligible for "
+"faction work."
+
+msgid "faction_jobs_escort_row"
+msgstr "%1 - %2, %3 (%4), pool %5 FP, escorts %6/%7, %8 min"
+
+msgid "faction_jobs_hub_status_connected"
+msgstr "Hub connected: forward routes are open."
+
+msgid "faction_jobs_hub_status_disrupted"
+msgstr "Hub disrupted: no contracts until its Supply recovers."
+
+msgid "faction_jobs_hub_status_isolated"
+msgstr "Hub cut off: emergency supply contracts only."
+
+msgid "faction_jobs_hunter_raider_soon"
+msgstr "Hunter and Raider work is not posted yet."
+
+msgid "faction_jobs_job_hunter"
+msgstr "Hunter"
+
+msgid "faction_jobs_job_none"
+msgstr "No job"
+
+msgid "faction_jobs_job_raider"
+msgstr "Raider"
+
+msgid "faction_jobs_job_refused_2"
+msgstr "Only lawful players who are not rogues may take a faction job."
+
+msgid "faction_jobs_job_refused_3"
+msgstr "You cannot change jobs during a contract."
+
+msgid "faction_jobs_job_refused_4"
+msgstr "That is not a job."
+
+msgid "faction_jobs_job_refused_5"
+msgstr "Faction jobs are not available."
+
+msgid "faction_jobs_job_refused_6"
+msgstr "You changed jobs recently. You can change again in a few minutes."
+
+msgid "faction_jobs_job_refused_7"
+msgstr "Finish your current faction duties before changing jobs."
+
+msgid "faction_jobs_job_trader"
+msgstr "Trader"
+
+msgid "faction_jobs_kind_capital"
+msgstr "Capital route"
+
+msgid "faction_jobs_kind_emergency"
+msgstr "Emergency supply"
+
+msgid "faction_jobs_kind_forward"
+msgstr "Forward supply"
+
+msgid "faction_jobs_kind_frontier"
+msgstr "Frontier run"
+
+msgid "faction_jobs_no_answer"
+msgstr "The faction office did not answer. Try again."
+
+msgid "faction_jobs_no_offers"
+msgstr "No contracts are posted for you here right now."
+
+msgid "faction_jobs_notice_1"
+msgstr "Faction jobs are not available."
+
+msgid "faction_jobs_notice_2"
+msgstr "The faction office is getting ready. Try again shortly."
+
+msgid "faction_jobs_notice_3"
+msgstr "Only lawful players who are not rogues may take faction work."
+
+msgid "faction_jobs_notice_4"
+msgstr "This board serves another faction."
+
+msgid "faction_jobs_notice_5"
+msgstr "Choose the Trader job to take contracts."
+
+msgid "faction_jobs_notice_6"
+msgstr "No routes are approved from this capital yet."
+
+msgid "faction_jobs_notice_7"
+msgstr "Your faction does not hold this hub."
+
+msgid "faction_jobs_notice_8"
+msgstr "This hub's Supply is too low to post contracts."
+
+msgid "faction_jobs_offer_detail"
+msgstr "%1 - %2 m, about %3 min, route x%4"
+
+msgid "faction_jobs_offer_enhanced"
+msgstr "+%1% (well-supplied hub)"
+
+msgid "faction_jobs_offer_line"
+msgstr "%1 - %2 crates to %3 - %4 km - %5 route x%6"
+
+msgid "faction_jobs_offer_supply"
+msgstr "Supply %1"
+
+msgid "faction_jobs_offer_terms"
+msgstr "Deposit %1 gold. Pays up to %2 score (%3 FP). %4 min."
+
+msgid "faction_jobs_offer_terms_free"
+msgstr "No deposit. Pays up to %1 score (%2 FP). %3 min."
+
+msgid "faction_jobs_offer_title"
+msgstr "%1 - %2 crates to %3"
+
+msgid "faction_jobs_owed_line"
+msgstr "Owed to you: %1 gold, %2 score (%3 payment(s))"
+
+msgid "faction_jobs_pay_reason_delivery"
+msgstr "delivery"
+
+msgid "faction_jobs_pay_reason_deposit"
+msgstr "deposit refund"
+
+msgid "faction_jobs_pay_reason_escort"
+msgstr "escort"
+
+msgid "faction_jobs_pay_reason_extraction"
+msgstr "Raid share"
+
+msgid "faction_jobs_pay_reason_recovery"
+msgstr "cargo recovery"
+
+msgid "faction_jobs_rank_0"
+msgstr "Recruit"
+
+msgid "faction_jobs_rank_1"
+msgstr "Apprentice"
+
+msgid "faction_jobs_rank_2"
+msgstr "Veteran"
+
+msgid "faction_jobs_rank_3"
+msgstr "Elite"
+
+msgid "faction_jobs_rank_4"
+msgstr "Master"
+
+msgid "faction_jobs_refresh"
+msgstr "Refresh"
+
+msgid "faction_jobs_refused_1"
+msgstr "Faction jobs are not available."
+
+msgid "faction_jobs_refused_10"
+msgstr "The board has changed - look again."
+
+msgid "faction_jobs_refused_11"
+msgstr "You are already waiting for an answer."
+
+msgid "faction_jobs_refused_12"
+msgstr "The contract could not be recorded. Nothing was charged."
+
+msgid "faction_jobs_refused_2"
+msgstr "The faction office is getting ready. Try again shortly."
+
+msgid "faction_jobs_refused_3"
+msgstr "Only lawful players who are not rogues may take faction work."
+
+msgid "faction_jobs_refused_4"
+msgstr "This board serves another faction."
+
+msgid "faction_jobs_refused_5"
+msgstr "Only Traders take supply contracts."
+
+msgid "faction_jobs_refused_6"
+msgstr "You already have an active contract."
+
+msgid "faction_jobs_refused_7"
+msgstr "You cannot take a contract while carrying cargo."
+
+msgid "faction_jobs_refused_8"
+msgstr "You do not have enough gold in your wallet for the deposit."
+
+msgid "faction_jobs_refused_9"
+msgstr "That contract is no longer offered."
+
+msgid "faction_jobs_rep_line"
+msgstr "%1: %2 (%3 reputation)"
+
+msgid "faction_jobs_reward_offer_variety"
+msgstr "more contract choices"
+
+msgid "faction_jobs_reward_title"
+msgstr "a title"
+
+msgid "faction_jobs_reward_wagon_look"
+msgstr "a wagon appearance"
+
+msgid "faction_jobs_size_1"
+msgstr "Small"
+
+msgid "faction_jobs_size_2"
+msgstr "Standard"
+
+msgid "faction_jobs_size_3"
+msgstr "Large"
+
+msgid "faction_jobs_state_1"
+msgstr "Waiting for a wagon"
+
+msgid "faction_jobs_state_2"
+msgstr "Under way"
+
+msgid "faction_jobs_state_3"
+msgstr "Completed"
+
+msgid "faction_jobs_state_4"
+msgstr "Failed"
+
+msgid "faction_jobs_state_5"
+msgstr "Voided"
+
+msgid "faction_jobs_state_6"
+msgstr "Abandoned"
+
+msgid "faction_jobs_state_7"
+msgstr "Expired"
+
+msgid "faction_jobs_switch_cooldown"
+msgstr "Job change available in %1 min."
+
+msgid "faction_jobs_type_1"
+msgstr "Reinforcement"
+
+msgid "faction_jobs_type_2"
+msgstr "Frontier supply"
+
+msgid "faction_jobs_waiting"
+msgstr "Contacting the faction office..."
+
+msgid "faction_jobs_your_job"
+msgstr "Your job: %1"
+
 msgid "faction_qm_balance"
 msgstr "Faction points: %1   -   Rank: %2"
 
@@ -5304,6 +5785,9 @@ msgstr "%1 faction points"
 
 msgid "faction_qm_refused"
 msgstr "Only lawful members of the %1 trade here."
+
+msgid "faction_qm_requires_job_rank"
+msgstr "Requires %1 %2 (Faction Jobs)"
 
 msgid "faction_qm_requires_rank"
 msgstr "Requires faction rank %1"
@@ -5426,6 +5910,297 @@ msgstr "false"
 
 msgid "feature_not_implemented"
 msgstr "Sorry, this feature has not been implemented yet!"
+
+msgid "fj_board_accept_mission"
+msgstr "Accept"
+
+msgid "fj_board_assigned_outposts"
+msgstr "Your raid's outposts: %1"
+
+msgid "fj_board_leave_mission"
+msgstr "Leave mission"
+
+msgid "fj_board_mission_row"
+msgstr "%1: %2 of %3 crate(s) still stolen, %4 min ago (%5/%6 Hunters)"
+
+msgid "fj_board_missions_header"
+msgstr "Recovery missions"
+
+msgid "fj_board_my_mission"
+msgstr "Your mission: %1"
+
+msgid "fj_board_no_missions"
+msgstr "No recovery missions."
+
+msgid "fj_board_no_tracking"
+msgstr "No tracking reports."
+
+msgid "fj_board_outpost_row"
+msgstr "%1 (%2, %3)"
+
+msgid "fj_board_outposts_header"
+msgstr "Smuggler Outposts"
+
+msgid "fj_board_pending_extraction"
+msgstr "Pending extraction share: %1 crate(s), about %2 FP"
+
+msgid "fj_board_tracking_header"
+msgstr "Tracking reports"
+
+msgid "fj_board_tracking_row"
+msgstr "%1 crate(s) within %2 m of %3, %4 min ago"
+
+msgid "fj_deliver_carried_started"
+msgstr "Handing over your crates... stay still and don't get hit."
+
+msgid "fj_deliver_interrupted"
+msgstr "Delivery interrupted."
+
+msgid "fj_deliver_refused_1"
+msgstr "Only this contract's Trader can deliver these supplies."
+
+msgid "fj_deliver_refused_10"
+msgstr ""
+"Your crates are in the wagon: right-click it and choose Deliver Supplies."
+
+msgid "fj_deliver_refused_11"
+msgstr "This glyph has fallen to the enemy: your contract is ending."
+
+msgid "fj_deliver_refused_2"
+msgstr "Supply deliveries are closed."
+
+msgid "fj_deliver_refused_3"
+msgstr "Bring the wagon to the delivery pad."
+
+msgid "fj_deliver_refused_4"
+msgstr "Stand at the delivery pad to deliver."
+
+msgid "fj_deliver_refused_5"
+msgstr "Someone is already unloading this wagon."
+
+msgid "fj_deliver_refused_6"
+msgstr "This wagon carries none of its contract's crates."
+
+msgid "fj_deliver_refused_7"
+msgstr ""
+"The supply ledger is not answering; the crates stay where they are. Try "
+"again shortly."
+
+msgid "fj_deliver_refused_8"
+msgstr "You carry none of this contract's crates."
+
+msgid "fj_deliver_refused_9"
+msgstr "You cannot do that while dead."
+
+msgid "fj_deliver_started"
+msgstr "Unloading supplies... stay close and don't get hit."
+
+msgid "fj_delivered"
+msgstr "Delivered %1 crates to %2. Payout when the contract ends."
+
+msgid "fj_delivered_carried"
+msgstr "Delivered %1 carried crates to %2. Payout when the contract ends."
+
+msgid "fj_extract_busy"
+msgstr "The smugglers are busy. Try again in a moment."
+
+msgid "fj_extract_destroyed"
+msgstr "%1 worthless crate(s) were discarded."
+
+msgid "fj_extract_done"
+msgstr ""
+"%1 crate(s) extracted. Your share is paid when the shipment's contract "
+"closes."
+
+msgid "fj_extract_interrupted"
+msgstr "Extraction interrupted. You keep your cargo."
+
+msgid "fj_extract_kept_account"
+msgstr "The smugglers refuse %1 crate(s) from your own account's shipment."
+
+msgid "fj_extract_kept_busy"
+msgstr "%1 crate(s) are already being extracted. Try again."
+
+msgid "fj_extract_kept_outpost"
+msgstr "These smugglers won't take %1 crate(s). Try: %2."
+
+msgid "fj_extract_kept_own"
+msgstr "%1 crate(s) belong to your own faction and were not taken."
+
+msgid "fj_extract_no_cargo"
+msgstr "You carry no faction supplies."
+
+msgid "fj_extract_not_eligible"
+msgstr "Only lawful, non-rogue players can extract supplies."
+
+msgid "fj_extract_not_raider"
+msgstr "Only Raiders can extract stolen supplies."
+
+msgid "fj_extract_out_of_range"
+msgstr "Stand at the outpost to extract."
+
+msgid "fj_extract_started"
+msgstr "Extracting %1 crate(s). Hold still for %2 seconds."
+
+msgid "fj_extract_unavailable"
+msgstr "The smugglers are not ready. Try again shortly."
+
+msgid "fj_hold_locked"
+msgstr "This supply wagon's hold opens only for its contract."
+
+msgid "fj_inspect_wagon"
+msgstr "Supply wagon: %1 crates aboard for %2, delivery pad %3 m %4."
+
+msgid "fj_inspect_wagon_other"
+msgstr "A faction supply wagon."
+
+msgid "fj_mission_accepted"
+msgstr "Recovery mission accepted. Watch your map for tracking reports."
+
+msgid "fj_mission_closed"
+msgstr "The recovery mission has ended."
+
+msgid "fj_mission_left"
+msgstr "You left the recovery mission."
+
+msgid "fj_mission_refused_already_bound"
+msgstr "Finish your current escort or mission first."
+
+msgid "fj_mission_refused_disabled"
+msgstr "Recovery missions are not available."
+
+msgid "fj_mission_refused_full"
+msgstr "That mission already has enough Hunters."
+
+msgid "fj_mission_refused_not_eligible"
+msgstr "Only lawful, non-rogue players can take recovery missions."
+
+msgid "fj_mission_refused_not_hunter"
+msgstr "Only Hunters can take recovery missions."
+
+msgid "fj_mission_refused_on_roster"
+msgstr "You already escort that shipment."
+
+msgid "fj_mission_refused_same_owner"
+msgstr "You cannot recover cargo for your own account."
+
+msgid "fj_mission_refused_stale"
+msgstr "That mission has changed. Reopen the board."
+
+msgid "fj_mission_refused_wrong_alliance"
+msgstr "That mission belongs to another faction."
+
+msgid "fj_outpost_espenhal_south"
+msgstr "Espenhal Outpost"
+
+msgid "fj_outpost_kayil"
+msgstr "Kayil Outpost"
+
+msgid "fj_outpost_outpost_l18"
+msgstr "Rehnagar Outpost"
+
+msgid "fj_outpost_outpost_l9"
+msgstr "Sunthrone Outpost"
+
+msgid "fj_outpost_outpost_p17"
+msgstr "Bloodscar Outpost"
+
+msgid "fj_outpost_outpost_r20"
+msgstr "Mar Shral Outpost"
+
+msgid "fj_outpost_outpost_t23"
+msgstr "Sandstone Outpost"
+
+msgid "fj_outpost_stonefang"
+msgstr "Stonefang Outpost"
+
+msgid "fj_outpost_vok_east"
+msgstr "Valley of the Kings East Outpost"
+
+msgid "fj_outpost_vok_north"
+msgstr "Valley of the Kings North Outpost"
+
+msgid "fj_outpost_white_view"
+msgstr "White View Outpost"
+
+msgid "fj_recovery_secured"
+msgstr ""
+"%1 recovered crate(s) secured. Your share is paid when the contract closes."
+
+msgid "fj_replace_failed"
+msgstr ""
+"The replacement wagon could not be placed. Try again; you will not pay "
+"twice, and an unused fee is refunded when the contract ends."
+
+msgid "fj_replace_interrupted"
+msgstr "Summoning interrupted. Nothing was charged."
+
+msgid "fj_replace_paid"
+msgstr "Paid %1 gold for a replacement wagon."
+
+msgid "fj_replace_ready"
+msgstr ""
+"Your replacement wagon stands by the wreck. Load the crates into its hold."
+
+msgid "fj_replace_refused_1"
+msgstr "Replacement wagons are not available."
+
+msgid "fj_replace_refused_10"
+msgstr "You do not have enough gold in your wallet."
+
+msgid "fj_replace_refused_11"
+msgstr "You cannot do that now."
+
+msgid "fj_replace_refused_2"
+msgstr "The contract office is starting up; try again shortly."
+
+msgid "fj_replace_refused_3"
+msgstr "You have no active contract that needs a wagon."
+
+msgid "fj_replace_refused_4"
+msgstr "Only this contract's Trader can summon its replacement."
+
+msgid "fj_replace_refused_5"
+msgstr "Your wagon is still in one piece."
+
+msgid "fj_replace_refused_6"
+msgstr "This contract's replacement wagon has already been used."
+
+msgid "fj_replace_refused_7"
+msgstr "A replacement wagon is already on its way."
+
+msgid "fj_replace_refused_8"
+msgstr "Stand within %1 m of the wreck."
+
+msgid "fj_replace_refused_9"
+msgstr "There is no ground to place a wagon here."
+
+msgid "fj_replace_started"
+msgstr "Summoning a replacement wagon... stay still and don't get hit (%1 s)."
+
+msgid "fj_theft_hunter"
+msgstr ""
+"%1 crate(s) stolen from a %2 shipment near %3. Tracking reports will follow."
+
+msgid "fj_theft_outposts"
+msgstr "Smugglers will take this cargo at: %1."
+
+msgid "fj_theft_trader"
+msgstr "Raiders took %1 crate(s) of your shipment near %2."
+
+msgid "fj_wagon_abandoned"
+msgstr ""
+"Your supply wagon stood idle too long and was lost. %1 crates lie in its "
+"wreck."
+
+msgid "fj_wagon_not_yours"
+msgstr "Only this contract's Trader can drive this supply wagon."
+
+msgid "fj_wagon_ready"
+msgstr "Your supply wagon is ready in the wagon yard: %1 crates for %2."
+
+msgid "fj_wagon_wrecked"
+msgstr "Your supply wagon was destroyed. %1 crates lie in its wreck."
 
 msgid "game_time_gift_busy"
 msgstr "A gift is already being processed."
@@ -8573,6 +9348,9 @@ msgstr "Zoom in to"
 msgid "map_double_click_zoom_out"
 msgstr "Zoom out to"
 
+msgid "map_filter_faction_jobs"
+msgstr "Faction jobs"
+
 msgid "map_filter_monsters"
 msgstr "Monsters"
 
@@ -8581,6 +9359,27 @@ msgstr "Tile ID: %1"
 
 msgid "map_gm_tooltip_coordinates"
 msgstr "World coordinates: %1"
+
+msgid "map_hub_kind_frontier"
+msgstr "Frontier"
+
+msgid "map_hub_kind_regional"
+msgstr "Regional"
+
+msgid "map_hub_kind_remote"
+msgstr "Remote"
+
+msgid "map_hub_status_connected"
+msgstr "Connected"
+
+msgid "map_hub_status_disrupted"
+msgstr "Disrupted"
+
+msgid "map_hub_status_isolated"
+msgstr "Isolated"
+
+msgid "map_hub_status_unowned"
+msgstr "Unclaimed"
 
 msgid "map_inspector_empty"
 msgstr "Select something on the map to see its details here."
@@ -8636,17 +9435,26 @@ msgstr "Enchantment Station"
 msgid "map_marker_faction_player_city"
 msgstr "Faction Cities"
 
+msgid "map_marker_faction_sighting"
+msgstr "Stolen cargo: about %1 crate(s) within %2 m of %3"
+
 msgid "map_marker_fortress"
 msgstr "Fortress Markers"
 
 msgid "map_marker_fun_flags"
 msgstr "Player Deployed Fun Flags"
 
+msgid "map_marker_glyph_supply"
+msgstr "Supply %1"
+
 msgid "map_marker_greaterstone"
 msgstr "Greaterstone Markers"
 
 msgid "map_marker_housing"
 msgstr "Housing Markers"
+
+msgid "map_marker_hub"
+msgstr "Hub: %1"
 
 msgid "map_marker_key_chest_dungeon"
 msgstr "%1 (dungeon)"
@@ -8710,6 +9518,9 @@ msgstr "Portals"
 
 msgid "map_marker_quest"
 msgstr "Quest Marker"
+
+msgid "map_marker_relief_depot"
+msgstr "Relief Depot"
 
 #. World map marker of a rune altar. %1 altar letter (A, B or C).
 msgid "map_marker_rune_altar"
@@ -8859,6 +9670,15 @@ msgstr "Islands and seas"
 msgid "map_region_yssam"
 msgstr "Yssam"
 
+msgid "map_supply_state_disrupted"
+msgstr "Disrupted"
+
+msgid "map_supply_state_operational"
+msgstr "Operational"
+
+msgid "map_supply_state_well_supplied"
+msgstr "Well Supplied"
+
 msgid "map_tooltip_contested_by"
 msgstr "%1 by %2"
 
@@ -8920,9 +9740,30 @@ msgstr ""
 msgid "map_tooltip_glyph_border_open"
 msgstr "Your faction borders this glyph - you can declare on it."
 
+msgid "map_tooltip_glyph_supply"
+msgstr "Supply: %1 (%2)"
+
+msgid "map_tooltip_glyph_supply_bonus"
+msgstr "Territorial faction score here: +%1%"
+
 #. Map tooltip on a faction home zone tile. %1 faction name, %2 capital name.
 msgid "map_tooltip_home_zone"
 msgstr "Home of %1 (%2) - it can never be captured."
+
+msgid "map_tooltip_hub"
+msgstr "Forward Hub (%1): %2"
+
+msgid "map_tooltip_hub_connected"
+msgstr "Originates forward routes"
+
+msgid "map_tooltip_hub_disrupted"
+msgstr "Disrupted: originates no contracts"
+
+msgid "map_tooltip_hub_enhanced"
+msgstr "Well supplied: forward rewards +%1%"
+
+msgid "map_tooltip_hub_isolated"
+msgstr "Cut off: emergency supply contracts only"
 
 msgid "map_tooltip_overlay_region_desc"
 msgstr "The player market shows listings from the region you are in."

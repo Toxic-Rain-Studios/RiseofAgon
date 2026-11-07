@@ -8,6 +8,9 @@ msgstr ""
 msgid "display_name_Resource"
 msgstr "Resource"
 
+msgid "display_name_fj_supply_wagon_wreck"
+msgstr "Supply Wagon Wreck"
+
 msgid "display_name_ghost_ship_hold"
 msgstr "Ghost Ship Hold"
 
@@ -5207,6 +5210,31 @@ msgstr "Faction Holding House"
 msgid "display_name_r_Faction House Ork_05"
 msgstr "Faction Holding House"
 
+msgid "display_name_r_Faction Job Cape Hunter"
+msgstr "Warden's Cape"
+
+msgid "display_name_r_Faction Job Cape Hunter Master"
+msgstr "Master Warden's Cape"
+
+msgid "display_name_r_Faction Job Cape Raider"
+msgstr "Smuggler's Cloak"
+
+msgid "display_name_r_Faction Job Cape Raider Master"
+msgstr "Master Smuggler's Cloak"
+
+msgid "display_name_r_Faction Job Cape Trader"
+msgstr "Caravaneer's Cape"
+
+msgid "display_name_r_Faction Job Cape Trader Master"
+msgstr "Master Caravaneer's Cape"
+
+msgid "display_name_r_Faction Job Props"
+msgstr "Faction Job Props"
+
+# Faction jobs (FJ7): the board, the props group, the supply wagon wreck
+msgid "display_name_r_Faction Jobs Board"
+msgstr "Faction Jobs Board"
+
 msgid "display_name_r_Faction Keep Alfar"
 msgstr "Faction Holding Keep"
 
@@ -5449,6 +5477,22 @@ msgstr "Faction Holding Stations"
 
 msgid "display_name_r_Faction Structures"
 msgstr "Faction Holding Structures"
+
+# Faction jobs (FJ1b): supply crates and wagon
+msgid "display_name_r_Faction Supplies"
+msgstr "Faction Supplies"
+
+msgid "display_name_r_Faction Supply Crate"
+msgstr "Faction Supply Crate"
+
+msgid "display_name_r_Faction Supply Wagon"
+msgstr "Faction Supply Wagon"
+
+msgid "display_name_r_Faction Supply Wagon Master"
+msgstr "Master Supply Wagon"
+
+msgid "display_name_r_Faction Supply Wagon Veteran"
+msgstr "Veteran Supply Wagon"
 
 msgid "display_name_r_Faction Teleportation Chamber Entrance"
 msgstr "Faction Holding Teleportation Chamber Entrance"
@@ -9179,6 +9223,9 @@ msgstr "Marker Faction Player City"
 msgid "display_name_r_Marker Faction Player Hamlet"
 msgstr "Marker Faction Player Hamlet"
 
+msgid "display_name_r_Marker Faction Sighting"
+msgstr "Stolen cargo"
+
 msgid "display_name_r_Marker Foundry"
 msgstr "Marker Foundry"
 
@@ -11891,6 +11938,10 @@ msgstr "Shrine of Ymir"
 msgid "display_name_r_Relic Shrines"
 msgstr "Relic Shrines"
 
+# Faction jobs (FJ2b)
+msgid "display_name_r_Relief Depot"
+msgstr "Relief Depot"
+
 msgid "display_name_r_Repair Shard"
 msgstr "Repair Shard"
 
@@ -13834,6 +13885,10 @@ msgstr "Smoked Bass"
 
 msgid "display_name_r_Smoked Salmon"
 msgstr "Smoked Salmon"
+
+# Faction jobs (FJ5)
+msgid "display_name_r_Smuggler Outpost"
+msgstr "Smuggler Outpost"
 
 msgid "display_name_r_Snake Greenleaf"
 msgstr "Snake Greenleaf"

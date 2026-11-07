@@ -7326,6 +7326,33 @@ msgstr ""
 msgid "desc_r_Faction House Ork_05"
 msgstr ""
 
+msgid "desc_r_Faction Job Cape Hunter"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Cape Hunter Master"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Cape Raider"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Cape Raider Master"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Cape Trader"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Cape Trader Master"
+msgstr "A Faction Jobs rank reward. Cosmetic only."
+
+msgid "desc_r_Faction Job Props"
+msgstr "Faction Jobs props: outposts, depots and markers."
+
+# Faction jobs (FJ7)
+msgid "desc_r_Faction Jobs Board"
+msgstr ""
+"A Faction Jobs Board. Traders take supply contracts, Hunters join escorts "
+"and Raiders look for cargo here."
+
 msgid "desc_r_Faction Keep Alfar"
 msgstr ""
 
@@ -7568,6 +7595,26 @@ msgstr ""
 
 msgid "desc_r_Faction Structures"
 msgstr ""
+
+# Faction jobs (FJ1b): supply crates and wagon
+msgid "desc_r_Faction Supplies"
+msgstr ""
+"Supplies minted for a faction contract. They cannot be sold, banked or "
+"traded."
+
+msgid "desc_r_Faction Supply Crate"
+msgstr ""
+"A crate of faction supplies bound for a Rune Glyph. Deliver it at its "
+"delivery pad."
+
+msgid "desc_r_Faction Supply Wagon"
+msgstr "A faction supply wagon. Only its contract's Trader can drive it."
+
+msgid "desc_r_Faction Supply Wagon Master"
+msgstr "A Faction Jobs rank appearance. Same wagon, different look."
+
+msgid "desc_r_Faction Supply Wagon Veteran"
+msgstr "A Faction Jobs rank appearance. Same wagon, different look."
 
 msgid "desc_r_Faction Teleportation Chamber Entrance"
 msgstr ""
@@ -11951,6 +11998,10 @@ msgstr "         "
 msgid "desc_r_Marker Faction Player Hamlet"
 msgstr "         "
 
+msgid "desc_r_Marker Faction Sighting"
+msgstr ""
+"An approximate, delayed area where stolen faction cargo was last reported."
+
 msgid "desc_r_Marker Foundry"
 msgstr " "
 
@@ -14384,6 +14435,11 @@ msgstr ""
 msgid "desc_r_Relic Shrines"
 msgstr "Shrines where the relics of the gods are kept."
 
+msgid "desc_r_Relief Depot"
+msgstr ""
+"A faction Relief Depot. An isolated Forward Hub's emergency supply runs are "
+"delivered here."
+
 msgid "desc_r_Repair Shard"
 msgstr "Raw material used when repairing structures."
 
@@ -16442,6 +16498,10 @@ msgstr "Has a nice salty taste."
 
 msgid "desc_r_Smoked Salmon"
 msgstr "The meat has a nice orange color to it. Looks delicious."
+
+# Faction jobs (FJ5)
+msgid "desc_r_Smuggler Outpost"
+msgstr "Raiders extract stolen faction supplies here."
 
 msgid "desc_r_Snake Greenleaf"
 msgstr "Ingredient used for enchanting."

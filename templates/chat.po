@@ -9415,6 +9415,44 @@ msgstr "You were revived by %1"
 msgid "NOTIFICATION_EVENT_REVIVE_SELF_INFLICTED"
 msgstr "You revived yourself?! Stop cheating!"
 
+# Faction jobs (FJ5): cargo extracted (to the Trader) and stolen-cargo reports
+msgid "NOTIFICATION_FACTION_JOB_CARGO_EXTRACTED"
+msgstr "Raiders extracted %1 crate(s) of your shipment at %2."
+
+msgid "NOTIFICATION_FACTION_JOB_CONTRACT_ENDED"
+msgstr ""
+"Your contract to %2 is %1 (%4). %3 gold of your deposit will be returned."
+
+msgid "NOTIFICATION_FACTION_JOB_CONTRACT_TAKEN"
+msgstr "Contract taken: %1 supplies to %2. Deposit paid: %3 gold."
+
+msgid "NOTIFICATION_FACTION_JOB_CONVOY_DEPARTED"
+msgstr ""
+"A %1 supply convoy is leaving %2. Hunters can register to escort it at the "
+"Jobs Board."
+
+msgid "NOTIFICATION_FACTION_JOB_PAID"
+msgstr "Faction work paid: %1 gold, %2 score (%3)."
+
+msgid "NOTIFICATION_FACTION_JOB_QM_RANK_TOO_LOW"
+msgstr "That needs the %1 rank as a %2 (Faction Jobs)."
+
+msgid "NOTIFICATION_FACTION_JOB_RANK_REACHED"
+msgstr "You are now %1 %2. Title for every character on your account: %3."
+
+msgid "NOTIFICATION_FACTION_JOB_REFUSED"
+msgstr "%1"
+
+msgid "NOTIFICATION_FACTION_JOB_REWARD_REDUCED"
+msgstr "Repeated job activity: this reward was reduced to %1%."
+
+# Faction jobs (FJ1a): chat notifications
+msgid "NOTIFICATION_FACTION_JOB_SELECTED"
+msgstr "You are now a %1."
+
+msgid "NOTIFICATION_FACTION_JOB_SIGHTING"
+msgstr "Stolen cargo: %1"
+
 msgid "NOTIFICATION_FACTION_QM_BOUGHT"
 msgstr "^Cdarkfall^Bought %1 %2 for %3 faction points."
 
