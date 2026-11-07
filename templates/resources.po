@@ -2529,8 +2529,29 @@ msgstr ""
 msgid "desc_r_Armor Chain Arms"
 msgstr "Armor protecting the arms."
 
+msgid "desc_r_Armor Chain Boots"
+msgstr "Boots covered in riveted mail."
+
+msgid "desc_r_Armor Chain Elbows"
+msgstr "Mail armor protecting the elbows."
+
+msgid "desc_r_Armor Chain Girdle"
+msgstr "Mail armor protecting the hip and lower abdomen."
+
+msgid "desc_r_Armor Chain Hands"
+msgstr "Mail gloves protecting the hands."
+
+msgid "desc_r_Armor Chain Helmet"
+msgstr "A hood of riveted mail protecting the head."
+
+msgid "desc_r_Armor Chain Legs"
+msgstr "Mail armor protecting the shins."
+
 msgid "desc_r_Armor Chain Pants"
 msgstr "Mail armor protecting the legs."
+
+msgid "desc_r_Armor Chain Shoulders"
+msgstr "Mail armor protecting the shoulders."
 
 msgid "desc_r_Armor Chain Torso"
 msgstr "Armor protecting the torso."
@@ -2550,11 +2571,29 @@ msgstr ""
 msgid "desc_r_Armor Cloth Arms"
 msgstr "Armor granting minimal protection to the arms."
 
+msgid "desc_r_Armor Cloth Boots"
+msgstr "Simple shoes for adventurers on a tight budget."
+
+msgid "desc_r_Armor Cloth Elbows"
+msgstr "Cloth pads granting minimal protection to the elbows."
+
+msgid "desc_r_Armor Cloth Girdle"
+msgstr "A simple girdle granting a little protection to the hips."
+
+msgid "desc_r_Armor Cloth Hands"
+msgstr "Simple gloves, cheap but ineffective."
+
 msgid "desc_r_Armor Cloth Helmet"
 msgstr "A simple helmet, cheap but ineffective."
 
+msgid "desc_r_Armor Cloth Legs"
+msgstr "Cloth wraps granting minimal protection to the shins."
+
 msgid "desc_r_Armor Cloth Pants"
 msgstr "A pair of simple trousers granting a little protection."
+
+msgid "desc_r_Armor Cloth Shoulders"
+msgstr "Cloth pads granting minimal protection to the shoulders."
 
 msgid "desc_r_Armor Cloth Torso"
 msgstr "Torso protection for adventurers on a tight budget."
@@ -2793,11 +2832,29 @@ msgstr ""
 msgid "desc_r_Armor Padded Arms"
 msgstr "Leather sleaves protecting the arms."
 
+msgid "desc_r_Armor Padded Boots"
+msgstr "Quilted boots for the feet."
+
+msgid "desc_r_Armor Padded Elbows"
+msgstr "Quilted pads covering the elbows."
+
+msgid "desc_r_Armor Padded Girdle"
+msgstr "Quilted armor protecting the hip and lower abdomen."
+
+msgid "desc_r_Armor Padded Hands"
+msgstr "Thick quilted gloves."
+
 msgid "desc_r_Armor Padded Helmet"
 msgstr "Thick cloth helmet."
 
+msgid "desc_r_Armor Padded Legs"
+msgstr "Quilted wraps protecting the shins."
+
 msgid "desc_r_Armor Padded Pants"
 msgstr "Thick trousers protecting the legs."
+
+msgid "desc_r_Armor Padded Shoulders"
+msgstr "Quilted pads protecting the shoulders."
 
 msgid "desc_r_Armor Padded Torso"
 msgstr "Leather shirt granting some protection."
@@ -19889,15 +19946,51 @@ msgstr ""
 "knowing recipes of each tier raises your Tailoring ceiling once you know the "
 "tiers below."
 
+msgid "desc_r_recipe armor padded boots"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Boots. Read it to learn it; knowing "
+"recipes of each tier raises your Tailoring ceiling once you know the tiers "
+"below."
+
+msgid "desc_r_recipe armor padded elbows"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Elbow Pads. Read it to learn it; "
+"knowing recipes of each tier raises your Tailoring ceiling once you know the "
+"tiers below."
+
+msgid "desc_r_recipe armor padded girdle"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Girdle. Read it to learn it; knowing "
+"recipes of each tier raises your Tailoring ceiling once you know the tiers "
+"below."
+
+msgid "desc_r_recipe armor padded hands"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Gloves. Read it to learn it; knowing "
+"recipes of each tier raises your Tailoring ceiling once you know the tiers "
+"below."
+
 msgid "desc_r_recipe armor padded helmet"
 msgstr ""
 "Teaches the Tailoring recipe for Padded Skullcap. Read it to learn it; "
 "knowing recipes of each tier raises your Tailoring ceiling once you know the "
 "tiers below."
 
+msgid "desc_r_recipe armor padded legs"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Greaves. Read it to learn it; "
+"knowing recipes of each tier raises your Tailoring ceiling once you know the "
+"tiers below."
+
 msgid "desc_r_recipe armor padded pants"
 msgstr ""
 "Teaches the Tailoring recipe for Padded Leggings. Read it to learn it; "
+"knowing recipes of each tier raises your Tailoring ceiling once you know the "
+"tiers below."
+
+msgid "desc_r_recipe armor padded shoulders"
+msgstr ""
+"Teaches the Tailoring recipe for Padded Shoulder Pads. Read it to learn it; "
 "knowing recipes of each tier raises your Tailoring ceiling once you know the "
 "tiers below."
 
@@ -23509,8 +23602,29 @@ msgstr "Armor Chain"
 msgid "r_Armor Chain Arms"
 msgstr "Armor Chain Arms"
 
+msgid "r_Armor Chain Boots"
+msgstr "Armor Chain Boots"
+
+msgid "r_Armor Chain Elbows"
+msgstr "Armor Chain Elbows"
+
+msgid "r_Armor Chain Girdle"
+msgstr "Armor Chain Girdle"
+
+msgid "r_Armor Chain Hands"
+msgstr "Armor Chain Hands"
+
+msgid "r_Armor Chain Helmet"
+msgstr "Armor Chain Helmet"
+
+msgid "r_Armor Chain Legs"
+msgstr "Armor Chain Legs"
+
 msgid "r_Armor Chain Pants"
 msgstr "Armor Chain Pants"
+
+msgid "r_Armor Chain Shoulders"
+msgstr "Armor Chain Shoulders"
 
 msgid "r_Armor Chain Torso"
 msgstr "Armor Chain Torso"
@@ -23530,11 +23644,29 @@ msgstr "Armor Cloth"
 msgid "r_Armor Cloth Arms"
 msgstr "Armor Cloth Arms"
 
+msgid "r_Armor Cloth Boots"
+msgstr "Armor Cloth Boots"
+
+msgid "r_Armor Cloth Elbows"
+msgstr "Armor Cloth Elbows"
+
+msgid "r_Armor Cloth Girdle"
+msgstr "Armor Cloth Girdle"
+
+msgid "r_Armor Cloth Hands"
+msgstr "Armor Cloth Hands"
+
 msgid "r_Armor Cloth Helmet"
 msgstr "Armor Cloth Helmet"
 
+msgid "r_Armor Cloth Legs"
+msgstr "Armor Cloth Legs"
+
 msgid "r_Armor Cloth Pants"
 msgstr "Armor Cloth Pants"
+
+msgid "r_Armor Cloth Shoulders"
+msgstr "Armor Cloth Shoulders"
 
 msgid "r_Armor Cloth Torso"
 msgstr "Armor Cloth Torso"
@@ -23755,11 +23887,29 @@ msgstr "Armor Padded"
 msgid "r_Armor Padded Arms"
 msgstr "Armor Padded Arms"
 
+msgid "r_Armor Padded Boots"
+msgstr "Armor Padded Boots"
+
+msgid "r_Armor Padded Elbows"
+msgstr "Armor Padded Elbows"
+
+msgid "r_Armor Padded Girdle"
+msgstr "Armor Padded Girdle"
+
+msgid "r_Armor Padded Hands"
+msgstr "Armor Padded Hands"
+
 msgid "r_Armor Padded Helmet"
 msgstr "Armor Padded Helmet"
 
+msgid "r_Armor Padded Legs"
+msgstr "Armor Padded Legs"
+
 msgid "r_Armor Padded Pants"
 msgstr "Armor Padded Pants"
+
+msgid "r_Armor Padded Shoulders"
+msgstr "Armor Padded Shoulders"
 
 msgid "r_Armor Padded Torso"
 msgstr "Armor Padded Torso"
