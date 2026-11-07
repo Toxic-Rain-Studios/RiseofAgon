@@ -1568,6 +1568,22 @@ msgstr "You forgot to pick your gender!"
 msgid "character_alteration_title"
 msgstr "Character Alteration - Race Change"
 
+msgid "character_level_flyout_knee"
+msgstr ""
+"Level %1, the climb gets steeper: +%2 Skill Points, +%3 Attribute Points"
+
+msgid "character_level_flyout_max"
+msgstr "Level %1: the highest level!"
+
+msgid "character_level_flyout_reached"
+msgstr "Level %1 reached"
+
+msgid "character_level_flyout_up"
+msgstr "Level %1: +%2 Skill Points, +%3 Attribute Points"
+
+msgid "character_level_flyout_up_sp"
+msgstr "Level %1: +%2 Skill Points"
+
 msgid "character_mount_stats_health"
 msgstr "Description of Mount Health"
 
@@ -7336,6 +7352,9 @@ msgstr "Are you sure you want to drop %2 %1 on the ground?"
 
 msgid "inventory_menu_pin_container"
 msgstr "Pin (keep in place when sorting)"
+
+msgid "inventory_menu_undress_to_here"
+msgstr "Undress to Here"
 
 msgid "inventory_menu_unpin_container"
 msgstr "Unpin (allow sorting to move)"
@@ -13939,6 +13958,15 @@ msgstr "Get Naked"
 msgid "paperdoll_button_refresh"
 msgstr "Refresh"
 
+msgid "paperdoll_button_unequip_all"
+msgstr "Unequip All"
+
+msgid "paperdoll_button_unequip_all_tooltip"
+msgstr ""
+"Takes off your armor, robe, clothing, cape and jewelry (only while you wear "
+"armor). Weapons, ammo and the utility slots stay equipped. Instant at a bank "
+"out of combat, otherwise after 20 seconds."
+
 msgid "paperdoll_effect_modifier_1"
 msgstr "Obelisk of Ragunius"
 
@@ -13957,8 +13985,73 @@ msgstr "Clan sea villages offensive PVE bonus"
 msgid "paperdoll_effect_modifier_6"
 msgstr "Clan sea villages offensive siege bonus"
 
+msgid "paperdoll_enchantment_more"
+msgstr "+%1 more"
+
+msgid "paperdoll_enchantment_none"
+msgstr "No enchantments on your gear"
+
+msgid "paperdoll_enchantment_not_applied"
+msgstr "not applied"
+
+msgid "paperdoll_header_clan"
+msgstr "Clan: %1"
+
+msgid "paperdoll_info_armor"
+msgstr ""
+"Only the helmet and the chest piece can be enchanted, and like enchantments "
+"do not combine: with two Strength enchantments, only the stronger one "
+"applies. A robe replaces your armor: putting one on takes off everything you "
+"wear, and its hood goes in the helmet slot."
+
+msgid "paperdoll_info_armor_penalties"
+msgstr ""
+"How your worn armor holds you back. Encumbrance comes from what you wear. "
+"Melee, Magic and Archery show the encumbrance at which each starts to "
+"suffer. Hover a row for details."
+
+msgid "paperdoll_info_base_attributes"
+msgstr ""
+"Your six base attributes. Spend unspent attribute points with the + beside "
+"one; Shift-click spends 5. Hover an attribute to see what it does."
+
+msgid "paperdoll_info_clothing"
+msgstr ""
+"Clothing and jewelry are worn under your armor. They mainly reduce the "
+"damage your other equipped armor takes. A robe takes them off too."
+
+msgid "paperdoll_info_enchantments"
+msgstr ""
+"The enchantments on what you wear. Like enchantments do not combine: when "
+"two raise the same stat, only the stronger applies, and the weaker one is "
+"shown as not applied. Crafted enchantments add up."
+
+msgid "paperdoll_info_protections"
+msgstr ""
+"How much each kind of damage is reduced by your armor and effects: physical "
+"damage, the magic schools and afflictions. Hover a row for details."
+
+msgid "paperdoll_info_talismans"
+msgstr ""
+"The first slot takes a rune book or a talisman. The second and third take "
+"talismans and are bought from Slayer Master Aero."
+
+msgid "paperdoll_info_utility"
+msgstr ""
+"Figurine: a mount, ship or warhulk figurine. Loot Bag: items you loot with a "
+"click go into this bag. Food: eaten by itself whenever your meal runs out, "
+"while Auto-eat is ticked. The cog sets the Auto-eat key."
+
+msgid "paperdoll_info_weapons"
+msgstr ""
+"Main hand, shield and ammunition. A two-handed, dual-wielded or tool weapon "
+"leaves no room for a shield."
+
 msgid "paperdoll_item_attached_at"
 msgstr "Attached at %1"
+
+msgid "paperdoll_label_ammo"
+msgstr "Ammo"
 
 msgid "paperdoll_label_auto_eat"
 msgstr "Auto-eat"
@@ -13981,11 +14074,149 @@ msgstr "Food"
 msgid "paperdoll_label_loot_bag"
 msgstr "Loot Bag"
 
+msgid "paperdoll_label_main_hand"
+msgstr "Main Hand"
+
+msgid "paperdoll_label_off_hand"
+msgstr "Off Hand"
+
 msgid "paperdoll_label_rune_book"
 msgstr "Talisman"
 
 msgid "paperdoll_label_weapon_bar"
 msgstr "WEAPON BAR"
+
+msgid "paperdoll_minimal_view"
+msgstr "Minimal view"
+
+msgid "paperdoll_next_level_attribute_points"
+msgstr "+%1 Attribute Points"
+
+msgid "paperdoll_next_level_line"
+msgstr "Level %3 » %1: %2"
+
+msgid "paperdoll_next_level_line_milestone"
+msgstr "Level %3 » %1 (Milestone): %2"
+
+msgid "paperdoll_next_level_max"
+msgstr "Level %1 - max level reached"
+
+msgid "paperdoll_next_level_skill_points"
+msgstr "+%1 Skill Points"
+
+msgid "paperdoll_panel_armor"
+msgstr "Armor"
+
+msgid "paperdoll_panel_clothing"
+msgstr "Clothing & Jewelry"
+
+msgid "paperdoll_panel_enchantments"
+msgstr "Enchantments"
+
+msgid "paperdoll_panel_talismans"
+msgstr "Talismans"
+
+msgid "paperdoll_panel_utility"
+msgstr "Utility"
+
+msgid "paperdoll_panel_weapons"
+msgstr "Weapons"
+
+msgid "paperdoll_slot_ammunition"
+msgstr "Ammunition"
+
+msgid "paperdoll_slot_arms"
+msgstr "Arms"
+
+msgid "paperdoll_slot_cape"
+msgstr "Cape"
+
+msgid "paperdoll_slot_elbow"
+msgstr "Elbows"
+
+msgid "paperdoll_slot_figurine"
+msgstr "Figurine"
+
+msgid "paperdoll_slot_figurine_desc"
+msgstr "Mount, ship and warhulk figurines."
+
+msgid "paperdoll_slot_food"
+msgstr "Food"
+
+msgid "paperdoll_slot_food_desc"
+msgstr "Food in this slot is eaten whenever your meal runs out."
+
+msgid "paperdoll_slot_girdle"
+msgstr "Girdle"
+
+msgid "paperdoll_slot_gloves"
+msgstr "Gloves"
+
+msgid "paperdoll_slot_greaves"
+msgstr "Greaves"
+
+msgid "paperdoll_slot_helmet"
+msgstr "Helmet or Hood"
+
+msgid "paperdoll_slot_loot_bag"
+msgstr "Loot Bag"
+
+msgid "paperdoll_slot_loot_bag_desc"
+msgstr "Items you loot with a click are placed into this bag."
+
+msgid "paperdoll_slot_neck"
+msgstr "Necklace"
+
+msgid "paperdoll_slot_pants"
+msgstr "Pants"
+
+msgid "paperdoll_slot_pantsarmor"
+msgstr "Leg Armor"
+
+msgid "paperdoll_slot_right_ear"
+msgstr "Earring"
+
+msgid "paperdoll_slot_ring_1"
+msgstr "Ring 1"
+
+msgid "paperdoll_slot_ring_2"
+msgstr "Ring 2"
+
+msgid "paperdoll_slot_robe"
+msgstr "Robe"
+
+msgid "paperdoll_slot_rune_book"
+msgstr "Rune Book or Talisman"
+
+msgid "paperdoll_slot_shield"
+msgstr "Shield"
+
+msgid "paperdoll_slot_shirt"
+msgstr "Shirt"
+
+msgid "paperdoll_slot_shoes"
+msgstr "Boots"
+
+msgid "paperdoll_slot_shoulders"
+msgstr "Shoulders"
+
+msgid "paperdoll_slot_talisman"
+msgstr "Talisman"
+
+msgid "paperdoll_slot_talisman_locked"
+msgstr "Locked"
+
+msgid "paperdoll_slot_talisman_locked_any"
+msgstr "Slayer Master Aero sells this slot."
+
+msgid "paperdoll_slot_talisman_locked_level"
+msgstr "Slayer Master Aero sells this slot from Slayer level %1."
+
+msgid "paperdoll_slot_torso"
+msgstr "Chest"
+
+msgid "paperdoll_slot_weapon"
+msgstr "Main Hand"
 
 msgid "paperdoll_tabs_clan"
 msgstr "Clan"
@@ -15255,6 +15486,9 @@ msgstr "Skill advancement rate"
 
 msgid "skill_importance"
 msgstr "Skill importance"
+
+msgid "skill_points_not_in_combat"
+msgstr "You can't spend points while in combat."
 
 msgid "skill_tracker_empty"
 msgstr "No skills tracked yet. Open Skills & Spells and press Track."
