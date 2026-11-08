@@ -3887,6 +3887,10 @@ msgstr "Faction territory - only race alliances can hold it"
 msgid "component_targeting_glyph_region_lawless"
 msgstr "Clan territory - only clans can hold it"
 
+#. FJ8c: the saboteur's own countdown on the glyph stone's HUD. %1 the time left.
+msgid "component_targeting_glyph_sabotage"
+msgstr "Sabotage: %1"
+
 msgid "component_targeting_glyph_time_remaining"
 msgstr "Time Remaining: %1"
 
@@ -4316,6 +4320,10 @@ msgstr "Extract Cargo"
 # Faction jobs (FJ6): Hunter escorts
 msgid "context_menu_fj_recover_cargo"
 msgstr "Return Recovered Cargo"
+
+#. FJ8c: a glyph stone's context menu entry for a Raider holding a relay sabotage job.
+msgid "context_menu_fj_sabotage_relay"
+msgstr "Sabotage Runic Relay"
 
 #. Glyph harvest: the glyph context menu entry that collects a ready harvest.
 msgid "context_menu_glyph_harvest_collect"
@@ -5397,6 +5405,14 @@ msgstr "Crates %1/%2 aboard - %3 delivered"
 msgid "faction_job_hud_deliver_carried"
 msgstr "Deliver carried supplies"
 
+#. FJ8d: the HUD card's button.
+msgid "faction_job_hud_deliver_token"
+msgstr "Deliver token"
+
+#. FJ8d: the HUD card's button.
+msgid "faction_job_hud_intercept_signal"
+msgstr "Intercept signal"
+
 msgid "faction_job_hud_line1"
 msgstr "Supplies to %1 - pad %2 m %3"
 
@@ -5638,6 +5654,93 @@ msgstr "Hub cut off: emergency supply contracts only."
 msgid "faction_jobs_hunter_raider_soon"
 msgstr "Hunter and Raider work is not posted yet."
 
+#. FJ8d: a contract taken. %1 the glyph.
+msgid "faction_jobs_interdiction_0"
+msgstr ""
+"Interdiction contract taken on %1: intercept its logistics signals at its "
+"altars, then carry the token to your checkpoint."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_1"
+msgstr "Interdiction contracts are not available right now."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_10"
+msgstr "That signal is not one this contract still needs."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_11"
+msgstr "Intercept every signal the contract needs before delivering the token."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_12"
+msgstr ""
+"That checkpoint no longer counts: deliver the token at another of your "
+"checkpoints."
+
+#. FJ8d: the contract void.
+msgid "faction_jobs_interdiction_13"
+msgstr "The glyph changed hands: your interdiction contract is void."
+
+#. FJ8d: the contract completed. %1 the glyph.
+msgid "faction_jobs_interdiction_14"
+msgstr "Interdiction of %1 complete! Your faction points are on their way."
+
+#. FJ8d: left.
+msgid "faction_jobs_interdiction_15"
+msgstr "You left your interdiction contract."
+
+#. FJ8d: a signal taken. %1 the glyph.
+msgid "faction_jobs_interdiction_16"
+msgstr "Signal intercepted at %1."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_2"
+msgstr "Only Hunters take interdiction contracts."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_3"
+msgstr ""
+"Only lawful players who are not rogues may take an interdiction contract."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_4"
+msgstr ""
+"You already hold an offensive contract (an escort, a recovery mission or an "
+"interdiction)."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_5"
+msgstr "That glyph is not held by an enemy faction."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_6"
+msgstr "Your faction has no checkpoint bordering that glyph."
+
+#. FJ8d: refused (the repeat-target cooldown).
+msgid "faction_jobs_interdiction_7"
+msgstr "You struck this glyph a short while ago. Pick another target for now."
+
+#. FJ8d: refused.
+msgid "faction_jobs_interdiction_8"
+msgstr "You hold no such interdiction contract."
+
+#. FJ8d: the contract expired.
+msgid "faction_jobs_interdiction_9"
+msgstr "Your interdiction contract ran out."
+
+#. FJ8d: an interdiction size (one signal).
+msgid "faction_jobs_interdiction_tier_1"
+msgstr "Small"
+
+#. FJ8d: an interdiction size (two signals).
+msgid "faction_jobs_interdiction_tier_2"
+msgstr "Standard"
+
+#. FJ8d: an interdiction size (three signals).
+msgid "faction_jobs_interdiction_tier_3"
+msgstr "Large"
+
 msgid "faction_jobs_job_hunter"
 msgstr "Hunter"
 
@@ -5719,8 +5822,20 @@ msgstr "+%1% (well-supplied hub)"
 msgid "faction_jobs_offer_line"
 msgstr "%1 - %2 crates to %3 - %4 km - %5 route x%6"
 
+#. FJ8b board tag on a Frontier offer: its Territorial Stability effect on the enemy target at full delivery. %1 a negative number, e.g. -10.
+msgid "faction_jobs_offer_stability"
+msgstr "Stability %1"
+
+#. FJ8b board tag: the Trader's faction already used its Stability changes on this glyph for now; the run still pays faction points.
+msgid "faction_jobs_offer_stability_capped"
+msgstr "Stability capped"
+
 msgid "faction_jobs_offer_supply"
 msgstr "Supply %1"
+
+#. FJ8b board tag: the Trader struck this glyph recently and must wait. %1 minutes.
+msgid "faction_jobs_offer_target_cooldown"
+msgstr "Target cooldown %1 min"
 
 msgid "faction_jobs_offer_terms"
 msgstr "Deposit %1 gold. Pays up to %2 score (%3 FP). %4 min."
@@ -5746,8 +5861,16 @@ msgstr "escort"
 msgid "faction_jobs_pay_reason_extraction"
 msgstr "Raid share"
 
+#. FJ8d: the pay row's reason.
+msgid "faction_jobs_pay_reason_interdiction"
+msgstr "Interdiction"
+
 msgid "faction_jobs_pay_reason_recovery"
 msgstr "cargo recovery"
+
+#. FJ8c: the reason on a Raider's faction-points pay for a completed Runic Relay sabotage job.
+msgid "faction_jobs_pay_reason_sabotage"
+msgstr "Relay sabotage"
 
 msgid "faction_jobs_rank_0"
 msgstr "Recruit"
@@ -5778,6 +5901,12 @@ msgstr "You are already waiting for an answer."
 
 msgid "faction_jobs_refused_12"
 msgstr "The contract could not be recorded. Nothing was charged."
+
+#. FJ8b (GDD v5 anti-farming): the Trader settled an offensive (Frontier) contract on this glyph within the repeat-target cooldown.
+msgid "faction_jobs_refused_13"
+msgstr ""
+"You struck this glyph a short while ago. Wait before taking another "
+"offensive contract against it."
 
 msgid "faction_jobs_refused_2"
 msgstr "The faction office is getting ready. Try again shortly."
@@ -5814,6 +5943,79 @@ msgstr "a title"
 
 msgid "faction_jobs_reward_wagon_look"
 msgstr "a wagon appearance"
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (0). %1 the glyph name.
+msgid "faction_jobs_sabotage_0"
+msgstr ""
+"Sabotage job taken: sabotage the Runic Relay at the %1 glyph stone before "
+"the job runs out."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (1).
+msgid "faction_jobs_sabotage_1"
+msgstr "Relay sabotage is not available right now."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (10).
+msgid "faction_jobs_sabotage_10"
+msgstr "You hold no sabotage job for this relay."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (11).
+msgid "faction_jobs_sabotage_11"
+msgstr "This relay is not your sabotage job's target."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (12).
+msgid "faction_jobs_sabotage_12"
+msgstr "Your sabotage job ran out."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (13).
+msgid "faction_jobs_sabotage_13"
+msgstr ""
+"The relay cannot be sabotaged during a battle or the glyph's protection."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (14).
+msgid "faction_jobs_sabotage_14"
+msgstr "The glyph changed hands: your sabotage job is void."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (15). %1 the glyph name.
+msgid "faction_jobs_sabotage_15"
+msgstr "Runic Relay at %1 sabotaged! Your faction points are on their way."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (16).
+msgid "faction_jobs_sabotage_16"
+msgstr "You left your sabotage job."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (2).
+msgid "faction_jobs_sabotage_2"
+msgstr "Only Raiders take sabotage jobs."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (3).
+msgid "faction_jobs_sabotage_3"
+msgstr "Only lawful players who are not rogues may take a sabotage job."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (4).
+msgid "faction_jobs_sabotage_4"
+msgstr "You already hold a sabotage job."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (5).
+msgid "faction_jobs_sabotage_5"
+msgstr "That glyph is not held by an enemy faction."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (6).
+msgid "faction_jobs_sabotage_6"
+msgstr "That glyph is in a battle. Try again when it ends."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (7).
+msgid "faction_jobs_sabotage_7"
+msgstr "That glyph's relay was sabotaged recently. Try another glyph."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (8).
+msgid "faction_jobs_sabotage_8"
+msgstr ""
+"Your account sabotaged a relay recently. Wait before taking another sabotage "
+"job."
+
+#. FJ8c: the answer to a Raider's relay sabotage job request or attempt (9).
+msgid "faction_jobs_sabotage_9"
+msgstr "You struck this glyph a short while ago. Pick another target for now."
 
 msgid "faction_jobs_size_1"
 msgstr "Small"
@@ -6000,6 +6202,14 @@ msgstr "Accept"
 msgid "fj_board_assigned_outposts"
 msgstr "Your raid's outposts: %1"
 
+#. FJ8d: the Hunter's board, the interdiction contracts' header.
+msgid "fj_board_interdiction_header"
+msgstr "Interdiction contracts"
+
+#. FJ8d: a contract row. %1 the glyph, %2 the size, %3 its Stability tag.
+msgid "fj_board_interdiction_row"
+msgstr "Intercept %1's logistics (%2) - %3"
+
 msgid "fj_board_leave_mission"
 msgstr "Leave mission"
 
@@ -6009,8 +6219,16 @@ msgstr "%1: %2 of %3 crate(s) still stolen, %4 min ago (%5/%6 Hunters)"
 msgid "fj_board_missions_header"
 msgstr "Recovery missions"
 
+#. FJ8d: the held contract. %1 the glyph, %2 the size.
+msgid "fj_board_my_interdiction"
+msgstr "Your interdiction: %1 (%2)"
+
 msgid "fj_board_my_mission"
 msgstr "Your mission: %1"
+
+#. FJ8c: the Raider's job board, relay sabotage jobs. %1 the glyph name.
+msgid "fj_board_my_sabotage"
+msgstr "Your sabotage job: the relay at %1"
 
 msgid "fj_board_no_missions"
 msgstr "No recovery missions."
@@ -6026,6 +6244,14 @@ msgstr "Smuggler Outposts"
 
 msgid "fj_board_pending_extraction"
 msgstr "Pending extraction share: %1 crate(s), about %2 FP"
+
+#. FJ8c: the Raider's job board, relay sabotage jobs.
+msgid "fj_board_sabotage_header"
+msgstr "Relay sabotage jobs"
+
+#. FJ8c: the Raider's job board, relay sabotage jobs. %1 the glyph name, %2 the Stability tag.
+msgid "fj_board_sabotage_row"
+msgstr "Sabotage the relay at %1 - %2"
 
 msgid "fj_board_tracking_header"
 msgstr "Tracking reports"
@@ -6136,6 +6362,97 @@ msgstr "Supply wagon: %1 crates aboard for %2, delivery pad %3 m %4."
 
 msgid "fj_inspect_wagon_other"
 msgstr "A faction supply wagon."
+
+#. FJ8d: on screen for the glyph's owner faction. %1 the glyph.
+msgid "fj_interdiction_alert"
+msgstr "Hunters are intercepting the logistics of %1! Stop them at its altars."
+
+#. FJ8d: the delivery channel held.
+msgid "fj_interdiction_deliver_held"
+msgstr "Token delivered. Waiting for your faction to confirm the interdiction."
+
+#. FJ8d: the delivery channel started.
+msgid "fj_interdiction_deliver_started"
+msgstr "Delivering the interdiction token: hold still."
+
+#. FJ8d: the HUD card. %1 metres, %2 a compass point.
+msgid "fj_interdiction_hud_next_checkpoint"
+msgstr "Checkpoint: %1 m %2"
+
+#. FJ8d: the HUD card. %1 metres, %2 a compass point.
+msgid "fj_interdiction_hud_next_signal"
+msgstr "Nearest signal: %1 m %2"
+
+#. FJ8d: the HUD card. %1 taken, %2 needed, %3 the token's state.
+msgid "fj_interdiction_hud_progress"
+msgstr "Signals %1/%2 - token %3"
+
+#. FJ8d: the HUD card's title. %1 the glyph, %2 the size.
+msgid "fj_interdiction_hud_title"
+msgstr "Interdiction: %1 (%2)"
+
+#. FJ8d: the token's state on the HUD card.
+msgid "fj_interdiction_hud_token_no"
+msgstr "not carried"
+
+#. FJ8d: the token's state on the HUD card.
+msgid "fj_interdiction_hud_token_yes"
+msgstr "carried"
+
+#. FJ8d: a channel broken (moving, a hit, death).
+msgid "fj_interdiction_interrupted"
+msgstr "Your interdiction was interrupted."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_1"
+msgstr "Interdiction is not available right now."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_2"
+msgstr "You hold no interdiction contract."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_3"
+msgstr "You cannot do that while dead."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_4"
+msgstr "You are busy with another action."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_5"
+msgstr ""
+"Stand at one of the contract's signals (the glyph's altars) to intercept it."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_6"
+msgstr ""
+"You need your interdiction token: recover it, or the contract cannot be "
+"completed."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_7"
+msgstr "Every signal is intercepted: carry the token to your checkpoint."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_8"
+msgstr "Intercept every signal the contract needs first."
+
+#. FJ8d: a HUD button refused.
+msgid "fj_interdiction_req_9"
+msgstr "Stand at one of your checkpoints to deliver the token."
+
+#. FJ8d: a signal channel held.
+msgid "fj_interdiction_signal_held"
+msgstr "Signal intercepted. Waiting for your faction to confirm it."
+
+#. FJ8d: a signal channel started.
+msgid "fj_interdiction_signal_started"
+msgstr "Intercepting the signal: hold still."
+
+#. FJ8d: a looted token destroyed.
+msgid "fj_interdiction_token_lost"
+msgstr "An interdiction token that is not yours crumbles to dust."
 
 msgid "fj_mission_accepted"
 msgstr "Recovery mission accepted. Watch your map for tracking reports."
@@ -6260,6 +6577,50 @@ msgstr "There is no ground to place a wagon here."
 
 msgid "fj_replace_started"
 msgstr "Summoning a replacement wagon... stay still and don't get hit (%1 s)."
+
+#. FJ8c: on screen for the glyph's owner faction when a relay sabotage starts. %1 the glyph name.
+msgid "fj_sabotage_alert"
+msgstr "The Runic Relay at %1 is being sabotaged! Stop it at the glyph stone."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_busy"
+msgstr "Someone is already sabotaging this relay."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_defended"
+msgstr "You stopped the relay sabotage."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_done"
+msgstr "The relay is broken. Waiting for your faction to confirm the sabotage."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_interrupted"
+msgstr "Your relay sabotage was interrupted."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_started"
+msgstr ""
+"Relay sabotage under way: hold still at the glyph stone until the relay "
+"opens."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_stopped"
+msgstr "A defender stopped your relay sabotage."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_too_far"
+msgstr "Stand at the glyph stone to sabotage its relay."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_try_again"
+msgstr "Try again in a moment."
+
+#. FJ8c: the glyph stone's line to a player during a relay sabotage.
+msgid "fj_sabotage_window"
+msgstr ""
+"The relay is open: hold it until it breaks. Stay at the stone and do not get "
+"hit."
 
 msgid "fj_theft_hunter"
 msgstr ""
@@ -9530,6 +9891,10 @@ msgstr "Fortress Markers"
 msgid "map_marker_fun_flags"
 msgstr "Player Deployed Fun Flags"
 
+#. FJ8a political map: under a glyph's Supply marker. %1 Territorial Stability (0-100), %2 its state word (Vulnerable / Secure / Frozen).
+msgid "map_marker_glyph_stability"
+msgstr "Stability %1 - %2"
+
 msgid "map_marker_glyph_supply"
 msgstr "Supply %1"
 
@@ -9756,6 +10121,18 @@ msgstr "Islands and seas"
 msgid "map_region_yssam"
 msgstr "Yssam"
 
+#. FJ8a Territorial Stability state: a battle is running on the glyph.
+msgid "map_stability_frozen"
+msgstr "Frozen"
+
+#. FJ8a Territorial Stability state: at or above the threshold, no conquest may be declared.
+msgid "map_stability_secure"
+msgstr "Secure"
+
+#. FJ8a Territorial Stability state: below the threshold, a hostile faction may declare a conquest.
+msgid "map_stability_vulnerable"
+msgstr "Vulnerable"
+
 msgid "map_supply_state_disrupted"
 msgstr "Disrupted"
 
@@ -9825,6 +10202,26 @@ msgstr ""
 #. Map tooltip on a lawful glyph next to the viewer's faction land.
 msgid "map_tooltip_glyph_border_open"
 msgstr "Your faction borders this glyph - you can declare on it."
+
+#. FJ8a glyph tooltip. %1 Territorial Stability (0-100), %2 its state word.
+msgid "map_tooltip_glyph_stability"
+msgstr "Territorial Stability: %1 (%2)"
+
+#. FJ8a glyph tooltip, under the Stability line during a battle. Held changes apply after a defence and are dropped by a capture.
+msgid "map_tooltip_glyph_stability_frozen"
+msgstr ""
+"Frozen while its battle runs. Deliveries and raids made meanwhile count "
+"afterwards, unless the glyph is captured."
+
+#. FJ8a glyph tooltip, under the Stability line while it is Secure. %1 the vulnerable threshold.
+msgid "map_tooltip_glyph_stability_secure"
+msgstr ""
+"Hostile factions can declare a conquest only once its Stability falls below "
+"%1."
+
+#. FJ8a glyph tooltip, under the Stability line while it is Vulnerable.
+msgid "map_tooltip_glyph_stability_vulnerable"
+msgstr "Hostile factions may declare a conquest on this glyph."
 
 msgid "map_tooltip_glyph_supply"
 msgstr "Supply: %1 (%2)"
@@ -17992,6 +18389,17 @@ msgid "territory_no_border"
 msgstr ""
 "Your faction has no border with this glyph. Push out from your home zone or "
 "a glyph your faction holds."
+
+#. FJ8a Territorial Stability: the server does not know the glyph's Stability yet, so the declaration is refused. %1 glyph name. The Glyph Wand is kept.
+msgid "territory_stability_unknown"
+msgstr ""
+"The Territorial Stability of %1 is not known yet. Try again in a moment."
+
+#. FJ8a Territorial Stability: a declaration on a lawful glyph another faction holds while its Stability is not below the vulnerable threshold. %1 glyph name, %2 its Stability (0-100), %3 the threshold. The Glyph Wand is kept.
+msgid "territory_stable"
+msgstr ""
+"%1 is too stable to attack: its Territorial Stability is %2 and must fall "
+"below %3 first. Raid the supply convoys that reinforce it."
 
 msgid "text"
 msgstr "text"
