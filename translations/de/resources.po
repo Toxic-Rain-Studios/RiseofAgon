@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-19 07:56+0000\n"
+"PO-Revision-Date: 2026-11-08 18:17+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/de/>\n"
@@ -13090,27 +13090,33 @@ msgstr "Magische Edelsteine"
 msgid "desc_r_Magical Gems"
 msgstr "Beschreibung von r_magical gems"
 
+#, fuzzy
 msgid "r_Magical Gem Amethyst"
 msgstr "Magisches Edelstein-Amethyst"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Amethyst"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Aventurine"
 msgstr "Magisches Edelstein-Aventurin"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Aventurine"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Crystal"
 msgstr "Magischer Edelsteinkristall"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Crystal"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
@@ -13120,528 +13126,645 @@ msgstr ""
 msgid "r_Magical Pearl"
 msgstr "Magische Perle"
 
+#, fuzzy
 msgid "desc_r_Magical Pearl"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond"
 msgstr "Magischer Edelstein-Diamant"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Emerald"
 msgstr "Magisches Edelstein-Smaragd"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Emerald"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Garnet"
 msgstr "Magisches Edelstein-Granat"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Garnet"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby"
 msgstr "Magisches Edelstein Rubin"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Sapphire"
 msgstr "Magischer Edelsteinsaphir"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Sapphire"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Turquoise"
 msgstr "Magisches Edelstein Türkis"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Turquoise"
 msgstr ""
 "Edelsteine, die einen verzauberten Zauber halten. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Fire"
 msgstr "Magisches Edelstein Onyx-Feuer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Fire"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Piercing"
 msgstr "Magisches Edelstein Onyx Piercing"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Piercing"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Slashing"
 msgstr "Magisches Edelstein Onyx Slashing"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Slashing"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Endurance"
 msgstr "Magische Edelstein Onyx Ausdauer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Endurance"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Feather"
 msgstr "Magische Edelstein Onyx Feder"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Feather"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Keen"
 msgstr "Magisches Edelstein Onyx"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Keen"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Casting"
 msgstr "Magisches Edelstein Onyx Casting"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Casting"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magnitude"
 msgstr "Magische Edelstein Onyx Größe"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magnitude"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Efficiency"
 msgstr "Magische Edelstein Onyx Effizienz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Efficiency"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Manslayer"
 msgstr "Magisches Edelstein Onyx-Manntöter"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Manslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Orkslayer"
 msgstr "Magical Edelstein Onyx Orkslayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Orkslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Alfarslayer"
 msgstr "Magisches Edelstein Onyx Alfarslayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Alfarslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx bludgeoning"
 msgstr "Magisches Edelstein Onyx bludgeoning"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx bludgeoning"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Elfslayer"
 msgstr "Magisches Edelstein Onyx-Elfentöter"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Elfslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dwarfslayer"
 msgstr "Magisches Edelstein Onyx Zwergtöter"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dwarfslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Mahirimslayer"
 msgstr "Magischer Edelstein Onyx mahirimlayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Mahirimslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Golemslayer"
 msgstr "Magisches Juwel Onyx Golemslayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Golemslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dragonslayer"
 msgstr "Magisches Edelstein Onyx Dragonslayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dragonslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Undeadslayer"
 msgstr "Magical Edelstein Onyx undeadslayer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Undeadslayer"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Strength"
 msgstr "Magische Edelstein Onyx Stärke"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Strength"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dexterity"
 msgstr "Magische Edelstein Onyx Geschicklichkeit"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dexterity"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Intelligence"
 msgstr "Magische Edelsteine Onyx Intelligenz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Intelligence"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Wisdom"
 msgstr "Magische Edelstein Onyx Weisheit"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Wisdom"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Quickness"
 msgstr "Magische Edelstein Onyx Schnelligkeit"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Quickness"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Vitality"
 msgstr "Magische Edelstein Onyx Vitalität"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Vitality"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Lung"
 msgstr "Magische Edelstein Onyx Lunge"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Lung"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Health"
 msgstr "Magische Edelstein Onyx Gesundheit"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Health"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Mana"
 msgstr "Magisches Juwel Onyx Mana"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Mana"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Stamina"
 msgstr "Magisches Edelstein Onyx Ausdauer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Stamina"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Arrow"
 msgstr "Magischer Edelstein Onyx Pfeil"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Arrow"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Holy"
 msgstr "Magisches Edelstein Onyx heilig"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Holy"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Unholy"
 msgstr "Magisches Juwel Onyx unheilig"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Unholy"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Lightning"
 msgstr "Magisches Edelstein Onyx Blitz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Lightning"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Cold"
 msgstr "Magisches Edelstein Onyx kalt"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Cold"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Acid"
 msgstr "Magische Edelstein Onyx-Säure"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Acid"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Infliction"
 msgstr "Magische Edelstein Onyx-Zufügung"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Infliction"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Duration"
 msgstr "Magische Edelstein Onyx Dauer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Duration"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Success"
 msgstr "Magischer Edelstein Onyx Erfolg"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Success"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magic_Duration"
 msgstr "Magisches Juwel onyx magic_duration"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magic_Duration"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magic_Efficiency"
 msgstr "Magical Gem Onyx Magic_Effizienz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magic_Efficiency"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Casting"
 msgstr "Magisches Edelstein-Diamantguss"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Casting"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 6 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Efficiency"
 msgstr "Magical Edelstein Diamant Effizienz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Efficiency"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Endurance"
 msgstr "Magische Edelstein-Diamant-Ausdauer"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Endurance"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Feather"
 msgstr "Magische Edelstein Diamantfeder"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Feather"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Keen"
 msgstr "Magischer Edelstein Diamant scharf"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Keen"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Magnitude"
 msgstr "Magische Edelstein-Diamantgröße"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Magnitude"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Casting"
 msgstr "Magisches Edelstein Ruby Casting"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Casting"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Efficiency"
 msgstr "Magical Edelstein Ruby Effizienz"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Efficiency"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Endurance"
 msgstr "Magical Edelstein Ruby Endurance"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Endurance"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Feather"
 msgstr "Magische Edelstein Rubinfeder"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Feather"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Keen"
 msgstr "Magisches Edelstein Rubin scharf"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Keen"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Magnitude"
 msgstr "Magische Edelstein-Rubin-Größe"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Magnitude"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
@@ -15175,60 +15298,72 @@ msgstr ""
 msgid "r_earth essence"
 msgstr "Erdwesen"
 
+#, fuzzy
 msgid "desc_r_earth essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_Air Essence"
 msgstr "Luftessenz"
 
+#, fuzzy
 msgid "desc_r_Air Essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_Fire Essence"
 msgstr "Feuersubstanz"
 
+#, fuzzy
 msgid "desc_r_Fire Essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_water essence"
 msgstr "Wasseressenz"
 
+#, fuzzy
 msgid "desc_r_water essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
+#, fuzzy
 msgid "r_Arcane Essence"
 msgstr "Arkane Essenz"
 
+#, fuzzy
 msgid "desc_r_Arcane Essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_greater essence"
 msgstr "Größere Essenz"
 
+#, fuzzy
 msgid "desc_r_greater essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_lesser essence"
 msgstr "Kleinere Essenz"
 
+#, fuzzy
 msgid "desc_r_lesser essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
+#, fuzzy
 msgid "r_necromancy essence"
 msgstr "Nekromantien-Essenz"
 
+#, fuzzy
 msgid "desc_r_necromancy essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_spellchanting essence"
 msgstr "buchstabierte Essenz"
 
+#, fuzzy
 msgid "desc_r_spellchanting essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
 msgid "r_witchcraft essence"
 msgstr "Hexerei Essenz"
 
+#, fuzzy
 msgid "desc_r_witchcraft essence"
 msgstr " Diese Essenz wird beim Scroll-Crafting verwendet."
 
@@ -29885,216 +30020,284 @@ msgstr "Die Weisen"
 msgid "desc_r_The Wise"
 msgstr "Dieser Titel gewährt einen +6 Weisheitsbonus."
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond static"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 5 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby static"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 4 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "desc_r_Magical Gem Garnet static"
 msgstr ""
 "Edelsteine, die eine nutzbare Qualität 3 verzaubert hält. Um seine Macht zu "
 "übertragen, doppelklicken Sie auf das Juwel und klicken Sie dann auf den "
 "Gegenstand, den Sie verzaubern möchten."
 
+#, fuzzy
 msgid "r_magical gem diamond alfarbane"
 msgstr "Magischer Edelstein-Diamant Alfar Bann"
 
+#, fuzzy
 msgid "r_magical gem diamond arrowprotection"
 msgstr "Magischer Edelstein Diamantpfeilschutz"
 
+#, fuzzy
 msgid "r_magical gem diamond bludgeoningprotection"
 msgstr "Magical Edelstein Diamond Bludgeoning Schutz"
 
+#, fuzzy
 msgid "r_magical gem diamond dragonbane"
 msgstr "Magischer Edelstein Diamantdrachenbann"
 
+#, fuzzy
 msgid "r_magical gem diamond dwarfbane"
 msgstr "Magical Edelstein Diamond Dwarf Bane"
 
+#, fuzzy
 msgid "r_magical gem diamond fireprotection"
 msgstr "Magischer Edelstein-Diamantbrandschutz"
 
+#, fuzzy
 msgid "r_magical gem diamond golembane"
 msgstr "Magical Edelstein Diamond Golem Bane"
 
+#, fuzzy
 msgid "r_magical gem diamond humanbane"
 msgstr "Magical Edelstein Diamant menschlichen Fluch"
 
+#, fuzzy
 msgid "r_magical gem diamond mahirimbane"
 msgstr "Magischer Edelstein-Diamant Mahirim Bann"
 
+#, fuzzy
 msgid "r_magical gem diamond orkbane"
 msgstr "Magischer Edelstein-Diamant Ork Bann"
 
+#, fuzzy
 msgid "r_magical gem diamond piercingprotection"
 msgstr "Magical Edelstein Diamond Piercing Schutz"
 
+#, fuzzy
 msgid "r_magical gem diamond slashingprotection"
 msgstr "Magical Edelstein Diamond Slash Schutz"
 
+#, fuzzy
 msgid "r_magical gem diamond undeadbane"
 msgstr "Magical Edelstein Diamant undead Ban"
 
+#, fuzzy
 msgid "r_magical gem diamond strength"
 msgstr "Magische Edelstein-Diamantstärke"
 
+#, fuzzy
 msgid "r_magical gem diamond intelligence"
 msgstr "Magical Edelstein Diamond Intelligence"
 
+#, fuzzy
 msgid "r_magical gem diamond vitality"
 msgstr "Magische Edelstein-Diamant Vitalität"
 
+#, fuzzy
 msgid "r_magical gem diamond dexterity"
 msgstr "Magische Edelstein-Diamant-Geschicklichkeit"
 
+#, fuzzy
 msgid "r_magical gem diamond wisdom"
 msgstr "Magische Edelstein Diamant Weisheit"
 
+#, fuzzy
 msgid "r_magical gem diamond quickness"
 msgstr "Magische Edelstein Diamant Schnelligkeit"
 
+#, fuzzy
 msgid "r_magical gem ruby alfarbane"
 msgstr "Magical Edelstein Rubin Alfar Bann"
 
+#, fuzzy
 msgid "r_magical gem ruby arrowprotection"
 msgstr "Magical Edelstein Ruby Pfeilschutz"
 
+#, fuzzy
 msgid "r_magical gem ruby bludgeoningprotection"
 msgstr "Magical Edelstein Ruby bludgeoning Schutz"
 
+#, fuzzy
 msgid "r_magical gem ruby dragonbane"
 msgstr "Magisches Edelstein Ruby Dragon Bane"
 
+#, fuzzy
 msgid "r_magical gem ruby dwarfbane"
 msgstr "Magical Edelstein Ruby Dwarf Bane"
 
+#, fuzzy
 msgid "r_magical gem ruby fireprotection"
 msgstr "Magical Edelstein Ruby Brandschutz"
 
+#, fuzzy
 msgid "r_magical gem ruby golembane"
 msgstr "Magical Edelstein Ruby Golem Bane"
 
+#, fuzzy
 msgid "r_magical gem ruby humanbane"
 msgstr "Magical Edelstein Ruby Menschlicher Fluch"
 
+#, fuzzy
 msgid "r_magical gem ruby mahirimbane"
 msgstr "Magical Edelstein Rubin Mahirim Bann"
 
+#, fuzzy
 msgid "r_magical gem ruby orkbane"
 msgstr "Magical Edelstein Rubin Ork Bann"
 
+#, fuzzy
 msgid "r_magical gem ruby piercingprotection"
 msgstr "Magical Edelstein Ruby Piercing Schutz"
 
+#, fuzzy
 msgid "r_magical gem ruby slashingprotection"
 msgstr "Magical Edelstein Ruby Slashing Schutz"
 
+#, fuzzy
 msgid "r_magical gem ruby undeadbane"
 msgstr "Magical Edelstein Ruby undead Ban"
 
+#, fuzzy
 msgid "r_magical gem ruby Strength"
 msgstr "Magische Edelstein-Rubinstärke"
 
+#, fuzzy
 msgid "r_magical gem ruby intelligence"
 msgstr "Magical Edelstein Ruby Intelligence"
 
+#, fuzzy
 msgid "r_magical gem ruby vitality"
 msgstr "Magische Edelstein Ruby Vitalität"
 
+#, fuzzy
 msgid "r_magical gem ruby dexterity"
 msgstr "Magical Edelstein Ruby Geschicklichkeit"
 
+#, fuzzy
 msgid "r_magical gem ruby wisdom"
 msgstr "Magische Edelstein Ruby Weisheit"
 
+#, fuzzy
 msgid "r_magical gem ruby quickness"
 msgstr "Magische Edelstein Rubin Schnelligkeit"
 
+#, fuzzy
 msgid "r_magical gem garnet alfarbane"
 msgstr "Magischer Edelstein Granat Alfar Bann"
 
+#, fuzzy
 msgid "r_magical gem garnet arrowprotection"
 msgstr "Magischer Edelstein Granatpfeilschutz"
 
+#, fuzzy
 msgid "r_magical gem garnet bludgeoningprotection"
 msgstr "Magical Edelstein Granat bludgeoning Schutz"
 
+#, fuzzy
 msgid "r_magical gem garnet casting"
 msgstr "Magisches Edelstein-Granatguss"
 
+#, fuzzy
 msgid "r_magical gem garnet dragonbane"
 msgstr "Magischer Edelstein Granat Drachenbann"
 
+#, fuzzy
 msgid "r_magical gem garnet dwarfbane"
 msgstr "Magical Edelstein Granat Dwarf Bane"
 
+#, fuzzy
 msgid "r_magical gem garnet endurance"
 msgstr "Magical Edelstein Granat Ausdauer"
 
+#, fuzzy
 msgid "r_magical gem garnet feather"
 msgstr "Magische Edelstein-Granatfeder"
 
+#, fuzzy
 msgid "r_magical gem garnet fireprotection"
 msgstr "Magischer Edelstein Granatbrandschutz"
 
+#, fuzzy
 msgid "r_magical gem garnet golembane"
 msgstr "Magical Edelstein Granat Golem Bane"
 
+#, fuzzy
 msgid "r_magical gem garnet humanbane"
 msgstr "Magischer Edelstein Granat Menschlicher Fluch"
 
+#, fuzzy
 msgid "r_magical gem garnet keen"
 msgstr "Magical Edelstein Granat"
 
+#, fuzzy
 msgid "r_magical gem garnet magnitude"
 msgstr "Magische Edelstein Granat Größe"
 
+#, fuzzy
 msgid "r_magical gem garnet mahirimbane"
 msgstr "Magischer Edelstein Granat Mahirim Bann"
 
+#, fuzzy
 msgid "r_magical gem garnet mirdainbane"
 msgstr "Magischer Edelstein Granat Mirdain Bann"
 
+#, fuzzy
 msgid "r_magical gem garnet efficiency"
 msgstr "Magische Edelstein Granat Effizienz"
 
+#, fuzzy
 msgid "r_magical gem garnet orkbane"
 msgstr "Magischer Edelstein Granat Ork Bann"
 
+#, fuzzy
 msgid "r_magical gem garnet piercingprotection"
 msgstr "Magical Edelstein Granat Piercing Schutz"
 
+#, fuzzy
 msgid "r_magical gem garnet slashingprotection"
 msgstr "Magical Edelstein Granat Slashing Schutz"
 
+#, fuzzy
 msgid "r_magical gem garnet undeadbane"
 msgstr "Magischer Edelstein Granat Untoter Fluch"
 
+#, fuzzy
 msgid "r_magical gem garnet strength"
 msgstr "Magische Edelstein Granat Stärke"
 
+#, fuzzy
 msgid "r_magical gem garnet intelligence"
 msgstr "Magische Edelstein-Granat-Intelligenz"
 
+#, fuzzy
 msgid "r_magical gem garnet vitality"
 msgstr "Magische Edelstein Granat Vitalität"
 
+#, fuzzy
 msgid "r_magical gem garnet dexterity"
 msgstr "Magische Edelstein-Granat-Geschicklichkeit"
 
+#, fuzzy
 msgid "r_magical gem garnet wisdom"
 msgstr "Magische Edelstein-Granat Weisheit"
 
+#, fuzzy
 msgid "r_magical gem garnet quickness"
 msgstr "Magische Edelstein Granat Schnelligkeit"
 
+#, fuzzy
 msgid "r_magical gem diamond mirdainbane"
 msgstr "Magischer Edelstein-Diamant Mirdain Bann"
 
