@@ -12479,6 +12479,11 @@ msgstr "^Cyellow^Attention! ^Cwhite^You are entering a lawless area!"
 msgid "NOTIFICATION_RED_EXITING_LAW_LESS_AREA_WARNING"
 msgstr "^Cyellow^Attention! ^Cwhite^You are entering an area governed by Law!"
 
+msgid "NOTIFICATION_RELIC_DOMINION"
+msgstr ""
+"^Cgold^%1 claims Dominion.^N^ Every rival relic now circles %1's shrine at "
+"%2."
+
 msgid "NOTIFICATION_REQUEST_MAX_SIMULTANEOUS_TRADING_SESSION"
 msgstr "You can not initiate another trade.You have reached maximum trades."
 
