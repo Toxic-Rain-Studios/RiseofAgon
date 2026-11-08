@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-19 07:56+0000\n"
+"PO-Revision-Date: 2026-11-08 18:17+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -10772,377 +10772,604 @@ msgstr "附魔石"
 msgid "desc_r_Magical Gems"
 msgstr "Description of r_Magical Gems"
 
+#, fuzzy
 msgid "r_Magical Gem Amethyst"
 msgstr "附魔紫水晶"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Amethyst"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Aventurine"
 msgstr "附魔砂金石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Aventurine"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Crystal"
 msgstr "附魔水晶"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Crystal"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
 msgid "r_Magical Pearl"
 msgstr "附魔珍珠"
 
+#, fuzzy
 msgid "desc_r_Magical Pearl"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond"
 msgstr "附魔钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Emerald"
 msgstr "附魔绿宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Emerald"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Garnet"
 msgstr "附魔石榴石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Garnet"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby"
 msgstr "附魔红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Sapphire"
 msgstr "附魔蓝宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Sapphire"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Turquoise"
 msgstr "附魔绿松石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Turquoise"
 msgstr "可以给物品附魔的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Fire"
 msgstr "附魔火焰玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Fire"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Piercing"
 msgstr "附魔穿刺玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Piercing"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Slashing"
 msgstr "附魔剑防玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Slashing"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Endurance"
 msgstr "附魔耐久玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Endurance"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Feather"
 msgstr "附魔羽玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Feather"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Keen"
 msgstr "附魔锋利玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Keen"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Casting"
 msgstr "附魔施法玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Casting"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magnitude"
 msgstr "附魔强度玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magnitude"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Efficiency"
 msgstr "附魔效率玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Efficiency"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Manslayer"
 msgstr "附魔屠人玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Manslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Orkslayer"
 msgstr "附魔屠兽人玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Orkslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Alfarslayer"
 msgstr "附魔屠暗法玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Alfarslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx bludgeoning"
 msgstr "附魔棒防玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx bludgeoning"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Elfslayer"
 msgstr "附魔屠精灵玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Elfslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dwarfslayer"
 msgstr "附魔屠矮人玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dwarfslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Mahirimslayer"
 msgstr "附魔屠狼人玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Mahirimslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Golemslayer"
 msgstr "附魔屠巨人玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Golemslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dragonslayer"
 msgstr "附魔屠龙玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dragonslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Undeadslayer"
 msgstr "附魔屠亡灵玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Undeadslayer"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Strength"
 msgstr "附魔力量玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Strength"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Dexterity"
 msgstr "附魔敏捷玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Dexterity"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Intelligence"
 msgstr "附魔智力玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Intelligence"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Wisdom"
 msgstr "附魔天赋玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Wisdom"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Quickness"
 msgstr "附魔速度玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Quickness"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Vitality"
 msgstr "附魔体力玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Vitality"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Lung"
 msgstr "附魔肺玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Lung"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Health"
 msgstr "附魔生命玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Health"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Mana"
 msgstr "附魔法力玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Mana"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Stamina"
 msgstr "附魔耐力玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Stamina"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Arrow"
 msgstr "附魔箭玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Arrow"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Holy"
 msgstr "附魔圣术玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Holy"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Unholy"
 msgstr "附魔邪术玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Unholy"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Lightning"
 msgstr "附魔闪电玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Lightning"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Cold"
 msgstr "附魔寒冷玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Cold"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Acid"
 msgstr "附魔酸蚀玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Acid"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Infliction"
 msgstr "附魔刑罚玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Infliction"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Duration"
 msgstr "附魔持续玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Duration"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Success"
 msgstr "附魔胜利玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Success"
-msgstr "可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质6的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magic_Duration"
 msgstr "附魔魔法持续玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magic_Duration"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Onyx Magic_Efficiency"
 msgstr "附魔魔法效率玛瑙"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Onyx Magic_Efficiency"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Casting"
 msgstr "附魔施法钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Casting"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Efficiency"
 msgstr "附魔效率钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Efficiency"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Endurance"
 msgstr "附魔耐久钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Endurance"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Feather"
 msgstr "附魔羽毛钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Feather"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Keen"
 msgstr "附魔锋利钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Keen"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Diamond Magnitude"
 msgstr "附魔强度钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond Magnitude"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Casting"
 msgstr "附魔施法红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Casting"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Efficiency"
 msgstr "附魔效率红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Efficiency"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Endurance"
 msgstr "附魔耐久红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Endurance"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Feather"
 msgstr "附魔羽毛红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Feather"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Keen"
 msgstr "附魔锋利红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Keen"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_Magical Gem Ruby Magnitude"
 msgstr "附魔强度红宝石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby Magnitude"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
 msgid "r_Materials"
 msgstr "材料"
@@ -12406,60 +12633,72 @@ msgstr "用于制作元素卷轴的魔法精华."
 msgid "r_earth essence"
 msgstr "土元素精华"
 
+#, fuzzy
 msgid "desc_r_earth essence"
 msgstr "用于制作卷轴."
 
 msgid "r_Air Essence"
 msgstr "空气元素精华"
 
+#, fuzzy
 msgid "desc_r_Air Essence"
 msgstr "用于制作卷轴."
 
 msgid "r_Fire Essence"
 msgstr "火元素精华"
 
+#, fuzzy
 msgid "desc_r_Fire Essence"
 msgstr "用于制作卷轴."
 
 msgid "r_water essence"
 msgstr "水元素卷轴"
 
+#, fuzzy
 msgid "desc_r_water essence"
 msgstr "用于制作卷轴."
 
+#, fuzzy
 msgid "r_Arcane Essence"
 msgstr "奥术精华"
 
+#, fuzzy
 msgid "desc_r_Arcane Essence"
 msgstr "用于制作卷轴."
 
 msgid "r_greater essence"
 msgstr "高级精华"
 
+#, fuzzy
 msgid "desc_r_greater essence"
 msgstr "用于制作卷轴"
 
 msgid "r_lesser essence"
 msgstr "初级精华"
 
+#, fuzzy
 msgid "desc_r_lesser essence"
 msgstr "用于制作卷轴."
 
+#, fuzzy
 msgid "r_necromancy essence"
 msgstr "死灵精华"
 
+#, fuzzy
 msgid "desc_r_necromancy essence"
 msgstr "用于制作卷轴."
 
 msgid "r_spellchanting essence"
 msgstr "吟唱法术精华"
 
+#, fuzzy
 msgid "desc_r_spellchanting essence"
 msgstr "用于制作卷轴."
 
 msgid "r_witchcraft essence"
 msgstr "巫术精华"
 
+#, fuzzy
 msgid "desc_r_witchcraft essence"
 msgstr "用于制作卷轴."
 
@@ -25448,12 +25687,15 @@ msgstr "此称号给予6点天赋加成."
 msgid "desc_r_Clan Obelisk Altar"
 msgstr "可破坏.可以持有方尖碑.为拥有方尖碑的公会提供福利."
 
+#, fuzzy
 msgid "r_magical gem ruby wisdom"
 msgstr "附魔天赋红宝石"
 
+#, fuzzy
 msgid "r_magical gem ruby Strength"
 msgstr "附魔力量红宝石"
 
+#, fuzzy
 msgid "r_magical gem diamond alfarbane"
 msgstr "附魔暗法诅咒钻石"
 
@@ -25475,6 +25717,7 @@ msgstr "."
 msgid "desc_r_obelisk_chest_melek"
 msgstr "暗法之神梅莱克的神像.当放置在祭坛上时.它会给你的公会加成.延迟敌方城市系统的消息."
 
+#, fuzzy
 msgid "r_magical gem diamond humanbane"
 msgstr "附魔人类诅咒钻石"
 
@@ -25484,18 +25727,22 @@ msgstr "可可豆"
 msgid "r_Schematic Weaving"
 msgstr "编织示意图"
 
+#, fuzzy
 msgid "r_magical gem diamond dexterity"
 msgstr "附魔敏捷钻石"
 
 msgid "desc_r_Cocoa Beans"
 msgstr "制作复活节巧克力彩蛋的稀有可可豆"
 
+#, fuzzy
 msgid "r_magical gem garnet bludgeoningprotection"
 msgstr "附魔锤击防护石榴石"
 
+#, fuzzy
 msgid "r_magical gem diamond intelligence"
 msgstr "附魔智力钻石"
 
+#, fuzzy
 msgid "r_magical gem garnet efficiency"
 msgstr "附魔效率石榴石"
 
@@ -25505,6 +25752,7 @@ msgstr "古玩4"
 msgid "desc_r_admin foundry"
 msgstr "按下F键开始制作."
 
+#, fuzzy
 msgid "r_magical gem garnet strength"
 msgstr "附魔强度石榴石"
 
@@ -25517,30 +25765,36 @@ msgstr "示意图结构"
 msgid "r_Schematic Tailoring"
 msgstr "裁缝示意图"
 
+#, fuzzy
 msgid "r_magical gem diamond dwarfbane"
 msgstr "附魔矮人诅咒钻石"
 
 msgid "r_obelisk_chest_ashaka"
 msgstr "obelisk_chest_ashaka"
 
+#, fuzzy
 msgid "r_magical gem ruby orkbane"
 msgstr "附魔兽人诅咒红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet wisdom"
 msgstr "附魔天赋石榴石"
 
 msgid "r_Obelisks"
 msgstr "方尖碑"
 
+#, fuzzy
 msgid "r_magical gem diamond wisdom"
 msgstr "附魔天赋钻石"
 
 msgid "desc_r_Schematic Weaving"
 msgstr "用于研究编织的示意图."
 
+#, fuzzy
 msgid "r_magical gem garnet dwarfbane"
 msgstr "附魔矮人诅咒石榴石"
 
+#, fuzzy
 msgid "r_magical gem ruby slashingprotection"
 msgstr "附魔剑伤防护红宝石"
 
@@ -25550,18 +25804,23 @@ msgstr "管理铸造厂"
 msgid "desc_r_Obelisk Chests"
 msgstr " "
 
+#, fuzzy
 msgid "r_magical gem ruby fireprotection"
 msgstr "附魔火防红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet piercingprotection"
 msgstr "附魔穿刺防护石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet endurance"
 msgstr "附魔耐力石榴石"
 
+#, fuzzy
 msgid "r_magical gem ruby dragonbane"
 msgstr "附魔龙诅咒红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet golembane"
 msgstr "附魔戈莱姆诅咒石榴石"
 
@@ -25571,12 +25830,14 @@ msgstr "用于研究伐木的示意图."
 msgid "r_curio1"
 msgstr "古玩1"
 
+#, fuzzy
 msgid "r_magical gem diamond quickness"
 msgstr "附魔速度钻石"
 
 msgid "desc_r_obelisk extreme"
 msgstr "极端方尖碑.仅用于发展.东西可能会打破"
 
+#, fuzzy
 msgid "r_magical gem ruby alfarbane"
 msgstr "附魔暗法诅咒红宝石"
 
@@ -25589,39 +25850,47 @@ msgstr "法杖制作示意图"
 msgid "desc_r_Schematic Elemental Blade"
 msgstr "用于研究炼金术的示意图."
 
+#, fuzzy
 msgid "r_magical gem diamond mahirimbane"
 msgstr "附魔狼人诅咒钻石"
 
 msgid "desc_r_Schematic Smelting"
 msgstr "用于研究冶炼的示意图."
 
+#, fuzzy
 msgid "r_magical gem ruby dexterity"
 msgstr "附魔敏捷红宝石"
 
 msgid "r_Obelisk Wand"
 msgstr "方尖碑魔杖"
 
+#, fuzzy
 msgid "r_magical gem garnet mahirimbane"
 msgstr "附魔狼人诅咒石榴石"
 
+#, fuzzy
 msgid "r_magical gem diamond piercingprotection"
 msgstr "附魔穿刺防护钻石"
 
 msgid "r_Schematic Woodcutting"
 msgstr "木材加工示意图"
 
+#, fuzzy
 msgid "r_magical gem garnet casting"
 msgstr "附魔施法石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet magnitude"
 msgstr "附魔强度石榴石"
 
 msgid "r_obelisk_urkhamset"
 msgstr "obelisk_urkhamset"
 
+#, fuzzy
 msgid "r_magical gem ruby dwarfbane"
 msgstr "附魔矮人诅咒红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet keen"
 msgstr "附魔锋利石榴石"
 
@@ -25634,15 +25903,19 @@ msgstr "用于研究工程的示意图."
 msgid "r_obelisk_chest_melek"
 msgstr "obelisk_chest_melek"
 
+#, fuzzy
 msgid "r_magical gem ruby quickness"
 msgstr "附魔速度红宝石"
 
+#, fuzzy
 msgid "r_magical gem ruby vitality"
 msgstr "附魔体力红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet mirdainbane"
 msgstr "附魔精灵诅咒石榴石"
 
+#, fuzzy
 msgid "r_magical gem diamond slashingprotection"
 msgstr "附魔剑伤防护钻石"
 
@@ -25679,12 +25952,14 @@ msgstr "obelisk_melek"
 msgid "desc_r_Schematic Alchemy"
 msgstr "用于研究炼金术的示意图."
 
+#, fuzzy
 msgid "r_magical gem ruby piercingprotection"
 msgstr "附魔穿刺防护红宝石"
 
 msgid "desc_r_obelisk_chest_myrthai"
 msgstr "精灵女神Myrthai的神像.当放置在祭坛上时.它会增强你的公会.提高复活速度."
 
+#, fuzzy
 msgid "r_magical gem garnet undeadbane"
 msgstr "附魔亡灵诅咒石榴石"
 
@@ -25703,21 +25978,26 @@ msgstr "暗法之神梅莱克的神像.当放置在祭坛上时.它会给你的�
 msgid "desc_r_Schematic Shadecraft"
 msgstr "用于研究蓝血装的示意图."
 
+#, fuzzy
 msgid "r_magical gem garnet vitality"
 msgstr "附魔体力石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet slashingprotection"
 msgstr "附魔剑伤防护石榴石"
 
 msgid "r_Schematic Alchemy"
 msgstr "炼金术示意图"
 
+#, fuzzy
 msgid "r_magical gem ruby undeadbane"
 msgstr "附魔亡灵诅咒红宝石"
 
+#, fuzzy
 msgid "r_magical gem diamond bludgeoningprotection"
 msgstr "附魔锤击防护钻石"
 
+#, fuzzy
 msgid "r_magical gem diamond arrowprotection"
 msgstr "附魔箭伤防护钻石"
 
@@ -25733,9 +26013,11 @@ msgstr "原始骨骼"
 msgid "r_Schematic Blank"
 msgstr "空白示意图"
 
+#, fuzzy
 msgid "r_magical gem diamond vitality"
 msgstr "附魔体力钻石"
 
+#, fuzzy
 msgid "r_magical gem diamond orkbane"
 msgstr "附魔兽人诅咒钻石"
 
@@ -25745,6 +26027,7 @@ msgstr "古玩2"
 msgid "desc_r_obelisk_chest_ashaka"
 msgstr "兽人女神阿沙卡的神像.当放置在祭坛上时.它可以增强你的公会.给予强力攻击瞬间斩首敌人的机会."
 
+#, fuzzy
 msgid "r_magical gem garnet intelligence"
 msgstr "附魔智力石榴石"
 
@@ -25766,27 +26049,32 @@ msgstr "obelisk_jisune"
 msgid "desc_r_Schematic Taming"
 msgstr "用于研究驯服的示意图."
 
+#, fuzzy
 msgid "r_magical gem ruby golembane"
 msgstr "附魔戈莱姆诅咒红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet quickness"
 msgstr "附魔速度石榴石"
 
 msgid "desc_r_Schematic Jewelsmithing"
 msgstr "用于研究珠宝制作的示意图."
 
+#, fuzzy
 msgid "r_magical gem diamond fireprotection"
 msgstr "附魔火系防护钻石"
 
 msgid "desc_r_City Element Add Ons"
 msgstr " "
 
+#, fuzzy
 msgid "r_magical gem garnet humanbane"
 msgstr "附魔人类诅咒石榴石"
 
 msgid "r_Schematic Bowyer"
 msgstr "弓箭制作示意图"
 
+#, fuzzy
 msgid "r_magical gem garnet dragonbane"
 msgstr "附魔龙诅咒石榴石"
 
@@ -25802,15 +26090,18 @@ msgstr "用于研究烹饪的示意图."
 msgid "r_Schematic Tanning"
 msgstr "鞣革示意图"
 
+#, fuzzy
 msgid "r_magical gem diamond dragonbane"
 msgstr "附魔龙诅咒钻石"
 
 msgid "r_Schematic Mixing"
 msgstr "调制药剂示意图"
 
+#, fuzzy
 msgid "r_magical gem ruby intelligence"
 msgstr "附魔智力红宝石"
 
+#, fuzzy
 msgid "r_magical gem diamond golembane"
 msgstr "附魔戈莱姆诅咒钻石"
 
@@ -25823,15 +26114,19 @@ msgstr "用于研究裁缝的示意图."
 msgid "r_curio3"
 msgstr "古玩3"
 
+#, fuzzy
 msgid "r_magical gem ruby arrowprotection"
 msgstr "附魔箭伤防护红宝石"
 
+#, fuzzy
 msgid "r_magical gem garnet alfarbane"
 msgstr "附魔暗法诅咒石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet dexterity"
 msgstr "附魔敏捷石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet fireprotection"
 msgstr "附魔火系防护石榴石"
 
@@ -25850,6 +26145,7 @@ msgstr "精灵女神Myrthai的神像.当放置在祭坛上时.它会增强你的
 msgid "desc_r_curio5"
 msgstr "我得到了半神oncyus提供给他最忠实的追随者的利益."
 
+#, fuzzy
 msgid "r_magical gem ruby mahirimbane"
 msgstr "附魔狼人诅咒红宝石"
 
@@ -25862,9 +26158,11 @@ msgstr "刻图示意图"
 msgid "r_Clan Obelisk Altar"
 msgstr "公会方尖碑祭坛"
 
+#, fuzzy
 msgid "r_magical gem garnet orkbane"
 msgstr "附魔兽人诅咒石榴石"
 
+#, fuzzy
 msgid "r_magical gem garnet feather"
 msgstr "附魔羽毛石榴石"
 
@@ -25883,6 +26181,7 @@ msgstr "冶炼示意图"
 msgid "r_obelisk wealth"
 msgstr "财富方尖碑"
 
+#, fuzzy
 msgid "r_magical gem ruby humanbane"
 msgstr "附魔人类诅咒红宝石"
 
@@ -25895,6 +26194,7 @@ msgstr "元素之刃示意图"
 msgid "r_City Element Add Ons"
 msgstr "城市元素附加组件"
 
+#, fuzzy
 msgid "r_magical gem ruby bludgeoningprotection"
 msgstr "附魔锤击防护红宝石"
 
@@ -25907,12 +26207,14 @@ msgstr "一个原始的骨头.仍然完好无损!"
 msgid "desc_r_Schematic Blank"
 msgstr "在项目上使用此项目创建研究示意图!"
 
+#, fuzzy
 msgid "r_magical gem diamond undeadbane"
 msgstr "附魔亡灵诅咒钻石"
 
 msgid "r_obelisk_chest_jisune"
 msgstr "obelisk_chest_jisune"
 
+#, fuzzy
 msgid "r_magical gem garnet arrowprotection"
 msgstr "附魔箭伤防护石榴石"
 
@@ -25928,20 +26230,31 @@ msgstr "用于研究武器装备的示意图."
 msgid "r_Schematic Jewelsmithing"
 msgstr "珠宝制造示意图"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Ruby static"
-msgstr "可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质4的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "r_magical gem diamond mirdainbane"
 msgstr "附魔精灵诅咒钻石"
 
+#, fuzzy
 msgid "r_magical gem diamond strength"
 msgstr "附魔力量钻石"
 
+#, fuzzy
 msgid "desc_r_Magical Gem Diamond static"
-msgstr "可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质5的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
+#, fuzzy
 msgid "desc_r_Magical Gem Garnet static"
-msgstr "可以给物品附魔,品质3的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物品."
+msgstr ""
+"可以给物品附魔,品质3的附魔石.要转移它的力量,双击宝石,然后点击你想要附魔的物"
+"品."
 
 #, fuzzy
 msgid "r_magical gem ruby mirdainbane"
