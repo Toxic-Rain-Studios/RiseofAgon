@@ -901,6 +901,13 @@ msgstr "Lawless players are attacked regardless of their Alignment."
 msgid "alignmentbar_tooltip"
 msgstr "%3: %1 of %2"
 
+msgid "altar_header"
+msgstr "Serving %1 as %2 - Devotion %3 - %4: %5"
+
+msgid "altar_header_none"
+msgstr ""
+"You serve no god. Devote yourself at an altar to gain Devotion and rank."
+
 msgid "application_window_title"
 msgstr "Rise of Agon"
 
@@ -915,6 +922,15 @@ msgstr "Are you sure you want to quit Rise of Agon?"
 
 msgid "armor_damage_multiplier"
 msgstr "Damage Multiplier"
+
+msgid "attune_button"
+msgstr "Attune"
+
+msgid "attune_status_attuned"
+msgstr "%1: attuned."
+
+msgid "attune_status_cost"
+msgstr "%1: attunement costs %2 gold."
 
 msgid "auto_eat_options_description"
 msgstr ""
@@ -1550,6 +1566,9 @@ msgstr "Esc to stop"
 # ---- Slayer cache auto-open cursor ----
 msgid "cache_auto_open_title"
 msgstr "Opening caches"
+
+msgid "cache_open_failed_returned"
+msgstr "The cache could not be opened. It has been returned to your pack."
 
 msgid "cancel"
 msgstr "Cancel"
@@ -4428,6 +4447,24 @@ msgstr "Active"
 msgid "cosmetic_already_owned"
 msgstr "You already own this cosmetic. Your scroll has not been consumed."
 
+msgid "cosmetic_aura_ashaka"
+msgstr "Ashaka's Aura"
+
+msgid "cosmetic_aura_auros"
+msgstr "Auros' Aura"
+
+msgid "cosmetic_aura_lorathai"
+msgstr "Lorathai's Aura"
+
+msgid "cosmetic_aura_melek"
+msgstr "Melek's Aura"
+
+msgid "cosmetic_aura_valdazeer"
+msgstr "Valdazeer's Aura"
+
+msgid "cosmetic_aura_ymir"
+msgstr "Ymir's Aura"
+
 msgid "cosmetic_default"
 msgstr "Use Default"
 
@@ -4984,6 +5021,9 @@ msgstr ""
 "a golden sun pommel unite the Righteous Trinity in this one-handed sword "
 "skin."
 
+msgid "devotion_aura_already_owned"
+msgstr "You already own this aura."
+
 msgid "devotion_confirm_drain"
 msgstr "Every devotion you earn for %1 takes one point from it."
 
@@ -5007,6 +5047,18 @@ msgstr "You return with %1 devotion (%2)."
 
 msgid "devotion_confirm_switch_title"
 msgstr "Devote yourself to %1?"
+
+msgid "devotion_purchase_done"
+msgstr "[%1] %2 grants you an offering. %3 %4 left."
+
+msgid "devotion_purchase_failed"
+msgstr "The offering could not be granted. Your favor was returned."
+
+msgid "devotion_purchase_no_favor"
+msgstr "[%1] You need %2 %3 for that - you have %4."
+
+msgid "devotion_purchase_pending"
+msgstr "Your last offering is still being prepared. Try again in a moment."
 
 msgid "devotion_title"
 msgstr "Devotion"
@@ -14677,6 +14729,47 @@ msgstr "Your pet collection is unavailable right now. Please try again."
 msgid "pet_error_toy"
 msgstr "That toy cannot be used."
 
+msgid "pilgrimage_entry"
+msgstr "Entry: %1 gold."
+
+msgid "pilgrimage_favor_generic"
+msgstr "Favor"
+
+msgid "pilgrimage_no_travel"
+msgstr "You cannot travel that way while on a pilgrimage."
+
+msgid "pilgrimage_offering_at_risk"
+msgstr "Offering at risk: %1 gold."
+
+msgid "pilgrimage_on"
+msgstr "ON PILGRIMAGE"
+
+msgid "pilgrimage_reward"
+msgstr "Reward: %1 %2 and %3 devotion."
+
+msgid "pilgrimage_stop_of"
+msgstr "Stop %1 of %2: %3"
+
+msgid "pilgrimage_tier_grand"
+msgstr "Grand pilgrimage"
+
+msgid "pilgrimage_tier_head"
+msgstr "%1. Stops: %2."
+
+msgid "pilgrimage_tier_long"
+msgstr "Long pilgrimage"
+
+msgid "pilgrimage_tier_medium"
+msgstr "Medium pilgrimage"
+
+msgid "pilgrimage_tier_short"
+msgstr "Short pilgrimage"
+
+msgid "pilgrimage_warning"
+msgstr ""
+"Beginning a pilgrimage makes you vulnerable to attack. You may lose all "
+"equipment and inventory if killed, including in yellow zones."
+
 msgid "playerstats_armor_penalties"
 msgstr "Armor Penalties"
 
@@ -15086,6 +15179,9 @@ msgstr "Mirdain"
 
 msgid "race_ork"
 msgstr "Ork"
+
+msgid "relic_no_travel"
+msgstr "You cannot travel that way while carrying a relic."
 
 msgid "repair_bank_gold_label"
 msgstr "Bank: %1"
@@ -17909,6 +18005,39 @@ msgstr ""
 msgid "text"
 msgstr "text"
 
+msgid "tithe_bad_amount"
+msgstr "Tithe in multiples of 100 gold."
+
+msgid "tithe_balance_favor"
+msgstr "%1 you hold: %2"
+
+msgid "tithe_balance_gold"
+msgstr "Gold you carry: %1"
+
+msgid "tithe_button"
+msgstr "Tithe"
+
+msgid "tithe_done"
+msgstr "You sacrifice %1 gold. %2 grants you %3 favor."
+
+msgid "tithe_favor"
+msgstr "%1 to receive: %2"
+
+msgid "tithe_gold"
+msgstr "Gold to sacrifice: %1"
+
+msgid "tithe_irreversible"
+msgstr "This sacrifice cannot be undone."
+
+msgid "tithe_no_god"
+msgstr "You must serve a god to tithe."
+
+msgid "tithe_not_enough_gold"
+msgstr "You do not carry that much gold."
+
+msgid "tithe_title"
+msgstr "Tithe to %1"
+
 msgid "titles_change_confirm_dialog_description"
 msgstr ""
 "Changing your title is not permanent and you can change back at any time."
@@ -18024,6 +18153,33 @@ msgstr "Encumbrance Indicator"
 
 msgid "trading_window_title"
 msgstr "Player Trade"
+
+msgid "travel_button"
+msgstr "Travel"
+
+msgid "travel_confirm_cost"
+msgstr "Cost: %1 %2"
+
+msgid "travel_confirm_destination"
+msgstr "Destination: %1"
+
+msgid "travel_confirm_title"
+msgstr "Travel to %1"
+
+msgid "travel_consumes"
+msgstr "Divine Travel consumes Favor, not gold."
+
+msgid "travel_rank"
+msgstr "Rank %1: %2"
+
+msgid "travel_row"
+msgstr "%1: base %2, %3, final %4"
+
+msgid "travel_row_attuned"
+msgstr "Attuned."
+
+msgid "travel_title"
+msgstr "Divine Travel"
 
 msgid "treasuremap_window_title"
 msgstr "Treasure Map"

@@ -14042,6 +14042,24 @@ msgstr "Invalid race type"
 msgid "RACE_CHANGE_ERROR_NO_CHANGE"
 msgstr "You picked the same race and gender! Try a new combination."
 
+msgid "attune_already"
+msgstr "This shrine is already attuned to you."
+
+msgid "attune_done"
+msgstr "%1 is now attuned to you, for good."
+
+msgid "attune_need_pilgrimage"
+msgstr "You must be on a pilgrimage to attune a shrine."
+
+msgid "attune_not_enough_gold"
+msgstr "You do not carry enough gold to attune this shrine."
+
+msgid "attune_not_here"
+msgstr "Stand at that shrine to attune it."
+
+msgid "attune_wrong_god"
+msgstr "You can only attune the shrines of the god you serve."
+
 msgid "bank_withdraw_refunded"
 msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
@@ -14300,6 +14318,9 @@ msgstr "Your prayer is broken: you strayed from the shrine."
 msgid "pilgrimage_break_player_damage"
 msgstr "Your prayer is broken: another's blade found you."
 
+msgid "pilgrimage_choose_tier"
+msgstr "Choose a pilgrimage: Short, Medium, Long or Grand."
+
 msgid "pilgrimage_complete"
 msgstr "Pilgrimage complete! +%2 Devotion, +%3 %1."
 
@@ -14309,11 +14330,11 @@ msgstr "Your pilgrimage ends in death. You may set out again in a day."
 msgid "pilgrimage_end_stopped"
 msgstr "You abandon your pilgrimage. You may set out again in a day."
 
-msgid "pilgrimage_hunted_bonus"
-msgstr "%1 rivals hunted you on average: your reward was multiplied by %2."
-
 msgid "pilgrimage_next_shrine"
 msgstr "Your prayer is heard. The next shrine is revealed: %1."
+
+msgid "pilgrimage_not_enough_gold"
+msgstr "You do not carry enough gold for that pilgrimage's offering."
 
 msgid "pilgrimage_refusal_already_on"
 msgstr "You are already on a pilgrimage."
@@ -14351,9 +14372,7 @@ msgstr ""
 "break the rite."
 
 msgid "pilgrimage_rivals_warning"
-msgstr ""
-"Your rivals can see you on their maps. The more of them abroad, the greater "
-"your reward."
+msgstr "Your rivals can see you on their maps."
 
 msgid "pilgrimage_started"
 msgstr "You set out on a pilgrimage. The first shrine is revealed: %1."
@@ -14380,6 +14399,45 @@ msgstr "Rare"
 
 msgid "slayer_rarity_3"
 msgstr "Epic"
+
+msgid "travel_cancelled"
+msgstr "Your journey is interrupted."
+
+msgid "travel_cannot_now"
+msgstr "You cannot travel the divine way right now."
+
+msgid "travel_carrying"
+msgstr "You cannot travel the divine way while carrying a relic or an obelisk."
+
+msgid "travel_done"
+msgstr "%1 carries you onward. %2 favor spent."
+
+msgid "travel_from_not_attuned"
+msgstr "You are not attuned to this shrine."
+
+msgid "travel_in_progress"
+msgstr "You are already on a journey."
+
+msgid "travel_not_enough_favor"
+msgstr "You do not have enough favor for that journey."
+
+msgid "travel_not_here"
+msgstr "Stand at a shrine of your god to travel from it."
+
+msgid "travel_on_pilgrimage"
+msgstr "You cannot travel the divine way during a pilgrimage."
+
+msgid "travel_started"
+msgstr "You begin the journey to %1."
+
+msgid "travel_to_not_attuned"
+msgstr "You are not attuned to that shrine."
+
+msgid "travel_way_unknown"
+msgstr "The way to that shrine is not yet known."
+
+msgid "travel_wrong_god"
+msgstr "Only your own god's shrines answer you."
 
 msgid "trigger_ff32_archaeus_cave"
 msgstr ""

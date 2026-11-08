@@ -458,6 +458,9 @@ msgstr "Obelisk Haste Reviving"
 msgid "Obelisk Quickening Drink"
 msgstr "Obelisk Quickening Drink"
 
+msgid "On Pilgrimage"
+msgstr "ON PILGRIMAGE"
+
 msgid "Opening"
 msgstr "Opening"
 
@@ -1192,6 +1195,13 @@ msgstr " "
 
 msgid "desc_Obelisk Quickening Drink"
 msgstr " "
+
+msgid "desc_On Pilgrimage"
+msgstr ""
+"You are on a pilgrimage: other players may attack you without losing "
+"alignment, and you may lose all equipment and inventory if killed, including "
+"in yellow zones. NPC cities and capitals still protect you, after a short "
+"wait."
 
 msgid "desc_Opening"
 msgstr ""
