@@ -923,15 +923,6 @@ msgstr "Are you sure you want to quit Rise of Agon?"
 msgid "armor_damage_multiplier"
 msgstr "Damage Multiplier"
 
-msgid "attune_button"
-msgstr "Attune"
-
-msgid "attune_status_attuned"
-msgstr "%1: attuned."
-
-msgid "attune_status_cost"
-msgstr "%1: attunement costs %2 gold."
-
 msgid "auto_eat_options_description"
 msgstr ""
 "Eats a meal from the food slot while you are in combat. Set a key to switch "
@@ -18153,33 +18144,6 @@ msgstr "Encumbrance Indicator"
 
 msgid "trading_window_title"
 msgstr "Player Trade"
-
-msgid "travel_button"
-msgstr "Travel"
-
-msgid "travel_confirm_cost"
-msgstr "Cost: %1 %2"
-
-msgid "travel_confirm_destination"
-msgstr "Destination: %1"
-
-msgid "travel_confirm_title"
-msgstr "Travel to %1"
-
-msgid "travel_consumes"
-msgstr "Divine Travel consumes Favor, not gold."
-
-msgid "travel_rank"
-msgstr "Rank %1: %2"
-
-msgid "travel_row"
-msgstr "%1: base %2, %3, final %4"
-
-msgid "travel_row_attuned"
-msgstr "Attuned."
-
-msgid "travel_title"
-msgstr "Divine Travel"
 
 msgid "treasuremap_window_title"
 msgstr "Treasure Map"

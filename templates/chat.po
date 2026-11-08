@@ -14042,24 +14042,6 @@ msgstr "Invalid race type"
 msgid "RACE_CHANGE_ERROR_NO_CHANGE"
 msgstr "You picked the same race and gender! Try a new combination."
 
-msgid "attune_already"
-msgstr "This shrine is already attuned to you."
-
-msgid "attune_done"
-msgstr "%1 is now attuned to you, for good."
-
-msgid "attune_need_pilgrimage"
-msgstr "You must be on a pilgrimage to attune a shrine."
-
-msgid "attune_not_enough_gold"
-msgstr "Your wallet does not hold enough gold to attune this shrine."
-
-msgid "attune_not_here"
-msgstr "Stand at that shrine to attune it."
-
-msgid "attune_wrong_god"
-msgstr "You can only attune the shrines of the god you serve."
-
 msgid "bank_withdraw_refunded"
 msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
@@ -14672,45 +14654,6 @@ msgstr "Rare"
 
 msgid "slayer_rarity_3"
 msgstr "Epic"
-
-msgid "travel_cancelled"
-msgstr "Your journey is interrupted."
-
-msgid "travel_cannot_now"
-msgstr "You cannot travel the divine way right now."
-
-msgid "travel_carrying"
-msgstr "You cannot travel the divine way while carrying a relic or an obelisk."
-
-msgid "travel_done"
-msgstr "%1 carries you onward. %2 favor spent."
-
-msgid "travel_from_not_attuned"
-msgstr "You are not attuned to this shrine."
-
-msgid "travel_in_progress"
-msgstr "You are already on a journey."
-
-msgid "travel_not_enough_favor"
-msgstr "You do not have enough favor for that journey."
-
-msgid "travel_not_here"
-msgstr "Stand at a shrine of your god to travel from it."
-
-msgid "travel_on_pilgrimage"
-msgstr "You cannot travel the divine way during a pilgrimage."
-
-msgid "travel_started"
-msgstr "You begin the journey to %1."
-
-msgid "travel_to_not_attuned"
-msgstr "You are not attuned to that shrine."
-
-msgid "travel_way_unknown"
-msgstr "The way to that shrine is not yet known."
-
-msgid "travel_wrong_god"
-msgstr "Only your own god's shrines answer you."
 
 msgid "trigger_ff32_archaeus_cave"
 msgstr ""
