@@ -14077,6 +14077,279 @@ msgstr "the kit's name"
 msgid "chat_cmd_playtime_desc"
 msgstr "shows how long you have played this session and in total"
 
+msgid "chat_level_at_max"
+msgstr "%1 is already at its maximum (%2)."
+
+msgid "chat_level_attribute_ceiling"
+msgstr "%1 is at %2; points raise attributes up to %3."
+
+msgid "chat_level_attribute_only"
+msgstr ""
+"Only Strength, Dexterity, Vitality, Quickness, Intelligence and Wisdom can "
+"be raised with points."
+
+msgid "chat_level_backfill"
+msgstr ""
+"Your adventures since launch are worth character level %1, so your character "
+"is now level %1."
+
+msgid "chat_level_backfill_debt"
+msgstr "%1 attribute points to the attributes you already have"
+
+msgid "chat_level_backfill_paid"
+msgstr ""
+"Your adventures since launch are worth character level %1, so your character "
+"is now level %1 (%2)."
+
+msgid "chat_level_backfill_paid_and_debt"
+msgstr "%1; %2"
+
+msgid "chat_level_cant_buy"
+msgstr "%1 can't be bought with points: %2."
+
+msgid "chat_level_ceiling_level"
+msgstr "%1 is at %2; points raise skills only up to your character level (%3)."
+
+msgid "chat_level_ceiling_until"
+msgstr ""
+"%1 is at %2; points raise it only up to %3 until your character level passes "
+"that."
+
+msgid "chat_level_dev_level"
+msgstr "DEV: level set to %1 (points unchanged)."
+
+msgid "chat_level_dev_points_attribute"
+msgstr "DEV: %1 attribute points."
+
+msgid "chat_level_dev_points_skill"
+msgstr "DEV: %1 skill points."
+
+msgid "chat_level_dev_xp"
+msgstr "DEV: +%1 XP."
+
+msgid "chat_level_dev_xp_levels"
+msgstr "DEV: +%1 XP (%2 level(s))."
+
+msgid "chat_level_drop_busy_attribute"
+msgstr "All %1 of your attribute points are already being spent."
+
+msgid "chat_level_drop_busy_shared"
+msgstr "All %1 of your points are already being spent."
+
+msgid "chat_level_drop_busy_skill"
+msgstr "All %1 of your skill points are already being spent."
+
+msgid "chat_level_drop_none_attribute"
+msgstr "You have no attribute points to spend."
+
+msgid "chat_level_drop_none_shared"
+msgstr "You have no points to spend."
+
+msgid "chat_level_drop_none_skill"
+msgstr "You have no skill points to spend."
+
+msgid "chat_level_grant"
+msgstr ""
+"Your combat skills and spells are worth character level %1, so your "
+"character is now level %1."
+
+msgid "chat_level_grant_above"
+msgstr ""
+"Skills above your level can be raised with points once your level passes "
+"them."
+
+msgid "chat_level_grant_debt"
+msgstr ""
+"Your attributes are already worth %1 attribute points more than this level "
+"pays; new attribute points go to them first."
+
+msgid "chat_level_grant_paid"
+msgstr ""
+"Your combat skills and spells are worth character level %1, so your "
+"character is now level %1 (%2)."
+
+msgid "chat_level_island_cap"
+msgstr "You can't raise skills past %1 on the island."
+
+msgid "chat_level_knee_reached"
+msgstr "From here each level takes much longer."
+
+# Character levels (#837): the [Level] chat lines - level-ups, rested XP, /level, spending skill and attribute points.
+# %1, %2 ... are filled in by the game: numbers, skill and attribute names, or another chat_level_ line.
+msgid "chat_level_line"
+msgstr "[Level] %1"
+
+msgid "chat_level_max_reached"
+msgstr "Maximum level - character XP stops here."
+
+msgid "chat_level_milestone_bonus"
+msgstr "Milestone bonus included."
+
+msgid "chat_level_milestone_bonus_attribute"
+msgstr "Attribute point milestone bonus included."
+
+msgid "chat_level_no_such_skill"
+msgstr "There is no skill called '%1'."
+
+msgid "chat_level_not_enough"
+msgstr "Not enough points: %1 to %2 costs %3, you have %4."
+
+msgid "chat_level_not_enough_attribute"
+msgstr "Not enough attribute points: %1 to %2 costs %3, you have %4."
+
+msgid "chat_level_not_raised"
+msgstr "%1 could not be raised - no points were spent."
+
+msgid "chat_level_not_rested"
+msgstr "Not rested (you bank %1 bonus XP every day, up to %2 days)."
+
+msgid "chat_level_not_rested_offline"
+msgstr ""
+"Not rested (you bank %1 bonus XP for every day logged out, up to %2 days)."
+
+msgid "chat_level_not_trainable"
+msgstr "%1 can't be trained with points."
+
+msgid "chat_level_off"
+msgstr "Character levels are switched off."
+
+msgid "chat_level_points_ap"
+msgstr "+%1 attribute points"
+
+msgid "chat_level_points_both"
+msgstr "+%1 skill points, +%2 attribute points"
+
+msgid "chat_level_points_debt_only"
+msgstr "%1 to the attributes you already have"
+
+msgid "chat_level_points_sp"
+msgstr "+%1 skill points"
+
+msgid "chat_level_points_with_debt"
+msgstr "%1 (%2 to the attributes you already have)"
+
+msgid "chat_level_progress_max"
+msgstr "maximum level"
+
+msgid "chat_level_progress_next"
+msgstr "%1 / %2 XP to level %3"
+
+msgid "chat_level_reached"
+msgstr "Level %1 reached."
+
+msgid "chat_level_reached_points"
+msgstr "Level %1 reached: %2."
+
+msgid "chat_level_rebalanced"
+msgstr "Points rebalanced for the levels you already have: %1."
+
+msgid "chat_level_refuse_crafting"
+msgstr "crafting skills level through use only"
+
+msgid "chat_level_refuse_general"
+msgstr "general skills level through use only"
+
+msgid "chat_level_refuse_harvesting"
+msgstr "harvesting skills level through use only"
+
+msgid "chat_level_refuse_mastery"
+msgstr "mastery levels come from the mastery itself"
+
+msgid "chat_level_refuse_no_levels"
+msgstr "it has no levels to buy"
+
+msgid "chat_level_refuse_no_skill"
+msgstr "no such skill"
+
+msgid "chat_level_refuse_other"
+msgstr "it is not trained with points"
+
+msgid "chat_level_refuse_racial"
+msgstr "racial skills are not trained with points"
+
+msgid "chat_level_refuse_research"
+msgstr "it levels through research"
+
+msgid "chat_level_refuse_research_off"
+msgstr "research professions are not trained with points right now"
+
+msgid "chat_level_refuse_school_passive"
+msgstr "it rises with its school"
+
+msgid "chat_level_refuse_slayer"
+msgstr "the Slayer level comes from Slayer contracts"
+
+msgid "chat_level_refuse_weapon_family"
+msgstr "buy %1 instead - every weapon's version follows it"
+
+msgid "chat_level_reset_instance"
+msgstr "You can't reset skill points in an instance."
+
+msgid "chat_level_reset_unavailable"
+msgstr "Your character can't be changed right now."
+
+msgid "chat_level_rested_double"
+msgstr "double"
+
+msgid "chat_level_rested_left"
+msgstr "Rested: %1 bonus XP left (%2 XP)."
+
+msgid "chat_level_rested_now"
+msgstr "You are rested: %1 character XP for the next %2 bonus XP."
+
+msgid "chat_level_rested_spent"
+msgstr "You are no longer rested."
+
+msgid "chat_level_rested_times"
+msgstr "x%1"
+
+msgid "chat_level_spend_combat"
+msgstr "You can't spend skill points in combat."
+
+msgid "chat_level_spend_disabled"
+msgstr "Spending skill points is switched off right now."
+
+msgid "chat_level_spend_instance"
+msgstr "Skill points can't be spent in an instance."
+
+msgid "chat_level_spend_off"
+msgstr "Skill points are switched off."
+
+msgid "chat_level_spent_learned"
+msgstr "Spent %1 point(s): learned %2."
+
+msgid "chat_level_spent_raised"
+msgstr "Spent %1 point(s): %2 %3 -> %4."
+
+msgid "chat_level_status"
+msgstr "Level %1 (%2)."
+
+msgid "chat_level_unknown_skill"
+msgstr "You don't know %1 yet."
+
+msgid "chat_level_usage_attribute"
+msgstr ""
+"Usage: /attribute_points_spend <Strength|Dexterity|Vitality|Quickness|"
+"Intelligence|Wisdom> [points 1-99 | max]"
+
+msgid "chat_level_usage_skill"
+msgstr "Usage: /skill_points_spend \"<skill>\" [levels 1-99 | max]"
+
+msgid "chat_level_wallet"
+msgstr "Skill points: %1, attribute points: %2."
+
+msgid "chat_level_wallet_shared"
+msgstr "Points: %1 (attribute points count as skill points)."
+
+msgid "chat_level_xp_gain"
+msgstr "+%1 character XP (level %2: %3)"
+
+msgid "chat_level_xp_gain_rested"
+msgstr "+%1 character XP (%2 rested) (level %3: %4)"
+
+msgid "chat_level_xp_progress"
+msgstr "%1 / %2"
+
 msgid "chat_midi_all_devices"
 msgstr "all devices"
 
