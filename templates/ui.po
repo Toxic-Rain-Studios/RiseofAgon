@@ -4984,6 +4984,30 @@ msgstr ""
 "a golden sun pommel unite the Righteous Trinity in this one-handed sword "
 "skin."
 
+msgid "devotion_confirm_drain"
+msgstr "Every devotion you earn for %1 takes one point from it."
+
+msgid "devotion_confirm_favor"
+msgstr "Your favor stays."
+
+msgid "devotion_confirm_first_title"
+msgstr "Devote yourself to %1?"
+
+msgid "devotion_confirm_kept"
+msgstr "Your %1 devotion to %2 (%3) is kept, but inactive."
+
+msgid "devotion_confirm_lock_first"
+msgstr "Once devoted, you cannot change gods for %1."
+
+msgid "devotion_confirm_lock_switch"
+msgstr "You cannot change gods again for %1."
+
+msgid "devotion_confirm_returning"
+msgstr "You return with %1 devotion (%2)."
+
+msgid "devotion_confirm_switch_title"
+msgstr "Devote yourself to %1?"
+
 msgid "devotion_title"
 msgstr "Devotion"
 
