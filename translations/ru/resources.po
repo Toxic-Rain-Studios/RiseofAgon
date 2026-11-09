@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-08 18:17+0000\n"
+"PO-Revision-Date: 2026-11-09 12:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/ru/>\n"
@@ -4850,6 +4850,7 @@ msgstr "Описание r_trees"
 msgid "r_Store Items"
 msgstr "Складские предметы"
 
+#, fuzzy
 msgid "desc_r_Store Items"
 msgstr "Описание элементов r_store"
 
@@ -4926,6 +4927,7 @@ msgstr "Описание r_items"
 msgid "r_Monster Toys"
 msgstr "Монстровые игрушки"
 
+#, fuzzy
 msgid "desc_r_Monster Toys"
 msgstr "Игрушки-монстры."
 
@@ -6309,6 +6311,7 @@ msgstr "Коллекционная игрушка, которая вызывае
 msgid "r_Ammo"
 msgstr "Патроны"
 
+#, fuzzy
 msgid "desc_r_Ammo"
 msgstr "Описание r_ammo"
 
@@ -6352,6 +6355,7 @@ msgstr "Стрела предназначена для того, чтобы ле
 msgid "r_Elemental Arrows"
 msgstr "Элементарные стрелы"
 
+#, fuzzy
 msgid "desc_r_Elemental Arrows"
 msgstr "Элементарные стрелки описание"
 
@@ -6574,6 +6578,7 @@ msgstr "Описание r_apparel"
 msgid "r_Accessories"
 msgstr "Аксессуары"
 
+#, fuzzy
 msgid "desc_r_Accessories"
 msgstr "Описание r_accessories"
 
@@ -7076,6 +7081,7 @@ msgstr "Защита Torso для авантюристов с ограничен
 msgid "r_Armor Dragon"
 msgstr "Броня дракона"
 
+#, fuzzy
 msgid "desc_r_Armor Dragon"
 msgstr " "
 
@@ -7208,6 +7214,7 @@ msgstr "Металлическая броня, защищающая тулови
 msgid "r_Armor Infernal"
 msgstr "Броня адская"
 
+#, fuzzy
 msgid "desc_r_Armor Infernal"
 msgstr " "
 
@@ -8015,6 +8022,7 @@ msgstr "Как носили крестьяне и рабочие."
 msgid "r_Hats"
 msgstr "Шляпы"
 
+#, fuzzy
 msgid "desc_r_Hats"
 msgstr "  "
 
@@ -8061,6 +8069,7 @@ msgstr ""
 msgid "r_Masks"
 msgstr "Маски"
 
+#, fuzzy
 msgid "desc_r_Masks"
 msgstr "  "
 
@@ -8209,6 +8218,7 @@ msgstr "Простой кусок одежды."
 msgid "r_Shields"
 msgstr "Щиты"
 
+#, fuzzy
 msgid "desc_r_Shields"
 msgstr " "
 
@@ -8629,6 +8639,7 @@ msgstr "Огромный щит, обеспечивающий отличную �
 msgid "r_Clan Shards"
 msgstr "Клановые осколки"
 
+#, fuzzy
 msgid "desc_r_Clan Shards"
 msgstr " "
 
@@ -8714,6 +8725,7 @@ msgstr " "
 msgid "r_Elixirs"
 msgstr "Эликсиры"
 
+#, fuzzy
 msgid "desc_r_Elixirs"
 msgstr " "
 
@@ -9500,6 +9512,7 @@ msgstr "Практичный для сортировки инвентаря"
 msgid "r_Dynamic Clan Bindstone Items"
 msgstr "Динамический клан Bindstone единиц"
 
+#, fuzzy
 msgid "desc_r_Dynamic Clan Bindstone Items"
 msgstr " "
 
@@ -9598,12 +9611,14 @@ msgstr ""
 msgid "r_Figurines"
 msgstr "Фигурки"
 
+#, fuzzy
 msgid "desc_r_Figurines"
 msgstr " "
 
 msgid "r_Figurines Boats"
 msgstr "Статуэтки лодок"
 
+#, fuzzy
 msgid "desc_r_Figurines Boats"
 msgstr " "
 
@@ -9675,6 +9690,7 @@ msgstr ""
 msgid "r_Figurines Tier2 Boats"
 msgstr "Корабли типа Tier2"
 
+#, fuzzy
 msgid "desc_r_Figurines Tier2 Boats"
 msgstr ""
 "Содержит плавучие суда от более крупных кораблей до полноразмерных военных "
@@ -9729,6 +9745,7 @@ msgstr ""
 msgid "r_Figurines Guns"
 msgstr "Статуэтки ружья"
 
+#, fuzzy
 msgid "desc_r_Figurines Guns"
 msgstr " "
 
@@ -9753,6 +9770,7 @@ msgstr "Эта фигурка может вызвать миномет."
 msgid "r_Figurines Mounts"
 msgstr "Статуэтки крепятся"
 
+#, fuzzy
 msgid "desc_r_Figurines Mounts"
 msgstr "Эта волшебная фигурка может быть превращена в лошадь."
 
@@ -9824,6 +9842,7 @@ msgstr " "
 msgid "r_Figurines Warhulks"
 msgstr "Статуэтки Warhulks"
 
+#, fuzzy
 msgid "desc_r_Figurines Warhulks"
 msgstr " "
 
@@ -9896,6 +9915,7 @@ msgstr "Суммонс супер весело Захвати флаг Халк�
 msgid "r_Fish"
 msgstr "Рыба"
 
+#, fuzzy
 msgid "desc_r_Fish"
 msgstr " "
 
@@ -9963,6 +9983,7 @@ msgstr ""
 msgid "r_Fun Flags End items"
 msgstr "Веселые флаги заканчиваются"
 
+#, fuzzy
 msgid "desc_r_Fun Flags End items"
 msgstr " "
 
@@ -9975,6 +9996,7 @@ msgstr "Дважды щелкните пункт, чтобы разместит�
 msgid "r_Fun Flags Middle items"
 msgstr "Веселые флаги в середине"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Middle items"
 msgstr " "
 
@@ -9999,6 +10021,7 @@ msgstr "Дважды щелкните пункт, чтобы разместит�
 msgid "r_Fun Flags Start items"
 msgstr "Веселые флаги запускают предметы"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Start items"
 msgstr " "
 
@@ -10043,6 +10066,7 @@ msgstr "Все, что нужно для личного магазина. Дво
 msgid "r_Heads"
 msgstr "Голова"
 
+#, fuzzy
 msgid "desc_r_Heads"
 msgstr "Описание r_heads"
 
@@ -10210,12 +10234,14 @@ msgstr "Материал, используемый в процессе дома�
 msgid "r_Buildables"
 msgstr "Строительные материалы"
 
+#, fuzzy
 msgid "desc_r_Buildables"
 msgstr " "
 
 msgid "r_Exterior Objects"
 msgstr "Внешние предметы"
 
+#, fuzzy
 msgid "desc_r_Exterior Objects"
 msgstr " "
 
@@ -10364,6 +10390,7 @@ msgstr ""
 msgid "r_Interior Objects"
 msgstr "Внутренние предметы"
 
+#, fuzzy
 msgid "desc_r_Interior Objects"
 msgstr " "
 
@@ -10776,6 +10803,7 @@ msgstr ""
 msgid "r_Permits"
 msgstr "Разрешения"
 
+#, fuzzy
 msgid "desc_r_Permits"
 msgstr " "
 
@@ -10790,6 +10818,7 @@ msgstr ""
 msgid "r_Deeds"
 msgstr "Деяния"
 
+#, fuzzy
 msgid "desc_r_Deeds"
 msgstr " "
 
@@ -10872,6 +10901,7 @@ msgstr "Ключ от твоего дома."
 msgid "r_Keys"
 msgstr "Ключи"
 
+#, fuzzy
 msgid "desc_r_Keys"
 msgstr "Металлический ключ."
 
@@ -12798,6 +12828,7 @@ msgstr "Схема, используемая при исследовании к�
 msgid "r_Reagents"
 msgstr "Реагенты"
 
+#, fuzzy
 msgid "desc_r_Reagents"
 msgstr ""
 "Все предметы, как правило, в результате покраснения кожи, используются в "
@@ -12851,6 +12882,7 @@ msgstr "Пепел является реагентом, используемым
 msgid "r_Magical Gems"
 msgstr "Волшебные драгоценные камни"
 
+#, fuzzy
 msgid "desc_r_Magical Gems"
 msgstr "Описание r_magical gems"
 
@@ -13538,6 +13570,7 @@ msgstr ""
 msgid "r_Materials"
 msgstr "Материалы"
 
+#, fuzzy
 msgid "desc_r_Materials"
 msgstr ""
 "Все предметы, как правило, в результате покраснения кожи, используются в "
@@ -13673,6 +13706,7 @@ msgstr ""
 msgid "r_Cottons"
 msgstr "Хлопок"
 
+#, fuzzy
 msgid "desc_r_Cottons"
 msgstr "Описание r_cottons"
 
@@ -13843,6 +13877,7 @@ msgstr "Стеклянный контейнер, используемый при
 msgid "r_Fibulae"
 msgstr "Фибула"
 
+#, fuzzy
 msgid "desc_r_Fibulae"
 msgstr " "
 
@@ -13905,6 +13940,7 @@ msgstr ""
 msgid "r_Gemstones"
 msgstr "Драгоценные камни"
 
+#, fuzzy
 msgid "desc_r_Gemstones"
 msgstr "Описание r_cut драгоценных камней"
 
@@ -13917,6 +13953,7 @@ msgstr "Красивая черная жемчужина. Это должно б
 msgid "r_Enchantable Gems"
 msgstr "Очаровательные драгоценные камни"
 
+#, fuzzy
 msgid "desc_r_Enchantable Gems"
 msgstr "Описание r_enchantable gems"
 
@@ -14010,6 +14047,7 @@ msgstr ""
 msgid "r_Herbs"
 msgstr "Травы"
 
+#, fuzzy
 msgid "desc_r_Herbs"
 msgstr "Описание r_herbs"
 
@@ -14114,6 +14152,7 @@ msgstr ""
 msgid "r_Rawhides"
 msgstr "Грубые прыщи"
 
+#, fuzzy
 msgid "desc_r_Rawhides"
 msgstr "Описание r_rawhides"
 
@@ -14223,6 +14262,7 @@ msgstr ""
 msgid "r_Metal Ore"
 msgstr "Металлическая руда"
 
+#, fuzzy
 msgid "desc_r_Metal Ore"
 msgstr "Описание r_metal руды"
 
@@ -14319,6 +14359,7 @@ msgstr ""
 msgid "r_Modules"
 msgstr "Модули"
 
+#, fuzzy
 msgid "desc_r_Modules"
 msgstr " "
 
@@ -14408,6 +14449,7 @@ msgstr "Материал, используемый для различных н�
 msgid "r_Timbers"
 msgstr "Древесина"
 
+#, fuzzy
 msgid "desc_r_Timbers"
 msgstr "Описание r_timbers"
 
@@ -14460,6 +14502,7 @@ msgstr ""
 msgid "r_Unique Materials"
 msgstr "Уникальные материалы"
 
+#, fuzzy
 msgid "desc_r_Unique Materials"
 msgstr " "
 
@@ -14593,6 +14636,7 @@ msgstr "Популярная и универсальная зерновая ку
 msgid "r_Woods"
 msgstr "Лес"
 
+#, fuzzy
 msgid "desc_r_Woods"
 msgstr "Описание r_woods"
 
@@ -14649,6 +14693,7 @@ msgstr ""
 msgid "r_Dye Components"
 msgstr "Компоненты красителя"
 
+#, fuzzy
 msgid "desc_r_Dye Components"
 msgstr "Описание компонентов красителя"
 
@@ -14718,6 +14763,7 @@ msgstr ""
 msgid "r_pigments"
 msgstr "Пигменты"
 
+#, fuzzy
 msgid "desc_r_pigments"
 msgstr "Это фиктивный предмет, которого не существует"
 
@@ -14888,6 +14934,7 @@ msgstr ""
 msgid "r_Holiday Food"
 msgstr "Праздничные блюда"
 
+#, fuzzy
 msgid "desc_r_Holiday Food"
 msgstr "Это фиктивный предмет, которого не существует"
 
@@ -15005,12 +15052,14 @@ msgstr "Откройте эти яйца для особого сюрприза!
 msgid "r_Magic Essence"
 msgstr "Магическая сущность"
 
+#, fuzzy
 msgid "desc_r_Magic Essence"
 msgstr "Магические эссенции, используемые при создании свитков."
 
 msgid "r_Elemental Magic Essence"
 msgstr "Элементарная магическая сущность"
 
+#, fuzzy
 msgid "desc_r_Elemental Magic Essence"
 msgstr "Магические эссенции, используемые при создании элементарных свитков."
 
@@ -16404,6 +16453,7 @@ msgstr ""
 msgid "r_Skin Rare"
 msgstr "Редкая кожа"
 
+#, fuzzy
 msgid "desc_r_Skin Rare"
 msgstr ""
 "Концентрированная энергия, которая ускоряет реакцию, необходимую для "
@@ -16430,6 +16480,7 @@ msgstr "Катализатор используется в очаровыван�
 msgid "r_Skin Regular"
 msgstr "Регулярная кожа"
 
+#, fuzzy
 msgid "desc_r_Skin Regular"
 msgstr "Описание r_resource drops"
 
@@ -16940,6 +16991,7 @@ msgstr "Ингредиент, используемый для очаровыва
 msgid "r_Skin Hoarfrost"
 msgstr "Морозильная кожа"
 
+#, fuzzy
 msgid "desc_r_Skin Hoarfrost"
 msgstr " "
 
@@ -17295,6 +17347,7 @@ msgstr "Ингредиент, используемый для очаровыва
 msgid "r_Skin Storm Rune"
 msgstr "Штормовая руна"
 
+#, fuzzy
 msgid "desc_r_Skin Storm Rune"
 msgstr " "
 
@@ -17349,6 +17402,7 @@ msgstr " временный"
 msgid "r_Skin Tooth"
 msgstr "Кожаный зуб"
 
+#, fuzzy
 msgid "desc_r_Skin Tooth"
 msgstr " "
 
@@ -17451,6 +17505,7 @@ msgstr "Ингредиент, используемый для очаровыва
 msgid "r_Teleport Runes"
 msgstr "Руны телепорта"
 
+#, fuzzy
 msgid "desc_r_Teleport Runes"
 msgstr " "
 
@@ -17482,12 +17537,14 @@ msgstr ""
 msgid "r_Teleporter Items"
 msgstr "Телепортационные предметы"
 
+#, fuzzy
 msgid "desc_r_Teleporter Items"
 msgstr " "
 
 msgid "r_Teleporter Entrance Items"
 msgstr "Элементы входа телепорта"
 
+#, fuzzy
 msgid "desc_r_Teleporter Entrance Items"
 msgstr " "
 
@@ -17502,6 +17559,7 @@ msgstr ""
 msgid "r_Teleporter Exit Items"
 msgstr "Элементы выхода телепорта"
 
+#, fuzzy
 msgid "desc_r_Teleporter Exit Items"
 msgstr " "
 
@@ -17680,6 +17738,7 @@ msgstr " "
 msgid "r_Attachable Tools"
 msgstr "Прикрепляемые инструменты"
 
+#, fuzzy
 msgid "desc_r_Attachable Tools"
 msgstr " "
 
@@ -17949,6 +18008,7 @@ msgstr ""
 msgid "r_Treasure Map Items"
 msgstr "Карта сокровищ"
 
+#, fuzzy
 msgid "desc_r_Treasure Map Items"
 msgstr " "
 
@@ -18753,6 +18813,7 @@ msgstr " "
 msgid "r_Weapons"
 msgstr "Оружие"
 
+#, fuzzy
 msgid "desc_r_Weapons"
 msgstr " "
 
@@ -19262,6 +19323,7 @@ msgstr ""
 msgid "r_Melee Weapons"
 msgstr "Оружие ближнего боя"
 
+#, fuzzy
 msgid "desc_r_Melee Weapons"
 msgstr "Оружие r_melee"
 
@@ -21778,12 +21840,14 @@ msgstr "Для монстров уровня 7-9."
 msgid "r_Throwable Weapons"
 msgstr "Метательное оружие"
 
+#, fuzzy
 msgid "desc_r_Throwable Weapons"
 msgstr " "
 
 msgid "r_Grenades"
 msgstr "Гранаты"
 
+#, fuzzy
 msgid "desc_r_Grenades"
 msgstr " "
 
@@ -21834,6 +21898,7 @@ msgstr " "
 msgid "r_Specialty Scrolls"
 msgstr "Специализированные свитки"
 
+#, fuzzy
 msgid "desc_r_Specialty Scrolls"
 msgstr "Это категория для свитков специальных предметов."
 
