@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-08 18:17+0000\n"
+"PO-Revision-Date: 2026-11-09 12:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/de/>\n"
@@ -4966,6 +4966,7 @@ msgstr "Beschreibung der r_trees"
 msgid "r_Store Items"
 msgstr "Lagerposten"
 
+#, fuzzy
 msgid "desc_r_Store Items"
 msgstr "Beschreibung der r_store-Positionen"
 
@@ -5045,6 +5046,7 @@ msgstr "Beschreibung der r_items"
 msgid "r_Monster Toys"
 msgstr "Monsterspielzeug"
 
+#, fuzzy
 msgid "desc_r_Monster Toys"
 msgstr "Monsterspielzeug."
 
@@ -6407,6 +6409,7 @@ msgstr "Ein Sammlerspielzeug, das ein Dämonen-Lord-Haustier herbeiruft."
 msgid "r_Ammo"
 msgstr "Ammos"
 
+#, fuzzy
 msgid "desc_r_Ammo"
 msgstr "Beschreibung von r_ammo"
 
@@ -6451,6 +6454,7 @@ msgstr "Ein Pfeil, der geradeaus und schnell fliegen soll."
 msgid "r_Elemental Arrows"
 msgstr "Elementarpfeile"
 
+#, fuzzy
 msgid "desc_r_Elemental Arrows"
 msgstr "Elementarpfeile Beschreibung"
 
@@ -6673,6 +6677,7 @@ msgstr "Beschreibung von r_apparel"
 msgid "r_Accessories"
 msgstr "Zubehör"
 
+#, fuzzy
 msgid "desc_r_Accessories"
 msgstr "Beschreibung von r_accessories"
 
@@ -7183,6 +7188,7 @@ msgstr "Torsoschutz für Abenteurer mit einem knappen Budget."
 msgid "r_Armor Dragon"
 msgstr "Rüstungsdrachen"
 
+#, fuzzy
 msgid "desc_r_Armor Dragon"
 msgstr " "
 
@@ -7315,6 +7321,7 @@ msgstr "Metallpanzerung zum Schutz des Rumpfes."
 msgid "r_Armor Infernal"
 msgstr "Panzerung infernalisch"
 
+#, fuzzy
 msgid "desc_r_Armor Infernal"
 msgstr " "
 
@@ -8127,6 +8134,7 @@ msgstr "Wie von Bauern und Arbeitern getragen."
 msgid "r_Hats"
 msgstr "Hüte"
 
+#, fuzzy
 msgid "desc_r_Hats"
 msgstr "  "
 
@@ -8173,6 +8181,7 @@ msgstr ""
 msgid "r_Masks"
 msgstr "Masken"
 
+#, fuzzy
 msgid "desc_r_Masks"
 msgstr "  "
 
@@ -8325,6 +8334,7 @@ msgstr "Ein schlichtes Kleidungsstück."
 msgid "r_Shields"
 msgstr "Schilde"
 
+#, fuzzy
 msgid "desc_r_Shields"
 msgstr " "
 
@@ -8759,6 +8769,7 @@ msgstr ""
 msgid "r_Clan Shards"
 msgstr "Stammsplitter"
 
+#, fuzzy
 msgid "desc_r_Clan Shards"
 msgstr " "
 
@@ -8844,6 +8855,7 @@ msgstr " "
 msgid "r_Elixirs"
 msgstr "Elixiere"
 
+#, fuzzy
 msgid "desc_r_Elixirs"
 msgstr " "
 
@@ -9646,6 +9658,7 @@ msgstr "Praktisch für die Sortierung des Bestands"
 msgid "r_Dynamic Clan Bindstone Items"
 msgstr "Dynamischer Clan Bindstone Artikel"
 
+#, fuzzy
 msgid "desc_r_Dynamic Clan Bindstone Items"
 msgstr " "
 
@@ -9746,12 +9759,14 @@ msgstr ""
 msgid "r_Figurines"
 msgstr "Figuren"
 
+#, fuzzy
 msgid "desc_r_Figurines"
 msgstr " "
 
 msgid "r_Figurines Boats"
 msgstr "Figurenboote"
 
+#, fuzzy
 msgid "desc_r_Figurines Boats"
 msgstr " "
 
@@ -9829,6 +9844,7 @@ msgstr ""
 msgid "r_Figurines Tier2 Boats"
 msgstr "Figurines Tier2-Boote"
 
+#, fuzzy
 msgid "desc_r_Figurines Tier2 Boats"
 msgstr ""
 "Enthält schwimmende Schiffe von größeren Schiffen bis hin zu Kriegsschiffen "
@@ -9885,6 +9901,7 @@ msgstr ""
 msgid "r_Figurines Guns"
 msgstr "Figurenpistolen"
 
+#, fuzzy
 msgid "desc_r_Figurines Guns"
 msgstr " "
 
@@ -9909,6 +9926,7 @@ msgstr "Diese Figur kann einen Mörser beschwören."
 msgid "r_Figurines Mounts"
 msgstr "Figurenhalterungen"
 
+#, fuzzy
 msgid "desc_r_Figurines Mounts"
 msgstr "Diese magische Figur kann in ein Pferd verwandelt werden."
 
@@ -9981,6 +9999,7 @@ msgstr " "
 msgid "r_Figurines Warhulks"
 msgstr "Figuren Warhulks"
 
+#, fuzzy
 msgid "desc_r_Figurines Warhulks"
 msgstr " "
 
@@ -10054,6 +10073,7 @@ msgstr "Beschwören Sie einen super Spaß Capture the Flag Hulk."
 msgid "r_Fish"
 msgstr "Fisch"
 
+#, fuzzy
 msgid "desc_r_Fish"
 msgstr " "
 
@@ -10126,6 +10146,7 @@ msgstr ""
 msgid "r_Fun Flags End items"
 msgstr "Fun Flags Ende"
 
+#, fuzzy
 msgid "desc_r_Fun Flags End items"
 msgstr " "
 
@@ -10139,6 +10160,7 @@ msgstr ""
 msgid "r_Fun Flags Middle items"
 msgstr "Fun Flags Mitte"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Middle items"
 msgstr " "
 
@@ -10167,6 +10189,7 @@ msgstr ""
 msgid "r_Fun Flags Start items"
 msgstr "Fun Flags Start Items"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Start items"
 msgstr " "
 
@@ -10214,6 +10237,7 @@ msgstr ""
 msgid "r_Heads"
 msgstr "Köpfe"
 
+#, fuzzy
 msgid "desc_r_Heads"
 msgstr "Beschreibung der r_heads"
 
@@ -10383,12 +10407,14 @@ msgstr "Material, das im Heimhandwerksprozess verwendet wird."
 msgid "r_Buildables"
 msgstr "Baufertigkeiten"
 
+#, fuzzy
 msgid "desc_r_Buildables"
 msgstr " "
 
 msgid "r_Exterior Objects"
 msgstr "Externe Gegenstände"
 
+#, fuzzy
 msgid "desc_r_Exterior Objects"
 msgstr " "
 
@@ -10557,6 +10583,7 @@ msgstr ""
 msgid "r_Interior Objects"
 msgstr "Innenausstattung"
 
+#, fuzzy
 msgid "desc_r_Interior Objects"
 msgstr " "
 
@@ -10996,6 +11023,7 @@ msgstr ""
 msgid "r_Permits"
 msgstr "Genehmigungen"
 
+#, fuzzy
 msgid "desc_r_Permits"
 msgstr " "
 
@@ -11010,6 +11038,7 @@ msgstr ""
 msgid "r_Deeds"
 msgstr "Taten"
 
+#, fuzzy
 msgid "desc_r_Deeds"
 msgstr " "
 
@@ -11093,6 +11122,7 @@ msgstr "Schlüssel zu Ihrem Zuhause."
 msgid "r_Keys"
 msgstr "Schlüssel"
 
+#, fuzzy
 msgid "desc_r_Keys"
 msgstr "Ein Metallschlüssel."
 
@@ -13034,6 +13064,7 @@ msgstr "Ein Schema, das bei der Erforschung des Kochens verwendet wird."
 msgid "r_Reagents"
 msgstr "Reagenzien"
 
+#, fuzzy
 msgid "desc_r_Reagents"
 msgstr ""
 "Alle Gegenstände, in der Regel das Ergebnis von Skinning, in verschiedenen "
@@ -13087,6 +13118,7 @@ msgstr "Asche ist ein Reagenz, das für Zauber verwendet wird."
 msgid "r_Magical Gems"
 msgstr "Magische Edelsteine"
 
+#, fuzzy
 msgid "desc_r_Magical Gems"
 msgstr "Beschreibung von r_magical gems"
 
@@ -13774,6 +13806,7 @@ msgstr ""
 msgid "r_Materials"
 msgstr "Werkstoffe"
 
+#, fuzzy
 msgid "desc_r_Materials"
 msgstr ""
 "Alle Gegenstände, in der Regel das Ergebnis von Skinning, in verschiedenen "
@@ -13911,6 +13944,7 @@ msgstr ""
 msgid "r_Cottons"
 msgstr "Baumwolle"
 
+#, fuzzy
 msgid "desc_r_Cottons"
 msgstr "Beschreibung von r_cottons"
 
@@ -14088,6 +14122,7 @@ msgstr "Glasbehälter bei der Herstellung von Tränken verwendet."
 msgid "r_Fibulae"
 msgstr "Fibula"
 
+#, fuzzy
 msgid "desc_r_Fibulae"
 msgstr " "
 
@@ -14150,6 +14185,7 @@ msgstr ""
 msgid "r_Gemstones"
 msgstr "Edelsteine"
 
+#, fuzzy
 msgid "desc_r_Gemstones"
 msgstr "Beschreibung von r_cut Edelsteinen"
 
@@ -14162,6 +14198,7 @@ msgstr "Eine wunderschöne schwarze Perle. Das muss sehr selten sein."
 msgid "r_Enchantable Gems"
 msgstr "Verzauberbare Edelsteine"
 
+#, fuzzy
 msgid "desc_r_Enchantable Gems"
 msgstr "Beschreibung von r_enchantable gems"
 
@@ -14256,6 +14293,7 @@ msgstr ""
 msgid "r_Herbs"
 msgstr "Kräuter"
 
+#, fuzzy
 msgid "desc_r_Herbs"
 msgstr "Beschreibung von r_herbs"
 
@@ -14359,6 +14397,7 @@ msgstr ""
 msgid "r_Rawhides"
 msgstr "Rohhölzer"
 
+#, fuzzy
 msgid "desc_r_Rawhides"
 msgstr "Beschreibung von r_rawhides"
 
@@ -14473,6 +14512,7 @@ msgstr ""
 msgid "r_Metal Ore"
 msgstr "Metallerz"
 
+#, fuzzy
 msgid "desc_r_Metal Ore"
 msgstr "Beschreibung von r_Metallerz"
 
@@ -14565,6 +14605,7 @@ msgstr "Seltenes Metallnugget, das zu Erz raffiniert werden muss"
 msgid "r_Modules"
 msgstr "Module"
 
+#, fuzzy
 msgid "desc_r_Modules"
 msgstr " "
 
@@ -14654,6 +14695,7 @@ msgstr ""
 msgid "r_Timbers"
 msgstr "Holz"
 
+#, fuzzy
 msgid "desc_r_Timbers"
 msgstr "Beschreibung von r_timbers"
 
@@ -14696,6 +14738,7 @@ msgstr "Seltenes Holz, das vor dem Basteln zu Holz raffiniert werden muss."
 msgid "r_Unique Materials"
 msgstr "Einzigartige Materialien"
 
+#, fuzzy
 msgid "desc_r_Unique Materials"
 msgstr " "
 
@@ -14843,6 +14886,7 @@ msgstr "Eine beliebte und vielseitige Getreidepflanze."
 msgid "r_Woods"
 msgstr "Wälder"
 
+#, fuzzy
 msgid "desc_r_Woods"
 msgstr "Beschreibung von r_woods"
 
@@ -14898,6 +14942,7 @@ msgstr ""
 msgid "r_Dye Components"
 msgstr "Farbstoffkomponenten"
 
+#, fuzzy
 msgid "desc_r_Dye Components"
 msgstr "Beschreibung der Farbstoffkomponenten"
 
@@ -14974,6 +15019,7 @@ msgstr ""
 msgid "r_pigments"
 msgstr "Pigmente"
 
+#, fuzzy
 msgid "desc_r_pigments"
 msgstr "Dies ist ein Dummy-Element, das nicht existiert"
 
@@ -15166,6 +15212,7 @@ msgstr ""
 msgid "r_Holiday Food"
 msgstr "Urlaubsnahrung"
 
+#, fuzzy
 msgid "desc_r_Holiday Food"
 msgstr "Dies ist ein Dummy-Element, das nicht existiert"
 
@@ -15282,6 +15329,7 @@ msgstr "Öffnen Sie diese Eier für eine besondere Überraschung!"
 msgid "r_Magic Essence"
 msgstr "Magische Essenz"
 
+#, fuzzy
 msgid "desc_r_Magic Essence"
 msgstr ""
 "Magische Essenzen, die bei der Herstellung von Schriftrollen verwendet "
@@ -15290,6 +15338,7 @@ msgstr ""
 msgid "r_Elemental Magic Essence"
 msgstr "Elementare magische Essenz"
 
+#, fuzzy
 msgid "desc_r_Elemental Magic Essence"
 msgstr ""
 "Magische Essenzen, die bei der Herstellung von Elementarrollen verwendet "
@@ -16719,6 +16768,7 @@ msgstr ""
 msgid "r_Skin Rare"
 msgstr "Haut selten"
 
+#, fuzzy
 msgid "desc_r_Skin Rare"
 msgstr ""
 "Konzentrierte Energie, die die Reaktion ausfällt, die notwendig ist, um "
@@ -16745,6 +16795,7 @@ msgstr "Katalysator verwendet in Verzauberung."
 msgid "r_Skin Regular"
 msgstr "Haut regelmäßig"
 
+#, fuzzy
 msgid "desc_r_Skin Regular"
 msgstr "Beschreibung der r_resource drops"
 
@@ -17255,6 +17306,7 @@ msgstr "Inhaltsstoff zur Verzauberung."
 msgid "r_Skin Hoarfrost"
 msgstr "Hauthoarfrost"
 
+#, fuzzy
 msgid "desc_r_Skin Hoarfrost"
 msgstr " "
 
@@ -17612,6 +17664,7 @@ msgstr "Inhaltsstoff zur Verzauberung."
 msgid "r_Skin Storm Rune"
 msgstr "Hautsturmrinde"
 
+#, fuzzy
 msgid "desc_r_Skin Storm Rune"
 msgstr " "
 
@@ -17666,6 +17719,7 @@ msgstr " Temperatur"
 msgid "r_Skin Tooth"
 msgstr "Hautzahn"
 
+#, fuzzy
 msgid "desc_r_Skin Tooth"
 msgstr " "
 
@@ -17768,6 +17822,7 @@ msgstr "Inhaltsstoff zur Verzauberung."
 msgid "r_Teleport Runes"
 msgstr "Teleport-Runen"
 
+#, fuzzy
 msgid "desc_r_Teleport Runes"
 msgstr " "
 
@@ -17800,12 +17855,14 @@ msgstr ""
 msgid "r_Teleporter Items"
 msgstr "Teleporter-Artikel"
 
+#, fuzzy
 msgid "desc_r_Teleporter Items"
 msgstr " "
 
 msgid "r_Teleporter Entrance Items"
 msgstr "Teleporter-Eingangsartikel"
 
+#, fuzzy
 msgid "desc_r_Teleporter Entrance Items"
 msgstr " "
 
@@ -17820,6 +17877,7 @@ msgstr ""
 msgid "r_Teleporter Exit Items"
 msgstr "Ausstiegsartikel für Teleporter"
 
+#, fuzzy
 msgid "desc_r_Teleporter Exit Items"
 msgstr " "
 
@@ -17999,6 +18057,7 @@ msgstr " "
 msgid "r_Attachable Tools"
 msgstr "Befestigbare Werkzeuge"
 
+#, fuzzy
 msgid "desc_r_Attachable Tools"
 msgstr " "
 
@@ -18275,6 +18334,7 @@ msgstr ""
 msgid "r_Treasure Map Items"
 msgstr "Schatzkarten-Artikel"
 
+#, fuzzy
 msgid "desc_r_Treasure Map Items"
 msgstr " "
 
@@ -19079,6 +19139,7 @@ msgstr " "
 msgid "r_Weapons"
 msgstr "Waffen"
 
+#, fuzzy
 msgid "desc_r_Weapons"
 msgstr " "
 
@@ -19605,6 +19666,7 @@ msgstr ""
 msgid "r_Melee Weapons"
 msgstr "Nahkampfwaffen"
 
+#, fuzzy
 msgid "desc_r_Melee Weapons"
 msgstr "Beschreibung von r_melee Waffen"
 
@@ -22187,12 +22249,14 @@ msgstr "Für Level 7-9 Monster."
 msgid "r_Throwable Weapons"
 msgstr "Wurfwaffen"
 
+#, fuzzy
 msgid "desc_r_Throwable Weapons"
 msgstr " "
 
 msgid "r_Grenades"
 msgstr "Granaten"
 
+#, fuzzy
 msgid "desc_r_Grenades"
 msgstr " "
 
@@ -22243,6 +22307,7 @@ msgstr " "
 msgid "r_Specialty Scrolls"
 msgstr "Spezialrollen"
 
+#, fuzzy
 msgid "desc_r_Specialty Scrolls"
 msgstr "Dies ist eine Kategorie für spezielle Artikelrollen"
 
