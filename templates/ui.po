@@ -1521,6 +1521,200 @@ msgstr "Boards"
 msgid "browser_home"
 msgstr "Home"
 
+msgid "btr_bracket_10v10"
+msgstr "10v10"
+
+msgid "btr_bracket_2v2"
+msgstr "2v2"
+
+msgid "btr_bracket_5v5"
+msgstr "5v5"
+
+msgid "btr_cache_open_above_ground"
+msgstr ""
+"This cache stays sealed beneath the roots. Open it once you are back above "
+"ground."
+
+msgid "btr_chest_already_looted"
+msgstr "You have already taken your share of this chest."
+
+msgid "btr_chest_not_yours"
+msgstr "Only the winning side can open this chest."
+
+msgid "btr_col_draws"
+msgstr "Draws"
+
+msgid "btr_col_losses"
+msgstr "Losses"
+
+msgid "btr_col_player"
+msgstr "Player"
+
+msgid "btr_col_rank"
+msgstr "Rank"
+
+msgid "btr_col_rating"
+msgstr "Rating"
+
+msgid "btr_col_wins"
+msgstr "Wins"
+
+msgid "btr_left_out_not_alive"
+msgstr ""
+"You were not alive when your side entered Beneath the Roots and were left "
+"behind."
+
+msgid "btr_left_out_transfer"
+msgstr ""
+"The way into Beneath the Roots could not be opened for you. You were left "
+"behind."
+
+msgid "btr_left_queue_party_changed"
+msgstr ""
+"Your party changed, so you left the Beneath the Roots queue. Use a tree "
+"again to queue with your party."
+
+msgid "btr_minimap_region"
+msgstr "Neutral Arena"
+
+msgid "btr_minimap_title"
+msgstr "Beneath the Roots"
+
+msgid "btr_my_rating"
+msgstr ""
+"Your %1 rating: %2   -   Rank %3 of %4   -   Wins: %5   Losses: %6   Draws: "
+"%7"
+
+msgid "btr_no_rating"
+msgstr "You have not played a rated %1 match yet. Everyone starts at %2."
+
+msgid "btr_phase_broke_out"
+msgstr "Your side broke through - take the arena"
+
+msgid "btr_phase_clear_grove"
+msgstr "Clear the Grove"
+
+msgid "btr_phase_clear_rooms"
+msgstr "Clear the rooms to break through"
+
+msgid "btr_phase_cleared"
+msgstr "Cleared!"
+
+msgid "btr_phase_closing"
+msgstr "The Grove Closes In"
+
+msgid "btr_phase_complete"
+msgstr "Arena Complete"
+
+msgid "btr_phase_eliminated"
+msgstr "Team Eliminated"
+
+msgid "btr_phase_enemy_broke_out"
+msgstr "The enemy broke through - clear your rooms!"
+
+msgid "btr_phase_opponent_found"
+msgstr "Opponent Found!"
+
+msgid "btr_phase_pvp"
+msgstr "PvP - Fight!"
+
+msgid "btr_phase_room_cleared"
+msgstr "The roots part - press on"
+
+msgid "btr_phase_waiting_opponent"
+msgstr "Grove cleared - waiting for the other side"
+
+msgid "btr_progress_enemies"
+msgstr "Enemies:"
+
+msgid "btr_progress_room"
+msgstr "Room:"
+
+msgid "btr_queue_cancelled_no_host"
+msgstr ""
+"No arena can host the match right now. The Beneath the Roots queue was "
+"cancelled."
+
+msgid "btr_rating_command_help"
+msgstr "opens your Beneath the Roots rating and the ladder"
+
+msgid "btr_rating_result_draw"
+msgstr "Draw. Your Beneath the Roots %1 rating is now %2 (%3)."
+
+msgid "btr_rating_result_loss"
+msgstr "Defeat. Your Beneath the Roots %1 rating is now %2 (%3)."
+
+msgid "btr_rating_result_win"
+msgstr "Victory! Your Beneath the Roots %1 rating is now %2 (%3)."
+
+msgid "btr_refused_already_in"
+msgstr "You are already in a Beneath the Roots match."
+
+msgid "btr_refused_level_too_high"
+msgstr ""
+"Your level is too high for this tree. Look for a tree of a higher tier."
+
+msgid "btr_refused_no_arena"
+msgstr ""
+"Every Beneath the Roots arena of this size is in use. Try again shortly."
+
+msgid "btr_refused_party_elsewhere"
+msgstr ""
+"Your party is queueing at a tree of a different tier or size. Use a tree "
+"like theirs to join their side."
+
+msgid "btr_refused_side_full"
+msgstr "Your party's side is already full for this arena size."
+
+msgid "btr_refused_tree_claimed"
+msgstr ""
+"Another group is already queueing at this tree. Use another Beneath the "
+"Roots tree of the same tier and size."
+
+msgid "btr_refused_unavailable"
+msgstr "The roots do not answer. Try again in a moment."
+
+msgid "btr_spoils_delivered"
+msgstr "Your Beneath the Roots spoils are in your pack."
+
+msgid "btr_status_loading_in"
+msgstr "Opponent found - entering the Roots"
+
+msgid "btr_status_searching"
+msgstr "Searching for an opponent"
+
+msgid "btr_storm_outside_ring"
+msgstr "You are outside the safe zone!"
+
+msgid "btr_storm_sealed_room"
+msgstr "This room is sealed - get to the arena!"
+
+msgid "btr_timer_entering"
+msgstr "Entering in:"
+
+msgid "btr_timer_entering_alone"
+msgstr "Entering alone in:"
+
+msgid "btr_timer_pvp_in"
+msgstr "PvP in:"
+
+msgid "btr_timer_rooms_seal"
+msgstr "Next rooms seal:"
+
+msgid "btr_timer_sealing_starts"
+msgstr "Rooms seal in"
+
+msgid "btr_timer_time_runs_out"
+msgstr "Time runs out:"
+
+msgid "btr_timer_zone_closes"
+msgstr "Zone closes:"
+
+msgid "btr_zone_neutral_desc"
+msgstr ""
+"A neutral arena: no alignment is gained or lost here and nobody turns rogue. "
+"Full loot: everyone drops their gear and backpack on death."
+
 msgid "buff_rested"
 msgstr "Rested"
 
@@ -8700,6 +8894,9 @@ msgstr "Repeatable"
 msgid "journal_section_bestiary"
 msgstr "Bestiary"
 
+msgid "journal_section_btr"
+msgstr "Beneath the Roots"
+
 msgid "journal_section_combat"
 msgstr "Combat"
 
@@ -10745,6 +10942,18 @@ msgstr "Text Filter: "
 
 msgid "market_filters_tile_name_all"
 msgstr "All"
+
+msgid "market_gem_enchant_desc"
+msgstr ""
+"Every magical gem carrying this enchant, whatever its stone or quality. The "
+"number before each name is the quality of the enchant that gem actually "
+"holds."
+
+msgid "market_gem_enchant_prefix"
+msgstr "Magical Gem"
+
+msgid "market_gem_enchant_transmutation"
+msgstr "Magical Gem of Transmutation"
 
 msgid "market_global_market_title_composite"
 msgstr "Global market: %1"

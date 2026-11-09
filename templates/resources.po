@@ -3431,6 +3431,27 @@ msgstr " "
 msgid "desc_r_Bench with Plants Item"
 msgstr "Flower decorations for the home. Double-click to add."
 
+msgid "desc_r_Beneath Roots Arena Gate"
+msgstr ""
+"Roots seal the arena: they hold the sides apart until the fight begins, and "
+"close it again once the spoils appear."
+
+msgid "desc_r_Beneath Roots Chest"
+msgstr ""
+"The spoils of Beneath the Roots. Each member of the winning side may take "
+"one share."
+
+msgid "desc_r_Beneath Roots Sealed Veil"
+msgstr "The storm has sealed the rooms beyond it. Staying there is deadly."
+
+msgid "desc_r_Beneath Roots Storm Marker"
+msgstr "The storm closing in on the arena. Stay inside the safe zone."
+
+msgid "desc_r_Beneath Roots Tree"
+msgstr ""
+"Its roots reach down to the groves beneath the great tree. Use it with your "
+"party to enter Beneath the Roots."
+
 msgid "desc_r_Berry Oatmeal"
 msgstr "A mixture of wheat and berries, it looks and smells delicious."
 
@@ -18492,6 +18513,11 @@ msgstr " "
 msgid "desc_r_armor sarlid helmet"
 msgstr "Simple protection for the head."
 
+msgid "desc_r_azure root cache"
+msgstr ""
+"A root-bound cache from the iklit warrens beneath the great tree. Open it to "
+"see what the roots have hoarded."
+
 msgid "desc_r_bag blue"
 msgstr "Practical for sorting inventory."
 
@@ -18696,10 +18722,35 @@ msgstr "GM-issue staff. Spawns via admin command only."
 msgid "desc_r_gm_sword"
 msgstr "GM-issue sword. Spawns via admin command only."
 
+msgid "desc_r_golden root cache"
+msgstr ""
+"A root-bound cache guarded by the menhir wardens beneath the great tree. "
+"Open it to see what the roots have hoarded."
+
+msgid "desc_r_greater azure root cache"
+msgstr ""
+"A heavy root-bound cache, won by a full war party in the iklit warrens "
+"beneath the great tree. Open it to see what the roots have hoarded."
+
 msgid "desc_r_greater essence"
 msgstr ""
 "A remnant of life drawn from a mighty creature. Its power has faded, and "
 "crafters no longer have any use for it."
+
+msgid "desc_r_greater golden root cache"
+msgstr ""
+"A heavy root-bound cache, won by a full war party in the menhir wardens' "
+"vaults beneath the great tree. Open it to see what the roots have hoarded."
+
+msgid "desc_r_greater verdant root cache"
+msgstr ""
+"A heavy root-bound cache, won by a full war party in the grove beneath the "
+"great tree. Open it to see what the roots have hoarded."
+
+msgid "desc_r_greater violet root cache"
+msgstr ""
+"A heavy root-bound cache, won by a full war party in the rotting hollows "
+"beneath the great tree. Open it to see what the roots have hoarded."
 
 msgid "desc_r_h11 first guardian statue"
 msgstr " "
@@ -23159,6 +23210,16 @@ msgstr " "
 msgid "desc_r_v19 fallen human agent"
 msgstr " "
 
+msgid "desc_r_verdant root cache"
+msgstr ""
+"A root-bound cache pried from the grove beneath the great tree. Open it to "
+"see what the roots have hoarded."
+
+msgid "desc_r_violet root cache"
+msgstr ""
+"A root-bound cache from the rotting hollows beneath the great tree. Open it "
+"to see what the roots have hoarded."
+
 msgid "desc_r_w13 galtanok ironhead rip"
 msgstr " "
 
@@ -24492,6 +24553,21 @@ msgstr "Bench with Plants"
 
 msgid "r_Bench with Plants Item"
 msgstr "Bench with Plants Item"
+
+msgid "r_Beneath Roots Arena Gate"
+msgstr "beneath roots arena gate"
+
+msgid "r_Beneath Roots Chest"
+msgstr "beneath roots chest"
+
+msgid "r_Beneath Roots Sealed Veil"
+msgstr "beneath roots sealed veil"
+
+msgid "r_Beneath Roots Storm Marker"
+msgstr "beneath roots storm marker"
+
+msgid "r_Beneath Roots Tree"
+msgstr "beneath roots tree"
 
 msgid "r_Berry Oatmeal"
 msgstr "Berry Oatmeal"
@@ -37738,6 +37814,9 @@ msgstr "archery target"
 msgid "r_armor sarlid helmet"
 msgstr "armor sarlid helmet"
 
+msgid "r_azure root cache"
+msgstr "azure root cache"
+
 msgid "r_bag blue"
 msgstr "bag blue"
 
@@ -37885,8 +37964,23 @@ msgstr "generic interactive goblin shrine"
 msgid "r_glass"
 msgstr "glass"
 
+msgid "r_golden root cache"
+msgstr "golden root cache"
+
+msgid "r_greater azure root cache"
+msgstr "greater azure root cache"
+
 msgid "r_greater essence"
 msgstr "greater essence"
+
+msgid "r_greater golden root cache"
+msgstr "greater golden root cache"
+
+msgid "r_greater verdant root cache"
+msgstr "greater verdant root cache"
+
+msgid "r_greater violet root cache"
+msgstr "greater violet root cache"
 
 msgid "r_h11 first guardian statue"
 msgstr "h11 first guardian statue"
@@ -39534,6 +39628,12 @@ msgstr "v19 adrian strong rip"
 
 msgid "r_v19 fallen human agent"
 msgstr "v19 fallen human agent"
+
+msgid "r_verdant root cache"
+msgstr "verdant root cache"
+
+msgid "r_violet root cache"
+msgstr "violet root cache"
 
 msgid "r_w13 galtanok ironhead rip"
 msgstr "w13 galtanok ironhead rip"
