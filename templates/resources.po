@@ -2076,7 +2076,7 @@ msgid "desc_r_Aberrations"
 msgstr " "
 
 msgid "desc_r_Accessories"
-msgstr "Description of r_Accessories"
+msgstr "Earrings, necklaces and rings."
 
 msgid "desc_r_Achrid"
 msgstr " "
@@ -2234,7 +2234,7 @@ msgstr ""
 "Permanently increases Strength to a maximum of 100."
 
 msgid "desc_r_Ammo"
-msgstr "Description of r_Ammo"
+msgstr "Arrows for bows, plain and elemental."
 
 msgid "desc_r_Anathema"
 msgstr ""
@@ -2355,7 +2355,7 @@ msgid "desc_r_Armadillo"
 msgstr " "
 
 msgid "desc_r_Armor"
-msgstr ""
+msgstr "Armor of every kind, from cloth and leather to plate and dragon."
 
 msgid "desc_r_Armor Angra Skeleton"
 msgstr "r_Armor Angra Skeleton Description "
@@ -2376,7 +2376,7 @@ msgid "desc_r_Armor Angra Skeleton Torso"
 msgstr " "
 
 msgid "desc_r_Armor Banded"
-msgstr ""
+msgstr "Every piece of Banded armor."
 
 msgid "desc_r_Armor Banded Arms"
 msgstr "Protective sleeves made from bands of metal."
@@ -2496,7 +2496,7 @@ msgid "desc_r_Armor Black Lord Shoulders"
 msgstr "Metal protection for the shoulders."
 
 msgid "desc_r_Armor Bone"
-msgstr ""
+msgstr "Every piece of Bone armor."
 
 msgid "desc_r_Armor Bone Arms"
 msgstr "Arm guards made from bone and leather."
@@ -2529,7 +2529,7 @@ msgid "desc_r_Armor Bone Torso"
 msgstr "Armor covering the torso."
 
 msgid "desc_r_Armor Chain"
-msgstr ""
+msgstr "Every piece of Chain armor."
 
 msgid "desc_r_Armor Chain Arms"
 msgstr "Armor protecting the arms."
@@ -2571,7 +2571,7 @@ msgid "desc_r_Armor Ciel Fey Shoulders"
 msgstr "Basic protection for the shoulders."
 
 msgid "desc_r_Armor Cloth"
-msgstr ""
+msgstr "Every piece of Cloth armor."
 
 msgid "desc_r_Armor Cloth Arms"
 msgstr "Armor granting minimal protection to the arms."
@@ -2610,7 +2610,7 @@ msgid "desc_r_Armor Devils Bracers"
 msgstr "Mythical bracers granting protection against all harmful attacks."
 
 msgid "desc_r_Armor Dragon"
-msgstr " "
+msgstr "Every piece of Dragon armor."
 
 msgid "desc_r_Armor Dragon Couters"
 msgstr "Superior protective couters."
@@ -2643,7 +2643,7 @@ msgid "desc_r_Armor Dragon Vambraces"
 msgstr "Superior protective vambraces."
 
 msgid "desc_r_Armor Full Plate"
-msgstr ""
+msgstr "Every piece of Full Plate armor."
 
 msgid "desc_r_Armor Full Plate Arms"
 msgstr "Reinforced metal armor protecting the arms."
@@ -2712,7 +2712,7 @@ msgid "desc_r_Armor Hobgoblin Shoulders"
 msgstr "Metal protection for the shoulders."
 
 msgid "desc_r_Armor Infernal"
-msgstr " "
+msgstr "Every piece of Infernal armor."
 
 msgid "desc_r_Armor Infernal Elbows"
 msgstr "Superior protection for the elbows."
@@ -2745,7 +2745,7 @@ msgid "desc_r_Armor Infernal pants"
 msgstr "Superior protection for the legs."
 
 msgid "desc_r_Armor Leather"
-msgstr ""
+msgstr "Every piece of Leather armor."
 
 msgid "desc_r_Armor Leather Arms"
 msgstr "Leather sleaves covering the arms."
@@ -2832,7 +2832,7 @@ msgid "desc_r_Armor Monsters"
 msgstr " "
 
 msgid "desc_r_Armor Padded"
-msgstr ""
+msgstr "Every piece of Padded armor."
 
 msgid "desc_r_Armor Padded Arms"
 msgstr "Leather sleaves protecting the arms."
@@ -2865,7 +2865,7 @@ msgid "desc_r_Armor Padded Torso"
 msgstr "Leather shirt granting some protection."
 
 msgid "desc_r_Armor Plate"
-msgstr ""
+msgstr "Every piece of Plate armor."
 
 msgid "desc_r_Armor Plate Arms"
 msgstr "Metal armor for the arms."
@@ -2913,7 +2913,7 @@ msgid "desc_r_Armor Sarlid"
 msgstr " r_sarlid armor description"
 
 msgid "desc_r_Armor Scale"
-msgstr ""
+msgstr "Every piece of Scale armor."
 
 msgid "desc_r_Armor Scale Arms"
 msgstr "Protective sleeves made from layered metal scales."
@@ -2988,7 +2988,7 @@ msgid "desc_r_Armor Skeleton Warrior Torso"
 msgstr "Protection for the torso, far from as effective as it once was."
 
 msgid "desc_r_Armor Studded"
-msgstr ""
+msgstr "Every piece of Studded armor."
 
 msgid "desc_r_Armor Studded Arms"
 msgstr "Leather sleaves reinforced with metal studs."
@@ -3152,7 +3152,9 @@ msgid "desc_r_Astrolabe Mariners"
 msgstr "Used for sea navigation. Warships cannot be crafted without one."
 
 msgid "desc_r_Attachable Tools"
-msgstr " "
+msgstr ""
+"Gathering and repair tools: pickaxes, wood axes, sickles, shovels and "
+"fishing poles."
 
 msgid "desc_r_Attribute Food"
 msgstr "Specially formulated food to increase attributes."
@@ -4034,7 +4036,7 @@ msgstr ""
 "tip."
 
 msgid "desc_r_Buildables"
-msgstr " "
+msgstr "Decorations placed in and around a house."
 
 msgid "desc_r_Building Permit"
 msgstr ""
@@ -4883,7 +4885,8 @@ msgid "desc_r_Clan Shard Active"
 msgstr "This clan shard is challenging an owned clan stone."
 
 msgid "desc_r_Clan Shards"
-msgstr " "
+msgstr ""
+"Clan shards, faction clanstones and the wands that conquer glyphs and altars."
 
 msgid "desc_r_Clan Shipyard"
 msgstr ""
@@ -5902,7 +5905,7 @@ msgstr ""
 "make various clothing."
 
 msgid "desc_r_Clothing"
-msgstr ""
+msgstr "Hoods, shoes, hats, masks, robes and capes."
 
 msgid "desc_r_Clothing Monsters"
 msgstr " "
@@ -6029,7 +6032,7 @@ msgid "desc_r_Consumables"
 msgstr " "
 
 msgid "desc_r_Containers"
-msgstr ""
+msgstr "Bags, sacks and metal chests for carrying and storing items."
 
 msgid "desc_r_Control Platform Markers"
 msgstr " "
@@ -6069,7 +6072,7 @@ msgid "desc_r_Cotton"
 msgstr "Cotton must be refined into cloth before used in crafting"
 
 msgid "desc_r_Cottons"
-msgstr "Description of r_Cottons"
+msgstr "Cotton, woven into cloth."
 
 msgid "desc_r_Courtly Hennin"
 msgstr "The choice of a princess "
@@ -6247,7 +6250,7 @@ msgstr ""
 "This mirdain weapon features intricate decorations on both head and handle. "
 
 msgid "desc_r_Deeds"
-msgstr " "
+msgstr "Deeds for cottages, houses and villas."
 
 msgid "desc_r_Deepblade"
 msgstr ""
@@ -6674,7 +6677,7 @@ msgid "desc_r_Dwarves"
 msgstr "Description of r_Dwarves"
 
 msgid "desc_r_Dye Components"
-msgstr "Description for dye components"
+msgstr "Materials used to make dye bases."
 
 msgid "desc_r_Dye Solution"
 msgstr "Mixing this with various resources creates a nice base for dyes."
@@ -6686,7 +6689,7 @@ msgid "desc_r_Dynamic Chests"
 msgstr " "
 
 msgid "desc_r_Dynamic Clan Bindstone Items"
-msgstr " "
+msgstr "Siege stones, placed with a double-click."
 
 msgid "desc_r_Dynamic Clan Bindstones"
 msgstr " "
@@ -6755,7 +6758,7 @@ msgid "desc_r_Ear Accessory_15"
 msgstr " "
 
 msgid "desc_r_Earrings"
-msgstr ""
+msgstr "Earrings worn as jewellery."
 
 msgid "desc_r_Earth Elemental"
 msgstr " "
@@ -6792,7 +6795,7 @@ msgid "desc_r_Eldritch Cinder"
 msgstr "Very potent ingredient used for enchanting."
 
 msgid "desc_r_Elemental Arrows"
-msgstr "Elemental Arrows Description"
+msgstr "Arrows that deal fire, acid, ice, lightning, holy or unholy damage."
 
 msgid "desc_r_Elemental Blades"
 msgstr "An elemental blade used in crafting sithras."
@@ -6804,7 +6807,7 @@ msgid "desc_r_Elemental Hoarfrost"
 msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Elemental Magic Essence"
-msgstr "Magical essences used in crafting elemental scrolls."
+msgstr "The essences of earth, air, fire and water."
 
 msgid "desc_r_Elemental Quartz"
 msgstr "Ingredient used for enchanting."
@@ -6869,7 +6872,7 @@ msgstr ""
 "Permanently increases Vitality to a maximum of 120."
 
 msgid "desc_r_Elixirs"
-msgstr " "
+msgstr "Elixirs that permanently raise an attribute, up to a limit."
 
 msgid "desc_r_Ember Blade"
 msgstr " This year's latest fashion in stabbing your foes with style!"
@@ -6941,7 +6944,7 @@ msgid "desc_r_Empty Bottle"
 msgstr "Glass container used when creating potions."
 
 msgid "desc_r_Enchantable Gems"
-msgstr "Description of r_Enchantable Gems"
+msgstr "Gemstones that can store an enchant."
 
 msgid "desc_r_Enchantment Gems"
 msgstr ""
@@ -7015,7 +7018,7 @@ msgid "desc_r_Extension Shards"
 msgstr " "
 
 msgid "desc_r_Exterior Objects"
-msgstr " "
+msgstr "Gardens, statues and other decorations placed outside a house."
 
 msgid "desc_r_Eye"
 msgstr "Ingredient used for enchanting."
@@ -8633,7 +8636,7 @@ msgstr ""
 "sithra."
 
 msgid "desc_r_Fibulae"
-msgstr " "
+msgstr "Brooches that link an elemental blade to a hilt when making a sithra."
 
 msgid "desc_r_Fiend Claw"
 msgstr "Very potent ingredient used for enchanting."
@@ -8785,19 +8788,19 @@ msgstr ""
 "double-clicking the item.    "
 
 msgid "desc_r_Figurines"
-msgstr " "
+msgstr "Figurines that turn into boats, mounts, cannons and warhulks."
 
 msgid "desc_r_Figurines Boats"
-msgstr " "
+msgstr "Boat and ship figurines, from rafts to warships."
 
 msgid "desc_r_Figurines Funhulks"
 msgstr " "
 
 msgid "desc_r_Figurines Guns"
-msgstr " "
+msgstr "Figurines that turn into cannons and mortars."
 
 msgid "desc_r_Figurines Mounts"
-msgstr "This magical figurine can be turned into a horse."
+msgstr "Figurines that turn into mounts."
 
 msgid "desc_r_Figurines Rafts"
 msgstr " "
@@ -8806,10 +8809,10 @@ msgid "desc_r_Figurines Tier1 Boats"
 msgstr "Contains all floating vessels from rafts to full-size ships."
 
 msgid "desc_r_Figurines Tier2 Boats"
-msgstr "Contains floating vessels from larger ships to full-zize warships."
+msgstr "Contains floating vessels from larger ships to full-size warships."
 
 msgid "desc_r_Figurines Warhulks"
-msgstr " "
+msgstr "Figurines that turn into warhulks."
 
 msgid "desc_r_Fine Hood"
 msgstr ""
@@ -8858,7 +8861,7 @@ msgstr ""
 "As its name indicates, this powerful axe imparts Fire damage upon impact."
 
 msgid "desc_r_Fish"
-msgstr " "
+msgstr "Fish caught with a fishing pole."
 
 msgid "desc_r_Fish Cooked"
 msgstr "A very simple fish dish."
@@ -9165,22 +9168,22 @@ msgid "desc_r_Fun Flags End"
 msgstr " "
 
 msgid "desc_r_Fun Flags End items"
-msgstr " "
+msgstr "The flag that marks the finish."
 
 msgid "desc_r_Fun Flags Items"
-msgstr ""
+msgstr "Fun Flags that mark the start, middle and finish of a course."
 
 msgid "desc_r_Fun Flags Middle"
 msgstr " "
 
 msgid "desc_r_Fun Flags Middle items"
-msgstr " "
+msgstr "Flags for the middle of a course."
 
 msgid "desc_r_Fun Flags Start"
 msgstr " "
 
 msgid "desc_r_Fun Flags Start items"
-msgstr " "
+msgstr "The flag that marks the start."
 
 msgid "desc_r_Funhulk Cannons"
 msgstr " "
@@ -9786,7 +9789,7 @@ msgstr ""
 "A marvelous jeweled necklace, set with several different valuable gemstones."
 
 msgid "desc_r_Gemstones"
-msgstr "Description of r_Cut Gemstones"
+msgstr "Gemstones that can store an enchant."
 
 msgid "desc_r_Generic Prop"
 msgstr " "
@@ -10108,7 +10111,7 @@ msgid "desc_r_Grenade_Faction"
 msgstr "An enchanted grenade. Can only damage faction structures."
 
 msgid "desc_r_Grenades"
-msgstr " "
+msgstr "Grenades and battlespikes, thrown by hand."
 
 msgid "desc_r_Grief"
 msgstr ""
@@ -10246,7 +10249,7 @@ msgid "desc_r_Hatchet"
 msgstr "A simple weapon one-handed axe that is in common use throughout Agon."
 
 msgid "desc_r_Hats"
-msgstr "  "
+msgstr "Festive and courtly hats."
 
 msgid "desc_r_Head Alfar Female"
 msgstr "The head of a fallen Alfar"
@@ -10290,7 +10293,7 @@ msgstr ""
 "and skulls. "
 
 msgid "desc_r_Heads"
-msgstr "Description of r_Heads"
+msgstr "The heads of fallen characters, of every race."
 
 msgid "desc_r_Heart"
 msgstr "Ingredient used for enchanting."
@@ -10381,7 +10384,7 @@ msgstr ""
 "Permanently increases Quickness to a maximum of 100."
 
 msgid "desc_r_Herbs"
-msgstr "Description of r_Herbs"
+msgstr "Herbs used with Alchemy to create potions."
 
 msgid "desc_r_Herring"
 msgstr "A small oily fish."
@@ -10449,7 +10452,7 @@ msgid "desc_r_Hobgoblins"
 msgstr "Description of r_Hobgoblins"
 
 msgid "desc_r_Holiday Food"
-msgstr "This is a dummy item that doesn't exist"
+msgstr "Seasonal treats from holiday events."
 
 msgid "desc_r_Hood Acolyte"
 msgstr "A hood that's popular among the acolytes of the watcher."
@@ -10507,7 +10510,7 @@ msgid "desc_r_Horse"
 msgstr "Press Use button to mount or Alternative Use to unsummon."
 
 msgid "desc_r_House Building Items"
-msgstr ""
+msgstr "Materials used to build houses."
 
 msgid "desc_r_House Deed Draft"
 msgstr ""
@@ -10544,6 +10547,7 @@ msgstr "  "
 
 msgid "desc_r_House Items"
 msgstr ""
+"Everything for houses: building materials, decorations, permits and deeds."
 
 msgid "desc_r_House Key"
 msgstr "Key to your home."
@@ -10941,7 +10945,7 @@ msgstr ""
 "banked or traded and drops when you die."
 
 msgid "desc_r_Interior Objects"
-msgstr " "
+msgstr "Furniture and decorations placed inside a house."
 
 msgid "desc_r_Iron Enforcer"
 msgstr ""
@@ -10992,7 +10996,7 @@ msgid "desc_r_Irtych"
 msgstr " "
 
 msgid "desc_r_Item Packages"
-msgstr ""
+msgstr "Sealed treasures, caches, pouches and boxes that open into rewards."
 
 msgid "desc_r_Item Skin Scroll"
 msgstr "Double click to add a new item skin to your account!"
@@ -11023,7 +11027,7 @@ msgid "desc_r_Key Chest Markers"
 msgstr " "
 
 msgid "desc_r_Keys"
-msgstr "A metal key."
+msgstr "Keys that open treasure chests and Slayer caches."
 
 msgid "desc_r_Khothar"
 msgstr ""
@@ -11491,7 +11495,9 @@ msgid "desc_r_Mace Simple"
 msgstr "A simple mace."
 
 msgid "desc_r_Magic Essence"
-msgstr "Magical essences used in crafting scrolls."
+msgstr ""
+"Magical essences that crafters use to bind the power of an element into "
+"their work."
 
 msgid "desc_r_Magic Staffs"
 msgstr ""
@@ -11821,7 +11827,8 @@ msgstr ""
 "the gem then click on the item you wish to enchant."
 
 msgid "desc_r_Magical Gems"
-msgstr "Description of r_Magical Gems"
+msgstr ""
+"Gems that hold an enchant. Double-click one, then click the item to enchant."
 
 msgid "desc_r_Magical Pearl"
 msgstr ""
@@ -12319,7 +12326,7 @@ msgstr ""
 "in your home."
 
 msgid "desc_r_Masks"
-msgstr "  "
+msgstr "Masks worn over the face."
 
 msgid "desc_r_Masquerade"
 msgstr ""
@@ -12353,9 +12360,7 @@ msgid "desc_r_Matayins"
 msgstr " "
 
 msgid "desc_r_Materials"
-msgstr ""
-"All items, usually the result of skinning, used in various enchanting "
-"recipes."
+msgstr "Raw and refined materials used in crafting."
 
 msgid "desc_r_Measuring Scale"
 msgstr ""
@@ -12401,7 +12406,7 @@ msgid "desc_r_Melechars"
 msgstr " "
 
 msgid "desc_r_Melee Weapons"
-msgstr "Description of r_Melee Weapons"
+msgstr "Swords, axes, clubs, knives, polearms and other close-combat weapons."
 
 msgid "desc_r_Melek Altar"
 msgstr ""
@@ -12514,7 +12519,7 @@ msgid "desc_r_Metal Golems"
 msgstr " "
 
 msgid "desc_r_Metal Ore"
-msgstr "Description of r_Metal Ore"
+msgstr "Ore and nuggets from mining, smelted into ingots."
 
 msgid "desc_r_Metal Props"
 msgstr "Description of r_Metal Props"
@@ -12717,7 +12722,7 @@ msgid "desc_r_Module Warhulk"
 msgstr "Intermediate step when constructing warhulks."
 
 msgid "desc_r_Modules"
-msgstr " "
+msgstr "Modules used to build clan buildings, cannons, ships and warhulks."
 
 msgid "desc_r_Monster Corpse"
 msgstr " "
@@ -12726,7 +12731,7 @@ msgid "desc_r_Monster Structures"
 msgstr " "
 
 msgid "desc_r_Monster Toys"
-msgstr "Monster toys."
+msgstr "Rare collectible toys of monsters."
 
 msgid "desc_r_Monsters"
 msgstr " "
@@ -13271,7 +13276,7 @@ msgid "desc_r_Natural Weapons"
 msgstr " "
 
 msgid "desc_r_Necklaces"
-msgstr ""
+msgstr "Necklaces, amulets and charms worn around the neck."
 
 msgid "desc_r_Necromancy Magic Scrolls"
 msgstr "Scrolls for learning Necromancy Magic related spells."
@@ -13729,7 +13734,7 @@ msgstr ""
 "This orkish weapon is also called anvil-on-a-stick by its originators. "
 
 msgid "desc_r_Permits"
-msgstr " "
+msgstr "Permits required to build homes and certain amenities."
 
 msgid "desc_r_Personal Bank Extension"
 msgstr "Double click to add a new tab or extend your second personal bank tab!"
@@ -14434,19 +14439,17 @@ msgid "desc_r_Rawhide"
 msgstr "Rawhide must be refined into leather before used in crafting"
 
 msgid "desc_r_Rawhides"
-msgstr "Description of r_Rawhides"
+msgstr "Rawhide from skinning, tanned into leather."
 
 msgid "desc_r_Reagents"
-msgstr ""
-"All items, usually the result of skinning, used in various enchanting "
-"recipes."
+msgstr "Resin, sulfur, nacre, bone, mandrake and ashes."
 
 msgid "desc_r_Reaper Black Dye"
 msgstr ""
 "Express your style with this armor coloring dye. Cannot be used for research."
 
 msgid "desc_r_Recipes"
-msgstr " "
+msgstr "Recipes that teach how to craft items, sorted by profession."
 
 msgid "desc_r_Red Festive Cap"
 msgstr " For the time to be jolly."
@@ -14592,7 +14595,7 @@ msgid "desc_r_Ring"
 msgstr "A small ring, common in most parts of Agon."
 
 msgid "desc_r_Rings"
-msgstr ""
+msgstr "Rings worn on the fingers."
 
 msgid "desc_r_Ripper"
 msgstr ""
@@ -14625,19 +14628,19 @@ msgstr ""
 "attacks, while not hindering spellcasting."
 
 msgid "desc_r_Robes"
-msgstr ""
+msgstr "Robes and their matching hoods."
 
 msgid "desc_r_Robes Acolyte"
 msgstr ""
 
 msgid "desc_r_Robes Extravagant"
-msgstr ""
+msgstr "The Extravagant Robe and its hood."
 
 msgid "desc_r_Robes Fine"
-msgstr ""
+msgstr "The Fine Robe and its hood."
 
 msgid "desc_r_Robes Simple"
-msgstr ""
+msgstr "The Simple Robe and its hood."
 
 msgid "desc_r_Rock Smasher"
 msgstr ""
@@ -15909,7 +15912,7 @@ msgid "desc_r_Sheperds Pie"
 msgstr "Easy to prepare, but very tasty."
 
 msgid "desc_r_Shields"
-msgstr " "
+msgstr "Shields of every size, from bucklers to large shields."
 
 msgid "desc_r_Shields Metal"
 msgstr ""
@@ -16048,7 +16051,7 @@ msgid "desc_r_Siege Hammer"
 msgstr "A huge, slow hammer, created for damaging clan stones."
 
 msgid "desc_r_Siege Weapons"
-msgstr ""
+msgstr "Weapons made for damaging clan stones."
 
 msgid "desc_r_Sigil"
 msgstr "A magical stone that activates a portal."
@@ -16175,7 +16178,7 @@ msgid "desc_r_Skeletons Uncommon"
 msgstr " "
 
 msgid "desc_r_Skin Bile"
-msgstr ""
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Blood"
 msgstr "Ingredient used for enchanting."
@@ -16205,7 +16208,7 @@ msgid "desc_r_Skin Heart"
 msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Hoarfrost"
-msgstr " "
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Horn"
 msgstr "Ingredient used for enchanting."
@@ -16221,11 +16224,10 @@ msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Rare"
 msgstr ""
-"Concentrated energy that precipitates the reaction neccesary to enchant "
-"items."
+"Concentrated energy that precipitates the reaction necessary to enchant."
 
 msgid "desc_r_Skin Regular"
-msgstr "Description of r_Resource Drops"
+msgstr "Ingredients used for enchanting, sorted by type."
 
 msgid "desc_r_Skin Shadowcrest"
 msgstr "Ingredient used for enchanting."
@@ -16234,10 +16236,10 @@ msgid "desc_r_Skin Skull"
 msgstr " "
 
 msgid "desc_r_Skin Sparkstone"
-msgstr ""
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Storm Rune"
-msgstr " "
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Temp Item_01"
 msgstr " temp"
@@ -16246,10 +16248,10 @@ msgid "desc_r_Skin Temp Item_02"
 msgstr " temp"
 
 msgid "desc_r_Skin Tooth"
-msgstr " "
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skin Venom Sac"
-msgstr ""
+msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Skinner"
 msgstr "This tool is used to skin animals and monsters."
@@ -16676,7 +16678,7 @@ msgid "desc_r_Special Resource"
 msgstr "Rare Resources that are obtained from the strongest monsters."
 
 msgid "desc_r_Specialty Scrolls"
-msgstr "This is a category for special item scrolls"
+msgstr "Scrolls for titles, skins, emotes and XP boosts."
 
 msgid "desc_r_Spell Skin Scroll"
 msgstr "Double click to add a new spell skin to your account!"
@@ -16830,7 +16832,9 @@ msgid "desc_r_Stonewall"
 msgstr "A beginner's shield, far less effective than the name suggests."
 
 msgid "desc_r_Store Items"
-msgstr "Description of r_Store Items"
+msgstr ""
+"Tokens and services from the store, such as game time, name changes and bank "
+"extensions."
 
 msgid "desc_r_Stormcaller"
 msgstr "One of the seven sithras. Dealing Lightning damage."
@@ -17076,22 +17080,22 @@ msgstr ""
 "one being to that place. Activate by double-clicking on the item."
 
 msgid "desc_r_Teleport Runes"
-msgstr " "
+msgstr "Portal shards, runestones and teleport runes."
 
 msgid "desc_r_Teleporter Entrance Items"
-msgstr " "
+msgstr "The Nexus Entrance. An exit is also needed to activate it."
 
 msgid "desc_r_Teleporter Entrances"
 msgstr " "
 
 msgid "desc_r_Teleporter Exit Items"
-msgstr " "
+msgstr "The Nexus Exit. An entrance is also needed to activate it."
 
 msgid "desc_r_Teleporter Exits"
 msgstr " "
 
 msgid "desc_r_Teleporter Items"
-msgstr " "
+msgstr "Nexus entrances and exits. Place one of each to make a teleporter."
 
 msgid "desc_r_Teleporters"
 msgstr " "
@@ -17435,7 +17439,7 @@ msgstr ""
 "A greatsword which features five beak-like hooks embedded in a wooden pole."
 
 msgid "desc_r_Throwable Weapons"
-msgstr " "
+msgstr "Grenades and battlespikes, thrown by hand."
 
 msgid "desc_r_Thrown Bludgeoning"
 msgstr " "
@@ -17460,7 +17464,7 @@ msgid "desc_r_Timber"
 msgstr "Raw material for crafting. Manufactured into wood at workbenches."
 
 msgid "desc_r_Timbers"
-msgstr "Description of r_Timbers"
+msgstr "Timber from felling trees."
 
 msgid "desc_r_Tinkling Jester Cap"
 msgstr " The jesters choice of tomorrow"
@@ -17646,7 +17650,7 @@ msgid "desc_r_Treasure Map Item"
 msgstr "Double click to see the Map."
 
 msgid "desc_r_Treasure Map Items"
-msgstr " "
+msgstr "Treasure maps. Double-click one to see the map."
 
 msgid "desc_r_Tree Hugger"
 msgstr " test of monster creator (Ricki)"
@@ -17841,7 +17845,8 @@ msgid "desc_r_Undeath Sparkstone"
 msgstr "Ingredient used for enchanting."
 
 msgid "desc_r_Unique Materials"
-msgstr " "
+msgstr ""
+"Rare materials for special recipes, such as idols, extracts and astrolabes."
 
 msgid "desc_r_V11 shrine sadayel"
 msgstr " "
@@ -18173,7 +18178,7 @@ msgstr ""
 "rack. "
 
 msgid "desc_r_Weapons"
-msgstr " "
+msgstr "Bows, staves, melee weapons and throwable weapons."
 
 msgid "desc_r_Weather Vane"
 msgstr " "
@@ -18324,7 +18329,7 @@ msgstr ""
 "sylvan warriors."
 
 msgid "desc_r_Woods"
-msgstr "Description of r_Woods"
+msgstr "Wood used in crafting."
 
 msgid "desc_r_Woodworking Knife"
 msgstr "A tool used for making bows and arrows."
@@ -19008,7 +19013,7 @@ msgid "desc_r_p22 shrine of dragons"
 msgstr " "
 
 msgid "desc_r_pigments"
-msgstr "This is a dummy item that doesn't exist"
+msgstr "Pigments that add color to a dye base."
 
 msgid "desc_r_plank"
 msgstr "Building material used in the home building process."
@@ -22999,7 +23004,7 @@ msgid "desc_r_toy_zombie_warrior"
 msgstr "A collectible toy that summons a Zombie Warrior pet."
 
 msgid "desc_r_trade packs"
-msgstr ""
+msgstr "Resource sacks that start a trade route."
 
 msgid "desc_r_trade reward bundle"
 msgstr "A Reward bundle full of resources, I wonder what's inside?"
