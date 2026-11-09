@@ -1201,7 +1201,9 @@ msgid "desc_s_Disabling Blow_Sword_2"
 msgstr ""
 
 msgid "desc_s_Disabling Bolt"
-msgstr "Fires a bolt that briefly stops a target from parrying."
+msgstr ""
+"Fires a bolt that briefly stops a target from parrying. Does not break a "
+"monster's raised shield."
 
 msgid "desc_s_Disabling Bolt_1"
 msgstr ""
@@ -1210,7 +1212,9 @@ msgid "desc_s_Disabling Bolt_2"
 msgstr ""
 
 msgid "desc_s_Disabling Shot"
-msgstr "Fires a shot that briefly prevents the target from parrying."
+msgstr ""
+"Fires a shot that briefly prevents the target from parrying. Does not break "
+"a monster's raised shield."
 
 msgid "desc_s_Disabling Shot_1"
 msgstr ""

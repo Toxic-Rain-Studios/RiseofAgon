@@ -9521,6 +9521,9 @@ msgstr "You found %1!"
 msgid "NOTIFICATION_FREE_CAPITAL_RECALL_REMAINING"
 msgstr "You have %1 free Faction Capital Recalls remaining"
 
+msgid "NOTIFICATION_GEM_ENCHANTING_FAILED_GEM_USED"
+msgstr "The gem was used up but could not be set. Please report this to a GM."
+
 msgid "NOTIFICATION_GENERIC"
 msgstr "%1"
 
@@ -12515,6 +12518,24 @@ msgid "NOTIFICATION_RESEARCH_ITEM_NO_SKILL"
 msgstr ""
 "This skill %1 needs to be leveled by researching a crafted item with a blank "
 "schematic"
+
+msgid "NOTIFICATION_RESEARCH_ITEM_RETURNED"
+msgstr "A queued research item was returned to your backpack."
+
+msgid "NOTIFICATION_RESEARCH_ITEM_RETURNED_BELOW_TIER"
+msgstr ""
+"A queued research item was returned to your backpack: it is now below your "
+"%1 tier and can no longer train it."
+
+msgid "NOTIFICATION_RESEARCH_ITEM_RETURN_FAILED"
+msgstr ""
+"A queued research item could not be returned to your backpack. Please report "
+"this to a GM."
+
+msgid "NOTIFICATION_RESEARCH_ITEM_USED_BELOW_TIER"
+msgstr ""
+"A queued research item was used up: it is now below your %1 tier and could "
+"not train it."
 
 #. No runtime parameters. The research supply meter is too low for one more item; the item is kept.
 msgid "NOTIFICATION_RESEARCH_MISSING_MATERIALS"

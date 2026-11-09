@@ -5352,6 +5352,9 @@ msgstr "Owned only"
 msgid "dye_panel_slot_readout"
 msgstr "%1: %2"
 
+msgid "dye_panel_stand_still"
+msgstr "Stand still to dye."
+
 msgid "dye_panel_status_already"
 msgstr "Already dyed those colors."
 
@@ -9054,6 +9057,9 @@ msgstr "Equiv: OFF"
 msgid "loadout_btn_equiv_on_short"
 msgstr "Equiv: ON"
 
+msgid "loadout_busy_generating"
+msgstr "Generate from Bag is still running. Try again in a moment."
+
 msgid "loadout_button_resupply"
 msgstr "Resupply"
 
@@ -9188,6 +9194,9 @@ msgstr "Loadout"
 
 msgid "loadout_label_loadouts_list"
 msgstr "Loadouts"
+
+msgid "loadout_list_empty_not_saved"
+msgstr "(empty - not saved)"
 
 msgid "loadout_loot_deposit_blocked_pvp_combat"
 msgstr "[Loot] Deposit blocked in PvP combat. %1 seconds left."
@@ -9536,6 +9545,23 @@ msgstr "Use a Loadout Slot Token to unlock more slots"
 
 msgid "loadout_unknown_resource"
 msgstr "Unknown (%1)"
+
+msgid "loadout_unsaved_discard"
+msgstr "Discard"
+
+msgid "loadout_unsaved_earlier_message"
+msgstr ""
+"Your loadouts have changes that were never saved. Save them, or discard them "
+"and load the saved loadouts?"
+
+msgid "loadout_unsaved_message"
+msgstr "You have unsaved changes to your loadouts."
+
+msgid "loadout_unsaved_save"
+msgstr "Save"
+
+msgid "loadout_unsaved_title"
+msgstr "Unsaved Loadout Changes"
 
 msgid "log_lesson_back"
 msgstr "Back"
