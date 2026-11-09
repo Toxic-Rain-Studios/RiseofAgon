@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-08 18:17+0000\n"
+"PO-Revision-Date: 2026-11-09 12:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -4596,6 +4596,7 @@ msgstr "Description of r_Trees"
 msgid "r_Store Items"
 msgstr "商店物品"
 
+#, fuzzy
 msgid "desc_r_Store Items"
 msgstr "Description of r_Store Items"
 
@@ -4657,6 +4658,7 @@ msgstr "Description of r_Items"
 msgid "r_Monster Toys"
 msgstr "怪物玩具"
 
+#, fuzzy
 msgid "desc_r_Monster Toys"
 msgstr "怪物玩具."
 
@@ -5119,6 +5121,7 @@ msgstr "一种罕见的可收集的水系精灵玩具."
 msgid "r_Ammo"
 msgstr "弹药"
 
+#, fuzzy
 msgid "desc_r_Ammo"
 msgstr "Description of r_Ammo"
 
@@ -5155,6 +5158,7 @@ msgstr "一支被设计成笔直快速飞行的投射物."
 msgid "r_Elemental Arrows"
 msgstr "元素箭"
 
+#, fuzzy
 msgid "desc_r_Elemental Arrows"
 msgstr "元素箭描述"
 
@@ -5377,6 +5381,7 @@ msgstr "Description of r_Apparel"
 msgid "r_Accessories"
 msgstr "配饰"
 
+#, fuzzy
 msgid "desc_r_Accessories"
 msgstr "Description of r_Accessories"
 
@@ -5527,6 +5532,7 @@ msgstr "一条用昂贵材料制成的精美项链."
 msgid "r_Rings"
 msgstr "戒指"
 
+#, fuzzy
 msgid "desc_r_Rings"
 msgstr " "
 
@@ -5611,12 +5617,14 @@ msgstr "一种便宜的铁制饰品."
 msgid "r_Armor"
 msgstr "盔甲"
 
+#, fuzzy
 msgid "desc_r_Armor"
 msgstr " "
 
 msgid "r_Armor Banded"
 msgstr "铁盔甲"
 
+#, fuzzy
 msgid "desc_r_Armor Banded"
 msgstr " "
 
@@ -5869,6 +5877,7 @@ msgstr "给预算紧张的冒险家提供保护."
 msgid "r_Armor Dragon"
 msgstr "龙皮盔甲"
 
+#, fuzzy
 msgid "desc_r_Armor Dragon"
 msgstr " "
 
@@ -6001,6 +6010,7 @@ msgstr "保护躯干的金属盔甲."
 msgid "r_Armor Infernal"
 msgstr "地狱盔甲"
 
+#, fuzzy
 msgid "desc_r_Armor Infernal"
 msgstr " "
 
@@ -6523,6 +6533,7 @@ msgstr "金属护肩既丑陋又无效."
 msgid "r_Armor Padded"
 msgstr "棉布盔甲"
 
+#, fuzzy
 msgid "desc_r_Armor Padded"
 msgstr " "
 
@@ -6805,6 +6816,7 @@ msgstr "农民和工人穿的."
 msgid "r_Hats"
 msgstr "帽子"
 
+#, fuzzy
 msgid "desc_r_Hats"
 msgstr "  "
 
@@ -6847,6 +6859,7 @@ msgstr "在恶劣的天气穿着舒适.对精神攻击也有一点保护."
 msgid "r_Masks"
 msgstr "面具"
 
+#, fuzzy
 msgid "desc_r_Masks"
 msgstr "  "
 
@@ -6991,6 +7004,7 @@ msgstr "一件平淡的衣服."
 msgid "r_Shields"
 msgstr "盾牌"
 
+#, fuzzy
 msgid "desc_r_Shields"
 msgstr " "
 
@@ -7345,6 +7359,7 @@ msgstr "一个巨大的盾牌,对来袭的导弹提供极好的保护."
 msgid "r_Clan Shards"
 msgstr "公会碎片"
 
+#, fuzzy
 msgid "desc_r_Clan Shards"
 msgstr " "
 
@@ -7417,6 +7432,7 @@ msgstr " "
 msgid "r_Elixirs"
 msgstr "属性药剂"
 
+#, fuzzy
 msgid "desc_r_Elixirs"
 msgstr " "
 
@@ -8127,6 +8143,7 @@ msgstr "整理库存的实用物品."
 msgid "r_Dynamic Clan Bindstone Items"
 msgstr "动态公会绑定石"
 
+#, fuzzy
 msgid "desc_r_Dynamic Clan Bindstone Items"
 msgstr " "
 
@@ -8205,12 +8222,14 @@ msgstr "  "
 msgid "r_Figurines"
 msgstr "雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines"
 msgstr " "
 
 msgid "r_Figurines Boats"
 msgstr "船舶雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines Boats"
 msgstr " "
 
@@ -8271,6 +8290,7 @@ msgstr "召唤一艘船.双击项目时瞄准湖泊或海洋."
 msgid "r_Figurines Tier2 Boats"
 msgstr "双层船雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines Tier2 Boats"
 msgstr "包含从大型船只到全尺寸军舰的浮船."
 
@@ -8313,6 +8333,7 @@ msgstr "召唤Agon已知最大的军舰 .双击项目时瞄准湖泊或海洋.  
 msgid "r_Figurines Guns"
 msgstr "枪炮雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines Guns"
 msgstr " "
 
@@ -8337,6 +8358,7 @@ msgstr "这个雕像可以召唤迫击炮."
 msgid "r_Figurines Mounts"
 msgstr "坐骑雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines Mounts"
 msgstr "这个神奇的雕像可以变成一匹马."
 
@@ -8403,6 +8425,7 @@ msgstr " "
 msgid "r_Figurines Warhulks"
 msgstr "战舰雕像"
 
+#, fuzzy
 msgid "desc_r_Figurines Warhulks"
 msgstr " "
 
@@ -8475,6 +8498,7 @@ msgstr "召唤一个超级有趣的夺旗巨舰."
 msgid "r_Fish"
 msgstr "鱼"
 
+#, fuzzy
 msgid "desc_r_Fish"
 msgstr " "
 
@@ -8541,6 +8565,7 @@ msgstr ""
 msgid "r_Fun Flags End items"
 msgstr "趣味旗帜结束"
 
+#, fuzzy
 msgid "desc_r_Fun Flags End items"
 msgstr " "
 
@@ -8553,6 +8578,7 @@ msgstr "双击以放置完成趣味旗帜."
 msgid "r_Fun Flags Middle items"
 msgstr "趣味旗帜中间"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Middle items"
 msgstr " "
 
@@ -8577,6 +8603,7 @@ msgstr "双击以放置简单中间趣味旗帜."
 msgid "r_Fun Flags Start items"
 msgstr "趣味旗帜开始"
 
+#, fuzzy
 msgid "desc_r_Fun Flags Start items"
 msgstr " "
 
@@ -8619,6 +8646,7 @@ msgstr "个人摊位所需的一切.双击放置."
 msgid "r_Heads"
 msgstr "头"
 
+#, fuzzy
 msgid "desc_r_Heads"
 msgstr "Description of r_Heads"
 
@@ -8783,12 +8811,14 @@ msgstr "房屋制作过程中使用的材料."
 msgid "r_Buildables"
 msgstr "可建造的"
 
+#, fuzzy
 msgid "desc_r_Buildables"
 msgstr " "
 
 msgid "r_Exterior Objects"
 msgstr "外部物品"
 
+#, fuzzy
 msgid "desc_r_Exterior Objects"
 msgstr " "
 
@@ -8915,6 +8945,7 @@ msgstr "龙形的风向标,用于显示风向.双击可添加到您的家中."
 msgid "r_Interior Objects"
 msgstr "内部物品"
 
+#, fuzzy
 msgid "desc_r_Interior Objects"
 msgstr " "
 
@@ -9251,6 +9282,7 @@ msgstr "一幅以自然为主题的画作.双击可放置在您的家中."
 msgid "r_Permits"
 msgstr "许可证"
 
+#, fuzzy
 msgid "desc_r_Permits"
 msgstr " "
 
@@ -9263,6 +9295,7 @@ msgstr "建造房屋和某些设施需要建筑许可证."
 msgid "r_Deeds"
 msgstr "契约"
 
+#, fuzzy
 msgid "desc_r_Deeds"
 msgstr " "
 
@@ -9329,6 +9362,7 @@ msgstr "回家的钥匙."
 msgid "r_Keys"
 msgstr "钥匙"
 
+#, fuzzy
 msgid "desc_r_Keys"
 msgstr "一把金属钥匙"
 
@@ -10727,6 +10761,7 @@ msgstr "一张用于研究盔甲锻造的示意图."
 msgid "r_Reagents"
 msgstr "施法材料"
 
+#, fuzzy
 msgid "desc_r_Reagents"
 msgstr "所有剥皮后的食物,用于各种附魔食谱."
 
@@ -10769,6 +10804,7 @@ msgstr "法术的施法材料."
 msgid "r_Magical Gems"
 msgstr "附魔石"
 
+#, fuzzy
 msgid "desc_r_Magical Gems"
 msgstr "Description of r_Magical Gems"
 
@@ -11374,6 +11410,7 @@ msgstr ""
 msgid "r_Materials"
 msgstr "材料"
 
+#, fuzzy
 msgid "desc_r_Materials"
 msgstr "所有剥皮后的食物,用于各种附魔食谱."
 
@@ -11494,6 +11531,7 @@ msgstr "一种极易挥发的物质,用于在守望者废弃中发射大炮."
 msgid "r_Cottons"
 msgstr "棉株"
 
+#, fuzzy
 msgid "desc_r_Cottons"
 msgstr "Description of r_Cottons"
 
@@ -11638,6 +11676,7 @@ msgstr "制作药水时使用的玻璃容器."
 msgid "r_Fibulae"
 msgstr "扣针"
 
+#, fuzzy
 msgid "desc_r_Fibulae"
 msgstr " "
 
@@ -11686,6 +11725,7 @@ msgstr "一种饰针,用于制作神剑时将元素之刃与剑柄相连."
 msgid "r_Gemstones"
 msgstr "宝石"
 
+#, fuzzy
 msgid "desc_r_Gemstones"
 msgstr "Description of r_Cut Gemstones"
 
@@ -11698,6 +11738,7 @@ msgstr "一颗美丽的黑珍珠.这一定很罕见."
 msgid "r_Enchantable Gems"
 msgstr "附魔宝石"
 
+#, fuzzy
 msgid "desc_r_Enchantable Gems"
 msgstr "Description of r_Enchantable Gems"
 
@@ -11764,6 +11805,7 @@ msgstr "绿松石是一种相当普通的宝石,具有独特的浅绿色色调,�
 msgid "r_Herbs"
 msgstr "草药"
 
+#, fuzzy
 msgid "desc_r_Herbs"
 msgstr "Description of r_Herbs"
 
@@ -11848,6 +11890,7 @@ msgstr "一种有价值的铸锭,金锭熔块的产物,用于制作珠宝和其�
 msgid "r_Rawhides"
 msgstr "生皮"
 
+#, fuzzy
 msgid "desc_r_Rawhides"
 msgstr "Description of r_Rawhides"
 
@@ -11932,6 +11975,7 @@ msgstr "由皇家生皮制成的稀有皮革.这种皮革用于制造一些高�
 msgid "r_Metal Ore"
 msgstr "金属矿石"
 
+#, fuzzy
 msgid "desc_r_Metal Ore"
 msgstr "Description of r_Metal Ore"
 
@@ -12010,6 +12054,7 @@ msgstr "稀有金属块,必须提炼成矿石."
 msgid "r_Modules"
 msgstr "模块"
 
+#, fuzzy
 msgid "desc_r_Modules"
 msgstr " "
 
@@ -12088,6 +12133,7 @@ msgstr "用于各种工艺技能的材料."
 msgid "r_Timbers"
 msgstr "木材"
 
+#, fuzzy
 msgid "desc_r_Timbers"
 msgstr "Description of r_Timbers"
 
@@ -12130,6 +12176,7 @@ msgstr "稀有木材原料,在用于制造之前必须先精炼."
 msgid "r_Unique Materials"
 msgstr "特殊材料"
 
+#, fuzzy
 msgid "desc_r_Unique Materials"
 msgstr " "
 
@@ -12255,6 +12302,7 @@ msgstr "一种广受欢迎的多功能谷类作物."
 msgid "r_Woods"
 msgstr "木料"
 
+#, fuzzy
 msgid "desc_r_Woods"
 msgstr "Description of r_Woods"
 
@@ -12621,12 +12669,14 @@ msgstr "打开彩蛋,获得特别惊喜!"
 msgid "r_Magic Essence"
 msgstr "魔法精华"
 
+#, fuzzy
 msgid "desc_r_Magic Essence"
 msgstr "用于制作卷轴的魔法精华."
 
 msgid "r_Elemental Magic Essence"
 msgstr "魔法元素精华"
 
+#, fuzzy
 msgid "desc_r_Elemental Magic Essence"
 msgstr "用于制作元素卷轴的魔法精华."
 
@@ -13791,6 +13841,7 @@ msgstr "材料和催化剂拼凑成附魔的构件."
 msgid "r_Skin Rare"
 msgstr "稀有皮肤"
 
+#, fuzzy
 msgid "desc_r_Skin Rare"
 msgstr "促进附魔道具所必需的反应的浓缩能量."
 
@@ -13815,6 +13866,7 @@ msgstr "用来附魔的催化剂."
 msgid "r_Skin Regular"
 msgstr "常规皮肤"
 
+#, fuzzy
 msgid "desc_r_Skin Regular"
 msgstr "Description of r_Resource Drops"
 
@@ -14325,6 +14377,7 @@ msgstr "用来附魔的材料."
 msgid "r_Skin Hoarfrost"
 msgstr "白霜皮肤"
 
+#, fuzzy
 msgid "desc_r_Skin Hoarfrost"
 msgstr " "
 
@@ -14680,6 +14733,7 @@ msgstr "用来附魔的材料."
 msgid "r_Skin Storm Rune"
 msgstr "风暴符文皮肤"
 
+#, fuzzy
 msgid "desc_r_Skin Storm Rune"
 msgstr " "
 
@@ -14734,6 +14788,7 @@ msgstr " 临时"
 msgid "r_Skin Tooth"
 msgstr "牙齿皮肤"
 
+#, fuzzy
 msgid "desc_r_Skin Tooth"
 msgstr " "
 
@@ -14836,6 +14891,7 @@ msgstr "用于附魔的材料."
 msgid "r_Teleport Runes"
 msgstr "传送符文"
 
+#, fuzzy
 msgid "desc_r_Teleport Runes"
 msgstr " "
 
@@ -14860,12 +14916,14 @@ msgstr "这块符文石与一个地点相连,它拥有传送一个人到那个�
 msgid "r_Teleporter Items"
 msgstr "传送器"
 
+#, fuzzy
 msgid "desc_r_Teleporter Items"
 msgstr " "
 
 msgid "r_Teleporter Entrance Items"
 msgstr "传送入口"
 
+#, fuzzy
 msgid "desc_r_Teleporter Entrance Items"
 msgstr " "
 
@@ -14878,6 +14936,7 @@ msgstr "双击放置传送门.还需要一个出口来激活它."
 msgid "r_Teleporter Exit Items"
 msgstr "传送出口"
 
+#, fuzzy
 msgid "desc_r_Teleporter Exit Items"
 msgstr " "
 
@@ -15052,6 +15111,7 @@ msgstr " "
 msgid "r_Attachable Tools"
 msgstr "附加工具"
 
+#, fuzzy
 msgid "desc_r_Attachable Tools"
 msgstr " "
 
@@ -15287,6 +15347,7 @@ msgstr "一张藏宝图的碎片,收集其他碎片,制作一张新的藏宝图.
 msgid "r_Treasure Map Items"
 msgstr "藏宝图"
 
+#, fuzzy
 msgid "desc_r_Treasure Map Items"
 msgstr " "
 
@@ -16091,6 +16152,7 @@ msgstr " "
 msgid "r_Weapons"
 msgstr "武器"
 
+#, fuzzy
 msgid "desc_r_Weapons"
 msgstr " "
 
@@ -16499,6 +16561,7 @@ msgstr "魔杖头部镶有宝石,赋予火攻魔法极大加成."
 msgid "r_Melee Weapons"
 msgstr "近战武器"
 
+#, fuzzy
 msgid "desc_r_Melee Weapons"
 msgstr "Description of r_Melee Weapons"
 
@@ -18564,12 +18627,14 @@ msgstr "7-9级怪物使用"
 msgid "r_Throwable Weapons"
 msgstr "投掷武器"
 
+#, fuzzy
 msgid "desc_r_Throwable Weapons"
 msgstr " "
 
 msgid "r_Grenades"
 msgstr "手榴弹"
 
+#, fuzzy
 msgid "desc_r_Grenades"
 msgstr " "
 
@@ -18618,6 +18683,7 @@ msgstr " "
 msgid "r_Specialty Scrolls"
 msgstr "特色卷轴"
 
+#, fuzzy
 msgid "desc_r_Specialty Scrolls"
 msgstr "这是一个特殊物品的卷轴."
 
