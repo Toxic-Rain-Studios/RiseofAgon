@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "skills/fr/>\n"
@@ -3508,6 +3508,7 @@ msgstr "Description de s_critical shot"
 msgid "s_Disabling Shot"
 msgstr "Tir incapacitant"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr "Tire un tir qui empêche brièvement la cible de parer."
 
@@ -4601,6 +4602,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "Boulon invalidant"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "Il tire un boulon qui empêche brièvement une cible de parer."
 
