@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "skills/ru/>\n"
@@ -3489,6 +3489,7 @@ msgstr "Обсуждение s_critic Shot"
 msgid "s_Disabling Shot"
 msgstr "Обезвреживающий выстрел"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr "Выстрел, который ненадолго мешает цели парировать."
 
@@ -4573,6 +4574,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "Отключающий болт"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "Запускает болт, который ненадолго останавливает цель от парирования."
 

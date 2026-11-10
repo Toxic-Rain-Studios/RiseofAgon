@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-24 18:16+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/"
 "tasks/ru/>\n"
@@ -665,6 +665,7 @@ msgstr ""
 "Чтобы начать свое путешествие в качестве убийцы скелета, убейте 60 хрупких "
 "скелетов, лучников скелета или воинов скелета."
 
+#, fuzzy
 msgid "short_desc_task_26_stage_2"
 msgstr "Убей еще 50 скелетов."
 
@@ -673,9 +674,11 @@ msgstr ""
 "Теперь вам нужно убить 50 Севери, чтобы завершить этот этап убийства "
 "Скелета."
 
+#, fuzzy
 msgid "short_desc_task_26_stage_3"
 msgstr "Убей 40 гвардейцев, гравелоордов и других скелетов."
 
+#, fuzzy
 msgid "desc_task_26_stage_3"
 msgstr ""
 "Потратьте 40 Crypt Guards, Shroud Knights или Deadeye, чтобы перейти к "
