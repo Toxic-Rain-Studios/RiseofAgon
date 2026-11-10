@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "skills/de/>\n"
@@ -3527,6 +3527,7 @@ msgstr "Beschreibung von s_critical shot"
 msgid "s_Disabling Shot"
 msgstr "Lähmender Schuss"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr ""
 "Feuert einen Schuss ab, der das Ziel kurzzeitig daran hindert, zu parieren."
@@ -4621,6 +4622,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "Sperrbolzen"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "Feuert einen Bolzen, der ein Ziel kurz daran hindert zu parieren."
 
