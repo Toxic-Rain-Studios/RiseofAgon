@@ -19103,6 +19103,16 @@ msgstr "Worn Out"
 msgid "yes"
 msgstr "Yes"
 
+msgid "ymir_bar_full"
+msgstr ""
+"The Forge is lit! Ymir's devotees have stoked it full: in about %1 minutes "
+"Ymir's Forge musters in a red zone, marked on every map."
+
+msgid "ymir_bar_warning"
+msgstr ""
+"The Forge burns hotter. Ymir's Forge musters in about %1 minutes, in a red "
+"zone marked on every map."
+
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
 
@@ -19207,6 +19217,12 @@ msgstr "You can change your job again in %1 seconds."
 
 msgid "ymir_forge_role_not_at_post"
 msgstr "Change your job at the role post on your own tower's ground floor."
+
+msgid "ymir_forge_starting"
+msgstr ""
+"Ymir's Forge has opened its muster! The race begins in %1 minutes at the "
+"site marked on your map: choose your team and your job there. All who fight "
+"are blessed with Ymir's Gift."
 
 msgid "ymir_forge_stockpile"
 msgstr "Kindling stockpile: %1"
