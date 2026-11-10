@@ -1574,6 +1574,9 @@ msgstr ""
 "Your party changed, so you left the Beneath the Roots queue. Use a tree "
 "again to queue with your party."
 
+msgid "btr_market_unavailable"
+msgstr "The market can't be used inside Beneath the Roots."
+
 msgid "btr_minimap_region"
 msgstr "Neutral Arena"
 
@@ -1709,6 +1712,11 @@ msgstr "Time runs out:"
 
 msgid "btr_timer_zone_closes"
 msgstr "Zone closes:"
+
+msgid "btr_travel_unavailable"
+msgstr ""
+"You can't recall or travel out of Beneath the Roots. Leave through the exit "
+"portal once the match is over."
 
 msgid "btr_zone_neutral_desc"
 msgstr ""
@@ -3081,6 +3089,9 @@ msgstr "That clan is already being created. Give it a moment and try again."
 
 msgid "clan_create_error_already_in_clan"
 msgstr "You are already in a clan."
+
+msgid "clan_create_error_arena"
+msgstr "Clans and alliances cannot be founded inside Beneath the Roots."
 
 msgid "clan_create_error_generic"
 msgstr "The clan could not be created."
@@ -7786,6 +7797,9 @@ msgstr "A loaded wagon has left %1."
 
 msgid "industrial_wagon_wrecked"
 msgstr "Your wagon is lost. %1 crate(s) lie in its wreck."
+
+msgid "instance_item_unavailable"
+msgstr "That can't be used here. Use it once you're back on the mainland."
 
 msgid "interaction_barber_buy_features_button"
 msgstr "Change Features"
@@ -18289,6 +18303,11 @@ msgstr ""
 
 msgid "stats_unspent_points_shared"
 msgstr "Unspent Points: %1"
+
+msgid "store_claim_after_arena"
+msgstr ""
+"Deliveries can't be claimed inside Beneath the Roots. Your purchase is safe "
+"and will be waiting once you're back."
 
 msgid "store_claim_after_tutorial"
 msgstr ""
