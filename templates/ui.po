@@ -19245,8 +19245,36 @@ msgstr ""
 "You take up your team's hammer. Carry it to the forge at the top of your "
 "tower and work Ymir's ritual at the anvil."
 
+msgid "ymir_hammer_dropped"
+msgstr ""
+"%1 fell, and Ymir's hammer lies where they died. The first to reach it takes "
+"it up."
+
+msgid "ymir_hammer_kill_own_clan"
+msgstr ""
+"You cut down a hammer bearer of your own clan. Ymir pays nothing for that."
+
+msgid "ymir_hammer_kill_own_machine"
+msgstr "No reward for cutting down a hammer bearer from your own machine."
+
+msgid "ymir_hammer_kill_own_party"
+msgstr ""
+"You cut down a hammer bearer of your own party. Ymir pays nothing for that."
+
+msgid "ymir_hammer_kill_paid"
+msgstr "You stopped %1 reaching the Anvil of Ymir. Take this cache."
+
 msgid "ymir_hammer_lost"
 msgstr "Your team's hammer is lost. It returns to its stand at the centre."
+
+msgid "ymir_hammer_marker"
+msgstr "%1 carries Ymir's hammer"
+
+msgid "ymir_hammer_marker_dropped"
+msgstr "Ymir's hammer lies here"
+
+msgid "ymir_hammer_none"
+msgstr "You carry no hammer of Ymir's to offer."
 
 msgid "ymir_hammer_not_now"
 msgstr "No hammer can be taken up here now."
@@ -19256,18 +19284,53 @@ msgstr ""
 "Your team's hammer is not on its stand: fill your forge bar first, or "
 "someone already carries it."
 
+msgid "ymir_hammer_not_yet"
+msgstr ""
+"Not now: Ymir's hammer can be offered only while its holder's run lasts."
+
 msgid "ymir_hammer_not_yours"
 msgstr "This hammer is not your team's."
+
+msgid "ymir_hammer_passed"
+msgstr "%1 struck down %2 and takes up Ymir's hammer. The hunt goes on!"
+
+msgid "ymir_hammer_picked_up"
+msgstr "%1 takes up Ymir's hammer where it lay."
 
 msgid "ymir_hammer_returned"
 msgstr "%1's hammer is back on its stand at the centre."
 
+msgid "ymir_hammer_run_begins"
+msgstr ""
+"%1 carries Ymir's hammer out of the Forge: %2 minutes to offer it at the "
+"Anvil of Ymir. Stop them and it is yours!"
+
+msgid "ymir_hammer_run_expired"
+msgstr "%1's time ran out: Ymir takes his hammer back."
+
+msgid "ymir_hammer_run_lost"
+msgstr "%1 has lost Ymir's hammer."
+
 msgid "ymir_hammer_too_far"
 msgstr "You are too far away. Stand right next to the hammer's stand."
+
+msgid "ymir_hammer_turn_in_paid"
+msgstr "+%1 Forge Favor (%2) and a cache."
+
+msgid "ymir_hammer_turned_in"
+msgstr "%1 has offered Ymir's hammer at the Anvil of Ymir."
+
+msgid "ymir_hammer_unclaimed"
+msgstr "Ymir's hammer lay unclaimed and has returned to his forge."
 
 msgid "ymir_hammer_unlocked"
 msgstr ""
 "%1's bar is full: their hammer waits on its stand at the centre of the Forge."
+
+msgid "ymir_hammer_yours"
+msgstr ""
+"Ymir's hammer is yours: %1 minutes left to offer it at the Anvil of Ymir. "
+"Everyone can see you on the map."
 
 msgid "ymir_kindling_claimed"
 msgstr "You gather %1 kindling. Carry it to your tower's stockpile."
@@ -19314,6 +19377,9 @@ msgstr "You are too far away. Stand right next to it."
 
 msgid "ymir_kindling_wrong_stockpile"
 msgstr "This is not your tower's stockpile."
+
+msgid "ymir_offer_hammer"
+msgstr "Offer Ymir's Hammer"
 
 msgid "ymir_reason_damage"
 msgstr "you were hurt"
