@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "skills/es/>\n"
@@ -3482,6 +3482,7 @@ msgstr "Descripción de s_critical shot"
 msgid "s_Disabling Shot"
 msgstr "Disparo incapacitante"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr "Dispara un disparo que brevemente impide que el objetivo se pare."
 
@@ -4569,6 +4570,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "Desactivando el perno"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "Dispara un perno que detiene brevemente a un objetivo de parir."
 
