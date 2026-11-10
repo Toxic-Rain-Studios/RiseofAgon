@@ -19234,6 +19234,52 @@ msgstr "Time left: %1"
 msgid "ymir_forge_window_title"
 msgstr "Ymir's Forge"
 
+msgid "ymir_kindling_claimed"
+msgstr "You gather %1 kindling. Carry it to your tower's stockpile."
+
+msgid "ymir_kindling_delivered"
+msgstr "You add %1 kindling to your tower's stockpile (%2 now)."
+
+msgid "ymir_kindling_dropped"
+msgstr ""
+"You drop your %1 kindling. Anyone may pick it up for the next two minutes."
+
+msgid "ymir_kindling_full"
+msgstr "You cannot carry more kindling (%1 at most)."
+
+msgid "ymir_kindling_gone"
+msgstr "That kindling is gone."
+
+msgid "ymir_kindling_lost"
+msgstr "Your kindling crumbles to ash. It cannot leave Ymir's Forge."
+
+msgid "ymir_kindling_none"
+msgstr "You carry no kindling."
+
+msgid "ymir_kindling_not_gatherer"
+msgstr ""
+"Only a Gatherer gathers kindling and brings it home. Other jobs may only "
+"return kindling they recovered."
+
+msgid "ymir_kindling_not_now"
+msgstr ""
+"Kindling is gathered and delivered only by those taking part, during the "
+"forge race."
+
+msgid "ymir_kindling_recovered"
+msgstr ""
+"You recover %1 kindling. Whatever your job, carry it to your tower's "
+"stockpile."
+
+msgid "ymir_kindling_spot_cooldown"
+msgstr "This pile has been stripped bare. It is ready again in %1 seconds."
+
+msgid "ymir_kindling_too_far"
+msgstr "You are too far away. Stand right next to it."
+
+msgid "ymir_kindling_wrong_stockpile"
+msgstr "This is not your tower's stockpile."
+
 msgid "ymir_reason_damage"
 msgstr "you were hurt"
 
