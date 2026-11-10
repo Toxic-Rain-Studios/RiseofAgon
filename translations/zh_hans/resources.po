@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-09 12:20+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -7011,6 +7011,7 @@ msgstr " "
 msgid "r_Aegis"
 msgstr "宙斯盾"
 
+#, fuzzy
 msgid "desc_r_Aegis"
 msgstr "使用一种特殊的合金材料,这种防护罩制作精良,在相对较轻的情况下提供极好的保护."
 
@@ -7047,6 +7048,7 @@ msgstr "一个非常优秀的工艺防护盾.据信,它最初是由一个已不�
 msgid "r_Aspis"
 msgstr "阿斯皮斯盾"
 
+#, fuzzy
 msgid "desc_r_Aspis"
 msgstr "一个圆形的深碟形防护罩,由木头制成,外面覆盖一层薄薄的金属作为额外的加固."
 
@@ -7071,12 +7073,14 @@ msgstr "一个月兽崇拜这设计的大风筝盾牌."
 msgid "r_Darkguard"
 msgstr "黑暗守卫"
 
+#, fuzzy
 msgid "desc_r_Darkguard"
 msgstr "一种坚固的装备,由几个金属件巧妙地敲击在一起制成."
 
 msgid "r_Dawnward"
 msgstr "黎明盾牌"
 
+#, fuzzy
 msgid "desc_r_Dawnward"
 msgstr "水晶形状的加热盾牌.它的多层金属提供了很好的保护."
 
@@ -7107,6 +7111,7 @@ msgstr "这是一个巨大的盾牌,是真正的矮人铁匠师傅的证明."
 msgid "r_Earthrune"
 msgstr "土地符文盾"
 
+#, fuzzy
 msgid "desc_r_Earthrune"
 msgstr "非常有弹性和有效,这威龙增强盾牌是一个顶级工艺的例子."
 
@@ -7125,6 +7130,7 @@ msgstr "一个临时的盾牌,只不过是几个木板笨拙地钉在一起."
 msgid "r_Frostshroud"
 msgstr "冰霜护罩"
 
+#, fuzzy
 msgid "desc_r_Frostshroud"
 msgstr "不自然的坚固盾牌,类似雪晶."
 
@@ -7209,6 +7215,7 @@ msgstr "一个精灵风筝形盾牌,既美观又有效."
 msgid "r_Moonshade"
 msgstr "月影盾牌"
 
+#, fuzzy
 msgid "desc_r_Moonshade"
 msgstr "非常坚固耐用,这是大多数工匠梦寐以求的盾牌."
 
@@ -7275,6 +7282,7 @@ msgstr ""
 msgid "r_Shredder"
 msgstr "撕碎者"
 
+#, fuzzy
 msgid "desc_r_Shredder"
 msgstr "由一个看不见的魔法源提供动力,这个异常坚固的盾牌的表面永远旋转着."
 

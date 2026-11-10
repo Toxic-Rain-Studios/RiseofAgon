@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
-"Language: English\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://"
+"weblate.riseofagon.com/projects/darkfall/skills/zh_Hans/>\n"
+"Language: zh_hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgid "Skill"
 msgstr "技能"
@@ -3327,6 +3332,7 @@ msgstr "Description of s_Critical Shot"
 msgid "s_Disabling Shot"
 msgstr "破盾射击"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr "使你的对手在短时间内无法躲避的攻击."
 
@@ -4377,6 +4383,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "禁止逃脱"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "使你的对手在短时间内无法躲避的攻击."
 
@@ -5903,4 +5910,3 @@ msgstr "WalkSkill"
 
 msgid "desc_WalkSkill"
 msgstr "Description of WalkSkill"
-
