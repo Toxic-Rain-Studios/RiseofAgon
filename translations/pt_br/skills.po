@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-09-30 23:13+0000\n"
+"PO-Revision-Date: 2026-11-10 00:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/skills/pt_BR/>\n"
@@ -3471,6 +3471,7 @@ msgstr "Descrição do tiro s_crítico"
 msgid "s_Disabling Shot"
 msgstr "Tiro incapacitante"
 
+#, fuzzy
 msgid "desc_s_Disabling Shot"
 msgstr "Dispara um tiro que, brevemente, impede o alvo de parar."
 
@@ -4554,6 +4555,7 @@ msgstr ""
 msgid "s_Disabling Bolt"
 msgstr "Desativar o parafuso"
 
+#, fuzzy
 msgid "desc_s_Disabling Bolt"
 msgstr "Dispara um parafuso que, brevemente, impede um alvo de frear."
 
