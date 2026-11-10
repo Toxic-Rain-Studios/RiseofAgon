@@ -19102,3 +19102,107 @@ msgstr "Worn Out"
 
 msgid "yes"
 msgstr "Yes"
+
+msgid "ymir_forge_bar_label"
+msgstr "%1: %2 percent forged"
+
+msgid "ymir_forge_busy"
+msgstr "Ymir's Forge cannot begin while another god's event is running."
+
+msgid "ymir_forge_cancelled"
+msgstr "Ymir's Forge has been cancelled."
+
+msgid "ymir_forge_choose_role"
+msgstr "Choose your job"
+
+msgid "ymir_forge_choose_team"
+msgstr "Choose your team"
+
+msgid "ymir_forge_join_muster"
+msgstr ""
+"You stand in Ymir's muster. Choose your team and your job. Those who fight "
+"here carry Ymir's Gift: your gear takes no wear and is never lost."
+
+msgid "ymir_forge_kindling_carried"
+msgstr "Kindling carried: %1"
+
+msgid "ymir_forge_moved_team"
+msgstr "The teams were evened out. You now fight for %1."
+
+msgid "ymir_forge_no_choice"
+msgstr "not chosen yet"
+
+msgid "ymir_forge_not_in_muster"
+msgstr "Choose your team inside Ymir's muster circle while the muster is open."
+
+msgid "ymir_forge_not_red_zone"
+msgstr "Ymir's Forge can only be held in a red zone."
+
+msgid "ymir_forge_own_role"
+msgstr "Your job: %1"
+
+msgid "ymir_forge_own_team"
+msgstr "Your team: %1"
+
+msgid "ymir_forge_phase_forge"
+msgstr "The forge race"
+
+msgid "ymir_forge_phase_muster"
+msgstr "Muster - choose your team and your job"
+
+msgid "ymir_forge_role_busy"
+msgstr ""
+"You cannot change your job while you channel or carry kindling or a hammer."
+
+msgid "ymir_forge_role_chosen"
+msgstr "Your job: %1."
+
+msgid "ymir_forge_role_cooldown"
+msgstr "You can change your job again in %1 seconds."
+
+msgid "ymir_forge_role_not_at_post"
+msgstr "Change your job at the role post on your own tower's ground floor."
+
+msgid "ymir_forge_stockpile"
+msgstr "Kindling stockpile: %1"
+
+msgid "ymir_forge_team_button"
+msgstr "%1 - %2 fighters"
+
+msgid "ymir_forge_team_chosen"
+msgstr "You fight for %1."
+
+msgid "ymir_forge_team_full"
+msgstr "%1 has too many fighters for now. Choose another team."
+
+msgid "ymir_forge_team_locked"
+msgstr "%1 - %2 fighters, closed to new fighters"
+
+msgid "ymir_forge_team_machine"
+msgstr ""
+"Another character from your computer fights for another team. One computer "
+"fights for one team."
+
+msgid "ymir_forge_time_left"
+msgstr "Time left: %1"
+
+msgid "ymir_forge_window_title"
+msgstr "Ymir's Forge"
+
+msgid "ymir_role_1"
+msgstr "Firemaster"
+
+msgid "ymir_role_2"
+msgstr "Gatherer"
+
+msgid "ymir_role_3"
+msgstr "Saboteur"
+
+msgid "ymir_team_1"
+msgstr "Raudstaal"
+
+msgid "ymir_team_2"
+msgstr "Ymirsmerke"
+
+msgid "ymir_team_3"
+msgstr "Mithril"
