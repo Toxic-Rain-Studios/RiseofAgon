@@ -19264,6 +19264,11 @@ msgstr ""
 msgid "ymir_hammer_kill_paid"
 msgstr "You stopped %1 reaching the Anvil of Ymir. Take this cache."
 
+msgid "ymir_hammer_kill_paid_before"
+msgstr ""
+"You were already paid for this hammer. Ymir pays once for each hammer you "
+"take."
+
 msgid "ymir_hammer_lost"
 msgstr "Your team's hammer is lost. It returns to its stand at the centre."
 
