@@ -19118,6 +19118,10 @@ msgstr "Choose your job"
 msgid "ymir_forge_choose_team"
 msgstr "Choose your team"
 
+msgid "ymir_forge_dropped_outside"
+msgstr ""
+"You were outside Ymir's cube when it rose: you no longer fight in this Forge."
+
 msgid "ymir_forge_gift_given"
 msgstr ""
 "Ymir's Gift is upon you: your gear takes no wear and cannot break in his "
@@ -19131,11 +19135,24 @@ msgstr ""
 msgid "ymir_forge_kindling_carried"
 msgstr "Kindling carried: %1"
 
+msgid "ymir_forge_map_marker"
+msgstr "Ymir's Forge"
+
+msgid "ymir_forge_moved_outside"
+msgstr "You do not fight in Ymir's Forge: you were set down outside his cube."
+
 msgid "ymir_forge_moved_team"
 msgstr "The teams were evened out. You now fight for %1."
 
 msgid "ymir_forge_no_choice"
 msgstr "not chosen yet"
+
+msgid "ymir_forge_no_travel_in"
+msgstr "Ymir's cube stands: nothing carries you into his Forge now."
+
+msgid "ymir_forge_no_travel_out"
+msgstr ""
+"Ymir's cube stands: nothing carries you out of his Forge until the race ends."
 
 msgid "ymir_forge_not_in_muster"
 msgstr "Choose your team inside Ymir's muster circle while the muster is open."
