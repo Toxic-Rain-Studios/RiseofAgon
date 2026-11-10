@@ -19113,6 +19113,24 @@ msgstr ""
 "The Forge burns hotter. Ymir's Forge musters in about %1 minutes, in a red "
 "zone that will be marked on every map."
 
+msgid "ymir_board_forge_points"
+msgstr "Forge points (event)"
+
+msgid "ymir_board_hammers_offered"
+msgstr "Hammers offered"
+
+msgid "ymir_favor_none"
+msgstr ""
+"Ymir saw nothing of yours worth rewarding at the Forge: no Forge Favor this "
+"time."
+
+msgid "ymir_favor_paid"
+msgstr "+%1 Forge Favor for your work at the Forge."
+
+msgid "ymir_favor_paid_winner"
+msgstr ""
+"+%1 Forge Favor for your work at the Forge, with the winning team's share."
+
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
 
