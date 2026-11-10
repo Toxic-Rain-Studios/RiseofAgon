@@ -19231,8 +19231,38 @@ msgstr ""
 msgid "ymir_forge_time_left"
 msgstr "Time left: %1"
 
+msgid "ymir_forge_timeout"
+msgstr "Ymir's Forge is over: no team finished the ritual in time."
+
 msgid "ymir_forge_window_title"
 msgstr "Ymir's Forge"
+
+msgid "ymir_forge_won"
+msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
+
+msgid "ymir_hammer_claimed"
+msgstr ""
+"You take up your team's hammer. Carry it to the forge at the top of your "
+"tower and work Ymir's ritual at the anvil."
+
+msgid "ymir_hammer_lost"
+msgstr "Your team's hammer is lost. It returns to its stand at the centre."
+
+msgid "ymir_hammer_not_now"
+msgstr "No hammer can be taken up here now."
+
+msgid "ymir_hammer_not_yours"
+msgstr "This hammer is not your team's."
+
+msgid "ymir_hammer_returned"
+msgstr "%1's hammer is back on its stand at the centre."
+
+msgid "ymir_hammer_too_far"
+msgstr "You are too far away. Stand right next to the hammer's stand."
+
+msgid "ymir_hammer_unlocked"
+msgstr ""
+"%1's bar is full: their hammer waits on its stand at the centre of the Forge."
 
 msgid "ymir_kindling_claimed"
 msgstr "You gather %1 kindling. Carry it to your tower's stockpile."
@@ -19291,6 +19321,20 @@ msgstr "you no longer tend this forge"
 
 msgid "ymir_reason_moved"
 msgstr "you stepped away from the anvil"
+
+msgid "ymir_ritual_begin"
+msgstr ""
+"You begin Ymir's ritual. Stay at the anvil until it is done: a wound or a "
+"step away breaks it."
+
+msgid "ymir_ritual_begun"
+msgstr "%1 have begun Ymir's ritual at their forge!"
+
+msgid "ymir_ritual_interrupted"
+msgstr "Your ritual was broken off: %1. Begin it again at the anvil."
+
+msgid "ymir_ritual_no_hammer"
+msgstr "Ymir's ritual needs your team's hammer in your hands."
 
 msgid "ymir_role_1"
 msgstr "Firemaster"
