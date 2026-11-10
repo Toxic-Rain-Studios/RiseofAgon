@@ -19134,6 +19134,9 @@ msgstr ""
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
 
+msgid "ymir_forge_bar_line"
+msgstr "%1: %2 percent forged - Kindling %3"
+
 msgid "ymir_forge_busy"
 msgstr "Ymir's Forge cannot begin while another god's event is running."
 
@@ -19188,6 +19191,9 @@ msgstr "The teams were evened out. You now fight for %1."
 
 msgid "ymir_forge_no_choice"
 msgstr "not chosen yet"
+
+msgid "ymir_forge_no_kindling"
+msgstr "No kindling left in your stockpile."
 
 msgid "ymir_forge_no_travel_in"
 msgstr "Ymir's cube stands: nothing carries you into his Forge now."
@@ -19372,7 +19378,8 @@ msgstr ""
 "Everyone can see you on the map."
 
 msgid "ymir_kindling_claimed"
-msgstr "You gather %1 kindling. Carry it to your tower's stockpile."
+msgstr ""
+"You gather %1 kindling. Carry it to your tower's stockpile, outside its door."
 
 msgid "ymir_kindling_delivered"
 msgstr "You add %1 kindling to your tower's stockpile (%2 now)."
@@ -19385,7 +19392,7 @@ msgid "ymir_kindling_full"
 msgstr "You cannot carry more kindling (%1 at most)."
 
 msgid "ymir_kindling_gone"
-msgstr "That kindling is gone."
+msgstr "That kindling is gone: someone took it first."
 
 msgid "ymir_kindling_lost"
 msgstr "Your kindling crumbles to ash. It cannot leave Ymir's Forge."
@@ -19416,6 +19423,42 @@ msgstr "You are too far away. Stand right next to it."
 
 msgid "ymir_kindling_wrong_stockpile"
 msgstr "This is not your tower's stockpile."
+
+msgid "ymir_nameplate_forge"
+msgstr "%1 Forge"
+
+msgid "ymir_nameplate_forge_any"
+msgstr "Tower Forge"
+
+msgid "ymir_nameplate_hammer_stand"
+msgstr "%1 Hammer Stand"
+
+msgid "ymir_nameplate_hammer_stand_any"
+msgstr "Hammer Stand"
+
+msgid "ymir_nameplate_kindling"
+msgstr "Kindling"
+
+msgid "ymir_nameplate_kindling_dropped"
+msgstr "Dropped Kindling"
+
+msgid "ymir_nameplate_role_post"
+msgstr "%1 Job Post"
+
+msgid "ymir_nameplate_role_post_any"
+msgstr "Job Post"
+
+msgid "ymir_nameplate_stockpile"
+msgstr "%1 Kindling Stockpile"
+
+msgid "ymir_nameplate_stockpile_any"
+msgstr "Kindling Stockpile"
+
+msgid "ymir_nameplate_tower"
+msgstr "%1 Tower"
+
+msgid "ymir_nameplate_tower_any"
+msgstr "Ymir's Tower"
 
 msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
@@ -19494,6 +19537,9 @@ msgstr "you stepped away from the stockpile"
 
 msgid "ymir_sabotage_start"
 msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
+
+msgid "ymir_spawn_your_tower"
+msgstr "Your tower"
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
