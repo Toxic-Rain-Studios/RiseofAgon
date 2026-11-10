@@ -19301,6 +19301,46 @@ msgstr "Gatherer"
 msgid "ymir_role_3"
 msgstr "Saboteur"
 
+msgid "ymir_role_changed"
+msgstr "Your job is now %1."
+
+msgid "ymir_sabotage_cooldown"
+msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
+
+msgid "ymir_sabotage_done"
+msgstr "You spoil %1 kindling in %2's stockpile (%3 left)."
+
+msgid "ymir_sabotage_empty"
+msgstr "%1's stockpile is empty: there is nothing to spoil."
+
+msgid "ymir_sabotage_interrupted"
+msgstr "Your sabotage was broken off: %1."
+
+msgid "ymir_sabotage_mark"
+msgstr "Enemy"
+
+msgid "ymir_sabotage_not_now"
+msgstr ""
+"Stockpiles can only be spoiled by those taking part, during the forge race."
+
+msgid "ymir_sabotage_not_saboteur"
+msgstr ""
+"Only a Saboteur can spoil an enemy stockpile. Change your job at the role "
+"post on your tower's ground floor."
+
+msgid "ymir_sabotage_own"
+msgstr ""
+"This is your own team's stockpile. Spoil an enemy tower's stockpile instead."
+
+msgid "ymir_sabotage_reason_left"
+msgstr "you are no longer a Saboteur in the race"
+
+msgid "ymir_sabotage_reason_moved"
+msgstr "you stepped away from the stockpile"
+
+msgid "ymir_sabotage_start"
+msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
+
 msgid "ymir_team_1"
 msgstr "Raudstaal"
 
