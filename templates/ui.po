@@ -19112,6 +19112,20 @@ msgstr "Ymir's Forge cannot begin while another god's event is running."
 msgid "ymir_forge_cancelled"
 msgstr "Ymir's Forge has been cancelled."
 
+msgid "ymir_forge_channel_interrupted"
+msgstr "Your work at the forge was broken off: %1."
+
+msgid "ymir_forge_channel_not_now"
+msgstr "The forge can only be fed while the race runs."
+
+msgid "ymir_forge_channel_start"
+msgstr ""
+"You feed Ymir's forge. Stay at the anvil: the fire burns hotter the longer "
+"you keep at it."
+
+msgid "ymir_forge_channel_too_far"
+msgstr "Stand right at the anvil to feed the forge."
+
 msgid "ymir_forge_choose_role"
 msgstr "Choose your job"
 
@@ -19154,11 +19168,20 @@ msgid "ymir_forge_no_travel_out"
 msgstr ""
 "Ymir's cube stands: nothing carries you out of his Forge until the race ends."
 
+msgid "ymir_forge_not_firemaster"
+msgstr ""
+"Only a Firemaster can feed the forge. Change your job at the role post on "
+"your tower's ground floor."
+
 msgid "ymir_forge_not_in_muster"
 msgstr "Choose your team inside Ymir's muster circle while the muster is open."
 
 msgid "ymir_forge_not_red_zone"
 msgstr "Ymir's Forge can only be held in a red zone."
+
+msgid "ymir_forge_not_your_forge"
+msgstr ""
+"This is not your team's forge. Feed the forge at the top of your own tower."
 
 msgid "ymir_forge_own_role"
 msgstr "Your job: %1"
@@ -19210,6 +19233,18 @@ msgstr "Time left: %1"
 
 msgid "ymir_forge_window_title"
 msgstr "Ymir's Forge"
+
+msgid "ymir_reason_damage"
+msgstr "you were hurt"
+
+msgid "ymir_reason_death"
+msgstr "you fell"
+
+msgid "ymir_reason_left"
+msgstr "you no longer tend this forge"
+
+msgid "ymir_reason_moved"
+msgstr "you stepped away from the anvil"
 
 msgid "ymir_role_1"
 msgstr "Firemaster"
