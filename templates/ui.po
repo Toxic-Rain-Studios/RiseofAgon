@@ -19200,7 +19200,7 @@ msgid "ymir_anvil_vent_cold"
 msgstr "There is not enough heat in the anvil to vent."
 
 msgid "ymir_anvil_vent_cooldown"
-msgstr "The anvil cannot vent again yet."
+msgstr "The anvil cannot vent again for %1 s."
 
 msgid "ymir_anvil_vent_ready"
 msgstr "Vent the heat"
@@ -19810,6 +19810,15 @@ msgstr "Ymirsmerke"
 msgid "ymir_team_3"
 msgstr "Mithril"
 
+msgid "ymir_vent_done"
+msgstr ""
+"You vent the anvil's heat in a blast of fire. Enemies near the anvil are "
+"burned and thrown back."
+
+msgid "ymir_vent_hit"
+msgstr ""
+"The enemy forge vents its heat: the blast burns you and throws you back."
+
 msgid "ymir_well_cooldown"
 msgstr "Ymir's well will heal you again in %1 s"
 
@@ -19840,3 +19849,7 @@ msgstr "No piece on the anvil"
 
 msgid "ymir_window_well_line"
 msgstr "Healing Well: %1/%2 charges"
+
+msgid "ymir_wrath_warning"
+msgstr ""
+"Ymir's Wrath burns intruders - the longer you stay, the hotter it gets."
