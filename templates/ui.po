@@ -19113,6 +19113,37 @@ msgstr ""
 "The Forge burns hotter. Ymir's Forge musters in about %1 minutes, in a red "
 "zone that will be marked on every map."
 
+msgid "ymir_bench_crafted"
+msgstr "-1 kindling, +1 healing charge (%1/%2)"
+
+msgid "ymir_bench_no_kindling"
+msgstr "Your stockpile has no kindling for the Charge Bench."
+
+msgid "ymir_bench_not_firemaster"
+msgstr ""
+"Only a Firemaster can work the Charge Bench. Change your job at the job post "
+"on your tower's ground floor."
+
+msgid "ymir_bench_not_now"
+msgstr "The Charge Bench can only be worked while the race runs."
+
+msgid "ymir_bench_not_yours"
+msgstr ""
+"This is not your team's Charge Bench. Work the bench on your own tower's "
+"middle floor."
+
+msgid "ymir_bench_start"
+msgstr ""
+"You work the Charge Bench. Strike as the marker crosses the glow: each clean "
+"stroke turns 1 kindling into a healing charge for your tower's well. A miss "
+"costs nothing."
+
+msgid "ymir_bench_too_far"
+msgstr "Stand right at the Charge Bench to work it."
+
+msgid "ymir_bench_well_full"
+msgstr "The Healing Well is full"
+
 msgid "ymir_board_forge_points"
 msgstr "Forge points (event)"
 
@@ -19493,6 +19524,9 @@ msgstr "%1 Healing Well"
 msgid "ymir_nameplate_healing_well_any"
 msgstr "Healing Well"
 
+msgid "ymir_nameplate_healing_well_charges"
+msgstr "%1 Healing Well - %2/%3 charges"
+
 msgid "ymir_nameplate_kindling"
 msgstr "Kindling"
 
@@ -19637,7 +19671,12 @@ msgstr "Perfect strike!"
 
 msgid "ymir_strike_waiting"
 msgstr ""
-"Waiting for kindling... the forge strikes again as soon as some is delivered."
+"Waiting for kindling... the bench works again as soon as some is delivered."
+
+msgid "ymir_strike_waiting_full"
+msgstr ""
+"The Healing Well is full... the bench works again as soon as a charge is "
+"used."
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
@@ -19647,3 +19686,22 @@ msgstr "Ymirsmerke"
 
 msgid "ymir_team_3"
 msgstr "Mithril"
+
+msgid "ymir_well_cooldown"
+msgstr "Ymir's well will heal you again in %1 s"
+
+msgid "ymir_well_empty"
+msgstr "The well is empty"
+
+msgid "ymir_well_healed"
+msgstr "Ymir's well heals you to full health. %1/%2 charges are left."
+
+msgid "ymir_well_not_now"
+msgstr "The Healing Well heals only while the race runs."
+
+msgid "ymir_well_not_yours"
+msgstr ""
+"This is not your team's Healing Well. Ymir's well heals only its own tower."
+
+msgid "ymir_well_too_far"
+msgstr "Stand right at the Healing Well to drink from it."
