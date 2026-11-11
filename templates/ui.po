@@ -19149,6 +19149,9 @@ msgstr "You already struck on this glow. Wait for the next one."
 msgid "ymir_anvil_piece_started"
 msgstr "-3 kindling: a new piece goes into the fire"
 
+msgid "ymir_anvil_quench_too_early"
+msgstr "The piece isn't worked enough to quench - strike it first."
+
 msgid "ymir_anvil_quenched"
 msgstr "The piece is quenched: +%1 to the hammer (quality %2)"
 
@@ -19159,6 +19162,9 @@ msgstr ""
 
 msgid "ymir_anvil_ready"
 msgstr "The piece is ready. Quench it in the trough."
+
+msgid "ymir_anvil_resync"
+msgstr "The forge lost track of you - try again."
 
 msgid "ymir_anvil_too_cold"
 msgstr "The piece is too cold to work. Heat it at the bellows."
