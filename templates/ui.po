@@ -19118,6 +19118,9 @@ msgstr "The piece cracked in the heat - its 3 kindling are lost"
 msgid "ymir_anvil_crowded"
 msgstr "Three smiths already hammer this piece. Work the bellows instead."
 
+msgid "ymir_anvil_hint"
+msgstr "Hold %1 at the bellows - strike on the glow"
+
 msgid "ymir_anvil_left"
 msgstr "You stepped away from the anvil. The piece stays on it and cools."
 
@@ -19149,6 +19152,9 @@ msgstr "You already struck on this glow. Wait for the next one."
 msgid "ymir_anvil_piece_started"
 msgstr "-3 kindling: a new piece goes into the fire"
 
+msgid "ymir_anvil_quality_line"
+msgstr "Quality %1 - good %2, weak %3, reheats %4"
+
 msgid "ymir_anvil_quench_too_early"
 msgstr "The piece isn't worked enough to quench - strike it first."
 
@@ -19166,6 +19172,18 @@ msgstr "The piece is ready. Quench it in the trough."
 msgid "ymir_anvil_resync"
 msgstr "The forge lost track of you - try again."
 
+msgid "ymir_anvil_state_cold"
+msgstr "Pump the bellows into the glow"
+
+msgid "ymir_anvil_state_hot"
+msgstr "Too hot - stop pumping!"
+
+msgid "ymir_anvil_state_ready"
+msgstr "Ready to quench"
+
+msgid "ymir_anvil_state_working"
+msgstr "Strike!"
+
 msgid "ymir_anvil_too_cold"
 msgstr "The piece is too cold to work. Heat it at the bellows."
 
@@ -19175,11 +19193,17 @@ msgstr "Stand right at the anvil, the bellows or the trough to work them."
 msgid "ymir_anvil_too_hot"
 msgstr "The piece is too hot to work. Let it cool a moment."
 
+msgid "ymir_anvil_vent_button"
+msgstr "Vent the heat (%1 s)"
+
 msgid "ymir_anvil_vent_cold"
 msgstr "There is not enough heat in the anvil to vent."
 
 msgid "ymir_anvil_vent_cooldown"
 msgstr "The anvil cannot vent again yet."
+
+msgid "ymir_anvil_vent_ready"
+msgstr "Vent the heat"
 
 msgid "ymir_anvil_vented"
 msgstr "The anvil's heat is vented. The piece stays and must be heated again."
@@ -19641,6 +19665,18 @@ msgstr "Ymir's Tower"
 msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
 
+msgid "ymir_piece_state_1"
+msgstr "cold"
+
+msgid "ymir_piece_state_2"
+msgstr "workable"
+
+msgid "ymir_piece_state_3"
+msgstr "too hot"
+
+msgid "ymir_piece_state_4"
+msgstr "ready to quench"
+
 msgid "ymir_plate_racer"
 msgstr "%1 %2"
 
@@ -19735,6 +19771,9 @@ msgstr ""
 msgid "ymir_strike_good"
 msgstr "Good strike"
 
+msgid "ymir_strike_good_anvil"
+msgstr "Good strike!"
+
 msgid "ymir_strike_hint"
 msgstr "Strike with %1 as the marker crosses the glow"
 
@@ -19758,6 +19797,9 @@ msgid "ymir_strike_waiting_full"
 msgstr ""
 "The Healing Well is full... the bench works again as soon as a charge is "
 "used."
+
+msgid "ymir_strike_weak_anvil"
+msgstr "Weak strike - wait for the white-hot glow"
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
@@ -19789,3 +19831,12 @@ msgstr ""
 
 msgid "ymir_well_too_far"
 msgstr "Stand right at the Healing Well to drink from it."
+
+msgid "ymir_window_piece_line"
+msgstr "Piece on the anvil: %1, heat %2, quality %3"
+
+msgid "ymir_window_piece_none"
+msgstr "No piece on the anvil"
+
+msgid "ymir_window_well_line"
+msgstr "Healing Well: %1/%2 charges"
