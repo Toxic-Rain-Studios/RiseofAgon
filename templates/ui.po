@@ -19133,7 +19133,7 @@ msgstr ""
 
 msgid "ymir_anvil_not_firemaster"
 msgstr ""
-"Only a Firemaster can work the anvil. Change your job at the job post on "
+"Only a Warrior can work the anvil. Stop gathering at the Gatherer Post on "
 "your tower's ground floor."
 
 msgid "ymir_anvil_not_now"
@@ -19226,8 +19226,8 @@ msgstr "Your stockpile has no kindling for the Charge Bench."
 
 msgid "ymir_bench_not_firemaster"
 msgstr ""
-"Only a Firemaster can work the Charge Bench. Change your job at the job post "
-"on your tower's ground floor."
+"Only a Warrior can work the Charge Bench. Stop gathering at the Gatherer "
+"Post on your tower's ground floor."
 
 msgid "ymir_bench_not_now"
 msgstr "The Charge Bench can only be worked while the race runs."
@@ -19368,8 +19368,7 @@ msgid "ymir_forge_phase_muster"
 msgstr "Muster - choose your team and your job"
 
 msgid "ymir_forge_role_busy"
-msgstr ""
-"You cannot change your job while you channel or carry kindling or a hammer."
+msgstr "You cannot change your job while you carry a hammer."
 
 msgid "ymir_forge_role_chosen"
 msgstr "Your job: %1."
@@ -19378,7 +19377,9 @@ msgid "ymir_forge_role_cooldown"
 msgstr "You can change your job again in %1 seconds."
 
 msgid "ymir_forge_role_not_at_post"
-msgstr "Change your job at the role post on your own tower's ground floor."
+msgstr ""
+"Swing at the Gatherer Post on your own tower's ground floor to change your "
+"job."
 
 msgid "ymir_forge_starting"
 msgstr ""
@@ -19421,10 +19422,19 @@ msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
 msgid "ymir_gatherer_cannot_fight"
 msgstr "Gatherers cannot fight - switch job at your tower's post."
 
+msgid "ymir_gatherer_cooldown"
+msgstr "You can switch again in %1 s"
+
+msgid "ymir_gatherer_dropped"
+msgstr "You dropped %1 kindling!"
+
 msgid "ymir_gatherer_hint"
 msgstr ""
 "You gather for your team: you cannot fight, but double tap forward to leap "
 "ahead. Bring kindling to the stockpile outside your tower's door."
+
+msgid "ymir_gatherer_now"
+msgstr "You are a Gatherer: fast, can leap, can't fight"
 
 msgid "ymir_hammer_claimed"
 msgstr ""
@@ -19537,6 +19547,9 @@ msgstr ""
 msgid "ymir_kindling_full"
 msgstr "You cannot carry more kindling (%1 at most)."
 
+msgid "ymir_kindling_gatherers_only"
+msgstr "Only Gatherers can pick up kindling"
+
 msgid "ymir_kindling_gone"
 msgstr "That kindling is gone: someone took it first."
 
@@ -19556,9 +19569,7 @@ msgid "ymir_kindling_none"
 msgstr "You carry no kindling."
 
 msgid "ymir_kindling_not_gatherer"
-msgstr ""
-"Only a Gatherer gathers kindling and brings it home. Other jobs may only "
-"return kindling they recovered."
+msgstr "Only a Gatherer gathers kindling and brings it home."
 
 msgid "ymir_kindling_not_now"
 msgstr ""
@@ -19719,27 +19730,19 @@ msgid "ymir_ritual_no_hammer"
 msgstr "Ymir's ritual needs your team's hammer in your hands."
 
 msgid "ymir_role_1"
-msgstr "Firemaster"
+msgstr "Warrior"
 
 msgid "ymir_role_2"
 msgstr "Gatherer"
 
-msgid "ymir_role_3"
-msgstr "Saboteur"
-
 msgid "ymir_role_changed"
 msgstr "Your job is now %1."
 
-msgid "ymir_role_crew_full"
-msgstr "The forge is fully crewed"
+msgid "ymir_role_toggle_off"
+msgstr "Stop gathering"
 
-msgid "ymir_role_crew_full_moved"
-msgstr "The forge is fully crewed - you gather kindling instead"
-
-msgid "ymir_role_defaulted"
-msgstr ""
-"You chose no job, so you are a %1. You can change it at your tower's job "
-"post."
+msgid "ymir_role_toggle_on"
+msgstr "Be a Gatherer?"
 
 msgid "ymir_sabotage_cooldown"
 msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
@@ -19762,8 +19765,8 @@ msgstr ""
 
 msgid "ymir_sabotage_not_saboteur"
 msgstr ""
-"Only a Saboteur can spoil an enemy stockpile. Change your job at the role "
-"post on your tower's ground floor."
+"Only a Warrior can spoil an enemy stockpile. Stop gathering at the Gatherer "
+"Post on your tower's ground floor."
 
 msgid "ymir_sabotage_own"
 msgstr ""
@@ -19836,6 +19839,9 @@ msgstr ""
 msgid "ymir_vent_hit"
 msgstr ""
 "The enemy forge vents its heat: the blast burns you and throws you back."
+
+msgid "ymir_warrior_now"
+msgstr "You are a Warrior: fight, forge, sabotage"
 
 msgid "ymir_well_cooldown"
 msgstr "Ymir's well will heal you again in %1 s"
