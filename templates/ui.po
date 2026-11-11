@@ -19693,6 +19693,9 @@ msgstr "Ymir's well will heal you again in %1 s"
 msgid "ymir_well_empty"
 msgstr "The well is empty"
 
+msgid "ymir_well_full_health"
+msgstr "You are already at full health - the well keeps its charge."
+
 msgid "ymir_well_healed"
 msgstr "Ymir's well heals you to full health. %1/%2 charges are left."
 
