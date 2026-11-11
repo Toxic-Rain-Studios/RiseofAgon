@@ -19463,11 +19463,23 @@ msgstr ""
 msgid "ymir_launch_on_foot"
 msgstr "You must be on your feet and out of the water to leap."
 
+msgid "ymir_nameplate_bellows"
+msgstr "%1 Bellows"
+
+msgid "ymir_nameplate_bellows_any"
+msgstr "Bellows"
+
+msgid "ymir_nameplate_charge_bench"
+msgstr "%1 Charge Bench - 1 kindling per charge"
+
+msgid "ymir_nameplate_charge_bench_any"
+msgstr "Charge Bench - 1 kindling per charge"
+
 msgid "ymir_nameplate_forge"
-msgstr "%1 Forge"
+msgstr "%1 Forge - 3 kindling per piece"
 
 msgid "ymir_nameplate_forge_any"
-msgstr "Tower Forge"
+msgstr "Tower Forge - 3 kindling per piece"
 
 msgid "ymir_nameplate_hammer_stand"
 msgstr "%1 Hammer Stand"
@@ -19475,11 +19487,23 @@ msgstr "%1 Hammer Stand"
 msgid "ymir_nameplate_hammer_stand_any"
 msgstr "Hammer Stand"
 
+msgid "ymir_nameplate_healing_well"
+msgstr "%1 Healing Well"
+
+msgid "ymir_nameplate_healing_well_any"
+msgstr "Healing Well"
+
 msgid "ymir_nameplate_kindling"
 msgstr "Kindling"
 
 msgid "ymir_nameplate_kindling_dropped"
 msgstr "Dropped Kindling"
+
+msgid "ymir_nameplate_quench_trough"
+msgstr "%1 Quench Trough"
+
+msgid "ymir_nameplate_quench_trough_any"
+msgstr "Quench Trough"
 
 msgid "ymir_nameplate_role_post"
 msgstr "%1 Job Post"
@@ -19587,6 +19611,11 @@ msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
 
 msgid "ymir_spawn_your_tower"
 msgstr "Your tower"
+
+msgid "ymir_station_not_yet"
+msgstr ""
+"Ymir has not woken this station yet. It comes into use in a later trial of "
+"the Forge."
 
 msgid "ymir_strike_good"
 msgstr "Good strike"
