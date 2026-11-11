@@ -19103,6 +19103,81 @@ msgstr "Worn Out"
 msgid "yes"
 msgstr "Yes"
 
+msgid "ymir_anvil_attend"
+msgstr ""
+"You work at your tower's anvil. Hold the bellows to heat the piece, strike "
+"it while it glows white-hot, and quench it in the trough when it is ready."
+
+msgid "ymir_anvil_blamed"
+msgstr ""
+"You overheated the last piece. Ymir keeps you from the bellows for a while."
+
+msgid "ymir_anvil_cracked"
+msgstr "The piece cracked in the heat - its 3 kindling are lost"
+
+msgid "ymir_anvil_crowded"
+msgstr "Three smiths already hammer this piece. Work the bellows instead."
+
+msgid "ymir_anvil_left"
+msgstr "You stepped away from the anvil. The piece stays on it and cools."
+
+msgid "ymir_anvil_need_kindling"
+msgstr "The Forge needs 3 kindling for a new piece"
+
+msgid "ymir_anvil_no_piece"
+msgstr ""
+"There is no piece on the anvil. Work the bellows to put one in the fire."
+
+msgid "ymir_anvil_not_firemaster"
+msgstr ""
+"Only a Firemaster can work the anvil. Change your job at the job post on "
+"your tower's ground floor."
+
+msgid "ymir_anvil_not_now"
+msgstr "The anvil can only be worked while the race runs."
+
+msgid "ymir_anvil_not_yours"
+msgstr ""
+"This is not your team's anvil. Work the anvil on your own tower's top floor."
+
+msgid "ymir_anvil_old_pulse"
+msgstr "Too late - that glow has passed."
+
+msgid "ymir_anvil_one_per_pulse"
+msgstr "You already struck on this glow. Wait for the next one."
+
+msgid "ymir_anvil_piece_started"
+msgstr "-3 kindling: a new piece goes into the fire"
+
+msgid "ymir_anvil_quenched"
+msgstr "The piece is quenched: +%1 to the hammer (quality %2)"
+
+msgid "ymir_anvil_quenched_nothing"
+msgstr ""
+"The piece is quenched, but it was struck too little to add anything to the "
+"hammer."
+
+msgid "ymir_anvil_ready"
+msgstr "The piece is ready. Quench it in the trough."
+
+msgid "ymir_anvil_too_cold"
+msgstr "The piece is too cold to work. Heat it at the bellows."
+
+msgid "ymir_anvil_too_far"
+msgstr "Stand right at the anvil, the bellows or the trough to work them."
+
+msgid "ymir_anvil_too_hot"
+msgstr "The piece is too hot to work. Let it cool a moment."
+
+msgid "ymir_anvil_vent_cold"
+msgstr "There is not enough heat in the anvil to vent."
+
+msgid "ymir_anvil_vent_cooldown"
+msgstr "The anvil cannot vent again yet."
+
+msgid "ymir_anvil_vented"
+msgstr "The anvil's heat is vented. The piece stays and must be heated again."
+
 msgid "ymir_bar_full"
 msgstr ""
 "The Forge is lit! Ymir's devotees have stoked it full: in about %1 minutes "
