@@ -19730,6 +19730,12 @@ msgstr "Saboteur"
 msgid "ymir_role_changed"
 msgstr "Your job is now %1."
 
+msgid "ymir_role_crew_full"
+msgstr "The forge is fully crewed"
+
+msgid "ymir_role_crew_full_moved"
+msgstr "The forge is fully crewed - you gather kindling instead"
+
 msgid "ymir_role_defaulted"
 msgstr ""
 "You chose no job, so you are a %1. You can change it at your tower's job "
