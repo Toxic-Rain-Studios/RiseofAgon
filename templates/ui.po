@@ -19153,7 +19153,8 @@ msgid "ymir_forge_channel_start"
 msgstr ""
 "You take up the hammer at Ymir's forge. Strike as the marker crosses the "
 "glow: every stroke burns one kindling, a clean one forges the most, and a "
-"run of them heats the forge."
+"run of them heats the forge. With the stockpile empty the forge waits for "
+"kindling."
 
 msgid "ymir_forge_channel_too_far"
 msgstr "Stand right at the anvil to feed the forge."
@@ -19409,6 +19410,9 @@ msgstr "Your kindling crumbles to ash. It cannot leave Ymir's Forge."
 msgid "ymir_kindling_menu_drop"
 msgstr "Drop at my feet"
 
+msgid "ymir_kindling_menu_none"
+msgstr "(nothing carried)"
+
 msgid "ymir_kindling_menu_race_only"
 msgstr "(forge race only)"
 
@@ -19441,6 +19445,12 @@ msgstr "This is not your tower's stockpile."
 
 msgid "ymir_launch_blocked"
 msgstr "There is no room to leap that way."
+
+msgid "ymir_launch_hammer"
+msgstr "The hammer is too heavy to leap with."
+
+msgid "ymir_launch_held"
+msgstr "You cannot leap while held."
 
 msgid "ymir_launch_not_gatherer"
 msgstr "Only a Gatherer can leap like that."
@@ -19533,6 +19543,11 @@ msgstr "Saboteur"
 msgid "ymir_role_changed"
 msgstr "Your job is now %1."
 
+msgid "ymir_role_defaulted"
+msgstr ""
+"You chose no job, so you are a %1. You can change it at your tower's job "
+"post."
+
 msgid "ymir_sabotage_cooldown"
 msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
 
@@ -19590,6 +19605,10 @@ msgstr "Missed"
 
 msgid "ymir_strike_perfect"
 msgstr "Perfect strike!"
+
+msgid "ymir_strike_waiting"
+msgstr ""
+"Waiting for kindling... the forge strikes again as soon as some is delivered."
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
