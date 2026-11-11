@@ -19151,8 +19151,9 @@ msgstr "The forge can only be fed while the race runs."
 
 msgid "ymir_forge_channel_start"
 msgstr ""
-"You feed Ymir's forge. Stay at the anvil: the fire burns hotter the longer "
-"you keep at it."
+"You take up the hammer at Ymir's forge. Strike as the marker crosses the "
+"glow: every stroke burns one kindling, a clean one forges the most, and a "
+"run of them heats the forge."
 
 msgid "ymir_forge_channel_too_far"
 msgstr "Stand right at the anvil to feed the forge."
@@ -19280,6 +19281,14 @@ msgstr "Ymir's Forge"
 msgid "ymir_forge_won"
 msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
 
+msgid "ymir_gatherer_cannot_fight"
+msgstr "Gatherers cannot fight - switch job at your tower's post."
+
+msgid "ymir_gatherer_hint"
+msgstr ""
+"You gather for your team: you cannot fight, but double tap forward to leap "
+"ahead. Bring kindling to the stockpile outside your tower's door."
+
 msgid "ymir_hammer_claimed"
 msgstr ""
 "You take up your team's hammer. Carry it to the forge at the top of your "
@@ -19397,6 +19406,12 @@ msgstr "That kindling is gone: someone took it first."
 msgid "ymir_kindling_lost"
 msgstr "Your kindling crumbles to ash. It cannot leave Ymir's Forge."
 
+msgid "ymir_kindling_menu_drop"
+msgstr "Drop at my feet"
+
+msgid "ymir_kindling_menu_race_only"
+msgstr "(forge race only)"
+
 msgid "ymir_kindling_none"
 msgstr "You carry no kindling."
 
@@ -19423,6 +19438,20 @@ msgstr "You are too far away. Stand right next to it."
 
 msgid "ymir_kindling_wrong_stockpile"
 msgstr "This is not your tower's stockpile."
+
+msgid "ymir_launch_blocked"
+msgstr "There is no room to leap that way."
+
+msgid "ymir_launch_not_gatherer"
+msgstr "Only a Gatherer can leap like that."
+
+msgid "ymir_launch_not_now"
+msgstr ""
+"You can only leap like that as a Gatherer inside Ymir's cube, during the "
+"forge race."
+
+msgid "ymir_launch_on_foot"
+msgstr "You must be on your feet and out of the water to leap."
 
 msgid "ymir_nameplate_forge"
 msgstr "%1 Forge"
@@ -19462,6 +19491,9 @@ msgstr "Ymir's Tower"
 
 msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
+
+msgid "ymir_plate_racer"
+msgstr "%1 %2"
 
 msgid "ymir_reason_damage"
 msgstr "you were hurt"
@@ -19540,6 +19572,24 @@ msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
 
 msgid "ymir_spawn_your_tower"
 msgstr "Your tower"
+
+msgid "ymir_strike_good"
+msgstr "Good strike"
+
+msgid "ymir_strike_hint"
+msgstr "Strike with %1 as the marker crosses the glow"
+
+msgid "ymir_strike_line"
+msgstr "Streak %1   %2"
+
+msgid "ymir_strike_line_hot"
+msgstr "Streak %1   %2   The forge is hot!"
+
+msgid "ymir_strike_miss"
+msgstr "Missed"
+
+msgid "ymir_strike_perfect"
+msgstr "Perfect strike!"
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
