@@ -19516,11 +19516,29 @@ msgstr ""
 msgid "ymir_launch_on_foot"
 msgstr "You must be on your feet and out of the water to leap."
 
+msgid "ymir_line_already_fouled"
+msgstr "The quench water is already fouled"
+
 msgid "ymir_line_blows_right"
 msgstr "Blows are right - go quench it"
 
 msgid "ymir_line_draw_weapon"
 msgstr "Draw a weapon"
+
+msgid "ymir_line_enemy_quench"
+msgstr "Only the rune's own team can quench it"
+
+msgid "ymir_line_enemy_table"
+msgstr "You can't use the enemy's Rune Table"
+
+msgid "ymir_line_flaws_left"
+msgstr "%1 flaws left - mend them or lose %2% quality"
+
+msgid "ymir_line_flaws_max"
+msgstr "That station already has 3 flaws - try another"
+
+msgid "ymir_line_fouled"
+msgstr "The quench water is fouled - swing at the Trough to clear it"
 
 msgid "ymir_line_full"
 msgstr "The forge line is full (4/4)"
@@ -19530,6 +19548,9 @@ msgstr "Runners can't work the forge"
 
 msgid "ymir_line_heat_right"
 msgstr "Heat is right - go strike it"
+
+msgid "ymir_line_no_rune_enemy"
+msgstr "No rune to sabotage"
 
 msgid "ymir_line_not_ready"
 msgstr "Heat and strike it first"
@@ -19680,14 +19701,22 @@ msgstr "A rune is already on the line - work it to the recipe"
 msgid "ymir_rune_blood_low"
 msgstr "Not enough blood - heal at the Well"
 
-msgid "ymir_rune_blows_max"
-msgstr "That rune cannot take another blow"
+msgid "ymir_rune_cleared"
+msgstr "%1 cleared the fouled water"
+
+msgid "ymir_rune_flawed"
+msgstr ""
+"^Cred^%1 (%2) put a flaw in your rune at the %3 - one swing there mends it^N^"
+
+msgid "ymir_rune_fouled"
+msgstr ""
+"^Cred^%1 (%2) fouled your quench water - one swing at the Trough clears it^N^"
 
 msgid "ymir_rune_gone"
 msgstr "That rune is already finished - swing again for the new one"
 
-msgid "ymir_rune_heat_max"
-msgstr "That rune cannot get any hotter"
+msgid "ymir_rune_mended"
+msgstr "%1 mended the flaw at the %2"
 
 msgid "ymir_rune_need_kindling"
 msgstr ""
@@ -19711,6 +19740,12 @@ msgstr "You spoil %1 kindling in %2's stockpile (%3 left)."
 msgid "ymir_sabotage_empty"
 msgstr "%1's stockpile is empty: there is nothing to spoil."
 
+msgid "ymir_sabotage_flawed"
+msgstr "Sabotage! A flaw in %1's rune at the %2 (%3 there)"
+
+msgid "ymir_sabotage_fouled"
+msgstr "Sabotage! You fouled %1's quench water"
+
 msgid "ymir_sabotage_interrupted"
 msgstr "Your sabotage was broken off: %1."
 
@@ -19723,15 +19758,15 @@ msgstr ""
 
 msgid "ymir_sabotage_not_saboteur"
 msgstr ""
-"Only a Warrior can spoil an enemy stockpile. Stop gathering at the Gatherer "
-"Post on your tower's ground floor."
+"Only a Fighter can spoil an enemy stockpile. Stop running at the Job Post on "
+"your tower's ground floor."
 
 msgid "ymir_sabotage_own"
 msgstr ""
 "This is your own team's stockpile. Spoil an enemy tower's stockpile instead."
 
 msgid "ymir_sabotage_reason_left"
-msgstr "you are no longer a Saboteur in the race"
+msgstr "you are no longer a Fighter in the race"
 
 msgid "ymir_sabotage_reason_moved"
 msgstr "you stepped away from the stockpile"
@@ -19742,10 +19777,19 @@ msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
 msgid "ymir_spawn_your_tower"
 msgstr "Your tower"
 
+msgid "ymir_station_anvil"
+msgstr "Anvil"
+
+msgid "ymir_station_bellows"
+msgstr "Bellows"
+
 msgid "ymir_station_not_yet"
 msgstr ""
 "Ymir has not woken this station yet. It comes into use in a later trial of "
 "the Forge."
+
+msgid "ymir_station_trough"
+msgstr "Trough"
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
