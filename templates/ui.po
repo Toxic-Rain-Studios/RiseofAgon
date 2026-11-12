@@ -20068,6 +20068,9 @@ msgid "ymir_rune_blood_refused"
 msgstr ""
 "Ymir will not take your blood now - Ymir's Gift would not cover your death"
 
+msgid "ymir_rune_blood_refused_hammer"
+msgstr "Ymir will not take your blood while you carry the team hammer"
+
 msgid "ymir_rune_cleared"
 msgstr "%1 cleared the fouled water"
 
@@ -20250,10 +20253,10 @@ msgid "ymir_well_too_far"
 msgstr "Stand right at the Healing Well to drink from it."
 
 msgid "ymir_window_downs"
-msgstr "%1 down - back in %2-%3 s"
+msgstr "%1 down - back in %2-%3 seconds"
 
 msgid "ymir_window_downs_one"
-msgstr "%1 down - back in %2 s"
+msgstr "%1 down - back in %2 seconds"
 
 msgid "ymir_window_fighter_goto"
 msgstr "Forge runes: your tower's top floor - Line %1/%2"
