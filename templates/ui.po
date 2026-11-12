@@ -19130,16 +19130,21 @@ msgstr ""
 "The Forge burns hotter. Ymir's Forge musters in about %1 minutes, in a red "
 "zone that will be marked on every map."
 
+msgid "ymir_bench_charge"
+msgstr "Charge %1/%2"
+
 msgid "ymir_bench_crafted"
-msgstr "-1 kindling, +1 healing charge (%1/%2)"
+msgstr "+1 healing charge (%1/%2)"
 
 msgid "ymir_bench_no_kindling"
-msgstr "Your stockpile has no kindling for the Charge Bench."
+msgstr ""
+"The Charge Bench needs 1 kindling for a new charge - Runners bring it to the "
+"stockpile"
 
 msgid "ymir_bench_not_firemaster"
 msgstr ""
-"Only a Warrior can work the Charge Bench. Stop gathering at the Gatherer "
-"Post on your tower's ground floor."
+"Only a Fighter can work the Charge Bench. Stop running at the post on your "
+"tower's ground floor."
 
 msgid "ymir_bench_not_now"
 msgstr "The Charge Bench can only be worked while the race runs."
@@ -19149,14 +19154,9 @@ msgstr ""
 "This is not your team's Charge Bench. Work the bench on your own tower's "
 "middle floor."
 
-msgid "ymir_bench_start"
-msgstr ""
-"You work the Charge Bench. Strike as the marker crosses the glow: each clean "
-"stroke turns 1 kindling into a healing charge for your tower's well. A miss "
-"costs nothing."
-
 msgid "ymir_bench_too_far"
-msgstr "Stand right at the Charge Bench to work it."
+msgstr ""
+"Stand in front of the Charge Bench and face it, then swing your weapon at it."
 
 msgid "ymir_bench_well_full"
 msgstr "The Healing Well is full"
@@ -19190,9 +19190,6 @@ msgstr "Ymir's Forge cannot begin while another god's event is running."
 
 msgid "ymir_forge_cancelled"
 msgstr "Ymir's Forge has been cancelled."
-
-msgid "ymir_forge_channel_interrupted"
-msgstr "Your work at the forge was broken off: %1."
 
 msgid "ymir_forge_channel_not_now"
 msgstr "The forge can only be fed while the race runs."
@@ -19241,9 +19238,6 @@ msgstr "The teams were evened out. You now fight for %1."
 
 msgid "ymir_forge_no_choice"
 msgstr "not chosen yet"
-
-msgid "ymir_forge_no_kindling"
-msgstr "No kindling left in your stockpile."
 
 msgid "ymir_forge_no_travel_in"
 msgstr "Ymir's cube stands: nothing carries you into his Forge now."
@@ -19571,10 +19565,10 @@ msgid "ymir_nameplate_bellows_any"
 msgstr "Bellows"
 
 msgid "ymir_nameplate_charge_bench"
-msgstr "%1 Charge Bench - 1 kindling per charge"
+msgstr "%1 Charge Bench - 3 swings and 1 kindling per charge"
 
 msgid "ymir_nameplate_charge_bench_any"
-msgstr "Charge Bench - 1 kindling per charge"
+msgstr "Charge Bench - 3 swings and 1 kindling per charge"
 
 msgid "ymir_nameplate_forge"
 msgstr "%1 Forge - 3 kindling per piece"
@@ -19752,33 +19746,6 @@ msgid "ymir_station_not_yet"
 msgstr ""
 "Ymir has not woken this station yet. It comes into use in a later trial of "
 "the Forge."
-
-msgid "ymir_strike_good"
-msgstr "Good strike"
-
-msgid "ymir_strike_hint"
-msgstr "Strike with %1 as the marker crosses the glow"
-
-msgid "ymir_strike_line"
-msgstr "Streak %1   %2"
-
-msgid "ymir_strike_line_hot"
-msgstr "Streak %1   %2   The forge is hot!"
-
-msgid "ymir_strike_miss"
-msgstr "Missed"
-
-msgid "ymir_strike_perfect"
-msgstr "Perfect strike!"
-
-msgid "ymir_strike_waiting"
-msgstr ""
-"Waiting for kindling... the bench works again as soon as some is delivered."
-
-msgid "ymir_strike_waiting_full"
-msgstr ""
-"The Healing Well is full... the bench works again as soon as a charge is "
-"used."
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
