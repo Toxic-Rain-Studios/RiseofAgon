@@ -19517,7 +19517,7 @@ msgid "ymir_launch_on_foot"
 msgstr "You must be on your feet and out of the water to leap."
 
 msgid "ymir_line_already_fouled"
-msgstr "The quench water is already fouled"
+msgstr "This rune's quench water was already fouled"
 
 msgid "ymir_line_blows_right"
 msgstr "Blows are right - go quench it"
@@ -19535,7 +19535,7 @@ msgid "ymir_line_flaws_left"
 msgstr "%1 flaws left - mend them or lose %2% quality"
 
 msgid "ymir_line_flaws_max"
-msgstr "That station already has 3 flaws - try another"
+msgstr "That station can't take another flaw on this rune - try another"
 
 msgid "ymir_line_fouled"
 msgstr "The quench water is fouled - swing at the Trough to clear it"
