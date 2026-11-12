@@ -19161,12 +19161,24 @@ msgstr ""
 msgid "ymir_bench_well_full"
 msgstr "The Healing Well is full"
 
+msgid "ymir_best_forge"
+msgstr "Forge worker: %1"
+
 msgid "ymir_best_none"
 msgstr "nobody"
 
 msgid "ymir_best_of"
 msgstr ""
 "^Cgold^Best of Ymir's Forge^N^ - %1: Runner %2, Forge worker %3, Saboteur %4"
+
+msgid "ymir_best_runner"
+msgstr "Runner: %1"
+
+msgid "ymir_best_saboteur"
+msgstr "Saboteur: %1"
+
+msgid "ymir_best_title"
+msgstr "BEST OF YMIR'S FORGE"
 
 msgid "ymir_board_forge_points"
 msgstr "Forge points (event)"
@@ -19209,6 +19221,9 @@ msgstr "MEND THE FLAW"
 
 msgid "ymir_do_mend_hint"
 msgstr "%1 flaws here - one swing mends one"
+
+msgid "ymir_do_mend_hint_one"
+msgstr "One flaw here - one swing mends it"
 
 msgid "ymir_do_no_rune"
 msgstr "No rune on the line - start one at the Rune Table"
@@ -19355,13 +19370,13 @@ msgid "ymir_feed_start"
 msgstr "%1 started the rune"
 
 msgid "ymir_flaw_alert"
-msgstr "%1 flaw (%2) - swing to mend"
+msgstr "%1 flaw (%2, %3) - swing to mend"
 
 msgid "ymir_flaw_alert_anon"
 msgstr "%1 flaw - swing to mend"
 
 msgid "ymir_flaw_mend_hint"
-msgstr "%1 flawed your rune here"
+msgstr "%1 (%2) flawed your rune here"
 
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
@@ -19387,9 +19402,6 @@ msgstr ""
 
 msgid "ymir_forge_channel_too_far"
 msgstr "Stand right at the anvil to feed the forge."
-
-msgid "ymir_forge_choose_role"
-msgstr "Choose your job"
 
 msgid "ymir_forge_choose_team"
 msgstr "Choose your team"
@@ -19430,11 +19442,6 @@ msgid "ymir_forge_no_travel_out"
 msgstr ""
 "Ymir's cube stands: nothing carries you out of his Forge until the race ends."
 
-msgid "ymir_forge_not_firemaster"
-msgstr ""
-"Only a Firemaster can feed the forge. Change your job at the role post on "
-"your tower's ground floor."
-
 msgid "ymir_forge_not_in_muster"
 msgstr "Choose your team inside Ymir's muster circle while the muster is open."
 
@@ -19455,7 +19462,7 @@ msgid "ymir_forge_phase_forge"
 msgstr "The forge race"
 
 msgid "ymir_forge_phase_muster"
-msgstr "Muster - choose your team and your job"
+msgstr "Muster - choose your team"
 
 msgid "ymir_forge_role_busy"
 msgstr "You cannot change your job while you carry a hammer."
@@ -19463,13 +19470,9 @@ msgstr "You cannot change your job while you carry a hammer."
 msgid "ymir_forge_role_chosen"
 msgstr "Your job: %1."
 
-msgid "ymir_forge_role_cooldown"
-msgstr "You can change your job again in %1 seconds."
-
 msgid "ymir_forge_role_not_at_post"
 msgstr ""
-"Swing at the Gatherer Post on your own tower's ground floor to change your "
-"job."
+"Swing at the Runner Post on your own tower's ground floor to change your job."
 
 msgid "ymir_forge_starting"
 msgstr ""
@@ -19481,24 +19484,21 @@ msgid "ymir_forge_stockpile"
 msgstr "Kindling stockpile: %1"
 
 msgid "ymir_forge_team_button"
-msgstr "%1 - %2 fighters"
+msgstr "%1 - %2 players"
 
 msgid "ymir_forge_team_chosen"
 msgstr "You fight for %1."
 
 msgid "ymir_forge_team_full"
-msgstr "%1 has too many fighters for now. Choose another team."
+msgstr "%1 has too many players for now. Choose another team."
 
 msgid "ymir_forge_team_locked"
-msgstr "%1 - %2 fighters, closed to new fighters"
+msgstr "%1 - %2 players, closed to new players"
 
 msgid "ymir_forge_team_machine"
 msgstr ""
 "Another character from your computer fights for another team. One computer "
 "fights for one team."
-
-msgid "ymir_forge_time_left"
-msgstr "Time left: %1"
 
 msgid "ymir_forge_timeout"
 msgstr "Ymir's Forge is over: no team finished the ritual in time."
@@ -19510,21 +19510,21 @@ msgid "ymir_forge_won"
 msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
 
 msgid "ymir_gatherer_cannot_fight"
-msgstr "Gatherers cannot fight - switch job at your tower's post."
+msgstr "Runners can't attack - stop running at your tower's Runner Post."
 
 msgid "ymir_gatherer_cooldown"
-msgstr "You can switch again in %1 s"
+msgstr "You can switch again in %1 seconds"
 
 msgid "ymir_gatherer_dropped"
 msgstr "You dropped %1 kindling!"
 
 msgid "ymir_gatherer_hint"
 msgstr ""
-"You gather for your team: you cannot fight, but double tap forward to leap "
-"ahead. Bring kindling to the stockpile outside your tower's door."
+"You are a Runner: you can't attack, but double tap forward to leap ahead. "
+"Bring kindling to the stockpile outside your tower's door."
 
 msgid "ymir_gatherer_now"
-msgstr "You are a Gatherer: fast, can leap, can't fight"
+msgstr "You are a Runner: fast, can leap, can't attack"
 
 msgid "ymir_hammer_claimed"
 msgstr ""
@@ -19628,7 +19628,7 @@ msgstr ""
 "Or press 3 for blood: you give your life to Ymir and the rune is worth +%1%."
 
 msgid "ymir_howto_dismiss"
-msgstr "Swing or press Esc: got it"
+msgstr "Swing or move: got it"
 
 msgid "ymir_howto_flaws"
 msgstr "Enemies can flaw your rune - one swing at that station mends it."
@@ -19652,17 +19652,59 @@ msgstr "How the forge line works"
 msgid "ymir_howto_worth"
 msgstr "A rune adds about +%1% to the hammer; about %2 runes fill it."
 
+msgid "ymir_intro_1"
+msgstr ""
+"Everyone is a Fighter: fight, forge runes on your tower's top floor, raid "
+"enemy forges."
+
+msgid "ymir_intro_2"
+msgstr "Runners fetch kindling instead: faster, can leap, can't fight."
+
+msgid "ymir_intro_3"
+msgstr ""
+"Become a Runner at the Runner Post on your tower's ground floor - swing at "
+"it."
+
+msgid "ymir_intro_4"
+msgstr ""
+"Each rune adds about +%1% to your team's hammer. At 100% the hammer is "
+"released."
+
+msgid "ymir_intro_dismiss"
+msgstr "Move to close"
+
+msgid "ymir_intro_title"
+msgstr "YMIR'S FORGE"
+
 msgid "ymir_job_card_label"
-msgstr "Your job: %1"
+msgstr "Your job"
 
 msgid "ymir_job_fighter_1"
-msgstr "Forge runes on your top floor, fight, sabotage enemy forges."
+msgstr "Fight, forge runes on your tower's top floor, raid enemy forges."
 
 msgid "ymir_job_fighter_2"
-msgstr "You can't pick up kindling - Runners carry it."
+msgstr "Enemies show on your compass inside their tower."
+
+msgid "ymir_job_fighter_live_heat"
+msgstr "Your rune: heat %1/%2"
+
+msgid "ymir_job_fighter_live_none"
+msgstr "No rune on the line yet."
+
+msgid "ymir_job_fighter_live_quench"
+msgstr "Your rune: quench in %1"
+
+msgid "ymir_job_fighter_live_strike"
+msgstr "Your rune: strike %1/%2"
 
 msgid "ymir_job_fighter_slot"
 msgstr "You hold a line slot %1/%2"
+
+msgid "ymir_job_role_fighter"
+msgstr "FIGHTER"
+
+msgid "ymir_job_role_runner"
+msgstr "RUNNER"
 
 msgid "ymir_job_runner_1"
 msgstr "Grab kindling, bring it to your tower's stockpile."
@@ -19691,7 +19733,7 @@ msgid "ymir_kindling_full"
 msgstr "You cannot carry more kindling (%1 at most)."
 
 msgid "ymir_kindling_gatherers_only"
-msgstr "Only Gatherers can pick up kindling"
+msgstr "Only Runners can pick up kindling"
 
 msgid "ymir_kindling_gone"
 msgstr "That kindling is gone: someone took it first."
@@ -19712,7 +19754,7 @@ msgid "ymir_kindling_none"
 msgstr "You carry no kindling."
 
 msgid "ymir_kindling_not_gatherer"
-msgstr "Only a Gatherer gathers kindling and brings it home."
+msgstr "Only a Runner gathers kindling and brings it home."
 
 msgid "ymir_kindling_not_now"
 msgstr ""
@@ -19743,12 +19785,12 @@ msgid "ymir_launch_held"
 msgstr "You cannot leap while held."
 
 msgid "ymir_launch_not_gatherer"
-msgstr "Only a Gatherer can leap like that."
+msgstr "Only a Runner can leap like that."
 
 msgid "ymir_launch_not_now"
 msgstr ""
-"You can only leap like that as a Gatherer inside Ymir's cube, during the "
-"forge race."
+"You can only leap like that as a Runner inside Ymir's cube, during the forge "
+"race."
 
 msgid "ymir_launch_on_foot"
 msgstr "You must be on your feet and out of the water to leap."
@@ -19770,6 +19812,9 @@ msgstr "Only the rune's own team can quench it"
 
 msgid "ymir_line_enemy_table"
 msgstr "You can't use the enemy's Rune Table"
+
+msgid "ymir_line_flaw_left"
+msgstr "1 flaw left - mend it or lose %1% quality"
 
 msgid "ymir_line_flaws_left"
 msgstr "%1 flaws left - mend them or lose %2% quality"
@@ -19850,13 +19895,13 @@ msgid "ymir_nameplate_done_action"
 msgstr "Done for this rune"
 
 msgid "ymir_nameplate_forge"
-msgstr "%1 Forge - 3 kindling per piece"
+msgstr "%1 Anvil"
 
 msgid "ymir_nameplate_forge_action"
 msgstr "Swing: +1 blow"
 
 msgid "ymir_nameplate_forge_any"
-msgstr "Tower Forge - 3 kindling per piece"
+msgstr "Anvil"
 
 msgid "ymir_nameplate_hammer_stand"
 msgstr "%1 Hammer Stand"
@@ -19895,10 +19940,10 @@ msgid "ymir_nameplate_quench_trough_any"
 msgstr "Quench Trough"
 
 msgid "ymir_nameplate_role_post"
-msgstr "%1 Job Post"
+msgstr "%1 Runner Post"
 
 msgid "ymir_nameplate_role_post_any"
-msgstr "Job Post"
+msgstr "Runner Post"
 
 msgid "ymir_nameplate_rune_running"
 msgstr "A rune is on the line"
@@ -19934,19 +19979,43 @@ msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
 
 msgid "ymir_pick_blood"
-msgstr "[%1] Blood"
+msgstr "Blood"
 
 msgid "ymir_pick_blood_cost"
 msgstr "sacrifice yourself - +%1% worth"
 
+msgid "ymir_pick_key"
+msgstr "[%1]"
+
 msgid "ymir_pick_oil"
-msgstr "[%1] Oil"
+msgstr "Oil"
 
 msgid "ymir_pick_water"
-msgstr "[%1] Water"
+msgstr "Water"
 
-msgid "ymir_plate_racer"
-msgstr "%1 %2"
+msgid "ymir_popup_dropped"
+msgstr "You dropped %1 kindling!"
+
+msgid "ymir_popup_only_runners"
+msgstr "Only Runners can pick up kindling"
+
+msgid "ymir_popup_runner_no_attack"
+msgstr "Runners can't attack"
+
+msgid "ymir_post_action"
+msgstr "Runner Post - swing to switch"
+
+msgid "ymir_post_become"
+msgstr "Become a Runner"
+
+msgid "ymir_post_cooldown"
+msgstr "You can switch again in %1 seconds"
+
+msgid "ymir_post_stop"
+msgstr "Stop running"
+
+msgid "ymir_post_stop_action"
+msgstr "Runner Post - swing to switch (you drop what you carry)"
 
 msgid "ymir_quality_so_far"
 msgstr "Quality so far: %1%"
@@ -19962,6 +20031,9 @@ msgstr "you no longer tend this forge"
 
 msgid "ymir_reason_moved"
 msgstr "you stepped away from the anvil"
+
+msgid "ymir_respawn_countdown"
+msgstr "Back at your %1 tower in %2..."
 
 msgid "ymir_ritual_begin"
 msgstr ""
@@ -19983,14 +20055,11 @@ msgstr "Fighter"
 msgid "ymir_role_2"
 msgstr "Runner"
 
-msgid "ymir_role_changed"
-msgstr "Your job is now %1."
-
 msgid "ymir_role_toggle_off"
-msgstr "Stop gathering"
+msgstr "Stop running"
 
 msgid "ymir_role_toggle_on"
-msgstr "Be a Gatherer?"
+msgstr "Be a Runner?"
 
 msgid "ymir_rune_already"
 msgstr "A rune is already on the line - work it to the recipe"
@@ -20014,16 +20083,16 @@ msgid "ymir_rune_gone"
 msgstr "That rune is already finished - swing again for the new one"
 
 msgid "ymir_rune_line_heat"
-msgstr "Team rune: heat %1/%2 - quality so far %3%"
+msgstr "Rune on the line: heat %1/%2 - quality so far %3%"
 
 msgid "ymir_rune_line_none"
 msgstr "No rune on the line yet"
 
 msgid "ymir_rune_line_quench"
-msgstr "Team rune: quench in %1 - quality so far %2%"
+msgstr "Rune on the line: quench in %1 - quality so far %2%"
 
 msgid "ymir_rune_line_strike"
-msgstr "Team rune: strike %1/%2 - quality so far %3%"
+msgstr "Rune on the line: strike %1/%2 - quality so far %3%"
 
 msgid "ymir_rune_mended"
 msgstr "%1 mended the flaw at the %2"
@@ -20043,6 +20112,12 @@ msgstr "Rune forged - it adds nothing to the hammer"
 
 msgid "ymir_rune_sacrifice"
 msgstr "%1 gave their blood to Ymir!"
+
+msgid "ymir_runner_tag"
+msgstr "Runner"
+
+msgid "ymir_runner_tag_carry"
+msgstr "Runner - %1 kindling"
 
 msgid "ymir_sabotage_cooldown"
 msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
@@ -20071,8 +20146,8 @@ msgstr ""
 
 msgid "ymir_sabotage_not_saboteur"
 msgstr ""
-"Only a Fighter can spoil an enemy stockpile. Stop running at the Job Post on "
-"your tower's ground floor."
+"Only a Fighter can spoil an enemy stockpile. Stop running at the Runner Post "
+"on your tower's ground floor."
 
 msgid "ymir_sabotage_own"
 msgstr ""
@@ -20150,7 +20225,7 @@ msgstr ""
 "The enemy forge vents its heat: the blast burns you and throws you back."
 
 msgid "ymir_warrior_now"
-msgstr "You are a Warrior: fight, forge, sabotage"
+msgstr "You are a Fighter: fight, forge runes, raid enemy forges"
 
 msgid "ymir_well_cooldown"
 msgstr "Ymir's well will heal you again in %1 s"
@@ -20174,8 +20249,23 @@ msgstr ""
 msgid "ymir_well_too_far"
 msgstr "Stand right at the Healing Well to drink from it."
 
+msgid "ymir_window_downs"
+msgstr "%1 down - back in %2-%3 s"
+
+msgid "ymir_window_downs_one"
+msgstr "%1 down - back in %2 s"
+
 msgid "ymir_window_fighter_goto"
-msgstr "Go up to your tower's top floor and face a station - %1/%2 on the line"
+msgstr "Forge runes: your tower's top floor - Line %1/%2"
+
+msgid "ymir_window_fighter_where"
+msgstr "Go up to your top floor and face a station"
+
+msgid "ymir_window_job_fighter"
+msgstr "Your job: %1 - Your forge line: %2/%3"
+
+msgid "ymir_window_muster_time"
+msgstr "The muster - time left: %1"
 
 msgid "ymir_window_no_runners"
 msgstr "No Runners - your forge will run dry!"
@@ -20183,11 +20273,20 @@ msgstr "No Runners - your forge will run dry!"
 msgid "ymir_window_objective_title"
 msgstr "Your job now"
 
+msgid "ymir_window_race_time"
+msgstr "The forge race - time left: %1"
+
 msgid "ymir_window_runner_goto"
 msgstr "Bring kindling to your tower's stockpile - it has %1"
 
 msgid "ymir_window_team_roles"
 msgstr "%1 players - %2 Runners - %3 Fighters"
+
+msgid "ymir_window_vent_button"
+msgstr "Vent the forge - ready in %1 seconds"
+
+msgid "ymir_window_vent_ready"
+msgstr "Vent the forge"
 
 msgid "ymir_window_well_line"
 msgstr "Healing Well: %1/%2 charges"
