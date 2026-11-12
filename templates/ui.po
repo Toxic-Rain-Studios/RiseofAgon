@@ -19174,6 +19174,108 @@ msgstr "Forge points (event)"
 msgid "ymir_board_hammers_offered"
 msgstr "Hammers offered"
 
+msgid "ymir_crew_at"
+msgstr "%1 is on the %2"
+
+msgid "ymir_do_clear"
+msgstr "CLEAR THE WATER"
+
+msgid "ymir_do_clear_hint"
+msgstr "The water was fouled - one swing clears it"
+
+msgid "ymir_do_count"
+msgstr "%1 / %2"
+
+msgid "ymir_do_goto"
+msgstr "Go to the %1 ->"
+
+msgid "ymir_do_heat"
+msgstr "HEAT THE METAL"
+
+msgid "ymir_do_heat_done"
+msgstr "The heat is right"
+
+msgid "ymir_do_heat_hint"
+msgstr "...then strike it %1 times"
+
+msgid "ymir_do_heat_hint_last"
+msgstr "One more heat, then strike it %1 times"
+
+msgid "ymir_do_heat_hint_quench"
+msgstr "...then quench in %1"
+
+msgid "ymir_do_mend"
+msgstr "MEND THE FLAW"
+
+msgid "ymir_do_mend_hint"
+msgstr "%1 flaws here - one swing mends one"
+
+msgid "ymir_do_no_rune"
+msgstr "No rune on the line - start one at the Rune Table"
+
+msgid "ymir_do_quench"
+msgstr "QUENCH IN %1"
+
+msgid "ymir_do_quench_hint_blood"
+msgstr "Press %1 for blood (costs you %2 health), then swing"
+
+msgid "ymir_do_quench_hint_pick"
+msgstr "Press %1 for %2, then swing"
+
+msgid "ymir_do_quench_hint_ready"
+msgstr "%1 picked - swing to quench"
+
+msgid "ymir_do_rune_running"
+msgstr "A rune is already on the line"
+
+msgid "ymir_do_sabotage_flaw"
+msgstr "Swing to put a flaw in their rune"
+
+msgid "ymir_do_sabotage_foul"
+msgstr "Swing to foul their quench water"
+
+msgid "ymir_do_start"
+msgstr "START A RUNE"
+
+msgid "ymir_do_start_hint"
+msgstr "Costs 3 kindling from the stockpile (%1 there)"
+
+msgid "ymir_do_start_no_kindling"
+msgstr "Not enough kindling - the stockpile has %1 of 3"
+
+msgid "ymir_do_strike"
+msgstr "STRIKE THE ANVIL"
+
+msgid "ymir_do_strike_done"
+msgstr "The strikes are right"
+
+msgid "ymir_do_strike_hint"
+msgstr "...then quench in %1"
+
+msgid "ymir_do_strike_hint_heat"
+msgstr "...and heat it to %1 at the Bellows"
+
+msgid "ymir_do_strike_hint_last"
+msgstr "One more strike, then quench in %1"
+
+msgid "ymir_done_big"
+msgstr "+%1% to the hammer"
+
+msgid "ymir_done_crew"
+msgstr "Crew: %1"
+
+msgid "ymir_done_hint"
+msgstr "Quality %1% - recipe: heat %2, strike %3, %4"
+
+msgid "ymir_done_no_sabotage"
+msgstr "No sabotage"
+
+msgid "ymir_done_sabotage"
+msgstr "Sabotage: %1"
+
+msgid "ymir_done_title"
+msgstr "RUNE FORGED"
+
 msgid "ymir_favor_full_load"
 msgstr "Full load! +%1 favor"
 
@@ -19188,6 +19290,54 @@ msgstr "+%1 Forge Favor for your work at the Forge."
 msgid "ymir_favor_paid_winner"
 msgstr ""
 "+%1 Forge Favor for your work at the Forge, with the winning team's share."
+
+msgid "ymir_fb_cleared"
+msgstr "Quench water cleared"
+
+msgid "ymir_fb_flaw"
+msgstr "%1 put a flaw at the %2 - one swing there mends it"
+
+msgid "ymir_fb_fouled"
+msgstr "%1 fouled your quench water - one swing at the Trough clears it"
+
+msgid "ymir_fb_mended"
+msgstr "Flaw mended at the %1"
+
+msgid "ymir_fb_ok_blow"
+msgstr "Blow %1/%2"
+
+msgid "ymir_fb_ok_heat"
+msgstr "Heat %1/%2"
+
+msgid "ymir_fb_ok_picked"
+msgstr "Picked: %1"
+
+msgid "ymir_fb_started"
+msgstr "New rune: heat %1 - strike %2 - quench in %3"
+
+msgid "ymir_feed_blow"
+msgstr "%1 blow %2/%3"
+
+msgid "ymir_feed_clear"
+msgstr "%1 cleared the water"
+
+msgid "ymir_feed_flaw"
+msgstr "%1 put a flaw at the %2"
+
+msgid "ymir_feed_foul"
+msgstr "%1 fouled the quench water"
+
+msgid "ymir_feed_heat"
+msgstr "%1 +1 heat (%2/%3)"
+
+msgid "ymir_feed_mend"
+msgstr "%1 mended the flaw at the %2"
+
+msgid "ymir_feed_quench"
+msgstr "%1 quenched in %2"
+
+msgid "ymir_feed_start"
+msgstr "%1 started the rune"
 
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
@@ -19449,6 +19599,30 @@ msgstr ""
 "Ymir's hammer is yours: %1 minutes left to offer it at the Anvil of Ymir. "
 "Everyone can see you on the map."
 
+msgid "ymir_job_card_label"
+msgstr "Your job: %1"
+
+msgid "ymir_job_fighter_1"
+msgstr "Forge runes on your top floor, fight, sabotage enemy forges."
+
+msgid "ymir_job_fighter_2"
+msgstr "You can't pick up kindling - Runners carry it."
+
+msgid "ymir_job_fighter_slot"
+msgstr "You hold a line slot %1/%2"
+
+msgid "ymir_job_runner_1"
+msgstr "Grab kindling, bring it to your tower's stockpile."
+
+msgid "ymir_job_runner_2"
+msgstr "You can't attack. Double-tap forward to leap."
+
+msgid "ymir_job_runner_live"
+msgstr "You carry %1 kindling - if you die, you drop it."
+
+msgid "ymir_job_runner_live_none"
+msgstr "You carry no kindling."
+
 msgid "ymir_kindling_claimed"
 msgstr ""
 "You gather %1 kindling. Carry it to your tower's stockpile, outside its door."
@@ -19532,6 +19706,9 @@ msgstr "This rune's quench water was already fouled"
 msgid "ymir_line_blows_right"
 msgstr "Blows are right - go quench it"
 
+msgid "ymir_line_crew"
+msgstr "Fighters on the line %1/%2"
+
 msgid "ymir_line_draw_weapon"
 msgstr "Draw a weapon"
 
@@ -19577,11 +19754,20 @@ msgstr "The recipe wants %1"
 msgid "ymir_medium_blood"
 msgstr "blood"
 
+msgid "ymir_medium_blood_caps"
+msgstr "BLOOD"
+
 msgid "ymir_medium_oil"
 msgstr "oil"
 
+msgid "ymir_medium_oil_caps"
+msgstr "OIL"
+
 msgid "ymir_medium_water"
 msgstr "water"
+
+msgid "ymir_medium_water_caps"
+msgstr "WATER"
 
 msgid "ymir_nameplate_anvil_hammer"
 msgstr "%1 Hammer - taking shape (%2 percent)"
@@ -19592,6 +19778,9 @@ msgstr "Hammer - taking shape"
 msgid "ymir_nameplate_bellows"
 msgstr "%1 Bellows"
 
+msgid "ymir_nameplate_bellows_action"
+msgstr "Swing: +1 heat"
+
 msgid "ymir_nameplate_bellows_any"
 msgstr "Bellows"
 
@@ -19601,8 +19790,17 @@ msgstr "%1 Charge Bench - 3 swings and 1 kindling per charge"
 msgid "ymir_nameplate_charge_bench_any"
 msgstr "Charge Bench - 3 swings and 1 kindling per charge"
 
+msgid "ymir_nameplate_clear_action"
+msgstr "Swing: clear the fouled water"
+
+msgid "ymir_nameplate_done_action"
+msgstr "Done for this rune"
+
 msgid "ymir_nameplate_forge"
 msgstr "%1 Forge - 3 kindling per piece"
+
+msgid "ymir_nameplate_forge_action"
+msgstr "Swing: +1 blow"
 
 msgid "ymir_nameplate_forge_any"
 msgstr "Tower Forge - 3 kindling per piece"
@@ -19628,8 +19826,17 @@ msgstr "Kindling"
 msgid "ymir_nameplate_kindling_dropped"
 msgstr "Dropped Kindling"
 
+msgid "ymir_nameplate_mend_action"
+msgstr "Swing: mend the flaw"
+
+msgid "ymir_nameplate_no_rune"
+msgstr "Start a rune at the Rune Table first"
+
 msgid "ymir_nameplate_quench_trough"
 msgstr "%1 Quench Trough"
+
+msgid "ymir_nameplate_quench_trough_action"
+msgstr "Swing: quench - keys 1 water, 2 oil, 3 blood"
 
 msgid "ymir_nameplate_quench_trough_any"
 msgstr "Quench Trough"
@@ -19640,11 +19847,20 @@ msgstr "%1 Job Post"
 msgid "ymir_nameplate_role_post_any"
 msgstr "Job Post"
 
+msgid "ymir_nameplate_rune_running"
+msgstr "A rune is on the line"
+
 msgid "ymir_nameplate_rune_table"
 msgstr "%1 Rune Table"
 
+msgid "ymir_nameplate_rune_table_action"
+msgstr "Swing: start a rune (%1 kindling)"
+
 msgid "ymir_nameplate_rune_table_any"
 msgstr "Rune Table"
+
+msgid "ymir_nameplate_sabotage_action"
+msgstr "Swing: sabotage their rune"
 
 msgid "ymir_nameplate_stockpile"
 msgstr "%1 Kindling Stockpile"
@@ -19658,11 +19874,26 @@ msgstr "%1 Tower"
 msgid "ymir_nameplate_tower_any"
 msgstr "Ymir's Tower"
 
+msgid "ymir_no_weapon"
+msgstr "Draw a weapon - every step is a swing"
+
 msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
 
+msgid "ymir_pick_blood"
+msgstr "[%1] Blood (costs %2 health)"
+
+msgid "ymir_pick_oil"
+msgstr "[%1] Oil"
+
+msgid "ymir_pick_water"
+msgstr "[%1] Water"
+
 msgid "ymir_plate_racer"
 msgstr "%1 %2"
+
+msgid "ymir_quality_so_far"
+msgstr "Quality so far: %1%"
 
 msgid "ymir_reason_damage"
 msgstr "you were hurt"
@@ -19691,10 +19922,10 @@ msgid "ymir_ritual_no_hammer"
 msgstr "Ymir's ritual needs your team's hammer in your hands."
 
 msgid "ymir_role_1"
-msgstr "Warrior"
+msgstr "Fighter"
 
 msgid "ymir_role_2"
-msgstr "Gatherer"
+msgstr "Runner"
 
 msgid "ymir_role_changed"
 msgstr "Your job is now %1."
@@ -19724,6 +19955,18 @@ msgstr ""
 
 msgid "ymir_rune_gone"
 msgstr "That rune is already finished - swing again for the new one"
+
+msgid "ymir_rune_line_heat"
+msgstr "Team rune: heat %1/%2 - quality so far %3%"
+
+msgid "ymir_rune_line_none"
+msgstr "No rune on the line yet"
+
+msgid "ymir_rune_line_quench"
+msgstr "Team rune: quench in %1 - quality so far %2%"
+
+msgid "ymir_rune_line_strike"
+msgstr "Team rune: strike %1/%2 - quality so far %3%"
 
 msgid "ymir_rune_mended"
 msgstr "%1 mended the flaw at the %2"
@@ -19787,6 +20030,18 @@ msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
 msgid "ymir_spawn_your_tower"
 msgstr "Your tower"
 
+msgid "ymir_stage_heat"
+msgstr "HEAT"
+
+msgid "ymir_stage_quench"
+msgstr "QUENCH"
+
+msgid "ymir_stage_rune"
+msgstr "RUNE"
+
+msgid "ymir_stage_strike"
+msgstr "STRIKE"
+
 msgid "ymir_station_anvil"
 msgstr "Anvil"
 
@@ -19797,6 +20052,9 @@ msgid "ymir_station_not_yet"
 msgstr ""
 "Ymir has not woken this station yet. It comes into use in a later trial of "
 "the Forge."
+
+msgid "ymir_station_rune_table"
+msgstr "Rune Table"
 
 msgid "ymir_station_trough"
 msgstr "Trough"
@@ -19856,9 +20114,42 @@ msgstr ""
 msgid "ymir_well_too_far"
 msgstr "Stand right at the Healing Well to drink from it."
 
+msgid "ymir_window_fighter_goto"
+msgstr "Go up to your tower's top floor and face a station - %1/%2 on the line"
+
+msgid "ymir_window_no_runners"
+msgstr "No Runners - your forge will run dry!"
+
+msgid "ymir_window_objective_title"
+msgstr "Your job now"
+
+msgid "ymir_window_runner_goto"
+msgstr "Bring kindling to your tower's stockpile - it has %1"
+
+msgid "ymir_window_team_roles"
+msgstr "%1 players - %2 Runners - %3 Fighters"
+
 msgid "ymir_window_well_line"
 msgstr "Healing Well: %1/%2 charges"
 
 msgid "ymir_wrath_warning"
 msgstr ""
 "Ymir's Wrath burns intruders - the longer you stay, the hotter it gets."
+
+msgid "ymir_you_blow"
+msgstr "You: +1 blow"
+
+msgid "ymir_you_clear"
+msgstr "You: cleared the water"
+
+msgid "ymir_you_heat"
+msgstr "You: +1 heat"
+
+msgid "ymir_you_mend"
+msgstr "You: mended a flaw"
+
+msgid "ymir_you_quench"
+msgstr "You: quenched the rune"
+
+msgid "ymir_you_start"
+msgstr "You: started the rune"
