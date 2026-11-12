@@ -19103,110 +19103,22 @@ msgstr "Worn Out"
 msgid "yes"
 msgstr "Yes"
 
-msgid "ymir_anvil_attend"
-msgstr ""
-"You work at your tower's anvil. Hold the bellows to heat the piece, strike "
-"it while it glows white-hot, and quench it in the trough when it is ready."
-
-msgid "ymir_anvil_blamed"
-msgstr ""
-"You overheated the last piece. Ymir keeps you from the bellows for a while."
-
-msgid "ymir_anvil_cracked"
-msgstr "The piece cracked in the heat - its 3 kindling are lost"
-
-msgid "ymir_anvil_crowded"
-msgstr "Three smiths already hammer this piece. Work the bellows instead."
-
-msgid "ymir_anvil_hint"
-msgstr "Hold %1 at the bellows - strike on the glow"
-
-msgid "ymir_anvil_left"
-msgstr "You stepped away from the anvil. The piece stays on it and cools."
-
-msgid "ymir_anvil_need_kindling"
-msgstr "The Forge needs 3 kindling for a new piece"
-
-msgid "ymir_anvil_no_piece"
-msgstr ""
-"There is no piece on the anvil. Work the bellows to put one in the fire."
-
 msgid "ymir_anvil_not_firemaster"
 msgstr ""
-"Only a Warrior can work the anvil. Stop gathering at the Gatherer Post on "
-"your tower's ground floor."
+"Only a Fighter can work the forge line. Stop running at the post on your "
+"tower's ground floor."
 
 msgid "ymir_anvil_not_now"
-msgstr "The anvil can only be worked while the race runs."
+msgstr "The forge line can only be worked while the race runs."
 
 msgid "ymir_anvil_not_yours"
-msgstr ""
-"This is not your team's anvil. Work the anvil on your own tower's top floor."
-
-msgid "ymir_anvil_old_pulse"
-msgstr "Too late - that glow has passed."
-
-msgid "ymir_anvil_one_per_pulse"
-msgstr "You already struck on this glow. Wait for the next one."
-
-msgid "ymir_anvil_piece_started"
-msgstr "-3 kindling: a new piece goes into the fire"
-
-msgid "ymir_anvil_quality_line"
-msgstr "Quality %1 - good %2, weak %3, reheats %4"
-
-msgid "ymir_anvil_quench_too_early"
-msgstr "The piece isn't worked enough to quench - strike it first."
-
-msgid "ymir_anvil_quenched"
-msgstr "The piece is quenched: +%1 to the hammer (quality %2)"
-
-msgid "ymir_anvil_quenched_nothing"
-msgstr ""
-"The piece is quenched, but it was struck too little to add anything to the "
-"hammer."
-
-msgid "ymir_anvil_ready"
-msgstr "The piece is ready. Quench it in the trough."
+msgstr "You can only vent your own tower's forge."
 
 msgid "ymir_anvil_resync"
 msgstr "The forge lost track of you - try again."
 
-msgid "ymir_anvil_state_cold"
-msgstr "Pump the bellows into the glow"
-
-msgid "ymir_anvil_state_hot"
-msgstr "Too hot - stop pumping!"
-
-msgid "ymir_anvil_state_ready"
-msgstr "Ready to quench"
-
-msgid "ymir_anvil_state_working"
-msgstr "Strike!"
-
-msgid "ymir_anvil_too_cold"
-msgstr "The piece is too cold to work. Heat it at the bellows."
-
 msgid "ymir_anvil_too_far"
-msgstr "Stand right at the anvil, the bellows or the trough to work them."
-
-msgid "ymir_anvil_too_hot"
-msgstr "The piece is too hot to work. Let it cool a moment."
-
-msgid "ymir_anvil_vent_button"
-msgstr "Vent the heat (%1 s)"
-
-msgid "ymir_anvil_vent_cold"
-msgstr "There is not enough heat in the anvil to vent."
-
-msgid "ymir_anvil_vent_cooldown"
-msgstr "The anvil cannot vent again for %1 s."
-
-msgid "ymir_anvil_vent_ready"
-msgstr "Vent the heat"
-
-msgid "ymir_anvil_vented"
-msgstr "The anvil's heat is vented. The piece stays and must be heated again."
+msgstr "Stand right in front of a forge line station to work it."
 
 msgid "ymir_bar_full"
 msgstr ""
@@ -19610,6 +19522,39 @@ msgstr ""
 msgid "ymir_launch_on_foot"
 msgstr "You must be on your feet and out of the water to leap."
 
+msgid "ymir_line_blows_right"
+msgstr "Blows are right - go quench it"
+
+msgid "ymir_line_draw_weapon"
+msgstr "Draw a weapon"
+
+msgid "ymir_line_full"
+msgstr "The forge line is full (4/4)"
+
+msgid "ymir_line_gatherer"
+msgstr "Runners can't work the forge"
+
+msgid "ymir_line_heat_right"
+msgstr "Heat is right - go strike it"
+
+msgid "ymir_line_not_ready"
+msgstr "Heat and strike it first"
+
+msgid "ymir_line_pick_medium"
+msgstr "Pick a medium: [1] Water [2] Oil [3] Blood"
+
+msgid "ymir_line_recipe_wants"
+msgstr "The recipe wants %1"
+
+msgid "ymir_medium_blood"
+msgstr "blood"
+
+msgid "ymir_medium_oil"
+msgstr "oil"
+
+msgid "ymir_medium_water"
+msgstr "water"
+
 msgid "ymir_nameplate_anvil_hammer"
 msgstr "%1 Hammer - taking shape (%2 percent)"
 
@@ -19688,18 +19633,6 @@ msgstr "Ymir's Tower"
 msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
 
-msgid "ymir_piece_state_1"
-msgstr "cold"
-
-msgid "ymir_piece_state_2"
-msgstr "workable"
-
-msgid "ymir_piece_state_3"
-msgstr "too hot"
-
-msgid "ymir_piece_state_4"
-msgstr "ready to quench"
-
 msgid "ymir_plate_racer"
 msgstr "%1 %2"
 
@@ -19743,6 +19676,34 @@ msgstr "Stop gathering"
 
 msgid "ymir_role_toggle_on"
 msgstr "Be a Gatherer?"
+
+msgid "ymir_rune_already"
+msgstr "A rune is already on the line - work it to the recipe"
+
+msgid "ymir_rune_blood_low"
+msgstr "Not enough blood - heal at the Well"
+
+msgid "ymir_rune_blows_max"
+msgstr "That rune cannot take another blow"
+
+msgid "ymir_rune_gone"
+msgstr "That rune is already finished - swing again for the new one"
+
+msgid "ymir_rune_heat_max"
+msgstr "That rune cannot get any hotter"
+
+msgid "ymir_rune_need_kindling"
+msgstr ""
+"The forge needs 3 kindling for a new rune - Runners bring it to the stockpile"
+
+msgid "ymir_rune_none"
+msgstr "No rune on the line - start one at the Rune Table"
+
+msgid "ymir_rune_quenched"
+msgstr "Rune forged - quality %1% - +%2 to the hammer"
+
+msgid "ymir_rune_quenched_nothing"
+msgstr "Rune forged - it adds nothing to the hammer"
 
 msgid "ymir_sabotage_cooldown"
 msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
@@ -19792,9 +19753,6 @@ msgstr ""
 msgid "ymir_strike_good"
 msgstr "Good strike"
 
-msgid "ymir_strike_good_anvil"
-msgstr "Good strike!"
-
 msgid "ymir_strike_hint"
 msgstr "Strike with %1 as the marker crosses the glow"
 
@@ -19819,9 +19777,6 @@ msgstr ""
 "The Healing Well is full... the bench works again as soon as a charge is "
 "used."
 
-msgid "ymir_strike_weak_anvil"
-msgstr "Weak strike - wait for the white-hot glow"
-
 msgid "ymir_team_1"
 msgstr "Raudstaal"
 
@@ -19830,6 +19785,9 @@ msgstr "Ymirsmerke"
 
 msgid "ymir_team_3"
 msgstr "Mithril"
+
+msgid "ymir_vent_cooldown"
+msgstr "The forge cannot vent again for %1 s"
 
 msgid "ymir_vent_done"
 msgstr ""
@@ -19864,12 +19822,6 @@ msgstr ""
 
 msgid "ymir_well_too_far"
 msgstr "Stand right at the Healing Well to drink from it."
-
-msgid "ymir_window_piece_line"
-msgstr "Piece on the anvil: %1, heat %2, quality %3"
-
-msgid "ymir_window_piece_none"
-msgstr "No piece on the anvil"
 
 msgid "ymir_window_well_line"
 msgstr "Healing Well: %1/%2 charges"
