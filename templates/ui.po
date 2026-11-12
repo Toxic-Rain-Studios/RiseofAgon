@@ -19186,6 +19186,24 @@ msgstr "Forge points (event)"
 msgid "ymir_board_hammers_offered"
 msgstr "Hammers offered"
 
+msgid "ymir_count_fighters"
+msgstr "%1 Fighters"
+
+msgid "ymir_count_fighters_one"
+msgstr "%1 Fighter"
+
+msgid "ymir_count_players"
+msgstr "%1 players"
+
+msgid "ymir_count_players_one"
+msgstr "%1 player"
+
+msgid "ymir_count_runners"
+msgstr "%1 Runners"
+
+msgid "ymir_count_runners_one"
+msgstr "%1 Runner"
+
 msgid "ymir_crew_at"
 msgstr "%1 is on the %2"
 
@@ -19484,7 +19502,7 @@ msgid "ymir_forge_stockpile"
 msgstr "Kindling stockpile: %1"
 
 msgid "ymir_forge_team_button"
-msgstr "%1 - %2 players"
+msgstr "%1 - %2"
 
 msgid "ymir_forge_team_chosen"
 msgstr "You fight for %1."
@@ -19493,7 +19511,7 @@ msgid "ymir_forge_team_full"
 msgstr "%1 has too many players for now. Choose another team."
 
 msgid "ymir_forge_team_locked"
-msgstr "%1 - %2 players, closed to new players"
+msgstr "%1 - %2, closed"
 
 msgid "ymir_forge_team_machine"
 msgstr ""
@@ -20086,16 +20104,16 @@ msgid "ymir_rune_gone"
 msgstr "That rune is already finished - swing again for the new one"
 
 msgid "ymir_rune_line_heat"
-msgstr "Rune on the line: heat %1/%2 - quality so far %3%"
+msgstr "On the line: heat %1/%2 - quality %3%"
 
 msgid "ymir_rune_line_none"
 msgstr "No rune on the line yet"
 
 msgid "ymir_rune_line_quench"
-msgstr "Rune on the line: quench in %1 - quality so far %2%"
+msgstr "On the line: quench in %1 - quality %2%"
 
 msgid "ymir_rune_line_strike"
-msgstr "Rune on the line: strike %1/%2 - quality so far %3%"
+msgstr "On the line: strike %1/%2 - quality %3%"
 
 msgid "ymir_rune_mended"
 msgstr "%1 mended the flaw at the %2"
@@ -20108,7 +20126,7 @@ msgid "ymir_rune_none"
 msgstr "No rune on the line - start one at the Rune Table"
 
 msgid "ymir_rune_quenched"
-msgstr "Rune forged - quality %1% - +%2 to the hammer"
+msgstr "Rune forged - quality %1% - +%2% to the hammer"
 
 msgid "ymir_rune_quenched_nothing"
 msgstr "Rune forged - it adds nothing to the hammer"
@@ -20283,10 +20301,10 @@ msgid "ymir_window_race_time"
 msgstr "The forge race - time left: %1"
 
 msgid "ymir_window_runner_goto"
-msgstr "Bring kindling to your tower's stockpile - it has %1"
+msgstr "Bring kindling to your stockpile - it has %1"
 
 msgid "ymir_window_team_roles"
-msgstr "%1 players - %2 Runners - %3 Fighters"
+msgstr "%1 - %2 - %3"
 
 msgid "ymir_window_vent_button"
 msgstr "Vent the forge - ready in %1 seconds"
