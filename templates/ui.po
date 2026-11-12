@@ -19161,11 +19161,21 @@ msgstr ""
 msgid "ymir_bench_well_full"
 msgstr "The Healing Well is full"
 
+msgid "ymir_best_none"
+msgstr "nobody"
+
+msgid "ymir_best_of"
+msgstr ""
+"^Cgold^Best of Ymir's Forge^N^ - %1: Runner %2, Forge worker %3, Saboteur %4"
+
 msgid "ymir_board_forge_points"
 msgstr "Forge points (event)"
 
 msgid "ymir_board_hammers_offered"
 msgstr "Hammers offered"
+
+msgid "ymir_favor_full_load"
+msgstr "Full load! +%1 favor"
 
 msgid "ymir_favor_none"
 msgstr ""
@@ -19794,11 +19804,20 @@ msgstr "Trough"
 msgid "ymir_team_1"
 msgstr "Raudstaal"
 
+msgid "ymir_team_1_coloured"
+msgstr "^Ce76d63^Raudstaal^N^"
+
 msgid "ymir_team_2"
 msgstr "Ymirsmerke"
 
+msgid "ymir_team_2_coloured"
+msgstr "^Ceaba45^Ymirsmerke^N^"
+
 msgid "ymir_team_3"
 msgstr "Mithril"
+
+msgid "ymir_team_3_coloured"
+msgstr "^C85a8d6^Mithril^N^"
 
 msgid "ymir_vent_cooldown"
 msgstr "The forge cannot vent again for %1 s"
