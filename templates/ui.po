@@ -19178,7 +19178,7 @@ msgid "ymir_crew_at"
 msgstr "%1 is on the %2"
 
 msgid "ymir_do_clear"
-msgstr "CLEAR THE WATER"
+msgstr "CLEAR THE FOULED WATER"
 
 msgid "ymir_do_clear_hint"
 msgstr "The water was fouled - one swing clears it"
@@ -19196,7 +19196,7 @@ msgid "ymir_do_heat_done"
 msgstr "The heat is right"
 
 msgid "ymir_do_heat_hint"
-msgstr "...then strike it %1 times"
+msgstr "Strikes are next: %1 at the Anvil"
 
 msgid "ymir_do_heat_hint_last"
 msgstr "One more heat, then strike it %1 times"
@@ -19215,6 +19215,9 @@ msgstr "No rune on the line - start one at the Rune Table"
 
 msgid "ymir_do_quench"
 msgstr "QUENCH IN %1"
+
+msgid "ymir_do_quench_blood"
+msgstr "Blood picked - swing to give your life to Ymir (+%1% worth)"
 
 msgid "ymir_do_quench_hint_blood"
 msgstr "Press %1 for blood (costs you %2 health), then swing"
@@ -19237,6 +19240,9 @@ msgstr "Swing to foul their quench water"
 msgid "ymir_do_start"
 msgstr "START A RUNE"
 
+msgid "ymir_do_start_big"
+msgstr "Swing at the table"
+
 msgid "ymir_do_start_hint"
 msgstr "Costs 3 kindling from the stockpile (%1 there)"
 
@@ -19250,7 +19256,7 @@ msgid "ymir_do_strike_done"
 msgstr "The strikes are right"
 
 msgid "ymir_do_strike_hint"
-msgstr "...then quench in %1"
+msgstr "Then quench in %1 at the Trough"
 
 msgid "ymir_do_strike_hint_heat"
 msgstr "...and heat it to %1 at the Bellows"
@@ -19258,11 +19264,20 @@ msgstr "...and heat it to %1 at the Bellows"
 msgid "ymir_do_strike_hint_last"
 msgstr "One more strike, then quench in %1"
 
+msgid "ymir_do_swing_once"
+msgstr "Swing once"
+
 msgid "ymir_done_big"
 msgstr "+%1% to the hammer"
 
+msgid "ymir_done_clean"
+msgstr "No flaws"
+
 msgid "ymir_done_crew"
 msgstr "Crew: %1"
+
+msgid "ymir_done_flaws"
+msgstr "Unmended flaws: %1 (-%2% each)"
 
 msgid "ymir_done_hint"
 msgstr "Quality %1% - recipe: heat %2, strike %3, %4"
@@ -19292,7 +19307,7 @@ msgstr ""
 "+%1 Forge Favor for your work at the Forge, with the winning team's share."
 
 msgid "ymir_fb_cleared"
-msgstr "Quench water cleared"
+msgstr "Water cleared!"
 
 msgid "ymir_fb_flaw"
 msgstr "%1 put a flaw at the %2 - one swing there mends it"
@@ -19301,7 +19316,7 @@ msgid "ymir_fb_fouled"
 msgstr "%1 fouled your quench water - one swing at the Trough clears it"
 
 msgid "ymir_fb_mended"
-msgstr "Flaw mended at the %1"
+msgstr "Mended!"
 
 msgid "ymir_fb_ok_blow"
 msgstr "Blow %1/%2"
@@ -19338,6 +19353,15 @@ msgstr "%1 quenched in %2"
 
 msgid "ymir_feed_start"
 msgstr "%1 started the rune"
+
+msgid "ymir_flaw_alert"
+msgstr "%1 flaw (%2) - swing to mend"
+
+msgid "ymir_flaw_alert_anon"
+msgstr "%1 flaw - swing to mend"
+
+msgid "ymir_flaw_mend_hint"
+msgstr "%1 flawed your rune here"
 
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
@@ -19599,6 +19623,35 @@ msgstr ""
 "Ymir's hammer is yours: %1 minutes left to offer it at the Anvil of Ymir. "
 "Everyone can see you on the map."
 
+msgid "ymir_howto_blood"
+msgstr ""
+"Or press 3 for blood: you give your life to Ymir and the rune is worth +%1%."
+
+msgid "ymir_howto_dismiss"
+msgstr "Swing or press Esc: got it"
+
+msgid "ymir_howto_flaws"
+msgstr "Enemies can flaw your rune - one swing at that station mends it."
+
+msgid "ymir_howto_step_1"
+msgstr "1. Rune Table: swing to start a rune (%1 kindling)."
+
+msgid "ymir_howto_step_2"
+msgstr "2. Bellows: swing until the heat matches the recipe."
+
+msgid "ymir_howto_step_3"
+msgstr "3. Anvil: swing as many times as the recipe says."
+
+msgid "ymir_howto_step_4"
+msgstr ""
+"4. Trough: press 1 for water or 2 for oil as the recipe says, then swing."
+
+msgid "ymir_howto_title"
+msgstr "How the forge line works"
+
+msgid "ymir_howto_worth"
+msgstr "A rune adds about +%1% to the hammer; about %2 runes fill it."
+
 msgid "ymir_job_card_label"
 msgstr "Your job: %1"
 
@@ -19707,7 +19760,7 @@ msgid "ymir_line_blows_right"
 msgstr "Blows are right - go quench it"
 
 msgid "ymir_line_crew"
-msgstr "Fighters on the line %1/%2"
+msgstr "Line %1/%2"
 
 msgid "ymir_line_draw_weapon"
 msgstr "Draw a weapon"
@@ -19746,7 +19799,7 @@ msgid "ymir_line_pick_medium"
 msgstr "Pick a medium: [1] Water [2] Oil [3] Blood"
 
 msgid "ymir_line_quench_held"
-msgstr "Another Fighter is quenching this rune in blood - wait a moment"
+msgstr "Another Fighter is giving their blood for this rune - wait a moment"
 
 msgid "ymir_line_recipe_wants"
 msgstr "The recipe wants %1"
@@ -19881,7 +19934,10 @@ msgid "ymir_offer_hammer"
 msgstr "Offer Ymir's Hammer"
 
 msgid "ymir_pick_blood"
-msgstr "[%1] Blood (costs %2 health)"
+msgstr "[%1] Blood"
+
+msgid "ymir_pick_blood_cost"
+msgstr "sacrifice yourself - +%1% worth"
 
 msgid "ymir_pick_oil"
 msgstr "[%1] Oil"
@@ -19939,8 +19995,9 @@ msgstr "Be a Gatherer?"
 msgid "ymir_rune_already"
 msgstr "A rune is already on the line - work it to the recipe"
 
-msgid "ymir_rune_blood_low"
-msgstr "Not enough blood - heal at the Well"
+msgid "ymir_rune_blood_refused"
+msgstr ""
+"Ymir will not take your blood now - Ymir's Gift would not cover your death"
 
 msgid "ymir_rune_cleared"
 msgstr "%1 cleared the fouled water"
@@ -19983,6 +20040,9 @@ msgstr "Rune forged - quality %1% - +%2 to the hammer"
 
 msgid "ymir_rune_quenched_nothing"
 msgstr "Rune forged - it adds nothing to the hammer"
+
+msgid "ymir_rune_sacrifice"
+msgstr "%1 gave their blood to Ymir!"
 
 msgid "ymir_sabotage_cooldown"
 msgstr "You cannot spoil this stockpile yet. Try again in %1 seconds."
