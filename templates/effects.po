@@ -104,6 +104,9 @@ msgstr "Casting Bonus"
 msgid "Casting Penalty"
 msgstr "Casting Penalty"
 
+msgid "Character XP Boost"
+msgstr "Character XP Boost"
+
 msgid "Clan Bonus"
 msgstr "Clan Bonus"
 
@@ -841,6 +844,11 @@ msgstr ""
 
 msgid "desc_Casting Penalty"
 msgstr ""
+
+msgid "desc_Character XP Boost"
+msgstr ""
+"Character experience +75% until the boost runs out. The time runs whether "
+"you are online or not. Rested XP still counts, added on top."
 
 msgid "desc_Clan Bonus"
 msgstr " "

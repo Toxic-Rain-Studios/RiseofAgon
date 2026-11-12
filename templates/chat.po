@@ -14113,6 +14113,39 @@ msgstr ""
 msgid "chat_level_backfill_paid_and_debt"
 msgstr "%1; %2"
 
+msgid "chat_level_boost_active"
+msgstr ""
+"Your character XP boost is running: +%1 character XP for %2 h %3 min more."
+
+msgid "chat_level_boost_added"
+msgstr ""
+"Character XP boost: +%1 character XP for the next %2 h %3 min. The time runs "
+"whether you are online or not."
+
+msgid "chat_level_boost_capped"
+msgstr ""
+"A character XP boost can hold at most %1 hours. The boost was not used."
+
+msgid "chat_level_boost_ended"
+msgstr "Your character XP boost has run out."
+
+msgid "chat_level_boost_max_level"
+msgstr ""
+"You are at the highest character level, so a character XP boost would do "
+"nothing. It was not used."
+
+msgid "chat_level_boost_off"
+msgstr ""
+"Character XP boosts are switched off right now. The boost was not used."
+
+msgid "chat_level_boost_rested_too"
+msgstr ""
+"Your rested XP still counts too: both are worked out on the XP you earn, and "
+"added together."
+
+msgid "chat_level_boost_status"
+msgstr "Character XP boost: +%1 for %2 h %3 min more."
+
 msgid "chat_level_cant_buy"
 msgstr "%1 can't be bought with points: %2."
 
@@ -14353,8 +14386,15 @@ msgstr "Points: %1 (attribute points count as skill points)."
 msgid "chat_level_xp_gain"
 msgstr "+%1 character XP (level %2: %3)"
 
+# Character XP boost (2026-11-10)
+msgid "chat_level_xp_gain_boost"
+msgstr "+%1 character XP (%2 boost) (level %3: %4)"
+
 msgid "chat_level_xp_gain_rested"
 msgstr "+%1 character XP (%2 rested) (level %3: %4)"
+
+msgid "chat_level_xp_gain_rested_boost"
+msgstr "+%1 character XP (%2 rested, %3 boost) (level %4: %5)"
 
 msgid "chat_level_xp_progress"
 msgstr "%1 / %2"

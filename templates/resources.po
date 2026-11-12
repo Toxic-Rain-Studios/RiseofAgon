@@ -23199,6 +23199,24 @@ msgstr ""
 "wear. This character only. This scroll cannot be traded, dropped or sold, "
 "but can be stored in your bank."
 
+msgid "desc_r_ut_Character XP Boost 1 Hour"
+msgstr ""
+"Raises the character experience you earn by 75% for one hour. The time runs "
+"whether you are online or not, so use it when you can play. Rested XP still "
+"counts, added on top, and further boosts add to the time."
+
+msgid "desc_r_ut_Character XP Boost 3 Hours"
+msgstr ""
+"Raises the character experience you earn by 75% for three hours. The time "
+"runs whether you are online or not, so use it when you can play. Rested XP "
+"still counts, added on top, and further boosts add to the time."
+
+msgid "desc_r_ut_Character XP Boost 8 Hours"
+msgstr ""
+"Raises the character experience you earn by 75% for eight hours. The time "
+"runs whether you are online or not, so use it when you can play. Rested XP "
+"still counts, added on top, and further boosts add to the time."
+
 msgid "desc_r_ut_Emote Scroll"
 msgstr ""
 "Double click to add a new emote to your account! This scroll cannot be "
@@ -23440,6 +23458,15 @@ msgstr "Vaulted Slayer Talisman"
 
 msgid "display_name_r_Slayer Talisman Worn"
 msgstr "Worn Slayer Talisman"
+
+msgid "display_name_r_ut_Character XP Boost 1 Hour"
+msgstr "Character XP Boost (1 hour)"
+
+msgid "display_name_r_ut_Character XP Boost 3 Hours"
+msgstr "Character XP Boost (3 hours)"
+
+msgid "display_name_r_ut_Character XP Boost 8 Hours"
+msgstr "Character XP Boost (8 hours)"
 
 msgid "display_name_r_ut_Mount Skin Scroll"
 msgstr "Mount Skin Scroll (Untradable)"
