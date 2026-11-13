@@ -7070,6 +7070,94 @@ msgstr "Usage Tax"
 msgid "glyph_rule_name_tax_option"
 msgstr "Tax Override"
 
+msgid "gm_env_ambient"
+msgstr "Ambient light"
+
+msgid "gm_env_apply_preset"
+msgstr "Apply"
+
+msgid "gm_env_command_description"
+msgstr "Open the GM environment test window (time of day, weather, lighting)"
+
+msgid "gm_env_darkest_night"
+msgstr "Darkest night"
+
+msgid "gm_env_fog_color"
+msgstr "Fog brightness"
+
+msgid "gm_env_fog_distance"
+msgstr "Fog distance"
+
+msgid "gm_env_hold_weather"
+msgstr "Hold weather"
+
+msgid "gm_env_light"
+msgstr "Sun/moon light"
+
+msgid "gm_env_log_values"
+msgstr "Write to log"
+
+msgid "gm_env_preset"
+msgstr "Weather preset"
+
+msgid "gm_env_rain"
+msgstr "Rain"
+
+msgid "gm_env_readout"
+msgstr ""
+"Showing %1 (%2)\n"
+"Ambient %3\n"
+"Sun/moon light %4\n"
+"Fog %5, start %6, end %7"
+
+msgid "gm_env_real_time"
+msgstr "Real time"
+
+msgid "gm_env_refresh"
+msgstr "Refresh"
+
+msgid "gm_env_reload_preset"
+msgstr "Reload files"
+
+msgid "gm_env_reset"
+msgstr "Reset all"
+
+msgid "gm_env_saturation"
+msgstr "Light saturation"
+
+msgid "gm_env_server_weather"
+msgstr "server weather"
+
+msgid "gm_env_set_time"
+msgstr "Set time"
+
+msgid "gm_env_snow"
+msgstr "Snow"
+
+msgid "gm_env_status_busy"
+msgstr "A weather blend is still running. Try again in a moment."
+
+msgid "gm_env_status_darkest"
+msgstr "Darkest night: %1 at %2, lighting multipliers back to 1."
+
+msgid "gm_env_status_logged"
+msgstr "Values written to the client log."
+
+msgid "gm_env_status_missing"
+msgstr "Couldn't load that preset's files."
+
+msgid "gm_env_status_unavailable"
+msgstr "The environment isn't running yet."
+
+msgid "gm_env_status_view"
+msgstr "Can't change the time or weather while the constellation view is open."
+
+msgid "gm_env_time_of_day"
+msgstr "Time of day"
+
+msgid "gm_env_window_title"
+msgstr "Environment Test"
+
 msgid "gm_sound_se_gm_dexter_meme"
 msgstr "Dexter Meme"
 
