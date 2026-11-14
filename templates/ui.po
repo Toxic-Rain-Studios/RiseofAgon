@@ -4642,6 +4642,12 @@ msgstr "Unspawn"
 msgid "context_menu_whisper_to_player"
 msgstr "Whisper"
 
+msgid "context_menu_ymir_become_fighter"
+msgstr "Become a Fighter"
+
+msgid "context_menu_ymir_become_runner"
+msgstr "Become a Runner"
+
 msgid "coordinates"
 msgstr "coordinates"
 
@@ -19576,6 +19582,12 @@ msgstr "The forge race"
 msgid "ymir_forge_phase_muster"
 msgstr "Muster - choose your team"
 
+msgid "ymir_forge_role_already_fighter"
+msgstr "You're already a Fighter."
+
+msgid "ymir_forge_role_already_runner"
+msgstr "You're already a Runner."
+
 msgid "ymir_forge_role_busy"
 msgstr "You cannot change your job while you carry a hammer."
 
@@ -19584,7 +19596,7 @@ msgstr "Your job: %1."
 
 msgid "ymir_forge_role_not_at_post"
 msgstr ""
-"Swing at the Runner Post on your own tower's ground floor to change your job."
+"Use the Runner Post on your own tower's ground floor to change your job."
 
 msgid "ymir_forge_starting"
 msgstr ""
@@ -19622,7 +19634,7 @@ msgid "ymir_forge_won"
 msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
 
 msgid "ymir_gatherer_cannot_fight"
-msgstr "Runners can't attack - stop running at your tower's Runner Post."
+msgstr "Runners can't attack - switch jobs at your tower's Runner Post."
 
 msgid "ymir_gatherer_cooldown"
 msgstr "You can switch again in %1 seconds"
@@ -19780,8 +19792,8 @@ msgstr "Runners fetch kindling instead: faster, can leap, can't fight."
 
 msgid "ymir_intro_3"
 msgstr ""
-"Become a Runner at the Runner Post on your tower's ground floor - swing at "
-"it."
+"Become a Runner at the Runner Post on your tower's ground floor - use it and "
+"choose."
 
 msgid "ymir_intro_4"
 msgstr ""
@@ -20121,7 +20133,7 @@ msgid "ymir_popup_runner_no_attack"
 msgstr "Runners can't attack"
 
 msgid "ymir_post_action"
-msgstr "Runner Post - swing to switch"
+msgstr "Runner Post - use it to switch jobs"
 
 msgid "ymir_post_become"
 msgstr "Become a Runner"
@@ -20133,7 +20145,7 @@ msgid "ymir_post_stop"
 msgstr "Stop running"
 
 msgid "ymir_post_stop_action"
-msgstr "Runner Post - swing to switch (you drop what you carry)"
+msgstr "Runner Post - use it to switch jobs (you drop what you carry)"
 
 msgid "ymir_quality_so_far"
 msgstr "Quality so far: %1%"
@@ -20315,8 +20327,15 @@ msgstr ""
 msgid "ymir_station_rune_table"
 msgstr "Rune Table"
 
+msgid "ymir_station_runner"
+msgstr ""
+"You're a Runner - switch jobs at the Runner Post before working this station."
+
 msgid "ymir_station_trough"
 msgstr "Trough"
+
+msgid "ymir_stockpile_deposit_here"
+msgstr "DEPOSIT YOUR KINDLING HERE!"
 
 msgid "ymir_team_1"
 msgstr "Raudstaal"
