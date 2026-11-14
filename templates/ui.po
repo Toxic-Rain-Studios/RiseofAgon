@@ -19205,8 +19205,8 @@ msgstr "Yes"
 
 msgid "ymir_anvil_not_firemaster"
 msgstr ""
-"Only a Fighter can work the forge line. Stop running at the post on your "
-"tower's ground floor."
+"You're a Runner - switch jobs at the Runner Post before working the forge "
+"line."
 
 msgid "ymir_anvil_not_now"
 msgstr "The forge line can only be worked while the race runs."
@@ -19243,8 +19243,8 @@ msgstr ""
 
 msgid "ymir_bench_not_firemaster"
 msgstr ""
-"Only a Fighter can work the Charge Bench. Stop running at the post on your "
-"tower's ground floor."
+"You're a Runner - switch jobs at the Runner Post before working the Charge "
+"Bench."
 
 msgid "ymir_bench_not_now"
 msgstr "The Charge Bench can only be worked while the race runs."
@@ -20133,7 +20133,7 @@ msgid "ymir_popup_runner_no_attack"
 msgstr "Runners can't attack"
 
 msgid "ymir_post_action"
-msgstr "Runner Post - use it to switch jobs"
+msgstr "Runner Post - press F to switch jobs"
 
 msgid "ymir_post_become"
 msgstr "Become a Runner"
@@ -20142,10 +20142,10 @@ msgid "ymir_post_cooldown"
 msgstr "You can switch again in %1 seconds"
 
 msgid "ymir_post_stop"
-msgstr "Stop running"
+msgstr "You're a Runner"
 
 msgid "ymir_post_stop_action"
-msgstr "Runner Post - use it to switch jobs (you drop what you carry)"
+msgstr "Runner Post - press F to switch jobs (you drop what you carry)"
 
 msgid "ymir_quality_so_far"
 msgstr "Quality so far: %1%"
@@ -20282,8 +20282,8 @@ msgstr ""
 
 msgid "ymir_sabotage_not_saboteur"
 msgstr ""
-"Only a Fighter can spoil an enemy stockpile. Stop running at the Runner Post "
-"on your tower's ground floor."
+"You're a Runner - switch jobs at the Runner Post before spoiling an enemy "
+"stockpile."
 
 msgid "ymir_sabotage_own"
 msgstr ""
