@@ -19236,6 +19236,9 @@ msgstr "Charge %1/%2"
 msgid "ymir_bench_crafted"
 msgstr "+1 healing charge (%1/%2)"
 
+msgid "ymir_bench_enemy"
+msgstr "You can't use the enemy's Charge Bench"
+
 msgid "ymir_bench_no_kindling"
 msgstr ""
 "The Charge Bench needs 1 kindling for a new charge - Runners bring it to the "
@@ -19260,6 +19263,9 @@ msgstr ""
 
 msgid "ymir_bench_well_full"
 msgstr "The Healing Well is full"
+
+msgid "ymir_bench_well_line"
+msgstr "Healing Well: %1 / %2 charges"
 
 msgid "ymir_best_forge"
 msgstr "Forge worker: %1"
@@ -19306,6 +19312,21 @@ msgstr "%1 Runner"
 
 msgid "ymir_crew_at"
 msgstr "%1 is on the %2"
+
+msgid "ymir_do_charge"
+msgstr "CHARGE THE WELL"
+
+msgid "ymir_do_charge_hint"
+msgstr "Keep swinging - %1 swings make a healing charge"
+
+msgid "ymir_do_charge_hint_last"
+msgstr "One more swing makes a healing charge"
+
+msgid "ymir_do_charge_hint_start"
+msgstr "Costs %1 kindling from the stockpile (%2 there)"
+
+msgid "ymir_do_charge_no_kindling"
+msgstr "Not enough kindling - the stockpile has %1 of %2"
 
 msgid "ymir_do_clear"
 msgstr "CLEAR THE FOULED WATER"
