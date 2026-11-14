@@ -9625,6 +9625,21 @@ msgstr ""
 "^Cgold^%1 stirs.^N^ The %2 is full - %3 is still being forged, and the bar "
 "begins again."
 
+msgid "NOTIFICATION_HOUSE_ADDON_NEEDED_BY_OTHER"
+msgstr "Another addon needs that one."
+
+msgid "NOTIFICATION_HOUSE_ADDON_NOT_EMPTY"
+msgstr "Empty it before you take it out."
+
+msgid "NOTIFICATION_HOUSE_ADDON_NOT_INSTALLED"
+msgstr "That addon is not installed."
+
+msgid "NOTIFICATION_HOUSE_ADDON_NOT_REMOVABLE"
+msgstr "That addon cannot be taken out."
+
+msgid "NOTIFICATION_HOUSE_ADDON_TAKEN_OUT"
+msgstr "You took the addon out of your house."
+
 msgid "NOTIFICATION_HOUSE_ALREADY_A_TENANT"
 msgstr "You are already a tenant in this house."
 

@@ -4534,6 +4534,9 @@ msgstr "Sabotage Runic Relay"
 msgid "context_menu_glyph_harvest_collect"
 msgstr "Collect Harvest"
 
+msgid "context_menu_house_manage_addons"
+msgstr "Manage Addons"
+
 msgid "context_menu_industrial_activate_overdrive"
 msgstr "Restart: Overdrive"
 
@@ -7315,6 +7318,93 @@ msgstr "Hide the weapon bar slots"
 
 msgid "hotbar_weapon_dropdown_show_tooltip"
 msgstr "Show the weapon bar slots"
+
+msgid "house_addons_also_fits"
+msgstr "Also fits this slot"
+
+msgid "house_addons_block_door"
+msgstr "The front door cannot be taken out"
+
+msgid "house_addons_block_needed"
+msgstr "Another addon needs this one"
+
+msgid "house_addons_block_not_empty"
+msgstr "Empty it first"
+
+msgid "house_addons_empty"
+msgstr "Empty"
+
+msgid "house_addons_exterior"
+msgstr "Exterior"
+
+msgid "house_addons_in_backpack"
+msgstr "In your backpack"
+
+msgid "house_addons_interior"
+msgstr "Interior"
+
+msgid "house_addons_kind_0"
+msgstr "Addon"
+
+msgid "house_addons_kind_1"
+msgstr "Front door"
+
+msgid "house_addons_kind_10"
+msgstr "Furnishing"
+
+msgid "house_addons_kind_11"
+msgstr "Safe"
+
+msgid "house_addons_kind_12"
+msgstr "Slot machine"
+
+msgid "house_addons_kind_13"
+msgstr "Vendor"
+
+msgid "house_addons_kind_14"
+msgstr "Outdoor extra"
+
+msgid "house_addons_kind_15"
+msgstr "Bed"
+
+msgid "house_addons_kind_2"
+msgstr "Garden"
+
+msgid "house_addons_kind_3"
+msgstr "Outdoor feature"
+
+msgid "house_addons_kind_4"
+msgstr "Crafting station"
+
+msgid "house_addons_kind_5"
+msgstr "Roof ridge"
+
+msgid "house_addons_kind_6"
+msgstr "Magical feature"
+
+msgid "house_addons_kind_7"
+msgstr "Painting"
+
+msgid "house_addons_kind_8"
+msgstr "Animal head"
+
+msgid "house_addons_kind_9"
+msgstr "Tapestry"
+
+msgid "house_addons_nothing_fits"
+msgstr "You carry nothing that fits here"
+
+msgid "house_addons_put_in"
+msgstr "Put in"
+
+msgid "house_addons_swap_in"
+msgstr "Swap in"
+
+msgid "house_addons_take_out"
+msgstr "Take out"
+
+msgid "house_addons_title"
+msgstr "House Addons"
 
 msgid "hud_alignment_title"
 msgstr "%1"
