@@ -13352,6 +13352,359 @@ msgstr "PvE Mastery"
 msgid "mastery_xp_to_next"
 msgstr "%1 / %2 to next level"
 
+msgid "melek_veil_arena_leash"
+msgstr "You cannot leave Melek's Veil during the hunt."
+
+msgid "melek_veil_cancelled"
+msgstr "Melek's Veil has been cancelled."
+
+msgid "melek_veil_captured"
+msgstr "You have been captured!"
+
+msgid "melek_veil_cmd_join"
+msgstr "joins Melek's Veil while its muster is open"
+
+msgid "melek_veil_cmd_leave"
+msgstr "leaves Melek's Veil before its hunt begins"
+
+msgid "melek_veil_favor_paid"
+msgstr "+%1 Dominion Favor for taking part in Melek's Veil."
+
+msgid "melek_veil_favor_paid_winner"
+msgstr "+%1 Dominion Favor for winning Melek's Veil."
+
+msgid "melek_veil_freed"
+msgstr "You are free again!"
+
+msgid "melek_veil_hud_going_home"
+msgstr "Back to where you joined in %1"
+
+msgid "melek_veil_hud_head_start"
+msgstr "Hunters released in %1"
+
+msgid "melek_veil_hud_hunted_free"
+msgstr "Hunted still free: %1"
+
+msgid "melek_veil_hud_hunted_held"
+msgstr "Hunted imprisoned: %1"
+
+msgid "melek_veil_hud_hunters_held"
+msgstr "Hunters imprisoned: %1"
+
+msgid "melek_veil_hud_marks"
+msgstr "Capture marks: %1 / %2"
+
+msgid "melek_veil_hud_mates_free"
+msgstr "Free teammates: %1"
+
+msgid "melek_veil_hud_mates_held"
+msgstr "Imprisoned teammates: %1"
+
+msgid "melek_veil_hud_muster"
+msgstr "The hunt begins in %1"
+
+msgid "melek_veil_hud_over"
+msgstr "The hunt is over"
+
+msgid "melek_veil_hud_registered"
+msgstr "You are registered for the hunt"
+
+msgid "melek_veil_hud_release_in"
+msgstr "Back in the hunt in %1"
+
+msgid "melek_veil_hud_rescuing"
+msgstr "Breaking Melek's chains..."
+
+msgid "melek_veil_hud_role_hunted_free"
+msgstr "You are Hunted - status: FREE"
+
+msgid "melek_veil_hud_role_hunted_prisoner"
+msgstr "You are Hunted - status: PRISONER"
+
+msgid "melek_veil_hud_role_hunter"
+msgstr "You are a Hunter"
+
+msgid "melek_veil_hud_role_hunter_prisoner"
+msgstr "You are a Hunter, held in Melek's prison"
+
+msgid "melek_veil_hud_time"
+msgstr "Time left: %1"
+
+msgid "melek_veil_hud_title"
+msgstr "Melek's Veil"
+
+msgid "melek_veil_hud_wait_rescue"
+msgstr "A free teammate can break your chains"
+
+msgid "melek_veil_hud_won_hunted"
+msgstr "The Hunted have won the hunt"
+
+msgid "melek_veil_hud_won_hunters"
+msgstr "The Hunters have won the hunt"
+
+msgid "melek_veil_hunt_begins"
+msgstr "The hunt in Melek's Veil has begun: %1 Hunters against %2 Hunted."
+
+msgid "melek_veil_hunted_captured"
+msgstr "%1 has been captured and taken to Melek's prison."
+
+msgid "melek_veil_hunter_held"
+msgstr "The Hunters wait until the Hunted have had their head start."
+
+msgid "melek_veil_hunter_taken"
+msgstr ""
+"The Hunted have overwhelmed you! Melek holds you in his prison for %1 "
+"seconds."
+
+msgid "melek_veil_hunters_released"
+msgstr "The Hunters are released!"
+
+msgid "melek_veil_join_closed"
+msgstr "Melek's Veil is not taking new players right now."
+
+msgid "melek_veil_join_refused"
+msgstr "You cannot join Melek's Veil right now."
+
+msgid "melek_veil_joined"
+msgstr "You have joined Melek's Veil. The hunt begins in %1 seconds."
+
+msgid "melek_veil_last_hunted"
+msgstr "%1 is the last of the Hunted still free!"
+
+msgid "melek_veil_leave_refused"
+msgstr "You cannot leave Melek's Veil once the hunt has begun."
+
+msgid "melek_veil_left"
+msgstr "You have left Melek's Veil."
+
+msgid "melek_veil_map_marker"
+msgstr "Melek's Veil"
+
+msgid "melek_veil_muster_open"
+msgstr ""
+"Melek's Veil is gathering at %2! Type /melek_join or press Join in the event "
+"window within the next %1 minutes to join the hunt."
+
+msgid "melek_veil_polearm_given"
+msgstr ""
+"Melek's polearm is in your hands. Only its blows mark the Hunted for capture."
+
+msgid "melek_veil_polearm_no_room"
+msgstr "Make room in your bags: Melek's polearm cannot reach you."
+
+msgid "melek_veil_prison_boundary"
+msgstr "Melek's prison holds you: you cannot leave it until you are freed."
+
+msgid "melek_veil_prison_no_mount"
+msgstr "Melek's prisoners cannot ride or climb aboard anything."
+
+msgid "melek_veil_prisoner_freed"
+msgstr "%1 has broken free of Melek's prison!"
+
+msgid "melek_veil_rescue_busy"
+msgstr "Someone is already freeing that prisoner."
+
+msgid "melek_veil_rescue_coming"
+msgstr "Someone is breaking your chains. Stay where you are!"
+
+msgid "melek_veil_rescue_failed"
+msgstr "The rescue failed: the prisoner slipped out of your reach."
+
+msgid "melek_veil_rescue_far"
+msgstr "Get closer to the prisoner to free them."
+
+msgid "melek_veil_rescue_hunter"
+msgstr "Melek holds his fallen Hunters himself: they cannot be freed."
+
+msgid "melek_veil_rescue_interrupted"
+msgstr "Your rescue was interrupted."
+
+msgid "melek_veil_rescue_none"
+msgstr "There is no prisoner within your reach to free."
+
+msgid "melek_veil_rescue_not_you"
+msgstr "Only a free Hunted can break Melek's chains."
+
+msgid "melek_veil_rescue_started"
+msgstr "You are breaking Melek's chains on %1. Stay close and keep still!"
+
+msgid "melek_veil_team_hunted"
+msgstr ""
+"You are Hunted. Hide in Melek's Veil and stay free until time runs out. The "
+"Hunters are released in %1 seconds."
+
+msgid "melek_veil_team_hunter"
+msgstr ""
+"You are a Hunter of Melek. Capture every Hunted before time runs out. You "
+"are released in %1 seconds."
+
+msgid "melek_veil_too_few"
+msgstr "Melek's Veil was called off: not enough players joined."
+
+msgid "melek_veil_trip_refused"
+msgstr "You cannot travel out of Melek's Veil during the hunt."
+
+msgid "melek_veil_victory_hunted"
+msgstr "The Hunted have survived Melek's Veil and win!"
+
+msgid "melek_veil_victory_hunted_hunters_down"
+msgstr "Every Hunter has been taken: the Hunted win Melek's Veil!"
+
+msgid "melek_veil_victory_hunters"
+msgstr "The Hunters of Melek have captured every Hunted and win Melek's Veil!"
+
+msgid "melek_veil_window_favor"
+msgstr "Your reward: %1 Dominion Favor"
+
+msgid "melek_veil_window_favor_none"
+msgstr "No Dominion Favor for you this time"
+
+msgid "melek_veil_window_going_home"
+msgstr "Returning you home in %1"
+
+msgid "melek_veil_window_help_button"
+msgstr "?"
+
+msgid "melek_veil_window_help_tooltip"
+msgstr "Show or hide how to play"
+
+msgid "melek_veil_window_howto_heading"
+msgstr "How to play"
+
+msgid "melek_veil_window_howto_hunted"
+msgstr ""
+"The Hunted hide in the smoke and survive the timer. Free a prisoner by "
+"holding F on them inside the prison."
+
+msgid "melek_veil_window_howto_hunters"
+msgstr ""
+"Hunters chase the Hunted through Melek's smoke: %1 hits with Melek's polearm "
+"send a Hunted to Melek's prison."
+
+msgid "melek_veil_window_howto_reward"
+msgstr ""
+"The winning side earns %1 Dominion Favor, everyone else who took part earns "
+"%2."
+
+msgid "melek_veil_window_hunted_count"
+msgstr "Hunted: %1 free, %2 imprisoned"
+
+msgid "melek_veil_window_hunters_count"
+msgstr "Hunters: %1 free, %2 imprisoned"
+
+msgid "melek_veil_window_join"
+msgstr "Join the hunt"
+
+msgid "melek_veil_window_leave"
+msgstr "Leave the hunt"
+
+msgid "melek_veil_window_marks"
+msgstr "Capture marks on you: %1 / %2"
+
+msgid "melek_veil_window_no_winner"
+msgstr "No winner - the hunt was called off"
+
+msgid "melek_veil_window_not_joined"
+msgstr ""
+"You have not joined yet. Teams are drawn at random when the hunt begins."
+
+msgid "melek_veil_window_obj_hunted"
+msgstr ""
+"Hide in the smoke. Survive %1. Free prisoners: hold F on one inside the "
+"prison."
+
+msgid "melek_veil_window_obj_hunter"
+msgstr ""
+"Find the Hunted - %1 hits with Melek's polearm send one to prison. Power "
+"attack and whirlwind blow the smoke open."
+
+msgid "melek_veil_window_obj_hunter_down"
+msgstr "Imprisoned - back in %1 seconds"
+
+msgid "melek_veil_window_obj_hunter_down_wait"
+msgstr "Imprisoned - wait for your release"
+
+msgid "melek_veil_window_obj_hunter_held"
+msgstr "You are held while the Hunted hide - released in %1 seconds"
+
+msgid "melek_veil_window_obj_prisoner"
+msgstr "Wait for a teammate to free you - you cannot leave the prison."
+
+msgid "melek_veil_window_obj_spectator"
+msgstr "Watching the hunt. The lists below show who is in each group."
+
+msgid "melek_veil_window_obj_spectator_held"
+msgstr "The Hunted are hiding - the Hunters are released in %1 seconds"
+
+msgid "melek_veil_window_phase_ended"
+msgstr "The hunt is over"
+
+msgid "melek_veil_window_phase_hunt"
+msgstr "The hunt - time left: %1"
+
+msgid "melek_veil_window_phase_muster"
+msgstr "Gathering - the hunt begins in %1"
+
+msgid "melek_veil_window_pulse"
+msgstr "Next reveal pulse in %1"
+
+msgid "melek_veil_window_rescuing"
+msgstr "Freeing a prisoner - keep holding F"
+
+msgid "melek_veil_window_role_hunted"
+msgstr "You are HUNTED"
+
+msgid "melek_veil_window_role_hunter"
+msgstr "You are a HUNTER"
+
+msgid "melek_veil_window_role_hunter_prisoner"
+msgstr "You are a HUNTER - imprisoned"
+
+msgid "melek_veil_window_role_prisoner"
+msgstr "You are a PRISONER"
+
+msgid "melek_veil_window_role_spectator"
+msgstr "You are watching as a spectator"
+
+msgid "melek_veil_window_roster_back_in"
+msgstr "%1 (back in %2)"
+
+msgid "melek_veil_window_roster_hunted"
+msgstr "Hunted, free (%1): %2"
+
+msgid "melek_veil_window_roster_hunters"
+msgstr "Hunters (%1): %2"
+
+msgid "melek_veil_window_roster_more"
+msgstr "%1 and %2 more"
+
+msgid "melek_veil_window_roster_nobody"
+msgstr "nobody"
+
+msgid "melek_veil_window_roster_prisoners"
+msgstr "Prisoners (%1): %2"
+
+msgid "melek_veil_window_roster_signed_up"
+msgstr "Signed up (%1): %2"
+
+msgid "melek_veil_window_title"
+msgstr "Melek's Veil"
+
+msgid "melek_veil_window_won_hunted"
+msgstr "The Hunted win!"
+
+msgid "melek_veil_window_won_hunters"
+msgstr "The Hunters win!"
+
+msgid "melek_veil_window_you_joined"
+msgstr "You are signed up. Teams are drawn at random when the hunt begins."
+
+msgid "melek_veil_window_you_lost"
+msgstr "Your side lost"
+
+msgid "melek_veil_window_you_won"
+msgstr "Your side won"
+
 msgid "message"
 msgstr "message"
 
