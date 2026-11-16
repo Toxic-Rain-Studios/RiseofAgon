@@ -14101,6 +14101,11 @@ msgstr "the kit's name"
 msgid "chat_cmd_playtime_desc"
 msgstr "shows how long you have played this session and in total"
 
+msgid "chat_faction_qm_weekly_limit"
+msgstr ""
+"^Cdarkfall^That boost is limited to %1 hours a week, and you have %2 hours "
+"left this week. The week starts on Monday at 00:00 UTC."
+
 msgid "chat_level_at_max"
 msgstr "%1 is already at its maximum (%2)."
 
