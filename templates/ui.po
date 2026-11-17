@@ -4030,6 +4030,183 @@ msgstr "Clan Tasks"
 msgid "close"
 msgstr "Close"
 
+msgid "co_button_cancel"
+msgstr "Cancel"
+
+msgid "co_button_craft"
+msgstr "Craft"
+
+msgid "co_button_working"
+msgstr "Working"
+
+msgid "co_cancel_working"
+msgstr "An order that is being crafted can't be cancelled."
+
+msgid "co_cancelled"
+msgstr ""
+"Order cancelled. Your tips and materials come back by mail; the handling fee "
+"is not refunded."
+
+msgid "co_confirm_cost"
+msgstr ""
+"It costs %1 gold in total. Per item: %2 gold for the recipe, your tip of %3 "
+"gold and a %4 gold handling fee. Your materials are taken from your backpack "
+"now and kept with the order."
+
+msgid "co_confirm_mail"
+msgstr ""
+"When a crafter completes your order, the items are sent to you by mail: "
+"collect them at any mailbox. If you cancel the order, or nobody takes it "
+"within a week, your tips and materials come back by mail; the handling fee "
+"is not refunded."
+
+msgid "co_confirm_text"
+msgstr "Order %1 x %2 from the crafters at this station?"
+
+# Crafting Orders: the "place this order?" confirmation (SFCraftingOrderConfirm).
+msgid "co_confirm_title"
+msgstr "Place this order?"
+
+msgid "co_done_paid"
+msgstr "Order complete: you earned %1 gold in tips for %2."
+
+msgid "co_empty"
+msgstr "No orders at this station."
+
+msgid "co_header_item"
+msgstr "Item"
+
+msgid "co_header_qty"
+msgstr "Qty"
+
+msgid "co_header_tip"
+msgstr "Tip (ea)"
+
+msgid "co_hide_unknown"
+msgstr "Hide unknown"
+
+msgid "co_mail_cancelled_text"
+msgstr ""
+"You cancelled your order of %1 x %2. Your tips and materials are attached. "
+"The handling fee is not refunded."
+
+msgid "co_mail_cancelled_title"
+msgstr "Order cancelled"
+
+msgid "co_mail_done_text"
+msgstr "Your order of %1 x %2 has been crafted. The items are attached."
+
+msgid "co_mail_done_title"
+msgstr "Your order is ready"
+
+msgid "co_mail_expired_text"
+msgstr ""
+"Nobody took your order of %1 x %2 within a week. Your tips and materials are "
+"attached. The handling fee is not refunded."
+
+msgid "co_mail_expired_title"
+msgstr "Order expired"
+
+msgid "co_markers"
+msgstr "Markers"
+
+msgid "co_not_at_station"
+msgstr "Crafting orders are placed and crafted at a crafting station."
+
+msgid "co_not_here"
+msgstr "This station does not take crafting orders."
+
+msgid "co_order_button"
+msgstr "Order"
+
+msgid "co_place_bad_amount"
+msgstr "An order is for 1 to 100 items, with a tip of 0 or more."
+
+msgid "co_place_can_craft"
+msgstr "You can make this yourself, so you can't order it."
+
+msgid "co_place_cap"
+msgstr "You already have 10 orders at this station."
+
+# Crafting Orders: the account cap on open orders plus parcels waiting in the mail (2026-11-14).
+msgid "co_place_limit"
+msgstr ""
+"You have %1 crafting orders up or parcels waiting in your mail, and your "
+"limit is %2. Collect your parcels or wait for an order to finish."
+
+msgid "co_place_limit_trial"
+msgstr ""
+"You have %1 crafting orders up or parcels waiting in your mail, and your "
+"Freemium limit is %2. Collect your parcels or wait for an order to finish. "
+"Premium players have a limit of %3."
+
+msgid "co_place_no_gold"
+msgstr ""
+"You need %1 gold to place this order (tip, recipe gold and the 20 gold "
+"handling fee per item)."
+
+msgid "co_place_no_mastery_here"
+msgstr "Mastery items can't be ordered at this station."
+
+msgid "co_place_no_materials"
+msgstr "You don't have the materials for this order in your backpack."
+
+msgid "co_place_not_here"
+msgstr "This item can't be ordered at this station."
+
+msgid "co_place_race_alliance"
+msgstr "This race's item can only be ordered here by its race alliance."
+
+msgid "co_place_unstackable"
+msgstr "One of the materials can't be stored with an order right now."
+
+msgid "co_placed"
+msgstr "Order placed: %1 x %2. You paid %3 gold."
+
+msgid "co_refresh"
+msgstr "Refresh"
+
+msgid "co_run_failed"
+msgstr ""
+"The order could not be finished. Nothing was used, and it is open again."
+
+msgid "co_run_lost"
+msgstr "This order was no longer yours. Nothing was paid."
+
+msgid "co_run_stopped"
+msgstr ""
+"You stopped crafting the order. Nothing was used, and you can take it again "
+"in 1 minute."
+
+msgid "co_take_busy"
+msgstr "Finish what you are crafting first."
+
+msgid "co_take_cannot_craft"
+msgstr "You don't have the skill to make this order."
+
+msgid "co_take_daily_limit"
+msgstr "The Crafter's Union tells you to leave some work for other members."
+
+msgid "co_take_lost"
+msgstr "Someone else took this order first."
+
+msgid "co_take_own"
+msgstr "You can't craft your own order."
+
+msgid "co_take_retake_lock"
+msgstr ""
+"You stopped working on this order a moment ago: you can take it again in %1 "
+"seconds."
+
+msgid "co_tip_label"
+msgstr "Tip/item"
+
+msgid "co_unavailable"
+msgstr "Crafting orders are not available right now. Try again in a moment."
+
+msgid "co_window_title"
+msgstr "Crafting Orders"
+
 msgid "component_targeting_chaos_city_stone"
 msgstr "Chaos City Stone"
 
@@ -9944,6 +10121,9 @@ msgstr "Destroyed in %1"
 
 msgid "mail_expires_return"
 msgstr "Goes back to the sender in %1"
+
+msgid "mail_from_crafting_orders"
+msgstr "Crafting Orders"
 
 msgid "mail_from_game"
 msgstr "Agon Postal Service"
