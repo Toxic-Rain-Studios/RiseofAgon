@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-10 00:32+0000\n"
+"PO-Revision-Date: 2026-11-17 13:27+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "resources/de/>\n"
@@ -11203,6 +11203,7 @@ msgstr "Enthält alle Crafting-Rezepte für Bücher."
 msgid "r_Book"
 msgstr "Buch"
 
+#, fuzzy
 msgid "desc_r_Book"
 msgstr ""
 "Dieses Buch gewährt eine dauerhafte Erhöhung der Fertigkeit sowie verwandte "
@@ -11694,6 +11695,7 @@ msgstr "Scrollen zum Erlernen von feuermagischen Zaubersprüchen."
 msgid "r_Scroll of Firebolt"
 msgstr "Rolle von Firebolt"
 
+#, fuzzy
 msgid "desc_r_Scroll of Firebolt"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11702,6 +11704,7 @@ msgstr ""
 msgid "r_Scroll of Weakening Blaze"
 msgstr "Rolle der Schwächung Blaze"
 
+#, fuzzy
 msgid "desc_r_Scroll of Weakening Blaze"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11710,6 +11713,7 @@ msgstr ""
 msgid "r_Scroll of Dragonbreath"
 msgstr "Rolle von Dragonbreath"
 
+#, fuzzy
 msgid "desc_r_Scroll of Dragonbreath"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11718,6 +11722,7 @@ msgstr ""
 msgid "r_Scroll of Fireball"
 msgstr "Rolle des Feuerballs"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fireball"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11726,6 +11731,7 @@ msgstr ""
 msgid "r_Scroll of Wall of Fire"
 msgstr "Rolle der Mauer des Feuers"
 
+#, fuzzy
 msgid "desc_r_Scroll of Wall of Fire"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11734,6 +11740,7 @@ msgstr ""
 msgid "r_Scroll of Magma Storm"
 msgstr "Rolle des Magma Storm"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magma Storm"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11742,6 +11749,7 @@ msgstr ""
 msgid "r_Scroll of Inferno"
 msgstr "Die Rolle des Infernos"
 
+#, fuzzy
 msgid "desc_r_Scroll of Inferno"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11750,6 +11758,7 @@ msgstr ""
 msgid "r_Scroll of Volcano"
 msgstr "Rolle des Vulkans"
 
+#, fuzzy
 msgid "desc_r_Scroll of Volcano"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11758,6 +11767,7 @@ msgstr ""
 msgid "r_Scroll of Fire Shield"
 msgstr "Rolle des Feuerschildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fire Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11766,6 +11776,7 @@ msgstr ""
 msgid "r_Scroll of Fire Ward"
 msgstr "Scroll der Feuerwache"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fire Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11774,6 +11785,7 @@ msgstr ""
 msgid "r_Scroll of Haste"
 msgstr "Scroll der Eile"
 
+#, fuzzy
 msgid "desc_r_Scroll of Haste"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11782,6 +11794,7 @@ msgstr ""
 msgid "r_Scroll of Impetus"
 msgstr "Rolle des Impulses"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impetus"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11790,6 +11803,7 @@ msgstr ""
 msgid "r_Scroll of Explosion"
 msgstr "Scroll der Explosion"
 
+#, fuzzy
 msgid "desc_r_Scroll of Explosion"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11798,6 +11812,7 @@ msgstr ""
 msgid "r_Scroll of Rapid Shot"
 msgstr "Scroll von Rapid Shot"
 
+#, fuzzy
 msgid "desc_r_Scroll of Rapid Shot"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11806,6 +11821,7 @@ msgstr ""
 msgid "r_Scroll of Smoke Signal"
 msgstr "Scroll des Rauchsignals"
 
+#, fuzzy
 msgid "desc_r_Scroll of Smoke Signal"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11820,6 +11836,7 @@ msgstr "Scrolls zum Erlernen von Air Magic verwandten Zaubersprüchen."
 msgid "r_Scroll of Ball Lightning"
 msgstr "Kugelblitzrollen"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ball Lightning"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11828,6 +11845,7 @@ msgstr ""
 msgid "r_Scroll of Lightning Bolt"
 msgstr "Rolle des Blitzes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Bolt"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11836,6 +11854,7 @@ msgstr ""
 msgid "r_Scroll of Lightning Weakness"
 msgstr "Rolle der Blitzschwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11844,6 +11863,7 @@ msgstr ""
 msgid "r_Scroll of Guiding Wind"
 msgstr "Rolle des Leitwindes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Guiding Wind"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11852,6 +11872,7 @@ msgstr ""
 msgid "r_Scroll of Lightning Strike"
 msgstr "Rolle des Blitzschlags"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Strike"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11860,6 +11881,7 @@ msgstr ""
 msgid "r_Scroll of Thunderstorm"
 msgstr "Rolle des Gewitters"
 
+#, fuzzy
 msgid "desc_r_Scroll of Thunderstorm"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11868,6 +11890,7 @@ msgstr ""
 msgid "r_Scroll of Tornado"
 msgstr "Rolle des Tornados"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tornado"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11876,6 +11899,7 @@ msgstr ""
 msgid "r_Scroll of Exploding Charge"
 msgstr "Scroll der explodierenden Ladung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Exploding Charge"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11884,6 +11908,7 @@ msgstr ""
 msgid "r_Scroll of Agility"
 msgstr "Rolle der Agilität"
 
+#, fuzzy
 msgid "desc_r_Scroll of Agility"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11892,6 +11917,7 @@ msgstr ""
 msgid "r_Scroll of Arrow Shield"
 msgstr "Rolle des Pfeilschildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Arrow Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11900,6 +11926,7 @@ msgstr ""
 msgid "r_Scroll of Arrow Ward"
 msgstr "Scroll von Pfeil Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Arrow Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11908,6 +11935,7 @@ msgstr ""
 msgid "r_Scroll of Come Hither"
 msgstr "Scroll von Come Hither"
 
+#, fuzzy
 msgid "desc_r_Scroll of Come Hither"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11916,6 +11944,7 @@ msgstr ""
 msgid "r_Scroll of Lightning Shield"
 msgstr "Rolle des Blitzschutzschildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11924,6 +11953,7 @@ msgstr ""
 msgid "r_Scroll of Lightning Ward"
 msgstr "Rolle der Lightning Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11932,6 +11962,7 @@ msgstr ""
 msgid "r_Scroll of Stormblast"
 msgstr "Rolle von Stormblast"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stormblast"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11946,6 +11977,7 @@ msgstr "Scrolls zum Erlernen von Arkane Magie verwandten Zaubersprüchen."
 msgid "r_Scroll of Sacred Missile"
 msgstr "Rolle der heiligen Rakete"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sacred Missile"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11954,6 +11986,7 @@ msgstr ""
 msgid "r_Scroll of Flames of Vengeance"
 msgstr "Rolle der Flammen der Rache"
 
+#, fuzzy
 msgid "desc_r_Scroll of Flames of Vengeance"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11962,6 +11995,7 @@ msgstr ""
 msgid "r_Scroll of Virtuous Wrath"
 msgstr "Buchrolle des tugendhaften Zorns"
 
+#, fuzzy
 msgid "desc_r_Scroll of Virtuous Wrath"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11970,6 +12004,7 @@ msgstr ""
 msgid "r_Scroll of Holy Weakness"
 msgstr "Rolle der heiligen Schwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11978,6 +12013,7 @@ msgstr ""
 msgid "r_Scroll of Hasten Spells"
 msgstr "Scroll von Eilzaubern"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hasten Spells"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11986,6 +12022,7 @@ msgstr ""
 msgid "r_Scroll of Holy Shield"
 msgstr "Rolle des heiligen Schildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -11994,6 +12031,7 @@ msgstr ""
 msgid "r_Scroll of Holy Ward"
 msgstr "Die Rolle der Holy Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12002,6 +12040,7 @@ msgstr ""
 msgid "r_Scroll of Lend Mana"
 msgstr "Buchrolle von Lending Mana"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lend Mana"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12010,6 +12049,7 @@ msgstr ""
 msgid "r_Scroll of Mystic Shield"
 msgstr "Rolle des mystischen Schildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mystic Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12018,6 +12058,7 @@ msgstr ""
 msgid "r_Scroll of Mystic Ward"
 msgstr "Scroll von Mystic Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mystic Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12026,6 +12067,7 @@ msgstr ""
 msgid "r_Scroll of Reflect Spell"
 msgstr "Rolle des Reflex-Zaubers"
 
+#, fuzzy
 msgid "desc_r_Scroll of Reflect Spell"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12034,6 +12076,7 @@ msgstr ""
 msgid "r_Scroll of Spell Immunity"
 msgstr "Scroll der Zauberimmunität"
 
+#, fuzzy
 msgid "desc_r_Scroll of Spell Immunity"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12042,6 +12085,7 @@ msgstr ""
 msgid "r_Scroll of Wall of Force"
 msgstr "Rolle der Wand der Kraft"
 
+#, fuzzy
 msgid "desc_r_Scroll of Wall of Force"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12058,6 +12102,7 @@ msgstr ""
 msgid "r_Scroll of Acid Arrow"
 msgstr "Scroll des Säurepfeils"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Arrow"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12066,6 +12111,7 @@ msgstr ""
 msgid "r_Scroll of Earthquake"
 msgstr "Rolle des Erdbebens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Earthquake"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12074,6 +12120,7 @@ msgstr ""
 msgid "r_Scroll of Tarnish"
 msgstr "Schriftrolle des Anlaufens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tarnish"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12082,6 +12129,7 @@ msgstr ""
 msgid "r_Scroll of Impale"
 msgstr "Rolle von Impale"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impale"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12090,6 +12138,7 @@ msgstr ""
 msgid "r_Scroll of Corrosive Blast"
 msgstr "Scroll der korrosiven Explosion"
 
+#, fuzzy
 msgid "desc_r_Scroll of Corrosive Blast"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12098,6 +12147,7 @@ msgstr ""
 msgid "r_Scroll of Stamina Leech"
 msgstr "Rolle von Ausdauer Blutegel"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stamina Leech"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12106,6 +12156,7 @@ msgstr ""
 msgid "r_Scroll of Pungent Mist"
 msgstr "Rolle des scharfen Nebels"
 
+#, fuzzy
 msgid "desc_r_Scroll of Pungent Mist"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12114,6 +12165,7 @@ msgstr ""
 msgid "r_Scroll of Disintegrate"
 msgstr "Scroll des Zerfalls"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disintegrate"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12122,6 +12174,7 @@ msgstr ""
 msgid "r_Scroll of Meteor Strike"
 msgstr "Rolle des Meteors"
 
+#, fuzzy
 msgid "desc_r_Scroll of Meteor Strike"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12130,6 +12183,7 @@ msgstr ""
 msgid "r_Scroll of Acid Rain"
 msgstr "Rolle des sauren Regens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Rain"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12138,6 +12192,7 @@ msgstr ""
 msgid "r_Scroll of Acid Shield"
 msgstr "Scroll von Acid Shield"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12146,6 +12201,7 @@ msgstr ""
 msgid "r_Scroll of Acid Ward"
 msgstr "Scroll von Acid Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12154,6 +12210,7 @@ msgstr ""
 msgid "r_Scroll of Brawn"
 msgstr "Rolle der Brawn"
 
+#, fuzzy
 msgid "desc_r_Scroll of Brawn"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12162,6 +12219,7 @@ msgstr ""
 msgid "r_Scroll of Ironskin"
 msgstr "Rolle von Eisenfell"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ironskin"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12170,6 +12228,7 @@ msgstr ""
 msgid "r_Scroll of Stoneskin"
 msgstr "Rolle des Steinfells"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stoneskin"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12185,6 +12244,7 @@ msgstr ""
 msgid "r_Scroll of Rend"
 msgstr "Rolle des Rends"
 
+#, fuzzy
 msgid "desc_r_Scroll of Rend"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12193,6 +12253,7 @@ msgstr ""
 msgid "r_Scroll of Frailty"
 msgstr "Rolle der Gebrechlichkeit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Frailty"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12201,6 +12262,7 @@ msgstr ""
 msgid "r_Scroll of Flesh Curse"
 msgstr "Rolle des Fleischfluchs"
 
+#, fuzzy
 msgid "desc_r_Scroll of Flesh Curse"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12209,6 +12271,7 @@ msgstr ""
 msgid "r_Scroll of Venom"
 msgstr "Rolle des Giftes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Venom"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12217,6 +12280,7 @@ msgstr ""
 msgid "r_Scroll of Missile Fury"
 msgstr "Scroll von Raketen-Wut"
 
+#, fuzzy
 msgid "desc_r_Scroll of Missile Fury"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12225,6 +12289,7 @@ msgstr ""
 msgid "r_Scroll of Beacon"
 msgstr "Rolle des Leuchtfeuers"
 
+#, fuzzy
 msgid "desc_r_Scroll of Beacon"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12233,6 +12298,7 @@ msgstr ""
 msgid "r_Scroll of Begone"
 msgstr "Buchrolle von Begon"
 
+#, fuzzy
 msgid "desc_r_Scroll of Begone"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12241,6 +12307,7 @@ msgstr ""
 msgid "r_Scroll of Confusion"
 msgstr "Scroll der Verwirrung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Confusion"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12249,6 +12316,7 @@ msgstr ""
 msgid "r_Scroll of Heal Other"
 msgstr "Scroll of Heile Andere"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Other"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12257,6 +12325,7 @@ msgstr ""
 msgid "r_Scroll of Infliction Shield"
 msgstr "Scroll des Suspendierungsschildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infliction Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12265,6 +12334,7 @@ msgstr ""
 msgid "r_Scroll of Infliction Ward"
 msgstr "Scroll der Suspendierungsstation"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infliction Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12273,6 +12343,7 @@ msgstr ""
 msgid "r_Scroll of Insight"
 msgstr "Rolle der Einsicht"
 
+#, fuzzy
 msgid "desc_r_Scroll of Insight"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12281,6 +12352,7 @@ msgstr ""
 msgid "r_Scroll of Impulse"
 msgstr "Rolle des Impulses"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impulse"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12289,6 +12361,7 @@ msgstr ""
 msgid "r_Scroll of Telekinesis"
 msgstr "Rolle der Telekinese"
 
+#, fuzzy
 msgid "desc_r_Scroll of Telekinesis"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12297,6 +12370,7 @@ msgstr ""
 msgid "r_Scroll of Unburden"
 msgstr "Rolle der unbelasteten"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unburden"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12305,6 +12379,7 @@ msgstr ""
 msgid "r_Scroll of Disabling Bolt"
 msgstr "Rolle des Sperrbolzens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disabling Bolt"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12321,6 +12396,7 @@ msgstr ""
 msgid "r_Scroll of Mana Missile"
 msgstr "Rolle der Mana-Rakete"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Missile"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12329,6 +12405,7 @@ msgstr ""
 msgid "r_Scroll of Eldritch Sphere"
 msgstr "Rolle der Eldritch-Kugel"
 
+#, fuzzy
 msgid "desc_r_Scroll of Eldritch Sphere"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12337,6 +12414,7 @@ msgstr ""
 msgid "r_Scroll of Mana Drain"
 msgstr "Rolle des Mana Drain"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Drain"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12345,6 +12423,7 @@ msgstr ""
 msgid "r_Scroll of Burden"
 msgstr "Rolle der Last"
 
+#, fuzzy
 msgid "desc_r_Scroll of Burden"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12353,6 +12432,7 @@ msgstr ""
 msgid "r_Scroll of Blast"
 msgstr "Scroll von Blast"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blast"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12361,6 +12441,7 @@ msgstr ""
 msgid "r_Scroll of Heal Self"
 msgstr "Rolle des heilenden Selbst"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Self"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12369,6 +12450,7 @@ msgstr ""
 msgid "r_Scroll of Health to Mana"
 msgstr "Scroll von Gesundheit zu Mana"
 
+#, fuzzy
 msgid "desc_r_Scroll of Health to Mana"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12377,6 +12459,7 @@ msgstr ""
 msgid "r_Scroll of Mana to Stamina"
 msgstr "Rolle von Mana zu Ausdauer"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana to Stamina"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12385,6 +12468,7 @@ msgstr ""
 msgid "r_Scroll of Stamina to Health"
 msgstr "Rolle der Ausdauer zur Gesundheit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stamina to Health"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12393,6 +12477,7 @@ msgstr ""
 msgid "r_Scroll of Launch"
 msgstr "Scroll des Starts"
 
+#, fuzzy
 msgid "desc_r_Scroll of Launch"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12401,6 +12486,7 @@ msgstr ""
 msgid "r_Scroll of Lay on Hands"
 msgstr "Scroll von Lay On Hands"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lay on Hands"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12409,6 +12495,7 @@ msgstr ""
 msgid "r_Scroll of Magic Shield"
 msgstr "Die Rolle des Zauberschildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magic Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12417,6 +12504,7 @@ msgstr ""
 msgid "r_Scroll of Magic Ward"
 msgstr "Die Rolle der Magic Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magic Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12425,6 +12513,7 @@ msgstr ""
 msgid "r_Scroll of Light"
 msgstr "Rolle des Lichts"
 
+#, fuzzy
 msgid "desc_r_Scroll of Light"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12433,6 +12522,7 @@ msgstr ""
 msgid "r_Scroll of Heal Mount"
 msgstr "Wurfrolle des Heillagers"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Mount"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12449,6 +12539,7 @@ msgstr ""
 msgid "r_Scroll of Cursed Bolt"
 msgstr "Rolle des verfluchten Bolzens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cursed Bolt"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12457,6 +12548,7 @@ msgstr ""
 msgid "r_Scroll of Evil Eye"
 msgstr "Rolle des bösen Auges"
 
+#, fuzzy
 msgid "desc_r_Scroll of Evil Eye"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12465,6 +12557,7 @@ msgstr ""
 msgid "r_Scroll of Undeath"
 msgstr "Rolle des Untodes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Undeath"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12473,6 +12566,7 @@ msgstr ""
 msgid "r_Scroll of Unholy Caress"
 msgstr "Rolle der unheiligen Liebkosung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unholy Caress"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12481,6 +12575,7 @@ msgstr ""
 msgid "r_Scroll of Desecration"
 msgstr "Scroll der Entweihung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Desecration"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12489,6 +12584,7 @@ msgstr ""
 msgid "r_Scroll of Bludgeoning Weakness"
 msgstr "Rolle der bludgeoning Schwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Bludgeoning Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12497,6 +12593,7 @@ msgstr ""
 msgid "r_Scroll of Piercing Weakness"
 msgstr "Scroll von Piercing Schwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Piercing Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12505,6 +12602,7 @@ msgstr ""
 msgid "r_Scroll of Slashing Weakness"
 msgstr "Rolle der zerkleinernden Schwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Slashing Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12513,6 +12611,7 @@ msgstr ""
 msgid "r_Scroll of Vampiric Touch"
 msgstr "Rolle der vampirischen Berührung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Vampiric Touch"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12521,6 +12620,7 @@ msgstr ""
 msgid "r_Scroll of Mental Weakness"
 msgstr "Rolle der mentalen Schwäche"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mental Weakness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12529,6 +12629,7 @@ msgstr ""
 msgid "r_Scroll of Death Fog"
 msgstr "Rolle des Todesnebels"
 
+#, fuzzy
 msgid "desc_r_Scroll of Death Fog"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12537,6 +12638,7 @@ msgstr ""
 msgid "r_Scroll of Eye Rot"
 msgstr "Scroll von Eye Rote"
 
+#, fuzzy
 msgid "desc_r_Scroll of Eye Rot"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12545,6 +12647,7 @@ msgstr ""
 msgid "r_Scroll of Unholy Flames"
 msgstr "Scroll von unheiligen Flammen"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unholy Flames"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12553,6 +12656,7 @@ msgstr ""
 msgid "r_Scroll of Infernal Shield"
 msgstr "Rolle des höllischen Schildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infernal Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12561,6 +12665,7 @@ msgstr ""
 msgid "r_Scroll of Infernal Ward"
 msgstr "Die Rolle der Infernal Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infernal Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12575,6 +12680,7 @@ msgstr "Scrolls zum Erlernen von Zauberzaubern."
 msgid "r_Scroll of Mana Blast"
 msgstr "Scroll von Mana Blast"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Blast"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12583,6 +12689,7 @@ msgstr ""
 msgid "r_Scroll of Adept"
 msgstr "Rolle des Adepten"
 
+#, fuzzy
 msgid "desc_r_Scroll of Adept"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12591,6 +12698,7 @@ msgstr ""
 msgid "r_Scroll of Bless Other"
 msgstr "Buchrolle von bless other"
 
+#, fuzzy
 msgid "desc_r_Scroll of Bless Other"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12599,6 +12707,7 @@ msgstr ""
 msgid "r_Scroll of Blessing"
 msgstr "Rolle des Segens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blessing"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12607,6 +12716,7 @@ msgstr ""
 msgid "r_Scroll of Healing Chant"
 msgstr "Rolle des Heilungsgesangs"
 
+#, fuzzy
 msgid "desc_r_Scroll of Healing Chant"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12615,6 +12725,7 @@ msgstr ""
 msgid "r_Scroll of Hymn of Intellect"
 msgstr "Rolle der Hymne des Intellekts"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Intellect"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12623,6 +12734,7 @@ msgstr ""
 msgid "r_Scroll of Hymn of Might"
 msgstr "Rolle der Hymne der Macht"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Might"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12631,6 +12743,7 @@ msgstr ""
 msgid "r_Scroll of Hymn of Skill"
 msgstr "Rolle der Hymne der Geschicklichkeit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Skill"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12639,6 +12752,7 @@ msgstr ""
 msgid "r_Scroll of Hymn of Swiftness"
 msgstr "Rolle der Hymne der Schnelligkeit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Swiftness"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12647,6 +12761,7 @@ msgstr ""
 msgid "r_Scroll of Hymn of Vigor"
 msgstr "Rolle der Hymne der Kraft"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Vigor"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12655,6 +12770,7 @@ msgstr ""
 msgid "r_Scroll of Max Health Bonus"
 msgstr "Scroll von max Gesundheitsbonus"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Health Bonus"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12663,6 +12779,7 @@ msgstr ""
 msgid "r_Scroll of Max Mana Bonus"
 msgstr "Scroll von max Mana Bonus"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Mana Bonus"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12671,6 +12788,7 @@ msgstr ""
 msgid "r_Scroll of Max Stamina Bonus"
 msgstr "Scroll von max Ausdauer Bonus"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Stamina Bonus"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12679,6 +12797,7 @@ msgstr ""
 msgid "r_Scroll of Sacrifice"
 msgstr "Rolle des Opfers"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sacrifice"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12694,6 +12813,7 @@ msgstr ""
 msgid "r_Scroll of Delayed Shot"
 msgstr "Scroll des verzögerten Schusses"
 
+#, fuzzy
 msgid "desc_r_Scroll of Delayed Shot"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12702,6 +12822,7 @@ msgstr ""
 msgid "r_Scroll of Icicle"
 msgstr "Rolle des Eiszapfens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Icicle"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12710,6 +12831,7 @@ msgstr ""
 msgid "r_Scroll of Weakening Chill"
 msgstr "Rolle der Schwächung Kälte"
 
+#, fuzzy
 msgid "desc_r_Scroll of Weakening Chill"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12718,6 +12840,7 @@ msgstr ""
 msgid "r_Scroll of Frostbite"
 msgstr "Rolle der Erfrierungen"
 
+#, fuzzy
 msgid "desc_r_Scroll of Frostbite"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12726,6 +12849,7 @@ msgstr ""
 msgid "r_Scroll of Shards"
 msgstr "Rolle der Scherben"
 
+#, fuzzy
 msgid "desc_r_Scroll of Shards"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12734,6 +12858,7 @@ msgstr ""
 msgid "r_Scroll of Slow"
 msgstr "Scroll von Slow"
 
+#, fuzzy
 msgid "desc_r_Scroll of Slow"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12742,6 +12867,7 @@ msgstr ""
 msgid "r_Scroll of Ice Storm"
 msgstr "Rolle des Eissturms"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ice Storm"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12750,6 +12876,7 @@ msgstr ""
 msgid "r_Scroll of Toxic Rain"
 msgstr "Rolle des giftigen Regens"
 
+#, fuzzy
 msgid "desc_r_Scroll of Toxic Rain"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12758,6 +12885,7 @@ msgstr ""
 msgid "r_Scroll of Blizzard"
 msgstr "Rolle des Schneesturms"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blizzard"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12766,6 +12894,7 @@ msgstr ""
 msgid "r_Scroll of Clear Thoughts"
 msgstr "Rolle der klaren Gedanken"
 
+#, fuzzy
 msgid "desc_r_Scroll of Clear Thoughts"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12774,6 +12903,7 @@ msgstr ""
 msgid "r_Scroll of Cold Shield"
 msgstr "Rolle des kalten Schildes"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cold Shield"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12782,6 +12912,7 @@ msgstr ""
 msgid "r_Scroll of Cold Ward"
 msgstr "Rolle der Cold Ward"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cold Ward"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12790,6 +12921,7 @@ msgstr ""
 msgid "r_Scroll of Gills"
 msgstr "Rollen von Kiemen"
 
+#, fuzzy
 msgid "desc_r_Scroll of Gills"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12798,6 +12930,7 @@ msgstr ""
 msgid "r_Scroll of Water Breathing"
 msgstr "Rolle der Wasseratmung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Water Breathing"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12812,6 +12945,7 @@ msgstr "Scrollen zum Erlernen von Zaubersprüchen im Zusammenhang mit Hexerei."
 msgid "r_Scroll of Needles"
 msgstr "Nadelrollen"
 
+#, fuzzy
 msgid "desc_r_Scroll of Needles"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12820,6 +12954,7 @@ msgstr ""
 msgid "r_Scroll of Sluggish"
 msgstr "Schriftrolle träge"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sluggish"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12828,6 +12963,7 @@ msgstr ""
 msgid "r_Scroll of Exhaust"
 msgstr "Scroll des Auspuffs"
 
+#, fuzzy
 msgid "desc_r_Scroll of Exhaust"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12836,6 +12972,7 @@ msgstr ""
 msgid "r_Scroll of Disease"
 msgstr "Scroll der Krankheit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disease"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12844,6 +12981,7 @@ msgstr ""
 msgid "r_Scroll of Spell Curse"
 msgstr "Scroll des Zauberfluchs"
 
+#, fuzzy
 msgid "desc_r_Scroll of Spell Curse"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12852,6 +12990,7 @@ msgstr ""
 msgid "r_Scroll of Palsy"
 msgstr "Rolle der Lähmung"
 
+#, fuzzy
 msgid "desc_r_Scroll of Palsy"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12860,6 +12999,7 @@ msgstr ""
 msgid "r_Scroll of Pestilence"
 msgstr "Rolle der Pest"
 
+#, fuzzy
 msgid "desc_r_Scroll of Pestilence"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12868,6 +13008,7 @@ msgstr ""
 msgid "r_Scroll of Stupidity"
 msgstr "Scroll der Dummheit"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stupidity"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12876,6 +13017,7 @@ msgstr ""
 msgid "r_Scroll of Insect Swarm"
 msgstr "Rolle des Insektenschwarms"
 
+#, fuzzy
 msgid "desc_r_Scroll of Insect Swarm"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12884,6 +13026,7 @@ msgstr ""
 msgid "r_Scroll of Tongue Rot"
 msgstr "Rolle der Zungenfäule"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tongue Rot"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12892,6 +13035,7 @@ msgstr ""
 msgid "r_Scroll of Mana Leech"
 msgstr "Buchrolle von Mana-Leech"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Leech"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12900,6 +13044,7 @@ msgstr ""
 msgid "r_Scroll of Ominous Drain"
 msgstr "Rolle des ominösen Abflusses"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ominous Drain"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -12908,6 +13053,7 @@ msgstr ""
 msgid "r_Scroll of Witches Brew"
 msgstr "Schriftrolle von Hexenbrau"
 
+#, fuzzy
 msgid "desc_r_Scroll of Witches Brew"
 msgstr ""
 "Diese Schriftrolle gewährt eine dauerhafte Erhöhung des Zaubers sowie der "
@@ -26136,6 +26282,7 @@ msgstr "Briefkasten"
 msgid "desc_r_Mailbox"
 msgstr " "
 
+#, fuzzy
 msgid "r_PrayAltar"
 msgstr "Piantar"
 
