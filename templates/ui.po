@@ -13449,7 +13449,7 @@ msgid "melek_veil_hunted_captured"
 msgstr "%1 has been captured and taken to Melek's prison."
 
 msgid "melek_veil_hunter_held"
-msgstr "The Hunters wait until the Hunted have had their head start."
+msgstr "Stay in Melek's prison until the Hunted have had their head start."
 
 msgid "melek_veil_hunter_taken"
 msgstr ""
@@ -13457,7 +13457,7 @@ msgstr ""
 "seconds."
 
 msgid "melek_veil_hunters_released"
-msgstr "The Hunters are released!"
+msgstr "The Hunters have broken out of Melek's prison - the hunt is on!"
 
 msgid "melek_veil_join_closed"
 msgstr "Melek's Veil is not taking new players right now."
@@ -13507,6 +13507,12 @@ msgstr "Melek's prisoners cannot ride or climb aboard anything."
 msgid "melek_veil_prisoner_freed"
 msgstr "%1 has broken free of Melek's prison!"
 
+msgid "melek_veil_release_in_hunted"
+msgstr "The Hunters break out of Melek's prison in %1!"
+
+msgid "melek_veil_release_in_hunter"
+msgstr "You break out of Melek's prison in %1..."
+
 msgid "melek_veil_rescue_busy"
 msgstr "Someone is already freeing that prisoner."
 
@@ -13536,13 +13542,14 @@ msgstr "You are breaking Melek's chains on %1. Stay close and keep still!"
 
 msgid "melek_veil_team_hunted"
 msgstr ""
-"You are Hunted. Hide in Melek's Veil and stay free until time runs out. The "
-"Hunters are released in %1 seconds."
+"You are Hunted. The Hunters are locked in Melek's prison for %1 seconds - "
+"run, hide in the smoke and stay free until time runs out."
 
 msgid "melek_veil_team_hunter"
 msgstr ""
-"You are a Hunter of Melek. Capture every Hunted before time runs out. You "
-"are released in %1 seconds."
+"You are a Hunter of Melek. You are locked in Melek's prison while the Hunted "
+"hide - you break out in %1 seconds. Then capture every Hunted before time "
+"runs out."
 
 msgid "melek_veil_too_few"
 msgstr "Melek's Veil was called off: not enough players joined."
@@ -13631,7 +13638,9 @@ msgid "melek_veil_window_obj_hunter_down_wait"
 msgstr "Imprisoned - wait for your release"
 
 msgid "melek_veil_window_obj_hunter_held"
-msgstr "You are held while the Hunted hide - released in %1 seconds"
+msgstr ""
+"You are locked in Melek's prison while the Hunted hide - you break out in %1 "
+"seconds"
 
 msgid "melek_veil_window_obj_prisoner"
 msgstr "Wait for a teammate to free you - you cannot leave the prison."
