@@ -14100,6 +14100,49 @@ msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
 "to your bank account."
 
+#. Chat command help for /gm_mail_all (ADMIN).
+msgid "chat_cmd_gm_mail_all_desc"
+msgstr ""
+"sends system mail from the staff to every character: never expires, ignores "
+"the mail limits, may carry gold or an item"
+
+#. Chat command help for /gm_mail_clock (ADMIN).
+msgid "chat_cmd_gm_mail_clock_desc"
+msgstr ""
+"moves your node's mail clock forward by days, to test mail expiry (0 = real "
+"time, dev/testing)"
+
+msgid "chat_cmd_gm_mail_clock_param_days"
+msgstr "days ahead"
+
+#. Chat command help for /gm_mail (ADMIN).
+msgid "chat_cmd_gm_mail_desc"
+msgstr ""
+"sends you a letter from the game with gold and an item, to test the mail "
+"(dev/testing)"
+
+msgid "chat_cmd_gm_mail_param_gold"
+msgstr "gold attached (default 0)"
+
+msgid "chat_cmd_gm_mail_param_item"
+msgstr "an item's resource name, e.g. \"r_Iron Ingot\""
+
+#. Parameter of /gm_mail_to and /gm_mail_all.
+msgid "chat_cmd_gm_mail_param_letter"
+msgstr "title|text|gold|item|quantity (gold and item optional)"
+
+msgid "chat_cmd_gm_mail_param_quantity"
+msgstr "how many of the item (default 1)"
+
+#. Chat command help for /gm_mail_to (ADMIN).
+msgid "chat_cmd_gm_mail_to_desc"
+msgstr ""
+"sends system mail from the staff to one player: never expires, ignores the "
+"mail limits, may carry gold or an item"
+
+msgid "chat_cmd_gm_mail_to_param_character_name"
+msgstr "the character, in quotes"
+
 #. Chat command help for /kit. No runtime parameters.
 msgid "chat_cmd_kit_desc"
 msgstr "claims a kit by name"
@@ -14621,6 +14664,50 @@ msgstr "[Kit] %1 can only be claimed with a premium account."
 #. /kit. Also shown for kits above the player's rank. Runtime parameters: the kit name as typed.
 msgid "kit_unknown"
 msgstr "[Kit] There is no kit called %1."
+
+msgid "mail_gm_broadcast_stored"
+msgstr ""
+"Mail: server-wide letter stored; every character gets it at its next login "
+"or mailbox visit."
+
+#. %1 = days.
+msgid "mail_gm_clock"
+msgstr ""
+"Mail: your own mail clock is now %1 day(s) ahead (nobody else's). Open a "
+"mailbox to apply the timers."
+
+msgid "mail_gm_count_failed"
+msgstr "Mail: could not read the character count; nothing sent."
+
+#. %1 = the name typed.
+msgid "mail_gm_no_character"
+msgstr "Mail: no single character named '%1'."
+
+#. %1 = the item name typed.
+msgid "mail_gm_no_item"
+msgstr "Mail: no item named '%1'."
+
+# In-game mail: replies of the ADMIN mail commands /gm_mail, /gm_mail_to, /gm_mail_all, /gm_mail_clock (2026-11-15).
+msgid "mail_gm_satellite"
+msgstr "Mail: not available on a satellite instance."
+
+#. %1 = the character.
+msgid "mail_gm_sent_to"
+msgstr "Mail: system letter sent to %1."
+
+msgid "mail_gm_test_failed"
+msgstr "Mail: the test letter could not be written (see the server log)."
+
+msgid "mail_gm_test_sent"
+msgstr "Mail: test letter sent."
+
+msgid "mail_gm_usage"
+msgstr ""
+"Mail: usage /gm_mail_to \"name\" title|text|gold|item|quantity  or  /"
+"gm_mail_all title|text|gold|item|quantity"
+
+msgid "mail_gm_write_failed"
+msgstr "Mail: the letter could not be written (see the server log)."
 
 msgid "marks_vendor_bought"
 msgstr "[Log] %1 is in your bank. %2 Marks spent."

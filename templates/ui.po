@@ -8018,6 +8018,9 @@ msgstr "Item price"
 msgid "interaction_change_buy_slot_button"
 msgstr "Buy Slot"
 
+msgid "interaction_change_starter_shield"
+msgstr "Shield"
+
 msgid "interaction_change_swap_weapon"
 msgstr "Swap"
 
@@ -9903,6 +9906,269 @@ msgstr "Loot All"
 msgid "loot_all_cancel"
 msgstr "Cancel"
 
+msgid "mail_attach_hint"
+msgstr "Items (drag them from your bag, whole stacks):"
+
+msgid "mail_attached"
+msgstr "Attached (goes to your backpack):"
+
+msgid "mail_attached_taken"
+msgstr "Attached (already taken):"
+
+msgid "mail_cancel"
+msgstr "Cancel"
+
+msgid "mail_clear_items"
+msgstr "Clear"
+
+msgid "mail_confirm_fee"
+msgstr "Sending it costs %1 gold, on top of any gold attached."
+
+msgid "mail_confirm_nothing"
+msgstr "Are you sure you want to send this letter to %1? Nothing is attached."
+
+msgid "mail_confirm_text"
+msgstr "Are you sure you want to send this letter to %1 with this attached?"
+
+msgid "mail_confirm_title"
+msgstr "Send this letter?"
+
+msgid "mail_delete"
+msgstr "Delete"
+
+msgid "mail_expires_delete"
+msgstr "Deleted in %1"
+
+msgid "mail_expires_destroy"
+msgstr "Destroyed in %1"
+
+msgid "mail_expires_return"
+msgstr "Goes back to the sender in %1"
+
+msgid "mail_from_game"
+msgstr "Agon Postal Service"
+
+msgid "mail_from_label"
+msgstr "From: %1"
+
+msgid "mail_from_returned"
+msgstr "Returned mail"
+
+# In-game mail: the name staff (GM and admin) letters are signed with (2026-11-15).
+msgid "mail_from_staff"
+msgstr "Rise of Agon Staff"
+
+msgid "mail_gold_field"
+msgstr "Gold:"
+
+msgid "mail_gold_line"
+msgstr "%1 gold"
+
+msgid "mail_header"
+msgstr "Letters (%1 unread)"
+
+msgid "mail_inbox"
+msgstr "Inbox"
+
+msgid "mail_new_arrived"
+msgstr "A new letter has arrived. Read it at any mailbox."
+
+msgid "mail_next"
+msgstr "Next >"
+
+msgid "mail_none"
+msgstr "You have no letters."
+
+msgid "mail_not_here"
+msgstr "Mail is not available here."
+
+msgid "mail_pick_one"
+msgstr "Choose a letter to read it."
+
+msgid "mail_prev"
+msgstr "< Prev"
+
+msgid "mail_read"
+msgstr "Read"
+
+# In-game mail: Reply on a player's letter (2026-11-14). The prefix is put before the letter's title.
+msgid "mail_reply"
+msgstr "Reply"
+
+msgid "mail_reply_prefix"
+msgstr "Re: "
+
+msgid "mail_returned_text"
+msgstr ""
+"Your letter to %1 was not collected in time. Its gold and items have been "
+"returned to you."
+
+msgid "mail_returned_title"
+msgstr "Returned: %2"
+
+# In-game mail: the send confirmation and the unclaimed mark (SFWindowMail).
+msgid "mail_row_unclaimed"
+msgstr "(unclaimed)"
+
+msgid "mail_send"
+msgstr "Send"
+
+msgid "mail_send_blocked"
+msgstr "You cannot send mail to this player."
+
+msgid "mail_send_failed"
+msgstr ""
+"The letter could not be sent. Your gold and the fee are back in your wallet, "
+"your items in your backpack."
+
+msgid "mail_send_fee"
+msgstr "Sending a letter costs %1 gold, on top of any gold you attach."
+
+msgid "mail_send_full"
+msgstr "This player's mailbox is full, try again later."
+
+msgid "mail_send_item_bag"
+msgstr "%1 is a bag and cannot be sent. Send what is inside it instead."
+
+msgid "mail_send_item_busy"
+msgstr "%1 is in use and cannot be sent right now."
+
+msgid "mail_send_item_equipped"
+msgstr "%1 is equipped. Unequip it to send it."
+
+msgid "mail_send_item_gone"
+msgstr ""
+"An item you attached is no longer in your backpack. Clear the items and "
+"attach them again."
+
+msgid "mail_send_item_refused"
+msgstr "%1 cannot be sent by mail."
+
+msgid "mail_send_no_gold"
+msgstr ""
+"You need %1 gold for this letter: the gold you attach plus the sending fee."
+
+msgid "mail_send_no_name"
+msgstr "Write the name of the character the letter is for."
+
+msgid "mail_send_no_such"
+msgstr "There is no character named %1."
+
+# In-game mail round 2 (2026-11-14): letters are premium only, the recipient's checks, and the countdown on every letter.
+msgid "mail_send_premium_only"
+msgstr "Letters are for premium accounts only."
+
+msgid "mail_send_self"
+msgstr "You cannot send a letter to yourself."
+
+msgid "mail_send_to_trial"
+msgstr "%1 cannot receive letters."
+
+msgid "mail_send_too_many"
+msgstr "A letter can carry at most %1 item stacks."
+
+msgid "mail_send_wait"
+msgstr "Wait a moment before sending another letter."
+
+msgid "mail_sending"
+msgstr "Sending..."
+
+msgid "mail_sent"
+msgstr "Your letter to %1 is on its way. Sending fee: %2 gold."
+
+msgid "mail_sent_attach_returned"
+msgstr "Attached, sent back to you:"
+
+msgid "mail_sent_attach_taken"
+msgstr "Attached, taken by the recipient:"
+
+msgid "mail_sent_attach_waiting"
+msgstr "Attached, not taken yet:"
+
+msgid "mail_sent_header"
+msgstr "Letters you sent"
+
+msgid "mail_sent_loading"
+msgstr "Getting the letters you sent..."
+
+msgid "mail_sent_none"
+msgstr "You have not sent any letters."
+
+msgid "mail_sent_read"
+msgstr "Read by the recipient."
+
+msgid "mail_sent_row_unread"
+msgstr "not read yet"
+
+# In-game mail: the Sent list (SFWindowMail).
+msgid "mail_sent_tab"
+msgstr "Sent"
+
+msgid "mail_sent_unread"
+msgstr "Not read yet."
+
+# In-game mail: the Inbox tabs, Letters and Parcels, with their unread counts (2026-11-14).
+msgid "mail_tab_letters"
+msgstr "Letters (%1)"
+
+msgid "mail_tab_parcels"
+msgstr "Parcels (%1)"
+
+msgid "mail_take"
+msgstr "Take"
+
+msgid "mail_take_first"
+msgstr "Take the gold and items attached to this letter before deleting it."
+
+msgid "mail_taken"
+msgstr "The attachments are in your backpack."
+
+msgid "mail_test_text"
+msgstr "This letter was sent with a GM command to test the mail."
+
+msgid "mail_test_title"
+msgstr "Test letter"
+
+msgid "mail_text_field"
+msgstr "Text:"
+
+msgid "mail_time_days"
+msgstr "%1 day(s)"
+
+msgid "mail_time_hours"
+msgstr "%1 hour(s)"
+
+msgid "mail_title_field"
+msgstr "Title:"
+
+msgid "mail_to_field"
+msgstr "To:"
+
+msgid "mail_to_label"
+msgstr "To: %1"
+
+msgid "mail_unavailable"
+msgstr "Your mail cannot be read right now. Try again in a moment."
+
+msgid "mail_unread_waiting"
+msgstr "You have unread mail. Read it at any mailbox."
+
+msgid "mail_unread_waiting_counts"
+msgstr ""
+"Unread mail is waiting for you: %1 letter(s), %2 parcel(s). Read it at any "
+"mailbox."
+
+msgid "mail_waiting"
+msgstr "Reading your mail..."
+
+# In-game mail (2026-11-12): the mail window, its chat notices and the game's letters
+msgid "mail_window_title"
+msgstr "Mail"
+
+# In-game mail: writing a letter to another player (SFWindowMail, SFPlayerMailManager). %1.. are filled in by the game.
+msgid "mail_write"
+msgstr "Write"
+
 msgid "main_menu_window_title"
 msgstr ""
 
@@ -10258,6 +10524,9 @@ msgstr "Unclaimed"
 msgid "map_inspector_empty"
 msgstr "Select something on the map to see its details here."
 
+msgid "map_marker_altar"
+msgstr "Chaos Altar"
+
 msgid "map_marker_annotation"
 msgstr "Annotation Markers"
 
@@ -10343,8 +10612,16 @@ msgstr "Key Chests"
 msgid "map_marker_laboratory"
 msgstr "Laboratory"
 
+# In-game mail: the mailboxes on the maps (r_Marker Mailbox), and the login line with its counts (2026-11-15).
+msgid "map_marker_mailbox"
+msgstr "Mailbox"
+
 msgid "map_marker_malaut_altar"
 msgstr "Twilight Altar"
+
+# Map: markets and chaos altars on the minimap (r_Marker Market, r_Marker Altar), minimap-only like the mailboxes (2026-11-15).
+msgid "map_marker_market"
+msgstr "Market"
 
 msgid "map_marker_misc"
 msgstr "Misc."
@@ -10687,6 +10964,9 @@ msgstr "Recently captured - cannot be challenged yet."
 msgid "map_tooltip_overlay_territory_unowned"
 msgstr "Unowned territory"
 
+msgid "map_tooltip_prefix_altar"
+msgstr "%1"
+
 msgid "map_tooltip_prefix_annotation"
 msgstr "Annotation: %1"
 
@@ -10730,6 +11010,12 @@ msgid "map_tooltip_prefix_key_chest"
 msgstr "%1"
 
 msgid "map_tooltip_prefix_laboratory"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_mailbox"
+msgstr "%1"
+
+msgid "map_tooltip_prefix_market"
 msgstr "%1"
 
 msgid "map_tooltip_prefix_oven"

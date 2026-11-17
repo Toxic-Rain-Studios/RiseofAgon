@@ -11966,6 +11966,12 @@ msgstr ""
 msgid "desc_r_Mailbox"
 msgstr " "
 
+# In-game mail (2026-11-12)
+msgid "desc_r_Mailbox Post"
+msgstr ""
+"A mailbox. Letters, gold and items sent to you can be read and taken at any "
+"mailbox."
+
 msgid "desc_r_Maintenance Deed_City"
 msgstr ""
 "This item lets you pay your clan holding maintenance fee. Alt-use on your "
@@ -12041,6 +12047,9 @@ msgstr ""
 
 msgid "desc_r_Marilis"
 msgstr "A powerful weapon that instills fear with twin intertwined blades. "
+
+msgid "desc_r_Marker Altar"
+msgstr " "
 
 msgid "desc_r_Marker Anvil"
 msgstr " "
@@ -12128,6 +12137,12 @@ msgid "desc_r_Marker Laboratory"
 msgstr " "
 
 msgid "desc_r_Marker Leenspar Chest"
+msgstr " "
+
+msgid "desc_r_Marker Mailbox"
+msgstr " "
+
+msgid "desc_r_Marker Market"
 msgstr " "
 
 msgid "desc_r_Marker Melek Veil"
@@ -31735,6 +31750,9 @@ msgstr "Marauder Maroon Dye"
 msgid "r_Marilis"
 msgstr "Marilis"
 
+msgid "r_Marker Altar"
+msgstr "Marker Altar"
+
 msgid "r_Marker Anvil"
 msgstr "Marker Anvil"
 
@@ -31815,6 +31833,14 @@ msgstr "Marker Laboratory"
 
 msgid "r_Marker Leenspar Chest"
 msgstr "Marker Leenspar Chest"
+
+# In-game mail: the mailbox map marker.
+msgid "r_Marker Mailbox"
+msgstr "Marker Mailbox"
+
+# Map: the market and chaos altar map markers.
+msgid "r_Marker Market"
+msgstr "Marker Market"
 
 msgid "r_Marker Mine"
 msgstr "Marker Mine"
@@ -34178,7 +34204,7 @@ msgid "r_Potted Palm Item"
 msgstr "Potted Palm Item"
 
 msgid "r_PrayAltar"
-msgstr "PrayAltar"
+msgstr "Chaos Altar"
 
 msgid "r_Premium Color Base"
 msgstr "Premium Color Base"
