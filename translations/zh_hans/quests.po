@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-15 09:53+0000\n"
+"PO-Revision-Date: 2026-11-17 13:22+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/quests/zh_Hans/>\n"
@@ -755,12 +755,14 @@ msgstr "在o21地下城中测试狩猎"
 msgid "short_desc_quest_4513"
 msgstr "杀死1个剧毒疯蚁"
 
+#, fuzzy
 msgid "start_text_quest_4513"
 msgstr "你已经接受了来自福泰恩艾恩的任务.杀死一个Ahu Ishtra地下城的剧毒疯蚁."
 
 msgid "end_text_quest_4513"
 msgstr "啊,干得好.你设法杀死了一个凶猛的剧毒疯蚁.这是你工作的报酬.如果你想继续猎杀剧毒疯蚁,请再跟我说话."
 
+#, fuzzy
 msgid "finished_text_quest_4513"
 msgstr "你成功地杀死了一个剧毒疯蚁.向福泰尔艾恩报告你的成功,并领取你的奖励."
 
@@ -773,12 +775,17 @@ msgstr "o21地下城剧毒疯蚁狩猎"
 msgid "short_desc_quest_4515"
 msgstr "杀死10个剧毒疯蚁"
 
+#, fuzzy
 msgid "start_text_quest_4515"
-msgstr "你已经和福特尔艾恩谈过了, 并接受了参加Ahu Ishtra地下城剧毒疯蚁狩猎.杀死10个在Ahu Ishtra洞穴内发现的剧毒疯蚁.\r\n（警告:此任务将在完成 21 小时后再次可用）."
+msgstr ""
+"你已经和福特尔艾恩谈过了, 并接受了参加Ahu Ishtra地下城剧毒疯蚁狩猎.杀死10个在"
+"Ahu Ishtra洞穴内发现的剧毒疯蚁.\r\n"
+"（警告:此任务将在完成 21 小时后再次可用）."
 
 msgid "end_text_quest_4515"
 msgstr "干的好.猎杀剧毒疯蚁需要很大的勇气和力量,尤其是大量的剧毒疯蚁.这是你应得的奖励.Ahu Ishtra地下城剧毒疯蚁将在21小时内再次可用."
 
+#, fuzzy
 msgid "finished_text_quest_4515"
 msgstr "你已经成功地杀死了10个剧毒疯蚁.向福泰尔艾恩报告你的成功,并领取你的奖励."
 
@@ -2905,8 +2912,11 @@ msgstr "杀死100只迅猛龙."
 msgid "end_text_quest_20058"
 msgstr "非常好.你成功地杀死了100只迅猛龙,并赢得了 \"灵巧\"的称号."
 
+#, fuzzy
 msgid "finished_text_quest_20058"
-msgstr "你成功地杀死了50头迅猛龙,并赢得了佩戴灵巧的称号的权利.回到耶利米·格雷斯爵士身边来要求你的奖励和成就称号."
+msgstr ""
+"你成功地杀死了50头迅猛龙,并赢得了佩戴灵巧的称号的权利.回到耶利米·格雷斯爵士身"
+"边来要求你的奖励和成就称号."
 
 msgid "diary_text_quest_20058"
 msgstr "第三个敏捷成就称号已经获得,即\"灵巧\"."
@@ -5577,6 +5587,7 @@ msgstr "虽然轻型装甲不能提供大量的保护,但它很轻,而且生产�
 msgid "name_quest_10066"
 msgstr "向Sanguine出售魔法水晶"
 
+#, fuzzy
 msgid "short_desc_quest_10066"
 msgstr "提供10个附魔水晶"
 

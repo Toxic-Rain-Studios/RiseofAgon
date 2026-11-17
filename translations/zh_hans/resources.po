@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-10 00:32+0000\n"
+"PO-Revision-Date: 2026-11-17 13:27+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/resources/zh_Hans/>\n"
@@ -9431,8 +9431,11 @@ msgstr "包括所有书籍的制作配方."
 msgid "r_Book"
 msgstr "书"
 
+#, fuzzy
 msgid "desc_r_Book"
-msgstr "此书可永久增加技能以及相关副技能. 你必须在有奥术师,议员或法师在场的情况下阅读此书."
+msgstr ""
+"此书可永久增加技能以及相关副技能. 你必须在有奥术师,议员或法师在场的情况下阅读"
+"此书."
 
 msgid "r_Sithras Skills"
 msgstr "神剑技能"
@@ -9821,90 +9824,105 @@ msgstr "学习火系魔法相关法术的卷轴."
 msgid "r_Scroll of Firebolt"
 msgstr "火弩卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Firebolt"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Weakening Blaze"
 msgstr "弱化火焰卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Weakening Blaze"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Dragonbreath"
 msgstr "龙息卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Dragonbreath"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Fireball"
 msgstr "火球卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fireball"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Wall of Fire"
 msgstr "火墙卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Wall of Fire"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Magma Storm"
 msgstr "岩浆风暴卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magma Storm"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Inferno"
 msgstr "地狱卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Inferno"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Volcano"
 msgstr "火山卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Volcano"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Fire Shield"
 msgstr "火盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fire Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Fire Ward"
 msgstr "火御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Fire Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Haste"
 msgstr "急速卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Haste"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Impetus"
 msgstr "动力卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impetus"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Explosion"
 msgstr "爆炸卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Explosion"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Rapid Shot"
 msgstr "快速射击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Rapid Shot"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Smoke Signal"
 msgstr "烟雾信号卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Smoke Signal"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -9917,90 +9935,105 @@ msgstr "学习空气魔法相关法术的卷轴."
 msgid "r_Scroll of Ball Lightning"
 msgstr "球状闪电卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ball Lightning"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lightning Bolt"
 msgstr "闪电卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Bolt"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lightning Weakness"
 msgstr "闪电弱点卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Guiding Wind"
 msgstr "导风卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Guiding Wind"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lightning Strike"
 msgstr "雷击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Strike"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Thunderstorm"
 msgstr "雷雨卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Thunderstorm"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Tornado"
 msgstr "龙卷风卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tornado"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Exploding Charge"
 msgstr "爆炸攻击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Exploding Charge"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Agility"
 msgstr "敏捷卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Agility"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Arrow Shield"
 msgstr "箭盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Arrow Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Arrow Ward"
 msgstr "箭御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Arrow Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Come Hither"
 msgstr "来到这里卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Come Hither"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lightning Shield"
 msgstr "雷电之盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lightning Ward"
 msgstr "雷电之御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lightning Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Stormblast"
 msgstr "暴风卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stormblast"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10013,78 +10046,91 @@ msgstr "学习奥术魔法相关法术的卷轴"
 msgid "r_Scroll of Sacred Missile"
 msgstr "神圣导弹卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sacred Missile"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Flames of Vengeance"
 msgstr "复仇之火卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Flames of Vengeance"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Virtuous Wrath"
 msgstr "贤者之怒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Virtuous Wrath"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Holy Weakness"
 msgstr "神圣弱点卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hasten Spells"
 msgstr "加速法术卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hasten Spells"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Holy Shield"
 msgstr "圣盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Holy Ward"
 msgstr "圣御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Holy Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lend Mana"
 msgstr "借贷法力卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lend Mana"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mystic Shield"
 msgstr "神秘之盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mystic Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mystic Ward"
 msgstr "神秘之御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mystic Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Reflect Spell"
 msgstr "反射法术卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Reflect Spell"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Spell Immunity"
 msgstr "咒语免疫卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Spell Immunity"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Wall of Force"
 msgstr "力量之墙卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Wall of Force"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10097,90 +10143,105 @@ msgstr "学习土元素魔法相关法术的卷轴"
 msgid "r_Scroll of Acid Arrow"
 msgstr "酸箭卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Arrow"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Earthquake"
 msgstr "地震卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Earthquake"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Tarnish"
 msgstr "污迹卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tarnish"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Impale"
 msgstr "刺穿卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impale"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Corrosive Blast"
 msgstr "腐蚀爆炸卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Corrosive Blast"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Stamina Leech"
 msgstr "耐力吸取卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stamina Leech"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Pungent Mist"
 msgstr "毒雾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Pungent Mist"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Disintegrate"
 msgstr "分解卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disintegrate"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Meteor Strike"
 msgstr "流星打击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Meteor Strike"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Acid Rain"
 msgstr "酸雨卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Rain"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Acid Shield"
 msgstr "酸盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Acid Ward"
 msgstr "酸御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Acid Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Brawn"
 msgstr "肌肉卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Brawn"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Ironskin"
 msgstr "铁皮卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ironskin"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Stoneskin"
 msgstr "石皮卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stoneskin"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10193,96 +10254,112 @@ msgstr "学习高级魔法相关法术的卷轴"
 msgid "r_Scroll of Rend"
 msgstr "分裂卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Rend"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Frailty"
 msgstr "虚弱卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Frailty"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Flesh Curse"
 msgstr "肉体诅咒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Flesh Curse"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Venom"
 msgstr "毒液卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Venom"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Missile Fury"
 msgstr "导弹狂怒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Missile Fury"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Beacon"
 msgstr "灯塔卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Beacon"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Begone"
 msgstr "消失卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Begone"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Confusion"
 msgstr "混乱卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Confusion"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Heal Other"
 msgstr "治疗他人卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Other"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Infliction Shield"
 msgstr "刑罚之盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infliction Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Infliction Ward"
 msgstr "刑罚之御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infliction Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Insight"
 msgstr "洞察卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Insight"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Impulse"
 msgstr "动力卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Impulse"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Telekinesis"
 msgstr "心灵感应卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Telekinesis"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Unburden"
 msgstr "无负担卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unburden"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Disabling Bolt"
 msgstr "禁用闪电卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disabling Bolt"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10295,90 +10372,105 @@ msgstr "学习初级魔法相关法术的卷轴"
 msgid "r_Scroll of Mana Missile"
 msgstr "法力导弹卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Missile"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Eldritch Sphere"
 msgstr "可怕球体卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Eldritch Sphere"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mana Drain"
 msgstr "法力消耗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Drain"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Burden"
 msgstr "负担卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Burden"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Blast"
 msgstr "冲击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blast"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Heal Self"
 msgstr "自我治疗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Self"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Health to Mana"
 msgstr "生命转法力卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Health to Mana"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mana to Stamina"
 msgstr "法力转耐力卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana to Stamina"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Stamina to Health"
 msgstr "耐力转生命卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stamina to Health"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Launch"
 msgstr "发射卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Launch"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Lay on Hands"
 msgstr "治愈之手卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Lay on Hands"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Magic Shield"
 msgstr "魔法之盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magic Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Magic Ward"
 msgstr "魔法之御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Magic Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Light"
 msgstr "光球卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Light"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Heal Mount"
 msgstr "治疗坐骑卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Heal Mount"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10391,90 +10483,105 @@ msgstr "学习死灵魔法相关法术的卷轴."
 msgid "r_Scroll of Cursed Bolt"
 msgstr "诅咒之电卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cursed Bolt"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Evil Eye"
 msgstr "恶魔之眼卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Evil Eye"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Undeath"
 msgstr "亡灵卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Undeath"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Unholy Caress"
 msgstr "邪恶爱抚卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unholy Caress"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Desecration"
 msgstr "亵渎卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Desecration"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Bludgeoning Weakness"
 msgstr "棒击弱点卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Bludgeoning Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Piercing Weakness"
 msgstr "穿刺弱点卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Piercing Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Slashing Weakness"
 msgstr "剑伤弱点卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Slashing Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Vampiric Touch"
 msgstr "吸血鬼之触卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Vampiric Touch"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mental Weakness"
 msgstr "精神虚弱卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mental Weakness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Death Fog"
 msgstr "死亡之雾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Death Fog"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Eye Rot"
 msgstr "眼腐卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Eye Rot"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Unholy Flames"
 msgstr "邪恶火焰卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Unholy Flames"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Infernal Shield"
 msgstr "地狱之盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infernal Shield"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Infernal Ward"
 msgstr "地狱之御卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Infernal Ward"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10487,84 +10594,98 @@ msgstr "学习吟唱相关法术的卷轴"
 msgid "r_Scroll of Mana Blast"
 msgstr "法力冲击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Blast"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Adept"
 msgstr "娴熟卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Adept"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Bless Other"
 msgstr "祝福他人卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Bless Other"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Blessing"
 msgstr "祝福卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blessing"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Healing Chant"
 msgstr "治疗圣歌卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Healing Chant"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hymn of Intellect"
 msgstr "智力赞美诗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Intellect"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hymn of Might"
 msgstr "力量赞美诗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Might"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hymn of Skill"
 msgstr "技能赞美诗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Skill"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hymn of Swiftness"
 msgstr "迅捷赞美诗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Swiftness"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Hymn of Vigor"
 msgstr "活力赞美诗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Hymn of Vigor"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Max Health Bonus"
 msgstr "最大生命加成卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Health Bonus"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Max Mana Bonus"
 msgstr "最大法力加成卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Mana Bonus"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Max Stamina Bonus"
 msgstr "最大耐力加成卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Max Stamina Bonus"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Sacrifice"
 msgstr "牺牲卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sacrifice"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
@@ -10577,84 +10698,98 @@ msgstr "学习水系魔法相关法术的卷轴"
 msgid "r_Scroll of Delayed Shot"
 msgstr "延迟攻击卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Delayed Shot"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Icicle"
 msgstr "冰柱卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Icicle"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Weakening Chill"
 msgstr "弱寒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Weakening Chill"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Frostbite"
 msgstr "冻伤卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Frostbite"
 msgstr "这个卷轴可以永久增强该法术以及相关的副技能."
 
 msgid "r_Scroll of Shards"
 msgstr "碎片卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Shards"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Slow"
 msgstr "减速卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Slow"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Ice Storm"
 msgstr "冰暴卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ice Storm"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Toxic Rain"
 msgstr "毒雨卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Toxic Rain"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Blizzard"
 msgstr "暴雪卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Blizzard"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Clear Thoughts"
 msgstr "清醒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Clear Thoughts"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Cold Shield"
 msgstr "冷盾卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cold Shield"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Cold Ward"
 msgstr "冷防卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Cold Ward"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Gills"
 msgstr "腮卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Gills"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Water Breathing"
 msgstr "水下呼吸卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Water Breathing"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
@@ -10667,78 +10802,91 @@ msgstr "学习巫术相关法术的卷轴"
 msgid "r_Scroll of Needles"
 msgstr "群针卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Needles"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Sluggish"
 msgstr "缓慢卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Sluggish"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Exhaust"
 msgstr "消耗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Exhaust"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Disease"
 msgstr "疾病卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Disease"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Spell Curse"
 msgstr "诅咒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Spell Curse"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Palsy"
 msgstr "麻痹卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Palsy"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Pestilence"
 msgstr "瘟疫卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Pestilence"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Stupidity"
 msgstr "愚蠢卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Stupidity"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Insect Swarm"
 msgstr "虫群卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Insect Swarm"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Tongue Rot"
 msgstr "禁言卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Tongue Rot"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Mana Leech"
 msgstr "法力吸取卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Mana Leech"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Ominous Drain"
 msgstr "厄运消耗卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Ominous Drain"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
 msgid "r_Scroll of Witches Brew"
 msgstr "巫酒卷轴"
 
+#, fuzzy
 msgid "desc_r_Scroll of Witches Brew"
 msgstr "这个卷轴可以永久加强该法术以及相关的副技能."
 
@@ -22032,6 +22180,7 @@ msgstr "信箱"
 msgid "desc_r_Mailbox"
 msgstr " "
 
+#, fuzzy
 msgid "r_PrayAltar"
 msgstr "祈祷祭坛"
 
