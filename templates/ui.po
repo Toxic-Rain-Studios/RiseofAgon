@@ -13480,6 +13480,12 @@ msgstr "You have left Melek's Veil."
 msgid "melek_veil_map_marker"
 msgstr "Melek's Veil"
 
+msgid "melek_veil_mark_dealt"
+msgstr "Melek's mark on %1: %2 of %3"
+
+msgid "melek_veil_mark_taken"
+msgstr "%1 marked you: %2 of %3 - at %3 you are captured!"
+
 msgid "melek_veil_muster_open"
 msgstr ""
 "Melek's Veil is gathering at %2! Type /melek_join or press Join in the event "
