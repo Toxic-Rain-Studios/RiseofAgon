@@ -14100,6 +14100,10 @@ msgstr ""
 "Your withdrawal could not be placed in your backpack - the gold was returned "
 "to your bank account."
 
+#. Chat command help for /auto_eat_toggle. No runtime parameters.
+msgid "chat_cmd_auto_eat_toggle_desc"
+msgstr "switches auto-eat from the paperdoll food slot on or off"
+
 #. Chat command help for /gm_mail_all (ADMIN).
 msgid "chat_cmd_gm_mail_all_desc"
 msgstr ""
@@ -14630,6 +14634,16 @@ msgstr "holding captured"
 
 msgid "faction_war_reason_siege_defend"
 msgstr "holding defended"
+
+#. What a meal adds, as %2 of NOTIFICATION_EVENT_BOOST_SELF_INFLICTED.
+msgid "food_rate_health_per_second"
+msgstr "Health per second"
+
+msgid "food_rate_mana_per_second"
+msgstr "Mana per second"
+
+msgid "food_rate_stamina_per_second"
+msgstr "Stamina per second"
 
 #. /kit, for a one-time kit this account has already claimed. Runtime parameters: the kit name.
 msgid "kit_already_claimed"

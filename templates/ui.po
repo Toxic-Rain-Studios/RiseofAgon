@@ -5811,6 +5811,10 @@ msgstr ""
 "\n"
 "3. Press the Enchant button to enchant item."
 
+#. A transmute gem that fits every weapon type: shown where the weapon types are listed otherwise.
+msgid "enchanting_transmute_any_weapon"
+msgstr "Any Weapon"
+
 msgid "enchanting_transmute_gem_postfix"
 msgstr "of %1"
 
