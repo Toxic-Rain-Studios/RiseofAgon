@@ -14058,7 +14058,8 @@ msgstr ""
 
 msgid "melek_veil_polearm_given"
 msgstr ""
-"Melek's polearm is in your hands. Only its blows mark the Hunted for capture."
+"Melek's polearm is yours. Its blows mark twice, its power attack and "
+"whirlwind blow the smoke open, and his light shows everyone where you are."
 
 msgid "melek_veil_polearm_no_room"
 msgstr "Make room in your bags: Melek's polearm cannot reach you."
@@ -14077,6 +14078,24 @@ msgstr "The Hunters break out of Melek's prison in %1!"
 
 msgid "melek_veil_release_in_hunter"
 msgstr "You break out of Melek's prison in %1..."
+
+msgid "melek_veil_relic_dropped"
+msgstr ""
+"%1 dropped Melek's polearm. It lies under a column of white light until a "
+"Hunter takes it up."
+
+msgid "melek_veil_relic_falls"
+msgstr ""
+"Melek's polearm falls from the veil. Follow the column of white light: the "
+"first Hunter to reach it carries it."
+
+msgid "melek_veil_relic_returns"
+msgstr ""
+"Melek's polearm lay unclaimed and returned to the veil. It falls again - "
+"follow the column of white light."
+
+msgid "melek_veil_relic_taken"
+msgstr "%1 carries Melek's polearm, wreathed in his white light."
 
 msgid "melek_veil_rescue_busy"
 msgstr "Someone is already freeing that prisoner."
