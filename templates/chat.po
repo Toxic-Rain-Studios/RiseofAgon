@@ -14709,6 +14709,29 @@ msgstr ""
 msgid "mail_gm_write_failed"
 msgstr "Mail: the letter could not be written (see the server log)."
 
+msgid "market_fill_gem_mismatch"
+msgstr ""
+"That gem does not carry the enchant, or the quality, this order is buying."
+
+msgid "market_fill_item_mismatch"
+msgstr "That item does not match what this order is buying."
+
+msgid "market_gem_buy_min_quality_changed"
+msgstr "The order now buys gems of Q%1 or better."
+
+msgid "market_gem_buy_needs_enchant"
+msgstr ""
+"Magical gems can only be bought by a gem enchant, with a minimum quality "
+"from 0 to %1."
+
+msgid "market_gem_buy_pick_enchant_row"
+msgstr ""
+"Magical gems are bought by enchant: pick a \"Magical Gem of ...\" entry "
+"under Magical Gems."
+
+msgid "market_gem_not_recorded_yet"
+msgstr "This gem is still on its way. Try again in a moment."
+
 msgid "marks_vendor_bought"
 msgstr "[Log] %1 is in your bank. %2 Marks spent."
 
