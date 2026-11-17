@@ -3178,6 +3178,31 @@ msgstr ""
 msgid "clan_creation_form_name"
 msgstr "Clan name"
 
+msgid "clan_holdings_craft_tax_all_but_clan"
+msgstr "All but our clan"
+
+msgid "clan_holdings_craft_tax_all_but_clan_and_allies"
+msgstr "All but our clan and allies"
+
+msgid "clan_holdings_craft_tax_everyone"
+msgstr "Everyone, our clan too"
+
+msgid "clan_holdings_craft_tax_hint"
+msgstr "Added to each craft's gold cost at this holding's clan stations."
+
+# Clan crafting tax: the clan holdings tab, set per holding next to the bank and guard tower policies (2026-11-15).
+msgid "clan_holdings_craft_tax_label"
+msgstr "Crafting Tax"
+
+msgid "clan_holdings_craft_tax_none"
+msgstr "No crafting tax"
+
+msgid "clan_holdings_craft_tax_only_enemies"
+msgstr "Only enemies"
+
+msgid "clan_holdings_craft_tax_payers_label"
+msgstr "Who Pays the Tax"
+
 msgid "clan_kos_empty"
 msgstr "No players are on this clan's Kill On Sight list."
 
@@ -5153,6 +5178,29 @@ msgstr "Crosshair"
 
 msgid "crouching"
 msgstr "crouching"
+
+msgid "ctax_paid"
+msgstr "Paid %1 gold crafting tax (%2%) to %3."
+
+msgid "ctax_rate_raised"
+msgstr ""
+"^Cyellow^%1 raised the crafting tax here to %2%. Close and reopen the "
+"station to see the new cost before crafting.^N^"
+
+msgid "ctax_station_exempt"
+msgstr "%1 charges you no crafting tax at this station."
+
+# Clan station crafting tax (SFClanCraftTax / SFClanCraftTaxChat / SFCraftTaxText). %1.. are filled in by the game.
+msgid "ctax_station_open"
+msgstr ""
+"^Cyellow^%1 charges a %2% crafting tax at this station, on top of each "
+"craft's gold cost.^N^"
+
+msgid "ctax_window_exempt"
+msgstr "%1 charges you no crafting tax here."
+
+msgid "ctax_window_line"
+msgstr "Clan tax %1% (%2): %3 gold. Total: %4 gold"
 
 msgid "decline"
 msgstr "Decline"
