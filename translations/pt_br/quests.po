@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-07 15:00+0000\n"
+"PO-Revision-Date: 2026-11-17 12:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/quests/pt_BR/>\n"
@@ -18996,11 +18996,13 @@ msgstr ""
 msgid "name_quest_3044"
 msgstr "colheita em roendel 1"
 
+#, fuzzy
 msgid "short_desc_quest_3044"
 msgstr ""
-"Reúna quatro unidades de Sangue Tainted e dois corações Tainted nas próximas"
-" três horas."
+"Reúna quatro unidades de Sangue Tainted e dois corações Tainted nas próximas "
+"três horas."
 
+#, fuzzy
 msgid "start_text_quest_3044"
 msgstr ""
 "Vocês concordaram em reunir quatro unidades de Sangue Atemporal e dois "
@@ -19009,11 +19011,13 @@ msgstr ""
 msgid "end_text_quest_3044"
 msgstr "Maravilhoso. Voltaste com os ingredientes que pedi."
 
+#, fuzzy
 msgid "finished_text_quest_3044"
 msgstr ""
 "Você agora tem em sua posse quatro unidades de Sangue Atemporal e dois "
 "Corações Tainted. Retorne a Nairath o Mago e receba sua recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_3044"
 msgstr ""
 "Consegui reunir quatro unidades de Sangue Atemporal e dois Corações Tainted "
@@ -21726,9 +21730,11 @@ msgstr ""
 msgid "name_quest_3237"
 msgstr "bruxas de colheita em {$v11}"
 
+#, fuzzy
 msgid "short_desc_quest_3237"
 msgstr "Reúna três Corações Tainted."
 
+#, fuzzy
 msgid "start_text_quest_3237"
 msgstr ""
 "Aceitou uma missão de Marganak, o Arcanista. Reúna três Corações Tainted."
@@ -21738,11 +21744,13 @@ msgstr ""
 "Muito bem feito. Darei estes corações aos nossos encantadores. Aqui, aceita "
 "esta recompensa."
 
+#, fuzzy
 msgid "finished_text_quest_3237"
 msgstr ""
 "Agora tem três Corações Tainted em sua posse. Volte para Marganak, o "
 "Arcanista em Emberhall e receba sua recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_3237"
 msgstr ""
 "Reuni e entreguei três Corações Tainted para Marganak, o Arcanista. Os "
@@ -38895,10 +38903,11 @@ msgstr "teste de caça em o21 masmorra"
 msgid "short_desc_quest_4513"
 msgstr "Matar 1 túmulo Iklit"
 
+#, fuzzy
 msgid "start_text_quest_4513"
 msgstr ""
-"Aceitou uma missão de Fotel-ayn, o Calm. Mate um dos túmulos Iklits que pode"
-" ser encontrado Ahu Ishtra Dungeon."
+"Aceitou uma missão de Fotel-ayn, o Calm. Mate um dos túmulos Iklits que pode "
+"ser encontrado Ahu Ishtra Dungeon."
 
 msgid "end_text_quest_4513"
 msgstr ""
@@ -38906,6 +38915,7 @@ msgstr ""
 "impressionado. Aqui está o seu pagamento acordado para o bom trabalho. Fala "
 "comigo outra vez se quiseres continuar a caçar o Túmulo Iklits."
 
+#, fuzzy
 msgid "finished_text_quest_4513"
 msgstr ""
 "Matou com sucesso um Túmulo Iklit. Denunciar-lhe o sucesso para Fotel-ayn a "
@@ -38923,9 +38933,12 @@ msgstr "o21 tumba de masmorra iklit caça"
 msgid "short_desc_quest_4515"
 msgstr "Matar 10 túmulo iklits"
 
+#, fuzzy
 msgid "start_text_quest_4515"
 msgstr ""
-"Falaste com Fotel-ayn, o Calmo, e aceitou participar na Caçada de Ahu Ishtra Dungeon Iklit. Mate 10 Túmulos Iklits que podem ser encontrados dentro das cavernas de Ahu Ishtra.\r\n"
+"Falaste com Fotel-ayn, o Calmo, e aceitou participar na Caçada de Ahu Ishtra "
+"Dungeon Iklit. Mate 10 Túmulos Iklits que podem ser encontrados dentro das "
+"cavernas de Ahu Ishtra.\r\n"
 "(Aviso: Esta busca estará disponível novamente, 21 horas após sua conclusão)."
 
 msgid "end_text_quest_4515"
@@ -38934,6 +38947,7 @@ msgstr ""
 "especialmente em grande número. Aqui está a sua recompensa bem merecida. O "
 "Ahu Ishtra Dungeon Tomb Iklit Hunt estará disponível novamente em 21 horas."
 
+#, fuzzy
 msgid "finished_text_quest_4515"
 msgstr ""
 "Você matou com sucesso 10 Túmulo Iklits. Denunciar-lhe o sucesso para Fotel-"
@@ -42467,6 +42481,7 @@ msgstr ""
 "Excelente. Você matou com sucesso 100 Raptors, e ganhou o título de "
 "Dextrous."
 
+#, fuzzy
 msgid "finished_text_quest_20058"
 msgstr ""
 "Você matou com sucesso 50 Raptors, e ganhou o direito de usar o título de "
@@ -49635,11 +49650,18 @@ msgstr "Dor para o meu inimigo"
 msgid "short_desc_quest_2399"
 msgstr "Colhe três unidades de força vital selvagem dos Gnolls."
 
+#, fuzzy
 msgid "start_text_quest_2399"
 msgstr ""
-"O Círculo de Neith é um grupo de formuladores de Mahirim, que se interessam especialmente por itens mágicos e artefatos antigos. Eles estão sempre interessados em adquirir materiais estranhos, que são usados para itens encantadores. Tais materiais podem ser colhidos dos corpos de monstros mortos. Agora que os Gnolls sempre odiados reapareceram, que melhor oportunidade do que esta para colher um pouco de sua força vital. \r\n"
+"O Círculo de Neith é um grupo de formuladores de Mahirim, que se interessam "
+"especialmente por itens mágicos e artefatos antigos. Eles estão sempre "
+"interessados em adquirir materiais estranhos, que são usados para itens "
+"encantadores. Tais materiais podem ser colhidos dos corpos de monstros "
+"mortos. Agora que os Gnolls sempre odiados reapareceram, que melhor "
+"oportunidade do que esta para colher um pouco de sua força vital. \r\n"
 "\r\n"
-"Quero que mates Gnoll o suficiente para colher três unidades de força vital selvagem. Devias usar o seu skinner para arquivar isto."
+"Quero que mates Gnoll o suficiente para colher três unidades de força vital "
+"selvagem. Devias usar o seu skinner para arquivar isto."
 
 msgid "name_quest_2401"
 msgstr "Força vital feral"
@@ -55173,17 +55195,26 @@ msgstr ""
 "\r\n"
 "O que quero é que me recolhas duas unidades de Evil Eye Bile."
 
+#, fuzzy
 msgid "name_quest_3125"
 msgstr "Dois olhos"
 
+#, fuzzy
 msgid "short_desc_quest_3125"
 msgstr "Reúna dois Eodrin Olhos."
 
+#, fuzzy
 msgid "start_text_quest_3125"
 msgstr ""
-"Recentemente, um grupo de Eodrin mudou - se para {$k22}, a leste daqui. Estes monstros loucos atacarão todas as outras criaturas à vista. Selvagemmente flertando seus braços como garras, eles descaradamente arar em suas vítimas.\r\n"
+"Recentemente, um grupo de Eodrin mudou - se para {$k22}, a leste daqui. "
+"Estes monstros loucos atacarão todas as outras criaturas à vista. "
+"Selvagemmente flertando seus braços como garras, eles descaradamente arar em "
+"suas vítimas.\r\n"
 "\r\n"
-"Mas, como muitos dos estranhos e perigosos monstros que existem durante Agon, o Eodrin também pode ser colhido para materiais superiores que podem ser usados para encantar. E agora é uma excelente oportunidade para colher esses materiais do Eodrin, antes que desapareçam da região.\r\n"
+"Mas, como muitos dos estranhos e perigosos monstros que existem durante "
+"Agon, o Eodrin também pode ser colhido para materiais superiores que podem "
+"ser usados para encantar. E agora é uma excelente oportunidade para colher "
+"esses materiais do Eodrin, antes que desapareçam da região.\r\n"
 "\r\n"
 "O que te peço é que vás colher para mim dois Eodrin Olhos."
 
@@ -65457,6 +65488,7 @@ msgstr ""
 msgid "name_quest_10066"
 msgstr "Vendendo cristais encantados para Sanguine"
 
+#, fuzzy
 msgid "short_desc_quest_10066"
 msgstr "Entregar 10 cristais mágicos"
 
@@ -68629,9 +68661,11 @@ msgstr "Eu preparei o meu escudo."
 msgid "name_quest_21233"
 msgstr "Missão 4 - etapa 3 - bloqueie os ataques do totem"
 
+#, fuzzy
 msgid "short_desc_quest_21233"
 msgstr "Bloqueie 3 tiros do totem mago."
 
+#, fuzzy
 msgid "start_text_quest_21233"
 msgstr ""
 "Parrying reduz o dano de qualquer coisa que atinja seu escudo. Um botão do "
@@ -72195,6 +72229,7 @@ msgstr ""
 "Excelente. Você matou com sucesso 100 Raptors, e ganhou o título de "
 "Dextrous."
 
+#, fuzzy
 msgid "finished_text_quest_23058"
 msgstr ""
 "Você matou com sucesso 50 Raptors, e ganhou o direito de usar o título de "
@@ -73065,6 +73100,7 @@ msgstr "Eu crafted 20 Goblin Angrysticks e trouxe-os para Ilrak."
 msgid "name_quest_11066"
 msgstr "Vendendo cristais encantados para Shoal"
 
+#, fuzzy
 msgid "short_desc_quest_11066"
 msgstr "Entregar 10 cristais mágicos"
 
@@ -75448,11 +75484,12 @@ msgstr ""
 "Excelente. Você matou com sucesso 100 Raptors, e ganhou o título de "
 "Dextrous."
 
+#, fuzzy
 msgid "finished_text_quest_24058"
 msgstr ""
 "Você matou com sucesso 50 Raptors, e ganhou o direito de usar o título de "
-"Dextrous. Retorne a Izkruul o Conselheiro e reivindique sua recompensa e seu"
-" título de conquista."
+"Dextrous. Retorne a Izkruul o Conselheiro e reivindique sua recompensa e seu "
+"título de conquista."
 
 msgid "diary_text_quest_24058"
 msgstr ""
@@ -76315,6 +76352,7 @@ msgstr "Eu crafted 20 Goblin Angrysticks e trouxe-os para Murdak."
 msgid "name_quest_12066"
 msgstr "Vendendo cristais encantados para Flaming Skull"
 
+#, fuzzy
 msgid "short_desc_quest_12066"
 msgstr "Entregar 10 cristais mágicos"
 
