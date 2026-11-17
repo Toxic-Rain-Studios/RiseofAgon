@@ -1286,6 +1286,135 @@ msgstr ""
 msgid "cosmetic_elemental_test_skins"
 msgstr "Spell Skin Test Pack"
 
+msgid "cosmetic_glider_active"
+msgstr "Active"
+
+msgid "cosmetic_glider_already_owned"
+msgstr "You already own this glider skin. Your scroll has not been consumed."
+
+msgid "cosmetic_glider_default"
+msgstr "Use Default"
+
+msgid "cosmetic_glider_empty"
+msgstr "No glider skins are available yet."
+
+msgid "cosmetic_glider_error_locked"
+msgstr "You have not unlocked this glider skin."
+
+msgid "cosmetic_glider_error_retry"
+msgstr "Glider skins could not be updated. Please try again."
+
+msgid "cosmetic_glider_error_scroll"
+msgstr "This scroll does not contain an available glider skin."
+
+msgid "cosmetic_glider_loading"
+msgstr "Loading glider skins..."
+
+msgid "cosmetic_glider_locked"
+msgstr "Locked"
+
+msgid "cosmetic_glider_owned"
+msgstr "Owned"
+
+msgid "cosmetic_glider_refresh"
+msgstr "Refresh"
+
+msgid "cosmetic_glider_scroll_help"
+msgstr ""
+"Unlock a look with a Glider Skin Scroll. Your glider wears one skin at a "
+"time."
+
+msgid "cosmetic_glider_select"
+msgstr "Use"
+
+msgid "cosmetic_glider_selection_saved"
+msgstr "Glider appearance saved."
+
+msgid "cosmetic_glider_skin_amethyst"
+msgstr "Royal Amethyst"
+
+msgid "cosmetic_glider_skin_amethyst_desc"
+msgstr "Deep purple scales on a gilded frame, fit for a king."
+
+msgid "cosmetic_glider_skin_boneshadow"
+msgstr "Bone and Shadow"
+
+msgid "cosmetic_glider_skin_boneshadow_desc"
+msgstr "Bleached bone-white scales on a black frame, bound in blood red."
+
+msgid "cosmetic_glider_skin_crimson"
+msgstr "Bloodwing"
+
+msgid "cosmetic_glider_skin_crimson_desc"
+msgstr "Blood-red scales on a black iron frame."
+
+msgid "cosmetic_glider_skin_ember"
+msgstr "Obsidian Ember"
+
+msgid "cosmetic_glider_skin_ember_desc"
+msgstr ""
+"Black obsidian scales whose edges smoulder like cooling lava, on a charred "
+"frame."
+
+msgid "cosmetic_glider_skin_frost"
+msgstr "Frost Wyrm"
+
+msgid "cosmetic_glider_skin_frost_desc"
+msgstr ""
+"Ice-blue scales on a frost-white frame, as if cut from a wyrm of the far "
+"north."
+
+msgid "cosmetic_glider_skin_fullplate"
+msgstr "Full Plate"
+
+msgid "cosmetic_glider_skin_fullplate_desc"
+msgstr ""
+"Sails of overlapping steel plates, riveted in bronze, on a blackened steel "
+"frame: the glider of a knight in full plate."
+
+msgid "cosmetic_glider_skin_gilded"
+msgstr "Gilded Dragon"
+
+msgid "cosmetic_glider_skin_gilded_desc"
+msgstr "Scales of beaten gold on a dark walnut frame."
+
+msgid "cosmetic_glider_skin_midnight"
+msgstr "Midnight Starfield"
+
+msgid "cosmetic_glider_skin_midnight_desc"
+msgstr ""
+"Sails of the night sky, starlit, with a nebula drifting through them, on a "
+"silver frame."
+
+msgid "cosmetic_glider_skin_rainbow"
+msgstr "Rainbow Glider"
+
+msgid "cosmetic_glider_skin_rainbow_desc"
+msgstr ""
+"Dragonhide dyed in every colour of the flag, from ruby to amethyst, on a "
+"rainbow-stained frame. It glitters in the sun."
+
+msgid "cosmetic_glider_skin_sandstorm"
+msgstr "Sandstorm"
+
+msgid "cosmetic_glider_skin_sandstorm_desc"
+msgstr ""
+"Sand-coloured scales and sun-bleached wood, bound in rust red: a desert "
+"glider."
+
+msgid "cosmetic_glider_skin_verdant"
+msgstr "Verdant Grove"
+
+msgid "cosmetic_glider_skin_verdant_desc"
+msgstr ""
+"Moss-green scales on pale birch, bound in gold: a glider of the deep woods."
+
+msgid "cosmetic_glider_skins"
+msgstr "Glider Skins"
+
+msgid "cosmetic_glider_unlocked"
+msgstr "Glider skin unlocked."
+
 msgid "cosmetic_name_air_ball_lightning_au"
 msgstr "Ball Lightning: Aurora"
 
@@ -6193,6 +6322,11 @@ msgstr ""
 "Curiously shaped knives based on an originals found buried among nithron "
 "ruins. "
 
+msgid "desc_r_Damaged Glider"
+msgstr ""
+"A severely damaged Dreadwing Glider made out of Dragon Leather and Sagewood. "
+"Someone skilled in repairing should know how to get this functional again."
+
 msgid "desc_r_Dark Quintessence"
 msgstr "Ingredient used for enchanting."
 
@@ -6543,6 +6677,11 @@ msgstr "Very potent ingredient for enchanting."
 msgid "desc_r_Dragon Ice"
 msgstr " "
 
+msgid "desc_r_Dragon Leather"
+msgstr ""
+"Dark leather tanned from dragonhide. It is used in the creation of the "
+"finest gear."
+
 msgid "desc_r_Dragon Pillar"
 msgstr " "
 
@@ -6570,6 +6709,12 @@ msgid "desc_r_Dragonfire"
 msgstr ""
 "Fires burn eternally within this sword, which was first used by the "
 "worshipers of Far-Loradan, the dragon emperor of Yssam. "
+
+msgid "desc_r_Dragonhide"
+msgstr ""
+"The heavy scaled hide of a dragon. Fire Dragons, Ice Dragons, Dark Dragons "
+"and the Gardoroc all yield it. It must be tanned into leather before it is "
+"used in crafting."
 
 msgid "desc_r_Dragons"
 msgstr "Description of r_Dragons"
@@ -9879,6 +10024,20 @@ msgstr ""
 "This weapon consists of a very sharp one-edged blade attached to a sturdy "
 "pole."
 
+msgid "desc_r_Glider"
+msgstr ""
+"Crafted from Sagewood planks and Dragon Leather, this lightweight and "
+"durable glider allows adventurers to soar through the skies.\n"
+"\n"
+"Equipped on the back, the glider can be deployed by jumping while airborne, "
+"allowing the wearer to kick open the wings and glide through the air - "
+"descending gracefully to the ground."
+
+msgid "desc_r_Glider Skin Scroll"
+msgstr ""
+"A scroll that unlocks a skin for your glider. Use it to add the skin to your "
+"account, then choose it under Emotes, Glider Skins."
+
 msgid "desc_r_Global Currency"
 msgstr "Gold Currency Used for Global Trade."
 
@@ -12155,6 +12314,9 @@ msgstr ""
 
 msgid "desc_r_Marker Mine"
 msgstr "Marker for capturable mines"
+
+msgid "desc_r_Marker My Glider"
+msgstr "Where your glider came down."
 
 msgid "desc_r_Marker My Mount"
 msgstr ""
@@ -22974,6 +23136,11 @@ msgstr ""
 "Double click to add 30 days of premium game time to your account. This token "
 "cannot be traded, dropped or sold, but can be stored in your bank."
 
+msgid "desc_r_ut_Glider Skin Scroll"
+msgstr ""
+"A scroll that unlocks a skin for your glider. Bound to you. Use it to add "
+"the skin to your account, then choose it under Emotes, Glider Skins."
+
 msgid "desc_r_ut_Hoarfrost Dye"
 msgstr "A cold blue-white dye from the Log. Bound to you."
 
@@ -26929,6 +27096,9 @@ msgstr "Cursed Darktaint"
 msgid "r_Dagger"
 msgstr "Dagger"
 
+msgid "r_Damaged Glider"
+msgstr "Wrecked Dreadwing Glider"
+
 msgid "r_Dark Quintessence"
 msgstr "Dark Quintessence"
 
@@ -27229,6 +27399,9 @@ msgstr "Dragon Heart"
 msgid "r_Dragon Ice"
 msgstr "Dragon Ice"
 
+msgid "r_Dragon Leather"
+msgstr "Dragon Leather"
+
 msgid "r_Dragon Pillar"
 msgstr "Dragon Pillar"
 
@@ -27249,6 +27422,9 @@ msgstr "Dragon Tail"
 
 msgid "r_Dragonfire"
 msgstr "Dragonfire"
+
+msgid "r_Dragonhide"
+msgstr "Dragonhide"
 
 msgid "r_Dragons"
 msgstr "Dragons"
@@ -30175,6 +30351,12 @@ msgstr "Giants"
 msgid "r_Glaive"
 msgstr "Glaive"
 
+msgid "r_Glider"
+msgstr "Dreadwing Glider"
+
+msgid "r_Glider Skin Scroll"
+msgstr "Glider Skin Scroll"
+
 msgid "r_Global Currency"
 msgstr "Global Currency"
 
@@ -31850,6 +32032,9 @@ msgstr "Marker Market"
 
 msgid "r_Marker Mine"
 msgstr "Marker Mine"
+
+msgid "r_Marker My Glider"
+msgstr "My Glider"
 
 msgid "r_Marker My Mount"
 msgstr "My Mount"
@@ -39476,6 +39661,9 @@ msgstr "Emote Scroll (Untradable)"
 
 msgid "r_ut_Game Time Token"
 msgstr "Game Time Token (Untradable)"
+
+msgid "r_ut_Glider Skin Scroll"
+msgstr "Glider Skin Scroll (Untradable)"
 
 msgid "r_ut_Item Skin Scroll"
 msgstr "Item Skin Scroll (Untradable)"

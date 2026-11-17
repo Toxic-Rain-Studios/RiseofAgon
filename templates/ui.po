@@ -1729,6 +1729,33 @@ msgstr ""
 "A neutral arena: no alignment is gained or lost here and nobody turns rogue. "
 "Full loot: everyone drops their gear and backpack on death."
 
+msgid "buff_glider_storm"
+msgstr "Stormwrecked"
+
+msgid "buff_glider_storm_desc"
+msgstr ""
+"Your recent Stormblast has shifted the density of air around you, making "
+"your glider have significantly reduced speed and increased sink rate. You "
+"should let the air around you condense again before attempting to glide."
+
+msgid "buff_glider_wet"
+msgstr "Wet Glider"
+
+msgid "buff_glider_wet_desc"
+msgstr ""
+"Your glider is water logged and has lost most of its functionality. You "
+"should let it dry off before attempting to use it."
+
+msgid "buff_mounted_archery"
+msgstr "Mounted Archery"
+
+msgid "buff_mounted_archery_desc"
+msgstr ""
+"Shooting arrows from the saddle of the mount. With your Mounted Archery "
+"skill from level 1 to 100, it takes you 75% to 50% longer to nock arrows, "
+"arrows deal 35% to 20% less damage and your character takes 20% to 15% more "
+"health damage from all sources."
+
 msgid "buff_rested"
 msgstr "Rested"
 
@@ -8598,6 +8625,12 @@ msgstr "Enchant Quality"
 
 msgid "item_fire_protection"
 msgstr "Fire"
+
+msgid "item_glider_skin_name_suffix"
+msgstr "Glider Skin"
+
+msgid "item_glider_skin_name_suffix_untradable"
+msgstr "Glider Skin (Untradable)"
 
 msgid "item_health_gain"
 msgstr "Health Gain"

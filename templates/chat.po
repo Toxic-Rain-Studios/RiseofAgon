@@ -9549,6 +9549,56 @@ msgstr "Unknown response for your quest offer."
 msgid "NOTIFICATION_GENERIC_TRADE_ROUTE_FREEMIUM"
 msgstr "Freemium accounts cannot initiate trade routes."
 
+msgid "NOTIFICATION_GLIDER_DIVING_ATTACK"
+msgstr ""
+"The wings are failing and the ground is rushing up to meet you - you hold "
+"the bar for dear life. This is no time to fight."
+
+msgid "NOTIFICATION_GLIDER_DIVING_WEAPON"
+msgstr ""
+"Your worn glider is giving out beneath you - both hands are clenched on the "
+"bar just to hold on. There is no reaching for a weapon now."
+
+msgid "NOTIFICATION_GLIDER_FALLING_ATTACK"
+msgstr ""
+"Spinning helplessly through the sky, you cannot aim a blow, loose an arrow "
+"or shape a spell."
+
+msgid "NOTIFICATION_GLIDER_FALLING_WEAPON"
+msgstr ""
+"Your glider is gone and you are tumbling end over end - you cannot get a "
+"grip on a weapon until you hit the ground."
+
+msgid "NOTIFICATION_GLIDER_GLIDING_ATTACK"
+msgstr ""
+"You cannot swing, shoot or cast with both hands gripping the glider's bar. "
+"Fold your wings or land first."
+
+msgid "NOTIFICATION_GLIDER_GLIDING_GEAR"
+msgstr ""
+"The wind tears at your harness - there is no changing your gear in mid-"
+"flight. Fold your wings or land first."
+
+msgid "NOTIFICATION_GLIDER_GLIDING_WEAPON"
+msgstr ""
+"Both hands are locked on the glider's bar - let go to reach for a weapon and "
+"you will drop like a stone. Fold your wings or land first."
+
+msgid "NOTIFICATION_GLIDER_LANDING_ATTACK"
+msgstr ""
+"The crash has knocked the wind out of you - give it a moment to get back on "
+"your feet before you fight."
+
+msgid "NOTIFICATION_GLIDER_LANDING_WEAPON"
+msgstr ""
+"Dazed from the crash, you are still getting back on your feet - your hands "
+"are not steady enough to draw a weapon yet."
+
+msgid "NOTIFICATION_GLIDER_NO_STAMINA"
+msgstr ""
+"You are too winded to work the glider's wings - catch your breath before you "
+"try to open or fold them."
+
 msgid "NOTIFICATION_GLYPH_CHALLENGE_DEFENDER_WARNING"
 msgstr ""
 "The rune glyph in %1 is under challenge! Your alliance has %2 minutes to "
@@ -10007,6 +10057,26 @@ msgstr "The inventory operation failed."
 
 msgid "NOTIFICATION_INVENTORY_OPERATION_GENERAL_BLOCKED"
 msgstr "The inventory operation is currently blocked."
+
+msgid "NOTIFICATION_INVENTORY_OPERATION_GLIDER_BLOCKED"
+msgstr ""
+"Your hands are bound to the glider's bar and harness - there is no changing "
+"your gear until both feet are back on solid ground."
+
+msgid "NOTIFICATION_INVENTORY_OPERATION_GLIDER_DIVING"
+msgstr ""
+"Strapped into a glider that is coming apart, you dare not loosen a single "
+"buckle - your gear stays where it is until you are down."
+
+msgid "NOTIFICATION_INVENTORY_OPERATION_GLIDER_FALLING"
+msgstr ""
+"You are tumbling through the open sky with nothing to hold on to - there is "
+"no reaching for your gear until you hit the ground."
+
+msgid "NOTIFICATION_INVENTORY_OPERATION_GLIDER_LANDING"
+msgstr ""
+"You are still picking yourself up from the crash, your hands shaking - give "
+"it a moment before you reach for your gear."
 
 msgid "NOTIFICATION_INVENTORY_OPERATION_PAPERDOLL_BLOCKED"
 msgstr ""
