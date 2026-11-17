@@ -745,6 +745,9 @@ msgstr "Learn %1 first"
 msgid "abilities_requirement_unlearned"
 msgstr "%1 %2 - not learned yet"
 
+msgid "abilities_requirement_value"
+msgstr "%1 %2"
+
 msgid "abilities_requirements_heading"
 msgstr "Requirements"
 
@@ -789,6 +792,9 @@ msgstr "Track"
 
 msgid "abilities_train_heading_points"
 msgstr "Raise with Skill Points"
+
+msgid "abilities_train_use_only"
+msgstr "Levels through use only"
 
 msgid "abilities_unlock_requirements_heading"
 msgstr "Unlock Requirements"
@@ -15238,8 +15244,8 @@ msgstr "Unequip All"
 msgid "paperdoll_button_unequip_all_tooltip"
 msgstr ""
 "Takes off your armor, robe, clothing, cape and jewelry (only while you wear "
-"armor). Weapons, ammo and the utility slots stay equipped. Instant at a bank "
-"out of combat, otherwise after 20 seconds."
+"armor or clothing). Weapons, ammo and the utility slots stay equipped. "
+"Instant at a bank out of combat, otherwise after 20 seconds."
 
 msgid "paperdoll_effect_modifier_1"
 msgstr "Obelisk of Ragunius"
@@ -15924,6 +15930,9 @@ msgstr "You have not collected that pet."
 msgid "pet_error_retry"
 msgstr "Your pet collection is unavailable right now. Please try again."
 
+msgid "pet_error_summon_cooldown"
+msgstr "Your pet needs a moment. Please wait before summoning again."
+
 msgid "pet_error_toy"
 msgstr "That toy cannot be used."
 
@@ -16463,6 +16472,24 @@ msgstr "Queue Count"
 
 msgid "research_queued_time"
 msgstr "Queued Time"
+
+msgid "research_refusal_already_100"
+msgstr "%1 is already level 100!"
+
+msgid "research_refusal_learn_mastery"
+msgstr "Skill %1 is 100. Learn %2 to continue training!"
+
+msgid "research_refusal_missing_skill"
+msgstr "You do not have %1"
+
+msgid "research_refusal_no_research_skill"
+msgstr "You need the research skill!"
+
+msgid "research_refusal_tier_too_low"
+msgstr "Item tier %1 is too low for your current skill tier %2"
+
+msgid "research_refusal_tier_too_low_after_queue"
+msgstr "Item tier %1 will be too low after your current queue is finished."
 
 msgid "research_research_time"
 msgstr "Research Time: "

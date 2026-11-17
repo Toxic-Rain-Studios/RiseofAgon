@@ -9112,6 +9112,9 @@ msgstr "%1 has you in their ignore list."
 msgid "NOTIFICATION_DUEL_MEMBER_TOO_FAR_TO_START"
 msgstr "%1 is not in range to start."
 
+msgid "NOTIFICATION_DUEL_NOT_ALLOWED_ON_TUTORIAL_ISLAND"
+msgstr "You cannot duel while on the tutorial island."
+
 msgid "NOTIFICATION_DUEL_PLAYER_ABANDONED"
 msgstr "%1 has abandoned the duel!"
 
@@ -10126,6 +10129,11 @@ msgstr "The %1 of %2 has been challenged."
 msgid "NOTIFICATION_MONSTER_ANNOUNCEMENT_ICEDRAGON_GLOBAL"
 msgstr ""
 "Kroshogo the Ice Dragon has awoken from slumber and prowls the skies of %1."
+
+msgid "NOTIFICATION_MOUNT_SUMMON_NO_ROOM"
+msgstr ""
+"There is no room for your mount where you are looking. Look at open ground "
+"nearby and try again."
 
 msgid "NOTIFICATION_NEWBIE_PROTECTION_DISABLED_SYSTEM"
 msgstr "Your newbie protection has explicitly been stopped by the system."
