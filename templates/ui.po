@@ -13462,6 +13462,9 @@ msgstr "The Hunters have broken out of Melek's prison - the hunt is on!"
 msgid "melek_veil_join_closed"
 msgstr "Melek's Veil is not taking new players right now."
 
+msgid "melek_veil_join_outside"
+msgstr "Only those inside Melek's dome can join - go to %1 and step inside it."
+
 msgid "melek_veil_join_refused"
 msgstr "You cannot join Melek's Veil right now."
 
@@ -13488,8 +13491,8 @@ msgstr "%1 marked you: %2 of %3 - at %3 you are captured!"
 
 msgid "melek_veil_muster_open"
 msgstr ""
-"Melek's Veil is gathering at %2! Type /melek_join or press Join in the event "
-"window within the next %1 minutes to join the hunt."
+"Melek's Veil is gathering at %2! Step inside Melek's violet dome within the "
+"next %1 minutes and press Join in the event window to join the hunt."
 
 msgid "melek_veil_polearm_given"
 msgstr ""
