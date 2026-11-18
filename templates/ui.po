@@ -13909,6 +13909,20 @@ msgstr "PvE Mastery"
 msgid "mastery_xp_to_next"
 msgstr "%1 / %2 to next level"
 
+msgid "melek_offer_polearm"
+msgstr "Offer Melek's polearm"
+
+msgid "melek_polearm_none"
+msgstr "You carry no polearm of Melek's to offer."
+
+msgid "melek_polearm_not_yet"
+msgstr ""
+"Not now: Melek's polearm can be offered only by the one carrying it out of "
+"the hunt, while their run lasts."
+
+msgid "melek_polearm_turn_in_paid"
+msgstr "+%1 Dominion Favor (%2) and a cache."
+
 msgid "melek_veil_arena_leash"
 msgstr "You cannot leave Melek's Veil during the hunt."
 
@@ -14050,6 +14064,9 @@ msgstr ""
 msgid "melek_veil_map_marker"
 msgstr "Melek's Veil"
 
+msgid "melek_veil_map_marker_run"
+msgstr "Melek's polearm"
+
 msgid "melek_veil_mark_dealt"
 msgstr "Melek's mark on %1: %2 of %3"
 
@@ -14128,6 +14145,29 @@ msgstr "Only a free Hunted can break Melek's chains."
 
 msgid "melek_veil_rescue_started"
 msgstr "You are breaking Melek's chains on %1. Stay close and keep still!"
+
+msgid "melek_veil_run_begins"
+msgstr ""
+"%1 carries Melek's polearm out of the veil. They have %2 minutes to offer it "
+"at Melek's altar, and every map shows where they are."
+
+msgid "melek_veil_run_expired"
+msgstr "%1 kept Melek waiting too long. His polearm returns to the veil."
+
+msgid "melek_veil_run_lost"
+msgstr "%1 lost Melek's polearm. It returns to the veil."
+
+msgid "melek_veil_run_offered"
+msgstr "%1 offered Melek's polearm at his altar."
+
+msgid "melek_veil_run_over"
+msgstr "Melek's polearm has left your hands."
+
+msgid "melek_veil_run_yours"
+msgstr ""
+"Melek's polearm is yours for %1 minutes. Offer it at Melek's altar for his "
+"Favor. Every map shows where you are, and if you die, log out or lose it, it "
+"returns to the veil."
 
 msgid "melek_veil_team_hunted"
 msgstr ""
