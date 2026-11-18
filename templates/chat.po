@@ -7192,6 +7192,23 @@ msgstr ""
 "You do not have the required Maintenance Deed in your inventory to perform "
 "this operation!"
 
+#. %1 city. To the city's owning clan.
+msgid "NOTIFICATION_CITY_VAULT_FULL"
+msgstr "The vault of %1 is full. Anyone with a Vault Sigil can open it."
+
+#. %1 player, %2 their clan, %3 city. To the city's owning clan.
+msgid "NOTIFICATION_CITY_VAULT_OPENED"
+msgstr "The vault of %3 was opened by %1 (%2)."
+
+#. %1 player, %2 their clan, %3 city. To the city's owning clan.
+msgid "NOTIFICATION_CITY_VAULT_OPENING_STARTED"
+msgstr "%1 (%2) is opening the vault of %3!"
+
+# Lawless city vault (owner notices)
+#. %1 city. To the city's owning clan: its vault reached the public threshold.
+msgid "NOTIFICATION_CITY_VAULT_PUBLIC"
+msgstr "The vault of %1 is filling up: everyone can see it now."
+
 msgid "NOTIFICATION_CLANMEMBER_OFFLINE"
 msgstr "%2 %1 is now offline."
 

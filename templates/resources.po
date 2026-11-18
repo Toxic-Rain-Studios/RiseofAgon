@@ -4456,6 +4456,11 @@ msgstr " "
 msgid "desc_r_City Markers"
 msgstr " "
 
+msgid "desc_r_City Vault"
+msgstr ""
+"Fills with a share of the loot taken in the city's territory. Anyone may "
+"open it once it is full."
+
 msgid "desc_r_Clan Advanced Shipyard"
 msgstr ""
 "An industrial holding's Advanced Shipyard. While it stands, the city's "
@@ -12246,6 +12251,9 @@ msgstr " "
 msgid "desc_r_Marker City Defend"
 msgstr " "
 
+msgid "desc_r_Marker City Vault"
+msgstr "A lawless city's vault."
+
 msgid "desc_r_Marker Clan City"
 msgstr " "
 
@@ -17835,6 +17843,9 @@ msgstr " "
 
 msgid "desc_r_Varangians"
 msgstr " "
+
+msgid "desc_r_Vault Sigil"
+msgstr "Crafted with Foreboding Crystals. Opens a full lawless city vault."
 
 msgid "desc_r_Vegetable Broth"
 msgstr "A broth flavored with vegetables."
@@ -25328,6 +25339,9 @@ msgstr "City Element Add Ons"
 msgid "r_City Markers"
 msgstr "City Markers"
 
+msgid "r_City Vault"
+msgstr "City Vault"
+
 msgid "r_Clan Advanced Shipyard"
 msgstr "Advanced Shipyard"
 
@@ -31976,6 +31990,9 @@ msgstr "Marker City Attack"
 msgid "r_Marker City Defend"
 msgstr "Marker City Defend"
 
+msgid "r_Marker City Vault"
+msgstr "City Vault"
+
 msgid "r_Marker Clan City"
 msgstr "Marker Clan City"
 
@@ -37383,6 +37400,10 @@ msgstr "Varangian Warthane"
 
 msgid "r_Varangians"
 msgstr "Varangians"
+
+# Lawless city vault
+msgid "r_Vault Sigil"
+msgstr "Vault Sigil"
 
 msgid "r_Vegetable Broth"
 msgstr "Vegetable Broth"

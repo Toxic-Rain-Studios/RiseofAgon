@@ -2724,6 +2724,40 @@ msgstr "Choose Gender"
 msgid "choose_your_race"
 msgstr "Choose your character's race"
 
+msgid "city_vault_busy"
+msgstr "Someone else is already opening this vault."
+
+msgid "city_vault_disabled"
+msgstr "This vault cannot be opened right now."
+
+msgid "city_vault_interrupted"
+msgstr "Opening the vault was interrupted."
+
+# Lawless city vault
+#. A stranger tries to loot a vault's container during its owner lock.
+msgid "city_vault_loot_locked"
+msgstr "This vault's loot belongs to whoever opened it, for now."
+
+msgid "city_vault_need_clan"
+msgstr "You must be in a clan to open a city vault."
+
+msgid "city_vault_need_sigil"
+msgstr "You need a Vault Sigil to open this vault."
+
+msgid "city_vault_not_full"
+msgstr "This vault is not full yet."
+
+#. The charge started.
+msgid "city_vault_opening"
+msgstr "You begin opening the vault. Stay close and don't get hit."
+
+msgid "city_vault_out_of_range"
+msgstr "Move closer to the vault to open it."
+
+#. The Sigil left the opener's inventory during the charge.
+msgid "city_vault_sigil_gone"
+msgstr "Your Vault Sigil is gone - the vault stays sealed."
+
 msgid "citybuff_activate"
 msgstr "Activate"
 
@@ -4262,6 +4296,26 @@ msgstr "Crafting Orders"
 msgid "component_targeting_chaos_city_stone"
 msgstr "Chaos City Stone"
 
+#. Vault plate: %1 fill percent.
+msgid "component_targeting_city_vault_fill"
+msgstr "Vault: %1% full"
+
+#. Vault plate.
+msgid "component_targeting_city_vault_full"
+msgstr "Full - open it with a Vault Sigil (hold Use)"
+
+#. Vault plate, fill hidden.
+msgid "component_targeting_city_vault_hidden"
+msgstr "Vault: filling"
+
+#. Vault plate, owners only: %1 stored maintenance points.
+msgid "component_targeting_city_vault_mp"
+msgstr "Stored: %1 maintenance points"
+
+#. Vault plate.
+msgid "component_targeting_city_vault_opening"
+msgstr "Being opened"
+
 msgid "component_targeting_controlled_by"
 msgstr "Controlled by %1"
 
@@ -4727,6 +4781,10 @@ msgstr "Highest level reached"
 
 msgid "constellation_your_race"
 msgstr "Your race"
+
+#. Context menu entry on a city vault.
+msgid "context_city_vault_open"
+msgstr "Open Vault"
 
 msgid "context_menu_bind_to_chaos_stone"
 msgstr "Bind To Chaos City"
@@ -10815,6 +10873,18 @@ msgstr "Rune Glyphs"
 
 msgid "map_marker_city"
 msgstr "City Markers"
+
+#. World map: %1 city name.
+msgid "map_marker_city_vault"
+msgstr "%1 Vault"
+
+#. World map, after the vault name in brackets.
+msgid "map_marker_city_vault_full"
+msgstr "Full"
+
+#. World map, owners only: %1 stored maintenance points.
+msgid "map_marker_city_vault_mp"
+msgstr "%1 MP"
 
 msgid "map_marker_clan_member"
 msgstr "Clan Member Markers"
