@@ -10109,6 +10109,20 @@ msgstr "Adding a new starting weapon failed."
 msgid "NOTIFICATION_INVENTORY_TRANSFER_CHECKS_NOT_COMPLETED"
 msgstr "Transfer checks were not completed."
 
+#. Lawful power cap (#1123): the cap is off (lawless land).
+msgid "NOTIFICATION_LAWFUL_CAP_OFF"
+msgstr "Your full power returns."
+
+#. Lawful power cap (#1123): the cap went on (the player entered land that is not lawless).
+msgid "NOTIFICATION_LAWFUL_CAP_ON"
+msgstr ""
+"Your power is restrained in lawful lands: stats count as at most 75 and "
+"combat skills as at most 50."
+
+#. Lawful power cap (#1123): crossed into lawless land while in combat. %1 seconds until full power.
+msgid "NOTIFICATION_LAWFUL_CAP_PENDING"
+msgstr "You are in combat. Your full power returns in %1 seconds."
+
 msgid "NOTIFICATION_LOTTERY_GLOBAL"
 msgstr "%1 just won a grand prize of %2 %3!! Congratulations!"
 
