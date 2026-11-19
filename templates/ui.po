@@ -5577,6 +5577,24 @@ msgstr "You return with %1 devotion (%2)."
 msgid "devotion_confirm_switch_title"
 msgstr "Devote yourself to %1?"
 
+msgid "devotion_eventspawn_cmd_action"
+msgstr "start, advance, stop or status"
+
+msgid "devotion_eventspawn_cmd_malaut"
+msgstr ""
+"spawns or runs Malaut's event, Silvertongue: start, advance (end the current "
+"phase now), stop, status"
+
+msgid "devotion_eventspawn_cmd_melek"
+msgstr ""
+"spawns or runs Melek's event, Melek's Veil: start, advance (end the current "
+"phase now), stop, status"
+
+msgid "devotion_eventspawn_cmd_ymir"
+msgstr ""
+"spawns or runs Ymir's event, Ymir's Forge: start, advance (end the current "
+"phase now), stop, status"
+
 msgid "devotion_purchase_done"
 msgstr "[%1] %2 grants you an offering. %3 %4 left."
 
