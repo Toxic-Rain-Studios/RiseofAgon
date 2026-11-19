@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-11 00:24+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/ui/zh_Hans/>\n"
@@ -3564,6 +3564,7 @@ msgstr "可用项目"
 msgid "clan_political_relationship_standing_description_neg_eight"
 msgstr "无法使用设施.\n会被防御塔攻击."
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "地下城"
 
@@ -3982,6 +3983,7 @@ msgstr "创建新的购买订单"
 msgid "auto_equip_config_weapon_type_sprite_tooltip_magic_staff"
 msgstr "法杖"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "地下城"
 

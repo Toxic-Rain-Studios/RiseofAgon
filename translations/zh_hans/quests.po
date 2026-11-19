@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-17 13:22+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "weblate.riseofagon.com/projects/darkfall/quests/zh_Hans/>\n"
@@ -2756,21 +2756,29 @@ msgstr "你已经收集了25个巨魔魔杖.把他们带给Monkfield的奥术师
 msgid "diary_text_quest_20045"
 msgstr "你已经收集了25个巨魔魔杖来帮助阿里克增加他的民兵装备."
 
+#, fuzzy
 msgid "name_quest_20046"
 msgstr "高阶魔法:撕裂"
 
+#, fuzzy
 msgid "short_desc_quest_20046"
 msgstr "对怪物使用撕裂20次"
 
+#, fuzzy
 msgid "start_text_quest_20046"
 msgstr "对怪物使用撕裂20次"
 
+#, fuzzy
 msgid "end_text_quest_20046"
-msgstr "怎么样了?我希望你利用了穿透力的弱点在法术之后进行了一些远距离射箭攻击.降低你的目标抗性是魔法在我们的世界中最重要的角色之一."
+msgstr ""
+"怎么样了?我希望你利用了穿透力的弱点在法术之后进行了一些远距离射箭攻击.降低你"
+"的目标抗性是魔法在我们的世界中最重要的角色之一."
 
+#, fuzzy
 msgid "finished_text_quest_20046"
 msgstr "你在战斗中使用了20次撕裂法术.去塞伦沙法师来获得你的奖励."
 
+#, fuzzy
 msgid "diary_text_quest_20046"
 msgstr "当我与怪物搏斗时, 我多次使用撕裂法术, 加深了对高阶魔法的理解."
 
@@ -3177,6 +3185,7 @@ msgstr "你在战斗中使用了20次狂怒导弹.去找塞伦沙法师来获得
 msgid "diary_text_quest_20069"
 msgstr "我获得了第一个带有敲击效果的法术,并在战斗中有效地使用了它."
 
+#, fuzzy
 msgid "name_quest_20072"
 msgstr "高阶魔法:可怕球体"
 
@@ -3571,9 +3580,13 @@ msgstr "制造25个小治疗药水"
 msgid "end_text_quest_20083"
 msgstr "让我摇一摇,看看颜色……不坏!我帮你把这些装进箱子里."
 
+#, fuzzy
 msgid "finished_text_quest_20083"
-msgstr "你已经收集了25个小的治疗药水. 把他们带给奥术师阿里克,这样他就可以检查和包装他们."
+msgstr ""
+"你已经收集了25个小的治疗药水. 把他们带给奥术师阿里克,这样他就可以检查和包装他"
+"们."
 
+#, fuzzy
 msgid "diary_text_quest_20083"
 msgstr "我制作了25个小治疗药水,并把它们带给阿里克检查."
 
@@ -3612,9 +3625,13 @@ msgstr "交付20个哥布林愤怒魔杖"
 msgid "end_text_quest_20085"
 msgstr "不错的工作!拔牙总是一件丑陋的事情,但最终的结果应该能卖个好价钱!"
 
+#, fuzzy
 msgid "finished_text_quest_20085"
-msgstr "你已经收集了20个哥布林愤怒魔杖. 把他们带给奥术师阿里克,这样他就可以检查和包装他们."
+msgstr ""
+"你已经收集了20个哥布林愤怒魔杖. 把他们带给奥术师阿里克,这样他就可以检查和包装"
+"他们."
 
+#, fuzzy
 msgid "diary_text_quest_20085"
 msgstr "你已经收集了20个哥布林愤怒魔杖. 把他们带给奥术师阿里克."
 
@@ -3648,9 +3665,11 @@ msgstr "收集20个平弓"
 msgid "end_text_quest_20089"
 msgstr "这些对他们来说有很好的重量,感觉像钢铁一样坚固!做得太好了!"
 
+#, fuzzy
 msgid "finished_text_quest_20089"
 msgstr "你已经收集了20个平弓. 把他们带给战士斯通加, 这样他就可以检查和包装他们."
 
+#, fuzzy
 msgid "diary_text_quest_20089"
 msgstr "我制作了20只平弓,并把它们带给斯通加检查."
 
@@ -5329,14 +5348,23 @@ msgstr "制作25个巨魔魔杖"
 msgid "start_text_quest_10033"
 msgstr "民兵烧毁我的魔法杖储备的速度非常惊人.我不知道他们是否真的对哥布林施放了那么多法术,或者他们只是不知道如何正确使用这些东西!\r\n  \r无论如何,我真的需要尽快得到更多.你能帮我一下吗?\r\n  \r制作25个巨魔魔杖."
 
+#, fuzzy
 msgid "name_quest_10034"
 msgstr "高阶魔法:撕裂"
 
+#, fuzzy
 msgid "short_desc_quest_10034"
 msgstr "对怪物使用撕裂20次"
 
+#, fuzzy
 msgid "start_text_quest_10034"
-msgstr "一旦你在低阶魔法学派取得足够的进步,你将获得高阶魔法法术的能力.\r\n  \r这所学派最早也是最有用的法术之一叫做\"撕裂\".这个法术向你的敌人发射快速移动的闪电,使他们随着时间流血,也使他们更容易受到像箭和长柄武器这样的穿刺攻击.告诉我你已经掌握了这个法术,用它来对付你的敌人,你就可以进入下一阶段的法师训练.\r\n  \r对怪物使用撕裂20次."
+msgstr ""
+"一旦你在低阶魔法学派取得足够的进步,你将获得高阶魔法法术的能力.\r\n"
+"  \r这所学派最早也是最有用的法术之一叫做\"撕裂\".这个法术向你的敌人发射快速移"
+"动的闪电,使他们随着时间流血,也使他们更容易受到像箭和长柄武器这样的穿刺攻击.告"
+"诉我你已经掌握了这个法术,用它来对付你的敌人,你就可以进入下一阶段的法师训"
+"练.\r\n"
+"  \r对怪物使用撕裂20次."
 
 msgid "name_quest_10035"
 msgstr "向西的马劳特部队"
