@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-17 13:22+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/fr/>\n"
@@ -43263,31 +43263,37 @@ msgstr ""
 "J'ai fabriqué 25 Troll Staves pour aider Alric à remplir sa réserve pour la "
 "Milice."
 
+#, fuzzy
 msgid "name_quest_20046"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_20046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_20046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "end_text_quest_20046"
 msgstr ""
 "Alors comment ça s'est passé ?  J'espère que vous avez utilisé la "
 "vulnérabilité en suivant le sort avec des attaques au tir à l'arc à "
-"distance.  Réduire les résistances de vos cibles est l'un des rôles les plus"
-" importants de la magie dans notre monde."
+"distance.  Réduire les résistances de vos cibles est l'un des rôles les plus "
+"importants de la magie dans notre monde."
 
+#, fuzzy
 msgid "finished_text_quest_20046"
 msgstr ""
-"Vous avez utilisé le sort Rend 20 fois au combat.  Allez au Selensha le Mage"
-" pour votre récompense."
+"Vous avez utilisé le sort Rend 20 fois au combat.  Allez au Selensha le Mage "
+"pour votre récompense."
 
+#, fuzzy
 msgid "diary_text_quest_20046"
 msgstr ""
-"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un"
-" certain nombre de fois pendant que j'ai combattu des monstres."
+"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un "
+"certain nombre de fois pendant que j'ai combattu des monstres."
 
 msgid "name_quest_20047"
 msgstr "Malaut forces à l'ouest"
@@ -43878,6 +43884,7 @@ msgstr ""
 "J'ai eu mon premier sort avec un effet Knock-Up et je l'ai utilisé "
 "efficacement au combat."
 
+#, fuzzy
 msgid "name_quest_20072"
 msgstr "Plus de magie: sphère eldritch"
 
@@ -44407,11 +44414,13 @@ msgstr ""
 "Laissez-moi leur donner un tourbillon ou deux pour regarder la coloration..."
 " Pas mal!  Laissez-moi les mettre en caisse pour vous."
 
+#, fuzzy
 msgid "finished_text_quest_20083"
 msgstr ""
 "Vous avez collecté 25 Potions de guérison mineure.  Amenez-les à Alric "
 "l'Arcaniste pour qu'il puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_20083"
 msgstr ""
 "J'ai fabriqué 25 potions de guérison mineure et je les ai amenés à Alric "
@@ -44456,11 +44465,13 @@ msgstr ""
 "Beau travail !  Toujours une entreprise laid extrayant les dents, mais le "
 "résultat final devrait obtenir un bon prix!"
 
+#, fuzzy
 msgid "finished_text_quest_20085"
 msgstr ""
 "Vous avez collecté 20 Goblin Angrysticks.  Amenez-les à Alric l'Arcaniste "
 "pour qu'il puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_20085"
 msgstr "J'ai fabriqué 20 Goblin Angrysticks et les ai amenés à Alric."
 
@@ -44502,14 +44513,15 @@ msgstr ""
 "Ceux-ci ont un bon poids pour eux, et se sentent solides comme de l'acier!  "
 "Beau travail !"
 
+#, fuzzy
 msgid "finished_text_quest_20089"
 msgstr ""
-"Vous avez collecté 20 Flatbows.  Amenez-les à Stonegar le Fighter pour qu'il"
-" puisse les inspecter et les emballer."
+"Vous avez collecté 20 Flatbows.  Amenez-les à Stonegar le Fighter pour qu'il "
+"puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_20089"
-msgstr ""
-"J'ai fabriqué 20 Flatbows et les ai amenés à Stonegar pour inspection."
+msgstr "J'ai fabriqué 20 Flatbows et les ai amenés à Stonegar pour inspection."
 
 msgid "name_quest_20091"
 msgstr "Formation aux armes: axes"
@@ -66257,19 +66269,26 @@ msgstr ""
 "  \r"
 "Craft 25 Troll Staves."
 
+#, fuzzy
 msgid "name_quest_10034"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_10034"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_10034"
 msgstr ""
-"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, vous gagnerez la capacité de Greater Magic sorts.\r\n"
-"  \r"
-"L'un des sorts les plus anciens et les plus utiles de cette école s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis qui les fait saigner au fil du temps, et les rend également plus vulnérables aux attaques perçantes comme Flèches et Pôles.Montrez-moi que vous avez maîtrisé ce sort en l'utilisant contre vos ennemis et vous pouvez progresser sur la prochaine étape de l'entraînement de mage.\r\n"
-"  \r"
-"Utilisez Rend 20 fois contre Monstres."
+"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, "
+"vous gagnerez la capacité de Greater Magic sorts.\r\n"
+"  \rL'un des sorts les plus anciens et les plus utiles de cette école "
+"s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis "
+"qui les fait saigner au fil du temps, et les rend également plus vulnérables "
+"aux attaques perçantes comme Flèches et Pôles.Montrez-moi que vous avez "
+"maîtrisé ce sort en l'utilisant contre vos ennemis et vous pouvez progresser "
+"sur la prochaine étape de l'entraînement de mage.\r\n"
+"  \rUtilisez Rend 20 fois contre Monstres."
 
 msgid "name_quest_10035"
 msgstr "Malaut forces à l'ouest"
@@ -69625,24 +69644,30 @@ msgstr ""
 "^Cdarkfall^vous avez frappé les mannequins d'entraînement ^Cwhite^%1 "
 "^Cdarkfall^des ^Cwhite^%2 ^Cdarkfall^Des fois."
 
+#, fuzzy
 msgid "name_quest_21213"
 msgstr "Quête 2 - étape 3 - rengainez votre épée"
 
+#, fuzzy
 msgid "short_desc_quest_21213"
 msgstr "Placez le Shearsword."
 
+#, fuzzy
 msgid "start_text_quest_21213"
 msgstr "Fixez votre épée en appuyant sur T."
 
 msgid "end_text_quest_21213"
 msgstr "Une lame reste gainée jusqu'à ce qu'elle soit nécessaire."
 
+#, fuzzy
 msgid "finished_text_quest_21213"
 msgstr "Votre épée est remorquée."
 
+#, fuzzy
 msgid "diary_text_quest_21213"
 msgstr "J'ai rangé mon épée."
 
+#, fuzzy
 msgid "use_skill_message_quest_21213"
 msgstr ""
 "^Cdarkfall^vous avez rangé le Shearsword ^Cwhite^%1 ^Cdarkfall^des "
@@ -73016,29 +73041,40 @@ msgstr ""
 "J'ai fabriqué 25 Troll Staves pour aider Ilrak à remplir sa réserve pour la "
 "garnison."
 
+#, fuzzy
 msgid "name_quest_11034"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_11034"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_11034"
 msgstr ""
-"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, vous gagnerez la capacité de lancer des sorts de Grande Magie.\r\n"
-"  \r"
-"L'un des sorts les plus anciens et les plus utiles de cette école s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis qui les fait saigner au fil du temps, et les rend également plus vulnérables aux attaques perçantes telles que les flèches et les bras polonais.  Prouvez-moi que vous avez maîtrisé ce sort en l'utilisant contre vos ennemis, et je vous permettrai de passer à la prochaine étape de votre entraînement.\r\n"
-"  \r"
-"Utilisez Rend 20 fois contre Monstres."
+"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, "
+"vous gagnerez la capacité de lancer des sorts de Grande Magie.\r\n"
+"  \rL'un des sorts les plus anciens et les plus utiles de cette école "
+"s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis "
+"qui les fait saigner au fil du temps, et les rend également plus vulnérables "
+"aux attaques perçantes telles que les flèches et les bras polonais.  Prouvez-"
+"moi que vous avez maîtrisé ce sort en l'utilisant contre vos ennemis, et je "
+"vous permettrai de passer à la prochaine étape de votre entraînement.\r\n"
+"  \rUtilisez Rend 20 fois contre Monstres."
 
+#, fuzzy
 msgid "name_quest_23046"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_23046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_23046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "end_text_quest_23046"
 msgstr ""
 "Alors ?  J'espère que vous avez exploité la vulnérabilité perçante en "
@@ -73046,15 +73082,17 @@ msgstr ""
 "d'une cible de ses résistances est l'un des rôles les plus importants de la "
 "magie dans notre monde."
 
+#, fuzzy
 msgid "finished_text_quest_23046"
 msgstr ""
 "Vous avez utilisé le sort Rend 20 fois au combat.  Allez au Haenlithe le "
 "Mage pour votre récompense."
 
+#, fuzzy
 msgid "diary_text_quest_23046"
 msgstr ""
-"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un"
-" certain nombre de fois pendant que j'ai combattu des monstres."
+"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un "
+"certain nombre de fois pendant que j'ai combattu des monstres."
 
 msgid "name_quest_11035"
 msgstr "La ruche à l'ouest"
@@ -74339,11 +74377,13 @@ msgstr ""
 "Laissez-moi en tourner un vers la lumière et étudier la coloration... "
 "Tolérable.  J'aurai ces cassures pour vous."
 
+#, fuzzy
 msgid "finished_text_quest_23083"
 msgstr ""
 "Vous avez collecté 25 Potions de guérison mineure.  Amenez-les à Ilrak "
 "l'Arcaniste pour qu'il puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_23083"
 msgstr ""
 "J'ai fabriqué 25 potions de guérison mineure et je les ai amenés à Ilrak "
@@ -74377,11 +74417,13 @@ msgstr ""
 "Travail adéquat.  Tirer les dents est une entreprise laid, adapté pour les "
 "mains plus petites, mais le résultat va chercher un bon prix."
 
+#, fuzzy
 msgid "finished_text_quest_23085"
 msgstr ""
 "Vous avez collecté 20 Goblin Angrysticks.  Amenez-les à Ilrak l'Arcaniste "
 "pour qu'il puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_23085"
 msgstr "J'ai fabriqué 20 Goblin Angrysticks et les ai amenés à Ilrak."
 
@@ -74449,14 +74491,15 @@ msgstr ""
 "Le dessin est lisse et les membres sont vrais.  Travail acceptable - mieux "
 "que je ne l'attendais de vous."
 
+#, fuzzy
 msgid "finished_text_quest_23089"
 msgstr ""
-"Vous avez collecté 20 Flatbows.  Amenez-les à Raenthar le Fighter pour qu'il"
-" puisse les inspecter et les emballer."
+"Vous avez collecté 20 Flatbows.  Amenez-les à Raenthar le Fighter pour qu'il "
+"puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_23089"
-msgstr ""
-"J'ai fabriqué 20 Flatbows et les ai amenés à Raenthar pour inspection."
+msgstr "J'ai fabriqué 20 Flatbows et les ai amenés à Raenthar pour inspection."
 
 msgid "name_quest_11068"
 msgstr "Une monture pour Errak"
@@ -76305,45 +76348,58 @@ msgstr ""
 "J'ai fabriqué 25 Troll Staves pour aider Murdak à remplir son stock pour le "
 "bandeau de guerre."
 
+#, fuzzy
 msgid "name_quest_12034"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_12034"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_12034"
 msgstr ""
-"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, vous gagnerez la capacité de Greater Magic sorts.\r\n"
-"  \r"
-"L'un des sorts les plus anciens et les plus utiles de cette école s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis qui les fait saigner au fil du temps, et les rend également plus vulnérables aux attaques perçantes comme Flèches et Pôles.Montrez-moi que vous avez maîtrisé ce sort en l'utilisant contre vos ennemis et vous pouvez progresser sur la prochaine étape de l'entraînement de mage.\r\n"
-"  \r"
-"Utilisez Rend 20 fois contre Monstres."
+"Une fois que vous avez progressé assez loin dans l'école de la Petite Magie, "
+"vous gagnerez la capacité de Greater Magic sorts.\r\n"
+"  \rL'un des sorts les plus anciens et les plus utiles de cette école "
+"s'appelle Rend.  Ce sort tire un boulon en mouvement rapide sur vos ennemis "
+"qui les fait saigner au fil du temps, et les rend également plus vulnérables "
+"aux attaques perçantes comme Flèches et Pôles.Montrez-moi que vous avez "
+"maîtrisé ce sort en l'utilisant contre vos ennemis et vous pouvez progresser "
+"sur la prochaine étape de l'entraînement de mage.\r\n"
+"  \rUtilisez Rend 20 fois contre Monstres."
 
+#, fuzzy
 msgid "name_quest_24046"
 msgstr "Plus de magie: rendez-vous"
 
+#, fuzzy
 msgid "short_desc_quest_24046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "start_text_quest_24046"
 msgstr "Utiliser 20 fois contre des monstres"
 
+#, fuzzy
 msgid "end_text_quest_24046"
 msgstr ""
 "Alors comment ça s'est passé ?  J'espère que vous avez utilisé la "
 "vulnérabilité en suivant le sort avec des attaques au tir à l'arc à "
-"distance.  Réduire les résistances de vos cibles est l'un des rôles les plus"
-" importants de la magie dans notre monde."
+"distance.  Réduire les résistances de vos cibles est l'un des rôles les plus "
+"importants de la magie dans notre monde."
 
+#, fuzzy
 msgid "finished_text_quest_24046"
 msgstr ""
-"Vous avez utilisé le sort Rend 20 fois au combat.  Allez au Skullgor le Mage"
-" pour votre récompense."
+"Vous avez utilisé le sort Rend 20 fois au combat.  Allez au Skullgor le Mage "
+"pour votre récompense."
 
+#, fuzzy
 msgid "diary_text_quest_24046"
 msgstr ""
-"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un"
-" certain nombre de fois pendant que j'ai combattu des monstres."
+"J'ai avancé ma compréhension de la Grande Magie en utilisant le sort Rend un "
+"certain nombre de fois pendant que j'ai combattu des monstres."
 
 msgid "name_quest_12035"
 msgstr "Camp de kobold à l'ouest"
@@ -77361,6 +77417,7 @@ msgstr ""
 "  \r"
 "Utilisez Eldritch Sphere 20 fois contre les Monstres."
 
+#, fuzzy
 msgid "name_quest_24072"
 msgstr "Plus de magie: sphère eldritch"
 
@@ -77631,11 +77688,13 @@ msgstr ""
 "Laissez-moi leur donner un tourbillon ou deux pour regarder la coloration..."
 "  Pas mal.  Je vais les mettre en caisse pour vous."
 
+#, fuzzy
 msgid "finished_text_quest_24083"
 msgstr ""
 "Vous avez collecté 25 Potions de guérison mineure.  Amenez-les à Murdak "
 "l'Arcaniste pour qu'elle puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_24083"
 msgstr ""
 "J'ai fabriqué 25 Potions de Guérison Mineure et je les ai amenés à Murdak "
@@ -77669,11 +77728,13 @@ msgstr ""
 "Bon travail.  Tirer les dents est toujours une mauvaise affaire, mais le "
 "résultat final va chercher un bon prix."
 
+#, fuzzy
 msgid "finished_text_quest_24085"
 msgstr ""
 "Vous avez collecté 20 Goblin Angrysticks.  Amenez-les à Murdak l'Arcaniste "
 "pour qu'elle puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_24085"
 msgstr "J'ai fabriqué 20 Goblin Angrysticks et les ai amenés à Murdak."
 
@@ -77741,11 +77802,13 @@ msgid "end_text_quest_24089"
 msgstr ""
 "Un tirage fort et une libération nette.  Ça servira bien.  Bon travail."
 
+#, fuzzy
 msgid "finished_text_quest_24089"
 msgstr ""
-"Vous avez collecté 20 Flatbows.  Amenez-les à Biggor le Fighter pour qu'elle"
-" puisse les inspecter et les emballer."
+"Vous avez collecté 20 Flatbows.  Amenez-les à Biggor le Fighter pour qu'elle "
+"puisse les inspecter et les emballer."
 
+#, fuzzy
 msgid "diary_text_quest_24089"
 msgstr "J'ai fabriqué 20 Flatbows et les ai amenés à Biggor pour inspection."
 

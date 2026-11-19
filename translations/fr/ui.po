@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-12 23:26+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "fr/>\n"
@@ -1312,9 +1312,11 @@ msgstr ""
 msgid "options_video_vegetation_area_size"
 msgstr "Superficie de la végétation: %1"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip_perf"
 msgstr "Performance: majeure - valeurs inférieures coût plus"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
 "Le rayon que l'herbe est éparpillée. Cela fonctionne avec la densité "
@@ -4063,6 +4065,7 @@ msgstr "Patron"
 msgid "map_marker_spawn_champion"
 msgstr "Championne"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "Donjon"
 
@@ -4072,6 +4075,7 @@ msgstr "Marqueur de quête"
 msgid "map_marker_portals"
 msgstr "Portails"
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "Donjons"
 
