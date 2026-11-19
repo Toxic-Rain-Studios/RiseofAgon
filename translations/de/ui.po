@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-12 23:25+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "de/>\n"
@@ -1311,17 +1311,19 @@ msgstr ""
 msgid "options_video_vegetation_area_size"
 msgstr "Vegetationsfläche: %1"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip_perf"
 msgstr "Leistung: major - niedrigere Werte kosten mehr"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
 "Der Radius, über den Gras verstreut ist. Dies funktioniert zusammen mit der "
 "Vegetationsdichte: Die Anzahl der Pflanzen ist gedeckelt, so dass ein "
 "kleinerer Bereich die gleiche Anzahl näher bei Ihnen packt - dickeres Gras "
 "und eine schwerere Ladung, weil mehr davon den Bildschirm füllt. Ein "
-"größerer Bereich breitet die Pflanzen dünner aus, zieht sie jedoch weiter in"
-" die Ferne."
+"größerer Bereich breitet die Pflanzen dünner aus, zieht sie jedoch weiter in "
+"die Ferne."
 
 msgid "options_video_vegetation_density"
 msgstr "Vegetationsdichte: %1"
@@ -4064,6 +4066,7 @@ msgstr "Chef"
 msgid "map_marker_spawn_champion"
 msgstr "Champion"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "Verlies"
 
@@ -4073,6 +4076,7 @@ msgstr "Questmarker"
 msgid "map_marker_portals"
 msgstr "Portale"
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "Dungeons"
 

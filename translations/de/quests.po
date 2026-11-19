@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-17 13:22+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/de/>\n"
@@ -44020,15 +44020,19 @@ msgstr ""
 "Ich fertigte 25 Troll Staves, um Alric zu helfen, seinen Vorrat für die "
 "Miliz zu füllen."
 
+#, fuzzy
 msgid "name_quest_20046"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_20046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_20046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "end_text_quest_20046"
 msgstr ""
 "Wie ist es also gelaufen?  Ich hoffe, Sie haben die umwerfende "
@@ -44037,11 +44041,13 @@ msgstr ""
 "Widerstandsfähigkeit Ihrer Ziele ist eine der wichtigsten Rollen der Magie "
 "in unserer Welt."
 
+#, fuzzy
 msgid "finished_text_quest_20046"
 msgstr ""
 "Ihr habt den Rend-Zauber 20 Mal im Kampf benutzt.  Gehe zu Selensha der "
 "Magier für deine Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_20046"
 msgstr ""
 "Ich habe mein Verständnis von Größerer Magie erweitert, indem ich mehrmals "
@@ -44644,6 +44650,7 @@ msgstr ""
 "Ich bekam meinen ersten Zauberspruch mit einem Knock-Up-Effekt und benutzte "
 "ihn effektiv im Kampf."
 
+#, fuzzy
 msgid "name_quest_20072"
 msgstr "Größere Magie: eldritch sphere"
 
@@ -45187,11 +45194,13 @@ msgstr ""
 "Lassen Sie mich ihnen ein oder zwei Wirbel geben, um die Färbung zu "
 "betrachten ... Nicht schlecht!  Lassen Sie mich diese für Sie einpacken."
 
+#, fuzzy
 msgid "finished_text_quest_20083"
 msgstr ""
 "Sie haben 25 Kleinheiltränke gesammelt.  Bringen Sie sie zu Alric dem "
 "Arkanisten, damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_20083"
 msgstr ""
 "Ich fertigte 25 Kleinheiltränke und brachte sie zur Inspektion nach Alric."
@@ -45235,11 +45244,13 @@ msgstr ""
 "Schöne Arbeit!  Immer ein hässliches Geschäft, die Zähne zu extrahieren, "
 "aber das Endergebnis sollte einen schönen Preis holen!"
 
+#, fuzzy
 msgid "finished_text_quest_20085"
 msgstr ""
 "Sie haben 20 Goblin Angrysticks gesammelt.  Bringen Sie sie zu Alric dem "
 "Arkanisten, damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_20085"
 msgstr "Ich fertigte 20 Goblin Angrysticks und brachte sie zu Alric."
 
@@ -45281,11 +45292,13 @@ msgstr ""
 "Diese haben ein gutes Gewicht zu ihnen, und fühlen sich solide wie Stahl!  "
 "Tolle Arbeit!"
 
+#, fuzzy
 msgid "finished_text_quest_20089"
 msgstr ""
 "Sie haben 20 Flatbows gesammelt.  Bringen Sie sie zu Stonegar den Kämpfer, "
 "damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_20089"
 msgstr "Ich fertigte 20 Flatbows und brachte sie zu Stonegar zur Inspektion."
 
@@ -67166,19 +67179,27 @@ msgstr ""
 "  \r"
 "Craft 25 Troll Staves."
 
+#, fuzzy
 msgid "name_quest_10034"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_10034"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_10034"
 msgstr ""
-"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, wirst du die Fähigkeit zu Größeren Zaubersprüchen erlangen.\r\n"
-"  \r"
-"Einer der frühesten und auch nützlichsten Zauber in dieser Schule heißt Rend.  Dieser Zauber feuert einen sich schnell bewegenden Riegel auf deine Feinde, der sie im Laufe der Zeit bluten lässt, und macht sie auch anfälliger für Piercing-Angriffe wie Pfeile und Polearms.Zeigen Sie mir, dass Sie diesen Zauber gemeistert haben, indem Sie ihn gegen Ihre Feinde verwenden, und Sie können zur nächsten Stufe des Magiertrainings übergehen.\r\n"
-"  \r"
-"Verwende Rend 20 Mal gegen Monster."
+"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, "
+"wirst du die Fähigkeit zu Größeren Zaubersprüchen erlangen.\r\n"
+"  \rEiner der frühesten und auch nützlichsten Zauber in dieser Schule heißt "
+"Rend.  Dieser Zauber feuert einen sich schnell bewegenden Riegel auf deine "
+"Feinde, der sie im Laufe der Zeit bluten lässt, und macht sie auch "
+"anfälliger für Piercing-Angriffe wie Pfeile und Polearms.Zeigen Sie mir, "
+"dass Sie diesen Zauber gemeistert haben, indem Sie ihn gegen Ihre Feinde "
+"verwenden, und Sie können zur nächsten Stufe des Magiertrainings "
+"übergehen.\r\n"
+"  \rVerwende Rend 20 Mal gegen Monster."
 
 msgid "name_quest_10035"
 msgstr "Malaut Truppen nach Westen"
@@ -70564,24 +70585,30 @@ msgstr ""
 "^Cdarkfall^Sie haben die Trainingsdummies getroffen ^Cwhite^%1 "
 "^Cdarkfall^von ^Cwhite^%2 ^Cdarkfall^Zeiten."
 
+#, fuzzy
 msgid "name_quest_21213"
 msgstr "Auftrag 2 - Schritt 3 - Schwert wegstecken"
 
+#, fuzzy
 msgid "short_desc_quest_21213"
 msgstr "Stow die Shearsword."
 
+#, fuzzy
 msgid "start_text_quest_21213"
 msgstr "Verstauen Sie Ihr Schwert, indem Sie T drücken."
 
 msgid "end_text_quest_21213"
 msgstr "Eine Klinge bleibt ummantelt, bis sie gebraucht wird."
 
+#, fuzzy
 msgid "finished_text_quest_21213"
 msgstr "Dein Schwert ist verstaut."
 
+#, fuzzy
 msgid "diary_text_quest_21213"
 msgstr "Ich habe mein Schwert verstaut."
 
+#, fuzzy
 msgid "use_skill_message_quest_21213"
 msgstr ""
 "^Cdarkfall^Du hast die Shearsword ^Cwhite^%1 ^Cdarkfall^von ^Cwhite^%2 "
@@ -73983,29 +74010,41 @@ msgstr ""
 "Ich fertigte 25 Troll Staves, um Ilrak zu helfen, seinen Vorrat für die "
 "Garnison zu füllen."
 
+#, fuzzy
 msgid "name_quest_11034"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_11034"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_11034"
 msgstr ""
-"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, wirst du die Fähigkeit erlangen, Zaubersprüche der Größeren Magie zu wirken.\r\n"
-"  \r"
-"Einer der frühesten und auch nützlichsten Zauber in dieser Schule heißt Rend.  Dieser Zauber feuert einen sich schnell bewegenden Bolzen auf deine Feinde, der sie im Laufe der Zeit bluten lässt und sie auch anfälliger für Piercing-Angriffe wie Pfeile und Polearms macht.  Beweist mir, dass ihr diesen Zauber gemeistert habt, indem ihr ihn gegen eure Feinde benutzt, und ich werde euch erlauben, zur nächsten Stufe eures Trainings vorzudringen.\r\n"
-"  \r"
-"Verwende Rend 20 Mal gegen Monster."
+"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, "
+"wirst du die Fähigkeit erlangen, Zaubersprüche der Größeren Magie zu "
+"wirken.\r\n"
+"  \rEiner der frühesten und auch nützlichsten Zauber in dieser Schule heißt "
+"Rend.  Dieser Zauber feuert einen sich schnell bewegenden Bolzen auf deine "
+"Feinde, der sie im Laufe der Zeit bluten lässt und sie auch anfälliger für "
+"Piercing-Angriffe wie Pfeile und Polearms macht.  Beweist mir, dass ihr "
+"diesen Zauber gemeistert habt, indem ihr ihn gegen eure Feinde benutzt, und "
+"ich werde euch erlauben, zur nächsten Stufe eures Trainings vorzudringen.\r\n"
+"  \rVerwende Rend 20 Mal gegen Monster."
 
+#, fuzzy
 msgid "name_quest_23046"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_23046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_23046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "end_text_quest_23046"
 msgstr ""
 "Nun ja?  Ich vertraue darauf, dass Sie die durchdringende Verwundbarkeit "
@@ -74013,11 +74052,13 @@ msgstr ""
 "Ferne gefolgt sind.  Ein Ziel seiner Widerstände zu entziehen, ist eine der "
 "wichtigsten Rollen der Magie in unserer Welt."
 
+#, fuzzy
 msgid "finished_text_quest_23046"
 msgstr ""
 "Ihr habt den Rend-Zauber 20 Mal im Kampf benutzt.  Gehe zu Haenlithe der "
 "Magier für deine Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_23046"
 msgstr ""
 "Ich habe mein Verständnis von Größerer Magie erweitert, indem ich mehrmals "
@@ -75316,11 +75357,13 @@ msgstr ""
 "Lassen Sie mich eins zum Licht drehen und die Färbung studieren ... "
 "Erträglich.  Ich werde diese für dich kuratieren lassen."
 
+#, fuzzy
 msgid "finished_text_quest_23083"
 msgstr ""
 "Sie haben 25 Kleinheiltränke gesammelt.  Bringen Sie sie zu Ilrak dem "
 "Arkanisten, damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_23083"
 msgstr ""
 "Ich fertigte 25 Kleinheiltränke und brachte sie zur Inspektion nach Ilrak."
@@ -75354,11 +75397,13 @@ msgstr ""
 "für kleinere Hände geeignet ist, aber das Ergebnis wird einen guten Preis "
 "bringen."
 
+#, fuzzy
 msgid "finished_text_quest_23085"
 msgstr ""
 "Sie haben 20 Goblin Angrysticks gesammelt.  Bringen Sie sie zu Ilrak dem "
 "Arkanisten, damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_23085"
 msgstr "Ich fertigte 20 Goblin Angrysticks und brachte sie nach Ilrak."
 
@@ -75428,11 +75473,13 @@ msgstr ""
 "Die Auslosung ist glatt und die Gliedmaßen sind wahr.  Akzeptable Arbeit - "
 "besser als ich es von Ihnen erwartet habe."
 
+#, fuzzy
 msgid "finished_text_quest_23089"
 msgstr ""
 "Sie haben 20 Flatbows gesammelt.  Bringen Sie sie zu Raenthar den Kämpfer, "
 "damit er sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_23089"
 msgstr "Ich fertigte 20 Flatbows und brachte sie zu Raenthar zur Inspektion."
 
@@ -77300,29 +77347,41 @@ msgstr ""
 "Ich fertigte 25 Trollstaves, um Murdak zu helfen, ihren Vorrat für die "
 "Kriegsband zu füllen."
 
+#, fuzzy
 msgid "name_quest_12034"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_12034"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_12034"
 msgstr ""
-"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, wirst du die Fähigkeit zu Größeren Zaubersprüchen erlangen.\r\n"
-"  \r"
-"Einer der frühesten und auch nützlichsten Zauber in dieser Schule heißt Rend.  Dieser Zauber feuert einen sich schnell bewegenden Riegel auf deine Feinde, der sie im Laufe der Zeit bluten lässt, und macht sie auch anfälliger für Piercing-Angriffe wie Pfeile und Polearms.Zeigen Sie mir, dass Sie diesen Zauber gemeistert haben, indem Sie ihn gegen Ihre Feinde verwenden, und Sie können zur nächsten Stufe des Magiertrainings übergehen.\r\n"
-"  \r"
-"Verwende Rend 20 Mal gegen Monster."
+"Sobald du in der Schule der Kleinen Magie weit genug fortgeschritten bist, "
+"wirst du die Fähigkeit zu Größeren Zaubersprüchen erlangen.\r\n"
+"  \rEiner der frühesten und auch nützlichsten Zauber in dieser Schule heißt "
+"Rend.  Dieser Zauber feuert einen sich schnell bewegenden Riegel auf deine "
+"Feinde, der sie im Laufe der Zeit bluten lässt, und macht sie auch "
+"anfälliger für Piercing-Angriffe wie Pfeile und Polearms.Zeigen Sie mir, "
+"dass Sie diesen Zauber gemeistert haben, indem Sie ihn gegen Ihre Feinde "
+"verwenden, und Sie können zur nächsten Stufe des Magiertrainings "
+"übergehen.\r\n"
+"  \rVerwende Rend 20 Mal gegen Monster."
 
+#, fuzzy
 msgid "name_quest_24046"
 msgstr "Mehr Magie: Rend"
 
+#, fuzzy
 msgid "short_desc_quest_24046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "start_text_quest_24046"
 msgstr "Rend 20 Mal gegen Monster einsetzen"
 
+#, fuzzy
 msgid "end_text_quest_24046"
 msgstr ""
 "Wie ist es also gelaufen?  Ich hoffe, Sie haben die umwerfende "
@@ -77331,11 +77390,13 @@ msgstr ""
 "Widerstandsfähigkeit Ihrer Ziele ist eine der wichtigsten Rollen der Magie "
 "in unserer Welt."
 
+#, fuzzy
 msgid "finished_text_quest_24046"
 msgstr ""
 "Ihr habt den Rend-Zauber 20 Mal im Kampf benutzt.  Gehe zu Skullgor der "
 "Magier für deine Belohnung."
 
+#, fuzzy
 msgid "diary_text_quest_24046"
 msgstr ""
 "Ich habe mein Verständnis von Größerer Magie erweitert, indem ich mehrmals "
@@ -78371,6 +78432,7 @@ msgstr ""
 "  \r"
 "Verwenden Sie Eldritch Sphere 20 Mal gegen Monster."
 
+#, fuzzy
 msgid "name_quest_24072"
 msgstr "Größere Magie: eldritch sphere"
 
@@ -78643,11 +78705,13 @@ msgstr ""
 "Lassen Sie mich ihnen ein oder zwei Wirbel geben, um die Färbung zu "
 "betrachten ...  Nicht schlecht.  Ich werde diese für Sie einpacken."
 
+#, fuzzy
 msgid "finished_text_quest_24083"
 msgstr ""
 "Sie haben 25 Kleinheiltränke gesammelt.  Bringen Sie sie zu Murdak der "
 "Arkanistin, damit sie sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_24083"
 msgstr ""
 "Ich fertigte 25 Kleinheiltränke und brachte sie zur Inspektion nach Murdak."
@@ -78680,11 +78744,13 @@ msgstr ""
 "Gute Arbeit.  Die Zähne zu ziehen ist immer ein hässliches Geschäft, aber "
 "das Endergebnis wird einen guten Preis bringen."
 
+#, fuzzy
 msgid "finished_text_quest_24085"
 msgstr ""
 "Sie haben 20 Goblin Angrysticks gesammelt.  Bringen Sie sie zu Murdak der "
 "Arkanistin, damit sie sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_24085"
 msgstr "Ich fertigte 20 Goblin Angrysticks und brachte sie zu Murdak."
 
@@ -78754,11 +78820,13 @@ msgstr ""
 "Ein starkes Draw und ein sauberes Release.  Diese werden gute Dienste "
 "leisten.  Gute Arbeit."
 
+#, fuzzy
 msgid "finished_text_quest_24089"
 msgstr ""
 "Sie haben 20 Flatbows gesammelt.  Bringen Sie sie zu Biggor the Fighter, "
 "damit sie sie inspizieren und verpacken kann."
 
+#, fuzzy
 msgid "diary_text_quest_24089"
 msgstr "Ich fertigte 20 Flatbows und brachte sie zu Biggor zur Inspektion."
 
