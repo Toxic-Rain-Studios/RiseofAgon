@@ -10889,6 +10889,12 @@ msgstr "Annotation Markers"
 msgid "map_marker_anvil"
 msgstr "Anvil"
 
+msgid "map_marker_ashaka_altar"
+msgstr "Altar of Ashaka"
+
+msgid "map_marker_auros_altar"
+msgstr "Altar of Auros"
+
 msgid "map_marker_bank"
 msgstr "Bank"
 
@@ -10980,6 +10986,9 @@ msgstr "Key Chests"
 msgid "map_marker_laboratory"
 msgstr "Laboratory"
 
+msgid "map_marker_lorathai_altar"
+msgstr "Altar of Lorathai"
+
 # In-game mail: the mailboxes on the maps (r_Marker Mailbox), and the login line with its counts (2026-11-15).
 msgid "map_marker_mailbox"
 msgstr "Mailbox"
@@ -10990,6 +10999,9 @@ msgstr "Twilight Altar"
 # Map: markets and chaos altars on the minimap (r_Marker Market, r_Marker Altar), minimap-only like the mailboxes (2026-11-15).
 msgid "map_marker_market"
 msgstr "Market"
+
+msgid "map_marker_melek_altar"
+msgstr "Altar of Melek"
 
 msgid "map_marker_misc"
 msgstr "Misc."
@@ -11082,6 +11094,9 @@ msgstr "Very Hard"
 msgid "map_marker_traderoute_markers"
 msgstr "Traderoute Markers"
 
+msgid "map_marker_valdazeer_altar"
+msgstr "Altar of Valdazeer"
+
 msgid "map_marker_vendor"
 msgstr "Vendor Markers"
 
@@ -11135,6 +11150,9 @@ msgstr "Chaos/Wilderness Banks"
 
 msgid "map_marker_workbench"
 msgstr "Workbench"
+
+msgid "map_marker_ymir_altar"
+msgstr "Altar of Ymir"
 
 msgid "map_monster_location_slider"
 msgstr "Monster Location Range"
