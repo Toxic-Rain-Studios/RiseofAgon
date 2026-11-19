@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-12 23:26+0000\n"
+"PO-Revision-Date: 2026-11-19 17:14+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "ru/>\n"
@@ -1301,9 +1301,11 @@ msgstr ""
 msgid "options_video_vegetation_area_size"
 msgstr "Площадь растительности: %1"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip_perf"
 msgstr "Производительность: основные - более низкие значения стоят дороже"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
 "Радиус, по которому разбросана трава. Это работает вместе с плотностью "
@@ -4015,6 +4017,7 @@ msgstr "Босс"
 msgid "map_marker_spawn_champion"
 msgstr "Чемпион"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "Подземелье"
 
@@ -4024,6 +4027,7 @@ msgstr "Квест-маркер"
 msgid "map_marker_portals"
 msgstr "Порталы"
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "Подземелья"
 
