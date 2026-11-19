@@ -20345,6 +20345,1216 @@ msgstr ""
 "Out of fuel and grounded. Load cargo crates (any material) into the "
 "balloon's hold to refuel it (2 minutes each)."
 
+#. War Council: {office}
+msgid "war_council_acting"
+msgstr "Acting for the Leader: {office}"
+
+#. War Council: {t}
+msgid "war_council_ago"
+msgstr "{t} ago"
+
+#. War Council: {net}, {income}, {settled}, {reserve}, {reservePct}
+msgid "war_council_bal"
+msgstr ""
+"Net {net} FP (income {income} - settled {settled}); reserve {reserve} FP "
+"({reservePct} %)."
+
+#. War Council: {held}, {active}, {max}, {available}, {cap}, {capPct}
+msgid "war_council_bal_held"
+msgstr ""
+"Held {held} FP in {active} of {max} campaigns; available {available} FP; "
+"next campaign up to {cap} FP ({capPct} %)."
+
+msgid "war_council_board_active_bonus"
+msgstr "Campaign bonus guaranteed: up to +%1 FP"
+
+msgid "war_council_board_active_none"
+msgstr "No campaign bonus for this contract"
+
+msgid "war_council_board_escort_pool"
+msgstr "+%1 FP campaign pool"
+
+msgid "war_council_board_hours"
+msgstr "%1 h"
+
+msgid "war_council_board_minutes"
+msgstr "%1 min"
+
+msgid "war_council_board_offer"
+msgstr "Campaign +%1 FP (%2, %3 left)"
+
+msgid "war_council_board_offer_short"
+msgstr "+%1 FP campaign"
+
+msgid "war_council_board_raid_held"
+msgstr "+%1 FP bonus guaranteed"
+
+msgid "war_council_board_raid_offer"
+msgstr "+%1 FP campaign bonus"
+
+msgid "war_council_board_raid_short"
+msgstr "+%1 FP"
+
+msgid "war_council_board_raider_pool"
+msgstr "Campaign raider pool held for your faction: +%1 FP"
+
+msgid "war_council_bonus_paid"
+msgstr "Campaign bonus: +%1 FP of spendable credit (%2)."
+
+msgid "war_council_booth_marker_option"
+msgstr "Voting Booths"
+
+msgid "war_council_booth_marker_title"
+msgstr "Voting Booth"
+
+msgid "war_council_booth_marker_tooltip"
+msgstr ""
+"Shows each capital's Voting Booth, where the faction's elections are held."
+
+msgid "war_council_booth_other"
+msgstr "This is the {faction}'s voting booth."
+
+msgid "war_council_booth_rogue"
+msgstr "Rogues have no voice in the vote."
+
+msgid "war_council_btn_approve"
+msgstr "Approve"
+
+msgid "war_council_btn_changes"
+msgstr "Changes"
+
+msgid "war_council_btn_decline"
+msgstr "Decline"
+
+msgid "war_council_btn_defer"
+msgstr "Defer"
+
+msgid "war_council_btn_designate"
+msgstr "Make acting"
+
+msgid "war_council_btn_new_nomination"
+msgstr "+ Nominate"
+
+msgid "war_council_btn_new_proposal"
+msgstr "+ New proposal"
+
+msgid "war_council_btn_no"
+msgstr "No"
+
+msgid "war_council_btn_nominate"
+msgstr "Nominate"
+
+msgid "war_council_btn_petition"
+msgstr "Petition"
+
+msgid "war_council_btn_propcancel"
+msgstr "Propose cancel"
+
+msgid "war_council_btn_propose"
+msgstr "Propose"
+
+msgid "war_council_btn_reject"
+msgstr "Reject"
+
+msgid "war_council_btn_resign"
+msgstr "Resign"
+
+msgid "war_council_btn_revise"
+msgstr "Revise"
+
+msgid "war_council_btn_stand"
+msgstr "Stand"
+
+msgid "war_council_btn_support"
+msgstr "Support"
+
+msgid "war_council_btn_unsupport"
+msgstr "Unsupport"
+
+msgid "war_council_btn_vote"
+msgstr "Vote"
+
+msgid "war_council_btn_withdraw"
+msgstr "Withdraw"
+
+msgid "war_council_btn_yes"
+msgstr "Yes"
+
+msgid "war_council_budget"
+msgstr "FP:"
+
+#. War Council: {cycle}, {phase}, {end}
+msgid "war_council_cal"
+msgstr "Cycle {cycle}: {phase}, ends {end}."
+
+#. War Council: {end}
+msgid "war_council_cal_not_started"
+msgstr "The faction government starts {end}."
+
+#. War Council: {id}, {stage}, {type}, {tile}, {hours}, {held}, {t}
+msgid "war_council_camp"
+msgstr "{id} ({stage}): {type} {tile} for {hours} h - {held} FP held, ends {t}"
+
+#. War Council: {id}, {ended}, {released}, {reason}
+msgid "war_council_camp_closed"
+msgstr "{id} closed ({ended}): {released} FP released - {reason}"
+
+#. War Council: {id}, {stage}, {type}, {tile}, {target}, {hours}, {held}, {t}
+msgid "war_council_camp_def"
+msgstr ""
+"{id} ({stage}): {type} {tile} to Stability {target} for {hours} h - {held} "
+"FP held, ends {t}"
+
+#. War Council: {n}, {fp}, {spent}
+msgid "war_council_camp_guarantees"
+msgstr "{n} guarantees reserving {fp} FP; {spent} FP paid in bonuses"
+
+#. War Council: {text}
+msgid "war_council_camp_objective"
+msgstr "Objective: {text}"
+
+#. War Council: {spent}
+msgid "war_council_camp_paid"
+msgstr "{spent} FP paid in bonuses"
+
+#. War Council: {office}, {name}
+msgid "war_council_cand"
+msgstr "{office} candidate: {name}"
+
+msgid "war_council_command_help"
+msgstr "Open your faction's War Council window"
+
+#. War Council: {action}
+msgid "war_council_confirm"
+msgstr "Click {action} again to confirm."
+
+msgid "war_council_dec_APPROVE"
+msgstr "approved by"
+
+msgid "war_council_dec_CANCELLED"
+msgstr "cancelled"
+
+msgid "war_council_dec_CHANGES"
+msgstr "changes asked by"
+
+msgid "war_council_dec_EXPIRED"
+msgstr "expired"
+
+msgid "war_council_dec_FAILED"
+msgstr "failed"
+
+msgid "war_council_dec_FUNDED"
+msgstr "funded"
+
+msgid "war_council_dec_NEEDS_TIER"
+msgstr "needs more approvals"
+
+msgid "war_council_dec_OVERDUE"
+msgstr "overdue, accountable:"
+
+msgid "war_council_dec_REJECT"
+msgstr "rejected by"
+
+msgid "war_council_dec_REVISE"
+msgstr "revised by"
+
+msgid "war_council_dec_SENT"
+msgstr "sent to the War Chest"
+
+msgid "war_council_dec_SUBMIT"
+msgstr "submitted by"
+
+#. War Council: {n}
+msgid "war_council_electorate"
+msgstr "{n} eligible voters."
+
+msgid "war_council_end_CANCELLED"
+msgstr "cancelled"
+
+msgid "war_council_end_COMPLETED"
+msgstr "completed"
+
+msgid "war_council_end_EXPIRED"
+msgstr "expired"
+
+msgid "war_council_end_LOST"
+msgstr "lost"
+
+msgid "war_council_end_NONE"
+msgstr "ended"
+
+msgid "war_council_f_acting"
+msgstr "Acting"
+
+msgid "war_council_f_approvals"
+msgstr "Approved by"
+
+msgid "war_council_f_available"
+msgstr "Available"
+
+msgid "war_council_f_ballots"
+msgstr "Ballots"
+
+msgid "war_council_f_bonuses"
+msgstr "Bonuses"
+
+msgid "war_council_f_budget"
+msgstr "Budget"
+
+msgid "war_council_f_calendar"
+msgstr "Calendar"
+
+msgid "war_council_f_campaign"
+msgstr "Campaign"
+
+msgid "war_council_f_cap"
+msgstr "Next campaign up to"
+
+msgid "war_council_f_clan"
+msgstr "Clan"
+
+msgid "war_council_f_due"
+msgstr "Answer due"
+
+msgid "war_council_f_electorate"
+msgstr "Voters"
+
+msgid "war_council_f_fp"
+msgstr "Budget (FP)"
+
+msgid "war_council_f_funded_by"
+msgstr "Funded by"
+
+msgid "war_council_f_guarantees"
+msgstr "Open guarantees"
+
+msgid "war_council_f_held"
+msgstr "Held now"
+
+msgid "war_council_f_holder"
+msgstr "Holder"
+
+msgid "war_council_f_hours"
+msgstr "Duration"
+
+msgid "war_council_f_income_rule"
+msgstr "Income"
+
+msgid "war_council_f_last_result"
+msgstr "Last election"
+
+msgid "war_council_f_mandate"
+msgstr "Mandate"
+
+msgid "war_council_f_net"
+msgstr "Net"
+
+msgid "war_council_f_nominations"
+msgstr "Nominations close"
+
+msgid "war_council_f_objective"
+msgstr "Objective"
+
+msgid "war_council_f_office"
+msgstr "Office"
+
+msgid "war_council_f_outcome"
+msgstr "Outcome"
+
+msgid "war_council_f_petition_ends"
+msgstr "Petition ends"
+
+msgid "war_council_f_phase"
+msgstr "Phase"
+
+msgid "war_council_f_proposed_by"
+msgstr "Proposed by"
+
+msgid "war_council_f_reason"
+msgstr "Reason"
+
+msgid "war_council_f_recall"
+msgstr "Recall"
+
+msgid "war_council_f_released"
+msgstr "Released"
+
+msgid "war_council_f_reserve"
+msgstr "Reserve"
+
+msgid "war_council_f_running"
+msgstr "Campaigns running"
+
+msgid "war_council_f_signatures"
+msgstr "Signatures"
+
+msgid "war_council_f_special"
+msgstr "Special election"
+
+msgid "war_council_f_stability"
+msgstr "Stability target"
+
+msgid "war_council_f_suggested_by"
+msgstr "Suggested by"
+
+msgid "war_council_f_support"
+msgstr "Support"
+
+msgid "war_council_f_target"
+msgstr "Target"
+
+msgid "war_council_f_term"
+msgstr "Term"
+
+msgid "war_council_f_tier"
+msgstr "Approval"
+
+msgid "war_council_f_tile"
+msgstr "Tile"
+
+msgid "war_council_f_type"
+msgstr "Type"
+
+msgid "war_council_f_urgency"
+msgstr "Urgency"
+
+msgid "war_council_f_voting"
+msgstr "Voting ends"
+
+msgid "war_council_f_you"
+msgstr "You"
+
+msgid "war_council_grp_active"
+msgstr "Active"
+
+msgid "war_council_grp_answered"
+msgstr "Answered"
+
+msgid "war_council_grp_closed"
+msgstr "Closed"
+
+msgid "war_council_grp_closed_campaigns"
+msgstr "Closed campaigns"
+
+msgid "war_council_grp_closing"
+msgstr "Closing"
+
+msgid "war_council_grp_council"
+msgstr "The council"
+
+msgid "war_council_grp_elections"
+msgstr "Elections"
+
+msgid "war_council_grp_ended"
+msgstr "Ended"
+
+msgid "war_council_grp_funded"
+msgstr "Funded"
+
+msgid "war_council_grp_open"
+msgstr "Open"
+
+msgid "war_council_grp_review"
+msgstr "In review"
+
+msgid "war_council_grp_waiting"
+msgstr "Waiting"
+
+#. War Council: {n}, {fp}
+msgid "war_council_guar"
+msgstr "{n} open guarantees reserving {fp} FP."
+
+msgid "war_council_head_closed"
+msgstr "Closed campaigns"
+
+msgid "war_council_head_council"
+msgstr "The Council"
+
+msgid "war_council_head_election"
+msgstr "Election"
+
+msgid "war_council_head_results"
+msgstr "Last election"
+
+#. War Council: {h}, {m}
+msgid "war_council_hm"
+msgstr "{h} h {m} m"
+
+#. War Council: {t}
+msgid "war_council_in"
+msgstr "in {t}"
+
+#. War Council: {income}, {since}, {pct}, {delta}, {spf}
+msgid "war_council_inc"
+msgstr ""
+"Income {income} FP since {since}: {pct} % of the faction's war score gained "
+"({delta} score, {spf} score per FP)."
+
+msgid "war_council_inc_off"
+msgstr ""
+"The War Chest is not active yet: it starts with the faction's next war score "
+"reading."
+
+#. War Council: {used}, {max}
+msgid "war_council_lim"
+msgstr "You support {used} of {max} suggestions."
+
+#. War Council: {t}
+msgid "war_council_lim_cooldown"
+msgstr "You may nominate again {t}."
+
+#. War Council: {id}
+msgid "war_council_lim_open"
+msgstr "Your open nomination: {id}."
+
+msgid "war_council_lim_ready"
+msgstr "You may nominate a campaign."
+
+msgid "war_council_loading"
+msgstr "Asking the War Council..."
+
+#. War Council: {when}, {what}, {who}, {reason}
+msgid "war_council_log"
+msgstr "{when}: {what} {who} {reason}"
+
+msgid "war_council_log_APPROVED"
+msgstr "approved by"
+
+msgid "war_council_log_DECLINED"
+msgstr "declined by"
+
+msgid "war_council_log_DEFERRED"
+msgstr "deferred by"
+
+msgid "war_council_log_EXPIRED"
+msgstr "expired"
+
+msgid "war_council_log_NOMINATED"
+msgstr "nominated"
+
+msgid "war_council_log_OVERDUE"
+msgstr "overdue, accountable:"
+
+msgid "war_council_log_REVIEW"
+msgstr "went to Council review"
+
+msgid "war_council_log_WITHDRAWN"
+msgstr "withdrawn"
+
+msgid "war_council_mandate_CHANCELLOR"
+msgstr "Election procedure, records and communications"
+
+msgid "war_council_mandate_LEADER"
+msgstr "Strategy and spending approvals"
+
+msgid "war_council_mandate_QUARTERMASTER"
+msgstr "Budget oversight and logistics"
+
+msgid "war_council_mandate_SPYMASTER"
+msgstr "Reconnaissance and intelligence"
+
+msgid "war_council_mandate_WAR_MARSHAL"
+msgstr "Campaign proposals; acts first when the Leader is away"
+
+msgid "war_council_map_announce"
+msgstr "[War Council] %1 %2: %3 at %4 - %5"
+
+msgid "war_council_map_btn_mark"
+msgstr "Mark map"
+
+msgid "war_council_map_btn_place"
+msgstr "Place"
+
+msgid "war_council_map_btn_plan"
+msgstr "Plan campaign"
+
+msgid "war_council_map_btn_remove"
+msgstr "Remove"
+
+msgid "war_council_map_btn_suggest"
+msgstr "Suggest"
+
+msgid "war_council_map_f_hub"
+msgstr "Hub"
+
+msgid "war_council_map_f_owner"
+msgstr "Held by"
+
+msgid "war_council_map_f_stability"
+msgstr "Stability"
+
+msgid "war_council_map_f_supply"
+msgstr "Supply"
+
+msgid "war_council_map_form_hint"
+msgstr ""
+"Markers are shared with the whole faction for 48 hours. Orders and Rally "
+"points are announced to everyone online."
+
+msgid "war_council_map_form_mark"
+msgstr "Mark {tile}"
+
+msgid "war_council_map_hub_1"
+msgstr "Regional hub"
+
+msgid "war_council_map_hub_2"
+msgstr "Frontier hub"
+
+msgid "war_council_map_hub_3"
+msgstr "Remote hub"
+
+msgid "war_council_map_hubstatus_0"
+msgstr "no status"
+
+msgid "war_council_map_hubstatus_1"
+msgstr "connected"
+
+msgid "war_council_map_hubstatus_2"
+msgstr "cut off"
+
+msgid "war_council_map_hubstatus_3"
+msgstr "disrupted"
+
+msgid "war_council_map_layer_camp"
+msgstr "Campaigns"
+
+msgid "war_council_map_layer_hub"
+msgstr "Hubs"
+
+msgid "war_council_map_layer_order"
+msgstr "Orders"
+
+msgid "war_council_map_layer_sugg"
+msgstr "Suggestions"
+
+msgid "war_council_map_note"
+msgstr "Note:"
+
+msgid "war_council_map_pin_marker"
+msgstr "{type}: {note}"
+
+msgid "war_council_map_pin_suggested"
+msgstr "suggested by {name}, supporters: {n}"
+
+msgid "war_council_map_pin_who"
+msgstr "{office} {name}, {t}"
+
+msgid "war_council_map_region"
+msgstr " (territory of {glyph})"
+
+msgid "war_council_map_story_capital"
+msgstr "{name}, seat of the {faction}."
+
+msgid "war_council_map_story_enemy"
+msgstr ""
+"The {faction} raised their glyph here. Wear its Stability down and it can be "
+"declared on."
+
+msgid "war_council_map_story_enemy_vulnerable"
+msgstr "Their glyph is weak. It can be declared on."
+
+msgid "war_council_map_story_hub_disrupted"
+msgstr ""
+"Our {hub} is starved of supply. A Logistics campaign can bring it back."
+
+msgid "war_council_map_story_hub_isolated"
+msgstr ""
+"Our {hub} has lost its road home. Retake the road before it can be saved."
+
+msgid "war_council_map_story_none"
+msgstr "No banner flies here."
+
+msgid "war_council_map_story_own"
+msgstr "Our glyph. Keep its Stability high and the land stays ours."
+
+msgid "war_council_map_tag_capital"
+msgstr "{faction} capital"
+
+msgid "war_council_map_tag_enemy"
+msgstr "Held by the {faction}"
+
+msgid "war_council_map_tag_none"
+msgstr "No glyph held"
+
+msgid "war_council_map_tag_own"
+msgstr "Held by your faction"
+
+msgid "war_council_map_tag_unclaimed"
+msgstr "Unclaimed"
+
+msgid "war_council_map_toolbar_markers"
+msgstr "Markers {n} of {max}"
+
+msgid "war_council_map_toolbar_member"
+msgstr "Pick a tile to read its story."
+
+msgid "war_council_map_type_DANGER"
+msgstr "Danger"
+
+msgid "war_council_map_type_ORDER"
+msgstr "Order"
+
+msgid "war_council_map_type_PLAN"
+msgstr "Plan"
+
+msgid "war_council_map_type_RALLY"
+msgstr "Rally point"
+
+msgid "war_council_map_v_hub"
+msgstr "{kind}, {status}"
+
+msgid "war_council_map_v_vulnerable"
+msgstr "{n}, vulnerable"
+
+msgid "war_council_marker_option"
+msgstr "War Tables"
+
+msgid "war_council_marker_title"
+msgstr "War Table"
+
+msgid "war_council_marker_tooltip"
+msgstr ""
+"Shows each capital's War Table, where the faction's council plans its "
+"campaigns: in Shoal's keep hall, and before the keep doors of Sanguine and "
+"Flaming Skull."
+
+#. War Council: {m}
+msgid "war_council_min"
+msgstr "{m} m"
+
+#. War Council: {n}
+msgid "war_council_more"
+msgstr "{n} more not shown."
+
+msgid "war_council_need_form"
+msgstr ""
+"Fill in the Propose form (type, tile, hours, FP; a Stability target for "
+"Defensive) first."
+
+msgid "war_council_need_reason"
+msgstr "Type a reason in the Reason box first."
+
+msgid "war_council_no_seat"
+msgstr "Only seated officers propose and approve campaigns."
+
+msgid "war_council_noledger"
+msgstr "No answer from the War Chest ledger yet."
+
+#. War Council: {id}, {stage}, {type}, {tile}, {urgency}, {name}, {support}
+msgid "war_council_nom"
+msgstr ""
+"{id} ({stage}): {type} {tile}, urgency {urgency}, by {name} - {support} "
+"supporters"
+
+#. War Council: {t}
+msgid "war_council_nom_closes"
+msgstr "closes {t}"
+
+#. War Council: {t}
+msgid "war_council_nom_due"
+msgstr "Council answer due {t}"
+
+#. War Council: {t}
+msgid "war_council_nom_overdue"
+msgstr "OVERDUE for {t}"
+
+#. War Council: {reason}
+msgid "war_council_nom_reason"
+msgstr "Reason: {reason}"
+
+msgid "war_council_nominate_head"
+msgstr ""
+"Nominate a campaign: choose a type, a tile and an urgency, write the reason "
+"below, then Nominate."
+
+msgid "war_council_none"
+msgstr "Nothing here yet."
+
+msgid "war_council_now"
+msgstr "now"
+
+#. War Council: {office}, {name}
+msgid "war_council_off"
+msgstr "{office}: {name}"
+
+#. War Council: {office}
+msgid "war_council_off_vacant"
+msgstr "{office}: vacant"
+
+msgid "war_council_office_CHANCELLOR"
+msgstr "Chancellor"
+
+msgid "war_council_office_LEADER"
+msgstr "Leader"
+
+msgid "war_council_office_QUARTERMASTER"
+msgstr "Quartermaster"
+
+msgid "war_council_office_SPYMASTER"
+msgstr "Spymaster"
+
+msgid "war_council_office_WAR_MARSHAL"
+msgstr "War Marshal"
+
+msgid "war_council_pending"
+msgstr "Waiting for the War Council's answer..."
+
+msgid "war_council_phase_NOMINATION"
+msgstr "candidate nominations"
+
+msgid "war_council_phase_TERM"
+msgstr "term of office"
+
+msgid "war_council_phase_VOTING"
+msgstr "voting"
+
+#. War Council: {when}, {what}, {who}, {reason}
+msgid "war_council_plog"
+msgstr "{when}: {what} {who} {reason}"
+
+#. War Council: {office}, {name}
+msgid "war_council_prop_approved_by"
+msgstr "Approved by {office} {name}"
+
+#. War Council: {name}, {office}, {approvals}, {tier}
+msgid "war_council_prop_by"
+msgstr ""
+"Proposed by {name} ({office}); {approvals} approvals, tier {tier} needed"
+
+#. War Council: {id}, {version}, {stage}, {campaign}, {reason}
+msgid "war_council_prop_cancel"
+msgstr "{id} v{version} ({stage}): cancel {campaign} - {reason}"
+
+#. War Council: {id}, {version}, {stage}, {type}, {tile}, {hours}, {budget}
+msgid "war_council_prop_fund"
+msgstr ""
+"{id} v{version} ({stage}): fund {type} {tile} for {hours} h, {budget} FP"
+
+#. War Council: {id}, {version}, {stage}, {type}, {tile}, {hours}, {budget}, {target}
+msgid "war_council_prop_fund_def"
+msgstr ""
+"{id} v{version} ({stage}): fund {type} {tile} for {hours} h, {budget} FP, "
+"Stability target {target}"
+
+#. War Council: {outcome}
+msgid "war_council_prop_outcome"
+msgstr "Outcome: {outcome}"
+
+msgid "war_council_propose_head"
+msgstr ""
+"Propose a campaign: type, tile, duration, budget (FP) and, for Defensive, "
+"the Stability target."
+
+msgid "war_council_reason"
+msgstr "Reason:"
+
+#. War Council: {target}, {office}, {stage}, {signatures}, {ballots}, {eligible}
+msgid "war_council_rec"
+msgstr ""
+"Recall of {target} ({office}): {stage} - {signatures} signatures, {ballots} "
+"ballots, {eligible} eligible."
+
+#. War Council: {name}, {office}
+msgid "war_council_recall_offer"
+msgstr "Recall {name} ({office})"
+
+msgid "war_council_refresh"
+msgstr "Refresh"
+
+#. War Council: {office}, {name}, {votes}
+msgid "war_council_res"
+msgstr "{office}: {name} - {votes} votes"
+
+#. War Council: {office}, {name}, {votes}
+msgid "war_council_res_runoff"
+msgstr "{office} runoff: {name} - {votes} votes"
+
+#. War Council: {office}, {name}, {end}
+msgid "war_council_runoff_cand"
+msgstr "{office} runoff: {name} (ends {end})"
+
+#. War Council: {office}, {name}
+msgid "war_council_scand"
+msgstr "{office} candidate: {name}"
+
+#. War Council: {office}, {name}, {votes}
+msgid "war_council_scand_votes"
+msgstr "{office} candidate: {name} - {votes} votes"
+
+#. War Council: {office}
+msgid "war_council_seat"
+msgstr "You hold the {office} seat."
+
+#. War Council: {office}, {reason}, {stage}, {nomEnd}, {voteEnd}
+msgid "war_council_spec"
+msgstr ""
+"Special election for {office} ({reason}): {stage} - nominations end "
+"{nomEnd}, voting ends {voteEnd}."
+
+#. War Council: {office}, {reason}
+msgid "war_council_spec_closed"
+msgstr "Special election for {office} ({reason}): closed."
+
+msgid "war_council_stage_ACTIVE"
+msgstr "active"
+
+msgid "war_council_stage_APPROVED"
+msgstr "approved"
+
+msgid "war_council_stage_CANCELLED"
+msgstr "cancelled"
+
+msgid "war_council_stage_CHANGES_REQUESTED"
+msgstr "changes requested"
+
+msgid "war_council_stage_CLOSED"
+msgstr "closed"
+
+msgid "war_council_stage_CLOSED_SETTLING"
+msgstr "closing (guarantees settling)"
+
+msgid "war_council_stage_DECLINED"
+msgstr "declined"
+
+msgid "war_council_stage_DEFERRED"
+msgstr "deferred"
+
+msgid "war_council_stage_EXPIRED"
+msgstr "expired"
+
+msgid "war_council_stage_FAILED"
+msgstr "failed"
+
+msgid "war_council_stage_FUNDED"
+msgstr "funded"
+
+msgid "war_council_stage_NOMINATION"
+msgstr "nominations"
+
+msgid "war_council_stage_OPEN"
+msgstr "open"
+
+msgid "war_council_stage_PASSED"
+msgstr "passed"
+
+msgid "war_council_stage_PETITION"
+msgstr "petition"
+
+msgid "war_council_stage_REJECTED"
+msgstr "rejected"
+
+msgid "war_council_stage_REVIEW"
+msgstr "in Council review"
+
+msgid "war_council_stage_SENT"
+msgstr "sent to the War Chest"
+
+msgid "war_council_stage_VOTING"
+msgstr "voting"
+
+msgid "war_council_stage_WITHDRAWN"
+msgstr "withdrawn"
+
+#. War Council: {office}
+msgid "war_council_stand_for"
+msgstr "Stand for {office}"
+
+#. War Council: {office}
+msgid "war_council_standing"
+msgstr "You stand for {office}."
+
+msgid "war_council_tab_campaigns"
+msgstr "Campaigns"
+
+msgid "war_council_tab_chest"
+msgstr "War Chest"
+
+msgid "war_council_tab_government"
+msgstr "Government"
+
+msgid "war_council_tab_map"
+msgstr "War Map"
+
+msgid "war_council_tab_proposals"
+msgstr "Proposals"
+
+msgid "war_council_tab_suggestions"
+msgstr "Suggestions"
+
+msgid "war_council_table_other"
+msgstr "This is the {faction}'s war table."
+
+msgid "war_council_table_rogue"
+msgstr "Rogues have no place at the war table."
+
+msgid "war_council_target"
+msgstr "Target:"
+
+msgid "war_council_tile"
+msgstr "Tile:"
+
+#. War Council window (M8b). {placeholders} are filled by the game; keep them as they are.
+msgid "war_council_title"
+msgstr "War Council"
+
+msgid "war_council_type_DEFENSIVE"
+msgstr "Defensive"
+
+msgid "war_council_type_LOGISTICS"
+msgstr "Logistics"
+
+msgid "war_council_type_OFFENSIVE"
+msgstr "Offensive"
+
+msgid "war_council_ui_balance"
+msgstr "Balance"
+
+msgid "war_council_ui_cancel"
+msgstr "Cancel"
+
+msgid "war_council_ui_election"
+msgstr "Election, cycle {cycle}"
+
+msgid "war_council_ui_ev_closed"
+msgstr "Closed {t}: {ended} {reason}"
+
+msgid "war_council_ui_ev_funded"
+msgstr "Funded {t}"
+
+msgid "war_council_ui_form_nominate"
+msgstr "Suggest a campaign"
+
+msgid "war_council_ui_form_propose"
+msgstr "New proposal"
+
+msgid "war_council_ui_form_revise"
+msgstr "Revise {id}"
+
+msgid "war_council_ui_history"
+msgstr "History"
+
+msgid "war_council_ui_leg_available"
+msgstr "Available"
+
+msgid "war_council_ui_leg_held"
+msgstr "Held by campaigns"
+
+msgid "war_council_ui_leg_reserve"
+msgstr "Reserve"
+
+msgid "war_council_ui_needs_approval"
+msgstr "needs your approval"
+
+msgid "war_council_ui_none_campaigns"
+msgstr "No campaigns yet."
+
+msgid "war_council_ui_none_government"
+msgstr "No council yet: the first election has not started."
+
+msgid "war_council_ui_none_proposals"
+msgstr "No proposals yet."
+
+msgid "war_council_ui_none_suggestions"
+msgstr "No suggestions yet."
+
+msgid "war_council_ui_pick"
+msgstr "Pick an item on the left."
+
+msgid "war_council_ui_readonly"
+msgstr "Read only: the War Chest is spent by approved proposals."
+
+msgid "war_council_ui_reason_count"
+msgstr "{n} / {max}"
+
+msgid "war_council_ui_rec_title"
+msgstr "Recall: {target}"
+
+msgid "war_council_ui_recall_running"
+msgstr ", recall running"
+
+msgid "war_council_ui_results"
+msgstr "Last election"
+
+msgid "war_council_ui_spec_title"
+msgstr "Special election: {office}"
+
+msgid "war_council_ui_special_running"
+msgstr ", special election running"
+
+msgid "war_council_ui_sub_approvals"
+msgstr "{n} approved"
+
+msgid "war_council_ui_sub_back"
+msgstr "{ended}, {fp} FP back"
+
+msgid "war_council_ui_sub_balance"
+msgstr "{net} FP, {available} FP available"
+
+msgid "war_council_ui_sub_closing"
+msgstr "{ended}, guarantees settling"
+
+msgid "war_council_ui_sub_due"
+msgstr "{stage}, due {t}"
+
+msgid "war_council_ui_sub_ends"
+msgstr "{stage}, ends {t}"
+
+msgid "war_council_ui_sub_fp"
+msgstr "{fp} FP, {status}"
+
+msgid "war_council_ui_sub_funded"
+msgstr "funded as {campaign}"
+
+msgid "war_council_ui_sub_rec"
+msgstr "{office}, {stage}"
+
+msgid "war_council_ui_sub_results"
+msgstr "{n} offices decided"
+
+msgid "war_council_ui_sub_support"
+msgstr "open, supporters: {n}"
+
+msgid "war_council_ui_tag_closes"
+msgstr "Open, closes {t}"
+
+msgid "war_council_ui_tag_closing"
+msgstr "Closing"
+
+msgid "war_council_ui_tag_funded"
+msgstr "Funded: {campaign}"
+
+msgid "war_council_ui_tag_held"
+msgstr "Held"
+
+msgid "war_council_ui_tag_needs_you"
+msgstr "Needs your approval"
+
+msgid "war_council_ui_tag_overdue"
+msgstr "Overdue"
+
+msgid "war_council_ui_tag_recall"
+msgstr "Recall running"
+
+msgid "war_council_ui_tag_special"
+msgstr "Special election"
+
+msgid "war_council_ui_tag_vacant"
+msgstr "Vacant"
+
+msgid "war_council_ui_tag_waiting"
+msgstr "Waiting"
+
+msgid "war_council_ui_title"
+msgstr "{id} - {type} {tile}"
+
+msgid "war_council_ui_title_cancel"
+msgstr "{id} - Cancel {campaign}"
+
+msgid "war_council_ui_vacant"
+msgstr "Vacant"
+
+msgid "war_council_ui_waiting"
+msgstr "waiting for the War Chest"
+
+msgid "war_council_ui_you_support"
+msgstr ", you support"
+
+msgid "war_council_ui_yours"
+msgstr ", yours"
+
+msgid "war_council_urgency_HIGH"
+msgstr "high"
+
+msgid "war_council_urgency_LOW"
+msgstr "low"
+
+msgid "war_council_urgency_NORMAL"
+msgstr "normal"
+
+msgid "war_council_v_approver"
+msgstr "{office} {name}"
+
+msgid "war_council_v_bonuses"
+msgstr "{n} open ({reserved} FP reserved), {paid} FP paid"
+
+msgid "war_council_v_budget"
+msgstr "{hours} h of bonuses, ends {t}"
+
+msgid "war_council_v_budget_closed"
+msgstr "{hours} h of bonuses"
+
+msgid "war_council_v_cap"
+msgstr "{fp} FP ({pct} % of available)"
+
+msgid "war_council_v_def_target"
+msgstr "{tile}, Stability target {n}"
+
+msgid "war_council_v_fp"
+msgstr "{fp} FP"
+
+msgid "war_council_v_funded_by"
+msgstr "Proposal {id}"
+
+msgid "war_council_v_guarantees"
+msgstr "{n} ({fp} FP reserved)"
+
+msgid "war_council_v_net"
+msgstr "{net} FP (income {income}, paid out {paid})"
+
+msgid "war_council_v_of"
+msgstr "{n} of {max}"
+
+msgid "war_council_v_pct"
+msgstr "{fp} FP ({pct} %)"
+
+msgid "war_council_v_prop_budget"
+msgstr "{fp} FP for {hours} h"
+
+msgid "war_council_v_proposed_by"
+msgstr "{name} ({office}), version {version}, {t}"
+
+msgid "war_council_v_recall_voted"
+msgstr "Voted"
+
+msgid "war_council_v_signed"
+msgstr "Signed the petition"
+
+msgid "war_council_v_slots"
+msgstr "{active} of {max} campaign slots in use"
+
+msgid "war_council_v_stability"
+msgstr "Stability {n}"
+
+msgid "war_council_v_standing"
+msgstr "Standing for {office}"
+
+msgid "war_council_v_support_meter"
+msgstr "{n} of {target} supporters for a Council review"
+
+msgid "war_council_v_support_rule"
+msgstr ""
+"A Council review is due once 10 % of the faction's voters (and at least 10) "
+"support it, or for the top three with 3 or more supporters when it closes."
+
+msgid "war_council_v_supporters"
+msgstr "{n}"
+
+msgid "war_council_v_term"
+msgstr "Until the next election"
+
+msgid "war_council_v_tier1"
+msgstr "Tier 1: the Leader signs alone"
+
+msgid "war_council_v_tier23"
+msgstr "Tier {tier}: the Leader and other officers, {n} approved so far"
+
+msgid "war_council_v_voted"
+msgstr "Voted for {offices}"
+
+#. War Council: {name}
+msgid "war_council_you"
+msgstr "{name} (you)"
+
 msgid "weapon_bar_auto_equip_config_add_filter_button"
 msgstr "Add filter"
 
