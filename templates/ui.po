@@ -7813,6 +7813,9 @@ msgstr "Show in combat mode too"
 msgid "hud_icon_show_in_gui_mode"
 msgstr "Show in GUI mode too"
 
+msgid "hud_icon_size"
+msgstr "Size"
+
 msgid "hud_member_of_clan_name"
 msgstr "Member of %1"
 
@@ -9573,6 +9576,15 @@ msgstr "What every character level gives you."
 msgid "level_rewards_title"
 msgstr "Level Rewards"
 
+msgid "loading_screen_dungeon"
+msgstr "%1 Dungeon"
+
+msgid "loading_screen_reconnecting"
+msgstr "Reconnecting"
+
+msgid "loading_screen_sewers"
+msgstr "%1 Sewers"
+
 msgid "loadout_addbag_no_empty_bag"
 msgstr "[Loadout] No empty bag found in bank."
 
@@ -10926,7 +10938,7 @@ msgid "map_marker_display_modes_none"
 msgstr "None"
 
 msgid "map_marker_dungeons"
-msgstr "Dungeons"
+msgstr "Dungeon Entrances"
 
 msgid "map_marker_enchantment_station"
 msgstr "Enchantment Station"
@@ -11050,7 +11062,7 @@ msgid "map_marker_spawn_champion"
 msgstr "Champion"
 
 msgid "map_marker_spawn_dungeon"
-msgstr "Dungeon"
+msgstr "Dungeon Spawns"
 
 msgid "map_marker_spawn_easy"
 msgstr "Easy"
@@ -15888,14 +15900,13 @@ msgstr "Vegetation Area Size: %1"
 
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
-"The radius that grass is scattered over. This works together with Vegetation "
-"Density: the number of plants is capped, so a SMALLER area packs that same "
-"number closer to you - thicker grass, and a heavier load because more of it "
-"fills the screen. A larger area spreads the plants thinner but draws them "
-"further into the distance."
+"The radius that grass is scattered over. Up to 200, the grass keeps the same "
+"thickness and a smaller area simply covers less ground around you, so it "
+"costs less. Above 200, the plants that Vegetation Density allows are spread "
+"over a wider area: thinner grass that reaches further into the distance."
 
 msgid "options_video_vegetation_area_size_tooltip_perf"
-msgstr "Performance: major - LOWER values cost more"
+msgstr "Performance: major - below 200, lower values cost less"
 
 msgid "options_video_vegetation_density"
 msgstr "Vegetation Density: %1"
@@ -16691,6 +16702,11 @@ msgstr "Armor Penalties"
 
 msgid "playerstats_base_attributes"
 msgstr "Base Attributes"
+
+msgid "playerstats_includes_bonus"
+msgstr ""
+"Includes bonuses from gear, buffs, titles and wonders. Gain messages in chat "
+"and attribute points use your base value."
 
 msgid "playerstats_penalty_from"
 msgstr "starts at %1"

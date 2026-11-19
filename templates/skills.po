@@ -464,7 +464,12 @@ msgid "desc_level_s_Sword Mastery"
 msgstr "Its level does not currently change its effect."
 
 msgid "desc_level_s_Telekinesis"
-msgstr "With every level it makes its effect a little stronger."
+msgstr ""
+"Leveling makes the column taller: it reaches 4 m high below level 20, 6 m "
+"from level 20, 9 m from 40, 12 m from 60 and 20 m at level 100. It also "
+"catches targets further from where you aim: within 1 m below level 20, 1.5 m "
+"from 20, 1.75 m from 60, 2 m from 80 and 2.2 m at 100. Its duration does not "
+"change with level."
 
 msgid "desc_level_s_Whirlwind Attack_Axe"
 msgstr ""

@@ -14069,6 +14069,12 @@ msgstr "^Cgold^%1^N^ is now %3 (+%2)"
 msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE_BOOSTED"
 msgstr "^Cgold^%1^N^ is now %3 (+%2, boosted +%4%)"
 
+msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE_BOOSTED_WITH_BONUS"
+msgstr "^Cgold^%1^N^ is now %3 (+%2, boosted +%4%); %5 with bonuses"
+
+msgid "NOTIFICATION_XP_GAIN_ATTRIBUTE_WITH_BONUS"
+msgstr "^Cgold^%1^N^ is now %3 (+%2); %4 with bonuses"
+
 msgid "NOTIFICATION_XP_GAIN_SKILL"
 msgstr "^Cacid^%1^N^ is now %3 (+%2)"
 
