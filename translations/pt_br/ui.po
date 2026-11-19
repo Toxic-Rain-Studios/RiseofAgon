@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-10-12 23:26+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/ui/pt_BR/>\n"
@@ -1305,9 +1305,11 @@ msgstr ""
 msgid "options_video_vegetation_area_size"
 msgstr "Tamanho da área de vegetação: %1"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip_perf"
 msgstr "Desempenho: maior - valores mais baixos custam mais"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
 "O raio em que a relva está espalhada. Isto funciona em conjunto com a "
@@ -4029,6 +4031,7 @@ msgstr "Chefe"
 msgid "map_marker_spawn_champion"
 msgstr "Campeão"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "Masmorra"
 
@@ -4038,6 +4041,7 @@ msgstr "Marcador de busca"
 msgid "map_marker_portals"
 msgstr "Portais"
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "Masmorras"
 

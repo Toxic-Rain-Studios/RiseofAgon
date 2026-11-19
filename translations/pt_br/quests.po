@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-17 12:06+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/quests/pt_BR/>\n"
@@ -42255,15 +42255,19 @@ msgstr ""
 "Eu crafted 25 Troll Staves para ajudar Alric encher seu estoque para a "
 "Milícia."
 
+#, fuzzy
 msgid "name_quest_20046"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_20046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_20046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "end_text_quest_20046"
 msgstr ""
 "Então, como correu?  Espero que tenha usado a vulnerabilidade, seguindo o "
@@ -42271,11 +42275,13 @@ msgstr ""
 "resistências aos alvos é um dos papéis mais importantes da magia em nosso "
 "mundo."
 
+#, fuzzy
 msgid "finished_text_quest_20046"
 msgstr ""
 "Já usou o feitiço Rend 20 vezes em combate.  Vai para Selensha o Mago pela "
 "sua recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_20046"
 msgstr ""
 "Avancei a minha compreensão da Magia Maior usando o feitiço Rend várias "
@@ -42857,6 +42863,7 @@ msgstr ""
 "Tive o meu primeiro feitiço com um efeito Knock-Up e usei-o eficazmente em "
 "combate."
 
+#, fuzzy
 msgid "name_quest_20072"
 msgstr "Magia maior: esfera de eldritch"
 
@@ -43380,11 +43387,13 @@ msgstr ""
 "Deixe-me dar-lhes um redemoinho ou dois para olhar para a coloração ... Nada"
 " mal!  Deixa-me embalar isto para ti."
 
+#, fuzzy
 msgid "finished_text_quest_20083"
 msgstr ""
-"Recolheu 25 Poções de Cura Menores.  Leva-os ao Alric, o Arcanista, para que"
-" possa inspeccioná-los e embalá-los."
+"Recolheu 25 Poções de Cura Menores.  Leva-os ao Alric, o Arcanista, para que "
+"possa inspeccioná-los e embalá-los."
 
+#, fuzzy
 msgid "diary_text_quest_20083"
 msgstr "Eu crafted 25 Menor Cura Poções e trouxe-os a Alric para a inspeção."
 
@@ -43427,11 +43436,13 @@ msgstr ""
 "Bom trabalho!  Sempre um negócio feio extraindo os dentes, mas o resultado "
 "final deve obter um bom preço!"
 
+#, fuzzy
 msgid "finished_text_quest_20085"
 msgstr ""
 "Coleccionaste 20 Goblin Angrysticks.  Leva-os ao Alric, o Arcanista, para "
 "que possa inspeccioná-los e embalá-los."
 
+#, fuzzy
 msgid "diary_text_quest_20085"
 msgstr "Eu crafted 20 Goblin Angrysticks e trouxe-os para Alric."
 
@@ -43472,11 +43483,13 @@ msgid "end_text_quest_20089"
 msgstr ""
 "Estes têm um bom peso para eles, e sentir-se sólido como aço!  Bom trabalho!"
 
+#, fuzzy
 msgid "finished_text_quest_20089"
 msgstr ""
-"Recolheste 20 Flatbows.  Traga-os para Stonegar o Lutador para que ele possa"
-" inspeccioná-los e empacotá-los."
+"Recolheste 20 Flatbows.  Traga-os para Stonegar o Lutador para que ele possa "
+"inspeccioná-los e empacotá-los."
 
+#, fuzzy
 msgid "diary_text_quest_20089"
 msgstr "Eu crafted 20 Flatbows e trouxe-os a Stonegar para inspeção."
 
@@ -65090,19 +65103,26 @@ msgstr ""
 "  \r"
 "Craft 25 Troll Staves."
 
+#, fuzzy
 msgid "name_quest_10034"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_10034"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_10034"
 msgstr ""
-"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai ganhar a capacidade de Magia Maior feitiços.\r\n"
-"  \r"
-"Um dos primeiros, e também mais útil, feitiços nesta escola é chamado Rend.  Este feitiço dispara um parafuso em movimento rápido para fora de seus inimigos que faz com que eles sangrem ao longo do tempo, e também os torna mais vulneráveis a ataques piercing como Setas e Polearms.Mostre-me que você tem dominado este feitiço usando-o contra seus inimigos e você pode progredir para a próxima fase de treinamento de magos.\r\n"
-"  \r"
-"Use Rend 20 vezes contra monstros."
+"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai "
+"ganhar a capacidade de Magia Maior feitiços.\r\n"
+"  \rUm dos primeiros, e também mais útil, feitiços nesta escola é chamado "
+"Rend.  Este feitiço dispara um parafuso em movimento rápido para fora de "
+"seus inimigos que faz com que eles sangrem ao longo do tempo, e também os "
+"torna mais vulneráveis a ataques piercing como Setas e Polearms.Mostre-me "
+"que você tem dominado este feitiço usando-o contra seus inimigos e você pode "
+"progredir para a próxima fase de treinamento de magos.\r\n"
+"  \rUse Rend 20 vezes contra monstros."
 
 msgid "name_quest_10035"
 msgstr "Malaut forças a oeste"
@@ -68427,24 +68447,30 @@ msgstr ""
 "^Cdarkfall^você atingiu os manequins de treinamento ^Cwhite^%1 ^Cdarkfall^de"
 " ^Cwhite^%2 ^Cdarkfall^Tempos."
 
+#, fuzzy
 msgid "name_quest_21213"
 msgstr "Missão 2 - etapa 3 - guarde sua espada"
 
+#, fuzzy
 msgid "short_desc_quest_21213"
 msgstr "Encerrem o Shearsword."
 
+#, fuzzy
 msgid "start_text_quest_21213"
 msgstr "Guarde a sua espada pressionando T."
 
 msgid "end_text_quest_21213"
 msgstr "Uma lâmina permanece embainhada até ser necessária."
 
+#, fuzzy
 msgid "finished_text_quest_21213"
 msgstr "A sua espada está guardada."
 
+#, fuzzy
 msgid "diary_text_quest_21213"
 msgstr "Guardei a minha espada."
 
+#, fuzzy
 msgid "use_skill_message_quest_21213"
 msgstr ""
 "^Cdarkfall^Você tem guardado o Shearsword ^Cwhite^%1 ^Cdarkfall^de "
@@ -71746,40 +71772,53 @@ msgstr ""
 "Eu crafted 25 Troll Staves para ajudar Ilrak encher seu estoque para a "
 "guarnição."
 
+#, fuzzy
 msgid "name_quest_11034"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_11034"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_11034"
 msgstr ""
-"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai ganhar a capacidade de lançar feitiços de Magia Maior.\r\n"
-"  \r"
-"Um dos primeiros, e também mais útil, feitiços nesta escola é chamado Rend.  Este feitiço dispara um parafuso em movimento rápido em seus inimigos que faz com que eles sangrem ao longo do tempo, e também os deixa mais vulneráveis a ataques penetrantes, como flechas e Polearms.  Prova-me que dominaste este feitiço usando-o contra os seus inimigos, e eu permitir-te-ei avançar para a próxima fase do seu treino.\r\n"
-"  \r"
-"Use Rend 20 vezes contra monstros."
+"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai "
+"ganhar a capacidade de lançar feitiços de Magia Maior.\r\n"
+"  \rUm dos primeiros, e também mais útil, feitiços nesta escola é chamado "
+"Rend.  Este feitiço dispara um parafuso em movimento rápido em seus inimigos "
+"que faz com que eles sangrem ao longo do tempo, e também os deixa mais "
+"vulneráveis a ataques penetrantes, como flechas e Polearms.  Prova-me que "
+"dominaste este feitiço usando-o contra os seus inimigos, e eu permitir-te-ei "
+"avançar para a próxima fase do seu treino.\r\n"
+"  \rUse Rend 20 vezes contra monstros."
 
+#, fuzzy
 msgid "name_quest_23046"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_23046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_23046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "end_text_quest_23046"
 msgstr ""
 "Então?  Acredito que explorou a vulnerabilidade piercing seguindo o feitiço "
 "com ataques de arco e flecha à distância.  Despojar um alvo de suas "
 "resistências é um dos papéis mais importantes da magia em nosso mundo."
 
+#, fuzzy
 msgid "finished_text_quest_23046"
 msgstr ""
 "Já usou o feitiço Rend 20 vezes em combate.  Vai para Haenlithe o Mago pela "
 "sua recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_23046"
 msgstr ""
 "Avancei a minha compreensão da Magia Maior usando o feitiço Rend várias "
@@ -73053,11 +73092,13 @@ msgstr ""
 "Deixe-me virar um para a luz e estudar a coloração... Tolerável.  Vou "
 "encaixotá-las para ti."
 
+#, fuzzy
 msgid "finished_text_quest_23083"
 msgstr ""
-"Recolheu 25 Poções de Cura Menores.  Levem-nos para Ilrak, o Arcanista, para"
-" que possa inspeccioná-los e embalá-los."
+"Recolheu 25 Poções de Cura Menores.  Levem-nos para Ilrak, o Arcanista, para "
+"que possa inspeccioná-los e embalá-los."
 
+#, fuzzy
 msgid "diary_text_quest_23083"
 msgstr "Eu crafted 25 Menor Cura Poções e trouxe-os a Ilrak para inspeção."
 
@@ -73089,11 +73130,13 @@ msgstr ""
 "Trabalho adequado.  Puxar os dentes é um negócio feio, adequado para mãos "
 "menores, mas o resultado vai conseguir um bom preço."
 
+#, fuzzy
 msgid "finished_text_quest_23085"
 msgstr ""
 "Coleccionaste 20 Goblin Angrysticks.  Levem-nos para Ilrak, o Arcanista, "
 "para que possa inspeccioná-los e embalá-los."
 
+#, fuzzy
 msgid "diary_text_quest_23085"
 msgstr "Eu crafted 20 Goblin Angrysticks e trouxe-os para Ilrak."
 
@@ -73160,11 +73203,13 @@ msgstr ""
 "O desenho é suave e os membros são verdadeiros.  Trabalho aceitável - melhor"
 " do que eu esperava de você."
 
+#, fuzzy
 msgid "finished_text_quest_23089"
 msgstr ""
-"Recolheste 20 Flatbows.  Traga-os para Raenthar o Lutador para que ele possa"
-" inspeccioná-los e empacotá-los."
+"Recolheste 20 Flatbows.  Traga-os para Raenthar o Lutador para que ele possa "
+"inspeccioná-los e empacotá-los."
 
+#, fuzzy
 msgid "diary_text_quest_23089"
 msgstr "Eu crafted 20 Flatbows e trouxe-os a Raenthar para inspeção."
 
@@ -74992,29 +75037,40 @@ msgstr ""
 "Eu crafted 25 Troll Staves para ajudar Murdak encher seu estoque para a "
 "banda de guerra."
 
+#, fuzzy
 msgid "name_quest_12034"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_12034"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_12034"
 msgstr ""
-"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai ganhar a capacidade de Magia Maior feitiços.\r\n"
-"  \r"
-"Um dos primeiros, e também mais útil, feitiços nesta escola é chamado Rend.  Este feitiço dispara um parafuso em movimento rápido para fora de seus inimigos que faz com que eles sangrem ao longo do tempo, e também os torna mais vulneráveis a ataques piercing como Setas e Polearms.Mostre-me que você tem dominado este feitiço usando-o contra seus inimigos e você pode progredir para a próxima fase de treinamento de magos.\r\n"
-"  \r"
-"Use Rend 20 vezes contra monstros."
+"Uma vez que você progrediu o suficiente na escola de Magia Menor, você vai "
+"ganhar a capacidade de Magia Maior feitiços.\r\n"
+"  \rUm dos primeiros, e também mais útil, feitiços nesta escola é chamado "
+"Rend.  Este feitiço dispara um parafuso em movimento rápido para fora de "
+"seus inimigos que faz com que eles sangrem ao longo do tempo, e também os "
+"torna mais vulneráveis a ataques piercing como Setas e Polearms.Mostre-me "
+"que você tem dominado este feitiço usando-o contra seus inimigos e você pode "
+"progredir para a próxima fase de treinamento de magos.\r\n"
+"  \rUse Rend 20 vezes contra monstros."
 
+#, fuzzy
 msgid "name_quest_24046"
 msgstr "Magia maior: rend"
 
+#, fuzzy
 msgid "short_desc_quest_24046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "start_text_quest_24046"
 msgstr "Usar rend 20 vezes contra monstros"
 
+#, fuzzy
 msgid "end_text_quest_24046"
 msgstr ""
 "Então, como correu?  Espero que tenha usado a vulnerabilidade, seguindo o "
@@ -75022,11 +75078,13 @@ msgstr ""
 "resistências aos alvos é um dos papéis mais importantes da magia em nosso "
 "mundo."
 
+#, fuzzy
 msgid "finished_text_quest_24046"
 msgstr ""
 "Já usou o feitiço Rend 20 vezes em combate.  Vai para Skullgor o Mago pela "
 "sua recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_24046"
 msgstr ""
 "Avancei a minha compreensão da Magia Maior usando o feitiço Rend várias "
@@ -76044,6 +76102,7 @@ msgstr ""
 "  \r"
 "Use Eldritch Sphere 20 vezes contra monstros."
 
+#, fuzzy
 msgid "name_quest_24072"
 msgstr "Magia maior: esfera de eldritch"
 
@@ -76305,11 +76364,13 @@ msgstr ""
 "Deixe-me dar-lhes um redemoinho ou dois para olhar para a coloração...  Nada"
 " mal.  Vou encaixotá-los para ti."
 
+#, fuzzy
 msgid "finished_text_quest_24083"
 msgstr ""
 "Recolheu 25 Poções de Cura Menores.  Leva-os ao Murdak, o Arcanista, para "
 "que ela possa inspeccioná-los e empacotá-los."
 
+#, fuzzy
 msgid "diary_text_quest_24083"
 msgstr "Criei 25 Poções de Cura Menores e trouxe - as a Murdak para inspeção."
 
@@ -76341,11 +76402,13 @@ msgstr ""
 "Bom trabalho.  Puxar os dentes é sempre um negócio feio, mas o resultado "
 "final vai conseguir um bom preço."
 
+#, fuzzy
 msgid "finished_text_quest_24085"
 msgstr ""
 "Coleccionaste 20 Goblin Angrysticks.  Leva-os ao Murdak, o Arcanista, para "
 "que ela possa inspeccioná-los e empacotá-los."
 
+#, fuzzy
 msgid "diary_text_quest_24085"
 msgstr "Eu crafted 20 Goblin Angrysticks e trouxe-os para Murdak."
 
@@ -76411,11 +76474,13 @@ msgid "end_text_quest_24089"
 msgstr ""
 "Um forte empate e uma libertação limpa.  Estes servirão bem.  Bom trabalho."
 
+#, fuzzy
 msgid "finished_text_quest_24089"
 msgstr ""
 "Recolheste 20 Flatbows.  Traga-os para Biggor, o Fighter para que ela possa "
 "inspeccioná-los e embalá-los."
 
+#, fuzzy
 msgid "diary_text_quest_24089"
 msgstr "Eu crafted 20 Flatbows e trouxe-os a Biggor para inspeção."
 
