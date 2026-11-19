@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-17 13:22+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "quests/es/>\n"
@@ -42771,15 +42771,19 @@ msgstr ""
 "He creado 25 Troll Bastones para ayudar a Alric a llenar su arsenal para la "
 "Milicia."
 
+#, fuzzy
 msgid "name_quest_20046"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_20046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_20046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "end_text_quest_20046"
 msgstr ""
 "¿Cómo te fue?  Espero que hayas utilizado la vulnerabilidad del peircing "
@@ -42787,11 +42791,13 @@ msgstr ""
 "Bajar las resistencias de sus objetivos es uno de los papeles más "
 "importantes de la magia en nuestro mundo."
 
+#, fuzzy
 msgid "finished_text_quest_20046"
 msgstr ""
 "Usted ha utilizado el hechizo Rend 20 veces en combate.  Vaya a Selensha el "
 "Mago por su recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_20046"
 msgstr ""
 "Avancé mi comprensión de la Magia Mayor usando el hechizo Rend varias veces "
@@ -43376,6 +43382,7 @@ msgstr ""
 "Conseguí mi primer hechizo con un efecto Knock-Up y lo usé eficazmente en "
 "combate."
 
+#, fuzzy
 msgid "name_quest_20072"
 msgstr "Magia mayor: esfera de eldritch"
 
@@ -43898,11 +43905,13 @@ msgstr ""
 "Déjame darles un swirl o dos para ver la coloración... ¡No está mal!  "
 "Permítanme anularlos para usted."
 
+#, fuzzy
 msgid "finished_text_quest_20083"
 msgstr ""
 "Usted ha recogido 25 Pociones de Sanación Menor.  Tráelos a Alric el "
 "Arcanista para que pueda inspeccionarlos y empaquetarlos."
 
+#, fuzzy
 msgid "diary_text_quest_20083"
 msgstr ""
 "He elaborado 25 Pociones de Sanación Menor y las he traído a Alric para su "
@@ -43947,11 +43956,13 @@ msgstr ""
 "¡Buen trabajo!  Siempre un negocio feo que extrae los dientes, pero el "
 "resultado final debe conseguir un buen precio!"
 
+#, fuzzy
 msgid "finished_text_quest_20085"
 msgstr ""
 "Has recogido 20 trasgo Angrysticks.  Tráelos a Alric el Arcanista para que "
 "pueda inspeccionarlos y empaquetarlos."
 
+#, fuzzy
 msgid "diary_text_quest_20085"
 msgstr "He elaborado 20 trasgo Angrysticks y los he traído a Alric."
 
@@ -43993,11 +44004,13 @@ msgstr ""
 "¡Estos tienen un buen heft para ellos, y se sienten sólidos como acero!  "
 "¡Gran trabajo!"
 
+#, fuzzy
 msgid "finished_text_quest_20089"
 msgstr ""
 "Has recogido 20 Flatbows.  Tráelos a Stonegar el Combatiente para que pueda "
 "inspeccionarlos y empaquetarlos."
 
+#, fuzzy
 msgid "diary_text_quest_20089"
 msgstr "He elaborado 20 Flatbows y los he traído a Stonegar para inspección."
 
@@ -66197,19 +66210,26 @@ msgstr ""
 "  \r"
 "Artesanía 25 Troll Bastones."
 
+#, fuzzy
 msgid "name_quest_10034"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_10034"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_10034"
 msgstr ""
-"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia Menor, ganarás la capacidad de los hechizos de Gran Magia.\r\n"
-"  \r"
-"Uno de los hechizos más tempranos y útiles en esta escuela se llama Rend.  Este hechizo dispara un rápido movimiento hacia fuera en sus enemigos que los hace sangrar con el tiempo, y también los hace más vulnerables a la perforación de ataques como Flechas y armas de asta.Muéstrame que has dominado este hechizo usándolo contra tus enemigos y puedes progresar hasta la siguiente etapa de entrenamiento de mago.\r\n"
-"  \r"
-"Use Rend 20 veces contra Monstruos."
+"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia "
+"Menor, ganarás la capacidad de los hechizos de Gran Magia.\r\n"
+"  \rUno de los hechizos más tempranos y útiles en esta escuela se llama "
+"Rend.  Este hechizo dispara un rápido movimiento hacia fuera en sus enemigos "
+"que los hace sangrar con el tiempo, y también los hace más vulnerables a la "
+"perforación de ataques como Flechas y armas de asta.Muéstrame que has "
+"dominado este hechizo usándolo contra tus enemigos y puedes progresar hasta "
+"la siguiente etapa de entrenamiento de mago.\r\n"
+"  \rUse Rend 20 veces contra Monstruos."
 
 msgid "name_quest_10035"
 msgstr "Malaut fuerzas al oeste"
@@ -69545,28 +69565,34 @@ msgstr ""
 "^Cdarkfall^has golpeado a los dummies de entrenamiento ^Cwhite^%1 "
 "^Cdarkfall^of of ^Cwhite^%2 ^Cdarkfall^veces."
 
+#, fuzzy
 msgid "name_quest_21213"
 msgstr "Misión 2 - paso 3 - envaina tu espada"
 
+#, fuzzy
 msgid "short_desc_quest_21213"
 msgstr "Estiren el Shearsword."
 
+#, fuzzy
 msgid "start_text_quest_21213"
 msgstr "Dobla tu espada pulsando T."
 
 msgid "end_text_quest_21213"
 msgstr "Una cuchilla permanece derramada hasta que sea necesaria."
 
+#, fuzzy
 msgid "finished_text_quest_21213"
 msgstr "Tu espada está cortada."
 
+#, fuzzy
 msgid "diary_text_quest_21213"
 msgstr "He picado mi espada."
 
+#, fuzzy
 msgid "use_skill_message_quest_21213"
 msgstr ""
-"^Cdarkfall^que ha arrasado Shearsword ^Cwhite^%1 ^Cdarkfall^of of ^Cwhite^%2"
-" ^Cdarkfall^veces."
+"^Cdarkfall^que ha arrasado Shearsword ^Cwhite^%1 ^Cdarkfall^of of ^Cwhite^%2 "
+"^Cdarkfall^veces."
 
 msgid "name_quest_21214"
 msgstr "Misión 2 - paso 4 - descansa"
@@ -72867,41 +72893,54 @@ msgstr ""
 "He creado 25 Troll Staves para ayudar a Ilrak a llenar su arsenal para la "
 "guarnición."
 
+#, fuzzy
 msgid "name_quest_11034"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_11034"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_11034"
 msgstr ""
-"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia Menor, ganarás la capacidad de lanzar hechizos de Gran Magia.\r\n"
-"  \r"
-"Uno de los hechizos más tempranos y útiles en esta escuela se llama Rend.  Este hechizo dispara un perno en movimiento rápido a sus enemigos que los hace sangrar con el tiempo, y también los deja más vulnerables a la perforación de ataques como Arrows y Polearms.  Prométeme que has dominado este hechizo usándolo contra tus enemigos, y te permitiré avanzar hasta la siguiente etapa de tu entrenamiento.\r\n"
-"  \r"
-"Use Rend 20 veces contra Monstruos."
+"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia "
+"Menor, ganarás la capacidad de lanzar hechizos de Gran Magia.\r\n"
+"  \rUno de los hechizos más tempranos y útiles en esta escuela se llama "
+"Rend.  Este hechizo dispara un perno en movimiento rápido a sus enemigos que "
+"los hace sangrar con el tiempo, y también los deja más vulnerables a la "
+"perforación de ataques como Arrows y Polearms.  Prométeme que has dominado "
+"este hechizo usándolo contra tus enemigos, y te permitiré avanzar hasta la "
+"siguiente etapa de tu entrenamiento.\r\n"
+"  \rUse Rend 20 veces contra Monstruos."
 
+#, fuzzy
 msgid "name_quest_23046"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_23046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_23046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "end_text_quest_23046"
 msgstr ""
-"¿Y bien?  Confío en que explotaste la vulnerabilidad perforante siguiendo el"
-" hechizo con ataques de tiro desde una distancia.  Deshacerse de un objetivo"
-" de sus resistencias es uno de los papeles más importantes de la magia en "
+"¿Y bien?  Confío en que explotaste la vulnerabilidad perforante siguiendo el "
+"hechizo con ataques de tiro desde una distancia.  Deshacerse de un objetivo "
+"de sus resistencias es uno de los papeles más importantes de la magia en "
 "nuestro mundo."
 
+#, fuzzy
 msgid "finished_text_quest_23046"
 msgstr ""
-"Usted ha utilizado el hechizo Rend 20 veces en combate.  Vaya a Haenlithe el"
-" Mage por su recompensa."
+"Usted ha utilizado el hechizo Rend 20 veces en combate.  Vaya a Haenlithe el "
+"Mage por su recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_23046"
 msgstr ""
 "Avancé mi comprensión de la Magia Mayor usando el hechizo Rend varias veces "
@@ -74168,11 +74207,13 @@ msgstr ""
 "Permítanme girar uno a la luz y estudiar la coloración... Tolerable.  Tendré"
 " estos desperdicios para ti."
 
+#, fuzzy
 msgid "finished_text_quest_23083"
 msgstr ""
 "Usted ha recogido 25 Pociones de Sanación Menor.  Tráelos a Ilrak el "
 "Arcanista para que pueda inspeccionarlos y envasarlos."
 
+#, fuzzy
 msgid "diary_text_quest_23083"
 msgstr ""
 "He elaborado 25 Pociones de Sanación Menor y las he traído a Ilrak para su "
@@ -74206,11 +74247,13 @@ msgstr ""
 "Trabajo adecuado.  Llevar los dientes es un negocio feo, adecuado para manos"
 " más pequeñas, pero el resultado conseguirá un buen precio."
 
+#, fuzzy
 msgid "finished_text_quest_23085"
 msgstr ""
 "Has recogido 20 trasgo Angrysticks.  Tráelos a Ilrak el Arcanista para que "
 "pueda inspeccionarlos y envasarlos."
 
+#, fuzzy
 msgid "diary_text_quest_23085"
 msgstr "Hice 20 Goblin Angrysticks y los traje a Ilrak."
 
@@ -74277,11 +74320,13 @@ msgstr ""
 "El sorteo es suave y las extremidades son verdaderas.  Trabajo aceptable - "
 "mejor de lo que esperaba de ti."
 
+#, fuzzy
 msgid "finished_text_quest_23089"
 msgstr ""
 "Has recogido 20 Flatbows.  Tráelos a Raenthar el Combatiente para que pueda "
 "inspeccionarlos y empaquetarlos."
 
+#, fuzzy
 msgid "diary_text_quest_23089"
 msgstr "He elaborado 20 Flatbows y los he traído a Raenthar para inspección."
 
@@ -76103,29 +76148,40 @@ msgstr ""
 "He creado 25 Troll Staves para ayudar a Murdak a llenar su arsenal para la "
 "banda de guerra."
 
+#, fuzzy
 msgid "name_quest_12034"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_12034"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_12034"
 msgstr ""
-"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia Menor, ganarás la capacidad de los hechizos de Gran Magia.\r\n"
-"  \r"
-"Uno de los hechizos más tempranos y útiles en esta escuela se llama Rend.  Este hechizo dispara un rápido movimiento hacia fuera en sus enemigos que los hace sangrar con el tiempo, y también los hace más vulnerables a la perforación de ataques como Flechas y armas de asta.Muéstrame que has dominado este hechizo usándolo contra tus enemigos y puedes progresar hasta la siguiente etapa de entrenamiento de mago.\r\n"
-"  \r"
-"Use Rend 20 veces contra Monstruos."
+"Una vez que hayas progresado lo suficientemente lejos en la escuela de Magia "
+"Menor, ganarás la capacidad de los hechizos de Gran Magia.\r\n"
+"  \rUno de los hechizos más tempranos y útiles en esta escuela se llama "
+"Rend.  Este hechizo dispara un rápido movimiento hacia fuera en sus enemigos "
+"que los hace sangrar con el tiempo, y también los hace más vulnerables a la "
+"perforación de ataques como Flechas y armas de asta.Muéstrame que has "
+"dominado este hechizo usándolo contra tus enemigos y puedes progresar hasta "
+"la siguiente etapa de entrenamiento de mago.\r\n"
+"  \rUse Rend 20 veces contra Monstruos."
 
+#, fuzzy
 msgid "name_quest_24046"
 msgstr "Magia mayor: rend"
 
+#, fuzzy
 msgid "short_desc_quest_24046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "start_text_quest_24046"
 msgstr "Utilizar rend 20 veces contra monstruos"
 
+#, fuzzy
 msgid "end_text_quest_24046"
 msgstr ""
 "¿Cómo te fue?  Espero que hayas utilizado la vulnerabilidad del peircing "
@@ -76133,11 +76189,13 @@ msgstr ""
 "Bajar las resistencias de sus objetivos es uno de los papeles más "
 "importantes de la magia en nuestro mundo."
 
+#, fuzzy
 msgid "finished_text_quest_24046"
 msgstr ""
 "Usted ha utilizado el hechizo Rend 20 veces en combate.  Vaya a Skullgor el "
 "Mage por su recompensa."
 
+#, fuzzy
 msgid "diary_text_quest_24046"
 msgstr ""
 "Avancé mi comprensión de la Magia Mayor usando el hechizo Rend varias veces "
@@ -77146,6 +77204,7 @@ msgstr ""
 "  \r"
 "Use Eldritch Sphere 20 veces contra Monsters."
 
+#, fuzzy
 msgid "name_quest_24072"
 msgstr "Magia mayor: esfera de eldritch"
 
@@ -77408,11 +77467,13 @@ msgstr ""
 "Déjame darles un swirl o dos para ver la coloración...  No está mal.  Voy a "
 "buscar esto para ti."
 
+#, fuzzy
 msgid "finished_text_quest_24083"
 msgstr ""
 "Usted ha recogido 25 Pociones de Sanación Menor.  Tráelos a Murdak el "
 "Arcanista para que pueda inspeccionarlos y envasarlos."
 
+#, fuzzy
 msgid "diary_text_quest_24083"
 msgstr ""
 "He elaborado 25 Pociones de Sanación Menor y las he traído a Murdak para su "
@@ -77446,11 +77507,13 @@ msgstr ""
 "Buen trabajo.  Sacar los dientes es siempre un negocio feo, pero el "
 "resultado final conseguirá un buen precio."
 
+#, fuzzy
 msgid "finished_text_quest_24085"
 msgstr ""
 "Has recogido 20 trasgo Angrysticks.  Tráelos a Murdak el Arcanista para que "
 "pueda inspeccionarlos y envasarlos."
 
+#, fuzzy
 msgid "diary_text_quest_24085"
 msgstr "Hice 20 Goblin Angrysticks y los traje a Murdak."
 
@@ -77517,11 +77580,13 @@ msgstr ""
 "Un fuerte empate y una liberación limpia.  Estos servirán bien.  Buen "
 "trabajo."
 
+#, fuzzy
 msgid "finished_text_quest_24089"
 msgstr ""
 "Has recogido 20 Flatbows.  Tráelos a Biggor el Combatiente para que pueda "
 "inspeccionarlos y empaquetarlos."
 
+#, fuzzy
 msgid "diary_text_quest_24089"
 msgstr "He elaborado 20 Flatbows y los he traído a Biggor para inspección."
 

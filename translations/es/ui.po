@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-12 23:26+0000\n"
+"PO-Revision-Date: 2026-11-19 17:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/ui/"
 "es/>\n"
@@ -1310,9 +1310,11 @@ msgstr ""
 msgid "options_video_vegetation_area_size"
 msgstr "Superficie de vegetación: %1"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip_perf"
 msgstr "Rendimiento: mayores - menores valores cuestan más"
 
+#, fuzzy
 msgid "options_video_vegetation_area_size_tooltip"
 msgstr ""
 "El radio que la hierba está diseminada. Esto funciona junto con la Densidad "
@@ -4052,6 +4054,7 @@ msgstr "Jefe"
 msgid "map_marker_spawn_champion"
 msgstr "Campeón"
 
+#, fuzzy
 msgid "map_marker_spawn_dungeon"
 msgstr "Mazmorra"
 
@@ -4061,6 +4064,7 @@ msgstr "Marcador de misión"
 msgid "map_marker_portals"
 msgstr "Portales"
 
+#, fuzzy
 msgid "map_marker_dungeons"
 msgstr "Mazmorras"
 
