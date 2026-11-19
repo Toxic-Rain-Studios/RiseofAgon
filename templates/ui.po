@@ -6682,6 +6682,34 @@ msgstr "trial accounts cannot declare sieges."
 msgid "faction_siege_refused_use_clan_shard"
 msgstr "this is a clan holding: use a Clan Shard."
 
+msgid "faction_siege_shard_refuse_busy"
+msgstr "it is already being taken, try again shortly."
+
+msgid "faction_siege_shard_refuse_carrying"
+msgstr "you are already carrying an obelisk."
+
+msgid "faction_siege_shard_refuse_leave_window"
+msgstr "not until the attackers' leave window is over."
+
+#. Shard Carrier sieges (#1126): why a Siege Shard pickup or delivery was refused (completes FACTION_SIEGE_SHARD_REFUSED).
+msgid "faction_siege_shard_refuse_no_siege"
+msgstr "there is no siege at this holding."
+
+msgid "faction_siege_shard_refuse_not_a_side"
+msgstr "only the attacking and defending factions can carry it."
+
+msgid "faction_siege_shard_refuse_not_defender"
+msgstr "only the defenders can deliver it."
+
+msgid "faction_siege_shard_refuse_not_holder"
+msgstr "you are not carrying it."
+
+msgid "faction_siege_shard_refuse_standing"
+msgstr "you must be lawful and not flagged."
+
+msgid "faction_siege_shard_refuse_wrong_stone"
+msgstr "it can only be delivered to the bind stone of its own holding."
+
 msgid "faction_war_col_alliance"
 msgstr "Alliance"
 

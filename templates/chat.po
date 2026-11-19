@@ -30,6 +30,30 @@ msgstr "The towers of %1 are empowered. The siege begins in %2 minutes."
 msgid "FACTION_SIEGE_REFUSED"
 msgstr "You cannot declare a siege here: %1"
 
+msgid "FACTION_SIEGE_SHARD_BACK_IN_AREA"
+msgstr "The Siege Shard of %1 is back inside the siege area."
+
+msgid "FACTION_SIEGE_SHARD_DELIVERED"
+msgstr "%2 delivered the Siege Shard to the bind stone of %1."
+
+msgid "FACTION_SIEGE_SHARD_DROPPED"
+msgstr "The Siege Shard of %1 has been dropped."
+
+msgid "FACTION_SIEGE_SHARD_LEFT_AREA"
+msgstr ""
+"The Siege Shard of %1 has left the siege area. The siege ends in %2 seconds "
+"unless it is brought back."
+
+msgid "FACTION_SIEGE_SHARD_LOST_AREA"
+msgstr "The Siege Shard of %1 stayed outside the siege area for too long."
+
+#. Shard Carrier sieges (#1126): the Siege Shard lines, sent to the attacking and defending factions.
+msgid "FACTION_SIEGE_SHARD_PICKED_UP"
+msgstr "%2 picked up the Siege Shard of %1."
+
+msgid "FACTION_SIEGE_SHARD_REFUSED"
+msgstr "You cannot do that with the Siege Shard: %1"
+
 msgid "FACTION_SIEGE_STARTED_ATTACKER"
 msgstr "The siege of %1 has begun! Destroy its bind stone within %2 minutes."
 

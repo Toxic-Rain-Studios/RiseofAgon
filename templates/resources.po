@@ -12382,6 +12382,9 @@ msgstr " "
 msgid "desc_r_Marker Shipyard"
 msgstr " "
 
+msgid "desc_r_Marker Siege Shard"
+msgstr "Where the Siege Shard was last seen."
+
 msgid "desc_r_Marker Siegestone"
 msgstr " "
 
@@ -19066,6 +19069,13 @@ msgid "desc_r_obelisk_ragunius"
 msgstr ""
 "An object of worship aligned to the deity Ragunius. When placed on an altar "
 "it buffs your clan, increasing damage against clan structures."
+
+msgid "desc_r_obelisk_siegeshard"
+msgstr ""
+"A shard of a Faction Clanstone, bound to the holding under siege. Defenders "
+"who carry it to that holding's bind stone end the siege. It drops when its "
+"carrier dies or logs out, and the siege ends if it stays too long more than "
+"1.5 km from the holding."
 
 msgid "desc_r_obelisk_urkhamset"
 msgstr ""
@@ -32112,6 +32122,9 @@ msgstr "Marker Selentine Chest"
 msgid "r_Marker Shipyard"
 msgstr "Marker Shipyard"
 
+msgid "r_Marker Siege Shard"
+msgstr "Siege Shard"
+
 msgid "r_Marker Siegestone"
 msgstr "Marker Siegestone"
 
@@ -38511,6 +38524,10 @@ msgstr "obelisk_myrthai"
 
 msgid "r_obelisk_ragunius"
 msgstr "obelisk_ragunius"
+
+#. Shard Carrier sieges (#1126): the Siege Shard item and its map marker.
+msgid "r_obelisk_siegeshard"
+msgstr "obelisk_siegeshard"
 
 msgid "r_obelisk_urkhamset"
 msgstr "obelisk_urkhamset"
