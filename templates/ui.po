@@ -1565,6 +1565,18 @@ msgstr "Rating"
 msgid "btr_col_wins"
 msgstr "Wins"
 
+msgid "btr_drop_refused_leaving"
+msgstr "You can't hand over items while you're leaving the arena."
+
+msgid "btr_drop_refused_practice"
+msgstr "You can't drop items in a Beneath the Roots practice match."
+
+msgid "btr_drop_refused_unconfirmed"
+msgstr "You can't hand over items right now. Try again in a moment."
+
+msgid "btr_hud_title"
+msgstr "Beneath the Roots"
+
 msgid "btr_left_out_not_alive"
 msgstr ""
 "You were not alive when your side entered Beneath the Roots and were left "
@@ -1596,6 +1608,15 @@ msgstr ""
 
 msgid "btr_no_rating"
 msgstr "You have not played a rated %1 match yet. Everyone starts at %2."
+
+msgid "btr_notice_cache_sent_home"
+msgstr "Your reward cache will be waiting in your pack when you return home."
+
+msgid "btr_notice_pve_only_no_reward"
+msgstr "No opponent was found, so there is no chest this time."
+
+msgid "btr_notice_pve_only_reward"
+msgstr "No opponent was found. Your chest holds a lesser cache."
 
 msgid "btr_phase_broke_out"
 msgstr "Your side broke through - take the arena"
@@ -1718,6 +1739,9 @@ msgstr "Time runs out:"
 
 msgid "btr_timer_zone_closes"
 msgstr "Zone closes:"
+
+msgid "btr_trade_refused_arena"
+msgstr "You can't trade inside Beneath the Roots."
 
 msgid "btr_travel_unavailable"
 msgstr ""
@@ -3150,6 +3174,9 @@ msgstr ""
 
 msgid "clan_banned_tab_title"
 msgstr "Banned Players"
+
+msgid "clan_change_refused_arena"
+msgstr "Clan membership can't change while you're in Beneath the Roots."
 
 msgid "clan_create_error_already_creating"
 msgstr "That clan is already being created. Give it a moment and try again."
