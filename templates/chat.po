@@ -9096,6 +9096,10 @@ msgstr "Your %1 will expire in %2 minute(s)."
 msgid "NOTIFICATION_DEPLOYABLE_OBJECT_TOO_MANY_OBJECTS_PLACED_BY_PLAYER"
 msgstr "You cannot have more than %1 %2 placed in the world."
 
+#. Divine caches (owner 2026-11-21): an epic or legendary pull, told to every player; %1 is the divine_cache_pull_* line.
+msgid "NOTIFICATION_DIVINE_CACHE"
+msgstr "%1"
+
 msgid "NOTIFICATION_DUEL_ACCEPTED_ANOTHER_INVITE"
 msgstr "%1 accepted somebody else's duel invitation."
 
@@ -9712,7 +9716,8 @@ msgstr "Unlocked the recipe for %1."
 msgid "NOTIFICATION_GOD_BAR_FULL_MALAUT"
 msgstr ""
 "^Cgold^Malaut stirs beneath Agon.^N^ His devotees have called him - "
-"Silvertongue will fall in about %1 minutes."
+"Silvertongue will fall in about %1 minutes at %2. Until it lands, Malaut "
+"shelters all who gather there: no one can be harmed in his sanctuary."
 
 msgid "NOTIFICATION_GOD_BAR_FULL_OTHER"
 msgstr ""

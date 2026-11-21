@@ -1817,6 +1817,22 @@ msgstr "Esc to stop"
 msgid "cache_auto_open_title"
 msgstr "Opening caches"
 
+msgid "cache_menu_all"
+msgstr "Open all"
+
+msgid "cache_menu_none"
+msgstr "You carry no caches."
+
+msgid "cache_menu_open"
+msgstr "Open"
+
+msgid "cache_menu_skip"
+msgstr "Skip spinning"
+
+#. The cache menu (owner 2026-11-21): using a god's or Slayer cache opens it - pick a cache, the toggles, Open.
+msgid "cache_menu_title"
+msgstr "Open a cache"
+
 msgid "cache_open_failed_returned"
 msgstr "The cache could not be opened. It has been returned to your pack."
 
@@ -5663,6 +5679,55 @@ msgstr "%1 km"
 
 msgid "distance_meters"
 msgstr "%1 m"
+
+#. Divine cache: another god's cache is still being revealed (one at a time, owner 2026-11-21).
+msgid "divine_cache_busy"
+msgstr "Your last cache is still being revealed."
+
+#. Divine cache reveal (owner 2026-11-21): the server-wide line for a big pull. %1 player, %2 item, %3 the cache.
+msgid "divine_cache_pull_epic"
+msgstr "%1 drew %2 from %3!"
+
+msgid "divine_cache_pull_legendary"
+msgstr "The gods favour %1: %2 from %3!"
+
+#. Divine cache: the pack could not take the items, so they went to the bank.
+msgid "divine_cache_to_bank"
+msgstr "Your pack was full: the gods' gifts were sent to your bank."
+
+msgid "divine_reveal_close"
+msgstr "Close"
+
+#. Divine cache reveal window: the line once every reel has stopped.
+msgid "divine_reveal_footer"
+msgstr "Everything is in your bag."
+
+msgid "divine_reveal_footer_big"
+msgstr "The god smiles on you. Everything is in your bag."
+
+#. Divine cache reveal window: the button while the reels spin, then after.
+msgid "divine_reveal_skip"
+msgstr "Skip"
+
+#. The cache reveal window during Open all: stop after this cache.
+msgid "divine_reveal_stop"
+msgstr "Stop"
+
+#. Divine cache reveal window: the rarity tiers shown over each item.
+msgid "divine_reveal_tier_common"
+msgstr "Common"
+
+msgid "divine_reveal_tier_epic"
+msgstr "Epic"
+
+msgid "divine_reveal_tier_legendary"
+msgstr "Legendary"
+
+msgid "divine_reveal_tier_rare"
+msgstr "Rare"
+
+msgid "divine_reveal_tier_uncommon"
+msgstr "Uncommon"
 
 msgid "do_not_ask_again"
 msgstr "Do not ask me again"
@@ -14155,22 +14220,63 @@ msgstr "PvE Mastery"
 msgid "mastery_xp_to_next"
 msgstr "%1 / %2 to next level"
 
+msgid "melek_holder_kill_own_clan"
+msgstr "No reward for slaying your own clan."
+
+msgid "melek_holder_kill_own_machine"
+msgstr "No reward for slaying your own (same machine)."
+
+msgid "melek_holder_kill_own_party"
+msgstr "No reward for slaying your own party."
+
+msgid "melek_holder_kill_paid"
+msgstr ""
+"You stopped %1 on their run with Sithra Ahra. Melek rewards you with a cache."
+
 msgid "melek_offer_polearm"
-msgstr "Offer Melek's polearm"
+msgstr "Offer Sithra Ahra"
 
 msgid "melek_polearm_none"
 msgstr "You carry no polearm of Melek's to offer."
 
 msgid "melek_polearm_not_yet"
 msgstr ""
-"Not now: Melek's polearm can be offered only by the one carrying it out of "
-"the hunt, while their run lasts."
+"Not now: Sithra Ahra can be offered only by the one carrying it out of the "
+"hunt, while their run lasts."
 
 msgid "melek_polearm_turn_in_paid"
 msgstr "+%1 Dominion Favor (%2) and a cache."
 
+msgid "melek_sanctuary_entered"
+msgstr ""
+"You enter Melek's sanctuary. \"Within my Veil you are mine, and none may "
+"touch what is mine - until the hunt begins.\" No one can harm you here, and "
+"you can harm no one."
+
+msgid "melek_sanctuary_left"
+msgstr ""
+"You leave Melek's sanctuary. \"Beyond my Veil, every shadow hides a knife.\" "
+"You can harm and be harmed."
+
+msgid "melek_sanctuary_lifted"
+msgstr ""
+"Melek's sanctuary is lifted: the hunt has begun. \"Now show me what you are "
+"worth in the dark.\""
+
 msgid "melek_veil_arena_leash"
 msgstr "You cannot leave Melek's Veil during the hunt."
+
+msgid "melek_veil_bar_full"
+msgstr ""
+"Melek stirs. His devotees have filled his bar: in about %1 minutes Melek's "
+"Veil gathers at %2. Come to the violet dome to join the hunt. Until the hunt "
+"begins, Melek shelters all who gather inside his Veil: no one can be harmed "
+"there."
+
+msgid "melek_veil_bar_warning"
+msgstr ""
+"Melek's Veil gathers at %2 in about %1 minutes. Until the hunt begins, Melek "
+"shelters all who gather inside his Veil: no one can be harmed there."
 
 msgid "melek_veil_cancelled"
 msgstr "Melek's Veil has been cancelled."
@@ -14287,6 +14393,11 @@ msgstr "Melek's Veil is not taking new players right now."
 msgid "melek_veil_join_outside"
 msgstr "Only those inside Melek's dome can join - go to %1 and step inside it."
 
+msgid "melek_veil_join_outside_ring"
+msgstr ""
+"Melek's Veil is sealed: go to %1 and stand at the edge of his dome, within "
+"%2 m of it, to join the hunt."
+
 msgid "melek_veil_join_refused"
 msgstr "You cannot join Melek's Veil right now."
 
@@ -14295,6 +14406,24 @@ msgstr "You have joined Melek's Veil. The hunt begins in %1 seconds."
 
 msgid "melek_veil_last_hunted"
 msgstr "%1 is the last of the Hunted still free!"
+
+msgid "melek_veil_late_held"
+msgstr ""
+"You join the hunt as Hunted - in Melek's prison. You walk free in %1 "
+"seconds, or sooner if another Hunted frees you. The Hunters have been warned."
+
+msgid "melek_veil_late_hunted_hunted"
+msgstr ""
+"A new Hunted is held in Melek's prison - they walk free in %1 seconds, or "
+"free them sooner."
+
+msgid "melek_veil_late_hunted_hunters"
+msgstr ""
+"A new Hunted is coming into Melek's prison - they walk free in %1 seconds. "
+"Be there."
+
+msgid "melek_veil_late_hunter"
+msgstr "A new Hunter has joined the hunt."
 
 msgid "melek_veil_leave_refused"
 msgstr "You cannot leave Melek's Veil once the hunt has begun."
@@ -14311,7 +14440,7 @@ msgid "melek_veil_map_marker"
 msgstr "Melek's Veil"
 
 msgid "melek_veil_map_marker_run"
-msgstr "Melek's polearm"
+msgstr "Sithra Ahra"
 
 msgid "melek_veil_mark_dealt"
 msgstr "Melek's mark on %1: %2 of %3"
@@ -14322,15 +14451,16 @@ msgstr "%1 marked you: %2 of %3 - at %3 you are captured!"
 msgid "melek_veil_muster_open"
 msgstr ""
 "Melek's Veil is gathering at %2! Step inside Melek's violet dome within the "
-"next %1 minutes and press Join in the event window to join the hunt."
+"next %1 minutes and press Join in the event window to join the hunt. No one "
+"can be harmed inside the dome until the hunt begins."
 
 msgid "melek_veil_polearm_given"
 msgstr ""
-"Melek's polearm is yours. Its blows mark twice, its power attack and "
-"whirlwind blow the smoke open, and his light shows everyone where you are."
+"Sithra Ahra is yours. Its blows mark twice, its power attack and whirlwind "
+"blow the smoke open, and his light shows everyone where you are."
 
 msgid "melek_veil_polearm_no_room"
-msgstr "Make room in your bags: Melek's polearm cannot reach you."
+msgstr "Make room in your bags: Sithra Ahra cannot reach you."
 
 msgid "melek_veil_prison_boundary"
 msgstr "Melek's prison holds you: you cannot leave it until you are freed."
@@ -14347,23 +14477,35 @@ msgstr "The Hunters break out of Melek's prison in %1!"
 msgid "melek_veil_release_in_hunter"
 msgstr "You break out of Melek's prison in %1..."
 
+msgid "melek_veil_relic_bearer_imprisoned"
+msgstr ""
+"You fell with Sithra Ahra! Melek holds you in his prison for %1 seconds."
+
+msgid "melek_veil_relic_bearer_lost"
+msgstr "%1 lost Sithra Ahra. It returns to the veil."
+
 msgid "melek_veil_relic_dropped"
 msgstr ""
-"%1 dropped Melek's polearm. It lies under a column of white light until a "
-"Hunter takes it up."
+"%1 dropped Sithra Ahra. It lies under a column of white light until a Hunter "
+"takes it up."
 
 msgid "melek_veil_relic_falls"
 msgstr ""
-"Melek's polearm falls from the veil. Follow the column of white light: the "
+"Sithra Ahra, Melek's own polearm, falls from the veil. Follow the column of "
+"white light: the first Hunter to reach it carries it."
+
+msgid "melek_veil_relic_falls_again"
+msgstr ""
+"Sithra Ahra falls again from the veil. Follow the column of white light: the "
 "first Hunter to reach it carries it."
 
 msgid "melek_veil_relic_returns"
 msgstr ""
-"Melek's polearm lay unclaimed and returned to the veil. It falls again - "
-"follow the column of white light."
+"Sithra Ahra lay unclaimed and returned to the veil. It falls again - follow "
+"the column of white light."
 
 msgid "melek_veil_relic_taken"
-msgstr "%1 carries Melek's polearm, wreathed in his white light."
+msgstr "%1 carries Sithra Ahra, wreathed in his white light."
 
 msgid "melek_veil_rescue_busy"
 msgstr "Someone is already freeing that prisoner."
@@ -14394,31 +14536,52 @@ msgstr "You are breaking Melek's chains on %1. Stay close and keep still!"
 
 msgid "melek_veil_run_begins"
 msgstr ""
-"%1 carries Melek's polearm out of the veil. They have %2 minutes to offer it "
-"at Melek's altar, and every map shows where they are."
+"%1 carries Sithra Ahra, Melek's own polearm, out of the veil. They have %2 "
+"minutes to offer it at Melek's altar, and every map shows where they are. "
+"Stop them for a reward!"
 
 msgid "melek_veil_run_expired"
 msgstr "%1 kept Melek waiting too long. His polearm returns to the veil."
 
 msgid "melek_veil_run_lost"
-msgstr "%1 lost Melek's polearm. It returns to the veil."
+msgstr "%1 lost Sithra Ahra. It returns to the veil."
 
 msgid "melek_veil_run_offered"
-msgstr "%1 offered Melek's polearm at his altar."
+msgstr "%1 offered Sithra Ahra at his altar."
 
 msgid "melek_veil_run_over"
-msgstr "Melek's polearm has left your hands."
+msgstr "Sithra Ahra has left your hands."
 
 msgid "melek_veil_run_yours"
 msgstr ""
-"Melek's polearm is yours for %1 minutes. Offer it at Melek's altar for his "
+"Sithra Ahra is yours for %1 minutes. Offer it at Melek's altar for his "
 "Favor. Every map shows where you are, and if you die, log out or lose it, it "
 "returns to the veil."
+
+msgid "melek_veil_sealed_clear_out"
+msgstr ""
+"The hunt begins and Melek seals his Veil: you are not in it, so he sets you "
+"outside in %1 seconds."
+
+msgid "melek_veil_sealed_ring"
+msgstr ""
+"Melek's Veil is sealed until the hunt ends. Press Join in the event window "
+"to enter the hunt."
+
+msgid "melek_veil_sealed_set_out"
+msgstr ""
+"Melek's Veil is sealed until the hunt ends - Melek sets you outside it. "
+"Press Join in the event window at its edge to enter the hunt."
 
 msgid "melek_veil_team_hunted"
 msgstr ""
 "You are Hunted. The Hunters are locked in Melek's prison for %1 seconds - "
 "run, hide in the smoke and stay free until time runs out."
+
+msgid "melek_veil_team_hunted_late"
+msgstr ""
+"You join the hunt as Hunted. The Hunters are already out - run, hide in the "
+"smoke and stay free until time runs out."
 
 msgid "melek_veil_team_hunter"
 msgstr ""
@@ -14426,8 +14589,16 @@ msgstr ""
 "hide - you break out in %1 seconds. Then capture every Hunted before time "
 "runs out."
 
+msgid "melek_veil_team_hunter_late"
+msgstr ""
+"You join the hunt as a Hunter of Melek. The Hunters are already out - "
+"capture every Hunted before time runs out."
+
 msgid "melek_veil_too_few"
 msgstr "Melek's Veil was called off: not enough players joined."
+
+msgid "melek_veil_trip_in_refused"
+msgstr "Melek's Veil is sealed until the hunt ends: no one travels into it."
 
 msgid "melek_veil_trip_refused"
 msgstr "You cannot travel out of Melek's Veil during the hunt."
@@ -14474,6 +14645,9 @@ msgstr ""
 "The winning side earns %1 Dominion Favor, everyone else who took part earns "
 "%2."
 
+msgid "melek_veil_window_hunt_join"
+msgstr "The hunt is on - you can still join it."
+
 msgid "melek_veil_window_hunted_count"
 msgstr "Hunted: %1 free, %2 imprisoned"
 
@@ -14494,7 +14668,8 @@ msgstr "No winner - the hunt was called off"
 
 msgid "melek_veil_window_not_joined"
 msgstr ""
-"You have not joined yet. Teams are drawn at random when the hunt begins."
+"You have not joined yet. Teams are drawn at random when the hunt begins; "
+"latecomers join the side that needs them."
 
 msgid "melek_veil_window_obj_hunted"
 msgstr ""
@@ -14585,7 +14760,9 @@ msgid "melek_veil_window_won_hunters"
 msgstr "The Hunters win!"
 
 msgid "melek_veil_window_you_joined"
-msgstr "You are signed up. Teams are drawn at random when the hunt begins."
+msgstr ""
+"You are signed up. Teams are drawn at random when the hunt begins; players "
+"on the same machine always share a team."
 
 msgid "melek_veil_window_you_lost"
 msgstr "Your side lost"
@@ -21940,12 +22117,14 @@ msgstr "Stand right in front of a forge line station to work it."
 msgid "ymir_bar_full"
 msgstr ""
 "The Forge is lit! Ymir's devotees have stoked it full: in about %1 minutes "
-"Ymir's Forge musters in a red zone that will be marked on every map."
+"Ymir's Forge musters at %2. Until it begins, Ymir shelters all who gather "
+"there: no one can be harmed in his sanctuary."
 
 msgid "ymir_bar_warning"
 msgstr ""
-"The Forge burns hotter. Ymir's Forge musters in about %1 minutes, in a red "
-"zone that will be marked on every map."
+"The Forge burns hotter. Ymir's Forge musters at %2 in about %1 minutes. "
+"Until it begins, Ymir shelters all who gather there: no one can be harmed in "
+"his sanctuary."
 
 msgid "ymir_bench_charge"
 msgstr "Charge %1/%2"
@@ -22233,6 +22412,12 @@ msgstr "%1 flaw - swing to mend"
 msgid "ymir_flaw_mend_hint"
 msgstr "%1 (%2) flawed your rune here"
 
+msgid "ymir_forge_bar_hold"
+msgstr "%1: hammer held %2 percent"
+
+msgid "ymir_forge_bar_hold_inside"
+msgstr "%1: hammer held %2 percent - IN THEIR TOWER"
+
 msgid "ymir_forge_bar_label"
 msgstr "%1: %2 percent forged"
 
@@ -22278,6 +22463,26 @@ msgstr ""
 msgid "ymir_forge_kindling_carried"
 msgstr "Kindling carried: %1"
 
+msgid "ymir_forge_late_join_choose"
+msgstr "The race is on - choose a team to join it"
+
+msgid "ymir_forge_late_join_failed"
+msgstr ""
+"Ymir could not carry you to your tower: you no longer fight in this Forge. "
+"Choose a team again to try once more."
+
+msgid "ymir_forge_late_join_near"
+msgstr ""
+"Ymir's Forge is under way. Choose a team in the Forge window to join the "
+"race: Ymir carries you to your team's tower."
+
+msgid "ymir_forge_late_join_on_team"
+msgstr "You already fight for %1 in this Forge."
+
+msgid "ymir_forge_late_join_too_far"
+msgstr ""
+"Stand outside the Forge's wall, no more than %1 m from it, to join the race."
+
 msgid "ymir_forge_map_marker"
 msgstr "Ymir's Forge"
 
@@ -22286,6 +22491,12 @@ msgstr "You do not fight in Ymir's Forge: you were set down outside his cube."
 
 msgid "ymir_forge_moved_team"
 msgstr "The teams were evened out. You now fight for %1."
+
+msgid "ymir_forge_muster_reminder"
+msgstr ""
+"Ymir's Forge musters at %2: the race begins in %1 minutes. Choose your team "
+"and your job at the site marked on your map - late comers can still join the "
+"race. Until it begins, no one can be harmed in Ymir's sanctuary."
 
 msgid "ymir_forge_no_choice"
 msgstr "not chosen yet"
@@ -22337,9 +22548,10 @@ msgstr ""
 
 msgid "ymir_forge_starting"
 msgstr ""
-"Ymir's Forge has opened its muster! The race begins in %1 minutes at the "
-"site marked on your map: choose your team and your job there. All who fight "
-"are blessed with Ymir's Gift."
+"Ymir's Forge has opened its muster at %2! The race begins in %1 minutes at "
+"the site marked on your map: choose your team and your job there. Until it "
+"begins, no one can be harmed in Ymir's sanctuary. Once the race begins, all "
+"who fight in it are blessed with Ymir's Gift."
 
 msgid "ymir_forge_stockpile"
 msgstr "Kindling stockpile: %1"
@@ -22362,13 +22574,13 @@ msgstr ""
 "fights for one team."
 
 msgid "ymir_forge_timeout"
-msgstr "Ymir's Forge is over: no team finished the ritual in time."
+msgstr "Ymir's Forge is over: no team held its hammer long enough."
 
 msgid "ymir_forge_window_title"
 msgstr "Ymir's Forge"
 
 msgid "ymir_forge_won"
-msgstr "%1 have finished Ymir's ritual and win Ymir's Forge!"
+msgstr "%1 have held their Skaparhammer and win Ymir's Forge!"
 
 msgid "ymir_gatherer_cannot_fight"
 msgstr "Runners can't attack - switch jobs at your tower's Runner Post."
@@ -22387,15 +22599,88 @@ msgstr ""
 msgid "ymir_gatherer_now"
 msgstr "You are a Runner: fast, can leap, can't attack"
 
+msgid "ymir_hammer_awake"
+msgstr ""
+"%1's runes are forged: their Skaparhammer wakes and waits at the centre of "
+"the Forge!"
+
+msgid "ymir_hammer_back_on_shrine"
+msgstr ""
+"%1's Skaparhammer is back on its shrine at the centre of the Forge - still "
+"awake!"
+
 msgid "ymir_hammer_claimed"
 msgstr ""
-"You take up your team's hammer. Carry it to the forge at the top of your "
-"tower and work Ymir's ritual at the anvil."
+"You take up your team's Skaparhammer. Hold it to win - 4x faster inside your "
+"own tower. If you fall, it returns to your pedestal."
+
+msgid "ymir_hammer_compass_awake"
+msgstr "%1's Skaparhammer (awake)"
+
+msgid "ymir_hammer_compass_carried"
+msgstr "%1's Skaparhammer (carried)"
+
+msgid "ymir_hammer_do_escort_1"
+msgstr "A teammate holds your Skaparhammer - %1 percent held"
+
+msgid "ymir_hammer_do_escort_2"
+msgstr "Get them into your tower: it counts 4x faster there (%1 left)"
+
+msgid "ymir_hammer_do_escort_3"
+msgstr "If they fall, the hammer returns to your pedestal"
+
+msgid "ymir_hammer_do_guard_1"
+msgstr "Your hammer is held in your tower - %1 percent held"
+
+msgid "ymir_hammer_do_guard_2"
+msgstr "Hold your tower: %1 left to win"
+
+msgid "ymir_hammer_do_guard_3"
+msgstr "Keep the enemy away from your holder"
+
+msgid "ymir_hammer_do_hold_fall"
+msgstr "If you fall, the hammer returns to your pedestal"
+
+msgid "ymir_hammer_do_hold_in_1"
+msgstr "Holding in your tower - %1 percent held"
+
+msgid "ymir_hammer_do_hold_in_2"
+msgstr "Stay in your tower: %1 left to win"
+
+msgid "ymir_hammer_do_hold_out_1"
+msgstr "You hold your Skaparhammer - %1 percent held"
+
+msgid "ymir_hammer_do_hold_out_2"
+msgstr "Get into your tower: it counts 4x faster there (%1 left)"
+
+msgid "ymir_hammer_do_take_1"
+msgstr "Your Skaparhammer is AWAKE!"
+
+msgid "ymir_hammer_do_take_2"
+msgstr "Take it from your pedestal at the centre (F)"
+
+msgid "ymir_hammer_dormant"
+msgstr ""
+"Your Skaparhammer is still dormant: forge your runes at your tower's top "
+"floor to wake it."
 
 msgid "ymir_hammer_dropped"
 msgstr ""
-"%1 fell, and Ymir's hammer lies where they died. The first to reach it takes "
-"it up."
+"%1 fell, and the Skaparhammer lies where they died. The first to reach it "
+"takes it up."
+
+msgid "ymir_hammer_extra_time"
+msgstr "A Skaparhammer has woken: the race runs %1 minutes longer!"
+
+msgid "ymir_hammer_hold_how"
+msgstr "Hold it to win: %1 inside your tower, or %2 outside"
+
+msgid "ymir_hammer_hold_no_channel"
+msgstr ""
+"No channel needed: hold the hammer to win - 4x faster inside your tower"
+
+msgid "ymir_hammer_hold_percent"
+msgstr "%1 have held their Skaparhammer for %2 percent of the win - stop them!"
 
 msgid "ymir_hammer_kill_own_clan"
 msgstr ""
@@ -22417,51 +22702,75 @@ msgstr ""
 "take."
 
 msgid "ymir_hammer_lost"
-msgstr "Your team's hammer is lost. It returns to its stand at the centre."
+msgstr ""
+"Your team's Skaparhammer is lost. It returns to its stand at the centre."
 
 msgid "ymir_hammer_marker"
-msgstr "%1 carries Ymir's hammer"
+msgstr "%1 carries the Skaparhammer"
+
+msgid "ymir_hammer_marker_awake"
+msgstr "%1's Skaparhammer is awake"
+
+msgid "ymir_hammer_marker_carried"
+msgstr "%2 carries %1's Skaparhammer"
 
 msgid "ymir_hammer_marker_dropped"
-msgstr "Ymir's hammer lies here"
+msgstr "The Skaparhammer lies here"
 
 msgid "ymir_hammer_none"
-msgstr "You carry no hammer of Ymir's to offer."
+msgstr "You carry no Skaparhammer to offer."
 
 msgid "ymir_hammer_not_now"
 msgstr "No hammer can be taken up here now."
 
 msgid "ymir_hammer_not_unlocked"
 msgstr ""
-"Your team's hammer is not on its stand: fill your forge bar first, or "
+"Your team's Skaparhammer is not on its shrine: forge your runes first, or "
 "someone already carries it."
 
 msgid "ymir_hammer_not_yet"
 msgstr ""
-"Not now: Ymir's hammer can be offered only while its holder's run lasts."
+"Not now: the Skaparhammer can be offered only while its holder's run lasts."
 
 msgid "ymir_hammer_not_yours"
 msgstr "This hammer is not your team's."
 
 msgid "ymir_hammer_passed"
-msgstr "%1 struck down %2 and takes up Ymir's hammer. The hunt goes on!"
+msgstr "%1 struck down %2 and takes up the Skaparhammer. The hunt goes on!"
 
 msgid "ymir_hammer_picked_up"
-msgstr "%1 takes up Ymir's hammer where it lay."
+msgstr "%1 takes up the Skaparhammer where it lay."
+
+msgid "ymir_hammer_plate_awake_other"
+msgstr "Awake - only %1 may take it"
+
+msgid "ymir_hammer_plate_carried"
+msgstr "Carried away by %1 - it returns here if its carrier falls"
+
+msgid "ymir_hammer_plate_dormant"
+msgstr "The Skaparhammer wakes when %1's runes are forged"
+
+msgid "ymir_hammer_plate_take"
+msgstr "Take it (F)"
 
 msgid "ymir_hammer_returned"
-msgstr "%1's hammer is back on its stand at the centre."
+msgstr "%1's Skaparhammer is back on its stand at the centre."
 
 msgid "ymir_hammer_run_begins"
 msgstr ""
-"%1 carries Ymir's hammer out of the Forge: %2 minutes to offer it at the "
-"Anvil of Ymir. Stop them and it is yours!"
+"%1 carries the Skaparhammer out of the Forge: %2 minutes to offer it at the "
+"Anvil of Ymir. Stop them for a reward!"
 
 msgid "ymir_hammer_run_expired"
 msgstr "%1's time ran out: Ymir takes his hammer back."
 
 msgid "ymir_hammer_run_lost"
-msgstr "%1 has lost Ymir's hammer."
+msgstr "%1 has lost the Skaparhammer."
+
+msgid "ymir_hammer_run_stopped"
+msgstr ""
+"%1 was slain carrying the Skaparhammer: it returns to Ymir, and their slayer "
+"is rewarded."
 
 msgid "ymir_hammer_too_far"
 msgstr "You are too far away. Stand right next to the hammer's stand."
@@ -22470,18 +22779,19 @@ msgid "ymir_hammer_turn_in_paid"
 msgstr "+%1 Forge Favor (%2) and a cache."
 
 msgid "ymir_hammer_turned_in"
-msgstr "%1 has offered Ymir's hammer at the Anvil of Ymir."
+msgstr "%1 has offered the Skaparhammer at the Anvil of Ymir."
 
 msgid "ymir_hammer_unclaimed"
-msgstr "Ymir's hammer lay unclaimed and has returned to his forge."
+msgstr "The Skaparhammer lay unclaimed and has returned to his forge."
 
 msgid "ymir_hammer_unlocked"
 msgstr ""
-"%1's bar is full: their hammer waits on its stand at the centre of the Forge."
+"%1's bar is full: their Skaparhammer waits on its pedestal at the centre of "
+"the Forge."
 
 msgid "ymir_hammer_yours"
 msgstr ""
-"Ymir's hammer is yours: %1 minutes left to offer it at the Anvil of Ymir. "
+"The Skaparhammer is yours: %1 minutes left to offer it at the Anvil of Ymir. "
 "Everyone can see you on the map."
 
 msgid "ymir_help_button"
@@ -22534,8 +22844,7 @@ msgstr ""
 
 msgid "ymir_intro_4"
 msgstr ""
-"Each rune adds about +%1% to your team's hammer. At 100% the hammer is "
-"released."
+"Each rune adds about +%1% to your team's Skaparhammer. At 100% it wakes."
 
 msgid "ymir_intro_dismiss"
 msgstr "Move to close"
@@ -22770,8 +23079,14 @@ msgstr "Swing: +1 blow"
 msgid "ymir_nameplate_forge_any"
 msgstr "Anvil"
 
+msgid "ymir_nameplate_hammer_awake"
+msgstr "%1's Skaparhammer"
+
+msgid "ymir_nameplate_hammer_pedestal"
+msgstr "%1's Pedestal"
+
 msgid "ymir_nameplate_hammer_stand"
-msgstr "%1 Hammer Stand"
+msgstr "%1's Pedestal"
 
 msgid "ymir_nameplate_hammer_stand_any"
 msgstr "Hammer Stand"
@@ -22824,6 +23139,9 @@ msgstr "Swing: start a rune (%1 kindling)"
 msgid "ymir_nameplate_rune_table_any"
 msgstr "Rune Table"
 
+msgid "ymir_nameplate_runes_forged"
+msgstr "Your runes are forged - hold the hammer in your tower to win"
+
 msgid "ymir_nameplate_sabotage_action"
 msgstr "Swing: sabotage their rune"
 
@@ -22846,7 +23164,7 @@ msgid "ymir_no_weapon"
 msgstr "Draw a weapon - every step is a swing"
 
 msgid "ymir_offer_hammer"
-msgstr "Offer Ymir's Hammer"
+msgstr "Offer the Skaparhammer"
 
 msgid "ymir_pick_blood"
 msgstr "Blood"
@@ -22917,7 +23235,7 @@ msgid "ymir_ritual_interrupted"
 msgstr "Your ritual was broken off: %1. Begin it again at the anvil."
 
 msgid "ymir_ritual_no_hammer"
-msgstr "Ymir's ritual needs your team's hammer in your hands."
+msgstr "Ymir's ritual needs your team's Skaparhammer in your hands."
 
 msgid "ymir_role_1"
 msgstr "Fighter"
@@ -23038,6 +23356,22 @@ msgstr "you stepped away from the stockpile"
 msgid "ymir_sabotage_start"
 msgstr "You set to work spoiling %1's stockpile. Stay at it for %2 seconds."
 
+msgid "ymir_sanctuary_entered"
+msgstr ""
+"You enter Ymir's sanctuary. \"Rest by my fire - no blade bites here until "
+"the Forge is lit.\" No one can harm you here, and you can harm no one, until "
+"the race begins."
+
+msgid "ymir_sanctuary_left"
+msgstr ""
+"You leave Ymir's sanctuary. \"Out past the firelight, you are on your own.\" "
+"You can harm and be harmed."
+
+msgid "ymir_sanctuary_lifted"
+msgstr ""
+"Ymir's sanctuary is lifted: the race has begun. \"Now prove your worth at "
+"the anvil.\""
+
 msgid "ymir_spawn_your_tower"
 msgstr "Your tower"
 
@@ -23149,6 +23483,9 @@ msgstr "Go up to your top floor and face a station"
 
 msgid "ymir_window_job_fighter"
 msgstr "Your job: %1 - Your forge line: %2/%3"
+
+msgid "ymir_window_job_hammer"
+msgstr "Your job: hold the Skaparhammer - the runes are forged"
 
 msgid "ymir_window_muster_time"
 msgstr "The muster - time left: %1"
