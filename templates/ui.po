@@ -20607,6 +20607,9 @@ msgstr "Open your faction's War Council window"
 msgid "war_council_confirm"
 msgstr "Click {action} again to confirm."
 
+msgid "war_council_dec_APPLIED"
+msgstr "applied"
+
 msgid "war_council_dec_APPROVE"
 msgstr "approved by"
 
@@ -20643,6 +20646,13 @@ msgstr "sent to the War Chest"
 msgid "war_council_dec_SUBMIT"
 msgstr "submitted by"
 
+msgid "war_council_defence_funded"
+msgstr ""
+"The standing defence order funds the defence of %1: %2 FP for its defenders."
+
+msgid "war_council_defence_unfunded"
+msgstr "The standing defence order could not fund the defence of %1: %2."
+
 #. War Council: {n}
 msgid "war_council_electorate"
 msgstr "{n} eligible voters."
@@ -20674,6 +20684,9 @@ msgstr "Available"
 msgid "war_council_f_ballots"
 msgstr "Ballots"
 
+msgid "war_council_f_bonus"
+msgstr "Bonus per defence"
+
 msgid "war_council_f_bonuses"
 msgstr "Bonuses"
 
@@ -20704,6 +20717,9 @@ msgstr "Budget (FP)"
 msgid "war_council_f_funded_by"
 msgstr "Funded by"
 
+msgid "war_council_f_gate"
+msgstr "Council gate"
+
 msgid "war_council_f_guarantees"
 msgstr "Open guarantees"
 
@@ -20713,6 +20729,9 @@ msgstr "Held now"
 msgid "war_council_f_holder"
 msgstr "Holder"
 
+msgid "war_council_f_holding"
+msgstr "Holding"
+
 msgid "war_council_f_hours"
 msgstr "Duration"
 
@@ -20721,6 +20740,9 @@ msgstr "Income"
 
 msgid "war_council_f_last_result"
 msgstr "Last election"
+
+msgid "war_council_f_last_used"
+msgstr "Last used"
 
 msgid "war_council_f_mandate"
 msgstr "Mandate"
@@ -20739,6 +20761,9 @@ msgstr "Office"
 
 msgid "war_council_f_outcome"
 msgstr "Outcome"
+
+msgid "war_council_f_per_day"
+msgstr "Defences per day"
 
 msgid "war_council_f_petition_ends"
 msgstr "Petition ends"
@@ -20763,6 +20788,9 @@ msgstr "Reserve"
 
 msgid "war_council_f_running"
 msgstr "Campaigns running"
+
+msgid "war_council_f_siege"
+msgstr "Siege"
 
 msgid "war_council_f_signatures"
 msgstr "Signatures"
@@ -20802,6 +20830,38 @@ msgstr "Voting ends"
 
 msgid "war_council_f_you"
 msgstr "You"
+
+msgid "war_council_form_holding"
+msgstr "Holding"
+
+msgid "war_council_form_loading_holdings"
+msgstr "Loading holdings..."
+
+msgid "war_council_form_no_holding"
+msgstr "No enemy lawful holding to besiege."
+
+msgid "war_council_form_siege_hint"
+msgstr "0 FP = council gate only"
+
+msgid "war_council_gate_closed_gateway"
+msgstr ""
+"The council gate to %1 has closed: our siege plan ended or our faction lost "
+"the gateway."
+
+msgid "war_council_gate_open_attack"
+msgstr "Council gate open in %1: it leads to the gateway of %2 for our siege."
+
+msgid "war_council_gate_open_defence"
+msgstr "Council gate open in %1: it leads to %2's stone - defend it!"
+
+msgid "war_council_gate_refuse_faction"
+msgstr "This council gate is not for your faction."
+
+msgid "war_council_gate_refuse_lawful"
+msgstr "Only lawful members of the faction may use a council gate."
+
+msgid "war_council_gate_refuse_red"
+msgstr "You cannot use a council gate while flagged as a criminal."
 
 msgid "war_council_grp_active"
 msgstr "Active"
@@ -20947,6 +21007,9 @@ msgstr "Place"
 msgid "war_council_map_btn_plan"
 msgstr "Plan campaign"
 
+msgid "war_council_map_btn_plan_siege"
+msgstr "Plan siege"
+
 msgid "war_council_map_btn_remove"
 msgstr "Remove"
 
@@ -20972,6 +21035,9 @@ msgstr ""
 
 msgid "war_council_map_form_mark"
 msgstr "Mark {tile}"
+
+msgid "war_council_map_holding"
+msgstr "Holding: {name}"
 
 msgid "war_council_map_hub_1"
 msgstr "Regional hub"
@@ -21020,6 +21086,9 @@ msgstr "{office} {name}, {t}"
 
 msgid "war_council_map_region"
 msgstr " (territory of {glyph})"
+
+msgid "war_council_map_siege_pin"
+msgstr "Siege of {holding}"
 
 msgid "war_council_map_story_capital"
 msgstr "{name}, seat of the {faction}."
@@ -21175,6 +21244,39 @@ msgstr "Spymaster"
 msgid "war_council_office_WAR_MARSHAL"
 msgstr "War Marshal"
 
+msgid "war_council_order_btn_change"
+msgstr "Propose change"
+
+msgid "war_council_order_btn_off"
+msgstr "Switch off"
+
+msgid "war_council_order_change_proposed"
+msgstr "Change proposed ({id})"
+
+msgid "war_council_order_form_bonus"
+msgstr "Bonus per defence (FP, 0 = gates only)"
+
+msgid "war_council_order_form_per_day"
+msgstr "Defences per day"
+
+msgid "war_council_order_gates_only"
+msgstr "Gates only"
+
+msgid "war_council_order_never"
+msgstr "never"
+
+msgid "war_council_order_off"
+msgstr "The standing defence order is off - switched off by %1 (%2)."
+
+msgid "war_council_order_off_state"
+msgstr "Off"
+
+msgid "war_council_order_on"
+msgstr "On"
+
+msgid "war_council_order_title"
+msgstr "Standing defence order"
+
 msgid "war_council_pending"
 msgstr "Waiting for the War Council's answer..."
 
@@ -21264,6 +21366,43 @@ msgstr "{office} candidate: {name} - {votes} votes"
 msgid "war_council_seat"
 msgstr "You hold the {office} seat."
 
+msgid "war_council_siege_declared"
+msgstr ""
+"Siege on %1 declared: our council gate in %2 opens at preparation and leads "
+"to its gateway."
+
+msgid "war_council_siege_declared_no_gate"
+msgstr ""
+"Siege on %1 declared. We do not hold its gateway glyph, so no council gate "
+"opens for it until we take it."
+
+msgid "war_council_siege_defence_open"
+msgstr "%1 is under siege: the council gate to it opens at preparation in %2."
+
+msgid "war_council_siege_gate_closed"
+msgstr "Our council gate is closed"
+
+msgid "war_council_siege_gate_open"
+msgstr "Our council gate is open"
+
+msgid "war_council_siege_paid"
+msgstr "%1: the War Chest paid %2 player(s) %3 FP each."
+
+msgid "war_council_siege_phase_1"
+msgstr "declared"
+
+msgid "war_council_siege_phase_2"
+msgstr "preparation"
+
+msgid "war_council_siege_phase_3"
+msgstr "siege hour"
+
+msgid "war_council_siege_plan_funded"
+msgstr "Siege plan on %1 funded."
+
+msgid "war_council_siege_status"
+msgstr "{phase}, {m} min left"
+
 #. War Council: {office}, {reason}, {stage}, {nomEnd}, {voteEnd}
 msgid "war_council_spec"
 msgstr ""
@@ -21276,6 +21415,9 @@ msgstr "Special election for {office} ({reason}): closed."
 
 msgid "war_council_stage_ACTIVE"
 msgstr "active"
+
+msgid "war_council_stage_APPLIED"
+msgstr "applied"
 
 msgid "war_council_stage_APPROVED"
 msgstr "approved"
@@ -21384,6 +21526,12 @@ msgstr "Logistics"
 
 msgid "war_council_type_OFFENSIVE"
 msgstr "Offensive"
+
+msgid "war_council_type_SIEGE"
+msgstr "Siege"
+
+msgid "war_council_type_SIEGE_DEFENCE"
+msgstr "Siege defence"
 
 msgid "war_council_ui_balance"
 msgstr "Balance"
@@ -21585,6 +21733,9 @@ msgstr "{n} of {max}"
 
 msgid "war_council_v_pct"
 msgstr "{fp} FP ({pct} %)"
+
+msgid "war_council_v_per_day_max"
+msgstr "{n} (at most {max})"
 
 msgid "war_council_v_prop_budget"
 msgstr "{fp} FP for {hours} h"
