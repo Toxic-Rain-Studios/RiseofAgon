@@ -7151,6 +7151,22 @@ msgstr "Standard"
 msgid "faction_jobs_interdiction_tier_3"
 msgstr "Large"
 
+msgid "faction_jobs_job_desc_hunter"
+msgstr ""
+"Escort your faction's supply wagons and hunt the Raiders who rob them. Paid "
+"a share of each escorted delivery, plus defence and recovery rewards."
+
+msgid "faction_jobs_job_desc_raider"
+msgstr ""
+"Rob enemy supply wagons and haul the stolen cargo to a Smuggler Outpost, or "
+"sabotage enemy relays. Paid a share of what you extract."
+
+msgid "faction_jobs_job_desc_trader"
+msgstr ""
+"Run supply wagons from your capital or a held hub to your faction's glyph "
+"depots. Paid in gold and faction score on delivery; your wagon can be raided "
+"on the way."
+
 msgid "faction_jobs_job_hunter"
 msgstr "Hunter"
 
@@ -7281,6 +7297,15 @@ msgstr "cargo recovery"
 #. FJ8c: the reason on a Raider's faction-points pay for a completed Runic Relay sabotage job.
 msgid "faction_jobs_pay_reason_sabotage"
 msgstr "Relay sabotage"
+
+msgid "faction_jobs_preview_line"
+msgstr "Preview - switch to %1 to take these."
+
+msgid "faction_jobs_preview_loading"
+msgstr "Loading..."
+
+msgid "faction_jobs_preview_title"
+msgstr "%1 (preview)"
 
 msgid "faction_jobs_rank_0"
 msgstr "Recruit"
@@ -7457,8 +7482,20 @@ msgstr "Abandoned"
 msgid "faction_jobs_state_7"
 msgstr "Expired"
 
+msgid "faction_jobs_switch_blocked"
+msgstr "Finish your contract first"
+
 msgid "faction_jobs_switch_cooldown"
 msgstr "Job change available in %1 min."
+
+msgid "faction_jobs_switch_take"
+msgstr "Take the %1 job"
+
+msgid "faction_jobs_switch_to"
+msgstr "Switch to %1"
+
+msgid "faction_jobs_switch_wait"
+msgstr "Switch in %1"
 
 msgid "faction_jobs_type_1"
 msgstr "Reinforcement"
