@@ -9031,6 +9031,52 @@ msgid "NOTIFICATION_CRAFTING_SKILL_GAINED_LESS_XP"
 msgstr ""
 "You are only receiving %2 of the max experience gain in %1 for crafting that."
 
+#. The skill is at the research ceiling. Runtime parameter: profession.
+msgid "NOTIFICATION_CRAFT_TASK_CEILING"
+msgstr ""
+"Your %1 cannot improve further until you research more recipes. The task is "
+"kept."
+
+#. Tasks handed in. Runtime parameters: NPC, how many tasks.
+msgid "NOTIFICATION_CRAFT_TASK_DELIVERED"
+msgstr "%1 takes your delivery (%2 tasks). Thank you!"
+
+#. The offer clicked was dealt again (new day or another board). Runtime parameter: unused.
+msgid "NOTIFICATION_CRAFT_TASK_NONE"
+msgstr "That task is no longer on offer."
+
+#. A crafted task's items are not in the backpack. Runtime parameters: item, how many.
+msgid "NOTIFICATION_CRAFT_TASK_NOT_CARRIED"
+msgstr "You need %2 %1 in your backpack to deliver this task."
+
+#. Visited a task NPC with unfinished tasks. Runtime parameters: NPC, how many unfinished.
+msgid "NOTIFICATION_CRAFT_TASK_NOT_CRAFTED"
+msgstr "%1 is still waiting on %2 unfinished tasks."
+
+#. No openings left for the profession. Runtime parameter: profession.
+msgid "NOTIFICATION_CRAFT_TASK_NO_OPENINGS"
+msgstr "No %1 tasks left to take today."
+
+#. A craft counted for a task. Runtime parameters: item, crafted, needed.
+msgid "NOTIFICATION_CRAFT_TASK_PROGRESS"
+msgstr "Crafting task: %1 %2/%3"
+
+#. Everything for a task is crafted. Runtime parameter: NPC.
+msgid "NOTIFICATION_CRAFT_TASK_READY"
+msgstr "Your task is ready. Deliver it to %1."
+
+#. A crafting task was taken. Runtime parameters: item, how many, NPC.
+msgid "NOTIFICATION_CRAFT_TASK_TAKEN"
+msgstr "Task taken: craft %1 x%2 and deliver to %3."
+
+#. The task's second item. Runtime parameters: item, how many.
+msgid "NOTIFICATION_CRAFT_TASK_TAKEN_ALSO"
+msgstr "The task also asks for %1 x%2."
+
+#. The Monday reset wiped undelivered crafting tasks. Runtime parameter: how many.
+msgid "NOTIFICATION_CRAFT_TASK_WIPED"
+msgstr "The weekly reset wiped %1 undelivered crafting tasks."
+
 msgid "NOTIFICATION_CREATE_PARTY_NOT_ALLOWED_AS_A_MONSTER"
 msgstr "^Cred^You can not create a party while you are playing as a monster."
 
@@ -13921,6 +13967,70 @@ msgstr "It looks like there's something here, try again."
 
 msgid "NOTIFICATION_TREASURE_MAP_SUCCESS"
 msgstr "You found the treasure!"
+
+#. A research given up; its donations are lost. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_ABANDONED"
+msgstr "You have paused your research of %1."
+
+#. Research refused: its blueprint is not in the backpack. Runtime parameters: the blueprint.
+msgid "NOTIFICATION_TREE_RESEARCH_BLUEPRINT"
+msgstr "This item requires its blueprint to research."
+
+#. A blueprint for a research book item was read; it is used in research instead. Runtime parameters: the blueprint.
+msgid "NOTIFICATION_TREE_RESEARCH_BLUEPRINT_NOT_READ"
+msgstr "%1 cannot be read. Use it to begin research in your research book."
+
+#. Some of a research's materials donated. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_DONATED"
+msgstr "You have donated materials to your research of %1."
+
+#. Every material of a research donated. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_DONATED_ALL"
+msgstr "Your research of %1 now has all its materials."
+
+#. Research finished; its recipe is now known. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_DONE"
+msgstr "Your research of %1 has completed."
+
+#. Research refused: already known. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_KNOWN"
+msgstr "You already know how to craft %1."
+
+#. Research refused: skill too low. Runtime parameters: the item, the skill, the level it needs.
+msgid "NOTIFICATION_TREE_RESEARCH_LEVEL"
+msgstr "This item requires %2 skill at level %3 to research."
+
+#. Donate pressed with none of the materials in the backpack. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_NOTHING_TO_DONATE"
+msgstr "You carry none of the materials your research of %1 still needs."
+
+#. The old research (researching crafted items to level a skill) was used; it is switched off.
+msgid "NOTIFICATION_TREE_RESEARCH_OLD_OFF"
+msgstr "Research now happens in the research book."
+
+#. Research refused: the items before it in the tree are not researched. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_PREREQUISITES"
+msgstr "You must research the items before %1 first."
+
+#. Research refused: another race's item. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_RACE"
+msgstr "Your race cannot research %1."
+
+#. Research refused: already being researched. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_RUNNING"
+msgstr "You are already researching %1."
+
+#. Research refused: every research slot in use. Runtime parameters: the number of slots.
+msgid "NOTIFICATION_TREE_RESEARCH_SLOTS"
+msgstr "All %1 of your research slots are in use."
+
+#. A research has used up what was donated and waits for more. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_STALLED"
+msgstr "Your research of %1 has paused. Invest more materials to continue."
+
+#. Research from the research book: research started. Runtime parameters: the item.
+msgid "NOTIFICATION_TREE_RESEARCH_STARTED"
+msgstr "You have begun researching %1."
 
 msgid "NOTIFICATION_TRIAL_ACCOUNT_CANNOT_CREATE_PARTY"
 msgstr ""

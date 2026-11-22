@@ -5126,6 +5126,292 @@ msgstr "Cosmetic unlocked."
 msgid "craft_prompt_window_title"
 msgstr "Select Crafting Skill"
 
+#. Crafting tasks board: heading over the tasks on offer. %1 = profession.
+msgid "craft_tasks_available"
+msgstr "%1 tasks on offer"
+
+#. Crafting tasks board: window title.
+msgid "craft_tasks_board_title"
+msgstr "Crafting Tasks"
+
+#. Crafting tasks board: tag on a task that pays extra skill (first time for that recipe).
+msgid "craft_tasks_bonus"
+msgstr "Bonus XP"
+
+#. Crafting task: everything is crafted. %1 = NPC, %2 = city.
+msgid "craft_tasks_deliver_to"
+msgstr "Deliver them to %1 in %2."
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_armour"
+msgstr "Armour"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_arrows"
+msgstr "Arrows"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_axes"
+msgstr "Axes"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_bows"
+msgstr "Bows"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_clothing"
+msgstr "Clothing"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_clubs"
+msgstr "Clubs"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_containers"
+msgstr "Bags"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_greataxes"
+msgstr "Greataxes"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_greatclubs"
+msgstr "Great clubs"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_greatswords"
+msgstr "Greatswords"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_jewelsmithing"
+msgstr "Jewellery"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_knives"
+msgstr "Knives"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_polearms"
+msgstr "Polearms"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_shields"
+msgstr "Shields"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_staff_crafting"
+msgstr "Staves"
+
+#. Crafting task title: item family, plural.
+msgid "craft_tasks_family_swords"
+msgstr "Swords"
+
+#. Crafting task: who takes it, before the crafting is done. %1 = NPC, %2 = city.
+msgid "craft_tasks_for"
+msgstr "For %1 in %2"
+
+#. Crafting tasks board: heading over the held tasks. %1 = profession.
+msgid "craft_tasks_held"
+msgstr "Your %1 tasks"
+
+#. Crafting tasks board: the line under the openings.
+msgid "craft_tasks_intro"
+msgstr ""
+"Pick a task, craft what it asks for, and deliver it to the named NPC in this "
+"city. Tasks are how your professions improve."
+
+#. Crafting task: the recipe it asks for is not researched yet. %1 = item.
+msgid "craft_tasks_needs_research"
+msgstr "Research the %1 recipe first."
+
+#. Crafting tasks board: the character has none of the six professions.
+msgid "craft_tasks_no_profession"
+msgstr "Learn a crafting profession to take tasks here."
+
+#. Crafting tasks board: openings left, but nothing to offer (no recipe to ask for).
+msgid "craft_tasks_none_available"
+msgstr "No tasks to offer right now."
+
+#. Crafting tasks board: no held tasks for the profession.
+msgid "craft_tasks_none_held"
+msgstr "You hold no tasks for this profession."
+
+#. Crafting tasks board: no openings left this week for the profession.
+msgid "craft_tasks_none_left"
+msgstr "No tasks left to take. New tasks tomorrow."
+
+#. Crafting tasks board: tasks the character may still take. %1 today's, %2 stacked from earlier days this week.
+msgid "craft_tasks_openings"
+msgstr "Tasks you can take today: %1     Stacked from earlier days: %2"
+
+#. Quest tracker: right of a crafting task's title once everything is crafted.
+msgid "craft_tasks_ready"
+msgstr "Ready"
+
+#. Crafting tasks board: the weekly wipe. %1 = time left, e.g. 2d 5h.
+msgid "craft_tasks_reset"
+msgstr "Tasks not delivered are wiped on Monday at 10:00 UTC (in %1)."
+
+#. Crafting tasks board: button on each offered task.
+msgid "craft_tasks_take"
+msgstr "Take"
+
+#. Crafting tasks board: time left. %1 days, %2 hours.
+msgid "craft_tasks_time_days"
+msgstr "%1d %2h"
+
+#. Crafting tasks board: time left. %1 hours, %2 minutes.
+msgid "craft_tasks_time_hours"
+msgstr "%1h %2m"
+
+#. Crafting tasks board: time left. %1 minutes.
+msgid "craft_tasks_time_minutes"
+msgstr "%1m"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_apprentices"
+msgstr "Equipment for the apprentices"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_archery_range"
+msgstr "Stocking the archery range"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_armoury"
+msgstr "Filling the armoury"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_caravan"
+msgstr "%1 for the next caravan"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_circle"
+msgstr "%1 for the circle"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_city_watch"
+msgstr "%1 for the city watch"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_favour"
+msgstr "A favour for %2"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_for_armoury"
+msgstr "%1 for the armoury"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_for_npc"
+msgstr "%1 for %2"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_forge"
+msgstr "Extra hands at %2's forge"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_fresh_armoury"
+msgstr "Fresh %1 for the armoury"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_garrison"
+msgstr "%1 for the garrison"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_gift_mage"
+msgstr "A gift for the mage"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_guards_kit"
+msgstr "Restocking the guards' kit"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_harvest_fair"
+msgstr "Stock for the harvest fair"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_hunters_lodge"
+msgstr "%1 for the hunters' lodge"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_library_vaults"
+msgstr "%1 for the library vaults"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_market_stall"
+msgstr "%1 for the market stall"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_next_raid"
+msgstr "Before the next raid"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_night_patrol"
+msgstr "Arming the night patrol"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_npc_needs"
+msgstr "%2 needs %1"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_outlying_farms"
+msgstr "Supplies for the outlying farms"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_quickly"
+msgstr "%1, and quickly"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_recruits"
+msgstr "%1 for the recruits"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_replacing_broken"
+msgstr "Replacing broken %1"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_running_short"
+msgstr "%2 is running short of %1"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_shelves"
+msgstr "Restocking %2's shelves"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_special_request"
+msgstr "%2's special request"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_spell_casting"
+msgstr "%1 for spell casting"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_study"
+msgstr "%1 for %2's studies"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_thaumaturgist"
+msgstr "%1 for the thaumaturgist"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_training"
+msgstr "%1 for the training yard"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_travellers"
+msgstr "%1 for travellers"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_urgent"
+msgstr "Urgent: %1 wanted"
+
+#. Crafting task title. %1 = item family (Knives), %2 = NPC.
+msgid "craft_tasks_title_wealthy_buyer"
+msgstr "%1 for a wealthy buyer"
+
+#. Quest tracker: heading over held crafting tasks.
+msgid "craft_tasks_tracker_heading"
+msgstr "Crafting Tasks"
+
 msgid "crafting"
 msgstr "crafting"
 
@@ -5135,14 +5421,68 @@ msgstr "Max"
 msgid "crafting_amount_label_text"
 msgstr "Amount:"
 
+msgid "crafting_base_divider"
+msgstr "BASIC"
+
 msgid "crafting_blocked_pvp_combat"
 msgstr "You cannot craft in PvP combat."
+
+msgid "crafting_book_title"
+msgstr "Crafting"
+
+msgid "crafting_btn_research"
+msgstr "Research"
+
+msgid "crafting_card_made_at"
+msgstr "Crafted at %1"
+
+msgid "crafting_card_materials"
+msgstr "Materials to craft"
+
+msgid "crafting_card_needs"
+msgstr "Needs %1 (you: %2)"
+
+msgid "crafting_card_not_researched"
+msgstr "Not researched"
+
+msgid "crafting_card_researched"
+msgstr "Researched"
+
+msgid "crafting_card_show_recipe"
+msgstr "Show recipe >"
+
+msgid "crafting_card_show_tree"
+msgstr "Show in research tree >"
 
 msgid "crafting_chances_label_text"
 msgstr "Chance of Success:"
 
+msgid "crafting_col_item"
+msgstr "Item"
+
+msgid "crafting_col_location"
+msgstr "Location"
+
+msgid "crafting_col_qty"
+msgstr "Qty"
+
+msgid "crafting_col_rank"
+msgstr "Rank"
+
+msgid "crafting_col_station"
+msgstr "Station"
+
+msgid "crafting_col_status"
+msgstr "Status"
+
+msgid "crafting_col_tip"
+msgstr "Tip"
+
 msgid "crafting_combinations_label_text"
 msgstr "Combinations"
+
+msgid "crafting_craftable_only"
+msgstr "Craftable only"
 
 msgid "crafting_create_button_text"
 msgstr "Create"
@@ -5156,14 +5496,104 @@ msgstr "You must be at a crafting station to create this."
 msgid "crafting_error_requires_station"
 msgstr "Station required: %1"
 
+msgid "crafting_group_ammunition"
+msgstr "Ammunition"
+
+msgid "crafting_group_boats"
+msgstr "Boats"
+
+msgid "crafting_group_faction_tools"
+msgstr "Faction Tools"
+
+msgid "crafting_group_gliders"
+msgstr "Gliders"
+
+msgid "crafting_group_modules"
+msgstr "Modules"
+
+msgid "crafting_group_ship_supplies"
+msgstr "Ship Supplies"
+
+msgid "crafting_group_siege"
+msgstr "Siege"
+
+msgid "crafting_group_utility"
+msgstr "Utility"
+
+msgid "crafting_group_war_machines"
+msgstr "War Machines"
+
 msgid "crafting_items_label_text"
 msgstr "Items:"
+
+msgid "crafting_list_title"
+msgstr "%1 > %2"
+
+msgid "crafting_mastery_divider"
+msgstr "MASTERY"
+
+msgid "crafting_no_research"
+msgstr "No research for this profession"
+
+msgid "crafting_not_made_at_this_station"
+msgstr "This station doesn't make that item."
+
+msgid "crafting_order_cancel"
+msgstr "Cancel"
+
+msgid "crafting_order_cancelled"
+msgstr "Cancelled"
+
+msgid "crafting_order_done"
+msgstr "Done"
+
+msgid "crafting_order_expired"
+msgstr "Expired"
+
+msgid "crafting_order_in_mail"
+msgstr "Check mailbox"
+
+msgid "crafting_order_open"
+msgstr "Open"
+
+msgid "crafting_order_working"
+msgstr "Being crafted"
+
+msgid "crafting_orders_none"
+msgstr "You have no crafting orders."
+
+msgid "crafting_output_bag"
+msgstr "Output bag"
+
+msgid "crafting_page_orders"
+msgstr "My orders"
+
+msgid "crafting_page_recipes"
+msgstr "Recipes"
+
+msgid "crafting_page_research"
+msgstr "Research"
+
+msgid "crafting_professions_here"
+msgstr "Professions here"
 
 msgid "crafting_professions_title"
 msgstr "Crafting Professions"
 
 msgid "crafting_recipe_label_text"
 msgstr "Components:"
+
+msgid "crafting_recipes_title"
+msgstr "%1 recipes"
+
+msgid "crafting_search_hint"
+msgstr "Search recipes"
+
+msgid "crafting_status_made_at"
+msgstr "Made at %1"
+
+msgid "crafting_status_needs_level"
+msgstr "Needs level %1"
 
 msgid "crafting_window_title"
 msgstr "Crafting"
@@ -5904,6 +6334,9 @@ msgstr "This gem holds materials up to Q%1"
 msgid "enchanting_gem_max_quality"
 msgstr "Max Q%1"
 
+msgid "enchanting_gem_none"
+msgstr "You need a gem here - you have none"
+
 msgid "enchanting_header_catalyst"
 msgstr "Catalyst"
 
@@ -5960,6 +6393,9 @@ msgstr ""
 msgid "enchanting_picker_select_transmute"
 msgstr ""
 "Select a transmute from the list on the right to see the materials it needs."
+
+msgid "enchanting_quality_column"
+msgstr "Q%1"
 
 msgid "enchanting_select_enchant_title"
 msgstr "Select an enchant"
@@ -17571,11 +18007,18 @@ msgstr "Research Supplies"
 msgid "research_time"
 msgstr "Time: "
 
+#. Research book: a research's button that gives it up.
+msgid "research_tree_abandon"
+msgstr "Abandon"
+
 msgid "research_tree_and"
 msgstr "and"
 
 msgid "research_tree_blueprint"
 msgstr "Blueprint: %1"
+
+msgid "research_tree_blueprint_label"
+msgstr "Blueprint"
 
 msgid "research_tree_cat_armour"
 msgstr "Armour"
@@ -17625,6 +18068,9 @@ msgstr "Staff Crafting"
 msgid "research_tree_cat_swords"
 msgstr "Swords"
 
+msgid "research_tree_clock_days"
+msgstr "%1d %2"
+
 msgid "research_tree_count"
 msgstr "%1 / %2"
 
@@ -17637,25 +18083,44 @@ msgstr "%1 days"
 msgid "research_tree_donate"
 msgstr "Donate"
 
+#. Research book: a research's button that donates every material in the backpack.
+msgid "research_tree_donate_all"
+msgstr "Donate all"
+
 msgid "research_tree_empty"
 msgstr "The research trees could not be loaded."
 
 msgid "research_tree_every_route"
 msgstr "On every route: %1"
 
+#. Research book: the button beside one material of a running research that donates that material from the backpack.
+msgid "research_tree_give"
+msgstr "Give"
+
 msgid "research_tree_hint"
 msgstr ""
 "Wheel to zoom, drag to pan. Hover an item for its tooltip; click it to see "
 "what it needs."
 
+msgid "research_tree_hint_scroll"
+msgstr ""
+"Wheel or drag to scroll. Hover an item for its tooltip; click it to see what "
+"it needs."
+
 msgid "research_tree_hours"
 msgstr "%1 h"
 
+msgid "research_tree_hours_minutes"
+msgstr "%1 h %2 min"
+
 msgid "research_tree_known"
-msgstr "Known from the start."
+msgstr "Unlocked"
 
 msgid "research_tree_level"
-msgstr "Lv %1"
+msgstr "Level %1"
+
+msgid "research_tree_level_header"
+msgstr "Level"
 
 msgid "research_tree_mastery_level"
 msgstr "M%1"
@@ -17667,7 +18132,10 @@ msgid "research_tree_minutes"
 msgstr "%1 min"
 
 msgid "research_tree_needs"
-msgstr "Needs %1"
+msgstr "Needs: %1"
+
+msgid "research_tree_needs_either"
+msgstr "Needs either:"
 
 msgid "research_tree_needs_nothing"
 msgstr "nothing"
@@ -17693,26 +18161,75 @@ msgstr "or"
 msgid "research_tree_panel_title"
 msgstr "Research"
 
+msgid "research_tree_paused"
+msgstr "Research paused."
+
+msgid "research_tree_pick_item"
+msgstr "Click an item on the tree to see what it needs"
+
+#. Research book: label of a running research's progress row.
+msgid "research_tree_progress"
+msgstr "Progress"
+
+#. Research book: a running research's progress. Runtime parameters: time done, the research's whole time.
+msgid "research_tree_progress_of"
+msgstr "%1 of %2"
+
+msgid "research_tree_race_only"
+msgstr "%1 only"
+
 msgid "research_tree_rank_level"
 msgstr "Rank %1 · %2"
 
 msgid "research_tree_rank_level_race"
 msgstr "Rank %1 · %2 · %3 only"
 
+msgid "research_tree_remaining"
+msgstr "Remaining time"
+
 msgid "research_tree_researched"
 msgstr "Researched."
+
+#. Research book: a running research's item page, above its progress.
+msgid "research_tree_researching"
+msgstr "Being researched"
 
 msgid "research_tree_shared"
 msgstr "Shared by more than one"
 
+#. Research book: a research slot's number, beside the item in it. Runtime parameters: the slot's number.
+msgid "research_tree_slot"
+msgstr "Slot %1"
+
 msgid "research_tree_slot_blueprint"
 msgstr "Slot blueprint"
+
+msgid "research_tree_slot_click"
+msgstr "Click to see more"
+
+#. Research book: a research slot with nothing in it. Runtime parameters: the slot's number.
+msgid "research_tree_slot_empty"
+msgstr "Slot %1 is free"
+
+msgid "research_tree_slots_strip"
+msgstr "Researching %1/%2"
+
+#. Research book: the title of the page listing the research slots, on the contents' right-hand page.
+msgid "research_tree_slots_title"
+msgstr "Research"
 
 msgid "research_tree_start"
 msgstr "Start research"
 
+msgid "research_tree_starter"
+msgstr "Starter"
+
 msgid "research_tree_time"
 msgstr "Research time"
+
+#. Research book: a research that has used what was donated.
+msgid "research_tree_waiting"
+msgstr "Paused: donate more materials to carry on."
 
 msgid "right_arrow"
 msgstr "->"
