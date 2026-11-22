@@ -1817,6 +1817,19 @@ msgstr "Esc to stop"
 msgid "cache_auto_open_title"
 msgstr "Opening caches"
 
+msgid "cache_items_lost"
+msgstr ""
+"Some of the cache's contents could not be placed in your pack. A GM can look "
+"this up and replace them."
+
+msgid "cache_items_reimbursed"
+msgstr ""
+"Your pack and bank were full: the cache's contents will be given to you the "
+"next time you log in."
+
+msgid "cache_items_to_bank"
+msgstr "Your pack was full: the cache's contents were sent to your bank."
+
 msgid "cache_menu_all"
 msgstr "Open all"
 
@@ -1833,8 +1846,10 @@ msgstr "Skip spinning"
 msgid "cache_menu_title"
 msgstr "Open a cache"
 
-msgid "cache_open_failed_returned"
-msgstr "The cache could not be opened. It has been returned to your pack."
+msgid "cache_open_no_room"
+msgstr ""
+"Your pack is too full to open this cache. Make room for %1 more items and "
+"try again."
 
 msgid "cancel"
 msgstr "Cancel"
@@ -6023,8 +6038,20 @@ msgstr ""
 "a golden sun pommel unite the Righteous Trinity in this one-handed sword "
 "skin."
 
+msgid "devotion_already_serve"
+msgstr "You already serve %1."
+
 msgid "devotion_aura_already_owned"
 msgstr "You already own this aura."
+
+msgid "devotion_bar_highest"
+msgstr "Devotion %1 - highest rank"
+
+msgid "devotion_bar_next"
+msgstr "Devotion %1 / %2 - next rank: %3"
+
+msgid "devotion_coming_soon"
+msgstr "Coming soon"
 
 msgid "devotion_confirm_drain"
 msgstr "Every devotion you earn for %1 takes one point from it."
@@ -6050,6 +6077,48 @@ msgstr "You return with %1 devotion (%2)."
 msgid "devotion_confirm_switch_title"
 msgstr "Devote yourself to %1?"
 
+msgid "devotion_cooldown_line"
+msgstr "You can change gods again in %1."
+
+msgid "devotion_counting_faithful"
+msgstr "%1 is counting his faithful..."
+
+msgid "devotion_devote_button"
+msgstr "Devote"
+
+msgid "devotion_devote_to_button"
+msgstr "Devote to %1"
+
+msgid "devotion_devote_to_gain"
+msgstr "Devote yourself to this god to gain devotion."
+
+msgid "devotion_devoted_to"
+msgstr "You devote yourself to %1: %2."
+
+msgid "devotion_devotees_serve"
+msgstr "%1 devotees serve %2"
+
+msgid "devotion_devotees_serve_one"
+msgstr "1 devotee serves %1"
+
+msgid "devotion_duration_day"
+msgstr "%1 days"
+
+msgid "devotion_duration_day_one"
+msgstr "%1 day"
+
+msgid "devotion_duration_hour"
+msgstr "%1 hours"
+
+msgid "devotion_duration_hour_one"
+msgstr "%1 hour"
+
+msgid "devotion_duration_minute"
+msgstr "%1 minutes"
+
+msgid "devotion_duration_minute_one"
+msgstr "%1 minute"
+
 msgid "devotion_eventspawn_cmd_action"
 msgstr "start, advance, stop or status"
 
@@ -6068,6 +6137,54 @@ msgstr ""
 "spawns or runs Ymir's event, Ymir's Forge: start, advance (end the current "
 "phase now), stop, status"
 
+msgid "devotion_favor_left"
+msgstr "%1 %2 left."
+
+msgid "devotion_god_says"
+msgstr "%1: \"%2\""
+
+msgid "devotion_inactive_line"
+msgstr "Your devotion: %1 (inactive)"
+
+msgid "devotion_kill_line"
+msgstr "+%1 Devotion - %2 (%3 / %4)"
+
+msgid "devotion_kill_line_highest"
+msgstr "+%1 Devotion - %2 (%3, highest rank)"
+
+msgid "devotion_left_god"
+msgstr "You have left %1 for %2. Your devotion to %1 is kept, inactive."
+
+msgid "devotion_need_favor"
+msgstr "You need %1 %2 for that - you have %3."
+
+msgid "devotion_overview_devotee_of"
+msgstr "As %1 Devotee"
+
+msgid "devotion_overview_dogma"
+msgstr "Dogma"
+
+msgid "devotion_overview_event_of"
+msgstr "%1 Event: %2"
+
+msgid "devotion_overview_pilgrimage"
+msgstr "Pilgrimage"
+
+msgid "devotion_overview_relics"
+msgstr "Relics"
+
+msgid "devotion_overview_rivals"
+msgstr "Rivals"
+
+msgid "devotion_panel_bar"
+msgstr "The %1"
+
+msgid "devotion_panel_bar_unknown"
+msgstr "The god's Bar"
+
+msgid "devotion_panel_currency"
+msgstr "%1: %2"
+
 msgid "devotion_purchase_done"
 msgstr "[%1] %2 grants you an offering. %3 %4 left."
 
@@ -6080,8 +6197,188 @@ msgstr "[%1] You need %2 %3 for that - you have %4."
 msgid "devotion_purchase_pending"
 msgstr "Your last offering is still being prepared. Try again in a moment."
 
+msgid "devotion_quoted"
+msgstr "\"%1\""
+
+msgid "devotion_rank_ashaka_1"
+msgstr "Chosen of Ashaka"
+
+msgid "devotion_rank_ashaka_2"
+msgstr "Dragonbound"
+
+msgid "devotion_rank_ashaka_3"
+msgstr "Heartcutter"
+
+msgid "devotion_rank_ashaka_4"
+msgstr "Scarred"
+
+msgid "devotion_rank_ashaka_5"
+msgstr "Kindling"
+
+msgid "devotion_rank_auros_1"
+msgstr "Lightbringer"
+
+msgid "devotion_rank_auros_2"
+msgstr "Paladin"
+
+msgid "devotion_rank_auros_3"
+msgstr "White Elder"
+
+msgid "devotion_rank_auros_4"
+msgstr "Dawnwarden"
+
+msgid "devotion_rank_auros_5"
+msgstr "Lightseeker"
+
+msgid "devotion_rank_lorathai_1"
+msgstr "Master Huntsman"
+
+msgid "devotion_rank_lorathai_2"
+msgstr "Cleanser"
+
+msgid "devotion_rank_lorathai_3"
+msgstr "Silverbow"
+
+msgid "devotion_rank_lorathai_4"
+msgstr "Songkeeper"
+
+msgid "devotion_rank_lorathai_5"
+msgstr "Sapling"
+
+msgid "devotion_rank_malaut_1"
+msgstr "High Priest"
+
+msgid "devotion_rank_malaut_2"
+msgstr "Coterie Cleric"
+
+msgid "devotion_rank_malaut_3"
+msgstr "Beguiler"
+
+msgid "devotion_rank_malaut_4"
+msgstr "Acolyte"
+
+msgid "devotion_rank_malaut_5"
+msgstr "Shaded"
+
+msgid "devotion_rank_melek_1"
+msgstr "Horned Priest"
+
+msgid "devotion_rank_melek_2"
+msgstr "Shadow Robe"
+
+msgid "devotion_rank_melek_3"
+msgstr "Ghost Robe"
+
+msgid "devotion_rank_melek_4"
+msgstr "Black Robe"
+
+msgid "devotion_rank_melek_5"
+msgstr "Agent of the God-King"
+
+msgid "devotion_rank_unnamed"
+msgstr "Devotee %1"
+
+msgid "devotion_rank_unnamed_of"
+msgstr "%1 Devotee %2"
+
+msgid "devotion_rank_up"
+msgstr "You are now %1!"
+
+msgid "devotion_rank_valdazeer_1"
+msgstr "Keeper of Runes"
+
+msgid "devotion_rank_valdazeer_2"
+msgstr "Grave Scholar"
+
+msgid "devotion_rank_valdazeer_3"
+msgstr "Dicecaster"
+
+msgid "devotion_rank_valdazeer_4"
+msgstr "Ghostbinder"
+
+msgid "devotion_rank_valdazeer_5"
+msgstr "Minion"
+
+msgid "devotion_rank_ymir_1"
+msgstr "Voice of Ymir"
+
+msgid "devotion_rank_ymir_2"
+msgstr "Thain"
+
+msgid "devotion_rank_ymir_3"
+msgstr "Runecaster"
+
+msgid "devotion_rank_ymir_4"
+msgstr "Annalist"
+
+msgid "devotion_rank_ymir_5"
+msgstr "Pathwalker"
+
+msgid "devotion_refusal_finish_pilgrimage"
+msgstr "Finish your pilgrimage first."
+
+msgid "devotion_refusal_finish_rite"
+msgstr "Finish the rite first."
+
+msgid "devotion_refusal_lay_down_relic"
+msgstr "Lay down the relic first."
+
+msgid "devotion_refusal_no_god"
+msgstr "That is no god."
+
+msgid "devotion_skin_owned"
+msgstr "You already own the %1 skin."
+
+msgid "devotion_skins_learning"
+msgstr "%1 is still learning which skins you own - try again in a moment."
+
+msgid "devotion_standing_a"
+msgstr "You're a %1."
+
+msgid "devotion_standing_a_of"
+msgstr "You're a %1 of %2."
+
+msgid "devotion_standing_an"
+msgstr "You're an %1."
+
+msgid "devotion_standing_an_of"
+msgstr "You're an %1 of %2."
+
+msgid "devotion_standing_none"
+msgstr "You serve no god."
+
+msgid "devotion_tab_most_devoted"
+msgstr "Most Devoted"
+
+msgid "devotion_tab_overview"
+msgstr "Overview"
+
+msgid "devotion_time_days_hours"
+msgstr "%1d %2h"
+
+msgid "devotion_time_hours_minutes"
+msgstr "%1h %2m"
+
 msgid "devotion_title"
 msgstr "Devotion"
+
+msgid "devotion_try_again_moment"
+msgstr "Try again in a moment."
+
+msgid "devotion_twilight_aura_owned"
+msgstr "You already own the Twilight Aura."
+
+msgid "devotion_window_events"
+msgstr "Events"
+
+msgid "devotion_window_gods"
+msgstr "Gods"
+
+msgid "devotion_window_no_events"
+msgstr "No god event is called right now."
+
+msgid "devotion_your_kills"
+msgstr "Your kills %1."
 
 msgid "display_modes_borderless"
 msgstr "Borderless"
@@ -6124,6 +6421,18 @@ msgstr "The gods favour %1: %2 from %3!"
 #. Divine cache: the pack could not take the items, so they went to the bank.
 msgid "divine_cache_to_bank"
 msgstr "Your pack was full: the gods' gifts were sent to your bank."
+
+msgid "divine_malaut_blessing"
+msgstr "Vampiric Treachery: damage to an enemy's back heals you."
+
+msgid "divine_malaut_blessing_leaves"
+msgstr "Malaut's blessing leaves you."
+
+msgid "divine_malaut_curse"
+msgstr "Withering Vitality: healing you receive is reduced."
+
+msgid "divine_malaut_curse_leaves"
+msgstr "Malaut's curse leaves you."
 
 msgid "divine_reveal_close"
 msgstr "Close"
@@ -8142,6 +8451,662 @@ msgstr "Oh Hell Nah"
 msgid "gm_sound_se_gm_perfect_fart"
 msgstr "Perfect Fart"
 
+msgid "god_ashaka_altar"
+msgstr "Dragonfire Altar"
+
+msgid "god_ashaka_bar"
+msgstr "Spreading Flame"
+
+msgid "god_ashaka_benefits"
+msgstr ""
+"Serve Ashaka: earn devotion from every monster you slay, rise through her "
+"ranks, and spend Ember Favor at the Dragonfire Altar."
+
+msgid "god_ashaka_currency"
+msgstr "Ember Favor"
+
+msgid "god_ashaka_dogma"
+msgstr ""
+"Most problems can be solved with violence. Exert your will and do not fear "
+"death, for death in battle is the greatest honor. Victory is not enough, "
+"make your enemies suffer."
+
+msgid "god_ashaka_emblem"
+msgstr ""
+"Goddess of the orks   -   Holy colours: orange and red   -   Symbol: a "
+"flaming skull"
+
+msgid "god_ashaka_event"
+msgstr "The Big Burning"
+
+msgid "god_ashaka_event_synopsis"
+msgstr ""
+"The Big Burning - Ashaka's event is still being forged. Fill the Spreading "
+"Flame to hasten it."
+
+msgid "god_ashaka_event_verb"
+msgstr "ignites"
+
+msgid "god_ashaka_gift_name"
+msgstr "Gift of Ashaka: Ashaka's War Cry"
+
+msgid "god_ashaka_gift_text"
+msgstr ""
+"A gem found in Ashaka's Medium and Large Caches. Set in a melee weapon, your "
+"power attacks let out her war cry, knocking everyone near you back - never "
+"your clan, your party or your allies. One god's gem to a weapon."
+
+msgid "god_ashaka_kills"
+msgstr "feed the Flame"
+
+msgid "god_ashaka_lore_1"
+msgstr ""
+"Lava runs in Ashaka's veins instead of blood. She once opened her own arms "
+"on a mountaintop and let the fire pour into the earth: the first volcano. "
+"The orks were the first to march under her banner, and she means to become "
+"the first goddess-queen. She has slain gods whose names are now forgotten "
+"and taken their power; her greataxe floats before her, moved by thought "
+"alone."
+
+msgid "god_ashaka_lore_2"
+msgstr ""
+"Ashaka is war, fire, pain and punishment. Her faithful honour her with "
+"battle above all, and on the Day of Pain blood is spilled to feed her. She "
+"wants her enemies broken before they fall. Death in battle is the highest "
+"honour she offers; mercy has no part in her worship."
+
+msgid "god_ashaka_possessive"
+msgstr "Ashaka's"
+
+msgid "god_ashaka_rival_reason"
+msgstr ""
+"Ymir, whose dwarves stand between the orks and every mountain worth taking."
+
+msgid "god_ashaka_tag"
+msgstr "Flame"
+
+msgid "god_ashaka_title"
+msgstr "Ashaka, the Fire Dragon"
+
+msgid "god_ashaka_voice"
+msgstr "Kneel, burn, or fight me. Only one of those earns my respect."
+
+msgid "god_auros_altar"
+msgstr "Sunlit Shrine"
+
+msgid "god_auros_bar"
+msgstr "Dawning Light"
+
+msgid "god_auros_benefits"
+msgstr ""
+"Serve Auros: earn devotion from every monster you slay, rise through his "
+"ranks, and spend Radiant Favor at the Sunlit Shrine."
+
+msgid "god_auros_currency"
+msgstr "Radiant Favor"
+
+msgid "god_auros_dogma"
+msgstr ""
+"The pursuit of discovery is crucial and must be prioritized. Protect the "
+"innocent whether it be by sword or bandage."
+
+msgid "god_auros_emblem"
+msgstr ""
+"God of the humans   -   Holy colours: white and yellow   -   Symbol: a "
+"leaping black horse"
+
+msgid "god_auros_event"
+msgstr "The Long Noon"
+
+msgid "god_auros_event_synopsis"
+msgstr ""
+"The Long Noon - Auros' event is still being forged. Fill the Dawning Light "
+"to hasten it."
+
+msgid "god_auros_event_verb"
+msgstr "dawns"
+
+msgid "god_auros_gift_name"
+msgstr "Gift of Auros: Auros' Radiance"
+
+msgid "god_auros_gift_text"
+msgstr ""
+"A gem found in Auros' Medium and Large Caches. Set in a staff, every heal "
+"you cast with it heals more. One god's gem to a weapon."
+
+msgid "god_auros_kills"
+msgstr "bring the Dawn"
+
+msgid "god_auros_lore_1"
+msgstr ""
+"Auros is the bringer of light and life, the god of humankind and its first "
+"and oldest patron. He is a poet, a dancer without equal, a master of "
+"medicine and science; mortals have fallen in love with his verses alone. His "
+"faithful believe that all life comes from Auros, and that every spark "
+"returns to his light in the end."
+
+msgid "god_auros_lore_2"
+msgstr ""
+"The sun was once his most prized dominion, until Nilzadene bent time itself "
+"to steal it, and Auros has sworn to win it back. His followers keep his "
+"ideals - chivalry, purity, discovery and care for the helpless - healing the "
+"wounded, defending the innocent, and standing against the servants of "
+"Valdazeer wherever they rise."
+
+msgid "god_auros_possessive"
+msgstr "Auros'"
+
+msgid "god_auros_rival_reason"
+msgstr ""
+"Valdazeer, who has never forgiven Auros for taking his place at his son's "
+"side. Auros' faithful stand against his servants wherever they rise."
+
+msgid "god_auros_tag"
+msgstr "Light"
+
+msgid "god_auros_title"
+msgstr "Auros, Bringer of Light and Life"
+
+msgid "god_auros_voice"
+msgstr ""
+"Heal with one hand, defend with the other, and never stop asking why the sun "
+"rises."
+
+msgid "god_bar_event_on"
+msgstr "%1 is on - come and join"
+
+msgid "god_bar_event_on_at"
+msgstr "%1 is on at %2 - come and join"
+
+msgid "god_bar_event_soon"
+msgstr "%1 %2 in about %3 min"
+
+msgid "god_bar_event_soon_at"
+msgstr "%1 %2 at %3 in about %4 min"
+
+msgid "god_bar_minutes"
+msgstr "%1 min"
+
+msgid "god_bar_state_cooldown"
+msgstr "%1 rests for %2 - kills still %3"
+
+msgid "god_bar_state_filling"
+msgstr "Devotees' kills %1"
+
+msgid "god_bar_state_running"
+msgstr "%1 %2 is underway"
+
+msgid "god_bar_state_running_malaut"
+msgstr "%1 %2 is underway - he is watching"
+
+msgid "god_bar_state_running_named"
+msgstr "%1 is underway"
+
+msgid "god_bar_state_warning"
+msgstr "%1 stirs... %2 %3 in about %4 min"
+
+msgid "god_bar_state_warning_malaut"
+msgstr "%1 stirs beneath Agon... %2 %3 in about %4 min"
+
+msgid "god_favor_short"
+msgstr "Favor"
+
+msgid "god_lorathai_altar"
+msgstr "Heartwood Shrine"
+
+msgid "god_lorathai_bar"
+msgstr "Swelling Valor"
+
+msgid "god_lorathai_benefits"
+msgstr ""
+"Serve Lorathai: earn devotion from every monster you slay, rise through his "
+"ranks, and spend Valor Favor at the Heartwood Shrine."
+
+msgid "god_lorathai_currency"
+msgstr "Valor Favor"
+
+msgid "god_lorathai_dogma"
+msgstr ""
+"Fight for the common folk, for they need protection from the evils of Agon. "
+"All undead must be destroyed. To allow the undead to defile a forest is an "
+"atrocity."
+
+msgid "god_lorathai_emblem"
+msgstr ""
+"God of the mirdain   -   Holy colours: green and white   -   Symbol: a "
+"silver bow"
+
+msgid "god_lorathai_event"
+msgstr "The Great Hunt"
+
+msgid "god_lorathai_event_synopsis"
+msgstr ""
+"The Great Hunt - Lorathai's event is still being forged. Fill the Swelling "
+"Valor to hasten it."
+
+msgid "god_lorathai_event_verb"
+msgstr "begins"
+
+msgid "god_lorathai_kills"
+msgstr "rouse the Valor"
+
+msgid "god_lorathai_lore_1"
+msgstr ""
+"Lorathai was a mortal hero before he was a god, and he has never forgotten "
+"it. When famine struck he raised a forest tree by tree to feed his people, "
+"and so won the heart of the goddess Myrthai. Before him Agon had no art and "
+"no music; he taught monsters and men alike to sing, and Ymir sealed an "
+"alliance with him as strong as mithril."
+
+msgid "god_lorathai_lore_2"
+msgstr ""
+"Above all, Lorathai hates the undead, a mockery of life. His faithful hunt "
+"them wherever they walk, protect the common folk, and honour him with music "
+"and art. His dominions are few, so every prayer counts - and one arrow from "
+"his silver bow is said to be enough to fell any foe."
+
+msgid "god_lorathai_possessive"
+msgstr "Lorathai's"
+
+msgid "god_lorathai_rival_reason"
+msgstr ""
+"Melek, the son Lorathai judged unworthy: the thief of the Silver Circlet, "
+"who made the alfar to wage his wars."
+
+msgid "god_lorathai_tag"
+msgstr "Valor"
+
+msgid "god_lorathai_title"
+msgstr "Lorathai, the Hero Reborn"
+
+msgid "god_lorathai_voice"
+msgstr ""
+"Sing while you can, and when the dead rise, let your arrow finish the song."
+
+msgid "god_malaut_altar"
+msgstr "Twilight Altar"
+
+msgid "god_malaut_bar"
+msgstr "Encroaching Twilight"
+
+msgid "god_malaut_benefits"
+msgstr ""
+"Your kills spread the Encroaching Twilight - the tougher the monster, the "
+"more - and raise your devotion, from Shaded to High Priest. Fighting in the "
+"arena earns Twilight Favor, spent at his altar. Offering Silvertongue pays "
+"50 favor and a Basic Cache; stopping a holder on the run pays a Basic Cache."
+
+msgid "god_malaut_currency"
+msgstr "Twilight Favor"
+
+msgid "god_malaut_dogma"
+msgstr ""
+"Want more. Take it. Owe your loyalty to Malaut alone, and he will give you "
+"more than any god ever has."
+
+msgid "god_malaut_emblem"
+msgstr ""
+"Demon Prince of greed   -   Colours: black and gold   -   Symbol: the red "
+"crown"
+
+msgid "god_malaut_event"
+msgstr "Silvertongue"
+
+msgid "god_malaut_event_synopsis"
+msgstr ""
+"When Malaut's devotees fill his bar, Malaut stirs: 30 to 60 minutes later "
+"his sanctuary opens where Silvertongue will fall, and 20 minutes after that "
+"the sword falls. No one can be harmed in the sanctuary; then the arena opens "
+"and everyone fights to claim the sword. Whoever holds it when the arena ends "
+"has 60 minutes to carry it to the Twilight Altar in Broadherne, marked on "
+"every map while the world hunts them."
+
+msgid "god_malaut_event_verb"
+msgstr "falls"
+
+msgid "god_malaut_gift_name"
+msgstr "Gift of Malaut: Malaut's Tendrils"
+
+msgid "god_malaut_gift_text"
+msgstr ""
+"A gem found in Malaut's Medium and Large Caches. Set in a melee weapon, "
+"every third swing lashes everyone around you with his tendrils - never your "
+"clan, your party or your allies. One god's gem to a weapon."
+
+msgid "god_malaut_kills"
+msgstr "spread the Twilight"
+
+msgid "god_malaut_lore_1"
+msgstr ""
+"Malaut is no god of the Pantheon. Valdazeer made him, a demi-god raised from "
+"his hunger for knowledge, to lead his war against Mercia - and Malaut has "
+"served no one's war but his own ever since. He walks Agon twelve metres tall "
+"in plate of silver and gold, golden-haired, a scar beneath his left eye, and "
+"an unseen heat about him leaves burnt grass and blackened soil wherever he "
+"passes."
+
+msgid "god_malaut_lore_2"
+msgstr ""
+"He is the prince of excess, pleasure and greed, and he is generous beyond "
+"measure with those who serve him; he asks only their loyalty in return. His "
+"realm is the Shadelands, a petrified swamp of fog and husk trees beneath "
+"Castle Perilous. His faithful dwell in his shadow - the Shaded, his acolytes "
+"and beguilers, the red-robed Below who shun the daylight - and his priests "
+"bind the Black Knights from the dead. In Broadherne a shrine to him keeps "
+"the Unholy Book."
+
+msgid "god_malaut_possessive"
+msgstr "Malaut's"
+
+msgid "god_malaut_rivals"
+msgstr ""
+"Every god's faithful hunt Malaut's pilgrims, and Malaut's faithful hunt no "
+"one. His path is ambition alone: the whole world sees you on the road, and "
+"it pays the most for it."
+
+msgid "god_malaut_tag"
+msgstr "Twilight"
+
+msgid "god_malaut_title"
+msgstr "Malaut, the Red Prince"
+
+msgid "god_malaut_voice"
+msgstr "Ambition is the only prayer I answer."
+
+msgid "god_melek_altar"
+msgstr "Throne of the God-King"
+
+msgid "god_melek_bar"
+msgstr "Rising Dominion"
+
+msgid "god_melek_benefits"
+msgstr ""
+"Serve Melek: earn devotion from every monster you slay, rise through his "
+"ranks, and spend Dominion Favor at the Throne of the God-King."
+
+msgid "god_melek_currency"
+msgstr "Dominion Favor"
+
+msgid "god_melek_dogma"
+msgstr ""
+"There are no boundaries you cannot cross, except for the teachings of Melek. "
+"Shadows are your home, your sanctuary, the opportunity from which to strike. "
+"True friends do not exist. Gain the trust of others but never return it."
+
+msgid "god_melek_emblem"
+msgstr ""
+"God of the alfar   -   Holy colours: black and purple   -   Symbol: a dagger "
+"poised at a man's back"
+
+msgid "god_melek_event"
+msgstr "Melek's Veil"
+
+msgid "god_melek_event_synopsis"
+msgstr ""
+"When Melek's devotees fill his bar, Melek stirs, and 30 to 60 minutes later "
+"his Veil gathers: a violet dome opens for 20 minutes, marked on every map, "
+"and no one can be harmed inside it while it gathers. Join the hunt inside "
+"the dome. A few Hunters, made strong by Melek, hunt everyone else through "
+"his smoke for 15 minutes: their blows mark the Hunted, and three marks send "
+"a Hunted to Melek's prison, where the free can rescue them. The Hunters win "
+"when every Hunted is taken; the Hunted win if one is still free at the end. "
+"Sithra Ahra, Melek's own polearm, falls into the hunt; its poisoned blows "
+"pass through any armor. A Hunter who carries it when the hunt ends has 60 "
+"minutes to offer it at the Throne of the God-King, marked on every map while "
+"the world hunts them. No one dies in the Veil and no gear wears."
+
+msgid "god_melek_event_verb"
+msgstr "gathers"
+
+msgid "god_melek_gift_name"
+msgstr "Gift of Melek: Melek's Venom"
+
+msgid "god_melek_gift_text"
+msgstr ""
+"A gem found in Melek's Medium and Large Caches. Set in a melee weapon, your "
+"blows barely seem to land - and then the venom works, and they hurt more "
+"than ever. One god's gem to a weapon."
+
+msgid "god_melek_kills"
+msgstr "extend his Dominion"
+
+msgid "god_melek_lore_1"
+msgstr ""
+"Melek was born to two gods and judged unworthy by both. He stole the Silver "
+"Circlet that could raise a mortal to godhood, took a new name and made "
+"himself a new people, the alfar, his first followers. His wars soaked Agon "
+"in blood, and his dominions grew until he became what no other deity has "
+"been: the God-King."
+
+msgid "god_melek_lore_2"
+msgstr ""
+"Melek is the god of shadow, poison, strategy and the knife in the dark. His "
+"faithful honour him with patience and cunning, finding every enemy's "
+"weakness and striking from cover. To them, trust is a tool to be taken and "
+"never repaid. It is prophesied that Melek will one day meet his match. He "
+"has not met them yet."
+
+msgid "god_melek_possessive"
+msgstr "Melek's"
+
+msgid "god_melek_rival_reason"
+msgstr ""
+"Lorathai, the father who judged him unworthy. Melek has never forgiven a "
+"slight."
+
+msgid "god_melek_tag"
+msgstr "Dominion"
+
+msgid "god_melek_title"
+msgstr "Melek, the God-King"
+
+msgid "god_melek_voice"
+msgstr "Kneel if you like. I prefer to see where your hands are."
+
+msgid "god_pilgrimage_seen_malaut"
+msgstr "Every god's faithful see you on their maps."
+
+msgid "god_pilgrimage_seen_rival"
+msgstr ""
+"%1 faithful see you on their maps, and Malaut's pilgrims are yours to find."
+
+msgid "god_pilgrimage_text"
+msgstr ""
+"Pay an entry from your wallet and run on foot to one to four of %1 shrines, "
+"praying at each: up to %2 devotion and %3 %4 for the longest. After a "
+"pilgrimage you finish, wait a week to set out again; after one that fails, a "
+"day."
+
+msgid "god_relics_text"
+msgstr ""
+"In the war hours, steal the other gods' relics from their shrines and carry "
+"them to %1. Every relic %2 holds hastens the %3 and every devotee's "
+"devotion; laying one down pays %4 favor and %5 devotion."
+
+msgid "god_rivals_text"
+msgstr ""
+"Your rival is %1 %2 faithful see your pilgrims on their maps, and you see "
+"theirs - and every god's faithful see Malaut's."
+
+msgid "god_valdazeer_altar"
+msgstr "Ossuary Lectern"
+
+msgid "god_valdazeer_bar"
+msgstr "Gathering Secrets"
+
+msgid "god_valdazeer_benefits"
+msgstr ""
+"Serve Valdazeer: earn devotion from every monster you slay, rise through his "
+"ranks, and spend Occult Favor at the Ossuary Lectern."
+
+msgid "god_valdazeer_currency"
+msgstr "Occult Favor"
+
+msgid "god_valdazeer_dogma"
+msgstr ""
+"Serve your god in life and death. The pursuit of knowledge is bountiful and "
+"glorious, a soul without books is forever lost."
+
+msgid "god_valdazeer_emblem"
+msgstr ""
+"God of the mahirim   -   Holy colours: black and red   -   Symbol: skull dice"
+
+msgid "god_valdazeer_event"
+msgstr "The Rolling of the Bones"
+
+msgid "god_valdazeer_event_synopsis"
+msgstr ""
+"The Rolling of the Bones - Valdazeer's event is still being forged. Fill the "
+"Gathering Secrets to hasten it."
+
+msgid "god_valdazeer_event_verb"
+msgstr "begins"
+
+msgid "god_valdazeer_gift_name"
+msgstr "Gift of Valdazeer: Valdazeer's Siphon"
+
+msgid "god_valdazeer_gift_text"
+msgstr ""
+"A gem found in Valdazeer's Medium and Large Caches. Set in a melee weapon, "
+"your blows land softer but burn away your target's mana. One god's gem to a "
+"weapon."
+
+msgid "god_valdazeer_kills"
+msgstr "gather his Secrets"
+
+msgid "god_valdazeer_lore_1"
+msgstr ""
+"Valdazeer is the god of the mahirim, and he wears their shape: a small, keen-"
+"eyed mahirim with tentacles sprouting from his mouth and runes on his robes "
+"said to drive their readers mad. He was once a scholar, father and adviser "
+"to a great king. When Auros took his place at his son's side, Valdazeer "
+"never forgave either of them, and the gods so admired his schemes that they "
+"raised him among them, little knowing how powerful he would become."
+
+msgid "god_valdazeer_lore_2"
+msgstr ""
+"From his hunger for knowledge he made the demi-god Malaut, to lead his war. "
+"He is the god of forbidden books, ghosts, sabotage and the ticking clock. "
+"The mahirim were the first to howl his name, and the downtrodden and the "
+"betrayed of every race are welcome beside them. His faithful hoard "
+"knowledge, plot patiently, and serve him in life and after it."
+
+msgid "god_valdazeer_possessive"
+msgstr "Valdazeer's"
+
+msgid "god_valdazeer_rival_reason"
+msgstr ""
+"Auros, who took his place at his son's side. Valdazeer has plotted against "
+"the Bringer of Light ever since."
+
+msgid "god_valdazeer_tag"
+msgstr "Secrets"
+
+msgid "god_valdazeer_title"
+msgstr "Valdazeer, Father of Malaut"
+
+msgid "god_valdazeer_voice"
+msgstr "Every clock is counting down. I merely know to what."
+
+msgid "god_voice_malaut"
+msgstr "[%1] Malaut: \"%2\" %3"
+
+msgid "god_voice_malaut_quote"
+msgstr "[%1] Malaut: \"%2\""
+
+msgid "god_voice_tagged"
+msgstr "[%1] %2"
+
+msgid "god_ymir_altar"
+msgstr "Anvil of Ymir"
+
+msgid "god_ymir_bar"
+msgstr "Stoking of the Forge"
+
+msgid "god_ymir_benefits"
+msgstr ""
+"Serve Ymir: earn devotion from every monster you slay, rise through his "
+"ranks, and spend Forge Favor at the Anvil of Ymir."
+
+msgid "god_ymir_currency"
+msgstr "Forge Favor"
+
+msgid "god_ymir_dogma"
+msgstr ""
+"Nothing can be achieved without hard work and due diligence. Use your brain; "
+"common sense is vital for all things. Rest is as important as the work that "
+"precedes it. A world without laughter is a world without joy."
+
+msgid "god_ymir_emblem"
+msgstr ""
+"God of the dwarves   -   Holy colours: blue and brown   -   Symbol: a golden "
+"tankard"
+
+msgid "god_ymir_event"
+msgstr "Ymir's Forge"
+
+msgid "god_ymir_event_synopsis"
+msgstr ""
+"When Ymir's devotees stoke his Forge full, Ymir stirs, and 30 to 60 minutes "
+"later Ymir's Forge is lit: its 20-minute muster opens, marked on every map, "
+"and Ymir shelters all who gather there. Three teams forge runes in their "
+"towers; a team whose runes are done wakes its Skaparhammer at the centre, "
+"and the first team to hold its hammer long enough wins - 8 minutes anywhere, "
+"or 2 minutes inside its own tower. Whoever carries a Skaparhammer when the "
+"Forge ends has 60 minutes to offer it at the Anvil of Ymir, marked on every "
+"map while the world hunts them. Ymir's Gift protects those fighting for a "
+"team inside the Forge during the race: their gear takes no wear, and they "
+"leave no corpse to loot."
+
+msgid "god_ymir_event_verb"
+msgstr "is lit"
+
+msgid "god_ymir_gift_name"
+msgstr "Gift of Ymir: Ymir's Crushing Blow"
+
+msgid "god_ymir_gift_text"
+msgstr ""
+"A gem found in Ymir's Medium and Large Caches. Set in a melee weapon, the "
+"super swing your combo charges lands like a hammer on an anvil: it slows its "
+"target for a moment. One god's gem to a weapon."
+
+msgid "god_ymir_kills"
+msgstr "stoke the Forge"
+
+msgid "god_ymir_lore_1"
+msgstr ""
+"Ymir has walked Agon for as long as there have been mountains and iron. He "
+"was the first dwarf, and he is still the measure every smith and miner tries "
+"to reach. Many call him the saviour of Agon: he brought the gods together "
+"against Ur-Khamset and Ragunius when they were at their strongest. His beard "
+"is real gold, and his laugh carries further than his hammer."
+
+msgid "god_ymir_lore_2"
+msgstr ""
+"Ymir treats the treasures of the earth as gifts to anyone willing to work "
+"for them. His faithful honour him at the forge and the rock face, and at the "
+"table too: festivals are held in his name, ale flows, and rest is earned "
+"rather than stolen. He values honest effort, common sense and loyal "
+"alliances, and has no patience for idleness or broken oaths."
+
+msgid "god_ymir_possessive"
+msgstr "Ymir's"
+
+msgid "god_ymir_rival_reason"
+msgstr ""
+"Ashaka, whose orks have warred with the dwarves beneath the mountains for as "
+"long as there have been mountains."
+
+msgid "god_ymir_tag"
+msgstr "Forge"
+
+msgid "god_ymir_title"
+msgstr "Ymir, the Mastersmith"
+
+msgid "god_ymir_voice"
+msgstr ""
+"Swing true, drink deep, and leave the mountain richer than you found it."
+
 msgid "health"
 msgstr "Health"
 
@@ -9039,6 +10004,12 @@ msgstr "Let missile travel %1% faster"
 
 msgid "interaction_spell_extension_price_label"
 msgstr "Price for extension:"
+
+msgid "interaction_tab_altar"
+msgstr "Altar"
+
+msgid "interaction_tab_offerings"
+msgstr "Offerings"
 
 msgid "interaction_tab_title_archery_extension"
 msgstr "Archery Upgrades"
@@ -11445,6 +12416,96 @@ msgstr "%1"
 
 msgid "maint_window_title"
 msgstr "Holding Maintenance"
+
+msgid "malaut_says_already_mine"
+msgstr "You are already mine."
+
+msgid "malaut_says_blessing"
+msgstr "Strike them from behind, and drink."
+
+msgid "malaut_says_bring_it"
+msgstr "Bring it to me. Quickly."
+
+msgid "malaut_says_come_back_richer"
+msgstr "Generosity is earned. Come back richer."
+
+msgid "malaut_says_curse"
+msgstr "You stand in my Twilight, heretic. Heal if you can."
+
+msgid "malaut_says_cut_down_own"
+msgstr "You cut down your own? I pay for that with nothing."
+
+msgid "malaut_says_enough"
+msgstr "Enough. Let me see who still stands."
+
+msgid "malaut_says_finish_begun"
+msgstr "Finish what you have begun."
+
+msgid "malaut_says_finish_road"
+msgstr "Finish the road you are on."
+
+msgid "malaut_says_greedy"
+msgstr "Greedy. You already wear my blade's look."
+
+msgid "malaut_says_hands_empty"
+msgstr "Your hands are empty. Bring me my tongue of silver."
+
+msgid "malaut_says_hold_on"
+msgstr "Hold on to it, little thief."
+
+msgid "malaut_says_not_yet"
+msgstr "Not yet. Win it in my arena, then bring it to me."
+
+msgid "malaut_says_oath_broken"
+msgstr "Go, then. I remember every oath that was broken."
+
+msgid "malaut_says_only_worthy"
+msgstr "Good. Only the worthy reach my altar."
+
+msgid "malaut_says_patience"
+msgstr "Patience. Let me see what you already own."
+
+msgid "malaut_says_rank_1"
+msgstr "Rise, my High Priest. All of Agon will hear my voice through yours."
+
+msgid "malaut_says_rank_2"
+msgstr "My coterie grows fat on your work. Lead them, Cleric."
+
+msgid "malaut_says_rank_3"
+msgstr "Now you whisper for me. Tempt them, Beguiler."
+
+msgid "malaut_says_rank_4"
+msgstr "You learn quickly. Kneel, Acolyte."
+
+msgid "malaut_says_rank_5"
+msgstr "Come down into my shadow. I am generous to those who stay."
+
+msgid "malaut_says_relic_held"
+msgstr "Not while you hold a god's relic."
+
+msgid "malaut_says_so_soon"
+msgstr "So soon? An oath is not a cloak."
+
+msgid "malaut_says_take_it"
+msgstr "Take it. There is always more for the loyal."
+
+msgid "malaut_says_take_it_strong"
+msgstr "Take it, if your hands are strong enough."
+
+msgid "malaut_says_tear_it"
+msgstr "Tear it from them."
+
+msgid "malaut_says_tongue_returns"
+msgstr "My tongue returns to me. Your loyalty is remembered."
+
+msgid "malaut_says_twilight_clings"
+msgstr "My twilight already clings to you."
+
+msgid "malaut_says_wait_in_shadow"
+msgstr "Wait in my shadow. It comes."
+
+msgid "malaut_says_you_ran"
+msgstr "You ran. I keep what you left."
 
 msgid "malaut_set_bonus_count"
 msgstr "(5) Set:"
@@ -14879,6 +15940,16 @@ msgstr ""
 msgid "melek_veil_join_refused"
 msgstr "You cannot join Melek's Veil right now."
 
+msgid "melek_veil_join_refused_combat"
+msgstr ""
+"You cannot join Melek's Veil while in PvP combat. Try again in %1 seconds."
+
+msgid "melek_veil_join_refused_criminal"
+msgstr "Criminals cannot join Melek's Veil."
+
+msgid "melek_veil_join_refused_mounted"
+msgstr "Dismount to join Melek's Veil."
+
 msgid "melek_veil_joined"
 msgstr "You have joined Melek's Veil. The hunt begins in %1 seconds."
 
@@ -14931,6 +16002,9 @@ msgstr ""
 "Melek's Veil is gathering at %2! Step inside Melek's violet dome within the "
 "next %1 minutes and press Join in the event window to join the hunt. No one "
 "can be harmed inside the dome until the hunt begins."
+
+msgid "melek_veil_no_mounts"
+msgstr "Melek's smoke spooks your mount. The hunt is on foot."
 
 msgid "melek_veil_polearm_given"
 msgstr ""
@@ -17460,8 +18534,84 @@ msgstr "Entry: %1 gold."
 msgid "pilgrimage_favor_generic"
 msgstr "Favor"
 
+msgid "pilgrimage_help_bullet"
+msgstr "- %1"
+
+msgid "pilgrimage_help_hunters_malaut"
+msgstr ""
+"Every god's faithful see you on their maps, and you see no one's: Malaut "
+"hunts no one."
+
+msgid "pilgrimage_help_hunters_rival"
+msgstr "%1 faithful see you on their maps. You see %1 pilgrims, and Malaut's."
+
+msgid "pilgrimage_help_hunters_unknown"
+msgstr "Your god's rivals see you on their maps."
+
+msgid "pilgrimage_help_offering"
+msgstr ""
+"Half the entry is spent when you start; the other half rides with you as an "
+"offering. If another player ganks you they take it; if you die any other way "
+"it is lost."
+
+msgid "pilgrimage_help_pray"
+msgstr ""
+"At each shrine, Pray: you must stay close and still for %1 s. Only other "
+"players can break your prayer."
+
+msgid "pilgrimage_help_premium"
+msgstr "Premium accounts only."
+
+msgid "pilgrimage_help_reward"
+msgstr "Finishing pays a fixed reward by length, up to %1 devotion and %2 %3."
+
+msgid "pilgrimage_help_route"
+msgstr ""
+"Run on foot to one to four random shrines of %1, by the pilgrimage you pay "
+"for. You cannot mount, use runes, billboards or summons on the way."
+
+msgid "pilgrimage_help_title"
+msgstr "How the pilgrimage works"
+
+msgid "pilgrimage_help_wait"
+msgstr ""
+"Finish and you wait %1 days for the next; die or stop and you wait %2 day."
+
+msgid "pilgrimage_help_your_favor"
+msgstr "your god's favor"
+
+msgid "pilgrimage_help_your_god"
+msgstr "your god"
+
+msgid "pilgrimage_hunted"
+msgstr "Hunted by %1 rivals"
+
+msgid "pilgrimage_hunted_none"
+msgstr "No rivals online"
+
+msgid "pilgrimage_hunted_one"
+msgstr "Hunted by %1 rival"
+
+msgid "pilgrimage_marker_rival"
+msgstr "Pilgrim of %1"
+
+msgid "pilgrimage_marker_rival_praying"
+msgstr "Pilgrim of %1 - praying"
+
+msgid "pilgrimage_marker_rivals"
+msgstr "%1 pilgrims of %2"
+
+msgid "pilgrimage_marker_rivals_praying"
+msgstr "%1 pilgrims of %2 - praying"
+
 msgid "pilgrimage_no_travel"
 msgstr "You cannot travel that way while on a pilgrimage."
+
+msgid "pilgrimage_note_hunted_pray"
+msgstr "%1. Pray when you stand at the shrine."
+
+msgid "pilgrimage_note_pray"
+msgstr "Pray when you stand at the shrine."
 
 msgid "pilgrimage_offering_at_risk"
 msgstr "Offering at risk: %1 gold."
@@ -17469,11 +18619,35 @@ msgstr "Offering at risk: %1 gold."
 msgid "pilgrimage_on"
 msgstr "ON PILGRIMAGE"
 
+msgid "pilgrimage_pray_button"
+msgstr "Pray"
+
 msgid "pilgrimage_reward"
 msgstr "Reward: %1 %2 and %3 devotion."
 
+msgid "pilgrimage_status_next_in"
+msgstr "Next pilgrimage in %1"
+
+msgid "pilgrimage_status_no_god"
+msgstr "Serve a god to make a pilgrimage"
+
+msgid "pilgrimage_status_own_god"
+msgstr "Pilgrimages are made to your own god's shrines."
+
+msgid "pilgrimage_status_premium"
+msgstr "Pilgrimages need a premium account"
+
+msgid "pilgrimage_status_ready"
+msgstr "Ready"
+
+msgid "pilgrimage_stop_button"
+msgstr "Stop"
+
 msgid "pilgrimage_stop_of"
 msgstr "Stop %1 of %2: %3"
+
+msgid "pilgrimage_stop_question"
+msgstr "Stopping counts as a failure: you can start again in 1 day."
 
 msgid "pilgrimage_tier_grand"
 msgstr "Grand pilgrimage"
@@ -17489,6 +18663,15 @@ msgstr "Medium pilgrimage"
 
 msgid "pilgrimage_tier_short"
 msgstr "Short pilgrimage"
+
+msgid "pilgrimage_time_days"
+msgstr "%1d"
+
+msgid "pilgrimage_time_hours"
+msgstr "%1h"
+
+msgid "pilgrimage_time_minutes"
+msgstr "%1m"
 
 msgid "pilgrimage_warning"
 msgstr ""
@@ -17910,8 +19093,232 @@ msgstr "Mirdain"
 msgid "race_ork"
 msgstr "Ork"
 
+msgid "relic_a_god"
+msgstr "A god"
+
+msgid "relic_a_gods"
+msgstr "A god's"
+
+msgid "relic_asking_shrines"
+msgstr "Asking the shrines..."
+
+msgid "relic_brought"
+msgstr "%1 has brought %2 relic to %3 shrine in %4."
+
+msgid "relic_capture_too_recent"
+msgstr "This relic was captured too recently to pay again."
+
+msgid "relic_context_at_shrine"
+msgstr "At %1 shrine - %2"
+
+msgid "relic_deposit_button"
+msgstr "Deposit"
+
+msgid "relic_devotion_speed"
+msgstr "Devotion %1"
+
+msgid "relic_dropped"
+msgstr ""
+"You dropped %1 relic. It goes home in %2 min unless it is carried to a "
+"shrine."
+
+msgid "relic_event_speed"
+msgstr "Event speed %1"
+
+msgid "relic_gone_home_why"
+msgstr "%1: %2 relic has gone home."
+
+msgid "relic_held_in_shrines"
+msgstr "Held in %1 shrines"
+
+msgid "relic_help_death"
+msgstr "Death drops it, and a dropped relic goes home after 10 minutes."
+
+msgid "relic_help_deposit"
+msgstr ""
+"Deposit it at your own god's shrine (10 s): it pays %1 of your god's favor "
+"and %2 devotion, at most once every %3 hours for each relic."
+
+msgid "relic_help_devotion"
+msgstr ""
+"They make your devotion grow faster too: +%1% for each relic your god holds."
+
+msgid "relic_help_event"
+msgstr ""
+"Relics make your god's event come faster: normal at %1, %2% faster for each "
+"relic above, slower for each below."
+
+msgid "relic_help_region"
+msgstr ""
+"A relic cannot leave its region, and cannot be mounted, recalled or "
+"teleported with."
+
+msgid "relic_help_steal"
+msgstr ""
+"Steal a relic at an enemy shrine during the war hours (17:00-21:00 and "
+"00:00-04:00 UTC): a 30 s rite you must stand still for."
+
+msgid "relic_help_title"
+msgstr "How shrines work"
+
+msgid "relic_home_gm_reset"
+msgstr "A GM sent every relic home"
+
+msgid "relic_home_war_over"
+msgstr "The war hours are over"
+
+msgid "relic_laid"
+msgstr "You have laid %1 relic in %2 shrine."
+
+msgid "relic_line"
+msgstr "[Relics] %1"
+
+msgid "relic_list_separator"
+msgstr ","
+
+msgid "relic_lost_hold"
+msgstr "You lost hold of %1 relic."
+
+msgid "relic_marker"
+msgstr "%1 relic"
+
+msgid "relic_marker_carried"
+msgstr "%1 relic - %2"
+
+msgid "relic_marker_dropped"
+msgstr "%1 relic (dropped)"
+
+msgid "relic_no_god"
+msgstr "No god's"
+
+msgid "relic_no_longer_with_you"
+msgstr "The relic is no longer with you."
+
 msgid "relic_no_travel"
 msgstr "You cannot travel that way while carrying a relic."
+
+msgid "relic_of"
+msgstr "%1 relic"
+
+msgid "relic_own_at_home"
+msgstr "%1: at home"
+
+msgid "relic_own_captured"
+msgstr "%1: captured - in %2 shrine"
+
+msgid "relic_own_carried"
+msgstr "%1: carried by %2"
+
+msgid "relic_own_fallen"
+msgstr "%1: fallen, home in %2"
+
+msgid "relic_own_relics"
+msgstr "%1 own relics"
+
+msgid "relic_place_wilds"
+msgstr "the wilds"
+
+msgid "relic_refusal_carrying"
+msgstr "You already carry a relic."
+
+msgid "relic_refusal_dismount"
+msgstr "Dismount first."
+
+msgid "relic_refusal_gone"
+msgstr "It is gone."
+
+msgid "relic_refusal_no_relic"
+msgstr "You carry no relic."
+
+msgid "relic_refusal_not_devoted"
+msgstr "Only the devoted may take a relic."
+
+msgid "relic_refusal_not_in_shrine"
+msgstr "That relic is no longer in this shrine."
+
+msgid "relic_refusal_other_land"
+msgstr "This relic belongs to another land."
+
+msgid "relic_refusal_own_god"
+msgstr "This is your own god's shrine."
+
+msgid "relic_refusal_shrine_empty"
+msgstr "The shrine is empty."
+
+msgid "relic_refusal_window_closed"
+msgstr "The shrines can only be raided during the war hours."
+
+msgid "relic_refusal_wrong_shrine"
+msgstr "Only your own god's shrine will take it."
+
+msgid "relic_region_cairn"
+msgstr "Cairn"
+
+msgid "relic_region_center"
+msgstr "Middle Agon"
+
+msgid "relic_region_line"
+msgstr "%1: %2"
+
+msgid "relic_region_niflheim"
+msgstr "Niflheim"
+
+msgid "relic_region_rubaiyat"
+msgstr "Rubaiyat"
+
+msgid "relic_region_yssam"
+msgstr "Yssam"
+
+msgid "relic_returned"
+msgstr "%1 relic has returned to %2 shrine in %3."
+
+msgid "relic_reward"
+msgstr "The relic is home. +%1 %2."
+
+msgid "relic_reward_devotion"
+msgstr "The relic is home. +%1 %2, +%3 devotion."
+
+msgid "relic_rite_broken"
+msgstr "The rite is broken."
+
+msgid "relic_rite_in_progress"
+msgstr "You are already performing a rite."
+
+msgid "relic_shrine_label"
+msgstr "Shrine of %1 (%2)"
+
+msgid "relic_shrine_list_empty"
+msgstr "empty"
+
+msgid "relic_shrine_robbed"
+msgstr "Your shrine in %1 is being robbed by a follower of %2!"
+
+msgid "relic_shrines_not_ready"
+msgstr "The shrines are not ready yet - try again shortly."
+
+msgid "relic_speed_normal"
+msgstr "normal"
+
+msgid "relic_stand_at_own_shrine"
+msgstr "Stand at your god's shrine to lay the relic down."
+
+msgid "relic_stand_at_shrine"
+msgstr "Stand at that shrine to take from it."
+
+msgid "relic_steal_button"
+msgstr "Steal"
+
+msgid "relic_taken_from_shrine"
+msgstr "%1 relic has been taken from your shrine in %2."
+
+msgid "relic_value_line"
+msgstr "%1: %2 - %3"
+
+msgid "relic_will_not_leave"
+msgstr "%1 relic will not leave %2; it has gone home."
+
+msgid "relic_you_carry"
+msgstr "You carry %1 relic. Bring it to %2 shrine in %3."
 
 msgid "repair_bank_gold_label"
 msgstr "Bank: %1"
@@ -18429,6 +19836,179 @@ msgstr "Immune to knockup"
 
 msgid "setbonus_name_black_lord"
 msgstr "Black Lord"
+
+msgid "silvertongue_board_longest_hold"
+msgstr "Longest Hold"
+
+msgid "silvertongue_board_total_hold"
+msgstr "Total Hold"
+
+msgid "silvertongue_compass_altar"
+msgstr "The Twilight Altar"
+
+msgid "silvertongue_dir"
+msgstr "%1, %2 m"
+
+msgid "silvertongue_dir_e"
+msgstr "E"
+
+msgid "silvertongue_dir_here"
+msgstr "here"
+
+msgid "silvertongue_dir_n"
+msgstr "N"
+
+msgid "silvertongue_dir_ne"
+msgstr "NE"
+
+msgid "silvertongue_dir_nw"
+msgstr "NW"
+
+msgid "silvertongue_dir_s"
+msgstr "S"
+
+msgid "silvertongue_dir_se"
+msgstr "SE"
+
+msgid "silvertongue_dir_sw"
+msgstr "SW"
+
+msgid "silvertongue_dir_w"
+msgstr "W"
+
+msgid "silvertongue_favor_arena"
+msgstr "Favor +%1/min   this event %2   total %3"
+
+msgid "silvertongue_favor_event"
+msgstr "Favor this event %1   total %2"
+
+msgid "silvertongue_favor_total"
+msgstr "Twilight Favor: %1"
+
+msgid "silvertongue_hint_capped"
+msgstr "You have Malaut's most for this event"
+
+msgid "silvertongue_hint_claim"
+msgstr "Claim the sword: its holder earns triple favor"
+
+msgid "silvertongue_hint_claim_when_falls"
+msgstr "Claim the sword when it falls for triple favor"
+
+msgid "silvertongue_hint_kill_holder"
+msgstr "Kill %1 to free the sword"
+
+msgid "silvertongue_hint_left_too_soon"
+msgstr "You left too soon: Malaut kept your favor"
+
+msgid "silvertongue_hint_lost"
+msgstr "Die, log out or drop it and it is lost"
+
+msgid "silvertongue_hint_offer"
+msgstr "Offer it at the altar: %1 favor and a cache"
+
+msgid "silvertongue_hint_premium_pool"
+msgstr "Each premium player grows Malaut's pool"
+
+msgid "silvertongue_hint_same_machine"
+msgstr "Another character on your machine earns the favor"
+
+msgid "silvertongue_hint_stay"
+msgstr "Stay %1 more to keep your favor"
+
+msgid "silvertongue_hint_you_hold"
+msgstr "You hold it: triple favor. Stay alive!"
+
+msgid "silvertongue_holder_altar"
+msgstr "The Twilight Altar, Broadherne"
+
+msgid "silvertongue_holder_altar_where"
+msgstr "The Twilight Altar, Broadherne  (%1)"
+
+msgid "silvertongue_holder_held"
+msgstr "Held by %1"
+
+msgid "silvertongue_holder_held_where"
+msgstr "Held by %1  (%2)"
+
+msgid "silvertongue_holder_nobody"
+msgstr "Nobody holds the sword"
+
+msgid "silvertongue_holder_unclaimed"
+msgstr "The sword waits to be claimed"
+
+msgid "silvertongue_holder_you"
+msgstr "You hold Silvertongue"
+
+msgid "silvertongue_joined_left"
+msgstr "Joined: %1   Left: %2"
+
+msgid "silvertongue_kill_own_clan"
+msgstr "No reward for slaying your own clan."
+
+msgid "silvertongue_kill_own_machine"
+msgstr "No reward for slaying your own (same machine)."
+
+msgid "silvertongue_kill_own_party"
+msgstr "No reward for slaying your own party."
+
+msgid "silvertongue_kill_paid"
+msgstr "You stopped %1 reaching it - take this cache."
+
+msgid "silvertongue_marker"
+msgstr "Malaut's Silvertongue"
+
+msgid "silvertongue_marker_holder"
+msgstr "%1 carries Silvertongue"
+
+msgid "silvertongue_offer_button"
+msgstr "Offer Silvertongue"
+
+msgid "silvertongue_offer_none"
+msgstr "You carry no Silvertongue to offer."
+
+msgid "silvertongue_offer_not_yet"
+msgstr ""
+"Silvertongue can be offered only once the arena is over and its holder's run "
+"has begun."
+
+msgid "silvertongue_offer_paid"
+msgstr "+%1 %2 (%3) and a cache."
+
+msgid "silvertongue_phase_arena"
+msgstr "Arena - %1 left"
+
+msgid "silvertongue_phase_ended"
+msgstr "The arena is over"
+
+msgid "silvertongue_phase_holder"
+msgstr "Reach the Twilight Altar - %1 left"
+
+msgid "silvertongue_phase_sanctuary"
+msgstr "Sanctuary - the sword falls in %1"
+
+msgid "silvertongue_place_wilderness"
+msgstr "the wilderness"
+
+msgid "silvertongue_players_arena"
+msgstr "In the arena: %1  (%2 premium, %3 freemium)"
+
+msgid "silvertongue_players_sanctuary"
+msgstr "In the sanctuary: %1  (%2 premium, %3 freemium)"
+
+msgid "silvertongue_pool"
+msgstr "Malaut's pool: %1"
+
+msgid "silvertongue_pool_if_now"
+msgstr "Malaut's pool if it fell now: %1"
+
+msgid "silvertongue_pool_weighing"
+msgstr "Malaut weighs the crowd..."
+
+msgid "silvertongue_title"
+msgstr "Malaut's Silvertongue"
+
+msgid "silvertongue_whisper"
+msgstr "Malaut: \"%1\""
 
 msgid "skill_advancement_rate"
 msgstr "Skill advancement rate"
@@ -23005,6 +24585,11 @@ msgstr "Stand right at the anvil to feed the forge."
 msgid "ymir_forge_choose_team"
 msgstr "Choose your team"
 
+msgid "ymir_forge_dropped_away"
+msgstr ""
+"You were away from Ymir's Forge muster for over %1 minutes and left your "
+"team. Choose a team again at the muster."
+
 msgid "ymir_forge_dropped_outside"
 msgstr ""
 "You were outside Ymir's cube when it rose: you no longer fight in this Forge."
@@ -23013,6 +24598,11 @@ msgid "ymir_forge_gift_given"
 msgstr ""
 "Ymir's Gift is upon you: your gear takes no wear and cannot break in his "
 "Forge."
+
+msgid "ymir_forge_interrupted_paid"
+msgstr ""
+"Ymir's Forge was interrupted by a server restart. The Forge Favor each racer "
+"had earned has been paid."
 
 msgid "ymir_forge_join_muster"
 msgstr ""
@@ -23072,10 +24662,6 @@ msgstr "Choose your team inside Ymir's muster circle while the muster is open."
 
 msgid "ymir_forge_not_red_zone"
 msgstr "Ymir's Forge can only be held in a red zone."
-
-msgid "ymir_forge_not_your_forge"
-msgstr ""
-"This is not your team's forge. Feed the forge at the top of your own tower."
 
 msgid "ymir_forge_own_role"
 msgstr "Your job: %1"
@@ -23330,6 +24916,12 @@ msgid "ymir_hammer_run_stopped"
 msgstr ""
 "%1 was slain carrying the Skaparhammer: it returns to Ymir, and their slayer "
 "is rewarded."
+
+msgid "ymir_hammer_test_run"
+msgstr "This hammer is from a GM test run. It pays nothing at Ymir's altar."
+
+msgid "ymir_hammer_test_run_killer"
+msgstr "That hammer run was a GM test run. Stopping it pays nothing."
 
 msgid "ymir_hammer_too_far"
 msgstr "You are too far away. Stand right next to the hammer's stand."

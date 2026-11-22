@@ -7161,6 +7161,9 @@ msgstr ""
 msgid "desc_r_Ethereal Cyan Pigment"
 msgstr "A pigment used to add color to a dye base."
 
+msgid "desc_r_Event Markers"
+msgstr " "
+
 msgid "desc_r_Evil Eye"
 msgstr " "
 
@@ -12224,6 +12227,18 @@ msgstr " "
 msgid "desc_r_Marker Archaeus Chest"
 msgstr " "
 
+msgid "desc_r_Marker Ashaka Altar"
+msgstr " "
+
+msgid "desc_r_Marker Ashaka Shrine"
+msgstr " "
+
+msgid "desc_r_Marker Auros Altar"
+msgstr " "
+
+msgid "desc_r_Marker Auros Shrine"
+msgstr " "
+
 msgid "desc_r_Marker Bank"
 msgstr "     "
 
@@ -12309,10 +12324,28 @@ msgstr " "
 msgid "desc_r_Marker Leenspar Chest"
 msgstr " "
 
+msgid "desc_r_Marker Lorathai Altar"
+msgstr " "
+
+msgid "desc_r_Marker Lorathai Shrine"
+msgstr " "
+
 msgid "desc_r_Marker Mailbox"
 msgstr " "
 
+msgid "desc_r_Marker Malaut Altar"
+msgstr " "
+
+msgid "desc_r_Marker Malaut Shrine"
+msgstr " "
+
 msgid "desc_r_Marker Market"
+msgstr " "
+
+msgid "desc_r_Marker Melek Altar"
+msgstr " "
+
+msgid "desc_r_Marker Melek Shrine"
 msgstr " "
 
 msgid "desc_r_Marker Melek Veil"
@@ -12367,6 +12400,9 @@ msgstr " Shows the position of a Player Flag."
 msgid "desc_r_Marker Rabbit"
 msgstr " "
 
+msgid "desc_r_Marker Relic Shrine"
+msgstr " "
+
 msgid "desc_r_Marker Reward"
 msgstr " "
 
@@ -12386,6 +12422,12 @@ msgid "desc_r_Marker Siege Shard"
 msgstr "Where the Siege Shard was last seen."
 
 msgid "desc_r_Marker Siegestone"
+msgstr " "
+
+msgid "desc_r_Marker Silvertongue"
+msgstr " "
+
+msgid "desc_r_Marker Silvertongue Holder"
 msgstr " "
 
 msgid "desc_r_Marker Smelter"
@@ -12409,6 +12451,12 @@ msgstr " "
 msgid "desc_r_Marker User Annotation"
 msgstr " "
 
+msgid "desc_r_Marker Valdazeer Altar"
+msgstr " "
+
+msgid "desc_r_Marker Valdazeer Shrine"
+msgstr " "
+
 msgid "desc_r_Marker Veilron Chest"
 msgstr " "
 
@@ -12427,10 +12475,16 @@ msgstr " "
 msgid "desc_r_Marker Workbench"
 msgstr " "
 
+msgid "desc_r_Marker Ymir Altar"
+msgstr " "
+
 msgid "desc_r_Marker Ymir Forge"
 msgstr ""
 "Ymir's Forge: three teams race to forge his hammer here. Join at the muster "
 "circle before the cube rises."
+
+msgid "desc_r_Marker Ymir Shrine"
+msgstr " "
 
 msgid "desc_r_Markers Faction Player City"
 msgstr " "
@@ -12933,6 +12987,9 @@ msgstr ""
 "of the elflord family who first introduced it."
 
 msgid "desc_r_Misc Loot"
+msgstr " "
+
+msgid "desc_r_Misc Markers"
 msgstr " "
 
 msgid "desc_r_Misc Skills"
@@ -16065,6 +16122,9 @@ msgstr ""
 "Malaut's own blade. Golden strands of chaos pour from it and tear into the "
 "souls of those it strikes. \"It speaks for me. Listen.\""
 
+msgid "desc_r_Silvertongue Event Objects"
+msgstr " "
+
 msgid "desc_r_Silvertongue Forgotten"
 msgstr ""
 "A Silvertongue Malaut left behind. He has reclaimed its power, but the blade "
@@ -16076,6 +16136,9 @@ msgstr ""
 "Malaut's own blade, fallen from the sky. Carry it to his altar in Broadherne "
 "before the world takes it from you. \"Bring me my tongue of silver, and I "
 "will gild yours.\""
+
+msgid "desc_r_Silvertongue_Event_Stand"
+msgstr "Silvertongue's stand at the heart of Malaut's arena."
 
 msgid "desc_r_Simple Bucket"
 msgstr "A simple bucket made out of wood. "
@@ -18495,6 +18558,12 @@ msgstr ""
 
 msgid "desc_r_Ymir Stockpile"
 msgstr "A tower's kindling stockpile. Gatherers fill it; the forge burns it."
+
+msgid "desc_r_Ymir_Dome_In_Test"
+msgstr "The dome of Ymir's Forge, seen from inside."
+
+msgid "desc_r_Ymir_Dome_Test"
+msgstr "The dome of Ymir's Forge."
 
 msgid "desc_r_Ymirsbane"
 msgstr ""
