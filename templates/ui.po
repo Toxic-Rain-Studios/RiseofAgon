@@ -9300,11 +9300,35 @@ msgstr "Enchant Quality"
 msgid "item_fire_protection"
 msgstr "Fire"
 
+msgid "item_glider_boost"
+msgstr "Boost"
+
+msgid "item_glider_glide"
+msgstr "Glide"
+
+msgid "item_glider_glide_ratio"
+msgstr "Glide Ratio:"
+
+msgid "item_glider_meters_per_second"
+msgstr "%1 m/s"
+
+msgid "item_glider_repairs"
+msgstr "Repairs: %1 / %2"
+
+msgid "item_glider_sink_rate"
+msgstr "Sink Rate:"
+
 msgid "item_glider_skin_name_suffix"
 msgstr "Glider Skin"
 
 msgid "item_glider_skin_name_suffix_untradable"
 msgstr "Glider Skin (Untradable)"
+
+msgid "item_glider_speed"
+msgstr "Speed:"
+
+msgid "item_glider_worn_out"
+msgstr "(worn out: it can no longer be repaired)"
 
 msgid "item_health_gain"
 msgstr "Health Gain"
