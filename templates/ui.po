@@ -6322,6 +6322,18 @@ msgstr "Transmutes"
 msgid "enchanting_choose_item"
 msgstr "Choose an item:"
 
+msgid "enchanting_direct_count"
+msgstr "%1 of %2 items can take this enchant"
+
+msgid "enchanting_direct_drop"
+msgstr "Drop a bag or an item here"
+
+msgid "enchanting_direct_item_ok"
+msgstr "This item can take this enchant"
+
+msgid "enchanting_direct_result"
+msgstr "Enchants the item: %1"
+
 msgid "enchanting_effect_none"
 msgstr "none"
 
@@ -6360,6 +6372,12 @@ msgstr "Enchantable items in backpack"
 
 msgid "enchanting_max_button"
 msgstr "Max"
+
+msgid "enchanting_mode_direct"
+msgstr "Weapon enchant"
+
+msgid "enchanting_mode_gem"
+msgstr "Gem enchant"
 
 msgid "enchanting_no_item_to_enchant"
 msgstr "Select item or drag to window."

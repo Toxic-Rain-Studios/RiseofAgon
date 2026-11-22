@@ -14860,6 +14860,48 @@ msgid "constraint_ymir_forge"
 msgstr ""
 "You can't do that inside Ymir's cube: its walls hold until the race ends."
 
+msgid "enchanting_direct_bag_none"
+msgstr "Nothing in %1 can take this enchant."
+
+msgid "enchanting_direct_done"
+msgstr "Enchanted %1 with %2."
+
+msgid "enchanting_direct_item_already"
+msgstr "%1 already has this enchant."
+
+msgid "enchanting_direct_item_busy"
+msgstr "%1 is in use and cannot be enchanted now."
+
+msgid "enchanting_direct_item_no_slot"
+msgstr "%1 has no free enchant slot."
+
+msgid "enchanting_direct_item_wrong_type"
+msgstr "This enchant does not go on %1."
+
+msgid "enchanting_direct_no_recipe"
+msgstr "These ingredients make no enchant."
+
+msgid "enchanting_direct_no_target"
+msgstr "Drop an item or a bag from your backpack on the enchant area first."
+
+msgid "enchanting_direct_skip_already"
+msgstr "%1 item(s) skipped: they already have this enchant."
+
+msgid "enchanting_direct_skip_busy"
+msgstr "%1 item(s) skipped: in use."
+
+msgid "enchanting_direct_skip_changed"
+msgstr "%1 item(s) skipped: they changed during the enchant."
+
+msgid "enchanting_direct_skip_no_slot"
+msgstr "%1 item(s) skipped: no free enchant slot."
+
+msgid "enchanting_direct_skip_not_covered"
+msgstr "%1 item(s) not enchanted: not enough materials or gold."
+
+msgid "enchanting_direct_skip_wrong_type"
+msgstr "%1 item(s) skipped: this enchant does not go on them."
+
 msgid "faction_war_reason_assist"
 msgstr "kill assist"
 
