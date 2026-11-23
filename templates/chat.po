@@ -15101,6 +15101,11 @@ msgstr "Your pilgrimage ends in death. You may set out again in a day."
 msgid "pilgrimage_end_stopped"
 msgstr "You abandon your pilgrimage. You may set out again in a day."
 
+msgid "pilgrimage_instance_queue_warning"
+msgstr ""
+"You are on a pilgrimage. Entering this instance will abandon it, and you may "
+"set out again in a day."
+
 msgid "pilgrimage_next_shrine"
 msgstr "Your prayer is heard. The next shrine is revealed: %1."
 
