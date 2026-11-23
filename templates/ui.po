@@ -18194,6 +18194,9 @@ msgstr " \n"
 msgid "party_accept"
 msgstr "Accept"
 
+msgid "party_away_member_kicked"
+msgstr "%1 was removed from your party while away. Their place is free again."
+
 msgid "party_commander_waypoint_bind_label"
 msgstr "Commander Waypoint"
 
@@ -18256,6 +18259,12 @@ msgstr "Tags"
 
 msgid "party_finder_title"
 msgstr "Party Finder"
+
+msgid "party_full_seats_held"
+msgstr ""
+"Your party has no free place: the rest are held for members who are away in "
+"Beneath the Roots. The party leader can free one by kicking an away member "
+"by name."
 
 msgid "party_kick"
 msgstr "Kick"
@@ -18332,6 +18341,9 @@ msgstr "Roll All"
 msgid "party_mastery_level_tooltip"
 msgstr "%1 - level %2"
 
+msgid "party_member_away"
+msgstr "(away)"
+
 msgid "party_member_count"
 msgstr "%1 / %2 Members"
 
@@ -18376,6 +18388,11 @@ msgstr "Tick the box and click Save to list"
 
 msgid "party_recruit_title"
 msgstr "Recruitment"
+
+msgid "party_rejoin_no_seat"
+msgstr ""
+"Your party did not keep your place while you were away, so you are no longer "
+"in it."
 
 msgid "party_requests_empty_body"
 msgstr "Applications to join your party appear here."
