@@ -1574,6 +1574,13 @@ msgstr "You can't drop items in a Beneath the Roots practice match."
 msgid "btr_drop_refused_unconfirmed"
 msgstr "You can't hand over items right now. Try again in a moment."
 
+msgid "btr_enter_refused_need_party"
+msgstr "Beneath the Roots needs a full party. Form a party first."
+
+msgid "btr_enter_refused_use_party_tree"
+msgstr ""
+"Your party is entering through another tree. Use the same tree as your party."
+
 msgid "btr_hud_title"
 msgstr "Beneath the Roots"
 
@@ -1664,6 +1671,9 @@ msgid "btr_queue_cancelled_no_host"
 msgstr ""
 "No arena can host the match right now. The Beneath the Roots queue was "
 "cancelled."
+
+msgid "btr_queue_cancelled_party_incomplete"
+msgstr "Your party did not fill its side in time. The queue was cancelled."
 
 msgid "btr_rating_command_help"
 msgstr "opens your Beneath the Roots rating and the ladder"
