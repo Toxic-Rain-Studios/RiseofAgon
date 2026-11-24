@@ -5151,6 +5151,16 @@ msgstr "Cosmetic unlocked."
 msgid "craft_prompt_window_title"
 msgstr "Select Crafting Skill"
 
+#. Crafting tasks board and quest tracker: button (board) and right-click menu entry (tracker) to abandon a held task.
+msgid "craft_tasks_abandon"
+msgstr "Abandon"
+
+#. Crafting tasks: Yes/No question before abandoning a held task. %1 = the task's title.
+msgid "craft_tasks_abandon_confirm"
+msgstr ""
+"Abandon the task \"%1\"? What you crafted for it no longer counts, and the "
+"task you took comes back so you can take another one."
+
 #. Crafting tasks board: heading over the tasks on offer. %1 = profession.
 msgid "craft_tasks_available"
 msgstr "%1 tasks on offer"
@@ -5162,6 +5172,459 @@ msgstr "Crafting Tasks"
 #. Crafting tasks board: tag on a task that pays extra skill (first time for that recipe).
 msgid "craft_tasks_bonus"
 msgstr "Bonus XP"
+
+msgid "craft_tasks_city_adianthel"
+msgstr "Adianthel"
+
+msgid "craft_tasks_city_aer_tithil"
+msgstr "Aer Tithil"
+
+msgid "craft_tasks_city_aerngardh"
+msgstr "Aerngardh"
+
+msgid "craft_tasks_city_akathos"
+msgstr "Akathos"
+
+msgid "craft_tasks_city_alberworth"
+msgstr "Alberworth"
+
+msgid "craft_tasks_city_aldan_enak"
+msgstr "Aldan Enak"
+
+msgid "craft_tasks_city_amurranyr"
+msgstr "Amurranyr"
+
+msgid "craft_tasks_city_andruk"
+msgstr "Andruk"
+
+msgid "craft_tasks_city_angfrost"
+msgstr "Angfrost"
+
+msgid "craft_tasks_city_anjir"
+msgstr "Anjir"
+
+msgid "craft_tasks_city_apautan"
+msgstr "Apautan"
+
+msgid "craft_tasks_city_aradoth"
+msgstr "Aradoth"
+
+msgid "craft_tasks_city_banagar"
+msgstr "Banagar"
+
+msgid "craft_tasks_city_bel_melek"
+msgstr "Bel Melek"
+
+msgid "craft_tasks_city_bladethorpe"
+msgstr "Bladethorpe"
+
+msgid "craft_tasks_city_bloodscar"
+msgstr "Bloodscar"
+
+msgid "craft_tasks_city_brockmoore"
+msgstr "Brockmoore"
+
+msgid "craft_tasks_city_calfardar"
+msgstr "Calfardar"
+
+msgid "craft_tasks_city_caxtla"
+msgstr "Caxtla"
+
+msgid "craft_tasks_city_charybdis"
+msgstr "Charybdis"
+
+msgid "craft_tasks_city_chilbourne"
+msgstr "Chilbourne"
+
+msgid "craft_tasks_city_chuharacua_bay"
+msgstr "Chuharacua Bay"
+
+msgid "craft_tasks_city_copperdale"
+msgstr "Copperdale"
+
+msgid "craft_tasks_city_crystal_coast"
+msgstr "Crystal Coast"
+
+msgid "craft_tasks_city_daemesh"
+msgstr "Daemesh"
+
+msgid "craft_tasks_city_dagnamyr"
+msgstr "Dagnamyr"
+
+msgid "craft_tasks_city_darkmoore"
+msgstr "Darkmoore"
+
+msgid "craft_tasks_city_dayar"
+msgstr "Dayar"
+
+msgid "craft_tasks_city_deep_yishku"
+msgstr "Deep Yishku"
+
+msgid "craft_tasks_city_dragrenoth"
+msgstr "Dragrenoth"
+
+msgid "craft_tasks_city_dulguna"
+msgstr "Dulguna"
+
+msgid "craft_tasks_city_dun_amsharra"
+msgstr "Dun Amsharra"
+
+msgid "craft_tasks_city_elharrat"
+msgstr "Elharrat"
+
+msgid "craft_tasks_city_elish"
+msgstr "Elish"
+
+msgid "craft_tasks_city_erinthel"
+msgstr "Erinthel"
+
+msgid "craft_tasks_city_eronetil"
+msgstr "Eronetil"
+
+msgid "craft_tasks_city_eslingar"
+msgstr "Eslingar"
+
+msgid "craft_tasks_city_espenhal"
+msgstr "Espenhal"
+
+msgid "craft_tasks_city_fire_run"
+msgstr "Fire Run"
+
+msgid "craft_tasks_city_flaming_skull"
+msgstr "Flaming Skull"
+
+msgid "craft_tasks_city_frost_coast"
+msgstr "Frost Coast"
+
+msgid "craft_tasks_city_frostbourne"
+msgstr "Frostbourne"
+
+msgid "craft_tasks_city_furghum"
+msgstr "Furghum"
+
+msgid "craft_tasks_city_ghanalaj"
+msgstr "Ghanalaj"
+
+msgid "craft_tasks_city_gulghat"
+msgstr "Gulghat"
+
+msgid "craft_tasks_city_gulgrumir"
+msgstr "Gulgrumir"
+
+msgid "craft_tasks_city_hal_kali"
+msgstr "Hal'Kali"
+
+msgid "craft_tasks_city_hammerdale"
+msgstr "Hammerdale"
+
+msgid "craft_tasks_city_heart_of_eanna"
+msgstr "Heart of Eanna"
+
+msgid "craft_tasks_city_heimdal"
+msgstr "Heimdal"
+
+msgid "craft_tasks_city_hildershall"
+msgstr "Hildershall"
+
+msgid "craft_tasks_city_hintenfau"
+msgstr "Hintenfau"
+
+msgid "craft_tasks_city_ichtan"
+msgstr "Ichtan"
+
+msgid "craft_tasks_city_idawoll"
+msgstr "Idawoll"
+
+msgid "craft_tasks_city_imathir"
+msgstr "Imathir"
+
+msgid "craft_tasks_city_inarith"
+msgstr "Inarith"
+
+msgid "craft_tasks_city_inmak"
+msgstr "Inmak"
+
+msgid "craft_tasks_city_inner_ormhold"
+msgstr "Inner Ormhold"
+
+msgid "craft_tasks_city_iriendir"
+msgstr "Iriendir"
+
+msgid "craft_tasks_city_issar_ruins"
+msgstr "Issar Ruins"
+
+msgid "craft_tasks_city_isturak"
+msgstr "Isturak"
+
+msgid "craft_tasks_city_izkand"
+msgstr "Izkand"
+
+msgid "craft_tasks_city_janhalek"
+msgstr "Janhalek"
+
+msgid "craft_tasks_city_jeradan"
+msgstr "Jeradan"
+
+msgid "craft_tasks_city_jhali"
+msgstr "Jhali"
+
+msgid "craft_tasks_city_kalthadar"
+msgstr "Kalthadar"
+
+msgid "craft_tasks_city_khanruk"
+msgstr "Khanruk"
+
+msgid "craft_tasks_city_kharhendak"
+msgstr "Kharhendak"
+
+msgid "craft_tasks_city_khayud"
+msgstr "Khayud"
+
+msgid "craft_tasks_city_kholesh"
+msgstr "Kholesh"
+
+msgid "craft_tasks_city_khosgar"
+msgstr "Khosgar"
+
+msgid "craft_tasks_city_krisathel"
+msgstr "Krisathel"
+
+msgid "craft_tasks_city_kryzerok"
+msgstr "Kryzerok"
+
+msgid "craft_tasks_city_kvitstein"
+msgstr "Kvitstein"
+
+msgid "craft_tasks_city_lesser_faukul"
+msgstr "Lesser Faukul"
+
+msgid "craft_tasks_city_long_march"
+msgstr "Long March"
+
+msgid "craft_tasks_city_loriedain"
+msgstr "Loriedain"
+
+msgid "craft_tasks_city_lost_untilik"
+msgstr "Lost Untilik"
+
+msgid "craft_tasks_city_lower_silvertown"
+msgstr "Lower Silvertown"
+
+msgid "craft_tasks_city_maghnir"
+msgstr "Maghnir"
+
+msgid "craft_tasks_city_mamengruk"
+msgstr "Mamengruk"
+
+msgid "craft_tasks_city_mar_shral"
+msgstr "Mar Shral"
+
+msgid "craft_tasks_city_marithain"
+msgstr "Marithain"
+
+msgid "craft_tasks_city_mathyra"
+msgstr "Mathyra"
+
+msgid "craft_tasks_city_mavengar"
+msgstr "Mavengar"
+
+msgid "craft_tasks_city_mehatil"
+msgstr "Mehatil"
+
+msgid "craft_tasks_city_mir_bellith"
+msgstr "Mir Bellith"
+
+msgid "craft_tasks_city_mirrorsea"
+msgstr "Mirrorsea"
+
+msgid "craft_tasks_city_moherah"
+msgstr "Moherah"
+
+msgid "craft_tasks_city_monkfield"
+msgstr "Monkfield"
+
+msgid "craft_tasks_city_moonclaw"
+msgstr "Moonclaw"
+
+msgid "craft_tasks_city_moradar"
+msgstr "Moradar"
+
+msgid "craft_tasks_city_naergur"
+msgstr "Naergur"
+
+msgid "craft_tasks_city_nerzok"
+msgstr "Nerzok"
+
+msgid "craft_tasks_city_niasha"
+msgstr "Niasha"
+
+msgid "craft_tasks_city_oethrain"
+msgstr "Oethrain"
+
+msgid "craft_tasks_city_ondmark"
+msgstr "Ondmark"
+
+msgid "craft_tasks_city_orthok"
+msgstr "Orthok"
+
+msgid "craft_tasks_city_ottenhal"
+msgstr "Ottenhal"
+
+msgid "craft_tasks_city_qiqatak"
+msgstr "Qiqatak"
+
+msgid "craft_tasks_city_quarendel"
+msgstr "Quarendel"
+
+msgid "craft_tasks_city_ramlaji"
+msgstr "Ramlaji"
+
+msgid "craft_tasks_city_red_moon"
+msgstr "Red Moon"
+
+msgid "craft_tasks_city_rehnagar"
+msgstr "Rehnagar"
+
+msgid "craft_tasks_city_ringfain"
+msgstr "Ringfain"
+
+msgid "craft_tasks_city_sandbrook"
+msgstr "Sandbrook"
+
+msgid "craft_tasks_city_sandstone"
+msgstr "Sandstone"
+
+msgid "craft_tasks_city_sanguine"
+msgstr "Sanguine"
+
+msgid "craft_tasks_city_sarthain"
+msgstr "Sarthain"
+
+msgid "craft_tasks_city_seelie"
+msgstr "Seelie"
+
+msgid "craft_tasks_city_serruk"
+msgstr "Serruk"
+
+msgid "craft_tasks_city_shargal"
+msgstr "Shargal"
+
+msgid "craft_tasks_city_shoal"
+msgstr "Shoal"
+
+msgid "craft_tasks_city_silmiyat"
+msgstr "Silmiyat"
+
+msgid "craft_tasks_city_simiran"
+msgstr "Simiran"
+
+msgid "craft_tasks_city_skaranibben"
+msgstr "Skaranibben"
+
+msgid "craft_tasks_city_skogul"
+msgstr "Skogul"
+
+msgid "craft_tasks_city_somerstone"
+msgstr "Somerstone"
+
+msgid "craft_tasks_city_sorgom"
+msgstr "Sorgom"
+
+msgid "craft_tasks_city_sorgom_holding"
+msgstr "Sorgom"
+
+msgid "craft_tasks_city_spear_waters"
+msgstr "Spear Waters"
+
+msgid "craft_tasks_city_spiderfang"
+msgstr "Spiderfang"
+
+msgid "craft_tasks_city_spiral_peak"
+msgstr "Spiral Peak"
+
+msgid "craft_tasks_city_stonehold"
+msgstr "Stonehold"
+
+msgid "craft_tasks_city_sunstone_island"
+msgstr "Sunstone Island"
+
+msgid "craft_tasks_city_sunthrone"
+msgstr "Sunthrone"
+
+msgid "craft_tasks_city_surtstone"
+msgstr "Surtstone"
+
+msgid "craft_tasks_city_svartfjord"
+msgstr "Svartfjord"
+
+msgid "craft_tasks_city_sweetwater"
+msgstr "Sweetwater"
+
+msgid "craft_tasks_city_talpec"
+msgstr "Talpec"
+
+msgid "craft_tasks_city_tenaland"
+msgstr "Tenaland"
+
+msgid "craft_tasks_city_thorsland"
+msgstr "Thorsland"
+
+msgid "craft_tasks_city_tiquiya"
+msgstr "Tiquiya"
+
+msgid "craft_tasks_city_tirghan"
+msgstr "Tirghan"
+
+msgid "craft_tasks_city_tolenque"
+msgstr "Tolenque"
+
+msgid "craft_tasks_city_tughri"
+msgstr "Tughri"
+
+msgid "craft_tasks_city_ul_hamra"
+msgstr "Ul'Hamra"
+
+msgid "craft_tasks_city_ul_sulak"
+msgstr "Ul'Sulak"
+
+msgid "craft_tasks_city_ul_turah"
+msgstr "Ul'Turah"
+
+msgid "craft_tasks_city_unelak"
+msgstr "Unelak"
+
+msgid "craft_tasks_city_uqtu"
+msgstr "Uqtu"
+
+msgid "craft_tasks_city_vellenyth"
+msgstr "Vellenyth"
+
+msgid "craft_tasks_city_velmuna"
+msgstr "Velmuna"
+
+msgid "craft_tasks_city_vranghorn"
+msgstr "Vranghorn"
+
+msgid "craft_tasks_city_western_tlaloc"
+msgstr "Western Tlaloc"
+
+msgid "craft_tasks_city_white_view"
+msgstr "White View"
+
+msgid "craft_tasks_city_whiteclaw"
+msgstr "Whiteclaw"
+
+msgid "craft_tasks_city_wolfdale"
+msgstr "Wolfdale"
+
+msgid "craft_tasks_city_ymennek"
+msgstr "Ymennek"
+
+msgid "craft_tasks_city_ymir_s_tear"
+msgstr "Ymir's Tear"
+
+msgid "craft_tasks_city_zaghuroth"
+msgstr "Zaghuroth"
 
 #. Crafting task: everything is crafted. %1 = NPC, %2 = city.
 msgid "craft_tasks_deliver_to"
@@ -5245,6 +5708,100 @@ msgstr ""
 "Pick a task, craft what it asks for, and deliver it to the named NPC in this "
 "city. Tasks are how your professions improve."
 
+#. Crafter's Board letter at a chaos city's board. %1 = the chaos city.
+msgid "craft_tasks_letter_chaos_city"
+msgstr ""
+"To every member of the Crafters' Union: the folk of %1 have sent us today's "
+"requests. No law keeps this place, but work is still work: take up those "
+"your craft allows and bring the goods to the one who asked."
+
+#. Crafter's Board: a profession's requests. %1 = requests that can still be taken today, %2 = all left this week (today's and those stacked from earlier days).
+msgid "craft_tasks_letter_counts"
+msgstr "%1 today, %2 this week"
+
+#. Crafter's Board letter at a clan or faction hamlet's board. %1 = the hamlet.
+msgid "craft_tasks_letter_hamlet"
+msgstr ""
+"To every member of the Crafters' Union: the hamlet of %1 has sent us today's "
+"requests. Take up those your craft allows, make what is asked, and bring it "
+"to the one who asked for it."
+
+#. Crafter's Board letter at a clan or faction city's board. %1 = the holding.
+msgid "craft_tasks_letter_holding_city"
+msgstr ""
+"To every member of the Crafters' Union: the clan city of %1 has sent us "
+"today's requests. Take up those your craft allows, make what is asked, and "
+"bring it to the one who asked for it."
+
+#. Crafter's Board letter: row that opens the orders map page.
+msgid "craft_tasks_letter_map_link"
+msgstr "Open crafting orders here: see the map"
+
+#. Crafter's Board letter at an NPC city's board. %1 = the city.
+msgid "craft_tasks_letter_npc_city"
+msgstr ""
+"To every member of the Crafters' Union: the city of %1 has sent us today's "
+"requests. Take up those your craft allows, make what is asked, and bring it "
+"to the one who asked for it."
+
+#. Crafter's Board letter: heading over one row per learned crafting profession (a click opens its page).
+msgid "craft_tasks_letter_professions"
+msgstr "Requests by profession"
+
+#. Crafter's Board letter: how requests stack. %1 = requests per profession per day, %2 = time left (e.g. 2d 5h).
+msgid "craft_tasks_letter_stacking"
+msgstr ""
+"Each profession gets %1 new requests a day. Those you do not take stay open "
+"until the weekly reset, Monday 10:00 UTC (in %2)."
+
+#. Crafter's Board letter: title. %1 = the board's city, hamlet or holding.
+msgid "craft_tasks_letter_title"
+msgstr "Crafters' Union of %1"
+
+#. Crafter's Board letter: title until the board's place is known (a moment after opening).
+msgid "craft_tasks_letter_title_unknown"
+msgstr "Crafters' Union"
+
+#. Crafter's Board orders map: open orders of one profession at a station. %1 = count, %2 = profession (3 Weaponsmithing).
+msgid "craft_tasks_map_count"
+msgstr "%1 %2"
+
+#. Crafter's Board orders map: label at the board.
+msgid "craft_tasks_map_here"
+msgstr "You are here"
+
+#. Crafter's Board orders map: hint under the map.
+msgid "craft_tasks_map_hint"
+msgstr "Point at a station for its orders, or click it to show them here."
+
+#. Crafter's Board orders map: a station's orders. %1 = station (Anvil), %2 = the counts per profession, comma separated.
+msgid "craft_tasks_map_line"
+msgstr "%1: %2"
+
+#. Crafter's Board orders map: shown until the map's data arrives.
+msgid "craft_tasks_map_loading"
+msgstr "Asking the crafting stations..."
+
+#. Crafter's Board orders map: no station of the place has open orders. %1 = the place.
+msgid "craft_tasks_map_none"
+msgstr "No open crafting orders in %1 right now."
+
+#. Crafter's Board orders map: a station whose type is not known (a house station).
+msgid "craft_tasks_map_station"
+msgstr "Station"
+
+#. Crafter's Board orders map: line under the map. %1 = open orders, %2 = stations with open orders.
+msgid "craft_tasks_map_summary"
+msgstr "%1 open orders at %2 stations."
+
+#. Crafter's Board orders map page: title. %1 = the board's place.
+msgid "craft_tasks_map_title"
+msgstr "Crafting orders in %1"
+
+#. Crafter's Board orders map page: title until the board's place is known.
+msgid "craft_tasks_map_title_unknown"
+msgstr "Crafting orders"
+
 #. Crafting task: the recipe it asks for is not researched yet. %1 = item.
 msgid "craft_tasks_needs_research"
 msgstr "Research the %1 recipe first."
@@ -5265,9 +5822,33 @@ msgstr "You hold no tasks for this profession."
 msgid "craft_tasks_none_left"
 msgstr "No tasks left to take. New tasks tomorrow."
 
+#. Crafting task: a clan holding's arcanist NPC, shown as the NPC to deliver to (%1 of craft_tasks_deliver_to and the chat lines).
+msgid "craft_tasks_npc_clan_arcanist"
+msgstr "the clan arcanist"
+
+#. Crafting task: a clan holding's blacksmith NPC, shown as the NPC to deliver to (%1 of craft_tasks_deliver_to and the chat lines).
+msgid "craft_tasks_npc_clan_blacksmith"
+msgstr "the clan blacksmith"
+
+#. Crafting task: a clan holding's fighter NPC, shown as the NPC to deliver to (%1 of craft_tasks_deliver_to and the chat lines).
+msgid "craft_tasks_npc_clan_fighter"
+msgstr "the clan fighter"
+
+#. Crafting task: a clan holding's mage NPC, shown as the NPC to deliver to (%1 of craft_tasks_deliver_to and the chat lines).
+msgid "craft_tasks_npc_clan_mage"
+msgstr "the clan mage"
+
+#. Crafting task: a clan holding's merchant NPC, shown as the NPC to deliver to (%1 of craft_tasks_deliver_to and the chat lines).
+msgid "craft_tasks_npc_clan_merchant"
+msgstr "the clan merchant"
+
 #. Crafting tasks board: tasks the character may still take. %1 today's, %2 stacked from earlier days this week.
 msgid "craft_tasks_openings"
 msgstr "Tasks you can take today: %1     Stacked from earlier days: %2"
+
+#. Crafter's Board: page indicator between the arrows. %1 = this page, %2 = pages.
+msgid "craft_tasks_page"
+msgstr "%1 / %2"
 
 #. Quest tracker: right of a crafting task's title once everything is crafted.
 msgid "craft_tasks_ready"
@@ -5461,6 +6042,10 @@ msgstr "Research"
 msgid "crafting_card_made_at"
 msgstr "Crafted at %1"
 
+#. The recipe book card: a recipe made with a carried crafting tool. %1 the tool (Tamer's Whistle).
+msgid "crafting_card_made_with"
+msgstr "Crafted with a %1"
+
 msgid "crafting_card_materials"
 msgstr "Materials to craft"
 
@@ -5616,6 +6201,10 @@ msgstr "Search recipes"
 
 msgid "crafting_status_made_at"
 msgstr "Made at %1"
+
+#. The crafting window: a recipe made with a carried crafting tool. %1 the tool (Tamer's Whistle).
+msgid "crafting_status_made_with"
+msgstr "Made with a %1"
 
 msgid "crafting_status_needs_level"
 msgstr "Needs level %1"

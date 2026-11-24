@@ -9031,6 +9031,10 @@ msgid "NOTIFICATION_CRAFTING_SKILL_GAINED_LESS_XP"
 msgstr ""
 "You are only receiving %2 of the max experience gain in %1 for crafting that."
 
+#. A held crafting task was abandoned; the opening it used comes back. Runtime parameters: %1 the task's first item, %2 how many it asked for.
+msgid "NOTIFICATION_CRAFT_TASK_ABANDONED"
+msgstr "Task abandoned (%1 x%2). You can take another task in its place."
+
 #. The skill is at the research ceiling. Runtime parameter: profession.
 msgid "NOTIFICATION_CRAFT_TASK_CEILING"
 msgstr ""
@@ -9040,6 +9044,12 @@ msgstr ""
 #. Tasks handed in. Runtime parameters: NPC, how many tasks.
 msgid "NOTIFICATION_CRAFT_TASK_DELIVERED"
 msgstr "%1 takes your delivery (%2 tasks). Thank you!"
+
+#. A clan holding's Crafter's Board refused the player: the holding's market and bank access rules (the owner clan's policy) do not let them in. Same wording as NOTIFICATION_CLAN_CITY_BANK_ACCESS_DENIED.
+msgid "NOTIFICATION_CRAFT_TASK_HOLDING_DENIED"
+msgstr ""
+"^Cred^Access Denied! ^Cwhite^The owners of this holding do not let you use "
+"its Crafter's Board."
 
 #. The offer clicked was dealt again (new day or another board). Runtime parameter: unused.
 msgid "NOTIFICATION_CRAFT_TASK_NONE"
@@ -9052,6 +9062,10 @@ msgstr "You need %2 %1 in your backpack to deliver this task."
 #. Visited a task NPC with unfinished tasks. Runtime parameters: NPC, how many unfinished.
 msgid "NOTIFICATION_CRAFT_TASK_NOT_CRAFTED"
 msgstr "%1 is still waiting on %2 unfinished tasks."
+
+#. Abandon refused: the player no longer holds that crafting task (delivered, wiped by the weekly reset, or not theirs).
+msgid "NOTIFICATION_CRAFT_TASK_NOT_HELD"
+msgstr "You no longer hold that crafting task."
 
 #. No openings left for the profession. Runtime parameter: profession.
 msgid "NOTIFICATION_CRAFT_TASK_NO_OPENINGS"
@@ -9076,6 +9090,12 @@ msgstr "The task also asks for %1 x%2."
 #. The Monday reset wiped undelivered crafting tasks. Runtime parameter: how many.
 msgid "NOTIFICATION_CRAFT_TASK_WIPED"
 msgstr "The weekly reset wiped %1 undelivered crafting tasks."
+
+#. A crafted task's items are carried but too worn: below 90% of their max durability before repairs. Runtime parameter: item (not shown).
+msgid "NOTIFICATION_CRAFT_TASK_WORN"
+msgstr ""
+"Too worn to deliver: a crafting task only takes items at 90% durability or "
+"more."
 
 msgid "NOTIFICATION_CREATE_PARTY_NOT_ALLOWED_AS_A_MONSTER"
 msgstr "^Cred^You can not create a party while you are playing as a monster."
