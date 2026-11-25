@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Darkfall Reforged\n"
-"PO-Revision-Date: 2026-11-23 15:55+0000\n"
+"PO-Revision-Date: 2026-11-25 20:41+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.riseofagon.com/projects/"
 "darkfall/chat/pt_BR/>\n"
@@ -7279,6 +7279,7 @@ msgstr "Você precisa da habilidade %2 para aprender a receita para %1."
 msgid "NOTIFICATION_RECIPE_CEILING_RAISED"
 msgstr "%1 agora pode ser treinado até %2."
 
+#, fuzzy
 msgid "NOTIFICATION_SKILL_RESEARCH_ONLY"
 msgstr "%1 apenas avança através da pesquisa."
 
