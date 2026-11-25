@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-23 15:55+0000\n"
+"PO-Revision-Date: 2026-11-25 20:41+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://weblate.riseofagon.com/projects/darkfall/"
 "chat/es/>\n"
@@ -7290,6 +7290,7 @@ msgstr "Necesitas la habilidad %2 para aprender la receta para %1."
 msgid "NOTIFICATION_RECIPE_CEILING_RAISED"
 msgstr "%1 ahora se puede entrenar hasta %2."
 
+#, fuzzy
 msgid "NOTIFICATION_SKILL_RESEARCH_ONLY"
 msgstr "%1 solo avanza por la investigación."
 
