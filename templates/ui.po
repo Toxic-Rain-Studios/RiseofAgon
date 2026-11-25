@@ -907,6 +907,24 @@ msgstr "Lawless players are attacked regardless of their Alignment."
 msgid "alignmentbar_tooltip"
 msgstr "%3: %1 of %2"
 
+msgid "altar_champion_devoted"
+msgstr "Most Devoted this month"
+
+msgid "altar_champion_favor"
+msgstr "Most %1 this month"
+
+msgid "altar_champion_none"
+msgstr "No one yet"
+
+msgid "altar_champion_score"
+msgstr "%1 this month"
+
+msgid "altar_champion_you"
+msgstr "You: #%1 with %2"
+
+msgid "altar_champion_you_none"
+msgstr "You are not on this board yet"
+
 msgid "altar_header"
 msgstr "Serving %1 as %2 - Devotion %3 - %4: %5"
 
@@ -8266,6 +8284,9 @@ msgstr "Players"
 
 msgid "false"
 msgstr "false"
+
+msgid "favor_board_title"
+msgstr "Favor"
 
 msgid "feature_not_implemented"
 msgstr "Sorry, this feature has not been implemented yet!"
@@ -19761,6 +19782,21 @@ msgstr "%1 has brought %2 relic to %3 shrine in %4."
 msgid "relic_capture_too_recent"
 msgstr "This relic was captured too recently to pay again."
 
+msgid "relic_card_captured"
+msgstr "Captured - held in %1 shrine"
+
+msgid "relic_card_carried"
+msgstr "Carried off by %1"
+
+msgid "relic_card_home"
+msgstr "Your god's relic is at home"
+
+msgid "relic_card_shrine_empty"
+msgstr "No captured relics here"
+
+msgid "relic_card_shrine_holds"
+msgstr "Captured relics held here"
+
 msgid "relic_context_at_shrine"
 msgstr "At %1 shrine - %2"
 
@@ -19981,6 +20017,11 @@ msgstr "Repair"
 
 msgid "repair_nothing_damaged"
 msgstr "Nothing needs repairing."
+
+msgid "repair_only_crafted"
+msgstr ""
+"Only crafted gear can be repaired. %1 was not crafted, so it cannot be "
+"repaired."
 
 msgid "repair_tip_rule_early"
 msgstr "Repair early to lose less."
@@ -20707,6 +20748,12 @@ msgstr "LV %1"
 
 msgid "skillcard_shared_cooldown"
 msgstr "Shared cooldown: %1"
+
+msgid "skillext_details_effects"
+msgstr "Effects"
+
+msgid "skillext_details_limitations"
+msgstr "Limitations"
 
 msgid "skillext_header"
 msgstr "Choose upgrade to apply to %1 - one upgrade per slot"
@@ -22712,6 +22759,19 @@ msgstr "Start"
 msgid "start_button"
 msgstr "Start"
 
+msgid "starting_weapons_description"
+msgstr ""
+"Starting weapons are yours for good: they never drop when you die and cannot "
+"be traded. They are weak on purpose, made for training your basic combat "
+"skills without risking real gear. You carry up to four, plus your Feeble "
+"Shield. Putting one in a slot costs the price shown beside it."
+
+msgid "starting_weapons_hint"
+msgstr "Select a weapon below, then click one of your slots to put it there."
+
+msgid "starting_weapons_yours"
+msgstr "Your starting weapons"
+
 msgid "stats_character_level"
 msgstr "Level %1 - %2 / %3 XP"
 
@@ -23249,6 +23309,137 @@ msgstr "Loadout"
 
 msgid "unbound"
 msgstr "(unbound)"
+
+msgid "vendor_can_afford"
+msgstr "You can afford this."
+
+msgid "vendor_cannot_afford"
+msgstr "You don't have enough gold."
+
+msgid "vendor_cannot_afford_favor"
+msgstr "You don't have enough %1."
+
+msgid "vendor_category_all"
+msgstr "All"
+
+msgid "vendor_currency_faction"
+msgstr "Faction Points"
+
+msgid "vendor_currency_slayer"
+msgstr "Slayer Points"
+
+msgid "vendor_details_cost"
+msgstr "Cost:"
+
+msgid "vendor_details_empty"
+msgstr "Select an item to see its details."
+
+msgid "vendor_header_gold"
+msgstr "Gold: %1"
+
+msgid "vendor_header_merchant"
+msgstr "Merchant"
+
+msgid "vendor_nav_services"
+msgstr "Services"
+
+msgid "vendor_nav_trade"
+msgstr "Trade"
+
+msgid "vendor_needs_faction_rank"
+msgstr "You need faction rank %1."
+
+msgid "vendor_needs_slayer_level"
+msgstr "You need Slayer level %1."
+
+msgid "vendor_quest_difficulty"
+msgstr "Difficulty:"
+
+msgid "vendor_quest_empty"
+msgstr "Select a quest to read about it and see its rewards."
+
+msgid "vendor_quest_filter_available"
+msgstr "Available (%1)"
+
+msgid "vendor_quest_filter_completed"
+msgstr "Completed (%1)"
+
+msgid "vendor_quest_filter_unavailable"
+msgstr "Unavailable (%1)"
+
+msgid "vendor_quest_length"
+msgstr "Length:"
+
+msgid "vendor_quest_none"
+msgstr "No quests for you here right now."
+
+msgid "vendor_quest_none_completed"
+msgstr "You have not completed any of this vendor's quests yet."
+
+msgid "vendor_quest_none_unavailable"
+msgstr "No other quests here."
+
+msgid "vendor_quest_objective"
+msgstr "Objective:"
+
+msgid "vendor_quest_reason_active"
+msgstr "This quest is already in your journal."
+
+msgid "vendor_quest_reason_alignment"
+msgstr "Your alignment does not allow this quest."
+
+msgid "vendor_quest_reason_completed"
+msgstr "You have completed this quest."
+
+msgid "vendor_quest_reason_earlier_quests"
+msgstr "Complete earlier quests first."
+
+msgid "vendor_quest_reason_glory"
+msgstr "You do not have enough glory for this quest yet."
+
+msgid "vendor_quest_reason_journal_full"
+msgstr "Your journal is full. Finish or abandon a quest first."
+
+msgid "vendor_quest_reason_not_yet"
+msgstr "This quest is not available again yet."
+
+msgid "vendor_quest_reason_requirements"
+msgstr "You do not meet this quest's requirements yet."
+
+msgid "vendor_quest_reason_skills"
+msgstr "You do not have the skills this quest requires yet."
+
+msgid "vendor_quest_reason_timed_active"
+msgstr "Finish your current timed quest first."
+
+msgid "vendor_quest_reason_training"
+msgstr "You have already taken a training quest."
+
+msgid "vendor_quest_rewards"
+msgstr "Rewards"
+
+msgid "vendor_sell_basket_empty"
+msgstr "Drag items from your inventory here to sell them."
+
+msgid "vendor_sell_empty"
+msgstr ""
+"Drag items from your bags onto the area on the left to see what they sell "
+"for."
+
+msgid "vendor_sell_items"
+msgstr "%1 items"
+
+msgid "vendor_sell_items_one"
+msgstr "1 item"
+
+msgid "vendor_sell_list"
+msgstr "To sell"
+
+msgid "vendor_starting_weapon_in_slot"
+msgstr "In a slot"
+
+msgid "vendor_training_all_known"
+msgstr "You already know everything this trainer teaches."
 
 msgid "vital_stats_dialog_alignment"
 msgstr "Alignment:"
