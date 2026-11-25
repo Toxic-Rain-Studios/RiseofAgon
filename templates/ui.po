@@ -5169,6 +5169,19 @@ msgstr "Cosmetic unlocked."
 msgid "craft_prompt_window_title"
 msgstr "Select Crafting Skill"
 
+msgid "craft_task_handin_title"
+msgstr "Crafters' Union: %1"
+
+msgid "craft_task_handin_title_bonus"
+msgstr "Crafters' Union: %1 (research bonus)"
+
+msgid "craft_task_reward_skill"
+msgstr "%1 skill"
+
+msgid "craft_task_taken_research"
+msgstr ""
+"This request needs the %1 recipe. Research it in your Crafting book first."
+
 #. Crafting tasks board and quest tracker: button (board) and right-click menu entry (tracker) to abandon a held task.
 msgid "craft_tasks_abandon"
 msgstr "Abandon"
@@ -5871,6 +5884,9 @@ msgstr "%1 / %2"
 #. Quest tracker: right of a crafting task's title once everything is crafted.
 msgid "craft_tasks_ready"
 msgstr "Ready"
+
+msgid "craft_tasks_research_tag"
+msgstr "Research first"
 
 #. Crafting tasks board: the weekly wipe. %1 = time left, e.g. 2d 5h.
 msgid "craft_tasks_reset"
@@ -7300,10 +7316,10 @@ msgid "enchanting_max_button"
 msgstr "Max"
 
 msgid "enchanting_mode_direct"
-msgstr "Weapon enchant"
+msgstr "Enchant Item"
 
 msgid "enchanting_mode_gem"
-msgstr "Gem enchant"
+msgstr "Enchant Gem"
 
 msgid "enchanting_no_item_to_enchant"
 msgstr "Select item or drag to window."
