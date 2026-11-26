@@ -5196,9 +5196,48 @@ msgstr ""
 msgid "craft_tasks_available"
 msgstr "%1 tasks on offer"
 
+msgid "craft_tasks_board_held"
+msgstr "Your requests"
+
+msgid "craft_tasks_board_no_orders"
+msgstr "No open crafting orders in %1."
+
+msgid "craft_tasks_board_no_orders_station"
+msgstr "No open crafting orders at this %1."
+
+msgid "craft_tasks_board_offers"
+msgstr "On offer"
+
+msgid "craft_tasks_board_order_name"
+msgstr "%1 orders"
+
+msgid "craft_tasks_board_order_qty"
+msgstr "x%1"
+
+msgid "craft_tasks_board_order_sub"
+msgstr "%1 · Rank %2"
+
+msgid "craft_tasks_board_order_tip"
+msgstr "Tip %1"
+
+msgid "craft_tasks_board_region"
+msgstr "Region: %1"
+
+msgid "craft_tasks_board_regional"
+msgstr "Regional Crafting Orders"
+
+msgid "craft_tasks_board_station"
+msgstr "Station: %1"
+
+msgid "craft_tasks_board_station_all"
+msgstr "Station: All stations"
+
 #. Crafting tasks board: window title.
 msgid "craft_tasks_board_title"
 msgstr "Crafting Tasks"
+
+msgid "craft_tasks_board_unlearned"
+msgstr "Learn %1 to take these requests."
 
 #. Crafting tasks board: tag on a task that pays extra skill (first time for that recipe).
 msgid "craft_tasks_bonus"
@@ -20048,11 +20087,23 @@ msgstr "Below %1% of its normal maximum it can't be repaired."
 msgid "repair_tip_rule_wear"
 msgstr "Each repair lowers the maximum by %1% of what it restores."
 
+msgid "research_band_all"
+msgstr "All"
+
+msgid "research_band_base"
+msgstr "1-100"
+
+msgid "research_band_mastery"
+msgstr "Mastery"
+
 msgid "research_ceiling_row"
 msgstr "%1: %2 / %3"
 
 msgid "research_drag_schematic_here_description"
 msgstr "Drag A Crafted Item Here To Research It"
+
+msgid "research_every_route_lead"
+msgstr "On every route: "
 
 msgid "research_help_step_cap"
 msgstr ""
@@ -20095,11 +20146,26 @@ msgstr "Item Tier: "
 msgid "research_item_tier_too_low"
 msgstr "Item tier is too low!"
 
+msgid "research_locked_level"
+msgstr "Locked: needs %1 %2."
+
+msgid "research_locked_no_way"
+msgstr "Locked: no way in is open to your race."
+
+msgid "research_locked_prereq"
+msgstr "Locked: research %1 first."
+
+msgid "research_locked_race"
+msgstr "Locked: %1 only."
+
 msgid "research_max_time"
 msgstr "Max Time: %1"
 
 msgid "research_maxed_out"
 msgstr "Maxed Out!"
+
+msgid "research_needs_lead"
+msgstr "Needs: "
 
 msgid "research_projected_level"
 msgstr "Projected Level: "
@@ -20112,6 +20178,9 @@ msgstr "Queue Count"
 
 msgid "research_queued_time"
 msgstr "Queued Time"
+
+msgid "research_recipe_tag"
+msgstr "(recipe)"
 
 msgid "research_refusal_already_100"
 msgstr "%1 is already level 100!"
@@ -20165,6 +20234,24 @@ msgstr "Research Supplies"
 
 msgid "research_time"
 msgstr "Time: "
+
+msgid "research_todo_every_way"
+msgstr "Needed on every way:"
+
+msgid "research_todo_recipe"
+msgstr "recipe needed"
+
+msgid "research_todo_title"
+msgstr "Prerequisites left: %1 items, %2 · Total: %3"
+
+msgid "research_todo_way"
+msgstr "%1 to go, %2"
+
+msgid "research_todo_way_open"
+msgstr "Open now"
+
+msgid "research_todo_ways"
+msgstr "Still to do: %1 ways in"
 
 #. Research book: a research's button that gives it up.
 msgid "research_tree_abandon"
@@ -20389,6 +20476,12 @@ msgstr "Research time"
 #. Research book: a research that has used what was donated.
 msgid "research_tree_waiting"
 msgstr "Paused: donate more materials to carry on."
+
+msgid "research_way_closed"
+msgstr "not open to you"
+
+msgid "research_way_race"
+msgstr "%1 only"
 
 msgid "right_arrow"
 msgstr "->"
