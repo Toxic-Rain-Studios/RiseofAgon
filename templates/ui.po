@@ -6179,6 +6179,24 @@ msgstr "Create"
 msgid "crafting_duration_label_text"
 msgstr "Create time:"
 
+msgid "crafting_enchant_gold"
+msgstr "Gold: %1"
+
+msgid "crafting_enchant_materials"
+msgstr "Materials"
+
+msgid "crafting_enchant_pick"
+msgstr "Pick an enchant to see what it needs."
+
+msgid "crafting_enchant_rare"
+msgstr "%1 (rare)"
+
+msgid "crafting_enchant_title"
+msgstr "Enchants"
+
+msgid "crafting_enchant_where"
+msgstr "Enchants are made at an enchanting station."
+
 msgid "crafting_error_requires_any_station"
 msgstr "You must be at a crafting station to create this."
 
@@ -6263,6 +6281,9 @@ msgstr "Recipes"
 msgid "crafting_page_research"
 msgstr "Research"
 
+msgid "crafting_page_tasks"
+msgstr "Tasks"
+
 msgid "crafting_professions_here"
 msgstr "Professions here"
 
@@ -6287,6 +6308,33 @@ msgstr "Made with a %1"
 
 msgid "crafting_status_needs_level"
 msgstr "Needs level %1"
+
+msgid "crafting_tasks_col_deliver"
+msgstr "Deliver to"
+
+msgid "crafting_tasks_col_reward"
+msgstr "Reward"
+
+msgid "crafting_tasks_col_task"
+msgstr "Task"
+
+msgid "crafting_tasks_crafting"
+msgstr "Crafting"
+
+msgid "crafting_tasks_mastery"
+msgstr "%1 Mastery"
+
+msgid "crafting_tasks_maxed"
+msgstr "Maxed"
+
+msgid "crafting_tasks_none"
+msgstr "You hold no crafting tasks. Take them at a Crafters' Union board."
+
+msgid "crafting_tasks_ready"
+msgstr "Ready to deliver"
+
+msgid "crafting_tasks_reward_bonus"
+msgstr "%1 (bonus)"
 
 msgid "crafting_window_title"
 msgstr "Crafting"
@@ -17602,6 +17650,9 @@ msgstr "Show tracked quests"
 msgid "options_gui_confirm_batch_trash"
 msgstr "Confirm Batch Moves into Bin"
 
+msgid "options_gui_confirm_craft_task_abandon"
+msgstr "Confirm abandoning crafting tasks"
+
 msgid "options_gui_confirm_disable_hit_protection"
 msgstr "Confirm Disable Hit Protection"
 
@@ -23527,8 +23578,29 @@ msgstr "This quest is already in your journal."
 msgid "vendor_quest_reason_alignment"
 msgstr "Your alignment does not allow this quest."
 
+msgid "vendor_quest_reason_chain"
+msgstr "Complete these quests first, in order:"
+
+msgid "vendor_quest_reason_chain_step"
+msgstr "%1. \"%2\""
+
+msgid "vendor_quest_reason_chain_step_npc"
+msgstr "%1. \"%2\" from %3"
+
+msgid "vendor_quest_reason_chain_step_npc_place"
+msgstr "%1. \"%2\" from %3 in %4"
+
 msgid "vendor_quest_reason_completed"
 msgstr "You have completed this quest."
+
+msgid "vendor_quest_reason_earlier_quest"
+msgstr "Complete \"%1\" first."
+
+msgid "vendor_quest_reason_earlier_quest_npc"
+msgstr "Complete \"%1\" first. %2 gives it."
+
+msgid "vendor_quest_reason_earlier_quest_npc_place"
+msgstr "Complete \"%1\" first. %2 in %3 gives it."
 
 msgid "vendor_quest_reason_earlier_quests"
 msgstr "Complete earlier quests first."
