@@ -11091,6 +11091,9 @@ msgstr "RegenerationRate"
 msgid "item_repair_count"
 msgstr "Repairs"
 
+msgid "item_repairs_left"
+msgstr "Repairs left: %1/%2"
+
 msgid "item_rune_name"
 msgstr "Rune Name"
 
@@ -20087,14 +20090,26 @@ msgstr ""
 "Only crafted gear can be repaired. %1 was not crafted, so it cannot be "
 "repaired."
 
+msgid "repair_tip_row_flat"
+msgstr "Its maximum drops by %1, to %2. Durability is restored to %2."
+
+msgid "repair_tip_row_left"
+msgstr "Repairs left after this: %1."
+
 msgid "repair_tip_rule_early"
 msgstr "Repair early to lose less."
 
 msgid "repair_tip_rule_floor"
 msgstr "Below %1% of its normal maximum it can't be repaired."
 
+msgid "repair_tip_rule_limit"
+msgstr "An item can be repaired %1 times."
+
 msgid "repair_tip_rule_wear"
 msgstr "Each repair lowers the maximum by %1% of what it restores."
+
+msgid "repair_tip_rule_wear_flat"
+msgstr "Each repair lowers the maximum by %1% of the item's original maximum."
 
 msgid "research_band_all"
 msgstr "All"
