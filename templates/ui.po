@@ -3369,6 +3369,12 @@ msgid "clan_kos_result_not_found"
 msgstr ""
 "No character by that first and last name was found - check the spelling."
 
+msgid "clan_news_filters_all"
+msgstr "All"
+
+msgid "clan_news_filters_none"
+msgstr "None"
+
 msgid "clan_political_relationship_standing_description_eight"
 msgstr "Can use all crafting stations and merchants."
 
@@ -11674,6 +11680,9 @@ msgstr "History"
 
 msgid "journal_quest_list_item_view_details_button"
 msgstr "View details"
+
+msgid "journal_quest_reward_character_xp"
+msgstr "Character XP: %1"
 
 msgid "journal_quest_reward_meditation_points"
 msgstr "Meditation points: %1"
@@ -23062,6 +23071,9 @@ msgstr "Possible Rare Rewards"
 
 msgid "task_repeatable"
 msgstr "[Repeatable]"
+
+msgid "task_reward_character_xp"
+msgstr "Character XP"
 
 msgid "task_rewards"
 msgstr "Rewards"
