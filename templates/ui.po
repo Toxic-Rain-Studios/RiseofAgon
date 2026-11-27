@@ -24219,12 +24219,6 @@ msgstr ""
 "The council gate to %1 has closed: our siege plan ended or our faction lost "
 "the gateway."
 
-msgid "war_council_gate_open_attack"
-msgstr "Council gate open in %1: it leads to the gateway of %2 for our siege."
-
-msgid "war_council_gate_open_defence"
-msgstr "Council gate open in %1: it leads to %2's stone - defend it!"
-
 msgid "war_council_gate_refuse_faction"
 msgstr "This council gate is not for your faction."
 
@@ -24664,6 +24658,21 @@ msgstr "voting"
 msgid "war_council_plog"
 msgstr "{when}: {what} {who} {reason}"
 
+msgid "war_council_portal_closed"
+msgstr "The council portal to %1 has closed."
+
+msgid "war_council_portal_gone"
+msgstr "That siege's portal has closed."
+
+msgid "war_council_portal_pick_attack"
+msgstr "Attack %1 (%2 min left)"
+
+msgid "war_council_portal_pick_defend"
+msgstr "Defend %1 (%2 min left)"
+
+msgid "war_council_portal_quiet"
+msgstr "The council portal is quiet: no siege of ours is under way."
+
 #. War Council: {office}, {name}
 msgid "war_council_prop_approved_by"
 msgstr "Approved by {office} {name}"
@@ -24739,16 +24748,17 @@ msgstr "You hold the {office} seat."
 
 msgid "war_council_siege_declared"
 msgstr ""
-"Siege on %1 declared: our council gate in %2 opens at preparation and leads "
-"to its gateway."
+"Siege on %1 declared: our council portal in %2 opens at preparation and "
+"leads to its gateway."
 
 msgid "war_council_siege_declared_no_gate"
 msgstr ""
-"Siege on %1 declared. We do not hold its gateway glyph, so no council gate "
+"Siege on %1 declared. We do not hold its gateway glyph, so no council portal "
 "opens for it until we take it."
 
 msgid "war_council_siege_defence_open"
-msgstr "%1 is under siege: the council gate to it opens at preparation in %2."
+msgstr ""
+"%1 is under siege: the council portal to it opens at preparation in %2."
 
 msgid "war_council_siege_gate_closed"
 msgstr "Our council gate is closed"

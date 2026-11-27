@@ -9021,6 +9021,19 @@ msgstr "The Village Control Point of %1 is now vulnerable."
 msgid "NOTIFICATION_CONTROL_POINT_VULNERABLE_SOON_GLOBAL"
 msgstr "The Village Control Point of %1 will be vulnerable in %2 minutes."
 
+#. Council Portals: %1 the holding we besiege, %2 our capital (where the council portal stands), %3 minutes until the fighting begins.
+msgid "NOTIFICATION_COUNCIL_PORTAL_OPEN_ATTACK"
+msgstr ""
+"Our siege on %1 begins in %3 minutes. The council portal in %2 is open."
+
+#. Council Portals: %1 our besieged holding, %2 our capital (where the council portal stands).
+msgid "NOTIFICATION_COUNCIL_PORTAL_OPEN_DEFENCE"
+msgstr "%1 is under siege! The council portal in %2 is open - defend it."
+
+#. Council Portals: %1 the besieged holding, %2 our capital (where the council portal stands).
+msgid "NOTIFICATION_COUNCIL_PORTAL_SIEGE_BEGUN"
+msgstr "The siege of %1 has begun. The council portal in %2 is open."
+
 msgid "NOTIFICATION_CRAFTING_SESSION_CLOSED_FOR_MARKET"
 msgstr "Your crafting session was closed to open the marketplace."
 
