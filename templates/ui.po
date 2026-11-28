@@ -5937,6 +5937,12 @@ msgstr "Research first"
 msgid "craft_tasks_reset"
 msgstr "Tasks not delivered are wiped on Monday at 10:00 UTC (in %1)."
 
+msgid "craft_tasks_status_tip_crafting"
+msgstr "Still to craft"
+
+msgid "craft_tasks_status_tip_ready"
+msgstr "Crafted - ready to deliver"
+
 #. Crafting tasks board: button on each offered task.
 msgid "craft_tasks_take"
 msgstr "Take"
@@ -11717,6 +11723,15 @@ msgstr "Are you sure you want to cancel this quest?"
 msgid "journal_quest_cancel_dialog_title"
 msgstr "Cancel quest?"
 
+msgid "journal_quest_cat_active"
+msgstr "Active (%1)"
+
+msgid "journal_quest_cat_completed"
+msgstr "Completed (%1)"
+
+msgid "journal_quest_chains"
+msgstr "Quest chains"
+
 msgid "journal_quest_factions_active"
 msgstr "Active quests"
 
@@ -11732,11 +11747,26 @@ msgstr "History"
 msgid "journal_quest_list_item_view_details_button"
 msgstr "View details"
 
+msgid "journal_quest_no_match"
+msgstr "No quest matches the search."
+
+msgid "journal_quest_none_active"
+msgstr "No active quests. Quest givers have a ! over their heads."
+
+msgid "journal_quest_none_completed"
+msgstr "No completed quests yet."
+
+msgid "journal_quest_pick"
+msgstr "Pick a quest to read about it."
+
 msgid "journal_quest_reward_character_xp"
 msgstr "Character XP: %1"
 
 msgid "journal_quest_reward_meditation_points"
 msgstr "Meditation points: %1"
+
+msgid "journal_quest_search"
+msgstr "Search quests"
 
 msgid "journal_quest_search_placeholder"
 msgstr "Search quests"
@@ -19787,6 +19817,84 @@ msgstr "Dungeon entrance"
 msgid "quarry_finder_dungeon_exit"
 msgstr "Dungeon exit"
 
+msgid "quest_details_abandon"
+msgstr "Abandon"
+
+msgid "quest_details_back"
+msgstr "Back"
+
+msgid "quest_details_dialogue"
+msgstr "Quest Dialogue"
+
+msgid "quest_details_dialogue_hide"
+msgstr "Hide dialogue"
+
+msgid "quest_details_dialogue_show"
+msgstr "Show dialogue"
+
+msgid "quest_details_given_by"
+msgstr "Given by %1"
+
+msgid "quest_details_history"
+msgstr "Your progress"
+
+msgid "quest_details_locate"
+msgstr "Show %1 on the map"
+
+msgid "quest_details_needs"
+msgstr "Needs: %1"
+
+msgid "quest_details_next_step"
+msgstr "Next step - %1"
+
+msgid "quest_details_objectives"
+msgstr "Objectives"
+
+msgid "quest_details_prerequisites"
+msgstr "Quest Prerequisites - %1/%2 Completed"
+
+msgid "quest_details_prerequisites_count"
+msgstr "%1/%2 Completed"
+
+msgid "quest_details_prerequisites_done"
+msgstr "All prerequisites completed."
+
+msgid "quest_details_prerequisites_done_other"
+msgstr "All prerequisite quests completed. Other requirements still apply."
+
+msgid "quest_details_prerequisites_title"
+msgstr "Prerequisites"
+
+msgid "quest_details_random_reward"
+msgstr "One of the rewards is chosen at random."
+
+msgid "quest_details_rewards_earned"
+msgstr "Rewards (earned)"
+
+msgid "quest_details_track_quest"
+msgstr "Track quest"
+
+msgid "quest_details_tracker_full"
+msgstr "Tracker full (4)"
+
+msgid "quest_details_unlocks"
+msgstr "Unlocks"
+
+msgid "quest_details_unlocks_on_completion"
+msgstr "Unlocks Upon Completion"
+
+msgid "quest_details_untrack_quest"
+msgstr "Stop tracking"
+
+msgid "quest_info_failed"
+msgstr "Quest information could not be loaded"
+
+msgid "quest_info_loading"
+msgstr "Loading..."
+
+msgid "quest_info_unavailable"
+msgstr "Quest information unavailable"
+
 msgid "quest_labels"
 msgstr "%1 - %2"
 
@@ -19802,11 +19910,104 @@ msgstr "Short"
 msgid "quest_length_very_long"
 msgstr "Very Long"
 
+msgid "quest_locate_giver"
+msgstr "Locate quest giver: %1"
+
+msgid "quest_locate_npc"
+msgstr "Locate %1"
+
+msgid "quest_locate_objective"
+msgstr "Locate objective: %1"
+
+msgid "quest_locate_spawns"
+msgstr "Show the nearest %1 spawn on the map"
+
+msgid "quest_locate_turnin"
+msgstr "Locate turn-in NPC: %1"
+
+msgid "quest_objective_area"
+msgstr "%1 (objective area)"
+
+msgid "quest_objective_deliver"
+msgstr "Deliver to %1"
+
+msgid "quest_objective_gather"
+msgstr "Gather %1"
+
+msgid "quest_objective_kill"
+msgstr "Kill %1"
+
+msgid "quest_objective_kill_players"
+msgstr "Kill %1 players"
+
+msgid "quest_objective_make"
+msgstr "Make %1"
+
+msgid "quest_objective_return"
+msgstr "Return to %1"
+
+msgid "quest_objective_talk"
+msgstr "Speak with %1"
+
+msgid "quest_objective_use"
+msgstr "Use on %1"
+
 msgid "quest_reward"
 msgstr "%1: %2"
 
 msgid "quest_rewards"
 msgstr "Rewards:"
+
+msgid "quest_state_active"
+msgstr "In progress"
+
+msgid "quest_state_available"
+msgstr "Available to accept"
+
+msgid "quest_state_available_elsewhere"
+msgstr "Available"
+
+msgid "quest_state_available_from"
+msgstr "Available: take it from %1"
+
+msgid "quest_state_completed"
+msgstr "Completed"
+
+msgid "quest_state_completed_repeatable"
+msgstr "Completed - can be repeated"
+
+msgid "quest_state_locked"
+msgstr "Locked"
+
+msgid "quest_state_ready"
+msgstr "Ready to turn in"
+
+msgid "quest_state_ready_to"
+msgstr "Ready to turn in: return to %1"
+
+msgid "quest_state_unknown"
+msgstr "Status unknown"
+
+msgid "quest_status_tip_available"
+msgstr "Available: you can take this quest now"
+
+msgid "quest_status_tip_completed"
+msgstr "Completed: you have finished this quest"
+
+msgid "quest_status_tip_in_progress"
+msgstr "In progress: you are on this quest"
+
+msgid "quest_status_tip_locked"
+msgstr "Locked: complete its prerequisites first"
+
+msgid "quest_status_tip_ready"
+msgstr "Ready to turn in: return to the quest giver to finish it"
+
+msgid "quest_status_tip_tracked"
+msgstr "Tracked: this quest chain is followed in your quest tracker"
+
+msgid "quest_status_tip_unknown"
+msgstr "Unknown: its status is still loading"
 
 msgid "quest_tracker_compact_off"
 msgstr "Compact Off"
@@ -19819,6 +20020,21 @@ msgstr "No active quests or tracked tasks."
 
 msgid "quest_tracker_location"
 msgstr "Go to %1"
+
+msgid "quest_tracker_menu_details"
+msgstr "Show details"
+
+msgid "quest_tracker_menu_down"
+msgstr "Move down"
+
+msgid "quest_tracker_menu_less"
+msgstr "Show less"
+
+msgid "quest_tracker_menu_more"
+msgstr "Show more"
+
+msgid "quest_tracker_menu_up"
+msgstr "Move up"
 
 msgid "quest_tracker_quests"
 msgstr "Quests"
@@ -23551,6 +23767,9 @@ msgstr "Difficulty:"
 msgid "vendor_quest_empty"
 msgstr "Select a quest to read about it and see its rewards."
 
+msgid "vendor_quest_filter_active"
+msgstr "Active (%1)"
+
 msgid "vendor_quest_filter_available"
 msgstr "Available (%1)"
 
@@ -23565,6 +23784,9 @@ msgstr "Length:"
 
 msgid "vendor_quest_none"
 msgstr "No quests for you here right now."
+
+msgid "vendor_quest_none_active"
+msgstr "None of this vendor's quests are in progress."
 
 msgid "vendor_quest_none_completed"
 msgstr "You have not completed any of this vendor's quests yet."
